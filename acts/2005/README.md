@@ -1,0 +1,1291 @@
+# 2005 Statutes
+
+## Statutes
+
+- [Kauppa\- ja teollisuusministeriön asetus kauppa\- ja teollisuusministeriön maksullisista suoritteista](1.md) `1/2005`
+- [Ulkoasiainministeriön ilmoitus Ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](2.md) `2/2005`
+- [Valtioneuvoston asetus rahapeliluvan maksullisuudesta ja maksujen suuruudesta](3.md) `3/2005`
+- [Valtioneuvoston asetus eräistä maaseudun kehittämiseen myönnettävistä lainoista annetun valtioneuvoston asetuksen muuttamisesta](4.md) `4/2005`
+- [Valtioneuvoston asetus asuntojen korjaus\- ja energia\-avustuksista](5.md) `5/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinsuojeluaineiden rinnakkaistuonnista](6.md) `6/2005`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä](7.md) `7/2005`
+- [Tasavallan presidentin asetus Azerbaidzhanin tasavallan kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](8.md) `8/2005`
+- [Tasavallan presidentin asetus maailman kulttuuri\- ja luonnonperinnön suojelemista koskevan yleissopimuksen voimaansaattamisesta annetun asetuksen 2 §:n muuttamisesta](9.md) `9/2005`
+- [Kauppa\- ja teollisuusministeriön asetus tiettyjen epoksijohdannaisten käytöstä elintarvikkeen kanssa kosketuksiin joutuvissa materiaaleissa ja tarvikkeissa annetun direktiivin 2002/16/EY muuttamisesta](10.md) `10/2005`
+- [Valtioneuvoston asetus vuodelta 2005 maksettavasta pohjoisesta tuesta](11.md) `11/2005`
+- [Valtioneuvoston asetus vuodelta 2005 maksettavasta Etelä\-Suomen kansallisesta tuesta](12.md) `12/2005`
+- [Valtioneuvoston asetus vuodelta 2005 maksettavasta perunantuotannon kansallisesta tuesta](13.md) `13/2005`
+- [Valtioneuvoston asetus mittatekniikan keskuksesta annetun asetuksen muuttamisesta](14.md) `14/2005`
+- [Valtioneuvoston asetus tiettyjen vaarallisten kemikaalien maastavientiä koskevasta ilmoituksesta](15.md) `15/2005`
+- [Maa\- ja metsätalousministeriön asetus satovahinkojen korvaamisessa käytettävistä yksikköhinnoista ja normisadoista vuonna 2004 annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](16.md) `16/2005`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2005 maa\- ja puutarhatalouden kansallisten tukien hakuajoista ja hakemisesta](17.md) `17/2005`
+- [Maa\- ja metsätalousministeriön asetus luonnonhaittakorvaukseen ja maatalouden ympäristötukeen varattujen määrärahojen kohdentamisesta vuoden 2005 haussa](18.md) `18/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2004 maitopalkkion ja sen lisäpalkkion maksatuksesta](19.md) `19/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2004 valkuaiskasvipalkkion maksatuksesta](20.md) `20/2005`
+- [Laki julkisista hankinnoista annetun lain muuttamisesta](21.md) `21/2005`
+- [Laki kosmeettisista valmisteista](22.md) `22/2005`
+- [Tasavallan presidentin asetus Euroopan yhteisöjen ja niiden jäsenvaltioiden sekä Kroatian tasavallan välillä tehdyn vakautus\- ja assosiaatiosopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](23.md) `23/2005`
+- [Valtioneuvoston asetus rajavartiolaitoksesta annetun valtioneuvoston asetuksen 18 §:n muuttamisesta](24.md) `24/2005`
+- [Valtioneuvoston asetus valtiontakauksesta perittävistä maksuista annetun asetuksen muuttamisesta](25.md) `25/2005`
+- [Valtioneuvoston asetus turvavarastointiohjelmasta vuonna 2005](26.md) `26/2005`
+- [Sisäasiainministeriön asetus maistraattien toimialueista annetun sisäasiainministeriön päätöksen 2 ja 3 §:n muuttamisesta](27.md) `27/2005`
+- [Laki saatavien perinnästä annetun lain muuttamisesta](28.md) `28/2005`
+- [Laki kuluttajansuojalain muuttamisesta](29.md) `29/2005`
+- [Laki vakuutussopimuslain muuttamisesta](30.md) `30/2005`
+- [Laki rajat ylittävästä kieltomenettelystä annetun lain 1 §:n muuttamisesta](31.md) `31/2005`
+- [Tasavallan presidentin asetus ihmisoikeuksien ja perusvapauksien suojaamiseksi tehdyn yleissopimuksen kolmannentoista pöytäkirjan voimaansaattamisesta sekä pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](32.md) `32/2005`
+- [Tasavallan presidentin asetus ihmisoikeuksien ja perusvapauksien suojaamiseksi tehdyn yleissopimuksen kahdennentoista pöytäkirjan voimaansaattamisesta sekä pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](33.md) `33/2005`
+- [Valtioneuvoston asetus ortodoksisesta kirkkokunnasta annetun asetuksen 54 §:n muuttamisesta](34.md) `34/2005`
+- [Sisäasiainministeriön asetus kriisinhallintaan osallistuvan siviilihenkilöstön palvelussuhteen ehdoista](35.md) `35/2005`
+- [Kauppa\- ja teollisuusministeriön asetus talous\- ja velkaneuvontapalvelujen tuottajalle vuonna 2005 maksettavan korvauksen perusteista](36.md) `36/2005`
+- [Sosiaali\- ja terveysministeriön asetus lääkäri\- ja hammaslääkärikoulutuksen sekä yliopistotasoisen terveystieteellisen tutkimustoiminnan korvauksen perusteista vuonna 2005](37.md) `37/2005`
+- [Maa\- ja metsätalousministeriön asetus rajaeläinlääkärin suoritteista perittävistä maksuista annetun maa\- ja metsätalousministeriön asetuksen liitteen muuttamisesta](38.md) `38/2005`
+- [Laki eräiden pitkäaikaisesti työttöminä olleiden henkilöiden eläketuesta](39.md) `39/2005`
+- [Laki tuloverolain muuttamisesta](40.md) `40/2005`
+- [Tasavallan presidentin asetus Egyptin arabitasavallan kanssa sijoitusten edistämisestä ja suojaamisesta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](41.md) `41/2005`
+- [Valtioneuvoston asetus aikuisten koulutustason kohottamiseen myönnettävästä valtionavustuksesta](42.md) `42/2005`
+- [Valtioneuvoston asetus vuonna 2005 kertyvien työnantajan sosiaaliturvamaksujen jakautumasta](43.md) `43/2005`
+- [Maa\- ja metsätalousministeriön asetus kasvihuonetuotannon tuesta vuonna 2005](44.md) `44/2005`
+- [Laki keskinäisestä oikeusavusta rikosasioissa Euroopan unionin jäsenvaltioiden välillä tehtyyn yleissopimukseen liitettävän pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](45.md) `45/2005`
+- [Laki radiolain muuttamisesta](46.md) `46/2005`
+- [Laki viestintämarkkinalain muuttamisesta](47.md) `47/2005`
+- [Valtioneuvoston asetus työntekijöiden suojelemisesta tärinästä aiheutuvilta vaaroilta](48.md) `48/2005`
+- [Laki toimeentulotuesta annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](49.md) `49/2005`
+- [Laki sosiaalihuoltolain muuttamisesta](50.md) `50/2005`
+- [Laki Liesjärven kansallispuiston laajentamisesta](51.md) `51/2005`
+- [Laki Helvetinjärven kansallispuiston laajentamisesta](52.md) `52/2005`
+- [Laki Seitsemisen kansallispuiston laajentamisesta](53.md) `53/2005`
+- [Laki vesihuoltolain 16 §:n muuttamisesta](54.md) `54/2005`
+- [Tasavallan presidentin asetus ilmastonmuutosta koskevan Yhdistyneiden Kansakuntien puitesopimuksen Kioton pöytäkirjan voimaansaattamisesta sekä pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](55.md) `55/2005`
+- [Verohallituksen päätös veroilmoituksesta](56.md) `56/2005`
+- [Laki maistraattien eräistä henkilörekistereistä](57.md) `57/2005`
+- [Laki avioliittolain muuttamisesta](58.md) `58/2005`
+- [Laki rekisteröidystä parisuhteesta annetun lain muuttamisesta](59.md) `59/2005`
+- [Laki lahjanlupauslain muuttamisesta](60.md) `60/2005`
+- [Laki holhoustoimesta annetun lain 64 §:n muuttamisesta](61.md) `61/2005`
+- [Valtioneuvoston asetus vuodelta 2004 maksettavasta perunantuotannon kansallisesta tuesta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](62.md) `62/2005`
+- [Valtioneuvoston asetus vuodelta 2004 maksettavasta ympäristötuen kansallisesta lisäosasta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](63.md) `63/2005`
+- [Valtioneuvoston asetus lasten ja nuorten psykiatriseen hoitoon ja kuntoutukseen vuonna 2005 maksettavan valtionavustuksen myöntämisperusteista](64.md) `64/2005`
+- [Valtioneuvoston asetus yleisistä ohjeista voimalaitosten ja kattilalaitosten hiukkaspäästöjen rajoittamiseksi annetun valtioneuvoston päätöksen 157/1987 kumoamisesta](65.md) `65/2005`
+- [Valtiovarainministeriön asetus listalleottoesitteestä annetun valtiovarainministeriön asetuksen muuttamisesta](66.md) `66/2005`
+- [Valtiovarainministeriön asetus tarjousesitteestä annetun valtiovarainministeriön asetuksen muuttamisesta](67.md) `67/2005`
+- [Laki poliisikoulutuksesta](68.md) `68/2005`
+- [Laki poliisin hallinnosta annetun lain muuttamisesta](69.md) `69/2005`
+- [Laki poliisilain 7 §:n muuttamisesta](70.md) `70/2005`
+- [Opetusministeriön asetus opetus\- ja kirjastotoimen perustamishankkeiden yksikköhinnoista annetun opetusministeriön päätöksen muuttamisesta](71.md) `71/2005`
+- [Maa\- ja metsätalousministeriön asetus suorien tukien täydentäviin ehtoihin liittyvistä hyvän maatalouden ja ympäristön vähimmäisvaatimuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](72.md) `72/2005`
+- [Valtiovarainministeriön asetus 60 rauhan vuotta \-juhlarahasta](73.md) `73/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinsuojeluaineiden myyntipäällyksiin tehtävistä merkinnöistä](74.md) `74/2005`
+- [Kauppa\- ja teollisuusministeriön asetus kosmeettisista valmisteista](75.md) `75/2005`
+- [Laki Pyhä\-Luoston kansallispuistosta](76.md) `76/2005`
+- [Laki eräiden luonnonsuojelualueiden perustamisesta valtionmaille annetun lain 1 §:n 1 momentin B\-kohdan ja 9 §:n kumoamisesta](77.md) `77/2005`
+- [Maa\- ja metsätalousministeriön asetus eräiden eläinten ja tavaroiden eläintautivaatimuksista Euroopan yhteisön sisämarkkinoilla annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](78.md) `78/2005`
+- [Kauppa\- ja teollisuusministeriön asetus sähköliiketoimintojen eriyttämisestä](79.md) `79/2005`
+- [Ympäristöministeriön asetus arava\- ja korkotukivuokra\-asuntojen hakemuslomakkeesta ja sen liitteistä](80.md) `80/2005`
+- [Valtioneuvoston asetus maaseudun kehittämisestä annetun valtioneuvoston asetuksen muuttamisesta](81.md) `81/2005`
+- [Valtioneuvoston asetus nurmi\- ja viljakasvien siementuotannon kansallisesta tuesta vuonna 2004 annetun valtioneuvoston asetuksen 8 §:n muuttamisesta](82.md) `82/2005`
+- [Valtioneuvoston asetus vuodelta 2005 maatalousyrittäjien opintorahana maksettavan tuen määrästä](83.md) `83/2005`
+- [Ympäristöministeriön asetus Metsähallituksen eräiden julkisten hallintotehtävien suoritteiden maksuista](84.md) `84/2005`
+- [Kauppa\- ja teollisuusministeriön asetus todentajain hyväksymismenettelystä ja todentamistehtävän suorittamisesta](85.md) `85/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2004 kansallisten pinta\-alaperusteisten tukien maksatuksesta](86.md) `86/2005`
+- [Tasavallan presidentin asetus televiestinnän voimavarojen antamista suuronnettomuuksien lievittämiseen ja pelastustoimiin koskevan yleissopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](87.md) `87/2005`
+- [Valtioneuvoston asetus eräille ulkomaalaisille vapaaehtoisille rintamasotilaille maksettavasta rintama\-avustuksesta](88.md) `88/2005`
+- [Sosiaali\- ja terveysministeriön asetus ajokorttiterveystodistuslomakkeista annetun asetuksen liitteen muuttamisesta](89.md) `89/2005`
+- [Sosiaali\- ja terveysministeriön asetus muuntogeenisten organismien tarkoitukselliseen levittämiseen liittyvästä eriytetystä menettelystä](90.md) `90/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta toimenpiteistä kasvintuhoojien hävittämiseksi ja niiden leviämisen estämiseksi annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](91.md) `91/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvituotteiden markkinoinnissa noudatettavista kasvinterveyden suojelun vaatimuksista annetun maa\- ja matsätalousministeriön asetuksen muuttamisesta](92.md) `92/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvituotteiden maahantuonnissa ja maastaviennissä noudatettavista kasvinterveyden suojelun vaatimuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](93.md) `93/2005`
+- [Tasavallan presidentin asetus Kroatian kanssa kansainvälisestä maantieliikenteestä tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](94.md) `94/2005`
+- [Tasavallan presidentin asetus monenvälisestä ydinalan ympäristöohjelmasta Venäjän federaatiossa tehdyn puitesopimuksen ja siihen liittyvän pöytäkirjan voimaansaattamisesta](95.md) `95/2005`
+- [Valtioneuvoston asetus etnisten suhteiden neuvottelukunnasta](96.md) `96/2005`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2005 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista](97.md) `97/2005`
+- [Valtioneuvoston asetus valtion rahoituksen perusteena käytettävistä opetus\- ja kirjastotoimen keskimääräisistä yksikköhinnoista vuonna 2005](98.md) `98/2005`
+- [Valtioneuvoston asetus valtion talousarviosta annetun asetuksen 71 a §:n muuttamisesta](99.md) `99/2005`
+- [Maa\- ja metsätalousministeriön asetus Kasvintuotannon tarkastuskeskuksen maksullisista suoritteista annetun maa\- ja metsä\-talousministeriön asetuksen muuttamisesta](100.md) `100/2005`
+- [Sosiaali\- ja terveysministeriön asetus kemikaaleja koskevien tietojen toimittamisesta annetun sosiaali\- ja terveysministeriön asetuksen liitteen 3 muuttamisesta](101.md) `101/2005`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2004 tulvavahinkokorvausten maksamisesta](102.md) `102/2005`
+- [Maa\- ja metsätalousministeriön asetus täysmaidon toimitusten viitemäärien siirtämisestä annetun maa\- ja metsätalousministeriön asetuksen 1 ja 15 §:n muuttamisesta](103.md) `103/2005`
+- [Liikenne\- ja viestintäministeriön asetus vaurioituneen ajoneuvon kunnostamisesta ja ajoneuvon kokoamisesta osista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](104.md) `104/2005`
+- [Valtiovarainministeriön asetus jäännösveron ja metsänhoitomaksun eräpäivistä vuodelta 2004](105.md) `105/2005`
+- [Valtiovarainministeriön asetus vuoden 2005 kiinteistöveron eräpäivistä](106.md) `106/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2004 kansallisen nurmikasvien hehtaariperusteisen siementuotannon tuen maksatuksesta](107.md) `107/2005`
+- [Valtioneuvoston asetus mielenterveysasetuksen 6 a §:n kumoamisesta](108.md) `108/2005`
+- [Sosiaali\- ja terveysministeriön asetus haitallisiksi tunnetuista pitoisuuksista](109.md) `109/2005`
+- [Sosiaali\- ja terveysministeriön asetus muuntogeenisten organismien tarkoituksellisesta levittämisestä](110.md) `110/2005`
+- [Valtioneuvoston asetus sairausvakuutuslain 5 luvun 9 §:n 4 momentissa tarkoitetusta ostokerrasta](111.md) `111/2005`
+- [Sosiaali\- ja terveysministeriön asetus elintarvikkeiden kuljetuslämpötiloista ja muista kuljetusoloista annetun sosiaali\- ja terveysministeriön asetuksen liitteen 1 muuttamisesta](112.md) `112/2005`
+- [Maa\- ja metsätalousministeriön asetus Suomen lipun alla purjehtivien tai Suomessa rekisteröityjen alusten harjoittaman silakan kalastuksen keskeyttämisestä](113.md) `113/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maaseutuelinkeinojen rahoituslain mukaisista enimmäistuloista](114.md) `114/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä poro\- ja luontaiselinkeinojen rahoituslain mukaisista ulkopuolisista enimmäistuloista](115.md) `115/2005`
+- [Kauppa\- ja teollisuusministeriön asetus elintarvikkeissa ja alkoholijuomissa käytettävistä muista lisäaineista kuin makeutusaineista ja väreistä](116.md) `116/2005`
+- [Kauppa\- ja teollisuusministeriön asetus elintarvikkeissa ja alkoholijuomissa käytettävistä makeutusaineista](117.md) `117/2005`
+- [Ulkoasiainministeriön asetus ulkoasiainministeriön työjärjestyksen muuttamisesta](118.md) `118/2005`
+- [Tasavallan presidentin asetus öljyn aiheuttamien pilaantumisvahinkojen kansainvälisen korvausrahaston perustamisesta vuonna 1992 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 2003 pöytäkirjan voimaansaattamisesta sekä pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja soveltamisesta annetun lain voimaantulosta](119.md) `119/2005`
+- [Valtioneuvoston asetus merilain 10 luvun 18 §:n muuttamisesta annetun lain voimaantulosta](120.md) `120/2005`
+- [Valtioneuvoston asetus vuodelta 2004 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 5 ja 20 §:n muuttamisesta](121.md) `121/2005`
+- [Valtioneuvoston asetus vuodelta 2004 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 10 §:n muuttamisesta](122.md) `122/2005`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta Norsunluurannikolle annettavan sotilaalliseen toimintaan liittyvän avun rajoittamisesta](123.md) `123/2005`
+- [Tasavallan presidentin asetus Kansainvälisen kauppatiedon ja \-yhteistyön järjestön perustamisesta hallitustenväliseksi järjestöksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](124.md) `124/2005`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun valtioneuvoston asetuksen väliaikaisesta muuttamisesta](125.md) `125/2005`
+- [Valtioneuvoston kanslian asetus valtioneuvoston kanslian työjärjestyksen väliaikaisesta muuttamisesta](126.md) `126/2005`
+- [Laki kuolleeksi julistamisesta](127.md) `127/2005`
+- [Laki säädettyjen määräaikain laskemisesta annetun lain 6 §:n muuttamisesta](128.md) `128/2005`
+- [Laki osakeyhtiölain 7 luvun 6 ja 8 §:n muuttamisesta](129.md) `129/2005`
+- [Valtioneuvoston asetus oikeusministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](130.md) `130/2005`
+- [Valtioneuvoston asetus sotainvalidien puolisoiden, leskien ja sotaleskien kuntoutustoiminnasta](131.md) `131/2005`
+- [Liikenne\- ja viestintäministeriön asetus taksitaksasta](132.md) `132/2005`
+- [Liikenne\- ja viestintäministeriön asetus taksien reittitaksasta](133.md) `133/2005`
+- [Maa\- ja metsätalousministeriön asetus maataloustuotteiden vientituki\- ja vakuus\- sekä tuonti\-, vienti\- ja ennakkovahvistustodistusjärjestelmän täytäntöönpanosta annetun maa\- ja metsätalousministeriön asetuksen 6 §:n muuttamisesta](134.md) `134/2005`
+- [Sosiaali\- ja terveysministeriön asetus työterveyshuollon erikoislääkärikoulutuksen kustannuksiin valtion varoista suoritettavan määrärahan kohdentamisesta ja määrärahan käyttämiseen liittyvien selvitysten antamisesta](135.md) `135/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuonna 2004 muille kuin puutarhatuotteille, korjatulle sadolle, puustolle ja maatalouden tuotantorakennuksille aiheutuneiden tulvavahinkojen korvausten maksatuksesta](136.md) `136/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2004 puutarhatuotteiden varastointituen maksatuksesta](137.md) `137/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2004 peltokasvien tuen \(CAP\-tuen\) non food \-kesantopalkkion maksatuksesta](138.md) `138/2005`
+- [Laki yhteistoiminnasta yrityksissä annetun lain muuttamisesta](139.md) `139/2005`
+- [Valtioneuvoston asetus viljan\- ja nurmisiementen kylvösiemenen varmuusvarastojen tilapäisestä käyttöönotosta](140.md) `140/2005`
+- [Kauppa\- ja teollisuusministeriön asetus elintarvikkeen kanssa kosketukseen joutuvista muovisista tarvikkeista](141.md) `141/2005`
+- [Sisäasiainministeriön asetus sisäasiainministeriön työjärjestyksen muuttamisesta](142.md) `142/2005`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](143.md) `143/2005`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden elintarvikkeen kanssa kosketukseen joutuvista tarvikkeista annettujen kauppa\- ja teollisuusministeriön päätösten kumoamisesta](144.md) `144/2005`
+- [Valtioneuvoston asetus väestötietoasetuksen muuttamisesta](145.md) `145/2005`
+- [Sosiaali\- ja terveysministeriön asetus lääkäri\- ja hammaslääkärikoulutuksen sekä yliopistotasoisen terveystieteellisen tutkimustoiminnan korvauksen perusteista vuonna 2005 annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](146.md) `146/2005`
+- [Työministeriön työjärjestys](147.md) `147/2005`
+- [Valtioneuvoston asetus vuodelta 2005 maksettavasta ympäristötuen kansallisesta lisäosasta](148.md) `148/2005`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2005 maa\- ja puutarhatalouden kansallisten tukien hallinnosta](149.md) `149/2005`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2005 maa\- ja puutarhatalouden kansallisten tukien hakuajoista ja hakemisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](150.md) `150/2005`
+- [Maa\- ja metsätalousministeriön asetus eläinpalkkioiden rehualan ilmoittamisesta, peltokasvien tuen, luonnonhaittakorvauksen, maatalouden ympäristötuen ja maatalouden ympäristötuen erityistukisopimusten hakemisesta vuonna 2005 sekä näitä sopimuksia koskevista sopimuskausista](151.md) `151/2005`
+- [Laki Euroopan radioviestintätoimiston \(ERO\) perustamista koskevan yleissopimuksen muuttamista koskevan asiakirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](152.md) `152/2005`
+- [Laki postipalvelulain 5 §:n muuttamisesta](153.md) `153/2005`
+- [Laki jalometallituotteista annetun lain muuttamisesta](154.md) `154/2005`
+- [Laki sairausvakuutuslain muuttamisesta](155.md) `155/2005`
+- [Tasavallan presidentin asetus tupakoinnin torjuntaa koskevan Maailman terveysjärjestön \(WHO\) puitesopimuksen voimaansaattamisesta ja puitesopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](156.md) `156/2005`
+- [Maa\- ja metsätalousministeriön asetus merialueen luonnonkalojen käytöstä viljeltyjen kalojen rehuna](157.md) `157/2005`
+- [Laki tiettyjen sellaisten tavanomaisten aseiden käytön kielloista tai rajoituksista, joiden voidaan katsoa aiheuttavan tarpeettoman vakavia vammoja tai olevan vaikutuksiltaan umpimähkäisiä, tehdyn yleissopimuksen viidennen pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](158.md) `158/2005`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä toimintapääomasta](159.md) `159/2005`
+- [Sisäasiainministeriön asetus rekisterihallinnon suoritteiden maksuista](160.md) `160/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](161.md) `161/2005`
+- [Vuosilomalaki](162.md) `162/2005`
+- [Laki lähetetyistä työntekijöistä annetun lain muuttamisesta](163.md) `163/2005`
+- [Laki työaikalain 23 §:n muuttamisesta](164.md) `164/2005`
+- [Laki sairausvakuutuslain 14 luvun 2 §:n muuttamisesta](165.md) `165/2005`
+- [Valtioneuvoston asetus valtakunnallisten eläinsuojelujärjestöjen valtionavustuksista](166.md) `166/2005`
+- [Laki kuntajakolain muuttamisesta](167.md) `167/2005`
+- [Tasavallan presidentin asetus Suomen tasavallan hallituksen ja Tansanian yhdistyneen tasavallan hallituksen välillä kehitysyhteistyön yleisistä ehdoista ja menettelytavoista tehdyn sopimuksen voimaansaattamisesta](168.md) `168/2005`
+- [Valtioneuvoston asetus avioliittoasetuksen muuttamisesta](169.md) `169/2005`
+- [Valtioneuvoston asetus rekisteröidystä parisuhteesta annetun asetuksen 6 §:n muuttamisesta](170.md) `170/2005`
+- [Valtioneuvoston asetus eläinsuojeluasetuksen muuttamisesta](171.md) `171/2005`
+- [Valtioneuvoston asetus aluksista aiheutuvan vesien pilaantumisen ehkäisemisestä annetun asetuksen 26 c ja 26 d §:n muuttamisesta](172.md) `172/2005`
+- [Maa\- ja metsätalousministeriön asetus tuottajalle maksettavista erikoistuista ja tulvavahinkokorvauksesta sekä näiden hakemisesta ja tuen tai korvauksen perusteena olevien pinta\- ja sopimusalojen ilmoittamisesta vuonna 2005](173.md) `173/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta energiakasvituen ehdoista vuonna 2005](174.md) `174/2005`
+- [Laki Euroopan ydinfysiikan tutkimusjärjestön erioikeuksista ja \-vapauksista tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](175.md) `175/2005`
+- [Valtioneuvoston asetus sisäasiainministeriöstä annetun asetuksen muuttamisesta](176.md) `176/2005`
+- [Oikeusministeriön työjärjestys](177.md) `177/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta tärkkelysperunan tuottajalle vuodelta 2004 suoritettavan maksun \(tasaustuen\) sekä vuoden 2004 kuitupellavan ja \-hampun jalostustuen ennakoiden maksatuksesta](178.md) `178/2005`
+- [Valtioneuvoston asetus eräiden entisen Neuvostoliiton alueelta peräisin olevien henkilöiden kielitutkinnon perusteista ja järjestämisestä](179.md) `179/2005`
+- [Valtioneuvoston asetus eräiden juomapakkausten palautusjärjestelmistä](180.md) `180/2005`
+- [Kauppa\- ja teollisuusministeriön asetus elintarvikkeen kanssa kosketukseen joutuvista muovisista tarvikkeista](181.md) `181/2005`
+- [Sisäasiainministeriön asetus hätäkeskuslaitoksen hätäkeskusten maksullisista suoritteista](182.md) `182/2005`
+- [Sisäasiainministeriön asetus sisäasiainministeriön työjärjestyksen muuttamisesta](183.md) `183/2005`
+- [Sosiaali\- ja terveysministeriön asetus geenitekniikkalain mukaisesta tarkastusmenettelystä](184.md) `184/2005`
+- [Maa\- ja metsätalousministeriön asetus ajoverkkojen käytön rajoittamisesta vuosina 2005–2007](185.md) `185/2005`
+- [Puolustusministeriön asetus rauhanturvaamishenkilöstön kelpoisuusehdoista ja palvelussuhteen ehdoista annetun puolustusministeriön asetuksen 3 §:n muuttamisesta](186.md) `186/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta juurikkaiden siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen väliaikaisesta muuttamisesta](187.md) `187/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta siemenperunan kaupasta annetun maa\- ja metsätalousministeriön asetuksen väliaikaisesta muuttamisesta](188.md) `188/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta härkäpavun kylvösiemenen sertifiointia koskevasta väliaikaisesta poikkeuksesta](189.md) `189/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta peltoherneen kylvösiemenen sertifiointia koskevasta väliaikaisesta poikkeuksesta](190.md) `190/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta öljypellavan kylvösiemenen sertifiointia koskevasta väliaikaisesta poikkeuksesta](191.md) `191/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 kasvihuonetuen ennakon maksatuksesta](192.md) `192/2005`
+- [Laki eduskunnan virkamiehistä annetun lain 14 ja 24 §:n muuttamisesta](193.md) `193/2005`
+- [Laki valtion eläkelain muuttamisesta](194.md) `194/2005`
+- [Laki valtion eläkerahastosta annetun lain 7 a §:n muuttamisesta](195.md) `195/2005`
+- [Laki taiteilijaprofessorin viroista ja valtion taiteilija\-apurahoista annetun lain 1 ja 3 §:n muuttamisesta](196.md) `196/2005`
+- [Veripalvelulaki](197.md) `197/2005`
+- [Tasavallan presidentin asetus Euroopan yhteisön ja sen jäsenvaltioiden sekä Chilen tasavallan välisen assosiaatiosopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](198.md) `198/2005`
+- [Valtioneuvoston asetus investointituen myöntämisestä korotettuna nuorille viljelijöille eräissä tapauksissa](199.md) `199/2005`
+- [Laki viranomaisten suunnitelmien ja ohjelmien ympäristövaikutusten arvioinnista](200.md) `200/2005`
+- [Laki ympäristövaikutusten arviointimenettelystä annetun lain 24 §:n muuttamisesta](201.md) `201/2005`
+- [Laki maankäyttö\- ja rakennuslain muuttamisesta](202.md) `202/2005`
+- [Laki strategisesta ympäristöarvioinnista tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](203.md) `203/2005`
+- [Valtioneuvoston asetus vuodelta 2004 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen muuttamisesta](204.md) `204/2005`
+- [Valtioneuvoston asetus vuodelta 2004 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 11 ja 13 §:n muuttamisesta](205.md) `205/2005`
+- [Valtioneuvoston asetus vuodelta 2005 maksettavasta luonnonhaittakorvauksen kansallisesta lisäosasta](206.md) `206/2005`
+- [Valtiovarainministeriön asetus yleisurheilun MM\-kisojen juhlarahoista](207.md) `207/2005`
+- [Ulkoasiainministeriön ilmoitus Ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](208.md) `208/2005`
+- [Valtioneuvoston asetus nurmi\- ja viljakasvien siementuotannon kansallisesta tuesta vuonna 2005](209.md) `209/2005`
+- [Valtioneuvoston asetus vuodelta 2005 maksettavasta mehiläistalouden kansallisesta pesäkohtaisesta tuesta](210.md) `210/2005`
+- [Valtioneuvoston asetus vuodelta 2004 maksettavasta emolehmien kansallisesta lisäpalkkiosta](211.md) `211/2005`
+- [Maa\- ja metsätalousministeriön asetus Euroopan talousalueeseen kuuluvien valtioiden kansalaisten toimimisesta eläinlääkärinä Suomessa annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen muuttamisesta](212.md) `212/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta peltokasvien tuen non food \-kesannon ehdoista vuonna 2005](213.md) `213/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuonna 2004 teurastetuista lihasioista, lihasiipikarjasta, hiehoista ja sonneista sekä vuonna 2004 siitokseen myydyistä nuorista sioista maksettavan kansallisen kotieläintuen maksatuksesta](214.md) `214/2005`
+- [Laki vaarallisten aineiden kuljetuksesta annetun lain muuttamisesta](215.md) `215/2005`
+- [Sosiaali\- ja terveysministeriön asetus sairausvakuutuslain 5 luvun 1 §:n 2 momentissa tarkoitettujen lääketieteellisin perustein välttämättömien, ilman lääkemääräystä myytävien lääkevalmisteiden korvaamisesta](216.md) `216/2005`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetuksia Burmaan/Myanmariin kohdistuvista rajoittavista toimenpiteistä](217.md) `217/2005`
+- [Valtioneuvoston asetus huumausainetestien tekemisestä](218.md) `218/2005`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain 11 §:n mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](219.md) `219/2005`
+- [Maa\- ja metsätalousministeriön asetus silakan ja kilohailin troolikalastuksen rajoittamisesta vuonna 2005](220.md) `220/2005`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](221.md) `221/2005`
+- [Kauppa\- ja teollisuusministeriön asetus maakaasuliiketoimintojen eriyttämisestä](222.md) `222/2005`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkekassan työntekijäin eläkelain 12 §:n mukaista vastuunjakoa varten laskettavista suureista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](223.md) `223/2005`
+- [Laki väestötietolain muuttamisesta](224.md) `224/2005`
+- [Valtioneuvoston asetus maistraattien eräistä henkilörekistereistä](225.md) `225/2005`
+- [Valtioneuvoston asetus sanomalehdistön tuesta annetun asetuksen muuttamisesta](226.md) `226/2005`
+- [Valtioneuvoston asetus luonnonhaittakorvauksesta ja maatalouden ympäristötuesta annetun valtioneuvoston asetuksen muuttamisesta](227.md) `227/2005`
+- [Valtioneuvoston asetus vuodelta 2005 maksettavasta luonnonhaittakorvauksen kansallisesta lisäosasta annetun valtioneuvoston asetuksen muuttamisesta](228.md) `228/2005`
+- [Maa\- ja metsätalousministeriön asetus luonnonhaittakorvaukseen ja maatalouden ympäristötukeen varattujen määrärahojen kohdentamisesta vuoden 2005 haussa annetun maa\- ja metsätalousministeriön asetuksen 2 §:n muuttamisesta](229.md) `229/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 kansallisen kotieläintuen ennakon maksatuksesta](230.md) `230/2005`
+- [Laki osuuspankeista ja muista osuuskuntamuotoisista luottolaitoksista annetun lain muuttamisesta](231.md) `231/2005`
+- [Laki naisten ja miesten välisestä tasa\-arvosta annetun lain muuttamisesta](232.md) `232/2005`
+- [Valtioneuvoston asetus sähkön alkuperän ilmoittamisesta](233.md) `233/2005`
+- [Liikenne\- ja viestintäministeriön asetus autojen ja perävaunujen rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen liitteen 1 muuttamisesta](234.md) `234/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta valtuutettujen tarkastajien palkkioiden perusteista](235.md) `235/2005`
+- [Laki alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvään vuoden 1978 pöytäkirjaan vuonna 1997 tehdyn muutospöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](236.md) `236/2005`
+- [Tasavallan presidentin asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvään vuoden 1978 pöytäkirjaan vuonna 1997 tehdyn muutospöytäkirjan voimaansaattamisesta ja muutospöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](237.md) `237/2005`
+- [Laki aluksista aiheutuvan vesien pilaantumisen ehkäisemisestä annetun lain muuttamisesta](238.md) `238/2005`
+- [Valtioneuvoston asetus aluksista aiheutuvan vesien pilaantumisen ehkäisemisestä annetun lain muuttamisesta annetun lain voimaantulosta](239.md) `239/2005`
+- [Tasavallan presidentin asetus palestiinalaishallinnon kanssa Helsingissä toimivan palestiinalaisedustuston tukemisesta tehdyn sopimuksen voimaansaattamisesta](240.md) `240/2005`
+- [Laki verkkotunnuslain muuttamisesta](241.md) `241/2005`
+- [Valtioneuvoston asetus vuoden 2004 satovahinkojen viljelmäkohtaisista korvausosuuksista](242.md) `242/2005`
+- [Valtioneuvoston asetus sosiaalivakuutuslautakunnasta](243.md) `243/2005`
+- [Valtioneuvoston asetus tarkastuslautakunnasta](244.md) `244/2005`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2005 maa\- ja puutarhatalouden kansallisten tukien hakuajoista ja hakemisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](245.md) `245/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta viranomaisen valvomasta näytteenotosta ja laboratoriotarkastuksesta kylvösiementuotannossa](246.md) `246/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2004 emolehmäpalkkion loppuosan, vuoden 2004 sonni\- ja härkäpalkkion loppuosan, vuoden 2004 laajaperäistämispalkkion, vuoden 2004 teurastuspalkkion ja lisätuen loppuosan sekä vuoden 2004 emolehmien kansallisen lisäpalkkion maksatuksesta](247.md) `247/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2004 energiakasvituen maksatuksesta](248.md) `248/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta lääkkeiden käytöstä, luovutuksesta ja määräämisestä eläinlääkinnässä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](249.md) `249/2005`
+- [Valtioneuvoston asetus  vaarallisten aineiden kuljetuksesta tiellä annetun valtioneuvoston asetuksen muuttamisesta](250.md) `250/2005`
+- [Valtioneuvoston asetus  vaarallisten aineiden kuljetuksesta ja tilapäisestä säilytyksestä satama\-alueella](251.md) `251/2005`
+- [Laki ympäristönsuojelulain muuttamisesta](252.md) `252/2005`
+- [Laki terveydensuojelulain 15 §:n muuttamisesta](253.md) `253/2005`
+- [Laki ympäristölupavirastoista annetun lain muuttamisesta](254.md) `254/2005`
+- [Valtioneuvoston asetus ajoneuvojen rekisteröinnistä annetun asetuksen muuttamisesta](255.md) `255/2005`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötoimitusmaksusta](256.md) `256/2005`
+- [Maa\- ja metsätalousministeriön asetus maanmittauslaitoksen maksuista](257.md) `257/2005`
+- [Valtioneuvoston asetus väestötietoasetuksen muuttamisesta](258.md) `258/2005`
+- [Valtioneuvoston asetus ympäristönsuojeluasetuksen muuttamisesta](259.md) `259/2005`
+- [Sosiaali\- ja terveysministeriön asetus Itä\-Suomen lääninhallituksen toimivallasta rakennerahastoasioissa](260.md) `260/2005`
+- [Maa\- ja metsätalousministeriön asetus eläimistä saatavien elintarvikkeiden valvonnasta ensisaapumispaikoissa annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](261.md) `261/2005`
+- [Sisäasiainministeriön asetus eräistä liikkumis\- ja oleskelukielloista](262.md) `262/2005`
+- [Liikenne\- ja viestintäministeriön työjärjestys](263.md) `263/2005`
+- [Tasavallan presidentin asetus Kansainvälisen rikostuomioistuimen erioikeuksista ja vapauksista tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](264.md) `264/2005`
+- [Tasavallan presidentin asetus palestiinalaishallinnon kanssa palestiinalaisalueiden maarekisterihankkeen asiantuntijapalveluista tehdyn sopimuksen voimaansaattamisesta](265.md) `265/2005`
+- [Valtioneuvoston asetus poliisin hallinnosta annetun asetuksen 16 a §:n muuttamisesta](266.md) `266/2005`
+- [Valtioneuvoston asetus poliisin hallinnosta annetun asetuksen muuttamisesta annetun valtioneuvoston asetuksen voimaantulosäännöksen muuttamisesta](267.md) `267/2005`
+- [Valtioneuvoston asetus poronhoitovuodelta 2005/2006 maksettavasta eläinkohtaisesta tuesta](268.md) `268/2005`
+- [Maa\- ja metsätalousministeriön asetus peltokasvien tukijärjestelmästä ja siihen liittyvästä kesannoinnista vuonna 2005](269.md) `269/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2004 viljelmäkohtaisten satovahinkokorvausten maksatuksesta](270.md) `270/2005`
+- [Laki Ranskan kanssa turvallisuusluokitellun tiedon vaihtamisesta ja vastavuoroisesta suojaamisesta tehdyn yleisen turvallisuussopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](271.md) `271/2005`
+- [Laki sosiaalihuollon ammatillisen henkilöstön kelpoisuusvaatimuksista](272.md) `272/2005`
+- [Tasavallan presidentin asetus valtiosta toiseen tapahtuvaa ilman epäpuhtauksien kaukokulkeutumista koskevaan vuoden 1979 yleissopimukseen liittyvän happamoitumisen, rehevöitymisen ja alailmakehän otsonin vähentämistä koskevan pöytäkirjan voimaansaattamisesta](273.md) `273/2005`
+- [Valtioneuvoston asetus lapsiasiavaltuutetusta](274.md) `274/2005`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta rautatiellä annetun valtioneuvoston asetuksen muuttamisesta](275.md) `275/2005`
+- [Valtioneuvoston asetus kehitysalueesta ja sen tukialueista](276.md) `276/2005`
+- [Valtioneuvoston asetus geenitekniikkalain mukaisten suoritteiden maksullisuudesta](277.md) `277/2005`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötietojärjestelmän suoritteista ja tietopalvelusta perittävistä maksuista](278.md) `278/2005`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötietojärjestelmän tulojen jakamisesta](279.md) `279/2005`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Parikkalan ja Kesälahden kuntien välillä](280.md) `280/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](281.md) `281/2005`
+- [Valtioneuvoston asetus poliisin hallinnosta annetun asetuksen muuttamisesta](282.md) `282/2005`
+- [Valtioneuvoston asetus poliisikoulutuksesta](283.md) `283/2005`
+- [Valtioneuvoston asetus lääninhallitusasetuksen 6 §:n muuttamisesta](284.md) `284/2005`
+- [Valtioneuvoston asetus sisäasiainministeriöstä annetun valtioneuvoston asetuksen 7 §:n muuttamisesta](285.md) `285/2005`
+- [Sisäasiainministeriön asetus poliisioppilaitosten opiskelijoiden opintososiaalisista eduista](286.md) `286/2005`
+- [Laki terrorismin vastustamista koskevaan eurooppalaiseen yleissopimukseen tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](287.md) `287/2005`
+- [Laki asuntosäästöpalkkiolain 5 §:n muuttamisesta](288.md) `288/2005`
+- [Laki omistusasuntolainojen valtiontakauksesta annetun lain muuttamisesta](289.md) `289/2005`
+- [Laki oman asunnon hankintaan myönnettävien lainojen korkotuesta annetun lain 6 §:n muuttamisesta](290.md) `290/2005`
+- [Laki vuokra\-asuntojen korkotukilainalla rahoitettujen asuntojen vapautumisesta käyttörajoituksista](291.md) `291/2005`
+- [Valtioneuvoston asetus aluksista aiheutuvan vesien pilaantumisen ehkäisemisestä annetun asetuksen muuttamisesta](292.md) `292/2005`
+- [Valtioneuvoston asetus alusten katsastuksesta annetun asetuksen 46 §:n muuttamisesta](293.md) `293/2005`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljettajien ajoluvasta annetun asetuksen muuttamisesta](294.md) `294/2005`
+- [Valtioneuvoston asetus vaarallisten aineiden maakuljetusten turvallisuusneuvonantajasta annetun valtioneuvoston asetuksen 3 §:n ja liitteen 1 muuttamisesta](295.md) `295/2005`
+- [Maa\- ja metsätalousministeriön asetus Kasvintuotannon tarkastuskeskuksen maksullisista suoritteista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](296.md) `296/2005`
+- [Laki arvopaperimarkkinalain muuttamisesta](297.md) `297/2005`
+- [Laki sijoitusrahastolain muuttamisesta](298.md) `298/2005`
+- [Laki Rahoitustarkastuksesta annetun lain muuttamisesta](299.md) `299/2005`
+- [Laki rikoslain muuttamisesta](300.md) `300/2005`
+- [Laki kaupankäynnistä vakioiduilla optioilla ja termiineillä annetun lain muuttamisesta](301.md) `301/2005`
+- [Laki sijoituspalveluyrityksistä annetun lain 48 §:n muuttamisesta](302.md) `302/2005`
+- [Laki luottolaitostoiminnasta annetun lain 94 §:n muuttamisesta](303.md) `303/2005`
+- [Laki arvo\-osuusjärjestelmästä annetun lain 13 §:n muuttamisesta](304.md) `304/2005`
+- [Laki maaseutuelinkeinorekisteristä annetun lain 2 ja 5 §:n muuttamisesta](305.md) `305/2005`
+- [Laki kasvinjalostajanoikeudesta annetun lain muuttamisesta](306.md) `306/2005`
+- [Tasavallan presidentin asetus Namibian tasavallan kanssa sijoitusten edistämisestä ja suojaamisesta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](307.md) `307/2005`
+- [Valtioneuvoston asetus keskinäisestä oikeusavusta rikosasioissa Euroopan unionin jäsenvaltioiden välillä tehtyyn yleissopimukseen liitettävän pöytäkirjan ja pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain soveltamisesta ennen pöytäkirjan kansainvälistä voimaantuloa](308.md) `308/2005`
+- [Liikenne\- ja viestintäministeriön asetus autojen ja perävaunujen rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen liitteen 1 muuttamisesta](309.md) `309/2005`
+- [Kauppa\- ja teollisuusministeriön asetus Patentti\- ja rekisterihallituksen maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön asetuksen liitteenä olevan maksutaulukon muuttamisesta](310.md) `310/2005`
+- [Maa\- ja metsätalousministeriön asetus eläinpalkkioiden rehualan ilmoittamisesta, peltokasvien tuen, luonnonhaittakorvauksen, maatalouden ympäristötuen ja maatalouden ympäristötuen erityistukisopimusten hakemisesta vuonna 2005 sekä näitä sopimuksia koskevista sopimuskausista annetun asetuksen muuttamisesta](311.md) `311/2005`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten aineiden kuljetuksesta tiellä annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](312.md) `312/2005`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten aineiden kuljetuksesta rautatiellä annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](313.md) `313/2005`
+- [Laki metsästyslain muuttamisesta](314.md) `314/2005`
+- [Valtioneuvoston asetus investointituesta ja kehittämistuesta maataloustuotteiden jalostukseen ja markkinointiin annetun valtioneuvoston asetuksen muuttamisesta](315.md) `315/2005`
+- [Sosiaali\- ja terveysministeriön asetus kliinisistä lääketutkimuksista](316.md) `316/2005`
+- [Maa\- ja metsätalousministeriön asetus turskan kalastuksen erityisluvasta, lajittelemattoman saaliin purkamisesta ja nimetyistä satamista](317.md) `317/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta rehun lisäaineista](318.md) `318/2005`
+- [Valtioneuvoston asetus vuodelta 2005 maksettavien kansallisten kasvintuotannon ja kotieläintukien valvonnasta](319.md) `319/2005`
+- [Maa\- ja metsätalousministeriön asetus peltokasvien tukijärjestelmän hallinnosta ja valvonnasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](320.md) `320/2005`
+- [Maa\- ja metsätalousministeriön asetus maatalouden ympäristötuen erityistuista annetun asetuksen muuttamisesta](321.md) `321/2005`
+- [Maa\- ja metsätalousministeriön asetus kylvösiementen yhteisen markkinajärjestelmän hallinnosta ja valvonnasta annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](322.md) `322/2005`
+- [Maa\- ja metsätalousministeriön asetus poronhoitovuodelta 2005/2006 maksettavan eläinkohtaisen tuen hakuajasta ja hakemisesta](323.md) `323/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta valvonnan tavoitteista ja yleisestä organisoinnista](324.md) `324/2005`
+- [Tasavallan presidentin asetus Suomen ulkomaanedustustojen sijaintipaikoista annetun tasavallan presidentin asetuksen muuttamisesta](325.md) `325/2005`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetukseen tarkoitettujen pakkausten ja säiliöiden vaatimustenmukaisuuden osoittamisesta annetun valtioneuvoston asetuksen muuttamisesta](326.md) `326/2005`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta annetun lain muuttamisesta annetun lain eräiden säännösten voimaantulosta](327.md) `327/2005`
+- [Maa\- ja metsätalousministeriön asetus ympäristötuen perus\- ja lisätoimenpiteistä sekä maatalouden ympäristötuen koulutukseen liittyvästä tuesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](328.md) `328/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta lihahygieniasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](329.md) `329/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta tuoreen rehukasvin säilöntäaineista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](330.md) `330/2005`
+- [Laki arvonlisäverolain muuttamisesta](331.md) `331/2005`
+- [Laki verohallintolain 11 §:n muuttamisesta](332.md) `332/2005`
+- [Laki keskinäisestä virka\-avusta verotuksen alalla Suomen ja muiden Euroopan unionin jäsenvaltioiden toimivaltaisten viranomaisten välillä annetun lain 1 §:n muuttamisesta](333.md) `333/2005`
+- [Laki tuloverolain 85 §:n muuttamisesta](334.md) `334/2005`
+- [Laki maatilatalouden tuloverolain 11 a §:n muuttamisesta](335.md) `335/2005`
+- [Maa\- ja metsätalousministeriön asetus luonnonmukaisesti tuotettujen maataloustuotteiden, elintarvikkeiden ja alkoholijuomien valvonnan järjestämisestä](336.md) `336/2005`
+- [Laki Jerseyn kanssa säästötulojen verottamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](337.md) `337/2005`
+- [Laki Guernseyn kanssa säästötulojen verottamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](338.md) `338/2005`
+- [Laki Mansaaren kanssa säästötulojen verottamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](339.md) `339/2005`
+- [Laki Alankomaiden kuningaskunnan kanssa Alankomaiden Antillien osalta automaattisesta tietojenvaihdosta säästöjen tuottamista korkotuloista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](340.md) `340/2005`
+- [Laki Alankomaiden kuningaskunnan kanssa Aruban osalta automaattisesta tietojenvaihdosta säästöjen tuottamista korkotuloista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](341.md) `341/2005`
+- [Laki Anguillan kanssa automaattisesta tietojenvaihdosta säästöjen tuottamista korkotuloista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](342.md) `342/2005`
+- [Laki Brittiläisten Neitsytsaarten kanssa säästötulojen verottamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](343.md) `343/2005`
+- [Laki Caymansaarten kanssa säästötulojen verottamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](344.md) `344/2005`
+- [Laki Montserratin kanssa säästötulojen verottamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](345.md) `345/2005`
+- [Laki Turks\- ja Caicossaarten kanssa säästötulojen verottamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](346.md) `346/2005`
+- [Valtioneuvoston asetus viranomaisten suunnitelmien ja ohjelmien ympäristövaikutusten arvioinnista](347.md) `347/2005`
+- [Valtioneuvoston asetus maankäyttö\- ja rakennusasetuksen muuttamisesta](348.md) `348/2005`
+- [Valtioneuvoston asetus valtion virkaehtosopimusasetuksen 10 §:n muuttamisesta](349.md) `349/2005`
+- [Valtioneuvoston asetus sisäasiainministeriöstä annetun asetuksen muuttamisesta](350.md) `350/2005`
+- [Sisäasiainministeriön työjärjestys](351.md) `351/2005`
+- [Sisäasiainministeriön asetus pysäköintivirhemaksusta](352.md) `352/2005`
+- [Laki ajoneuvojen katsastusluvista annetun lain 5 ja 10 §:n muuttamisesta](353.md) `353/2005`
+- [Liikenne\- ja viestintäministeriön asetus ajoneuvojen katsastushenkilöstön lisäkoulutuksesta annetun liikenneministeriön päätöksen muuttamisesta](354.md) `354/2005`
+- [Valtioneuvoston asetus työssä käytettävien koneiden ja muiden työvälineiden hankinnasta, turvallisesta käytöstä ja tarkastamisesta annetun valtioneuvoston päätöksen muuttamisesta](355.md) `355/2005`
+- [Valtioneuvoston asetus traktoreiden, niiden perävaunujen ja traktoreilla vedettävien vaihdettavissa olevien koneiden EY\-tyyppihyväksynnästä](356.md) `356/2005`
+- [Liikenne\- ja viestintäministeriön asetus traktorien, moottorityökoneiden ja maastoajoneuvojen, niiden perävaunujen sekä hinattavien laitteiden rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen 60 ja 64 §:n muuttamisesta](357.md) `357/2005`
+- [Puolustusministeriön asetus puolustusministeriön työjärjestyksen 11 §:n muuttamisesta](358.md) `358/2005`
+- [Ulkoasiainministeriön asetus ulkoasiainhallinnon suoritteiden maksuista](359.md) `359/2005`
+- [Laki alkolukolla valvotun ajo\-oikeuden kokeilemisesta](360.md) `360/2005`
+- [Laki tieliikennelain väliaikaisesta muuttamisesta](361.md) `361/2005`
+- [Laki maahanmuuttajien kotouttamisesta ja turvapaikanhakijoiden vastaanotosta annetun lain muuttamisesta](362.md) `362/2005`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten aineiden kuljetuksesta tiellä annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](363.md) `363/2005`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten aineiden kuljetuksesta rautatiellä annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](364.md) `364/2005`
+- [Valtioneuvoston asetus aina määräajaksi täytettävistä viroista annetun asetuksen muuttamisesta](365.md) `365/2005`
+- [Ympäristöministeriön työjärjestys](366.md) `366/2005`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](367.md) `367/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2003 kuitupellavan ja \-hampun jalostustuen maksatuksesta](368.md) `368/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta peltoalaperusteisten tukien valvonnasta](369.md) `369/2005`
+- [Laki julkishallinnon ja \-talouden tilintarkastajista annetun lain muuttamisesta](370.md) `370/2005`
+- [Laki valtion virkaehtosopimuslain muuttamisesta](371.md) `371/2005`
+- [Valtioneuvoston asetus maahanmuuttajien kotouttamisesta ja turvapaikanhakijoiden vastaanotosta annetun asetuksen 7 §:n kumoamisesta](372.md) `372/2005`
+- [Valtioneuvoston asetus pakolaisista ja eräistä muista maahanmuuttajista sekä turvapaikanhakijoiden vastaanoton järjestämisestä aiheutuvien kustannusten korvaamisesta annetun valtioneuvoston päätöksen 2 ja 13 §:n muuttamisesta](373.md) `373/2005`
+- [Maa\- ja metsätalousministeriön asetus Suomen lipun alla purjehtivien tai Suomessa rekisteröityjen alusten harjoittaman turskan kalastuksen keskeyttämisestä](374.md) `374/2005`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2005 metsänhoitomaksun perusteesta](375.md) `375/2005`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2005 maa\- ja puutarhatalouden kansallisten tukien hakuajoista ja hakemisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](376.md) `376/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta eläintukien valvonnasta](377.md) `377/2005`
+- [Laki oikeusgeneettisestä isyystutkimuksesta](378.md) `378/2005`
+- [Laki isyyslain muuttamisesta](379.md) `379/2005`
+- [Laki vakuutusyhtiölain 10 luvun muuttamisesta](380.md) `380/2005`
+- [Laki vakuutusyhdistyslain 10 luvun muuttamisesta](381.md) `381/2005`
+- [Laki eläkesäätiölain muuttamisesta](382.md) `382/2005`
+- [Laki vakuutuskassalain muuttamisesta](383.md) `383/2005`
+- [Laki maatalousyrittäjien eläkelain 17 §:n muuttamisesta](384.md) `384/2005`
+- [Laki merimieseläkelain 56 §:n muuttamisesta](385.md) `385/2005`
+- [Valtioneuvoston asetus sisäasiainhallinnon palvelukeskuksesta](386.md) `386/2005`
+- [Valtioneuvoston asetus valtion virkamiesasetuksen muuttamisesta](387.md) `387/2005`
+- [Valtioneuvoston asetus vuosien 2000 ja 2001 hyljevahinkojen täydentävästä korvaamisesta](388.md) `388/2005`
+- [Työministeriön asetus turvapaikanhakijoiden ja tilapäistä suojelua saavien ryhmäkodista, toimeentulotuen jakamisesta rahamääräisestä ja hyödykkeinä annettavaan osaan sekä majoituksesta perittävistä maksuista](389.md) `389/2005`
+- [Laki vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta](390.md) `390/2005`
+- [Laki kemikaalilain muuttamisesta](391.md) `391/2005`
+- [Laki rikoslain 44 luvun 11 ja 12 §:n muuttamisesta](392.md) `392/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta nurmi\- ja rehukasvien siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](393.md) `393/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta hedelmä\- ja marjakasvien taimiaineiston tuottamisesta ja markkinoimisesta annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](394.md) `394/2005`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun valtioneuvoston asetuksen muuttamisesta](395.md) `395/2005`
+- [Valtioneuvoston kanslian asetus valtioneuvoston kanslian työjärjestyksen muuttamisesta](396.md) `396/2005`
+- [Valtioneuvoston asetus asevelvollisuuslain soveltamisesta annetun asetuksen muuttamisesta](397.md) `397/2005`
+- [Valtioneuvoston asetus polttomoottoreiden pakokaasu\- ja hiukkaspäästöjen rajoittamisesta annetun valtioneuvoston asetuksen muuttamisesta](398.md) `398/2005`
+- [Liikenne\- ja viestintäministeriön asetus Merentutkimuslaitoksen maksullisista suoritteista](399.md) `399/2005`
+- [Verohallituksen päätös Kone Oyj:n ja Cargotec Oyj:n verottamisesta Konserniverokeskuksessa](400.md) `400/2005`
+- [Laki tieliikennelain muuttamisesta](401.md) `401/2005`
+- [Laki ajoneuvolain muuttamisesta](402.md) `402/2005`
+- [Laki ajoneuvoliikennerekisteristä annetun lain muuttamisesta](403.md) `403/2005`
+- [Tasavallan presidentin asetus Pohjoismaista kulttuurirahastoa koskevan sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](404.md) `404/2005`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta kappaletavarana aluksessa annetun asetuksen muuttamisesta](405.md) `405/2005`
+- [Valtioneuvoston päätös Rovaniemen kaupungin ja Rovaniemen maalaiskunnan lakkauttamisesta ja uuden Rovaniemen kunnan perustamisesta](406.md) `406/2005`
+- [Maa\- ja metsätalousministeriön asetus tuottajalle maksettavista erikoistuista ja tulvavahinkokorvauksesta sekä näiden hakemisesta ja tuen tai korvauksen perusteena olevien pinta\- ja sopimusalojen ilmoittamisesta vuonna 2005 annetun maa\- ja metsätalousministeriön asetuksen 8 §:n muuttamisesta](407.md) `407/2005`
+- [Laki opintotukilain muuttamisesta](408.md) `408/2005`
+- [Laki tuloverolain muuttamisesta](409.md) `409/2005`
+- [Laki verotusmenettelystä annetun lain 16 ja 65 §:n muuttamisesta](410.md) `410/2005`
+- [Laki ammattikorkeakoululain muuttamisesta](411.md) `411/2005`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 20 §:n muuttamisesta](412.md) `412/2005`
+- [Laki ammattikorkeakoululain muuttamisesta](413.md) `413/2005`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta tiettyihin henkilöihin ja yhteisöihin kohdistuvien rajoittavien erityistoimenpiteiden toteuttamisesta Norsunluurannikon tilanteen vuoksi](414.md) `414/2005`
+- [Valtioneuvoston asetus ajopiirturikorteista](415.md) `415/2005`
+- [Valtioneuvoston asetus ajoneuvojen käytöstä tiellä annetun asetuksen 7 ja 7 a §:n muuttamisesta](416.md) `416/2005`
+- [Valtioneuvoston asetus liikennetarvikkeiden kaupasta, asennuksesta ja korjauksesta annetun valtioneuvoston asetuksen muuttamisesta](417.md) `417/2005`
+- [Valtioneuvoston asetus valtion virkaehtosopimusasetuksen 9 §:n muuttamisesta](418.md) `418/2005`
+- [Valtioneuvoston asetus täydentäviin ehtoihin liittyvien tiettyjen lakisääteisten hoitovaatimusten valvonnasta](419.md) `419/2005`
+- [Valtioneuvoston asetus maaseutuelinkeinojen rahoituslain 17 §:n muuttamisesta annetun lain voimaantulosta](420.md) `420/2005`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2004 tulvavahinkokorvausten maksamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](421.md) `421/2005`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2004 maatalouden tulvavahinkokorvausten maksamisesta](422.md) `422/2005`
+- [Valtioneuvoston asetus ammattikorkeakouluista annetun valtioneuvoston asetuksen muuttamisesta](423.md) `423/2005`
+- [Valtioneuvoston asetus ammattikorkeakoulujen yhteishakujärjestelmästä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](424.md) `424/2005`
+- [Valtioneuvoston asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen 15 §:n muuttamisesta](425.md) `425/2005`
+- [Valtioneuvoston asetus korkeakoulututkintojen järjestelmästä annetun asetuksen muuttamisesta](426.md) `426/2005`
+- [Valtioneuvoston asetus maaseudun kehittämisestä annetun valtioneuvoston asetuksen muuttamisesta annetun valtioneuvoston asetuksen voimaantulosäännöksen muuttamisesta](427.md) `427/2005`
+- [Valtioneuvoston asetus maaseudun kehittämisestä annetun valtioneuvoston asetuksen muuttamisesta](428.md) `428/2005`
+- [Valtioneuvoston asetus vaarallisten aineiden ilmakuljetuksesta annetun asetuksen muuttamisesta](429.md) `429/2005`
+- [Valtioneuvoston asetus ajokorttiasetuksen väliaikaisesta muuttamisesta](430.md) `430/2005`
+- [Valtioneuvoston asetus alkolukolla valvotun ajo\-oikeuden kokeilemisesta](431.md) `431/2005`
+- [Maa\- ja metsätalousministeriön asetus metsäkaurissaaliin ilmoittamisesta](432.md) `432/2005`
+- [Liikenne\- ja viestintäministeriön asetus sairaankuljetuksen taksoista](433.md) `433/2005`
+- [Kauppa\- ja teollisuusministeriön asetus ydinenergian käytön valvontaan kuuluvista kauppa\- ja teollisuusministeriön maksullisista suoritteista](434.md) `434/2005`
+- [Kauppa\- ja teollisuusministeriön asetus ydinlaitosten ympäristövaikutusten arviointimenettelyyn kuuluvista kauppa\- ja teollisuusministeriön maksullisista suoritteista](435.md) `435/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuonna 2004 puutarhatuotteille, korjatulle sadolle, puustolle, maatalouden tuotantorakennuksille ja muille maatalouskohteille aiheutuneiden tulvavahinkojen korvausten maksatuksesta](436.md) `436/2005`
+- [Valtioneuvoston asetus maankäyttö\- ja rakennusasetuksen muuttamisesta](437.md) `437/2005`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden vieraiden aineiden näytteenotto\- ja määritysmenetelmistä annetun kauppa\- ja teollisuusministeriön asetuksen muuttamisesta](438.md) `438/2005`
+- [Sosiaali\- ja terveysministeriön asetus taiteilijoiden ja eräiden erityisryhmiin kuuluvien työntekijäin eläkelain 7 §:n 5 momentin mukaisista perusteista](439.md) `439/2005`
+- [Valtioneuvoston asetus metsästysasetuksen muuttamisesta](440.md) `440/2005`
+- [Maa\- ja metsätalousministeriön asetus maidon toimitusten viitemääristä](441.md) `441/2005`
+- [Maa\- ja metsätalousministeriön asetus banaanialan laatuvaatimusten valvonnasta](442.md) `442/2005`
+- [Maa\- ja metsätalousministeriön asetus tiettyjen kuivattujen viinirypälelajikkeiden kaupan pitämisen vähimmäisvaatimusten valvonnasta](443.md) `443/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta eräiden viinituotteiden saateasiakirjojen valvonnan järjestämisestä annetun maa\- ja metsätalousministeriön päätöksen kumoamisesta](444.md) `444/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta peltoalaperusteisten tukien valvonnasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](445.md) `445/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 kansallisen viljakasvien kiloperusteisen siementuotannon tuen maksatuksesta](446.md) `446/2005`
+- [Laki sähkön ja eräiden polttoaineiden valmisteverosta annetun lain muuttamisesta](447.md) `447/2005`
+- [Laki arvopaperimarkkinalain muuttamisesta](448.md) `448/2005`
+- [Laki Rahoitustarkastuksesta annetun lain 6 ja 15 §:n muuttamisesta](449.md) `449/2005`
+- [Laki velkakirjalain 34 §:n 4 momentin kumoamisesta](450.md) `450/2005`
+- [Laki korkotulon lähdeverosta annetun lain 3 §:n muuttamisesta](451.md) `451/2005`
+- [Valtiovarainministeriön asetus arvopaperimarkkinalain 2 luvussa tarkoitetusta esitteestä](452.md) `452/2005`
+- [Laki arvonlisäverolain muuttamisesta](453.md) `453/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinsuojeluaineissa sallituista tehoaineista ja niiden käytön ehdoista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](454.md) `454/2005`
+- [Laki eräiden pitkäaikaisesti työttöminä olleiden henkilöiden eläketuesta annetun lain 1 ja 21 §:n muuttamisesta](455.md) `455/2005`
+- [Laki työsopimuslain muuttamisesta](456.md) `456/2005`
+- [Laki yhteistoiminnasta yrityksissä annetun lain muuttamisesta](457.md) `457/2005`
+- [Laki julkisesta työvoimapalvelusta annetun lain muuttamisesta](458.md) `458/2005`
+- [Laki työttömyysturvalain muuttamisesta](459.md) `459/2005`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain muuttamisesta](460.md) `460/2005`
+- [Laki sairausvakuutuslain 11 luvun 6 §:n muuttamisesta](461.md) `461/2005`
+- [Valtioneuvoston asetus terveydenhuollon järjestämisestä puolustusvoimissa annetun asetuksen muuttamisesta](462.md) `462/2005`
+- [Vuoden 2005 lisätalousarvio](463.md) `463/2005`
+- [Laki Teollisen yhteistyön rahasto Oy \-nimisestä osakeyhtiöstä annetun lain muuttamisesta](464.md) `464/2005`
+- [Laki rikoslain 30 luvun 13 §:n muuttamisesta](465.md) `465/2005`
+- [Laki eräistä oikeudenkäynneistä valtion palveluksessa oleville aiheutuvien kustannusten korvaamisesta valtion varoista annetun lain 1 §:n muuttamisesta](466.md) `466/2005`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 17 §:n muuttamisesta](467.md) `467/2005`
+- [Laki maa\-aineslain muuttamisesta](468.md) `468/2005`
+- [Maa\- ja metsätalousministeriön asetus lammas\- ja vuohieläinten merkitsemisestä ja rekisteröinnistä](469.md) `469/2005`
+- [Maa\- ja metsätalousministeriön asetus Geodeettisen laitoksen suoritteista perittävistä maksuista](470.md) `470/2005`
+- [Laki etuostolain muuttamisesta](471.md) `471/2005`
+- [Valtioneuvoston asetus Jerseyn kanssa säästötulojen verottamisesta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](472.md) `472/2005`
+- [Valtioneuvoston asetus Guernseyn kanssa säästötulojen verottamisesta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](473.md) `473/2005`
+- [Valtioneuvoston asetus Mansaaren kanssa säästötulojen verottamisesta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](474.md) `474/2005`
+- [Valtioneuvoston asetus Alankomaiden kuningaskunnan kanssa Alankomaiden Antillien osalta automaattisesta tietojenvaihdosta säästöjen tuottamista korkotuloista tehdyn sopimuksen ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain soveltamisesta ennen sopimuksen kansainvälistä voimaantuloa](475.md) `475/2005`
+- [Valtioneuvoston asetus Alankomaiden kuningaskunnan kanssa Aruban osalta automaattisesta tietojenvaihdosta säästöjen tuottamista korkotuloista tehdyn sopimuksen ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain soveltamisesta ennen sopimuksen kansainvälistä voimaantuloa](476.md) `476/2005`
+- [Valtioneuvoston asetus Anguillan kanssa automaattisesta tietojenvaihdosta säästöjen tuottamista korkotuloista tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](477.md) `477/2005`
+- [Valtioneuvoston asetus Brittiläisten Neitsytsaarten kanssa säästötulojen verottamisesta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](478.md) `478/2005`
+- [Valtioneuvoston asetus Caymansaarten kanssa säästötulojen verottamisesta tehdyn sopimuksen ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain soveltamisesta ennen sopimuksen kansainvälistä voimaantuloa](479.md) `479/2005`
+- [Valtioneuvoston asetus Montserratin kanssa säästötulojen verottamisesta tehdyn sopimuksen ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain soveltamisesta ennen sopimuksen kansainvälistä voimaantuloa](480.md) `480/2005`
+- [Valtioneuvoston asetus Turks\- ja Caicossaarten kanssa säästötulojen verottamisesta tehdyn sopimuksen ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain soveltamisesta ennen sopimuksen kansainvälistä voimaantuloa](481.md) `481/2005`
+- [Valtioneuvoston asetus televisiomaksuista](482.md) `482/2005`
+- [Maa\- ja metsätalousministeriön asetus eläimistä saatavien elintarvikkeiden ja muiden tuotteiden eläinlääkinnällisistä rajatarkastuksista annetun asetuksen muuttamisesta](483.md) `483/2005`
+- [Valtioneuvoston asetus vaarallisten kemikaalien teollisesta käsittelystä ja varastoinnista annetun asetuksen muuttamisesta](484.md) `484/2005`
+- [Valtioneuvoston asetus räjähdeasetuksen muuttamisesta](485.md) `485/2005`
+- [Valtioneuvoston asetus räjähteiden vaatimustenmukaisuuden toteamisesta annetun asetuksen 3 §:n muuttamisesta](486.md) `486/2005`
+- [Valtioneuvoston asetus ammoniumnitraattiasetuksen kumoamisesta](487.md) `487/2005`
+- [Laki Euroopan unionin sotilasesikunnan ja unionin käyttöön mahdollisesti asetettujen esikuntien ja joukkojen sotilas\- ja siviilihenkilöiden asemasta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](488.md) `488/2005`
+- [Laki korvausvaatimuksista luopumisesta Euroopan unionin kriisinhallintaoperaatioiden yhteydessä tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](489.md) `489/2005`
+- [Laki Pohjois\-Atlantin sopimuksen sopimusvaltioiden ja muiden rauhankumppanuuteen osallistuvien valtioiden välillä niiden joukkojen asemasta tehdyn sopimuksen toisen lisäpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](490.md) `490/2005`
+- [Laki vahingonkorvausvastuusta ydinvoiman alalla Pariisissa 29 päivänä heinäkuuta 1960 tehtyä yleissopimusta muuttavan, Pariisissa 12 päivänä helmikuuta 2004 tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](491.md) `491/2005`
+- [Laki vahingonkorvausvastuusta ydinvoiman alalla Pariisissa 29 päivänä heinäkuuta 1960 tehtyä yleissopimusta täydentävää, Brysselissä 31 päivänä tammikuuta 1963 tehtyä lisäyleissopimusta muuttavan, Pariisissa 12 päivänä helmikuuta 2004 tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](492.md) `492/2005`
+- [Laki ydinvastuulain muuttamisesta](493.md) `493/2005`
+- [Valtioneuvoston asetus nikkeliä ja sen yhdisteitä sisältäviä tuotteita koskevista kielloista ja rajoituksista annetun valtioneuvoston päätöksen liitteen muuttamisesta](494.md) `494/2005`
+- [Laki viranomaisten toiminnan julkisuudesta annetun lain muuttamisesta](495.md) `495/2005`
+- [Laki kuntalain 50 §:n muuttamisesta](496.md) `496/2005`
+- [Valtioneuvoston asetus työttömyysturvalain täytäntöönpanosta annetun valtioneuvoston asetuksen muuttamisesta](497.md) `497/2005`
+- [Valtioneuvoston asetus työttömyysetuuden työvoimapoliittisista edellytyksistä annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](498.md) `498/2005`
+- [Kauppa\- ja teollisuusministeriön asetus kauppa\- ja teollisuusministeriön maksullisista suoritteista](499.md) `499/2005`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta tiettyjen Kongon demokraattista tasavaltaa koskevien rajoittavien toimenpiteiden käyttöönotosta ja asetuksen \(EY\) N:o 1727/2003 kumoamisesta](500.md) `500/2005`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä annetun päätöksen muuttamisesta](501.md) `501/2005`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskorosta](502.md) `502/2005`
+- [Maantielaki](503.md) `503/2005`
+- [Laki maankäyttö\- ja rakennuslain muuttamisesta](504.md) `504/2005`
+- [Laki kiinteistörekisterilain 2 §:n muuttamisesta](505.md) `505/2005`
+- [Laki luonnonsuojelulain 36 §:n muuttamisesta](506.md) `506/2005`
+- [Tasavallan presidentin asetus Ranskan kanssa turvallisuusluokitellun tiedon vaihtamisesta ja vastavuoroisesta suojaamisesta tehdyn yleisen turvallisuussopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](507.md) `507/2005`
+- [Valtioneuvoston asetus opintotukiasetuksen muuttamisesta](508.md) `508/2005`
+- [Sosiaali\- ja terveysministeriön asetus vaarallisten aineiden luettelosta](509.md) `509/2005`
+- [Laki Koulutusrahastosta annetun lain muuttamisesta](510.md) `510/2005`
+- [Laki eräiden vuokratalolainojen lainaehtojen ilmoitusperusteisesta muuttamisesta](511.md) `511/2005`
+- [Valtioneuvoston asetus koron alentamisesta vuokratalolainojen lainaehtojen ilmoitusperusteisen muuttamisen yhteydessä](512.md) `512/2005`
+- [Opetusministeriön asetus ammatillisista perustutkinnoista annetun opetusministeriön asetuksen liitteen muuttamisesta](513.md) `513/2005`
+- [Valtioneuvoston päätös kuntajaon muuttamisesta Kortesjärven kunnan ja Kauhavan kaupungin välillä](514.md) `514/2005`
+- [Valtioneuvoston päätös kuntajaon muuttamisesta Kortesjärven kunnan ja Kauhavan kaupungin välillä](515.md) `515/2005`
+- [Valtioneuvoston päätös kuntajaon muuttamisesta Toholammin kunnan ja Kannuksen kaupungin välillä](516.md) `516/2005`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden vieraiden aineiden enimmäismääristä elintarvikkeessa annetun kauppa\- ja teollisuusministeriön asetuksen muuttamisesta](517.md) `517/2005`
+- [Maa\- ja metsätalousministeriön asetus ampumakokeesta](518.md) `518/2005`
+- [Liikenne\- ja viestintäministeriön asetus joukkoliikenteen valtionavustuksista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](519.md) `519/2005`
+- [Verohallituksen päätös Almanova Oyj:n verottamisesta Konserniverokeskuksessa](520.md) `520/2005`
+- [Verohallituksen päätös If IT Services A/S, Suomen sivuliikkeen verottamisesta Konserniverokeskuksessa](521.md) `521/2005`
+- [Laki puolustusvoimien virka\-avusta poliisille annetun lain muuttamisesta](522.md) `522/2005`
+- [Laki poliisilain 27 §:n muuttamisesta](523.md) `523/2005`
+- [Laki puolustusvoimista annetun lain 2 §:n muuttamisesta](524.md) `524/2005`
+- [Laki poliisilain muuttamisesta](525.md) `525/2005`
+- [Laki oikeudenkäynnin julkisuudesta annetun lain 2 ja 5 a §:n muuttamisesta](526.md) `526/2005`
+- [Laki tieliikennelain 48 §:n muuttamisesta](527.md) `527/2005`
+- [Laki tuloverolain muuttamisesta](528.md) `528/2005`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain muuttamisesta](529.md) `529/2005`
+- [Laki keskinäisestä oikeusavusta rikosasioissa Euroopan unionin jäsenvaltioiden välillä tehdyn yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja yleissopimuksen soveltamisesta annetun lain 3 §:n muuttamisesta](530.md) `530/2005`
+- [Laki tullihallintojen keskinäisestä avunannosta ja yhteistyöstä tehdyn yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain 2 §:n muuttamisesta](531.md) `531/2005`
+- [Tasavallan presidentin asetus Afrikan, Karibian ja Tyynenmeren valtioiden ryhmän jäsenten sekä Euroopan yhteisön ja sen jäsenvaltioiden välisen kumppanuussopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](532.md) `532/2005`
+- [Valtioneuvoston asetus ajokorttiasetuksen 19 ja 26 §:n muuttamisesta annetun valtioneuvoston asetuksen voimaantulosäännöksen muuttamisesta](533.md) `533/2005`
+- [Laki tieliikennettä koskevan yleissopimuksen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](534.md) `534/2005`
+- [Laki liikennemerkkejä ja \-opasteita koskevan yleissopimuksen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](535.md) `535/2005`
+- [Laki tieliikennettä koskevaa yleissopimusta täydentävän eurooppalaisen sopimuksen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](536.md) `536/2005`
+- [Tasavallan presidentin asetus Afrikan, Karibian ja Tyynenmeren valtioiden ryhmän jäsenten sekä Euroopan yhteisön ja sen jäsenvaltioiden välisen kumppanuussopimuksen muuttamisesta tehdyn sopimuksen väliaikaisesta soveltamisesta](537.md) `537/2005`
+- [Valtiovarainministeriön asetus eräistä arvopaperimarkkinalain 2 luvun 3 a §:ssä tarkoitetuista esitteistä](538.md) `538/2005`
+- [Sisäasiainministeriön asetus nuohouksesta](539.md) `539/2005`
+- [Laki omaisuuden tai todistusaineiston jäädyttämistä koskevien päätösten täytäntöönpanosta Euroopan unionissa](540.md) `540/2005`
+- [Laki pakkokeinolain muuttamisesta](541.md) `541/2005`
+- [Laki kansainvälisestä yhteistoiminnasta eräiden rikosoikeudellisten seuraamusten täytäntöönpanossa annetun lain 13 §:n muuttamisesta](542.md) `542/2005`
+- [Laki Suomen ja muiden pohjoismaiden välisestä yhteistoiminnasta rikosasioissa annettujen tuomioiden täytäntöönpanossa annetun lain 24 ja 27 §:n muuttamisesta](543.md) `543/2005`
+- [Laki ulkomaanliikenteen kauppa\-alusluettelosta annetun lain muuttamisesta](544.md) `544/2005`
+- [Tasavallan presidentin asetus Kiinan kansantasavallan kanssa taloudellisesta, teollisesta ja teknisestä yhteistyöstä tehdyn sopimuksen voimaansaattamisesta](545.md) `545/2005`
+- [Tasavallan presidentin asetus Pohjois\-Atlantin sopimuksen sopimusvaltioiden ja muiden rauhankumppanuuteen osallistuvien valtioiden välillä niiden joukkojen asemasta tehdyn sopimuksen toisen lisäpöytäkirjan voimaansaattamisesta ja lisäpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](546.md) `546/2005`
+- [Laki kadun ja eräiden yleisten alueiden kunnossa\- ja puhtaanapidosta annetun lain muuttamisesta](547.md) `547/2005`
+- [Tasavallan presidentin asetus Ahvenanmaan maakunnassa suoritetuista ammattikorkeakoulututkinnoista](548.md) `548/2005`
+- [Tasavallan presidentin asetus sosiaali\- ja terveysalan ammattikoulutuksesta Ahvenanmaan maakunnassa](549.md) `549/2005`
+- [Tasavallan presidentin asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan V liitteeseen tehtyjen muutosten voimaansaattamisesta](550.md) `550/2005`
+- [Valtioneuvoston asetus Alankomaiden kuningaskunnan kanssa Alankomaiden Antillien osalta automaattisesta tietojenvaihdosta säästöjen tuottamista korkotuloista tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](551.md) `551/2005`
+- [Valtioneuvoston asetus Alankomaiden kuningaskunnan kanssa Aruban osalta automaattisesta tietojenvaihdosta säästöjen tuottamista korkotuloista tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](552.md) `552/2005`
+- [Valtioneuvoston asetus Caymansaarten kanssa säästötulojen verottamisesta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](553.md) `553/2005`
+- [Valtioneuvoston asetus Montserratin kanssa säästötulojen verottamisesta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](554.md) `554/2005`
+- [Valtioneuvoston asetus Turks\- ja Caicossaarten kanssa säästötulojen verottamisesta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](555.md) `555/2005`
+- [Laki yliopistolain muuttamisesta](556.md) `556/2005`
+- [Laki tilatukijärjestelmän täytäntöönpanosta](557.md) `557/2005`
+- [Laki tuloverolain 48 §:n muuttamisesta](558.md) `558/2005`
+- [Laki perintö\- ja lahjaverolain 55 §:n muuttamisesta](559.md) `559/2005`
+- [Valtioneuvoston asetus yliopistoasetuksen muuttamisesta](560.md) `560/2005`
+- [Valtioneuvoston asetus yliopistojen tutkinnoista annetun valtioneuvoston asetuksen 29 §:n muuttamisesta](561.md) `561/2005`
+- [Kauppa\- ja teollisuusministeriön asetus kosmeettisista valmisteista annetun kauppa\- ja teollisuusministeriön asetuksen muuttamisesta](562.md) `562/2005`
+- [Laki Euroopan talousalueelta saadusta osingosta suoritetun veron palauttamisesta eräissä tapauksissa](563.md) `563/2005`
+- [Laki tuloverolain 9 §:n muuttamisesta](564.md) `564/2005`
+- [Laki rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun lain muuttamisesta](565.md) `565/2005`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista](566.md) `566/2005`
+- [Laki tieliikennelain 103 §:n muuttamisesta](567.md) `567/2005`
+- [Opetusministeriön asetus yliopistojen koulutusvastuun täsmentämisestä, yliopistojen koulutusohjelmista ja erikoistumiskoulutuksista](568.md) `568/2005`
+- [Opetusministeriön asetus yliopistojen maisteriohjelmista](569.md) `569/2005`
+- [Laki vakuutusedustuksesta](570.md) `570/2005`
+- [Laki vakuutusyhtiölain 14 a luvun 9 §:n muuttamisesta](571.md) `571/2005`
+- [Laki vakuutustarkastuksen kustantamisesta annetun lain 1 a ja 1 b §:n muuttamisesta](572.md) `572/2005`
+- [Laki Vakuutusvalvontavirastosta annetun lain 2 §:n muuttamisesta](573.md) `573/2005`
+- [Laki Kuluttajavirastosta annetun lain 7 §:n muuttamisesta](574.md) `574/2005`
+- [Laki rahanpesun estämisestä ja selvittämisestä annetun lain 3 §:n muuttamisesta](575.md) `575/2005`
+- [Tasavallan presidentin asetus maasta toiseen ulottuvien vesistöjen sekä kansainvälisten järvien suojelusta ja käytöstä tehdyn vuoden 1992 yleissopimuksen vesivaroja ja terveyttä koskevan pöytäkirjan voimaansaattamisesta sekä pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](576.md) `576/2005`
+- [Laki rajavartiolaitoksen hallinnosta](577.md) `577/2005`
+- [Rajavartiolaki](578.md) `578/2005`
+- [Laki henkilötietojen käsittelystä rajavartiolaitoksessa](579.md) `579/2005`
+- [Laki passilain 11 §:n muuttamisesta](580.md) `580/2005`
+- [Laki ulkomaalaislain muuttamisesta](581.md) `581/2005`
+- [Laki järjestyslain 4 ja 21 §:n muuttamisesta](582.md) `582/2005`
+- [Laki poliisilain 10 a ja 21 §:n muuttamisesta](583.md) `583/2005`
+- [Laki tullilain 14 a §:n muuttamisesta](584.md) `584/2005`
+- [Laki rikoslain muuttamisesta](585.md) `585/2005`
+- [Laki pakkokeinolain 1 luvun 6 §:n ja 5 a luvun 5 §:n muuttamisesta](586.md) `586/2005`
+- [Laki tieliikennelain muuttamisesta](587.md) `587/2005`
+- [Laki ajoneuvoliikennerekisteristä annetun lain 11 ja 17 §:n muuttamisesta](588.md) `588/2005`
+- [Laki aluevalvontalain muuttamisesta](589.md) `589/2005`
+- [Laki kalastuslain 96 ja 101 §:n muuttamisesta](590.md) `590/2005`
+- [Laki luonnonsuojelulain muuttamisesta](591.md) `591/2005`
+- [Laki muinaismuistolain muuttamisesta](592.md) `592/2005`
+- [Laki valtion virkamieslain 4 §:n muuttamisesta](593.md) `593/2005`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain muuttamisesta](594.md) `594/2005`
+- [Laki turvallisuusselvityksistä annetun lain 8 §:n muuttamisesta](595.md) `595/2005`
+- [Laki kansalaisuuslain 48 §:n muuttamisesta](596.md) `596/2005`
+- [Laki meripelastuslain 14 §:n muuttamisesta](597.md) `597/2005`
+- [Laki vesiliikennelain 24 §:n muuttamisesta](598.md) `598/2005`
+- [Laki sähköisen viestinnän tietosuojalain 36 §:n muuttamisesta](599.md) `599/2005`
+- [Laki metsästyslain 88 §:n muuttamisesta](600.md) `600/2005`
+- [Laki ammatillisesta koulutuksesta annetun lain muuttamisesta](601.md) `601/2005`
+- [Laki ammatillisesta aikuiskoulutuksesta annetun lain 16 §:n muuttamisesta](602.md) `602/2005`
+- [Valtioneuvoston asetus ammatillisesta koulutuksesta annetun asetuksen muuttamisesta](603.md) `603/2005`
+- [Valtioneuvoston asetus tilatukijärjestelmän tukialueista, tuotantoon sidotuista tuista ja kesannoinnista](604.md) `604/2005`
+- [Maa\- ja metsätalousministeriön asetus eräiden valvontatoimenpiteiden siirrosta sosiaali\- ja terveydenhuollon tuotevalvontakeskuksen hoidettavaksi](605.md) `605/2005`
+- [Maa\- ja metsätalousministeriön asetus suoramyynnin viitemääristä annetun maa\- ja metsätalousministeriön asetuksen 5 ja 9 §:n muuttamisesta](606.md) `606/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta poronhoitovuodelta 2005/2006 maksettavan eläinkohtaisen tuen maksatuksesta](607.md) `607/2005`
+- [Valtioneuvoston asetus sosiaalihuollon ammatillisen henkilöstön kelpoisuusvaatimuksista](608.md) `608/2005`
+- [Veronkantolaki](609.md) `609/2005`
+- [Laki valmisteverotuslain 36 §:n muuttamisesta](610.md) `610/2005`
+- [Laki ajoneuvoverolain muuttamisesta](611.md) `611/2005`
+- [Valtioneuvoston asetus rikesakkorikkomuksista annetun asetuksen muuttamisesta](612.md) `612/2005`
+- [Valtioneuvoston asetus päiväsakon rahamäärästä annetun asetuksen 1 ja 7 §:n muuttamisesta](613.md) `613/2005`
+- [Laki terveydenhuollon ammattihenkilöistä annetun lain 5 ja 11 §:n muuttamisesta](614.md) `614/2005`
+- [Tasavallan presidentin asetus Chilen kanssa diplomaattisen edustuston ja konsuliedustuston sekä kansainväliseen järjestöön akkreditoidun edustuston henkilöstön perheenjäsenten työskentelystä vastaanottajavaltiossa tehdyn sopimuksen voimaansaattamisesta](615.md) `615/2005`
+- [Valtioneuvoston asetus erityisperustein korvattavista lääkkeistä ja lääketieteellisin perustein vakaviksi arvioitavista sairauksista](616.md) `616/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta eläinten ruokintaan käytettävistä tuotteista](617.md) `617/2005`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta tiettyjen rajoittavien erityistoimenpiteiden käyttöönotosta Kongon demokraattista tasavaltaa koskevaa aseidenvientikieltoa rikkovia henkilöitä vastaan](618.md) `618/2005`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta tiettyjen rajoittavien erityistoimenpiteiden käyttöönotosta tiettyjä Darfurin alueella Sudanissa vallitsevassa konfliktissa rauhanprosessia vaikeuttavia ja kansainvälistä oikeutta rikkovia henkilöitä vastaan](619.md) `619/2005`
+- [Laki Mosambikin kanssa sijoitusten edistämisestä ja vastavuoroisesta suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](620.md) `620/2005`
+- [Laki eräiden huviveneiden turvallisuudesta ja päästövaatimuksista](621.md) `621/2005`
+- [Laki vesiliikennelain muuttamisesta](622.md) `622/2005`
+- [Alusliikennepalvelulaki](623.md) `623/2005`
+- [Valtioneuvoston asetus keskinäisestä oikeusavusta rikosasioissa Euroopan unionin jäsenvaltioiden välillä tehdyn yleissopimuksen voimaansaattamisesta ja yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja yleissopimuksen soveltamisesta annetun lain voimaantulosta](624.md) `624/2005`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](625.md) `625/2005`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkekassan työntekijäin eläkelain 12 §:n mukaista vastuunjakoa varten laskettavista suureista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](626.md) `626/2005`
+- [Maa\- ja metsätalousministeriön asetus satovahinkojen korvaamisessa käytettävistä yksikköhinnoista ja normisadoista vuonna 2005 ja satovahinkokorvauksiin liittyvien tietojen tallentaminen Tukisovellukseen](627.md) `627/2005`
+- [Maa\- ja metsätalousministeriön asetus maataloustuotteiden tiedotus\- ja myynninedistämistoimiin kolmansissa maissa sekä maataloustuotteiden tiedotus\- ja menekinedistämistoimiin sisämarkkinoilla myönnettävästä tuesta](628.md) `628/2005`
+- [Laki käräjäoikeuslain muuttamisesta](629.md) `629/2005`
+- [Laki tuomareiden nimittämisestä annetun lain 12 §:n muuttamisesta](630.md) `630/2005`
+- [Laki kielilain muuttamisesta](631.md) `631/2005`
+- [Valtioneuvoston päätös eräistä tuomiopiirijärjestelyistä](632.md) `632/2005`
+- [Oikeusministeriön päätös käräjäoikeuksien kanslioiden ja istuntopaikkojen sijainnista annetun oikeusministeriön päätöksen 1 §:n muuttamisesta](633.md) `633/2005`
+- [Laki luvanvaraisesta henkilöliikenteestä tiellä annetun lain 8 §:n muuttamisesta](634.md) `634/2005`
+- [Laki Yleisradio Oy:stä annetun lain muuttamisesta](635.md) `635/2005`
+- [Laki valtion televisio\- ja radiorahastosta annetun lain 5 luvun kumoamisesta](636.md) `636/2005`
+- [Tasavallan presidentin asetus rajavartiolaitoksen sotilaskäskyasioista, sotilas\- ja palvelusarvoista sekä tunnuskuvasta, ansiorististä ja ansiomitalista](637.md) `637/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta markkinointivuoden 2005/2006 kuivattujen rehujen jalostusyritykselle suoritettavan jalostustuen ennakoiden maksatuksesta](638.md) `638/2005`
+- [Valtioneuvoston asetus kuluttajavalituslautakunnasta annetun asetuksen muuttamisesta](639.md) `639/2005`
+- [Valtioneuvoston asetus kauppa\- ja teollisuusministeriöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](640.md) `640/2005`
+- [Valtioneuvoston asetus korkeakoulujen arviointineuvostosta annetun asetuksen 1 §:n muuttamisesta](641.md) `641/2005`
+- [Valtioneuvoston asetus terveydenhuollon ammattihenkilöistä annetun asetuksen 1 §:n muuttamisesta](642.md) `642/2005`
+- [Valtioneuvoston asetus asbestia koskevista rajoituksista annetun valtioneuvoston asetuksen muuttamisesta](643.md) `643/2005`
+- [Valtioneuvoston asetus sosiaali\- ja terveysministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](644.md) `644/2005`
+- [Valtioneuvoston asetus Kansanterveyslaitoksesta annetun asetuksen 6 ja 8 §:n muuttamisesta](645.md) `645/2005`
+- [Valtioneuvoston asetus Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista](646.md) `646/2005`
+- [Opetusministeriön asetus opetusministeriön työjärjestyksen muuttamisesta](647.md) `647/2005`
+- [Maa\- ja metsätalousministeriön asetus metsätalouden ympäristötuen laskennassa käytettävästä puukuutiometrin keskikantohinnasta](648.md) `648/2005`
+- [Maa\- ja metsätalousministeriön asetus silakan ja kilohailin troolikalastuksen rajoittamisesta vuonna 2005 annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](649.md) `649/2005`
+- [Verohallituksen päätös vuoden 2005 kiinteistöverotuksen päättymisestä](650.md) `650/2005`
+- [Valtioneuvoston asetus rajavartiolaitoksesta](651.md) `651/2005`
+- [Valtioneuvoston asetus rajanylityspaikoista sekä rajatarkastustehtävien jakamisesta niillä](652.md) `652/2005`
+- [Valtioneuvoston asetus rajavyöhykkeestä ja rajavyöhykkeen takarajasta](653.md) `653/2005`
+- [Sisäasiainministeriön asetus rajavartiolaitoksen virkapuvusta ja rajavartiomiehen tunnuksesta](654.md) `654/2005`
+- [Sisäasiainministeriön asetus rajavartiomiehen virkamerkistä](655.md) `655/2005`
+- [Sisäasiainministeriön asetus rajavartiolaitoksen menetelmistä kulkuneuvon pysäyttämisessä ja voimakeinojen käyttämisessä](656.md) `656/2005`
+- [Sisäasiainministeriön asetus rajavartiolaitoksen velvollisuudesta ilmoittaa tietoonsa tulleesta epäillystä rikoksesta ja käynnistämästään rikostorjuntatoimenpiteestä](657.md) `657/2005`
+- [Sisäasiainministeriön asetus rajavartiolaitoksen menettelystä haltuun otetun omaisuuden säilyttämisessä](658.md) `658/2005`
+- [Sisäasiainministeriön asetus rajavartiolaitoksen menettelystä eläimen kiinniottamisessa, säilyttämisessä ja lopettamisessa](659.md) `659/2005`
+- [Sisäasiainministeriön asetus väestönsuojan laitteista ja varusteista](660.md) `660/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta markkinointivuoden 2004/2005 kuivattujen rehujen jalostusyritykselle suoritettavan jalostustuen maksatuksesta](661.md) `661/2005`
+- [Sosiaali\- ja terveysministeriön asetus merimieseläkekassan perusteista merimieseläkelain 3 a §:n 2 ja 3 momentin mukaista vastuunjakoa varten](662.md) `662/2005`
+- [Laki riita\-asioiden sovittelusta yleisissä tuomioistuimissa](663.md) `663/2005`
+- [Laki oikeudenkäymiskaaren 20 luvun muuttamisesta](664.md) `664/2005`
+- [Laki korkeimmasta oikeudesta](665.md) `665/2005`
+- [Laki oikeudenkäymiskaaren muuttamisesta](666.md) `666/2005`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain 4 ja 11 luvun muuttamisesta](667.md) `667/2005`
+- [Laki hovioikeuslain 2 §:n muuttamisesta](668.md) `668/2005`
+- [Laki rangaistusmääräysmenettelystä annetun lain muuttamisesta](669.md) `669/2005`
+- [Laki kiinteistönmuodostamislain muuttamisesta](670.md) `670/2005`
+- [Laki pakkokeinolain 1 luvun 9 §:n muuttamisesta](671.md) `671/2005`
+- [Laki ylioppilastutkinnon järjestämisestä](672.md) `672/2005`
+- [Laki lukiolain 18 §:n muuttamisesta](673.md) `673/2005`
+- [Sosiaali\- ja terveysministeriön asetus Vakuutusvalvontaviraston maksullisista suoritteista annetun asetuksen 2 §:n muuttamisesta](674.md) `674/2005`
+- [Tasavallan presidentin asetus Euroopan metsäinstituuttia koskevan yleissopimuksen voimaansaattamisesta sekä yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](675.md) `675/2005`
+- [Opetusministeriön asetus yliopistojen eräistä suoritteista perittävistä maksuista annetun opetusministeriön asetuksen muuttamisesta](676.md) `676/2005`
+- [Laki työeläkeasioiden muutoksenhakulautakunnasta](677.md) `677/2005`
+- [Laki työntekijäin eläkelain muuttamisesta](678.md) `678/2005`
+- [Laki maatalousyrittäjien eläkelain 18 §:n muuttamisesta](679.md) `679/2005`
+- [Laki yrittäjien eläkelain 15 §:n muuttamisesta](680.md) `680/2005`
+- [Laki tapaturmavakuutuslain muuttamisesta](681.md) `681/2005`
+- [Laki urheilijoiden tapaturma\- ja eläketurvasta annetun lain 9 §:n muuttamisesta](682.md) `682/2005`
+- [Valtioneuvoston asetus työntekijäin eläkeasetuksen muuttamisesta](683.md) `683/2005`
+- [Valtioneuvoston asetus maatalousyrittäjien eläkeasetuksen 21 §:n kumoamisesta](684.md) `684/2005`
+- [Valtioneuvoston asetus yrittäjien eläkeasetuksen 18 §:n kumoamisesta](685.md) `685/2005`
+- [Valtioneuvoston asetus tapaturmalautakunnasta annetun asetuksen kumoamisesta](686.md) `686/2005`
+- [Sosiaali\- ja terveysministeriön asetus kemikaalien luokitusperusteista ja merkintöjen tekemisestä annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](687.md) `687/2005`
+- [Laki huoltovarmuuden turvaamisesta annetun lain muuttamisesta](688.md) `688/2005`
+- [Laki yksityisestä terveydenhuollosta annetun lain muuttamisesta](689.md) `689/2005`
+- [Laki terveydenhuollon ammattihenkilöistä annetun lain 20 ja 24 a §:n muuttamisesta](690.md) `690/2005`
+- [Laki yksityisten sosiaalipalvelujen valvonnasta annetun lain muuttamisesta](691.md) `691/2005`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](692.md) `692/2005`
+- [Kauppa\- ja teollisuusministeriön asetus sähköalan töistä annetun kauppa\- ja teollisuusministeriön päätöksen 19 §:n muuttamisesta](693.md) `693/2005`
+- [Valtiovarainministeriön asetus vuoden 2004 ennakonpalautusten maksamisesta](694.md) `694/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta erityistukisopimusten tekemisestä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](695.md) `695/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta ohjelmakauden 2000―2006 maatalouden ympäristötuen ja luonnonhaittakorvauksen maksatuksesta vuonna 2005](696.md) `696/2005`
+- [Kauppa\- ja teollisuusministeriön asetus elintarvikkeen kanssa kosketukseen joutuvien tarvikkeiden valmistuksessa käytettävästä regeneroidusta selluloosasta valmistetusta kalvosta](697.md) `697/2005`
+- [Laki hallintolainkäyttölain 13 ja 79 §:n muuttamisesta](698.md) `698/2005`
+- [Laki hallinto\-oikeuslain 7 ja 12 §:n muuttamisesta](699.md) `699/2005`
+- [Laki Korkeimmasta hallinto\-oikeudesta annetun lain 2 a ja 8 §:n muuttamisesta](700.md) `700/2005`
+- [Laki viranomaisten toiminnan julkisuudesta annetun lain 33 §:n muuttamisesta](701.md) `701/2005`
+- [Laki perintökaaren 5 luvun muuttamisesta](702.md) `702/2005`
+- [Laki ampuma\-aselain 118 §:n muuttamisesta](703.md) `703/2005`
+- [Laki maksuvapautuslain muuttamisesta](704.md) `704/2005`
+- [Laki eräiden yleishyödyllisten yhteisöjen veronhuojennuksista annetun lain muuttamisesta](705.md) `705/2005`
+- [Laki kasvinjalostajanoikeudesta annetun lain 37 §:n muuttamisesta](706.md) `706/2005`
+- [Laki torjunta\-ainelain 4 g §:n muuttamisesta](707.md) `707/2005`
+- [Laki maa\- ja metsätalousministeriön tietopalvelukeskuksesta annetun lain 5 §:n muuttamisesta](708.md) `708/2005`
+- [Laki kasvintuotannon tarkastuskeskuksesta annetun lain 6 §:n muuttamisesta](709.md) `709/2005`
+- [Laki eläinsuojelulain 52 §:n muuttamisesta](710.md) `710/2005`
+- [Laki ilmailulain 91 §:n muuttamisesta](711.md) `711/2005`
+- [Laki Ilmailulaitoksesta annetun lain 3 §:n muuttamisesta](712.md) `712/2005`
+- [Laki valtion televisio\- ja radiorahastosta annetun lain 36 §:n muuttamisesta](713.md) `713/2005`
+- [Laki patentti\- ja rekisterihallituksesta annetun lain 5 §:n muuttamisesta](714.md) `714/2005`
+- [Laki patentti\- ja rekisterihallituksen valitusasioiden käsittelystä annetun lain 8 §:n muuttamisesta](715.md) `715/2005`
+- [Laki Vakuutusvalvontavirastosta annetun lain 6 §:n muuttamisesta](716.md) `716/2005`
+- [Laki vakuutusyhtiölain muuttamisesta](717.md) `717/2005`
+- [Laki ulkomaisista vakuutusyhtiöistä annetun lain 84 §:n muuttamisesta](718.md) `718/2005`
+- [Laki vakuutusyhdistyslain muuttamisesta](719.md) `719/2005`
+- [Laki terveydensuojelulain 57 §:n muuttamisesta](720.md) `720/2005`
+- [Laki kemikaalilain 56 §:n muuttamisesta](721.md) `721/2005`
+- [Laki terveydenhuollon oikeusturvakeskuksesta annetun lain 4 §:n muuttamisesta](722.md) `722/2005`
+- [Laki mielenterveyslain 24 §:n muuttamisesta](723.md) `723/2005`
+- [Laki terveydenhuollon ammattihenkilöistä annetun lain 39 §:n muuttamisesta](724.md) `724/2005`
+- [Laki yksityisestä terveydenhuollosta annetun lain 25 §:n muuttamisesta](725.md) `725/2005`
+- [Laki terveydenhuollon laitteista ja tarvikkeista annetun lain 27 §:n muuttamisesta](726.md) `726/2005`
+- [Laki säteilylain 65 §:n muuttamisesta](727.md) `727/2005`
+- [Laki siviilipalveluslain muuttamisesta](728.md) `728/2005`
+- [Laki jätelain 66 ja 67 §:n muuttamisesta](729.md) `729/2005`
+- [Laki maankäyttö\- ja rakennuslain 144 §:n muuttamisesta](730.md) `730/2005`
+- [Laki maa\-aineslain 21 §:n muuttamisesta](731.md) `731/2005`
+- [Laki vesilain muuttamisesta](732.md) `732/2005`
+- [Valtioneuvoston asetus haja\-asutusalueiden kyläkauppojen tukemisesta annetun valtioneuvoston asetuksen muuttamisesta](733.md) `733/2005`
+- [Valtioneuvoston asetus öljytuotteiden varmuusvarastojen tilapäisestä käyttöönotosta](734.md) `734/2005`
+- [Puolustusministeriön asetus puolustusministeriön työjärjestyksen muuttamisesta](735.md) `735/2005`
+- [Valtioneuvoston asetus sellaisen lahjonnan, jossa on osallisina Euroopan yhteisöjen virkamiehiä tai Euroopan unionin jäsenvaltioiden virkamiehiä, torjumista koskevan yleissopimuksen voimaansaattamisesta sekä yleissopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](736.md) `736/2005`
+- [Valtioneuvoston asetus kulutustavaroista ja kuluttajapalveluksista annettavista tiedoista annetun valtioneuvoston asetuksen 9 §:n muuttamisesta](737.md) `737/2005`
+- [Maa\- ja metsätalousministeriön asetus hirvieläinten ja petoeläinten aiheuttamien maatalous\- ja viljelysvahinkojen korvaamisessa vuonna 2005 käytettävistä eräistä yksikköhinnoista ja normisadoista](738.md) `738/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta maatalouden ympäristötuen erityistukien maksatuksesta vuonna 2005](739.md) `739/2005`
+- [Verohallituksen päätös muiden verovelvollisten kuin yhteisöjen ja yhteisetuuksien verovuoden 2004 verotuksen päättymisestä](740.md) `740/2005`
+- [Ympäristöministeriön asetus ympäristöministeriön maksullisista suoritteista annetun asetuksen 3 §:n 2 momentin 10 kohdan kumoamisesta](741.md) `741/2005`
+- [Ympäristöministeriön asetus ympäristölupaviraston maksullisista suoritteista annetun ympäristöministeriön asetuksen liitteen muuttamisesta](742.md) `742/2005`
+- [Ympäristöministeriön asetus alueellisen ympäristökeskuksen maksullisista suoritteista annetun ympäristöministeriön asetuksen liitteen muuttamisesta](743.md) `743/2005`
+- [Valtioneuvoston asetus vuodelta 2005 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 18 §:n muuttamisesta](744.md) `744/2005`
+- [Valtioneuvoston asetus eräiden vaarallisten aineiden käytön rajoittamisesta ajoneuvoissa annetun valtioneuvoston asetuksen muuttamisesta](745.md) `745/2005`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten aineiden kuljetuksesta tiellä annetun liikenneministeriön asetuksen muuttamisesta](746.md) `746/2005`
+- [Valtiovarainministeriön asetus veronkannosta](747.md) `747/2005`
+- [Valtioneuvoston asetus huviveneiden ja vesiskoottereiden turvallisuudesta ja melupäästöistä sekä huviveneisiin ja vesiskoottereihin asennettavien moottoreiden melu\- ja pakokaasupäästöistä](748.md) `748/2005`
+- [Maa\- ja metsätalousministeriön asetus maidon toimitusten viitemääristä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta ja väliaikaisesta muuttamisesta](749.md) `749/2005`
+- [Maa\- ja metsätalousministeriön asetus suoramyynnin viitemääristä annetun maa\- ja metsätalousministeriön asetuksen 6 ja 8 §:n muuttamisesta](750.md) `750/2005`
+- [Maa\- ja metsätalousministeriön asetus maatalouden ympäristötuen erityistuista annetun maa\- ja metsätalousministeriön asetuksen 9 §:n muuttamisesta](751.md) `751/2005`
+- [Tasavallan presidentin asetus Mosambikin tasavallan kanssa tehdyn sijoitusten edistämistä ja vastavuoroista suojaamista koskevan sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](752.md) `752/2005`
+- [Valtioneuvoston asetus Huoltovarmuuskeskuksesta annetun asetuksen 1 ja 16 §:n muuttamisesta](753.md) `753/2005`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon vuoden 2006 voimavaroista](754.md) `754/2005`
+- [Valtioneuvoston asetus oikeusgeneettisestä isyystutkimuksesta](755.md) `755/2005`
+- [Valtioneuvoston asetus isyyden vahvistamisesta ja kumoamisesta sekä lapsen elatuksesta annetun asetuksen muuttamisesta](756.md) `756/2005`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannuista muutoksista](757.md) `757/2005`
+- [Valtioneuvoston asetus tilatukijärjestelmän täytäntöönpanosta](758.md) `758/2005`
+- [Maa\- ja metsätalousministeriön asetus Etelä\- ja Länsi\-Suomen maaseudun yritystoimintaan ja kehittämiseen myönnettävän tuen kohdentamisesta vuonna 2006](759.md) `759/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 kasvihuonetuen lopullisen tuen maksatuksesta](760.md) `760/2005`
+- [Valtioneuvoston asetus valtion rahoituksen perusteena käytettävistä opetus\- ja kirjastotoimen keskimääräisistä yksikköhinnoista vuonna 2006](761.md) `761/2005`
+- [Valtioneuvoston asetus Metsäntutkimuslaitoksesta annetun asetuksen muuttamisesta](762.md) `762/2005`
+- [Valtioneuvoston asetus alusliikennepalvelusta](763.md) `763/2005`
+- [Valtioneuvoston asetus kauppa\- ja teollisuusministeriöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](764.md) `764/2005`
+- [Valtioneuvoston asetus liikenne\- ja viestintäministeriöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](765.md) `765/2005`
+- [Liikenne\- ja viestintäministeriön asetus Merenkulkulaitoksen maksullisista suoritteista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](766.md) `766/2005`
+- [Vankeuslaki](767.md) `767/2005`
+- [Tutkintavankeuslaki](768.md) `768/2005`
+- [Laki pakkokeinolain muuttamisesta](769.md) `769/2005`
+- [Laki tuloverolain 92 §:n muuttamisesta](770.md) `770/2005`
+- [Laki kansanterveyslain 14 §:n muuttamisesta](771.md) `771/2005`
+- [Laki sakon täytäntöönpanosta annetun lain 37 §:n muuttamisesta](772.md) `772/2005`
+- [Laki kansainvälisestä yhteistoiminnasta eräiden rikosoikeudellisten seuraamusten täytäntöönpanossa annetun lain 5 b §:n muuttamisesta](773.md) `773/2005`
+- [Laki Suomen ja muiden pohjoismaiden välisestä yhteistoiminnasta rikosasioissa annettujen tuomioiden täytäntöönpanossa annetun lain 5 b §:n muuttamisesta](774.md) `774/2005`
+- [Laki vapautensa menettäneen henkilön väliaikaisesta siirtämisestä todistelutarkoituksessa rikosasioissa annetun lain 9 §:n muuttamisesta](775.md) `775/2005`
+- [Laki rikoslain 45 luvun 26 a §:n muuttamisesta](776.md) `776/2005`
+- [Laki henkilötietojen käsittelystä rangaistusten täytäntöönpanossa annetun lain 10 §:n muuttamisesta](777.md) `777/2005`
+- [Laki tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista annetun lain 6 §:n muuttamisesta](778.md) `778/2005`
+- [Laki avioliittolain voimaanpanosta annetun lain 1 §:n 2 momentin kumoamisesta](779.md) `779/2005`
+- [Laki rikoslain muuttamisesta](780.md) `780/2005`
+- [Laki pitkäaikaisvankien vapauttamismenettelystä](781.md) `781/2005`
+- [Laki ehdonalaisen vapauden valvonnasta](782.md) `782/2005`
+- [Laki oikeudenkäymiskaaren 17 luvun 45 §:n muuttamisesta](783.md) `783/2005`
+- [Laki eräisiin rangaistus\-, huolto\- ja hoitolaitoksiin otettujen henkilöiden tapaturmakorvauksesta annetun lain 1 §:n muuttamisesta](784.md) `784/2005`
+- [Laki nuorista rikoksentekijöistä annetun lain eräiden säännösten kumoamisesta](785.md) `785/2005`
+- [Laki vaarallisten rikoksenuusijain eristämisestä annetun lain kumoamisesta](786.md) `786/2005`
+- [Laki Suomen ja muiden pohjoismaiden välisestä yhteistoiminnasta rikosasioissa annettujen tuomioiden täytäntöönpanossa annetun lain 21 §:n muuttamisesta](787.md) `787/2005`
+- [Laki rangaistusten täytäntöönpanon hallinnosta annetun lain 2 ja 3 §:n muuttamisesta](788.md) `788/2005`
+- [Valtioneuvoston asetus keskinäisestä oikeusavusta rikosasioissa Euroopan unionin jäsenvaltioiden välillä tehtyyn yleissopimukseen liitettävän pöytäkirjan voimaansaattamisesta ja pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](789.md) `789/2005`
+- [Valtioneuvoston asetus ajoneuvojen hyväksynnästä annetun valtioneuvoston asetuksen 25 §:n muuttamisesta](790.md) `790/2005`
+- [Valtioneuvoston asetus ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta](791.md) `791/2005`
+- [Liikenne\- ja viestintäministeriön asetus kaksi\- ja kolmipyöräisten ajoneuvojen sekä nelipyörien rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](792.md) `792/2005`
+- [Oikeusministeriön asetus valtion oikeusaputoimistojen sekä niiden sivutoimistojen ja sivuvastaanottojen sijainnista annetun oikeusministeriön asetuksen muuttamisesta](793.md) `793/2005`
+- [Verohallituksen päätös Konserniverokeskuksessa verotettavista verovelvollisista](794.md) `794/2005`
+- [Laki asuntokauppalain muuttamisesta](795.md) `795/2005`
+- [Laki kiinteistöjen ja vuokrahuoneistojen välityksestä annetun lain muuttamisesta](796.md) `796/2005`
+- [Laki kuluttajavalituslautakunnasta annetun lain 1 ja 1 a §:n muuttamisesta](797.md) `797/2005`
+- [Valtioneuvoston päätös erityishuoltopiireistä annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](798.md) `798/2005`
+- [Valtiovarainministeriön päätös verohallituksen ja verovirastojen määräämisestä toimivaltaisena viranomaisena ratkaisemaan eräitä säästöjen tuottamien korkotulojen verotusta koskevia asioita](799.md) `799/2005`
+- [Sosiaali\- ja terveysministeriön asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 9 §:n mukaisista perusteista](800.md) `800/2005`
+- [Ulkoasiainministeriön ilmoitus Ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](801.md) `801/2005`
+- [Tasavallan presidentin asetus Ahvenanmaan maakunnan merenkulkuopetuksen arvioinnista](802.md) `802/2005`
+- [Tasavallan presidentin asetus eräiden terveyden\- ja sairaanhoidon tehtävien hallinnosta Ahvenanmaan maakunnassa](803.md) `803/2005`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon kehittämishankkeiden kriteereistä ja painoalueista](804.md) `804/2005`
+- [Sisäasiainministeriön asetus rakennusten poistumisreittien merkitsemisestä ja valaisemisesta](805.md) `805/2005`
+- [Valtiovarainministeriön asetus suomalaisen elokuvan juhlarahasta](806.md) `806/2005`
+- [Maa\- ja metsätalousministeriön asetus maatalouden investointeja koskevien tukien hakuajan päättymisestä](807.md) `807/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta tuotantoeläinten lääkityksestä pidettävästä kirjanpidosta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](808.md) `808/2005`
+- [Laki maatilatalouden tuloverolain 13 §:n muuttamisesta](809.md) `809/2005`
+- [Tasavallan presidentin asetus Palestiinalaishallinnon kanssa palestiinalaisalueiden opetussektorin tukihankkeen kolmannesta vaiheesta tehdyn sopimuksen voimaansaattamisesta](810.md) `810/2005`
+- [Tasavallan presidentin asetus Suomen Punaisesta Rististä](811.md) `811/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinsuojeluaineissa sallituista tehoaineista ja niiden käytön ehdoista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](812.md) `812/2005`
+- [Laki vastikemaan luovuttamisesta yleistä tietä varten toimitettavan tilusjärjestelyn yhteydessä annetun lain kumoamisesta](813.md) `813/2005`
+- [Laki ympäristönsuojelulain muuttamisesta](814.md) `814/2005`
+- [Laki jätelain muuttamisesta](815.md) `815/2005`
+- [Valtioneuvoston asetus vaarallisten tai merta pilaavien aineiden aluskuljetuksiin liittyvistä ilmoitusvelvollisuuksista annetun asetuksen muuttamisesta](816.md) `816/2005`
+- [Valtioneuvoston asetus pakkauksista ja pakkausjätteestä annetun valtioneuvoston päätöksen muuttamisesta](817.md) `817/2005`
+- [Liikenne\- ja viestintäministeriön asetus linja\-autoliikenteen sarjalipputaksoista](818.md) `818/2005`
+- [Sisäasiainministeriön asetus kriisinhallintaan osallistuvan siviilihenkilöstön palvelussuhteen ehdoista annetun sisäasiainministeriön asetuksen liitteen muuttamisesta](819.md) `819/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 metsämarjojen ja \-sienten varastointituen maksatuksesta](820.md) `820/2005`
+- [Laki tekijänoikeuslain muuttamisesta](821.md) `821/2005`
+- [Laki rikoslain 49 luvun muuttamisesta](822.md) `822/2005`
+- [Laki WIPOn tekijänoikeussopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](823.md) `823/2005`
+- [Laki WIPOn esitys\- ja äänitesopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](824.md) `824/2005`
+- [Laki riitauttamattomia vaatimuksia koskevasta eurooppalaisesta täytäntöönpanoperusteesta](825.md) `825/2005`
+- [Sosiaali\- ja terveysministeriön työjärjestys](826.md) `826/2005`
+- [Laki evankelis\-luterilaisen kirkon työmarkkinalaitoksesta](827.md) `827/2005`
+- [Laki kirkkolain muuttamisesta](828.md) `828/2005`
+- [Laki evankelis\-luterilaisen kirkon työehtosopimuksista](829.md) `829/2005`
+- [Laki evankelis\-luterilaisen kirkon virkaehtosopimuksista annetun lain muuttamisesta](830.md) `830/2005`
+- [Valtioneuvoston asetus terveystarkastuksista erityistä sairastumisen vaaraa aiheuttavissa töissä annetun valtioneuvoston asetuksen muuttamisesta](831.md) `831/2005`
+- [Valtioneuvoston asetus Maa\- ja elintarviketalouden tutkimuskeskuksesta annetun asetuksen muuttamisesta](832.md) `832/2005`
+- [Sosiaali\- ja terveysministeriön asetus koulutarvikekustannuksista](833.md) `833/2005`
+- [Maa\- ja metsätalousministeriön asetus muutos\- ja varantohausta](834.md) `834/2005`
+- [Valtioneuvoston asetus turva\-asiakirjoista asuntokaupoissa](835.md) `835/2005`
+- [Valtioneuvoston asetus omaisuuden tai todistusaineiston jäädyttämistä koskevien päätösten täytäntöönpanosta Euroopan unionissa](836.md) `836/2005`
+- [Valtioneuvoston asetus orgaanisten liuottimien käytöstä eräissä maaleissa ja lakoissa sekä ajoneuvojen korjausmaalaustuotteissa aiheutuvien haihtuvien orgaanisten yhdisteiden päästöjen rajoittamisesta](837.md) `837/2005`
+- [Valtioneuvoston asetus orgaanisten liuottimien käytöstä eräissä toiminnoissa ja laitoksissa aiheutuvien haihtuvien orgaanisten yhdisteiden päästöjen rajoittamisesta annetun valtioneuvoston asetuksen muuttamisesta](838.md) `838/2005`
+- [Valtioneuvoston asetus maakotkien porotaloudelle aiheuttamien vahinkojen korvaamisesta annetun asetuksen 3 §:n muuttamisesta](839.md) `839/2005`
+- [Laki sairausvakuutuslain 13 luvun muuttamisesta](840.md) `840/2005`
+- [Valtioneuvoston asetus aluksen miehityksestä, laivaväen pätevyydestä ja vahdinpidosta annetun asetuksen muuttamisesta](841.md) `841/2005`
+- [Valtioneuvoston asetus lääketieteellisin perustein vaikeiksi arvioitavista sairauksista ja niiden hoitoon käytettävistä korvattavista kliinisistä ravintovalmisteista](842.md) `842/2005`
+- [Valtioneuvoston asetus sairausvakuutuslaissa tarkoitettujen työterveyshuollon korvausten laskennallisten enimmäismäärien määrittelemisestä annetun valtioneuvoston asetuksen 2 luvun muuttamisesta](843.md) `843/2005`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain 7 b §:ssä tarkoitetun palkkakertoimen vahvistamisesta](844.md) `844/2005`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain 9 §:ssä tarkoitetun työeläkeindeksiluvun vahvistamisesta](845.md) `845/2005`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain muuttamisesta annetun lain voimaantulosäännöksen 17 momentissa tarkoitetun indeksiluvun vahvistamisesta](846.md) `846/2005`
+- [Valtioneuvoston asetus tiede\- ja teknologianeuvostosta](847.md) `847/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta tuettavaa rakentamista koskevista sikaloiden rakennusteknisistä ja toiminnallisista vaatimuksista](848.md) `848/2005`
+- [Valtioneuvoston asetus työmarkkina\-alueista annetun valtioneuvoston asetuksen 16 §:n muuttamisesta](849.md) `849/2005`
+- [Maa\- ja metsätalousministeriön asetus eräitä eläimistä saatavia sivutuotteita käsittelevien laitosten valvonnasta ja eräiden sivutuotteiden käytöstä](850.md) `850/2005`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](851.md) `851/2005`
+- [Verohallituksen päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](852.md) `852/2005`
+- [Laki lääkelain muuttamisesta](853.md) `853/2005`
+- [Tasavallan presidentin asetus Suomen ulkomaanedustustojen sijaintipaikoista annetun tasavallan presidentin asetuksen muuttamisesta](854.md) `854/2005`
+- [Verohallituksen päätös Oy Stockmann Auto Ab:n ja Autotalo Jurvakainen Oy:n verottamisesta Konserniverokeskuksessa](855.md) `855/2005`
+- [Laki rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun lain muuttamisesta](856.md) `856/2005`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](857.md) `857/2005`
+- [Laki tuloverolain muuttamisesta](858.md) `858/2005`
+- [Laki ajoneuvoliikennerekisteristä annetun lain muuttamisesta](859.md) `859/2005`
+- [Tasavallan presidentin asetus Etelämannerta koskevaan sopimukseen liittyvän ympäristönsuojelupöytäkirjan liitteen V alaisten toimenpiteiden voimaansaattamisesta](860.md) `860/2005`
+- [Valtioneuvoston asetus oikeushallinnon palvelukeskuksesta](861.md) `861/2005`
+- [Valtiovarainministeriön asetus JHTT\-tutkintoon vaadittavasta käytännön kokemuksesta](862.md) `862/2005`
+- [Valtioneuvoston asetus vuonna 2006 toimitettavassa presidentinvaalissa ennakkoäänestyspaikkoina olevista Suomen edustustoista ja niiden toimipaikoista](863.md) `863/2005`
+- [Laki sellaisen lahjonnan torjumisesta, jossa on osallisina Euroopan yhteisöjen virkamiehiä tai Euroopan unionin jäsenvaltioiden virkamiehiä, tehdyn yleissopimuksen eräiden määräysten hyväksymisestä](864.md) `864/2005`
+- [Valtioneuvoston asetus opetustoimen henkilöstön kelpoisuusvaatimuksista annetun asetuksen muuttamisesta](865.md) `865/2005`
+- [Laki Ukrainan kanssa sijoitusten edistämisestä ja suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](866.md) `866/2005`
+- [Valtioneuvoston asetus valtion virkamiesasetuksen muuttamisesta](867.md) `867/2005`
+- [Valtioneuvoston asetus lääkeasetuksen muuttamisesta](868.md) `868/2005`
+- [Liikenne\- ja viestintäministeriön asetus autojen ja perävaunujen rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen liitteen 1 muuttamisesta](869.md) `869/2005`
+- [Sosiaali\- ja terveysministeriön asetus Lääkelaitoksen maksullisista suoritteista](870.md) `870/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta lääkkeiden käytöstä, luovutuksesta ja määräämisestä eläinlääkinnässä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](871.md) `871/2005`
+- [Laki vaalilain 5 §:n muuttamisesta](872.md) `872/2005`
+- [Valtioneuvoston asetus metsäveroasetuksen muuttamisesta](873.md) `873/2005`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön ulkopuolisista maista tuotavista kalastustuotteista ja niistä saaduista raakavalmisteista ja jalosteista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](874.md) `874/2005`
+- [Maa\- ja metsätalousministeriön asetus eläimistä saatavien elintarvikkeiden ja muiden tuotteiden eläinlääkinnällisistä rajatarkastuksista annetun asetuksen muuttamisesta](875.md) `875/2005`
+- [Verohallituksen päätös matkakuluvähennyksen määrästä vuodelta 2005 toimitettavassa verotuksessa](876.md) `876/2005`
+- [Laki museolain 1 ja 2 §:n muuttamisesta](877.md) `877/2005`
+- [Valtioneuvoston asetus täydentävien ehtojen tiettyjen luonnonsuojeluun liittyvien lakisääteisten hoitovaatimusten valvonnasta](878.md) `878/2005`
+- [Valtioneuvoston asetus liikennetarvikkeiden kaupasta, asennuksesta ja korjauksesta annetun valtioneuvoston asetuksen 16 §:n muuttamisesta](879.md) `879/2005`
+- [Valtioneuvoston asetus  eräiden vaarallisten aineiden käytön rajoittamisesta ajoneuvoissa annetun valtioneuvoston asetuksen liitteen 1 muuttamisesta](880.md) `880/2005`
+- [Sosiaali\- ja terveysministeriön asetus lääkevaihdosta annetun sosiaali\- ja terveysministeriön asetuksen 1 §:n 1 momentin väliaikaisesta muuttamisesta](881.md) `881/2005`
+- [Maa\- ja metsätalousministeriön asetus maidon tuotantotuen haku\- ja maksatusmenettelystä](882.md) `882/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 emolehmäpalkkion ennakoiden, sonni\- ja härkäpalkkion ennakoiden, teurastuspalkkion ja lisätuen ennakoiden sekä uuhipalkkion, sen LFA\-lisän ja lisätuen maksatuksesta](883.md) `883/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 mehiläistalouden kansallisen pesäkohtaisen tuen maksatuksesta](884.md) `884/2005`
+- [Laki sairausvakuutuslain muuttamisesta ja väliaikaisesta muuttamisesta](885.md) `885/2005`
+- [Laki postipalvelulain muuttamisesta](886.md) `886/2005`
+- [Valtioneuvoston asetus uusien asuntoalueiden kunnallistekniikan rakentamiseen vuosina 2005―2009 myönnettävistä valtionavustuksista annetun valtioneuvoston asetuksen muuttamisesta](887.md) `887/2005`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden aineiden väliaikaisesta poistamisesta elintarvikkeiden pakkausmerkinnöistä annetun kauppa\- ja teollisuusministeriön asetuksen liitteestä 3](888.md) `888/2005`
+- [Laki Pohjoismaiden ministerineuvoston sihteeristön ja Pohjoismaiden neuvoston puheenjohtajiston sihteeristön oikeudellista asemaa koskevan sopimuksen muuttamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](889.md) `889/2005`
+- [Tasavallan presidentin asetus arvonimistä annetun tasavallan presidentin asetuksen liitteen 1 muuttamisesta](890.md) `890/2005`
+- [Tasavallan presidentin asetus Viron kanssa Kadrinan kuorikattilaa koskevasta yhteistoteutushankkeesta tehdyn hankesopimuksen voimaansaattamisesta](891.md) `891/2005`
+- [Tasavallan presidentin asetus Viron kanssa Tamsalun kuorikattilaa koskevasta yhteistoteutushankkeesta tehdyn hankesopimuksen voimaansaattamisesta](892.md) `892/2005`
+- [Sosiaali\- ja terveysministeriön asetus työeläkekassan muuttamisesta keskinäiseksi työeläkevakuutusyhtiöksi annetussa laissa tarkoitetun työeläkevakuutusyhtiön vastuuvelkaa katettaessa vastuuvelkaan rinnastettavista eristä ja lakisääteisen eläkevakuutuksen erityisluonteen johdosta katteeksi hyväksyttävistä muista eristä annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](893.md) `893/2005`
+- [Laki Eurooppapatenttien myöntämisestä tehdyn yleissopimuksen uudistamiskirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](894.md) `894/2005`
+- [Laki patenttilakisopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](895.md) `895/2005`
+- [Laki patenttilain muuttamisesta](896.md) `896/2005`
+- [Valtioneuvoston asetus Ahvenanmaan maakunnassa oleville kunnille maataloustuen jako\- ja valvontatehtävien hoitamisesta vuodelta 2004 suoritettavista korvauksista](897.md) `897/2005`
+- [Valtioneuvoston asetus vuodelta 2005 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](898.md) `898/2005`
+- [Valtioneuvoston asetus vuodelta 2005 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 13 §:n muuttamisesta](899.md) `899/2005`
+- [Valtioneuvoston asetus vuodelta 2005 maksettavasta luonnonhaittakorvauksen kansallisesta lisäosasta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](900.md) `900/2005`
+- [Sisäasiainministeriön asetus paloilmoittimien hankinnasta, asennuksesta, käyttöönotosta, huollosta ja tarkastuksesta annetun sisäasiainministeriön määräyksen voimassaolon jatkamisesta](901.md) `901/2005`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 18 §:n muuttamisesta](902.md) `902/2005`
+- [Laki arvonlisäverolain 45 §:n muuttamisesta](903.md) `903/2005`
+- [Laki tuottoon liittyvän rahanpesun soveltamisalasta tietotekniikan käytöstä tullialalla tehdyssä yleissopimuksessa ja kuljetusvälineen rekisterinumeron sisällyttämisestä yleissopimuksessa lueteltuihin tietoihin tehdyn pöytäkirjan ja sen suomenkielisen oikaisupöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](904.md) `904/2005`
+- [Laki tullilain 23 b §:n muuttamisesta](905.md) `905/2005`
+- [Laki sotilasvammalain 6 §:n muuttamisesta](906.md) `906/2005`
+- [Valtioneuvoston asetus polttoaineteholtaan vähintään 50 megawatin polttolaitosten ja kaasuturbiinien rikkidioksidi\-, typenoksidi\- ja hiukkaspäästöjen rajoittamisesta annetun valtioneuvoston asetuksen muuttamisesta](907.md) `907/2005`
+- [Sosiaali\- ja terveysministeriön asetus rokotuksista ja tartuntatautien raskaudenaikaisesta seulonnasta annetun sosiaali\- ja terveysministeriön asetuksen väliaikaisesta muuttamisesta](908.md) `908/2005`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](909.md) `909/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 kansallisten kotieläintukien maksatuksesta](910.md) `910/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 luonnonhaittakorvauksen kansallisen lisäosan maksatuksesta](911.md) `911/2005`
+- [Valtioneuvoston asetus Pallas\-Yllästunturin kansallispuistosta](912.md) `912/2005`
+- [Valtioneuvoston asetus luonnonsuojeluasetuksen muuttamisesta](913.md) `913/2005`
+- [Valtioneuvoston asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen 10 a §:n muuttamisesta](914.md) `914/2005`
+- [Valtioneuvoston asetus ylioppilastutkinnosta](915.md) `915/2005`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön työjärjestyksen muuttamisesta](916.md) `916/2005`
+- [Sisäasiainministeriön asetus käsisammuttimien tarkastuksesta ja huollosta](917.md) `917/2005`
+- [Oikeusministeriön asetus velallisen maksukyvyn arvioinnin perusteista yksityishenkilön velkajärjestelyssä annetun asetuksen muuttamiseksi](918.md) `918/2005`
+- [Vuoden 2005 toinen lisätalousarvio](919.md) `919/2005`
+- [Laki vaatimustenmukaisuuden arviointipalvelujen pätevyyden toteamisesta](920.md) `920/2005`
+- [Laki mittatekniikan keskuksesta annetun lain muuttamisesta](921.md) `921/2005`
+- [Laki Eurooppalaisen maisemayleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](922.md) `922/2005`
+- [Tasavallan presidentin asetus Ukrainan kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](923.md) `923/2005`
+- [Valtioneuvoston asetus maanteistä](924.md) `924/2005`
+- [Valtioneuvoston asetus tavaraliikenteen ja logistiikan neuvottelukunnasta annetun asetuksen kumoamisesta](925.md) `925/2005`
+- [Valtioneuvoston asetus maa\-ainesten ottamisesta](926.md) `926/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 peltokasvien tuen \(CAP\-tuen\) maksatuksesta](927.md) `927/2005`
+- [Laki kansanterveyslain muuttamisesta](928.md) `928/2005`
+- [Eduskunnan päätös eduskunnan tilisäännön muuttamisesta](929.md) `929/2005`
+- [Laki perhehoitajalain 2 §:n muuttamisesta](930.md) `930/2005`
+- [Valtioneuvoston asetus työvoima\- ja elinkeinokeskuksista annetun asetuksen muuttamisesta](931.md) `931/2005`
+- [Valtioneuvoston asetus suojaosuudesta palkan ulosmittauksessa annetun asetuksen 1 ja 2 §:n muuttamisesta](932.md) `932/2005`
+- [Valtiovarainministeriön asetus rakennusten jälleenhankinta\-arvon perusteista](933.md) `933/2005`
+- [Valtiovarainministeriön asetus vesivoimalaitoksen ja sen rakenteiden jälleenhankinta\-arvon perusteista](934.md) `934/2005`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](935.md) `935/2005`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](936.md) `936/2005`
+- [Laki omaishoidon tuesta](937.md) `937/2005`
+- [Laki sosiaalihuoltolain muuttamisesta](938.md) `938/2005`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 6 b §:n muuttamisesta](939.md) `939/2005`
+- [Laki kansaneläkelain 24 ja 42 b §:n muuttamisesta](940.md) `940/2005`
+- [Laki perhe\-eläkelain 15 a §:n muuttamisesta](941.md) `941/2005`
+- [Laki maahanmuuttajan erityistuesta annetun lain 6 §:n muuttamisesta](942.md) `942/2005`
+- [Laki eräiden pitkäaikaisesti työttöminä olleiden henkilöiden eläketuesta annetun lain 6 §:n muuttamisesta](943.md) `943/2005`
+- [Laki maatalousyrittäjien luopumistuesta annetun lain 19 §:n muuttamisesta](944.md) `944/2005`
+- [Laki maatalousyrittäjien sukupolvenvaihdoseläkkeestä annetun lain 16 §:n muuttamisesta](945.md) `945/2005`
+- [Laki julkisesti tuettujen vienti\- ja alusluottojen korontasauksesta annetun lain muuttamisesta](946.md) `946/2005`
+- [Laki julkisesti tuettujen vienti\- ja alusluottojen korontasausyhtiöstä annetun lain muuttamisesta](947.md) `947/2005`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](948.md) `948/2005`
+- [Laki Kansainvälisen rikostuomioistuimen ja Suomen välillä Kansainvälisen rikostuomioistuimen oikeudenkäynneissä kuultavina olleiden tai kuultavaksi tulevien todistajien ja heidän läheistensä sijoittamisesta Suomen alueelle kirjeenvaihdolla tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](949.md) `949/2005`
+- [Laki pelastuslain 69 §:n muuttamisesta](950.md) `950/2005`
+- [Valtioneuvoston asetus metsätaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](951.md) `951/2005`
+- [Valtioneuvoston asetus porotaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](952.md) `952/2005`
+- [Verohallituksen päätös verovapaista matkakustannusten korvauksista vuonna 2006](953.md) `953/2005`
+- [Laki alueiden kehittämislain muuttamisesta](954.md) `954/2005`
+- [Laki Tanskan, Suomen, Islannin, Norjan ja Ruotsin välisen väestön rekisteröintiä koskevan sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](955.md) `955/2005`
+- [Laki kotikuntalain muuttamisesta](956.md) `956/2005`
+- [Laki väestötietolain muuttamisesta](957.md) `957/2005`
+- [Tasavallan presidentin asetus Puolan kanssa yhteistyöstä energiansäästön ja ympäristönsuojelun alalla tehdyn sopimuksen voimaansaattamisesta annetun asetuksen kumoamisesta](958.md) `958/2005`
+- [Sisäasiainministeriön asetus lääninhallituksen suoritteiden maksuista](959.md) `959/2005`
+- [Liikenne\- ja viestintäministeriön asetus joukkoliikenteen tarkastusmaksun suuruudesta](960.md) `960/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta luonnonmukaisesta eläintuotannosta annetun asetuksen muuttamisesta](961.md) `961/2005`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain 12 b §:ssä tarkoitetun työntekijäin eläkemaksun vahvistamisesta](962.md) `962/2005`
+- [Sosiaali\- ja terveysministeriön asetus maatalousyrittäjien eläkelain 10 §:ssä tarkoitettujen perusprosenttien ja yrittäjien eläkelain 9 §:ssä tarkoitettujen maksuprosenttien vahvistamisesta](963.md) `963/2005`
+- [Liikenne\- ja viestintäministeriön asetus Viestintäviraston radiohallinnollisista suoritteista perittävistä maksuista](964.md) `964/2005`
+- [Valtioneuvoston asetus maatalouden tutkimuskeskuksesta annetun asetuksen kumoamisesta](965.md) `965/2005`
+- [Valtiovarainministeriön työjärjestys](966.md) `966/2005`
+- [Sisäasiainministeriön asetus muutto\- ja maastamuuttoilmoitusten vastaanottamiseen liittyvien tehtävien jakamisesta maistraattien kesken](967.md) `967/2005`
+- [Laki tuloverolain 136 §:n muuttamisesta](968.md) `968/2005`
+- [Laki perintö\- ja lahjaverolain 24 §:n muuttamisesta](969.md) `969/2005`
+- [Laki rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun lain muuttamisesta](970.md) `970/2005`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 9 §:n muuttamisesta](971.md) `971/2005`
+- [Valtioneuvoston asetus vuodelta 2005 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](972.md) `972/2005`
+- [Valtioneuvoston asetus vuodelta 2005 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen muuttamisesta](973.md) `973/2005`
+- [Valtioneuvoston asetus vuodelta 2005 maksettavasta lihan kuljetusavustuksesta](974.md) `974/2005`
+- [Valtioneuvoston asetus vuodelta 2006 maksettavasta eräiden peltokasvien ja nautojen tuotantopalkkiosta](975.md) `975/2005`
+- [Valtioneuvoston asetus vuodelta 2005 maksettavasta ympäristötuen kansallisesta lisäosasta annetun valtioneuvoston asetuksen 9 §:n muuttamisesta](976.md) `976/2005`
+- [Valtioneuvoston asetus vaatimustenmukaisuuden arviointiasiain neuvottelukunnasta](977.md) `977/2005`
+- [Liikenne\- ja viestintäministeriön asetus Tiehallinnon maksuista](978.md) `978/2005`
+- [Laki tullilain 9 a §:n kumoamisesta](979.md) `979/2005`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen tehtyjen muutosten voimaansaattamisesta](980.md) `980/2005`
+- [Liikenne\- ja viestintäministeriön asetus Merenkulkulaitoksen maksullisista suoritteista](981.md) `981/2005`
+- [Sisäasiainministeriön asetus pysäköintivirhemaksusta](982.md) `982/2005`
+- [Laki rikoslain 2 a luvun 5 §:n muuttamisesta](983.md) `983/2005`
+- [Laki rangaistusten täytäntöönpanosta annetun lain 2 luvun 1 a ja 1 d §:n muuttamisesta](984.md) `984/2005`
+- [Laki sakon täytäntöönpanosta annetun lain muuttamisesta](985.md) `985/2005`
+- [Laki vankeuslain 3 luvun 5 §:n muuttamisesta](986.md) `986/2005`
+- [Laki kirkkolain 22 luvun 8 §:n muuttamisesta](987.md) `987/2005`
+- [Laki verontilityslain 13 §:n muuttamisesta](988.md) `988/2005`
+- [Laki kirkon keskusrahastosta annetun lain 9 §:n muuttamisesta](989.md) `989/2005`
+- [Laki valtion vientitakuista annetun lain muuttamisesta](990.md) `990/2005`
+- [Laki valtiontakuurahastosta annetun lain 4 ja 6 §:n muuttamisesta](991.md) `991/2005`
+- [Laki valtion erityisrahoitusyhtiöstä annetun lain muuttamisesta](992.md) `992/2005`
+- [Laki valtion erityisrahoitusyhtiön luotto\- ja takaustoiminnasta annetun lain muuttamisesta](993.md) `993/2005`
+- [Maa\- ja metsätalousministeriön asetus alueelliseen maaseudun kehittämisohjelmaan sisältyvien tukien hakuajan päättymisestä](994.md) `994/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 kansallisten kotieläintukien maksatuksesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](995.md) `995/2005`
+- [Vuoden 2005 kolmas lisätalousarvio](996.md) `996/2005`
+- [Laki työnantajan kansaneläkemaksun suuruudesta vuonna 2006](997.md) `997/2005`
+- [Laki kansaneläkelain 62 §:n muuttamisesta](998.md) `998/2005`
+- [Laki valtion vuonna 1999 kansaneläkelaitokselle suorittaman takuusuorituksen vähentämisestä annetun lain 1 ja 2 §:n muuttamisesta](999.md) `999/2005`
+- [Laki työntekijäin eläkemaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta eräissä päivärahoissa](1000.md) `1000/2005`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain 10 ja 18 §:n muuttamisesta](1001.md) `1001/2005`
+- [Valtioneuvoston asetus yrittäjien eläkeasetuksen 17 a §:n muuttamisesta](1002.md) `1002/2005`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden elintarvikkeen kanssa kosketukseen joutuvista tarvikkeista annettujen kauppa\- ja teollisuusministeriön asetusten kumoamisesta](1003.md) `1003/2005`
+- [Ulkoasiainministeriön ilmoitus Ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](1004.md) `1004/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kotieläinten jalostusaineksen polveutumistodistuksista](1005.md) `1005/2005`
+- [Verohallituksen päätös vuodelta 2006 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](1006.md) `1006/2005`
+- [Laki luopumiseläkelain 13 §:n muuttamisesta](1007.md) `1007/2005`
+- [Laki työttömyysturvalain 15 luvun 1 §:n muuttamisesta](1008.md) `1008/2005`
+- [Laki työttömyysturvalain 12 luvun 3 §:n muuttamisesta](1009.md) `1009/2005`
+- [Liikenne\- ja viestintäministeriön asetus Ajoneuvohallintokeskuksen maksuista](1010.md) `1010/2005`
+- [Maa\- ja metsätalousministeriön asetus lammas\- ja vuohieläinten tunnistimien hyväksymisestä](1011.md) `1011/2005`
+- [Tiedonanto presidenttiehdokkaista](1012.md) `1012/2005`
+- [Laki ammatillisesta aikuiskoulutuksesta annetun lain muuttamisesta](1013.md) `1013/2005`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](1014.md) `1014/2005`
+- [Laki rikosasioiden ja eräiden riita\-asioiden sovittelusta](1015.md) `1015/2005`
+- [Laki vakuutuskassalain muuttamisesta](1016.md) `1016/2005`
+- [Laki Vakuutusvalvontavirastosta annetun lain 2 §:n 17 kohdan kumoamisesta](1017.md) `1017/2005`
+- [Laki merimieseläkelain 38 §:n muuttamisesta](1018.md) `1018/2005`
+- [Laki aravarajoituslain muuttamisesta](1019.md) `1019/2005`
+- [Laki vuokra\-asuntolainojen ja asumisoikeustalolainojen korkotuesta annetun lain 12 §:n muuttamisesta](1020.md) `1020/2005`
+- [Laki vuokra\-asuntojen korkotukilainalla rahoitettujen asuntojen vapautumisesta käyttörajoituksista annetun lain 2 §:n muuttamisesta](1021.md) `1021/2005`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1022.md) `1022/2005`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkekassan työntekijäin eläkelain 12 §:n mukaista vastuunjakoa varten laskettavista suureista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1023.md) `1023/2005`
+- [Sosiaali\- ja terveysministeriön asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 9 §:n mukaisista perusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1024.md) `1024/2005`
+- [Sosiaali\- ja terveysministeriön asetus taiteilijoiden ja eräiden erityisryhmiin kuuluvien työntekijäin eläkelain 7 §:n 5 momentin mukaisista perusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1025.md) `1025/2005`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2005 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista](1026.md) `1026/2005`
+- [Laki rataverolain 5 §:n muuttamisesta](1027.md) `1027/2005`
+- [Valtioneuvoston asetus eräiden kotimaan matkoilla liikennöivien matkustaja\-alusten turvallisuudesta annetun asetuksen muuttamisesta](1028.md) `1028/2005`
+- [Sisäasiainministeriön asetus Ulkomaalaisviraston suoritteiden maksullisuudesta](1029.md) `1029/2005`
+- [Kauppa\- ja teollisuusministeriön asetus Energiamarkkinaviraston maksullisista suoritteista](1030.md) `1030/2005`
+- [Sosiaali\- ja terveysministeriön asetus sotilasvammalain 18 §:n 2 momentissa tarkoitetun tulorajan tarkistamisesta](1031.md) `1031/2005`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveydenhuollon tuotevalvontakeskuksen maksullisista suoritteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1032.md) `1032/2005`
+- [Työministeriön asetus työhallinnon maksullisista suoritteista](1033.md) `1033/2005`
+- [Valtioneuvoston asetus asumistuen määräytymisperusteista vuodelle 2006](1034.md) `1034/2005`
+- [Valtioneuvoston asetus oikeushallinnon tietotekniikkakeskuksesta](1035.md) `1035/2005`
+- [Valtioneuvoston asetus tekijänoikeusasetuksen muuttamisesta](1036.md) `1036/2005`
+- [Opetusministeriön asetus ammatillisesta aikuiskoulutuksesta annetussa laissa tarkoitetusta tutkintorakenteesta](1037.md) `1037/2005`
+- [Valtioneuvoston asetus tietotekniikan käytöstä tullialalla tehdyn yleissopimuksen ja siihen liittyvän Euroopan yhteisöjen tuomioistuimen toimivaltaa koskevan pöytäkirjan voimaansaattamisesta sekä yleissopimuksen ja pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1038.md) `1038/2005`
+- [Valtioneuvoston asetus opintotukiasetuksen 13 §:n muuttamisesta](1039.md) `1039/2005`
+- [Valtioneuvoston asetus eläkkeensaajien asumistukilain mukaisista hoitomenoina hyväksyttävistä keskimääräisistä kustannuksista ja asumiskustannusten enimmäismääristä vuodelle 2006](1040.md) `1040/2005`
+- [Valtioneuvoston asetus yksityisten sosiaalipalvelujen valvonnasta annetun asetuksen muuttamisesta](1041.md) `1041/2005`
+- [Valtioneuvoston asetus eräille ulkomaalaisille vapaaehtoisille rintamasotilaille maksettavasta rintama\-avustuksesta](1042.md) `1042/2005`
+- [Sisäasiainministeriön asetus holhoustoimessa tarvittavan edunvalvontapalvelun tuottajalle maksettavasta korvauksesta](1043.md) `1043/2005`
+- [Kauppa\- ja teollisuusministeriön asetus julkisesti tuetusta korontasaustoiminnasta](1044.md) `1044/2005`
+- [LUETTELO kuntien ja seurakuntien tuloveroprosenteista vuonna 2006](1045.md) `1045/2005`
+- [Valtioneuvoston asetus traktoreiden, niiden perävaunujen ja traktoreilla vedettävien vaihdettavissa olevien koneiden EY\-tyyppihyväksynnästä annetun valtioneuvoston asetuksen liitteen muuttamisesta](1046.md) `1046/2005`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkemaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta sairausvakuutusjärjestelmän mukaisissa päivärahoissa ja Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain mukaisissa kuntoutusrahoissa](1047.md) `1047/2005`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkemaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta työttömyysturvalain perusteella maksettavissa päivärahoissa](1048.md) `1048/2005`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkemaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta tapaturmavakuutuslain perusteella maksettavissa päivärahoissa](1049.md) `1049/2005`
+- [Puolustusministeriön asetus puolustusministeriön hallinnonalan maksullisista suoritteista](1050.md) `1050/2005`
+- [Valtiovarainministeriön asetus julkishallinnon ja \-talouden tilintarkastajan tutkinnosta ja tutkintoon vaadittavista opinnoista](1051.md) `1051/2005`
+- [Opetusministeriön asetus yliopistojen maisteriohjelmista annetun opetusministeriön asetuksen muuttamisesta](1052.md) `1052/2005`
+- [Sosiaali\- ja terveysministeriön asetus muuntogeenisten mikro\-organismien suljetun käytön riskinarvioinnin periaatteista, suljetun käytön luokituksesta sekä eristämis\- ja muista suojatoimenpiteistä](1053.md) `1053/2005`
+- [Opetusministeriön asetus ylioppilastutkintolautakunnan suoritteiden maksullisuudesta annetun opetusministeriön asetuksen 2 §:n 1 momentin muuttamisesta](1054.md) `1054/2005`
+- [Opetusministeriön asetus tallentamattomien ääni\- ja kuvanauhojen ja muiden tallennuslaitteiden maahantuonnista ja valmistuksesta suoritettavan tekijänoikeudellisen maksun suuruudesta](1055.md) `1055/2005`
+- [Sosiaali\- ja terveysministeriön asetus sähköisen lääkemääräyksen kokeilusta annetun sosiaali\- ja terveysministeriön asetuksen 4 ja 20 §:n muuttamisesta](1056.md) `1056/2005`
+- [Tasavallan presidentin asetus Tsekin, Viron, Kyproksen, Latvian, Liettuan, Unkarin, Maltan, Puolan, Slovenian ja Slovakian osallistumisesta Euroopan talousalueeseen koskevan sopimuksen voimaansaattamisesta](1057.md) `1057/2005`
+- [Verohallituksen päätös kotieläinten arvon määräämisessä noudatettavista perusteista](1058.md) `1058/2005`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön tietopalvelukeskuksen maksullisista suoritteista](1059.md) `1059/2005`
+- [Puolustusministeriön asetus varusmiespalveluksessa olevan asevelvollisen ja vapaaehtoista asepalvelusta suorittavan naisen maksuttomien lomamatkojen lukumääristä ja matkakorvauksista](1060.md) `1060/2005`
+- [Sosiaali\- ja terveysministeriön asetus merimieseläkekassan perusteista merimieseläkelain 3 a §:n 2 ja 3 momentin mukaista vastuunjakoa varten annetun sosiaali\- ja terveysministeriön asetuksen liitteen 2 muuttamisesta](1061.md) `1061/2005`
+- [Sisäasiainministeriön asetus Pelastusopiston maksullisista suoritteista](1062.md) `1062/2005`
+- [Sosiaali\- ja terveysministeriön asetus perusteista, joiden mukaan eläkelaitokset vastaavat työntekijäin eläkelain 12 §:n 1 momentin 4 kohdassa tarkoitetuista kuluista annetun sosiaali\- ja terveysministeriön asetuksen 1 §:n muuttamisesta](1063.md) `1063/2005`
+- [Sosiaali\- ja terveysministeriön asetus  perusteista, joiden mukaan työntekijäin eläkelain 19 b §:ssä säädetty kertasuoritus lasketaan annetun sosiaali\- ja terveysministeriön asetuksen 2 §:n muuttamisesta](1064.md) `1064/2005`
+- [Sisäasiainministeriön asetus julkisen notaarin suoritteiden maksuista](1065.md) `1065/2005`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveysministeriön ja työsuojelun piirihallinnon maksullisista suoritteista](1066.md) `1066/2005`
+- [Verohallituksen päätös Rettig Group Oy Ab:n ja Tarkala Fastigheter Ab:n verottamisesta Konserniverokeskuksessa](1067.md) `1067/2005`
+- [Laki kuntien valtionosuuslain muuttamisesta](1068.md) `1068/2005`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain muuttamisesta](1069.md) `1069/2005`
+- [Laki lastensuojelulain 5 a―5 c §:n kumoamisesta](1070.md) `1070/2005`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](1071.md) `1071/2005`
+- [Laki ammatillisesta koulutuksesta annetun lain 46 §:n muuttamisesta](1072.md) `1072/2005`
+- [Laki ammatillisesta aikuiskoulutuksesta annetun lain 18 §:n 2 momentin kumoamisesta](1073.md) `1073/2005`
+- [Laki ammattikorkeakoululain 32 §:n 2 momentin ja 34 §:n kumoamisesta](1074.md) `1074/2005`
+- [Laki teatteri\- ja orkesterilain 6 a §:n muuttamisesta](1075.md) `1075/2005`
+- [Laki museolain muuttamisesta](1076.md) `1076/2005`
+- [Laki valtionavustuslain 3 §:n muuttamisesta](1077.md) `1077/2005`
+- [Laki väliaikaisesta työnantajan matalapalkkatuesta](1078.md) `1078/2005`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](1079.md) `1079/2005`
+- [Laki verotusmenettelystä annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1080.md) `1080/2005`
+- [Laki veronlisäyksestä ja viivekorosta annetun lain 5 §:n muuttamisesta](1081.md) `1081/2005`
+- [Laki ennakkoperintälain muuttamisesta](1082.md) `1082/2005`
+- [Laki arvonlisäverolain muuttamisesta](1083.md) `1083/2005`
+- [Laki perintö\- ja lahjaverolain muuttamisesta](1084.md) `1084/2005`
+- [Laki varainsiirtoverolain muuttamisesta](1085.md) `1085/2005`
+- [Laki verontilityslain 8 ja 16 §:n muuttamisesta](1086.md) `1086/2005`
+- [Laki kiinteistöverolain muuttamisesta](1087.md) `1087/2005`
+- [Laki tuloverolain 31 §:n muuttamisesta](1088.md) `1088/2005`
+- [Laki verotusmenettelystä annetun lain 16 §:n muuttamisesta](1089.md) `1089/2005`
+- [Laki vaikeavammaisille yrittäjille myönnettävistä veronhuojennuksista annetun lain 3 §:n muuttamisesta](1090.md) `1090/2005`
+- [Opetusministeriön asetus yliopistojen eräistä suoritteista perittävistä maksuista](1091.md) `1091/2005`
+- [Maa\- ja metsätalousministeriön asetus maatilatalouden rakennetuen ja vastaavan yritystoimintaan myönnettävän tuen kohdentamisesta vuonna 2006](1092.md) `1092/2005`
+- [Valtion talousarvio vuodelle 2006](1093.md) `1093/2005`
+- [Laki Rautatievirastosta](1094.md) `1094/2005`
+- [Laki Ratahallintokeskuksesta](1095.md) `1095/2005`
+- [Laki painelaitelain 27 §:n muuttamisesta](1096.md) `1096/2005`
+- [Laki eräiden liikennevahingonkorvausten sitomisesta palkkatasoon annetun lain 1 §:n muuttamisesta](1097.md) `1097/2005`
+- [Laki liikennevakuutuslain 12 a §:n muuttamisesta](1098.md) `1098/2005`
+- [Laki eräiden potilasvahinkokorvausten sitomisesta palkkatasoon annetun lain 1 §:n muuttamisesta](1099.md) `1099/2005`
+- [Laki potilasvahinkolain 10 a §:n muuttamisesta](1100.md) `1100/2005`
+- [Laki ympäristövahinkovakuutuksesta annetun lain 21 §:n muuttamisesta](1101.md) `1101/2005`
+- [Valtioneuvoston asetus maidon kuljetusavustuksesta vuonna 2005](1102.md) `1102/2005`
+- [Valtioneuvoston asetus lääkäri\- ja hammaslääkärikoulutuksen sekä yliopistotasoisen terveystieteellisen tutkimustoiminnan kustannuksiin suoritettavaan korvaukseen oikeutetuista palvelujen tuottajista](1103.md) `1103/2005`
+- [Liikenne\- ja viestintäministeriön asetus ilmatieteen laitoksen maksullisista suoritteista](1104.md) `1104/2005`
+- [Työministeriön asetus siviilipalvelusvelvollisen maksuttomien lomamatkojen lukumääristä ja matkakorvauksista](1105.md) `1105/2005`
+- [Valtioneuvoston asetus yksityisestä terveydenhuollosta annetun asetuksen muuttamisesta](1106.md) `1106/2005`
+- [Valtioneuvoston asetus lääketieteellisin perustein vaikeiksi arvioitavista sairauksista, joiden hoidossa käytettävien kliinisten ravintovalmisteiden kustannuksista sairausvakuutuslain perusteella korvataan 72 tai 42 prosenttia](1107.md) `1107/2005`
+- [Valtioneuvoston asetus lääketieteellisin perustein vaikeiksi ja pitkäaikaisiksi arvioitavista sairauksista, joiden lääkehoidon kustannuksista sairausvakuutuslain 5 luvun 6 §:n 2 momentin perusteella korvataan 72 tai 100 prosenttia](1108.md) `1108/2005`
+- [Valtioneuvoston asetus sairausvakuutuslain 5 luvun 9 §:n 4 momentissa tarkoitetusta omavastuuosuuden perimistä koskevasta poikkeuksesta](1109.md) `1109/2005`
+- [Valtioneuvoston asetus lääkkeiden hintalautakunnasta annetun valtioneuvoston asetuksen muuttamisesta](1110.md) `1110/2005`
+- [Sosiaali\- ja terveysministeriön asetus lääkevalmisteen kohtuullisen tukkuhinnan ja korvattavuuden hakemisesta ja hakemukseen liitettävistä selvityksistä](1111.md) `1111/2005`
+- [Laki työnantajan sosiaaliturvamaksusta vapauttamisesta eräissä kunnissa vuosina 2003―2005 annetun lain muuttamisesta](1112.md) `1112/2005`
+- [Laki sairausvakuutuslain muuttamisesta](1113.md) `1113/2005`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain muuttamisesta](1114.md) `1114/2005`
+- [Laki tuloverolain muuttamisesta](1115.md) `1115/2005`
+- [Laki vakuutetun sairausvakuutusmaksun, työnantajan sairausvakuutusmaksun ja työnantajan kansaneläkemaksun suuruudesta annetun lain kumoamisesta](1116.md) `1116/2005`
+- [Laki työterveyshuoltolain 14 §:n muuttamisesta](1117.md) `1117/2005`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 66 §:n muuttamisesta](1118.md) `1118/2005`
+- [Laki työntekijäin eläkelain 7 §:n muuttamisesta](1119.md) `1119/2005`
+- [Valtioneuvoston asetus työehtosopimuslaissa tarkoitettujen hyvityssakkojen enimmäismäärien tarkistamisesta](1120.md) `1120/2005`
+- [Laki alusten jääluokista ja jäänmurtaja\-avustuksesta](1121.md) `1121/2005`
+- [Väylämaksulaki](1122.md) `1122/2005`
+- [Valtioneuvoston asetus lääkärin perusterveydenhuollon lisäkoulutuksesta annetun asetuksen 4 §:n muuttamisesta](1123.md) `1123/2005`
+- [Maa\- ja metsätalousministeriön asetus uuhipalkkioiden kiintiöistä](1124.md) `1124/2005`
+- [Laki kuntien yleisestä kalleusluokituksesta annetun lain 6 §:n muuttamisesta](1125.md) `1125/2005`
+- [Laki autoverolain muuttamisesta](1126.md) `1126/2005`
+- [Vuoden 2006 tuloveroasteikkolaki](1127.md) `1127/2005`
+- [Laki tuloverolain muuttamisesta](1128.md) `1128/2005`
+- [Laki verontilityslain muuttamisesta](1129.md) `1129/2005`
+- [Laki eräiltä matkustaja\-aluksilta saadusta merityötulosta toimitetun ennakonpidätyksen väliaikaisesta maksuvapaudesta annetun lain 14 §:n muuttamisesta](1130.md) `1130/2005`
+- [Laki kiinteistöverolain muuttamisesta](1131.md) `1131/2005`
+- [Laki kaupparekisterilain 31 a §:n muuttamisesta](1132.md) `1132/2005`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 7 §:n kumoamisesta](1133.md) `1133/2005`
+- [Laki elinkeinotulon verottamisesta annetun lain 16 §:n muuttamisesta](1134.md) `1134/2005`
+- [Laki maatilatalouden tuloverolain 7 §:n muuttamisesta](1135.md) `1135/2005`
+- [Laki tuloverolain muuttamisesta](1136.md) `1136/2005`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](1137.md) `1137/2005`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta ja 19 §:n väliaikaisesta muuttamisesta](1138.md) `1138/2005`
+- [Valtioneuvoston asetus hyvityssakkojen enimmäismäärien tarkistamisesta](1139.md) `1139/2005`
+- [Valtiovarainministeriön asetus vuoden 2006 taidekilpailupalkintojen verovapaudesta](1140.md) `1140/2005`
+- [Laki varallisuusverolain kumoamisesta](1141.md) `1141/2005`
+- [Laki varojen arvostamisesta verotuksessa](1142.md) `1142/2005`
+- [Laki tuloverolain muuttamisesta](1143.md) `1143/2005`
+- [Laki perintö\- ja lahjaverolain muuttamisesta](1144.md) `1144/2005`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](1145.md) `1145/2005`
+- [Laki elinkeinotulon verottamisesta annetun lain 51 c ja 52 c §:n muuttamisesta](1146.md) `1146/2005`
+- [Laki tonnistoverolain 37 §:n muuttamisesta](1147.md) `1147/2005`
+- [Laki kansainvälisen kaksinkertaisen verotuksen poistamisesta annetun lain 1 ja 4 §:n muuttamisesta](1148.md) `1148/2005`
+- [Laki rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun lain muuttamisesta](1149.md) `1149/2005`
+- [Laki keskinäisestä virka\-avusta verotuksen alalla Suomen ja muiden Euroopan unionin jäsenvaltioiden toimivaltaisten viranomaisten välillä annetun lain 2 §:n muuttamisesta](1150.md) `1150/2005`
+- [Laki ennakkoperintälain muuttamisesta](1151.md) `1151/2005`
+- [Laki kiinteistöverolain muuttamisesta](1152.md) `1152/2005`
+- [Laki keskusverolautakunnasta annetun lain 5 §:n muuttamisesta](1153.md) `1153/2005`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 5 ja 6 §:n muuttamisesta](1154.md) `1154/2005`
+- [Laki tuloverolain muuttamisesta](1155.md) `1155/2005`
+- [Laki eräiden metsätalouden puhtaaseen tuloon liittyvien säännösten kumoamisesta](1156.md) `1156/2005`
+- [Laki Metsähallituksen erävalvonnasta](1157.md) `1157/2005`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain 14 ja 19 §:n muuttamisesta](1158.md) `1158/2005`
+- [Laki kiinteistönmuodostamislain muuttamisesta](1159.md) `1159/2005`
+- [Laki eräistä naapuruussuhteista annetun lain muuttamisesta](1160.md) `1160/2005`
+- [Laki rikoslain muuttamisesta](1161.md) `1161/2005`
+- [Laki nuorisorangaistuksesta annetun lain 6 §:n 4 momentin kumoamisesta](1162.md) `1162/2005`
+- [Laki aluksista aiheutuvan ympäristön pilaantumisen ehkäisemisestä annetun lain muuttamisesta](1163.md) `1163/2005`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](1164.md) `1164/2005`
+- [Laki puolustusvoimista annetun lain muuttamisesta](1165.md) `1165/2005`
+- [Laki apteekkimaksusta annetun lain 1 a ja 2 §:n muuttamisesta](1166.md) `1166/2005`
+- [Tasavallan presidentin asetus kansainvälisen kaupan kohteina olevia tiettyjä vaarallisia kemikaaleja ja torjunta\-aineita koskevan ilmoitetun ennakkosuostumuksen menettelystä tehdyn Rotterdamin yleissopimuksen liitteen VI voimaansaattamisesta](1167.md) `1167/2005`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen ja siihen liittyvään ohjeeseen teknisistä määräyksistä tarkastuksiin pääsykeinoista tehtyjen muutosten voimaansaattamisesta](1168.md) `1168/2005`
+- [Verohallituksen päätös niistä perusteista, joiden mukaan muun kiinteistön kuin maatilan maapohjan verotusarvo lasketaan vuodelta 2005 toimitettavassa verotuksessa](1169.md) `1169/2005`
+- [Tasavallan presidentin asetus Suomen ulkomaanedustustojen sijaintipaikoista annetun tasavallan presidentin asetuksen muuttamisesta](1170.md) `1170/2005`
+- [Valtioneuvoston asetus ulkoasiainministeriöstä](1171.md) `1171/2005`
+- [Valtioneuvoston asetus ulkoasiainhallinnosta annetun valtioneuvoston asetuksen muuttamisesta](1172.md) `1172/2005`
+- [Ulkoasiainministeriön asetus ulkoasiainhallinnon suoritteiden maksuista](1173.md) `1173/2005`
+- [Ulkoasiainministeriön työjärjestys](1174.md) `1174/2005`
+- [Liikenne\- ja viestintäministeriön asetus Viestintäviraston eräistä maksuista](1175.md) `1175/2005`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta tietyistä Uzbekistaniin kohdistuvista rajoittavista toimenpiteistä](1176.md) `1176/2005`
+- [Laki metsäkeskuksista ja metsätalouden kehittämiskeskuksesta annetun lain muuttamisesta](1177.md) `1177/2005`
+- [Laki työterveyslaitoksen toiminnasta ja rahoituksesta annetun lain muuttamisesta](1178.md) `1178/2005`
+- [Laki säteilylain muuttamisesta](1179.md) `1179/2005`
+- [Laki työttömyysturvalain muuttamisesta](1180.md) `1180/2005`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain muuttamisesta](1181.md) `1181/2005`
+- [Valtioneuvoston asetus työttömyysturvalautakunnasta annetun valtioneuvoston asetuksen 2 §:n 2 momentin kumoamisesta](1182.md) `1182/2005`
+- [Sosiaali\- ja terveysministeriön asetus valtion liikelaitoksen ja yrityksen osaomistajan työttömyysvakuutusmaksusta vuonna 2006](1183.md) `1183/2005`
+- [Laki asuntojen korjaus\-, energia\- ja terveyshaitta\-avustuksista](1184.md) `1184/2005`
+- [Laki asumistukilain 15 §:n muuttamisesta](1185.md) `1185/2005`
+- [Valtioneuvoston asetus yritysten yhteishankkeisiin myönnettävästä kansainvälistymisavustuksesta sekä yleisavustuksesta ulkomaankauppaa ja yritysten kansainvälistymistä edistäville järjestöille ja yhteisöille](1186.md) `1186/2005`
+- [Valtioneuvoston asetus maankäyttö\- ja rakennusasetuksen muuttamisesta](1187.md) `1187/2005`
+- [Ympäristöministeriön asetus Metsähallituksen eräiden julkisten hallintotehtävien suoritteiden maksuista](1188.md) `1188/2005`
+- [Sosiaali\- ja terveysministeriön asetus eräiden erityiseläkelaitosten tilinpäätöksestä ja konsernitilinpäätöksestä annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1189.md) `1189/2005`
+- [Laki televisio\- ja radiotoiminnasta annetun lain muuttamisesta](1190.md) `1190/2005`
+- [Laki raha\-arpajaisten sekä veikkaus\- ja vedonlyöntipelien tuoton käyttämisestä annetun lain 2 §:n muuttamisesta](1191.md) `1191/2005`
+- [Valtioneuvoston asetus museoista](1192.md) `1192/2005`
+- [Valtioneuvoston asetus mittatekniikan keskuksesta annetun asetuksen muuttamisesta](1193.md) `1193/2005`
+- [Valtioneuvoston asetus valtion teknillisestä tutkimuskeskuksesta annetun asetuksen muuttamisesta](1194.md) `1194/2005`
+- [Sosiaali\- ja terveysministeriön asetus vuoden 2006 liikenneturvallisuusmaksusta](1195.md) `1195/2005`
+- [Liikenne\- ja viestintäministeriön asetus kaksi\- ja kolmipyöräisten ajoneuvojen sekä nelipyörien rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen liitteiden 1 ja 2 muuttamisesta](1196.md) `1196/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta tuettavaa rakentamista koskevista paloteknisistä vaatimuksista annetun asetuksen muuttamisesta](1197.md) `1197/2005`
+- [Laki lähetetyistä työntekijöistä annetun lain muuttamisesta](1198.md) `1198/2005`
+- [Laki työturvallisuuslain muuttamisesta](1199.md) `1199/2005`
+- [Laki vapaasta sivistystyöstä annetun lain muuttamisesta](1200.md) `1200/2005`
+- [Valtioneuvoston asetus vapaasta sivistystyöstä annetun asetuksen muuttamisesta](1201.md) `1201/2005`
+- [Valtioneuvoston asetus ammatillisesta aikuiskoulutuksesta annetun asetuksen muuttamisesta](1202.md) `1202/2005`
+- [Valtioneuvoston asetus kuntien valtionosuudesta annetun asetuksen 1 ja 2 a §:n muuttamisesta](1203.md) `1203/2005`
+- [Rikosvahinkolaki](1204.md) `1204/2005`
+- [Laki henkilövahinkoasiain neuvottelukunnasta annetun lain 2 ja 3 §:n muuttamisesta](1205.md) `1205/2005`
+- [Laki sakon täytäntöönpanosta annetun lain muuttamisesta](1206.md) `1206/2005`
+- [Valtioneuvoston asetus Valtiokonttorin ja toisen Euroopan unionin jäsenvaltion viranomaisen välisestä yhteistyöstä rikosvahinkojen korvaamisessa](1207.md) `1207/2005`
+- [Valtioneuvoston asetus oikeusavusta annetun valtioneuvoston asetuksen 26 §:n muuttamisesta](1208.md) `1208/2005`
+- [Valtioneuvoston asetus alle 18\-vuotiaana vahinkoa kärsineen ansiotulon määrästä](1209.md) `1209/2005`
+- [Laki asumisoikeusasunnoista annetun lain muuttamisesta](1210.md) `1210/2005`
+- [Laki aravalain 15 b ja 15 e §:n muuttamisesta](1211.md) `1211/2005`
+- [Laki vuokra\-asuntolainojen ja asumisoikeustalolainojen korkotuesta annetun lain 25 ja 27 a §:n muuttamisesta](1212.md) `1212/2005`
+- [Liikenne\- ja viestintäministeriön asetus liikenne\- ja viestintäministeriön maksullisista suoritteista](1213.md) `1213/2005`
+- [Maa\- ja metsätalousministeriön asetus kalastuksen tahattomien valassaaliiden tarkkailusta](1214.md) `1214/2005`
+- [Laki maahanmuuttajien kotouttamisesta ja turvapaikanhakijoiden vastaanotosta annetun lain muuttamisesta](1215.md) `1215/2005`
+- [Laki julkisesta työvoimapalvelusta annetun lain muuttamisesta](1216.md) `1216/2005`
+- [Laki työttömyysturvalain muuttamisesta](1217.md) `1217/2005`
+- [Laki toimeentulotuesta annetun lain muuttamisesta](1218.md) `1218/2005`
+- [Laki kuntien valtionosuuslain muuttamisesta](1219.md) `1219/2005`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain 18 §:n muuttamisesta](1220.md) `1220/2005`
+- [Valtioneuvoston asetus julkisesta työvoimapalvelusta annetun valtioneuvoston asetuksen muuttamisesta](1221.md) `1221/2005`
+- [Valtioneuvoston asetus julkiseen työvoimapalveluun kuuluvista etuuksista annetun valtioneuvoston asetuksen muuttamisesta](1222.md) `1222/2005`
+- [Valtioneuvoston asetus julkisen työvoimapalvelun toimeenpanosta annetun valtioneuvoston asetuksen muuttamisesta](1223.md) `1223/2005`
+- [Valtioneuvoston asetus työttömyysetuuden työvoimapoliittisista edellytyksistä annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](1224.md) `1224/2005`
+- [Valtioneuvoston asetus työttömyysturvalain täytäntöönpanosta annetun valtioneuvoston asetuksen muuttamisesta](1225.md) `1225/2005`
+- [Maa\- ja metsätalousministeriön asetus lihasta ja lihatuotteista Euroopan yhteisön sisämarkkinakaupassa annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](1226.md) `1226/2005`
+- [Laki tuloverolain muuttamisesta](1227.md) `1227/2005`
+- [Valtioneuvoston asetus rajoitetusti verovelvollisen tulon verottamisesta](1228.md) `1228/2005`
+- [Valtioneuvoston asetus Luotsausliikelaitoksen luotsausmaksusta](1229.md) `1229/2005`
+- [Valtioneuvoston asetus kuntien yleisestä kalleusluokituksesta](1230.md) `1230/2005`
+- [Valtioneuvoston asetus kuntien ryhmityksestä kansaneläkkeen maksamista varten](1231.md) `1231/2005`
+- [Valtioneuvoston asetus kuntien ryhmityksestä perhe\-eläkkeen maksamista varten](1232.md) `1232/2005`
+- [Sosiaali\- ja terveysministeriön asetus paikkakuntien kalleusluokituksesta sotilasvammalain mukaisen huoltoeläkkeen ja täydennyskoron maksamista varten](1233.md) `1233/2005`
+- [Laki tapaturmavakuutuslain muuttamisesta](1234.md) `1234/2005`
+- [Valtioneuvoston asetus valtioneuvoston ohjesäännön muuttamisesta](1235.md) `1235/2005`
+- [Valtioneuvoston asetus ajoneuvojen rekisteröinnistä annetun asetuksen 48 §:n muuttamisesta](1236.md) `1236/2005`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon vuoden 2006 voimavaroista annetun valtioneuvoston asetuksen muuttamisesta](1237.md) `1237/2005`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon valtionosuuden laskennassa käytettävistä syrjäisyyskertoimista](1238.md) `1238/2005`
+- [Valtioneuvoston asetus työnantajan sosiaaliturvamaksusta annetun asetuksen muuttamisesta](1239.md) `1239/2005`
+- [Sosiaali\- ja terveysministeriön asetus työterveyshuollon erikoislääkärikoulutuksen kustannuksiin valtion varoista suoritettavasta määrärahasta](1240.md) `1240/2005`
+- [Sosiaali\- ja terveysministeriön asetus lääkkeiden hintalautakunnan maksullisista suoritteista](1241.md) `1241/2005`
+- [Ilmailulaki](1242.md) `1242/2005`
+- [Valtioneuvoston asetus sotilasilmailusta](1243.md) `1243/2005`
+- [Valtioneuvoston asetus puolustusvoimista annetun asetuksen muuttamisesta](1244.md) `1244/2005`
+- [Laki Ilmailulaitoksesta](1245.md) `1245/2005`
+- [Valtioneuvoston asetus Ilmailulaitoksesta](1246.md) `1246/2005`
+- [Laki Ilmailuhallinnosta](1247.md) `1247/2005`
+- [Valtioneuvoston asetus Ilmailuhallinnosta](1248.md) `1248/2005`
+- [Laki lentoliikenteen valvontamaksusta](1249.md) `1249/2005`
+- [Liikenne\- ja viestintäministeriön asetus Ilmailuhallinnon maksullisista suoritteista](1250.md) `1250/2005`
+- [Laki aluevalvontalain muuttamisesta](1251.md) `1251/2005`
+- [Laki meripelastuslain 4 ja 14 §:n muuttamisesta](1252.md) `1252/2005`
+- [Laki terveydenhuollon oikeusturvakeskuksesta annetun lain 1 §:n muuttamisesta](1253.md) `1253/2005`
+- [Laki kansanterveyslain muuttamisesta](1254.md) `1254/2005`
+- [Laki työterveyshuoltolain 24 §:n muuttamisesta](1255.md) `1255/2005`
+- [Laki erikoissairaanhoitolain muuttamisesta](1256.md) `1256/2005`
+- [Laki mielenterveyslain muuttamisesta](1257.md) `1257/2005`
+- [Laki yksityisestä terveydenhuollosta annetun lain muuttamisesta](1258.md) `1258/2005`
+- [Laki tartuntatautilain muuttamisesta](1259.md) `1259/2005`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain 35 ja 36 §:n kumoamisesta](1260.md) `1260/2005`
+- [Laki terveydenhuollon ammattihenkilöistä annetun lain muuttamisesta](1261.md) `1261/2005`
+- [Laki sosiaali\- ja terveydenhuollon saumattoman palveluketjun kokeilusta annetun lain 30 §:n muuttamisesta](1262.md) `1262/2005`
+- [Valtioneuvoston asetus työterveyslaitoksen toiminnasta ja rahoituksesta annetun asetuksen muuttamisesta](1263.md) `1263/2005`
+- [Valtioneuvoston asetus säteilyasetuksen muuttamisesta](1264.md) `1264/2005`
+- [Valtioneuvoston asetus työttömyysetuutta määrättäessä huomioon otettavasta tulosta annetun asetuksen 2 §:n muuttamisesta](1265.md) `1265/2005`
+- [Valtioneuvoston asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen muuttamisesta](1266.md) `1266/2005`
+- [Valtioneuvoston asetus sairausvakuutuslain täytäntöönpanosta annetun valtioneuvoston asetuksen muuttamisesta](1267.md) `1267/2005`
+- [Sosiaali\- ja terveysministeriön asetus yksityisten sosiaalipalvelujen valvonnasta](1268.md) `1268/2005`
+- [Työministeriön asetus työssäkäyntialueista annetun työministeriön asetuksen muuttamisesta](1269.md) `1269/2005`
+- [Työministeriön asetus työvoimapoliittisen lausunnon antamisesta ja lausuntoon merkittävistä asioista annetun työministeriön asetuksen muuttamisesta](1270.md) `1270/2005`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskorosta](1271.md) `1271/2005`
+- [Valtioneuvoston asetus henkilövahinkoasiain neuvottelukunnasta](1272.md) `1272/2005`
+- [Valtioneuvoston asetus Metsähallituksen erävalvonnasta](1273.md) `1273/2005`
+- [Valtioneuvoston asetus metsäkeskuksista ja metsätalouden kehittämiskeskuksesta annetun asetuksen muuttamisesta](1274.md) `1274/2005`
+- [Maa\- ja metsätalousministeriön asetus Metsähallituksen erätarkastajan virkamerkistä](1275.md) `1275/2005`
+- [Maa\- ja metsätalousministeriön asetus  eräiden Metsähallituksen julkisten hallintotehtävien suoritteiden maksuista](1276.md) `1276/2005`
+- [Opetusministeriön asetus Museoviraston suoritteiden maksullisuudesta](1277.md) `1277/2005`
+- [Opetusministeriön asetus Suomen elokuva\-arkiston suoritteiden maksullisuudesta](1278.md) `1278/2005`
+- [Opetusministeriön asetus taiteen keskustoimikunnan ja alueellisten taidetoimikuntien suoritteiden maksullisuudesta](1279.md) `1279/2005`
+- [Valtioneuvoston asetus tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista annetun lain 3 §:ssä säädettyjen maksujen tarkistamisesta](1280.md) `1280/2005`
+- [Valtioneuvoston asetus käräjäoikeuksien tuomiopiireistä ulosottovalituksia koskevissa asioissa annetun asetuksen 1 §:n muuttamisesta](1281.md) `1281/2005`
+- [Valtioneuvoston asetus tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista](1282.md) `1282/2005`
+- [Oikeusministeriön asetus julkisen notaarin suoritteiden maksuista](1283.md) `1283/2005`
+- [Oikeusministeriön asetus valtion oikeusaputoimistoista annetun oikeusministeriön asetuksen muuttamisesta](1284.md) `1284/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden maatilalain mukaisten myyntihintasaamisten ja lainojen viitekorosta](1285.md) `1285/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden porotalouden ja luontaiselinkeinojen rahoituslain mukaisten asuntolainojen viitekorosta](1286.md) `1286/2005`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvilajikkeiden lajikeluettelosta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1287.md) `1287/2005`

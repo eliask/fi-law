@@ -1,0 +1,115 @@
+# 1978 Statutes
+
+## Statutes
+
+- [Laki leimaverolain muuttamisesta\.](2.md) `2/1978`
+- [Laki perintökaaren 5 luvun 2 ja 3 §:n muuttamisesta](19.md) `19/1978`
+- [Laki perintökaaren voimaanpanosta annetun lain 6 §:n muuttamisesta](20.md) `20/1978`
+- [Kuluttajansuojalaki](38.md) `38/1978`
+- [Laki kuluttaja\-asiamiehestä](40.md) `40/1978`
+- [Laki markkinatuomioistuimesta](41.md) `41/1978`
+- [Laki kuluttajavalituslautakunnasta\.](42.md) `42/1978`
+- [Asetus yrittäjien eläkeasetuksen muuttamisesta](88.md) `88/1978`
+- [Asetus valtion eläkelain voimaanpanolain täytäntöönpanosta ja soveltamisesta annetun asetuksen 2 §:n muuttamisesta](132.md) `132/1978`
+- [Laki työterveyslaitoksen toiminnasta ja rahoituksesta](159.md) `159/1978`
+- [Asetus kaupunginviskaaleista](181.md) `181/1978`
+- [Asetus yksityisoikeudellista vaatimusta koskevien pohjoismaisten tuomioiden täytäntöönpanosta annetun asetuksen muuttamisesta](200.md) `200/1978`
+- [Laki vuosilomalain muuttamisesta](233.md) `233/1978`
+- [Asetus sakkorangaistuksen täytäntöönpanosta annetun asetuksen muuttamisesta](235.md) `235/1978`
+- [Asetus kaavoitusalueiden jakoasetuksen 112 §:n muuttamisesta](239.md) `239/1978`
+- [Asetus rakennusasetuksen muuttamisesta](268.md) `268/1978`
+- [Laki työntekijäin eläkelain muuttamisesta](274.md) `274/1978`
+- [Asetus työntekijäin eläkeasetuksen muuttamisesta](276.md) `276/1978`
+- [Asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkeasetuksen muuttamisesta](277.md) `277/1978`
+- [Asetus maatalousyrittäjien eläkeasetuksen muuttamisesta](278.md) `278/1978`
+- [Asetus yrittäjien eläkeasetuksen muuttamisesta](279.md) `279/1978`
+- [Valtioneuvoston päätös viranomaisten yhteistoiminnasta räjähdysainetarkastusten suorittamisessa\.](280.md) `280/1978`
+- [Asetus valtion virkamiesten vuosilomasta annetun asetuksen muuttamisesta](282.md) `282/1978`
+- [Valtioneuvoston päätös valtion työntekijäin vuosilomista](284.md) `284/1978`
+- [Asetus saamelaisalueen ammatillisesta koulutuskeskuksesta](302.md) `302/1978`
+- [Laki evankelis\-luterilaisen kirkon sopimusvaltuuskunnasta annetun lain muuttamisesta](348.md) `348/1978`
+- [Laki Suomen lipusta](380.md) `380/1978`
+- [Laki Suomen vaakunasta](381.md) `381/1978`
+- [Asetus liputuksesta Suomen lipulla](383.md) `383/1978`
+- [Laki oikeudesta hankkia maa\- ja metsätalousmaata](391.md) `391/1978`
+- [Laki leimaverolain muuttamisesta](393.md) `393/1978`
+- [Laki sotilasvammalain muuttamisesta](398.md) `398/1978`
+- [Kauppaliikkeiden ja toimistojen työaikalaki](400.md) `400/1978`
+- [Muutos eduskunnan oikeusasiamiehen johtosääntöön](403.md) `403/1978`
+- [Laki leimaverolain muuttamisesta](416.md) `416/1978`
+- [Merimieslaki](423.md) `423/1978`
+- [Laki Suomen kalastusvyöhykkeestä annetun lain 1 §:n muuttamisesta](433.md) `433/1978`
+- [Laki kulttuuriesineiden maastaviennin rajoittamisesta](445.md) `445/1978`
+- [Laki työsopimuslain muuttamisesta](476.md) `476/1978`
+- [Laki leimaverolain 10 ja 14 §:n väliaikaisesta muuttamisesta\.](486.md) `486/1978`
+- [Asetus hengenpelastusmitalista\.](487.md) `487/1978`
+- [Asetus sairausvakuutusasetuksen 6 §:n muuttamisesta](493.md) `493/1978`
+- [Laki valtion eläkelain 6 §:n muuttamisesta](498.md) `498/1978`
+- [Asetus työterveyslaitoksen toiminnasta ja rahoituksesta](501.md) `501/1978`
+- [Asetus markkinatuomioistuimesta](508.md) `508/1978`
+- [Asetus kuluttajavalituslautakunnasta](533.md) `533/1978`
+- [Laki kansaneläkelain muuttamisesta](588.md) `588/1978`
+- [Laki perhe\-eläkelain muuttamisesta](589.md) `589/1978`
+- [Eläkkeensaajien asumistukilaki](591.md) `591/1978`
+- [Laki työntekijäin eläkelain muuttamisesta](593.md) `593/1978`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijän eläkelain 5 §:n muuttamisesta](594.md) `594/1978`
+- [Laki yrittäjien eläkelain 1 ja 7 §:n muuttamisesta](596.md) `596/1978`
+- [Veronkantolaki](611.md) `611/1978`
+- [Laki ennakkoperintälain muuttamisesta](612.md) `612/1978`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain muuttamisesta](613.md) `613/1978`
+- [Laki sairausvakuutuslain muuttamisesta](614.md) `614/1978`
+- [Laki metsänhoitoyhdistyksistä annetun lain 12 §:n muuttamisesta](615.md) `615/1978`
+- [Laki perintö\- ja lahjaverolain muuttamisesta](616.md) `616/1978`
+- [Laki liiketoiminnan perusteella suoritettavista suhdannetalletuksista annetun lain muuttamisesta](618.md) `618/1978`
+- [Laki eräistä talonrakennustöistä suoritettavasta investointiverosta annetun lain muuttamisesta](619.md) `619/1978`
+- [Laki leimaverolain muuttamisesta](620.md) `620/1978`
+- [Laki verotuslain muuttamisesta](623.md) `623/1978`
+- [Laki kirjanpitolain muuttamisesta](644.md) `644/1978`
+- [Laki oikeudenkäymiskaaren muuttamisesta\.](661.md) `661/1978`
+- [Laki eräiden asiakirjain lähettämisestä tuomioistuimille annetun lain muuttamisesta](663.md) `663/1978`
+- [Laki leimaverolain muuttamisesta](664.md) `664/1978`
+- [Laki vaarallisten rikoksenuusijain eristämisestä annetun lain 4 §:n muuttamisesta](665.md) `665/1978`
+- [Laki rakennuslain muuttamisesta](671.md) `671/1978`
+- [Laki yleisistä teistä annetun lain 11 §:n muuttamisesta](676.md) `676/1978`
+- [Laki oikeudesta luovuttaa valtion maaomaisuutta ja tuloatuottavia oikeuksia](687.md) `687/1978`
+- [Laki eräiden kruununluontoisten tilojen ja tilanosien järjestelystä annetun lain 8 §:n muuttamisesta](690.md) `690/1978`
+- [Laki oikeudesta yleisiin vesialueisiin annetun lain 5 §:n muuttamisesta](691.md) `691/1978`
+- [Asetus oikeudesta luovuttaa valtion maaomaisuutta ja tuloatuottavia oikeuksia](693.md) `693/1978`
+- [Laki yhteistoiminnasta yrityksissä](725.md) `725/1978`
+- [Osakeyhtiölaki](734.md) `734/1978`
+- [Laki osakeyhtiölain voimaanpanosta](735.md) `735/1978`
+- [Laki konkurssisäännön 46 §:n muuttamisesta\.](740.md) `740/1978`
+- [Työterveyshuoltolaki](743.md) `743/1978`
+- [Laki kansanterveyslain muuttamisesta](744.md) `744/1978`
+- [Laki sairausvakuutuslain muuttamisesta](745.md) `745/1978`
+- [Asetus valtion kasvatuslaitoksista](769.md) `769/1978`
+- [Asetus elokuvanäytännöistä](809.md) `809/1978`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](821.md) `821/1978`
+- [Laki vesilain muuttamisesta](854.md) `854/1978`
+- [Laki vahingonkorvauslain 3 luvun 3 §:n kumoamisesta](857.md) `857/1978`
+- [Asetus tavara\-arpajaisasetuksen muuttamisesta](861.md) `861/1978`
+- [Veronkantoasetus](903.md) `903/1978`
+- [Ennakkoperintäasetus](904.md) `904/1978`
+- [Laki leimaverolain muuttamisesta](916.md) `916/1978`
+- [Asetus työnantajan sosiaaliturvamaksusta](940.md) `940/1978`
+- [Laki kansanedustajain vaaleista annetun lain 66 ja 67 §:n muuttamisesta\.](967.md) `967/1978`
+- [Laki oikeudenkäymiskaaren 25 luvun 21 §:n muuttamisesta\.](968.md) `968/1978`
+- [Laki työntekijäin eläkelain 7 §:n muuttamisesta](980.md) `980/1978`
+- [Asetus sairausvakuutusasetuksen muuttamisesta](985.md) `985/1978`
+- [Laki Pohjoismaiden Investointipankin palveluksessa olevan henkilön verottamisesta annetun lain muuttamisesta\.](1030.md) `1030/1978`
+- [Laki ennakkoperintälain muuttamisesta](1032.md) `1032/1978`
+- [Laki veronkantolain 23 ja 30 §:n muuttamisesta](1034.md) `1034/1978`
+- [Laki verotuslain muuttamisesta](1035.md) `1035/1978`
+- [Laki leimaverolain muuttamisesta](1039.md) `1039/1978`
+- [Asetus poliisi\-, tulli\- ja rajavartioviranomaisten yhteistoiminnasta\.](1051.md) `1051/1978`
+- [Laki talousneuvostosta annetun lain 5 §:n muuttamisesta](1059.md) `1059/1978`
+- [Laki sopimattomasta menettelystä elinkeinotoiminnassa\.](1061.md) `1061/1978`
+- [Laki markkinatuomioistuimesta annetaan lain muuttamisesta](1062.md) `1062/1978`
+- [Laki kauppaliikkeiden ja toimistojen työaikalain muuttamisesta](1066.md) `1066/1978`
+- [Asetus vankeusrangaistuksen täytäntöönpanosta annetun asetuksen 1 ja 2 §:n muuttamisesta](1070.md) `1070/1978`
+- [Oikeusministeriön päätös yleisen asianajajayhdistyksen sääntöjen vahvistamisesta annetun oikeusministeriön päätöksen muuttamisesta](1076.md) `1076/1978`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](1090.md) `1090/1978`
+- [Laki leimaverolain muuttamisesta](1093.md) `1093/1978`
+- [Investointivarauslaki\.](1094.md) `1094/1978`
+- [Laki verotuslain muuttamisesta](1096.md) `1096/1978`
+- [Laki perintö\- ja lahjaverolain 69 §:n 2 ja 3 momentin kumoamisesta](1097.md) `1097/1978`

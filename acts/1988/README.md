@@ -1,0 +1,1388 @@
+# 1988 Statutes
+
+## Statutes
+
+- [Valtioneuvoston päätös investointiveron kantamisesta](1.md) `1/1988`
+- [Valtioneuvoston päätös investointivarausten käyttämisestä annetun valtioneuvoston päätöksen 2§:n muuttamisesta](2.md) `2/1988`
+- [Valtiovarainministeriön päätös eräiden tavaroiden vapauttamisesta tasausverosta](3.md) `3/1988`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta annetun Suomen Pankin päätöksen muuttamisesta](4.md) `4/1988`
+- [Valtioneuvoston päätös elintarviketuotteiden hinnanerokorvauksista](5.md) `5/1988`
+- [Valtioneuvoston päätös polttoaineveromäärien muuttamisesta](6.md) `6/1988`
+- [Valtioneuvoston päätös nestemäisten polttoaineiden hinnoista](7.md) `7/1988`
+- [Maa\- ja metsätalousministeriön päätös maanmittaustoimituksista ja tehtävistä perittävistä työaikakorvauksista ja täydentämiskorvauksista sekä lohkomisista ja halkomisista perittävistä pinta\-alakorvauksista](8.md) `8/1988`
+- [Laki tasavallan presidentin palkkiosta](9.md) `9/1988`
+- [Laki tasavallan presidentin eläkeoikeudesta](10.md) `10/1988`
+- [Valtioneuvoston työllisyysehtopäätös](11.md) `11/1988`
+- [Valtioneuvoston päätös ulkomaanliikenteen lastialusten korkokustannusten alentamiseksi myönnettävistä avustuksista](12.md) `12/1988`
+- [Oikeusministeriön päätös ehdonalaiseen vapauteen päästettyjen vankien määräämisestä työleiriin annetun oikeusministeriön päätöksen kumoamisesta](13.md) `13/1988`
+- [Laki ilmailuhallinnosta annetun lain 3 ja 4§:n kumoamisesta](14.md) `14/1988`
+- [Asetus Macaon kanssa eräiden tekstiilituotteiden Macaosta tapahtuvan tuonnin rajoittamisesta ja valvomisesta tehdyn sopimuksen muuttamista koskevan sopimuksen voimaansaattamisesta](15.md) `15/1988`
+- [Asetus VTT Technology Oy:n lainojen valtion takauksista](16.md) `16/1988`
+- [Asetus maataloustuotannon ohjaamisesta ja tasapainottamisesta annetun asetuksen muuttamisesta](17.md) `17/1988`
+- [Asetus eräiden kauppa\- ja teollisuusministeriön ja sen hallinnonalan virkojen perustamisesta ja lakkauttamisesta](18.md) `18/1988`
+- [Asetus puolustustaloudellisesta suunnittelukunnasta annetun asetuksen muuttamisesta](19.md) `19/1988`
+- [Asetus lääkelaboratoriosta annetun asetuksen 10§:n muuttamisesta](20.md) `20/1988`
+- [Valtioneuvoston päätös eräistä lohenkalastusta koskevista rajoituksista vuonna 1987 annetun asetuksen aiheuttamia taloudellisia menetyksiä koskevien avustusten maksamisperusteista](21.md) `21/1988`
+- [Valtioneuvoston päätös vuonna 1988 tehtävistä tuotannonmuutossopimuksista sekä metsityspalkkioista](22.md) `22/1988`
+- [Valtioneuvoston päätös vuonna 1988 tehtävistä maataloustuotannon vähentämissopimuksista](23.md) `23/1988`
+- [Valtioneuvoston päätös vuonna 1988 maksettavista pellon metsityspalkkioista](24.md) `24/1988`
+- [Valtioneuvoston päätös vuonna 1988 tehtävistä pellon kesannoimissopimuksista](25.md) `25/1988`
+- [Valtioneuvoston päätös vuonna 1988 tehtävistä maidontuotannon vähentämissopimuksista](26.md) `26/1988`
+- [Valtioneuvoston päätös rehuksi käytettävien maitotaloustuotteiden hinnanalennuskorvauksista](27.md) `27/1988`
+- [Valtioneuvoston päätös äitiysavustuksen suuruuden vahvistamisesta](28.md) `28/1988`
+- [Liikenneministeriön päätös alhaisemman televisiolupamaksun kantamisesta Enontekiön kunnan alueella annetun liikenneministeriön päätöksen kumoamisesta](29.md) `29/1988`
+- [Valtiovarainministeriön päätös vuonna 1988 kannettavan ennakon perusteeksi pantavasta tulosta](30.md) `30/1988`
+- [Asetus valtioneuvoston kansliasta annetun asetuksen muuttamisesta](31.md) `31/1988`
+- [Asetus tasavallan presidentin kanslian kansliasäännöstä](32.md) `32/1988`
+- [Asetus tasavallan presidentin kanslian eräiden virkojen nimien muuttamisesta](33.md) `33/1988`
+- [Asetus sisäasiainministeriön eräiden virkojen perustamisesta ja lakkauttamisesta](34.md) `34/1988`
+- [Asetus pankkitarkastusvirastosta annetun asetuksen muuttamisesta](35.md) `35/1988`
+- [Asetus valtion hevosjalostuslaitoksen suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](36.md) `36/1988`
+- [Asetus rehujen ja lannoitteiden tarkastuksesta suoritettavista maksuista ja palkkioista](37.md) `37/1988`
+- [Valtiovarainministeriön päätös Euroopan vapaakauppaliiton jäsenvaltioiden välisessä kaupassa sovellettavista alkuperäsäännöistä](38.md) `38/1988`
+- [Laki tapaturmavakuutuslain muuttamisesta](39.md) `39/1988`
+- [Laki maatalousyrittäjien tapaturmavakuutuslain 22§:n muuttamisesta](40.md) `40/1988`
+- [Asetus vuoden 1979 valtiosta toiseen tapahtuvaa ilman epäpuhtauksien kaukokulkeutumista koskevaan yleissopimukseen liittyvän, ilman epäpuhtauksien kaukokulkeutumisen tarkkailun ja arvioinnin Euroopan yhteistyöohjelman \(EMEP\) pitkän aikavälin rahoittamista koskevan pöytäkirjan voimaansaattamisesta](41.md) `41/1988`
+- [Asetus ulkomaanedustuksen viran ja toimen haltijain palkkauksesta, paikalliskorotuksesta ja erinäisistä korvauksista annetun asetuksen muuttamisesta](42.md) `42/1988`
+- [Vakuutusyhdistysasetus](43.md) `43/1988`
+- [Asetus vakuutusyhdistystarkastuksesta](44.md) `44/1988`
+- [Valtioneuvoston päätös tasavallan presidentin valitsijamiesten palkkiosta ja matkakustannusten korvauksesta](45.md) `45/1988`
+- [Valtioneuvoston päätös myytäväksi toimitetun silakan ja kilohailin vähimmäishinnoista ja tavoitehinnoista sekä ammattikalastajille suoritettavan hintatuen soveltamisesta](46.md) `46/1988`
+- [Valtioneuvoston päätös lapsen sairaanhoito\- ja kuntoutusavustuksesta vanhemmille](47.md) `47/1988`
+- [Valtioneuvoston päätös Raha\-automaattiyhdistyksen tuotosta lomatoimintaan myönnetyistä avustuksista annetun valtioneuvoston päätöksen muuttamisesta](48.md) `48/1988`
+- [Valtiovarainministeriön päätös valtion omistamien osakkeiden, osuustodistusten ja muiden arvopapereiden hoitamisesta ja luetteloimisesta](49.md) `49/1988`
+- [Laki hypoteekkiyhdistyksistä annetun lain muuttamisesta](50.md) `50/1988`
+- [Laki osakeyhtiölain 14 luvun 7§:n muuttamisesta](51.md) `51/1988`
+- [Laki obligaatio\- ja debentuurilainoista sekä muista joukkovelkakirjalainoista annetun lain muuttamisesta](52.md) `52/1988`
+- [Asetus Saksan demokraattisen tasavallan kanssa kaupan esteiden poistamisesta etujen ja velvoitteiden vastavuoroisuuden pohjalta tehdyn sopimuksen muuttamista koskevan sopimuksen voimaansaattamisesta](53.md) `53/1988`
+- [Asetus Italian kanssa tehdyn kauppa\- ja merenkulkusopimuksen eräiden määräysten kumoamista koskevan sopimuksen voimaansaattamisesta](54.md) `54/1988`
+- [Asetus ulkoasiainhallinnosta annetun asetuksen muuttamisesta](55.md) `55/1988`
+- [Asetus harjoittelukouluasetuksen muuttamisesta](56.md) `56/1988`
+- [Laki tieliikennelain muuttamisesta](57.md) `57/1988`
+- [Laki tieliikennelain muuttamisesta](58.md) `58/1988`
+- [Asetus ajoneuvoasetuksen muuttamisesta](59.md) `59/1988`
+- [Asetus väestökirjahallinnosta annetun asetuksen muuttamisesta](60.md) `60/1988`
+- [Asetus tilastokeskuksen suoritteista perittävistä maksuista](61.md) `61/1988`
+- [Asetus eräiden opetusministeriön ja sen hallinnonalojen virkojen perustamisesta ja lakkauttamisesta](62.md) `62/1988`
+- [Valtioneuvoston päätös suhdannetalletusten suorittamisesta](63.md) `63/1988`
+- [Valtiovarainministeriön päätös Suomen tasavallan ja Euroopan talousyhteisön välisessä kaupassa sovellettavista alkuperäsäännöistä](64.md) `64/1988`
+- [Valtiovarainministeriön päätös liikevaihtoverolain alkutuotevähennyksen ja palautuksen laskemisperusteiden muuttamisesta](65.md) `65/1988`
+- [Asetus palosuojelumaksusta annetun lain toimeenpanosta annetun asetuksen muuttamisesta](66.md) `66/1988`
+- [Asetus oikeuskanslerinviraston sekä oikeusministeriön hallinnonalan eräiden virkojen perustamisesta ja lakkauttamisesta](67.md) `67/1988`
+- [Asetus eräiden maa\- ja metsätalousministeriön ja sen hallinnonalan virkojen perustamisesta ja lakkauttamisesta](68.md) `68/1988`
+- [Asetus vuonna 1988 kertyvien sosiaaliturvamaksujen jakautumasta](69.md) `69/1988`
+- [Asetus vuonna 1986 kertyvien sosiaaliturvamaksujen jakautumasta annetun asetuksen 2§:n muuttamisesta](70.md) `70/1988`
+- [Valtioneuvoston päätös ulkomaanedustuksen virkamiesten paikalliskorotuksesta, varustautumiskorvauksesta ja asettautumiskustannusten korvauksesta annetun valtioneuvoston päätöksen muuttamisesta](71.md) `71/1988`
+- [Valtioneuvoston päätös kotieläintuotannon ohjaamisesta eräissä tapauksissa vuonna 1988](72.md) `72/1988`
+- [Asetus sosiaali\- ja terveysministeriöstä annetun asetuksen muuttamisesta](73.md) `73/1988`
+- [Asetus eräiden sosiaali\- ja terveysministeriön hallinnonalaan kuuluvien virkojen perustamisesta ja lakkauttamisesta](74.md) `74/1988`
+- [Asetus sosiaalihallituksesta annetun asetuksen muuttamisesta](75.md) `75/1988`
+- [Asetus valtion kasvatuslaitoksista annetun asetuksen muuttamisesta](76.md) `76/1988`
+- [Asetus päihdehuoltoasetuksen muuttamisesta](77.md) `77/1988`
+- [Asetus tapaturmavirastosta annetun asetuksen muuttamisesta](78.md) `78/1988`
+- [Asetus eräiden ympäristöministeriön ja sen hallinnonalan virkojen perustamisesta ja lakkauttamisesta](79.md) `79/1988`
+- [Laki kansanedustajain vaaleista annetun lain muuttamisesta](80.md) `80/1988`
+- [Laki tasavallan presidentin valitsemisesta annetun lain muuttamisesta](81.md) `81/1988`
+- [Laki kunnallisvaalilain muuttamisesta](82.md) `82/1988`
+- [Laki kuluttajavalituslautakunnasta annetun lain 4§:n muuttamisesta](83.md) `83/1988`
+- [Asetus kuluttajavalituslautakunnasta annetun asetuksen muuttamisesta](84.md) `84/1988`
+- [Valtioneuvoston päätös kuluttajavalituslautakunnan jaostoissa käsiteltävien asioiden jakoperusteista annetun valtioneuvoston päätöksen 4§:n muuttamisesta](85.md) `85/1988`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Kouvolan ja Kuusankosken kaupunkien välillä annetun valtioneuvoston päätöksen oikaisunluonteisesta korjauksesta](86.md) `86/1988`
+- [Ympäristöministeriön päätös korjausneuvojien palkkaamiseen myönnettävän valtionavustuksen perusteista](87.md) `87/1988`
+- [Laki lukiolain 26 ja 51§:n muuttamisesta](88.md) `88/1988`
+- [Laki iltalukiolain muuttamisesta](89.md) `89/1988`
+- [Laki lukion oppilaiden opintososiaalisista eduista annetun lain 1§:n muuttamisesta](90.md) `90/1988`
+- [Laki peruskoulun, lukion ja yleisen kirjaston valtionosuuksista ja \-avustuksista annetun lain muuttamisesta](91.md) `91/1988`
+- [Laki perus\- ja keskiasteen koulutusta varten kunnille myönnettävistä lisäavustuksista annetun lain muuttamisesta](92.md) `92/1988`
+- [Laki valtionosuutta saavista musiikkioppilaitoksista annetun lain muuttamisesta](93.md) `93/1988`
+- [Laki lastentarhanopettajaopistoista annetun lain muuttamisesta](94.md) `94/1988`
+- [Laki kansanopistojen valtionavusta annetun lain muuttamisesta](95.md) `95/1988`
+- [Laki urheiluopistojen valtionavusta annetun lain muuttamisesta](96.md) `96/1988`
+- [Oikeusministeriön tietojärjestelmäyksikön maksuasetus](97.md) `97/1988`
+- [Laki Kanadan kanssa sosiaaliturvasta tehdyn sopimuksen ja Quebecin kanssa sosiaaliturvasta tehdyn sopimusjärjestelyn eräiden määräysten hyväksymisestä](98.md) `98/1988`
+- [Asetus Kanadan kanssa sosiaaliturvasta tehdyn sopimuksen voimaansaattamisesta sekä Kanadan kanssa sosiaaliturvasta tehdyn sopimuksen ja Quebecin kanssa sosiaaliturvasta tehdyn sopimusjärjestelyn eräiden määräysten hyväksymisestä annetun lain voimaantulosta\.](99.md) `99/1988`
+- [Asetus elinkeinohallituksesta annetun asetuksen muuttamisesta](100.md) `100/1988`
+- [Asetus Suomen elokuva\-arkistosta](101.md) `101/1988`
+- [Asetus ulkoasiainhallinnon eräiden virkojen perustamisesta ja lakkauttamisesta](102.md) `102/1988`
+- [Asetus lehtien postimaksuista annetun asetuksen 3§:n muuttamisesta](103.md) `103/1988`
+- [Valtioneuvoston päätös Kehitysaluerahasto Oy \- Utvecklingsområdesfonden Ab:n määräämisestä toimimaan eräissä erityisaluekunnissa](104.md) `104/1988`
+- [Valtioneuvoston päätös pientonniston korkomenojen alentamiseksi myönnettävistä avustuksista](105.md) `105/1988`
+- [Valtiovarainministeriön päätös valtion palvelussuhdeasuntoihin liittyvistä eduista perittävistä korvauksista](106.md) `106/1988`
+- [Valtiovarainministeriön päätös valtion palveluksessa olevilta perittävistä ateriakorvauksista](107.md) `107/1988`
+- [Laki Oulun yliopistosta annetun lain muuttamisesta](108.md) `108/1988`
+- [Laki Joensuun yliopistosta annetun lain muuttamisesta](109.md) `109/1988`
+- [Laki Turun yliopistosta annetun lain muuttamisesta](110.md) `110/1988`
+- [Laki Vaasan korkeakoulusta annetun lain muuttamisesta](111.md) `111/1988`
+- [Laki Lapin korkeakoulusta annetun lain muuttamisesta](112.md) `112/1988`
+- [Laki Teknillisestä korkeakoulusta annetun lain muuttamisesta](113.md) `113/1988`
+- [Laki Tampereen teknillisestä korkeakoulusta annetun lain muuttamisesta](114.md) `114/1988`
+- [Laki Lappeenrannan teknillisestä korkeakoulusta annetun lain muuttamisesta](115.md) `115/1988`
+- [Laki Helsingin kauppakorkeakoulusta annetun lain muuttamisesta](116.md) `116/1988`
+- [Laki svenska handelshögskolan nimisestä korkeakoulusta annetun lain muuttamisesta](117.md) `117/1988`
+- [Laki Turun kauppakorkeakoulusta annetun lain muuttamisesta](118.md) `118/1988`
+- [Asetus Tampereen yliopiston terveyshuollon apulaisprofessorin viran muuttamisesta](119.md) `119/1988`
+- [Asetus julkisia hankintoja koskevan sopimuksen muuttamisesta tehdyn pöytäkirjan voimaansaattamisesta](120.md) `120/1988`
+- [Asetus passintarkastuspaikoista](121.md) `121/1988`
+- [Asetus puolustusvoimista annetun asetuksen 56§:n muuttamisesta](122.md) `122/1988`
+- [Laki kansaneläkelain muuttamisesta](123.md) `123/1988`
+- [Vammaistukilaki](124.md) `124/1988`
+- [Laki rintamasotilaseläkelain 1 ja 8 §:n muuttamisesta](125.md) `125/1988`
+- [Laki perhe\-eläkelain 15 b §:n muuttamisesta](126.md) `126/1988`
+- [Laki eläkkeensaajien asumistukilain 6 §:n muuttamisesta](127.md) `127/1988`
+- [Asetus syntymän ja kuoleman rekisteröinnistä annetun asetuksen 7§:n kumoamisesta](128.md) `128/1988`
+- [Asetus opetusministeriöstä annetun asetuksen muuttamisesta](129.md) `129/1988`
+- [Asetus aluksen miehityksestä ja laivahenkilökunnan pätevyydestä annetun asetuksen muuttamisesta](130.md) `130/1988`
+- [Asetus vahdinpidosta aluksella annetun asetuksen muuttamisesta](131.md) `131/1988`
+- [Asetus tasavallan presidentin kanslian ja valtioneuvoston kanslian eräiden virkojen perustamisesta](132.md) `132/1988`
+- [Valtioneuvoston päätös Kanadan kanssa sosiaaliturvasta tehdystä sopimuksesta johtuvista poikkeuksista kansaneläkelain säännöksiin](133.md) `133/1988`
+- [Valtioneuvoston kuulutus tasavallan presidentin välittömän vaalin tuloksesta](134.md) `134/1988`
+- [Laki ammattikasvatushallinnon koulutuskeskuksesta](135.md) `135/1988`
+- [Asetus ammattikasvatushallinnon koulutuskeskuksesta](136.md) `136/1988`
+- [Asetus eräiden ammattikasvatushallituksen alaisten valtion ammatillisten oppilaitosten virkojen nimien muuttamisesta](137.md) `137/1988`
+- [Asetus valtion omistamien rakennusten suojelusta annetun asetuksen muuttamisesta](138.md) `138/1988`
+- [Valtioneuvoston päätös työnantajalle maksettavasta koulutuskorvauksesta vuodelta 1988](139.md) `139/1988`
+- [Asetus Ahvenanmaan maakunnan väestönsuojelun valmiustehtävien hoidosta](140.md) `140/1988`
+- [Asetus poliisin eräiden virkojen perustamisesta ja lakkauttamisesta](141.md) `141/1988`
+- [Asetus ulkomaalaisasetuksen muuttamisesta](142.md) `142/1988`
+- [Asetus ympäristöministeriöstä](143.md) `143/1988`
+- [Laki metsästyslain muuttamisesta](144.md) `144/1988`
+- [Asetus luontaiselinkeinoasetuksen muuttamisesta](145.md) `145/1988`
+- [Asetus maatalouslautakunnista annetun asetuksen 8§:n muuttamisesta](146.md) `146/1988`
+- [Asetus pakkohuutokaupalla myytävien kiinteistöjen lunastamisesta valtiolle annetun asetuksen 2§:n muuttamisesta](147.md) `147/1988`
+- [Asetus kotieläintuotannon ohjaamisesta eräissä tapauksissa annetun asetuksen 1 ja 2§:n muuttamisesta](148.md) `148/1988`
+- [Asetus maatalousyrittäjien eläkeasetuksen 6 e§:n muuttamisesta](149.md) `149/1988`
+- [Asetus eräiden vesirakennustehtävien hoitamisesta](150.md) `150/1988`
+- [Asetus valtion eläinlääketieteellisestä laitoksesta annetun asetuksen muuttamisesta](151.md) `151/1988`
+- [Valtioneuvoston päätös Vuotoksen alueen maa\- ja metsätalouden kehittämistoimenpiteistä](152.md) `152/1988`
+- [Valtioneuvoston päätös sanomalehdistön kuljetus\-, jakelu\- ja muiden kustannusten alentamiseksi osoitetun määrärahan jakoperusteista ja avustusten hakemisesta](153.md) `153/1988`
+- [Asetus pelastushallinnon koulutuskeskuksen eräiden virkojen perustamisesta](154.md) `154/1988`
+- [Asetus valtionhallinnon tietohallinnosta](155.md) `155/1988`
+- [Asetus eräiden opetusministeriön hallinnonalan virkojen perustamisesta ja lakkauttamisesta](156.md) `156/1988`
+- [Asetus teknologian kehittämiskeskuksesta annetun asetuksen muuttamisesta](157.md) `157/1988`
+- [Valtioneuvoston päätös valtion virkamiesten erorahan suuruudesta annetun valtioneuvoston päätöksen muuttamisesta](158.md) `158/1988`
+- [Sisäasiainministeriön päätös passintarkastuspaikoista](159.md) `159/1988`
+- [Sosiaali\- ja terveysministeriön päätös isyyslaissa \(700/75\) sekä veri\- ja muita periytyviä ominaisuuksia koskevista tutkimuksista annetussa laissa \(702/75\) tarkoitettujen oikeuslääketieteellisten tutkimusten korvausperusteista annetun sosiaali\- ja terveysministeriön päätöksen 1§:n muuttamisesta](160.md) `160/1988`
+- [Ydinenergia\-asetus](161.md) `161/1988`
+- [Asetus valtion ydinjätehuoltorahastosta](162.md) `162/1988`
+- [Asetus ydinenergianeuvottelukunnasta](163.md) `163/1988`
+- [Asetus ydinturvallisuusneuvottelukunnasta](164.md) `164/1988`
+- [Valtioneuvoston päätös varautumisesta ydinjätehuollon kustannuksiin](165.md) `165/1988`
+- [Valtioneuvoston päätös valtion ydinjätehuoltorahaston varoista annettavien lainojen yleisistä ehdoista](166.md) `166/1988`
+- [Laki työturvallisuuslain muuttamisesta](167.md) `167/1988`
+- [Laki työsuojelurahastolain 1§:n muuttamisesta](168.md) `168/1988`
+- [Meluntorjunta\-asetus](169.md) `169/1988`
+- [Asetus korkeakoulujen eräiden virkojen perustamisesta ja lakkauttamisesta](170.md) `170/1988`
+- [Asetus Turun yliopiston klassillisen filologian professorin viran muuttamisesta](171.md) `171/1988`
+- [Asetus ilmailuhallinnosta annetun asetuksen muuttamisesta](172.md) `172/1988`
+- [Asetus liikenneministeriöstä annetun asetuksen muuttamisesta](173.md) `173/1988`
+- [Asetus testauslaboratorioiden pätevyyden toteamisesta](174.md) `174/1988`
+- [Asetus työvoimaministeriön eräiden virkojen perustamisesta](175.md) `175/1988`
+- [Asetus työvoima\-asiain piiri\- ja paikallishallinnon eräiden virkojen perustamisesta ja lakkauttamisesta](176.md) `176/1988`
+- [Valtioneuvoston päätös pienyritystoiminnan tukemisesta](177.md) `177/1988`
+- [Sosiaali\- ja terveysministeriön päätös paikkakuntien kalleusluokituksesta sotilasvammalain mukaisen huoltoeläkkeen ja täydennyskoron maksamista varten](178.md) `178/1988`
+- [Asetus maa\- ja metsätalousministeriöstä annetun asetuksen muuttamisesta](179.md) `179/1988`
+- [Asetus maataloushallinnosta](180.md) `180/1988`
+- [Valtioneuvoston päätös maatalouspiireistä](181.md) `181/1988`
+- [Valtioneuvoston päätös vuonna 1988 tehtävistä maidontuotannon vähentämissopimuksista annetun valtioneuvoston päätöksen 5 ja 6§:n muuttamisesta](182.md) `182/1988`
+- [Valtioneuvoston päätös vuoden 1987 satovahinkojen johdosta suoritettavista yleiskorvauksista annetun valtioneuvoston päätöksen 3§:n muuttamisesta](183.md) `183/1988`
+- [Maa\- ja metsätalousministeriön päätös sokerijuurikkaiden sokeripitoisuuden ja saannon määrittämisestä sekä hinnoittelusta](184.md) `184/1988`
+- [Laki metsähallinnosta annetun lain 4§:n kumoamisesta](185.md) `185/1988`
+- [Laki metsäntutkimuslaitoksesta annetun lain 2§:n kumoamisesta](186.md) `186/1988`
+- [Asetus metsähallinnosta annetun asetuksen muuttamisesta](187.md) `187/1988`
+- [Asetus metsäntutkimuslaitoksesta annetun asetuksen muuttamisesta](188.md) `188/1988`
+- [Asetus maatila\-asetuksen muuttamisesta](189.md) `189/1988`
+- [Asetus metsästysasetuksen muuttamisesta](190.md) `190/1988`
+- [Asetus valtiovarainministeriön hallinnonalaan kuuluvista eräistä virkajärjestelyistä](191.md) `191/1988`
+- [Asetus Helsingin yliopiston eräiden virkojen perustamisesta ja lakkauttamisesta](192.md) `192/1988`
+- [Asetus posti\- ja telelaitoksesta annetun asetuksen muuttamisesta](193.md) `193/1988`
+- [Asetus patentti\- ja rekisterihallituksesta annetun asetuksen muuttamisesta](194.md) `194/1988`
+- [Asetus ydinenergian käytön valvonnasta suoritettavista maksuista](195.md) `195/1988`
+- [Valtioneuvoston päätös maidon tuotantokiintiöiden tarkistamisesta vuonna 1988](196.md) `196/1988`
+- [Pääministerin Kirje Valtioneuvostolle tasavallan presidentti Mauno Koiviston valitsemisesta Tasavallan Presidentiksi](197.md) `197/1988`
+- [Asetus Tanskan, Suomen, Norjan ja Ruotsin välillä eräiden ammattiryhmien hyväksymisestä toimimaan terveydenhuollon, sairaanhoidon ja eläinlääkintähuollon alalla tehdyn sopimuksen muuttamista koskevan sopimuksen ja sen lisäpöytäkirjan voimaansaattamisesta](198.md) `198/1988`
+- [Asetus sairaanhoitotoimen harjoittamisesta annetun asetuksen muuttamisesta](199.md) `199/1988`
+- [Valtioneuvoston päätös maatalousyrittäjän vuosiloman pituudesta](200.md) `200/1988`
+- [Liikenneministeriön päätös ajoneuvoasetuksen täytäntöönpanosta annetunliikenneministeriön päätöksen muuttamisesta](201.md) `201/1988`
+- [Lääninhallitusasetus](202.md) `202/1988`
+- [Asetus taiteen edistämisen järjestelystä annetun asetuksen muuttamisesta](203.md) `203/1988`
+- [Asetus eräistä alusten katsastuksiin ja tarkastuksiin sekä jäämaksuluokan määräämiseen liittyvistä palkkioista ja korvauksista annetun asetuksen muuttamisesta](204.md) `204/1988`
+- [Asetus merimieskatselmusmiehille maksettavista palkkioista ja lunastuksista annetun asetuksen muuttamisesta](205.md) `205/1988`
+- [Asetus aluksen lastiviivojen määräämisestä ja merkitsemisestä suoritettavasta maksusta](206.md) `206/1988`
+- [Asetus riistaeläinten metsästysajoista annetun asetuksen muuttamisesta](207.md) `207/1988`
+- [Maa\- ja metsätalousministeriön päätös tärkkelysperunan laatuhinnoittelusta](208.md) `208/1988`
+- [Asetus puolustusministeriöstä annetun asetuksen muuttamisesta](209.md) `209/1988`
+- [Asetus formaldehydin enimmäismääristä eräissä tekstiilituotteissa](210.md) `210/1988`
+- [Pesuaineasetus](211.md) `211/1988`
+- [Asetus elintarvikeasetuksen 24 §:n muuttamisesta](212.md) `212/1988`
+- [Asetus elintarvikeneuvottelukunnasta annetun asetuksen muuttamisesta](213.md) `213/1988`
+- [Asetus elinkeinohallituksesta annetun asetuksen muuttamisesta](214.md) `214/1988`
+- [Valtioneuvoston päätös vuonna 1988 jalostettavaksi toimitetusta kalaraaka\-aineesta yrityksille suoritettavasta tuotantotuesta](215.md) `215/1988`
+- [Valtioneuvoston päätös vaikeista ja pitkäaikaisista sairauksista ja niiden hoitoon käytettävistä sairausvakuutuslain mukaan kokonaan tai 90\-prosenttisesti korvattavista lääkkeistä annetun valtioneuvoston päätöksen 1 ja 2 §:n muuttamisesta](216.md) `216/1988`
+- [Puolustusministeriön päätös asevelvollisten yleisistä vakinaiseen palvelukseen astumispäivistä vuonna 1989](217.md) `217/1988`
+- [Valtioneuvoston päätös komiteoista](218.md) `218/1988`
+- [Valtioneuvoston päätös eräiden palkkasaataviin rinnastettavien saamisten turvaamisesta toimeksiantajan konkurssin varalta](219.md) `219/1988`
+- [Sisäasiainministeriön päätös vartijan asusta annetun sisäasiainministeriön päätöksen muuttamisesta](220.md) `220/1988`
+- [Liikenneministeriön päätös yleisillä teillä olevien lauttojen varusteista ja niiden liikenteen valvomisesta](221.md) `221/1988`
+- [Asetus Quebecin kanssa sosiaaliturvasta tehdyn sopimusjärjestelyn voimaansaattamisesta](222.md) `222/1988`
+- [Asetus Saksan demokraattisen tasavallan kanssa kasvinjalostajan oikeuksista tehdyn sopimuksen voimaansaattamisesta](223.md) `223/1988`
+- [Asetus Saksan demokraattisen tasavallan kanssa sairaanhoidon antamista tilapäisen oleskelun aikana koskevan eurooppalaisen sopimuksen soveltamisesta tehdyn sopimuksen voimaansaattamisesta](224.md) `224/1988`
+- [Asetus Euroopan vapaakauppaliiton perustamista koskevan konvention D\- ja E\-liitteiden muutosten voimaansaattamisesta](225.md) `225/1988`
+- [Asetus korkeimmasta oikeudesta annetun asetuksen muuttamisesta](226.md) `226/1988`
+- [Asetus korkeimmasta hallinto\-oikeudesta annetun asetuksen muuttamisesta](227.md) `227/1988`
+- [Asetus hovioikeuksista annetun asetuksen muuttamisesta](228.md) `228/1988`
+- [Asetus elintarvikkeiden vieraista aineista annetun asetuksen muuttamisesta](229.md) `229/1988`
+- [Valtioneuvoston päätös ulkomaanedustuksen virkamiesten paikalliskorotuksesta, varustautumiskorvauksesta ja asettautumiskustannusten korvauksesta annetun valtioneuvoston päätöksen muuttamisesta](230.md) `230/1988`
+- [Valtioneuvoston päätös avustuksista taloudellisissa vaikeuksissa oleville vuokrataloille](231.md) `231/1988`
+- [Laki vuoden 1987 satovahinkojen johdosta myönnettävistä korkotukilainoista annetun lain 3§:n muuttamisesta](232.md) `232/1988`
+- [Maatilatalouden tuloveroasetus  Annettu Helsingissä 18 päivänä maaliskuuta 1988](233.md) `233/1988`
+- [Valtioneuvoston päätös ulkomaan kuorma\-autoliikenteen polttoaineen hintaan sisältyvän liikevaihtoveron korvaamisesta](234.md) `234/1988`
+- [Valtioneuvoston päätös naudanlihan ja siemenvehnän tuontimaksujen väliaikaisesta muuttamisesta](235.md) `235/1988`
+- [Valtioneuvoston päätös vuonna 1988 tehtävistä herneen tuotantosopimuksista](236.md) `236/1988`
+- [Asetus Saimaan kanavan lupamaksuista annetun asetuksen 3§:n muuttamisesta](237.md) `237/1988`
+- [Asetus telepäätelaitteiden tyyppihyväksyntää koskevista päätöksistä sekä tyyppihyväksyntään liittyvistä mittauksista ja tarkastuksista suoritettavista maksuista annetun asetuksen muuttamisesta](238.md) `238/1988`
+- [Asetus valtion teknillisestä tutkimuskeskuksesta annetun asetuksen muuttamisesta](239.md) `239/1988`
+- [Asetus rakennusasetuksen 95§:n muuttamisesta](240.md) `240/1988`
+- [Valtioneuvoston päätös polttoaineveromäärien muuttamisesta](241.md) `241/1988`
+- [Valtioneuvoston päätös nestemäisten polttoaineiden hinnoista](242.md) `242/1988`
+- [Valtiovarainministeriön päätös komitean kokouspalkkioista](243.md) `243/1988`
+- [Laki arpajaislain 3§:n muuttamisesta](244.md) `244/1988`
+- [Asetus taloudellisesta suunnittelukeskuksesta](245.md) `245/1988`
+- [Asetus valtion kasvatuslaitoksista annetun asetuksen 1 ja 2§:n muuttamisesta](246.md) `246/1988`
+- [Asetus valtioneuvoston oikeuskanslerin ohjesäännön muuttamisesta](247.md) `247/1988`
+- [Asetus kuntien yleisistä rahoitusavustuksista annetun asetuksen 1§:n muuttamisesta](248.md) `248/1988`
+- [Asetus raha\-automaattiasetuksen 29§:n muuttamisesta](249.md) `249/1988`
+- [Asetus väliaikaisesta poikkeuksesta raha\-automaattiasetukseen](250.md) `250/1988`
+- [Asetus työvoimaministeriöstä annetun asetuksen muuttamisesta](251.md) `251/1988`
+- [Kauppa\- ja teollisuusministeriön päätös pienyritysten perustamisen edistämisestä Kymen läänissä](252.md) `252/1988`
+- [Ympäristöministeriön päätös keskimääräisestä kartoituskustannuksesta hehtaaria kohti](253.md) `253/1988`
+- [Asetus eräistä virkajärjestelyistä](254.md) `254/1988`
+- [Asetus Itämerellä harjoitettavaa kalastusta koskevista säännöistä](255.md) `255/1988`
+- [Asetus rintamatunnuksesta](256.md) `256/1988`
+- [Valtioneuvoston päätös myytäväksi toimitetun silakan ja kilohailin vähimmäishinnoista ja tavoitehinnoista](257.md) `257/1988`
+- [Valtioneuvoston päätös myytäväksi toimitetun rehusilakan vähimmäishinnoista ja tavoitehinnoista sekä ammattikalastajille suoritettavan hintatuen soveltamisesta](258.md) `258/1988`
+- [Valtioneuvoston päätös pienyrittäjän vuosilomarahasta annetussa laissa tarkoitetun enimmäisvuositulon määrän ja vuosilomarahan suuruuden vahvistamisesta](259.md) `259/1988`
+- [Valtiovarainministeriön päätös eräiden verojen maksupaikoista ja kantopalkkioista annetun valtiovarainministeriön päätöksen muuttamisesta](260.md) `260/1988`
+- [Asetus ajoneuvoasetuksen muuttamisesta](261.md) `261/1988`
+- [Liikenneministeriön päätös ajoneuvoasetuksen täytäntöönpanosta annetun liikenneministeriön päätöksen muuttamisesta](262.md) `262/1988`
+- [Liikenneministeriön päätös yleisistä nopeusrajoituksista](263.md) `263/1988`
+- [Valtioneuvoston päätös peruskoulu\- ja lukiorakennusten suunnittelun, rakentamisen ja normaalihintojen perusteista](264.md) `264/1988`
+- [Valtioneuvoston päätös peruskoulun ja lukion huonetilojen normaalihinnoista](265.md) `265/1988`
+- [Valtioneuvoston päätös hyvityssakkojen enimmäismäärien tarkistamisesta](266.md) `266/1988`
+- [Asetus heraldisesta lautakunnasta](267.md) `267/1988`
+- [Asetus Helsingin yliopiston apulaisprofessoreista annetun asetuksen 7 ja 11§:n muuttamisesta](268.md) `268/1988`
+- [Asetus kauppakorkeakoulujen virkojen kelpoisuusvaatimuksista sekä virkamiesten tehtävistä](269.md) `269/1988`
+- [Asetus teknillisten korkeakoulujen virkojen kelpoisuusehdoista sekä viran haltijoiden tehtävistä annetun asetuksen muuttamisesta](270.md) `270/1988`
+- [Asetus tietotekniikan professorin viran perustamisesta Tampereen teknilliseen korkeakouluun](271.md) `271/1988`
+- [Asetus automaatiotekniikan professorin viran perustamisesta Tampereen teknilliseen korkeakouluun](272.md) `272/1988`
+- [Asetus Joensuun yliopiston eräistä virkajärjestelyistä](273.md) `273/1988`
+- [Valtioneuvoston päätös uskonnollisten lehtien tukemiseen osoitetun määrärahan jakoperusteista ja avustusten hakemisesta annetun valtioneuvoston päätöksen kumoamisesta](274.md) `274/1988`
+- [Valtioneuvoston päätös mielipidelehtien tukemiseen osoitetun määrärahan jakoperusteista ja avustusten hakemisesta annetun valtioneuvoston päätöksen kumoamisesta](275.md) `275/1988`
+- [Opetusministeriön päätös mielipidelehtien tukemiseen osoitetun määrärahan jakoperusteista ja avustusten hakemisesta](276.md) `276/1988`
+- [Laki puolustusministeriön viroista ja toimista annetun lain kumoamisesta](277.md) `277/1988`
+- [Asetus verohallinnosta](278.md) `278/1988`
+- [Asetus verotusasetuksen 54§:n kumoamisesta](279.md) `279/1988`
+- [Asetus ennakkoperintäasetuksen 56§:n kumoamisesta](280.md) `280/1988`
+- [Asetus rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun asetuksen 21§:n kumoamisesta](281.md) `281/1988`
+- [Asetus vankeinhoidon koulutuskeskuksesta annetun asetuksen muuttamisesta](282.md) `282/1988`
+- [Laki eräiden asuinrakennusten luovuttamisesta Rautatieasunnot Oy, Järnvägsbostäder Ab \-nimiselle osakeyhtiölle](283.md) `283/1988`
+- [Laki työsopimuslain muuttamisesta](284.md) `284/1988`
+- [Laki työaikalain muuttamisesta](285.md) `285/1988`
+- [Laki kauppaliikkeiden ja toimistojen työaikalain muuttamisesta](286.md) `286/1988`
+- [Laki työturvallisuuslain muuttamisesta](287.md) `287/1988`
+- [Laki työsuojelun valvonnasta annetun lain muuttamisesta](288.md) `288/1988`
+- [Asetus poliisin ansiorististä](289.md) `289/1988`
+- [Asetus ajoneuvoasetuksen muuttamisesta](290.md) `290/1988`
+- [Liikenneministeriön päätös ajoneuvoasetuksen täytäntöönpanosta annetun liikenneministeriön päätöksen muuttamisesta](291.md) `291/1988`
+- [Valtioneuvoston päätös linja\-autojen linjaliikenteen tuesta](292.md) `292/1988`
+- [Valtioneuvoston päätös Porin ja Kotkan kaupungeissa tuotantotoiminnan tukemiseen myönnettävistä avustuksista annetun valtioneuvoston päätöksen kumoamisesta](293.md) `293/1988`
+- [Valtioneuvoston päätös asuinrakennusten ja asuntojen korjaustoimintaan myönnettävien avustusten jakoperusteista](294.md) `294/1988`
+- [Kauppa\- ja teollisuusministeriön päätös eräiden sillivalmisteiden kauppatavan mukaisista nimistä](295.md) `295/1988`
+- [Laki raittiustyölain muuttamisesta](296.md) `296/1988`
+- [Laki kunnallisista yleissairaaloista annetun lain muuttamisesta](297.md) `297/1988`
+- [Laki mielisairaslain muuttamisesta](298.md) `298/1988`
+- [Laki kehitysvammaisten erityishuollosta annetun lain 44§:n muuttamisesta](299.md) `299/1988`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain muuttamisesta](300.md) `300/1988`
+- [Asetus viljan kuljetuksesta aluksessa](301.md) `301/1988`
+- [Asetus yhteentörmäämisen ehkäisemisestä sisäisillä kulkuvesillä \(Sisävesisäännöt 1978\) annetun asetuksen muuttamisesta](302.md) `302/1988`
+- [Asetus merenkulkulaitoksen eräistä virkajärjestelyistä](303.md) `303/1988`
+- [Asetus eräistä virkajärjestelyistä](304.md) `304/1988`
+- [Laki leimaverolain muuttamisesta](305.md) `305/1988`
+- [Asetus lainhuuto\- ja kiinnitysrekisteristä sekä saantorekisteristä](306.md) `306/1988`
+- [Asetus yleisen alioikeuden, maistraatin ja julkisen notaarin suoritteista perittävistä maksuista annetun asetuksen 5§:n muuttamisesta](307.md) `307/1988`
+- [Valtioneuvoston päätös kirjastorakennusten suunnittelun, rakentamisen ja normaalihintojen perusteista](308.md) `308/1988`
+- [Valtioneuvoston päätös kirjastorakennusten normaalihinnoista](309.md) `309/1988`
+- [Valtioneuvoston päätös käynnistystuen maksamisesta nuorille viljelijöille](310.md) `310/1988`
+- [Asetus lääninhallitusasetuksen muuttamisesta](311.md) `311/1988`
+- [Asetus valtiokonttorista annetun asetuksen muuttamisesta](312.md) `312/1988`
+- [Asetus Valtionrautateiden hallinnosta annetun asetuksen muuttamisesta](313.md) `313/1988`
+- [Valtioneuvoston päätös asunto\-, omaksilunastamis\- ja perusparannuslainan myöntämisessä sekä asukkaaksi hyväksymisessä sovellettavista arvosteluperusteista](314.md) `314/1988`
+- [Sosiaali\- ja terveysministeriön päätös merimiehen lääkärintarkastusohjeista](315.md) `315/1988`
+- [Verohallituksen päätös  työn suorittamisesta aiheutuneiden kustannusten arvioimisesta ennakonpidätystä toimitettaessa](316.md) `316/1988`
+- [Verohallituksen päätös liikkeen\- ja ammatinharjoittajan työmatkasta aiheutuneen elantokustannusten lisäyksen vähentämisestä vuodelta 1988 toimitettavassa verotuksessa](317.md) `317/1988`
+- [Lääkintöhallituksen päätös lastenruoan ja äidinmaidonkorvikkeen koostumuksesta ja käyttöohjeista annetun lääkintöhallituksen päätöksen muuttamisesta](318.md) `318/1988`
+- [Laki maatalouden tutkimuskeskuksesta annetun lain 2§:n kumoamisesta](319.md) `319/1988`
+- [Laki maatalouden taloudellisesta tutkimuslaitoksesta annetun lain 3§:n kumoamisesta](320.md) `320/1988`
+- [Laki valtion maatalousteknologian tutkimuslaitoksesta annetun lain 2§:n kumoamisesta](321.md) `321/1988`
+- [Laki valtion eläinlääketieteellisestä laitoksesta annetun lain 3§:n kumoamisesta](322.md) `322/1988`
+- [Laki valtion maatalouskemian laitoksesta annetun lain 2§:n kumoamisesta](323.md) `323/1988`
+- [Laki valtion siementarkastuslaitoksesta annetun lain 2§:n kumoamisesta](324.md) `324/1988`
+- [Laki valtion maitovalmisteiden tarkastuslaitoksesta annetun lain 2§:n kumoamisesta](325.md) `325/1988`
+- [Laki valtion maitotalouden tutkimuslaitoksesta annetun lain 2§:n kumoamisesta](326.md) `326/1988`
+- [Laki valtion hevosjalostuslaitoksesta annetun lain 2§:n kumoamisesta](327.md) `327/1988`
+- [Laki kalastuslain 86§:n 2 ja 3 momentin kumoamisesta](328.md) `328/1988`
+- [Laki eräiden asutusluottojen järjestelystä annetun lain 9§:n muuttamisesta](329.md) `329/1988`
+- [Asetus työtuomioistuimesta annetun asetuksen muuttamisesta](330.md) `330/1988`
+- [Asetus maatila\-asetuksen muuttamisesta](331.md) `331/1988`
+- [Valtioneuvoston päätös naudanlihan ja lampaanlihan tuotantopalkkioista](332.md) `332/1988`
+- [Valtioneuvoston päätös Postipankki Oy:n investointirahaston varoista myönnettävien lainojen yleisistä ehdoista](333.md) `333/1988`
+- [Laki yleisistä teistä annetun lain muuttamisesta](334.md) `334/1988`
+- [Asetus oikeusministeriöstä annetun asetuksen muuttamisesta](335.md) `335/1988`
+- [Asetus eräiden liikenneministeriön ja sen hallinnonalan virkojen perustamisesta ja lakkauttamisesta](336.md) `336/1988`
+- [Kauppakamariasetus](337.md) `337/1988`
+- [Asetus kauppa\- ja teollisuusministeriön teollisuuspiireistä annetun asetuksen muuttamisesta](338.md) `338/1988`
+- [Asetus työttömyysturvalain täytäntöönpanosta annetun asetuksen muuttamisesta](339.md) `339/1988`
+- [Laki Uuden Seelannin kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen muuttamisesta tehdyn pöytäkirjan eräiden määräysten hyväksymisestä](340.md) `340/1988`
+- [Asetus Uuden Seelannin kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen muuttamisesta tehdyn pöytäkirjan voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](341.md) `341/1988`
+- [Laki Itävallassa annettujen yksityisoikeudellista vaatimusta koskevien tuomioiden tunnustamisesta ja täytäntöönpanosta](342.md) `342/1988`
+- [Asetus Itävallan kanssa yksityisoikeudellisissa asioissa annettujen tuomioiden tunnustamisesta ja täytäntöönpanosta tehdyn sopimuksen voimaansaattamisesta sekä Itävallassa annettujen yksityisoikeudellista vaatimusta koskevien tuomioiden tunnustamisesta ja täytäntöönpanosta annetun lain voimaantulosta](343.md) `343/1988`
+- [Asetus työtilastoja koskevan yleissopimuksen voimaansaattamisesta](344.md) `344/1988`
+- [Asetus työterveyshuoltoa koskevan yleissopimuksen voimaansaattamisesta](345.md) `345/1988`
+- [Laki ulkomaanedustuksen virkamiesten palkkauksesta](346.md) `346/1988`
+- [Asetus eräistä lohenkalastusta koskevista rajoituksista vuonna 1988](347.md) `347/1988`
+- [Asetus Neuvostoliiton ja Ruotsin kalastusalusten Suomen kalastusvyöhykkeellä harjoittamasta kalastuksesta vuonna 1988 annetun asetuksen 3§:n muuttamisesta](348.md) `348/1988`
+- [Asetus eräiden maa\- ja metsätalousministeriön ja maanmittaushallinnon virkojen nimien muuttamisesta](349.md) `349/1988`
+- [Valtioneuvoston päätös maataloustuotevarastojen korkotukilainoista annetun lain täytäntöönpanosta ja soveltamisesta annetun valtioneuvoston päätöksen 2§:n muuttamisesta](350.md) `350/1988`
+- [Maa\- ja metsätalousministeriön päätös valtiolle maksettavan virkatalonvuokran ja muun valtiolle viljassa suoritettavan korvauksen määräämisestä vuonna 1988](351.md) `351/1988`
+- [Liikenneministeriön päätös ajokorttiasetuksen soveltamisesta annetun liikenneministeriön päätöksen 17 a§:n muuttamisesta](352.md) `352/1988`
+- [Asetus lastenneurologian varsinaisen professorin viran perustamisesta Helsingin yliopistoon](353.md) `353/1988`
+- [Asetus Joensuun yliopistosta annetun asetuksen muuttamisesta](354.md) `354/1988`
+- [Asetus Teknillisestä korkeakoulusta annetun asetuksen muuttamisesta](355.md) `355/1988`
+- [Asetus Tampereen teknillisestä korkeakoulusta annetun asetuksen muuttamisesta](356.md) `356/1988`
+- [Asetus Lappeenrannan teknillisestä korkeakoulusta annetun asetuksen muuttamisesta](357.md) `357/1988`
+- [Asetus korkeakoulujen eräiden virkojen muuttamisesta](358.md) `358/1988`
+- [Laki patentti\- ja rekisterihallituksesta annetun lain muuttamisesta](359.md) `359/1988`
+- [Asetus ulkoasiainhallinnosta annetun asetuksen muuttamisesta](360.md) `360/1988`
+- [Asetus kouluhallituksesta](361.md) `361/1988`
+- [Valtioneuvoston päätös Tornion raastuvanoikeuden lakkauttamisesta ja Tornion tuomiokunnan uudelleen muodostamisesta](362.md) `362/1988`
+- [Valtioneuvoston päätös Tornion poliisilaitoksen muuttamisesta Tornion nimismiespiiriksi](363.md) `363/1988`
+- [Valtioneuvoston päätös leimaverolain soveltamisesta annetun valtioneuvoston päätöksen muuttamisesta](364.md) `364/1988`
+- [Valtioneuvoston päätös valtion työntekijäin terveydenhuollon ohjesäännöstä annetun valtioneuvoston päätöksen muuttamisesta](365.md) `365/1988`
+- [Valtioneuvoston päätös valtion työntekijöiden matkakustannusten korvaamisesta annetun valtioneuvoston päätöksen muuttamisesta](366.md) `366/1988`
+- [Sisäasiainministeriön päätös pysäköintivirhemaksun korottamisesta](367.md) `367/1988`
+- [Laki indeksiehdon käytön rajoittamisesta annetun lain 2§:n muuttamisesta](368.md) `368/1988`
+- [Asetus sisäasiainministeriöstä](369.md) `369/1988`
+- [Valtioneuvoston päätös eräiden opintotukilaissa tarkoitettujen määrien vahvistamisesta](370.md) `370/1988`
+- [Valtioneuvoston päätös raakasokerin tullista](371.md) `371/1988`
+- [Valtioneuvoston päätös rukiin tuotantopalkkiosta](372.md) `372/1988`
+- [Valtioneuvoston päätös maidon tuotantoavustuksista](373.md) `373/1988`
+- [Valtioneuvoston päätös lihan tuotantoavustuksista](374.md) `374/1988`
+- [Valtioneuvoston päätös rehuviljan tuotantopalkkiosta](375.md) `375/1988`
+- [Valtioneuvoston päätös teollisuusperunan tuotantopalkkiosta](376.md) `376/1988`
+- [Valtioneuvoston päätös kotieläinten lukumäärän perusteella annettavista avustuksista](377.md) `377/1988`
+- [Laki polttoaineverosta annetun lain 4§:n väliaikaisesta muuttamisesta](378.md) `378/1988`
+- [Asetus raastuvanoikeudesta annetun asetuksen muuttamisesta](379.md) `379/1988`
+- [Asetus tuomiokuntain hoidosta annetun asetuksen muuttamisesta](380.md) `380/1988`
+- [Asetus sakkorangaistuksen täytäntöönpanosta annetun asetuksen muuttamisesta](381.md) `381/1988`
+- [Asetus verojen ja maksujen perimisestä ulosottotoimin annetun asetuksen muuttamisesta](382.md) `382/1988`
+- [Asetus ulosottoasetuksen muuttamisesta](383.md) `383/1988`
+- [Asetus keskiasteen koulutuksen kehittämisohjelmasta annetun asetuksen 2 ja 4§:n muuttamisesta](384.md) `384/1988`
+- [Asetus oikeuslääkeopillisten tutkimusten toimittamisesta lääkärille ja hammaslääkärille tulevasta korvauksesta annetun asetuksen muuttamisesta](385.md) `385/1988`
+- [Valtioneuvoston päätös aikuisopintorahasta annetun valtioneuvoston päätöksen 1§:n muuttamisesta](386.md) `386/1988`
+- [Valtioneuvoston päätös tupakkatuotteista suoritettavasta lisäverosta](387.md) `387/1988`
+- [Opetusministeriön päätös uskonnollisten lehtien tukemiseen osoitetun määrärahan jakoperusteista ja avustusten hakemisesta](388.md) `388/1988`
+- [Laki avoimesta yhtiöstä ja kommandiittiyhtiöstä](389.md) `389/1988`
+- [Laki kaupparekisterilain muuttamisesta](390.md) `390/1988`
+- [Laki prokuralain 3§:n muuttamisesta](391.md) `391/1988`
+- [Asetus kaupparekisteriasetuksen muuttamisesta](392.md) `392/1988`
+- [Laki merilain muuttamisesta](393.md) `393/1988`
+- [Laki alusrekisterilain 11§:n muuttamisesta](394.md) `394/1988`
+- [Laki etuoikeusasetuksen 7 a§:n kumoamisesta](395.md) `395/1988`
+- [Asetus eräistä poikkeuksista ammatillisten oppilaitosten opetusryhmien muodostamista koskeviin perusteisiin](396.md) `396/1988`
+- [Asetus opintotukiasetuksen 5 §:n muuttamisesta](397.md) `397/1988`
+- [Asetus työvoimaopistosta annetun asetuksen muuttamisesta](398.md) `398/1988`
+- [Asetus Amerikan yhdysvaltojen kanssa kansainvälisestä kuljetustoiminnasta saadun tulon vapauttamisesta verosta tehdyn sopimuksen voimaansaattamisesta](399.md) `399/1988`
+- [Asetus kanslianotaarien ja notaarien lukumäärästä tuomiokunnissa](400.md) `400/1988`
+- [Asetus Romanian kanssa tehdyn pitkäaikaisen kauppasopimuksen 12 artiklan soveltamisesta](401.md) `401/1988`
+- [Valtioneuvoston päätös ulkomaisen harjoittelun tukemiseen myönnettävän valtionavustuksen ja apurahan yleisistä ehdoista annetun valtioneuvoston päätöksen kumoamisesta](402.md) `402/1988`
+- [Valtioneuvoston päätös käynnistystuen maksamisesta nuorille viljelijöille annetun valtioneuvoston päätöksen 9 §:n muuttamisesta](403.md) `403/1988`
+- [Suomen Pankin ilmoitus voimassa olevasta Suomen Pankin peruskorkoa vastaavasta korkokannasta](404.md) `404/1988`
+- [Laki pankkitarkastuslain 19§:n muuttamisesta](405.md) `405/1988`
+- [Laki naisten ja miesten välisestä tasa\-arvosta annetun lain 4 ja 25§:n muuttamisesta](406.md) `406/1988`
+- [Laki kansanterveyslain 15§:n muuttamisesta](407.md) `407/1988`
+- [Laki terveydenhoitolain 4 luvun kumoamisesta](408.md) `408/1988`
+- [Laki mielisairaslain 10§:n muuttamisesta](409.md) `409/1988`
+- [Asetus säteilysuojauslaissa tarkoitettujen turvallisuuslupien myöntämisestä](410.md) `410/1988`
+- [Asetus eräistä määräajaksi tai muutoin rajoitetuksi ajaksi täytettävistä viroista](411.md) `411/1988`
+- [Asetus erikoislääkärin tutkinnosta annetun asetuksen 9§:n muuttamisesta](412.md) `412/1988`
+- [Asetus työvoima\-asiain piiri\- ja paikallishallinnosta annetun asetuksen muuttamisesta](413.md) `413/1988`
+- [Asetus valtiovarainministeriön hallinnonalaan kuuluvista eräistä virkajärjestelyistä annetun asetuksen 2§:n kumoamisesta](414.md) `414/1988`
+- [Asetus työllisyyskoulutuksesta annetun asetuksen 3 ja 45§:n muuttamisesta](415.md) `415/1988`
+- [Valtioneuvoston päätös yleisistä perusteista, joiden nojalla ammattikurssin aloittamiseen ei tarvita ammattikasvatusviranomaisen lupaa](416.md) `416/1988`
+- [Ympäristöministeriön päätös eräiden korkotukilainojen koroista](417.md) `417/1988`
+- [Laki maataloustulolain muuttamisesta](418.md) `418/1988`
+- [Valtioneuvoston päätös vuonna 1988 tehtävistä tuotannonmuutossopimuksista sekä metsityspalkkioista annetun valtioneuvoston päätöksen 3 §:n muuttamisesta](419.md) `419/1988`
+- [Valtioneuvoston päätös villan tuotantopalkkiosta](420.md) `420/1988`
+- [Oikeusministeriön päätös eräistä kunnallisvaalilaissa tarkoitetuista kaavoista](421.md) `421/1988`
+- [Laki verotuksesta Outokumpu Oy:n eläkejärjestelyn yhteydessä](422.md) `422/1988`
+- [Laki valtion tulo\- ja menoarviosta](423.md) `423/1988`
+- [Asetus valtion tulo\- ja menoarviosta](424.md) `424/1988`
+- [Asetus valtioneuvoston ohjesäännön 59§:n kumoamisesta](425.md) `425/1988`
+- [Asetus merenkulkuhallinnosta annetun asetuksen muuttamisesta](426.md) `426/1988`
+- [Asetus alusten paineastioiden tarkastuksiin liittyvistä palkkioista ja korvauksista](427.md) `427/1988`
+- [Oikeusministeriön päätös valitsijayhdistyksen perustajajäsenten vähimmäismäärästä eräissä kunnissa vuoden 1988 kunnallisvaaleissa](428.md) `428/1988`
+- [Laki suurilta kana\- ja sikatalousyrityksiltä kannettavista markkinoimismaksuista annetun lain 5 a§:n muuttamisesta](429.md) `429/1988`
+- [Laki tullitariffilain liitteenä olevan tullitariffin ja teollisuustulliluettelon muuttamisesta](430.md) `430/1988`
+- [Laki tuontimaksulain liitteenä olevan teollisuusetuluettelon muuttamisesta](431.md) `431/1988`
+- [Asetus vankeinhoitolaitoksen eräiden virkojen nimien muuttamisesta](432.md) `432/1988`
+- [Asetus vankeinhoitolaitoksen eräiden virkojen perustamisesta ja lakkauttamisesta](433.md) `433/1988`
+- [Asetus ajoneuvoasetuksen 49 §:n muuttamisesta](434.md) `434/1988`
+- [Liikenneministeriön päätös ajoneuvoasetuksen täytäntöönpanosta annetun liikenneministeriön päätöksen muuttamisesta](435.md) `435/1988`
+- [Liikenneministeriön päätös henkilölinjaliikenteen määritelmästä ja haittaamisesta](436.md) `436/1988`
+- [Sosiaali\- ja terveysministeriön päätös henkilökuljetukseen käytettävien yksiköysiratojen turvallisuusmääräyksistä](437.md) `437/1988`
+- [Laki kotieläintuotannon ohjaamisesta eräissä tapauksissa annetun lain 2§:n muuttamisesta](438.md) `438/1988`
+- [Liikevaihtoveroasetus](439.md) `439/1988`
+- [Asetus eräistä metsähallinnon virkajärjestelyistä](440.md) `440/1988`
+- [Asetus eräistä metsähallinnon virkajärjestelyistä](441.md) `441/1988`
+- [Asetus alkoholijuomien myynnistä Suomen ja ulkomaiden välillä kulkevissa suomalaisissa aluksissa annetun asetuksen 2§:n muuttamisesta](442.md) `442/1988`
+- [Valtioneuvoston päätös hirvieläinvahinkojen korvaamisesta annetun valtioneuvoston päätöksen muuttamisesta](443.md) `443/1988`
+- [Valtioneuvoston päätös riistanhoitomaksun korottamisesta](444.md) `444/1988`
+- [Valtioneuvoston päätös pinta\-alalisästä](445.md) `445/1988`
+- [Valtioneuvoston päätös kananmunien lisähinnasta annetun valtioneuvoston päätöksen 1 ja 6§:n muuttamisesta](446.md) `446/1988`
+- [Valtioneuvoston päätös maidosta suoritettavasta lisähinnasta annetun valtioneuvoston päätöksen 1 ja 2§:n muuttamisesta](447.md) `447/1988`
+- [Laki sairausvakuutuslain muuttamisesta](448.md) `448/1988`
+- [Laki valtion lainanannosta ja valtiontakauksesta](449.md) `449/1988`
+- [Asetus valtion lainanannosta ja valtiontakauksesta](450.md) `450/1988`
+- [Laki vesistöhankkeiden johdosta suoritettavista tilusjärjestelyistä](451.md) `451/1988`
+- [Laki eräistä tilusjärjestelyistä annetun lain 1§:n muuttamisesta](452.md) `452/1988`
+- [Laki vesilain 19 ja 21 luvun muuttamisesta](453.md) `453/1988`
+- [Asetus ennakkoäänestyspaikkoina olevista posti\- ja telelaitoksen toimipaikoista](454.md) `454/1988`
+- [Liikenneministeriön päätös linja\-autojen rakenteesta ja varusteista annetun kulkulaitosten ja yleisten töiden ministeriön päätöksen 16§:n muuttamisesta](455.md) `455/1988`
+- [Valtiovarainministeriön päätös Suomen tasavallan ja Euroopan talousyhteisön välisessä kaupassa sovellettavista alkuperäsäännöistä](456.md) `456/1988`
+- [Asetus valtiovarainministerin hallinnonalaan kuuluvista eräistä virkajärjestelyistä](457.md) `457/1988`
+- [Asetus  Tenojoen kalastuspiirin sivuvesistöjen kalastussäännöstä](458.md) `458/1988`
+- [Asetus matkailun edistämiskeskuksesta](459.md) `459/1988`
+- [Eduskunnan tilisääntö](460.md) `460/1988`
+- [Valtioneuvoston päätös vuokra\-asuntojen jälleenvuokrauksesta kunnille aiheutuneiden tappioiden korvaamiseksi myönnettävien avustusten jakoperusteista](461.md) `461/1988`
+- [Valtiovarainministeriön päätös liiketoimintaa harjoittavista valtion virastoista ja laitoksista](462.md) `462/1988`
+- [Valtiovarainministeriön päätös valtion omistamien osakkeiden, osuustodistusten ja muiden arvopapereiden hoitamisesta ja luetteloimisesta](463.md) `463/1988`
+- [Maa\- ja metsätalousministeriön päätös maataloustuotevarastojen korkotukilainojen korosta](464.md) `464/1988`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta annetun Suomen Pankin päätöksen muuttamisesta](465.md) `465/1988`
+- [Laki kansainvälisluonteisiin sopimuksiin sovellettavasta laista](466.md) `466/1988`
+- [Laki työsopimuslain muuttamisesta](467.md) `467/1988`
+- [Laki kansainvälisluontoiseen irtainten esineiden kauppaan sovellettavasta laista annetun lain 1§:n muuttamisesta](468.md) `468/1988`
+- [Laki Åbo Akademi \-nimisestä yliopistosta annetun lain muuttamisesta](469.md) `469/1988`
+- [Asetus Bulgarian kanssa kaupan esteiden vastavuoroisesta poistamisesta tehdyn sopimuksen muuttamista koskevan sopimuksen voimaansaattamisesta](470.md) `470/1988`
+- [Asetus Euroopan sisäisen säännöllisen lentoliikenteen tariffien vahvistamismenettelyä koskevan kansainvälisen sopimuksen voimaansaattamisesta](471.md) `471/1988`
+- [Asetus Tornion tuomiokunnan hoidon järjestämisestä](472.md) `472/1988`
+- [Asetus Tampereen teknillisen korkeakoulun eräistä virkajärjestelyistä](473.md) `473/1988`
+- [Asetus nuorisotyöasetuksen 3§:n muuttamisesta](474.md) `474/1988`
+- [Asetus työturvallisuuslain ja työterveyshuoltolain soveltamisesta työturvallisuuslain 2§:ssä tarkoitettuun työhön](475.md) `475/1988`
+- [Valtioneuvoston päätös vaikeista ja pitkäaikaisista sairauksista ja niiden hoitoon käytettävistä sairausvakuutuslain mukaan kokonaan tai 90\-prosenttisesti korvattavista lääkkeistä annetun valtioneuvoston päätöksen 1§:n muuttamisesta](476.md) `476/1988`
+- [Sosiaali\- ja terveysministeriön päätös syöpäsairauden vaaraa aiheuttavista aineista sekä niiden merkinnöistä ja myrkkyluokituksesta](477.md) `477/1988`
+- [Asetus Neuvostoliiton kanssa Itämeren lastiviivoista tehdyn sopimuksen voimaansaattamisesta](478.md) `478/1988`
+- [Asetus henkilörekisteriasetuksen 13 §:n muuttamisesta](479.md) `479/1988`
+- [Asetus psykologian tutkinnoista annetun asetuksen muuttamisesta](480.md) `480/1988`
+- [Asetus yhteiskuntatieteellisistä tutkinnoista annetun asetuksen muuttamisesta](481.md) `481/1988`
+- [Asetus yhteiskuntatieteellisten perustutkintojen järjestämisestä annetun asetuksen muuttamisesta](482.md) `482/1988`
+- [Asetus valtion eläinlääketieteellisen laitoksen suoritteista perittävistä maksuista annettuun asetukseen liittyvän hinnaston muuttamisesta](483.md) `483/1988`
+- [Asetus kalastuspiireistä annetun asetuksen muuttamisesta](484.md) `484/1988`
+- [Asetus työttömyysturvaetuuksien korottamisesta](485.md) `485/1988`
+- [Asetus lasten päivähoidosta annetun asetuksen muuttamisesta](486.md) `486/1988`
+- [Valtioneuvoston päätös kunnan tuotantorakennusten korkotukiluottojen korosta](487.md) `487/1988`
+- [Laki Neuvostoliiton kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](488.md) `488/1988`
+- [Asetus Neuvostoliiton kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen voimaansaattamisesta sekä sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](489.md) `489/1988`
+- [Laki kirkkolain muuttamisesta](490.md) `490/1988`
+- [Asetus Itävallan kanssa Haagissa 1 päivänä maaliskuuta 1954 tehdyn riita\-asian oikeudenkäyntiä koskevan sopimuksen mukaisen oikeusavun yksinkertaistamisesta tehdyn sopimuksen voimaansaattamisesta](491.md) `491/1988`
+- [Asetus julkisista huvitilaisuuksista annetun asetuksen 1§:n muuttamisesta](492.md) `492/1988`
+- [Asetus poliisin eräiden virkojen nimien muuttamisesta](493.md) `493/1988`
+- [Asetus kansaneläkeasetuksen muuttamisesta](494.md) `494/1988`
+- [Asetus rintamasotilaseläkeasetuksen 2 ja 7§:n muuttamisesta](495.md) `495/1988`
+- [Asetus Saanan luonnonsuojelualueesta](496.md) `496/1988`
+- [Asetus Annjalonjin luonnonsuojelualueesta](497.md) `497/1988`
+- [Sosiaali\- ja terveysministeriön päätös sairausvakuutuslain 7§:ssä tarkoitetun lääkärin\- ja hammaslääkärinpalkkioiden korvaamista koskevan taksan perusteista annetun sosiaali\- ja terveysministeriön päätöksen 23§:n muuttamisesta](498.md) `498/1988`
+- [Sosiaali\- ja terveysministeriön päätös sairausvakuutuslain 75§:n 2 momentissa tarkoitetusta vähimmäismäärästä](499.md) `499/1988`
+- [Maa\- ja metsätalousministeriön eläinlääkintöosaston päätös eläintautien leviämisen ehkäisemisestä maahantuonnin yhteydessä annetun maa\- ja metsätalousministeriön eläinlääkintöosaston päätöksen muuttamisesta](500.md) `500/1988`
+- [Laki osakeyhtiölain 11 luvun 14§:n ja 16 luvun 7§:n muuttamisesta](501.md) `501/1988`
+- [Laki osuuskuntalain 79 c ja 164§:n muuttamisesta](502.md) `502/1988`
+- [Laki kirjanpitolain 33 ja 38§:n muuttamisesta](503.md) `503/1988`
+- [Laki patentti\- ja rekisterihallituksesta annetun lain muuttamisesta](504.md) `504/1988`
+- [Laki oikeudenkäymiskaaren 21 luvun 4§:n muuttamisesta](505.md) `505/1988`
+- [Laki rangaistusten täytäntöönpanosta annetun asetuksen 2 luvun muuttamisesta](506.md) `506/1988`
+- [Laki rangaistusten täytäntöönpanosta annetun asetuksen 2 luvun 1 a§:n muuttamisesta](507.md) `507/1988`
+- [Laki rikoslain 7 luvun 8§:n muuttamisesta](508.md) `508/1988`
+- [Asetus aluksista aiheutuvan vesien pilaantumisen ehkäisemisestä annetun asetuksen muuttamisesta](509.md) `509/1988`
+- [Asetus maa\-alueilla tapahtuvien öljyvahinkojen torjumisesta annetun asetuksen muuttamisesta](510.md) `510/1988`
+- [Laki peruskoululain muuttamisesta](511.md) `511/1988`
+- [Laki lukiolain muuttamisesta](512.md) `512/1988`
+- [Laki iltalukiolain 10 ja 23§:n muuttamisesta](513.md) `513/1988`
+- [Laki lukion oppilaiden opintososiaalisista eduista annetun lain 5§:n muuttamisesta](514.md) `514/1988`
+- [Laki kunnan kouluhallinnosta annetun lain 17§:n muuttamisesta](515.md) `515/1988`
+- [Laki peruskoulun, lukion ja yleisen kirjaston valtionosuuksista ja \-avustuksista annetun lain 5§:n muuttamisesta](516.md) `516/1988`
+- [Radiolaki](517.md) `517/1988`
+- [Laki telehallinnosta \(518/88\)](518.md) `518/1988`
+- [Laki teletoimintalain muuttamisesta \(519/88\)](519.md) `519/1988`
+- [Laki radiolaitteista annetun lain 1§:n muuttamisesta \(520/88\)](520.md) `520/1988`
+- [Asetus pelastushallinnon koulutuskeskuksen eräistä virkajärjestelyistä](521.md) `521/1988`
+- [Asetus valtioneuvoston lainanottovaltuuksien muuttamisesta vuonna 1988](522.md) `522/1988`
+- [Muutoksia vuoden 1988 tulo\- ja menoarvioon](523.md) `523/1988`
+- [Asetus Vilppulan varavankilasta](524.md) `524/1988`
+- [Asetus oikeusministeriön hallinnonalan eräiden virkojen perustamisesta ja lakkauttamisesta](525.md) `525/1988`
+- [Laki oikeudesta työntekijän tekemiin keksintöihin annetun lain muuttamisesta](526.md) `526/1988`
+- [Asetus oikeudesta työntekijän tekemiin keksintöihin](527.md) `527/1988`
+- [Asetus automaattisten palonilmaisulaitteiden tarkastusmaksujen perusteista annetun asetuksen muuttamisesta](528.md) `528/1988`
+- [Asetus Kiinan Kansantasavallan kanssa tekstiilituotteiden kaupasta tehdyn sopimuksen muuttamista koskevan sopimuksen voimaansaattamisesta](529.md) `529/1988`
+- [Asetus Hongkongin kanssa eräiden tekstiilituotteiden Hongkongista tapahtuvan tuonnin rajoittamisesta ja valvomisesta tehdyn sopimuksen muuttamista koskevan sopimuksen voimaansaattamisesta](530.md) `530/1988`
+- [Asetus sosiaalipalveluista perittävistä maksuista annetun asetuksen 3§:n muuttamisesta](531.md) `531/1988`
+- [Valtioneuvoston päätös lannoiteveron muuttamisesta](532.md) `532/1988`
+- [Valtioneuvoston päätös rehuseosveron muuttamisesta](533.md) `533/1988`
+- [Valtioneuvoston päätös vuonna 1988 jalostettavaksi toimitetusta kalaraaka\-aineesta yrityksille suoritettavasta tuotantotuesta annetun valtioneuvoston päätöksen muuttamisesta](534.md) `534/1988`
+- [Valtioneuvoston päätös maidon tuotantokiintiöiden tarkistamisesta vuonna 1988 annetun valtioneuvoston päätöksen 2§:n muuttamisesta](535.md) `535/1988`
+- [Valtioneuvoston päätös asbestityöstä annetun valtioneuvoston päätöksen soveltamisesta laivatyöhön](536.md) `536/1988`
+- [Valtioneuvoston päätös pakolaisten toimeentulon turvaamisesta](537.md) `537/1988`
+- [Laki oikeudesta hankkia maa\- ja metsätalousmaata annetun lain muuttamisesta](538.md) `538/1988`
+- [Laki maatilalain muuttamisesta](539.md) `539/1988`
+- [Asetus maatila\-asetuksen muuttamisesta](540.md) `540/1988`
+- [Asetus jakoasetuksen muuttamisesta](541.md) `541/1988`
+- [Asetus viljantutkimustoimikunnasta annetun asetuksen kumoamisesta](542.md) `542/1988`
+- [Asetus valtion viljavarastosta annetun asetuksen 1 ja 9§:n muuttamisesta](543.md) `543/1988`
+- [Asetus viljakauppa\-asetuksen 8§:n muuttamisesta](544.md) `544/1988`
+- [Valtioneuvoston päätös eräistä kotimaisen viljan osto\- ja myyntihinnoista](545.md) `545/1988`
+- [Asetus ammattioppilaitoksista annetun asetuksen muuttamisesta](546.md) `546/1988`
+- [Asetus hotelli\- ja ravintolaoppilaitoksista annetun asetuksen muuttamisesta](547.md) `547/1988`
+- [Asetus kauppaoppilaitoksista annetun asetuksen muuttamisesta](548.md) `548/1988`
+- [Asetus koti\- ja laitostalousoppilaitoksista annetun asetuksen muuttamisesta](549.md) `549/1988`
+- [Asetus käsi\- ja taideteollisuusoppilaitoksista annetun asetuksen muuttamisesta](550.md) `550/1988`
+- [Asetus maatalousalan oppilaitoksista annetun asetuksen muuttamisesta](551.md) `551/1988`
+- [Asetus merenkulkuoppilaitoksista annetun asetuksen muuttamisesta](552.md) `552/1988`
+- [Asetus metsä\- ja puutalousoppilaitoksista annetun asetuksen muuttamisesta](553.md) `553/1988`
+- [Asetus sosiaalialan oppilaitoksista annetun asetuksen muuttamisesta](554.md) `554/1988`
+- [Asetus teknillisistä oppilaitoksista annetun asetuksen muuttamisesta](555.md) `555/1988`
+- [Asetus terveydenhuolto\-oppilaitoksista annetun asetuksen muuttamisesta](556.md) `556/1988`
+- [Asetus kansanopistojen valtionavusta annetun asetuksen muuttamisesta](557.md) `557/1988`
+- [Valtioneuvoston päätös ammattikurssikeskusten korkotukiluotosta annetun lain täytäntöönpanosta ja soveltamisesta annetun valtioneuvoston päätöksen 5 §:n muuttamisesta](558.md) `558/1988`
+- [Laki kuntajaosta annetun lain muuttamisesta](559.md) `559/1988`
+- [Laki kuntien yhdistymisavustuksista annetun lain muuttamisesta](560.md) `560/1988`
+- [Laki eräistä toimenpiteistä kunnallisen jaotuksen ja kuntien yhteistoiminnan kehittämiseksi annetun lain kumoamisesta](561.md) `561/1988`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](562.md) `562/1988`
+- [Laki eräitä elintarvikkeita koskevista poikkeuksista liikevaihtoverolakiin annetun lain 4 ja 5§:n muuttamisesta](563.md) `563/1988`
+- [Laki ravintorasvaverosta annetun lain 6§:n muuttamisesta](564.md) `564/1988`
+- [Laki polttoaineverosta annetun lain 4§:n väliaikaisesta muuttamisesta annetun lain muuttamisesta](565.md) `565/1988`
+- [Laki sairausvakuutuslain 54§:n muuttamisesta](566.md) `566/1988`
+- [Laki merimieseläkelain 14 a§:n muuttamisesta](567.md) `567/1988`
+- [Laki työvoima\-asiain piiri\- ja paikallishallinnosta annetun lain 4§:n kumoamisesta](568.md) `568/1988`
+- [Laki työvoimaopistosta annetun lain 3§:n kumoamisesta](569.md) `569/1988`
+- [Asetus työvoimaministeriöstä annetun asetuksen muuttamisesta](570.md) `570/1988`
+- [Valtioneuvoston päätös työllisyyskoulutukseen osallistuvien oppilaiden majoitus\- ja ruokailukustannuksista](571.md) `571/1988`
+- [Laki puolustusvoimista annetun lain muuttamisesta](572.md) `572/1988`
+- [Laki eläinlääkintähuoltolain muuttamisesta](573.md) `573/1988`
+- [Laki vammaisuuden perusteella järjestettävistä palveluista ja tukitoimista annetun lain 14 ja 23§:n muuttamisesta](574.md) `574/1988`
+- [Asetus esitutkinnasta ja pakkokeinoista](575.md) `575/1988`
+- [Asetus vanginkuljetusasetuksen 4§:n muuttamisesta](576.md) `576/1988`
+- [Asetus pelastushallinnon neuvottelukunnasta](577.md) `577/1988`
+- [Asetus valtion lihantarkastamon suoritteista perittävistä maksuista](578.md) `578/1988`
+- [Asetus tie\- ja vesirakennuslaitoksesta](579.md) `579/1988`
+- [Asetus Heinolan kurssikeskuksesta annetun asetuksen muuttamisesta](580.md) `580/1988`
+- [Asetus lastentarhanopettajaopistoista annetun asetuksen muuttamisesta](581.md) `581/1988`
+- [Asetus kuulovammaisten ja näkövammaisten sekä liikuntavammaisten kouluista annetun asetuksen muuttamisesta](582.md) `582/1988`
+- [Asetus Suomalais\-venäläisestä koulusta annetun asetuksen muuttamisesta](583.md) `583/1988`
+- [Asetus Helsingin ranskalais\-suomalaisesta koulusta annetun asetuksen muuttamisesta](584.md) `584/1988`
+- [Asetus näkövammaisten kirjastosta annetun asetuksen muuttamisesta](585.md) `585/1988`
+- [Asetus valtion audiovisuaalisesta keskuksesta annetun asetuksen muuttamisesta](586.md) `586/1988`
+- [Asetus maatalousnormaalikoulusta ja vastaavasta ruotsinkielisestä koulutuksesta annetun asetuksen muuttamisesta](587.md) `587/1988`
+- [Asetus ammattikoulujen opettajaopistoista annetun asetuksen muuttamisesta](588.md) `588/1988`
+- [Asetus saamelaisalueen ammatillisesta koulutuskeskuksesta annetun asetuksen muuttamisesta](589.md) `589/1988`
+- [Asetus vammaisten ammattikouluista annetun asetuksen muuttamisesta](590.md) `590/1988`
+- [Asetus kotitalousopettajaopistoista annetun asetuksen 6 ja 7§:n muuttamisesta](591.md) `591/1988`
+- [Asetus kotiteollisuusopettajaopistoista annetun asetuksen 10 §:n muuttamisesta](592.md) `592/1988`
+- [Asetus normaalimetsäopistosta annetun asetuksen 5 §:n muuttamisesta](593.md) `593/1988`
+- [Asetus erikoiseläinlääkärin tutkinnosta](594.md) `594/1988`
+- [Valtiovarainministeriön päätös eräisiin kehitysmaista peräisin oleviin tavaroihin sovellettavista alkuperäsäännöistä](595.md) `595/1988`
+- [Laki ortodoksisesta kirkkokunnasta annetun lain muuttamisesta](596.md) `596/1988`
+- [Valtioneuvoston päätös vuonna 1988 tehtävistä tuotannonmuutossopimuksista sekä metsityspalkkioista annetun valtioneuvoston päätöksen 3§:n muuttamisesta](597.md) `597/1988`
+- [Valtioneuvoston päätös vuonna 1988 tehtävistä maidontuotannon vähentämissopimuksista annetun valtioneuvoston päätöksen 1§:n muuttamisesta](598.md) `598/1988`
+- [Valtioneuvoston päätös kotieläintuotannon ohjaamisesta eräissä tapauksissa vuonna 1988 annetun valtioneuvoston päätöksen muuttamisesta](599.md) `599/1988`
+- [Valtioneuvoston päätös pakolaisten vastaanoton järjestämisestä ja korvaamisesta](600.md) `600/1988`
+- [Asetus ulkoasiainhallinnon erään viran perustamisesta](601.md) `601/1988`
+- [Valtioneuvoston päätös rauhanturvaamishenkilöstön palvelussuhteen ehtojen perusteista annetun valtioneuvoston päätöksen muuttamisesta](602.md) `602/1988`
+- [Valtioneuvoston päätös polttoaineveromäärien muuttamisesta](603.md) `603/1988`
+- [Valtioneuvoston päätös maantiepolttonesteiden hinnoista](604.md) `604/1988`
+- [Sisäasiainministeriön päätös eräiden alueiden siirtämisestä Porvoon maalaiskunnasta Porvoon kaupunkiin](605.md) `605/1988`
+- [Sisäasiainministeriön päätös rajan määräämisestä eräiltä osin Porvoon maalaiskunnan, Pernajan, Pyhtään ja Ruotsinpyhtään kuntien välillä](606.md) `606/1988`
+- [Sisäasiainministeriön päätös rajan määräämisestä eräiltä osin Dragsfjärdin kunnan, Hangon kaupungin, Inkoon kunnan ja Tammisaaren kaupungin välillä](607.md) `607/1988`
+- [Sisäasiainministeriön päätös erään tilan siirtämisestä Lohtajan kunnasta Kannuksen kaupunkiin](608.md) `608/1988`
+- [Laki pienviljelijäin karjantarkkailuyhdistysten ja sonninpitoyhtymien valtionavustuksista annetun lain 2§:n muuttamisesta](609.md) `609/1988`
+- [Laki Kehitysaluerahasto Oy \- Utvecklingsområdesfonden Ab \-nimisestä osakeyhtiöstä annetun lain 11§:n muuttamisesta](610.md) `610/1988`
+- [Asetus Tanskan, Islannin, Norjan ja Ruotsin kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen voimaansaattamisesta Ahvenanmaan maakunnassa kunnallisveron osalta](611.md) `611/1988`
+- [Asetus matkatavaran verotuksesta Norjan, Ruotsin, Suomen ja Tanskan välisessä matkustajaliikenteessä sekä lentoasemalla tapahtuvasta verovapaasta myynnistä näissä valtioissa tehdyn sopimuksen muuttamista koskevan pöytäkirjan voimaansaattamisesta](612.md) `612/1988`
+- [Asetus tulliasetuksen 23§:n muuttamisesta](613.md) `613/1988`
+- [Asetus tullihallinnosta annetun asetuksen muuttamisesta](614.md) `614/1988`
+- [Asetus kouluhallituksesta annetun asetuksen 26§:n muuttamisesta](615.md) `615/1988`
+- [Asetus ammattimaisesta moottoriajoneuvoliikenteestä annetun asetuksen 16§:n muuttamisesta](616.md) `616/1988`
+- [Asetus tarkastuslautakunnasta annetun asetuksen muuttamisesta](617.md) `617/1988`
+- [Asetus työllisyysasetuksen muuttamisesta](618.md) `618/1988`
+- [Asetus työvoima\-asiain piiri\- ja paikallishallinnon eräiden virkojen perustamisesta ja lakkauttamisesta](619.md) `619/1988`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta annetun Suomen Pankin päätöksen muuttamisesta](620.md) `620/1988`
+- [Laki opettajankoulutuslain muuttamisesta](621.md) `621/1988`
+- [Laki Jyväskylän yliopistosta annetun lain muuttamisesta](622.md) `622/1988`
+- [Laki Kuopion yliopistosta annetun lain muuttamisesta](623.md) `623/1988`
+- [Laki Tampereen yliopistosta annetun lain muuttamisesta](624.md) `624/1988`
+- [Laki jakolain muuttamisesta](625.md) `625/1988`
+- [Laki asumistukien ylimääräisestä tarkistamisesta](626.md) `626/1988`
+- [Asetus oikeudesta hankkia maa\- ja metsätalousmaata annetun asetuksen 3§:n muuttamisesta](627.md) `627/1988`
+- [Asetus eräiden kauppa\- ja teollisuusministeriön virkojen perustamisesta ja lakkauttamisesta](628.md) `628/1988`
+- [Valtioneuvoston päätös Nuijamaan kunnan alueen siirtämisestä Lappeenrannan kaupunkiin](629.md) `629/1988`
+- [Laki valtiontilintarkastajain oikeudesta tarkastaa eräitä valtion tukitoimia](630.md) `630/1988`
+- [Asetus peruskouluasetuksen muuttamisesta](631.md) `631/1988`
+- [Asetus lukioasetuksen muuttamisesta](632.md) `632/1988`
+- [Asetus peruskoulua korvaavasta koulusta ja yksityisestä lukiosta annetun asetuksen muuttamisesta](633.md) `633/1988`
+- [Asetus iltalukioasetuksen 22 ja 25§:n muuttamisesta](634.md) `634/1988`
+- [Asetus valtion audiovisuaalisen keskuksen suoritteista perittävistä maksuista annetun asetuksen 3 ja 4§:n muuttamisesta](635.md) `635/1988`
+- [Sisäasiainministeriön päätös erään tilanosan siirtämisestä Vaasan kaupungista Laihian kuntaan](636.md) `636/1988`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Kaustisen, Ullavan ja Vetelin kuntien välillä](637.md) `637/1988`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Vaasan kaupungin ja Mustasaaren kunnan välillä](638.md) `638/1988`
+- [Valtiovarainministeriön päätös taidekilpailupalkintojen verovapaudesta annetun valtiovarainministeriön päätöksen muuttamisesta](639.md) `639/1988`
+- [Asetus opintotuen hallinnosta annetun asetuksen muuttamisesta](640.md) `640/1988`
+- [Asetus humanistisista tutkinnoista annetun asetuksen 6 §:n muuttamisesta](641.md) `641/1988`
+- [Asetus humanistisen perustutkinnon järjestämisestä annetun asetuksen muuttamisesta](642.md) `642/1988`
+- [Asetus teologisista tutkinnoista annetun asetuksen muuttamisesta](643.md) `643/1988`
+- [Asetus teologisen perustutkinnon järjestämisestä Joensuun yliopistossa](644.md) `644/1988`
+- [Asetus luonnontieteellisen perustutkinnon järjestämisestä annetun asetuksen 4 §:n muuttamisesta](645.md) `645/1988`
+- [Asetus eräistä terveydenhuollon tutkinnoista annetun asetuksen muuttamisesta](646.md) `646/1988`
+- [Asetus säteilyturvakeskuksen eräistä virkajärjestelyistä](647.md) `647/1988`
+- [Sisäasiainministeriön päätös rajan määräämisestä eräiltä osin Iisalmen kaupungin, Kiuruveden, Lapinlahden, Maaningan, Nilsiän, Pielaveden, Siilinjärven, Sonkajärven, Varpaisjärven ja Vieremän kuntien välillä](648.md) `648/1988`
+- [Opetusministeriön päätös tekijänoikeuslain 26 a§:ssä tarkoitetusta maksusta vapauttamisesta](649.md) `649/1988`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain 3 a§:n muuttamisesta](650.md) `650/1988`
+- [Laki yhteistoiminnasta valtion virastoissa ja laitoksissa](651.md) `651/1988`
+- [Laki yhteistoiminnasta yrityksissä annetun lain 2§:n muuttamisesta](652.md) `652/1988`
+- [Laki valtion liikelaitoksista annetun lain 18§:n muuttamisesta](653.md) `653/1988`
+- [Valtioneuvoston päätös eräistä lohenkalastusta koskevista rajoituksista vuonna 1988 annetun asetuksen aiheuttamia taloudellisia menetyksiä koskevien avustusten maksamisperusteista](654.md) `654/1988`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Paltamon ja Ristijärven kuntien välillä](655.md) `655/1988`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Vaalan ja Puolangan kuntien välillä](656.md) `656/1988`
+- [Maa\- ja metsätalousministeriön päätös viljan laatuhinnoittelusta annetun maa\- ja metsätalousministeriön päätöksen 4§:n muuttamisesta](657.md) `657/1988`
+- [Valtiovarainministeriön päätös liikevaihtoverolain alkutuotevähennyksen ja palautuksen laskemisperusteista annetun valtiovarainministeriön päätöksen 2 ja 5§:n muuttamisesta](658.md) `658/1988`
+- [Asetus valtion siementarkastuslaitoksen tarkastusmaksuista annetun asetuksen muuttamisesta](659.md) `659/1988`
+- [Asetus liikenneministeriöstä](660.md) `660/1988`
+- [Asetus eräiden liikenneministeriön ja sen hallinnonalan virkojen perustamisesta ja lakkauttamisesta](661.md) `661/1988`
+- [Asetus telehallinnosta](662.md) `662/1988`
+- [Asetus eräiden Valtionrautateiden virkojen lakkauttamisesta](663.md) `663/1988`
+- [Valtioneuvoston päätös investointiveron kantamisesta annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](664.md) `664/1988`
+- [Valtioneuvoston päätös investointivarausten käyttämisestä annetun valtioneuvoston päätöksen muuttamisesta](665.md) `665/1988`
+- [Valtioneuvoston päätös investointirahastojen käyttämisestä annetun valtioneuvoston päätöksen muuttamisesta](666.md) `666/1988`
+- [Laki tulo\- ja varallisuusverolain muuttamisesta](667.md) `667/1988`
+- [Laki ammatillisten oppilaitosten rahoituksesta annetun lain muuttamisesta](668.md) `668/1988`
+- [Laki kuulovammaisten ja näkövammaisten sekä liikuntavammaisten kouluista annetun lain 17§:n muuttamisesta](669.md) `669/1988`
+- [Laki peruskoululain 56 a ja 57§:n muuttamisesta](670.md) `670/1988`
+- [Laki lukiolain 30 a ja 31§:n muuttamisesta](671.md) `671/1988`
+- [Asetus oikeusministeriön erään viran nimen muuttamisesta](672.md) `672/1988`
+- [Asetus eräistä opetusministeriön hallinnonalan virkajärjestelyistä](673.md) `673/1988`
+- [Asetus eräistä opetusministeriön hallinnonalan virkajärjestelyistä](674.md) `674/1988`
+- [Asetus opetusministeriön hallinnonalan eräiden virkojen lakkauttamisesta](675.md) `675/1988`
+- [Asetus riistaeläinten metsästysajoista annetun asetuksen muuttamisesta](676.md) `676/1988`
+- [Asetus kauppa\- ja teollisuusministeriön teollisuuspiireistä annetun asetuksen 1§:n muuttamisesta](677.md) `677/1988`
+- [Asetus aluksen miehityksestä ja laivahenkilökunnan pätevyydestä annetun asetuksen muuttamisesta](678.md) `678/1988`
+- [Eduskunnan päätös valtiontilintarkastajain johtosäännön muuttamisesta](679.md) `679/1988`
+- [Valtioneuvoston päätös elintarviketuotteiden hinnanerokorvauksista annetun valtioneuvoston päätöksen muuttamisesta](680.md) `680/1988`
+- [Laki Sveitsin kanssa tehdyn sveitsiläisten juustojen tuontia koskevan pöytäkirjan eräiden määräysten hyväksymisestä](681.md) `681/1988`
+- [Asetus Sveitsin kanssa tehdyn sveitsiläisten juustojen tuontia koskevan pöytäkirjan voimaansaattamisesta ja soveltamisesta sekä sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](682.md) `682/1988`
+- [Laki Euroopan vapaakauppaliiton perustamista koskevan konvention eräiden muutosten hyväksymisestä](683.md) `683/1988`
+- [Asetus Euroopan vapaakauppaliiton perustamista koskevan konvention eräiden muutosten voimaan\- saattamisesta ja niiden hyväksymisestä annetun lain voimaantulosta](684.md) `684/1988`
+- [Asetus Euroopan sisäisen säännöllisen lentoliikenteen kapasiteetin jakamista koskevan kansainvälisen sopimuksen voimaansaattamisesta](685.md) `685/1988`
+- [Laki kuluttajansuojasta kiinteistönvälityksessä](686.md) `686/1988`
+- [Laki kauppakaaren 10 luvun muuttamisesta](687.md) `687/1988`
+- [Laki elinkeinonharjoittajan oikeudesta myydä noutamatta jätetty esine](688.md) `688/1988`
+- [Laki merilain 215 §:n muuttamisesta](689.md) `689/1988`
+- [Laki kuntien kantokykyluokituksesta annetun lain 4 ja 7§:n muuttamisesta](690.md) `690/1988`
+- [Asetus kuntien kantokykyluokituksesta annetun asetuksen 3§:n muuttamisesta](691.md) `691/1988`
+- [Asetus kotimaasta tapahtuvaan aluksen hankintaan myönnettävistä korkotukilainoista annetun lain mukaisten tehtävien hoitamisesta Ahvenanmaan maakunnassa](692.md) `692/1988`
+- [Asetus merenkulkuoppilaitoksista annetun asetuksen muuttamisesta](693.md) `693/1988`
+- [Asetus Rauman merenkulkuoppilaitoksen palokoulutuskeskuksesta](694.md) `694/1988`
+- [Asetus Rauman merenkulkuoppilaitoksen laivasimulaattorikeskuksesta](695.md) `695/1988`
+- [Asetus ulkomaanedustuksen virkamiesten palkkauksesta, paikalliskorotuksesta ja erinäisistä korvauksista](696.md) `696/1988`
+- [Valtioneuvoston päätös ulkomaanedustuksen virkamiesten paikalliskorotuksesta, varustautumiskorvauksesta ja asettautumiskustannusten korvauksesta](697.md) `697/1988`
+- [Laki Eläinlääketieteellisestä korkeakoulusta](698.md) `698/1988`
+- [Asetus puolustusvoimissa annettavasta muonituksesta](699.md) `699/1988`
+- [Asetus korkeakouluneuvostosta annetun asetuksen muuttamisesta](700.md) `700/1988`
+- [Asetus Helsingin yliopiston maatalous\-metsätieteellisen tiedekunnan mikrobiologian varsinaisen professorin viran opetusalasta](701.md) `701/1988`
+- [Asetus eräiden Jyväskylän, Joensuun, Oulun ja Turun yliopistojen virkojen nimien muuttamisesta](702.md) `702/1988`
+- [Asetus eräiden virkojen siirtämisestä Oulun yliopistossa](703.md) `703/1988`
+- [Asetus erään Tampereen yliopiston professorin viran opetusalan muuttamisesta](704.md) `704/1988`
+- [Asetus erään viran perustamisesta Lapin korkeakouluun](705.md) `705/1988`
+- [Asetus alaltaan vaihtuvista sopimuspalkkaisista professorin viroista](706.md) `706/1988`
+- [Asetus opettajankoulutusasetuksen muuttamisesta](707.md) `707/1988`
+- [Asetus eräiden kauppa\- ja teollisuusministeriön hallinonalojen virkojen perustamisesta ja lakkauttamisesta](708.md) `708/1988`
+- [Laki kilpailunrajoituksista](709.md) `709/1988`
+- [Asetus kilpailunrajoituksista](710.md) `710/1988`
+- [Laki kilpailuvirastosta](711.md) `711/1988`
+- [Asetus kilpailuvirastosta](712.md) `712/1988`
+- [Laki elinkeinohallituksesta annetun lain muuttamisesta](713.md) `713/1988`
+- [Asetus elinkeinohallituksesta](714.md) `714/1988`
+- [Laki kilpailuneuvostosta](715.md) `715/1988`
+- [Asetus kilpailuneuvostosia](716.md) `716/1988`
+- [Laki hintasulusta](717.md) `717/1988`
+- [Laki vapaakuntakokeilusta](718.md) `718/1988`
+- [Asetus Intian kanssa eräiden tekstiilituotteiden Intiasta Suomeen tapahtuvasta viennistä tehdyn sopimuksen muuttamista koskevan sopimuksen voimaansaattamisesta](719.md) `719/1988`
+- [Asetus eräistä ammatillisen peruskoulutuksen väliaikaisista järjestelyistä valtion ammatillisissa oppilaitoksissa annetun asetuksen kumoamisesta](720.md) `720/1988`
+- [Asetus eräiden korkeakoulujen virkojen kelpoisuusvaatimuksista sekä virkamiesten tehtävistä](721.md) `721/1988`
+- [Valtioneuvoston päätös tullipiireistä ja tullitoimipaikoista annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](722.md) `722/1988`
+- [Laki työsopimuslain muuttamisesta](723.md) `723/1988`
+- [Laki yhteistoiminnasta yrityksissä annetun lain muuttamisesta](724.md) `724/1988`
+- [Valtioneuvoston päätös asunto\-, omaksilunastamis\- ja perusparannuslainan myöntämisessä sekä asukkaaksi hyväksymisessä sovellettavista arvosteluperusteista annetun valtioneuvoston päätöksen muuttamisesta](725.md) `725/1988`
+- [Talletusten ja obligaatioiden veronhuojennuslaki](726.md) `726/1988`
+- [Laki Valtion painatuskeskuksesta](727.md) `727/1988`
+- [Asetus Valtion painatuskeskuksesta](728.md) `728/1988`
+- [Laki Valtion tietokonekeskuksesta](729.md) `729/1988`
+- [Asetus Valtion tietokonekeskuksesta](730.md) `730/1988`
+- [Asetus pankkitarkastusviraston toiminnasta johtuvien kustannusten kattamisesta](731.md) `731/1988`
+- [Asetus valtion virka\-ansiomerkistä annetun asetuksen muuttamisesta](732.md) `732/1988`
+- [Valtioneuvoston päätös  leimavewlaln soveltamisesta annetun valtioneuvoston päätöksen 4 §:n muuttamisesta](733.md) `733/1988`
+- [Valtioneuvoston päätös vuonna 1988 tehtävistä tuotannonmuutossopimuksista sekä metsityspalkkioista annetun valtioneuvoston päätöksen 3 §:n muuttamisesta](734.md) `734/1988`
+- [Laki yleisestä oikeusaputoiminnasta annetun lain 12 §:n muuttamisesta](735.md) `735/1988`
+- [Laki maksuttomasta oikeudenkäynnistä annetun lain 5 §: n muuttamisesta](736.md) `736/1988`
+- [Laki Suomen ja ulkomaan viranomaisten yhteistoiminnasta oikeudenkäynnissä sekä ulkomaan tuomioistuimen päätöksen täytäntöönpanosta eräissä tapauksissa annetun lain muuttamisesta](737.md) `737/1988`
+- [Laki rikoslain 1 luvun 11 §:n muuttamisesta](738.md) `738/1988`
+- [Laki yleisten asiakirjain julkisuudesta annetun lain 6 §:n muuttamisesta](739.md) `739/1988`
+- [Asetus kansainvälisluonteisten oikeudenkäyntien helpottamiseen liittyvien lakien voimaantulosta](740.md) `740/1988`
+- [Asetus yleisestä oikeusaputoiminnasta annetun asetuksen muuttamisesta](741.md) `741/1988`
+- [Asetus maksuttomasta oikeudenkäynnistä annetun asetuksen 2 §:n muuttamisesta](742.md) `742/1988`
+- [Asetus kansainvälisluonteisten oikeudenkäyntien helpottamista koskevan yleissopimuksen voimaansaattamisesta](743.md) `743/1988`
+- [Asetus lämminveristen ravihevosten maahantuonnista annetun asetuksen muuttamisesta](744.md) `744/1988`
+- [Asetus Valtionrautateiden hallinnosta annetun asetuksen muuttamisesta](745.md) `745/1988`
+- [Asetus merentutkimuslaitoksesta annetun asetuksen muuttamisesta](746.md) `746/1988`
+- [Asetus ulkoasiainhallinnosta annetun asetuksen muuttamisesta](747.md) `747/1988`
+- [Valtioneuvoston päätös ammattikasvatushallituksen hallinnassa olevien maatilojen hoidon perusteista](748.md) `748/1988`
+- [Valtioneuvoston päätös suurimmista sallituista poroluvuista sekä laidunmaksuista annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](749.md) `749/1988`
+- [Maa\- ja metsätalousministeriön päätös lämminveristen ravihevosten maahantuonnissa noudatettavista tulosrajoista](750.md) `750/1988`
+- [Sisäasiainministeriön päätös poliisin virkamerkistä ja henkilökortista](751.md) `751/1988`
+- [Laki Valtion ravitsemiskeskuksesta](752.md) `752/1988`
+- [Asetus tasavallan presidentin kanslian ja valtioneuvoston kanslian eräiden virkojen nimien muuttamisesta](753.md) `753/1988`
+- [Asetus valtioneuvoston kansliasta annetun asetuksen muuttamisesta](754.md) `754/1988`
+- [Asetus oikeuskanslerinviraston sekä oikeusministeriön hallinnonalan eräiden virkojen nimien muuttamisesta](755.md) `755/1988`
+- [Asetus Helsingin ulosottovirastosta annetun asetuksen muuttamisesta](756.md) `756/1988`
+- [Asetus valtiontalouden tarkastuksesta annetun asetuksen muuttamisesta](757.md) `757/1988`
+- [Asetus valtiovarainministeriön hallinnonalaan kuuluvien eräiden virkojen lakkauttamisesta ja perustamisesta](758.md) `758/1988`
+- [Asetus valtiovarainministeriön hallinnonalaan kuuluvista eräistä virkajärjestelyistä](759.md) `759/1988`
+- [Asetus ortodoksisesta seminaarista](760.md) `760/1988`
+- [Valtioneuvoston päätös ammatillisen koulutuksen järjestämisestä väliaikaisesti](761.md) `761/1988`
+- [Asetus apulaisnimismiehen viran perustamisesta](762.md) `762/1988`
+- [Asetus eräistä metsähallinnon virkajärjestelyistä](763.md) `763/1988`
+- [Asetus riista\- ja kalatalouden tutkimuslaitoksesta](764.md) `764/1988`
+- [Asetus maa\- ja metsätalousministeriöstä annetun asetuksen muuttamisesta](765.md) `765/1988`
+- [Asetus eräiden posti\- ja telelaitoksen virkojen perustamisesta](766.md) `766/1988`
+- [Asetus eräiden sosiaali\- ja terveysministeriön hallinnonalaan kuuluvien virkojen perustamisesta](767.md) `767/1988`
+- [Asetus eräistä sosiaali\- ja terveysministeriön virkajärjestelyistä](768.md) `768/1988`
+- [Asetus työvoiman liikkuvuuden edistämisestä annetun asetuksen muuttamisesta](769.md) `769/1988`
+- [Asetus eräistä virkajärjestelyistä](770.md) `770/1988`
+- [Valtioneuvoston päätös ammattikurssikeskusten korkotukiluotosta annetun lain täytäntöönpanosta ja soveltamisesta annetun valtioneuvoston päätöksen 5 §:n voimaantulosäännöksen muuttamisesta](771.md) `771/1988`
+- [Laki kaupankäynnistä vakioiduilla optioilla ja termiineillä](772.md) `772/1988`
+- [Laki ulosottolain 4 luvun 18 §:n muuttamisesta](773.md) `773/1988`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain 3 §:n muuttamisesta](774.md) `774/1988`
+- [Laki leimaverolain 10 §:n muuttamisesta](775.md) `775/1988`
+- [Laki pankkitarkastuslain muuttamisesta](776.md) `776/1988`
+- [Laki oikeudesta luovuttaa valtion maaomaisuutta ja tuloatuottavia oikeuksia annetun lain muuttamisesta](777.md) `777/1988`
+- [Löytötavaralaki](778.md) `778/1988`
+- [Laki pakkokeinolain 4 luvun 17 §:n muuttamisesta](779.md) `779/1988`
+- [Laki ilmailulain 61 §:n muuttamisesta](780.md) `780/1988`
+- [Laki avaruuslentäjien pelastamisesta ja palauttamisesta sekä avaruusesineiden palauttamisesta annetun lain 3 §:n muuttamisesta](781.md) `781/1988`
+- [Laki merimiesten vuosilomalain 3 §:n muuttamisesta](782.md) `782/1988`
+- [Rakennussuojeluasetus](783.md) `783/1988`
+- [Valtioneuvoston päätös Joutsenon nimismiespiiristä](784.md) `784/1988`
+- [Valtioneuvoston päätös eräiden opintotukilaissa tarkoitettujen määrien vahvistamisesta annetun valtioneuvoston päätöksen 13 §:n muuttamisesta](785.md) `785/1988`
+- [Asetus vuoden 1987 kansainvälisen sokerisopimuksen voimaansaattamisesta](786.md) `786/1988`
+- [Asetus oikeudesta luovuttaa valtion maaomaisuutta ja tuloatuottavia oikeuksia annetun asetuksen 1 ja 3 §:n muuttamisesta](787.md) `787/1988`
+- [Valtioneuvoston päätös opintolainan saajalle työttömyyden perusteella maksettavasta korkoavustuksesta annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](788.md) `788/1988`
+- [Maa\- ja metsätalousministeriön päätös merilohen ja meritaimenen kalastuksesta eräillä vesistöalueilla vuonna 1988](789.md) `789/1988`
+- [Asetus Pohjois\-Karjalan lääninvankilan perustamisesta](790.md) `790/1988`
+- [Asetus läänin oppilasvalintalautakunnasta annetun asetuksen 3 §:n muuttamisesta](791.md) `791/1988`
+- [Asetus radiolaitteista annetun asetuksen muuttamisesta](792.md) `792/1988`
+- [Ympäristö ministeriön päätös jätehuollon ja jätteiden hyödyntämisen edistämiseen myönnettävistä avustuksista annetun ympäristöministeriön päätöksen muuttamisesta](793.md) `793/1988`
+- [Valtiovarainministeriön päätös tilivirastoista](794.md) `794/1988`
+- [Laki kansainvälistä tavaran kauppaa koskevista sopimuksista tehdyn yleissopimuksen eräiden määräysten hyväksymisestä](795.md) `795/1988`
+- [Asetus kansainvälistä tavaran kauppaa koskevista sopimuksista tehdyn yleissopimuksen voimaansaattamisesta sekä yleissopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](796.md) `796/1988`
+- [Laki kehitysvammaisten erityishuollosta annetun lain 12 ja 13 §:n kumoamisesta](797.md) `797/1988`
+- [Asetus oikeusministeriön hallinnonalan eräistä virkajärjestelyistä](798.md) `798/1988`
+- [Asetus valtionrautateiden tariffisäännön sisältävän asetuksen muuttamisesta](799.md) `799/1988`
+- [Asetus pääkaupunkiseudun henkilölähiliikenteessä valtionrautateillä noudatettavasta vyöhyketariffista annetun asetuksen 3§:n muuttamisesta](800.md) `800/1988`
+- [Asetus valtion radiorahastosta annetun asetuksen muuttamisesta](801.md) `801/1988`
+- [Asetus työsuojeluhallinnosta annetun asetuksen 48§:n muuttamisesta](802.md) `802/1988`
+- [Valtioneuvoston päätös televisioluvista](803.md) `803/1988`
+- [Sisäasiainministeriön päätös virasto\- ja laitossuojelusta](804.md) `804/1988`
+- [Valtioneuvoston päätös selluloosasta suoritettavasta vientitalletuksesta](805.md) `805/1988`
+- [Valtiovarainministeriön päätös ennakon alarajasta ja kantoeristä annetun valtiovarainministeriön päätöksen 2§:n muuttamisesta](806.md) `806/1988`
+- [Maatilahallituksen päätös tärkeimpien kasvilajien lajikkeista](807.md) `807/1988`
+- [Asetus teräaseasetuksen 1§:n muuttamisesta](808.md) `808/1988`
+- [Asetus sisäasiainministeriön hallinnonalaan kuuluvista eräistä virkajärjestelyistä](809.md) `809/1988`
+- [Asetus valtiovarainministeriöstä annetun asetuksen muuttamisesta](810.md) `810/1988`
+- [Asetus veronkantoasetuksen 9 ja 21§:n muuttamisesta](811.md) `811/1988`
+- [Asetus ammatillisten oppilaitosten rahoituksesta annetun asetuksen muuttamisesta](812.md) `812/1988`
+- [Asetus Kotiniemen koulukodin virkojen lakkauttamisesta](813.md) `813/1988`
+- [Asetus valtion kasvatuslaitoksista annetun asetuksen 2§:n muuttamisesta](814.md) `814/1988`
+- [Asetus ympäristöministeriön hallinnonalaan kuuluvista eräistä virkajärjestelyistä](815.md) `815/1988`
+- [Valtioneuvoston päätös kehitysmaiden taloudellista kehitystä varten myönnettävistä korkotukiluotoista annetun valtioneuvoston päätöksen 12§:n muuttamisesta](816.md) `816/1988`
+- [Valtioneuvoston päätös ruokaperunan hintatason vakaannuttamisesta](817.md) `817/1988`
+- [Valtioneuvoston päätös eräiden asuntolainojen ja perusparannuslainojen korosta](818.md) `818/1988`
+- [Asetus liikenneministeriöstä annetun asetuksen muuttamisesta](819.md) `819/1988`
+- [Asetus posti\- ja telelaitoksesta annetun asetuksen muuttamisesta](820.md) `820/1988`
+- [Radioasetus](821.md) `821/1988`
+- [Asetus alusten katsastuksista annetun asetuksen 4§:n muuttamisesta](822.md) `822/1988`
+- [Asetus alusten radioasemista annetun asetuksen muuttamisesta](823.md) `823/1988`
+- [Valtioneuvoston päätös valtion radiorahaston varojen käytöstä annetun valtioneuvoston päätöksen muuttamisesta](824.md) `824/1988`
+- [Asetus Valtion ravitsemiskeskuksesta](825.md) `825/1988`
+- [Asetus väliaikaisesta poikkeuksesta raha\-automaattiasetukseen](826.md) `826/1988`
+- [Radiomaksuasetus](827.md) `827/1988`
+- [Valtioneuvoston päätös valkuaisveron muuttamisesta](828.md) `828/1988`
+- [Valtioneuvoston päätös hintasulun aiheuttamien tarkastusten toimittamisesta](829.md) `829/1988`
+- [Valtioneuvoston päätös työsuhdekeksintölautakunnasta](830.md) `830/1988`
+- [Valtioneuvoston päätös lannoiteveron muuttamisesta](831.md) `831/1988`
+- [Maa\- ja metsätalousministeriön päätös kotimaisen rukiin ja vehnän jauhatusvelvollisuudesta](832.md) `832/1988`
+- [Maa\- ja metsätalousministeriön päätös kalastuksen väliaikaisesta järjestämisestä Pielisjoessa](833.md) `833/1988`
+- [Oikeusministeriön päätös lainhuuto\- ja kiinnitysrekisterin käyttöön ottamisesta Hyvinkään, Juvan ja Vantaan tuomiokunnissa](834.md) `834/1988`
+- [Asetus maatalouden markkinointineuvostosta](835.md) `835/1988`
+- [Asetus ortodoksisesta kirkkokunnasta annetun asetuksen muuttamisesta](836.md) `836/1988`
+- [Asetus maksuista kotimaan postiliikenteessä](837.md) `837/1988`
+- [Asetus virkalähetysoikeudesta postiliikenteessä annetun asetuksen muuttamisesta](838.md) `838/1988`
+- [Asetus eräiden posti\- ja telelaitoksen virkojen nimien muuttamisesta](839.md) `839/1988`
+- [Asetus sotilasvammalain eräiden säännösten soveltamisesta annetun asetuksen 4 §:n muuttamisesta](840.md) `840/1988`
+- [Asetus tapaturmavirastosta annetun asetuksen 10§:n muuttamisesta](841.md) `841/1988`
+- [Valtioneuvoston päätös vuoden 1987 satovahinkojen korvaamiseksi maksettavan rukiin ja vehnän lisähinnan määrästä](842.md) `842/1988`
+- [Valtioneuvoston päätös teollisuuden alennusvoin hinnanalennuskorvauksesta annetun valtioneuvoston päätöksen 2§:n muuttamisesta](843.md) `843/1988`
+- [Verohallituksen päätös ilmoittamisvelvollisuuden rajoittamisesta](844.md) `844/1988`
+- [Verohallituksen päätös pidätystodistuksen antamisvelvollisuuden rajoittamisesta ja ennakonpidätyksen hyväksi lukemisesta](845.md) `845/1988`
+- [Asetus Oulun yliopistosta annetun asetuksen muuttamisesta](846.md) `846/1988`
+- [Asetus Oulun yliopiston Pohjois\-Suomen tutkimuslaitoksesta annetun asetuksen 3§:n muuttamisesta](847.md) `847/1988`
+- [Asetus Helsingin kauppakorkeakoulusta annetun asetuksen muuttamisesta](848.md) `848/1988`
+- [Asetus svenska handelshögskolan nimisestä korkeakoulusta annetun asetuksen muuttamisesta](849.md) `849/1988`
+- [Lääkintöhallituksen päätös lääkeluettelosta](850.md) `850/1988`
+- [Laki eräiden valtion omistamien alueiden muodostamisesta soidensuojelualueiksi](851.md) `851/1988`
+- [Asetus eräistä valtion omistamille alueille perustetuista soidensuojelualueista](852.md) `852/1988`
+- [Laki Suomen Vientiluotto Oy:n vuosien 1986\-1989 ulkomaisen luotonoton korkotuesta annetun lain muuttamisesta](853.md) `853/1988`
+- [Asetus julkisen hallinnon tietohallinnon neuvottelukunnasta](854.md) `854/1988`
+- [Asetus alusten varalaidasta kotimaan liikenteessä](855.md) `855/1988`
+- [Asetus Jyväskylän yliopistosta](856.md) `856/1988`
+- [Asetus Kuopion yliopistosta](857.md) `857/1988`
+- [Asetus puolustusministeriön hallinnonalan eräiden virkojen nimien muuttamisesta](858.md) `858/1988`
+- [Asetus puolustusvoimien eräiden virkojen perustamisesta ja lakkauttamisesta](859.md) `859/1988`
+- [Asetus Tampereen yliopistosta](860.md) `860/1988`
+- [Asetus eräiden liikenneministeriön hallinnonalan virkojen perustamisesta ja lakkauttamisesta](861.md) `861/1988`
+- [Asetus merenkulkulaitoksen eräiden virkojen nimien muuttamisesta](862.md) `862/1988`
+- [Valtioneuvoston päätös vuonna 1989 tehtävistä pellon kesannoimissopimuksista](863.md) `863/1988`
+- [Valtioneuvoston päätös vuonna 1988 tehtävistä maidontuotannon vähentämissopimuksista annetun valtioneuvoston päätöksen 1§:n muuttamisesta](864.md) `864/1988`
+- [Valtioneuvoston päätös valtion liikelaitosten lainanoton rajoista ja ehdoista](865.md) `865/1988`
+- [Valtioneuvoston päätös valtion liikelaitosten kirjanpidon perusteista](866.md) `866/1988`
+- [Valtioneuvoston päätös valtion liikelaitosten eläkemaksujen perusteista](867.md) `867/1988`
+- [Valtioneuvoston päätös eräiden keskitetysti suoritettujen etuuksien ja korvausten perimisestä valtion liikelaitoksilta](868.md) `868/1988`
+- [Valtioneuvoston päätös valtion liikelaitoksilta valtion alueellisten työterveysasemien tuottamista terveydenhuoltopalveluista perittävien korvausten yleisistä perusteista](869.md) `869/1988`
+- [Laki maatalousyrittäjien eläkelain 6 a§:n muuttamisesta](870.md) `870/1988`
+- [Asetus puolustusministeriön hallinnonalan suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](871.md) `871/1988`
+- [Asetus rajavartiolaitoksen eräiden virkojen lakkauttamisesta ja perustamisesta](872.md) `872/1988`
+- [Asetus Suomen rahapajasta annetun asetuksen muuttamisesta](873.md) `873/1988`
+- [Asetus valtionarkiston ja maakunta\-arkistojen suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](874.md) `874/1988`
+- [Asetus arkistolaitoksen eräistä virkajärjestelyistä](875.md) `875/1988`
+- [Asetus valtion opintotukikeskuksen eräiden virkojen nimien muuttamisesta](876.md) `876/1988`
+- [Valtioneuvoston päätös teknisten määräysten, standardien ja suositusten valmistelun ilmoittamisesta ja niiden voimaansaattamisen siirtämisestä](877.md) `877/1988`
+- [Valtioneuvoston päätös teknologiakeskusten yhteydessä toteutettavien paikallisten teknologiahankkeiden valtion\- avustusten yleisistä ehdoista](878.md) `878/1988`
+- [Valtioneuvoston päätös kuormausnostureista ja niiden tarkastuksista annetun valtioneuvoston päätöksen 8 ja 11§:n muuttamisesta](879.md) `879/1988`
+- [Valtioneuvoston päätös ulkomaanedustuksen virkamiesten paikalliskorotuksesta, varustautumiskorvauksesta ja asettautumiskustannusten korvauksesta annetun valtioneuvoston päätöksen muuttamisesta](880.md) `880/1988`
+- [Asetus otsonikerroksen suojelua koskevan Wienin yleissopimuksen voimaansaattamisesta](881.md) `881/1988`
+- [Asetus lehtien postimaksuista](882.md) `882/1988`
+- [Telemaksuasetus](883.md) `883/1988`
+- [Asetus kaupanvahvistaja\-asetuksen muuttamisesta](884.md) `884/1988`
+- [Oikeusministeriön päätös eräistä julkisen kaupanvahvistajan annettavista ohjeista](885.md) `885/1988`
+- [Oikeusministeriön päätös kihlakunnanoikeuden lautamiehen palkkion perusteista](886.md) `886/1988`
+- [Laki indeksiehdon käytön rajoittamisesta annetun lain 2§:n muuttamisesta](887.md) `887/1988`
+- [Asetus valtiovarainministeriön hallinnonalaan kuuluvista eräistä virkajärjestelyistä](888.md) `888/1988`
+- [Asetus hovioikeuksista annetun asetuksen 1 §:n muuttamisesta](889.md) `889/1988`
+- [Asetus yhteistoimintasopimuksia tekevistä valtion virastoista ja laitoksista](890.md) `890/1988`
+- [Asetus valtiovarainministeriön hallinnonalaan kuuluvasta eräästä virkajärjestelystä](891.md) `891/1988`
+- [Asetus energiapolitiikan neuvostosta annetun asetuksen kumoamisesta](892.md) `892/1988`
+- [Valtioneuvoston päätös valtion liikelaitoksen osakkuudesta osakeyhtiössä tai muussa yhteisössä](893.md) `893/1988`
+- [Valtioneuvoston päätös tullitariffin ja teollisuustulliluettelon muuttamisesta](894.md) `894/1988`
+- [Valtioneuvoston päätös eräiden hedelmien tullien väliaikaisesta muuttamisesta](895.md) `895/1988`
+- [Sosiaali\- ja terveysministeriön päätös lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 10 §:n 1 momentissa tarkoitetun maksuprosentin vahvistamisesta](896.md) `896/1988`
+- [Asetus maanmittaushallinnon eräiden virkojen perustamisesta ja lakkauttamisesta](897.md) `897/1988`
+- [Liha\-asetus](898.md) `898/1988`
+- [Asetus siipikarjanlihan tarkastuksesta](899.md) `899/1988`
+- [Asetus lihantarkastusasetuksen muuttamisesta](900.md) `900/1988`
+- [Asetus lihavalmisteiden valmistuksen valvonnasta annetun asetuksen muuttamisesta](901.md) `901/1988`
+- [Lihavalmisteasetus](902.md) `902/1988`
+- [Asetus juustoasetuksen 16§:n muuttamisesta](903.md) `903/1988`
+- [Valtioneuvoston päätös maankäyttölain ja eräiden muiden lakien mukaisten asuntolainojen korosta](904.md) `904/1988`
+- [Valtioneuvoston päätös sokerijuurikkaan tuotantopalkkiosta](905.md) `905/1988`
+- [Maa\- ja metsätalousministeriön päätös maanmittauspiireistä annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](906.md) `906/1988`
+- [Asetus Thaimaan kanssa taloudellisesta, teollisesta ja teknologisesta yhteistyöstä tehdyn sopimuksen voimaansaattamisesta](907.md) `907/1988`
+- [Asetus kauppa\- ja teollisuusministeriön hallinnonalan eräiden virkojen lakkauttamisesta ja perustamisesta](908.md) `908/1988`
+- [Asetus merentutkimuslaitoksen maksuista](909.md) `909/1988`
+- [Asetus yleisistä teistä annetun asetuksen 55§:n muuttamisesta](910.md) `910/1988`
+- [Asetus ilmatieteen laitoksen suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](911.md) `911/1988`
+- [Asetus ajoneuvoasetuksen muuttamisesta](912.md) `912/1988`
+- [Liikenneministeriön päätös ajoneuvoasetuksen täytäntöönpanosta annetun liikenneministeriön päätöksen muuttamisesta](913.md) `913/1988`
+- [Liikenneministeriön päätös ajoneuvojen katsastuksesta ja rekisteröinnistä annetun asetuksen soveltamisesta annetun liikenneministeriön päätöksen muuttamisesta](914.md) `914/1988`
+- [Valtioneuvoston päätös veropiireistä annetun valtioneuvoston päätöksen muuttamisesta](915.md) `915/1988`
+- [Laki polttoaineverosta annetun lain 4§:n väliaikaisesta muuttamisesta](916.md) `916/1988`
+- [Julistus neljästä kiitos\-, katumus\- ja rukouspäivästä, jotka on koko maassa juhlallisesti vietettävä vuonna 1989](917.md) `917/1988`
+- [Valtioneuvoston päätös investointiveron kantamisesta annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](918.md) `918/1988`
+- [Valtioneuvoston päätös henkilökuljetuksiin käytettävistä rakennushisseistä ja niiden tarkastuksesta annetun valtioneuvoston päätöksen 8 ja 9§:n muuttamisesta](919.md) `919/1988`
+- [Sosiaali\- ja terveysministeriön päätös moottorisahoista ja niiden tarkastuksesta](920.md) `920/1988`
+- [Sisäasiainministeriön päätös kuntien kantokykyluokituksen vahvistamisesta vuodeksi 1989](921.md) `921/1988`
+- [Laki työntekijäin eläkelain 1 ja 7§:n muuttamisesta](922.md) `922/1988`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 1§:n muuttamisesta](923.md) `923/1988`
+- [Laki eräiden työsuhteessa olevien taiteilijoiden ja toimittajien eläkelain 1§:n muuttamisesta](924.md) `924/1988`
+- [Asetus alusten katsastuksista annetun asetuksen muuttamisesta](925.md) `925/1988`
+- [Valtioneuvoston päätös energiapolitiikan neuvostosta](926.md) `926/1988`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkeasetuksen 9§:ssä tarkoitetun palkkaindeksiluvun vahvistamisesta](927.md) `927/1988`
+- [Liikenneministeriön päätös radiolähettimen käyttäjältä vaadittavasta erityisestä kelpoisuudesta](928.md) `928/1988`
+- [Työsuojeluhallituksen päätös asbestia sisältävien materiaalien, esineiden ja tuotteiden varoitusmerkinnöistä](929.md) `929/1988`
+- [Asetus Euroopan tietoliikennesatelliittijärjestön \(EUTELSAT\) erioikeuksista ja vapauksista tehdyn pöytäkirjan voimaansaattamisesta](930.md) `930/1988`
+- [Asetus kouluhallituksen eräiden virkojen nimien muuttamisesta](931.md) `931/1988`
+- [Asetus kouluhallituksen eräiden virkojen perustamisesta ja lakkauttamisesta](932.md) `932/1988`
+- [Asetus eräistä sairaanhoitolaitosten maksuista, korvauksista ja palkkioista annetun asetuksen 1 ja 5§:n muuttamisesta](933.md) `933/1988`
+- [Asetus  mielisairaanhoidosta perittävistä maksuista annetun asetuksen 2§:n muuttamisesta](934.md) `934/1988`
+- [Asetus terveyskeskuksessa perittävistä maksuista ja korvauksista annetun asetuksen muuttamisesta](935.md) `935/1988`
+- [Asetus kansanterveyslaitoksessa suoritetuista tutkimuksista perittävistä maksuista annettuun asetukseen liittyvän hinnaston muuttamisesta](936.md) `936/1988`
+- [Asetus säteilyturvakeskuksen suoritteista perittävistä maksuista annettuun asetukseen liittyvän hinnaston muuttamisesta](937.md) `937/1988`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta annetun Suomen Pankin päätöksen muuttamisesta](938.md) `938/1988`
+- [Laki ulosottolain 4 luvun muuttamisesta](939.md) `939/1988`
+- [Laki työntekijäin eläkelain 19 a§:n muuttamisesta](940.md) `940/1988`
+- [Laki merimieseläkelain 63§:n muuttamisesta](941.md) `941/1988`
+- [Laki valtion perhe\-eläkelain 14§:n 1 momentin kumoamisesta](942.md) `942/1988`
+- [Laki valtion virkamiesten perhe\-eläkkeistä ja hautausavuista annetun lain 19§:n kumoamisesta](943.md) `943/1988`
+- [Laki sairausvakuutuslain 69§:n muuttamisesta](944.md) `944/1988`
+- [Laki tapaturmavakuutuslain 63§:n muuttamisesta](945.md) `945/1988`
+- [Laki eräisiin rangaistus\-, huolto\- ja hoitolaitoksiin otettujen henkilöiden tapaturmakorvauksesta annetun lain 4§:n muuttamisesta](946.md) `946/1988`
+- [Laki liikennevakuutuslain 22§:n muuttamisesta](947.md) `947/1988`
+- [Laki vakuutussopimuslain 118 ja 123§:n muuttamisesta](948.md) `948/1988`
+- [Laki kansaneläkelain 79 §:n muuttamisesta](949.md) `949/1988`
+- [Verohallituksen päätös ennakonpidätyksessä vuonna 1989 noudatettavista luontoisetujen laskentaperusteista](950.md) `950/1988`
+- [Laki vakuutusoikeudesta annetun lain muuttamisesta](951.md) `951/1988`
+- [Laki markkinatuomioistuimesta annetun lain 4§:n kumoamisesta](952.md) `952/1988`
+- [Laki haastemieslain 1§:n muuttamisesta](953.md) `953/1988`
+- [Laki jakolain 293 a§:n muuttamisesta](954.md) `954/1988`
+- [Laki työtuomioistuimesta annetun lain 5§:n muuttamisesta](955.md) `955/1988`
+- [Laki liikevaihtovero\-oikeudesta annetun lain muuttamisesta](956.md) `956/1988`
+- [Laki hovioikeuden viroista ja toimista annetun lain muuttamisesta](957.md) `957/1988`
+- [Laki valkuaisverosta annetun lain muuttamisesta](958.md) `958/1988`
+- [Laki sokeriverosta annetun lain muuttamisesta](959.md) `959/1988`
+- [Laki auto\- ja moottoripyöräverosta annetun lain 7§:n muuttamisesta](960.md) `960/1988`
+- [Laki moottoriajoneuvoverosta annetun lain 5 §:n muuttamisesta](961.md) `961/1988`
+- [Asetus kauppa\- ja teollisuusministeriöstä annetun asetuksen muuttamisesta](962.md) `962/1988`
+- [Laki Teollisen Kehitysyhteistyön Rahasto Oy \- Fonden för Industriellt Utvecklingssamarbete Ab \-nimisestä osakeyhtiöstä annetun lain 3 a ja 3 b§:n muuttamisesta](963.md) `963/1988`
+- [Laki evankelis\-luterilaisen kirkon virkaehtosopimuksista annetun lain 2 ja 5§:n muuttamisesta](964.md) `964/1988`
+- [Laki valtioneuvoston oikeudesta luovuttaa toisen omaksi valtion omistamia kivennäislöydöksiä sekä niiden hyväksikäyttöä varten tarvittavia maa\-alueita annetun lain 1§:n muuttamisesta](965.md) `965/1988`
+- [Asetus kesäajasta vuonna 1989](966.md) `966/1988`
+- [Asetus Ahvenanmaan teknillisen oppilaitoksen opetuksesta](967.md) `967/1988`
+- [Asetus kaivosasetuksen muuttamisesta](968.md) `968/1988`
+- [Asetus ajoneuvojen katsastuksesta ja rekisteröinnistä annetun asetuksen muuttamisesta](969.md) `969/1988`
+- [Liikenneministeriön päätös ajoneuvojen katsastuksesta ja rekisteröinnistä annetun asetuksen soveltamisesta annetun liikenneministeriön päätöksen muuttamisesta](970.md) `970/1988`
+- [Asetus Autorekisterikeskuksen ja sen katsastustoimipaikkojen suoritteista perittävistä maksuista](971.md) `971/1988`
+- [Asetus ajoneuvoasetuksen muuttamisesta](972.md) `972/1988`
+- [Laki saariston kehityksen edistämisestä annetun lain 12§:n muuttamisesta](973.md) `973/1988`
+- [Laki asumistukilain 5§:n muuttamisesta](974.md) `974/1988`
+- [Asetus Indonesian kanssa taloudellisesta, teollisesta ja teknologisesta yhteistyöstä tehdyn sopimuksen voimaansaattamisesta](975.md) `975/1988`
+- [Asetus jakoasetuksen muuttamisesta](976.md) `976/1988`
+- [Asetus maanmittaushallinnon eräiden virkojen perustamisesta ja lakkauttamisesta](977.md) `977/1988`
+- [Asetus maanmittaushallinnon eräiden virkojen nimien muuttamisesta](978.md) `978/1988`
+- [Asetus riista\- ja kalatalouden tutkimuslaitoksen suoritteista perittävistä maksuista](979.md) `979/1988`
+- [Asetus tasa\-arvovaltuutetusta ja tasa\-arvolautakunnasta annetun asetuksen muuttamisesta](980.md) `980/1988`
+- [Valtioneuvoston päätös suurimmista sallituista poroluvuista sekä laidunmaksuista annetun valtioneuvoston päätöksen 1§:n muuttamisesta](981.md) `981/1988`
+- [Oikeusministeriön päätös lainhuuto\- ja kiinnitysrekisterin osittaisesta käyttöön ottamisesta Pieksämäen tuomiokunnassa](982.md) `982/1988`
+- [Oikeusministeriön päätös suojaosuuden määrien korottamisesta palkan ulosmittauksessa](983.md) `983/1988`
+- [Laki lannoiteverosta annetun lain 4§:n muuttamisesta](984.md) `984/1988`
+- [Laki rehuseosverosta annetun lain 4§:n muuttamisesta](985.md) `985/1988`
+- [Laki kansaneläkelain 26 ja 27 §:n muuttamisesta](986.md) `986/1988`
+- [Laki sotilasvammalain 18 §:n mukaisen täydennyskoron poikkeuksellisesta määräytymisestä](987.md) `987/1988`
+- [Laki ulkomaille maksettavasta rintamalisästä](988.md) `988/1988`
+- [Vammaistukiasetus](989.md) `989/1988`
+- [Asetus lapsen hoitotuesta annetun asetuksen muuttamisesta](990.md) `990/1988`
+- [Asetus sairaalassa säteilyvahingollisessa työssä toimivien henkilöiden vuosilomasta annetun asetuksen 4§:n muuttamisesta](991.md) `991/1988`
+- [Asetus eläketurvakeskuksen ohjesäännön sisältävän asetuksen 4§:n muuttamisesta](992.md) `992/1988`
+- [Asetus sotavakuutuslain täytäntöönpanosta](993.md) `993/1988`
+- [Sosiaali\- ja terveysministeriön päätös maatalousyrittäjien eläkelain 10§:ssä tarkoitetun perusprosentin ja yrittäjien eläkelain 9§:ssä tarkoitetun maksuprosentin vahvistamisesta](994.md) `994/1988`
+- [Sosiaali\- ja terveysministeriön päätös eräiden elatusapujen ja elatustukien korottamisesta elinkustannusindeksin nousun johdosta](995.md) `995/1988`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta annetun Suomen Pankin päätöksen muuttamisesta](996.md) `996/1988`
+- [Laki valtion viljavarastosta annetun lain 14§:n muuttamisesta](997.md) `997/1988`
+- [Laki luopumiseläkelain 2§:n muuttamisesta](998.md) `998/1988`
+- [Asetus Ruotsin kanssa Suomen ja Ruotsin välisen valtakunnanrajan hoidosta tehdyn sopimuksen voimaansaattamisesta](999.md) `999/1988`
+- [Asetus rakennushallinnon suoritteista perittävistä maksuista](1000.md) `1000/1988`
+- [Asetus radiotutkintomaksuista](1001.md) `1001/1988`
+- [Liikenneministeriön päätös radiolain ja radioasetuksen soveltamisesta Suomen alueella liikkuvassa ulkomaisessa aluksessa tai ilma\-aluksessa olevan radiolähettimen hallussapitoon ja käyttöön](1002.md) `1002/1988`
+- [Verohallituksen päätös vuodelta 1988 toimitettavassa verotuksessa verosta vapaaksi katsottavien matkakustannusten korvausten perusteista ja määristä](1003.md) `1003/1988`
+- [Verohallituksen päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](1004.md) `1004/1988`
+- [Valtioneuvoston päätös luottoehdoista eräiden tavaroiden osamaksukaupassa annetun valtioneuvoston päätöksen kumoamisesta](1005.md) `1005/1988`
+- [Valtioneuvoston päätös markan ulkoisesta arvosta annetun valtioneuvoston päätöksen 4§:n muuttamisesta](1006.md) `1006/1988`
+- [Maa\- ja metsätalousministeriön päätös puutavaran mittauksesta suoritettavista palkkioista](1007.md) `1007/1988`
+- [Laki valtioneuvoston ministeriöiden lukumäärästä ja yleisestä toimialasta annetun lain 3§:n muuttamisesta](1008.md) `1008/1988`
+- [Laki merentutkimuslaitoksesta annetun lain 1§:n muuttamisesta](1009.md) `1009/1988`
+- [Laki siemenperunakeskuksen suojavyöhykkeestä](1010.md) `1010/1988`
+- [Asetus siemenperunakeskuksen suojavyöhykkeestä](1011.md) `1011/1988`
+- [Asetus korkealaatuisen siemen\- ja taimiaineiston tuottamisesta maatalouden tutkimuskeskuksessa annetun asetuksen 14§:n muuttamisesta](1012.md) `1012/1988`
+- [Asetus maataloushallinnosta annetun asetuksen 28 ja 34§:n muuttamisesta](1013.md) `1013/1988`
+- [Valtioneuvoston päätös Ahvenanmaan maakunnassa oleville kunnille maataloustuen jako\- ja valvontatehtävien hoitamisesta suoritettavista korvauksista](1014.md) `1014/1988`
+- [Valtioneuvoston päätös yleisohjeeksi asuinhuoneistojen vuokrien korotusten enimmäismääristä](1015.md) `1015/1988`
+- [Valtioneuvoston päätös yleisohjeeksi keskuslämmitysasuntojen kohtuullisista vuokrista eräillä paikkakunnilla](1016.md) `1016/1988`
+- [Suomen Pankin ilmoitus voimassa olevasta Suomen Pankin peruskorkoa vastaavasta korkokannasta](1017.md) `1017/1988`
+- [Laki lannoiteverosta annetun lain 4§:n muuttamisesta](1018.md) `1018/1988`
+- [Laki lannoiteverosta annetun lain muuttamisesta](1019.md) `1019/1988`
+- [Laki tuontimaksulakiin liittyvän tuontimaksutaulukon väliaikaisesta muuttamisesta](1020.md) `1020/1988`
+- [Laki leimaverolain muuttamisesta](1021.md) `1021/1988`
+- [Laki kerman ja vähärasvaisen maidon tasausmaksusta annetun lain 22 §:n muuttamisesta](1022.md) `1022/1988`
+- [Laki eräiden asuntolainojen koron alentamisen sekä lyhennysten ja korkojen lykkäämisen väliaikaisesta järjestämisestä annetun lain muuttamisesta](1023.md) `1023/1988`
+- [Valtioneuvoston päätös valtioneuvoston ruotsinkielen lautakunnasta](1024.md) `1024/1988`
+- [Valtjoneuvoston päätös moottoribensiinin lyijy\- ja bentseenipitoisuudesta](1025.md) `1025/1988`
+- [Laki yhden tuomarin istunnossa käsiteltävistä rikosasioista](1026.md) `1026/1988`
+- [Asetus markkinatuomioistuimesta annetun asetuksen muuttamisesta](1027.md) `1027/1988`
+- [Asetus jakoasetuksen muuttamisesta](1028.md) `1028/1988`
+- [Asetus liikevaihtovero\-oikeudesta annetun asetuksen muuttamisesta](1029.md) `1029/1988`
+- [Asetus eräistä sisäasiainministeriön virkajärjestelyistä](1030.md) `1030/1988`
+- [Asetus poliisin maksuasetuksen muuttamisesta](1031.md) `1031/1988`
+- [Asetus vartioimisliikelautakunnasta annetun asetuksen muuttamisesta](1032.md) `1032/1988`
+- [Asetus väestökirjanpidon paikallishallinnon maksuasetuksen 6 §:n muuttamisesta](1033.md) `1033/1988`
+- [Asetus tilastokeskuksen suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](1034.md) `1034/1988`
+- [Valtioneuvoston päätös metsätaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](1035.md) `1035/1988`
+- [Liikenneministeriön päätös keskuslentoasemista ja niiden toimialueista annetun liikenneministeriön päätöksen 2 §:n muuttamisesta](1036.md) `1036/1988`
+- [Laki passilain muuttamisesta](1037.md) `1037/1988`
+- [Asetus sosiaalihuollon ammatillisen henkilöstön kelpoisuusehdoista annetun asetuksen muuttamisesta](1038.md) `1038/1988`
+- [Valtioneuvoston päätös eräiden peruskoulun, lukion ja yleisen kirjaston valtionosuuksista ja \-avustuksista annetussa laissa tarkoitettujen määrien vahvistamisesta](1039.md) `1039/1988`
+- [Valtioneuvoston päätös peruskoulu\- ja lukiorakennusten suunnittelun, rakentamisen ja normaalihintojen perusteista annetun valtioneuvoston päätöksen 12 §:n muuttamisesta](1040.md) `1040/1988`
+- [Sisäasiainministeriön päätös eräiden tilojen, tilanosien ja alueiden siirtämisestä Ranuan kunnasta Rovaniemen maalaiskuntaan](1041.md) `1041/1988`
+- [Sisäasiainministeriön päätös yhden tilan siirtämisestä Rautjärven kunnasta Ruokolahden kuntaan](1042.md) `1042/1988`
+- [Sisäasiainministeriön päätös erään tilanosan ja alueiden siirtämisestä Sysmän kunnasta Heinolan maalaiskuntaan](1043.md) `1043/1988`
+- [Puolustusministeriön päätös sota\-alusten ja eräiden muiden alusten valoista ja merkkikuvioista annetun asetuksen täytäntöönpanosta ja soveltamisesta](1044.md) `1044/1988`
+- [Sisäasiainministeriön päätös pysäköintivirhemaksun korottamisesta](1045.md) `1045/1988`
+- [Kauppa\- ja teollisuusministeriön päätös kuluttajansuojasta kiinteistönvälityksessä annetussa laissa tarkoitetuista kaavoista](1046.md) `1046/1988`
+- [Laki liikevaihtoverolain muuttamisesta](1047.md) `1047/1988`
+- [Laki eräitä elintarvikkeita koskevista poikkeuksista liikevaihtoverolakiin annetun lain väliaikaisesta muuttamisesta](1048.md) `1048/1988`
+- [Asetus liikevaihtoveroasetuksen 11 §:n muuttamisesta](1049.md) `1049/1988`
+- [Muutoksia vuoden 1988 tulo\- ja menoarvioon](1050.md) `1050/1988`
+- [Laki auto\- ja moottoripyöräverosta annetun lain väliaikaisesta muuttamisesta](1051.md) `1051/1988`
+- [Asetus vakuutusoikeudesta annetun asetuksen muuttamisesta](1052.md) `1052/1988`
+- [Asetus raha\-automaattiasetuksen muuttamisesta](1053.md) `1053/1988`
+- [Asetus väliaikaisesta poikkeuksesta raha\-automaattiasetukseen](1054.md) `1054/1988`
+- [Valtioneuvoston päätös tupakkatuotteista suoritettavasta lisäverosta](1055.md) `1055/1988`
+- [Valtioneuvoston päätös maan jakamisesta alusrekisterialueisiin annetun valtioneuvoston päätöksen muuttamisesta](1056.md) `1056/1988`
+- [Valtiovarainministeriön päätös rakennusten jälleenhankinta\-arvon perusteista](1057.md) `1057/1988`
+- [Valtiovarainministeriön päätös kotieläinten arvon määräämisessä noudatettavista perusteista](1058.md) `1058/1988`
+- [Valtiovarainministeriön päätös liikevaihtoverolain alkutuotevähennyksen ja palautuksen laskemisperusteista annetun valtiovarainministeriön päätöksen 2 ja 5 §:n muuttamisesta](1059.md) `1059/1988`
+- [Laki valtion virkamieslain muuttamisesta](1060.md) `1060/1988`
+- [Laki pääkaupunkiseudun rakennusmaamaksusta](1061.md) `1061/1988`
+- [Laki rakennuslain 53 § : n muuttamisesta](1062.md) `1062/1988`
+- [Laki etuostolain 1 ja 5 §:n muuttamisesta](1063.md) `1063/1988`
+- [Asetus kehitysmaista peräisin olevien tavaroiden tulli\- ja tuontimaksuetuuksista annetun asetuksen muuttamisesta](1064.md) `1064/1988`
+- [Asetus eräiden pankkitarkastusviraston virkojen perustamisesta](1065.md) `1065/1988`
+- [Verohallituksen päätös vuodelta 1988 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](1066.md) `1066/1988`
+- [Laki asuntosäästöpalkkiolain 5 § : n muuttamisesta](1067.md) `1067/1988`
+- [Laki vuoden 1951 kalastuslain 83 §:n muuttamisesta](1068.md) `1068/1988`
+- [Laki kotimaasta tapahtuvaan aluksen hankintaan myönnettävistä korkotukilainoista annetun lain 8 §:n muuttamisesta](1069.md) `1069/1988`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain 16 §:n väliaikaisesta muuttamisesta](1070.md) `1070/1988`
+- [Laki vammaisuuden perusteella järjestettävistä palveluista ja tukitoimista annetun lain 22 §:n muuttamisesta](1071.md) `1071/1988`
+- [Asetus eräistä patentti\- ja rekisterihallituksen perimistä maksuista annetun asetuksen muuttamisesta](1072.md) `1072/1988`
+- [Asetus eräistä sairaanhoitolaitosten maksuista, korvauksista ja palkkioista annetun asetuksen muuttamisesta](1073.md) `1073/1988`
+- [Asetus mielisairaanhoidosta perittävistä maksuista annetun asetuksen 3 §:n muuttamisesta](1074.md) `1074/1988`
+- [Asetus sosiaalipalveluista perittävistä maksuista annetun asetuksen 5 §:n muuttamisesta](1075.md) `1075/1988`
+- [Valtioneuvoston päätös eläkkeensaajien asumistukilain mukaisten hoitomenoina hyväksyttävien keskimääräisten kustannusten tarkistamisesta](1076.md) `1076/1988`
+- [Sosiaali\- ja terveysministeriön päätös sotilasvammalain 18 §:n 2 momentissa tarkoitetun tulorajan tarkistamisesta](1077.md) `1077/1988`
+- [Laki Varastokirjastosta](1078.md) `1078/1988`
+- [Löytötavara\-asetus](1079.md) `1079/1988`
+- [Asetus puolustusvoimille kuuluneen tavaran löytämisestä ja pelastamisesta annetun asetuksen 4 §:n muuttamisesta](1080.md) `1080/1988`
+- [Asetus sisäasiainministeriön hallinnonalaan kuuluvista eräistä virkajärjestelyistä](1081.md) `1081/1988`
+- [Valtioneuvoston päätös vapaakuntien valinnasta](1082.md) `1082/1988`
+- [Valtioneuvoston päätös pientonniston korkomenojen alentamiseksi myönnettävistä avustuksista annetun valtioneuvoston päätöksen 2 ja 6 §:n muuttamisesta](1083.md) `1083/1988`
+- [Valtioneuvoston päätös tapaturmavakuutuslain 58 §:ssä säädetyn maksun suuruudesta uonna 1989](1084.md) `1084/1988`
+- [Sisäasiainministeriön päätös eräiden kiinteistöjen, kiinteistönosien ja muiden rekisteriyksiköiden siirtämisestä Jyväskylän maalaiskunnasta Jyväskylän kaupunkiin](1085.md) `1085/1988`
+- [Sisäasiainministeriön päätös eräiden tilojen ja alueiden siirtämisestä Pieksämäen aalaiskunnasta Jäppilän kuntaan](1086.md) `1086/1988`
+- [Sisäasiainministeriön päätös eräiden tilojen ja tilanosien siirtämisestä Jämsän ja ämsänkosken kaupungeista Korpilahden kuntaan](1087.md) `1087/1988`
+- [Sisäasiainministeriön päätös yhden tilan siirtämisestä Mäntyharjun kunnasta Pertunmaan kuntaan](1088.md) `1088/1988`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta annetun Suomen Pankin päätöksen muuttamisesta](1089.md) `1089/1988`
+- [Opetusministeriön päätös tallentamattomien ääni\- ja kuvanauhojen maahantuonnista ja valmistuksesta suoritettavan tekijänoikeudellisen maksun suuruudesta](1090.md) `1090/1988`
+- [Valtiovarainministeriön päätös liiketoimintaa harjoittavista valtion virastoista ja laitoksista](1091.md) `1091/1988`
+- [Valtiovarainministeriön päätös Suomen tasavallan ja Euroopan talousyhteisön välisessä kaupassa noudatettavien alkuperäsääntöjen eräiden muutosten soveltamisesta](1092.md) `1092/1988`
+- [Valtiovarainministeriön päätös Euroopan vapaakauppaliiton jäsenvaltioiden välisessä kaupassa noudatettavien alkuperäsääntöjen eräiden muutosten soveltamisesta](1093.md) `1093/1988`
+- [Valtioneuvoston päätös veropiireistä annetun valtioneuvoston päätöksen muuttamisesta](1094.md) `1094/1988`
+- [Valtioneuvoston päätös pakolaisten toimeentulon turvaamisesta annetun valtioneuvoston päätöksen 8 ja 9 §:n muuttamisesta](1095.md) `1095/1988`
+- [Kauppa\- ja teollisuusministeriön päätös alueelliseen kuljetustukeen oikeuttavasta vähimmästä kuljetusmaksusta sekä kuljetusmaksujen yhteismäärästä](1096.md) `1096/1988`
+- [Kauppa\- ja teollisuusministeriön päätös kuljetusten alueellisesta tukemisesta annetun lain 12 §:n 1 omentissa tarkoitetun laivakuljetuksissa maksettavan kuljetustuen äärästä](1097.md) `1097/1988`
+- [Kauppa\- ja teollisuusministeriön päätös sähkötöiden johtamisesta](1098.md) `1098/1988`
+- [Kauppa\- ja teollisuusministeriön päätös sähköllä toimivista hisseistä](1099.md) `1099/1988`
+- [Valtioneuvoston päätös oman asunnon hankintaan myönnettävien lainojen korkotuen edellytyksistä](1100.md) `1100/1988`
+- [Ympäristöministeriön päätös eräiden korkotukilainojen koroista](1101.md) `1101/1988`
+- [Valtioneuvoston päätös eräiden asuntolainojen koron väliaikaisesta alentamisesta](1102.md) `1102/1988`
+- [Valtioneuvoston päätös asumistuen määräytymisperusteista](1103.md) `1103/1988`
+- [Valtioneuvoston päätös porotaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](1104.md) `1104/1988`
+- [Suomen tasavallan tulo\- ja menoarvio vuodelle 1989](1105.md) `1105/1988`
+- [Laki tasausverolain 10§:n muuttamisesta](1106.md) `1106/1988`
+- [Laki Oy Alko Ab:n verovelvollisuudesta kunnallisverotuksessa](1107.md) `1107/1988`
+- [Laki eräistä vakuutusmaksuista suoritettavasta verosta annetun lain 6 ja 7§:n muuttamisesta](1108.md) `1108/1988`
+- [Laki tuotannollisen toiminnan edistämiseksi myönnettävistä veronhuojennuksista annetun lain 4§:n muuttamisesta](1109.md) `1109/1988`
+- [Laki vuodelta 1989 toimitettavassa valtionverotuksessa sovellettavista veroasteikoista ja veroprosenteista](1110.md) `1110/1988`
+- [Laki eräitä tuotannollisia investointeja koskevista poikkeuksista liikevaihtoverolakiin annetun lain 4§:n muuttamisesta](1111.md) `1111/1988`
+- [Laki energiainvestointien liikevaihtoverovähennyksistä annetun lain 2 ja 4§:n muuttamisesta](1112.md) `1112/1988`
+- [Asetus ennakkoperintäasetuksen muuttamisesta](1113.md) `1113/1988`
+- [Asetus verotusasetuksen 8 §:n 1 kohdan kumoamisesta](1114.md) `1114/1988`
+- [Valtioneuvoston päätös eräiden tullien, tuontimaksujen sekä elintarviketuotteiden valmisteveron muuttamisesta](1115.md) `1115/1988`
+- [Luettelo veroäyrien hinnoista vuonna 1989](1116.md) `1116/1988`
+- [Asetus poliisin eräiden virkojen perustamisesta](1117.md) `1117/1988`
+- [Asetus lääkintöhallituksesta annetun asetuksen muuttamisesta](1118.md) `1118/1988`
+- [Asetus huumausaineasetuksen 1§:n muuttamisesta](1119.md) `1119/1988`
+- [Asetus säteilysuojausasetuksen 5§:n muuttamisesta](1120.md) `1120/1988`
+- [Asetus työllisyysasetuksen muuttamisesta](1121.md) `1121/1988`
+- [Asetus työvoima\-asiain piiri\- ja paikallishallinnosta annetun asetuksen muuttamisesta](1122.md) `1122/1988`
+- [Asetus työvoima\-avustajista annetun asetuksen muuttamisesta](1123.md) `1123/1988`
+- [Asetus työvoima\-asiain piiri\- ja paikallishallinnon eräiden virkojen perustamisesta ja lakkauttamisesta](1124.md) `1124/1988`
+- [Laki maksuttomasta oikeudenkäynnistä annetun lain muuttamisesta](1125.md) `1125/1988`
+- [Laki sotilasoikeudenkäyntilain 28§:n muuttamisesta](1126.md) `1126/1988`
+- [Asetus maksuttomasta oikeudenkäynnistä annetun asetuksen muuttamisesta](1127.md) `1127/1988`
+- [Asetus oikeudenkäynnistä huoneenvuokra\-asioissa annetun asetuksen 8§:n kumoamisesta](1128.md) `1128/1988`
+- [Asetus sotilasoikeudenkäyntiasetuksen 16§:n kumoamisesta](1129.md) `1129/1988`
+- [Asetus sakkorangaistuksen täytäntöönpanosta annetun asetuksen muuttamisesta](1130.md) `1130/1988`
+- [Asetus verojen ja maksujen perimisestä ulosottotoimin annetun asetuksen 11§:n muuttamisesta](1131.md) `1131/1988`
+- [Asetus ulosottoasetuksen muuttamisesta](1132.md) `1132/1988`
+- [Asetus Lahdessa vuonna 1989 pidettävien hiihdon maailmanmestaruuskilpailujen johdosta lyötävästä juhlarahasta](1133.md) `1133/1988`
+- [Asetus maahantuonnin yhteydessä suoritettavien kasvintarkastusmaksujen kantamisesta](1134.md) `1134/1988`
+- [Asetus valtion virkamiesasetuksen muuttamisesta](1135.md) `1135/1988`
+- [Asetus sosiaali\- ja terveysministeriön hallinnonalan eräistä virkajärjestelyistä](1136.md) `1136/1988`
+- [Laki kotimaisten energialähteiden käytön, energiansäästön ja uuden energiantuotantoteknologian käyttöönoton edistämisestä](1137.md) `1137/1988`
+- [Asetus sähkötöiden valvonnasta perittävistä maksuista](1138.md) `1138/1988`
+- [Asetus sähkölaitteistojen tarkastuksista perittävistä maksuista](1139.md) `1139/1988`
+- [Asetus hissien tarkastuksista perittävistä maksuista](1140.md) `1140/1988`
+- [Asetus vaarallisten aineiden kuljettamisesta tiellä](1141.md) `1141/1988`
+- [Liikenneministeriön päätös ajoneuvoasetuksen täytäntöönpanosta annetun liikenneministeriön päätöksen muuttamisesta](1142.md) `1142/1988`
+- [Liikenneministeriön päätös henkilö\- ja pakettiautojen perävaunuista ja niiden kytkennästä annetun liikenneministeriön päätöksen 4 §:n osittaisesta kumoamisesta](1143.md) `1143/1988`
+- [Liikenneministeriön päätös dieselkäyttöisistä moottoriajoneuvoista annetun kulkulaitosten ja yleisten töiden ministeriön päätöksen kumoamisesta](1144.md) `1144/1988`
+- [Laki Suomenlinnan hoitokunnasta](1145.md) `1145/1988`
+- [Laki museoiden valtionosuuksista ja \-avustuksista](1146.md) `1146/1988`
+- [Laki peruskoulun, lukion ja yleisen kirjaston valtionosuuksista ja \-avustuksista annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](1147.md) `1147/1988`
+- [Laki virallisista kääntäjistä](1148.md) `1148/1988`
+- [Laki oppisopimuslain muuttamisesta](1149.md) `1149/1988`
+- [Laki oppisopimuslain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1150.md) `1150/1988`
+- [Laki oppisopimuslain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1151.md) `1151/1988`
+- [Asetus oppisopimusasetuksen muuttamisesta](1152.md) `1152/1988`
+- [Asetus oppisopimusasetuksen väliaikaisesta muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](1153.md) `1153/1988`
+- [Asetus oppisopimusasetuksen väliaikaisesta muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](1154.md) `1154/1988`
+- [Asetus opetusministeriön hallinnonalan eräiden virkojen nimien muuttamisesta](1155.md) `1155/1988`
+- [Valtioneuvoston päätös koulutussopimukseen perustuvan työpaikkakoulutuksen järjestämisestä annetun valtioneuvoston päätöksen 11§:n muuttamisesta](1156.md) `1156/1988`
+- [Laki kalansaaliin hintatuesta annetun lain muuttamisesta](1157.md) `1157/1988`
+- [Laki maatalouden tutkimuskeskuksesta](1158.md) `1158/1988`
+- [Laki valtion maitotalouden tutkimuslaitoksesta annetun lain kumoamisesta](1159.md) `1159/1988`
+- [Laki valtion hevosjalostuslaitoksesta annetun lain kumoamisesta](1160.md) `1160/1988`
+- [Laki maanmittausmaksusta annetun lain muuttamisesta](1161.md) `1161/1988`
+- [Laki jakolain 192§:n muuttamisesta](1162.md) `1162/1988`
+- [Laki tilojen yhteisten teiden ja valtaojien sekä niihin verrattavien alueiden lakkaamisesta yhteisinä alueina annetun lain 20§:n muuttamisesta](1163.md) `1163/1988`
+- [Asetus maa\- ja metsätalousministeriön hallinnonalan eräiden virkojen nimien muuttamisesta](1164.md) `1164/1988`
+- [Asetus karhun, suden ja ahman metsästämisestä](1165.md) `1165/1988`
+- [Valtioneuvoston päätös kalastuksenhoitomaksun ja pilkintämaksun määrästä](1166.md) `1166/1988`
+- [Valtiovarainministeriön päätös vesivoimalaitoksen ja sen rakenteiden jälleenhankinta\-arvon perusteista](1167.md) `1167/1988`
+- [Laki aluepolitiikasta](1168.md) `1168/1988`
+- [Laki asevelvollisuuslain muuttamisesta](1169.md) `1169/1988`
+- [Laki terveydenhuollon järjestämisestä puolustusvoimissa annetun lain 3§:n muuttamisesta](1170.md) `1170/1988`
+- [Asetus puolustusvoimien erään viran perustamisesta](1171.md) `1171/1988`
+- [Asetus luotsausmaksuista annetun asetuksen muuttamisesta](1172.md) `1172/1988`
+- [Asetus väylämaksuasetuksen muuttamisesta](1173.md) `1173/1988`
+- [Asetus merenkulkulaitoksen suoritteista perittävistä maksuista](1174.md) `1174/1988`
+- [Asetus merenkulkuhallinnosta annetun asetuksen muuttamisesta](1175.md) `1175/1988`
+- [Valtioneuvoston päätös investointien ohjaamista koskevien asioiden käsittelystä talouspoliittisessa ministerivaliokunnassa annetun valtioneuvoston päätöksen muuttamisesta](1176.md) `1176/1988`
+- [Laki merimieslain muuttamisesta](1177.md) `1177/1988`
+- [Laki taiteilijaprofessorin viroista ja valtion taiteilija\-apurahoista annetun lain 3§:n muuttamisesta](1178.md) `1178/1988`
+- [Asetus taiteilijaprofessorin viroista ja valtion taiteilija\-apurahoista annetun asetuksen 4§:n muuttamisesta](1179.md) `1179/1988`
+- [Asetus valtion teknillisen tutkimuskeskuksen suoritteista perittävistä maksuista annettuun asetukseen liittyvän hinnaston muuttamisesta](1180.md) `1180/1988`
+- [Asetus teknologian kehittämiskeskuksen maksuasetuksen muuttamisesta](1181.md) `1181/1988`
+- [Asetus teknilliselle tarkastuskeskukselle suoritettavista maksuista annettuun asetukseen liittyvän hinnaston ja sen soveltamissäännösten muuttamisesta](1182.md) `1182/1988`
+- [Laki kansanterveyslain 6§:n muuttamisesta](1183.md) `1183/1988`
+- [Laki rintamaveteraanien kuntoutuksesta](1184.md) `1184/1988`
+- [Laki maatalousyrittäjän lomituspalveluista annetun lain 1 ja 2 luvun muuttamisesta](1185.md) `1185/1988`
+- [Asetus maatalousyrittäjän lomituspalveluista annetun asetuksen muuttamisesta](1186.md) `1186/1988`
+- [Asetus eräistä sairaanhoitolaitosten maksuista, korvauksista ja palkkioista annetun asetuksen 1 a§:n muuttamisesta](1187.md) `1187/1988`
+- [Asetus mielisairaanhoidosta perittävistä maksuista annetun asetuksen 2 a§:n muuttamisesta](1188.md) `1188/1988`
+- [Asetus terveyskeskuksessa perittävistä maksuista ja korvauksista annetun asetuksen 4 a§:n muuttamisesta](1189.md) `1189/1988`
+- [Asetus tapaturmaviraston eräiden virkojen perustamisesta ja lakkauttamisesta](1190.md) `1190/1988`
+- [Asetus alkoholiyhtiön hallintoneuvoston johtosäännöstä annetun asetuksen 3§:n muuttamisesta](1191.md) `1191/1988`
+- [Asetus valtion sosiaalihuollon ja terveydenhuollon toimintayksiköiden palveluista perittävistä korvauksista annetun asetuksen muuttamisesta](1192.md) `1192/1988`
+- [Valtioneuvoston päätös työttömyysvakuutusmaksusta vuonna 1989](1193.md) `1193/1988`
+- [Laki valtion suhdannerahastosta annetun lain väliaikaisesta muuttamisesta](1194.md) `1194/1988`
+- [Laki luottolaitosten varoista myönnettävistä eräistä korkotukilainoista annetun lain 2 ja 5§:n muuttamisesta](1195.md) `1195/1988`
+- [Laki leimaverolain muuttamisesta](1196.md) `1196/1988`
+- [Laki Anna Tapion koulusta](1197.md) `1197/1988`
+- [Asetus Neuvostoliiton kanssa tavaranvaihdosta ja maksuista vuosina 1986\-1990 tehdyn sopimuksen muuttamista koskevan pöytäkirjan voimaansaattamisesta](1198.md) `1198/1988`
+- [Asetus Jordanian kanssa taloudellisesta, teollisesta ja teknologisesta yhteistyöstä tehdyn sopimuksen voimaansaattamisesta](1199.md) `1199/1988`
+- [Asetus Senegalin kanssa taloudellisesta ja teknisestä yhteistyöstä tehdyn sopimuksen voimaansaattamisesta](1200.md) `1200/1988`
+- [Asetus valtioneuvoston lainanottovaltuuksista vuonna 1989](1201.md) `1201/1988`
+- [Asetus valtion liikelaitoksista annetun lain \(627/87\) mukaisten liikelaitosten lainanottovaltuuksista vuonna 1989](1202.md) `1202/1988`
+- [Asetus valtiokonttorista annetun asetuksen muuttamisesta](1203.md) `1203/1988`
+- [Asetus ylioppilastutkinnosta annetun asetuksen muuttamisesta](1204.md) `1204/1988`
+- [Asetus Helsingin ranskalais\-suomalaisesta koulusta annetun asetuksen 4§:n muuttamisesta](1205.md) `1205/1988`
+- [Asetus Suomalais\-venäläisestä koulusta annetun asetuksen 4§:n muuttamisesta](1206.md) `1206/1988`
+- [Asetus Turun yliopistosta annetun asetuksen muuttamisesta](1207.md) `1207/1988`
+- [Asetus Turun kauppakorkeakoulusta annetun asetuksen muuttamisesta](1208.md) `1208/1988`
+- [Asetus Vaasan korkeakoulusta annetun asetuksen muuttamisesta](1209.md) `1209/1988`
+- [Asetus Lapin korkeakoulusta annetun asetuksen muuttamisesta](1210.md) `1210/1988`
+- [Asetus Lapin korkeakoulun Arktisesta keskuksesta](1211.md) `1211/1988`
+- [Asetus Sibelius\-Akatemiasta annetun asetuksen muuttamisesta](1212.md) `1212/1988`
+- [Valtioneuvoston päätös eräiden opintotukilaissa tarkoitettujen määrien vahvistamisesta annetun valtioneuvoston päätöksen 13§:n muuttamisesta](1213.md) `1213/1988`
+- [Sosiaali\- ja terveysministeriön päätös terveydelle vaarallisten aineiden luokituksesta ja merkinnöistä](1214.md) `1214/1988`
+- [Laki sairausvakuutuslain 5 ja 5 b§:n muuttamisesta](1215.md) `1215/1988`
+- [Laki kansanterveyslain voimaanpanosta annetun lain 3§:n muuttamisesta](1216.md) `1216/1988`
+- [Laki kansaneläkelain muuttamisesta](1217.md) `1217/1988`
+- [Laki perhe\-eläkelain muuttamisesta](1218.md) `1218/1988`
+- [Laki lapsen hoitotuesta annetun lain 1§:n muuttamisesta](1219.md) `1219/1988`
+- [Laki vammaistukilain 8§:n muuttamisesta](1220.md) `1220/1988`
+- [Asetus kansaneläkeasetuksen muuttamisesta](1221.md) `1221/1988`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](1222.md) `1222/1988`
+- [Asetus maatalousyrittäjien eläkelaitoksen ohjesäännön sisältävän asetuksen 1 ja 10§:n muuttamisesta](1223.md) `1223/1988`
+- [Asetus maatalousyrittäjien eläkeasetuksen 1§:n muuttamisesta](1224.md) `1224/1988`
+- [Asetus eräiden ympäristöministeriön ja sen hallinnonalan virkojen perustamisesta](1225.md) `1225/1988`
+- [Laki kansaneläkelain väliaikaisesta muuttamisesta](1226.md) `1226/1988`
+- [Laki vuodelta 1989 suoritettavasta sairausvakuutusmaksusta](1227.md) `1227/1988`
+- [Laki työnantajan lapsilisämaksun perimättä jättämisestä vuodelta 1989](1228.md) `1228/1988`
+- [Asetus työnantajan sosiaaliturvamaksusta annetun asetuksen 1§:n muuttamisesta](1229.md) `1229/1988`
+- [Liikenneministeriön päätös eräiden radiolähetinten yhteistaajuuksien vahvistamisesta ja niiden käytöstä](1230.md) `1230/1988`
+- [Verohallituksen päätös työn suorittamisesta aiheutuneiden kustannusten arvioimisesta ennakonpidätystä toimitettaessa](1231.md) `1231/1988`
+- [Laki yhtiöveron hyvityksestä](1232.md) `1232/1988`
+- [Laki elinkeinotulon verottamisesta annetun lain väliaikaisesta muuttamisesta](1233.md) `1233/1988`
+- [Laki konserniavustuksesta verotuksessa annetun lain muuttamisesta](1234.md) `1234/1988`
+- [Laki maatilatalouden tuloverolain 5§:n muuttamisesta](1235.md) `1235/1988`
+- [Laki verotuslain muuttamisesta](1236.md) `1236/1988`
+- [Laki veronkantolain muuttamisesta](1237.md) `1237/1988`
+- [Asetus lääninneuvottelukunnista](1238.md) `1238/1988`
+- [Valtioneuvoston päätös tullitariffin ja teollisuustulliluettelon muuttamisesta](1239.md) `1239/1988`
+- [Tulo\- ja varallisuusverolaki](1240.md) `1240/1988`
+- [Laki ennakkoperintälain muuttamisesta](1241.md) `1241/1988`
+- [Laki rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun lain muuttamisesta](1242.md) `1242/1988`
+- [Laki verotuslain muuttamisesta](1243.md) `1243/1988`
+- [Tulo\- ja varallisuusveroasetus](1244.md) `1244/1988`
+- [Asetus verotusasetuksen muuttamisesta](1245.md) `1245/1988`
+- [Asetus maatilatalouden tuloveroasetuksen 16§:n muuttamisesta](1246.md) `1246/1988`
+- [Laki moottoriajoneuvoverosta annetun lain 16§:n väliaikaisesta muuttamisesta](1247.md) `1247/1988`
+- [Laki elinkeinotulon verottamisesta annetun lain väliaikaisesta muuttamisesta](1248.md) `1248/1988`
+- [Laki konserniavustuksesta verotuksessa annetun lain muuttamisesta](1249.md) `1249/1988`
+- [Laki maatilatalouden tuloverolain väliaikaisesta muuttamisesta](1250.md) `1250/1988`
+- [Laki verotuslain 68 a§:n muuttamisesta](1251.md) `1251/1988`
+- [Laki tappiontasauksesta tuloverotuksessa annetun lain 2§:n väliaikaisesta muuttamisesta](1252.md) `1252/1988`
+- [Laki investointivarauslain väliaikaisesta muuttamisesta](1253.md) `1253/1988`
+- [Laki oikeudenkäynnin julkisuudesta annetun lain muuttamisesta](1254.md) `1254/1988`
+- [Laki oikeudenkäymiskaaren 11 luvun 22§:n muuttamisesta](1255.md) `1255/1988`
+- [Laki rikoslain 8 ja 16 luvun muuttamisesta](1256.md) `1256/1988`
+- [Laki valtion varoista maksettavista todistelukustannuksista annetun lain muuttamisesta](1257.md) `1257/1988`
+- [Laki pakkokeinolain muuttamisesta](1258.md) `1258/1988`
+- [Laki sotilaskurinpitolain muuttamisesta](1259.md) `1259/1988`
+- [Laki sotilasoikeudenkäyntilain 13 ja 14§:n muuttamisesta](1260.md) `1260/1988`
+- [Laki Suomen osallistumisesta Yhdistyneiden Kansakuntien rauhanturvaamistoimintaan annetun lain 14§:n muuttamisesta](1261.md) `1261/1988`
+- [Laki tullilain muuttamisesta](1262.md) `1262/1988`
+- [Laki liiketoimintakiellosta annetun lain 19§:n muuttamisesta](1263.md) `1263/1988`
+- [Laki toimenpiteistä lentoliikenteen turvaamiseksi eräissä tapauksissa annetun lain muuttamisesta](1264.md) `1264/1988`
+- [Laki verotuslain 132§:n muuttamisesta](1265.md) `1265/1988`
+- [Laki liikevaihtoverolain 73§:n muuttamisesta](1266.md) `1266/1988`
+- [Laki eläinsuojelulain 13 a§:n muuttamisesta](1267.md) `1267/1988`
+- [Laki nopeusvalvontaa vaikeuttavien laitteiden kieltämisestä annetun lain 6§:n muuttamisesta](1268.md) `1268/1988`
+- [Laki kaapelilähetystoiminnasta annetun lain 23§:n muuttamisesta](1269.md) `1269/1988`
+- [Laki radiolain 22§:n muuttamisesta](1270.md) `1270/1988`
+- [Laki ydinenergialain 68§:n muuttamisesta](1271.md) `1271/1988`
+- [Laki ulosottotoimesta annetun lain 5§:n muuttamisesta](1272.md) `1272/1988`
+- [Laki kuntien yleisestä valtionosuudesta ja yleisistä rahoitusavustuksista](1273.md) `1273/1988`
+- [Laki yleisestä oikeusaputoiminnasta annetun lain muuttamisesta](1274.md) `1274/1988`
+- [Laki kunnille palo\- ja pelastustoimen kustannuksiin suoritettavista valtionosuuksista ja \-avustuksista annetun lain muuttamisesta](1275.md) `1275/1988`
+- [Laki maatalouslautakunnista](1276.md) `1276/1988`
+- [Laki maataloustuen jako\- ja valvontatehtävien hoitamisesta annetun lain muuttamisesta](1277.md) `1277/1988`
+- [Laki kunnalle suoritettavasta katumaksusta annetun lain muuttamisesta](1278.md) `1278/1988`
+- [Laki kuluttajaneuvonnan järjestämisestä kunnassa annetun lain muuttamisesta](1279.md) `1279/1988`
+- [Laki valtionavustuksesta elinkeinojen edistämiseen kunnissa](1280.md) `1280/1988`
+- [Laki rakennuslain muuttamisesta](1281.md) `1281/1988`
+- [Laki asumistukilain muuttamisesta](1282.md) `1282/1988`
+- [Laki maatalousyrittäjän lomituspalveluista annetun lain muuttamisesta](1283.md) `1283/1988`
+- [Laki pienyrittäjän vuosilomarahasta annetun lain muuttamisesta](1284.md) `1284/1988`
+- [Asetus kuntien yleisestä valtionosuudesta ja yleisistä rahoitusavustuksista](1285.md) `1285/1988`
+- [Laki polttoaineverosta annetun lain muuttamisesta](1286.md) `1286/1988`
+- [Laki valmisteverotuslain muuttamisesta](1287.md) `1287/1988`
+- [Asetus valmisteverotusasetuksen muuttamisesta](1288.md) `1288/1988`
+- [Valtioneuvoston päätös leimaverolain soveltamisesta annetun valtioneuvoston päätöksen muuttamisesta](1289.md) `1289/1988`
+- [Valtiovarainministeriön päätös vuonna 1989 kannettavan ennakon perusteeksi pantavasta tulosta](1290.md) `1290/1988`
+- [Valtiovarainministeriön päätös eräiden verojen maksupaikoista ja kantopalkkioista annetun valtiovarainministeriön päätöksen 3 ja 5§:n muuttamisesta](1291.md) `1291/1988`
+- [Verohallituksen päätös vuonna 1989 sovellettavien ennakonpidätysperusteiden voimaantulosta](1292.md) `1292/1988`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä](1293.md) `1293/1988`
+- [Verohallituksen päätös osingon, koron ja voitto\-osuuden vapauttamisesta ennakonpidätyksestä](1294.md) `1294/1988`
+- [Laki edustajanpalkkiosta annetun lain muuttamisesta](1295.md) `1295/1988`
+- [Laki kansanedustajain eläkelain muuttamisesta](1296.md) `1296/1988`
+- [Laki yritystoiminnan aluetuesta](1297.md) `1297/1988`
+- [Laki Kehitysaluerahasto Oy \- Utvecklingsområdesfonden Ab \-nimisestä osakeyhtiöstä annetun lain muuttamisesta](1298.md) `1298/1988`
+- [Asetus valtioneuvoston kanslian eräiden virkojen perustamisesta ja erään viran lakkauttamisesta](1299.md) `1299/1988`
+- [Valtioneuvoston päätös turvavarastointiohjelmasta vuonna 1989](1300.md) `1300/1988`
+- [Laki maidon väliaikaisesta kiintiömaksusta annetun lain 27§:n väliaikaisesta muuttamisesta](1301.md) `1301/1988`
+- [Laki maidon väliaikaisista tuotantokiintiöistä annetun lain väliaikaisesta muuttamisesta](1302.md) `1302/1988`
+- [Laki meijerikohtaisesta kiintiömaksusta](1303.md) `1303/1988`
+- [Laki maidon ja sianlihan vientikustannusmaksusta annetun lain kumoamisesta](1304.md) `1304/1988`
+- [Laki kasvinjalostustoiminnan edistämisestä annetun lain muuttamisesta](1305.md) `1305/1988`
+- [Laki pellonraivausmaksusta annetun lain väliaikaisesta muuttamisesta](1306.md) `1306/1988`
+- [Laki kananmunien ja kananmunavalmisteiden tarkastuksesta ja hinnanalennuskorvauksen maksamisesta annetun lain muuttamisesta](1307.md) `1307/1988`
+- [Laki maataloustulolain muuttamisesta](1308.md) `1308/1988`
+- [Asetus maaseudun pienimuotoisen elinkeinotoiminnan edistämisestä annetun asetuksen muuttamisesta](1309.md) `1309/1988`
+- [Valtioneuvoston päätös kananmunien haudontojen rajoittamisesta](1310.md) `1310/1988`
+- [Maa\- ja metsätalousministeriön päätös eräiden lannoitevalmisteiden laatuvaatimuksista annetun maa\- ja metsätalousministeriön päätöksen 5§:n muuttamisesta](1311.md) `1311/1988`
+- [Asetus maatalouden tutkimuskeskuksesta](1312.md) `1312/1988`
+- [Asetus korkealaatuisen siemenaineiston tuottamisesta maatalouden tutkimuskeskuksessa](1313.md) `1313/1988`
+- [Asetus maatalouden tutkimuskeskuksen suoritteista perittävistä maksuista](1314.md) `1314/1988`
+- [Laki Turkin kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](1315.md) `1315/1988`
+- [Asetus Turkin kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen voimaansaattamisesta sekä sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1316.md) `1316/1988`
+- [Asetus muuttavien luonnonvaraisten eläinten suojelua koskevan yleissopimuksen voimaansaattamisesta](1317.md) `1317/1988`
+- [Asetus valtiovarainministeriön hallinnonalaan kuuluvista eräistä virkajärjestelyistä](1318.md) `1318/1988`
+- [Asetus eräiden valtiovarainministeriön ja sen alaisten hallinnonalojen virkojen perustamisesta ja lakkauttamisesta](1319.md) `1319/1988`
+- [Asetus eräiden maa\- ja metsätalousministeriön hallinnonalan virkojen perustamisesta ja lakkauttamisesta](1320.md) `1320/1988`
+- [Asetus eräiden kauppa\- ja teollisuusministeriön ja sen hallinnonalan virkojen perustamisesta](1321.md) `1321/1988`
+- [Asetus eräiden sosiaali\- ja terveysministeriön hallinnonalaan kuuluvien virkojen perustamisesta ja lakkauttamisesta](1322.md) `1322/1988`
+- [Laki työntekijäin eläkelain muuttamisesta](1323.md) `1323/1988`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 7§:n muuttamisesta](1324.md) `1324/1988`
+- [Laki maatalousyrittäjien eläkelain 6 c ja 8§:n muuttamisesta](1325.md) `1325/1988`
+- [Laki yrittäjien eläkelain 7§:n muuttamisesta](1326.md) `1326/1988`
+- [Laki merimieseläkelain 12 ja 16 b§:n muuttamisesta](1327.md) `1327/1988`
+- [Asetus Euroopan sääsatelliittijärjestön \(EUMETSAT\) erioikeuksista ja vapauksista tehdyn pöytäkirjan voimaansaattamisesta](1328.md) `1328/1988`
+- [Asetus Ruotsin kanssa tehdyn kalastusoikeuksia Itämerellä koskevan sopimuksen voimaansaattamisesta](1329.md) `1329/1988`
+- [Asetus Ruotsin ja Neuvostoliiton kanssa kalastuksesta tehtyjen sopimusten täytäntöönpanosta ja soveltamisesta](1330.md) `1330/1988`
+- [Asetus eräiden opetusministeriön hallinnonalan virkojen perustamisesta](1331.md) `1331/1988`
+- [Asetus työvoima\-asiain piiri\- ja paikallishallinnon eräiden virkojen perustamisesta](1332.md) `1332/1988`
+- [Laki otsonikerrosta heikentäviä aineita koskevan Montrealin pöytäkirjan eräiden määräysten hyväksymisestä](1333.md) `1333/1988`
+- [Asetus otsonikerrosta heikentäviä aineita koskevan Montrealin pöytäkirjan voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1334.md) `1334/1988`
+- [Asetus kansainvälisen meriliikenteen helpottamista koskevan yleissopimuksen muutosten voimaansaattamisesta](1335.md) `1335/1988`
+- [Asetus poliisiasetuksen muuttamisesta](1336.md) `1336/1988`
+- [Asetus poliisin valtakunnallisista pysyvistä atk\-henkilörekistereistä](1337.md) `1337/1988`
+- [Asetus ulkomaalaisasetuksen 24§:n muuttamisesta](1338.md) `1338/1988`
+- [Asetus poliisin eräiden virkojen perustamisesta](1339.md) `1339/1988`
+- [Asetus puolustusministeriön hallinnonalan eräiden virkojen perustamisesta ja lakkauttamisesta](1340.md) `1340/1988`
+- [Asetus valtion virastoissa ja laitoksissa nuorisotyöttömyyden lieventämiseksi järjestettävästä osa\-aikatyöstä](1341.md) `1341/1988`
+- [Valtioneuvoston päätös valtion liikelaitosten oikeudesta tehdä vakuutussopimuksia](1342.md) `1342/1988`
+- [Ammattitautilaki](1343.md) `1343/1988`
+- [Laki tapaturmavakuutuslain muuttamisesta](1344.md) `1344/1988`
+- [Laki maatalousyrittäjien tapaturmavakuutuslain 6§:n muuttamisesta](1345.md) `1345/1988`
+- [Laki työsuojelun valvonnasta ja muutoksenhausta työsuojeluasioissa annetun lain 22§:n muuttamisesta](1346.md) `1346/1988`
+- [Ammattitautiasetus](1347.md) `1347/1988`
+- [Asetus rintamaveteraanien kuntoutuksesta](1348.md) `1348/1988`
+- [Valtioneuvoston päätös toimeentulotuen yleisistä perusteista](1349.md) `1349/1988`
+- [Valtioneuvoston päätös äitiysavustuksen suuruuden vahvistamisesta](1350.md) `1350/1988`
+- [Laki työaikalain muuttamisesta](1351.md) `1351/1988`
+- [Laki kauppaliikkeiden ja toimistojen työaikalain muuttamisesta](1352.md) `1352/1988`
+- [Laki leipomotyölain 2 ja 3§:n muuttamisesta](1353.md) `1353/1988`
+- [Laki työturvallisuuslain muuttamisesta](1354.md) `1354/1988`
+- [Laki nuorten työntekijäin suojelusta annetun lain 7§:n muuttamisesta](1355.md) `1355/1988`
+- [Laki haja\-asutusalueiden vähittäiskaupan rahoitustuesta annetun lain muuttamisesta](1356.md) `1356/1988`
+- [Asetus haja\-asutusalueiden vähittäiskaupan rahoitustuesta annetun asetuksen muuttamisesta](1357.md) `1357/1988`
+- [Asetus lisenssivirastosta annetun asetuksen 20§:n muuttamisesta](1358.md) `1358/1988`
+- [Asetus eräiden liikenneministeriön ja sen hallinnonalan virkojen perustamisesta ja lakkauttamisesta](1359.md) `1359/1988`
+- [Laki metsänparannuslain 13§:n muuttamisesta](1360.md) `1360/1988`
+- [Asetus asevelvollisuuslain soveltamisesta annetun asetuksen muuttamisesta](1361.md) `1361/1988`
+- [Asetus sotilaskurinpitoasetuksen muuttamisesta](1362.md) `1362/1988`
+- [Asetus kalansaaliin hintatuesta annetun asetuksen muuttamisesta](1363.md) `1363/1988`
+- [Valtioneuvoston päätös myytäväksi toimitetun silakan ja kilohailin vähimmäishinnoista ja tavoitehinnoista](1364.md) `1364/1988`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Oravaisten ja Vöyrin kuntien välillä](1365.md) `1365/1988`
+- [Sisäasiainministeriön päätös eräiden tilojen, tilanosien ja alueiden siirtämisestä Nilsiän ja Sonkajärven kunnista Varpaisjärven kuntaan](1366.md) `1366/1988`
+- [Sisäasiainministeriön päätös tilan ja tilanosan siirtämisestä Savonlinnan kaupungista Sulkavan kuntaan](1367.md) `1367/1988`
+- [Sisäasiainministeriön päätös eräiden tilojen ja alueen siirtämisestä Hartolan kunnasta Sysmän kuntaan](1368.md) `1368/1988`
+- [Maa\- ja metsätalousministeriön päätös metsähallituksen piirihallinnosta](1369.md) `1369/1988`
+- [Laki palo\- ja pelastustoimesta annetun lain muuttamisesta](1370.md) `1370/1988`
+- [Asetus ulkoasiainhallinnon eräiden virkojen perustamisesta](1371.md) `1371/1988`
+- [Asetus lääninhallitusten, väestörekisterikeskuksen ja rekisteritoimistojen eräiden virkojen perustamisesta ja lakkauttamisesta](1372.md) `1372/1988`
+- [Valtioneuvoston päätös perusvyöhykkeistä ja tukialueista](1373.md) `1373/1988`
+- [Valtioneuvoston päätös eräiden kuntien ja kunnan osien määräämisestä erityisalueiksi](1374.md) `1374/1988`
+- [Valtioneuvoston päätös kunnan osista, joilla aluepoliittista tukea myönnetään suurempana kuin kunnan muissa osissa](1375.md) `1375/1988`
+- [Laki ilmailuhallinnon taloudenhoidon yleisistä perusteista](1376.md) `1376/1988`
+- [Laki ilmailulain 37 ja 63§:n muuttamisesta](1377.md) `1377/1988`
+- [Laki ammatillisten oppilaitosten rahoituksesta annetun lain muuttamisesta](1378.md) `1378/1988`
+- [Asetus ammatillisten oppilaitosten rahoituksesta annetun asetuksen muuttamisesta](1379.md) `1379/1988`
+- [Asetus koulutustoimikunnista](1380.md) `1380/1988`
+- [Asetus museoviraston suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](1381.md) `1381/1988`
+- [Valtioneuvoston päätös eräiden henkilörekisterien rekisteriselosteiden nähtävillä pidosta](1382.md) `1382/1988`
+- [Kauppa\- ja teollisuusministeriön päätös valvontalisensioinnista annetun päätöksen muuttamisesta](1383.md) `1383/1988`
+- [Opetusministeriön päätös video\- ja muiden kuvaohjelmien merkitsemisestä](1384.md) `1384/1988`

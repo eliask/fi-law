@@ -1,0 +1,1581 @@
+# 2011 Statutes
+
+## Statutes
+
+- [Verohallinnon päätös vuonna 2011 sovellettavien ennakonpidätysperusteiden voimaantulosta](1.md) `1/2011`
+- [Maa\- ja metsätalousministeriön asetus kilohailin ja silakan kalastuksen keskeyttämisestä Itämeren pääaltaalla](2.md) `2/2011`
+- [Opetus\- ja kulttuuriministeriön asetus ammatillisista perustutkinnoista annetun opetusministeriön asetuksen liitteen muuttamisesta](3.md) `3/2011`
+- [Valtioneuvoston asetus yhdyskuntapalvelusta](4.md) `4/2011`
+- [Valtioneuvoston asetus ehdollisen vankeuden valvonnasta](5.md) `5/2011`
+- [Valtioneuvoston asetus orgaanisten liuottimien käytöstä eräissä maaleissa ja lakoissa sekä ajoneuvojen korjausmaalaustuotteissa aiheutuvien haihtuvien orgaanisten yhdisteiden päästöjen rajoittamisesta annetun valtioneuvoston asetuksen muuttamisesta](6.md) `6/2011`
+- [Valtioneuvoston asetus polttomoottoreiden pakokaasupäästöjen rajoittamisesta annetun valtioneuvoston asetuksen muuttamisesta](7.md) `7/2011`
+- [Valtioneuvoston asetus  ympäristöministeriöstä annetun asetuksen 3 §:n muuttamisesta](8.md) `8/2011`
+- [Valtiovarainministeriön asetus Kaj Franck ja taideteollisuus \-juhlarahasta](9.md) `9/2011`
+- [Valtiovarainministeriön asetus Pehr Kalm \-juhlarahasta](10.md) `10/2011`
+- [Valtioneuvoston asetus vuonna 2011 toimitettavissa eduskuntavaaleissa ennakkoäänestyspaikkoina olevista Suomen edustustoista ja niiden toimipaikoista](11.md) `11/2011`
+- [Valtioneuvoston asetus televisio\- ja radiotoimintaan sekä toimiluvanvaraiseen teletoimintaan määrättyjen taajuusalueiden käyttösuunnitelmasta Ahvenanmaan maakunnassa annetun valtioneuvoston asetuksen muuttamisesta ja väliaikaisesta muuttamisesta](12.md) `12/2011`
+- [Laki ympäristönsuojelulain muuttamisesta](13.md) `13/2011`
+- [Laki rikoslain 17 luvun muuttamisesta](14.md) `14/2011`
+- [Laki eläinsuojelulain muuttamisesta](15.md) `15/2011`
+- [Laki sakon täytäntöönpanosta annetun lain 2 §:n muuttamisesta](16.md) `16/2011`
+- [Laki eläinten kuljetuksesta annetun lain 40 §:n muuttamisesta](17.md) `17/2011`
+- [Laki koe\-eläintoiminnasta annetun lain 38 §:n muuttamisesta](18.md) `18/2011`
+- [Laki luonnonhaittakorvauksesta, maatalouden ympäristötuesta sekä eräistä muista ympäristön ja maaseudun tilan parantamiseen liittyvistä tuista annetun lain 18 §:n muuttamisesta](19.md) `19/2011`
+- [Laki maa\- ja puutarhatalouden kansallisista tuista annetun lain 16 §:n muuttamisesta](20.md) `20/2011`
+- [Laki eläintenpitokieltorekisteristä](21.md) `21/2011`
+- [Laki viranomaisten toiminnan julkisuudesta annetun lain 24 §:n muuttamisesta](22.md) `22/2011`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden Euroopan unionin jäsenvaltioiden välillä annetun lain muuttamisesta](23.md) `23/2011`
+- [Laki vastavuoroisen tunnustamisen periaatteen soveltamisesta taloudellisiin seuraamuksiin tehdyn puitepäätöksen lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja puitepäätöksen soveltamisesta annetun lain 1 §:n muuttamisesta](24.md) `24/2011`
+- [Laki vastavuoroisen tunnustamisen periaatteen soveltamisesta menetetyksi tuomitsemista koskeviin päätöksiin tehdyn puitepäätöksen lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja puitepäätöksen soveltamisesta annetun lain 1 §:n muuttamisesta](25.md) `25/2011`
+- [Laki avopuolisoiden yhteistalouden purkamisesta](26.md) `26/2011`
+- [Laki perintökaaren 8 luvun 2 ja 8 §:n muuttamisesta](27.md) `27/2011`
+- [Laki perintö\- ja lahjaverolain 11 §:n muuttamisesta](28.md) `28/2011`
+- [Laki oikeudenkäymiskaaren 10 luvun muuttamisesta](29.md) `29/2011`
+- [Laki takaisinsaannista konkurssipesään annetun lain muuttamisesta](30.md) `30/2011`
+- [Laki maistraattien eräistä henkilörekistereistä annetun lain muuttamisesta](31.md) `31/2011`
+- [Laki holhoustoimesta annetun lain 34 §:n muuttamisesta](32.md) `32/2011`
+- [Verohallinnon päätös ennakonpidätyksen toimittamistavoista ja määrästä](33.md) `33/2011`
+- [Laki rehulain muuttamisesta](34.md) `34/2011`
+- [Verohallinnon päätös yleisestä tiedonantovelvollisuudesta](35.md) `35/2011`
+- [Sisäasiainministeriön asetus kriisinhallintaan osallistuvan siviilihenkilöstön palvelussuhteen ehdoista annetun sisäasiainministeriön asetuksen muuttamisesta](36.md) `36/2011`
+- [Valtioneuvoston asetus maa\- ja metsätalousministeriöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](37.md) `37/2011`
+- [Valtioneuvoston asetus ilmanlaadusta](38.md) `38/2011`
+- [Maa\- ja metsätalousministeriön asetus alkuvuoden 2010 tulvavahinkokorvausten maksamisesta](39.md) `39/2011`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön työjärjestyksen muuttamisesta](40.md) `40/2011`
+- [Puolustusministeriön asetus asevelvollisuuslaissa ja terveydenhuollon järjestämisestä puolustusvoimissa annetussa laissa tarkoitetuista etuuksista annetun puolustusministeriön asetuksen muuttamisesta](41.md) `41/2011`
+- [Tasavallan presidentin asetus Valko\-Venäjän kanssa yhteistyöstä ja keskinäisestä avunannosta tulliasioissa tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](42.md) `42/2011`
+- [Valtioneuvoston asetus vuodelta 2011 maksettavasta Etelä\-Suomen kansallisesta tuesta](43.md) `43/2011`
+- [Valtioneuvoston asetus vuodelta 2011 maksettavasta pohjoisesta tuesta](44.md) `44/2011`
+- [Valtioneuvoston asetus vuodelta 2011 maksettavasta perunantuotannon kansallisesta tuesta](45.md) `45/2011`
+- [Valtioneuvoston asetus vuodelta 2011 maksettavasta sokerijuurikkaan kansallisesta tuesta](46.md) `46/2011`
+- [Valtioneuvoston asetus vuodelta 2011 maksettavasta mehiläistalouden kansallisesta pesäkohtaisesta tuesta](47.md) `47/2011`
+- [Valtioneuvoston asetus vuodelta 2011 maksettavista lypsylehmä\- ja nautapalkkioista, teuraskaritsan laatupalkkiosta sekä valkuais\- ja öljykasvipalkkiosta](48.md) `48/2011`
+- [Valtioneuvoston asetus tilatukijärjestelmästä annetun valtioneuvoston asetuksen muuttamisesta](49.md) `49/2011`
+- [Valtioneuvoston asetus tukioikeuksien arvon muuttamisesta ja eräiden tuotantosidonnaisten suorien tukien siirtämisestä tilatukijärjestelmään vuosina 2011—2012](50.md) `50/2011`
+- [Valtioneuvoston asetus vuodelta 2011 maksettavasta luonnonhaittakorvauksen kansallisesta lisäosasta](51.md) `51/2011`
+- [Laki opintotukilain muuttamisesta](52.md) `52/2011`
+- [Laki lukiokoulutuksen ja ammatillisen koulutuksen opiskelijoiden koulumatkatuesta annetun lain muuttamisesta](53.md) `53/2011`
+- [Tasavallan presidentin asetus Nepalin kanssa sijoitusten edistämisestä ja suojaamisesta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](54.md) `54/2011`
+- [Valtioneuvoston asetus aluehallintovirastoista annetun valtioneuvoston asetuksen 9 §:n muuttamisesta](55.md) `55/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kalojen bakteeriperäisen munuaistaudin vastustamisesta](56.md) `56/2011`
+- [Laki ulkomaalaislain 48 §:n muuttamisesta](57.md) `57/2011`
+- [Laki luonnonsuojelulain muuttamisesta](58.md) `58/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](59.md) `59/2011`
+- [Tasavallan presidentin asetus Pohjoisen ulottuvuuden liikenne\- ja logistiikkakumppanuuden sihteeristöstä tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](60.md) `60/2011`
+- [Tasavallan presidentin asetus toimivallasta, sovellettavasta laista, toimenpiteiden tunnustamisesta ja täytäntöönpanosta sekä yhteistyöstä vanhempainvastuuseen ja lasten suojeluun liittyvissä asioissa tehdyn yleissopimuksen voimaansaattamisesta ja yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta annetun lain voimaantulosta](61.md) `61/2011`
+- [Tasavallan presidentin asetus aikuisten kansainvälisestä suojelusta tehdyn yleissopimuksen voimaansaattamisesta ja yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta annetun lain voimaantulosta](62.md) `62/2011`
+- [Tasavallan presidentin asetus lasten oikeuksien käyttöä koskevan eurooppalaisen yleissopimuksen voimaansaattamisesta sekä yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](63.md) `63/2011`
+- [Ulkoasiainministeriön asetus ulkoasiainministeriön työjärjestyksen muuttamisesta](64.md) `64/2011`
+- [Liikenne\- ja viestintäministeriön asetus näkemäalueista](65.md) `65/2011`
+- [Maa\- ja metsätalousministeriön asetus kilohailin ja silakan kalastuksesta Itämeren pääaltaalla](66.md) `66/2011`
+- [Sosiaali\- ja terveysministeriön asetus lääkäri\- ja hammaslääkärikoulutuksen sekä yliopistotasoisen terveystieteellisen tutkimustoiminnan korvauksen perusteista vuonna 2011](67.md) `67/2011`
+- [Maa\- ja metsätalousministeriön asetus Suomen turskakiintiöiden käyttämisestä vuonna 2011](68.md) `68/2011`
+- [Valtioneuvoston asetus lääkeasetuksen muuttamisesta](69.md) `69/2011`
+- [Valtioneuvoston asetus sosiaali\- ja terveysalan asiantuntijalaitosten yhteenliittymästä](70.md) `70/2011`
+- [Eduskunnan päätös eduskunnan työjärjestyksen muuttamisesta](71.md) `71/2011`
+- [Ympäristöministeriön työjärjestys](72.md) `72/2011`
+- [Valtioneuvoston asetus biosidivalmisteista annetun valtioneuvoston asetuksen muuttamisesta](73.md) `73/2011`
+- [Valtioneuvoston asetus alusryhmäkohtaisten rekisteritilojen enimmäiskoosta](74.md) `74/2011`
+- [Maa\- ja metsätalousministeriön asetus erikoistuista annetun maa\- ja metsätalousministeriön asetuksen eräiden säännösten kumoamisesta](75.md) `75/2011`
+- [Valtioneuvoston asetus virka\- ja itsehallintoalueiden kielellisestä jaotuksesta vuosina 2003—2012 annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](76.md) `76/2011`
+- [Valtioneuvoston asetus tuesta tilaneuvontaan vuonna 2011](77.md) `77/2011`
+- [Valtioneuvoston asetus ympäristöterveydenhuollon valtakunnallisista valvontaohjelmista](78.md) `78/2011`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisten tukien hakemusten toimittamisesta sekä kotieläinten laskentapäivistä ja \-ajankohdista vuonna 2011](79.md) `79/2011`
+- [Maa\- ja metsätalousministeriön asetus kasvihuonetuotannon tuesta vuonna 2011](80.md) `80/2011`
+- [Maa\- ja metsätalousministeriön asetus varotoimenpiteistä lintuinfluenssan leviämisen ehkäisemiseksi luonnonvaraisten lintujen ja siipikarjan välillä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](81.md) `81/2011`
+- [Sosiaali\- ja terveysministeriön asetus tutkittavalle suoritettavista korvauksista](82.md) `82/2011`
+- [Sisäasiainministeriön asetus poliisin virkapuvusta annetun sisäasiainministeriön asetuksen muuttamisesta](83.md) `83/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta juurikkaiden siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen 9 §:n väliaikaisesta muuttamisesta](84.md) `84/2011`
+- [Tasavallan presidentin asetus Suomen tasavallan hallituksen ja Vaarallisten ja muiden jätteiden ympäristöllisesti kestävän käsittelyn Afrikka\-instituutin välisen yhteistyöstä alueellisessa Basel keskuksen tukiohjelmassa tehdyn sopimuksen voimaansaattamisesta](85.md) `85/2011`
+- [Laki EU\-ympäristömerkin myöntämisjärjestelmästä](86.md) `86/2011`
+- [Valtioneuvoston asetus kirjastoasetuksen 4 §:n muuttamisesta annetun valtioneuvoston asetuksen voimaantulosäännöksen muuttamisesta](87.md) `87/2011`
+- [Valtioneuvoston asetus puoluelain 9 a §:ssä tarkoitetussa tilityksessä annettavista tiedoista](88.md) `88/2011`
+- [Valtioneuvoston asetus valtiontukien ilmoittamisessa komissiolle noudatettavista menettelyistä](89.md) `89/2011`
+- [Valtioneuvoston asetus valtion osuuden maksamisesta takuueläkkeen perusteella](90.md) `90/2011`
+- [Valtioneuvoston asetus vammaisetuuksista annetun lain mukaisten etuuksien ja valtion osuuden maksamisesta](91.md) `91/2011`
+- [Valtioneuvoston asetus valtion osuuden maksamisesta eläkkeensaajan asumistuen perusteella](92.md) `92/2011`
+- [Valtioneuvoston asetus rintamasotilaseläkeasetuksen 8 §:n muuttamisesta](93.md) `93/2011`
+- [Valtioneuvoston asetus ulkomaille maksettavasta rintamalisästä annetun asetuksen muuttamisesta](94.md) `94/2011`
+- [Laki rikosvahinkolain muuttamisesta](95.md) `95/2011`
+- [Laki maakaaren muuttamisesta](96.md) `96/2011`
+- [Laki avioliittolain 66 §:n muuttamisesta](97.md) `97/2011`
+- [Laki perintökaaren 12 luvun 6 §:n muuttamisesta](98.md) `98/2011`
+- [Laki ulosottokaaren muuttamisesta](99.md) `99/2011`
+- [Laki kestävän metsätalouden rahoituslain muuttamisesta](100.md) `100/2011`
+- [Laki pienpuun energiatuesta](101.md) `101/2011`
+- [Laki sairausvakuutuslain 2 luvun 3 §:n väliaikaisesta muuttamisesta](102.md) `102/2011`
+- [Laki Kosovon kanssa yhteistyöstä ja keskinäisestä avunannosta tulliasioissa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja soveltamisesta](103.md) `103/2011`
+- [Laki Saimaan kanavan Venäjälle kuuluvan osan ja siihen liittyvän alueen vuokraamisesta Suomen tasavallalle sekä Saimaan kanavan kautta tapahtuvasta alusliikenteestä Venäjän kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta](104.md) `104/2011`
+- [Tasavallan presidentin asetus Andorran kanssa veroasioita koskevista tiedoista tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](105.md) `105/2011`
+- [Maa\- ja metsätalousministeriön asetus elintarvikkeen kanssa kosketukseen joutuvista muovisista tarvikkeista](106.md) `106/2011`
+- [Valtiovarainministeriön asetus maakuntien juhlarahoista](107.md) `107/2011`
+- [Valtioneuvoston asetus Saamelaisalueen koulutuskeskuksesta](108.md) `108/2011`
+- [Maa\- ja metsätalousministeriön asetus elintarvikkeissa ja alkoholijuomissa käytettävistä muista aineista kuin makeutusaineista ja väreistä annetun kauppa\- ja teollisuusministeriön asetuksen muuttamisesta](109.md) `109/2011`
+- [Maa\- ja metsätalousministeriön asetus elintarvikelisäaineiden puhtausvaatimuksista ja eräistä määritysmenetelmistä](110.md) `110/2011`
+- [Valtioneuvoston asetus lapsen huollosta ja tapaamisoikeudesta annetun lain muuttamisesta annetun lain voimaantulosta](111.md) `111/2011`
+- [Valtioneuvoston asetus lastensuojelulain 17 §:n muuttamisesta annetun lain voimaantulosta](112.md) `112/2011`
+- [Valtioneuvoston asetus holhoustoimesta annetun lain muuttamisesta annetun lain voimaantulosta](113.md) `113/2011`
+- [Valtioneuvoston asetus edunvalvontavaltuutuksesta annetun lain muuttamisesta annetun lain voimaantulosta](114.md) `114/2011`
+- [Valtioneuvoston asetus eräistä kansainvälisluontoisista perheoikeudellisista suhteista annetun lain III osan kumoamisesta annetun lain voimaantulosta](115.md) `115/2011`
+- [Valtioneuvoston asetus rajanylityspaikoista sekä rajatarkastustehtävien jakamisesta niillä annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](116.md) `116/2011`
+- [Laki sähköntuotannon ja \-kulutuksen välistä tasapainoa varmistavasta tehoreservistä](117.md) `117/2011`
+- [Laki kirkkolain muuttamisesta](118.md) `118/2011`
+- [Laki rakennuksen energiatodistuksesta annetun lain muuttamisesta](119.md) `119/2011`
+- [Laki rakennuksen ilmastointijärjestelmän kylmälaitteiden energiatehokkuuden tarkastamisesta annetun lain 1 ja 5 §:n muuttamisesta](120.md) `120/2011`
+- [Laki vapaaehtoisesta osallistumisesta ympäristöasioiden hallinta\- ja auditointijärjestelmään](121.md) `121/2011`
+- [Laki holhoustoimesta annetun lain muuttamisesta](122.md) `122/2011`
+- [Laki holhoustoimen edunvalvontapalveluiden järjestämisestä annetun lain 5 §:n muuttamisesta](123.md) `123/2011`
+- [Laki ampuma\-aselain muuttamisesta](124.md) `124/2011`
+- [Laki rikoslain 41 luvun 1 §:n muuttamisesta](125.md) `125/2011`
+- [Laki poliisilain 35 ja 36 §:n muuttamisesta](126.md) `126/2011`
+- [Laki asevelvollisuuslain muuttamisesta](127.md) `127/2011`
+- [Laki kansainvälisen järjestäytyneen rikollisuuden vastaisen Yhdistyneiden Kansakuntien yleissopimuksen ampuma\-aseiden, niiden osien ja komponenttien sekä ampumatarvikkeiden laittoman valmistuksen ja kaupan torjumista koskevan lisäpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](128.md) `128/2011`
+- [Laki CARIFORUM\-valtioiden sekä Euroopan yhteisön ja sen jäsenvaltioiden välillä tehdyn talouskumppanuussopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](129.md) `129/2011`
+- [Laki Liberian kanssa veroasioita koskevista tiedoista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](130.md) `130/2011`
+- [Laki kansainvälisen uusiutuvan energian viraston \(IRENA\) perussäännön lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](131.md) `131/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinsuojeluaineen hyväksymisen hakemisesta ja hyväksymisestä sekä niihin liittyvistä menettelyistä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](132.md) `132/2011`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2011 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista ja työnantajasuoritusten vähimmäismäärästä](133.md) `133/2011`
+- [Laki maankäyttö\- ja rakennuslain muuttamisesta](134.md) `134/2011`
+- [Laki Suomen Tasavallan ja Intian välillä tehdyn kauppasopimuksen eräiden määräysten hyväksymisestä annetun lain kumoamisesta](135.md) `135/2011`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta \(EU\) N:o 101/2011 Tunisian tilanteen johdosta tiettyihin henkilöihin, yhteisöihin ja elimiin kohdistuvista rajoittavista toimenpiteistä](136.md) `136/2011`
+- [Valtioneuvoston asetus luonnonhaittakorvauksista ja maatalouden ympäristötuista vuosina 2007—2013 annetun valtioneuvoston asetuksen muuttamisesta](137.md) `137/2011`
+- [Valtioneuvoston asetus eläinten hyvinvoinnin tuesta vuosina 2008—2013 annetun valtioneuvoston asetuksen 16 ja 19 §:n muuttamisesta](138.md) `138/2011`
+- [Valtioneuvoston asetus ei\-tuotannollisten investointien tuesta vuosina 2008—2013 annetun valtioneuvoston asetuksen 14 §:n ja liitteen muuttamisesta](139.md) `139/2011`
+- [Valtioneuvoston asetus velvollisuudesta antaa tietoja työpaikan terveysvaaroista annetun valtioneuvoston päätöksen kumoamisesta](140.md) `140/2011`
+- [Valtioneuvoston asetus työturvallisuuslain soveltamisesta torjunta\-aineen käsittelyyn ja levitykseen metsätöissä annetun valtioneuvoston päätöksen kumoamisesta](141.md) `141/2011`
+- [Valtioneuvoston asetus huumausaineina pidettävistä aineista, valmisteista ja kasveista annetun valtioneuvoston asetuksen liitteen III muuttamisesta](142.md) `142/2011`
+- [Maa\- ja metsätalousministeriön asetus silakan kohdennetusta kalastuksesta Itämeren pääaltaalla](143.md) `143/2011`
+- [Laki työttömyysturvalain 11 luvun muuttamisesta](144.md) `144/2011`
+- [Tasavallan presidentin asetus vammaisten henkilöiden tulkkauspalvelua koskevien hallintotehtävien hoitamisesta Ahvenanmaan maakunnassa](145.md) `145/2011`
+- [Tasavallan presidentin asetus hengenpelastusmitalista](146.md) `146/2011`
+- [Verohallinnon päätös ilmoittamisvelvollisuudesta ja muistiinpanoista annetun päätöksen muuttamisesta](147.md) `147/2011`
+- [Laki Montserratin kanssa veroasioita koskevista tiedoista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](148.md) `148/2011`
+- [Laki Liechtensteinin kanssa veroasioita koskevasta tiedonvaihdosta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](149.md) `149/2011`
+- [Laki kansanedustajain eläkelain muuttamisesta](150.md) `150/2011`
+- [Laki kansanedustajain perhe\-eläkelain muuttamisesta](151.md) `151/2011`
+- [Laki kansaneläkelain 6 §:n muuttamisesta](152.md) `152/2011`
+- [Laki eläkkeensaajan asumistuesta annetun lain 8 §:n muuttamisesta](153.md) `153/2011`
+- [Laki vammaisetuuksista annetun lain 9 §:n muuttamisesta](154.md) `154/2011`
+- [Tasavallan presidentin asetus Palestiinalaishallinnon kanssa Suomen tuesta opetussektoriohjelmalle tehdyn sopimuksen voimaansaattamisesta](155.md) `155/2011`
+- [Laki SSDR\-ohjelmistoradioteknologiaa koskevasta tutkimus\- ja kehitystiedon vaihdosta Suomen, Ranskan, Italian, Puolan, Espanjan, Ruotsin ja Amerikan yhdysvaltojen välillä tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta](156.md) `156/2011`
+- [Laki riistavahinkolain 17 §:n 2 momentin kumoamisesta](157.md) `157/2011`
+- [Riistahallintolaki](158.md) `158/2011`
+- [Laki metsästyslain muuttamisesta](159.md) `159/2011`
+- [Laki riistanhoitomaksusta ja pyyntilupamaksusta annetun lain muuttamisesta](160.md) `160/2011`
+- [Laki maaseutuelinkeinojen valituslautakunnasta annetun lain 1 §:n muuttamisesta](161.md) `161/2011`
+- [Laki Tekes — teknologian ja innovaatioiden kehittämiskeskuksesta annetun lain muuttamisesta](162.md) `162/2011`
+- [Työ\- ja elinkeinoministeriön asetus ydinenergian käytön valvontaan kuuluvista työ\- ja elinkeinoministeriön maksullisista suoritteista](163.md) `163/2011`
+- [Työ\- ja elinkeinoministeriön asetus ydinlaitosten ympäristövaikutusten arviointimenettelyyn kuuluvista työ\- ja elinkeinoministeriön maksullisista suoritteista](164.md) `164/2011`
+- [Työ\- ja elinkeinoministeriön asetus työ\- ja elinkeinoministeriön työjärjestyksen muuttamisesta](165.md) `165/2011`
+- [Työ\- ja elinkeinoministeriön asetus talous\- ja velkaneuvontapalvelujen tuottajalle vuonna 2011 maksettavan korvauksen perusteista](166.md) `166/2011`
+- [Laki Geologian tutkimuskeskuksesta](167.md) `167/2011`
+- [Valtioneuvoston asetus Geologian tutkimuskeskuksesta](168.md) `168/2011`
+- [Valtioneuvoston asetus metsästyslaissa säädetyistä poikkeusluvista](169.md) `169/2011`
+- [Valtioneuvoston asetus metsästysasetuksen muuttamisesta](170.md) `170/2011`
+- [Valtioneuvoston asetus riistahallinnosta](171.md) `171/2011`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta kappaletavarana aluksessa annetun asetuksen muuttamisesta](172.md) `172/2011`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta ja tilapäisestä säilytyksestä satama\-alueella annetun valtioneuvoston asetuksen muuttamisesta](173.md) `173/2011`
+- [Maa\- ja metsätalousministeriön asetus Suomen riistakeskuksen ja riistanhoitoyhdistysten julkisten hallintotehtävien maksuista](174.md) `174/2011`
+- [Valtioneuvoston asetus tilatukijärjestelmän kansallisen varannon käytöstä annetun valtioneuvoston asetuksen 6 ja 9 a §:n muuttamisesta](175.md) `175/2011`
+- [Valtiovarainministeriön asetus Hella Wuolijoki ja tasa\-arvo \-juhlarahasta](176.md) `176/2011`
+- [Oikeusministeriön asetus henkivakuutuksesta annettavista tiedoista](177.md) `177/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta sikojen MRSA\-bakteerin seurannasta](178.md) `178/2011`
+- [Opetus\- ja kulttuuriministeriön asetus ammatillisesta aikuiskoulutuksesta annetussa laissa tarkoitetusta tutkintorakenteesta](179.md) `179/2011`
+- [Opetus\- ja kulttuuriministeriön asetus eräiden oppilailta ja opiskelijoilta perittävien maksujen perusteista annetun opetusministeriön asetuksen 5 §:n muuttamisesta](180.md) `180/2011`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveysministeriön työjärjestyksen muuttamisesta](181.md) `181/2011`
+- [Valtioneuvoston asetus tullilaitoksesta annetun valtioneuvoston asetuksen 11 §:n muuttamisesta](182.md) `182/2011`
+- [Valtioneuvoston asetus vuodelta 2010 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen muuttamisesta](183.md) `183/2011`
+- [Valtioneuvoston asetus maatalouden investointituesta ja nuoren viljelijän aloitustuesta annetun valtioneuvoston asetuksen muuttamisesta](184.md) `184/2011`
+- [Valtioneuvoston asetus turvavarastointiohjelmasta vuonna 2011](185.md) `185/2011`
+- [Valtioneuvoston asetus saaristokunnista ja muiden kuntien saaristo\-osista, joihin sovelletaan saaristokuntaa koskevia säännöksiä, annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](186.md) `186/2011`
+- [Tasavallan presidentin asetus Vanuatun kanssa veroasioita koskevista tiedoista tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](187.md) `187/2011`
+- [Maa\- ja metsätalousministeriön asetus Elintarviketurvallisuusviraston maksullisista suoritteista annetun maa\- ja metsätalousministeriön asetuksen 3 §:n ja liitteen muuttamisesta](188.md) `188/2011`
+- [Laki talousneuvostosta](189.md) `189/2011`
+- [Laki rikoslain 28 luvun 7 §:n muuttamisesta](190.md) `190/2011`
+- [Laki rikoslain 32 luvun 6 ja 14 §:n muuttamisesta](191.md) `191/2011`
+- [Laki kansainvälisestä oikeusavusta rikosasioissa annetun lain 15 §:n muuttamisesta](192.md) `192/2011`
+- [Laki autoverolain muuttamisesta](193.md) `193/2011`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](194.md) `194/2011`
+- [Laki ulkomaalaislain muuttamisesta](195.md) `195/2011`
+- [Laki ympäristönsuojelulain muuttamisesta](196.md) `196/2011`
+- [Laki työsopimuslain muuttamisesta](197.md) `197/2011`
+- [Laki sosiaaliturvan muutoksenhakulautakunnasta annetun lain 17 §:n muuttamisesta](198.md) `198/2011`
+- [Laki vakuutusoikeuslain 21 §:n muuttamisesta](199.md) `199/2011`
+- [Laki valtion rajat ja lentotiedotusalueiden rajat ylittävästä toiminnasta Ruotsin kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](200.md) `200/2011`
+- [Laki metsän hyönteis\- ja sienituhojen torjunnasta annetun lain muuttamisesta](201.md) `201/2011`
+- [Valtiovarainministeriön asetus verovuoden 2010 jäännösveron ja metsänhoitomaksun eräpäivistä sekä ennakonpalautusten maksamisesta ja vuoden 2011 kiinteistöveron eräpäivistä](202.md) `202/2011`
+- [Vuoden 2011 lisätalousarvio](203.md) `203/2011`
+- [Eduskunnan päätös suostumukseksi myöntää valtiontakaus valtion sähkönhankinnan hintasuojauksen toteuttamiseksi](204.md) `204/2011`
+- [Valtioneuvoston asetus kunnan talouden tunnuslukujen eräistä raja\-arvoista](205.md) `205/2011`
+- [Valtioneuvoston asetus tullilaitoksesta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](206.md) `206/2011`
+- [Valtioneuvoston asetus vuodelta 2011 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 21 §:n muuttamisesta](207.md) `207/2011`
+- [Valtioneuvoston asetus vuodelta 2011 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 22 §:n muuttamisesta](208.md) `208/2011`
+- [Valtioneuvoston asetus talousjätevesien käsittelystä viemäriverkostojen ulkopuolisilla alueilla](209.md) `209/2011`
+- [Laki lentoasemaverkosta ja \-maksuista](210.md) `210/2011`
+- [Valtioneuvoston asetus julkisen hallinnon yhteisistä sähköisistä asioinnin ja hallinnon tukipalveluista annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](211.md) `211/2011`
+- [Valtioneuvoston asetus Euroopan unionin kokonaan rahoittamien eläintukien valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](212.md) `212/2011`
+- [Maa\- ja metsätalousministeriön asetus satovahinkojen korvaamisesta](213.md) `213/2011`
+- [Tasavallan presidentin asetus Viktoria\-järven valuma\-alueen kestävän kehityksen edistämisestä tehdyn rahoitussopimuksen voimaansaattamisesta](214.md) `214/2011`
+- [Tasavallan presidentin asetus SSDR\-ohjelmistoradioteknologiaa koskevasta tutkimus\- ja kehitystiedon vaihdosta Suomen, Ranskan, Italian, Puolan, Espanjan, Ruotsin ja Amerikan yhdysvaltojen välillä tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta annetun lain voimaantulosta](215.md) `215/2011`
+- [Tasavallan presidentin asetus Indonesian kanssa yhteistyöstä energia\- ja ympäristökumppanuushankkeessa tehdyn sopimuksen voimaansaattamisesta](216.md) `216/2011`
+- [Valtioneuvoston asetus maistraattien toimialueista](217.md) `217/2011`
+- [Valtioneuvoston asetus kansanterveyttä sekä eläinten ja kasvien terveyttä, taudeista ilmoittamista, eläinten hyvinvointia sekä eläinten tunnistusta ja rekisteröintiä koskevien täydentävien ehtojen valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](218.md) `218/2011`
+- [Laki eläkelaitoksen vakavaraisuusrajan laskemisesta ja vastuuvelan kattamisesta annetun lain muuttamisesta](219.md) `219/2011`
+- [Laki työntekijän eläkelain 171 §:n muuttamisesta](220.md) `220/2011`
+- [Laki työeläkevakuutusyhtiöistä annetun lain 29 e ja 29 g §:n muuttamisesta](221.md) `221/2011`
+- [Laki eläkesäätiölain muuttamisesta](222.md) `222/2011`
+- [Laki vakuutuskassalain 83 d ja 135 §:n muuttamisesta](223.md) `223/2011`
+- [Laki eläkesäätiölain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](224.md) `224/2011`
+- [Laki vakuutuskassalain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](225.md) `225/2011`
+- [Laki kaksikäyttötuotteiden vientivalvonnasta annetun lain muuttamisesta](226.md) `226/2011`
+- [Laki kuluttajansuojalain muuttamisesta](227.md) `227/2011`
+- [Laki rajat ylittävästä kieltomenettelystä annetun lain 1 §:n muuttamisesta](228.md) `228/2011`
+- [Laki kiinteistöjen ja vuokrahuoneistojen välityksestä annetun lain muuttamisesta](229.md) `229/2011`
+- [Laki arpajaislain 1 §:n muuttamisesta](230.md) `230/2011`
+- [Laki sopimattomasta menettelystä elinkeinotoiminnassa annetun lain 3 §:n 1 ja 2 momentin kumoamisesta](231.md) `231/2011`
+- [Laki rikoslain 48 a luvun muuttamisesta](232.md) `232/2011`
+- [Laki pakkokeinolain 5 a luvun 3 ja 3 a §:n muuttamisesta](233.md) `233/2011`
+- [Laki metsästyslain muuttamisesta](234.md) `234/2011`
+- [Laki riistanhoitomaksusta ja pyyntilupamaksusta annetun lain 7 §:n muuttamisesta](235.md) `235/2011`
+- [Laki Suomen talousvyöhykkeestä annetun lain 14 §:n muuttamisesta](236.md) `236/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetus siemenperunan kaupasta annetun maa\- ja metsätalousministeriön asetuksen väliaikaisesta muuttamisesta](237.md) `237/2011`
+- [Oikeusministeriön asetus tietojen merkitsemisestä holhousasioiden rekisteriin](238.md) `238/2011`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta \(EU\) N:o 204/2011 Libyan tilanteen johdosta määrättävistä rajoittavista toimenpiteistä](239.md) `239/2011`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisten tukien hallinnosta vuonna 2011](240.md) `240/2011`
+- [Valtioneuvoston asetus tilatukijärjestelmästä annetun valtioneuvoston asetuksen muuttamisesta](241.md) `241/2011`
+- [Valtioneuvoston asetus vuodelta 2011 maksettavasta luonnonhaittakorvauksen kansallisesta lisäosasta annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](242.md) `242/2011`
+- [Valtioneuvoston asetus vuodelta 2010 maksettavista lypsylehmä\- ja nautapalkkioista annetun valtioneuvoston asetuksen 5 ja 8 §:n muuttamisesta](243.md) `243/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta puna\-apilan kylvösiemenen sertifiointia koskevasta väliaikaisesta poikkeuksesta](244.md) `244/2011`
+- [Valtioneuvoston asetus alusten radiolaitteista annetun asetuksen kumoamisesta](245.md) `245/2011`
+- [Valtioneuvoston asetus luotsauksesta](246.md) `246/2011`
+- [Valtioneuvoston asetus kansainvälisten tuomioistuinten ja Euroopan unionin tuomioistuimen tuomari\- ja jäsenehdokkaiden nimeämistä valmistelevasta neuvottelukunnasta](247.md) `247/2011`
+- [Valtioneuvoston asetus eläkelaitoksen vakavaraisuusrajan kaavassa käytettävien muuttujien arvoista](248.md) `248/2011`
+- [Sosiaali\- ja terveysministeriön asetus luottoluokista eläkelaitoksen vakavaraisuusrajaa laskettaessa](249.md) `249/2011`
+- [Opetus\- ja kulttuuriministeriön asetus opetusministeriön suoritteiden maksullisuudesta annetun asetuksen muuttamisesta](250.md) `250/2011`
+- [Maa\- ja metsätalousministeriön asetus maatalouden ympäristötuen perus\- ja lisätoimenpiteistä ja maatalouden ympäristötuen erityistuista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](251.md) `251/2011`
+- [Oikeusministeriön asetus tutkintavankiloina toimivista vankiloista](252.md) `252/2011`
+- [Valtiovarainministeriön päätös kuntajaon muuttamisesta Lempäälän ja Pirkkalan kuntien välillä](253.md) `253/2011`
+- [Valtioneuvoston asetus uusjakojen tukemisesta annetun asetuksen muuttamisesta](254.md) `254/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta hakkuukoneella valmistettavan puutavaran tilavuuden mittaamisesta koneen mittalaitteella annetun maa\- ja metsätalousministeriön asetuksen 2 §:n muuttamisesta](255.md) `255/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinsuojeluaineen hyväksymisen hakemisesta ja hyväksymisestä sekä niihin liittyvistä menettelyistä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](256.md) `256/2011`
+- [Puolustusministeriön asetus sotilaallisen kriisinhallintahenkilöstön pätevyysvaatimuksista ja palvelussuhteen ehdoista annetun puolustusministeriön asetuksen 7 §:n muuttamisesta](257.md) `257/2011`
+- [Valtioneuvoston asetus uusiutuvilla energialähteillä tuotetun sähkön tuotantotuesta annetun lain eräiden lainkohtien voimaantulosta](258.md) `258/2011`
+- [Työ\- ja elinkeinoministeriön asetus Energiamarkkinaviraston maksullisista suoritteista annetun työ\- ja elinkeinoministeriön asetuksen 2 ja 4 §:n muuttamisesta](259.md) `259/2011`
+- [Tasavallan presidentin asetus kansainvälisen uusituvan energian viraston \(IRENA\) perussäännön voimaansaattamisesta ja perussäännön lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](260.md) `260/2011`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](261.md) `261/2011`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](262.md) `262/2011`
+- [Valtioneuvoston asetus valtiovarainministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](263.md) `263/2011`
+- [Valtioneuvoston asetus luonnonhaittakorvausten, maatalouden ympäristötuen, eläinten hyvinvoinnin tuen ja ei\-tuotannollisten investointien tuen hakemisesta vuonna 2011](264.md) `264/2011`
+- [Valtioneuvoston asetus koneiden turvallisuudesta annetun valtioneuvoston asetuksen muuttamisesta](265.md) `265/2011`
+- [Laki ulkomaalaislain muuttamisesta](266.md) `266/2011`
+- [Laki arvonlisäverolain muuttamisesta](267.md) `267/2011`
+- [Laki Helsingin eurooppalaisesta koulusta annetun lain 11 ja 31 §:n muuttamisesta](268.md) `268/2011`
+- [Laki ydinenergialain muuttamisesta](269.md) `269/2011`
+- [Laki kalastuslain muuttamisesta](270.md) `270/2011`
+- [Laki ympäristönsuojelua edistäviin investointeihin myönnettävistä valtiontakauksista ja vientitakuista annetun lain muuttamisesta](271.md) `271/2011`
+- [Laki vesienhoidon järjestämisestä annetun lain muuttamisesta](272.md) `272/2011`
+- [Laki ympäristönsuojelulain muuttamisesta](273.md) `273/2011`
+- [Laki vesilain 2 ja 16 luvun muuttamisesta](274.md) `274/2011`
+- [Laki Suomen talousvyöhykkeestä annetun lain 3 §:n muuttamisesta](275.md) `275/2011`
+- [Laki merensuojelulain muuttamisesta](276.md) `276/2011`
+- [Laki viranomaisten suunnitelmien ja ohjelmien ympäristövaikutusten arvioinnista annetun lain 7 §:n muuttamisesta](277.md) `277/2011`
+- [Ulkoasiainministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoasiainministeriön asetuksen muuttamisesta](278.md) `278/2011`
+- [Laki Kansainvälisen rikostuomioistuimen tuomioiden täytäntöönpanosta Kansainvälisen rikostuomioistuimen kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](279.md) `279/2011`
+- [Tasavallan presidentin asetus Suomen, Norjan ja Ruotsin välisen Pohjoiskalotin koulutussäätiöstä tehdyn sopimuksen jatkamisesta koskemaan vuotta 2011 noottienvaihdolla tehdyn sopimuksen voimaansaattamisesta](280.md) `280/2011`
+- [Tasavallan presidentin asetus Albanian tasavallan kanssa taloudellisesta, teollisesta ja tieteellis\-teknillisestä yhteistyöstä tehdyn sopimuksen voimaansaattamisesta annetun asetuksen kumoamisesta](281.md) `281/2011`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta \(EU\) N:o 270/2011 Egyptin tilanteen johdosta määrättävistä tiettyihin henkilöihin, yhteisöihin ja elimiin kohdistuvista rajoittavista toimenpiteistä](282.md) `282/2011`
+- [Valtioneuvoston asetus maankäyttö\- ja rakennusasetuksen 62 ja 63 §:n muuttamisesta](283.md) `283/2011`
+- [Ulkoasiainministeriön asetus ulkoasiainhallinnon suoritteiden maksuista annetun ulkoasiainministeriön asetuksen muuttamisesta](284.md) `284/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](285.md) `285/2011`
+- [Liikenne\- ja viestintäministeriön asetus Viestintäviraston eräistä maksuista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](286.md) `286/2011`
+- [Maa\- ja metsätalousministeriön asetus silakan kohdennetusta kalastuksesta Itämeren pääaltaalla annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](287.md) `287/2011`
+- [Valtioneuvoston asetus metsänhoitoyhdistyksistä annetun asetuksen muuttamisesta](288.md) `288/2011`
+- [Valtioneuvoston asetus vuodelta 2010 maksettavasta sokerijuurikkaan kuljetustuesta](289.md) `289/2011`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisten tukien hakemusten toimittamisesta sekä kotieläinten laskentapäivistä ja \-ajankohdista vuonna 2011 annetun asetuksen 1 ja 2 §:n muuttamisesta](290.md) `290/2011`
+- [Oikeusministeriön asetus kuluttajansuojalain 10 luvussa tarkoitetuista tietolomakkeista ja sopimuksen peruuttamislomakkeesta](291.md) `291/2011`
+- [Valtioneuvoston asetus televisio\-ohjelmiin liitettävästä ääni\- ja tekstityspalvelusta](292.md) `292/2011`
+- [Valtioneuvoston asetus kevennettyjen rakentamis\- ja kaavamääräysten kokeilusta](293.md) `293/2011`
+- [Valtioneuvoston asetus verkkokalastuksen rajoittamisesta saimaannorpan poikasten suojelemiseksi](294.md) `294/2011`
+- [Valtioneuvoston asetus eräistä kalastusrajoituksista Saimaalla](295.md) `295/2011`
+- [Maa\- ja metsätalousministeriön asetus metsästyslain 41 b §:n 2 momentin mukaisten poikkeuslupien rajoittamisesta](296.md) `296/2011`
+- [Valtioneuvoston asetus vientivalvontaneuvottelukunnasta](297.md) `297/2011`
+- [Valtioneuvoston asetus etnisten suhteiden neuvottelukunnasta](298.md) `298/2011`
+- [Valtioneuvoston asetus opintotukiasetuksen muuttamisesta](299.md) `299/2011`
+- [Valtioneuvoston asetus maatalouden investointituesta ja nuoren viljelijän aloitustuesta annetun valtioneuvoston asetuksen muuttamisesta](300.md) `300/2011`
+- [Valtioneuvoston asetus vuonna 2011 myönnettävän maatilan investointituen kohdentamisesta annetun valtioneuvoston asetuksen muuttamisesta](301.md) `301/2011`
+- [Valtioneuvoston asetus liikennetarvikkeiden kaupasta, asennuksesta ja korjauksesta annetun valtioneuvoston asetuksen muuttamisesta](302.md) `302/2011`
+- [Tasavallan presidentin asetus Kosovon kanssa yhteistyöstä ja keskinäisestä avunannosta tulliasioissa tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja soveltamisesta annetun lain voimaantulosta](303.md) `303/2011`
+- [Rautatielaki](304.md) `304/2011`
+- [Laki sosiaali\- ja terveydenhuollon järjestämisen kehittämisestä vuosina 2011—2014](305.md) `305/2011`
+- [Ympäristöministeriön asetus Suomen ympäristökeskuksen maksullisista suoritteista annetun asetuksen muuttamisesta](306.md) `306/2011`
+- [Tasavallan presidentin asetus Kansainvälisen rikostuomioistuimen kanssa Kansainvälisen rikostuomioistuimen tuomioiden täytäntöönpanosta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](307.md) `307/2011`
+- [Tasavallan presidentin asetus veroasioissa annettavaa keskinäistä virka\-apua koskevan yleissopimuksen muuttamisesta tehdyn pöytäkirjan voimaansaattamisesta ja pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](308.md) `308/2011`
+- [Tasavallan presidentin asetus Anguillan kanssa veroasioita koskevista tiedoista tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](309.md) `309/2011`
+- [Tasavallan presidentin asetus Turks\- ja Caicossaarten kanssa veroasioita koskevista tiedoista tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](310.md) `310/2011`
+- [Päästökauppalaki](311.md) `311/2011`
+- [Laki terveydenhuollon ammattihenkilöistä annetun lain muuttamisesta](312.md) `312/2011`
+- [Laki terveydenhuoltolain 60 ja 65 §:n muuttamisesta](313.md) `313/2011`
+- [Laki yksityisestä terveydenhuollosta annetun lain 9 a §:n muuttamisesta](314.md) `314/2011`
+- [Laki yliopistolain 40 §:n muuttamisesta](315.md) `315/2011`
+- [Laki lastensuojelulain 50 §:n muuttamisesta](316.md) `316/2011`
+- [Laki perhehoitajalain muuttamisesta](317.md) `317/2011`
+- [Laki omaishoidon tuesta annetun lain muuttamisesta](318.md) `318/2011`
+- [Laki maankäyttö\- ja rakennuslain muuttamisesta](319.md) `319/2011`
+- [Tasavallan presidentin asetus Kansainvälistä Valuuttarahastoa koskevan sopimuksen muutosten voimaansaattamisesta](320.md) `320/2011`
+- [Laki eläinsuojelulain muuttamisesta](321.md) `321/2011`
+- [Laki huumausainelain muuttamisesta](322.md) `322/2011`
+- [Laki lasten päivähoidosta annetun lain muuttamisesta](323.md) `323/2011`
+- [Laki perusopetuslain 32 §:n muuttamisesta](324.md) `324/2011`
+- [Laki Sipoonkorven kansallispuistosta](325.md) `325/2011`
+- [Laki Selkämeren kansallispuistosta](326.md) `326/2011`
+- [Tasavallan presidentin asetus Intian kanssa taloudellisesta yhteistyöstä tehdyn sopimuksen voimaansaattamisesta ja Suomen Tasavallan ja Intian välillä tehdyn kauppasopimuksen eräiden määräysten hyväksymisestä annetun lain kumoamisesta annetun lain voimaantulosta sekä eräiden Intian kanssa tehtyjen sopimusten voimaansaattamisesta annettujen asetusten kumoamisesta](327.md) `327/2011`
+- [Laki vankeuslain 4 luvun 1 ja 11 §:n muuttamisesta](328.md) `328/2011`
+- [Laki rikoslain muuttamisesta](329.md) `329/2011`
+- [Laki valvontarangaistuksesta](330.md) `330/2011`
+- [Laki rikosrekisterilain muuttamisesta](331.md) `331/2011`
+- [Laki henkilötietojen käsittelystä rangaistusten täytäntöönpanossa annetun lain 5 ja 7 §:n muuttamisesta](332.md) `332/2011`
+- [Laki viranomaisten toiminnan julkisuudesta annetun lain 24 §:n muuttamisesta](333.md) `333/2011`
+- [Laki eräisiin rangaistus\-, huolto\- ja hoitolaitoksiin otettujen henkilöiden tapaturmakorvauksesta annetun lain 1 §:n muuttamisesta](334.md) `334/2011`
+- [Laki rikosvahinkolain 14 §:n muuttamisesta](335.md) `335/2011`
+- [Valtioneuvoston asetus erityistason sairaanhoidon järjestämisestä ja keskittämisestä](336.md) `336/2011`
+- [Valtioneuvoston asetus terveydenhuollon järjestämissuunnitelmasta ja erikoissairaanhoidon järjestämissopimuksesta](337.md) `337/2011`
+- [Valtioneuvoston asetus neuvolatoiminnasta, koulu\- ja opiskeluterveydenhuollosta sekä lasten ja nuorten ehkäisevästä suun terveydenhuollosta](338.md) `338/2011`
+- [Valtioneuvoston asetus seulonnoista](339.md) `339/2011`
+- [Sosiaali\- ja terveysministeriön asetus ensihoitopalvelusta](340.md) `340/2011`
+- [Sosiaali\- ja terveysministeriön asetus laadunhallinnasta ja potilasturvallisuuden täytäntöönpanosta laadittavasta suunnitelmasta](341.md) `341/2011`
+- [Sosiaali\- ja terveysministeriön asetus lääkäri\- ja hammaslääkärikoulutuksen korvauksiin ja yliopistotasoisen terveyden tutkimuksen rahoitukseen oikeutetuista palvelujen tuottajista](342.md) `342/2011`
+- [Sosiaali\- ja terveysministeriön asetus lääkäri\- ja hammaslääkärikoulutuksen korvauksen perusteista vuonna 2011](343.md) `343/2011`
+- [Valtiovarainministeriön asetus valtiovarainministeriön työjärjestyksestä annetun valtiovarainministeriön asetuksen muuttamisesta](344.md) `344/2011`
+- [Tasavallan presidentin asetus valtion rajat ja lentotiedotusalueiden rajat ylittävästä toiminnasta Ruotsin kanssa tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](345.md) `345/2011`
+- [Opetus\- ja kulttuuriministeriön asetus eräiden koulumatkakustannusten laskentaperusteista](346.md) `346/2011`
+- [Ympäristöministeriön asetus biosidivalmisteen hyväksymisen tai rekisteröinnin hakemisesta, markkinoilta poistamisesta ja erityisehdoista annetun ympäristöministeriön asetuksen liitteen 1 muuttamisesta](347.md) `347/2011`
+- [Valtiovarainministeriön asetus Suomen Pankki 200 vuotta \-juhlarahasta](348.md) `348/2011`
+- [Ympäristöministeriön ilmoitus ympäristöministeriön asetuksesta rakennusten paloturvallisuudesta](349.md) `349/2011`
+- [Valtioneuvoston asetus valtion yksikköjen ja toimintojen sijoittamista koskevasta toimivallasta annetun valtioneuvoston asetuksen muuttamisesta](350.md) `350/2011`
+- [Valtioneuvoston asetus yliopistojen tutkinnoista annetun valtioneuvoston asetuksen 13 ja 14 §:n muuttamisesta](351.md) `351/2011`
+- [Laki elintarvikelain muuttamisesta](352.md) `352/2011`
+- [Laki eläinlääkintähuoltolain 15 ja 23 §:n muuttamisesta](353.md) `353/2011`
+- [Maa\- ja metsätalousministeriön asetus rakentamisinvestointien hyväksyttävistä yksikkökustannuksista](354.md) `354/2011`
+- [Tasavallan presidentin asetus teollismallien kansainvälistä rekisteröintiä koskevan Haagin sopimukseen liittyvän Geneven asiakirjan ja sen täytäntöönpanomääräysten voimaansaattamisesta sekä asiakirjan ja sen täytäntöönpanomääräysten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](355.md) `355/2011`
+- [Valtioneuvoston asetus mallioikeuslain muuttamisesta annetun lain voimaantulosta](356.md) `356/2011`
+- [Valtioneuvoston asetus mallioikeusasetuksen muuttamisesta](357.md) `357/2011`
+- [Valtioneuvoston asetus tutkimus\-, kehittämis\- ja innovaatiotoiminnan rahoituksesta annetun valtioneuvoston asetuksen 14 ja 18 §:n muuttamisesta](358.md) `358/2011`
+- [Valtioneuvoston asetus ympäristövaikutusten arviointimenettelystä annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](359.md) `359/2011`
+- [Sosiaali\- ja terveysministeriön asetus lääkkeiden hintalautakunnalle tehtävästä hakemuksesta ja hintailmoituksesta annetun sosiaali\- ja terveysministeriön asetuksen liitteen muuttamisesta](360.md) `360/2011`
+- [Ympäristöministeriön asetus Euroopan yhteisön ympäristömerkkiä koskevista maksuista](361.md) `361/2011`
+- [Työ\- ja elinkeinoministeriön asetus Patentti\- ja rekisterihallituksen maksullisista suoritteista annetun työ\- ja elinkeinoministeriön asetuksen muuttamisesta](362.md) `362/2011`
+- [Laki viestintämarkkinalain muuttamisesta](363.md) `363/2011`
+- [Laki radiotaajuuksista ja telelaitteista annetun lain muuttamisesta](364.md) `364/2011`
+- [Laki sähköisen viestinnän tietosuojalain muuttamisesta](365.md) `365/2011`
+- [Laki eräiden markkinaoikeudellisten asioiden käsittelystä annetun lain 6 a §:n muuttamisesta](366.md) `366/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](367.md) `367/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta lääkkeiden käytöstä ja luovutuksesta eläinlääkinnässä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](368.md) `368/2011`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten aineiden kuljetuksesta tiellä](369.md) `369/2011`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten aineiden kuljetuksesta rautatiellä](370.md) `370/2011`
+- [Työ\- ja elinkeinoministeriön asetus päästöoikeuksien hakemisen määräajan pidentämisestä](371.md) `371/2011`
+- [Valtioneuvoston asetus rautatiejärjestelmän turvallisuudesta ja yhteentoimivuudesta](372.md) `372/2011`
+- [Verohallinnon työjärjestys](373.md) `373/2011`
+- [Valtioneuvoston asetus rikoksentorjuntaneuvostosta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](374.md) `374/2011`
+- [Valtioneuvoston asetus broilereiden suojelusta](375.md) `375/2011`
+- [Valtioneuvoston asetus kanojen suojelusta annetun valtioneuvoston asetuksen muuttamisesta](376.md) `376/2011`
+- [Valtioneuvoston asetus terveydenhuollon ammattihenkilöistä annetun asetuksen muuttamisesta](377.md) `377/2011`
+- [Tasavallan presidentin asetus lääkärin perusterveydenhuollon lisäkoulutuksesta annetun asetuksen kumoamisesta](378.md) `378/2011`
+- [Pelastuslaki](379.md) `379/2011`
+- [Laki meripelastuslain 23 §:n muuttamisesta](380.md) `380/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden maatilalain mukaisten myyntihintasaamisten ja lainojen viitekorosta](381.md) `381/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden porotalouden ja luontaiselinkeinojen rahoituslain mukaisten asuntolainojen viitekorosta](382.md) `382/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta lannoitevalmisteista annetun maa\- ja metsätalousministeriön asetuksen liitteen I väliaikaisesta muuttamisesta](383.md) `383/2011`
+- [Laki kunta\- ja palvelurakenneuudistuksesta annetun lain muuttamisesta](384.md) `384/2011`
+- [Laki sosiaalihuoltolain väliaikaisesta muuttamisesta](385.md) `385/2011`
+- [Ajokorttilaki](386.md) `386/2011`
+- [Laki tieliikennelain muuttamisesta](387.md) `387/2011`
+- [Laki tieliikennelain eräiden säännösten kumoamisesta](388.md) `388/2011`
+- [Laki kuorma\- ja linja\-auton kuljettajien ammattipätevyydestä annetun lain muuttamisesta](389.md) `389/2011`
+- [Laki taksinkuljettajien ammattipätevyydestä annetun lain muuttamisesta](390.md) `390/2011`
+- [Laki ajoneuvoliikennerekisteristä annetun lain 9 §:n muuttamisesta](391.md) `391/2011`
+- [Laki rikoslain 2 a luvun 9 §:n 2 momentin muuttamisesta](392.md) `392/2011`
+- [Laki rikesakkorikkomuksista annetun lain 4 §:n muuttamisesta](393.md) `393/2011`
+- [Laki riita\-asioiden sovittelusta ja sovinnon vahvistamisesta yleisissä tuomioistuimissa](394.md) `394/2011`
+- [Laki oikeudenkäymiskaaren 17 luvun 23 §:n muuttamisesta](395.md) `395/2011`
+- [Laki velan vanhentumisesta annetun lain 11 §:n muuttamisesta](396.md) `396/2011`
+- [Tasavallan presidentin asetus Saint Vincent ja Grenadiinien kanssa veroasioita koskevista tiedoista tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](397.md) `397/2011`
+- [Tasavallan presidentin asetus Saint Lucian kanssa veroasioita koskevista tiedoista tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](398.md) `398/2011`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta tiellä annetun valtioneuvoston asetuksen muuttamisesta](399.md) `399/2011`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta rautatiellä annetun valtioneuvoston asetuksen muuttamisesta](400.md) `400/2011`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljettajien ajoluvasta](401.md) `401/2011`
+- [Maa\- ja metsätalousministeriön asetus Euroopan unionin ulkopuolisista maista tuotavien lemmikkieläinten, eläinperäisiä tuotteita sisältävien henkilökohtaisten lähetysten ja eläintautien leviämisen vaaraa aiheuttavien tavaroiden tuontitarkastuksesta](402.md) `402/2011`
+- [Tasavallan presidentin asetus Suomen ulkomaanedustustojen sijaintipaikoista annetun tasavallan presidentin asetuksen 1 ja 4 §:n muuttamisesta](403.md) `403/2011`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta \(EU\) N:o 359/2011 Iranin tilanteen johdosta tiettyihin henkilöihin, yhteisöihin ja elimiin kohdistettavista rajoittavista toimenpiteistä](404.md) `404/2011`
+- [Liikenne\- ja viestintäministeriön asetus alkolukon käytöstä koulu\- ja päivähoitokuljetuksissa](405.md) `405/2011`
+- [Sisäasiainministeriön asetus erityistä vaaraa aiheuttavien kohteiden ulkoisesta pelastussuunnitelmasta](406.md) `406/2011`
+- [Valtioneuvoston asetus pelastustoimesta](407.md) `407/2011`
+- [Valtioneuvoston asetus väestönsuojista](408.md) `408/2011`
+- [Valtioneuvoston asetus väestönsuojan laitteista ja varusteista](409.md) `409/2011`
+- [Opetus\- ja kulttuuriministeriön asetus eräiden valtion oppilaitosten johtokunnista](410.md) `410/2011`
+- [Valtioneuvoston asetus talousneuvostosta](411.md) `411/2011`
+- [Valtioneuvoston asetus rekisterihallintoasetuksen 10 a ja 11 §:n muuttamisesta](412.md) `412/2011`
+- [Valtioneuvoston asetus rautatieliikenteen aikataulukaudesta ja ratakapasiteetin jakamisesta](413.md) `413/2011`
+- [Sosiaali\- ja terveysministeriön asetus vaarallisen kemikaalin päällyksen turvasulkimesta ja näkövammaisille tarkoitetusta vaaratunnuksesta](414.md) `414/2011`
+- [Postilaki](415.md) `415/2011`
+- [Laki Maailman postiliiton yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](416.md) `416/2011`
+- [Laki arvonlisäverolain muuttamisesta](417.md) `417/2011`
+- [Laki Suomen metsäkeskuksesta](418.md) `418/2011`
+- [Laki Suomen metsäkeskuksen metsätietojärjestelmästä](419.md) `419/2011`
+- [Valtioneuvoston asetus elintarvikevalvonnasta](420.md) `420/2011`
+- [Ympäristöministeriön ilmoitus ympäristöministeriön asetuksesta rakennusten sisäilmastosta ja ilmanvaihdosta](421.md) `421/2011`
+- [Ympäristöministeriön ilmoitus ympäristöministeriön asetuksesta rakennusten energiatehokkuudesta](422.md) `422/2011`
+- [Valtioneuvoston asetus ajokorteista](423.md) `423/2011`
+- [Valtioneuvoston asetus kuorma\- ja linja\-auton kuljettajien ammattipätevyydestä annetun valtioneuvoston asetuksen muuttamisesta](424.md) `424/2011`
+- [Valtioneuvoston asetus taksinkuljettajien ammattipätevyydestä annetun valtioneuvoston asetuksen 12 ja 15 §:n muuttamisesta](425.md) `425/2011`
+- [Valtioneuvoston asetus rikesakkorikkomuksista annetun asetuksen 5 §:n muuttamisesta](426.md) `426/2011`
+- [Valtioneuvoston asetus ajokorttiasetuksen eräiden säännösten kumoamisesta](427.md) `427/2011`
+- [Tasavallan presidentin asetus eräiden Brittiläisten Neitsytsaarien kanssa tuloverotuksesta tehtyjen sopimusten voimaansaattamisesta ja sopimusten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](428.md) `428/2011`
+- [Tasavallan presidentin asetus Antiguan ja Barbudan kanssa veroasioita koskevista tiedoista tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](429.md) `429/2011`
+- [Tasavallan presidentin asetus eräiden Alankomaiden kanssa Alankomaiden Antillien osalta tuloverotuksesta tehtyjen sopimusten voimaansaattamisesta ja sopimusten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](430.md) `430/2011`
+- [Tasavallan presidentin asetus eräiden Alankomaiden kanssa Aruban osalta tuloverotuksesta tehtyjen sopimusten voimaansaattamisesta ja sopimusten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](431.md) `431/2011`
+- [Maa\- ja metsätalousministeriön asetus salmonellatartunnan vastustamisesta naudoissa ja sioissa](432.md) `432/2011`
+- [Liikenne\- ja viestintäministeriön asetus radiotaajuuksien käyttösuunnitelmasta annetun liikenne\- ja viestintäministeriön asetuksen 4 ja 5 §:n muuttamisesta](433.md) `433/2011`
+- [Opetus\- ja kulttuuriministeriön asetus eräiden valtion oppilaitosten johtokunnista annetun opetus\- ja kulttuuriministeriön asetuksen 2 ja 3 §:n väliaikaisesta muuttamisesta](434.md) `434/2011`
+- [Maa\- ja metsätalousministeriön asetus Suomen riistakeskuksen ja riistanhoitoyhdistysten julkisten hallintotehtävien maksuista annetun maa\- ja metsätalousministeriön asetuksen 2 §:n muuttamisesta](435.md) `435/2011`
+- [Valtioneuvoston asetus Tornionjoen kalastusalueella sovellettavista kansallisista kalastusmääräyksistä](436.md) `436/2011`
+- [Maa\- ja metsätalousministeriön asetus Metsäntutkimuslaitoksen maksullisista suoritteista](437.md) `437/2011`
+- [Tasavallan presidentin asetus Suomen ja Ruotsin välillä tehdyn rajajokisopimuksen kalastussäännön 16 §:ssä tarkoitetun pöytäkirjan voimaansaattamisesta](438.md) `438/2011`
+- [Laki syyttäjälaitoksesta](439.md) `439/2011`
+- [Laki oikeudenkäymiskaaren muuttamisesta](440.md) `440/2011`
+- [Laki rikoslain muuttamisesta](441.md) `441/2011`
+- [Laki säätiölain 14 §:n muuttamisesta](442.md) `442/2011`
+- [Laki asianajajista annetun lain 11 §:n muuttamisesta](443.md) `443/2011`
+- [Laki eräiden asiakirjain lähettämisestä tuomioistuimille annetun lain 1 §:n muuttamisesta](444.md) `444/2011`
+- [Laki toiminimilain 22 §:n muuttamisesta](445.md) `445/2011`
+- [Laki sotilasoikeudenkäyntilain 4 ja 23 §:n muuttamisesta](446.md) `446/2011`
+- [Laki sotilaskurinpitolain 19 §:n muuttamisesta](447.md) `447/2011`
+- [Laki liiketoimintakiellosta annetun lain 19 §:n muuttamisesta](448.md) `448/2011`
+- [Laki haastemieslain 6 §:n muuttamisesta](449.md) `449/2011`
+- [Laki puolustustilalain 8 §:n muuttamisesta](450.md) `450/2011`
+- [Laki käräjäoikeuslain 6 §:n muuttamisesta](451.md) `451/2011`
+- [Laki tuomioistuinten ja eräiden hallintoviranomaisten suoritteista perittävistä maksuista annetun lain 6 §:n muuttamisesta](452.md) `452/2011`
+- [Laki rikosrekisterilain 4 §:n muuttamisesta](453.md) `453/2011`
+- [Laki kansainvälisestä oikeusavusta rikosasioissa annetun lain 20 §:n muuttamisesta](454.md) `454/2011`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain muuttamisesta](455.md) `455/2011`
+- [Laki holhoustoimesta annetun lain 94 §:n muuttamisesta](456.md) `456/2011`
+- [Laki henkilötietolain 41 §:n muuttamisesta](457.md) `457/2011`
+- [Laki viranomaisten toiminnan julkisuudesta annetun lain 6 ja 24 §:n muuttamisesta](458.md) `458/2011`
+- [Laki valtakunnanoikeudesta ja ministerivastuuasioiden käsittelystä annetun lain 11 §:n muuttamisesta](459.md) `459/2011`
+- [Laki oikeusapulain 17 ja 18 §:n muuttamisesta](460.md) `460/2011`
+- [Laki tietoyhteiskunnan palvelujen tarjoamisesta annetun lain 16 §:n muuttamisesta](461.md) `461/2011`
+- [Laki sakon täytäntöönpanosta annetun lain muuttamisesta](462.md) `462/2011`
+- [Laki sananvapauden käyttämisestä joukkoviestinnässä annetun lain 18 §:n muuttamisesta](463.md) `463/2011`
+- [Laki edunvalvontavaltuutuksesta annetun lain 48 §:n muuttamisesta](464.md) `464/2011`
+- [Laki oikeudenkäynnin viivästymisen hyvittämisestä annetun lain 8 §:n muuttamisesta](465.md) `465/2011`
+- [Laki Eurojustia koskevan päätöksen eräiden määräysten täytäntöönpanosta annetun lain 3 §:n muuttamisesta](466.md) `466/2011`
+- [Laki sakon ja rikesakon määräämisestä annetun lain muuttamisesta](467.md) `467/2011`
+- [Laki joukkoliikenteen tarkastusmaksusta annetun lain 9 §:n muuttamisesta](468.md) `468/2011`
+- [Laki panttilainauslaitoksista annetun lain 39 §:n muuttamisesta](469.md) `469/2011`
+- [Laki valtion virkamieslain 7 §:n muuttamisesta](470.md) `470/2011`
+- [Laki sijoitusrahastolain 148 §:n muuttamisesta](471.md) `471/2011`
+- [Laki yksinoikeudesta integroidun piirin piirimalliin annetun lain 37 §:n muuttamisesta](472.md) `472/2011`
+- [Laki kalastuslain 112 §:n muuttamisesta](473.md) `473/2011`
+- [Laki metsästyslain 82 §:n muuttamisesta](474.md) `474/2011`
+- [Laki metsänviljelyaineiston kaupasta annetun lain 31 §:n muuttamisesta](475.md) `475/2011`
+- [Laki alusturvallisuuden valvonnasta annetun lain 15 §:n muuttamisesta](476.md) `476/2011`
+- [Laki työriitojen sovittelusta annetun lain 17 §:n muuttamisesta](477.md) `477/2011`
+- [Laki patenttilain 57 ja 62 §:n muuttamisesta](478.md) `478/2011`
+- [Laki patenttiasiamiehistä annetun lain 3 §:n muuttamisesta](479.md) `479/2011`
+- [Laki kotitaloustyöntekijän työsuhteesta annetun lain 33 §:n muuttamisesta](480.md) `480/2011`
+- [Laki sopimattomasta menettelystä elinkeinotoiminnassa annetun lain 11 §:n muuttamisesta](481.md) `481/2011`
+- [Laki opintovapaalain 14 §:n muuttamisesta](482.md) `482/2011`
+- [Laki ydinenergialain 74 §:n muuttamisesta](483.md) `483/2011`
+- [Laki hyödyllisyysmallioikeudesta annetun lain 39 ja 40 §:n muuttamisesta](484.md) `484/2011`
+- [Laki siviilipalveluslain 78 ja 86 §:n muuttamisesta](485.md) `485/2011`
+- [Laki lasten päivähoidosta annetun lain 30 §:n muuttamisesta](486.md) `486/2011`
+- [Laki tupakkalain 17 ja 31 b §:n muuttamisesta](487.md) `487/2011`
+- [Laki naisten ja miesten välisestä tasa\-arvosta annetun lain 14 a §:n muuttamisesta](488.md) `488/2011`
+- [Laki säteilylain 64 §:n muuttamisesta](489.md) `489/2011`
+- [Laki ulkomaisista vakuutusyhtiöistä annetun lain 76 §:n muuttamisesta](490.md) `490/2011`
+- [Laki sosiaalihuollon asiakkaan asemasta ja oikeuksista annetun lain 29 §:n muuttamisesta](491.md) `491/2011`
+- [Laki työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetun lain 50 §:n muuttamisesta](492.md) `492/2011`
+- [Laki merimieseläkelain 212 §:n muuttamisesta](493.md) `493/2011`
+- [Laki maastoliikennelain 27 §:n muuttamisesta](494.md) `494/2011`
+- [Laki rikoslain 20 luvun muuttamisesta](495.md) `495/2011`
+- [Valtioneuvoston asetus nuorisotyöstä ja \-politiikasta annetun asetuksen 2 §:n muuttamisesta](496.md) `496/2011`
+- [Maa\- ja metsätalousministeriön asetus eräiden elintarvikkeiden kanssa kosketuksiin joutuvista aineista annettujen säädösten kumoamisesta](497.md) `497/2011`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön ulkopuolisista maista tuotavista eräistä elävistä eläimistä sekä niiden alkioista ja sukusoluista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](498.md) `498/2011`
+- [Laki maatalouden rakennetuista annetun lain muuttamisesta](499.md) `499/2011`
+- [Laki julkisista hankinnoista annetun lain 6 §:n muuttamisesta](500.md) `500/2011`
+- [Valtioneuvoston asetus rakennerahastoista osarahoitettavien kustannusten tukikelpoisuudesta](501.md) `501/2011`
+- [Valtioneuvoston asetus vaarallisten aineiden käytön rajoittamisesta sähkö\- ja elektroniikkalaitteissa annetun valtioneuvoston asetuksen liitteen muuttamisesta](502.md) `502/2011`
+- [Valtioneuvoston asetus eräiden tietojen säilyttämisestä viranomaistarpeita varten](503.md) `503/2011`
+- [Valtioneuvoston asetus Tekes – teknologian ja innovaatioiden kehittämiskeskuksesta annetun valtioneuvoston asetuksen muuttamisesta](504.md) `504/2011`
+- [Valtioneuvoston asetus toimivaltaisesta eläkelaitoksesta](505.md) `505/2011`
+- [Sisäasiainministeriön asetus väestönsuojien teknisistä vaatimuksista ja väestönsuojien laitteiden kunnossapidosta](506.md) `506/2011`
+- [Sisäasiainministeriön asetus pelastustoimen virkapuvusta sekä pelastusviranomaisen henkilökortista](507.md) `507/2011`
+- [Laki Kainuun hallintokokeilusta annetun lain muuttamisesta](508.md) `508/2011`
+- [Laki työttömyysturvalain 4 luvun muuttamisesta](509.md) `509/2011`
+- [Laki Euroopan neuvoston tietoverkkorikollisuutta koskevan yleissopimuksen lisäpöytäkirjan, joka koskee tietojärjestelmien välityksellä tehtyjen luonteeltaan rasististen ja muukalaisvihamielisten tekojen kriminalisointia, lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](510.md) `510/2011`
+- [Laki rikoslain muuttamisesta](511.md) `511/2011`
+- [Laki tietoyhteiskunnan palvelujen tarjoamisesta annetun lain 15 §:n muuttamisesta](512.md) `512/2011`
+- [Valtiovarainministeriön asetus maistraattien sijaintipaikoista ja yksiköistä annetun asetuksen muuttamisesta](513.md) `513/2011`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta \(EU\) N:o 442/2011 Syyrian tilanteen johdosta määrättävistä rajoittavista toimenpiteistä](514.md) `514/2011`
+- [Maa\- ja metsätalousministeriön asetus Suomessa rekisteröityjen yli 20\-metristen kalastusalusten harjoittaman turskankalastuksen keskeyttämisestä ICES\-osa\-alueilla 25—32](515.md) `515/2011`
+- [Oikeusministeriön asetus ulosottoperustetta koskevan tuomioistuimen ilmoitusvelvollisuuden alkamisesta](516.md) `516/2011`
+- [Työ\- ja elinkeinoministeriön asetus sähkölaitteistojen turvallisuudesta annetun kauppa\- ja teollisuusministeriön päätöksen 4 §:n muuttamisesta](517.md) `517/2011`
+- [Työ\- ja elinkeinoministeriön asetus sähköalan töistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](518.md) `518/2011`
+- [Työ\- ja elinkeinoministeriön asetus hissien käytöstä annetun kauppa\- ja teollisuusministeriön asetuksen eräiden säännösten kumoamisesta](519.md) `519/2011`
+- [Valtioneuvoston asetus valtioneuvoston ohjesäännön 6 ja 43 §:n muuttamisesta](520.md) `520/2011`
+- [Valtioneuvoston asetus Euroopan unionin kokonaan rahoittamien tukien valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](521.md) `521/2011`
+- [Valtioneuvoston asetus Euroopan unionin kokonaan tai osittain rahoittamien pinta\-alaperusteisten tukien valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](522.md) `522/2011`
+- [Valtioneuvoston asetus ei\-tuotannollisten investointien tuen valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](523.md) `523/2011`
+- [Valtioneuvoston asetus rautatiealan terveydenhuollon asiantuntijoiden pätevyydestä ja täydennyskoulutuksesta](524.md) `524/2011`
+- [Turvallisuustutkintalaki](525.md) `525/2011`
+- [Laki sotilasilmailuonnettomuuksien tutkinnasta](526.md) `526/2011`
+- [Laki ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteen XI\-1 lukuun tehdyn muutoksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](527.md) `527/2011`
+- [Laki viranomaisten toiminnan julkisuudesta annetun lain 24 §:n muuttamisesta](528.md) `528/2011`
+- [Laki ilmailulain 126 ja 127 §:n muuttamisesta](529.md) `529/2011`
+- [Laki merilain 18 luvun 15 §:n muuttamisesta](530.md) `530/2011`
+- [Laki rautatielain 80 ja 83 §:n muuttamisesta](531.md) `531/2011`
+- [Laki tie\- ja maastoliikenneonnettomuuksien tutkinnasta annetun lain 1 §:n muuttamisesta](532.md) `532/2011`
+- [Maa\- ja metsätalousministeriön asetus vesiviljelyeläinten tunnistamisesta](533.md) `533/2011`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön ulkopuolisista maista tuotavasta siipikarjasta ja muista linnuista sekä niiden siitosmunista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](534.md) `534/2011`
+- [Laki eduskunnan oikeusasiamiehestä annetun lain muuttamisesta](535.md) `535/2011`
+- [Laki valtioneuvoston oikeuskanslerista annetun lain muuttamisesta](536.md) `536/2011`
+- [Laki eduskunnan virkamiehistä annetun lain 4 ja 29 §:n muuttamisesta](537.md) `537/2011`
+- [Valtioneuvoston asetus sanomalehdistön tuesta annetun valtioneuvoston asetuksen muuttamisesta](538.md) `538/2011`
+- [Laki lasten suojelemisesta seksuaalista riistoa ja seksuaalista hyväksikäyttöä vastaan tehdyn Euroopan neuvoston yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](539.md) `539/2011`
+- [Laki rikoslain muuttamisesta](540.md) `540/2011`
+- [Laki liiketoimintakiellosta annetun lain 3 ja 11 §:n muuttamisesta](541.md) `541/2011`
+- [Laki lastensuojelulain 25 ja 25 d §:n muuttamisesta](542.md) `542/2011`
+- [Laki rikosrekisterilain 6 §:n muuttamisesta](543.md) `543/2011`
+- [Työ\- ja elinkeinoministeriön asetus maksuttomien päästöoikeuksien hakemiseksi päästökauppakaudelle 2013—2020](544.md) `544/2011`
+- [Liikenne\- ja viestintäministeriön asetus liikenneopettajaoppilaiden opetusharjoittelusta](545.md) `545/2011`
+- [Liikenne\- ja viestintäministeriön asetus ajoharjoitteluratojen mitoituksesta, rakenteesta, varusteista ja hyväksymisestä](546.md) `546/2011`
+- [Liikenne\- ja viestintäministeriön asetus kuljettajantutkinnossa käytettävien ajoneuvojen vaatimuksista, opetusajoneuvon merkitsemisestä sekä uuteen ajokokeeseen pääsemisen edellytyksistä](547.md) `547/2011`
+- [Liikenne\- ja viestintäministeriön asetus ajokorttiasetuksen soveltamisesta annetun liikenneministeriön päätöksen eräiden säännösten kumoamisesta](548.md) `548/2011`
+- [Tasavallan presidentin asetus Maailman postiliiton perussopimuksen kahdeksannen lisäpöytäkirjan voimaansaattamisesta](549.md) `549/2011`
+- [Tasavallan presidentin asetus Maailman postiliiton yleissopimuksen ja eräiden muiden sopimusten voimaansaattamisesta sekä yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](550.md) `550/2011`
+- [Valtioneuvoston asetus postitoiminnan toimilupahakemuksesta](551.md) `551/2011`
+- [Puolustusministeriön asetus sotilaallisen kriisinhallintahenkilöstön pätevyysvaatimuksista ja palvelussuhteen ehdoista annetun puolustusministeriön asetuksen 7 §:n muuttamisesta](552.md) `552/2011`
+- [Maa\- ja metsätalousministeriön asetus riistanhoitoyhdistyksen toimihenkilöiden koulutusvaatimuksista](553.md) `553/2011`
+- [Valtiovarainministeriön asetus maksulaitoksen toimilupahakemukseen liitettävistä selvityksistä](554.md) `554/2011`
+- [Valtiovarainministeriön asetus maksulaitoksen omien varojen laskemisessa käytettävistä menetelmistä](555.md) `555/2011`
+- [Valtioneuvoston asetus tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista annetun asetuksen 3 ja 11 §:n muuttamisesta](556.md) `556/2011`
+- [Valtioneuvoston asetus sotilasilmailusta](557.md) `557/2011`
+- [Valtioneuvoston asetus kunta\- ja palvelurakenneuudistusta koskevien tietojen toimittamisesta valtiovarainministeriölle](558.md) `558/2011`
+- [Valtioneuvoston asetus vuodelta 2010 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 10 §:n muuttamisesta](559.md) `559/2011`
+- [Valtioneuvoston asetus vuodelta 2011 maksettavien kansallisten kasvintuotannon tukien ja kotieläintukien valvonnasta](560.md) `560/2011`
+- [Valtioneuvoston asetus ympäristötuen ja luonnonhaittakorvauksen valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](561.md) `561/2011`
+- [Valtioneuvoston asetus eläinten hyvinvoinnin tuen valvonnasta vuosina 2008—2013 annetun valtioneuvoston asetuksen muuttamisesta](562.md) `562/2011`
+- [Laki Europolia koskevan päätöksen eräiden säännösten täytäntöönpanosta](563.md) `563/2011`
+- [Laki tullilain 26 §:n muuttamisesta](564.md) `564/2011`
+- [Tasavallan presidentin asetus eräiden kasvinsuojeluaineita koskevien hallintotehtävien hoitamisesta Ahvenanmaan maakunnassa](565.md) `565/2011`
+- [Liikenne\- ja viestintäministeriön asetus Liikenteen turvallisuusviraston maksullisista suoritteista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](566.md) `566/2011`
+- [Tasavallan presidentin asetus Palestiinalaishallinnon kanssa yhteistyöstä Jerusalemin luoteispuolella sijaitsevien kylien vesihuollon parantamiseksi tehdyn sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](567.md) `567/2011`
+- [Verohallinnon työjärjestys](568.md) `568/2011`
+- [Valtiovarainministeriön asetus henkilöstöltä vaadittavasta kielitaidosta eräissä maistraateissa](569.md) `569/2011`
+- [Valtioneuvoston asetus kotoutumisen edistämiseen liittyvästä alkukartoituksesta](570.md) `570/2011`
+- [Valtioneuvoston asetus kotoutumisen edistämiseen liittyvien kunnan kustannusten korvaamisesta valtion varoista](571.md) `571/2011`
+- [Valtioneuvoston asetus ampuma\-aseasetuksen muuttamisesta](572.md) `572/2011`
+- [Valtioneuvoston asetus kemikaalien vähittäismyynnistä](573.md) `573/2011`
+- [Valtioneuvoston asetus koneiden turvallisuudesta annetun valtioneuvoston asetuksen muuttamisesta annetun valtioneuvoston asetuksen voimaantulosäännöksen muuttamisesta](574.md) `574/2011`
+- [Laki arpajaislain muuttamisesta](575.md) `575/2011`
+- [Laki raha\-automaattiavustuksista annetun lain 2 §:n muuttamisesta](576.md) `576/2011`
+- [Laki totopelien tuottojen käyttämisestä hevoskasvatuksen ja hevosurheilun edistämiseen annetun lain 6 §:n muuttamisesta](577.md) `577/2011`
+- [Laki rikoslain 17 luvun 16 a ja 16 b §:n muuttamisesta](578.md) `578/2011`
+- [Laki kansalaisuuslain muuttamisesta](579.md) `579/2011`
+- [Tasavallan presidentin asetus kansainvälisen järjestäytyneen rikollisuuden vastaisen Yhdistyneiden Kansakuntien yleissopimuksen ampuma\-aseiden, niiden osien ja komponenttien sekä ampumatarvikkeiden laittoman valmistuksen ja kaupan torjumista koskevan lisäpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](580.md) `580/2011`
+- [Laki ydinvastuulain väliaikaisesta muuttamisesta](581.md) `581/2011`
+- [Oikeusministeriön asetus ulosottoperustetta koskevan tuomioistuimen ilmoitusvelvollisuuden alkamisesta annetun asetuksen muuttamisesta](582.md) `582/2011`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](583.md) `583/2011`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](584.md) `584/2011`
+- [Valtiovarainministeriön asetus maistraattien sijaintipaikoista ja yksiköistä](585.md) `585/2011`
+- [Valtioneuvoston asetus alle 18\-vuotiaana vahinkoa kärsineen ansiotulon määrän vahvistamisesta](586.md) `586/2011`
+- [Vesilaki](587.md) `587/2011`
+- [Laki ympäristönsuojelulain muuttamisesta](588.md) `588/2011`
+- [Laki maankäyttö\- ja rakennuslain muuttamisesta](589.md) `589/2011`
+- [Laki vesistöhankkeiden johdosta suoritettavista tilusjärjestelyistä annetun lain muuttamisesta](590.md) `590/2011`
+- [Laki Suomen talousvyöhykkeestä annetun lain 3 ja 12 §:n muuttamisesta](591.md) `591/2011`
+- [Laki luotsauslain 5 §:n muuttamisesta](592.md) `592/2011`
+- [Laki peruskuivatustoiminnan tukemisesta annetun lain muuttamisesta](593.md) `593/2011`
+- [Laki luonnonsuojelulain 53 ja 57 a §:n muuttamisesta](594.md) `594/2011`
+- [Laki vesiliikennelain 4 ja 19 §:n muuttamisesta](595.md) `595/2011`
+- [Laki maastoliikennelain 4 §:n muuttamisesta](596.md) `596/2011`
+- [Laki kiinteistönmuodostamislain muuttamisesta](597.md) `597/2011`
+- [Laki Neuvostoliiton kanssa Saimaan ja Vuoksen juoksutussäännöstä tehdyn sopimuksen eräiden määräysten hyväksymisestä sekä sopimuksen soveltamisesta annetun lain 2 ja 4 §:n muuttamisesta](598.md) `598/2011`
+- [Laki patoturvallisuuslain 3 §:n muuttamisesta](599.md) `599/2011`
+- [Laki kalastuslain muuttamisesta](600.md) `600/2011`
+- [Laki eräiden ympäristölle aiheutuneiden vahinkojen korjaamisesta annetun lain 1 ja 4 §:n muuttamisesta](601.md) `601/2011`
+- [Laki eräistä vesien käyttämistä varten myönnettävistä oikeuksista annetun lain 2 ja 3 §:n kumoamisesta](602.md) `602/2011`
+- [Valtioneuvoston asetus julkishallinnon ja \-talouden tilintarkastajista annetun valtioneuvoston asetuksen muuttamisesta](603.md) `603/2011`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä toimintapääomasta](604.md) `604/2011`
+- [Työ\- ja elinkeinoministeriön asetus Keskuskauppakamarin tilintarkastuslautakunnan ja kauppakamarin tilintarkastusvaliokunnan maksullisista suoritteista annetun työ\- ja elinkeinoministeriön asetuksen muuttamisesta ja väliaikaisesta muuttamisesta](605.md) `605/2011`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](606.md) `606/2011`
+- [Valtiovarainministeriön asetus maistraattien suoritteiden maksuista annetun asetuksen muuttamisesta](607.md) `607/2011`
+- [Laki käräjäoikeuslain muuttamisesta](608.md) `608/2011`
+- [Laki hovioikeuslain muuttamisesta](609.md) `609/2011`
+- [Laki hallinto\-oikeuslain muuttamisesta](610.md) `610/2011`
+- [Laki avioliittolain 17 a §:n muuttamisesta](611.md) `611/2011`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain 5 luvun 8 §:n muuttamisesta](612.md) `612/2011`
+- [Sisäasiainministeriön asetus poliisin suoritteiden maksullisuudesta vuosina 2010 ja 2011 annetun sisäasiainministeriön asetuksen muuttamisesta](613.md) `613/2011`
+- [Laki tuomareiden nimittämisestä annetun lain muuttamisesta](614.md) `614/2011`
+- [Laki hovioikeuslain 8 §:n muuttamisesta](615.md) `615/2011`
+- [Laki hallinto\-oikeuslain muuttamisesta](616.md) `616/2011`
+- [Laki käräjäoikeuslain muuttamisesta](617.md) `617/2011`
+- [Laki vakuutusoikeuslain 8 ja 14 §:n muuttamisesta](618.md) `618/2011`
+- [Laki markkinaoikeuslain muuttamisesta](619.md) `619/2011`
+- [Laki yhteistoiminnasta suomalaisissa ja yhteisönlaajuisissa yritysryhmissä annetun lain muuttamisesta](620.md) `620/2011`
+- [Kaivoslaki](621.md) `621/2011`
+- [Laki ydinenergialain muuttamisesta](622.md) `622/2011`
+- [Laki maastoliikennelain 4 §:n muuttamisesta](623.md) `623/2011`
+- [Laki säteilylain 3 ja 5 §:n muuttamisesta](624.md) `624/2011`
+- [Laki erämaalain 6 §:n muuttamisesta](625.md) `625/2011`
+- [Laki saamelaiskäräjistä annetun lain 9 §:n muuttamisesta](626.md) `626/2011`
+- [Laki luonnonsuojelulain 53 §:n muuttamisesta](627.md) `627/2011`
+- [Laki ympäristövahinkojen korvaamisesta annetun lain 12 §:n muuttamisesta](628.md) `628/2011`
+- [Laki Suomen talousvyöhykkeestä annetun lain muuttamisesta](629.md) `629/2011`
+- [Valtioneuvoston asetus valtion virkaehtosopimusasetuksen 10 §:n muuttamisesta](630.md) `630/2011`
+- [Laki ulkomaalaislain muuttamisesta](631.md) `631/2011`
+- [Laki ulkomaalaisrekisteristä annetun lain muuttamisesta](632.md) `632/2011`
+- [Laki löytötavaralain 22 ja 24 §:n muuttamisesta](633.md) `633/2011`
+- [Laki julkisen hallinnon tietohallinnon ohjauksesta](634.md) `634/2011`
+- [Laki viranomaisten toiminnan julkisuudesta annetun lain 18 ja 36 §:n muuttamisesta](635.md) `635/2011`
+- [Laki lahjontaa koskevan Euroopan neuvoston rikosoikeudellisen yleissopimuksen lisäpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](636.md) `636/2011`
+- [Laki rikoslain muuttamisesta](637.md) `637/2011`
+- [Sisäasiainministeriön asetus pysäköintivirhemaksusta](638.md) `638/2011`
+- [Sisäasiainministeriön asetus rajavartiolaitokseen palvelussuhteessa olevan virkamiehen ulkomaanedustuksen korvauksista annetun sisäasiainministeriön asetuksen muuttamisesta](639.md) `639/2011`
+- [Valtioneuvoston asetus Lääkealan turvallisuus\- ja kehittämiskeskuksesta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](640.md) `640/2011`
+- [Valtioneuvoston asetus säteilyturvakeskuksesta annetun asetuksen 8 §:n muuttamisesta](641.md) `641/2011`
+- [Valtioneuvoston asetus Terveyden ja hyvinvoinnin laitoksesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](642.md) `642/2011`
+- [Valtioneuvoston asetus Sosiaali\- ja terveysalan lupa\- ja valvontavirastosta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](643.md) `643/2011`
+- [Valtioneuvoston asetus räjäytys\- ja louhintatyön turvallisuudesta](644.md) `644/2011`
+- [Valtioneuvoston asetus panostajien pätevyyskirjoista annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](645.md) `645/2011`
+- [Jätelaki](646.md) `646/2011`
+- [Laki ympäristönsuojelulain muuttamisesta](647.md) `647/2011`
+- [Laki terveydensuojelulain 3 §:n muuttamisesta](648.md) `648/2011`
+- [Laki kemikaalilain 3 §:n muuttamisesta](649.md) `649/2011`
+- [Laki rikoslain 48 luvun 1 §:n muuttamisesta](650.md) `650/2011`
+- [Laki jäteverolain 1 §:n muuttamisesta](651.md) `651/2011`
+- [Laki eräiden juomapakkausten valmisteverosta annetun lain 3 ja 7 §:n muuttamisesta](652.md) `652/2011`
+- [Laki ajoneuvolain muuttamisesta](653.md) `653/2011`
+- [Laki ajoneuvojen siirtämisestä annetun lain 2 ja 8 §:n muuttamisesta](654.md) `654/2011`
+- [Laki merenkulun ympäristönsuojelulain 3 §:n muuttamisesta](655.md) `655/2011`
+- [Laki Suomen talousvyöhykkeestä annetun lain 3 ja 11 §:n muuttamisesta](656.md) `656/2011`
+- [Laki pääkaupunkiseudun kuntien jätehuoltoa ja joukkoliikennettä koskevasta yhteistoiminnasta annetun lain 2 §:n muuttamisesta](657.md) `657/2011`
+- [Laki patoturvallisuuslain 3 §:n muuttamisesta](658.md) `658/2011`
+- [Laki lannoitevalmistelain 3 §:n muuttamisesta](659.md) `659/2011`
+- [Laki kasvinsuojeluaineista annetun lain 3 §:n muuttamisesta](660.md) `660/2011`
+- [Laki luonnonhaittakorvauksesta, maatalouden ympäristötuesta sekä eräistä muista ympäristön ja maaseudun tilan parantamiseen liittyvistä tuista annetun lain 5 §:n muuttamisesta](661.md) `661/2011`
+- [Laki lääkelain 7 §:n muuttamisesta](662.md) `662/2011`
+- [Laki huumausainelain 28 §:n muuttamisesta](663.md) `663/2011`
+- [Laki kokoontumislain 24 §:n muuttamisesta](664.md) `664/2011`
+- [Laki hallinto\-oikeuslain 12 a §:n muuttamisesta](665.md) `665/2011`
+- [Laki öljyjätemaksusta annetun lain 1 §:n muuttamisesta](666.md) `666/2011`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2011 metsänhoitomaksun perusteesta](667.md) `667/2011`
+- [Maa\- ja metsätalousministeriön asetus kalojen VHS\-taudin vuoksi Uudenkaupungin, Pyhärannan ja Rauman kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](668.md) `668/2011`
+- [Tasavallan presidentin asetus Palestiinalaishallinnon kanssa Suomen tuesta palestiinalaishallinnolle Mécanisme Palestino Europeen de Gestion et d’Aide Socio\-economique \(PEGASE\)\-mekanismin ohjelman "Vulnerable Palestinian Families” kautta tehdyn sopimuksen voimaansaattamisesta](669.md) `669/2011`
+- [Tasavallan presidentin asetus Palestiinalaishallinnon kanssa Suomen tuesta palestiinalaishallinnolle Mécanisme Palestino Europeen de Gestion et d’Aide Socio\-economique \(PEGASE\)\-mekanismin ohjelman "Supporting Palestinian Public Administration and Services” kautta tehdyn sopimuksen voimaansaattamisesta](670.md) `670/2011`
+- [Laki sairausvakuutuslain muuttamisesta](671.md) `671/2011`
+- [Laki työttömyysturvalain muuttamisesta](672.md) `672/2011`
+- [Laki aikuiskoulutustuesta annetun lain muuttamisesta](673.md) `673/2011`
+- [Laki asumistukilain muuttamisesta](674.md) `674/2011`
+- [Laki opintotukilain muuttamisesta](675.md) `675/2011`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain muuttamisesta](676.md) `676/2011`
+- [Laki vammaisetuuksista annetun lain muuttamisesta](677.md) `677/2011`
+- [Laki työntekijän eläkelain muuttamisesta](678.md) `678/2011`
+- [Laki yrittäjän eläkelain muuttamisesta](679.md) `679/2011`
+- [Laki merimieseläkelain muuttamisesta](680.md) `680/2011`
+- [Laki maatalousyrittäjän eläkelain muuttamisesta](681.md) `681/2011`
+- [Laki kunnallisen eläkelain muuttamisesta](682.md) `682/2011`
+- [Laki maatalouden harjoittamisesta luopumisen tukemisesta annetun lain 60 §:n muuttamisesta](683.md) `683/2011`
+- [Laki eläkkeensaajan asumistuesta annetun lain 41 ja 42 §:n muuttamisesta](684.md) `684/2011`
+- [Laki kansaneläkelain 83 ja 84 §:n muuttamisesta](685.md) `685/2011`
+- [Laki takuueläkkeestä annetun lain 30 ja 31 §:n muuttamisesta](686.md) `686/2011`
+- [Laki valtion eläkelain 174 §:n muuttamisesta](687.md) `687/2011`
+- [Laki sotilasavustuslain 21 §:n muuttamisesta](688.md) `688/2011`
+- [Laki asumiseen perustuvan sosiaaliturvalainsäädännön soveltamisesta annetun lain 14 §:n muuttamisesta](689.md) `689/2011`
+- [Laki äitiysavustuslain 13 §:n muuttamisesta](690.md) `690/2011`
+- [Laki lapsilisälain 15 c §:n muuttamisesta](691.md) `691/2011`
+- [Laki elatustukilain 33 §:n muuttamisesta](692.md) `692/2011`
+- [Laki vammaisten henkilöiden tulkkauspalvelusta annetun lain 22 §:n muuttamisesta](693.md) `693/2011`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta annetun lain 22 c §:n muuttamisesta](694.md) `694/2011`
+- [Laki tapaturmavakuutuslain 54 a §:n muuttamisesta](695.md) `695/2011`
+- [Laki lukiokoulutuksen ja ammatillisen koulutuksen opiskelijoiden koulumatkatuesta annetun lain 9 §:n muuttamisesta](696.md) `696/2011`
+- [Laki eräiden Suomeen tuotavien näyttelyesineiden takavarikoinnin kieltämisestä](697.md) `697/2011`
+- [Laki sähköisestä huutokaupasta ja dynaamisesta hankintajärjestelmästä](698.md) `698/2011`
+- [Laki julkisista hankinnoista annetun lain muuttamisesta](699.md) `699/2011`
+- [Laki vesi\- ja energiahuollon, liikenteen ja postipalvelujen alalla toimivien yksiköiden hankinnoista annetun lain muuttamisesta](700.md) `700/2011`
+- [Laki viranomaisten toiminnan julkisuudesta annetun lain muuttamisesta](701.md) `701/2011`
+- [Valtioneuvoston asetus hovioikeusasetuksen muuttamisesta](702.md) `702/2011`
+- [Valtioneuvoston asetus hallinto\-oikeusasetuksen muuttamisesta](703.md) `703/2011`
+- [Valtioneuvoston asetus käräjäoikeusasetuksen 8 §:n muuttamisesta](704.md) `704/2011`
+- [Valtioneuvoston asetus vakuutusoikeudesta annetun valtioneuvoston asetuksen muuttamisesta](705.md) `705/2011`
+- [Laki kuljettajantutkintotoiminnan järjestämisestä annetun lain muuttamisesta](706.md) `706/2011`
+- [Mittauslaitelaki](707.md) `707/2011`
+- [Tasavallan presidentin asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan I liitteeseen tehtyjen muutosten voimaansaattamisesta](708.md) `708/2011`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteen XI\-1 lukuun tehdyn muutoksen voimaansaattamisesta sekä muutoksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](709.md) `709/2011`
+- [Kuvaohjelmalaki](710.md) `710/2011`
+- [Laki Mediakasvatus\- ja kuvaohjelmakeskuksesta](711.md) `711/2011`
+- [Laki televisio\- ja radiotoiminnasta annetun lain 19 §:n muuttamisesta](712.md) `712/2011`
+- [Laki rikoslain 17 luvun 17 ja 18 b §:n muuttamisesta](713.md) `713/2011`
+- [Laki rikosrekisterilain 6 §:n muuttamisesta](714.md) `714/2011`
+- [Laki luvan saaneista oikeudenkäyntiavustajista](715.md) `715/2011`
+- [Laki asianajajista annetun lain muuttamisesta](716.md) `716/2011`
+- [Laki valtion oikeusaputoimistoista annetun lain 6 §:n muuttamisesta](717.md) `717/2011`
+- [Laki oikeudenkäymiskaaren 15 ja 31 luvun muuttamisesta](718.md) `718/2011`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain 2 luvun 2 §:n muuttamisesta](719.md) `719/2011`
+- [Laki oikeusapulain 8 §:n muuttamisesta](720.md) `720/2011`
+- [Laki lastensuojelulain muuttamisesta](721.md) `721/2011`
+- [Laki valtioneuvoston oikeuskanslerista annetun lain 1 §:n muuttamisesta](722.md) `722/2011`
+- [Laki riita\-asioiden sovittelusta ja sovinnon vahvistamisesta yleisissä tuomioistuimissa annetun lain 15 §:n muuttamisesta](723.md) `723/2011`
+- [Laki vankeuslain 12 luvun 4 §:n muuttamisesta](724.md) `724/2011`
+- [Laki tutkintavankeuslain 8 luvun 4 §:n muuttamisesta](725.md) `725/2011`
+- [Laki poliisin säilyttämien henkilöiden kohtelusta annetun lain 3 luvun 7 §:n ja 6 luvun 4 §:n muuttamisesta](726.md) `726/2011`
+- [Laki pysäköinninvalvonnasta](727.md) `727/2011`
+- [Laki ympäristönsuojelulain 116 §:n muuttamisesta](728.md) `728/2011`
+- [Laki ajoneuvojen siirtämisestä annetun lain 5 ja 11 §:n muuttamisesta](729.md) `729/2011`
+- [Laki hallinto\-oikeuslain 12 b §:n muuttamisesta](730.md) `730/2011`
+- [Laki rikoslain 2 luvun 13 §:n muuttamisesta](731.md) `731/2011`
+- [Laki Suomen ja muiden pohjoismaiden välisestä yhteistoiminnasta rikosasioissa annettujen tuomioiden täytäntöönpanossa annetun lain 24 ja 27 §:n muuttamisesta](732.md) `732/2011`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden Euroopan unionin jäsenvaltioiden välillä annetun lain 54 ja 58 §:n muuttamisesta](733.md) `733/2011`
+- [Laki nuorisorangaistuksesta annetun lain muuttamisesta](734.md) `734/2011`
+- [Laki vankeuslain muuttamisesta](735.md) `735/2011`
+- [Laki tutkintavankeuslain muuttamisesta](736.md) `736/2011`
+- [Laki pitkäaikaisvankien vapauttamismenettelystä annetun lain muuttamisesta](737.md) `737/2011`
+- [Laki ehdonalaisen vapauden valvonnasta annetun lain muuttamisesta](738.md) `738/2011`
+- [Laki Rikosseuraamusalan koulutuskeskuksesta annetun lain muuttamisesta](739.md) `739/2011`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden pohjoismaiden välillä annetun lain 51 ja 64 §:n muuttamisesta](740.md) `740/2011`
+- [Laki potilaan asemasta ja oikeuksista annetun lain 2 §:n muuttamisesta](741.md) `741/2011`
+- [Laki Eurooppapatenttien myöntämisestä tehdyn yleissopimuksen 65 artiklan soveltamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](742.md) `742/2011`
+- [Laki patenttilain muuttamisesta](743.md) `743/2011`
+- [Laki hyödyllisyysmallioikeudesta annetun lain muuttamisesta](744.md) `744/2011`
+- [Oikeusministeriön asetus  markkinaoikeudesta annetun oikeusministeriön asetuksen muuttamisesta](745.md) `745/2011`
+- [Laki kansainvälistä suojelua hakevan vastaanotosta](746.md) `746/2011`
+- [Laki Maahanmuuttovirastosta annetun lain 2 §:n muuttamisesta](747.md) `747/2011`
+- [Laki säilöön otettujen ulkomaalaisten kohtelusta ja säilöönottoyksiköstä annetun lain muuttamisesta](748.md) `748/2011`
+- [Laki ulkomaalaislain muuttamisesta](749.md) `749/2011`
+- [Laki henkilötietojen käsittelystä rajavartiolaitoksessa annetun lain 22 §:n muuttamisesta](750.md) `750/2011`
+- [Laki vähemmistövaltuutetusta ja syrjintälautakunnasta annetun lain 7 §:n muuttamisesta](751.md) `751/2011`
+- [Laki lastensuojelulain 25 §:n muuttamisesta](752.md) `752/2011`
+- [Opetus\- ja kulttuuriministeriön asetus opetus\- ja kulttuuriministeriön suoritteiden maksullisuudesta annetun opetus\- ja kulttuuriministeriön asetuksen liitteen muuttamisesta](753.md) `753/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](754.md) `754/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta nautojen BSE\-taudin vastustamisesta annetun maa\- ja metsätalousministeriön asetuksen 12 ja 13 §:n muuttamisesta](755.md) `755/2011`
+- [Merityösopimuslaki](756.md) `756/2011`
+- [Laki työehtosopimuksen yleissitovuuden vahvistamisesta annetun lain 1 ja 5 §:n muuttamisesta](757.md) `757/2011`
+- [Laki työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetun lain 37 §:n muuttamisesta](758.md) `758/2011`
+- [Laki merimiespalvelulain muuttamisesta](759.md) `759/2011`
+- [Laki tilaajan selvitysvelvollisuudesta ja vastuusta ulkopuolista työvoimaa käytettäessä annetun lain 2 §:n muuttamisesta](760.md) `760/2011`
+- [Laki vuorotteluvapaalain 5 §:n muuttamisesta](761.md) `761/2011`
+- [Laki merimiesten palkkaturvalain muuttamisesta](762.md) `762/2011`
+- [Laki julkisesta työvoimapalvelusta annetun lain 1 luvun 7 §:n ja 11 luvun 7 §:n muuttamisesta](763.md) `763/2011`
+- [Laki työttömyysturvalain muuttamisesta](764.md) `764/2011`
+- [Laki merimieseläkelain muuttamisesta](765.md) `765/2011`
+- [Laki sairausvakuutuslain 9 luvun 4 ja 5 §:n muuttamisesta](766.md) `766/2011`
+- [Laki asumiseen perustuvan sosiaaliturvalainsäädännön soveltamisesta annetun lain 6 §:n muuttamisesta](767.md) `767/2011`
+- [Laki merilain 15 luvun 4 §:n muuttamisesta](768.md) `768/2011`
+- [Laki eräiden alusten ja niitä palvelevien satamien turvatoimista ja turvatoimien valvonnasta annetun lain 10 §:n muuttamisesta](769.md) `769/2011`
+- [Laki meriliikenteessä käytettävien alusten kilpailukyvyn parantamisesta annetun lain 6 §:n muuttamisesta](770.md) `770/2011`
+- [Laki järjestyksenvalvojista annetun lain 1 §:n muuttamisesta](771.md) `771/2011`
+- [Laki tuloverolain 74 ja 75 §:n muuttamisesta](772.md) `772/2011`
+- [Tasavallan Presidentin avoin kirje valtioneuvoston vaihdoksesta](773.md) `773/2011`
+- [Sisäasiainministeriön asetus tiedottamisesta säteilyvaaratilanteessa](774.md) `774/2011`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskorosta](775.md) `775/2011`
+- [Työ\- ja elinkeinoministeriön asetus  maksullisista suoritteista](776.md) `776/2011`
+- [Valtioneuvoston asetus valtioneuvoston ohjesäännön 26 ja 27 §:n muuttamisesta](777.md) `777/2011`
+- [Valtioneuvoston asetus taksiliikenteen kuluttajahinnoista](778.md) `778/2011`
+- [Työ\- ja elinkeinoministeriön asetus Turvallisuus\- ja kemikaaliviraston maksullisista suoritteista annetun työ\- ja elinkeinoministeriön asetuksen muuttamisesta](779.md) `779/2011`
+- [Maa\- ja metsätalousministeriön asetus kuitupellavan ja \-hampun jalostustuesta annetun maa\- ja metsätalousministeriön asetuksen 7 ja 8 §:n muuttamisesta](780.md) `780/2011`
+- [Maa\- ja metsätalousministeriön asetus teurastuspalkkion teurastamovalvonnasta annetun maa\- ja metsätalousministeriön yleiskirjeen kumoamisesta](781.md) `781/2011`
+- [Valtioneuvoston asetus vuoden 2010 satovahinkojen viljelmäkohtaisista korvausosuuksista](782.md) `782/2011`
+- [Maa\- ja metsätalousministeriön asetus koulumaitotuesta annetun maa\- ja metsätalousministeriön asetuksen 2 §:n muuttamisesta](783.md) `783/2011`
+- [Maa\- ja metsätalousministeriön asetus hedelmä\- ja vihannesalan tuottajaorganisaatioista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](784.md) `784/2011`
+- [Valtioneuvoston asetus  ympäristöministeriöstä annetun asetuksen muuttamisesta](785.md) `785/2011`
+- [Valtioneuvoston asetus  Suomen ympäristökeskuksesta annetun asetuksen muuttamisesta](786.md) `786/2011`
+- [Valtioneuvoston asetus  asumisen rahoitus\- ja kehittämiskeskuksesta annetun asetuksen muuttamisesta](787.md) `787/2011`
+- [Ympäristöministeriön asetus  ympäristöministeriön työjärjestyksen muuttamisesta](788.md) `788/2011`
+- [Oikeusministeriön asetus käräjäoikeuksien kanslioiden ja istuntopaikkojen sijainnista annetun oikeusministeriön asetuksen 1 §:n muuttamisesta](789.md) `789/2011`
+- [Sosiaali\- ja terveysministeriön asetus Koulutusrahastosta annetussa laissa tarkoitetun ammattitutkintostipendin suuruudesta](790.md) `790/2011`
+- [Liikenne\- ja viestintäministeriön työjärjestys](791.md) `791/2011`
+- [Sisäasiainministeriön asetus pysäköintivirhemaksusta](792.md) `792/2011`
+- [Vuoden 2011 toinen lisätalousarvio](793.md) `793/2011`
+- [Valtioneuvoston asetus poronhoitovuodelta 2011/2012 maksettavasta eläinkohtaisesta tuesta](794.md) `794/2011`
+- [Valtioneuvoston kanslian asetus valtioneuvoston kanslian työjärjestyksen muuttamisesta](795.md) `795/2011`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2010 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista ja työnantajasuoritusten vähimmäismäärästä annetun valtiovarainministeriön asetuksen 2 §:n muuttamisesta](796.md) `796/2011`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2011 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista ja työnantajasuoritusten vähimmäismäärästä annetun valtiovarainministeriön asetuksen 2 §:n muuttamisesta](797.md) `797/2011`
+- [Maa\- ja metsätalousministeriön asetus aromeista ja niiden valmistusaineista annetun asetuksen kumoamisesta](798.md) `798/2011`
+- [Maa\- ja metsätalousministeriön asetus poronhoitovuodelta 2011/2012 maksettavan eläinkohtaisen tuen hakemisesta](799.md) `799/2011`
+- [Valtioneuvoston asetus maaseudun neuvontajärjestöjen valtionavustuksista annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](800.md) `800/2011`
+- [Liikenne\- ja viestintäministeriön asetus koulu\- ja päivähoitokuljetusten kuormituksesta ja turvallisuusjärjestelyistä annetun liikenne\- ja viestintäministeriön asetuksen 9 §:n kumoamisesta](801.md) `801/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden porotalouden ja luontaiselinkeinojen rahoituslain mukaisten asuntolainojen viitekorosta](802.md) `802/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden maatilalain mukaisten myyntihintasaamisten ja lainojen viitekorosta](803.md) `803/2011`
+- [Valtioneuvoston asetus alkolukolla valvotusta ajo\-oikeudesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](804.md) `804/2011`
+- [Esitutkintalaki](805.md) `805/2011`
+- [Pakkokeinolaki](806.md) `806/2011`
+- [Laki poliisin säilyttämien henkilöiden kohtelusta annetun lain muuttamisesta](807.md) `807/2011`
+- [Laki tutkintavankeuslain muuttamisesta](808.md) `808/2011`
+- [Laki vankeuslain muuttamisesta](809.md) `809/2011`
+- [Laki yhteisistä tutkintaryhmistä annetun lain 4 §:n muuttamisesta](810.md) `810/2011`
+- [Laki eduskunnan oikeusasiamiehestä annetun lain 8 §:n muuttamisesta](811.md) `811/2011`
+- [Laki valtioneuvoston oikeuskanslerista annetun lain muuttamisesta](812.md) `812/2011`
+- [Laki valtioneuvoston oikeuskanslerin ja eduskunnan oikeusasiamiehen tehtävien jaosta annetun lain 1 §:n muuttamisesta](813.md) `813/2011`
+- [Laki valtakunnanoikeudesta ja ministerivastuuasioiden käsittelystä annetun lain 13 §:n muuttamisesta](814.md) `814/2011`
+- [Laki rikoslain 15 ja 16 luvun muuttamisesta](815.md) `815/2011`
+- [Laki sakon täytäntöönpanosta annetun lain muuttamisesta](816.md) `816/2011`
+- [Laki oikeudenkäymiskaaren 17 luvun 18 ja 45 §:n muuttamisesta](817.md) `817/2011`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain 1 luvun 14 §:n muuttamisesta](818.md) `818/2011`
+- [Laki sakon ja rikesakon määräämisestä annetun lain 7 §:n muuttamisesta](819.md) `819/2011`
+- [Laki rangaistusmääräysmenettelystä annetun lain 5 §:n muuttamisesta](820.md) `820/2011`
+- [Laki oikeudenkäynnin julkisuudesta yleisissä tuomioistuimissa annetun lain muuttamisesta](821.md) `821/2011`
+- [Laki valtion varoista maksettavista todistelukustannuksista annetun lain 18 §:n muuttamisesta](822.md) `822/2011`
+- [Laki kansainvälisestä oikeusavusta rikosasioissa annetun lain 15 ja 23 §:n muuttamisesta](823.md) `823/2011`
+- [Laki Suomen ja muiden pohjoismaiden välisestä yhteistoiminnasta rikosasioissa annettujen tuomioiden täytäntöönpanossa annetun lain 5 b §:n muuttamisesta](824.md) `824/2011`
+- [Laki kansainvälisestä yhteistoiminnasta eräiden rikosoikeudellisten seuraamusten täytäntöönpanossa annetun lain 5 b ja 13 §:n muuttamisesta](825.md) `825/2011`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta annetun lain 30 ja 31 a §:n muuttamisesta](826.md) `826/2011`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden Euroopan unionin jäsenvaltioiden välillä annetun lain 16 ja 60 §:n muuttamisesta](827.md) `827/2011`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden Pohjoismaiden välillä annetun lain 13 ja 57 §:n muuttamisesta](828.md) `828/2011`
+- [Laki vapautensa menettäneen henkilön väliaikaisesta siirtämisestä todistelutarkoituksessa rikosasioissa annetun lain 10 §:n muuttamisesta](829.md) `829/2011`
+- [Laki omaisuuden tai todistusaineiston jäädyttämistä koskevien päätösten täytäntöönpanosta Euroopan unionissa annetun lain muuttamisesta](830.md) `830/2011`
+- [Laki eurooppalaisesta todisteiden luovuttamismääräyksestä esineiden, asiakirjojen ja tietojen hankkimiseksi rikosasian käsittelyä varten tehdyn puitepäätöksen lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja puitepäätöksen soveltamisesta annetun lain muuttamisesta](831.md) `831/2011`
+- [Laki kuolemansyyn selvittämisestä annetun lain 7 §:stä muuttamisesta](832.md) `832/2011`
+- [Laki Finanssivalvonnasta annetun lain 36 §:n muuttamisesta](833.md) `833/2011`
+- [Laki kielilain 14 §:n muuttamisesta](834.md) `834/2011`
+- [Laki Metsähallituksen erävalvonnasta annetun lain 9 ja 13 §:n muuttamisesta](835.md) `835/2011`
+- [Laki huumausainelain 43 §:n muuttamisesta](836.md) `836/2011`
+- [Laki asevelvollisuuslain 65 §:n muuttamisesta](837.md) `837/2011`
+- [Laki Euroopan yhteisön rajan yli kuljetettavan käteisrahan valvonnasta annetun lain 5 §:n muuttamisesta](838.md) `838/2011`
+- [Laki sotilaskurinpitolain muuttamisesta](839.md) `839/2011`
+- [Laki puolustusvoimista annetun lain 19 §:n muuttamisesta](840.md) `840/2011`
+- [Laki sotilaallisesta kriisinhallinnasta annetun lain 28 §:n muuttamisesta](841.md) `841/2011`
+- [Laki aluevalvontalain 27 §:n muuttamisesta](842.md) `842/2011`
+- [Laki eläinsuojelulain 47 §:n muuttamisesta](843.md) `843/2011`
+- [Laki eläinten kuljetuksesta annetun lain 33 §:n muuttamisesta](844.md) `844/2011`
+- [Laki kasvinsuojeluaineista annetun lain 36 §:n muuttamisesta](845.md) `845/2011`
+- [Laki lannoitevalmistelain 27 §:n muuttamisesta](846.md) `846/2011`
+- [Laki kasvinterveyden suojelemisesta annetun lain 24 §:n muuttamisesta](847.md) `847/2011`
+- [Laki hukkakauran torjunnasta annetun lain 16 §:n muuttamisesta](848.md) `848/2011`
+- [Laki siemenkauppalain 26 §:n muuttamisesta](849.md) `849/2011`
+- [Laki taimiaineistolain 9 §:n muuttamisesta](850.md) `850/2011`
+- [Laki hevostalouslain 14 §:n muuttamisesta](851.md) `851/2011`
+- [Laki kotieläinjalostuslain 14 §:n muuttamisesta](852.md) `852/2011`
+- [Laki passilain muuttamisesta](853.md) `853/2011`
+- [Laki Suomen talousvyöhykkeestä annetun lain 21 §:n muuttamisesta](854.md) `854/2011`
+- [Laki sähköisen viestinnän tietosuojalain muuttamisesta](855.md) `855/2011`
+- [Laki sananvapauden käyttämisestä joukkoviestinnässä annetun lain 17 §:n muuttamisesta](856.md) `856/2011`
+- [Laki viestintämarkkinalain 95 §:n muuttamisesta](857.md) `857/2011`
+- [Laki radiotaajuuksista ja telelaitteista annetun lain 35 §:n muuttamisesta](858.md) `858/2011`
+- [Laki yksinoikeudesta integroidun piirin piirimalliin annetun lain 39 §:n muuttamisesta](859.md) `859/2011`
+- [Laki löytötavaralain 16 §:n muuttamisesta](860.md) `860/2011`
+- [Laki ydinenergialain muuttamisesta](861.md) `861/2011`
+- [Laki mallioikeuslain 37 §:n muuttamisesta](862.md) `862/2011`
+- [Laki patenttilain 59 §:n muuttamisesta](863.md) `863/2011`
+- [Laki tieliikennelain 92 m §:n muuttamisesta](864.md) `864/2011`
+- [Laki yksityisistä turvallisuuspalveluista annetun lain 50 ja 50 a §:n muuttamisesta](865.md) `865/2011`
+- [Laki liikennevalvontaa vaikeuttavien laitteiden kieltämisestä annetun lain 7 ja 8 §:n muuttamisesta](866.md) `866/2011`
+- [Laki konkurssilain 7 luvun 3 §:n ja 14 luvun 5 §:n muuttamisesta](867.md) `867/2011`
+- [Laki autoverolain 86 §:n muuttamisesta](868.md) `868/2011`
+- [Laki valmisteverotuslain 111 §:n muuttamisesta](869.md) `869/2011`
+- [Laki alkoholilain 60 ja 60 b §:n muuttamisesta](870.md) `870/2011`
+- [Laki pakkokeinolain 5 luvun muuttamisesta](871.md) `871/2011`
+- [Poliisilaki](872.md) `872/2011`
+- [Laki poliisin hallinnosta annetun lain muuttamisesta](873.md) `873/2011`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain muuttamisesta](874.md) `874/2011`
+- [Laki rajavartiolain muuttamisesta](875.md) `875/2011`
+- [Laki henkilötietojen käsittelystä rajavartiolaitoksessa annetun lain muuttamisesta](876.md) `876/2011`
+- [Laki rajavartiolaitoksen hallinnosta annetun lain muuttamisesta](877.md) `877/2011`
+- [Laki poliisin tehtävien suorittamisesta puolustusvoimissa annetun lain muuttamisesta](878.md) `878/2011`
+- [Laki tullilain muuttamisesta](879.md) `879/2011`
+- [Laki eläinlääkintähuoltolain 34 ja 36 §:n muuttamisesta](880.md) `880/2011`
+- [Laki poliisin, tullin ja rajavartiolaitoksen yhteistoiminnasta annetun lain 4 ja 5 §:n muuttamisesta](881.md) `881/2011`
+- [Laki vapaaehtoisesta maanpuolustuksesta annetun lain 24 §:n muuttamisesta](882.md) `882/2011`
+- [Laki vesikulkuneuvorekisteristä annetun lain 20 §:n muuttamisesta](883.md) `883/2011`
+- [Laki poliisikoulutuksesta annetun lain 16 §:n muuttamisesta](884.md) `884/2011`
+- [Laki eräiden alusten ja niitä palvelevien satamien turvatoimista ja turvatoimien valvonnasta annetun lain 9 ja 17 §:n muuttamisesta](885.md) `885/2011`
+- [Laki ulkomaalaislain muuttamisesta](886.md) `886/2011`
+- [Laki säilöön otettujen ulkomaalaisten kohtelusta ja säilöönottoyksiköstä annetun lain 23 §:n muuttamisesta](887.md) `887/2011`
+- [Laki rautatiekuljetuslain 29 §:n muuttamisesta](888.md) `888/2011`
+- [Laki turvatarkastuksista tuomioistuimissa annetun lain 1 §:n muuttamisesta](889.md) `889/2011`
+- [Laki järjestyksenvalvojista annetun lain muuttamisesta](890.md) `890/2011`
+- [Laki holhoustoimesta annetun lain 37 §:n muuttamisesta](891.md) `891/2011`
+- [Laki lähestymiskiellosta annetun lain 5 §:n muuttamisesta](892.md) `892/2011`
+- [Laki ampuma\-aselain muuttamisesta](893.md) `893/2011`
+- [Laki valtion virkamieslain 7 §:n muuttamisesta](894.md) `894/2011`
+- [Laki liiketoimintakiellosta annetun lain 21 a §:n muuttamisesta](895.md) `895/2011`
+- [Laki puolustusvoimien virka\-avusta poliisille annetun lain 9 a §:n muuttamisesta](896.md) `896/2011`
+- [Laki päihtyneiden käsittelystä annetun lain 1 §:n muuttamisesta](897.md) `897/2011`
+- [Laki syyttäjälaitoksesta annetun lain muuttamisesta](898.md) `898/2011`
+- [Laki maksulaitoslain muuttamisesta](899.md) `899/2011`
+- [Laki ulkomaisen maksulaitoksen toiminnasta Suomessa annetun lain 12 §:n muuttamisesta](900.md) `900/2011`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](901.md) `901/2011`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](902.md) `902/2011`
+- [Laki Finanssivalvonnan valvontamaksusta annetun lain muuttamisesta](903.md) `903/2011`
+- [Laki sijoituspalveluyrityksistä annetun lain 6 §:n muuttamisesta](904.md) `904/2011`
+- [Laki tietoyhteiskunnan palvelujen tarjoamisesta annetun lain 4 §:n muuttamisesta](905.md) `905/2011`
+- [Laki maksupalvelulain 8 ja 78 §:n muuttamisesta](906.md) `906/2011`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä ja selvittämisestä annetun lain 2 ja 16 §:n muuttamisesta](907.md) `907/2011`
+- [Laki Helsingin eurooppalaisesta koulusta annetun lain muuttamisesta](908.md) `908/2011`
+- [Laki alkolukon hyväksymisestä liikenteeseen annetun lain 5 §:n muuttamisesta](909.md) `909/2011`
+- [Laki aluksen teknisestä turvallisuudesta ja turvallisesta käytöstä annetun lain muuttamisesta](910.md) `910/2011`
+- [Laki sairausvakuutuslain 13 luvun 11 §:n väliaikaisesta muuttamisesta](911.md) `911/2011`
+- [Valtioneuvoston asetus sairaankuljetuksen kustannusten korvaustaksasta](912.md) `912/2011`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon neuvottelukunnasta ja alueellisista johtoryhmistä](913.md) `913/2011`
+- [Laki kiinteistönmuodostamislain muuttamisesta](914.md) `914/2011`
+- [Laki yhteisaluelain muuttamisesta](915.md) `915/2011`
+- [Laki yksityisistä teistä annetun lain muuttamisesta](916.md) `916/2011`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain muuttamisesta](917.md) `917/2011`
+- [Laki maakaaren muuttamisesta](918.md) `918/2011`
+- [Laki ulkoilulain 6 ja 15 §:n muuttamisesta](919.md) `919/2011`
+- [Kuluttajaturvallisuuslaki](920.md) `920/2011`
+- [Laki rikoslain 44 luvun 1 §:n muuttamisesta](921.md) `921/2011`
+- [Laki yksityisistä sosiaalipalveluista](922.md) `922/2011`
+- [Laki sosiaalihuoltolain muuttamisesta](923.md) `923/2011`
+- [Laki kehitysvammaisten erityishuollosta annetun lain muuttamisesta](924.md) `924/2011`
+- [Laki lastensuojelulain 80 §:n muuttamisesta](925.md) `925/2011`
+- [Laki sosiaali\- ja terveydenhuollon palvelusetelistä annetun lain 5 §:n muuttamisesta](926.md) `926/2011`
+- [Laki Sosiaali\- ja terveysalan lupa\- ja valvontavirastosta annetun lain 2 §:n muuttamisesta](927.md) `927/2011`
+- [Laki sosiaali\- ja terveydenhuollon asiakastietojen sähköisestä käsittelystä annetun lain 3 §:n muuttamisesta](928.md) `928/2011`
+- [Laki majoitus\- ja ravitsemistoiminnasta annetun lain 2 §:n muuttamisesta](929.md) `929/2011`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 18 §:n muuttamisesta](930.md) `930/2011`
+- [Laki sosiaalihuollon ammatillisen henkilöstön kelpoisuusvaatimuksista annetun lain 2 §:n muuttamisesta](931.md) `931/2011`
+- [Laki lasten kanssa työskentelevien rikostaustan selvittämisestä annetun lain 2 ja 4 §:n muuttamisesta](932.md) `932/2011`
+- [Laki yksityisestä terveydenhuollosta annetun lain 14 a §:n muuttamisesta](933.md) `933/2011`
+- [Maa\- ja metsätalousministeriön asetus pyyntiluvalla ja poikkeusluvalla sallittavasta hallin metsästyksestä metsästysvuonna 2011—2012](934.md) `934/2011`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvalla sallittavasta ilveksen metsästyksestä metsästysvuonna 2011—2012](935.md) `935/2011`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvalla sallittavasta itämerennorpan metsästyksestä metsästysvuonna 2011—2012](936.md) `936/2011`
+- [Maa\- ja metsätalousministeriön asetus pyyntiluvalla sallittavasta euroopanmajavan metsästyksestä metsästysvuonna 2011—2012](937.md) `937/2011`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvalla sallittavasta saukon metsästyksestä metsästysvuonna 2011—2012](938.md) `938/2011`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvalla sallittavasta suden metsästyksestä metsästysvuonna 2011—2012](939.md) `939/2011`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvan ja alueellisen kiintiön nojalla sallittavasta karhun metsästyksestä metsästysvuonna 2011—2012](940.md) `940/2011`
+- [Maa\- ja metsätalousministeriön asetus metsähanhen metsästyksen kieltämisestä metsästysvuonna 2011—2012](941.md) `941/2011`
+- [Opetus\- ja kulttuuriministeriön asetus Opetushallituksen suoritteiden maksullisuudesta annetun opetus\- ja kulttuuriministeriön asetuksen 1 §:n muuttamisesta](942.md) `942/2011`
+- [Valtioneuvoston asetus sosiaali\- ja terveysministeriöstä annetun valtioneuvoston asetuksen 7 §:n muuttamisesta](943.md) `943/2011`
+- [Ympäristöministeriön asetus  ympäristöministeriön työjärjestyksen muuttamisesta](944.md) `944/2011`
+- [Maa\- ja metsätalousministeriön asetus metsätalouden ympäristötuen laskennassa käytettävästä puukuutiometrin keskikantohinnasta](945.md) `945/2011`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvan ja alueellisen kiintiön nojalla sallittavasta karhun metsästyksestä metsästysvuonna 2011—2012 annetun maa\- ja metsätalousministeriön asetuksen 2 §:n muuttamisesta](946.md) `946/2011`
+- [Valtioneuvoston asetus luonnonvarainneuvostosta annetun asetuksen kumoamisesta](947.md) `947/2011`
+- [Kilpailulaki](948.md) `948/2011`
+- [Laki työehtosopimuksen yleissitovuuden vahvistamisesta annetun lain 1 ja 14 §:n muuttamisesta](949.md) `949/2011`
+- [Laki kielilain 30 §:n muuttamisesta](950.md) `950/2011`
+- [Laki ammatillisesta koulutuksesta annetun lain muuttamisesta](951.md) `951/2011`
+- [Laki ammatillisesta aikuiskoulutuksesta annetun lain muuttamisesta](952.md) `952/2011`
+- [Laki ammattikorkeakoululain muuttamisesta](953.md) `953/2011`
+- [Laki yliopistolain muuttamisesta](954.md) `954/2011`
+- [Laki rikosrekisterilain 6 §:n muuttamisesta](955.md) `955/2011`
+- [Laki opiskelijoiden oikeusturvalautakunnasta](956.md) `956/2011`
+- [Tasavallan presidentin asetus kansainvälisiä rautatiekuljetuksia koskevan yleissopimuksen \(COTIF\) muutosten voimaansaattamisesta sekä yleissopimuksen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta annetun tasavallan presidentin asetuksen 2 §:n kumoamisesta](957.md) `957/2011`
+- [Valtiovarainministeriön asetus maakuntien juhlarahoista annetun asetuksen muuttamisesta](958.md) `958/2011`
+- [Valtiovarainministeriön asetus Juhani Aho ja suomalainen kirjallisuus \-juhlarahasta](959.md) `959/2011`
+- [Valtioneuvoston asetus liikunta\-asetuksen 5 §:n muuttamisesta](960.md) `960/2011`
+- [Valtioneuvoston asetus Opetushallituksesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](961.md) `961/2011`
+- [Valtioneuvoston asetus lääketieteellisin perustein vaikeiksi ja pitkäaikaisiksi arvioitavista sairauksista, joiden lääkehoidon kustannuksista sairausvakuutuslain 5 luvun 5 §:n 2 momentin perusteella korvataan 72 tai 100 prosenttia annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](962.md) `962/2011`
+- [Valtioneuvoston asetus aluehallintovirastoista annetun valtioneuvoston asetuksen 13 §:n muuttamisesta](963.md) `963/2011`
+- [Maa\- ja metsätalousministeriön asetus metson ja riekon metsästyksen kieltämisestä metsästysvuonna 2011—2012](964.md) `964/2011`
+- [Sosiaali\- ja terveysministeriön asetus kemikaaleja koskevien tietojen toimittamisesta annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](965.md) `965/2011`
+- [Ulkoasiainministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoasiainministeriön asetuksen muuttamisesta](966.md) `966/2011`
+- [Maa\- ja metsätalousministeriön asetus metson ja riekon metsästyksen kieltämisestä metsästysvuonna 2011—2012 annetun maa\- ja metsätalousministeriön asetuksen 1 §:n muuttamisesta](967.md) `967/2011`
+- [Verohallinnon päätös vuoden 2011 kiinteistöverotuksen päättymisestä](968.md) `968/2011`
+- [Maa\- ja metsätalousministeriön asetus Elintarviketurvallisuusviraston maksullisista suoritteista annetun maa\- ja metsätalousministeriön asetuksen 3 §:n ja liitteen muuttamisesta](969.md) `969/2011`
+- [Valtioneuvoston asetus valtioneuvoston ohjesäännön 3 §:n muuttamisesta](970.md) `970/2011`
+- [Valtioneuvoston asetus eläinlääkintähuollosta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](971.md) `971/2011`
+- [Valtioneuvoston asetus maidon kuljetusavustuksesta vuonna 2011](972.md) `972/2011`
+- [Valtioneuvoston asetus vuodelta 2011 maksettavasta lihan kuljetusavustuksesta](973.md) `973/2011`
+- [Valtioneuvoston asetus Ahvenanmaan maakunnan maakunnanvoudinviraston hallinnosta](974.md) `974/2011`
+- [Valtioneuvoston asetus valtion vastaanotto\- ja järjestelykeskusten virkojen täytöstä ja työjärjestyksestä sekä vastaanottopalveluista perittävästä maksusta](975.md) `975/2011`
+- [Valtioneuvoston asetus Mediakasvatus\- ja kuvaohjelmakeskuksesta](976.md) `976/2011`
+- [Valtioneuvoston asetus maa\- ja metsätalousministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](977.md) `977/2011`
+- [Valtioneuvoston asetus työ\- ja elinkeinoministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](978.md) `978/2011`
+- [Työ\- ja elinkeinoministeriön työjärjestys](979.md) `979/2011`
+- [Valtioneuvoston asetus merenhoidon järjestämisestä](980.md) `980/2011`
+- [Laki osakeyhtiölain muuttamisesta](981.md) `981/2011`
+- [Laki vakuutusyhtiölain muuttamisesta](982.md) `982/2011`
+- [Tasavallan presidentin asetus Euroopan neuvoston tietoverkkorikollisuutta koskevan yleissopimuksen lisäpöytäkirjan, joka koskee tietojärjestelmien välityksellä tehtyjen luonteeltaan rasististen ja muukalaisvihamielisten tekojen kriminalisointia, voimaansaattamisesta ja lisäpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](983.md) `983/2011`
+- [Sisäasiainministeriön asetus ihmiskaupan uhrien auttamisessa toimivaltaisesta vastaanottokeskuksesta](984.md) `984/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta lihantarkastuksesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](985.md) `985/2011`
+- [Laki porotalouden ja luontaiselinkeinojen rakennetuista](986.md) `986/2011`
+- [Laki porotaloutta kohdanneiden vahinkojen korvaamisesta](987.md) `987/2011`
+- [Laki poronhoitolain 33 ja 34 §:n muuttamisesta](988.md) `988/2011`
+- [Laki aravalain 1 §:n muuttamisesta](989.md) `989/2011`
+- [Laki omistusasuntolainojen korkotuesta annetun lain 1 §:n muuttamisesta](990.md) `990/2011`
+- [Laki maa\- ja puutarhatalouden kansallisista tuista annetun lain 1 §:n muuttamisesta](991.md) `991/2011`
+- [Laki kolttalain 8 §:n muuttamisesta](992.md) `992/2011`
+- [Laki maatilatalouden kehittämisrahastosta annetun lain 3 §:n muuttamisesta](993.md) `993/2011`
+- [Laki pakkohuutokaupalla myytävien kiinteistöjen lunastamisesta valtiolle annetun lain 7 §:n muuttamisesta](994.md) `994/2011`
+- [Laki maatalouden rakennetuista annetun lain 2 §:n muuttamisesta](995.md) `995/2011`
+- [Laki maaseutuelinkeinojen rahoituslain 2 §:n muuttamisesta](996.md) `996/2011`
+- [Laki valtakunnallisen maaseudun kehittämisen ja tutkimuksen sekä maa\- ja elintarviketalouden tutkimuksen rahoituksesta annetun lain 1 §:n muuttamisesta](997.md) `997/2011`
+- [Laki Metsähallituksesta annetun lain 6 §:n muuttamisesta](998.md) `998/2011`
+- [Laki maatalouden harjoittamisesta luopumisen tukemisesta annetun lain 3 ja 17 §:n muuttamisesta](999.md) `999/2011`
+- [Laki varainsiirtoverolain 14 §:n muuttamisesta](1000.md) `1000/2011`
+- [Laki poikkeuksellisten tulvien aiheuttamien vahinkojen korvaamisesta annetun lain kumoamisesta](1001.md) `1001/2011`
+- [Laki satovahinkojen korvaamisesta annetun lain muuttamisesta](1002.md) `1002/2011`
+- [Laki yksityisistä teistä annetun lain muuttamisesta](1003.md) `1003/2011`
+- [Laki vaarallisten aineiden kuljetuksesta annetun lain muuttamisesta](1004.md) `1004/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta siemenperunan kaupasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1005.md) `1005/2011`
+- [Sisäasiainministeriön asetus ilman huoltajaa olevan lapsen edustajalle maksettavasta palkkiosta ja kulukorvauksesta](1006.md) `1006/2011`
+- [Valtioneuvoston asetus aluehallintoviraston maksuista annetun valtioneuvoston asetuksen liitteen 1\.1 kohdan muuttamisesta](1007.md) `1007/2011`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetukseen tarkoitettujen pakkausten, säiliöiden ja irtotavarakonttien vaatimustenmukaisuuden osoittamisesta](1008.md) `1008/2011`
+- [Valtioneuvoston asetus Opetushallituksesta annetun valtioneuvoston asetuksen 10 §:n muuttamisesta](1009.md) `1009/2011`
+- [Valtioneuvoston asetus valtion ja Fintoto Oy:n osuudesta totopelien tuotoista](1010.md) `1010/2011`
+- [Valtioneuvoston asetus yrityskaupan osapuolen liikevaihdon laskemisesta](1011.md) `1011/2011`
+- [Valtioneuvoston asetus yrityskauppojen ilmoitusvelvollisuudesta](1012.md) `1012/2011`
+- [Valtioneuvoston asetus sairausvakuutuslaissa tarkoitettujen työterveyshuollon korvausten laskennallisten enimmäismäärien määrittelemisestä annetun valtioneuvoston asetuksen 1 luvun 4 §:n muuttamisesta ja 2 luvun 4 §:n väliaikaisesta muuttamisesta](1013.md) `1013/2011`
+- [Maa\- ja metsätalousministeriön asetus puutarhatuotteiden varastointituesta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](1014.md) `1014/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta lannoitevalmisteista](1015.md) `1015/2011`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä toimintapääomasta](1016.md) `1016/2011`
+- [Liikenne\- ja viestintäministeriön asetus kuljetettavista painelaitteista ja vaarallisten aineiden kuljetukseen käytettävistä paineella tyhjennettävistä ja täytettävistä säiliöistä](1017.md) `1017/2011`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten aineiden kuljetuksesta tiellä annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](1018.md) `1018/2011`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten aineiden kuljetuksesta rautatiellä annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](1019.md) `1019/2011`
+- [Maa\- ja metsätalousministeriön asetus valmistuksen apuaineista elintarvikkeissa](1020.md) `1020/2011`
+- [Valtioneuvoston asetus valtiovarainministeriöstä annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](1021.md) `1021/2011`
+- [Valtioneuvoston asetus maanmittauslaitoksesta annetun asetuksen muuttamisesta](1022.md) `1022/2011`
+- [Valtioneuvoston asetus merimiesasiain neuvottelukunnasta](1023.md) `1023/2011`
+- [Puolustusministeriön asetus puolustusministeriön työjärjestyksen muuttamisesta](1024.md) `1024/2011`
+- [Laki merimiesten vuosilomalain muuttamisesta](1025.md) `1025/2011`
+- [Laki merityöaikalain muuttamisesta](1026.md) `1026/2011`
+- [Laki työajasta kotimaanliikenteen aluksissa annetun lain muuttamisesta](1027.md) `1027/2011`
+- [Valtioneuvoston asetus tutkimus\- ja innovaationeuvostosta annetun valtioneuvoston asetuksen 3 §:nmuuttamisesta](1028.md) `1028/2011`
+- [Valtioneuvoston asetus poliisin hallinnosta annetun asetuksen 16 §:n muuttamisesta](1029.md) `1029/2011`
+- [Valtioneuvoston asetus kuvaohjelmalautakunnasta](1030.md) `1030/2011`
+- [Opetus\- ja kulttuuriministeriön asetus Mediakasvatus\- ja kuvaohjelmakeskuksen ja kuvaohjelmalautakunnan suoritteiden maksullisuudesta](1031.md) `1031/2011`
+- [Valtioneuvoston asetus ammatillisesta koulutuksesta annetun asetuksen 16 §:n muuttamisesta](1032.md) `1032/2011`
+- [Valtioneuvoston asetus ammatillisesta aikuiskoulutuksesta annetun asetuksen muuttamisesta](1033.md) `1033/2011`
+- [Valtioneuvoston asetus yliopistoista annetun valtioneuvoston asetuksen muuttamisesta](1034.md) `1034/2011`
+- [Valtioneuvoston asetus ammattikorkeakouluista annetun valtioneuvoston asetuksen muuttamisesta](1035.md) `1035/2011`
+- [Sisäasiainministeriön työjärjestys](1036.md) `1036/2011`
+- [Tasavallan presidentin asetus lasten suojelemisesta seksuaalista riistoa ja seksuaalista hyväksikäyttöä vastaan tehdyn Euroopan neuvoston yleissopimuksen voimaansaattamisesta sekä yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1037.md) `1037/2011`
+- [Tasavallan presidentin asetus lahjontaa koskevan Euroopan neuvoston rikosoikeudellisen yleissopimuksen lisäpöytäkirjan voimaansaattamisesta sekä lisäpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1038.md) `1038/2011`
+- [Tasavallan presidentin asetus lahjontaa koskevan Euroopan neuvoston rikosoikeudellisen yleissopimuksen voimaansaattamisesta sekä yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta annetun tasavallan presidentin asetuksen 2 §:n muuttamisesta](1039.md) `1039/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvilajikkeiden lajikeluettelosta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1040.md) `1040/2011`
+- [Puolustusministeriön asetus asevelvollisuuslaissa ja terveydenhuollon järjestämisestä puolustusvoimissa annetussa laissa tarkoitetuista etuuksista annetun puolustusministeriön asetuksen 4 §:n muuttamisesta](1041.md) `1041/2011`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötoimitusmaksusta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1042.md) `1042/2011`
+- [Valtioneuvoston asetus tuomioistuinharjoittelusta](1043.md) `1043/2011`
+- [Valtioneuvoston asetus käräjäoikeusasetuksen eräiden säännösten kumoamisesta](1044.md) `1044/2011`
+- [Valtioneuvoston asetus ulosottomenettelystä annetun valtioneuvoston asetuksen 14 §:n muuttamisesta](1045.md) `1045/2011`
+- [Valtioneuvoston asetus Verohallinnon yksiköistä annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](1046.md) `1046/2011`
+- [Valtioneuvoston asetus vuodelta 2011 maksettavasta luonnonhaittakorvauksen kansallisesta lisäosasta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](1047.md) `1047/2011`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1048.md) `1048/2011`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1049.md) `1049/2011`
+- [Valtioneuvoston asetus alusten lastauksen ja purkamisen työturvallisuudesta annetun valtioneuvoston asetuksen muuttamisesta](1050.md) `1050/2011`
+- [Valtioneuvoston asetus työvälineiden turvallisesta käytöstä ja tarkastamisesta annetun valtioneuvoston asetuksen 39 §:n muuttamisesta](1051.md) `1051/2011`
+- [Sosiaali\- ja terveysministeriön asetus Sosiaali\- ja terveysalan lupa\- ja valvontaviraston maksullisista suoritteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1052.md) `1052/2011`
+- [Sosiaali\- ja terveysministeriön asetus yksityisistä sosiaalipalveluista](1053.md) `1053/2011`
+- [Valtioneuvoston asetus alueiden kehittämisestä annetussa laissa tarkoitetuista tukialueista](1054.md) `1054/2011`
+- [Valtioneuvoston asetus yhdistysrekisteriasetuksen muuttamisesta](1055.md) `1055/2011`
+- [Tasavallan presidentin asetus virkavalasta ja virkavakuutuksesta sekä tuomarinvalasta ja tuomarinvakuutuksesta annetun asetuksen muuttamisesta](1056.md) `1056/2011`
+- [Valtioneuvoston asetus timotein siementuotannon tuen perusteella muodostettavasta tilakohtaisesta lisäosasta ja erityistukioikeudesta](1057.md) `1057/2011`
+- [Tasavallan presidentin asetus Pohjoismaiden ympäristörahoitusyhtiön kanssa Itämeren alueen koealuerahastosta tehdyn sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](1058.md) `1058/2011`
+- [Laki Belgian kuningaskunnan, Saksan liittotasavallan, Viron tasavallan, Irlannin, Helleenien tasavallan, Espanjan kuningaskunnan, Ranskan tasavallan, Italian tasavallan, Kyproksen tasavallan, Luxemburgin suurherttuakunnan, Maltan tasavallan, Alankomaiden kuningaskunnan, Itävallan tasavallan, Portugalin tasavallan, Slovenian tasavallan, Slovakian tasavallan, Suomen tasavallan ja Euroopan rahoitusvakausvälineen välisen ERVV\-puitesopimuksen muuttamista koskevan sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1059.md) `1059/2011`
+- [Laki Euroopan rahoitusvakausvälineelle annettavista valtiontakauksista annetun lain 2 §:n muuttamisesta](1060.md) `1060/2011`
+- [Laki Euroopan yhteisöjen ja niiden jäsenvaltioiden sekä Serbian tasavallan välisen vakautus\- ja assosiaatiosopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1061.md) `1061/2011`
+- [Laki Itävallan kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen muuttamisesta tehdyn pöytäkirjan ja lisäpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1062.md) `1062/2011`
+- [Valtiovarainministeriön asetus Itämeren suojelu \-juhlarahasta](1063.md) `1063/2011`
+- [Liikenne\- ja viestintäministeriön asetus autojen ja perävaunujen rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](1064.md) `1064/2011`
+- [Valtioneuvoston asetus opetus\- ja kulttuuriministeriöstä annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](1065.md) `1065/2011`
+- [Valtioneuvoston asetus tullilaitoksesta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](1066.md) `1066/2011`
+- [Valtioneuvoston asetus valtion rahoituksen perusteena käytettävistä lukiokoulutuksen, ammatillisen koulutuksen, ammattikorkeakoulujen, taiteen perusopetuksen ja kansalaisopistojen keskimääräisistä yksikköhinnoista vuonna 2012](1067.md) `1067/2011`
+- [Valtioneuvoston asetus vuokra\-asuntolainojen ja asumisoikeustalolainojen korkotuesta annetun valtioneuvoston asetuksen väliaikaisesta muuttamisesta](1068.md) `1068/2011`
+- [Liikenne\- ja viestintäministeriön asetus radiotaajuuksien käyttösuunnitelmasta annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](1069.md) `1069/2011`
+- [Opetus\- ja kulttuuriministeriön asetus Helsingin eurooppalaisen koulun oppilailta perittävistä maksuista annetun opetusministeriön asetuksen muuttamisesta](1070.md) `1070/2011`
+- [Verohallinnon päätös muiden verovelvollisten kuin yhteisöjen ja yhteisetuuksien verovuoden 2010 verotuksen päättymisestä](1071.md) `1071/2011`
+- [Valtioneuvoston asetus vuonna 2012 toimitettavassa presidentinvaalissa ennakkoäänestyspaikkoina olevista Suomen edustustoista ja niiden toimipaikoista](1072.md) `1072/2011`
+- [Valtioneuvoston asetus vapaasta sivistystyöstä annetun asetuksen muuttamisesta](1073.md) `1073/2011`
+- [Valtioneuvoston asetus opetus\- ja kulttuuritoimen rahoituksesta annetun valtioneuvoston asetuksen 11 §:n muuttamisesta](1074.md) `1074/2011`
+- [Tasavallan presidentin asetus Itävallan kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen muuttamisesta tehdyn pöytäkirjan ja lisäpöytäkirjan voimaansaattamisesta ja pöytäkirjan ja lisäpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1075.md) `1075/2011`
+- [Tasavallan presidentin asetus Saint Kittsin ja Nevisin kanssa veroasioita koskevista tiedoista tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1076.md) `1076/2011`
+- [Valtioneuvoston asetus maakotkien porotaloudelle aiheuttamien vahinkojen korvaamisesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](1077.md) `1077/2011`
+- [Valtioneuvoston asetus Belgian kuningaskunnan, Saksan liittotasavallan, Viron tasavallan, Irlannin, Helleenien tasavallan, Espanjan kuningaskunnan, Ranskan tasavallan, Italian tasavallan, Kyproksen tasavallan, Luxemburgin suurherttuakunnan, Maltan tasavallan, Alankomaiden kuningaskunnan, Itävallan tasavallan, Portugalin tasavallan, Slovenian tasavallan, Slovakian tasavallan, Suomen tasavallan ja Euroopan rahoitusvakausvälineen välisen ERVV\-puitesopimuksen muuttamista koskevan sopimuksen ja sen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1078.md) `1078/2011`
+- [Valtioneuvoston asetus Euroopan rahoitusvakausvälineelle annettavista valtiontakauksista annetun lain 2 §:n muuttamisesta annetun lain voimaantulosta](1079.md) `1079/2011`
+- [Valtioneuvoston asetus valvontarangaistuksesta](1080.md) `1080/2011`
+- [Valtioneuvoston asetus  rikosrekisteriasetuksen 2 ja 9 §:n muuttamisesta](1081.md) `1081/2011`
+- [Valtioneuvoston asetus valtiokonttorista annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](1082.md) `1082/2011`
+- [Valtioneuvoston asetus Valtion taloudellisesta tutkimuskeskuksesta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1083.md) `1083/2011`
+- [Valtioneuvoston asetus turkiseläinten suojelusta](1084.md) `1084/2011`
+- [Valtioneuvoston asetus bensiinihöyryjen talteenotosta jakeluasemilla](1085.md) `1085/2011`
+- [Valtioneuvoston asetus nestemäisten polttoaineiden jakeluasemien ympäristönsuojeluvaatimuksista annetun valtioneuvoston asetuksen 9 §:n muuttamisesta](1086.md) `1086/2011`
+- [Työ\- ja elinkeinoministeriön asetus kotitalouksien sähkökäyttöisten jääkaappien, pakastimien ja näiden yhdistelmien energiamerkinnässä annettavista tiedoista annetun kauppa\- ja teollisuusministeriön asetuksen kumoamisesta](1087.md) `1087/2011`
+- [Valtioneuvoston asetus rakennustyötä tekevän sukeltajan pätevyydestä ja turvallisuussuunnitelmasta](1088.md) `1088/2011`
+- [Oikeusministeriön asetus oikeusapupiireistä sekä oikeusaputoimistojen toimipaikoista ja edunvalvonta\-alueista](1089.md) `1089/2011`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 96 §:ssä tarkoitetun palkkakertoimen antamisesta](1090.md) `1090/2011`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 98 §:ssä tarkoitetun työeläkeindeksin antamisesta](1091.md) `1091/2011`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain voimaanpanolain 15 §:ssä tarkoitetun indeksiluvun vahvistamisesta](1092.md) `1092/2011`
+- [Valtioneuvoston asetus huumausaineina pidettävistä aineista, valmisteista ja kasveista annetun valtioneuvoston asetuksen liitteen IV muuttamisesta](1093.md) `1093/2011`
+- [Valtioneuvoston asetus televisiomaksuista](1094.md) `1094/2011`
+- [Tasavallan presidentin asetus Eurooppapatenttien myöntämisestä tehdyn yleissopimuksen 65 artiklan soveltamisesta tehdyn sopimuksen voimaasaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1095.md) `1095/2011`
+- [Valtioneuvoston asetus patenttilain muuttamisesta annetun lain voimaantulosta](1096.md) `1096/2011`
+- [Valtioneuvoston asetus patenttiasetuksen muuttamisesta](1097.md) `1097/2011`
+- [Valtioneuvoston asetus hyödyllisyysmallioikeudesta annetun lain muuttamisesta annetun lain voimaantulosta](1098.md) `1098/2011`
+- [Valtioneuvoston asetus hyödyllisyysmallioikeudesta annetun asetuksen 7 §:n kumoamisesta](1099.md) `1099/2011`
+- [Työ\- ja elinkeinoministeriön asetus Patentti\- ja rekisterihallituksen maksullisista suoritteista annetun työ\- ja elinkeinoministeriön asetuksen liitteenä olevan maksutaulukon muuttamisesta](1100.md) `1100/2011`
+- [Valtioneuvoston asetus Suomen metsäkeskuksen julkisen palvelun yksikön keskusyksikön toimipaikasta ja alueyksiköistä](1101.md) `1101/2011`
+- [Valtioneuvoston asetus Suomen metsäkeskuksen toiminnasta](1102.md) `1102/2011`
+- [Laki terveydensuojelulain muuttamisesta](1103.md) `1103/2011`
+- [Laki jätelain muuttamisesta](1104.md) `1104/2011`
+- [Laki kemikaalilain muuttamisesta](1105.md) `1105/2011`
+- [Laki ympäristönsuojelulain muuttamisesta](1106.md) `1106/2011`
+- [Laki rikoslain 48 luvun 1 §:n muuttamisesta](1107.md) `1107/2011`
+- [Sosiaali\- ja terveysministeriön asetus sähköisen lääkemääräyksen käyttömaksuista](1108.md) `1108/2011`
+- [Valtioneuvoston asetus yleisistä kielitutkinnoista annetun valtioneuvoston asetuksen 5 ja 7 §:n muuttamisesta](1109.md) `1109/2011`
+- [Valtioneuvoston asetus eräitä kuluttajapalveluja koskevasta turvallisuusasiakirjasta](1110.md) `1110/2011`
+- [Työ\- ja elinkeinoministeriön asetus työ\- ja elinkeinoministeriön työjärjestyksen muuttamisesta](1111.md) `1111/2011`
+- [Laki Suomen perustuslain muuttamisesta](1112.md) `1112/2011`
+- [Laki sotilaallisesta kriisinhallinnasta annetun lain 2 §:n muuttamisesta](1113.md) `1113/2011`
+- [Laki Euroopan unionin jäsenyyteen liittyvistä oikeudenhoitoa koskevista säännöksistä annetun lain muuttamisesta](1114.md) `1114/2011`
+- [Laki Ahvenanmaan itsehallintolain 59 a §:n muuttamisesta](1115.md) `1115/2011`
+- [Laki maaseudun kehittämiseen liittyvien ohjelmien hallinnoinnista annetun lain 4 §:n muuttamisesta](1116.md) `1116/2011`
+- [Laki Macaon kanssa veroasioita koskevasta tiedonvaihdosta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1117.md) `1117/2011`
+- [Laki Seychellien kanssa veroasioita koskevista tiedoista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1118.md) `1118/2011`
+- [Laki Costa Rican kanssa veroasioita koskevista tiedoista tehdyn sopimuksen ja pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1119.md) `1119/2011`
+- [Tasavallan presidentin asetus Suomen Punaisesta Rististä annetun tasavallan presidentin asetuksen 46 §:n muuttamisesta](1120.md) `1120/2011`
+- [Tasavallan presidentin asetus Etelämannerta koskevaan sopimukseen liittyvän ympäristönsuojelupöytäkirjan liitteen V alaisten toimenpiteiden voimaansaattamisesta](1121.md) `1121/2011`
+- [Maa\- ja metsätalousministeriön asetus Euroopan unionin ulkopuolisista maista tuotavista eläimistä saatavista sivutuotteista, niistä johdetuista tuotteista sekä eläintautien leviämisen vaaraa aiheuttavista muista tavaroista](1122.md) `1122/2011`
+- [Maa\- ja metsätalousministeriön asetus eräiden eläinten tunnistamisesta](1123.md) `1123/2011`
+- [Maa\- ja metsätalousministeriön asetus Suomen turskakiintiöiden käyttämisestä vuonna 2011](1124.md) `1124/2011`
+- [Verohallinnon päätös metsän keskimääräisestä vuotuisesta tuotosta](1125.md) `1125/2011`
+- [Verohallinnon päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](1126.md) `1126/2011`
+- [Verohallinnon päätös matkakuluvähennyksen määrästä vuodelta 2011 toimitettavassa verotuksessa](1127.md) `1127/2011`
+- [Valtiovarainministeriön asetus luottolaitoksen, ulkomaisen luottolaitoksen Suomessa olevan sivuliikkeen ja talletuspankkien yhteenliittymän keskusyhteisön toimilupahakemukseen sekä sivuliikkeen perustamista ulkomaille koskevaan hakemukseen liitettävistä selvityksistä](1128.md) `1128/2011`
+- [Maa\- ja metsätalousministeriön asetus silakan ja kilohailin troolikalastuksen rajoituksista Pohjoisella Itämerellä ja Suomenlahdella vuonna 2011](1129.md) `1129/2011`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun asetuksen 8 §:n muuttamisesta](1130.md) `1130/2011`
+- [Valtioneuvoston asetus valtiovarainministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](1131.md) `1131/2011`
+- [Valtioneuvoston asetus sairausvakuutusmaksujen maksuprosenteista vuonna 2012](1132.md) `1132/2011`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 153 §:ssä tarkoitettujen työntekijän työeläkevakuutusmaksuprosenttien antamisesta](1133.md) `1133/2011`
+- [Sosiaali\- ja terveysministeriön asetus yrittäjän eläkelain 114 §:ssä tarkoitettujen työeläkevakuutusmaksuprosenttien ja maatalousyrittäjän eläkelain 22 §:ssä tarkoitettujen työeläkevakuutusmaksun perusprosenttien antamisesta](1134.md) `1134/2011`
+- [Valtioneuvoston asetus radiotaajuuksien käytöstä ja taajuussuunnitelmasta annetun valtioneuvoston asetuksen muuttamisesta](1135.md) `1135/2011`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain muuttamisesta](1136.md) `1136/2011`
+- [Laki sosiaaliturvajärjestelmien yhteensovittamista koskevan Euroopan unionin lainsäädännön soveltamisesta annetun lain muuttamisesta](1137.md) `1137/2011`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun asetuksen 2 §:n muuttamisesta](1138.md) `1138/2011`
+- [Valtioneuvoston asetus liikenne\- ja viestintäministeriöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1139.md) `1139/2011`
+- [Valtioneuvoston asetus maatalouden investointituesta ja nuoren viljelijän aloitustuesta annetun valtioneuvoston asetuksen muuttamisesta](1140.md) `1140/2011`
+- [Sosiaali\- ja terveysministeriön asetus savukkeiden paloturvallisuudesta annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1141.md) `1141/2011`
+- [Maa\- ja metsätalousministeriön asetus kilohailin ja silakan troolikalastuksen rajoituksista Selkämerellä vuonna 2011](1142.md) `1142/2011`
+- [Sosiaali\- ja terveysministeriön asetus vakuutusyhdistyksen oikaistun vakavaraisuuspääoman rajojen, tasoitusmäärän ja sen rajojen laskennasta sekä laskennan laskuperusteista](1143.md) `1143/2011`
+- [Sosiaali\- ja terveysministeriön asetus vahinkovakuutusyhtiön oikaistun vakavaraisuuspääoman rajojen, tasoitusmäärän ja sen rajojen laskennasta sekä laskennan laskuperusteista](1144.md) `1144/2011`
+- [Valtioneuvoston asetus rikesakkorikkomuksista annetun asetuksen muuttamisesta](1145.md) `1145/2011`
+- [Valtioneuvoston asetus porotaloudesta saatujen tulojen vuoden 2011 verotuksessa noudatettavista tuottoperusteista](1146.md) `1146/2011`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen muuttamisesta](1147.md) `1147/2011`
+- [Sosiaali\- ja terveysministeriön ilmoitus eräistä indeksillä tarkistetuista sosiaali\- ja terveydenhuollon asiakasmaksuista ja kotipalvelun ja kotisairaanhoidon palvelusetelistä](1148.md) `1148/2011`
+- [Valtioneuvoston asetus sairausvakuutuslain 3 luvun 4 ja 5 §:ssä tarkoitettujen korvaustaksojen perusteista annetun valtioneuvoston asetuksen 2 luvun 3 ja 3 a §:n väliaikaisesta muuttamisesta](1149.md) `1149/2011`
+- [Oikeusministeriön asetus velallisen maksukyvyn arvioinnin perusteista yksityishenkilön velkajärjestelyssä annetun oikeusministeriön asetuksen 4 ja 6 a §:n muuttamisesta](1150.md) `1150/2011`
+- [Tasavallan presidentin asetus Bulgarian tasavallan ja Romanian osallistumisesta Euroopan talousalueeseen tehdyn sopimuksen voimaansaattamisesta](1151.md) `1151/2011`
+- [Laki tasavallan presidentin palkkiosta](1152.md) `1152/2011`
+- [Laki valtioneuvoston jäsenille maksettavista palkkioista ja korvauksista annetun lain 1 §:n väliaikaisesta muuttamisesta](1153.md) `1153/2011`
+- [Laki lelujen turvallisuudesta](1154.md) `1154/2011`
+- [Sosiaali\- ja terveysministeriön asetus kemikaalien määrätietojen toimittamisesta](1155.md) `1155/2011`
+- [Sosiaali\- ja terveysministeriön asetus kemikaaleja koskevien tietojen toimittamisesta annetun sosiaali\- ja terveysministeriön asetuksen liitteen 2 muuttamisesta](1156.md) `1156/2011`
+- [Valtiovarainministeriön asetus ulkomaisten väliyhteisöjen osakkaiden verotuksesta annetun lain 2 §:n 5 momentissa tarkoitetuista valtioista](1157.md) `1157/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta erityisravinnoksi tarkoitetuista rehuista](1158.md) `1158/2011`
+- [Valtiovarainministeriön asetus rakennusten jälleenhankinta\-arvon perusteista](1159.md) `1159/2011`
+- [Valtiovarainministeriön asetus vesivoimalaitoksen ja sen rakenteiden jälleenhankinta\-arvon perusteista](1160.md) `1160/2011`
+- [Sosiaali\- ja terveysministeriön asetus tapaturmavakuutuslain 35 a §:ssä tarkoitetusta tilastohistoriasta](1161.md) `1161/2011`
+- [Oikeusministeriön asetus suojaosuuden määrästä määräajoin maksettavan palkan ulosmittauksessa](1162.md) `1162/2011`
+- [Maa\- ja metsätalousministeriön asetus Geodeettisen laitoksen suoritteista perittävistä maksuista](1163.md) `1163/2011`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 82 §:ssä tarkoitetun elinaikakertoimen antamisesta](1164.md) `1164/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta poikkeuksista rehukasvien siemenseosten markkinointiin luonnollisen ympäristön säilyttämiseksi](1165.md) `1165/2011`
+- [Valtioneuvoston asetus asumistuen määräytymisperusteista vuodelle 2012](1166.md) `1166/2011`
+- [Valtioneuvoston asetus Elintarviketurvallisuusvirastosta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1167.md) `1167/2011`
+- [Valtioneuvoston asetus vuodelta 2011 maksettavista lypsylehmä\- ja nautapalkkioista, teuraskaritsan laatupalkkiosta sekä valkuais\- ja öljykasvipalkkiosta annetun valtioneuvoston asetuksen 15 §:n muuttamisesta](1168.md) `1168/2011`
+- [Laki tuomittujen siirtoa Euroopan unionissa koskevan puitepäätöksen lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja puitepäätöksen soveltamisesta](1169.md) `1169/2011`
+- [Laki valvontatoimenpiteitä ja vaihtoehtoisia seuraamuksia Euroopan unionissa koskevan puitepäätöksen lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja puitepäätöksen soveltamisesta](1170.md) `1170/2011`
+- [Laki kansainvälisestä yhteistoiminnasta eräiden rikosoikeudellisten seuraamusten täytäntöönpanossa annetun lain muuttamisesta](1171.md) `1171/2011`
+- [Laki Suomen ja muiden pohjoismaiden välisestä yhteistoiminnasta rikosasioissa annettujen tuomioiden täytäntöönpanossa annetun lain 5 e §:n muuttamisesta](1172.md) `1172/2011`
+- [Laki oikeudenkäymiskaaren 31 luvun 9 b §:n muuttamisesta](1173.md) `1173/2011`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden Euroopan unionin jäsenvaltioiden välillä annetun lain muuttamisesta](1174.md) `1174/2011`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden Pohjoismaiden välillä annetun lain muuttamisesta](1175.md) `1175/2011`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta annetun lain 24 §:n muuttamisesta](1176.md) `1176/2011`
+- [Laki kunnallisen eläkelain muuttamisesta](1177.md) `1177/2011`
+- [Laki valtion eläkelain muuttamisesta](1178.md) `1178/2011`
+- [Laki valtion eläkelain muuttamisesta annetun lain eräiden säännösten kumoamisesta](1179.md) `1179/2011`
+- [Laki evankelis\-luterilaisen kirkon eläkelain muuttamisesta](1180.md) `1180/2011`
+- [Sosiaali\- ja terveysministeriön asetus ajoterveydestä](1181.md) `1181/2011`
+- [Laki Lapin vajaatuottoisten metsien kunnostamisesta annetun lain kumoamisesta](1182.md) `1182/2011`
+- [Vuoden 2011 kolmas lisätalousarvio](1183.md) `1183/2011`
+- [Laki toimeentulotuesta annetun lain 9 ja 9 a §:n muuttamisesta](1184.md) `1184/2011`
+- [Tasavallan presidentin asetus Euroopan antiprotoni\- ja ionitutkimuslaitoksen rakentamisesta ja käytöstä tehdyn yleissopimuksen väliaikaisesta soveltamisesta](1185.md) `1185/2011`
+- [Verohallinnon päätös vuodelta 2012 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](1186.md) `1186/2011`
+- [Laki maanmittauslaitoksesta annetun lain 2 ja 3 §:n muuttamisesta](1187.md) `1187/2011`
+- [Laki Geodeettisesta laitoksesta annetun lain 3 §:n muuttamisesta](1188.md) `1188/2011`
+- [Laki kiinteistötietojärjestelmästä ja siitä tuotettavasta tietopalvelusta annetun lain muuttamisesta](1189.md) `1189/2011`
+- [Laki kaupanvahvistajista annetun lain 1 ja 3 §:n muuttamisesta](1190.md) `1190/2011`
+- [Oikeusministeriön asetus syyttäjänvirastojen palvelutoimistoista](1191.md) `1191/2011`
+- [Maa\- ja metsätalousministeriön asetus eläimistä saatavien sivutuotteiden ja niistä johdettujen tuotteiden keräämisestä, kuljetuksesta ja hävittämisestä](1192.md) `1192/2011`
+- [Maa\- ja metsätalousministeriön asetus eräitä eläimistä saatavia sivutuotteita ja niistä johdettuja tuotteita käsittelevien toimijoiden valvonnasta ja eräiden sivutuotteiden käytöstä](1193.md) `1193/2011`
+- [Valtiovarainministeriön asetus julkishallinnon ja \-talouden tilintarkastuslautakunnan maksullisista suoritteista](1194.md) `1194/2011`
+- [Valtiovarainministeriön asetus Valtiokonttorin maksullisista suoritteista](1195.md) `1195/2011`
+- [Maa\- ja metsätalousministeriön asetus kilohailin ja silakan troolikalastuksen rajoituksista Selkämerellä vuonna 2011 annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](1196.md) `1196/2011`
+- [Valtioneuvoston asetus vuonna 2012 myönnettävän maatilan investointituen kohdentamisesta](1197.md) `1197/2011`
+- [Tasavallan presidentin asetus Euroopan unionista tehtyyn sopimukseen, Euroopan unionin toiminnasta tehtyyn sopimukseen ja Euroopan atomienergiayhteisön perustamissopimukseen liitetyn, siirtymämääräyksistä tehdyn pöytäkirjan muuttamisesta tehdyn pöytäkirjan voimaansaattamisesta sekä pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1198.md) `1198/2011`
+- [Valtioneuvoston asetus tilastokeskuksesta annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](1199.md) `1199/2011`
+- [Valtioneuvoston asetus aluehallintovirastoista annetun valtioneuvoston asetuksen 16 §:n muuttamisesta](1200.md) `1200/2011`
+- [Valtioneuvoston asetus rekisterihallintoasetuksen 10 §:n muuttamisesta](1201.md) `1201/2011`
+- [Laki arvonlisäverolain muuttamisesta](1202.md) `1202/2011`
+- [LUETTELO kuntien ja seurakuntien tuloveroprosenteista vuonna 2012](1203.md) `1203/2011`
+- [Valtioneuvoston asetus eräisiin rahoitussopimuksiin liittyvästä yksinkertaistetusta asiakkaan tuntemismenettelystä rahanpesun ja terrorismin rahoittamisen estämisessä ja selvittämisessä](1204.md) `1204/2011`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](1205.md) `1205/2011`
+- [Laki rikosrekisterilain 6 §:n muuttamisesta](1206.md) `1206/2011`
+- [Laki Rajatylittävän yhteistyön tehostamisesta erityisesti terrorismin ja rajatylittävän rikollisuuden torjumiseksi tehdyn neuvoston päätöksen eräiden säännösten täytäntöönpanosta](1207.md) `1207/2011`
+- [Laki Belgian kuningaskunnan, Saksan liittotasavallan, Espanjan kuningaskunnan, Ranskan tasavallan, Luxemburgin suurherttuakunnan, Alankomaiden kuningaskunnan ja Itävallan tasavallan välillä rajat ylittävän yhteistyön tehostamisesta erityisesti terrorismin, rajat ylittävän rikollisuuden ja laittoman muuttoliikkeen torjumiseksi tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta sekä sopimuksen soveltamisesta annetun lain muuttamisesta](1208.md) `1208/2011`
+- [Laki ampuma\-aselain 17 §:n muuttamisesta](1209.md) `1209/2011`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain 41 a §:n muuttamisesta](1210.md) `1210/2011`
+- [Laki ajoneuvoliikennerekisteristä annetun lain 15 ja 17 §:n muuttamisesta](1211.md) `1211/2011`
+- [Verohallinnon päätös muiden kuin sähköisesti annettavien kausiveroilmoitusten määräpäivistä vuonna 2012](1212.md) `1212/2011`
+- [Sosiaali\- ja terveysministeriön asetus haitallisiksi tunnetuista pitoisuuksista](1213.md) `1213/2011`
+- [Valtioneuvoston asetus suoja\-alueista annetussa valtioneuvoston asetuksessa tarkoitetun Rysäkarin suoja\-alueen lakkauttamisesta](1214.md) `1214/2011`
+- [Valtioneuvoston asetus puolustusministeriöstä annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](1215.md) `1215/2011`
+- [Valtioneuvoston asetus sektoritutkimuksen neuvottelukunnasta annetun valtioneuvoston asetuksen kumoamisesta](1216.md) `1216/2011`
+- [Valtioneuvoston asetus liikenteessä käytettävien ajoneuvojen liikennekelpoisuuden valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](1217.md) `1217/2011`
+- [Valtioneuvoston asetus lelujen turvallisuudesta](1218.md) `1218/2011`
+- [Laki joukkoliikennelain muuttamisesta](1219.md) `1219/2011`
+- [Laki maantieliikenteen liikenneyrittäjäkoulutuksesta annetun lain 3 ja 7 §:n muuttamisesta](1220.md) `1220/2011`
+- [Sisäasiainministeriön asetus Rajavartiolaitoksen suoritteiden maksuista](1221.md) `1221/2011`
+- [Liikenne\- ja viestintäministeriön asetus taajuusmaksuista ja Viestintäviraston radiohallinnollisista suoritteista perittävistä muista maksuista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](1222.md) `1222/2011`
+- [Valtioneuvoston asetus lääkärin ilmoitusvelvollisuudesta ja terveydenhuollon ammattihenkilön ilmoitusoikeudesta aselupa\-asioissa](1223.md) `1223/2011`
+- [Opetus\- ja kulttuuriministeriön asetus ylioppilastutkintolautakunnan suoritteiden maksullisuudesta annetun opetus\- ja kulttuuriministeriön asetuksen 2 §:n 1 momentin muuttamisesta](1224.md) `1224/2011`
+- [Työ\- ja elinkeinoministeriön asetus astianpesukoneiden energiamerkinnässä annettavista tiedoista annetun kauppa\- ja teollisuusministeriön asetuksen kumoamisesta](1225.md) `1225/2011`
+- [Työ\- ja elinkeinoministeriön asetus kotitalouksien sähkökäyttöisten pyykinpesukoneiden energiamerkinnässä annettavista tiedoista annetun kauppa\- ja teollisuusministeriön päätöksen kumoamisesta](1226.md) `1226/2011`
+- [Valtioneuvoston asetus ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta](1227.md) `1227/2011`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1228.md) `1228/2011`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1229.md) `1229/2011`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä toimintapääomasta](1230.md) `1230/2011`
+- [Laki veronumerosta ja rakennusalan veronumerorekisteristä](1231.md) `1231/2011`
+- [Laki työturvallisuuslain muuttamisesta](1232.md) `1232/2011`
+- [Laki väestötietojärjestelmästä ja Väestörekisterikeskuksen varmennepalveluista annetun lain 22 §:n muuttamisesta](1233.md) `1233/2011`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 17 §:n muuttamisesta](1234.md) `1234/2011`
+- [Laki alkoholi\- ja alkoholijuomaverosta annetun lain liitteen muuttamisesta](1235.md) `1235/2011`
+- [Laki lentoliikenteen valvontamaksusta annetun lain 4 §:n muuttamisesta](1236.md) `1236/2011`
+- [Laki alusliikennepalvelulain muuttamisesta](1237.md) `1237/2011`
+- [Valtioneuvoston asetus Hallinnon tietotekniikkakeskuksesta annetun valtioneuvoston asetuksen 8 §:n muuttamisesta](1238.md) `1238/2011`
+- [Laki syyttäjälaitoksesta annetun lain 32 §:n muuttamisesta](1239.md) `1239/2011`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain 19 §:n muuttamisesta](1240.md) `1240/2011`
+- [Laki henkilötietojen käsittelystä rajavartiolaitoksessa annetun lain 28 §:n muuttamisesta](1241.md) `1241/2011`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](1242.md) `1242/2011`
+- [Laki Suomen Pankista annetun lain 26 §:n muuttamisesta](1243.md) `1243/2011`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](1244.md) `1244/2011`
+- [Laki sijoituspalveluyrityksistä annetun lain muuttamisesta](1245.md) `1245/2011`
+- [Laki rahoitus\- ja vakuutusryhmittymien valvonnasta annetun lain muuttamisesta](1246.md) `1246/2011`
+- [Laki arvopaperimarkkinalain muuttamisesta](1247.md) `1247/2011`
+- [Laki eräistä arvopaperi\- ja valuuttakaupan sekä selvitysjärjestelmän ehdoista annetun lain muuttamisesta](1248.md) `1248/2011`
+- [Laki eläkesäätiölain muuttamisesta](1249.md) `1249/2011`
+- [Laki vakuutuskassalain muuttamisesta](1250.md) `1250/2011`
+- [Laki kotoutumisen edistämisestä annetun lain muuttamisesta](1251.md) `1251/2011`
+- [Laki ulkomaalaislain 91 ja 93 §:n muuttamisesta](1252.md) `1252/2011`
+- [Laki kansainvälistä suojelua hakevan vastaanotosta annetun lain 7 §:n muuttamisesta](1253.md) `1253/2011`
+- [Laki valtion osuudesta terveydenhuollon valtakunnallisten tietojärjestelmäpalvelujen kustannuksista](1254.md) `1254/2011`
+- [Laki Kansaneläkelaitoksesta annetun lain muuttamisesta](1255.md) `1255/2011`
+- [Laki työttömyysturvalain 6 luvun 1 §:n muuttamisesta](1256.md) `1256/2011`
+- [Laki aikuiskoulutustuesta annetun lain 12 §:n muuttamisesta](1257.md) `1257/2011`
+- [Valtioneuvoston asetus eräistä elintarviketurvallisuusriskeiltään vähäisistä toiminnoista](1258.md) `1258/2011`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteen II\-1 lukuun tehtyjen muutosten voimaansaattamisesta](1259.md) `1259/2011`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteen II\-1 ja II\-2 lukuun sekä yleissopimukseen liittyvään FSS\-säännöstöön tehtyjen muutosten voimaansaattamisesta](1260.md) `1260/2011`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyvään LSA\-säännöstöön tehtyjen muutosten voimaansaattamisesta](1261.md) `1261/2011`
+- [Opetus\- ja kulttuuriministeriön asetus taiteen keskustoimikunnan ja alueellisten taidetoimikuntien suoritteiden maksullisuudesta](1262.md) `1262/2011`
+- [Opetus\- ja kulttuuriministeriön asetus Kansallisen audiovisuaalisen arkiston suoritteiden maksullisuudesta](1263.md) `1263/2011`
+- [Opetus\- ja kulttuuriministeriön asetus Museoviraston suoritteiden maksullisuudesta](1264.md) `1264/2011`
+- [Liikenne\- ja viestintäministeriön asetus Liikenteen turvallisuusviraston maksullisista suoritteista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](1265.md) `1265/2011`
+- [Liikenne\- ja viestintäministeriön asetus liikenne\- ja viestintäministeriön maksullisista suoritteista](1266.md) `1266/2011`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2011 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista ja työnantajasuoritusten vähimmäismäärästä](1267.md) `1267/2011`
+- [Sisäasiainministeriön asetus pysäköinninvalvonnassa käytettävistä asiakirjoista, viranomaisten välisistä ilmoituksista ja hakemuksista sekä rengaslukon ominaisuuksista](1268.md) `1268/2011`
+- [Sisäasiainministeriön asetus kunnallisen pysäköinninvalvojan ja pysäköinnintarkastajan virkamerkistä](1269.md) `1269/2011`
+- [Verohallinnon päätös verovapaista matkakustannusten korvauksista vuonna 2012](1270.md) `1270/2011`
+- [Valtiovarainministeriön asetus valtiovarainministeriön työjärjestyksestä annetun valtiovarainministeriön asetuksen muuttamisesta](1271.md) `1271/2011`
+- [Eduskunnan päätös eduskunnan työjärjestyksen muuttamisesta](1272.md) `1272/2011`
+- [Eduskunnan päätös Kansainvälisen valuuttarahaston neljättätoista yleistä jäsenosuustarkistusta ja johtokuntauudistusta koskevan päätöslauselman nro 66\-2 hyväksymisestä sekä valtiontakuusta Suomen Pankille](1273.md) `1273/2011`
+- [Maa\- ja metsätalousministeriön asetus perus\- ja kasvulohkoista ja niiden ulko\- ja sisärajoja koskevista tuen myöntämisen edellytyksistä annetun maa\- ja metsätalousministeriön asetuksen 3 ja 9 a §:n muuttamisesta](1274.md) `1274/2011`
+- [Maa\- ja metsätalousministeriön asetus täydentäviin ehtoihin liittyvistä hyvän maatalouden ja ympäristön vähimmäisvaatimuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1275.md) `1275/2011`
+- [Sisäasiainministeriön asetus Hätäkeskuslaitoksen maksullisista suoritteista](1276.md) `1276/2011`
+- [Valtioneuvoston asetus valtion talousarviosta annetun asetuksen 71 §:n muuttamisesta](1277.md) `1277/2011`
+- [Tiedonanto presidenttiehdokkaista](1278.md) `1278/2011`
+- [Sisäasiainministeriön asetus Maahanmuuttoviraston suoritteiden maksullisuudesta](1279.md) `1279/2011`
+- [Maa\- ja metsätalousministeriön asetus eräiden Metsähallituksen julkisten hallintotehtävien suoritteiden maksuista](1280.md) `1280/2011`
+- [Ympäristöministeriön asetus Metsähallituksen eräiden julkisten hallintotehtävien suoritteiden maksuista](1281.md) `1281/2011`
+- [Sisäasiainministeriön asetus pysäköintivirhemaksusta](1282.md) `1282/2011`
+- [Laki kaupallisista tavarankuljetuksista tiellä annetun lain muuttamisesta](1283.md) `1283/2011`
+- [Valtioneuvoston asetus viranomaisten suunnitelmien ja ohjelmien ympäristövaikutusten arvioinnista annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](1284.md) `1284/2011`
+- [Valtioneuvoston asetus kansalaisyhteiskuntapolitiikan neuvottelukunnasta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](1285.md) `1285/2011`
+- [Valtioneuvoston asetus Fintoto Oy:n rahapelien toimeenpanosta](1286.md) `1286/2011`
+- [Valtioneuvoston asetus Raha\-automaattiyhdistyksen rahapelien toimeenpanosta](1287.md) `1287/2011`
+- [Valtioneuvoston asetus Veikkaus Oy:n rahapelien toimeenpanosta](1288.md) `1288/2011`
+- [Valtioneuvoston asetus Raha\-automaattiyhdistyksestä](1289.md) `1289/2011`
+- [Valtioneuvoston asetus vuonna 2012 toimitettavassa presidentinvaalissa ennakkoäänestyspaikkoina olevista Suomen edustustoista ja niiden toimipaikoista annetun valtioneuvoston asetuksen liitteen Syyriaa koskevan kohdan poistamisesta](1290.md) `1290/2011`
+- [Valtioneuvoston asetus rikosrekisteriasetuksen 2 §:n muuttamisesta](1291.md) `1291/2011`
+- [Valtioneuvoston asetus väestötietojärjestelmästä annetun valtioneuvoston asetuksen 44 §:n muuttamisesta](1292.md) `1292/2011`
+- [Valtioneuvoston asetus opetus\- ja kulttuuriministeriöstä annetun valtioneuvoston asetuksen 2 ja 3 §:n muuttamisesta](1293.md) `1293/2011`
+- [Valtioneuvoston asetus tallentamattomien ääni\- ja kuvanauhojen ja muiden tallennuslaitteiden valmistuksesta ja maahantuonnista suoritettavan maksun suuruudesta vuonna 2012](1294.md) `1294/2011`
+- [Valtioneuvoston asetus rakennerahastoista osarahoitettavien kustannusten tukikelpoisuudesta annetun valtioneuvoston asetuksen muuttamisesta](1295.md) `1295/2011`
+- [Valtioneuvoston asetus saaristokunnista ja muiden kuntien saaristo\-osista vuosina 2012—2015](1296.md) `1296/2011`
+- [Laki puolustusvoimien ravitsemispalvelujen yhtiöittämisestä](1297.md) `1297/2011`
+- [Vuoden 2011 neljäs lisätalousarvio](1298.md) `1298/2011`
+- [Valtioneuvoston asetus evankelis\-luterilaisen kirkon ja Kansaneläkelaitoksen henkilöstön eläkkeiden maksamiseen tarvittavien varojen siirrosta ja kustannusten korvaamisesta kunnalliselle eläkelaitokselle](1299.md) `1299/2011`
+- [Valtioneuvoston asetus valtion eläkkeiden maksamiseen tarvittavien varojen siirrosta ja kustannusten korvaamisesta kunnalliselle eläkelaitokselle annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1300.md) `1300/2011`
+- [Valtioneuvoston asetus valtiokonttorista annetun valtioneuvoston asetuksen 1 a §:n muuttamisesta](1301.md) `1301/2011`
+- [Valtioneuvoston asetus valtiokonttorista annetun valtioneuvoston asetuksen muuttamisesta annetun valtioneuvoston asetuksen voimaantulosäännöksen muuttamisesta](1302.md) `1302/2011`
+- [Valtioneuvoston asetus vaarallisten tai ympäristöä pilaavien aineiden aluskuljetuksia koskevasta ilmoitusvelvollisuudesta](1303.md) `1303/2011`
+- [Valtioneuvoston asetus alusliikennepalvelusta annetun valtioneuvoston asetuksen muuttamisesta](1304.md) `1304/2011`
+- [Valtioneuvoston asetus alueellisesta kuljetustuesta annetun valtioneuvoston asetuksen muuttamisesta](1305.md) `1305/2011`
+- [Valtioneuvoston asetus työntekijän eläkelain täytäntöönpanosta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](1306.md) `1306/2011`
+- [Valtioneuvoston asetus merimieseläkelain täytäntöönpanosta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1307.md) `1307/2011`
+- [Valtioneuvoston asetus eläkkeensaajan asumistuen määräytymisperusteista vuonna 2012](1308.md) `1308/2011`
+- [Tasavallan presidentin asetus Laosin kanssa kestävästä metsätalous\- ja maaseutukehityshankkeesta tehdyn yhteistyösopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](1309.md) `1309/2011`
+- [Tasavallan presidentin asetus palestiinalaishallinnon kanssa Suomen tuesta opetussektoriohjelmalle tehdyn sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](1310.md) `1310/2011`
+- [Laki hallinto\-oikeuslain 12 b §:n muuttamisesta](1311.md) `1311/2011`
+- [Laki Suomen ja Kiinan kansantasavallan Hongkongin erityishallintoalueen välillä keskinäisestä oikeusavusta rikosasioissa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1312.md) `1312/2011`
+- [Laki kotoutumisen edistämisestä annetun lain 45 §:n muuttamisesta](1313.md) `1313/2011`
+- [Laki tupakkaverosta annetun lain 1 §:n ja liitteen muuttamisesta](1314.md) `1314/2011`
+- [Laki arpajaisverolain 4 §:n muuttamisesta](1315.md) `1315/2011`
+- [Laki autoverolain muuttamisesta](1316.md) `1316/2011`
+- [Laki ajoneuvoverolain muuttamisesta](1317.md) `1317/2011`
+- [Laki makeisten, jäätelön ja virvoitusjuomien valmisteverosta annetun lain 3 §:n ja liitteen muuttamisesta](1318.md) `1318/2011`
+- [Laki lentoliikenteen päästökaupasta annetun lain muuttamisesta](1319.md) `1319/2011`
+- [Laki väylämaksulain 6 ja 8 §:n muuttamisesta](1320.md) `1320/2011`
+- [Laki laivaväestä ja aluksen turvallisuusjohtamisesta annetun lain 15 §:n muuttamisesta](1321.md) `1321/2011`
+- [Laki aluksen teknisestä turvallisuudesta ja turvallisesta käytöstä annetun lain muuttamisesta](1322.md) `1322/2011`
+- [Sisäasiainministeriön asetus Rajavartiolaitoksen hallitsemaa tilaa ja aluetta koskevista liikkumisrajoituksista ja \-kielloista](1323.md) `1323/2011`
+- [Laki yliopistolain 49 §:n väliaikaisesta muuttamisesta](1324.md) `1324/2011`
+- [Laki kirkkolain muuttamisesta](1325.md) `1325/2011`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](1326.md) `1326/2011`
+- [Laki työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetun lain muuttamisesta](1327.md) `1327/2011`
+- [Laki takuueläkkeestä annetun lain muuttamisesta](1328.md) `1328/2011`
+- [Laki kansaneläkelain 56 §:n muuttamisesta](1329.md) `1329/2011`
+- [Laki eläkkeensaajan asumistuesta annetun lain muuttamisesta](1330.md) `1330/2011`
+- [Laki vammaisetuuksista annetun lain muuttamisesta](1331.md) `1331/2011`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain 18 §:n muuttamisesta](1332.md) `1332/2011`
+- [Laki työeläkeasioiden muutoksenhakulautakunnasta annetun lain muuttamisesta](1333.md) `1333/2011`
+- [Laki apteekkimaksusta annetun lain 1 a ja 2 §:n muuttamisesta](1334.md) `1334/2011`
+- [Laki Euroopan paikallisen itsehallinnon peruskirjaan oikeudesta osallistua paikallishallinnon viranomaisten toimintaan tehdyn lisäpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1335.md) `1335/2011`
+- [Oikeusministeriön asetus tutkintavankiloina toimivista vankiloista](1336.md) `1336/2011`
+- [Puolustusministeriön asetus puolustusministeriön työjärjestyksestä](1337.md) `1337/2011`
+- [Laki ulkomaalaislain muuttamisesta](1338.md) `1338/2011`
+- [Laki ulkomaalaislain muuttamisesta annetun lain 68 §:n muuttamisesta](1339.md) `1339/2011`
+- [Laki yliopistolain 9 §:n muuttamisesta ja 10 §:n väliaikaisesta muuttamisesta](1340.md) `1340/2011`
+- [Laki ammattikorkeakoululain 26 a §:n muuttamisesta ja 26 b §:n väliaikaisesta muuttamisesta](1341.md) `1341/2011`
+- [Laki asumiseen perustuvan sosiaaliturvalainsäädännön soveltamisesta annetun lain 3 a §:n muuttamisesta](1342.md) `1342/2011`
+- [Laki kansanterveyslain 14 §:n muuttamisesta](1343.md) `1343/2011`
+- [Laki erikoissairaanhoitolain 3 §:n muuttamisesta](1344.md) `1344/2011`
+- [Laki postilain 69 §:n muuttamisesta](1345.md) `1345/2011`
+- [Tasavallan presidentin asetus Suomen ulkomaanedustustojen sijaintipaikoista annetun tasavallan presidentin asetuksen 1 ja 4 §:n muuttamisesta](1346.md) `1346/2011`
+- [Tasavallan presidentin asetus Montserratin kanssa veroasioita koskevista tiedoista tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1347.md) `1347/2011`
+- [Tasavallan presidentin asetus Kansainvälisen televiestintäliiton peruskirjaan ja Kansainvälisen televiestintäliiton yleissopimukseen tehtyjen muutosten voimaansaattamisesta](1348.md) `1348/2011`
+- [Sisäasiainministeriön asetus poliisin suoritteiden maksullisuudesta vuonna 2012](1349.md) `1349/2011`
+- [Valtiovarainministeriön asetus yksittäisten kuntien ja evankelis\-luterilaisten seurakuntien verovuoden 2012 yhteisöveron jako\-osuuksien laskentaperusteista](1350.md) `1350/2011`
+- [Valtiovarainministeriön asetus toimivaltaisista maistraateista ja toimivaltaisesta aluehallintovirastosta eräissä maistraatin ja aluehallintoviraston tehtävissä](1351.md) `1351/2011`
+- [Työ\- ja elinkeinoministeriön asetus eräistä leluja koskevista kemiallisista vaatimuksista](1352.md) `1352/2011`
+- [Ulkoasiainministeriön asetus ulkoasiainhallinnon suoritteiden maksuista](1353.md) `1353/2011`
+- [Sosiaali\- ja terveysministeriön asetus merimieseläkekassan vakuutusteknisen vastuuvelan laskuperusteista ja perusteista merimieseläkelain 153 §:n mukaista vastuunjakoa varten annetun sosiaali\- ja terveysministeriön asetuksen liitteiden 1 ja 2 muuttamisesta](1354.md) `1354/2011`
+- [Valtiovarainministeriön asetus maistraattien sijaintipaikoista ja yksiköistä annetun asetuksen muuttamisesta](1355.md) `1355/2011`
+- [Ulkoasiainministeriön asetus ulkoasiainministeriön työjärjestyksen muuttamisesta](1356.md) `1356/2011`
+- [Valtioneuvoston asetus eräille ulkomaalaisille vapaaehtoisille rintamasotilaille maksettavasta rintama\-avustuksesta](1357.md) `1357/2011`
+- [Valtioneuvoston asetus sotainvalidien puolisoiden, leskien ja sotaleskien kuntoutustoiminnasta](1358.md) `1358/2011`
+- [Sosiaali\- ja terveysministeriön asetus turkistuottajille järjestettävien lomituspalvelujen enimmäismääristä vuonna 2012](1359.md) `1359/2011`
+- [Sosiaali\- ja terveysministeriön asetus poronhoitajille järjestettävän sijaisavun enimmäismäärästä vuonna 2012](1360.md) `1360/2011`
+- [Verohallinnon päätös rakennusmaan verotusarvon laskentaperusteista](1361.md) `1361/2011`
+- [Valtiovarainministeriön asetus valtiovarainministeriön maksullisista suoritteista](1362.md) `1362/2011`
+- [Sosiaali\- ja terveysministeriön asetus lääkinnällisen kuntoutuksen apuvälineiden luovutuksesta](1363.md) `1363/2011`
+- [Sosiaali\- ja terveysministeriön asetus lääkäri\- ja hammaslääkärikoulutuksen korvauksiin ja yliopistotasoisen terveyden tutkimuksen rahoitukseen oikeutetuista palvelujen tuottajista](1364.md) `1364/2011`
+- [Valtioneuvoston asetus elintarvikkeiden ja veden välityksellä leviävien epidemioiden selvittämisestä](1365.md) `1365/2011`
+- [Liikenne\- ja viestintäministeriön asetus Liikenneviraston maksullisista suoritteista](1366.md) `1366/2011`
+- [Maa\- ja metsätalousministeriön asetus ilmoitettujen elintarvikehuoneistojen elintarvikehygieniasta](1367.md) `1367/2011`
+- [Maa\- ja metsätalousministeriön asetus elintarvikkeiden alkutuotannon elintarvikehygieniasta](1368.md) `1368/2011`
+- [Maa\- ja metsätalousministeriön asetus laitosten elintarvikehygieniasta](1369.md) `1369/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta siemenperunan markkinoinnista ja tuottamisesta korkealaatuisen siemenperunan tuotantoalueella annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1370.md) `1370/2011`
+- [Maa\- ja metsätalousministeriön asetus Elintarviketurvallisuusviraston maksullisista suoritteista annetun maa\- ja metsätalousministeriön asetuksen liitteen muuttamisesta](1371.md) `1371/2011`
+- [Valtioneuvoston asetus ajoneuvoverolain 12 §:n 2 momentin kumoamisesta annetun lain voimaantulosta](1372.md) `1372/2011`
+- [Valtioneuvoston asetus ajoneuvoverolain muuttamisesta annetun lain 11 §:n 1 momentin 2 kohdan voimaantulosta](1373.md) `1373/2011`
+- [Valtioneuvoston asetus eräiden vaarallisten aineiden käytön rajoittamisesta ajoneuvoissa annetun valtioneuvoston asetuksen liitteen 1 muuttamisesta](1374.md) `1374/2011`
+- [Valtioneuvoston asetus eräiden rikosvahinkolaissa säädettyjen rahamäärien tarkistamisesta](1375.md) `1375/2011`
+- [Oikeusministeriön asetus oikeusministeriön ja eräiden hallinnonalalla toimivien viranomaisten maksullisista suoritteista annetun oikeusministeriön asetuksen muuttamisesta](1376.md) `1376/2011`
+- [Valtioneuvoston asetus riista\- ja kalatalouden tutkimuslaitoksesta annetun asetuksen muuttamisesta](1377.md) `1377/2011`
+- [Maa\- ja metsätalousministeriön asetus kilohailin ja silakan troolikalastuksesta Itämeren pääaltaalla, pohjoisella Itämerellä ja Suomenlahdella vuonna 2012](1378.md) `1378/2011`
+- [Maa\- ja metsätalousministeriön asetus Suomen turskakiintiöiden käyttämisestä vuonna 2012](1379.md) `1379/2011`
+- [Valtioneuvoston asetus eräiden hyvityssakkojen enimmäismääristä](1380.md) `1380/2011`
+- [Valtioneuvoston asetus työehtosopimuslaissa tarkoitettujen hyvityssakkojen enimmäismäärien tarkistamisesta](1381.md) `1381/2011`
+- [Valtioneuvoston asetus kansanterveyttä sekä eläinten ja kasvien terveyttä, taudeista ilmoittamista, eläinten hyvinvointia sekä eläinten tunnistusta ja rekisteröintiä koskevien täydentävien ehtojen valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](1382.md) `1382/2011`
+- [Valtioneuvoston asetus maatalouden harjoittamisesta luopumisen tukemisesta annetun valtioneuvoston asetuksen 8 a §:n muuttamisesta](1383.md) `1383/2011`
+- [Valtioneuvoston asetus maatalousyrittäjien opintorahasta annetun valtioneuvoston asetuksen muuttamisesta](1384.md) `1384/2011`
+- [Valtioneuvoston asetus vuodelta 2011 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 4 ja 6 §:n muuttamisesta](1385.md) `1385/2011`
+- [Valtioneuvoston asetus vuodelta 2011 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](1386.md) `1386/2011`
+- [Valtioneuvoston asetus vuodelta 2011 maksettavasta perunantuotannon kansallisesta tuesta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](1387.md) `1387/2011`
+- [Valtioneuvoston asetus Maaseutuviraston hallinnosta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1388.md) `1388/2011`
+- [Maa\- ja metsätalousministeriön asetus eräiden elävien eläinten, eläimistä saatavien sivutuotteiden sekä eräiden tavaroiden eläintautivaatimuksista Euroopan unionin sisämarkkinoilla annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1389.md) `1389/2011`
+- [Valtioneuvoston asetus syyttäjälaitoksesta](1390.md) `1390/2011`
+- [Verohallinnon päätös vuonna 2012 sovellettavien ennakonpidätysperusteiden voimaantulosta](1391.md) `1391/2011`
+- [Verohallinnon päätös varainsiirtoveron maksamisesta ja ilmoittamisesta](1392.md) `1392/2011`
+- [Valtioneuvoston asetus kotoutumisen edistämiseen liittyvien kunnan kustannusten korvaamisesta valtion varoista](1393.md) `1393/2011`
+- [Työ\- ja elinkeinoministeriön asetus mittatekniikan keskuksen maksullisista suoritteista](1394.md) `1394/2011`
+- [Sosiaali\- ja terveysministeriön asetus Lääkealan turvallisuus\- ja kehittämiskeskuksen maksullisista suoritteista](1395.md) `1395/2011`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötietojärjestelmän suoritteista ja tietopalvelusta perittävistä maksuista](1396.md) `1396/2011`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötietojärjestelmän tulojen jakamisesta](1397.md) `1397/2011`
+- [Maa\- ja metsätalousministeriön asetus maanmittauslaitoksen maksuista vuonna 2012](1398.md) `1398/2011`
+- [Valtioneuvoston asetus vaarallisten kemikaalien teollisesta käsittelystä ja varastoinnista annetun asetuksen muuttamisesta](1399.md) `1399/2011`
+- [Työ\- ja elinkeinoministeriön asetus Energiamarkkinaviraston maksullisista suoritteista](1400.md) `1400/2011`
+- [Laki ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteen VII luvun vaarallisten aineiden kuljetusta kappaletavarana aluksessa koskevan säännöstön \(IMDG\-säännöstö\) 1\.3 luvun muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1401.md) `1401/2011`
+- [Laki vaarallisten aineiden kuljetuksesta annetun lain 11 §:n muuttamisesta](1402.md) `1402/2011`
+- [Laki Kotimaisten kielten keskuksesta](1403.md) `1403/2011`
+- [Tasavallan presidentin asetus vuoden 2006 kansainvälisen trooppista puuta koskevan sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta annetun lain voimaantulosta](1404.md) `1404/2011`
+- [Laki tietoturvallisuuden arviointilaitoksista](1405.md) `1405/2011`
+- [Laki viranomaisten tietojärjestelmien ja tietoliikennejärjestelyjen tietoturvallisuuden arvioinnista](1406.md) `1406/2011`
+- [Laki viestintähallinnosta annetun lain 2 §:n muuttamisesta](1407.md) `1407/2011`
+- [Laki perintö\- ja lahjaverolain 14 ja 19 a §:n muuttamisesta](1408.md) `1408/2011`
+- [Laki opiskelijoiden oikeusturvalautakunnasta annetun lain muuttamisesta](1409.md) `1409/2011`
+- [Laki ammatillisesta koulutuksesta annetun lain 44 §:n muuttamisesta](1410.md) `1410/2011`
+- [Laki maaseutuelinkeinojen rahoituslain muuttamisesta annetun lain voimaanpanosta annetun lain muuttamisesta annetun lain kumoamisesta](1411.md) `1411/2011`
+- [Laki maatalouden harjoittamisesta luopumisen tukemisesta annetun lain muuttamisesta](1412.md) `1412/2011`
+- [Laki maa\- ja elintarviketalouden sekä maaseudun tutkimus\- ja kehittämishankkeiden rahoituksesta](1413.md) `1413/2011`
+- [Laki eräiden työ\- ja elinkeinoministeriön hallinnonalan ohjelmien ja hankkeiden rahoittamisesta annetun lain muuttamisesta](1414.md) `1414/2011`
+- [Laki maatalouden rakennetuista annetun lain 40 a §:n muuttamisesta](1415.md) `1415/2011`
+- [Maa\- ja metsätalousministeriön asetus Suomen riistakeskuksen ja riistanhoitoyhdistysten julkisten hallintotehtävien maksuista vuonna 2012](1416.md) `1416/2011`
+- [Maa\- ja metsätalousministeriön asetus Suomen metsäkeskuksen julkisen palvelun yksikön suoritteiden maksullisuudesta](1417.md) `1417/2011`
+- [Maa\- ja metsätalousministeriön asetus Metsätalouden kehittämiskeskus Tapion suoritteiden maksullisuudesta](1418.md) `1418/2011`
+- [Valtioneuvoston asetus peruskuivatustoiminnan tukemisesta annetun asetuksen muuttamisesta](1419.md) `1419/2011`
+- [Laki yhteismetsälain muuttamisesta](1420.md) `1420/2011`
+- [Laki riistahallintolain muuttamisesta](1421.md) `1421/2011`
+- [Laki metsästyslain 74 §:n muuttamisesta](1422.md) `1422/2011`
+- [Laki taksiliikennelain muuttamisesta](1423.md) `1423/2011`
+- [Laki Matkailun edistämiskeskuksesta](1424.md) `1424/2011`
+- [Valtioneuvoston asetus Matkailun edistämiskeskuksesta](1425.md) `1425/2011`
+- [Laki uusiutuvilla energialähteillä tuotetun sähkön tuotantotuesta annetun lain muuttamisesta](1426.md) `1426/2011`
+- [Laki työntekijän eläkelain muuttamisesta](1427.md) `1427/2011`
+- [Laki työntekijän eläkelain voimaanpanolain 26 §:n muuttamisesta](1428.md) `1428/2011`
+- [Laki merimieseläkelain muuttamisesta](1429.md) `1429/2011`
+- [Laki merimieseläkelain voimaanpanosta annetun lain 2 ja 20 §:n muuttamisesta](1430.md) `1430/2011`
+- [Laki yrittäjän eläkelain muuttamisesta](1431.md) `1431/2011`
+- [Laki yrittäjän eläkelain voimaanpanosta annetun lain 26 §:n muuttamisesta](1432.md) `1432/2011`
+- [Laki maatalousyrittäjän eläkelain muuttamisesta](1433.md) `1433/2011`
+- [Laki maatalousyrittäjän eläkelain voimaanpanosta annetun lain 25 §:n muuttamisesta](1434.md) `1434/2011`
+- [Laki Eläketurvakeskuksesta annetun lain 5 §:n muuttamisesta](1435.md) `1435/2011`
+- [Laki maatalouden harjoittamisesta luopumisen tukemisesta annetun lain 78 §:n muuttamisesta](1436.md) `1436/2011`
+- [Laki eläkeoikeuden siirtämisestä Suomen työeläkejärjestelmän ja Euroopan yhteisöjen eläkejärjestelmän välillä annetun lain 11 §:n muuttamisesta](1437.md) `1437/2011`
+- [Laki tupakkalain muuttamisesta](1438.md) `1438/2011`
+- [Laki työttömyysturvalain muuttamisesta](1439.md) `1439/2011`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain 4 §:n väliaikaisesta muuttamisesta](1440.md) `1440/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden maatilalain mukaisten myyntihintasaamisten ja lainojen viitekorosta](1441.md) `1441/2011`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden porotalouden ja luontaiselinkeinojen rahoituslain mukaisten asuntolainojen viitekorosta](1442.md) `1442/2011`
+- [Laki nestemäisten polttoaineiden valmisteverosta annetun lain liitteen muuttamisesta](1443.md) `1443/2011`
+- [Laki sähkön ja eräiden polttoaineiden valmisteverosta annetun lain liitteen muuttamisesta](1444.md) `1444/2011`
+- [Laki maataloudessa käytettyjen eräiden energiatuotteiden valmisteveron palautuksesta annetun lain 4 §:n muuttamisesta](1445.md) `1445/2011`
+- [Laki sähkön ja eräiden polttoaineiden valmisteverosta annetun lain 8 a §:n muuttamisesta](1446.md) `1446/2011`
+- [Laki kunnallisen eläkelain muuttamisesta](1447.md) `1447/2011`
+- [Laki kunnallisen eläkelain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1448.md) `1448/2011`
+- [Laki kunnallisen eläkelain voimaanpanolain 3 §:n muuttamisesta](1449.md) `1449/2011`
+- [Laki valtion eläkelain muuttamisesta](1450.md) `1450/2011`
+- [Laki valtion eläkelain voimaanpanosta annetun lain muuttamisesta](1451.md) `1451/2011`
+- [Laki Barbadosin kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen muuttamisesta tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1452.md) `1452/2011`
+- [Laki Bahrainin kanssa veroasioita koskevista tiedoista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1453.md) `1453/2011`
+- [Laki tilintarkastuslain 57 §:n muuttamisesta](1454.md) `1454/2011`
+- [Työ\- ja elinkeinoministeriön asetus kaivosten nostolaitoksista](1455.md) `1455/2011`
+- [Laki työntekijän eläkelain muuttamisesta](1456.md) `1456/2011`
+- [Laki merimieseläkelain muuttamisesta](1457.md) `1457/2011`
+- [Laki yrittäjän eläkelain muuttamisesta](1458.md) `1458/2011`
+- [Laki maatalousyrittäjän eläkelain muuttamisesta](1459.md) `1459/2011`
+- [Laki työntekijän eläkelain voimaanpanolain 8 ja 9 §:n muuttamisesta](1460.md) `1460/2011`
+- [Laki merimieseläkelain voimaanpanosta annetun lain 4 ja 5 §:n muuttamisesta](1461.md) `1461/2011`
+- [Laki yrittäjän eläkelain voimaanpanosta annetun lain 11 ja 12 §:n muuttamisesta](1462.md) `1462/2011`
+- [Laki maatalousyrittäjän eläkelain voimaanpanosta annetun lain 10 ja 11 §:n muuttamisesta](1463.md) `1463/2011`
+- [Laki työeläkeotteen antamisesta vuonna 2012](1464.md) `1464/2011`
+- [Laki jalkaväkimiinojen käytön, varastoinnin, tuotannon ja siirron kieltämisestä ja niiden hävittämisestä tehdyn yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta](1465.md) `1465/2011`
+- [Laki rikoslain 11 luvun muuttamisesta](1466.md) `1466/2011`
+- [Laki pakkokeinolain 5 a luvun 2 ja 4 §:n muuttamisesta](1467.md) `1467/2011`
+- [Laki pakkokeinolain 10 luvun 3 ja 17 §:n muuttamisesta](1468.md) `1468/2011`
+- [Valtioneuvoston kanslian asetus valtioneuvoston kanslian suoritteiden maksullisuudesta](1469.md) `1469/2011`
+- [Maa\- ja metsätalousministeriön asetus lihantarkastuksesta](1470.md) `1470/2011`
+- [Maa\- ja metsätalousministeriön asetus lohenkalastuksesta Itämeren pääaltaalla vuonna 2012](1471.md) `1471/2011`
+- [Opetus\- ja kulttuuriministeriön asetus yliopistojen koulutusvastuun täsmentämisestä, yliopistojen koulutusohjelmista ja erikoistumiskoulutuksista annetun opetusministeriön asetuksen 7 §:n muuttamisesta](1472.md) `1472/2011`
+- [Opetus\- ja kulttuuriministeriön asetus yliopistojen väliaikaisesti maksullisista koulutusohjelmista](1473.md) `1473/2011`
+- [Opetus\- ja kulttuuriministeriön asetus yliopistojen maisteriohjelmista](1474.md) `1474/2011`
+- [Opetus\- ja kulttuuriministeriön asetus Kotimaisten kielten tutkimuskeskuksen suoritteiden maksuista annetun opetus\- ja kulttuuriministeriön asetuksen muuttamisesta](1475.md) `1475/2011`
+- [Valtiovarainministeriön asetus Henrik Wigström \-juhlarahasta](1476.md) `1476/2011`
+- [Valtiovarainministeriön asetus World Design Capital \-juhlarahoista](1477.md) `1477/2011`
+- [Valtiovarainministeriön asetus luottolaitoksen ja sijoituspalveluyrityksen tilinpäätöksestä, konsernitilinpäätöksestä ja toimintakertomuksesta annetun valtiovarainministeriön asetuksen muuttamisesta](1478.md) `1478/2011`
+- [Valtiovarainministeriön asetus Väestörekisterikeskuksen suoritteiden maksuista annetun valtiovarainministeriön asetuksen 3 §:n ja liitteen muuttamisesta](1479.md) `1479/2011`
+- [Työ\- ja elinkeinoministeriön asetus Kuluttajaviraston maksullisista suoritteista annetun työ\- ja elinkeinoministeriön asetuksen liitteenä olevan maksutaulukon muuttamisesta](1480.md) `1480/2011`
+- [Sisäasiainministeriön ilmoitus sisäasiainministeriön asetuksesta Fintoto Oy:n rahapelien pelisäännöistä](1481.md) `1481/2011`
+- [Sisäasiainministeriön ilmoitus sisäasiainministeriön asetuksesta Raha\-automaattiyhdistyksen rahapelien pelisäännöistä](1482.md) `1482/2011`
+- [Sisäasiainministeriön ilmoitus sisäasiainministeriön asetuksesta Veikkaus Oy:n rahapelien pelisäännöistä](1483.md) `1483/2011`
+- [Sosiaali\- ja terveysministeriön asetus vuoden 2012 liikenneturvallisuusmaksusta](1484.md) `1484/2011`
+- [Valtiovarainministeriön asetus Verohallinnon määräämisestä toimivaltaisena viranomaisena ratkaisemaan eräitä verotusta koskevissa kansainvälisissä sopimuksissa tarkoitettuja asioita](1485.md) `1485/2011`
+- [Valtiovarainministeriön asetus vuoden 2012 taidekilpailupalkintojen verovapaudesta](1486.md) `1486/2011`
+- [Verohallinnon päätös yleisestä tiedonantovelvollisuudesta](1487.md) `1487/2011`
+- [Valtion talousarvio vuodelle 2012](1488.md) `1488/2011`
+- [Laki euron väärentämisen torjunnan edellyttämistä toimenpiteistä annetussa neuvoston asetuksessa säädetyn velvollisuuden laiminlyönnin rangaistavuudesta](1489.md) `1489/2011`
+- [Laki sijoitusrahastolain muuttamisesta](1490.md) `1490/2011`
+- [Laki ulkomaisen rahastoyhtiön toiminnasta Suomessa annetun lain kumoamisesta](1491.md) `1491/2011`
+- [Laki arvopaperimarkkinalain muuttamisesta](1492.md) `1492/2011`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](1493.md) `1493/2011`
+- [Laki Finanssivalvonnan valvontamaksusta annetun lain muuttamisesta](1494.md) `1494/2011`
+- [Laki sidotusta pitkäaikaissäästämisestä annetun lain 3 §:n muuttamisesta](1495.md) `1495/2011`
+- [Laki sijoituspalveluyrityksistä annetun lain 14 §:n muuttamisesta](1496.md) `1496/2011`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä ja selvittämisestä annetun lain 2 §:n muuttamisesta](1497.md) `1497/2011`
+- [Laki verotusmenettelystä annetun lain 16 ja 17 §:n muuttamisesta](1498.md) `1498/2011`
+- [Laki ennakkoperintälain 9 §:n muuttamisesta](1499.md) `1499/2011`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 18 ja 20 §:n muuttamisesta](1500.md) `1500/2011`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskorosta](1501.md) `1501/2011`
+- [Maa\- ja metsätalousministeriön asetus Euroopan unionin ulkopuolisista maista tuotavista eräistä elävistä eläimistä sekä niiden alkioista ja sukusoluista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1502.md) `1502/2011`
+- [Laivavarustelaki](1503.md) `1503/2011`
+- [Laki alusturvallisuuden valvonnasta annetun lain muuttamisesta](1504.md) `1504/2011`
+- [Laki aluksen teknisestä turvallisuudesta ja turvallisesta käytöstä annetun lain 4 §:n muuttamisesta](1505.md) `1505/2011`
+- [Laki radiotaajuuksista ja telelaitteista annetun lain 24 §:n muuttamisesta](1506.md) `1506/2011`
+- [Laki merilain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1507.md) `1507/2011`
+- [Laki ajoneuvojen siirtämisestä annetun lain muuttamisesta](1508.md) `1508/2011`
+- [Laki ajoneuvojen energia\- ja ympäristövaikutusten huomioon ottamisesta julkisissa hankinnoissa](1509.md) `1509/2011`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain muuttamisesta](1510.md) `1510/2011`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](1511.md) `1511/2011`
+- [Valtioneuvoston asetus kunnan peruspalvelujen valtionosuudesta annetun valtioneuvoston asetuksen 1 ja 5 §:n muuttamisesta](1512.md) `1512/2011`
+- [Maa\- ja metsätalousministeriön asetus silakan ja kilohailin troolikalastuksen rajoituksista Pohjoisella Itämerellä ja Suomenlahdella vuonna 2011 annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](1513.md) `1513/2011`
+- [Vuoden 2012 tuloveroasteikkolaki](1514.md) `1514/2011`
+- [Laki tuloverolain muuttamisesta ja väliaikaisesta muuttamisesta](1515.md) `1515/2011`
+- [Laki rajoitetusti verovelvollisen tulon verottamisesta annetun lain 7 ja 15 §:n muuttamisesta](1516.md) `1516/2011`
+- [Laki tuloverolain muuttamisesta ja väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1517.md) `1517/2011`
+- [Laki verotusmenettelystä annetun lain 16 §:n väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1518.md) `1518/2011`
+- [Laki korkotulon lähdeverosta annetun lain 3 ja 6 §:n muuttamisesta](1519.md) `1519/2011`
+- [Laki tuloverolain 53 §:n muuttamisesta annetun lain kumoamisesta](1520.md) `1520/2011`
+- [Laki kestävän metsätalouden rahoituksesta annetun lain 34 §:n kumoamisesta](1521.md) `1521/2011`
+- [Laki ulkomailta tulevan palkansaajan lähdeverosta annetun lain 12 §:n muuttamisesta](1522.md) `1522/2011`
+- [Laki kehitysalueelle tehtävien investointien korotetuista poistoista annetun lain muuttamisesta](1523.md) `1523/2011`
+- [Laki verotililain 8 ja 11 §:n muuttamisesta](1524.md) `1524/2011`
+- [Laki verontilityslain muuttamisesta ja väliaikaisesta muuttamisesta](1525.md) `1525/2011`
+- [Laki keskinäisestä avunannosta veroihin, maksuihin ja muihin toimenpiteisiin liittyvien saatavien perinnässä annetun neuvoston direktiivin lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja direktiivin soveltamisesta](1526.md) `1526/2011`
+- [Valtioneuvoston asetus ennakkoperintäasetuksen 15 §:n muuttamisesta](1527.md) `1527/2011`
+- [Valtioneuvoston asetus maataloudessa käytettyjen eräiden energiatuotteiden valmisteveron palautuksesta annetun lain muuttamisesta annetun lain 4 §:ssä säädetyn biopolttoöljyn valmisteveron palautuksen voimaantulosta](1528.md) `1528/2011`
+- [Sosiaali\- ja terveysministeriön asetus tupakkatuotteiden ja tupakointivälineiden vähittäismyynnin omavalvontasuunnitelmasta annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1529.md) `1529/2011`
+- [Sosiaali\- ja terveysministeriön asetus  työterveyshuollon erikoislääkärikoulutuksen kustannuksiin valtion varoista vuonna 2012 suoritettavasta määrärahasta](1530.md) `1530/2011`
+- [Laki julkisista puolustus\- ja turvallisuushankinnoista](1531.md) `1531/2011`
+- [Laki julkisista hankinnoista annetun lain muuttamisesta](1532.md) `1532/2011`
+- [Laki vesi\- ja energiahuollon, liikenteen ja postipalvelujen alalla toimivien yksiköiden hankinnoista annetun lain 17 §:n muuttamisesta](1533.md) `1533/2011`
+- [Laki kansainvälisistä tietoturvallisuusvelvoitteista annetun lain 1 §:n muuttamisesta](1534.md) `1534/2011`
+- [Laki markkinaoikeuslain 1 §:n muuttamisesta](1535.md) `1535/2011`
+- [Valtioneuvoston asetus julkisista puolustus\- ja turvallisuushankinnoista](1536.md) `1536/2011`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteen VII luvun vaarallisten aineiden kuljetusta kappaletavarana aluksessa koskevan säännöstön \(IMDG\-säännöstö\) muutosten voimaansaattamisesta ja säännöstön 1\.3 luvun muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1537.md) `1537/2011`
+- [Valtioneuvoston asetus elinkeino\-, liikenne\- ja ympäristökeskusten sekä työ\- ja elinkeinotoimistojen maksullisista suoritteista vuonna 2012](1538.md) `1538/2011`
+- [Valtioneuvoston asetus elinkeino\-, liikenne\- ja ympäristökeskuksista](1539.md) `1539/2011`
+- [Tasavallan presidentin asetus eläinten tunnistamisen ja rekisteröinnin valvontaan liittyvien hallintotehtävien hoitamisesta Ahvenanmaan maakunnassa](1540.md) `1540/2011`
+- [Verohallinnon työjärjestys](1541.md) `1541/2011`
+- [Valtioneuvoston asetus turvavarastointiohjelmasta vuonna 2012](1542.md) `1542/2011`
+- [Laki julkisesti tuetuista vienti\- ja alusluotoista sekä korontasauksesta](1543.md) `1543/2011`
+- [Laki Suomen Vientiluotto Oy \-nimisestä yhtiöstä annetun lain muuttamisesta](1544.md) `1544/2011`
+- [Laki valtion erityisrahoitusyhtiöstä annetun lain muuttamisesta](1545.md) `1545/2011`
+- [Valtioneuvoston asetus julkisesti tuetuista vienti\- ja alusluotoista sekä korontasauksesta](1546.md) `1546/2011`
+- [Työ\- ja elinkeinoministeriön asetus julkisesti tuetuista vienti\- ja alusluotoista sekä korontasauksesta](1547.md) `1547/2011`
+- [Laki valtion virkamieslain muuttamisesta](1548.md) `1548/2011`
+- [Laki valtion virkaehtosopimuslain 5 §:n muuttamisesta](1549.md) `1549/2011`
+- [Valtioneuvoston asetus valtiovarainministeriöstä annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](1550.md) `1550/2011`
+- [Verohallinnon päätös ilmoittamisvelvollisuudesta ja muistiinpanoista](1551.md) `1551/2011`
+- [Valmiuslaki](1552.md) `1552/2011`
+- [Laki puolustustilalain 2 ja 30 §:n muuttamisesta](1553.md) `1553/2011`
+- [Laki poikkeusolojen sosiaali\- ja terveydenhuollon neuvottelukunnasta](1554.md) `1554/2011`
+- [Laki arvo\-osuusjärjestelmästä annetun lain 13 a §:n muuttamisesta](1555.md) `1555/2011`
+- [Laki asevelvollisuuslain 79 ja 81 §:n muuttamisesta](1556.md) `1556/2011`
+- [Laki vapaaehtoisesta maanpuolustuksesta annetun lain 27 ja 30 §:n muuttamisesta](1557.md) `1557/2011`
+- [Laki Pelastusopistosta annetun lain 13 ja 23 §:n muuttamisesta](1558.md) `1558/2011`
+- [Laki poikkeusolojen vakuutustakuusta annetun lain 1 §:n muuttamisesta](1559.md) `1559/2011`
+- [Valtioneuvoston asetus vesitalousasioista](1560.md) `1560/2011`
+- [Valtioneuvoston asetus ympäristönsuojeluasetuksen 13 §:n muuttamisesta](1561.md) `1561/2011`
+- [Valtioneuvoston asetus vesiympäristölle vaarallisista ja haitallisista aineista annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1562.md) `1562/2011`
+- [Laki kasvinsuojeluaineista](1563.md) `1563/2011`
+- [Laki metsän hyönteis\- ja sienituhojen torjunnasta annetun lain 7 a §:n muuttamisesta](1564.md) `1564/2011`
+- [Laki rikoslain 44 luvun 1 §:n ja 48 luvun 1 §:n muuttamisesta](1565.md) `1565/2011`
+- [Valtioneuvoston asetus Kotimaisten kielten keskuksesta](1566.md) `1566/2011`
+- [Valtioneuvoston asetus sisäasiainministeriöstä](1567.md) `1567/2011`
+- [Sisäasiainministeriön asetus sisäasiainministeriön työjärjestyksen muuttamisesta](1568.md) `1568/2011`
+- [Valtioneuvoston asetus maa\- ja metsätalousministeriöstä annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](1569.md) `1569/2011`
+- [Valtioneuvoston asetus työ\- ja elinkeinoministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](1570.md) `1570/2011`
+- [Valtioneuvoston asetus kaivosturvallisuudesta](1571.md) `1571/2011`
+- [Valtioneuvoston asetus aluehallintovirastojen maksuista vuosina 2012 ja 2013](1572.md) `1572/2011`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön työjärjestyksen muuttamisesta](1573.md) `1573/2011`
+- [Työ\- ja elinkeinoministeriön asetus työ\- ja elinkeinoministeriön työjärjestyksen muuttamisesta](1574.md) `1574/2011`
+- [Valtioneuvoston asetus valtioneuvoston ohjesäännön muuttamisesta](1575.md) `1575/2011`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannuista muutoksista](1576.md) `1576/2011`
+- [Verohallinnon päätös ennakonpidätyksen toimittamistavoista ja määrästä](1577.md) `1577/2011`

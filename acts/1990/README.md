@@ -1,0 +1,1403 @@
+# 1990 Statutes
+
+## Statutes
+
+- [Laki urheiluopistojen valtionavusta annetun lain 2 a§:n muuttamisesta](1.md) `1/1990`
+- [Asetus valtioneuvoston kanslian eräiden virkojen perustamisesta ja lakkauttamisesta](2.md) `2/1990`
+- [Asetus lääninhallitusten eräiden virkojen perustamisesta ja lakkauttamisesta](3.md) `3/1990`
+- [Asetus puolustusministeriön hallinnonalan eräiden virkojen perustamisesta ja lakkauttamisesta](4.md) `4/1990`
+- [Asetus maanmittaushallinnon suoritteista perittävistä maksuista](5.md) `5/1990`
+- [Asetus ilmailuasetuksen 7§:n muuttamisesta](6.md) `6/1990`
+- [Asetus ansioon suhteutetun työttömyyspäivärahan perusteena olevan palkan määrittämisestä annetun asetuksen 5§:n muuttamisesta](7.md) `7/1990`
+- [Valtioneuvoston päätös läänin kehittämisrahan käyttöperusteista annetun valtioneuvoston päätöksen muuttamisesta](8.md) `8/1990`
+- [Valtioneuvoston päätös valtion nuorisoneuvostosta](9.md) `9/1990`
+- [Valtioneuvoston päätös asevelvolliselle muulta kuin vakinaisen väen palvelusajalta suoritettavasta palkkauksesta annetun valtioneuvoston päätöksen 1§:n muuttamisesta](10.md) `10/1990`
+- [Valtioneuvoston päätös Valtionrautateiden ja Posti\- ja telelaitoksen ylijohtajan virkojen nimien muuttamisesta](11.md) `11/1990`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta annetun Suomen Pankin päätöksen muuttamisesta](12.md) `12/1990`
+- [Laki merenkulkulaitoksesta](13.md) `13/1990`
+- [Laki vapaakunnan oikeudesta poiketa eräistä säännöksistä ja määräyksistä annetun lain muuttamisesta](14.md) `14/1990`
+- [Laki vapaakuntakokeilusta annetun lain 6§:n muuttamisesta](15.md) `15/1990`
+- [Asetus vahingonkorvausvastuusta ydinvoiman alalla 29 päivänä heinäkuuta 1960 tehdyn 28 päivänä tammikuuta 1964 tehdyllä lisäpöytäkirjalla muutetun yleissopimuksen muuttamisesta tehdyn pöytäkirjan voimaansaattamisesta](16.md) `16/1990`
+- [Asetus kansainvälistä tekstiilikauppaa koskevan sopimuksen jatkamista koskevan pöytäkirjan lisäpöytäkirjan voimaansaattamisesta](17.md) `17/1990`
+- [Asetus sisäasiainministeriön eräiden virkojen perustamisesta ja lakkauttamisesta](18.md) `18/1990`
+- [Asetus eräiden kauppa\- ja teollisuusministeriön hallinnonalan virkojen perustamisesta](19.md) `19/1990`
+- [Asetus työministeriön eräiden virkojen nimien muuttamisesta](20.md) `20/1990`
+- [Valtioneuvoston päätös maidon kuljetusavustuksista annetun valtioneuvoston päätöksen 6§:n muuttamisesta](21.md) `21/1990`
+- [Valtioneuvoston päätös investointi\-, käynnistys\- ja kehittämisavustusten myöntämistä koskeviksi periaateohjeiksi annetun valtioneuvoston päätöksen 8§:n muuttamisesta](22.md) `22/1990`
+- [Valtiovarainministeriön päätös vuoden 1989 taidekilpailupalkintojen verovapaudesta annetun valtiovarainministeriön päätöksen 4 ja 5 §:n muuttamisesta](23.md) `23/1990`
+- [Valtiovarainministeriön päätös vuoden 1990 taidekilpailupalkintojen verovapaudesta](24.md) `24/1990`
+- [Laki kunnallislain muuttamisesta](25.md) `25/1990`
+- [Laki rakennuslain muuttamisesta](26.md) `26/1990`
+- [Laki Valtion taloudellisesta tutkimuskeskuksesta](27.md) `27/1990`
+- [Laki lainajyvästöistä ja siemenrahastoista annetun lain 14§:n muuttamisesta](28.md) `28/1990`
+- [Laki kaavoitusalueiden jakolain muuttamisesta](29.md) `29/1990`
+- [Asetus jakoasetuksen 9§:n muuttamisesta](30.md) `30/1990`
+- [Asetus maanmittausmaksusta annetun asetuksen muuttamisesta](31.md) `31/1990`
+- [Asetus tieliikenneasetuksen muuttamisesta](32.md) `32/1990`
+- [Asetus sosiaalihallituksen eräiden virkojen lakkauttamisesta ja perustamisesta](33.md) `33/1990`
+- [Valtioneuvoston päätös valtion urheiluneuvostosta annetun valtioneuvoston päätöksen 2§:n muuttamisesta](34.md) `34/1990`
+- [Valtioneuvoston päätös kotieläintuotannon ohjaamisesta eräissä tapauksissa vuonna 1990](35.md) `35/1990`
+- [Valtioneuvoston päätös rakennemuutosmäärärahan käyttöperusteista](36.md) `36/1990`
+- [Oikeusministeriön päätös vankeusrangaistuksen täytäntöönpanosta eräissä tapauksissa annetun oikeusministeriön päätöksen 1§:n muuttamisesta](37.md) `37/1990`
+- [Puolustusministeriön päätös asevelvollisten yleisistä varusmiespalvelukseen astumispäivistä vuonna 1992](38.md) `38/1990`
+- [Liikenneministeriön päätös ajokorttiasetuksen soveltamisesta annetun liikenneministeriön päätöksen muuttamisesta](39.md) `39/1990`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta annetun Suomen Pankin päätöksen muuttamisesta](40.md) `40/1990`
+- [Asetus ympäristöministeriön ja sen hallinnonalan eräiden virkojen perustamisesta ja lakkauttamisesta](41.md) `41/1990`
+- [Asetus ympäristöministeriöstä annetun asetuksen muuttamisesta](42.md) `42/1990`
+- [Valtioneuvoston päätös pellon kesannoimissopimuksista vuonna 1990](43.md) `43/1990`
+- [Valtioneuvoston päätös luonnonmukaista maataloustuotantoa koskevista sopimuksista vuonna 1990](44.md) `44/1990`
+- [Valtioneuvoston päätös asuinhuoneistojen vuokrien korotusyleisohjeeksi annetun valtioneuvoston päätöksen \(1380/89\) peruuttamisesta](45.md) `45/1990`
+- [Puolustusministeriön päätös Suomen alueen valvonnasta ja sen alueellisen koskemattomuuden turvaamisesta annetun asetuksen täytäntöönpanosta ja soveltamisesta](46.md) `46/1990`
+- [Laki tielaitoksesta](47.md) `47/1990`
+- [Luottoverolaki](48.md) `48/1990`
+- [Luottoveroasetus](49.md) `49/1990`
+- [Laki leimaverolain muuttamisesta](50.md) `50/1990`
+- [Asetus valtioneuvoston kanslian eräistä virkajärjestelyistä](51.md) `51/1990`
+- [Asetus valtioneuvoston kanslian erään viran nimen muuttamisesta](52.md) `52/1990`
+- [Asetus merenkulkulaitoksesta](53.md) `53/1990`
+- [Asetus yhteiskunnallisesti merkittävää toimintaa harjoittavien yleishyödyllisten yhteisöjen veronhuojennuksista annetun asetuksen muuttamisesta](54.md) `54/1990`
+- [Asetus Itämerellä harjoitettavaa kalastusta koskevista säännöistä annetun asetuksen muuttamisesta](55.md) `55/1990`
+- [Ympäristöministeriön päätös jätehuollon ja jätteiden hyödyntämisen edistämiseen myönnettävistä avustuksista](56.md) `56/1990`
+- [Ympäristöministeriön päätös jätteiden hyödyntämislainojen ja jätehuoltolainojen yleisistä ehdoista](57.md) `57/1990`
+- [Oikeusministeriön päätös lainhuuto\- ja kiinnitysrekisterin käyttöön ottamisesta Tampereen raastuvanoikeudessa ja Lohjan tuomiokunnassa](58.md) `58/1990`
+- [Maa\- ja metsätalousministeriön eläinlääkintöosaston päätös eläintautien leviämisen ehkäisemisestä maahantuonnin yhteydessä](59.md) `59/1990`
+- [Laki tieliikennelain 87 a§:n muuttamisesta](60.md) `60/1990`
+- [Laki tieliikenteen ajo\- ja lepoajoista](61.md) `61/1990`
+- [Asetus poikkeuksista tieliikenteen ajo\- ja lepoaikoihin](62.md) `62/1990`
+- [Asetus indeksilain soveltamislautakunnasta annetun asetuksen muuttamisesta](63.md) `63/1990`
+- [Valtioneuvoston päätös peruskoulun ja lukion huonetilojen normaalihinnoista](64.md) `64/1990`
+- [Valtioneuvoston päätös peruskoulu\- ja lukiorakennusten suunnittelun, rakentamisen ja normaalihintojen perusteista](65.md) `65/1990`
+- [Asetus opetusministeriön ja sen hallinnonalan eräiden virkojen perustamisesta, lakkauttamisesta ja siirtämisestä](66.md) `66/1990`
+- [Asetus korkeakouluilta tilatuista tutkimuksista ja muista palvelutehtävistä perittävistä maksuista annetun asetuksen 3 a ja 3 b§:n muuttamisesta](67.md) `67/1990`
+- [Asetus eräistä metsähallinnon virkajärjestelyistä](68.md) `68/1990`
+- [Asetus valtion maitovalmisteiden tarkastuslaitoksen suoritteista perittävistä maksuista annetun asetuksen 2§:n muuttamisesta](69.md) `69/1990`
+- [Asetus maatila\-asetuksen muuttamisesta](70.md) `70/1990`
+- [Valtioneuvoston päätös luontaiselinkeinolain 4§:n 2 momentissa tarkoitetuista enimmäistuloista](71.md) `71/1990`
+- [Valtioneuvoston päätös maataloustuotannon vähentämissopimuksista vuonna 1990](72.md) `72/1990`
+- [Valtioneuvoston päätös pellon metsityspalkkioista vuonna 1990](73.md) `73/1990`
+- [Asetus ulosottotoimesta annetun asetuksen eräiden säännösten kumoamisesta](74.md) `74/1990`
+- [Asetus Ahvenanmaan maakunnan maakunnanvoudinvirastosta annetun asetuksen muuttamisesta](75.md) `75/1990`
+- [Asetus oikeusministeriön hallinnonalan eräiden virkojen perustamisesta ja lakkauttamisesta](76.md) `76/1990`
+- [Asetus eräiden maa\- ja metsätalousministeriön hallinnonalan virkojen perustamisesta ja lakkauttamisesta](77.md) `77/1990`
+- [Asetus teollisuussihteerin suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](78.md) `78/1990`
+- [Asetus vuonna 1990 kertyvien sosiaaliturvamaksujen jakautumasta](79.md) `79/1990`
+- [Asetus vuonna 1988 kertyvien sosiaaliturvamaksujen jakautumasta annetun asetuksen 2§:n muuttamisesta](80.md) `80/1990`
+- [Asetus lääkintöhallituksen eräiden virkojen perustamisesta ja lakkauttamisesta](81.md) `81/1990`
+- [Asetus työvoima\-asiain piiri\- ja paikallishallinnon eräiden virkojen perustamisesta ja lakkauttamisesta](82.md) `82/1990`
+- [Asetus eräiden työministeriön hallinnonalaan kuuluvien virkojen nimien muuttamisesta](83.md) `83/1990`
+- [Verohallituksen päätös ennakonpidätyksen toimittamisajankohdasta](84.md) `84/1990`
+- [Laki lapsilisälain muuttamisesta](85.md) `85/1990`
+- [Laki äitiysavustuslain muuttamisesta](86.md) `86/1990`
+- [Asetus valtioneuvoston ohjesäännön muuttamisesta](87.md) `87/1990`
+- [Asetus valtioneuvoston kansliasta](88.md) `88/1990`
+- [Asetus opetusministeriön hallinnonalan eräiden virkojen perustamisesta](89.md) `89/1990`
+- [Asetus syntymän ja kuoleman rekisteröinnistä annetun asetuksen 13§:n muuttamisesta](90.md) `90/1990`
+- [Asetus pakolaisasiain neuvottelukunnasta annetun asetuksen 3 ja 4§:n muuttamisesta](91.md) `91/1990`
+- [Liikenneministeriön päätös merenkulkupiireistä](92.md) `92/1990`
+- [Kauppa\- ja teollisuusministeriön päätös alustoimitusten rahoitukseen myönnettävien korkotukilainojen yleisistä ehdoista](93.md) `93/1990`
+- [Valtioneuvoston päätös elintarviketuotteiden hinnanerokorvauksista](94.md) `94/1990`
+- [Maa\- ja metsätalousministeriön päätös lihantarkastuksesta](95.md) `95/1990`
+- [Maa\- ja metsätalousministeriön päätös metsähallituksen piirihallinnosta](96.md) `96/1990`
+- [Oikeusministeriön päätös puolueen rekisteröimishakemukseen liitettävän luettelokortin kaavasta](97.md) `97/1990`
+- [Laki työttömyysturvalain muuttamisesta](98.md) `98/1990`
+- [Laki työttömyyskassalain 3 ja 4§:n muuttamisesta](99.md) `99/1990`
+- [Laki työntekijäin eläkelain muuttamisesta](100.md) `100/1990`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 4§:n muuttamisesta](101.md) `101/1990`
+- [Laki merimieseläkelain muuttamisesta](102.md) `102/1990`
+- [Laki valtion perhe\-eläkelain muuttamisesta](103.md) `103/1990`
+- [Laki perhe\-eläkelain muuttamisesta](104.md) `104/1990`
+- [Laki kansaneläkelain muuttamisesta](105.md) `105/1990`
+- [Laki eläkkeensaajien asumistukilain muuttamisesta](106.md) `106/1990`
+- [Kansanedustajain perhe\-eläkelaki](107.md) `107/1990`
+- [Asetus äitiysavustusasetuksen muuttamisesta](108.md) `108/1990`
+- [Valtioneuvoston päätös äitiysavustuksen suuruuden vahvistamisesta](109.md) `109/1990`
+- [Laki kuluttajavirastosta](110.md) `110/1990`
+- [Laki elintarvikevirastosta](111.md) `111/1990`
+- [Laki kuluttajatutkimuskeskuksesta](112.md) `112/1990`
+- [Laki kuluttajaneuvonnan järjestämisestä kunnassa annetun lain 8§:n kumoamisesta](113.md) `113/1990`
+- [Asetus eräiden valtiovarainministeriön ja sen hallinnonalan virkojen perustamisesta ja lakkauttamisesta](114.md) `114/1990`
+- [Asetus valtiovarainministeriön eräiden virkojen nimien muuttamisesta](115.md) `115/1990`
+- [Asetus eräiden opetusministeriön hallinnonalan virkojen perustamisesta ja lakkauttamisesta](116.md) `116/1990`
+- [Asetus opetusministeriön hallinnonalan eräiden virkojen nimien muuttamisesta](117.md) `117/1990`
+- [Asetus liikenneministeriön ja sen hallinnonalan eräiden virkojen perustamisesta ja lakkauttamisesta](118.md) `118/1990`
+- [Asetus eräiden kauppa\- ja teollisuusministeriön ja sen hallinnonalan virkojen perustamisesta ja lakkauttamisesta](119.md) `119/1990`
+- [Asetus työvoima\-asiain piiri\- ja paikallishallinnon eräistä virkajärjestelyistä](120.md) `120/1990`
+- [Valtioneuvoston päätös kirjastorakennusten normaalihinnoista vuonna 1990](121.md) `121/1990`
+- [Ympäristöministeriön päätös virvoitusjuomien ja oluen vähittäismyyntipäällysten panttiin perustuvan talteenotto\- ja kierrätysjärjestelmän hyväksymisestä](122.md) `122/1990`
+- [Asetus Saksan demokraattisen tasavallan kanssa yhteistyöstä eläinlääkinnän alalla tehdyn sopimuksen voimaansaattamisesta](123.md) `123/1990`
+- [Asetus kaavoitusalueiden jakoasetuksen muuttamisesta](124.md) `124/1990`
+- [Asetus kiinteistörekisteriasetuksen 6§:n muuttamisesta](125.md) `125/1990`
+- [Asetus tielaitoksesta](126.md) `126/1990`
+- [Asetus eräistä patentti\- ja rekisterihallituksen perimistä maksuista annetun asetuksen muuttamisesta](127.md) `127/1990`
+- [Asetus kauppa\- ja teollisuusministeriön hallinnonalan eräiden virkojen nimien muuttamisesta](128.md) `128/1990`
+- [Asetus eräistä marja\-, hedelmä\- ja kasvisvalmisteista sekä eräistä juomista](129.md) `129/1990`
+- [Asetus lihavalmisteasetuksen 24 ja 28 §:n muuttamisesta](130.md) `130/1990`
+- [Kauppa\- ja teollisuusministeriön päätös eräistä marja\-, hedelmä\- ja kasvisvalmisteista sekä eräistä juomista annetun asetuksen soveltamisesta](131.md) `131/1990`
+- [Laki kouluhallituksesta ja sen alaisesta piirihallinnosta annetun lain muuttamisesta](132.md) `132/1990`
+- [Asetus kouluhallituksesta annetun asetuksen muuttamisesta](133.md) `133/1990`
+- [Laki kirjastolain muuttamisesta](134.md) `134/1990`
+- [Asetus kirjastoasetuksen muuttamisesta](135.md) `135/1990`
+- [Asetus opetusministeriöstä](136.md) `136/1990`
+- [Asetus opetusministeriön hallinnonalan koulutuksen ja korkeakouluissa harjoitettavan tutkimuksen kehittämissuunnitelmasta](137.md) `137/1990`
+- [Valtioneuvoston päätös työnantajalle maksettavasta koulutuskorvauksesta vuodelta 1990](138.md) `138/1990`
+- [Laki lastensuojelulain muuttamisesta](139.md) `139/1990`
+- [Laki lapsilisälain muuttamisesta](140.md) `140/1990`
+- [Laki lapsen elatuksen turvaamisesta annetun lain 7§:n muuttamisesta](141.md) `141/1990`
+- [Asetus ulkoasiainhallinnon eräiden virkojen perustamisesta ja lakkauttamisesta](142.md) `142/1990`
+- [Asetus ulkoasiainhallinnon eräiden virkojen nimien muuttamisesta](143.md) `143/1990`
+- [Asetus sisäasiainministeriöstä annetun asetuksen muuttamisesta](144.md) `144/1990`
+- [Asetus kunnallistalouden ja \-hallinnon neuvottelukunnasta annetun asetuksen 8§:n muuttamisesta](145.md) `145/1990`
+- [Valtioneuvoston päätös valtion työntekijöiden matkakustannusten korvaamisesta annetun valtioneuvoston päätöksen muuttamisesta](146.md) `146/1990`
+- [Laki lääkärintoimen harjoittamisesta annetun lain 6§:n muuttamisesta](147.md) `147/1990`
+- [Laki hammaslääkärintoimen harjoittamisesta annetun lain 6§:n muuttamisesta](148.md) `148/1990`
+- [Laki hammasteknikon toimen harjoittamisesta annetun lain muuttamisesta](149.md) `149/1990`
+- [Laki optikon toimen harjoittamisesta annetun lain 2§:n muuttamisesta](150.md) `150/1990`
+- [Laki proviisorin toimen ja farmaseutin toimen harjoittamisesta annetun lain 3§:n muuttamisesta](151.md) `151/1990`
+- [Laki yksityisestä terveydenhuollosta](152.md) `152/1990`
+- [Laki lääkärintoimen harjoittamisesta annetun lain 9§:n muuttamisesta](153.md) `153/1990`
+- [Laki hammaslääkärintoimen harjoittamisesta annetun lain 9§:n muuttamisesta](154.md) `154/1990`
+- [Laki hammasteknikon toimen harjoittamisesta annetun lain muuttamisesta](155.md) `155/1990`
+- [Laki sairaanhoitotoimen harjoittamisesta annetun lain muuttamisesta](156.md) `156/1990`
+- [Laki lääkitysvoimistelijan ja hierojan toimesta annetun lain muuttamisesta](157.md) `157/1990`
+- [Laki optikon toimen harjoittamisesta annetun lain muuttamisesta](158.md) `158/1990`
+- [Laki Lapin korkeakoulusta annetun lain 1§:n muuttamisesta](159.md) `159/1990`
+- [Laki tullitariffilain liitteenä olevan tullitariffin muuttamisesta](160.md) `160/1990`
+- [Porotalouslaki](161.md) `161/1990`
+- [Laki kolttalain 11§:n muuttamisesta](162.md) `162/1990`
+- [Laki luontaiselinkeinolain 19§:n muuttamisesta](163.md) `163/1990`
+- [Laki maatilalain 91§:n 2 momentin kumoamisesta](164.md) `164/1990`
+- [Laki leimaverolain 30§:n muuttamisesta](165.md) `165/1990`
+- [Maa\- ja metsätalousministeriön päätös hyväksytyistä rehun lisäaineista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](166.md) `166/1990`
+- [Laki Koloveden kansallispuistosta](167.md) `167/1990`
+- [Asetus Koloveden kansallispuistosta](168.md) `168/1990`
+- [Laki Torronsuon kansallispuistosta](169.md) `169/1990`
+- [Asetus Torronsuon kansallispuistosta](170.md) `170/1990`
+- [Asetus Kamerunin kanssa taloudellisesta, teollisesta ja teknisestä yhteistyöstä tehdyn sopimuksen voimaansaattamisesta](171.md) `171/1990`
+- [Asetus asevelvollisuuslain soveltamisesta annetun asetuksen 109§:n muuttamisesta](172.md) `172/1990`
+- [Asetus asuntotuotantoasetuksen muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](173.md) `173/1990`
+- [Valtioneuvoston päätös avustusten myöntämisestä turkistarhaajien korkotukilainojen korkokustannuksiin annetun valtioneuvoston päätöksen 5 ja 6§:n muuttamisesta](174.md) `174/1990`
+- [Valtioneuvoston päätös eräiden asuntolainojen ja perusparannuslainojen korosta](175.md) `175/1990`
+- [Asetus kielilaissa mainittujen käännösten toimittamisesta suoritettavista maksuista annetun asetuksen 1§:n muuttamisesta](176.md) `176/1990`
+- [Asetus oikeusministeriön hallinnonalan eräiden virkojen nimien muuttamisesta](177.md) `177/1990`
+- [Asetus rajavartiolaitoksen erään viran perustamisesta ja eräiden virkojen lakkauttamisesta](178.md) `178/1990`
+- [Asetus poliisin eräiden virkojen perustamisesta ja lakkauttamisesta](179.md) `179/1990`
+- [Asetus valtiovarainministeriöstä annetun asetuksen muuttamisesta](180.md) `180/1990`
+- [Asetus Suomen elokuva\-arkiston suoritteista perittävistä maksuista annetun asetuksen 5§:n muuttamisesta](181.md) `181/1990`
+- [Asetus kalastuspiireistä annetun asetuksen muuttamisesta](182.md) `182/1990`
+- [Asetus tapaturmaviraston eräiden virkojen nimien muuttamisesta](183.md) `183/1990`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannuista muutoksista](184.md) `184/1990`
+- [Laki valtion taidemuseosta](185.md) `185/1990`
+- [Laki valtion taidemuseosta annetun lain voimaanpanosta](186.md) `186/1990`
+- [Laki indeksiehdon käytöstä vuosia 1990 ja 1991 koskevissa työ\-, virka\- ja toimiehtosopimuksissa annetun lain 2§:n muuttamisesta](187.md) `187/1990`
+- [Asetus geologian tutkimuskeskuksesta](188.md) `188/1990`
+- [Asetus sosiaalihallituksen eräiden virkojen nimien muuttamisesta](189.md) `189/1990`
+- [Asetus sosiaali\- ja terveysministeriön hallinnonalan eräiden virkojen perustamisesta ja lakkauttamisesta](190.md) `190/1990`
+- [Asetus sosiaali\- ja terveysministeriön hallinnonalan eräiden virkojen perustamisesta ja lakkauttamisesta](191.md) `191/1990`
+- [Valtioneuvoston päätös selluloosasta suoritettavasta vientitalletuksesta annetun valtioneuvoston päätöksen kumoamisesta](192.md) `192/1990`
+- [Valtioneuvoston päätös sairaanhoitopiirien alueista](193.md) `193/1990`
+- [Laki vuodelta 1990 toimitettavassa valtionverotuksessa sovellettavista veroasteikoista ja veroprosenteista annetun lain 5§:n muuttamisesta](194.md) `194/1990`
+- [Laki tulo\- ja varallisuusverolain muuttamisesta](195.md) `195/1990`
+- [Asetus tulo\- ja varallisuusveroasetuksen 4§:n muuttamisesta](196.md) `196/1990`
+- [Asetus vankeinhoitolaitoksesta annetun asetuksen muuttamisesta](197.md) `197/1990`
+- [Asetus eräistä määräajaksi tai muutoin rajoitetuksi ajaksi täytettävistä viroista annetun asetuksen muuttamisesta](198.md) `198/1990`
+- [Asetus eräiden geologian tutkimuskeskuksen virkojen perustamisesta ja lakkauttamisesta](199.md) `199/1990`
+- [Sosiaali\- ja terveysministeriön päätös ionisoimattoman säteilyn altistusrajoista](200.md) `200/1990`
+- [Liikenneministeriön päätös vaarallisten tavaroiden kansainvälisissä tiekuljetuksissa vaadittavien pakkausten tyyppihyväksymisten toimivaltaisista viranomaisista](201.md) `201/1990`
+- [Laki vuodelta 1990 suoritettavasta korotuksesta vakuutetun kansaneläkevakuutusmaksuun ja työnantajan sairausvakuutusmaksuun annetun lain kumoamisesta](202.md) `202/1990`
+- [Asetus puolustusministeriön hallinnonalan eräiden virkojen nimien muuttamisesta](203.md) `203/1990`
+- [Asetus oikeustieteellisistä tutkinnoista annetun asetuksen 2§:n muuttamisesta](204.md) `204/1990`
+- [Asetus varanotaarin tutkinnosta annetun asetuksen muuttamisesta](205.md) `205/1990`
+- [Asetus Helsingin yliopiston eräiden virkojen perustamisesta](206.md) `206/1990`
+- [Asetus korkeakoulujen eräiden virkojen perustamisesta ja lakkauttamisesta](207.md) `207/1990`
+- [Asetus työntekijäin eläkeasetuksen 9§:n muuttamisesta](208.md) `208/1990`
+- [Valtioneuvoston päätös tullitariffin muuttamisesta](209.md) `209/1990`
+- [Valtioneuvoston päätös hankevientiin liittyvään tarjoustoimintaan myönnettävien avustusten yleisistä ehdoista](210.md) `210/1990`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä annetun verohallituksen päätöksen muuttamisesta](211.md) `211/1990`
+- [Verohallituksen päätös ennakonpidätyksen toimittamisvelvollisuudesta annetun päätöksen muuttamisesta](212.md) `212/1990`
+- [Asetus tilastokeskuksen suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](213.md) `213/1990`
+- [Asetus lääkintöhallituksesta annetun asetuksen 41§:n muuttamisesta](214.md) `214/1990`
+- [Eduskunnan päätös eduskunnan työjärjestyksen 11§:n väliaikaisesta muuttamisesta](215.md) `215/1990`
+- [Valtioneuvoston päätös komiteoista annetun valtioneuvoston päätöksen muuttamisesta](216.md) `216/1990`
+- [Sisäasiainministeriön päätös eräiden tilojen ja tilanosien siirtämisestä Keuruun kaupungista Multian kuntaan](217.md) `217/1990`
+- [Sisäasiainministeriön päätös yhden tilanosan siirtämisestä Elimäen kunnasta Kuusankosken kaupunkiin](218.md) `218/1990`
+- [Sisäasiainministeriön päätös eräiden tilanosien ja alueiden siirtämisestä Raision kaupungista Nousiaisten kuntaan](219.md) `219/1990`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](220.md) `220/1990`
+- [Kauppa\- ja teollisuusministeriön päätös kirjanpitolaissa tarkoitetusta mikrotulostuksesta](221.md) `221/1990`
+- [Kauppa\- ja teollisuusministeriön päätös kirjanpitolaissa tarkoitetusta mikrokuvauksesta ja optiselle tietovälineelle siirrosta](222.md) `222/1990`
+- [Laki työturvallisuuslain 1§:n muuttamisesta](223.md) `223/1990`
+- [Asetus eroraha\-asetuksen 17§:n muuttamisesta](224.md) `224/1990`
+- [Asetus valtion eläkeneuvottelukunnasta annetun asetuksen 2 ja 3§:n muuttamisesta](225.md) `225/1990`
+- [Asetus valtion virkamiehen ja työntekijän terveydenhuollosta ulkomailla annetun asetuksen 3§:n muuttamisesta](226.md) `226/1990`
+- [Asetus eräiden kauppa\- ja teollisuusministeriön hallinnonalan virkojen perustamisesta ja lakkauttamisesta](227.md) `227/1990`
+- [Valtiovarainministeriön päätös valtion palveluksessa olevilta perittävistä ateriakorvauksista](228.md) `228/1990`
+- [Valtiovarainministeriön päätös valtion palvelussuhdeasuntoihin liittyvistä eduista perittävistä korvauksista](229.md) `229/1990`
+- [Valtiovarainministeriön päätös eräiden verojen kannosta vuonna 1990](230.md) `230/1990`
+- [Työsuojeluhallituksen päätös hyväksyttävistä asbestipurkutyössä käytettävistä menetelmistä ja laitteista](231.md) `231/1990`
+- [Laki kaupparekisterilain muuttamisesta](232.md) `232/1990`
+- [Laki toiminimilain 7 ja 12§:n muuttamisesta](233.md) `233/1990`
+- [Asetus kaupparekisteriasetuksen 4 ja 27§:n muuttamisesta](234.md) `234/1990`
+- [Asetus työvoimaopistosta annetun asetuksen 4§:n muuttamisesta](235.md) `235/1990`
+- [Asetus vesi\- ja ympäristöhallinnon eräiden virkojen nimien muuttamisesta](236.md) `236/1990`
+- [Valtioneuvoston päätös asunto\-, omaksilunastamis\- ja perusparannuslainan myöntämisessä, korkotukilainaksi hyväksymisessä sekä asukkaaksi hyväksymisessä sovellettavista arvosteluperusteista](237.md) `237/1990`
+- [Ympäristöministeriön päätös avustuksista taloudellisissa vaikeuksissa oleville vuokrataloille](238.md) `238/1990`
+- [Ympäristöministeriön päätös vuokra\-asuntojen jälleenvuokrauksesta kunnille aiheutuneiden tappioiden korvaamiseksi myönnettävien avustusten jakoperusteista](239.md) `239/1990`
+- [Laki Italian kanssa yhteistyöstä ja keskinäisestä avunannosta tulliasioissa tehdyn sopimuksen eräiden määräysten hyväksymisestä](240.md) `240/1990`
+- [Asetus Italian kanssa yhteistyöstä ja keskinäisestä avunannosta tulliasioissa tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](241.md) `241/1990`
+- [Laki puolustustarvikkeiden maastaviennistä ja kauttakuljetuksesta](242.md) `242/1990`
+- [Asetus Tammisaaren saariston kansallispuistosta](243.md) `243/1990`
+- [Asetus ilmailuhallinnosta](244.md) `244/1990`
+- [Asetus ajoneuvoasetuksen muuttamisesta](245.md) `245/1990`
+- [Liikenneministeriön päätös ajoneuvoasetuksen täytäntöönpanosta annetun liikenneministeriön päätöksen muuttamisesta annetun päätöksen voimaantulosäännöksen muuttamisesta](246.md) `246/1990`
+- [Liikenneministeriön päätös kuorma\-autojen ja niiden perävaunujen ristiinkytkennästä](247.md) `247/1990`
+- [Asetus eräistä Etelä\-Afrikkaan kohdistuvista toimenpiteistä annetun lain säännösten soveltamisen lakkaamisesta Namibian osalta](248.md) `248/1990`
+- [Asetus poliisiasetuksen 51§:n muuttamisesta](249.md) `249/1990`
+- [Asetus eräiden virkojen nimien muuttamisesta sisäasiainministeriön hallinnonalalla](250.md) `250/1990`
+- [Asetus Hämeen ja Mikkelin lääninhallitusten eräiden virkojen lakkauttamisesta ja perustamisesta](251.md) `251/1990`
+- [Asetus vähittäiskaupan ja eräiden työliikkeiden liikeajasta](252.md) `252/1990`
+- [Asetus sosiaali\- ja terveysministeriön hallinnonalan eräiden virkojen nimien muuttamisesta](253.md) `253/1990`
+- [Valtioneuvoston päätös kahden poliisipiirin uudelleen järjestämisestä](254.md) `254/1990`
+- [Valtioneuvoston päätös valtion liikelaitosten kirjanpidon perusteista annetun valtioneuvoston päätöksen muuttamisesta](255.md) `255/1990`
+- [Valtioneuvoston päätös kivihiiltä käyttävien voimalaitosten ja kattilalaitosten rikkidioksidipäästöjen rajoittamisesta](256.md) `256/1990`
+- [Asetus Pohjoismaiden välisen työympäristöä koskevan sopimuksen voimaansaattamisesta](257.md) `257/1990`
+- [Asetus vuoden 1990 maatalouslaskennasta](258.md) `258/1990`
+- [Asetus maataloushallinnon maatilarekisteristä](259.md) `259/1990`
+- [Valtioneuvoston päätös ulkomaanedustuksen virkamiesten paikalliskorotuksesta, varustautumiskorvauksesta ja asettautumiskustannusten korvauksesta annetun valtioneuvoston päätöksen muuttamisesta](260.md) `260/1990`
+- [Valtioneuvoston päätös valtion palvelussuhdeasuntojen vuokrien määräämisessä käytettävistä vuokratasoista](261.md) `261/1990`
+- [Valtioneuvoston päätös maankäyttölain ja eräiden muiden lakien mukaisten asuntolainojen korosta](262.md) `262/1990`
+- [Valtioneuvoston päätös maatalouspiireistä](263.md) `263/1990`
+- [Valtioneuvoston päätös pellon kesannoimissopimuksista vuonna 1990 annetun valtioneuvoston päätöksen muuttamisesta](264.md) `264/1990`
+- [Valtioneuvoston päätös kananmunien lisähinnasta annetun valtioneuvoston päätöksen 6 ja 9§:n muuttamisesta](265.md) `265/1990`
+- [Maa\- ja metsätalousministeriön päätös maataloustuotevarastojen korkotukilainojen korosta](266.md) `266/1990`
+- [Asetus puolustustarvikkeiden maastaviennistä ja kauttakuljetuksesta](267.md) `267/1990`
+- [Asetus maa\- ja metsätalousministeriön ja maataloushallinnon eräiden virkojen nimien muuttamisesta](268.md) `268/1990`
+- [Asetus vaarallisten aineiden kuljettamisesta tiellä annetun asetuksen muuttamisesta](269.md) `269/1990`
+- [Asetus tieliikenneasetuksen muuttamisesta](270.md) `270/1990`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](271.md) `271/1990`
+- [Valtioneuvoston päätös kalatalouden korkotukilainojen korkohyvityksistä ja enimmäismääristä annetun valtioneuvoston päätöksen muuttamisesta](272.md) `272/1990`
+- [Maa\- ja metsätalousministeriön päätös vedenhankinta\- ja viemäröintilaitteiden rakentamiseen myönnettävien korkotukilainojen yleisistä ehdoista](273.md) `273/1990`
+- [Asetus lukioasetuksen muuttamisesta](274.md) `274/1990`
+- [Asetus peruskoulua korvaavasta koulusta ja yksityisestä lukiosta annetun asetuksen 3 §:n muuttamisesta](275.md) `275/1990`
+- [Asetus liikenneministeriön hallinnonalan eräiden virkojen nimien muuttamisesta](276.md) `276/1990`
+- [Asetus kuluttajavirastosta](277.md) `277/1990`
+- [Asetus elintarvikevirastosta](278.md) `278/1990`
+- [Asetus kuluttajatutkimuskeskuksesta](279.md) `279/1990`
+- [Asetus kotimaisten kielten tutkimuskeskuksen suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](280.md) `280/1990`
+- [Valtioneuvoston päätös ulkomaan kuorma\-autoliikenteen polttoaineen hintaan sisältyvän liikevaihtoveron korvaamisesta](281.md) `281/1990`
+- [Valtioneuvoston päätös valtion ydinjätehuoltorahaston varoista annettavien lainojen yleisistä ehdoista annetun valtioneuvoston päätöksen 3§:n muuttamisesta](282.md) `282/1990`
+- [Asetus hovioikeuksista annetun asetuksen muuttamisesta](283.md) `283/1990`
+- [Korkeimman oikeuden päätös hovioikeuksien työjärjestyksestä annetun korkeimman oikeuden päätöksen muuttamisesta](284.md) `284/1990`
+- [Asetus valtiokonttorista annetun asetuksen muuttamisesta](285.md) `285/1990`
+- [Asetus oikeuslääkeopillisten tutkimusten toimittamisesta lääkärille ja hammaslääkärille tulevasta korvauksesta annetun asetuksen muuttamisesta](286.md) `286/1990`
+- [Valtioneuvoston päätös maatalousyrittäjän vuosiloman pituudesta](287.md) `287/1990`
+- [Valtioneuvoston päätös pienyrittäjän vuosilomarahasta annetussa laissa tarkoitetun enimmäisvuositulon määrän ja vuosilomarahan suuruuden vahvistamisesta](288.md) `288/1990`
+- [Verohallituksen päätös työn suorittamisesta aiheutuneiden kustannusten arvioimisesta ennakonpidätystä toimitettaessa](289.md) `289/1990`
+- [Asetus kuulovammaisten ja näkövammaisten sekä liikuntavammaisten kouluista annetun asetuksen muuttamisesta](290.md) `290/1990`
+- [Asetus työllisyysasetuksen muuttamisesta](291.md) `291/1990`
+- [Asetus liikennöimismaksuista valtion lentoasemilla annetun asetuksen muuttamisesta](292.md) `292/1990`
+- [Asetus eräistä alusten katsastuksiin ja tarkastuksiin sekä jäämaksuluokan määräämiseen liittyvistä palkkioista ja korvauksista annetun asetuksen muuttamisesta](293.md) `293/1990`
+- [Asetus merimieskatselmusmiehille maksettavista palkkioista ja lunastuksista annetun asetuksen muuttamisesta](294.md) `294/1990`
+- [Asetus alusten paineastioiden tarkastuksiin liittyvistä palkkioista ja korvauksista annetun asetuksen muuttamisesta](295.md) `295/1990`
+- [Asetus aluksen lastiviivojen määräämisestä ja merkitsemisestä suoritettavasta maksusta](296.md) `296/1990`
+- [Asetus aluksenmittaukseen liittyvistä palkkioista, korvauksista ja maksuista annetun asetuksen muuttamisesta](297.md) `297/1990`
+- [Liikenneministeriön päätös eräiden radiolaitteiden tyyppihyväksyntävaatimuksista annetun liikenneministeriön päätöksen kumoamisesta](298.md) `298/1990`
+- [Ympäristöministeriön päätös yhdyskuntien vesiensuojeluinvestointeihin myönnettävien korkotukilainojen yleisistä ehdoista](299.md) `299/1990`
+- [Laki poliisilain 14§:n muuttamisesta](300.md) `300/1990`
+- [Laki rikoslain voimaanpanemisesta annetun asetuksen muuttamisesta](301.md) `301/1990`
+- [Laki rikoslain 3 luvun 5§:n muuttamisesta](302.md) `302/1990`
+- [Laki nuorista rikoksentekijöistä annetun lain eräiden säännösten kumoamisesta](303.md) `303/1990`
+- [Laki väestönsuojelulain muuttamisesta](304.md) `304/1990`
+- [Valtioneuvoston päätös työllisyyskoulutukseen osallistuvien oppilaiden majoitus\- ja ruokailukustannuksista](305.md) `305/1990`
+- [Opetusministeriön päätös virallisten kääntäjien kokeista](306.md) `306/1990`
+- [Sosiaali\- ja terveysministeriön päätös maatalousyrittäjän viikkovapaasta perittävistä maksuista](307.md) `307/1990`
+- [Laki vesilain muuttamisesta](308.md) `308/1990`
+- [Asetus vesiasetuksen muuttamisesta](309.md) `309/1990`
+- [Asetus valtiovarainministeriön hallinnonalan eräistä virkajärjestelyistä](310.md) `310/1990`
+- [Asetus valtiovarainministeriön ja sen hallinnonalan eräiden virkojen nimien muuttamisesta](311.md) `311/1990`
+- [Asetus eräistä lohenkalastusta koskevista rajoituksista vuonna 1990](312.md) `312/1990`
+- [Asetus merentutkimuslaitoksesta annetun asetuksen muuttamisesta](313.md) `313/1990`
+- [Liikenneministeriön päätös vesikuljetuskalustolainojen yleisistä ehdoista](314.md) `314/1990`
+- [Asetus perintökaaren 25 luvun 8§:n nojalla annettavasta lausunnosta Ahvenanmaan maakunnassa](315.md) `315/1990`
+- [Asetus teurasruhojen punnituksesta annetun asetuksen 4§:n muuttamisesta](316.md) `316/1990`
+- [Asetus kuluttaja\-asiain neuvottelukunnasta](317.md) `317/1990`
+- [Valtioneuvoston päätös Suomen alueella olevista suoja\-alueista sekä ulkomaalaisten ja ulkomaisten alusten liikkumisesta ja oleskelusta niillä](318.md) `318/1990`
+- [Laki maatalouden investointivarauslain 4§:n muuttamisesta](319.md) `319/1990`
+- [Asetus vuoden 1974 kansainväliseen yleissopimukseen ihmishengen turvallisuudesta merellä tehtyjen muutosten voimaansaattamisesta](320.md) `320/1990`
+- [Asetus liikennöimismaksuista valtion lentoasemilla annetun asetuksen 19§:n muuttamisesta](321.md) `321/1990`
+- [Asetus maan ulkomaankaupassa sovellettavista määrällisistä rajoituksista annetun asetuksen liitteen muuttamisesta](322.md) `322/1990`
+- [Valtioneuvoston päätös käynnistystuen maksamisesta nuorille viljelijöille](323.md) `323/1990`
+- [Valtioneuvoston päätös vuonna 1990 tehtävistä kananmunantuotannon vähentämissopimuksista](324.md) `324/1990`
+- [Valtioneuvoston päätös avustusten myöntämisestä minkkikannan tervehdyttämiseksi](325.md) `325/1990`
+- [Valtioneuvoston päätös teollisuuden alennusvoin hinnanalennuskorvauksesta annetun valtioneuvoston päätöksen 2§:n muuttamisesta](326.md) `326/1990`
+- [Asetus ulkoasiainhallinnon eräiden virkojen perustamisesta ja lakkauttamisesta](327.md) `327/1990`
+- [Asetus vedonlyönnin toimeenpanemisesta hevoskilpailuissa annetun asetuksen 5§:n muuttamisesta](328.md) `328/1990`
+- [Asetus Helsingin yliopiston juhlarahasta](329.md) `329/1990`
+- [Porotalousasetus](330.md) `330/1990`
+- [Asetus koltta\-asetuksen 4§:n muuttamisesta](331.md) `331/1990`
+- [Asetus yhdyskuntien vesihuoltotoimenpiteiden avustamisesta](332.md) `332/1990`
+- [Valtiovarainministeriön päätös maatalouden investointitalletuksen tekemisestä vuonna 1990](333.md) `333/1990`
+- [Asetus merimiehen lääkärintarkastuksista annetun asetuksen muuttamisesta](334.md) `334/1990`
+- [Asetus talousneuvostosta annetun asetuksen 1§:n muuttamisesta](335.md) `335/1990`
+- [Asetus rehujen ja lannoitteiden tarkastuksesta suoritettavista maksuista ja palkkioista annetun asetuksen muuttamisesta](336.md) `336/1990`
+- [Asetus työsuojeluhallinnosta annetun asetuksen 5§:n muuttamisesta](337.md) `337/1990`
+- [Asetus vesi\- ja ympäristöhallinnosta annetun asetuksen muuttamisesta](338.md) `338/1990`
+- [Valtioneuvoston päätös myytäväksi toimitetun rehusilakan vähimmäishinnoista ja tavoitehinnoista](339.md) `339/1990`
+- [Valtioneuvoston päätös eräiden maaseudun neuvontajärjestöjen valtionavun ehdoista](340.md) `340/1990`
+- [Opetusministeriön päätös eräistä kirjastohenkilökunnan kelpoisuusehdoista](341.md) `341/1990`
+- [Elinkeinohallituksen päätös kulutustavaran yksikköhinnan ilmoittamisesta markkinoinnissa](342.md) `342/1990`
+- [Laki Suomen Hallitusmuodon 87§:n muuttamisesta](343.md) `343/1990`
+- [Asetus Yhdistyneiden Kansakuntien Namibian UNTAG\-joukoissa palvelleiden rauhanturvaajien ajoneuvojen tullittomuudesta](344.md) `344/1990`
+- [Valtioneuvoston päätös kuormausnostureista ja niiden tarkastuksista annetun valtioneuvoston päätöksen muuttamisesta](345.md) `345/1990`
+- [Valtioneuvoston päätös Iisalmen raastuvanoikeuden lakkauttamisesta ja Iisalmen tuomiokunnan uudelleen muodostamisesta](346.md) `346/1990`
+- [Valtiovarainministeriön päätös eräiden verojen ja maksujen jälkikannosta annetun valtiovarainministeriön päätöksen 1 ja 6§:n muuttamisesta](347.md) `347/1990`
+- [Elinkeinohallituksen päätös kauppasienistä annetun elinkeinohallituksen päätöksen 11§:n muuttamisesta](348.md) `348/1990`
+- [Laki rangaistusten täytäntöönpanosta annetun asetuksen muuttamisesta](349.md) `349/1990`
+- [Laki nuorista rikoksentekijöistä annetun lain 20§:n muuttamisesta](350.md) `350/1990`
+- [Laki eräiden asioiden ratkaisemisesta oikeusministeriön istunnossa annetun lain 1§:n muuttamisesta](351.md) `351/1990`
+- [Laki rikoslain 2 luvun 13§:n muuttamisesta](352.md) `352/1990`
+- [Laki pysäköintivirhemaksusta annetun lain 7§:n muuttamisesta](353.md) `353/1990`
+- [Asetus opetusministeriön hallinnonalan eräiden virkojen nimien muuttamisesta](354.md) `354/1990`
+- [Asetus valtion taidemuseon eräiden virkojen perustamisesta](355.md) `355/1990`
+- [Asetus Tampereen yliopiston erään professorin viran opetusalan muuttamisesta](356.md) `356/1990`
+- [Asetus ajoneuvojen katsastuksesta annetun asetuksen muuttamisesta](357.md) `357/1990`
+- [Asetus kunnalle suoritettavasta katumaksusta annetun asetuksen eräiden säännösten kumoamisesta](358.md) `358/1990`
+- [Valtioneuvoston päätös televisioluvista annetun valtioneuvoston päätöksen 5§:n muuttamisesta](359.md) `359/1990`
+- [Ympäristöministeriön päätös asuinrakennusten ja asuntojen korjaustoimintaan myönnettävien avustusten jakoperusteista](360.md) `360/1990`
+- [Laki pakkokeinolain 1 luvun muuttamisesta](361.md) `361/1990`
+- [Asetus esitutkinnasta ja pakkokeinoista annetun asetuksen 22 ja 23§:n muuttamisesta](362.md) `362/1990`
+- [Asetus vankeusrangaistuksen täytäntöönpanosta annetun asetuksen 1§:n muuttamisesta](363.md) `363/1990`
+- [Asetus ehdonalaisesti vapautetun vangin valvonnasta annetun asetuksen 7 ja 10§:n muuttamisesta](364.md) `364/1990`
+- [Asetus metsänparannusasetuksen muuttamisesta](365.md) `365/1990`
+- [Oikeusministeriön päätös lainhuuto\- ja kiinnitysrekisterin käyttöön ottamisesta eräissä tuomiokunnissa ja raastuvanoikeuksissa](366.md) `366/1990`
+- [Oikeusministeriön päätös vangitsemisasioiden käsittelystä tuomioistuimissa eräissä tapauksissa](367.md) `367/1990`
+- [Oikeusministeriön päätös yleisten alioikeuksien päätösilmoituksista rikosasioissa annetun oikeusministeriön päätöksen muuttamisesta](368.md) `368/1990`
+- [Oikeusministeriön päätös hovioikeuksien päätösilmoituksista rikosasioissa annetun oikeusministeriön päätöksen muuttamisesta](369.md) `369/1990`
+- [Oikeusministeriön päätös vankeusrangaistuksen täytäntöönpanosta eräissä tapauksissa annetun oikeusministeriön päätöksen 1§:n muuttamisesta](370.md) `370/1990`
+- [Verohallituksen päätös liikkeen\- ja ammatinharjoittajan työmatkasta aiheutuneen elantokustannusten lisäyksen vähentämisestä vuodelta 1990 toimitettavassa verotuksessa](371.md) `371/1990`
+- [Laki luopumiseläkelain muuttamisesta](372.md) `372/1990`
+- [Laki valtioneuvoston oikeudesta luovuttaa Vammaskosken tehtaan hallinnassa olevaa omaisuutta perustettavalle osakeyhtiölle sekä ryhtyä eräisiin muihin yhtiön perustamiseen liittyviin järjestelyihin](373.md) `373/1990`
+- [Laki sotilaskurinpitolain muuttamisesta](374.md) `374/1990`
+- [Laki sotilasoikeudenkäyntilain muuttamisesta](375.md) `375/1990`
+- [Laki Suomen osallistumisesta Yhdistyneiden Kansakuntien rauhanturvaamistoimintaan annetun lain 14§:n muuttamisesta](376.md) `376/1990`
+- [Asetus sotilaskurinpitoasetuksen muuttamisesta](377.md) `377/1990`
+- [Asetus sotilasoikeudenkäyntiasetuksen muuttamisesta](378.md) `378/1990`
+- [Asetus valtion taidemuseosta](379.md) `379/1990`
+- [Asetus elinkeinohallituksen maksuasetuksen kumoamisesta](380.md) `380/1990`
+- [Asetus pelastushallinnon koulutuskeskuksen eräiden virkojen perustamisesta ja lakkauttamisesta](381.md) `381/1990`
+- [Laki maatilalain 50 ja 58§:n muuttamisesta](382.md) `382/1990`
+- [Valtioneuvoston päätös maidon tuotantoavustuksista annetun valtioneuvoston päätöksen 1 ja 2 §:n muuttamisesta](383.md) `383/1990`
+- [Valtioneuvoston päätös lihan tuotantoavustuksista annetun valtioneuvoston päätöksen 1 ja 12 §:n muuttamisesta](384.md) `384/1990`
+- [Valtioneuvoston päätös kotieläinten lukumäärän perusteella annettavista avustuksista](385.md) `385/1990`
+- [Valtioneuvoston päätös rehuviljan tuotantopalkkiosta annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](386.md) `386/1990`
+- [Valtioneuvoston päätös rukiin tuotantopalkkiosta](387.md) `387/1990`
+- [Valtioneuvoston päätös teollisuusperunan tuotantopalkkiosta](388.md) `388/1990`
+- [Valtioneuvoston päätös emolehmäpalkkioista annetun valtioneuvoston päätöksen 6§:n muuttamisesta](389.md) `389/1990`
+- [Valtioneuvoston päätös vuonna 1990 tehtävistä emolehmäsopimuksista](390.md) `390/1990`
+- [Laki evankelis\-luterilaisen kirkon palkkauslain kumoamisesta](391.md) `391/1990`
+- [Laki kirkkolain muuttamisesta](392.md) `392/1990`
+- [Laki  evankelisluterilaisten seurakuntien virkataloista ja rahastoista annetun lain muuttamisesta](393.md) `393/1990`
+- [Laki ammatinvalinnanohjauksesta annetun lain muuttamisesta](394.md) `394/1990`
+- [Asetus terveyden\- ja sairaanhoidon hallinnosta Ahvenanmaan maakunnassa annetun asetuksen 3§:n 2 momentin 2 kohdan ja 7§:n kumoamisesta](395.md) `395/1990`
+- [Asetus terveydenhuollon koulutuksesta Ahvenanmaan maakunnassa](396.md) `396/1990`
+- [Asetus museoviraston eräiden virkojen perustamisesta ja lakkauttamisesta sekä nimien muuttamisesta](397.md) `397/1990`
+- [Asetus elintarvikeasetuksen muuttamisesta](398.md) `398/1990`
+- [Asetus lääninhallitusasetuksen 30§:n muuttamisesta](399.md) `399/1990`
+- [Asetus hunajasta annetun asetuksen 9§:n muuttamisesta](400.md) `400/1990`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Imatran kaupungin ja Joutsenon kunnan välillä](401.md) `401/1990`
+- [Laki eläinten lääkitsemisestä](402.md) `402/1990`
+- [Asetus rajavartiolaitoksen eräiden virkojen lakkauttamisesta ja perustamisesta](403.md) `403/1990`
+- [Asetus rajavartiolaitoksen eräiden sotilasvirkojen lakkauttamisesta ja perustamisesta](404.md) `404/1990`
+- [Asetus Tenojoen kalastuspiirin sivuvesistöjen kalastussäännöstä](405.md) `405/1990`
+- [Valtioneuvoston päätös aikuisopintorahasta](406.md) `406/1990`
+- [Valtioneuvoston päätös eräiden opintotukilaissa tarkoitettujen määrien vahvistamisesta](407.md) `407/1990`
+- [Laki ulkomaalaislain muuttamisesta](408.md) `408/1990`
+- [Laki eläkesäätiölain muuttamisesta](409.md) `409/1990`
+- [Laki avustuskassalain muuttamisesta](410.md) `410/1990`
+- [Asetus Kansainvälistä jälleenrakennuspankkia koskevaan sopimukseen tehdyn muutoksen voimaansaattamisesta](411.md) `411/1990`
+- [Asetus terrorismin vastustamista koskevan eurooppalaisen yleissopimuksen voimaansaattamisesta](412.md) `412/1990`
+- [Asetus Ruotsin kanssa Tele\-X\-järjestelmän hyödyntämisestä tehdyn sopimuksen voimaansaattamisesta](413.md) `413/1990`
+- [Asetus Valtion taloudellisesta tutkimuskeskuksesta](414.md) `414/1990`
+- [Asetus eräiden valtiovarainministeriön ja sen hallinnonalan virkojen perustamisesta ja lakkauttamisesta](415.md) `415/1990`
+- [Asetus valtiovarainministeriön hallinnonalan eräiden virkojen nimien muuttamisesta](416.md) `416/1990`
+- [Asetus työvoima\-asiain piiri\- ja paikallishallinnosta annetun asetuksen muuttamisesta](417.md) `417/1990`
+- [Laki lääkkeiden velvoitevarastointilain muuttamisesta](418.md) `418/1990`
+- [Laki evankelis\-luterilaisen kirkon eläkelain 2 ja 7§:n muuttamisesta](419.md) `419/1990`
+- [Asetus evankelisluterilaisten seurakuntien virkataloista ja rahastoista annetun lain täytäntöönpanosta annetun asetuksen muuttamisesta](420.md) `420/1990`
+- [Asetus yrityshallinnon professorin viran perustamisesta Jyväskylän yliopistoon](421.md) `421/1990`
+- [Vesiylioikeuden työjärjestys](422.md) `422/1990`
+- [Vesioikeuksien työjärjestys](423.md) `423/1990`
+- [Valtioneuvoston päätös porotalouslain 3§:n 2 momentissa tarkoitetuista enimmäistuloista](424.md) `424/1990`
+- [Maa\- ja metsätalousministeriön eläinlääkintöosaston päätös vastustettavista eläintaudeista](425.md) `425/1990`
+- [Valtioneuvoston päätös valkuaisveron muuttamisesta](426.md) `426/1990`
+- [Sisäasiainministeriön päätös eräiden tilojen, tilanosien ja alueiden siirtämisestä Kokkolan kaupungista Kruunupyyn kuntaan](427.md) `427/1990`
+- [Sisäasiainministeriön päätös erään tilan siirtämisestä Lappeenrannan kaupungista Taipalsaaren kuntaan](428.md) `428/1990`
+- [Sisäasiainministeriön päätös eräiden tilojen ja tilanosan siirtämisestä Luumäen kunnasta Ylämaan kuntaan](429.md) `429/1990`
+- [Sisäasiainministeriön päätös rajan määräämisestä eräin osin Rautavaaran ja Varpaisjärven kuntien välillä](430.md) `430/1990`
+- [Elinkeinohallituksen päätös kypsyttämättömien juustojen ja munajuustojen mikrobiologisesta laadusta ja käytettävistä tutkimusmenetelmistä](431.md) `431/1990`
+- [Laki Suomen Hallitusmuodon 23§:n muuttamisesta](432.md) `432/1990`
+- [Laki tasavallan presidentin valitsemisesta annetun lain muuttamisesta](433.md) `433/1990`
+- [Laki kansanedustajain vaaleista annetun lain muuttamisesta](434.md) `434/1990`
+- [Laki kunnallislain 16 ja 38§:n muuttamisesta](435.md) `435/1990`
+- [Laki kunnallisvaalilain muuttamisesta](436.md) `436/1990`
+- [Laki kansanedustajain vaaleista annetun lain 1§:n muuttamisesta](437.md) `437/1990`
+- [Laki ihmisoikeuksien ja perusvapauksien suojaamiseksi tehdyn yleissopimuksen ja siihen liittyvien lisäpöytäkirjojen eräiden määräysten hyväksymisestä](438.md) `438/1990`
+- [Asetus ihmisoikeuksien ja perusvapauksien suojaamiseksi tehdyn yleissopimuksen ja siihen liittyvien lisäpöytäkirjojen voimaansaattamisesta sekä yleissopimuksen ja lisäpöytäkirjojen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](439.md) `439/1990`
+- [Asetus Amerikan Yhdysvaltojen kanssa teräskauppaa vinouttavien toimien poistamisesta tehdyn sopimuksen voimaansaattamisesta](440.md) `440/1990`
+- [Laki tullitariffilain liitteinä olevien tullitariffin ja teollisuustulliluettelon muuttamisesta](441.md) `441/1990`
+- [Asetus lukioasetuksen muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](442.md) `442/1990`
+- [Asetus taideteollisesta korkeakoulusta annetun asetuksen muuttamisesta](443.md) `443/1990`
+- [Asetus Valtionrautateiden ja Posti\- ja telelaitoksen vakinaisen virkamiehen oikeudesta erorahaan ja toistuvaan korvaukseen](444.md) `444/1990`
+- [Valtioneuvoston päätös sokerijuurikkaan tuotantopalkkiosta](445.md) `445/1990`
+- [Valtioneuvoston päätös asuntolainan vuosimaksusta](446.md) `446/1990`
+- [Laki Postipankki Oy:stä annetun lain muuttamisesta](447.md) `447/1990`
+- [Laki Postipankki Oy:n investointirahastosta annetun lain kumoamisesta](448.md) `448/1990`
+- [Laki valtion virkamiesten tapaturmakorvauksesta](449.md) `449/1990`
+- [Laki uusjakojen tukemisesta annetun lain muuttamisesta](450.md) `450/1990`
+- [Laki lasten päivähoidosta annetun lain muuttamisesta](451.md) `451/1990`
+- [Asetus ulkoasiainhallinnosta annetun asetuksen muuttamisesta](452.md) `452/1990`
+- [Asetus läänin liikuntalautakunnasta annetun asetuksen 11§:n muuttamisesta](453.md) `453/1990`
+- [Asetus maanmittausmaksusta annetun asetuksen muuttamisesta](454.md) `454/1990`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Kuhmon kaupungin ja Sotkamon kunnan välillä](455.md) `455/1990`
+- [Sisäasiainministeriön päätös kahden tilan siirtämisestä Kuhmon kaupungista Sotkamon kuntaan](456.md) `456/1990`
+- [Sisäasiainministeriön päätös eräiden tilojen ja alueiden siirtämisestä Savonlinnan kaupungista ja Enonkosken kunnasta Heinäveden kuntaan](457.md) `457/1990`
+- [Sisäasiainministeriön päätös tilojen, tilanosien ja alueiden siirtämisestä Rovaniemen maalaiskunnan ja Sodankylän kunnan välillä](458.md) `458/1990`
+- [Sisäasiainministeriön päätös eräiden tilanosien ja alueiden siirtämisestä Pudasjärven ja Taivalkosken kuntien välillä](459.md) `459/1990`
+- [Valtioneuvoston päätös elintarviketuotteiden hinnanerokorvauksista annetun valtioneuvoston päätöksen 6§:n muuttamisesta](460.md) `460/1990`
+- [Sisäasiainministeriön päätös rajan määräämisestä eräiltä osin Puolangan ja Utajärven kuntien välillä](461.md) `461/1990`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Puolangan ja Utajärven kuntien välillä](462.md) `462/1990`
+- [Asetus kulttuuriyhteistyöstä Pohjoismaiden välillä tehdyn sopimuksen muuttamista koskevan sopimuksen voimaansaattamisesta](463.md) `463/1990`
+- [Asetus jätteen ja muun aineen mereen laskemisen aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1972 tehdyn yleissopimuksen III liitteen muutoksen voimaansaattamisesta](464.md) `464/1990`
+- [Asetus dopingin vastaisen yleissopimuksen voimaansaattamisesta](465.md) `465/1990`
+- [Asetus maa\- ja metsätalousministeriöstä annetun asetuksen muuttamisesta](466.md) `466/1990`
+- [Valtioneuvoston päätös ulkomaanedustuksen virkamiesten paikalliskorotuksesta, varustautumiskorvauksesta ja asettautumiskustannusten korvauksesta annetun valtioneuvoston päätöksen muuttamisesta](467.md) `467/1990`
+- [Maa\- ja metsätalousministeriön päätös valtiolle maksettavan virkatalonvuokran ja muun valtiolle viljassa suoritettavan korvauksen määräämisestä vuonna 1990](468.md) `468/1990`
+- [Maa\- ja metsätalousministeriön päätös seleenin lisäämisestä lannoitteisiin](469.md) `469/1990`
+- [Maa\- ja metsätalousministeriön päätös elävän kalan kuljettamisen rajoittamisesta muualta Suomesta Tenojoen, Näätämöjoen, Paatsjoen ja Luttojoen vesistöjen alueelle sekä Paatsjoen ja Luttojoen vesistöjen alueelta Näätämöjoen vesistön alueelle](470.md) `470/1990`
+- [Maa\- ja metsätalousministeriön päätös elävän kalan ja mädin kuljettamisen rajoittamisesta merestä sisävesistöön](471.md) `471/1990`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta annetun Suomen Pankin päätöksen muuttamisesta](472.md) `472/1990`
+- [Asetus opintotukiasetuksen 1 §:n muuttamisesta](473.md) `473/1990`
+- [Asetus kauppa\- ja teollisuusministeriöstä](474.md) `474/1990`
+- [Asetus kuluttaja\-asiain neuvottelukunnasta annetun asetuksen muuttamisesta](475.md) `475/1990`
+- [Valtiovarainministeriön päätös tilivirastoista](476.md) `476/1990`
+- [Oikeusministeriön päätös lainhuuto\- ja kiinnitysrekisterin käyttöön ottamisesta eräissä tuomiokunnissa ja raastuvanoikeuksissa](477.md) `477/1990`
+- [Laki auto\- ja moottoripyöräverosta annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](478.md) `478/1990`
+- [Asetus yleislääketieteen apulaisprofessorin viran perustamisesta Tampereen yliopistoon](479.md) `479/1990`
+- [Asetus rakennusasetuksen muuttamisesta](480.md) `480/1990`
+- [Valtioneuvoston päätös pinta\-alalisästä](481.md) `481/1990`
+- [Valtioneuvoston päätös peltoalan perusteella maksettavasta tuesta](482.md) `482/1990`
+- [Valtioneuvoston päätös suurimmista sallituista poroluvuista sekä laidunmaksuista](483.md) `483/1990`
+- [Asetus Ison\-Britannian ja Pohjois\-Irlannin yhdistyneen kuningaskunnan kanssa diplomaatti\- ja konsuliedustustojen henkilöstön perheenjäsenten ansiotyöstä tehdyn sopimuksen voimaansaattamisesta](484.md) `484/1990`
+- [Asetus ulkoasiainhallinnosta](485.md) `485/1990`
+- [Asetus Suomen ulkomaanedustustojen sijainnista](486.md) `486/1990`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta annetun Suomen Pankin päätöksen muuttamisesta](487.md) `487/1990`
+- [Laki Ystävyyden puistosta](488.md) `488/1990`
+- [Asetus Ystävyyden puistosta](489.md) `489/1990`
+- [Asetus lasten päivähoidosta annetun asetuksen 8§:n muuttamisesta](490.md) `490/1990`
+- [Asetus sosiaalihuollon ammatillisen henkilöstön kelpoisuusehdoista annetun asetuksen muuttamisesta](491.md) `491/1990`
+- [Asetus kuvataideakatemiasta annetun asetuksen muuttamisesta](492.md) `492/1990`
+- [Valtioneuvoston päätös riistanhoitomaksun korottamisesta](493.md) `493/1990`
+- [Laki puolustusvoimista annetun lain 4 ja 5§:n muuttamisesta](494.md) `494/1990`
+- [Muutoksia vuoden 1990 tulo\- ja menoarvioon Annettu Helsingissä 8 päivänä kesäkuuta 1990](495.md) `495/1990`
+- [Asetus Helsingin yliopiston apulaisprofessoreista annetun asetuksen muuttamisesta](496.md) `496/1990`
+- [Asetus Helsingin yliopiston eräiden virkojen kelpoisuusvaatimuksista](497.md) `497/1990`
+- [Asetus Lapin korkeakoulusta annetun asetuksen muuttamisesta](498.md) `498/1990`
+- [Asetus opetusministeriön hallinnonalan eräiden virkojen nimien muuttamisesta](499.md) `499/1990`
+- [Asetus valtion mielisairaaloista annetun asetuksen muuttamisesta](500.md) `500/1990`
+- [Asetus sosiaali\- ja terveysministeriön eräiden virkojen perustamisesta ja lakkauttamisesta](501.md) `501/1990`
+- [Oikeusministeriön päätös kansanedustajain vaaleissa käytettävien eräiden lomakkeiden kaavoista](502.md) `502/1990`
+- [Maa\- ja metsätalousministeriön päätös Ruotsin ja Neuvostoliiton kanssa kalastuksesta tehtyjen sopimusten täytäntöönpanosta vuonna 1990 annetun maa\- ja metsätalousministeriön päätöksen 1 ja 2§:n muuttamisesta](503.md) `503/1990`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkelain 11§:ssä tarkoitettujen vapaaehtoisten lisäetujen rekisteröimisehdoista annetun sosiaaliministeriön päätöksen 1§:n muuttamisesta](504.md) `504/1990`
+- [Laki vientitakuulain 2§:n muuttamisesta](505.md) `505/1990`
+- [Laki kirkkolain 126 a ja 547§:n muuttamisesta](506.md) `506/1990`
+- [Asetus vaarallisten aineiden kuljettamisesta tiellä annetun asetuksen muuttamisesta](507.md) `507/1990`
+- [Asetus maan ulkomaankaupassa sovellettavista määrällisistä rajoituksista annetun asetuksen liitteen muuttamisesta](508.md) `508/1990`
+- [Tasavallan Presidentin \>avoin kirje valtioneuvostossa toimeenpannuista muutoksista](509.md) `509/1990`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Parikkalan ja Saaren kuntien välillä](510.md) `510/1990`
+- [Sisäasiainministeriön päätös erään tilan, tilanosien ja alueiden siirtämisestä Parikkalan kunnasta Saaren kuntaan](511.md) `511/1990`
+- [Eduskunnan pankkivaltuusmiesten päätös Suomen Pankin johtosäännön muuttamisesta](512.md) `512/1990`
+- [Laki maidon ja sianlihan vientikustannusmaksusta](513.md) `513/1990`
+- [Laki maidon väliaikaisesta kiintiömaksusta annetun lain 6§:n muuttamisesta](514.md) `514/1990`
+- [Laki valkuaisverosta annetun lain 6§:n väliaikaisesta muuttamisesta](515.md) `515/1990`
+- [Asetus kalastustuloasetuksen 1§:n muuttamisesta](516.md) `516/1990`
+- [Asetus valtion maatalousteknologian tutkimuslaitoksen suoritteista perittävistä maksuista](517.md) `517/1990`
+- [Asetus kasvintarkastuksesta perittävistä maksuista annetun asetuksen 2§:n muuttamisesta](518.md) `518/1990`
+- [Asetus valtion siementarkastuslaitoksen tarkastusmaksuista annetun asetuksen muuttamisesta](519.md) `519/1990`
+- [Valtioneuvoston päätös maidon kuljetusavustuksista annetun valtioneuvoston päätöksen 2§:n muuttamisesta](520.md) `520/1990`
+- [Valtioneuvoston päätös vuonna 1990 tehtävistä emolehmäsopimuksista annetun valtioneuvoston päätöksen 5§:n muuttamisesta](521.md) `521/1990`
+- [Valtioneuvoston päätös vuonna 1990 tehtävistä kananmunantuotannon vähentämissopimuksista annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](522.md) `522/1990`
+- [Laki evankelis\-luterilaisen kirkon perhe\-eläkelain muuttamisesta](523.md) `523/1990`
+- [Asetus Vaasan korkeakoulusta annetun asetuksen 63§:n muuttamisesta](524.md) `524/1990`
+- [Asetus eräistä sosiaali\- ja terveydenhuollon koulutuksen opiskelijavalintaa koskevista järjestelyistä Uudenmaan läänissä vuosina 1991\-93](525.md) `525/1990`
+- [Asetus eräiden korkeakoulujen virkojen kelpoisuusvaatimuksista sekä virkamiesten tehtävistä annetun asetuksen muuttamisesta](526.md) `526/1990`
+- [Asetus kauppakorkeakoulujen virkojen kelpoisuusvaatimuksista sekä virkamiesten tehtävistä annetun asetuksen muuttamisesta](527.md) `527/1990`
+- [Asetus teknillisten korkeakoulujen virkojen kelpoisuusvaatimuksista sekä virkamiesten tehtävistä annetun asetuksen 14§:n muuttamisesta](528.md) `528/1990`
+- [Asetus Eläinlääketieteellisen korkeakoulun virkojen kelpoisuusvaatimuksista sekä virkamiesten tehtävistä annetun asetuksen 12§:n muuttamisesta](529.md) `529/1990`
+- [Valtioneuvoston päätös pientonniston korkomenojen alentamiseksi myönnettävistä avustuksista](530.md) `530/1990`
+- [Valtioneuvoston päätös valtion virkamiesten tapaturmakorvauksesta annetun lain täytäntöönpanosta](531.md) `531/1990`
+- [Valtioneuvoston päätös valtion virastojen ja laitosten eläkemaksujen perusteista](532.md) `532/1990`
+- [Valtioneuvoston päätös vientitakuusta perittävän maksun yleisistä perusteista annetun valtioneuvoston päätöksen 1 a ja 5§:n muuttamisesta](533.md) `533/1990`
+- [Valtioneuvoston päätös perusraaka\-ainehuollon turvaamiseksi myönnettävän valtion takuun yleisistä maksuperusteista annetun valtioneuvoston päätöksen 1§:n muuttamisesta](534.md) `534/1990`
+- [Laki työttömyysturvalain 22§:n muuttamisesta](535.md) `535/1990`
+- [Laki työttömyyskassalain muuttamisesta](536.md) `536/1990`
+- [Laki koulutus\- ja erorahastosta](537.md) `537/1990`
+- [Asetus työttömyysturvaetuuksien korottamisesta](538.md) `538/1990`
+- [Asetus perhe\-eläkeasetuksen muuttamisesta](539.md) `539/1990`
+- [Asetus lesken koulutustuesta annetun asetuksen muuttamisesta](540.md) `540/1990`
+- [Asetus eläkkeensaajien asumistukiasetuksen 12§:n muuttamisesta](541.md) `541/1990`
+- [Asetus työntekijäin eläkeasetuksen muuttamisesta](542.md) `542/1990`
+- [Asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkeasetuksen muuttamisesta](543.md) `543/1990`
+- [Asetus maatalousyrittäjien eläkeasetuksen muuttamisesta](544.md) `544/1990`
+- [Asetus yrittäjien eläkeasetuksen 12 a ja 15§:n muuttamisesta](545.md) `545/1990`
+- [Asetus lastensuojeluasetuksen muuttamisesta](546.md) `546/1990`
+- [Asetus opetusministeriön eräiden virkojen siirtämisestä](547.md) `547/1990`
+- [Asetus eräiden valtion teknillisen tutkimuskeskuksen virkojen perustamisesta](548.md) `548/1990`
+- [Asetus eräiden koskiensuojelulain mukaisten tehtävien hoidosta](549.md) `549/1990`
+- [Sisäasiainministeriön päätös kahden tilan siirtämisestä Kuusankosken kaupungista Jaalan kuntaan](550.md) `550/1990`
+- [Sisäasiainministeriön päätös eräiden tilanosien ja alueiden siirtämisestä Pyhännän kunnasta Vuolijoen kuntaan](551.md) `551/1990`
+- [Liikenneministeriön päätös tieliikenteen liikennevaloista](552.md) `552/1990`
+- [Verohallituksen päätös ennakonpidätyksen toimittamisvelvollisuudesta](553.md) `553/1990`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä annetun verohallituksen päätöksen muuttamisesta](554.md) `554/1990`
+- [Laki rangaistusten täytäntöönpanosta annetun asetuksen 2 luvun muuttamisesta](555.md) `555/1990`
+- [Laki kuntajaosta annetun lain muuttamisesta](556.md) `556/1990`
+- [Laki ammatillisista opettajankoulutuslaitoksista](557.md) `557/1990`
+- [Laki ammatillisista oppilaitoksista annetun lain 42§:n muuttamisesta](558.md) `558/1990`
+- [Laki ammatillisten oppilaitosten rahoituksesta annetun lain muuttamisesta](559.md) `559/1990`
+- [Asetus ammatillisista opettajankoulutuslaitoksista](560.md) `560/1990`
+- [Asetus Hämeenlinnan ammatillisen opettajakorkeakoulun liikenneopetuskeskuksesta](561.md) `561/1990`
+- [Asetus opetusministeriön hallinnonalan eräiden virkojen nimien muuttamisesta](562.md) `562/1990`
+- [Asetus ammatillisten oppilaitosten ruotsinkielisen opettajankoulutuksen järjestämisestä Åbo Akademi \-nimisen yliopiston kasvatustieteiden tiedekunnassa](563.md) `563/1990`
+- [Asetus kasvatustieteellisistä tutkinnoista ja opinnoista annetun asetuksen muuttamisesta](564.md) `564/1990`
+- [Laki ammatillisista oppilaitoksista annetun lain 17 ja 21§:n muuttamisesta](565.md) `565/1990`
+- [Asetus ammattioppilaitoksista annetun asetuksen muuttamisesta](566.md) `566/1990`
+- [Asetus hotelli\- ja ravintolaoppilaitoksista annetun asetuksen muuttamisesta](567.md) `567/1990`
+- [Asetus kauppaoppilaitoksista annetun asetuksen muuttamisesta](568.md) `568/1990`
+- [Asetus koti\- ja laitostalousoppilaitoksista annetun asetuksen muuttamisesta](569.md) `569/1990`
+- [Asetus kuvataideoppilaitoksista annetun asetuksen muuttamisesta](570.md) `570/1990`
+- [Asetus käsi\- ja taideteollisuusoppilaitoksista annetun asetuksen muuttamisesta](571.md) `571/1990`
+- [Asetus maatalousalan oppilaitoksista annetun asetuksen muuttamisesta](572.md) `572/1990`
+- [Asetus merenkulkuoppilaitoksista annetun asetuksen muuttamisesta](573.md) `573/1990`
+- [Asetus metsä\- ja puutalousoppilaitoksista annetun asetuksen muuttamisesta](574.md) `574/1990`
+- [Asetus sosiaalialan oppilaitoksista annetun asetuksen muuttamisesta](575.md) `575/1990`
+- [Asetus teknillisistä oppilaitoksista annetun asetuksen muuttamisesta](576.md) `576/1990`
+- [Asetus terveydenhuolto\-oppilaitoksista annetun asetuksen muuttamisesta](577.md) `577/1990`
+- [Asetus ammatillisista erityisoppilaitoksista annetun asetuksen muuttamisesta](578.md) `578/1990`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Evijärven, Luodon ja Pedersören kuntien välillä](579.md) `579/1990`
+- [Sisäasiainministeriön päätös rajan määräämisestä eräiltä osin Posion ja Taivalkosken kuntien välillä](580.md) `580/1990`
+- [Sisäasiainministeriön päätös eräiden tilanosien siirtämisestä Suomussalmen kunnasta Pudasjärven kuntaan](581.md) `581/1990`
+- [Laki Euroopan vapaakauppaliiton perustamista koskevan konvention muuttamisesta tehdyn päätöksen eräiden määräysten hyväksymisestä](582.md) `582/1990`
+- [Asetus Euroopan vapaakauppaliiton perustamista koskevan konvention muuttamisesta tehdyn päätöksen voimaansaattamisesta sekä päätöksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](583.md) `583/1990`
+- [Valtioneuvoston päätös kansanedustajien paikkojen jaosta vaalipiirien kesken](584.md) `584/1990`
+- [Valtioneuvoston päätös lomittajatoimintaa koskevasta ostopalvelukokeilusta](585.md) `585/1990`
+- [Valtiovarainministeriön päätös Euroopan vapaakauppaliiton jäsenvaltioiden välisessä kaupassa noudatettavien alkuperä\- sääntöjen eräiden muutosten soveltamisesta](586.md) `586/1990`
+- [Sisäasiainministeriön päätös rajan määräämisestä eräiltä osin Kuhmoisten ja Längelmäen kuntien välillä](587.md) `587/1990`
+- [Sisäasiainministeriön päätös eräiden tilojen ja alueiden siirtämisestä Ilmajoen kunnasta Jurvan kuntaan](588.md) `588/1990`
+- [Sisäasiainministeriön päätös eräiden tilojen, tilanosien ja alueiden siirtämisestä Miehikkälän kunnasta Luumäen, Ylämaan ja Virolahden kuntiin](589.md) `589/1990`
+- [Sisäasiainministeriön päätös yhden tilan siirtämisestä Vähänkyrön kunnasta Ilmajoen kuntaan](590.md) `590/1990`
+- [Sisäasiainministeriön päätös eräiden tilojen ja alueen siirtämisestä Pyhäjoen kunnasta Merijärven kuntaan](591.md) `591/1990`
+- [Sisäasiainministeriön päätös tilan, tilanosien ja alueen siirtämisestä Elimäen kunnasta Iitin kuntaan](592.md) `592/1990`
+- [Laki aluevaihdosta valtion ja Helsingin kaupungin välillä](593.md) `593/1990`
+- [Laki tullitariffilain liitteenä olevan tullitariffin muuttamisesta](594.md) `594/1990`
+- [Laki omenan tullin muuttamisesta](595.md) `595/1990`
+- [Laki valtion maatalousteknologian tutkimuslaitoksesta annetun lain 1§:n muuttamisesta](596.md) `596/1990`
+- [Laki teollisuudelle ympäristönsuojeluinvestointeihin myönnettävistä valtiontakauksista annetun lain muuttamisesta](597.md) `597/1990`
+- [Laki rintamasotilaseläkelain 9 a§:n muuttamisesta](598.md) `598/1990`
+- [Laki työntekijäin eläkelain 12§:n muuttamisesta](599.md) `599/1990`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 9§:n muuttamisesta](600.md) `600/1990`
+- [Laki yrittäjien eläkelain 10§:n muuttamisesta](601.md) `601/1990`
+- [Laki maatalousyrittäjien eläkelain 6§:n 4 momentin ja 6 f§:n 3 momentin kumoamisesta](602.md) `602/1990`
+- [Laki tapaturmavakuutuslain 58§:n muuttamisesta](603.md) `603/1990`
+- [Asetus ulkoasiainhallinnon erään viran perustamisesta](604.md) `604/1990`
+- [Asetus valtiovarainministeriön erään viran perustamisesta ja erään viran lakkauttamisesta](605.md) `605/1990`
+- [Asetus työvoimatoimikunnasta annetun asetuksen 2 ja 3§:n muuttamisesta](606.md) `606/1990`
+- [Laki aluksista aiheutuvan vesien pilaantumisen ehkäisemisestä annetun lain 3§:n muuttamisesta](607.md) `607/1990`
+- [Asetus Saksan demokraattisen tasavallan kanssa maksuliikenteen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](608.md) `608/1990`
+- [Asetus maan jakamisesta sotilaslääneihin ja maanpuolustusalueisiin](609.md) `609/1990`
+- [Asetus valtion tulo\- ja menoarviosta annetun asetuksen muuttamisesta](610.md) `610/1990`
+- [Asetus eläinten lääkitsemisestä](611.md) `611/1990`
+- [Asetus maanmittaushallinnon suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](612.md) `612/1990`
+- [Asetus sosiaalipalveluista perittävistä maksuista annetun asetuksen muuttamisesta](613.md) `613/1990`
+- [Valtioneuvoston päätös turkisnahkojen väliaikaisesta hintatuesta](614.md) `614/1990`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Lapuan kaupungin ja Ylihärmän kunnan välillä](615.md) `615/1990`
+- [Sosiaali\- ja terveysministeriön päätös sosiaalihuollon ammatillisen henkilöstön kelpoisuusehdoista annetun asetuksen 9§:n 2 ja 3 kohdassa tarkoitetuista koulutuksista annetun sosiaali\- ja terveysministeriön päätöksen 1§:n muuttamisesta](616.md) `616/1990`
+- [Maa\- ja metsätalousministeriön eläinlääkintöosaston päätös eläintautien leviämisen ehkäisemisestä maahantuonnin yhteydessä annetun maa\- ja metsätalousministeriön eläinlääkintöosaston päätöksen muuttamisesta](617.md) `617/1990`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta annetun Suomen Pankin päätöksen muuttamisesta](618.md) `618/1990`
+- [Asetus pelastushallinnon eräiden virkojen perustamisesta](619.md) `619/1990`
+- [Kemikaaliasetus](620.md) `620/1990`
+- [Asetus terveydelle tai ympäristölle vaarallisen kemikaalin myynnistä ja säilyttämisestä](621.md) `621/1990`
+- [Asetus kemikaalineuvottelukunnasta](622.md) `622/1990`
+- [Valtioneuvoston päätös kuntajaon muuttamisesta eräiltä osin Kouvolan kaupungin ja Valkealan kunnan välillä](623.md) `623/1990`
+- [Sisäasiainministeriön päätös erään tilanosan ja alueen siirtämisestä Ylämaan kunnasta Lappeenrannan kaupunkiin](624.md) `624/1990`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Lumijoen ja Rantsilan kuntien välillä](625.md) `625/1990`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Muhoksen ja Tyrnävän kuntien välillä](626.md) `626/1990`
+- [Sisäasiainministeriön päätös eräiden tilojen ja alueiden siirtämisestä Lapinlahden kunnasta Varpaisjärven kuntaan](627.md) `627/1990`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Hausjärven ja Janakkalan kuntien välillä](628.md) `628/1990`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Pudasjärven ja Puolangan kuntien välillä](629.md) `629/1990`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Suomussalmen ja Taivalkosken kuntien välillä](630.md) `630/1990`
+- [Liikenneministeriön päätös paineilmajarruilla varustettujen autojen ja niihin kytkettävien perävaunujen jarrulaitteista](631.md) `631/1990`
+- [Liikenneministeriön päätös televerkkojen liikenteellisestä aluejaosta](632.md) `632/1990`
+- [Liikenneministeriön päätös keskuslentoasemista ja niiden toimialueista annetun liikenneministeriön päätöksen kumoamisesta](633.md) `633/1990`
+- [Valtioneuvoston päätös investointivarausten käyttämisestä](634.md) `634/1990`
+- [Valtioneuvoston päätös investointirahastojen käyttämisestä annetun valtioneuvoston päätöksen 1 § :n muuttamisesta](635.md) `635/1990`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Kestilän ja Vaalan kuntien välillä](636.md) `636/1990`
+- [Liikenneministeriön päätös linja\-autojen rakenteesta ja varusteista](637.md) `637/1990`
+- [Valtiovarainministeriön päätös verohallinnon luottamushenkilöiden palkkioista annetun valtiovarainministeriön päätöksen muuttamisesta](638.md) `638/1990`
+- [Sosiaali\- ja terveysministeriön päätös lasten päivähoidosta perittävien maksujen perusteena olevasta 1\. korvausluokan tulorajasta](639.md) `639/1990`
+- [Laki työsopimuslain muuttamisesta](640.md) `640/1990`
+- [Laki leipomotyölain 1 ja 3§:n muuttamisesta](641.md) `641/1990`
+- [Asetus Helsingin yliopiston erään varsinaisen professorin viran perustamisesta](642.md) `642/1990`
+- [Asetus polymeerikemian apulaisprofessorin viran perustamisesta Helsingin yliopistoon](643.md) `643/1990`
+- [Asetus tietotekniikan apulaisprofessorin viran perustamisesta Tampereen teknilliseen korkeakouluun](644.md) `644/1990`
+- [Asetus opetusministeriön hallinnonalan eräiden virkojen nimien muuttamisesta](645.md) `645/1990`
+- [Asetus lisenssivirastolle suoritettavista maksuista](646.md) `646/1990`
+- [Asetus maan ulkomaankaupassa sovellettavista määrällisistä rajoituksista annetun asetuksen liitteen muuttamisesta](647.md) `647/1990`
+- [Sisäasiainministeriön päätös kuntajoen muuttamisesta Saaren ja Parikkalan kuntien välillä](648.md) `648/1990`
+- [Laki yhteishallinnosta vuokrataloissa](649.md) `649/1990`
+- [Laki asumisoikeusasunnoista](650.md) `650/1990`
+- [Laki asuntotuotantolain muuttamisesta](651.md) `651/1990`
+- [Laki asumistukilain 1§:n muuttamisesta](652.md) `652/1990`
+- [Laki rakennuslain muuttamisesta](653.md) `653/1990`
+- [Laki etuostolain muuttamisesta](654.md) `654/1990`
+- [Laki kunnallislain muuttamisesta](655.md) `655/1990`
+- [Laki neuvoa\-antavissa kunnallisissa kansanäänestyksissä noudatettavasta menettelystä](656.md) `656/1990`
+- [Laki leimaverolain muuttamisesta](657.md) `657/1990`
+- [Laki verotuslain 131§:n 3 momentin kumoamisesta](658.md) `658/1990`
+- [Laki perintö\- ja lahjaverolain 65§:n 3 momentin kumoamisesta](659.md) `659/1990`
+- [Laki liikevaihtoverolain 80§:n muuttamisesta](660.md) `660/1990`
+- [Laki teletoimintalain muuttamisesta](661.md) `661/1990`
+- [Laki radiolain muuttamisesta](662.md) `662/1990`
+- [Asetus Belgian kanssa tehdyn kansainvälistä maantieliikennettä koskevan sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](663.md) `663/1990`
+- [Asetus kansalaisoikeuksia ja poliittisia oikeuksia koskevan kansainvälisen yleissopimuksen sekä siihen liittyvän valinnaisen pöytäkirjan voimaansaattamisesta annetun asetuksen 2§:n muuttamisesta](664.md) `664/1990`
+- [Asetus valtion virka\-ansiomerkistä annetun asetuksen 7§:n muuttamisesta](665.md) `665/1990`
+- [Laki Teijon alueen käyttämisestä](666.md) `666/1990`
+- [Valtioneuvoston päätös vaarallisten kemikaalien luokituksesta, varoitusmerkinnöistä ja käyttöturvallisuustiedotteista](667.md) `667/1990`
+- [Asetus pakolaisten viisumivelvollisuuden poistamisesta tehdyn eurooppalaisen sopimuksen voimaansaattamisesta](668.md) `668/1990`
+- [Asetus Tanskan, Suomen, Norjan ja Ruotsin välillä valtioiden eläkejärjestelmien mukaisen eläkeoikeuden sopeuttamisesta tehdyn sopimuksen muuttamista koskevan pöytäkirjan voimaansaattamisesta](669.md) `669/1990`
+- [Asetus työvoima\-asiain piiri\- ja paikallishallinnon eräiden virkojen perustamisesta ja lakkauttamisesta](670.md) `670/1990`
+- [Kosmetiikka\-asetus](671.md) `671/1990`
+- [Kauppa\- ja teollisuusministeriön päätös kosmeettisista valmisteista](672.md) `672/1990`
+- [Laki valtion virkamieslain muuttamisesta](673.md) `673/1990`
+- [Laki valtion virkojen täyttämisestä eräissä tapauksissa ja eräiden asetusten toimittamisesta eduskunnalle annetun lain 2§:n kumoamisesta](674.md) `674/1990`
+- [Asetus valtion virkamiesasetuksen muuttamisesta](675.md) `675/1990`
+- [Laki tieliikennelain muuttamisesta](676.md) `676/1990`
+- [Asetus esitutkinnasta ja pakkokeinoista annetun asetuksen muuttamisesta](677.md) `677/1990`
+- [Asetus työsuojeluhallituksen suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](678.md) `678/1990`
+- [Asetus nuorten työntekijäin suojelusta annetun asetuksen 3 ja 4§:n muuttamisesta](679.md) `679/1990`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Irakia ja Kuwaitia koskevaan päätökseen perustuvien velvoitusten täyttämisestä](680.md) `680/1990`
+- [Laki lasten päivähoidosta annetun lain 3§:n 1 ja 3 momentin kumoamisesta](681.md) `681/1990`
+- [Asetus vaarallisten kemikaalien teollisesta käsittelystä ja varastoinnista](682.md) `682/1990`
+- [Kauppa\- ja teollisuusministeriön päätös vaarallisten kemikaalien teollisesta käsittelystä ja varastoinnista annetun asetuksen soveltamisesta](683.md) `683/1990`
+- [Laki opintotukilain muuttamisesta](684.md) `684/1990`
+- [Eläinlääkintähuoltolaki](685.md) `685/1990`
+- [Asetus maakaasuasetuksen muuttamisesta](686.md) `686/1990`
+- [Asetus tapaturmaviraston eräiden virkojen nimien muuttamisesta](687.md) `687/1990`
+- [Asetus poliisiasetuksen muuttamisesta](688.md) `688/1990`
+- [Asetus veikkauksen valvonnan järjestämisestä valtiolle aiheutuvien kulujen perinnästä](689.md) `689/1990`
+- [Asetus maanmittaushallinnosta annetun asetuksen 45 §:n muuttamisesta](690.md) `690/1990`
+- [Maa\- ja metsätalousministeriön päätös maanmittaustoimituksista perittävistä työaikakorvauksista ja täydentämiskorvauksista sekä lohkomisesta ja halkomisesta perittävistä pinta\-alakorvauksista](691.md) `691/1990`
+- [Puolustusministeriön päätös kemiallisten taisteluaineiden raaka\-aineista](692.md) `692/1990`
+- [Maa\- ja metsätalousministeriön päätös lihantarkastuksesta annetun maa\- ja metsätalousministeriön päätöksen 6§:n muuttamisesta](693.md) `693/1990`
+- [Tuotevastuulaki](694.md) `694/1990`
+- [Laki asunto\-olojen kehittämisrahastosta annetun lain muuttamisesta](695.md) `695/1990`
+- [Laki rakennuslain muuttamisesta](696.md) `696/1990`
+- [Asetus rakennusasetuksen muuttamisesta](697.md) `697/1990`
+- [Asetus Valtionhallinnon kehittämiskeskuksen suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](698.md) `698/1990`
+- [Sisäasiainministeriön päätös pysäköintivirhemaksun korottamisesta](699.md) `699/1990`
+- [Laki perintökaaren muuttamisesta](700.md) `700/1990`
+- [Laki perintökaaren voimaanpanosta annetun lain 8§:n muuttamisesta](701.md) `701/1990`
+- [Laki holhouslain 69§:n muuttamisesta](702.md) `702/1990`
+- [Laki kuolleeksi julistamisesta annetun lain 11§:n muuttamisesta](703.md) `703/1990`
+- [Laki säätiölain 3 a§:n 3 momentin kumoamisesta](704.md) `704/1990`
+- [Laki perintö\- ja lahjaverolain 6§:n muuttamisesta](705.md) `705/1990`
+- [Asetus ajoneuvoasetuksen muuttamisesta](706.md) `706/1990`
+- [Liikenneministeriön päätös ajoneuvoasetuksen täytäntöönpanosta annetun liikenneministeriön päätöksen muuttamisesta](707.md) `707/1990`
+- [Valtiovarainministeriön päätös Euroopan vapaakauppaliiton jäsenvaltioiden välisessä kaupassa noudatettavien alkuperäsääntöjen eräiden muutosten soveltamisesta](708.md) `708/1990`
+- [Valtiovarainministeriön päätös Suomen tasavallan ja Euroopan talousyhteisön välisessä kaupassa noudatettavien alkuperäsääntöjen eräiden muutosten soveltamisesta](709.md) `709/1990`
+- [Asetus ylioppilastutkinnosta annetun asetuksen muuttamisesta](710.md) `710/1990`
+- [Asetus sosiaali\- ja terveysministeriöstä](711.md) `711/1990`
+- [Kauppa\- ja teollisuusministeriön päätös eräiden elintarvikerasvojen pakkausmerkinnöistä](712.md) `712/1990`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta annetun Suomen Pankin päätöksen muuttamisesta](713.md) `713/1990`
+- [Asetus torjunta\-aineasetuksen muuttamisesta](714.md) `714/1990`
+- [Asetus kemikaalilain nojalla lääkintöhallitukselle tehtävien ilmoitusten käsittelymaksuista](715.md) `715/1990`
+- [Sosiaali\- ja terveysministeriön päätös uusien aineiden ilmoitusmenettelystä](716.md) `716/1990`
+- [Laki Suomen itsenäisyyden juhlarahastosta](717.md) `717/1990`
+- [Laki maatilatalouden tuloverolain muuttamisesta](718.md) `718/1990`
+- [Laki verotuslain 45§:n muuttamisesta](719.md) `719/1990`
+- [Laki maatalouden investointivarauslain 1 ja 12§:n muuttamisesta](720.md) `720/1990`
+- [Laki leimaverolain 10 ja 12§:n muuttamisesta](721.md) `721/1990`
+- [Asetus vesiasetuksen 12 a ja 20§:n muuttamisesta](722.md) `722/1990`
+- [Oikeusministeriön päätös lainhuuto\- ja kiinnitysrekisterin käyttöön ottamisesta eräissä tuomiokunnissa ja raastuvanoikeuksissa](723.md) `723/1990`
+- [Laki työsopimuslain muuttamisesta](724.md) `724/1990`
+- [Laki henkilöstön edustuksesta yritysten hallinnossa](725.md) `725/1990`
+- [Asetus humanistisen perustutkinnon järjestämisestä annetun asetuksen 6 a§:n muuttamisesta](726.md) `726/1990`
+- [Asetus luonnontieteellisen perustutkinnon järjestämisestä annetun asetuksen muuttamisesta](727.md) `727/1990`
+- [Asetus yhteiskuntatieteellisten perustutkintojen järjestämisestä annetun asetuksen muuttamisesta](728.md) `728/1990`
+- [Asetus taideteollisen alan korkeakoulututkinnoista annetun asetuksen muuttamisesta](729.md) `729/1990`
+- [Asetus teatterialan korkeakoulututkinnoista ja \-opinnoista annetun asetuksen muuttamisesta](730.md) `730/1990`
+- [Asetus korkeakoulujen eräiden virkojen opetusalan muuttamisesta](731.md) `731/1990`
+- [Asetus Sibelius\-Akatemian erään viran opetusalan muuttamisesta](732.md) `732/1990`
+- [Asetus pakolaisia koskevan vastuun siirtämisestä tehdyn eurooppalaisen sopimuksen voimaansaattamisesta](733.md) `733/1990`
+- [Asetus Suomen ulkomaanedustustojen sijainnista annetun asetuksen muuttamisesta](734.md) `734/1990`
+- [Asetus vankeinhoidon koulutuskeskuksesta](735.md) `735/1990`
+- [Asetus valtion eläinlääketieteellisen laitoksen suoritteista perittävistä maksuista annettuun asetukseen liittyvän hinnaston muuttamisesta](736.md) `736/1990`
+- [Asetus ortodoksisesta kirkkokunnasta annetun asetuksen 54§:n muuttamisesta](737.md) `737/1990`
+- [Työsuojeluhallituksen päätös vaarallisten kemikaalien käyttöturvallisuustiedotteesta](738.md) `738/1990`
+- [Asetus puolustusvoimien eräiden virkojen nimien muuttamisesta](739.md) `739/1990`
+- [Asetus puolustusvoimien eräiden virkojen lakkauttamisesta ja perustamisesta](740.md) `740/1990`
+- [Asetus puolustusvoimien eräiden virkojen lakkauttamisesta](741.md) `741/1990`
+- [Asetus teknologian kehittämiskeskuksesta annetun asetuksen 11§:n 3 momentin muuttamisesta](742.md) `742/1990`
+- [Asetus pehmustettujen istuinhuonekalujen paloturvallisuusvaatimuksista](743.md) `743/1990`
+- [Asetus yksityisestä terveydenhuollosta](744.md) `744/1990`
+- [Asetus lääkkeiden velvoitevarastoinnista annetun asetuksen muuttamisesta](745.md) `745/1990`
+- [Ympäristöministeriön päätös suojauskemikaalien ennakkohyväksymis\- ja ilmoitusmenettelystä](746.md) `746/1990`
+- [Ympäristöministeriön päätös toimivallan siirtämisestä lääninhallituksille eräissä rantakaavoitusasioissa](747.md) `747/1990`
+- [Asetus eräiden virkojen lakkauttamisesta ja perustamisesta sisäasiainministeriön hallinnonalalla](748.md) `748/1990`
+- [Asetus valtion taidemuseon suoritteista perittävistä maksuista](749.md) `749/1990`
+- [Asetus teknilliselle tarkastuskeskukselle suoritettavista maksuista annettuun asetukseen liittyvien hinnaston ja hinnaston soveltamissäännösten muuttamisesta](750.md) `750/1990`
+- [Asetus räjähdysvaarallisten aineiden valvontaviranomaisten eräistä toimituksista suoritettavista maksuista](751.md) `751/1990`
+- [Tasavallan Presidentin \>avoin kirje valtioneuvostossa toimeenpannuista muutoksista](752.md) `752/1990`
+- [Valtioneuvoston päätös auto\- ja moottoripyöräveron muuttamisesta](753.md) `753/1990`
+- [Maa\- ja metsätalousministeriön päätös hyväksytyistä rehun lisäaineista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](754.md) `754/1990`
+- [Asetus elintarvikkeiden vieraista aineista](755.md) `755/1990`
+- [Kauppa\- ja teollisuusministeriön päätös eräistä elintarvikkeiden vieraista aineista](756.md) `756/1990`
+- [Asetus asuntotuotantoasetuksen muuttamisesta](757.md) `757/1990`
+- [Asetus asumisoikeustalojen käyttö\- ja luovutusrajoitusten merkitsemisestä](758.md) `758/1990`
+- [Maa\- ja metsätalousministeriön päätös lohen ja taimenen kalastuksesta eräillä vesistöalueilla vuonna 1990](759.md) `759/1990`
+- [Laki ammatillisista aikuiskoulutuskeskuksista](760.md) `760/1990`
+- [Laki ammatillisten kurssikeskusten muuttumisesta ammatillisiksi aikuiskoulutuskeskuksiksi](761.md) `761/1990`
+- [Asetus ammatillisista aikuiskoulutuskeskuksista](762.md) `762/1990`
+- [Laki työvoimapoliittisesta aikuiskoulutuksesta](763.md) `763/1990`
+- [Laki ammatillisista oppilaitoksista annetun lain 1§:n muuttamisesta](764.md) `764/1990`
+- [Laki ammattikasvatushallituksesta ja sen alaisesta piirihallinnosta annetun lain 2 ja 3§:n muuttamisesta](765.md) `765/1990`
+- [Laki ammatillisten oppilaitosten rahoituksesta annetun lain muuttamisesta](766.md) `766/1990`
+- [Asetus työvoimatoimikunnasta annetun asetuksen 2§:n muuttamisesta](767.md) `767/1990`
+- [Asetus eräistä opetusministeriön hallinnonalan virkajärjestelyistä](768.md) `768/1990`
+- [Laki rikoslain muuttamisesta](769.md) `769/1990`
+- [Laki rikoslain voimaanpanemisesta annetun asetuksen muuttamisesta](770.md) `770/1990`
+- [Laki rangaistusten täytäntöönpanosta annetun asetuksen 2 luvun 2§:n muuttamisesta](771.md) `771/1990`
+- [Laki pakkokeinolain muuttamisesta](772.md) `772/1990`
+- [Laki sotilasoikeudenkäyntilain 2§:n muuttamisesta](773.md) `773/1990`
+- [Laki löytötavaralain 26 ja 30§:n muuttamisesta](774.md) `774/1990`
+- [Laki verotuslain muuttamisesta](775.md) `775/1990`
+- [Laki rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun lain muuttamisesta](776.md) `776/1990`
+- [Laki ennakkoperintälain 62 ja 63§:n muuttamisesta](777.md) `777/1990`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain 18§:n muuttamisesta](778.md) `778/1990`
+- [Laki perintö\- ja lahjaverolain 70§:n muuttamisesta](779.md) `779/1990`
+- [Laki liikevaihtoverolain 81§:n muuttamisesta](780.md) `780/1990`
+- [Laki eräistä vakuutusmaksuista suoritettavasta verosta annetun lain muuttamisesta](781.md) `781/1990`
+- [Laki valmisteverotuslain 39§:n muuttamisesta](782.md) `782/1990`
+- [Laki auto\- ja moottoripyöräverosta annetun lain 24§:n muuttamisesta](783.md) `783/1990`
+- [Laki moottoriajoneuvoverosta annetun lain 33§:n muuttamisesta](784.md) `784/1990`
+- [Laki investointiverolain muuttamisesta](785.md) `785/1990`
+- [Laki leimaverolain 100§:n muuttamisesta](786.md) `786/1990`
+- [Laki elokuvaverolain 18§:n muuttamisesta](787.md) `787/1990`
+- [Laki arpajaisverolain muuttamisesta](788.md) `788/1990`
+- [Laki koiraverosta annetun lain muuttamisesta](789.md) `789/1990`
+- [Laki tasausverolain muuttamisesta](790.md) `790/1990`
+- [Laki tullilain 8 ja 52§:n muuttamisesta](791.md) `791/1990`
+- [Laki polkumyynnin sekä vientituen avulla tapahtuvan tuonnin ehkäisemisestä annetun lain 29§:n muuttamisesta](792.md) `792/1990`
+- [Laki tuontimaksulain muuttamisesta](793.md) `793/1990`
+- [Laki kylvösiementuotannon edistämisestä annetun lain muuttamisesta](794.md) `794/1990`
+- [Laki kerman ja vähärasvaisen maidon tasausmaksusta annetun lain 19§:n muuttamisesta](795.md) `795/1990`
+- [Laki suurilta kana\- ja sikatalousyrityksiltä kannettavista markkinoimismaksuista annetun lain 23§:n muuttamisesta](796.md) `796/1990`
+- [Laki meijerikohtaisesta kiintiömaksusta annetun lain 24§:n muuttamisesta](797.md) `797/1990`
+- [Laki vientimaksulain 14§:n muuttamisesta](798.md) `798/1990`
+- [Laki öljysuojarahastosta annetun lain muuttamisesta](799.md) `799/1990`
+- [Laki varmuusvarastointimaksusta annetun lain muuttamisesta](800.md) `800/1990`
+- [Laki palosuojelumaksusta annetun lain muuttamisesta](801.md) `801/1990`
+- [Laki kasvinjalostustoiminnan edistämisestä annetun lain 9§:n muuttamisesta](802.md) `802/1990`
+- [Laki apteekkimaksusta annetun lain 15§:n muuttamisesta](803.md) `803/1990`
+- [Laki pellonraivausmaksusta annetun lain 14§:n muuttamisesta](804.md) `804/1990`
+- [Laki torjunta\-ainelain muuttamisesta](805.md) `805/1990`
+- [Laki haja\-asutusalueiden vähittäiskaupan rahoitustuesta annetun lain 16§:n muuttamisesta](806.md) `806/1990`
+- [Laki osakeyhtiölain 16 luvun 8 ja 9§:n muuttamisesta](807.md) `807/1990`
+- [Laki osuuskuntalain muuttamisesta](808.md) `808/1990`
+- [Laki kirjanpitolain muuttamisesta](809.md) `809/1990`
+- [Laki sopimattomasta menettelystä elinkeinotoiminnassa annetun lain muuttamisesta](810.md) `810/1990`
+- [Laki kuluttajansuojalain muuttamisesta](811.md) `811/1990`
+- [Laki vakuutusyhtiölain 18 luvun 4 ja 5§:n muuttamisesta](812.md) `812/1990`
+- [Laki radiolaitteista annetun lain 6§:n muuttamisesta](813.md) `813/1990`
+- [Laki sähkölain 63 ja 64§:n muuttamisesta](814.md) `814/1990`
+- [Laki palkkaturvalain 15§:n muuttamisesta](815.md) `815/1990`
+- [Laki merimiesten palkkaturvalain 15§:n muuttamisesta](816.md) `816/1990`
+- [Laki työnvälityslain 16 a§:n muuttamisesta](817.md) `817/1990`
+- [Laki shekkilain 32§:n 3 momentin kumoamisesta](818.md) `818/1990`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta annetun lain 4§:n muuttamisesta](819.md) `819/1990`
+- [Laki konkurssisäännön muuttamisesta](820.md) `820/1990`
+- [Laki konkurssisäännön väliaikaisesta muuttamisesta annetun lain 93§:n muuttamisesta](821.md) `821/1990`
+- [Laki akordilain muuttamisesta](822.md) `822/1990`
+- [Laki sotatilasta annetun lain 47§:n muuttamisesta](823.md) `823/1990`
+- [Laki eräiden Suomelle Yhdistyneiden Kansakuntien jäsenenä kuuluvien velvoitusten täyttämisestä annetun lain 4§:n muuttamisesta](824.md) `824/1990`
+- [Laki väestön toimeentulon ja maan talouselämän turvaamisesta poikkeuksellisissa oloissa annetun lain 21§:n muuttamisesta](825.md) `825/1990`
+- [Laki hintasulusta annetun lain 7§:n muuttamisesta](826.md) `826/1990`
+- [Laki maan ulkomaankaupan ja taloudellisen kasvun turvaamisesta annetun lain 8§:n muuttamisesta](827.md) `827/1990`
+- [Laki valuuttalain 12§:n muuttamisesta](828.md) `828/1990`
+- [Laki eräistä Etelä\-Afrikkaan kohdistuvista toimenpiteistä annetun lain 9§:n muuttamisesta](829.md) `829/1990`
+- [Laki eräitä valtuuslakeja vastaan tehtyjen rikosten rankaisemisesta annetun lain kumoamisesta](830.md) `830/1990`
+- [Laki epäsiveellisten julkaisujen levittämisen ehkäisemisestä annetun lain 1§:n muuttamisesta](831.md) `831/1990`
+- [Laki kulttuuriesineiden maastaviennin rajoittamisesta annetun lain 9§:n muuttamisesta](832.md) `832/1990`
+- [Laki eräiden maitovalmisteiden vienti\- ja tuontitarkastuksesta annetun lain 6§:n muuttamisesta](833.md) `833/1990`
+- [Laki eräiden kotieläinten maahan tuonnista annetun lain 4§:n muuttamisesta](834.md) `834/1990`
+- [Laki alkoholilain 3§:n muuttamisesta](835.md) `835/1990`
+- [Laki keskioluesta annetun lain 5 §:n muuttamisesta](836.md) `836/1990`
+- [Asetus vuoden 1990 väestölaskennasta](837.md) `837/1990`
+- [Asetus eräistä verohallinnon virkajärjestelyistä](838.md) `838/1990`
+- [Asetus Eläinlääketieteellisen korkeakoulun virkojen kelpoisuusvaatimuksista sekä virkamiesten tehtävistä annetun asetuksen 13§:n muuttamisesta](839.md) `839/1990`
+- [Valtioneuvoston päätös kananmunien lisähinnasta annetun valtioneuvoston päätöksen 4 ja 6§:n muuttamisesta](840.md) `840/1990`
+- [Liikenneministeriön päätös telemaksujen yleisistä perusteista annetun liikenneministeriön päätöksen kumoamisesta](841.md) `841/1990`
+- [Verohallituksen päätös metsätalouden tulojen verotuksessa noudatettavista kantohinta\-alueista](842.md) `842/1990`
+- [Laki tieliikennelain muuttamisesta](843.md) `843/1990`
+- [Laki pysäköintivirhemaksusta annetun lain 1§:n muuttamisesta](844.md) `844/1990`
+- [Ajokorttiasetus](845.md) `845/1990`
+- [Liikenneministeriön päätös ajokorttiasetuksen soveltamisesta](846.md) `846/1990`
+- [Valtioneuvoston päätös ulkomaanedustuksen virkamiesten paikalliskorotuksesta, varustautumiskorvauksesta ja asettautumiskustannusten korvauksesta annetun valtioneuvoston päätöksen muuttamisesta](847.md) `847/1990`
+- [Poronhoitolaki](848.md) `848/1990`
+- [Valtioneuvoston päätös merionnettomuudessa menetetystä henkilökohtaisesta omaisuudesta työntekijälle tulevan korvauksen perusteista annetun valtioneuvoston päätöksen 1 ja 2§:n muuttamisesta](849.md) `849/1990`
+- [Valtioneuvoston päätös eräistä lohenkalastusta koskevista rajoituksista vuonna 1990 annetun asetuksen aiheuttamia taloudellisia menetyksiä koskevien avustusten maksamisperusteista](850.md) `850/1990`
+- [Asetus Pohjoismaiden välisen väestörekisteriä koskevan sopimuksen voimaansaattamisesta](851.md) `851/1990`
+- [Asetus väestönsuojeluasetuksen muuttamisesta](852.md) `852/1990`
+- [Asetus poliisin eräiden virkojen nimien muuttamisesta](853.md) `853/1990`
+- [Asetus eräiden virkojen lakkauttamisesta ja perustamisesta sisäasiainministeriön hallinnonalalla](854.md) `854/1990`
+- [Asetus Helsingin yliopiston erään varsinaisen professorin viran opetusalan muuttamisesta](855.md) `855/1990`
+- [Asetus teletoiminta\-asetuksen muuttamisesta](856.md) `856/1990`
+- [Asetus radioasetuksen muuttamisesta](857.md) `857/1990`
+- [Asetus viestialan neuvottelukunnasta annetun asetuksen 2§:n muuttamisesta](858.md) `858/1990`
+- [Asetus helposti pilaantuvien elintarvikkeiden kansainvälisiä kuljetuksia ja tällaisissa kuljetuksissa käytettävää erityiskalustoa koskevan sopimuksen valvonnasta](859.md) `859/1990`
+- [Asetus kauppa\- ja teollisuusministeriön yrityspalvelun piiritoimistojen suoritteista perittävistä maksuista](860.md) `860/1990`
+- [Liikenneministeriön päätös telepäätelaitteiden ja radiolaitteiden tyyppihyväksynnästä](861.md) `861/1990`
+- [Asetus testaustulosten ja vaatimustenmukaisuudesta esitettyjen todisteiden keskinäisestä tunnustamisesta tehdyn yleissopimuksen sekä siihen liittyvän pöytäkirjan voimaansaattamisesta](862.md) `862/1990`
+- [Asetus työttömyyskassalain täytäntöönpanosta annetun asetuksen muuttamisesta](863.md) `863/1990`
+- [Asetus vankeusrangaistuksen täytäntöönpanosta annetun asetuksen muuttamisesta](864.md) `864/1990`
+- [Asetus sakkorangaistuksen täytäntöönpanosta annetun asetuksen 52 ja 60§:n muuttamisesta](865.md) `865/1990`
+- [Asetus eräistä rajavartiolaitoksen virkajärjestelyistä](866.md) `866/1990`
+- [Henkilökorttiasetus](867.md) `867/1990`
+- [Asetus poliisin maksuasetuksen muuttamisesta](868.md) `868/1990`
+- [Asetus valtion tulo\- ja menoarviosta annetun asetuksen muuttamisesta](869.md) `869/1990`
+- [Asetus elintarvikelisäaineista annetun asetuksen 3, 4 ja 10§:n muuttamisesta](870.md) `870/1990`
+- [Asetus jäätelöasetuksen muuttamisesta](871.md) `871/1990`
+- [Asetus lastenruoka\-asetuksen muuttamisesta](872.md) `872/1990`
+- [Asetus ruokasieniasetuksen muuttamisesta](873.md) `873/1990`
+- [Valtioneuvoston päätös opintolainan saajalle työttömyyden perusteella maksettavasta korkoavustuksesta annetun valtioneuvoston päätöksen 2§:n muuttamisesta](874.md) `874/1990`
+- [Asetus Norjan kanssa rajan ylittämistä koskevista helpotuksista tehdyn sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](875.md) `875/1990`
+- [Asetus Neuvostoliiton kanssa tehdyn yhteistyöstä torjuttaessa öljyn ja muiden vahingollisten aineiden vahinkotapauksissa aiheuttamaa Itämeren pilaantumista koskevan sopimuksen voimaansaattamisesta](876.md) `876/1990`
+- [Asetus Puolan kanssa yhteistyöstä energiansäästön ja ympäristönsuojelun alalla tehdyn sopimuksen voimaansaattamisesta](877.md) `877/1990`
+- [Asetus puolustusvoimien eräiden virkojen nimien muuttamisesta](878.md) `878/1990`
+- [Asetus valtiovarainministeriöstä](879.md) `879/1990`
+- [Asetus tapaturmaviraston eräiden virkojen perustamisesta ja lakkauttamisesta](880.md) `880/1990`
+- [Maa\- ja metsätalousministeriön päätös kotimaisen rukiin ja vehnän jauhatusvelvollisuudesta](881.md) `881/1990`
+- [Asetus arkistolaitoksen eräiden virkojen perustamisesta ja lakkauttamisesta](882.md) `882/1990`
+- [Poronhoitoasetus](883.md) `883/1990`
+- [Asetus rajavartiolaitoksesta annetun asetuksen muuttamisesta](884.md) `884/1990`
+- [Asetus Niuvanniemen sairaalan eräiden virkojen perustamisesta ja lakkauttamisesta](885.md) `885/1990`
+- [Valtioneuvoston päätös sokeriveron korottamisesta](886.md) `886/1990`
+- [Liikenneministeriön päätös liikenneopettajantutkinnosta](887.md) `887/1990`
+- [Liikenneministeriön päätös televerkkojen numeroinnista](888.md) `888/1990`
+- [Liikenneministeriön päätös teletoiminnan tunnistamistietojen luovuttamisesta ja tallentamisesta](889.md) `889/1990`
+- [Liikenneministeriön päätös sähkösanomien korulomakkeista](890.md) `890/1990`
+- [Leluasetus](891.md) `891/1990`
+- [Asetus elintarvikkeen kanssa kosketukseen joutuvista yleisistä käyttö\- ja kulutustarvikkeista annetun asetuksen 1 ja 2§:n muuttamisesta](892.md) `892/1990`
+- [Asetus Puolan kanssa tehdyn ympäristönsuojelua koskevan yhteistyösopimuksen voimaansaattamisesta](893.md) `893/1990`
+- [Asetus ulkomaisesta lainsäädännöstä saatavia tietoja koskevan eurooppalaisen yleissopimuksen ja sen lisäpöytäkirjan voimaansaattamisesta](894.md) `894/1990`
+- [Asetus Suomen ulkomaanedustustojen sijainnista annetun asetuksen muuttamisesta](895.md) `895/1990`
+- [Asetus kansanterveysasetuksen muuttamisesta](896.md) `896/1990`
+- [Asetus työsuojeluhallinnon eräiden virkojen nimien muuttamisesta](897.md) `897/1990`
+- [Asetus meriympäristöneuvottelukunnasta annetun asetuksen muuttamisesta](898.md) `898/1990`
+- [Valtioneuvoston päätös eräiden asuntolainojen ja perusparannuslainojen korosta](899.md) `899/1990`
+- [Valtioneuvoston päätös asumisoikeuden haltijoiden valinnasta](900.md) `900/1990`
+- [Asetus raittiustyöasetuksen muuttamisesta](901.md) `901/1990`
+- [Asetus säteilyturvakeskuksesta](902.md) `902/1990`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Irakia ja Kuwaitia koskevaan päätökseen perustuvien velvoitusten täyttämisestä annetun asetuksen muuttamisesta](903.md) `903/1990`
+- [Asetus asunto\-olojen kehittämisrahaston lainanottovaltuuksista vuonna 1990](904.md) `904/1990`
+- [Asetus ilmatieteen laitoksen suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](905.md) `905/1990`
+- [Asetus terveyskeskuksessa perittävistä maksuista ja korvauksista annetun asetuksen muuttamisesta](906.md) `906/1990`
+- [Valtioneuvoston päätös vaikeista ja pitkäaikaisista sairauksista ja niiden hoitoon käytettävistä sairausvakuutuslain mukaan kokonaan tai 90\-prosenttisesti korvattavista lääkkeistä annetun valtioneuvoston päätöksen 1 ja 2§:n muuttamisesta](907.md) `907/1990`
+- [Valtioneuvoston päätös vaikeista sairauksista ja niiden hoitoon käytettävistä kliinisistä ravintovalmisteista, joihin suoritetaan sairausvakuutuslain mukaista korvausta, annetun valtioneuvoston päätöksen 1 ja 2§:n muuttamisesta](908.md) `908/1990`
+- [Maa\- ja metsätalousministeriön päätös kalastuksen väliaikaisesta järjestämisestä Pielisjoessa](909.md) `909/1990`
+- [Asetus väestökirjanpidon paikallishallinnon maksuasetuksen 5§:n muuttamisesta](910.md) `910/1990`
+- [Maatilahallituksen päätös tärkeimpien kasvilajien lajikkeista](911.md) `911/1990`
+- [Asetus työvoimapoliittisesta aikuiskoulutuksesta](912.md) `912/1990`
+- [Valtioneuvoston päätös avustusten myöntämisestä turkistarhaajien korkotukilainojen korkokustannuksiin annetun valtioneuvoston päätöksen muuttamisesta](913.md) `913/1990`
+- [Laki Pohjoismaiden ympäristörahoitusyhtiön perustamista koskevan sopimuksen eräiden määräysten hyväksymisestä](914.md) `914/1990`
+- [Asetus Pohjoismaiden ympäristörahoitusyhtiön perustamista koskevan sopimuksen voimaansaattami\- sesta sekä sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](915.md) `915/1990`
+- [Valtioneuvoston päätös veropiireistä annetun valtioneuvoston päätöksen muuttamisesta](916.md) `916/1990`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä](917.md) `917/1990`
+- [Laki maksujen pennimäärien pyöristämisestä](918.md) `918/1990`
+- [Asetus eräistä radiolain ja teletoimintalain nojalla perittävistä maksuista](919.md) `919/1990`
+- [Asetus erään viran siirtämisestä sisäasiainministeriön hallinnonalalla](920.md) `920/1990`
+- [Asetus ortodoksisesta seminaarista annetun asetuksen 3§:n muuttamisesta](921.md) `921/1990`
+- [Asetus autorekisterikeskuksen eräiden virkojen nimien muuttamisesta](922.md) `922/1990`
+- [Asetus sähkölaitosten huolehdittavista sähkölaitteistojen tarkastuksista perittävistä maksuista annetun asetuksen 5§:n muuttamisesta](923.md) `923/1990`
+- [Liikenneministeriön päätös pysäköintikiekon käyttämisestä](924.md) `924/1990`
+- [Kauppa\- ja teollisuusministeriön päätös valvontalisensioinnista annetun päätöksen muuttamisesta](925.md) `925/1990`
+- [Laki ortodoksisesta kirkkokunnasta annetun lain 41§:n muuttamisesta](926.md) `926/1990`
+- [Asetus Brasilian kanssa kulttuuri\-, opetus\- ja tieteellisestä yhteistyöstä tehdyn sopimuksen voimaansaattamisesta](927.md) `927/1990`
+- [Asetus Suomen ulkomaanedustustojen sijainnista annetun asetuksen muuttamisesta](928.md) `928/1990`
+- [Asetus oikeusministeriön hallinnonalan eräiden virkojen nimien muuttamisesta](929.md) `929/1990`
+- [Asetus kanslianotaarien ja notaarien lukumäärästä tuomiokunnissa](930.md) `930/1990`
+- [Asetus eräistä rajavartiolaitoksen virkajärjestelyistä](931.md) `931/1990`
+- [Asetus eräistä määräajaksi tai muutoin rajoitetuksi ajaksi täytettävistä viroista annetuksen asetuksen 1§:n muuttamisesta](932.md) `932/1990`
+- [Asetus kauppa\- ja teollisuusministeriön hallinnonalan eräiden virkojen nimien muuttamisesta](933.md) `933/1990`
+- [Asetus tieliikenneasetuksen 21 ja 27 §:n muuttamisesta](934.md) `934/1990`
+- [Asetus eräiden sosiaali\- ja terveysministeriön hallinnonalaan kuuluvien virkojen perustamisesta ja lakkauttamisesta](935.md) `935/1990`
+- [Asetus valtion kasvatuslaitoksista annetun asetuksen 1§:n 2 ja 3 momentin kumoamisesta](936.md) `936/1990`
+- [Valtioneuvoston päätös väestönsuojelulaissa tarkoitetuista suojelukohteista](937.md) `937/1990`
+- [Valtioneuvoston päätös elintarviketuotteiden hinnanerokorvauksista annetun valtioneuvoston päätöksen muuttamisesta](938.md) `938/1990`
+- [Valtioneuvoston päätös maan jakamisesta alusrekisterialueisiin annetun valtioneuvoston päätöksen muuttamisesta](939.md) `939/1990`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkeasetuksen 9§:ssä tarkoitetun palkkaindeksiluvun vahvistamisesta](940.md) `940/1990`
+- [Liikenneministeriön päätös liikenteen ohjauslaitteista annetun liikenneministeriön päätöksen 24§:n muuttamisesta](941.md) `941/1990`
+- [Verohallituksen päätös ennakonpidätyksen toimittamisvelvollisuudesta annetun päätöksen muuttamisesta](942.md) `942/1990`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä annetun verohallituksen päätöksen muuttamisesta](943.md) `943/1990`
+- [Verohallituksen päätös tulo\- ja varallisuusverolain 83§:ssä tarkoitetuista matkakuluvähennyksen laskentaperusteista vuodelta 1990 toimitettavassa verotuksessa](944.md) `944/1990`
+- [Laki Kehitysaluerahasto Oy \-nimisestä osakeyhtiöstä annetun lain 11§:n muuttamisesta](945.md) `945/1990`
+- [Asetus Neuvostoliiton kanssa Ystävyyden luonnonsuojelualueesta tehdyn sopimuksen voimaansaattamisesta](946.md) `946/1990`
+- [Asetus automaattisten palonilmaisulaitteiden tarkastusmaksujen perusteista annetun asetuksen muuttamisesta](947.md) `947/1990`
+- [Asetus valtion rakennustöiden teettämisestä urakoitsijoilla annetun asetuksen muuttamisesta](948.md) `948/1990`
+- [Asetus Valtionrautateistä annetun asetuksen 7§:n muuttamisesta](949.md) `949/1990`
+- [Asetus kuluttajatutkimuskeskuksen suoritteista perittävistä maksuista](950.md) `950/1990`
+- [Asetus lääkärintoimen harjoittamisesta annetun asetuksen 2 ja 2 a§:n muuttamisesta](951.md) `951/1990`
+- [Asetus hammaslääkärintoimen harjoittamisesta annetun asetuksen muuttamisesta](952.md) `952/1990`
+- [Asetus sairaalassa säteilyvahingollisessa työssä toimivien henkilöiden vuosilomasta annetun asetuksen 4§:n muuttamisesta](953.md) `953/1990`
+- [Valtioneuvoston päätös selluloosasta ja puuvapaasta painopaperista suoritettujen vientitalletusten palauttamisesta](954.md) `954/1990`
+- [Sisäasiainministeriön päätös kuntien kantokykyluokituksen vahvistamisesta vuodeksi 1991](955.md) `955/1990`
+- [Laki vuodelta 1989 toimitettavan verotuksen viivästymisestä johtuvista poikkeusjärjestelyistä](956.md) `956/1990`
+- [Laki verotuslain muuttamisesta](957.md) `957/1990`
+- [Laki kansaneläkelain 5§:n muuttamisesta](958.md) `958/1990`
+- [Laki sairausvakuutuslain 34§:n muuttamisesta](959.md) `959/1990`
+- [Laki eräiden yhtymäin verovelvollisuudesta kreikkalaiskatolisille seurakunnille annetun lain muuttamisesta](960.md) `960/1990`
+- [Asetus työajan lyhentämistä neljäänkymmeneen tuntiin viikossa koskevan yleissopimuksen voimaansaattamisesta](961.md) `961/1990`
+- [Asetus Kansainvälisen työjärjestön hyväksymän työnvälityksen järjestelyä koskevan yleissopimuksen numero 88 voimaansaattamisesta sekä sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](962.md) `962/1990`
+- [Asetus palkallisia vuosilomia koskevan yleissopimuksen voimaansaattamisesta](963.md) `963/1990`
+- [Asetus merenkulkijain palkallisia vuosilomia koskevan yleissopimuksen voimaansaattamisesta](964.md) `964/1990`
+- [Asetus autorekisterikeskuksen ja sen katsastustoimipaikkojen suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](965.md) `965/1990`
+- [Valtioneuvoston päätös työttömyysvakuutusmaksusta vuonna 1991](966.md) `966/1990`
+- [Valtioneuvoston päätös vesi\- ja ympäristöpiirien rajoista ja hallintopaikoista annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](967.md) `967/1990`
+- [Laki Valtiontakuukeskuksesta annetun lain 6§:n muuttamisesta](968.md) `968/1990`
+- [Asetus maa\- ja metsätalousministeriöstä annetun asetuksen 12 ja 12 a§:n muuttamisesta](969.md) `969/1990`
+- [Valtioneuvoston päätös eräiden kuntien ja kunnan osien määräämisestä erityisalueiksi](970.md) `970/1990`
+- [Valtiovarainministeriön päätös veroäyrin hinnan ilmoittamisesta verohallitukselle vuonna 1990](971.md) `971/1990`
+- [Verohallituksen päätös ilmoittamisvelvollisuuden rajoittamisesta](972.md) `972/1990`
+- [Verohallituksen päätös pidätystodistuksen antamisvelvollisuuden rajoittamisesta ja ennakonpidätyksen hyväksi lukemisesta](973.md) `973/1990`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain 1 ja 12§:n muuttamisesta](974.md) `974/1990`
+- [Laki maataloustuotannon tasapainottamisesta annetun lain muuttamisesta](975.md) `975/1990`
+- [Laki viljan vientikustannusmaksusta](976.md) `976/1990`
+- [Asetus kehitysmaista peräisin olevien tavaroiden tulli\- ja tuontimaksuetuuksista annetun asetuksen muuttamisesta](977.md) `977/1990`
+- [Asetus Suomen ja muiden pohjoismaiden välisestä yhteistoiminnasta rikosasioissa annettujen tuomioiden täytäntöönpanossa annetun lain täytäntöönpanosta annetun asetuksen muuttamisesta](978.md) `978/1990`
+- [Asetus valtion liikelaitoksista annetun lain mukaisten liikelaitosten lainanottovaltuuksien lisäämisestä vuonna 1990](979.md) `979/1990`
+- [Asetus valtion työterveys\- ja työturvallisuusasiain neuvottelukunnasta annetun asetuksen 3 ja 5§:n muuttamisesta](980.md) `980/1990`
+- [Asetus opetusministeriön hallinnonalan eräiden virkojen nimien muuttamisesta](981.md) `981/1990`
+- [Valtioneuvoston päätös ammatillisen aikuiskoulutuskeskuksen toiminta\-avustuksen perusteista](982.md) `982/1990`
+- [Sisäasiainministeriön päätös pysäköintivirhemaksun korottamisesta](983.md) `983/1990`
+- [Maa\- ja metsätalousministeriön päätös ruoka\- ja ruokateollisuusperunan hintatason vakaannuttamisesta](984.md) `984/1990`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta](985.md) `985/1990`
+- [Asetus vankeinhoitolaitoksen eräiden virkojen nimien muuttamisesta](986.md) `986/1990`
+- [Asetus vankeinhoitolaitoksen eräiden virkojen perustamisesta ja lakkauttamisesta](987.md) `987/1990`
+- [Asetus saamelaisvaltuuskunnasta](988.md) `988/1990`
+- [Asetus suomen ja ruotsin kielen tutkinnoista suoritettavista korvauksista](989.md) `989/1990`
+- [Valtioneuvoston päätös aikuisopiskelijoiden opintotuesta](990.md) `990/1990`
+- [Liikenneministeriön päätös televisioluvista annetun valtioneuvoston päätöksen \(803/88\) soveltamisesta](991.md) `991/1990`
+- [Maa\- ja metsätalousministeriön päätös maitonäytteistä annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](992.md) `992/1990`
+- [Maa\- ja metsätalousministeriön päätös maidontarkastuksesta annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](993.md) `993/1990`
+- [Maa\- ja metsätalousministeriön päätös Ruotsin ja Neuvostoliiton kanssa kalastuksesta tehtyjen sopimusten täytäntöönpanosta vuonna 1991](994.md) `994/1990`
+- [Laki valtioneuvoston ministeriöiden lukumäärästä ja yleisestä toimialasta annetun lain 3§:n muuttamisesta](995.md) `995/1990`
+- [Asetus valtioneuvoston ohjesäännön 24 a§:n muuttamisesta](996.md) `996/1990`
+- [Laki kotieläintuotannon ohjaamisesta eräissä tapauksissa annetun lain 5§:n 3 momentin 1 kohdan kumoamisesta](997.md) `997/1990`
+- [Laki laivanrakennus\- tai laivanvarustamotoimintaa harjoittaville yrityksille myönnettävistä valtiontakauksista annetun lain 5§:n muuttamisesta](998.md) `998/1990`
+- [Asetus Pohjoismaiden välillä tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen voimaansaattamisesta Ahvenanmaan maakunnassa kunnallisveron osalta](999.md) `999/1990`
+- [Asetus ammatillisten oppilaitosten rahoituksesta annetun asetuksen muuttamisesta](1000.md) `1000/1990`
+- [Asetus eräiden virkojen lakkauttamisesta ja perustamisesta liikenneministeriön hallinnonalalla](1001.md) `1001/1990`
+- [Valtioneuvoston päätös vuosina 1990 ja 1991 tehtävistä maidontuotannon luopumissopimuksista](1002.md) `1002/1990`
+- [Valtioneuvoston päätös porotaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](1003.md) `1003/1990`
+- [Valtiovarainministeriön päätös vuoden 1989 metsänhoitomaksun määräämisestä ja maksuunpanosta](1004.md) `1004/1990`
+- [Sosiaali\- ja terveysministeriön päätös eräiden elatusapujen ja elatustukien korottamisesta elinkustannusindeksin nousun johdosta](1005.md) `1005/1990`
+- [Laki sokeriverosta annetun lain 4§:n muuttamisesta](1006.md) `1006/1990`
+- [Laki alkoholijuomaverosta annetun lain 1 ja 2§:n muuttamisesta](1007.md) `1007/1990`
+- [Asetus vankeinhoitolaitoksesta annetun asetuksen muuttamisesta](1008.md) `1008/1990`
+- [Asetus vankeinhoitoasetuksen 71 §:n muuttamisesta](1009.md) `1009/1990`
+- [Asetus lääninhallitusasetuksen muuttamisesta](1010.md) `1010/1990`
+- [Asetus eräiden virkojen nimien muuttamisesta sisäasiainministeriön hallinnonalalla](1011.md) `1011/1990`
+- [Asetus säteilyturvakeskuksen suoritteista perittävistä maksuista annettuun asetukseen liittyvän hinnaston muuttamisesta](1012.md) `1012/1990`
+- [Valtioneuvoston päätös työturvallisuusmääräyksiä valmistelevasta neuvottelukunnasta](1013.md) `1013/1990`
+- [Oikeusministeriön päätös suojaosuuden määrien korottamisesta palkan ulosmittauksessa](1014.md) `1014/1990`
+- [Muutoksia vuoden 1990 tulo\- ja menoarvioon](1015.md) `1015/1990`
+- [Asetus eräiden virkojen perustamisesta ja lakkauttamisesta sisäasiainministeriön hallinnonalalla](1016.md) `1016/1990`
+- [Valtioneuvoston päätös myytäväksi toimitetun silakan ja kilohailin vähimmäishinnoista ja tavoitehinnoista](1017.md) `1017/1990`
+- [Maa\- ja metsätalousministeriön päätös merkkipiireistä sekä suurimmista sallituista poromääristä](1018.md) `1018/1990`
+- [Asetus ennakkoäänestyspaikkoina olevista Posti\- ja telelaitoksen toimipaikoista](1019.md) `1019/1990`
+- [Asetus ennakkoäänestyspaikkoina olevista Suomen edustustoista](1020.md) `1020/1990`
+- [Verohallituksen päätös vuodelta 1990 toimitettavassa verotuksessa verosta vapaaksi katsottavien matkakustannusten korvausten perusteista ja määristä](1021.md) `1021/1990`
+- [Laki rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun lain muuttamisesta](1022.md) `1022/1990`
+- [Laki verotuslain 63§:n muuttamisesta](1023.md) `1023/1990`
+- [Laki kansaneläkelain väliaikaisesta muuttamisesta](1024.md) `1024/1990`
+- [Laki vuodelta 1991 suoritettavasta sairausvakuutusmaksusta](1025.md) `1025/1990`
+- [Laki työnantajan lapsilisämaksun perimättä jättämisestä vuodelta 1991](1026.md) `1026/1990`
+- [Laki rintamasotilaseläkelain 9 a§:n muuttamisesta](1027.md) `1027/1990`
+- [Asetus Kuuban kanssa tehdyn viisumivapaussopimuksen voimaansaattamisesta](1028.md) `1028/1990`
+- [Asetus paikallisten ja alueellisten viranomaisten yhteistyötä yli valtakunnan rajojen koskevan eurooppalaisen puiteyleissopimuksen voimaansaattamisesta](1029.md) `1029/1990`
+- [Asetus Pohjoismaiden välillä eräiden ammattiryhmien hyväksymisestä toimimaan terveydenhuollon, sairaanhoidon ja eläinlääkintähuollon alalla tehdyn sopimuksen muuttamista koskevan sopimuksen voimaansaattamisesta](1030.md) `1030/1990`
+- [Asetus lisävaltuuksien antamisesta valtioneuvostolle lainanottoon vuoden 1990 aikana](1031.md) `1031/1990`
+- [Asetus kasvintuhoojien maahan kulkeutumisen estämisestä annetun asetuksen 8§:n muuttamisesta](1032.md) `1032/1990`
+- [Asetus kasvinsuojeluasetuksen 22 §:n muuttamisesta](1033.md) `1033/1990`
+- [Valtioneuvoston päätös vuonna 1990 tehtävistä kananmunantuotannon vähentämissopimuksista annetun valtioneuvoston päätöksen 1 ja 2§:n muuttamisesta](1034.md) `1034/1990`
+- [Valtioneuvoston päätös kalastuksenhoitomaksun ja pilkintämaksun määrästä annetun valtioneuvoston päätöksen 2§:n muuttamisesta](1035.md) `1035/1990`
+- [Laki markkinatuomioistuimesta annetun lain 2 ja 3§:n muuttamisesta](1036.md) `1036/1990`
+- [Laki lainhuuto\- ja kiinnitysrekisteristä annetun lain 26§:n muuttamisesta](1037.md) `1037/1990`
+- [Asetus lainhuuto\- ja kiinnitysrekisteristä sekä saantorekisteristä annetun asetuksen 38§:n muuttamisesta](1038.md) `1038/1990`
+- [Eläinlääkintähuoltoasetus](1039.md) `1039/1990`
+- [Asetus luotsausmaksuista annetun asetuksen muuttamisesta](1040.md) `1040/1990`
+- [Asetus väylämaksuasetuksen muuttamisesta](1041.md) `1041/1990`
+- [Asetus merenkulkulaitoksen suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](1042.md) `1042/1990`
+- [Asetus aluksen miehityksestä ja laivahenkilökunnan pätevyydestä annetun asetuksen muuttamisesta](1043.md) `1043/1990`
+- [Verohallituksen päätös niistä perusteista, joiden mukaan muun kiinteistön kuin maatilan maapohjan verotusarvo lasketaan vuodelta 1990 toimitettavassa verotuksessa](1044.md) `1044/1990`
+- [Verohallituksen päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](1045.md) `1045/1990`
+- [Laki aluevaihdosta Suomen valtion ja Helsingin kaupungin välillä](1046.md) `1046/1990`
+- [Laki erään Helsingin kaupungissa sijaitsevan asuinkiinteistön myymisestä Rakennustoimisto A\. Puolimatka Oy:lle](1047.md) `1047/1990`
+- [Laki Lappeenrannan teknillisestä korkeakoulusta annetun lain 1§:n muuttamisesta](1048.md) `1048/1990`
+- [Laki sotilasvammalain 6§:n muuttamisesta](1049.md) `1049/1990`
+- [Asetus sotilasvammalain eräiden säännösten soveltamisesta annetun asetuksen 8§:n muuttamisesta](1050.md) `1050/1990`
+- [Asetus eräistä rajavartiolaitoksen virkajärjestelyistä](1051.md) `1051/1990`
+- [Asetus voimalaitosten ja sähkölaitteistojen rakentamisluvista perittävistä maksuista](1052.md) `1052/1990`
+- [Valtioneuvoston päätös metsätaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](1053.md) `1053/1990`
+- [Valtioneuvoston päätös eräiden Suomeen muuttavien henkilöiden toimeentulotuen sekä heille annetun sosiaali\- ja terveydenhuollon erityiskustannusten korvaamisesta](1054.md) `1054/1990`
+- [Valtiovarainministeriön päätös tilivirastoista annetun päätöksen kumoamisesta](1055.md) `1055/1990`
+- [Laki valtiopäiväjärjestyksen muuttamisesta](1056.md) `1056/1990`
+- [Laki edustajanpalkkiosta annetun lain 4§:n muuttamisesta](1057.md) `1057/1990`
+- [Eduskunnan päätös eduskunnan työjärjestyksen muuttamisesta](1058.md) `1058/1990`
+- [Laki oikeudesta harjoittaa valuutanvaihtoa annetun lain kumoamisesta](1059.md) `1059/1990`
+- [Laki valuuttalain muuttamisesta](1060.md) `1060/1990`
+- [Valtioneuvoston päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen muuttamisesta](1061.md) `1061/1990`
+- [Laki maidon, sianlihan ja viljan vientikustannusmaksusta](1062.md) `1062/1990`
+- [Asetus valtion virkamiesten uudelleen sijoittamisesta annetun asetuksen 1§:n muuttamisesta](1063.md) `1063/1990`
+- [Sosiaali\- ja terveysministeriön päätös sotilasvammalain 18§:n 2 momentissa tarkoitetun tulorajan tarkistamisesta](1064.md) `1064/1990`
+- [Laki auto\- ja moottoripyöräverosta annetun lain 3 ja 14§:n muuttamisesta](1065.md) `1065/1990`
+- [Laki asuntotulon verottamisesta eräissä tapauksissa annetun lain 1§:n muuttamisesta](1066.md) `1066/1990`
+- [Laki sähkölain muuttamisesta](1067.md) `1067/1990`
+- [Laki työntekijäin eläkelain muuttamisesta](1068.md) `1068/1990`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 1§:n muuttamisesta](1069.md) `1069/1990`
+- [Laki maatalousyrittäjien tapaturmavakuutuslain 11 ja 12§:n muuttamisesta](1070.md) `1070/1990`
+- [Laki palkkaturvalain muuttamisesta](1071.md) `1071/1990`
+- [Laki merimiesten palkkaturvalain 6 ja 16§:n muuttamisesta](1072.md) `1072/1990`
+- [Asetus Malesian kanssa erään tietyn tekstiilituotteen vientiä Malesiasta tuontia varten Suomeen tehdyn sopimuksen voimaansaattamisesta](1073.md) `1073/1990`
+- [Asetus Romanian kanssa eräiden tekstiilituotteiden vientiä Romaniasta tuontia varten Suomeen tehdyn sopimuksen voimaansaattamisesta](1074.md) `1074/1990`
+- [Asetus toiselta puolen Suomen tasavallan, Itävallan tasavallan, Islannin tasavallan, Norjan kuningaskunnan, Ruotsin kuningaskunnan ja Sveitsin valaliiton ja toiselta puolen Euroopan talousyhteisön välillä teknisiä määräyksiä koskevassa tietojen vaihdossa noudatettavasta menettelystä tehdyn sopimuksen voimaansaattamisesta](1075.md) `1075/1990`
+- [Asetus kansanterveyslaitoksessa suoritetuista tutkimuksista perittävistä maksuista annettuun asetukseen liittyvän hinnaston muuttamisesta](1076.md) `1076/1990`
+- [Valtioneuvoston päätös erityistason sairaanhoidon erityisvastuualueista](1077.md) `1077/1990`
+- [Valtiovarainministeriön päätös eräiden arvopapereiden verotusarvon perusteista](1078.md) `1078/1990`
+- [Kuluttajaviraston päätös kulutustavaran yksikköhinnan ilmoittamisesta markkinoinnissa annetun elinkeinohallituksen päätöksen muuttamisesta](1079.md) `1079/1990`
+- [Valtioneuvoston päätös eläkkeensaajien asumistukilain mukaisista hoitomenoina hyväksyttävistä keskimääräisistä kustannuksista](1080.md) `1080/1990`
+- [Valtioneuvoston päätös asuinhuoneistojen vuokrien korotusyleisohjeeksi](1081.md) `1081/1990`
+- [Valtioneuvoston päätös tasoyleisohjeeksi asuinhuoneistojen kohtuullisista vuokrista eräillä paikkakunnilla](1082.md) `1082/1990`
+- [Valtioneuvoston päätös asumistuen määräytymisperusteista](1083.md) `1083/1990`
+- [Laki fosforilannoiteverosta](1084.md) `1084/1990`
+- [Laki lannoiteverosta annetun lain 2 ja 4§:n muuttamisesta](1085.md) `1085/1990`
+- [Laki pienyrittäjän vuosilomarahasta annetun lain 3 ja 17§:n muuttamisesta](1086.md) `1086/1990`
+- [Asetus pienyrittäjän vuosilomarahasta annetun asetuksen muuttamisesta](1087.md) `1087/1990`
+- [Laki maatalousyrittäjän lomituspalveluista annetun lain muuttamisesta](1088.md) `1088/1990`
+- [Asetus maatalousyrittäjän lomituspalveluista annetun asetuksen muuttamisesta](1089.md) `1089/1990`
+- [Asetus kotipalveluista perittäviä maksuja koskevasta kokeilusta](1090.md) `1090/1990`
+- [Asetus riista\- ja kalatalouden tutkimuslaitoksesta annetun asetuksen muuttamisesta](1091.md) `1091/1990`
+- [Asetus maatalouslautakunnista annetun asetuksen muuttamisesta](1092.md) `1092/1990`
+- [Valtioneuvoston päätös maankäyttölain ja eräiden muiden lakien mukaisten asuntolainojen korosta](1093.md) `1093/1990`
+- [Sosiaali\- ja terveysministeriön päätös maatalousyrittäjien eläkelain 10§:ssä tarkoitetun perusprosentin ja yrittäjien eläkelain 9§:ssä tarkoitetun maksuprosentin vahvistamisesta](1094.md) `1094/1990`
+- [Maa\- ja metsätalousministeriön eläinlääkintöosaston päätös vastustettavista eläintaudeista](1095.md) `1095/1990`
+- [Laki liikevaihtoverolain 16 ja 27§:n väliaikaisesta muuttamisesta](1096.md) `1096/1990`
+- [Laki eräitä tuotannollisia investointeja koskevista poikkeuksista liikevaihtoverolakiin annetun lain 4§:n muuttamisesta](1097.md) `1097/1990`
+- [Laki energiainvestointien liikevaihtoverovähennyksistä annetun lain 2 ja 4§:n muuttamisesta](1098.md) `1098/1990`
+- [Laki eräitä elintarvikkeita koskevista poikkeuksista liikevaihtoverolakiin annetun lain väliaikaisesta muuttamisesta](1099.md) `1099/1990`
+- [Laki eräistä vakuutusmaksuista suoritettavasta verosta annetun lain 3§:n väliaikaisesta muuttamisesta](1100.md) `1100/1990`
+- [Laki merenkulun veronhuojennuksista annetun lain muuttamisesta](1101.md) `1101/1990`
+- [Laki yhteistoiminnasta valtion virastoissa ja laitoksissa annetun lain muuttamisesta](1102.md) `1102/1990`
+- [Laki valtion viran ja toimen haltijain neuvotteluoikeudesta annetun lain kumomisesta](1103.md) `1103/1990`
+- [Oikeusministeriön päätös vaaliluettelon oikaisuvaatimuslomakkeen kaavasta](1104.md) `1104/1990`
+- [Laki yhdyskuntapalvelun kokeilemisesta](1105.md) `1105/1990`
+- [Laki eräisiin rangaistus\-, huolto\- ja hoitolaitoksiin otettujen henkilöiden tapaturmakorvauksesta annetun lain 1§:n muuttamisesta](1106.md) `1106/1990`
+- [Laki rikosvahinkojen korvaamisesta valtion varoista annetun lain 8§:n muuttamisesta](1107.md) `1107/1990`
+- [Laki rangaistusmääräyslain muuttamisesta](1108.md) `1108/1990`
+- [Laki yhden tuomarin istunnossa käsiteltävistä rikosasioista annetun lain muuttamisesta](1109.md) `1109/1990`
+- [Laki rikosvahinkojen korvaamisesta valtion varoista annetun lain muuttamisesta](1110.md) `1110/1990`
+- [Laki sairausvakuutuslain muuttamisesta](1111.md) `1111/1990`
+- [Asetus rikosvahinkojen korvaamisesta valtion varoista annetun asetuksen 1 ja 2§:n muuttamisesta](1112.md) `1112/1990`
+- [Uhkasakkolaki](1113.md) `1113/1990`
+- [Asetus ulosottomaksuista annetun asetuksen muuttamisesta](1114.md) `1114/1990`
+- [Laki palo\- ja pelastustoimesta annetun lain muuttamisesta](1115.md) `1115/1990`
+- [Mielenterveyslaki](1116.md) `1116/1990`
+- [Laki kansanterveyslain muuttamisesta](1117.md) `1117/1990`
+- [Julistus neljästä kiitos\-, katumus\- ja rukouspäivästä, jotka on koko maassa juhlallisesti vietettävä vuonna 1991](1118.md) `1118/1990`
+- [Valtioneuvoston päätös valtion työntekijöiden matkakustannusten korvaamisesta annetun valtioneuvoston päätöksen muuttamisesta](1119.md) `1119/1990`
+- [Laki avunantoa ydinonnettomuuden tai säteilyhätätilan yhteydessä koskevan yleissopimuksen eräiden määräysten hyväksymisestä sekä yleissopimuksen soveltamisesta](1120.md) `1120/1990`
+- [Asetus avunantoa ydinonnettomuuden tai säteilyhätätilan yhteydessä koskevan yleissopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä sekä yleissopimuksen soveltamisesta annetun lain voimaantulosta](1121.md) `1121/1990`
+- [Laki kunnallislain muuttamisesta](1122.md) `1122/1990`
+- [Laki Ilmailulaitoksesta](1123.md) `1123/1990`
+- [Asetus Ilmailulaitoksesta](1124.md) `1124/1990`
+- [Asetus lehtien postimaksuja käsittelevästä lautakunnasta annetun asetuksen kumoamisesta](1125.md) `1125/1990`
+- [Laki liike\- ja yhteisötunnuksen luovuttamisesta](1126.md) `1126/1990`
+- [Laki kirkkolain 501 ja 529§:n muuttamisesta](1127.md) `1127/1990`
+- [Laki kirkon keskusrahastosta annetun lain 9 a ja 14§:n muuttamisesta](1128.md) `1128/1990`
+- [Asetus kirkon keskusrahastosta annetun lain täytäntöönpanosta annetun asetuksen 2§:n muuttamisesta](1129.md) `1129/1990`
+- [Asetus evankelis\-luterilaisen kirkon eläkeasetuksen 5§:n kumoamisesta](1130.md) `1130/1990`
+- [Asetus Valtionhallinnon kehittämiskeskuksesta annetun asetuksen muuttamisesta](1131.md) `1131/1990`
+- [Asetus näkövammaisten kirjastosta annetun asetuksen 7 ja 10§:n muuttamisesta](1132.md) `1132/1990`
+- [Asetus Helsingin yliopiston kahden siviilioikeuden varsinaisen professorin viran opetusalasta](1133.md) `1133/1990`
+- [Asetus Helsingin yliopiston erääseen varsinaisen professorin virkaan kuuluvista tehtävistä](1134.md) `1134/1990`
+- [Asetus Turun ja Tampereen yliopistojen eräiden virkojen opetusalan muuttamisesta](1135.md) `1135/1990`
+- [Asetus karhun, suden ja ahman metsästämisestä](1136.md) `1136/1990`
+- [Asetus tapaturmaviraston eräiden virkojen nimien muuttamisesta](1137.md) `1137/1990`
+- [Asetus palkkaturva\-asetuksen muuttamisesta](1138.md) `1138/1990`
+- [Laki ulkomaanliikenteen lastialusten kilpailuedellytysten edistämisestä](1139.md) `1139/1990`
+- [Laki lästimaksusta annetun lain 1§:n muuttamisesta](1140.md) `1140/1990`
+- [Asetus väestörekisterikeskuksen maksuasetuksen muuttamisesta](1141.md) `1141/1990`
+- [Asetus väestökirjahallinnosta annetun asetuksen muuttamisesta](1142.md) `1142/1990`
+- [Asetus eräiden virkojen nimien muuttamisesta sisäasiainministeriön hallinnonalalla](1143.md) `1143/1990`
+- [Valtioneuvoston päätös valtioneuvoston työllisyysehtopäätöksen 2§:n muuttamisesta](1144.md) `1144/1990`
+- [Liikenneministeriön päätös kunnista, joiden alueella peritään korkeampaa televisiolupamaksua](1145.md) `1145/1990`
+- [Valtiovarainministeriön päätös rakennusten jälleenhankinta\-arvon perusteista](1146.md) `1146/1990`
+- [Valtiovarainministeriön päätös vesivoimalaitoksen ja sen rakenteiden jälleenhankinta\-arvon perusteista](1147.md) `1147/1990`
+- [Laki Suomen osallistumisesta Yhdistyneiden Kansakuntien rauhanturvaamistoimintaan annetun lain muuttamisesta](1148.md) `1148/1990`
+- [Laki mittatekniikan keskuksesta](1149.md) `1149/1990`
+- [Laki teknillisestä tarkastuskeskuksesta annetun lain muuttamisesta](1150.md) `1150/1990`
+- [Laki valtioneuvoston oikeudesta luovuttaa Lapuan patruunatehtaan hallinnassa olevaa omaisuutta perustettavalle osakeyhtiölle sekä ryhtyä eräisiin muihin yhtiön perustamiseen liittyviin järjestelyihin](1151.md) `1151/1990`
+- [Asetus Insinööriupseeriliiton ansiomitalista](1152.md) `1152/1990`
+- [Asetus Kadettikunnan ansiomitalista](1153.md) `1153/1990`
+- [Asetus eräiden virkojen lakkauttamisesta ja perustamisesta sisäasiainministeriön hallinnonalalla](1154.md) `1154/1990`
+- [Asetus Ruotsin ja Neuvostoliiton kanssa kalastuksesta tehtyjen sopimusten täytäntöönpanosta ja soveltamisesta annetun asetuksen 5 ja 7§:n muuttamisesta](1155.md) `1155/1990`
+- [Valtioneuvoston päätös teknisten määräysten, standardien ja suositusten valmistelun ilmoittamisesta ja niiden voimaansaattamisen siirtämisestä annetun valtioneuvoston päätöksen 3§:n muuttamisesta](1156.md) `1156/1990`
+- [Valtioneuvoston päätös valtion palvelussuhdeasuntojen vuokrien määräämisperusteista annetun valtioneuvoston päätöksen 1 ja 10§:n muuttamisesta](1157.md) `1157/1990`
+- [Kauppa\- ja teollisuusministeriön päätös alueelliseen kuljetustukeen oikeuttavasta vähimmästä kuljetusmaksusta](1158.md) `1158/1990`
+- [Kauppa\- ja teollisuusministeriön päätös kuljetusten alueellisesta tukemisesta annetun lain 12§:n 1 momentissa tarkoitetun laivakuljetuksissa maksettavan kuljetustuen määrästä](1159.md) `1159/1990`
+- [Laki polttoaineverosta annetun lain väliaikaisesta muuttamisesta](1160.md) `1160/1990`
+- [Laki ravintorasvaverosta annetun lain väliaikaisesta muuttamisesta](1161.md) `1161/1990`
+- [Laki rehujen rasva\- ja valkuaisverosta](1162.md) `1162/1990`
+- [Laki tasausverolain muuttamisesta](1163.md) `1163/1990`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](1164.md) `1164/1990`
+- [Laki yhtiöveron hyvityksestä annetun lain 1 ja 14 §:n muuttamisesta](1165.md) `1165/1990`
+- [Laki tulo\- ja varallisuusverolain muuttamisesta](1166.md) `1166/1990`
+- [Laki leimaverolain muuttamisesta](1167.md) `1167/1990`
+- [Laki moottoriajoneuvoverosta annetun lain muuttamisesta](1168.md) `1168/1990`
+- [Laki indeksiehdon käytön rajoittamisesta](1169.md) `1169/1990`
+- [Laki indeksiehdon käytöstä vuosia 1990 ja 1991 koskevissa työ\-, virka\- ja toimiehtosopimuksissa annetun lain 4 §:n muuttamisesta](1170.md) `1170/1990`
+- [Asetus moottoriajoneuvoverosta annetun lain täytäntöönpanosta ja soveltamisesta annetun asetuksen 1 §:n muuttamisesta](1171.md) `1171/1990`
+- [Valtiovarainministeriön päätös eräiden ulkomailla rekisteröityjen ajoneuvojen vapauttamisesta moottoriajoneuvoverosta tai veron alentamisesta annetun valtiovarainministeriön päätöksen 1 §:n muuttamisesta](1172.md) `1172/1990`
+- [Laki alustoimitusten rahoitukseen myönnettävästä korkotuesta](1173.md) `1173/1990`
+- [Asetus vedonlyönnin toimeenpanemisesta hevoskilpailuissa annetun asetuksen 5 §:n muuttamisesta](1174.md) `1174/1990`
+- [Asetus eräiden virkojen lakkauttamisesta ja perustamisesta sisäasiainministeriön hallinnonalalla](1175.md) `1175/1990`
+- [Asetus poliisin eräiden virkojen nimien muuttamisesta](1176.md) `1176/1990`
+- [Asetus valtiontalouden tarkastuksesta](1177.md) `1177/1990`
+- [Asetus sähköasetuksen muuttamisesta](1178.md) `1178/1990`
+- [Asetus Sähkötarkastuskeskuksesta annetun asetuksen muuttamisesta](1179.md) `1179/1990`
+- [Asetus hissien tarkastuksista perittävistä maksuista annetun asetuksen muuttamisesta](1180.md) `1180/1990`
+- [Valtioneuvoston päätös Ahvenanmaan maakunnassa oleville kunnille maataloustuen jako\- ja valvontatehtävien hoitamisesta suoritettavista korvauksista](1181.md) `1181/1990`
+- [Maa\- ja metsätalousministeriön päätös tuottajamaidon samahintaisuudesta sekä laatu\- ja koostumushinnoittelun perusteista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](1182.md) `1182/1990`
+- [Liikenneministeriön päätös eräiltä yksikielisillä alueilla toimivilta viran ja toimen haltijoilta vaadittavasta maan toisen kielen taidosta annetun kulkulaitosten ja yleisten töiden ministeriön päätöksen kumoamisesta](1183.md) `1183/1990`
+- [Laki huoneenvuokralain muuttamisesta](1184.md) `1184/1990`
+- [Laki asuntotuotautulain muuttamisesta](1185.md) `1185/1990`
+- [Laki vuokratalolainojen lainaehtojen muuttamisesta](1186.md) `1186/1990`
+- [Laki asumistukilain 6 §:n muuttamisesta](1187.md) `1187/1990`
+- [Asetus asuntotuotantoasetuksen muuttamisesta](1188.md) `1188/1990`
+- [Asetus asumistukiasetuksen 3 a §:n 7 kohdan kumoamisesta](1189.md) `1189/1990`
+- [Laki työsopimuslain muuttamisesta](1190.md) `1190/1990`
+- [Laki vuosilomalain 3 §:n muuttamisesta](1191.md) `1191/1990`
+- [Laki sairausvakuutuslain muuttamisesta](1192.md) `1192/1990`
+- [Laki työntekijäin eläkelain soveltamisesta Suomen Pankin setelipainon henkilökunnan työsuhteisiin](1193.md) `1193/1990`
+- [Laki työvoimapoliittisesta aikuiskoulutuksesta annetun lain muuttamisesta](1194.md) `1194/1990`
+- [Laki yhteistoiminnasta yrityksissä annetun lain muuttamisesta](1195.md) `1195/1990`
+- [Asetus työehtosopimuslaissa tarkoitettujen hyvityssakkojen enimmäismäärien tarkistamisesta](1196.md) `1196/1990`
+- [Asetus palkkaturva\-asetuksen 9 §:n muuttamisesta](1197.md) `1197/1990`
+- [Asetus merimiesten palkkaturva\-asetuksen 6 §:n muuttamisesta](1198.md) `1198/1990`
+- [Valtioneuvoston päätös hyvityssakkojen enimmäismäärien tarkistamisesta](1199.md) `1199/1990`
+- [Valtioneuvoston päätös Kehitysaluerahasto Oy:n määräämisestä toimimaan Ruotsinpyhtäällä](1200.md) `1200/1990`
+- [Laki aluevaihdosta valtion ja Helsingin kaupungin välillä annetun lain 1 §:n muuttamisesta](1201.md) `1201/1990`
+- [Laki Lapin yliopistosta](1202.md) `1202/1990`
+- [Asetus Turun yliopistosta annetun asetuksen 18 ja 59 §:n muuttamisesta](1203.md) `1203/1990`
+- [Asetus valtiovarainministeriön hallinnonalan eräistä virkajärjestelyistä](1204.md) `1204/1990`
+- [Asetus opintotukiasetuksen muuttamisesta](1205.md) `1205/1990`
+- [Asetus ajoneuvojen katsastuksesta annetun asetuksen muuttamisesta](1206.md) `1206/1990`
+- [Liikenneministeriön päätös matkailuautoista ja matkailukoreista](1207.md) `1207/1990`
+- [Liikenneministeriön päätös ajoneuvoasetuksen täytäntöönpanosta annetun liikenneministeriön päätöksen muuttamisesta](1208.md) `1208/1990`
+- [Laki luottolaitosten varoista myönnettävistä eräistä korkotukilainoista annetun lain muuttamisesta](1209.md) `1209/1990`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain 16 §:n väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1210.md) `1210/1990`
+- [Sotilastapaturmalaki](1211.md) `1211/1990`
+- [Laki Suomen osallistumisesta Yhdistyneiden Kansakuntien rauhanturvaamistoimintaan annetun lain 18 §:n muuttamisesta](1212.md) `1212/1990`
+- [Laki taisteluvälineiden siviilihenkilöille aiheuttamien tapaturmien korvaamisesta](1213.md) `1213/1990`
+- [Asetus valtioneuvoston lainanottovaltuuksista vuonna 1991](1214.md) `1214/1990`
+- [Asetus liikenneturvallisuusasiain neuvottelukunnasta annetun asetuksen 3 §:n muuttamisesta](1215.md) `1215/1990`
+- [Asetus kansaneläkelain 62 §:n mukaisesta kunnan lisäosaosuuden tilityksestä vuodelta 1991](1216.md) `1216/1990`
+- [Asetus valtion sosiaalihuollon ja terveydenhuollon toimintayksiköiden palveluista perittävistä korvauksista annetun asetuksen muuttamisesta](1217.md) `1217/1990`
+- [Sosiaali\- ja terveysministeriön päätös perusteista, joiden mukaan työntekijäin eläkelain 19 b §:ssä, lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 1 §:ssä, maatalousyrittäjien eläkelain 19 §:ssä, yrittäjien eläkelain 17 §:ssä sekä eräiden työsuhteessa olevien taiteilijoiden ja toimittajien eläkelain 11 §:ssä säädetty kertasuoritus lasketaan](1218.md) `1218/1990`
+- [Opetusministeriön päätös tallentamattomien ääni\- ja kuvanauhojen maahantuonnista ja valmistuksesta suoritettavan tekijänoikeudellisen maksun suuruudesta](1219.md) `1219/1990`
+- [Valtiovarainministeriön päätös vuoden 1991 työnantajan sosiaaliturvamaksun määräämisestä](1220.md) `1220/1990`
+- [Laki Suomen Hallitusmuodon muuttamisesta](1221.md) `1221/1990`
+- [Laki eduskunnan oikeudesta tarkastaa valtioneuvoston jäsenten ja oikeuskanslerin virkatointen lainmukaisuutta annetun lain muuttamisesta](1222.md) `1222/1990`
+- [Laki valtakunnanoikeudesta annetun lain 1 ja 2 §:n muuttamisesta](1223.md) `1223/1990`
+- [Laki valtioneuvoston oikeuskanslerin ja eduskunnan oikeusasiamiehen tehtävien jaosta](1224.md) `1224/1990`
+- [Asetus valtioneuvoston oikeuskanslerin ohjesäännön muuttamisesta](1225.md) `1225/1990`
+- [Eduskunnan päätös eduskunnan oikeusasiamiehen johtosäännön muuttamisesta](1226.md) `1226/1990`
+- [Eduskunnan päätös Eduskunnan kirjaston ohjesäännön muuttamisesta](1227.md) `1227/1990`
+- [Valtioneuvoston päätös pakolaisten vastaanoton järjestämisestä ja korvaamisesta annetun valtioneuvoston päätöksen muuttamisesta](1228.md) `1228/1990`
+- [Valtioneuvoston päätös pakolaisten toimeentulon turvaamisesta annetun valtioneuvoston päätöksen muuttamisesta](1229.md) `1229/1990`
+- [Liikenneministeriön päätös sisäjohtoverkoista](1230.md) `1230/1990`
+- [Liikenneministeriön päätös televerkkojen liikenteellisestä aluejaosta annetun päätöksen 4 §:n muuttamisesta](1231.md) `1231/1990`
+- [Laki sokerilain 13 §:n muuttamisesta](1232.md) `1232/1990`
+- [Laki kotimaisesta tärkkelystuotannosta annetun lain 13 §:n muuttamisesta](1233.md) `1233/1990`
+- [Laki kotimaisesta öljykasvituotannosta annetun lain 13 §:n muuttamisesta](1234.md) `1234/1990`
+- [Asetus eräiden maa\- ja metsätalousministeriön hallinnonalan virkojen perustamisesta ja lakkauttamisesta sekä viran nimen muuttamisesta\.](1235.md) `1235/1990`
+- [Laki maatilahallinnosta](1236.md) `1236/1990`
+- [Asetus maatilahallinnosta](1237.md) `1237/1990`
+- [Valtioneuvoston päätös vuonna 1990 tehtävistä kananmunantuotannon vähentämissopimuksista annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](1238.md) `1238/1990`
+- [Asetus haastetiedoksiannosta suoritettavista maksuista](1239.md) `1239/1990`
+- [Asetus eräistä veri\- ja muita periytyviä ominaisuuksia koskevista tutkimuksisla annetun asetuksen 12 §:n muuttamisesta](1240.md) `1240/1990`
+- [Asetus merentutkimuslaitoksen maksuista annetun asetuksen muuttamisesta](1241.md) `1241/1990`
+- [Asetus teknilliselle tarkastuskeskukselle suoritettavista maksuista](1242.md) `1242/1990`
+- [Asetus valtion teknillisen tutkimuskeskuksen suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](1243.md) `1243/1990`
+- [Oikeusministeriön päätös rangaistusmääräyslain täytäntöönpanosta](1244.md) `1244/1990`
+- [Oikeusministeriön päätös lainhuuto\- ja kiinnitysrekisterin käyttöön ottamisesta eräissä tuomiokunnissa ja raastuvanoikeuksissa](1245.md) `1245/1990`
+- [Laki lääninoikeuslain 11§:n muuttamisesta](1246.md) `1246/1990`
+- [Mielenterveysasetus](1247.md) `1247/1990`
+- [Asetus erikoissairaanhoidosta perittävistä maksuista ja korvauksista](1248.md) `1248/1990`
+- [Valtion tulo\- ja menoarvio vuodelle 1991](1249.md) `1249/1990`
+- [Laki vuodelta 1991 toimitettavassa valtionverotuksessa sovellettavista veroasteikoista ja veroprosenteista](1250.md) `1250/1990`
+- [Laki korkoa vastaavasta korotuksesta verotuksessa](1251.md) `1251/1990`
+- [Laki verotuslain 72§:n muuttamisesta](1252.md) `1252/1990`
+- [Verohallituksen päätös kotieläinten arvon määräämisessä noudatettavista perusteista](1253.md) `1253/1990`
+- [Verohallituksen päätös vuonna 1991 sovellettavien ennakonpidätysperusteiden voimaantulosta](1254.md) `1254/1990`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä annetun verohallituksen päätöksen muuttamisesta](1255.md) `1255/1990`
+- [Verohallituksen päätös ennakonpidätyksen toimittamisvelvollisuudesta](1256.md) `1256/1990`
+- [Verohallituksen päätös vuodelta 1990 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](1257.md) `1257/1990`
+- [Verohallituksen päätös puun ostajan ilmoittamisvelvollisuudesta](1258.md) `1258/1990`
+- [Asetus yhdyskuntapalvelun kokeilemisesta](1259.md) `1259/1990`
+- [Asetus yhdyskuntapalvelun täytäntöönpanosta](1260.md) `1260/1990`
+- [Asetus tieliikenneasetuksen 53§:n muuttamisesta](1261.md) `1261/1990`
+- [Asetus valtionhallinnon toiminnallisista tasa\-arvosuunnitelmista](1262.md) `1262/1990`
+- [Valtioneuvoston päätös lehtien postimaksuista](1263.md) `1263/1990`
+- [Valtioneuvoston päätös rakennusurakkasopimuksissa käytettävistä indeksiehdoista](1264.md) `1264/1990`
+- [Liikenneministeriön päätös aluksen miehityksestä ja laivahenkilökunnan pätevyydestä annetun asetuksen soveltamisesta](1265.md) `1265/1990`
+- [Laki kuntien vapaaehtoisen yhdistymisen kannustamisesta vuosina 1992\-1993](1266.md) `1266/1990`
+- [Laki kuntien yhdistymisavustuksista annetun lain 10§:n muuttamisesta](1267.md) `1267/1990`
+- [Laki talletuspankkien toiminnasta](1268.md) `1268/1990`
+- [Liikepankkilaki](1269.md) `1269/1990`
+- [Säästöpankkilaki](1270.md) `1270/1990`
+- [Osuuspankkilaki](1271.md) `1271/1990`
+- [Laki Postipankki Oy:stä annetun lain muuttamisesta](1272.md) `1272/1990`
+- [Laki pankkitarkastusvirastosta](1273.md) `1273/1990`
+- [Asetus pankkitarkastusvirastosta](1274.md) `1274/1990`
+- [Asetus pankkitarkastusviraston toiminnasta johtuvien kustannusten kattamisesta](1275.md) `1275/1990`
+- [Laki markkinatuomioistuimesta annetun lain muuttamisesta](1276.md) `1276/1990`
+- [Laki asiakirjain kuolettamisesta annetun lain muuttamisesta](1277.md) `1277/1990`
+- [Laki kaupparekisterilain 11§:n muuttamisesta](1278.md) `1278/1990`
+- [Laki toiminimilain 1§:n muuttamisesta](1279.md) `1279/1990`
+- [Laki kuluttaja\-asiamiehestä annetun lain 8§:n muuttamisesta](1280.md) `1280/1990`
+- [Laki elinkeinotulon verottamisesta annetun lain 46§:n muuttamisesta](1281.md) `1281/1990`
+- [Laki ulkomaalaisen oikeudesta omistaa suomalaisen luottolaitoksen osakkeita ja harjoittaa pankkitoimintaa Suomessa annetun lain muuttamisesta](1282.md) `1282/1990`
+- [Laki ulkomaalaisten sekä eräiden yhteisöjen oikeudesta omistaa ja hallita kiinteätä omaisuutta ja osakkeita annetun lain 24§:n muuttamisesta](1283.md) `1283/1990`
+- [Laki rahalaitosten erityistalletuksista Suomen Pankissa annetun lain 2§:n muuttamisesta](1284.md) `1284/1990`
+- [Laki kaupankäynnistä vakioiduilla optioilla ja termiineillä annetun lain 2 luvun 10 ja 11§:n muuttamisesta](1285.md) `1285/1990`
+- [Laki arvopaperinvälitysliikkeistä annetun lain 4§:n muuttamisesta](1286.md) `1286/1990`
+- [Laki sijoitusrahastolain 40§:n muuttamisesta](1287.md) `1287/1990`
+- [Laki tulo\- ja varallisuusverolain 9 ja 23§:n muuttamisesta](1288.md) `1288/1990`
+- [Laki elinkeinotulon verottamisesta annetun lain 8§:n muuttamisesta](1289.md) `1289/1990`
+- [Laki verotuslain 3 ja 51§:n muuttamisesta](1290.md) `1290/1990`
+- [Laki ennakkoperintälain muuttamisesta](1291.md) `1291/1990`
+- [Laki luottoverolain 4§:n muuttamisesta](1292.md) `1292/1990`
+- [Asetus maan ulkomaankaupassa sovellettavista määrällisistä rajoituksista annetun asetuksen liitteen muuttamisesta](1293.md) `1293/1990`
+- [Laki indeksiehdon käytöstä vuosia 1990 ja 1991 koskevissa työ\-, virka\- ja toimiehtosopimuksissa annetun lain muuttamisesta](1294.md) `1294/1990`
+- [Maaseutuelinkeinolaki](1295.md) `1295/1990`
+- [Laki luontaiselinkeinolain muuttamisesta](1296.md) `1296/1990`
+- [Laki kolttalain muuttamisesta](1297.md) `1297/1990`
+- [Laki porotalouslain muuttamisesta](1298.md) `1298/1990`
+- [Laki kalatalouden korkotukilainoista annetun lain 2§:n muuttamisesta](1299.md) `1299/1990`
+- [Laki oikeudesta hankkia maa\- ja metsätalousmaata annetun lain 3§:n muuttamisesta](1300.md) `1300/1990`
+- [Laki pakkohuutokaupalla myytävien kiinteistöjen lunastamisesta valtiolle annetun lain 1 ja 7§:n muuttamisesta](1301.md) `1301/1990`
+- [Laki maatilatalouden kehittämisrahastosta annetun lain 3§:n muuttamisesta](1302.md) `1302/1990`
+- [Laki perintökaaren 25 luvun 4§:n muuttamisesta](1303.md) `1303/1990`
+- [Laki luopumiseläkelain muuttamisesta](1304.md) `1304/1990`
+- [Laki kotieläintuotannon ohjaamisesta](1305.md) `1305/1990`
+- [Asetus luopumiseläkeasetuksen muuttamisesta](1306.md) `1306/1990`
+- [Asetus maatalouden tutkimuskeskuksesta](1307.md) `1307/1990`
+- [Asetus maataloustuloasetuksen 1 §:n muuttamisesta](1308.md) `1308/1990`
+- [Laki satovahinkojen korvaamisesta annetun lain muuttamisesta](1309.md) `1309/1990`
+- [Laki poikkeuksellisten tulvien aiheuttamien vahinkojen korvaamisesta annetun lain muuttamisesta](1310.md) `1310/1990`
+- [Laki maidon väliaikaisesta kiintiömaksusta annetun lain 6 ja 27§:n muuttamisesta](1311.md) `1311/1990`
+- [Laki maidon väliaikaisista tuotantokiintiöistä annetun lain muuttamisesta](1312.md) `1312/1990`
+- [Laki meijerikohtaisesta kiintiömaksusta annetun lain muuttamisesta](1313.md) `1313/1990`
+- [Laki peltoalan perusteella suoritettavasta vientikustannusmaksusta](1314.md) `1314/1990`
+- [Laki maidon, sianlihan ja viljan vientikustannusmaksusta annetun lain 9§:n muuttamisesta](1315.md) `1315/1990`
+- [Laki pellonraivausmaksusta annetun lain väliaikaisesta muuttamisesta](1316.md) `1316/1990`
+- [Laki maatalousyrittäjien sukupolvenvaihdoseläkkeestä](1317.md) `1317/1990`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](1318.md) `1318/1990`
+- [Laki työntekijäin eläkelain 8§:n muuttamisesta](1319.md) `1319/1990`
+- [Laki rintamaveteraanien varhaiseläkkeestä annetun lain 4 a§:n muuttamisesta](1320.md) `1320/1990`
+- [Laki kansaneläkelain 26§:n muuttamisesta](1321.md) `1321/1990`
+- [Laki työttömyysturvalain 5§:n muuttamisesta](1322.md) `1322/1990`
+- [Laki maatalousyrittäjien tapaturmavakuutuslain 12 §:n muuttamisesta](1323.md) `1323/1990`
+- [Laki sairausvakuutuslain muuttamisesta](1324.md) `1324/1990`
+- [Asetus sairausvakuutusasetuksen muuttamisesta](1325.md) `1325/1990`
+- [Asetus maatalousyrittäjien sukupolvenvaihdoseläkkeestä](1326.md) `1326/1990`
+- [Asetus maatalousyrittäjien eläkeasetuksen muuttamisesta](1327.md) `1327/1990`
+- [Asetus maatalousyrittäjien eläkelaitoksen ohjesäännön sisältävän asetuksen 1 ja 20§:n muuttamisesta](1328.md) `1328/1990`
+- [Maa\- ja metsätalousministeriön päätös eräiden alueiden pidättämisestä riistanhoidollisiin tarkoituksiin](1329.md) `1329/1990`
+- [Maa\- ja metsätalousministeriön päätös elävän riistan ostoarvon määräämisessä noudatettavista perusteista](1330.md) `1330/1990`
+- [Laki rajavyöhykelain muuttamisesta](1331.md) `1331/1990`
+- [Laki valtakunnan maarajan lähellä olevien kiinteistöjen nautintaoikeuden supistamisesta annetun lain kumoamisesta](1332.md) `1332/1990`
+- [Laki leimaverolain muuttamisesta](1333.md) `1333/1990`
+- [Asetus rajavyöhykeasetuksen muuttamisesta](1334.md) `1334/1990`
+- [Asetus meripelastuspalvelusta annetun asetuksen 1§:n muuttamisesta](1335.md) `1335/1990`
+- [Asetus ulkoasiainhallinnon eräiden virkojen perustamisesta ja lakkauttamisesta](1336.md) `1336/1990`
+- [Asetus Inarijärven ja sen sivuvesistöjen kalastussäännöstä](1337.md) `1337/1990`
+- [Laki ennakkoperintälain muuttamisesta](1338.md) `1338/1990`
+- [Laki verotuslain muuttamisesta](1339.md) `1339/1990`
+- [Laki veronkantolain muuttamisesta](1340.md) `1340/1990`
+- [Laki korkotulon lähdeverosta](1341.md) `1341/1990`
+- [Laki talletusten ja obligaatioiden veronhuojennuslain muuttamisesta](1342.md) `1342/1990`
+- [Laki tulo\- ja varallisuusverolain muuttamisesta](1343.md) `1343/1990`
+- [Verohallituksen päätös koron ja voitto\-osuuden vapauttamisesta ennakonpidätyksestä eräissä tapauksissa](1344.md) `1344/1990`
+- [Laki valtion eläkelain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1345.md) `1345/1990`
+- [Laki merimieseläkelain muuttamisesta](1346.md) `1346/1990`
+- [Laki työntekijäin eläkelain muuttamisesta](1347.md) `1347/1990`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin \>eläkelain muuttamisesta](1348.md) `1348/1990`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](1349.md) `1349/1990`
+- [Laki yrittäjien eläkelain muuttamisesta](1350.md) `1350/1990`
+- [Laki tullitariffilain liitteinä olevien tullitariffin ja teollisuustulliluettelon muuttamisesta](1351.md) `1351/1990`
+- [Asetus kauppa\- ja teollisuusministeriön hallinnonalan eräistä virkajärjestelyistä](1352.md) `1352/1990`
+- [Maa\- ja metsätalousministeriön päätös maaseutupiireistä](1353.md) `1353/1990`
+- [Laki ruotsinkielisen korkeakouluopetuksen yhteensovittamisesta](1354.md) `1354/1990`
+- [Laki Åbo Akademi \-nimisestä yliopistosta annetun lain muuttamisesta](1355.md) `1355/1990`
+- [Laki Svenska handelshögskolan \-nimisestä korkeakoulusta annetun lain muuttamisesta](1356.md) `1356/1990`
+- [Laki Vaasan yliopistosta](1357.md) `1357/1990`
+- [Asetus eräiden korkeakoulujen virkojen kelpoisuusvaatimuksista sekä virkamiesten tehtävistä annetun asetuksen muuttamisesta](1358.md) `1358/1990`
+- [Asetus kauppakorkeakoulujen virkojen kelpoisuusvaatimuksista sekä virkamiesten tehtävistä annetun asetuksen muuttamisesta](1359.md) `1359/1990`
+- [Asetus kokeellisiin ja muihin tieteellisiin tarkoituksiin käytettävien selkärankaisten eläinten suojelemiseksi tehdyn eurooppalaisen yleissopimuksen voimaansaattamisesta](1360.md) `1360/1990`
+- [Asetus valtion liikelaitoksista annetun lain mukaisten liikelaitosten lainanottovaltuuksista vuonna 1991](1361.md) `1361/1990`
+- [Asetus asunto\-olojen kehittämisrahaston lainanottovaltuuksista vuonna 1991](1362.md) `1362/1990`
+- [Valtiovarainministeriön päätös taidekilpailupalkintojen verovapaudesta](1363.md) `1363/1990`
+- [Laki yksityisen työnantajan kansaneläkemaksun poikkeuksellisesta alentamisesta vuonna 1991](1364.md) `1364/1990`
+- [Laki työttömyysturvalain muuttamisesta](1365.md) `1365/1990`
+- [Laki työttömyyskassalain muuttamisesta](1366.md) `1366/1990`
+- [Laki työttömyysturvalain muuttamisesta](1367.md) `1367/1990`
+- [Asetus työttömyysturvan saamisen työvoimapoliittisista edellytyksistä](1368.md) `1368/1990`
+- [Asetus työvoimatoimikunnasta annetun asetuksen 2§:n muuttamisesta](1369.md) `1369/1990`
+- [Asetus työvoimapoliittisesta aikuiskoulutuksesta annetun asetuksen muuttamisesta](1370.md) `1370/1990`
+- [Asetus työnantajan sosiaaliturvamaksusta annetun asetuksen 1§:n muuttamisesta](1371.md) `1371/1990`
+- [Valtioneuvoston päätös kananmunien haudontojen rajoittamisesta](1372.md) `1372/1990`
+- [Sosiaali\- ja terveysministeriön päätös isyyslaissa \(700/75\) sekä veri\- ja muita periytyviä ominaisuuksia koskevista tutkimuksista annetussa laissa \(702/75\) tarkoitettujen oikeuslääketieteellisten tutkimusten korvausperusteista annetun sosiaali\- ja terveysministeriön päätöksen 1§:n muuttamisesta](1373.md) `1373/1990`
+- [Sosiaali\- ja terveysministeriön päätös tapaturmavakuutuslain 58§:ssä säädetyn maksun suuruudesta](1374.md) `1374/1990`
+- [Laki ammatillisten oppilaitosten rahoituksesta annetun lain 24§:n muuttamisesta](1375.md) `1375/1990`
+- [Laki ammatillisista oppilaitoksista annetun lain muuttamisesta](1376.md) `1376/1990`
+- [Laki ammatillisten oppilaitosten oppilaiden opintososiaalisista eduista annetun lain 2§:n muuttamisesta](1377.md) `1377/1990`
+- [Laki ammatillisista aikuiskoulutuskeskuksista annetun lain 17§:n muuttamisesta](1378.md) `1378/1990`
+- [Laki oppisopimuslain väliaikaisesta muuttamisesta annetun lain 28§:n ja voimaantulosäännöksen muuttamisesta](1379.md) `1379/1990`
+- [Asetus koulutussopimuksen perusteella työnantajalle maksettavasta koulutuskorvauksesta](1380.md) `1380/1990`
+- [Asetus oppisopimusasetuksen väliaikaisesta muuttamisesta annetun asetuksen 19§:n ja voimaantulosäännöksen muuttamisesta](1381.md) `1381/1990`
+- [Asetus oppisopimusasetuksen väliaikaisesta muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](1382.md) `1382/1990`
+- [Asetus ammatillisten opettajakorkeakoulujen, ammattikasvatushallinnon koulutuskeskuksen ja valtion ammatillisten oppilaitosten suoritteista perittävistä maksuista](1383.md) `1383/1990`
+- [Asetus eräistä opetusministeriön hallinnonalan virkajärjestelyistä](1384.md) `1384/1990`
+- [Verohallituksen päätös työn suorittamisesta aiheutuneiden kustannusten arvioimisesta ennakonpidätystä toimitettaessa](1385.md) `1385/1990`
+- [Laki lasten kotihoidon tuesta annetun lain 5 ja 7§:n muuttamisesta](1386.md) `1386/1990`
+- [Laki lasten kotihoidon tuesta annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1387.md) `1387/1990`
+- [Laki valtion virkamieslain muuttamisesta](1388.md) `1388/1990`
+- [Laki peruskoululain 62 g§:n muuttamisesta](1389.md) `1389/1990`
+- [Laki lukiolain 36 g§:n muuttamisesta](1390.md) `1390/1990`
+- [Asetus poliisin erään viran perustamisesta](1391.md) `1391/1990`
+- [Asetus eroraha\-asetuksen muuttamisesta](1392.md) `1392/1990`
+- [Asetus lapsen elatuksen turvaamisesta annetun asetuksen muuttamisesta](1393.md) `1393/1990`
+- [Verohallituksen päätös vuonna 1991 verosta vapaaksi katsottavien matkakustannusten korvausten perusteista ja määristä](1394.md) `1394/1990`
+- [Valtioneuvoston päätös Ilmailulaitoksen viranomaissuoritteista perittävistä maksuista](1395.md) `1395/1990`
+- [Valtioneuvoston päätös ammatillisten erikoisoppilaitosten käyttökustannuksiin suoritettavasta valtionavustuksesta](1396.md) `1396/1990`
+- [Kauppa\- ja teollisuusministeriön päätös maakaasuinvestointeihin annettavien korkotukilainojen yleisistä ehdoista](1397.md) `1397/1990`
+- [Verohallituksen päätös ennakonpidätyksessä vuonna 1991 noudatettavista luontoisetujen laskentaperusteista](1398.md) `1398/1990`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta annetun Suomen Pankin päätöksen muuttamisesta](1399.md) `1399/1990`

@@ -1,0 +1,1335 @@
+# 2013 Statutes
+
+## Statutes
+
+- [Valtioneuvoston asetus ajokorteista annetun valtioneuvoston asetuksen muuttamisesta](1.md) `1/2013`
+- [Verohallinnon päätös ennakonpidätysvelvollisuudesta vapauttamisesta](2.md) `2/2013`
+- [Verohallinnon päätös rakennusmaan verotusarvon laskentaperusteista](3.md) `3/2013`
+- [Opetus\- ja kulttuuriministeriön asetus opiskelijaksi ottamisen perusteista ammatillisessa peruskoulutuksessa](4.md) `4/2013`
+- [Sisäasiainministeriön ilmoitus sisäasiainministeriön asetuksesta Veikkaus Oy:n rahapelien pelisäännöistä](5.md) `5/2013`
+- [Sisäasiainministeriön ilmoitus sisäasiainministeriön asetuksesta Veikkaus Oy:n rahapelien pelisäännöistä](6.md) `6/2013`
+- [Verohallinnon päätös ennakonpidätyksen toimittamistavoista ja määrästä](7.md) `7/2013`
+- [Valtioneuvoston asetus asuntojen korjaus\-, energia\- ja terveyshaitta\-avustuksista annetun asetuksen muuttamisesta](8.md) `8/2013`
+- [Valtioneuvoston asetus rakennuksissa käytettävien energiamuotojen kertoimien lukuarvoista](9.md) `9/2013`
+- [Valtioneuvoston asetus Kansaneläkelaitoksen tehtävistä toimeenpantaessa neuvoston asetuksen \(ETY\) N:o 1408/71 sekä sosiaaliturva\- ja sairaanhoitosopimusten eräitä säännöksiä annetun valtioneuvoston asetuksen muuttamisesta](10.md) `10/2013`
+- [Valtioneuvoston asetus rautatiejärjestelmän kelpoisuusrekisteriin ja lisätodistusrekisteriin tallennettavista tiedoista](11.md) `11/2013`
+- [Valtioneuvoston asetus rautatiejärjestelmän liikenneturvallisuustehtäviä hoitavilta vaadittavasta kielitaidosta](12.md) `12/2013`
+- [Valtioneuvoston asetus rautateiden liikenneturvallisuuskoulutusta antavia oppilaitoksia koskevista vaatimuksista sekä eräistä kelpoisuuksista ja luetteloinneista](13.md) `13/2013`
+- [Ympäristöministeriön ilmoitus ympäristöministeriön asetuksesta rakennusten energiatehokkuudesta annetun ympäristöministeriön asetuksen määräyksen 2\.1\.3 kumoamisesta](14.md) `14/2013`
+- [Valtioneuvoston asetus elintarvikeapua koskevan yleissopimuksen voimaansaattamisesta](15.md) `15/2013`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveysministeriön ajoterveydestä annetun asetuksen muuttamisesta](16.md) `16/2013`
+- [Valtioneuvoston asetus lento\- ja meripelastusyhteistyöstä arktisella alueella tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](17.md) `17/2013`
+- [Valtioneuvoston asetus vuodelta 2013 maksettavasta Etelä\-Suomen kansallisesta tuesta](18.md) `18/2013`
+- [Valtioneuvoston asetus vuodelta 2013 maksettavasta pohjoisesta tuesta](19.md) `19/2013`
+- [Valtioneuvoston asetus vuodelta 2013 maksettavasta luonnonhaittakorvauksen kansallisesta lisäosasta](20.md) `20/2013`
+- [Valtioneuvoston asetus vuodelta 2013 maksettavasta sokerijuurikkaan kansallisesta tuesta](21.md) `21/2013`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisten tukien hakemusten toimittamisesta sekä kotieläinten laskentapäivistä ja \-ajankohdista vuonna 2013](22.md) `22/2013`
+- [Puolustusministeriön asetus puolustusvoimien ajokorteista ja ajoluvista](23.md) `23/2013`
+- [Valtiovarainministeriön asetus F\.E\. Sillanpää \-juhlarahasta](24.md) `24/2013`
+- [Valtioneuvoston asetus lääketieteellisin perustein vaikeiksi ja pitkäaikaisiksi arvioitavista sairauksista, joiden lääkehoidon kustannuksista sairausvakuutuslain 5 luvun 5 §:n 2 momentin perusteella korvataan 65 tai 100 prosenttia](25.md) `25/2013`
+- [Valtioneuvoston asetus tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi Uruguayn kanssa tehdyn sopimuksen ja pöytäkirjan voimaansaattamisesta ja sopimuksen ja pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](26.md) `26/2013`
+- [Valtioneuvoston asetus lääketieteellisin perustein vaikeiksi arvioitavista sairauksista, joiden hoidossa käytettävien kliinisten ravintovalmisteiden kustannuksista sairausvakuutuslain perusteella korvataan 65 tai 35 prosenttia](27.md) `27/2013`
+- [Työ\- ja elinkeinoministeriön asetus kasvihuonekaasupäästöjen tarkkailusta ja raportoinnista päästökauppakaudella 2013—2020](28.md) `28/2013`
+- [Laki lentoliikenteestä Kuwaitin kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](29.md) `29/2013`
+- [Laki kaupallisten sopimusten maksuehdoista](30.md) `30/2013`
+- [Laki saatavien perinnästä annetun lain muuttamisesta](31.md) `31/2013`
+- [Laki korkolain muuttamisesta](32.md) `32/2013`
+- [Laki vakuutussopimuslain 44 §:n muuttamisesta](33.md) `33/2013`
+- [Laki maanvuokralain 8 §:n muuttamisesta](34.md) `34/2013`
+- [Laki asuinhuoneiston vuokrauksesta annetun lain 35 §:n muuttamisesta](35.md) `35/2013`
+- [Laki liikehuoneiston vuokrauksesta annetun lain 28 §:n muuttamisesta](36.md) `36/2013`
+- [Laki elinkeinonharjoittajien välisten sopimusehtojen sääntelystä annetun lain 1 §:n muuttamisesta](37.md) `37/2013`
+- [Laki verojen ja maksujen täytäntöönpanosta annetun lain muuttamisesta](38.md) `38/2013`
+- [Laki eräiden markkinaoikeudellisten asioiden käsittelystä annetun lain 3 §:n muuttamisesta](39.md) `39/2013`
+- [Laki kiinteistötoimitusmaksusta annetun lain 12 §:n muuttamisesta](40.md) `40/2013`
+- [Laki tapaturmavakuutuslain 38 §:n muuttamisesta](41.md) `41/2013`
+- [Laki työntekijän eläkelain 164 §:n muuttamisesta](42.md) `42/2013`
+- [Laki maatalousyrittäjän eläkelain 25 §:n muuttamisesta](43.md) `43/2013`
+- [Laki yrittäjän eläkelain 123 §:n muuttamisesta](44.md) `44/2013`
+- [Laki merimieseläkelain 146 §:n muuttamisesta](45.md) `45/2013`
+- [Laki poliisin hallinnosta annetun lain 15 §:n muuttamisesta](46.md) `46/2013`
+- [Laki hätäkeskustoiminnasta annetun lain 30 §:n muuttamisesta](47.md) `47/2013`
+- [Laki valtion virkamieslain 35 §:n 2 momentin kumoamisesta](48.md) `48/2013`
+- [Laki kauppaa, kehitystä ja yhteistyötä koskevan sopimuksen muuttamisesta Euroopan yhteisön ja sen jäsenvaltioiden sekä Etelä\-Afrikan tasavallan välillä tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](49.md) `49/2013`
+- [Laki rakennuksen energiatodistuksesta](50.md) `50/2013`
+- [Laki Asumisen rahoitus\- ja kehittämiskeskuksesta annetun lain 1 §:n muuttamisesta](51.md) `51/2013`
+- [Laki rakennuksen ilmastointijärjestelmän kylmälaitteiden energiatehokkuuden tarkastamisesta annetun lain kumoamisesta](52.md) `52/2013`
+- [Valtioneuvoston asetus kuntien kielellisestä asemasta vuosina 2013—2022](53.md) `53/2013`
+- [Valtioneuvoston asetus pohjoiseurooppalaisen toiminnallisen ilmatilan lohkon \(NEFAB\) kansallisten valvontaviranomaisten välisen yhteistyösopimuksen voimaansaattamisesta](54.md) `54/2013`
+- [Maa\- ja metsätalousministeriön asetus tunnuspituudeltaan yli 24 metrin pituisten kalastusalusten harjoittaman silakan ja kilohailin troolikalastuksen keskeyttämisestä Suomenlahdella sekä pohjoisella Itämerellä](55.md) `55/2013`
+- [Valtiovarainministeriön asetus Verohallinnon määräämisestä toimivaltaisena viranomaisena ratkaisemaan eräitä verotusta koskevissa kansainvälisissä sopimuksissa tarkoitettuja asioita](56.md) `56/2013`
+- [Tullin työjärjestys](57.md) `57/2013`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vehnän, ohran ja kauran kylvösiemenen sertifiointia koskevasta väliaikaisesta poikkeuksesta](58.md) `58/2013`
+- [Liikenne\- ja viestintäministeriön asetus maantielautoista annetun liikenne\- ja viestintäministeriön asetuksen 15 §:n muuttamisesta](59.md) `59/2013`
+- [Ympäristöministeriön asetus biosidivalmisteen hyväksymisen tai rekisteröinnin hakemisesta, markkinoilta poistamisesta ja erityisehdoista annetun asetuksen liitteen 1 muuttamisesta](60.md) `60/2013`
+- [Valtioneuvoston asetus kansainvälisestä oikeusavusta rikosasioissa annetun asetuksen 3 §:n muuttamisesta](61.md) `61/2013`
+- [Valtioneuvoston asetus rikosrekisteriasetuksen eräiden säännösten kumoamisesta](62.md) `62/2013`
+- [Valtioneuvoston asetus maa\- ja metsätalousministeriön tietopalvelukeskuksesta annetun asetuksen 6 §:n muuttamisesta](63.md) `63/2013`
+- [Valtioneuvoston asetus keskinäisestä oikeusavusta rikosasioissa Euroopan unionin jäsenvaltioiden välillä 29 päivänä toukokuuta 2000 tehdyn yleissopimuksen ja siihen vuonna 2001 liitetyn pöytäkirjan tiettyjen määräysten soveltamisesta Euroopan unionin sekä Islannin tasavallan ja Norjan kuningaskunnan välillä tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](64.md) `64/2013`
+- [Valtioneuvoston asetus vapautensa menettäneen henkilön väliaikaisesta siirtämisestä todistelutarkoituksessa rikosasioissa annetun lain 7 §:n muuttamisesta annetun lain voimaantulosta](65.md) `65/2013`
+- [Valtioneuvoston asetus talvimerenkulun palvelujen yhteisestä järjestämisestä ja yhteistyöstä talvimerenkulun palvelujen alalla Ruotsin kanssa tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](66.md) `66/2013`
+- [Valtiovarainministeriön asetus verovuoden 2012 jäännösveron ja metsänhoitomaksun eräpäivistä sekä ennakonpalautusten maksamisesta ja vuoden 2013 kiinteistöveron eräpäivistä](67.md) `67/2013`
+- [Valtioneuvoston asetus opetus\- ja kulttuuriministeriöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](68.md) `68/2013`
+- [Valtioneuvoston asetus poliisin hallinnosta annetun asetuksen 24 ja 34 §:n kumoamisesta](69.md) `69/2013`
+- [Valtioneuvoston asetus Terveyden ja hyvinvoinnin laitoksesta annetun asetuksen 2 ja 3 §:n muuttamisesta](70.md) `70/2013`
+- [Puolustusministeriön asetus asevelvollisuuslaissa ja terveydenhuollon järjestämisestä puolustusvoimissa annetussa laissa tarkoitetuista etuuksista annetun puolustusministeriön asetuksen 2 §:n 1 momentin muuttamisesta](71.md) `71/2013`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön ulkopuolisista maista tuotavista mehiläistuotteista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](72.md) `72/2013`
+- [Maa\- ja metsätalousministeriön asetus Euroopan unionin ulkopuolisista maista tuotavista eläimistä saatavista sivutuotteista, niistä johdetuista tuotteista sekä eläintautien leviämisen vaaraa aiheuttavista muista tavaroista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](73.md) `73/2013`
+- [Maa\- ja metsätalousministeriön asetus kasvihuonetuotannon tuesta vuonna 2013](74.md) `74/2013`
+- [Valtioneuvoston asetus Suomen ja Pohjois\-Atlantin liiton kesken vaihdettavan turvallisuusluokitellun tiedon suojaamiseksi tehdyn hallinnollisen järjestelyn ja Pohjois\-Atlantin liiton kanssa tehdyn tietoturvallisuussopimuksen voimaansaattamisesta sekä hallinnollisen järjestelyn ja tietoturvallisuussopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](75.md) `75/2013`
+- [Maa\- ja metsätalousministeriön asetus eläimistä saatavien sivutuotteiden ja niistä johdettujen tuotteiden keräämisestä, kuljetuksesta ja hävittämisestä annetun maa\- ja metsätalousministeriön asetuksen liitteiden muuttamisesta](76.md) `76/2013`
+- [Valtioneuvoston asetus Turvallisuuskomiteasta](77.md) `77/2013`
+- [Valtiovarainministeriön asetus valtiovarainministeriön työjärjestyksen 8 ja 17 §:n muuttamisesta](78.md) `78/2013`
+- [Laki korkeimmasta hallinto\-oikeudesta annetun lain 6 ja 13 §:n muuttamisesta](79.md) `79/2013`
+- [Laki korkeimman hallinto\-oikeuden asiantuntijajäsenistä annetun lain 1 §:n muuttamisesta](80.md) `80/2013`
+- [Laki oikeudenkäynnin viivästymisen hyvittämisestä annetun lain muuttamisesta](81.md) `81/2013`
+- [Laki hallintolainkäyttölain muuttamisesta](82.md) `82/2013`
+- [Ympäristöministeriön asetus ympäristöministeriön maksullisista suoritteista](83.md) `83/2013`
+- [Ympäristöministeriön asetus Asumisen rahoitus\- ja kehittämiskeskuksen maksullisista suoritteista](84.md) `84/2013`
+- [Valtioneuvoston asetus maasta toiseen ulottuvien vesistöjen ja kansainvälisten järvien suojelusta ja käytöstä tehdyn yleissopimuksen 25 ja 26 artiklaan tehdyn muutoksen voimaansaattamisesta](85.md) `85/2013`
+- [Laki konkurssilain muuttamisesta](86.md) `86/2013`
+- [Laki takaisinsaannista konkurssipesään annetun lain 24 §:n muuttamisesta](87.md) `87/2013`
+- [Valtioneuvoston asetus eräiden maataloustuotteiden hintaselvityksiin liittyvistä ilmoituksista](88.md) `88/2013`
+- [Valtioneuvoston asetus tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi Marokon kanssa tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](89.md) `89/2013`
+- [Maa\- ja metsätalousministeriön asetus eräiden maataloustuotteiden hintaselvityksiin liittyvistä ilmoituksista](90.md) `90/2013`
+- [Maa\- ja metsätalousministeriön asetus hampunsiementen maahantuonnista eräissä tapauksissa annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](91.md) `91/2013`
+- [Maa\- ja metsätalousministeriön asetus teurasruhojen luokittelusta](92.md) `92/2013`
+- [Tasavallan presidentin asetus Tanskan, Suomen, Islannin, Norjan ja Ruotsin välillä tehdyn yleisen turvallisuussopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](93.md) `93/2013`
+- [Valtioneuvoston asetus Tanskan, Suomen, Islannin, Norjan ja Ruotsin välillä tehdyn yleisen turvallisuussopimuksen voimaansaattamisesta](94.md) `94/2013`
+- [Laki laivaväestä ja aluksen turvallisuusjohtamisesta annetun lain muuttamisesta](95.md) `95/2013`
+- [Valtioneuvoston asetus polttoaineteholtaan vähintään 50 megawatin polttolaitosten päästöjen rajoittamisesta](96.md) `96/2013`
+- [Verohallinnon työjärjestys](97.md) `97/2013`
+- [Opetus\- ja kulttuuriministeriön asetus opetus\- ja kulttuuriministeriön työjärjestyksen muuttamisesta](98.md) `98/2013`
+- [Laki markkinaoikeudesta](99.md) `99/2013`
+- [Laki oikeudenkäynnistä markkinaoikeudessa](100.md) `100/2013`
+- [Laki patenttilain muuttamisesta](101.md) `101/2013`
+- [Laki oikeudesta työntekijän tekemiin keksintöihin annetun lain 12 §:n muuttamisesta](102.md) `102/2013`
+- [Laki oikeudesta korkeakouluissa tehtäviin keksintöihin annetun lain 3 ja 13 §:n muuttamisesta](103.md) `103/2013`
+- [Laki maanpuolustukselle merkityksellisistä keksinnöistä annetun lain 1 §:n muuttamisesta](104.md) `104/2013`
+- [Laki hyödyllisyysmallioikeudesta annetun lain muuttamisesta](105.md) `105/2013`
+- [Laki yksinoikeudesta integroidun piirin piirimalliin annetun lain muuttamisesta](106.md) `106/2013`
+- [Laki tavaramerkkilain muuttamisesta](107.md) `107/2013`
+- [Laki yhteismerkkilain muuttamisesta](108.md) `108/2013`
+- [Laki mallioikeuslain muuttamisesta](109.md) `109/2013`
+- [Laki toiminimilain muuttamisesta](110.md) `110/2013`
+- [Laki kaupparekisterilain 29 §:n muuttamisesta](111.md) `111/2013`
+- [Laki patentti\- ja rekisterihallituksesta annetun lain muuttamisesta](112.md) `112/2013`
+- [Laki patentti\- ja rekisterihallituksen valitusasioiden käsittelystä annetun lain eräiden säännösten kumoamisesta](113.md) `113/2013`
+- [Laki patentti\- ja rekisterihallituksen valitusasioiden käsittelystä annetun lain kumoamisesta](114.md) `114/2013`
+- [Laki kasvinjalostajanoikeudesta annetun lain muuttamisesta](115.md) `115/2013`
+- [Laki verkkotunnuslain 18 §:n muuttamisesta](116.md) `116/2013`
+- [Laki sopimattomasta menettelystä elinkeinotoiminnassa annetun lain muuttamisesta](117.md) `117/2013`
+- [Laki tekijänoikeuslain muuttamisesta](118.md) `118/2013`
+- [Laki oikeudenkäymiskaaren 7 luvun 4 ja 12 §:n muuttamisesta](119.md) `119/2013`
+- [Laki todistelun turvaamisesta teollis\- ja tekijänoikeuksia koskevissa riita\-asioissa annetun lain muuttamisesta](120.md) `120/2013`
+- [Laki tuomareiden nimittämisestä annetun lain muuttamisesta](121.md) `121/2013`
+- [Laki valtion virkamieslain 46 a §:n muuttamisesta](122.md) `122/2013`
+- [Laki kilpailulain 43 §:n muuttamisesta](123.md) `123/2013`
+- [Laki sähkömarkkinalain 51 §:n muuttamisesta](124.md) `124/2013`
+- [Laki maakaasumarkkinalain 9 luvun 4 §:n muuttamisesta](125.md) `125/2013`
+- [Laki lentoasemaverkosta ja \-maksuista annetun lain 13 §:n muuttamisesta](126.md) `126/2013`
+- [Laki hiilidioksidin talteenottamisesta ja varastoinnista annetun lain 16 §:n muuttamisesta](127.md) `127/2013`
+- [Laki viestintämarkkinalain muuttamisesta](128.md) `128/2013`
+- [Laki televisio\- ja radiotoiminnasta annetun lain 36 ja 36 a §:n muuttamisesta](129.md) `129/2013`
+- [Laki sähköntuotannon ja \-kulutuksen välistä tasapainoa varmistavasta tehoreservistä annetun lain 21 §:n muuttamisesta](130.md) `130/2013`
+- [Laki julkisista hankinnoista annetun lain 91 ja 105 §:n muuttamisesta](131.md) `131/2013`
+- [Laki julkisista puolustus\- ja turvallisuushankinnoista annetun lain 93 ja 106 §:n muuttamisesta](132.md) `132/2013`
+- [Laki kuluttajansuojalain 2 luvun 20 §:n ja 3 luvun 4 §:n muuttamisesta](133.md) `133/2013`
+- [Laki arpajaislain 62 c ja 66 a §:n muuttamisesta](134.md) `134/2013`
+- [Laki rajat ylittävästä kieltomenettelystä annetun lain 3 §:n muuttamisesta](135.md) `135/2013`
+- [Laki alkoholilain 53 §:n muuttamisesta](136.md) `136/2013`
+- [Laki eurooppalaisesta alueellisen yhteistyön yhtymästä annetun lain 9 §:n muuttamisesta](137.md) `137/2013`
+- [Laki Finanssivalvonnasta annetun lain 44 §:n muuttamisesta](138.md) `138/2013`
+- [Valtioneuvoston asetus tuomareiden nimittämisestä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](139.md) `139/2013`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2013 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista ja työnantajasuoritusten vähimmäismäärästä](140.md) `140/2013`
+- [Valtioneuvoston asetus vuodelta 2013 maksettavista lypsylehmä\- ja nautapalkkioista, teuraskaritsan laatupalkkiosta, valkuais\- ja öljykasvipalkkiosta sekä tärkkelysperunapalkkiosta](141.md) `141/2013`
+- [Valtioneuvoston asetus tilatukijärjestelmästä annetun valtioneuvoston asetuksen 6 ja 7 §:n muuttamisesta](142.md) `142/2013`
+- [Valtioneuvoston asetus nimetylle katsastajalle ja aluksenmittaajalle sekä nimetylle tarkastajalle maksettavien palkkioiden suuruudesta](143.md) `143/2013`
+- [Liikenne\- ja viestintäministeriön asetus sotilasajoneuvoasetuksen soveltamisesta annetun liikenneministeriön päätöksen kumoamisesta](144.md) `144/2013`
+- [Verohallinnon päätös  varainsiirtoveron maksamisesta ja ilmoittamisesta](145.md) `145/2013`
+- [Valtioneuvoston asetus Sveitsin kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämisestä tehdyn sopimuksen ja pöytäkirjojen muuttamisesta tehdyn pöytäkirjan voimaansaattamisesta ja pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](146.md) `146/2013`
+- [Maa\- ja metsätalousministeriön asetus tunnuspituudeltaan enintään 24 metrin pituisten kalastusalusten harjoittaman silakan ja kilohailin troolikalastuksen keskeyttämisestä Suomenlahdella sekä pohjoisella Itämerellä](147.md) `147/2013`
+- [Valtioneuvoston asetus veroasioita koskevista tiedoista Liberian kanssa tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](148.md) `148/2013`
+- [Valtioneuvoston asetus Pelastusopistosta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](149.md) `149/2013`
+- [Valtioneuvoston asetus merityötä koskevaan vuoden 2006 yleissopimukseen liittyvien säännösten voimaantulosta](150.md) `150/2013`
+- [Valtioneuvoston asetus jätteen polttamisesta](151.md) `151/2013`
+- [Valtioneuvoston asetus ympäristönsuojeluasetuksen 1 ja 20 a §:n muuttamisesta](152.md) `152/2013`
+- [Valtioneuvoston asetus jätteistä annetun valtioneuvoston asetuksen 17 §:n muuttamisesta](153.md) `153/2013`
+- [Valtioneuvoston asetus Euroopan yhteisön ja Venäjän federaation välillä tehdyn takaisinottoa koskevan sopimuksen toteuttamismenettelyistä Suomen tasavallan hallituksen ja Venäjän federaation hallituksen välillä tehdyn täytäntöönpanopöytäkirjan voimaansaattamisesta sekä täytäntöönpanopöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](154.md) `154/2013`
+- [Työ\- ja elinkeinoministeriön asetus kosmeettisista valmisteista annetun kauppa\- ja teollisuusministeriön asetuksen muuttamisesta](155.md) `155/2013`
+- [Laki väestötietojärjestelmästä ja Väestörekisterikeskuksen varmennepalveluista annetun lain muuttamisesta](156.md) `156/2013`
+- [Maa\- ja metsätalousministeriön asetus kaloissa, äyriäisissä ja nilviäisissä esiintyvien eläintautien vastustamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](157.md) `157/2013`
+- [Maa\- ja metsätalousministeriön asetus vastustettavista eläintaudeista ja eläintautien ilmoittamisesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen muuttamisesta](158.md) `158/2013`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta nautojen BSE\-taudin vastustamisesta annetun maa\- ja metsätalousministeriön asetuksen 13 §:n muuttamisesta](159.md) `159/2013`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kalojen bakteeriperäisen munuaistaudin vastustamisesta annetun maa\- ja metsätalousministeriön asetuksen 11 §:n muuttamisesta](160.md) `160/2013`
+- [Työ\- ja elinkeinoministeriön asetus yhdenvertaisuuslaissa tarkoitetun hyvityksen enimmäismäärän tarkistamisesta](161.md) `161/2013`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvalla sallittavasta suden metsästyksestä poronhoitoalueen ulkopuolella metsästysvuonna 2012—2013](162.md) `162/2013`
+- [Valtioneuvoston asetus julkisen hallinnon tietohallinnon neuvottelukunnasta](163.md) `163/2013`
+- [Valtioneuvoston asetus väestötietojärjestelmästä annetun valtioneuvoston asetuksen muuttamisesta](164.md) `164/2013`
+- [Valtioneuvoston asetus vuodelta 2012 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen muuttamisesta](165.md) `165/2013`
+- [Valtioneuvoston asetus aluksen miehityksestä ja laivaväen pätevyydestä](166.md) `166/2013`
+- [Sosiaali\- ja terveysministeriön asetus sähköisen lääkemääräyksen käyttömaksuista annetun sosiaali\- ja terveysministeriön asetuksen 3 §:n muuttamisesta](167.md) `167/2013`
+- [Ulkoasiainministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoasiainministeriön asetuksen muuttamisesta](168.md) `168/2013`
+- [Verohallinnon päätös pankkiveron maksamisesta ja ilmoittamisesta](169.md) `169/2013`
+- [Valtioneuvoston asetus rakennuksen energiatodistuksen laatijan pätevyydestä ja kevennetyn energiatodistusmenettelyn edellytyksistä](170.md) `170/2013`
+- [Valtioneuvoston asetus vuodelta 2012 maksettavasta sokerijuurikkaan kuljetustuesta](171.md) `171/2013`
+- [Valtioneuvoston asetus kansanterveyttä sekä eläinten ja kasvien terveyttä, taudeista ilmoittamista, eläinten hyvinvointia sekä eläinten tunnistusta ja rekisteröintiä koskevien täydentävien ehtojen valvonnasta annetun valtioneuvoston asetuksen 23 §:n ja liitteen 1 muuttamisesta](172.md) `172/2013`
+- [Valtioneuvoston asetus merimiesasiain neuvottelukunnasta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](173.md) `173/2013`
+- [Valtioneuvoston asetus osakehuoneistojen pinta\-alan mittaustavasta ja isännöitsijätodistuksesta annetun valtioneuvoston asetuksen 2 ja 7 §:n muuttamisesta](174.md) `174/2013`
+- [Valtioneuvoston asetus asuntojen markkinoinnissa annettavista tiedoista annetun valtioneuvoston asetuksen muuttamisesta](175.md) `175/2013`
+- [Ympäristöministeriön asetus rakennuksen energiatodistuksesta](176.md) `176/2013`
+- [Laki valtion virkamieslain muuttamisesta](177.md) `177/2013`
+- [Työ\- ja elinkeinoministeriön asetus talous\- ja velkaneuvontapalvelujen tuottajalle vuonna 2013 maksettavan korvauksen perusteista](178.md) `178/2013`
+- [Valtiovarainministeriön asetus Sophie Mannerheim \-juhlarahasta](179.md) `179/2013`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisten tukien hakemusten toimittamisesta sekä kotieläinten laskentapäivistä ja \-ajankohdista vuonna 2013 annetun asetuksen 1 ja 2 §:n muuttamisesta](180.md) `180/2013`
+- [Ympäristöministeriön ilmoitus ympäristöministeriön asetuksesta rakennuksen energiatehokkuuden parantamisesta korjaus\- ja muutostöissä](181.md) `181/2013`
+- [Valtioneuvoston asetus sanomalehdistön tuesta annetun valtioneuvoston asetuksen 5 ja 7 §:n muuttamisesta](182.md) `182/2013`
+- [Verohallinnon päätös ilmoittamisvelvollisuudesta ja muistiinpanoista annetun päätöksen 18 ja 33 §:n muuttamisesta](183.md) `183/2013`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta siemenperunan kaupasta annetun maa\- ja metsätalousministeriön asetuksen väliaikaisesta muuttamisesta](184.md) `184/2013`
+- [Laki hallinnollisesta yhteistyöstä verotuksen alalla ja direktiivin 77/799/ETY kumoamisesta annetun neuvoston direktiivin lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja direktiivin soveltamisesta](185.md) `185/2013`
+- [Laki rajoitetusti verovelvollisen tulon verottamisesta annetun lain 3 ja 13 §:n muuttamisesta](186.md) `186/2013`
+- [Laki ulkomaisten väliyhteisöjen osakkaiden verotuksesta annetun lain 2 a §:n muuttamisesta](187.md) `187/2013`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](188.md) `188/2013`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](189.md) `189/2013`
+- [Valtioneuvoston asetus kaivannaisjätteistä](190.md) `190/2013`
+- [Valtioneuvoston asetus ympäristönsuojeluasetuksen muuttamisesta](191.md) `191/2013`
+- [Laki maatalouden tukien toimeenpanosta](192.md) `192/2013`
+- [Laki Euroopan unionin suorista tuista maataloudelle](193.md) `193/2013`
+- [Laki luonnonhaittakorvauksesta, maatalouden ympäristötuesta sekä eräistä muista ympäristön ja maaseudun tilan parantamiseen liittyvistä tuista annetun lain muuttamisesta](194.md) `194/2013`
+- [Laki maa\- ja puutarhatalouden kansallisista tuista annetun lain muuttamisesta](195.md) `195/2013`
+- [Laki satovahinkojen korvaamisesta annetun lain 12 ja 14 §:n muuttamisesta](196.md) `196/2013`
+- [Laki maaseudun kehittämiseen liittyvien ohjelmien hallinnoinnista annetun lain 16 §:n muuttamisesta](197.md) `197/2013`
+- [Laki eläinlääkintähuoltolain 2 §:n muuttamisesta](198.md) `198/2013`
+- [Tasavallan presidentin asetus kasvihuonekaasujen päästökauppaa koskevien hallintotehtävien hoidosta Ahvenanmaan maakunnassa](199.md) `199/2013`
+- [Valtioneuvoston asetus oikeushallinnon tietotekniikkakeskuksesta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](200.md) `200/2013`
+- [Valtioneuvoston asetus eläintautien vastustamisesta eläinten kuljetuksessa annetun asetuksen muuttamisesta](201.md) `201/2013`
+- [Valtioneuvoston asetus luonnonhaittakorvausten, maatalouden ympäristötuen, eläinten hyvinvoinnin tuen ja ei\-tuotannollisten investointien tuen hakemisesta vuonna 2013](202.md) `202/2013`
+- [Valtioneuvoston asetus vuoden 2012 satovahinkojen viljelmäkohtaisista korvausosuuksista](203.md) `203/2013`
+- [Valtioneuvoston asetus alusten ympäristönsuojelua parantavien investointitukien yleisistä ehdoista annetun valtioneuvoston asetuksen muuttamisesta](204.md) `204/2013`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](205.md) `205/2013`
+- [Laki metsästyslain muuttamisesta](206.md) `206/2013`
+- [Laki kuluttajansuojalain 7 luvun muuttamisesta](207.md) `207/2013`
+- [Laki eräiden luotonantajien rekisteröinnistä annetun lain muuttamisesta](208.md) `208/2013`
+- [Laki korkolain 2 §:n muuttamisesta](209.md) `209/2013`
+- [Laki turvallisuustoimenpiteistä turvallisuusluokitellun tiedon suojaamiseksi Yhdysvaltojen kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](210.md) `210/2013`
+- [Laki vuoden 2009 lääkevahinkokorvausten osittaisesta rahoittamisesta valtion varoista](211.md) `211/2013`
+- [Laki tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi Tadžikistanin kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](212.md) `212/2013`
+- [Laki veroasioita koskevista tiedoista Jamaikan kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](213.md) `213/2013`
+- [Laki tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi Kyproksen kanssa tehdyn sopimuksen ja pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](214.md) `214/2013`
+- [Laki tasavallan presidentin palkkiosta annetun lain 1 §:n muuttamisesta](215.md) `215/2013`
+- [Tasavallan presidentin asetus Suomen ulkomaanedustustojen sijaintipaikoista annetun tasavallan presidentin asetuksen muuttamisesta](216.md) `216/2013`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisten tukien hakemusten toimittamisesta sekä kotieläinten laskentapäivistä ja \-ajankohdista vuonna 2013 annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](217.md) `217/2013`
+- [Maa\- ja metsätalousministeriön asetus kasvihuonetuotannon tuesta vuonna 2013 annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](218.md) `218/2013`
+- [Maa\- ja metsätalousministeriön asetus maidon tuotantotuen hakemisesta ja maksamisen edellytyksistä annetun maa\- ja metsätalousministeriön asetuksen 3 § ja 4 §:n 2 momentin kumoamisesta](219.md) `219/2013`
+- [Lääkealan turvallisuus\- ja kehittämiskeskuksen päätös lääkeluettelosta](220.md) `220/2013`
+- [Laki Kroatian liittymisestä Euroopan unioniin tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta sekä Euroopan yhteisöjen ja niiden jäsenvaltioiden sekä Kroatian tasavallan välillä tehdyn vakautus\- ja assosiaatiosopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain kumoamisesta](221.md) `221/2013`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön ulkopuolisista maista tuotavista sammakonreisistä ja etanoista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](222.md) `222/2013`
+- [Sisäasiainministeriön asetus rajavartiolaitoksen virkapuvusta ja rajavartiomiehen tunnuksesta annetun sisäasiainministeriön asetuksen muuttamisesta](223.md) `223/2013`
+- [Sosiaali\- ja terveysministeriön asetus laivaväeltä vaadittavasta näkö\- ja kuulokyvystä](224.md) `224/2013`
+- [Valtioneuvoston asetus vuodelta 2013 maksettavasta mehiläistalouden kansallisesta pesäkohtaisesta tuesta](225.md) `225/2013`
+- [Valtioneuvoston asetus täydentäviin ehtoihin liittyvistä hyvän maatalouden ja ympäristön vähimmäisvaatimuksista](226.md) `226/2013`
+- [Valtioneuvoston asetus työ\- ja elinkeinoministeriöstä annetun valtioneuvoston asetuksen 1 ja 2 §:n muuttamisesta](227.md) `227/2013`
+- [Sisäasiainministeriön asetus erityistä vaaraa aiheuttavien kohteiden ulkoisesta pelastussuunnitelmasta annetun sisäasiainministeriön asetuksen muuttamisesta](228.md) `228/2013`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta puna\-apilan, alsikeapilan, nurminadan, härkäpavun ja herneen kylvösiemenen sertifiointia koskevasta väliaikaisesta poikkeuksesta](229.md) `229/2013`
+- [Sisäasiainministeriön asetus pysäköintivirhemaksusta](230.md) `230/2013`
+- [Sisäasiainministeriön asetus sisäasiainministeriön työjärjestyksen muuttamisesta](231.md) `231/2013`
+- [Oikeusministeriön asetus oikeusministeriön työjärjestyksestä annetun oikeusministeriön asetuksen muuttamisesta](232.md) `232/2013`
+- [Sosiaali\- ja terveysministeriön asetus Lääkealan turvallisuus\- ja kehittämiskeskuksen maksullisista suoritteista](233.md) `233/2013`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisten tukien hallinnosta vuonna 2013](234.md) `234/2013`
+- [Valtioneuvoston asetus maataloustukihakemuksen siirtämisessä vuonna 2013 noudatettavasta menettelystä](235.md) `235/2013`
+- [Valtioneuvoston asetus tilatukijärjestelmän kansallisen varannon käytöstä annetun valtioneuvoston asetuksen muuttamisesta](236.md) `236/2013`
+- [Valtioneuvoston asetus vuodelta 2013 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 9 §:n ja liitteen 1 muuttamisesta](237.md) `237/2013`
+- [Valtioneuvoston asetus luonnonhaittakorvauksista ja maatalouden ympäristötuista vuosina 2007—2013 annetun valtioneuvoston asetuksen muuttamisesta](238.md) `238/2013`
+- [Valtioneuvoston asetus eläinten hyvinvoinnin tuesta vuosina 2008—2013 annetun valtioneuvoston asetuksen muuttamisesta](239.md) `239/2013`
+- [Valtioneuvoston asetus ei\-tuotannollisten investointien tuesta vuosina 2008—2013 annetun valtioneuvoston asetuksen 18 §:n muuttamisesta](240.md) `240/2013`
+- [Valtioneuvoston asetus tuesta tilaneuvontaan vuonna 2013](241.md) `241/2013`
+- [Valtioneuvoston asetus tilatukijärjestelmästä](242.md) `242/2013`
+- [Maa\- ja metsätalousministeriön asetus maatalouden ympäristötuen perus\- ja lisätoimenpiteistä ja maatalouden ympäristötuen erityistuista annetun maa\- ja metsätalousministeriön asetuksen 41 §:n muuttamisesta](243.md) `243/2013`
+- [Maa\- ja metsätalousministeriön asetus eläinten hyvinvoinnin tuesta vuosina 2008—2013 annetun maa\- ja metsätalousministeriön asetuksen 5 §:n muuttamisesta](244.md) `244/2013`
+- [Maa\- ja metsätalousministeriön asetus Euroopan unionin ulkopuolisista maista tuotavista linnunmunista, munatuotteista ja munatuotteita sisältävistä yhdistelmätuotteista annetun maa\- ja metsätalousministeriön asetuksen 6 §:n muuttamisesta](245.md) `245/2013`
+- [Maa\- ja metsätalousministeriön asetus Euroopan unionin ulkopuolisista maista tuotavista eläimistä saatavista sivutuotteista, niistä johdetuista tuotteista sekä eläintautien leviämisen vaaraa aiheuttavista muista tavaroista annetun maa\- ja metsätalousministeriön asetuksen 19 §:n muuttamisesta](246.md) `246/2013`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta lannoitevalmisteista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](247.md) `247/2013`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta kappaletavarana aluksessa annetun asetuksen muuttamisesta](248.md) `248/2013`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta ja tilapäisestä säilytyksestä satama\-alueella annetun valtioneuvoston asetuksen muuttamisesta](249.md) `249/2013`
+- [Työ\- ja elinkeinoministeriön asetus KHT\- ja HTM\-tilintarkastajan hyväksymisvaatimuksista annetun työ\- ja elinkeinoministeriön asetuksen muuttamisesta](250.md) `250/2013`
+- [Sosiaali\- ja terveysministeriön asetus eräiden aluehallintovirastojen työsuojelun vastuualueen toimialueista annetun sosiaali\- ja terveysministeriön asetuksen 2 §:n muuttamisesta](251.md) `251/2013`
+- [Liikenne\- ja viestintäministeriön asetus autojen ja perävaunujen rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](252.md) `252/2013`
+- [Laki tieliikennelain muuttamisesta](253.md) `253/2013`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](254.md) `254/2013`
+- [Laki Finanssivalvonnan valvontamaksusta annetun lain muuttamisesta](255.md) `255/2013`
+- [Laki arvo\-osuusjärjestelmästä ja selvitystoiminnasta annetun lain muuttamisesta](256.md) `256/2013`
+- [Laki kaupankäynnistä rahoitusvälineillä annetun lain muuttamisesta](257.md) `257/2013`
+- [Laki arvopaperimarkkinalain 1 luvun 5 §:n ja 15 luvun 1 §:n muuttamisesta](258.md) `258/2013`
+- [Laki maksulaitoslain muuttamisesta](259.md) `259/2013`
+- [Laki maksupalvelulain muuttamisesta](260.md) `260/2013`
+- [Laki valtion vakuusrahastosta annetun lain 19 b §:n muuttamisesta](261.md) `261/2013`
+- [Laki kaupallisista tavarankuljetuksista tiellä annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](262.md) `262/2013`
+- [Laki Harmaan talouden selvitysyksiköstä annetun lain 6 §:n muuttamisesta](263.md) `263/2013`
+- [Laki merilain muuttamisesta](264.md) `264/2013`
+- [Laki alusturvallisuuden valvonnasta annetun lain 14 g §:n muuttamisesta](265.md) `265/2013`
+- [Laki pohjoismaisen sosiaaliturvasopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](266.md) `266/2013`
+- [Valtioneuvoston asetus joukkoliikenteen valtionavustuksista](267.md) `267/2013`
+- [Valtioneuvoston asetus Euroopan yhteisen ilmailualueen perustamista koskevan monenvälisen sopimuksen ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain väliaikaisesta soveltamisesta](268.md) `268/2013`
+- [Valtioneuvoston asetus Kazakstanin diplomaattipassin haltijoiden vapauttamisesta viisumivelvollisuudesta](269.md) `269/2013`
+- [Valtioneuvoston asetus metsästysasetuksen muuttamisesta](270.md) `270/2013`
+- [Laki vaalilain 5 ja 11 §:n muuttamisesta](271.md) `271/2013`
+- [Laki eräiden teknisten laitteiden vaatimustenmukaisuudesta annetun lain 8 ja 12 §:n muuttamisesta](272.md) `272/2013`
+- [Laki turvallisuusluokitellun tiedon vastavuoroisesta suojaamisesta Ison\-Britannian ja Pohjois\-Irlannin yhdistyneen kuningaskunnan kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](273.md) `273/2013`
+- [Valtioneuvoston asetus vuodelta 2012 maksettavista lypsylehmä\- ja nautapalkkioista, teuraskaritsan laatupalkkiosta, valkuais\- ja öljykasvipalkkiosta sekä tärkkelysperunapalkkiosta annetun valtioneuvoston asetuksen muuttamisesta](274.md) `274/2013`
+- [Valtioneuvoston asetus tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi Kyproksen kanssa tehdyn sopimuksen ja pöytäkirjan voimaansaattamisesta ja sopimuksen ja pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](275.md) `275/2013`
+- [Laki vuosilomalain muuttamisesta](276.md) `276/2013`
+- [Laki ihmisen elimien, kudoksien ja solujen lääketieteellisestä käytöstä annetun lain muuttamisesta](277.md) `277/2013`
+- [Maa\- ja metsätalousministeriön asetus tunnuspituudeltaan enintään 20 metrin pituisten kalastusalusten harjoittaman silakan ja kilohailin troolikalastuksen keskeyttämisestä ICES:n osa\-alueilla 25—28](278.md) `278/2013`
+- [Laki kiinteistönvälitysliikkeistä ja vuokrahuoneiston välitysliikkeistä annetun lain muuttamisesta](279.md) `279/2013`
+- [Laki ilmailulain muuttamisesta](280.md) `280/2013`
+- [Laki hovioikeuslain muuttamisesta](281.md) `281/2013`
+- [Laki hallinto\-oikeuslain 1 ja 2 §:n muuttamisesta](282.md) `282/2013`
+- [Laki merilain 21 luvun 1 §:n muuttamisesta](283.md) `283/2013`
+- [Laki ryhmäkannelain 3 §:n muuttamisesta](284.md) `284/2013`
+- [Laki poronhoitolain muuttamisesta](285.md) `285/2013`
+- [Laki poronhoitajien sijaisapukokeilusta annetun lain 10 §:n muuttamisesta](286.md) `286/2013`
+- [Laki omaisuuden tai todistusaineiston jäädyttämistä koskevien päätösten täytäntöönpanosta Euroopan unionissa annetun lain 5 ja 16 §:n muuttamisesta](287.md) `287/2013`
+- [Laki eurooppalaisesta todisteiden luovuttamismääräyksestä esineiden, asiakirjojen ja tietojen hankkimiseksi rikosasian käsittelyä varten tehdyn puitepäätöksen lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja puitepäätöksen soveltamisesta annetun lain 5 ja 10 §:n muuttamisesta](288.md) `288/2013`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden Euroopan unionin jäsenvaltioiden välillä annetun lain 11 §:n muuttamisesta](289.md) `289/2013`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden Pohjoismaiden välillä annetun lain 8 §:n muuttamisesta](290.md) `290/2013`
+- [Valtioneuvoston asetus Palestiinalaishallinnon kanssa Suomen tuesta palestiinalaishallinnolle Mécanisme Palestino Européen de Gestion et d´Aide Socio\-économique \(PEGASE\) \-mekanismin ohjelman ”Supporting Palestinian Public Administration and Services” kautta tehdyn sopimuksen voimaansaattamisesta](291.md) `291/2013`
+- [Valtioneuvoston asetus turvallisuustoimenpiteistä turvallisuusluokitellun tiedon suojaamiseksi Yhdysvaltojen kanssa tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](292.md) `292/2013`
+- [Valtioneuvoston asetus kansalaisuudesta](293.md) `293/2013`
+- [Valtioneuvoston asetus Suomenlinnan hoitokunnasta](294.md) `294/2013`
+- [Valtioneuvoston asetus vuodelta 2013 maksettavasta luonnonhaittakorvauksen kansallisesta lisäosasta annetun valtioneuvoston asetuksen muuttamisesta](295.md) `295/2013`
+- [Valtioneuvoston asetus tartuntatautiasetuksen liitteen 2 muuttamisesta](296.md) `296/2013`
+- [Valtioneuvoston asetus terveyden edistämisen määrärahasta annetun asetuksen 4 §:n muuttamisesta](297.md) `297/2013`
+- [Laki elatusvelvoitteita koskevan neuvoston asetuksen soveltamisesta annetun lain muuttamisesta](298.md) `298/2013`
+- [Laki Suomen keskusviranomaisesta eräissä elatusapua koskevissa kansainvälisissä asioissa annetun lain 2 §:n muuttamisesta](299.md) `299/2013`
+- [Laki ulkomailla annetun elatusapua koskevan päätöksen tunnustamisesta ja täytäntöönpanosta annetun lain 1 §:n muuttamisesta](300.md) `300/2013`
+- [Laki Oikeuspoliittisesta tutkimuslaitoksesta annetun lain muuttamisesta](301.md) `301/2013`
+- [Laki viranomaisten toiminnan julkisuudesta annetun lain 24 §:n muuttamisesta](302.md) `302/2013`
+- [Laki passilain muuttamisesta](303.md) `303/2013`
+- [Laki passilain muuttamisesta annetun lain eräiden säännösten kumoamisesta](304.md) `304/2013`
+- [Laki patentti\- ja rekisterihallituksen suoritteista perittävistä maksuista annetun lain muuttamisesta](305.md) `305/2013`
+- [Laki yrityspalvelujen asiakastietojärjestelmästä annetun lain muuttamisesta](306.md) `306/2013`
+- [Puolustusministeriön asetus sotilaallisen kriisinhallintahenkilöstön pätevyysvaatimuksista ja palvelussuhteen ehdoista annetun puolustusministeriön asetuksen 7 §:n muuttamisesta](307.md) `307/2013`
+- [Maa\- ja metsätalousministeriön asetus eräitä elintarvikkeita koskevista vaatimuksista annetun maa\- ja metsätalousministeriön asetuksen 8 ja 10 §:n muuttamisesta](308.md) `308/2013`
+- [Valtioneuvoston asetus riistavahingoista](309.md) `309/2013`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun asetuksen 2 §:n muuttamisesta](310.md) `310/2013`
+- [Valtioneuvoston asetus puolustustarvikkeiden vientiä koskevan lupaharkinnan yleisistä edellytyksistä](311.md) `311/2013`
+- [Valtioneuvoston asetus maa\- ja metsätalousministeriöstä annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](312.md) `312/2013`
+- [Valtioneuvoston asetus Suomen ja Ruotsin välillä tehdyn rajajokisopimuksen kalastussäännön 16 §:ssä tarkoitetun pöytäkirjan voimaansaattamisesta](313.md) `313/2013`
+- [Valtioneuvoston asetus koulumaitotukeen kelpoisista tuotteista](314.md) `314/2013`
+- [Valtioneuvoston asetus elintarviketalouden laatujärjestelmien kehittämisen avustamisesta annetun valtioneuvoston asetuksen 14 §:n muuttamisesta](315.md) `315/2013`
+- [Valtioneuvoston asetus kiinteistönvälitysliikkeistä ja vuokrahuoneiston välitysliikkeistä annetun valtioneuvoston asetuksen 1 ja 2 §:n muuttamisesta](316.md) `316/2013`
+- [Valtioneuvoston asetus terävien instrumenttien aiheuttamien tapaturmien ehkäisemisestä terveydenhuoltoalalla](317.md) `317/2013`
+- [Valtiovarainministeriön asetus maakuntien \-juhlarahoista](318.md) `318/2013`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta hukkakaurasta kylvösiementuotannossa annetun maa\- ja metsätalousministeriön asetuksen väliaikaisesta muuttamisesta](319.md) `319/2013`
+- [Laki nuoren rikoksesta epäillyn tilanteen selvittämisestä annetun lain 3 ja 4 §:n muuttamisesta](320.md) `320/2013`
+- [Työ\- ja elinkeinoministeriön asetus  työ\- ja elinkeinoministeriön työjärjestyksen muuttamisesta](321.md) `321/2013`
+- [Laki sijoitustoiminnan veronhuojennuksesta verovuosina 2013—2015 annetun lain 8 §:n muuttamisesta](322.md) `322/2013`
+- [Laki rautatielain muuttamisesta](323.md) `323/2013`
+- [Valtioneuvoston asetus Euroopan unionin toiminnasta tehdyn sopimuksen 136 artiklan muuttamisesta tehdyn päätöksen voimaansaattamisesta](324.md) `324/2013`
+- [Laki varojen jäädyttämisestä terrorismin torjumiseksi](325.md) `325/2013`
+- [Laki rikoslain 46 luvun 1 §:n muuttamisesta](326.md) `326/2013`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä ja selvittämisestä annetun lain 35 ja 36 §:n muuttamisesta](327.md) `327/2013`
+- [Laki maantielain 5 ja 42 §:n muuttamisesta](328.md) `328/2013`
+- [Laki työturvallisuuslain muuttamisesta](329.md) `329/2013`
+- [Laki lääkelain muuttamisesta](330.md) `330/2013`
+- [Valtioneuvoston asetus kaatopaikoista](331.md) `331/2013`
+- [Valtioneuvoston asetus jätteistä annetun valtioneuvoston asetuksen muuttamisesta](332.md) `332/2013`
+- [Valtioneuvoston asetus suuronnettomuuksien torjunnasta teollisuudessa tehdyn yleissopimuksen voimaansaattamisesta ja yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](333.md) `333/2013`
+- [Valtioneuvoston asetus liikenteessä käytettävien ajoneuvojen liikennekelpoisuuden valvonnasta annetun valtioneuvoston asetuksen 15 ja 18 §:n muuttamisesta](334.md) `334/2013`
+- [Valtioneuvoston asetus ajoneuvoliikennerekisterin tiedoista annetun valtioneuvoston asetuksen 15 ja 19 §:n muuttamisesta](335.md) `335/2013`
+- [Valtioneuvoston asetus ajoneuvojen hyväksynnästä annetun valtioneuvoston asetuksen 26 ja 29 §:n muuttamisesta](336.md) `336/2013`
+- [Valtioneuvoston asetus hovioikeuksien tuomiopiireistä](337.md) `337/2013`
+- [Valtioneuvoston asetus hallinto\-oikeuksien tuomiopiireistä](338.md) `338/2013`
+- [Valtioneuvoston asetus käräjäoikeuksien tuomiopiireistä yrityksen saneerausta koskevissa asioissa](339.md) `339/2013`
+- [Valtioneuvoston asetus käräjäoikeuksien tuomiopiireistä ulosottovalituksia koskevissa asioissa](340.md) `340/2013`
+- [Valtioneuvoston asetus sijoitustoiminnan veronhuojennuksesta verovuosina 2013—2015 annetun lain ja verotusmenettelystä annetun lain 16 §:n muuttamisesta annetun lain voimaantulosta](341.md) `341/2013`
+- [Valtioneuvoston asetus hätäkeskustoiminnasta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](342.md) `342/2013`
+- [Sosiaali\- ja terveysministeriön asetus lääkäri\- ja hammaslääkärikoulutuksen korvauksen perusteista vuonna 2013](343.md) `343/2013`
+- [Verohallinnon päätös Ilmoittamisvelvollisuudesta ja muistiinpanoista annetun päätöksen muuttamisesta](344.md) `344/2013`
+- [Maa\- ja metsätalousministeriön asetus kalastuksenvalvonnassa käytettävän näyttömääräyksen sisällöstä](345.md) `345/2013`
+- [Valtioneuvoston asetus metsästysasetuksen 16 §:n muuttamisesta](346.md) `346/2013`
+- [Laki rikoslain 10 ja 44 luvun muuttamisesta](347.md) `347/2013`
+- [Laki sakon täytäntöönpanosta annetun lain muuttamisesta](348.md) `348/2013`
+- [Laki yrittäjäkuljettajien työajasta tieliikenteessä](349.md) `349/2013`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Kiinan kansantasavallan Hongkongin erityishallintoalueen kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](350.md) `350/2013`
+- [Laki veroasioita koskevista tiedoista Botswanan kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](351.md) `351/2013`
+- [Valtioneuvoston asetus huumausaineina pidettävistä aineista, valmisteista ja kasveista annetun valtioneuvoston asetuksen liitteen IV muuttamisesta](352.md) `352/2013`
+- [Valtiovarainministeriön asetus Pohjolan luonto \-juhlarahoista](353.md) `353/2013`
+- [Laki laittomasti maassa oleskelevien henkilöiden takaisinottamisesta Kosovon kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](354.md) `354/2013`
+- [Valtioneuvoston asetus aineettoman kulttuuriperinnön suojelemisesta tehdyn yleissopimuksen voimaansaattamisesta](355.md) `355/2013`
+- [Maa\- ja metsätalousministeriön asetus ampumakokeesta annetun maa\- ja metsätalousministeriön asetuksen 6 ja 7 §:n muuttamisesta](356.md) `356/2013`
+- [Maa\- ja metsätalousministeriön asetus Suomen riistakeskuksen ja riistanhoitoyhdistysten julkisten hallintotehtävien maksuista vuodeksi 2013 annetun maa\- ja metsätalousministeriön asetuksen 1 ja 2 §:n muuttamisesta](357.md) `357/2013`
+- [Työ\- ja elinkeinoministeriön asetus kotitalouksien sähkökäyttöisten kuivausrumpujen energiamerkinnässä annettavista tiedoista annetun kauppa\- ja teollisuusministeriön päätöksen kumoamisesta](358.md) `358/2013`
+- [Valtioneuvoston asetus Etelämannerta koskevaan sopimukseen liittyvän ympäristönsuojelupöytäkirjan liitteen V alaisten toimenpiteiden voimaansaattamisesta](359.md) `359/2013`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannuista muutoksista](360.md) `360/2013`
+- [Laki tilastolain muuttamisesta](361.md) `361/2013`
+- [Laki maaseutuelinkeinotilastoista annetun lain 2 ja 3 §:n muuttamisesta](362.md) `362/2013`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](363.md) `363/2013`
+- [Laki työturvallisuuslain muuttamisesta](364.md) `364/2013`
+- [Laki elintarvikelain muuttamisesta](365.md) `365/2013`
+- [Laki raha\-automaattiavustuksista annetun lain muuttamisesta](366.md) `366/2013`
+- [Valtioneuvoston asetus valtion korvauksesta kuntouttavan työtoiminnan järjestämiseen](367.md) `367/2013`
+- [Valtioneuvoston asetus sakon täytäntöönpanosta annetun valtioneuvoston asetuksen 20 §:n muuttamisesta](368.md) `368/2013`
+- [Valtioneuvoston asetus vuokra\-asuntolainojen ja asumisoikeustalolainojen korkotuesta annetun valtioneuvoston asetuksen muuttamisesta ja väliaikaisesta muuttamisesta](369.md) `369/2013`
+- [Valtioneuvoston asetus turvallisuusluokitellun tiedon vastavuoroisesta suojaamisesta Ison\-Britannian ja Pohjois\-Irlannin yhdistyneen kuningaskunnan kanssa tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](370.md) `370/2013`
+- [Puolustusministeriön asetus asevelvollisuuslaissa ja terveydenhuollon järjestämisestä puolustusvoimissa annetussa laissa tarkoitetuista etuuksista annetun puolustusministeriön asetuksen muuttamisesta](371.md) `371/2013`
+- [Maa\- ja metsätalousministeriön asetus eräiden elintarvikelisäaineista annettujen säädösten kumoamisesta](372.md) `372/2013`
+- [Valtioneuvoston asetus passeista](373.md) `373/2013`
+- [Valtioneuvoston asetus valtion virkaehtosopimusasetuksen 9 ja 10 §:n muuttamisesta](374.md) `374/2013`
+- [Valtioneuvoston asetus ulosottomaksuista annetun asetuksen muuttamisesta](375.md) `375/2013`
+- [Valtioneuvoston asetus elintarvikeneuvottelukunnasta annetun valtioneuvoston asetuksen kumoamisesta](376.md) `376/2013`
+- [Valtioneuvoston asetus vuodelta 2012 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 10 §:n muuttamisesta](377.md) `377/2013`
+- [Valtioneuvoston asetus vuodelta 2013 maksettavien kansallisten kasvintuotannon tukien ja kotieläintukien valvonnasta](378.md) `378/2013`
+- [Valtioneuvoston asetus Euroopan unionin kokonaan rahoittamien tukien valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](379.md) `379/2013`
+- [Valtioneuvoston asetus Euroopan unionin kokonaan tai osittain rahoittamien pinta\-alaperusteisten tukien valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](380.md) `380/2013`
+- [Valtioneuvoston asetus Euroopan unionin kokonaan rahoittamien eläintukien valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](381.md) `381/2013`
+- [Valtioneuvoston asetus  eläinten hyvinvoinnin tuen valvonnasta vuosina 2008—2013 annetun valtioneuvoston asetuksen eräiden säännösten kumoamisesta](382.md) `382/2013`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden porotalouden ja luontaiselinkeinojen rahoituslain mukaisten asuntolainojen viitekorosta](383.md) `383/2013`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden maatilalain mukaisten myyntihintasaamisten ja lainojen viitekorosta](384.md) `384/2013`
+- [Valtioneuvoston asetus merityötä koskevan vuoden 2006 yleissopimuksen voimaansaattamisesta ja yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](385.md) `385/2013`
+- [Maa\- ja metsätalousministeriön asetus silakan ja kilohailin troolikalastuksen keskeyttämisestä Pohjanlahdella](386.md) `386/2013`
+- [Laki vaarallisten aineiden käytön rajoittamisesta sähkö\- ja elektroniikkalaitteissa](387.md) `387/2013`
+- [Laki ehdolliseen pääsyyn perustuvien ja ehdollisen pääsyn sisältävien palvelujen oikeussuojasta tehdyn eurooppalaisen yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](388.md) `388/2013`
+- [Laki joukkoliikennelain muuttamisesta](389.md) `389/2013`
+- [Valtioneuvoston asetus ei\-tuotannollisten investointien tuen valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](390.md) `390/2013`
+- [Valtioneuvoston asetus ympäristötuen ja luonnonhaittakorvauksen valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](391.md) `391/2013`
+- [Valtioneuvoston asetus täydentävien ehtojen hyvän maatalouden ja ympäristön vaatimusten sekä ympäristöön liittyvien lakisääteisten hoitovaatimusten valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](392.md) `392/2013`
+- [Laki biopolttoaineista ja bionesteistä](393.md) `393/2013`
+- [Laki biopolttoaineiden käytön edistämisestä liikenteessä annetun lain muuttamisesta](394.md) `394/2013`
+- [Laki nestemäisten polttoaineiden valmisteverosta annetun lain 2 ja 4 §:n muuttamisesta](395.md) `395/2013`
+- [Laki päästökauppalain muuttamisesta](396.md) `396/2013`
+- [Laki lentoliikenteen päästökaupasta annetun lain muuttamisesta](397.md) `397/2013`
+- [Laki työsopimuslain 2 luvun 16 §:n muuttamisesta](398.md) `398/2013`
+- [Laki kirjanpitolain 2 luvun ja 8 luvun 4 §:n muuttamisesta](399.md) `399/2013`
+- [Laki vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetun lain 82 ja 84 §:n muuttamisesta](400.md) `400/2013`
+- [Laki Koloveden kansallispuistosta](401.md) `401/2013`
+- [Valtiovarainministeriön asetus Monikulttuurisuus \-juhlarahasta](402.md) `402/2013`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](403.md) `403/2013`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](404.md) `404/2013`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](405.md) `405/2013`
+- [Valtioneuvoston asetus kirjastoista](406.md) `406/2013`
+- [Valtioneuvoston asetus ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta](407.md) `407/2013`
+- [Liikenne\- ja viestintäministeriön asetus autojen ja perävaunujen rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen liitteen 8 muuttamisesta](408.md) `408/2013`
+- [Opetus\- ja kulttuuriministeriön asetus eräiden koulumatkakustannusten laskentaperusteista](409.md) `409/2013`
+- [Sosiaali\- ja terveysministeriön asetus rokotuksista ja tartuntatautien raskaudenaikaisesta seulonnasta annetun sosiaali\- ja terveysministeriön asetuksen liitteen muuttamisesta](410.md) `410/2013`
+- [Verohallinnon työjärjestys](411.md) `411/2013`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](412.md) `412/2013`
+- [Valtioneuvoston asetus laittomasti maassa oleskelevien henkilöiden takaisinottamisesta Kosovon kanssa tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](413.md) `413/2013`
+- [Laki puutavaran mittauksesta](414.md) `414/2013`
+- [Valtioneuvoston asetus poliisilaitosten toimialueista](415.md) `415/2013`
+- [Valtioneuvoston asetus tilaneuvontajärjestelmän täytäntöönpanosta annetun valtioneuvoston asetuksen muuttamisesta](416.md) `416/2013`
+- [Valtioneuvoston asetus sähkön alkuperän varmentamisesta](417.md) `417/2013`
+- [Sisäasiainministeriön päätös poliisilaitosten toimipisteiden sijaintipaikoista](418.md) `418/2013`
+- [Ympäristöministeriön asetus vaarallisten aineiden käytön rajoituksista sähkö\- ja elektroniikkalaitteissa](419.md) `419/2013`
+- [Liikenne\- ja viestintäministeriön asetus Liikenteen turvallisuusviraston maksullisista suoritteista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](420.md) `420/2013`
+- [Osuuskuntalaki](421.md) `421/2013`
+- [Laki osuuskuntalain voimaanpanosta](422.md) `422/2013`
+- [Laki osuuspankeista ja muista osuuskuntamuotoisista luottolaitoksista](423.md) `423/2013`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](424.md) `424/2013`
+- [Laki talletuspankkien yhteenliittymästä annetun lain muuttamisesta](425.md) `425/2013`
+- [Laki maksulaitoslain muuttamisesta](426.md) `426/2013`
+- [Laki rahoitus\- ja vakuutusryhmittymien valvonnasta annetun lain 2 ja 29 §:n muuttamisesta](427.md) `427/2013`
+- [Laki asunto\-osakeyhtiölain 19 luvun 1 §:n ja 21 luvun 2 §:n muuttamisesta](428.md) `428/2013`
+- [Laki eurooppaosuuskuntalain muuttamisesta](429.md) `429/2013`
+- [Laki taloudellista toimintaa harjoittavan yhdistyksen muuttamisesta osuuskunnaksi annetun lain 2 ja 3 §:n muuttamisesta](430.md) `430/2013`
+- [Laki yrityskiinnityslain muuttamisesta](431.md) `431/2013`
+- [Laki kaupparekisterilain muuttamisesta](432.md) `432/2013`
+- [Laki prokuralain 3 §:n muuttamisesta](433.md) `433/2013`
+- [Laki toiminimilain 12 §:n muuttamisesta](434.md) `434/2013`
+- [Laki rikoslain muuttamisesta](435.md) `435/2013`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain 2 luvun 1 a §:n muuttamisesta](436.md) `436/2013`
+- [Laki pakkokeinolain 5 a luvun muuttamisesta](437.md) `437/2013`
+- [Laki pakkokeinolain 10 luvun muuttamisesta](438.md) `438/2013`
+- [Laki valtion varoista maksettavista todistelukustannuksista annetun lain 7 ja 19 §:n muuttamisesta](439.md) `439/2013`
+- [Laki verontilityslain 3 §:n muuttamisesta](440.md) `440/2013`
+- [Eläintautilaki](441.md) `441/2013`
+- [Laki rikoslain 44 luvun muuttamisesta](442.md) `442/2013`
+- [Laki eläinlääkintähuoltolain 23 §:n muuttamisesta](443.md) `443/2013`
+- [Laki maaseutuelinkeinojen valituslautakunnasta annetun lain 1 §:n 1 momentin 7 kohdan kumoamisesta](444.md) `444/2013`
+- [Laki sähkön alkuperän varmentamisesta ja ilmoittamisesta annetun lain muuttamisesta](445.md) `445/2013`
+- [Laki aravalainojen lainaehtojen määräaikaisesta muuttamisesta eräissä tapauksissa annetun lain muuttamisesta](446.md) `446/2013`
+- [Laki aravarajoituslain muuttamisesta](447.md) `447/2013`
+- [Laki Lissabonin sopimusta koskevista Irlannin kansan huolenaiheista tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](448.md) `448/2013`
+- [Maa\- ja metsätalousministeriön asetus elintarvikkeiden alkutuotannon elintarvikehygieniasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](449.md) `449/2013`
+- [Laki meriliikenteessä käytettävien alusten kilpailukyvyn parantamisesta annetun lain 10 ja 16 §:n muuttamisesta](450.md) `450/2013`
+- [Valtioneuvoston asetus kalastusasetuksen muuttamisesta](451.md) `451/2013`
+- [Valtioneuvoston asetus metsästyslaissa säädetyistä poikkeusluvista](452.md) `452/2013`
+- [Sosiaali\- ja terveysministeriön asetus eräistä raha\-automaattiavustuksiin sovellettavista määräajoista ja tilintarkastajan raportin muodosta](453.md) `453/2013`
+- [Valtioneuvoston asetus syyttäjälaitoksesta annetun valtioneuvoston asetuksen muuttamisesta](454.md) `454/2013`
+- [Valtioneuvoston asetus valtiovarainministeriöstä annetun valtioneuvoston asetuksen 4 ja 5 §:n muuttamisesta](455.md) `455/2013`
+- [Valtioneuvoston asetus museoista annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](456.md) `456/2013`
+- [Valtioneuvoston asetus puutavaranmittauksen neuvottelukunnasta](457.md) `457/2013`
+- [Valtioneuvoston asetus sikojen suojelusta annetun valtioneuvoston asetuksen liitteen muuttamisesta](458.md) `458/2013`
+- [Valtioneuvoston asetus joukkoliikenteen valtionavustuksista annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](459.md) `459/2013`
+- [Valtioneuvoston asetus taksiliikenteen kuluttajilta perittävistä enimmäishinnoista](460.md) `460/2013`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta puutavaran mittauksen mittausmenetelmäryhmien ja mittausmenetelmien tarkemmasta sisällöstä sekä mittauslaitteiden käytöstä](461.md) `461/2013`
+- [Työ\- ja elinkeinoministeriön asetus ydinenergian käytön valvontaan kuuluvista työ\- ja elinkeinoministeriön maksullisista suoritteista](462.md) `462/2013`
+- [Työ\- ja elinkeinoministeriön asetus ydinlaitosten ympäristövaikutusten arviointimenettelyyn kuuluvista työ\- ja elinkeinoministeriön maksullisista suoritteista](463.md) `463/2013`
+- [Valtioneuvoston asetus aluksen miehityksestä ja laivaväen pätevyydestä annetun valtioneuvoston asetuksen muuttamisesta](464.md) `464/2013`
+- [Valtioneuvoston asetus kansaneläkelain mukaisten etuuksien maksupäivästä ja valtion osuuden maksamisesta](465.md) `465/2013`
+- [Valtioneuvoston asetus rintamasotilaseläkeasetuksen muuttamisesta](466.md) `466/2013`
+- [Valtioneuvoston asetus laivaväen asuinympäristöstä aluksella annetun valtioneuvoston asetuksen muuttamisesta](467.md) `467/2013`
+- [Oikeusministeriön asetus käräjäoikeuksien kanslioiden ja istuntopaikkojen sijainnista annetun oikeusministeriön asetuksen 1 §:n muuttamisesta](468.md) `468/2013`
+- [Oikeusministeriön asetus syyttäjänvirastojen palvelutoimistoista](469.md) `469/2013`
+- [Maa\- ja metsätalousministeriön asetus puutavaran virallisesta mittauksesta, valvontamittauksesta ja mittauslautakunnan käsittelystä perittävästä maksusta](470.md) `470/2013`
+- [Valtioneuvoston asetus luonnonsuojeluasetuksen muuttamisesta](471.md) `471/2013`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskoroista](472.md) `472/2013`
+- [Vuoden 2013 lisätalousarvio](473.md) `473/2013`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta tiellä annetun valtioneuvoston asetuksen muuttamisesta](474.md) `474/2013`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta rautatiellä annetun valtioneuvoston asetuksen muuttamisesta](475.md) `475/2013`
+- [Valtioneuvoston asetus vaarallisten aineiden maakuljetusten turvallisuusneuvonantajasta annetun valtioneuvoston asetuksen muuttamisesta](476.md) `476/2013`
+- [Valtiovarainministeriön asetus valtiovarainministeriön työjärjestyksen muuttamisesta](477.md) `477/2013`
+- [Laki kuntajakolain muuttamisesta ja väliaikaisesta muuttamisesta](478.md) `478/2013`
+- [Laki kuntajakolain eräiden säännösten kumoamisesta](479.md) `479/2013`
+- [Laki kielilain muuttamisesta](480.md) `480/2013`
+- [Laki Euroopan rahoitusvakausvälineelle annettavista valtiontakauksista annetun lain 5 §:n muuttamisesta](481.md) `481/2013`
+- [Laki yliopistolain 36 ja 38 §:n muuttamisesta](482.md) `482/2013`
+- [Laki ammattikorkeakoululain muuttamisesta](483.md) `483/2013`
+- [Laki opiskelijavalintarekisteristä ja ylioppilastutkintorekisteristä annetun lain muuttamisesta](484.md) `484/2013`
+- [Laki ammattikorkeakoululain muuttamisesta](485.md) `485/2013`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 26 ja 48 §:n muuttamisesta](486.md) `486/2013`
+- [Laki yliopistolain 76 §:n muuttamisesta](487.md) `487/2013`
+- [Laki ammatillisesta opettajankoulutuksesta annetun lain kumoamisesta](488.md) `488/2013`
+- [Laki eräistä ammattikorkeakouluopinnoista annetun lain toimeenpanon edellyttämistä järjestelyistä annetun lain 6 §:n kumoamisesta](489.md) `489/2013`
+- [Laki tuulivoiman kompensaatioalueista](490.md) `490/2013`
+- [Laki uusiutuvilla energialähteillä tuotetun sähkön tuotantotuesta annetun lain 54 §:n muuttamisesta](491.md) `491/2013`
+- [Laki kosmeettisista valmisteista](492.md) `492/2013`
+- [Laki rikoslain 44 luvun 1 §:n muuttamisesta](493.md) `493/2013`
+- [Laki kidutuksen ja muun julman, epäinhimillisen tai halventavan kohtelun tai rangaistuksen vastaisen yleissopimuksen valinnaisen pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja pöytäkirjan soveltamisesta](494.md) `494/2013`
+- [Laki eduskunnan oikeusasiamiehestä annetun lain muuttamisesta](495.md) `495/2013`
+- [Laki vaalilain muuttamisesta](496.md) `496/2013`
+- [Laki tieteellisiin tai opetustarkoituksiin käytettävien eläinten suojelusta](497.md) `497/2013`
+- [Laki eläinsuojelulain muuttamisesta](498.md) `498/2013`
+- [Laki ydinenergialain muuttamisesta](499.md) `499/2013`
+- [Laki säteilylain muuttamisesta](500.md) `500/2013`
+- [Laki aikuiskoulutustuesta annetun lain 12 a ja 14 §:n muuttamisesta](501.md) `501/2013`
+- [Laki Koulutusrahastosta annetun lain muuttamisesta](502.md) `502/2013`
+- [Laki poliisin hallinnosta annetun lain muuttamisesta](503.md) `503/2013`
+- [Laki poliisilain 5 luvun 10 §:n muuttamisesta](504.md) `504/2013`
+- [Laki passilain 6 ja 10 §:n muuttamisesta](505.md) `505/2013`
+- [Laki ulkomaalaislain 123 §:n muuttamisesta](506.md) `506/2013`
+- [Laki aluehallintovirastoista annetun lain muuttamisesta](507.md) `507/2013`
+- [Laki yhdistyslain 43 ja 44 §:n muuttamisesta](508.md) `508/2013`
+- [Laki puolustusvoimista annetun lain muuttamisesta](509.md) `509/2013`
+- [Laki asevelvollisuuslain muuttamisesta](510.md) `510/2013`
+- [Laki puolustusvoimien virka\-avusta poliisille annetun lain 3 §:n muuttamisesta](511.md) `511/2013`
+- [Laki Jehovan todistajien vapauttamisesta asevelvollisuuden suorittamisesta eräissä tapauksissa annetun lain muuttamisesta](512.md) `512/2013`
+- [Laki terveydenhuollon järjestämisestä puolustusvoimissa annetun lain muuttamisesta](513.md) `513/2013`
+- [Laki aluevalvontalain 20 ja 22 §:n muuttamisesta](514.md) `514/2013`
+- [Laki kemiallisten aseiden kehittämisen, tuotannon, varastoinnin ja käytön kieltämistä sekä niiden hävittämistä koskevan yleissopimuksen eräiden määräysten hyväksymisestä ja sen soveltamisesta annetun lain 4 ja 10 §:n muuttamisesta](515.md) `515/2013`
+- [Laki rajavartiolain 79 §:n muuttamisesta](516.md) `516/2013`
+- [Laki sotilasoikeudenkäyntilain 11 §:n muuttamisesta](517.md) `517/2013`
+- [Valtioneuvoston asetus Kroatian liittymisestä Euroopan unioniin tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta sekä Euroopan yhteisöjen ja niiden jäsenvaltioiden sekä Kroatian tasavallan välillä tehdyn vakautus\- ja assosiaatiosopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain kumoamisesta annetun lain voimaantulosta](518.md) `518/2013`
+- [Tasavallan presidentin asetus sotilas\- ja palvelusarvoista sekä puolustusvoimien tunnuskuvasta annetun tasavallan presidentin asetuksen 16 §:n muuttamisesta](519.md) `519/2013`
+- [Tasavallan presidentin asetus toimivallan jaosta sotilaskäskyasioissa annetun tasavallan presidentin asetuksen muuttamisesta](520.md) `520/2013`
+- [Valtioneuvoston asetus poronhoitovuodelta 2013/2014 maksettavasta eläinkohtaisesta tuesta](521.md) `521/2013`
+- [Valtioneuvoston asetus hedelmä\- ja vihannesalan tuottajaorganisaatiotuesta](522.md) `522/2013`
+- [Valtioneuvoston asetus mehiläishoitotuesta](523.md) `523/2013`
+- [Valtioneuvoston asetus räjähdeasetuksen muuttamisesta](524.md) `524/2013`
+- [Valtioneuvoston asetus rakennustyön turvallisuudesta annetun valtioneuvoston asetuksen muuttamisesta](525.md) `525/2013`
+- [Valtioneuvoston asetus  juomapakkausten palautusjärjestelmästä](526.md) `526/2013`
+- [Valtioneuvoston asetus käytöstä poistettujen renkaiden erilliskeräyksestä ja hyödyntämisestä](527.md) `527/2013`
+- [Valtioneuvoston asetus keräyspaperin erilliskeräyksestä ja kierrätyksestä](528.md) `528/2013`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2013 metsänhoitomaksun perusteesta](529.md) `529/2013`
+- [Maa\- ja metsätalousministeriön asetus metsätalouden ympäristötuen laskennassa käytettävästä puukuutiometrin keskikantohinnasta](530.md) `530/2013`
+- [Maa\- ja metsätalousministeriön asetus hedelmä\- ja vihannesalan tuottajaorganisaatiotuesta annetun maa\- ja metsätalousministeriön asetuksen eräiden säännösten kumoamisesta](531.md) `531/2013`
+- [Maa\- ja metsätalousministeriön asetus tuettavaa rakentamista koskevista lammas\- ja vuohitalousrakennusten rakennusteknisistä ja toiminnallisista vaatimuksista](532.md) `532/2013`
+- [Laki Amerikan yhdysvaltojen sekä Euroopan yhteisön ja sen jäsenvaltioiden välisen lentoliikennesopimuksen muuttamista koskevan pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja pöytäkirjan soveltamisesta](533.md) `533/2013`
+- [Oikeusministeriön asetus oikeusapupiireistä sekä oikeusaputoimistojen toimipaikoista ja edunvalvonta\-alueista](534.md) `534/2013`
+- [Työ\- ja elinkeinoministeriön asetus maksullisista suoritteista](535.md) `535/2013`
+- [Valtioneuvoston asetus yhteistoiminnasta yrityksissä annetussa laissa säädetyn hyvityksen enimmäismäärän tarkistamisesta](536.md) `536/2013`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten aineiden kuljetuksesta tiellä annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](537.md) `537/2013`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten aineiden kuljetuksesta rautatiellä annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](538.md) `538/2013`
+- [Valtioneuvoston asetus puolustusvoimien aluetoimistoista](539.md) `539/2013`
+- [Valtioneuvoston asetus terveydenhuollon järjestämisestä puolustusvoimissa annetun asetuksen 2 ja 3 §:n muuttamisesta](540.md) `540/2013`
+- [Valtioneuvoston asetus naisten vapaaehtoisesta asepalveluksesta](541.md) `541/2013`
+- [Valtioneuvoston asetus puolustusvoimista annetun valtioneuvoston asetuksen muuttamisesta](542.md) `542/2013`
+- [Valtioneuvoston asetus aluevalvonnasta annetun valtioneuvoston asetuksen muuttamisesta](543.md) `543/2013`
+- [Valtioneuvoston asetus suoja\-alueista annetun valtioneuvoston asetuksen 2 §:n kumoamisesta](544.md) `544/2013`
+- [Valtioneuvoston asetus  kemiallisten aseiden kehittämisen, tuotannon, varastoinnin ja käytön kieltämistä sekä niiden hävittämistä koskevan yleissopimuksen voimaansaattamisesta sekä yleissopimuksen eräiden määräysten hyväksymisestä ja sen soveltamisesta annetun lain voimaantulosta annetun asetuksen 2 §:n muuttamisesta](545.md) `545/2013`
+- [Valtioneuvoston asetus ammattikorkeakouluista annetun valtioneuvoston asetuksen muuttamisesta](546.md) `546/2013`
+- [Puolustusministeriön asetus asevelvollisuuslaissa ja terveydenhuollon järjestämisestä puolustusvoimissa annetussa laissa tarkoitetuista etuuksista annetun puolustusministeriön asetuksen 8 §:n kumoamisesta](547.md) `547/2013`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta lampaiden ja vuohien TSE\-tautien vastustamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](548.md) `548/2013`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvan ja alueellisen kiintiön nojalla sallittavasta karhun metsästyksestä metsästysvuonna 2013—2014](549.md) `549/2013`
+- [Valtioneuvoston asetus tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi Barbadosin kanssa tehdyn sopimuksen muuttamisesta tehdyn pöytäkirjan voimaansaattamisesta ja pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](550.md) `550/2013`
+- [Valtioneuvoston asetus turvallisuusluokitellun tiedon vastavuoroisesta suojaamisesta ja vaihtamisesta Luxemburgin kanssa tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](551.md) `551/2013`
+- [Valtioneuvoston asetus turvavarastointiohjelmasta](552.md) `552/2013`
+- [Valtioneuvoston asetus kulutushyödykkeen hinnan ilmoittamisesta markkinoinnissa](553.md) `553/2013`
+- [Valtioneuvoston asetus maankäyttö\- ja rakennusasetuksen 104 §:n kumoamisesta](554.md) `554/2013`
+- [Ympäristöministeriön asetus eräiden rakennustuotteiden tuotehyväksynnästä](555.md) `555/2013`
+- [Työ\- ja elinkeinoministeriön ilmoitus Suomen kansallisista standardointielimistä](556.md) `556/2013`
+- [Valtioneuvoston asetus metsästysasetuksen muuttamisesta](557.md) `557/2013`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta \(EU\) N:o 401/2013 Myanmaria/Burmaa koskevista rajoittavista toimenpiteistä ja asetuksen \(EY\) N:o 194/2008 kumoamisesta](558.md) `558/2013`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvalla sallittavasta ilveksen metsästyksestä metsästysvuonna 2013—2014](559.md) `559/2013`
+- [Valtioneuvoston asetus tuotantoeläinten hyvinvoinnin neuvottelukunnasta annetun valtioneuvoston asetuksen 3 ja 4 §:n muuttamisesta](560.md) `560/2013`
+- [Valtioneuvoston asetus seura\- ja harrastuseläinten hyvinvoinnin neuvottelukunnasta annetun valtioneuvoston asetuksen 3 ja 4 §:n muuttamisesta](561.md) `561/2013`
+- [Valtioneuvoston asetus ehdolliseen pääsyyn perustuvien ja ehdollisen pääsyn sisältävien palvelujen oikeussuojasta tehdyn eurooppalaisen yleissopimuksen voimaansaattamisesta sekä yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](562.md) `562/2013`
+- [Valtioneuvoston asetus eräiden vaarallisten aineiden käytön rajoittamisesta ajoneuvoissa annetun valtioneuvoston asetuksen liitteen 1 muuttamisesta](563.md) `563/2013`
+- [Valtioneuvoston asetus tieteellisiin tai opetustarkoituksiin käytettävien eläinten suojelusta](564.md) `564/2013`
+- [Valtioneuvoston asetus tieteellisiin tai opetustarkoituksiin käytettävien eläinten suojelun neuvottelukunnasta](565.md) `565/2013`
+- [Maa\- ja metsätalousministeriön asetus Suomessa rekisteröityjen kalastusalusten harjoittaman lohenkalastuksen keskeyttämisestä ICES:n osa\-alueilla 22—31](566.md) `566/2013`
+- [Maa\- ja metsätalousministeriön asetus pyyntiluvalla sallittavasta hallin metsästyksestä metsästysvuonna 2013—2014](567.md) `567/2013`
+- [Maa\- ja metsätalousministeriön asetus pyyntiluvalla ja poikkeusluvalla sallittavasta itämeren norpan metsästyksestä metsästysvuonna 2013—2014](568.md) `568/2013`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvalla sallittavasta saukon metsästyksestä metsästysvuonna 2013—2014](569.md) `569/2013`
+- [Maa\- ja metsätalousministeriön asetus pyyntiluvalla sallittavasta euroopanmajavan metsästyksestä metsästysvuonna 2013—2014](570.md) `570/2013`
+- [Maa\- ja metsätalousministeriön asetus metsähanhen metsästyksen kieltämisestä metsästysvuonna 2013—2014](571.md) `571/2013`
+- [Maa\- ja metsätalousministeriön asetus merihanhen metsästyksen kieltämisestä metsästysvuosina 2013—2016](572.md) `572/2013`
+- [Maa\- ja metsätalousministeriön asetus lohen kalastuksesta ICES:n osa\-alueilla 22—31](573.md) `573/2013`
+- [Maa\- ja metsätalousministeriön asetus koe\-eläintoiminnasta annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](574.md) `574/2013`
+- [Laki tuloverolain 33 c §:n muuttamisesta](575.md) `575/2013`
+- [Laki elinkeinotulon verottamisesta annetun lain 6 a §:n muuttamisesta](576.md) `576/2013`
+- [Laki rajoitetusti verovelvollisen tulon verottamisesta annetun lain 3 ja 3 c §:n muuttamisesta](577.md) `577/2013`
+- [Laki Patentti\- ja rekisterihallituksesta](578.md) `578/2013`
+- [Valtioneuvoston asetus tavaramerkkiasetuksen 31 §:n kumoamisesta](579.md) `579/2013`
+- [Valtioneuvoston asetus patenttiasetuksen muuttamisesta](580.md) `580/2013`
+- [Valtioneuvoston asetus hyödyllisyysmallioikeudesta annetun asetuksen 19 §:n muuttamisesta](581.md) `581/2013`
+- [Valtioneuvoston asetus yksinoikeudesta integroidun piirin piirimalliin annetun asetuksen 15 §:n muuttamisesta](582.md) `582/2013`
+- [Valtioneuvoston asetus mallioikeusasetuksen 24 §:n muuttamisesta](583.md) `583/2013`
+- [Laki eläinsuojelulain muuttamisesta](584.md) `584/2013`
+- [Laki rikoslain 17 luvun 14 §:n muuttamisesta](585.md) `585/2013`
+- [Laki kilpailulain muuttamisesta](586.md) `586/2013`
+- [Valtioneuvoston asetus sähköntoimitusten selvityksestä ja mittauksesta annetun valtioneuvoston asetuksen 6 luvun 1 §:n kumoamisesta](587.md) `587/2013`
+- [Sähkömarkkinalaki](588.md) `588/2013`
+- [Laki maakaasumarkkinalain muuttamisesta](589.md) `589/2013`
+- [Laki sähkö\- ja maakaasumarkkinoiden valvonnasta](590.md) `590/2013`
+- [Laki Energiamarkkinavirastosta](591.md) `591/2013`
+- [Laki kilpailulain 39 §:n muuttamisesta](592.md) `592/2013`
+- [Laki Finanssivalvonnasta annetun lain 71 §:n muuttamisesta](593.md) `593/2013`
+- [Laki oikeudenkäynnistä markkinaoikeudessa annetun lain 1 luvun 2 §:n muuttamisesta](594.md) `594/2013`
+- [Laki kilpailulain muuttamisesta](595.md) `595/2013`
+- [Laki oikeudenkäynnin julkisuudesta hallintotuomioistuimissa annetun lain 4 ja 16 §:n muuttamisesta](596.md) `596/2013`
+- [Laki toimeentulotuesta annetun lain muuttamisesta](597.md) `597/2013`
+- [Laki lastensuojelulain muuttamisesta](598.md) `598/2013`
+- [Kemikaalilaki](599.md) `599/2013`
+- [Laki rikoslain 44 luvun 1 §:n ja 48 luvun 1 §:n muuttamisesta](600.md) `600/2013`
+- [Laki terveydenhuoltolain 21 §:n muuttamisesta](601.md) `601/2013`
+- [Laki terveydensuojelulain 3 ja 21 §:n muuttamisesta](602.md) `602/2013`
+- [Laki työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetun lain 4 luvun muuttamisesta](603.md) `603/2013`
+- [Valtioneuvoston asetus laivaväen työ\- ja asuinympäristöstä sekä ruokahuollosta aluksella annetun lain 2 §:n 3 momentin ja 18 §:n 2 momentin voimaantulosta](604.md) `604/2013`
+- [Valtioneuvoston asetus sairaankuljetuksen kustannusten korvaustaksasta](605.md) `605/2013`
+- [Työ\- ja elinkeinoministeriön asetus kotitalouslamppujen energiamerkinnässä annettavista tiedoista annetun kauppa\- ja teollisuusministeriön asetuksen kumoamisesta](606.md) `606/2013`
+- [Maa\- ja metsätalousministeriön asetus Suomessa rekisteröityjen kalastusalusten harjoittaman lohenkalastuksen keskeyttämisestä ICES:n osa\-alueilla 22—31 annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](607.md) `607/2013`
+- [Valtioneuvoston asetus alle 18\-vuotiaana vahinkoa kärsineen ansiotulon määrän vahvistamisesta](608.md) `608/2013`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2012 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista ja työnantajasuoritusten vähimmäismäärästä annetun valtiovarainministeriön asetuksen 2 §:n muuttamisesta](609.md) `609/2013`
+- [Valtioneuvoston asetus elinkeino\-, liikenne\- ja ympäristökeskuksista annetun asetuksen muuttamisesta](610.md) `610/2013`
+- [Valtioneuvoston asetus julkisesta työvoima\- ja yrityspalvelusta annetun asetuksen muuttamisesta](611.md) `611/2013`
+- [Valtioneuvoston asetus Patentti\- ja rekisterihallituksesta](612.md) `612/2013`
+- [Valtiovarainministeriön asetus 1863 Valtiopäivät \-juhlarahasta](613.md) `613/2013`
+- [Liikenne\- ja viestintäministeriön asetus radiotaajuuksien käyttösuunnitelmasta](614.md) `614/2013`
+- [Työ\- ja elinkeinoministeriön asetus maakaasuliiketoimintojen eriyttämisestä annetun kauppa\- ja teollisuusministeriön asetuksen 7 §:n muuttamisesta](615.md) `615/2013`
+- [Työ\- ja elinkeinoministeriön asetus sähkönjakeluverkonhaltijan toiminnallisista eriyttämisvaatimuksista annetun kauppa\- ja teollisuusministeriön asetuksen muuttamisesta](616.md) `616/2013`
+- [Työ\- ja elinkeinoministeriön asetus sähköntoimitusten selvitykseen liittyvästä tiedonvaihdosta annetun työ\- ja elinkeinoministeriön asetuksen 3 §:n muuttamisesta](617.md) `617/2013`
+- [Sisäasiainministeriön ilmoitus sisäasiainministeriön asetuksesta Fintoto Oy:n rahapelien pelisäännöistä](618.md) `618/2013`
+- [Valtioneuvoston asetus valtion varoista maksettavista todistelukustannuksista](619.md) `619/2013`
+- [Valtioneuvoston asetus voimavarojen antamisesta Yhdistyneiden Kansakuntien operaatioon Libanonissa \(UNIFIL\) Suomen hallituksen ja Yhdistyneiden Kansakuntien välillä tehdyn yhteistyöpöytäkirjan muutosten voimaansaattamisesta](620.md) `620/2013`
+- [Maa\- ja metsätalousministeriön asetus riekon metsästyksen kieltämisestä Kainuun ja Pohjois\-Pohjanmaan maakunnissa ja eräissä Lapin maakuntaan kuuluvissa kunnissa metsästysvuonna 2013—2014](621.md) `621/2013`
+- [Laki sähköistä kiinteistön kauppaa, panttausta ja kirjaamismenettelyä koskevan lainsäädännön voimaanpanosta](622.md) `622/2013`
+- [Laki maakaaren 2 luvun 14 §:n ja 9 a luvun 11 §:n muuttamisesta](623.md) `623/2013`
+- [Laki maakaaren muuttamisesta annetun lain voimaantulosäännöksen 2 momentin kumoamisesta](624.md) `624/2013`
+- [Laki etuostolain 2 §:n muuttamisesta](625.md) `625/2013`
+- [Laki kuntalain muuttamisesta](626.md) `626/2013`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinterveyden suojelemisesta annetun maa\- ja metsätalousministeriö asetuksen muuttamisesta](627.md) `627/2013`
+- [Laki rikoslain 2 c luvun muuttamisesta](628.md) `628/2013`
+- [Laki valvotusta koevapaudesta](629.md) `629/2013`
+- [Laki ehdonalaisen vapauden valvonnasta annetun lain muuttamisesta](630.md) `630/2013`
+- [Laki vankeuslain muuttamisesta](631.md) `631/2013`
+- [Laki henkilötietojen käsittelystä rangaistusten täytäntöönpanossa annetun lain 7 §:n muuttamisesta](632.md) `632/2013`
+- [Ulkoasiainministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoasiainministeriön asetuksen muuttamisesta](633.md) `633/2013`
+- [Oikeusministeriön päätös yleisen asianajajayhdistyksen sääntöjen vahvistamisesta annetun oikeusministeriön päätöksen 40 §:n 2 momentin muuttamisesta](634.md) `634/2013`
+- [Työ\- ja elinkeinoministeriön asetus kantaverkonhaltijan järjestelmävastuusta](635.md) `635/2013`
+- [Työ\- ja elinkeinoministeriön asetus Turvallisuus\- ja kemikaaliviraston maksullisista suoritteista](636.md) `636/2013`
+- [Sisäasiainministeriön asetus sisäasiainministeriön työjärjestyksen muuttamisesta](637.md) `637/2013`
+- [Työ\- ja elinkeinoministeriön asetus työ\- ja elinkeinoministeriön työjärjestyksen muuttamisesta](638.md) `638/2013`
+- [Valtioneuvoston asetus Euroopan yhteisöjen ja niiden jäsenvaltioiden sekä Serbian tasavallan välisen vakautus\- ja assosiaatiosopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](639.md) `639/2013`
+- [Valtioneuvoston asetus Verohallinnon yksiköistä annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](640.md) `640/2013`
+- [Valtioneuvoston asetus maakaasumarkkinoista annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](641.md) `641/2013`
+- [Valtioneuvoston asetus Energiamarkkinavirastosta](642.md) `642/2013`
+- [Valtioneuvoston asetus biopankin suostumusasiakirjasta](643.md) `643/2013`
+- [Valtioneuvoston asetus kemikaalien vähittäismyynnistä](644.md) `644/2013`
+- [Valtioneuvoston asetus laserlaitteista ja niiden tarkastuksesta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](645.md) `645/2013`
+- [Valtioneuvoston asetus rikoksen johdosta tapahtuvasta luovuttamisesta Kiinan kansantasavallan Hongkongin erityishallintoalueen kanssa tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](646.md) `646/2013`
+- [Sisäasiainministeriön ilmoitus kannettavien ampuma\-aseiden tarkastusleimojen vastavuoroista hyväksymistä koskevalla sopimuksella perustetun pysyvän kansainvälisen komission tekemien päätösten voimaantulosta](647.md) `647/2013`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2012 eräiden tulvavahinkokorvausten maksamisesta](648.md) `648/2013`
+- [Sosiaali\- ja terveysministeriön asetus biopankin tiedonannosta](649.md) `649/2013`
+- [Sosiaali\- ja terveysministeriön asetus alueellisen eettisen toimikunnan ja valtakunnallisen lääketieteellisen tutkimuseettisen toimikunnan lausunnoista perittävistä maksuista](650.md) `650/2013`
+- [Sosiaali\- ja terveysministeriön asetus Sosiaali\- ja terveysalan lupa\- ja valvontaviraston maksullisista suoritteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](651.md) `651/2013`
+- [Sosiaali\- ja terveysministeriön asetus kiireellisen hoidon perusteista ja päivystyksen erikoisalakohtaisista edellytyksistä](652.md) `652/2013`
+- [Verohallinnon päätös vuoden 2013 kiinteistöverotuksen päättymisestä](653.md) `653/2013`
+- [Verohallinnon päätös sijoitustoiminnan veronhuojennusta koskevasta ilmoittamis\- ja tiedonantovelvollisuudesta](654.md) `654/2013`
+- [Maa\- ja metsätalousministeriön asetus Suomen metsäkeskuksen julkisen palvelun yksikön suoritteiden maksullisuudesta annetun maa\- ja metsätalousministeriön asetuksen 3 §:n muuttamisesta](655.md) `655/2013`
+- [Maa\- ja metsätalousministeriön asetus Elintarviketurvallisuusviraston maksullisista suoritteista annetun maa\- ja metsätalousministeriön asetuksen liitteen muuttamisesta](656.md) `656/2013`
+- [Maa\- ja metsätalousministeriön asetus eräiden tuotantoeläinten sekä niiden alkioiden ja sukusolujen eläintautivaatimuksista Euroopan yhteisön sisämarkkinoilla annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen muuttamisesta](657.md) `657/2013`
+- [Laki kuitintarjoamisvelvollisuudesta käteiskaupassa](658.md) `658/2013`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](659.md) `659/2013`
+- [Valtioneuvoston asetus matkustusoikeuden osoittamisesta eräissä tapauksissa](660.md) `660/2013`
+- [Valtioneuvoston asetus veroasioita koskevista tiedoista Belizen kanssa tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](661.md) `661/2013`
+- [Maa\- ja metsätalousministeriön asetus hedelmätäysmehuista ja tietyistä vastaavista valmisteista](662.md) `662/2013`
+- [Oikeusministeriön asetus oikeusministeriön työjärjestyksestä annetun oikeusministeriön asetuksen 22 ja 24 §:n muuttamisesta](663.md) `663/2013`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](664.md) `664/2013`
+- [Valtioneuvoston asetus metrologian neuvottelukunnasta annetun asetuksen muuttamisesta](665.md) `665/2013`
+- [Valtioneuvoston asetus tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi Tadžikistanin kanssa tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](666.md) `666/2013`
+- [Työ\- ja elinkeinoministeriön asetus päästökaupan todentajien hyväksymisestä ja todentamistehtävän suorittamisesta päästökauppakaudella 2013—2020](667.md) `667/2013`
+- [Laki ulkomaalaislain muuttamisesta](668.md) `668/2013`
+- [Laki ulkomaalaislain muuttamisesta annetun lain 68 §:n muuttamisesta](669.md) `669/2013`
+- [Laki opintotukilain 1 §:n muuttamisesta](670.md) `670/2013`
+- [Laki Kansallisesta audiovisuaalisesta arkistosta annetun lain muuttamisesta](671.md) `671/2013`
+- [Laki kulttuuriaineistojen tallettamisesta ja säilyttämisestä annetun lain muuttamisesta](672.md) `672/2013`
+- [Laki kuvaohjelmalain muuttamisesta](673.md) `673/2013`
+- [Laki tekijänoikeuslain muuttamisesta](674.md) `674/2013`
+- [Laki Mediakasvatus\- ja kuvaohjelmakeskuksesta annetun lain kumoamisesta](675.md) `675/2013`
+- [Valtiovarainministeriön asetus toimivaltaisista maistraateista ja toimivaltaisesta aluehallintovirastosta eräissä maistraatin ja aluehallintoviraston tehtävissä annetun valtiovarainministeriön asetuksen 9 §:n muuttamisesta](676.md) `676/2013`
+- [Valtioneuvoston asetus väestötietojärjestelmästä annetun valtioneuvoston asetuksen 44 §:n muuttamisesta](677.md) `677/2013`
+- [Sisäasiainministeriön ilmoitus sisäasiainministeriön asetuksesta Veikkaus Oy:n rahapelien pelisäännöistä](678.md) `678/2013`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](679.md) `679/2013`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](680.md) `680/2013`
+- [Valtioneuvoston asetus Etelämannerta koskevaan sopimukseen liittyvän ympäristönsuojelupöytäkirjan liitteen V alaisten toimenpiteiden voimaansaattamisesta](681.md) `681/2013`
+- [Verohallinnon työjärjestys](682.md) `682/2013`
+- [Valtioneuvoston asetus eräiden leikkuulaitteiden markkinoille saattamisen kieltämisestä](683.md) `683/2013`
+- [Liikenne\- ja viestintäministeriön asetus Viestintäviraston eräistä maksuista annetun liikenne\- ja viestintäministeriön asetuksen3 ja 6 §:n muuttamisesta](684.md) `684/2013`
+- [Vuoden 2013 II lisätalousarvio](685.md) `685/2013`
+- [Työ\- ja elinkeinoministeriön asetus Energiamarkkinaviraston maksullisista suoritteista annetun työ\- ja elinkeinoministeriön asetuksen 2 ja 4 §:n muuttamisesta](686.md) `686/2013`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten aineiden kuljetuksesta tiellä annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](687.md) `687/2013`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten aineiden kuljetuksesta rautatiellä annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](688.md) `688/2013`
+- [Laki ampuma\-aselain muuttamisesta ja väliaikaisesta muuttamisesta](689.md) `689/2013`
+- [Laki ampuma\-aselain muuttamisesta annetun lain 117 §:n muuttamisesta](690.md) `690/2013`
+- [Laki rikoslain 41 luvun 1 §:n muuttamisesta](691.md) `691/2013`
+- [Valtioneuvoston asetus vaarallisten tavaroiden kansainvälisistä tiekuljetuksista tehdyn eurooppalaisen sopimuksen \(ADR\) A liitteen 1\.5\.1 kohdan mukaisen monenkeskisen sopimuksen M 260 voimaansaattamisesta](692.md) `692/2013`
+- [Opetus\- ja kulttuuriministeriön asetus ammatillisesta aikuiskoulutuksesta annetussa laissa tarkoitetusta tutkintorakenteesta](693.md) `693/2013`
+- [Valtiovarainministeriön asetus kuntarakenneuudistukseen liittyvää selvitysaluetta koskevan ilmoituksen sisällöstä](694.md) `694/2013`
+- [Valtioneuvoston asetus vuodelta 2013 maksettavasta lihan ja vuodelta 2012 maksettavasta maidon kuljetusavustuksesta sekä eräiden kotieläintalouden palvelujen tuesta vuodelta 2013](695.md) `695/2013`
+- [Valtioneuvoston asetus vuodelta 2013 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 23 §:n muuttamisesta](696.md) `696/2013`
+- [Valtioneuvoston asetus pyroteknisten tuotteiden vaatimustenmukaisuuden toteamisesta annetun valtioneuvoston asetuksen 3 §:n ja liitteen I muuttamisesta](697.md) `697/2013`
+- [Valtioneuvoston asetus valtion maksuperusteasetuksen muuttamisesta](698.md) `698/2013`
+- [Maa\- ja metsätalousministeriön asetus raakamaidon tuotannon ja luovutuksen elintarvikehygieniasta](699.md) `699/2013`
+- [Maa\- ja metsätalousministeriön asetus elintarvikkeiden alkutuotannon elintarvikehygieniasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](700.md) `700/2013`
+- [Maa\- ja metsätalousministeriön asetus salmonellatartunnan vastustamisesta naudoissa ja sioissa annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](701.md) `701/2013`
+- [Valtioneuvoston asetus ammattikorkeakouluista annetun valtioneuvoston asetuksen liitteen muuttamisesta](702.md) `702/2013`
+- [Valtioneuvoston asetus Suomen ja Venäjän välillä Suomen tasavallan entiseltä Neuvostoliitolta olevien velkasaatavien osittaisesta hoitamisesta 15 päivänä elokuuta 2006 tehdyssä sopimuksessa tarkoitettujen Venäjän federaation Suomen tasavallalle olevien velkasaatavien jäännöksen suoritusta koskevan pöytäkirjan voimaansaattamisesta](703.md) `703/2013`
+- [Valtioneuvoston asetus kaupallisen kalastuksen vakuutustuesta](704.md) `704/2013`
+- [Valtioneuvoston asetus viestintämarkkinoihin liittyvästä varautumisvelvollisuudesta ja viranomaistiedotteiden välittämisvelvollisuudesta annetun valtioneuvoston asetuksen muuttamisesta](705.md) `705/2013`
+- [Valtioneuvoston asetus poliisilaitosten toimialueista annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](706.md) `706/2013`
+- [Valtioneuvoston asetus nesteytetyn maakaasun terminaalien investointituen myöntämisen yleisistä ehdoista](707.md) `707/2013`
+- [Valtioneuvoston asetus hyvän työterveyshuoltokäytännön periaatteista, työterveyshuollon sisällöstä sekä ammattihenkilöiden ja asiantuntijoiden koulutuksesta](708.md) `708/2013`
+- [Vuoden 2013 III lisätalousarvio](709.md) `709/2013`
+- [Valtioneuvoston asetus valtion rahoituksen perusteena käytettävistä lukiokoulutuksen, ammatillisen koulutuksen, ammattikorkeakoulujen, taiteen perusopetuksen ja kansalaisopistojen keskimääräisistä yksikköhinnoista vuonna 2014](710.md) `710/2013`
+- [Puolustusministeriön asetus sotilaallisen kriisinhallintahenkilöstön pätevyysvaatimuksista ja palvelussuhteen ehdoista annetun puolustusministeriön asetuksen 8 §:n muuttamisesta](711.md) `711/2013`
+- [Valtioneuvoston asetus Kansallisesta audiovisuaalisesta instituutista](712.md) `712/2013`
+- [Valtioneuvoston asetus lääketaksasta](713.md) `713/2013`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2012 maa\- ja metsätalousalan sekä ammatinharjoittajan tulvavahinkokorvausten maksamisesta](714.md) `714/2013`
+- [Maa\- ja metsätalousministeriön asetus Maanmittauslaitoksen maksuista sekä kaupanvahvistuksesta perittävistä maksuista ja korvauksista vuosina 2013 ja 2014 annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](715.md) `715/2013`
+- [Valtioneuvoston asetus ydinvoimalaitoksen valmiusjärjestelyistä](716.md) `716/2013`
+- [Valtioneuvoston asetus ydinvoimalaitoksen turvallisuudesta](717.md) `717/2013`
+- [Sosiaali\- ja terveysministeriön asetus yliopistotasoisen terveyden tutkimuksen rahoituksesta](718.md) `718/2013`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](719.md) `719/2013`
+- [Verohallinnon päätös muiden verovelvollisten kuin yhteisöjen ja yhteisetuuksien verovuoden 2012 verotuksen päättymisestä](720.md) `720/2013`
+- [Oikeusministeriön asetus oikeusministeriön työjärjestyksestä annetun oikeusministeriön asetuksen muuttamisesta](721.md) `721/2013`
+- [Valtioneuvoston asetus maakotkien porotaloudelle aiheuttamien vahinkojen korvaamisesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](722.md) `722/2013`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 96 §:ssä tarkoitetun palkkakertoimen antamisesta](723.md) `723/2013`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 98 §:ssä tarkoitetun työeläkeindeksin antamisesta](724.md) `724/2013`
+- [Valtioneuvoston asetus Amerikan yhdysvaltojen sekä Euroopan yhteisön ja sen jäsenvaltioiden välisen lentoliikennesopimuksen muuttamista koskevan pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja pöytäkirjan soveltamisesta annetun lain väliaikaisesta soveltamisesta](725.md) `725/2013`
+- [Laki osakeyhtiölain 18 luvun muuttamisesta](726.md) `726/2013`
+- [Laki kauppakamarilain 5 ja 6 §:n muuttamisesta](727.md) `727/2013`
+- [Laki yliopistolain 7 §:n muuttamisesta](728.md) `728/2013`
+- [Laki sosiaaliturvasta Intian kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](729.md) `729/2013`
+- [Laki tapaturmavakuutuslain 47 §:n muuttamisesta](730.md) `730/2013`
+- [Laki asumistukilain 16 §:n muuttamisesta](731.md) `731/2013`
+- [Laki lapsilisälain 10 §:n muuttamisesta](732.md) `732/2013`
+- [Laki äitiysavustuslain 9 §:n muuttamisesta](733.md) `733/2013`
+- [Laki sotilasavustuslain 16 §:n muuttamisesta](734.md) `734/2013`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta annetun lain 18 §:n muuttamisesta](735.md) `735/2013`
+- [Laki aikuiskoulutustuesta annetun lain 19 §:n muuttamisesta](736.md) `736/2013`
+- [Laki työttömyysturvalain 11 luvun 5 §:n muuttamisesta](737.md) `737/2013`
+- [Laki Koulutusrahastosta annetun lain 7 §:n muuttamisesta](738.md) `738/2013`
+- [Laki sairausvakuutuslain 15 luvun 8 §:n muuttamisesta](739.md) `739/2013`
+- [Laki eräiden pitkäaikaisesti työttöminä olleiden henkilöiden eläketuesta annetun lain 12 §:n muuttamisesta](740.md) `740/2013`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 46 §:n muuttamisesta](741.md) `741/2013`
+- [Laki kansaneläkelain 64 §:n muuttamisesta](742.md) `742/2013`
+- [Laki vammaisetuuksista annetun lain 23 §:n muuttamisesta](743.md) `743/2013`
+- [Laki eläkkeensaajan asumistuesta annetun lain 25 §:n muuttamisesta](744.md) `744/2013`
+- [Laki elatustukilain 16 §:n muuttamisesta](745.md) `745/2013`
+- [Laki takuueläkkeestä annetun lain 16 §:n muuttamisesta](746.md) `746/2013`
+- [Tasavallan presidentin asetus eräiden kasvinterveyden suojelemista koskevien hallintotehtävien hoitamisesta Ahvenanmaalla](747.md) `747/2013`
+- [Valtioneuvoston asetus ammatillisen koulutuksen ja lukiokoulutuksen yhteishausta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](748.md) `748/2013`
+- [Valtioneuvoston asetus hevosten suojelusta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](749.md) `749/2013`
+- [Valtioneuvoston asetus polttoaineteholtaan alle 50 megawatin energiantuotantoyksiköiden ympäristönsuojeluvaatimuksista](750.md) `750/2013`
+- [Opetus\- ja kulttuuriministeriön asetus opiskelijaksi ottamisen perusteista ammatillisessa peruskoulutuksessa annetun opetus\- ja kulttuuriministeriön asetuksen 2 §:n muuttamisesta](751.md) `751/2013`
+- [Työ\- ja elinkeinoministeriön asetus Keskuskauppakamarin tilintarkastuslautakunnan ja kauppakamarin tilintarkastusvalio\-kunnan maksullisista suoritteista](752.md) `752/2013`
+- [Oikeusministeriön asetus käräjäoikeuksien kanslioiden ja istuntopaikkojen sijainnista annetun oikeusministeriön asetuksen 1 §:n muuttamisesta](753.md) `753/2013`
+- [Oikeusministeriön asetus vangitsemisasioiden ja muiden kiireellisten asioiden käsittelystä käräjäoikeuksissa eräissä tapauksissa annetun oikeusministeriön asetuksen muuttamisesta](754.md) `754/2013`
+- [Valtioneuvoston asetus ydinenergia\-asetuksen muuttamisesta](755.md) `755/2013`
+- [Sosiaali\- ja terveysministeriön asetus terveydenhuollon valtakunnallisten tietojärjestelmäpalvelujen käyttömaksuista](756.md) `756/2013`
+- [Valtiovarainministeriön asetus Eero Järnefelt \-juhlarahasta](757.md) `757/2013`
+- [Verohallinnon päätös matkakuluvähennyksen määrästä vuodelta 2013 toimitettavassa verotuksessa](758.md) `758/2013`
+- [Verohallinnon päätös metsän keskimääräisestä vuotuisesta tuotosta](759.md) `759/2013`
+- [Verohallinnon päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](760.md) `760/2013`
+- [Laki arvonlisäverolain muuttamisesta](761.md) `761/2013`
+- [Laki arvonlisäverolain 30 §:n muuttamisesta](762.md) `762/2013`
+- [Laki tekijänoikeuslain muuttamisesta](763.md) `763/2013`
+- [Laki orpoteosten käyttämisestä](764.md) `764/2013`
+- [Laki huoltovarmuuden turvaamisesta annetun lain muuttamisesta](765.md) `765/2013`
+- [Laki Turvallisuus\- ja kemikaalivirastosta annetun lain 4 §:n muuttamisesta](766.md) `766/2013`
+- [Laki valtioneuvostosta annetun lain 1 §:n muuttamisesta](767.md) `767/2013`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](768.md) `768/2013`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain 6 a luvun muuttamisesta](769.md) `769/2013`
+- [Laki esitutkintalain 4 ja 9 luvun muuttamisesta](770.md) `770/2013`
+- [Laki esitutkintalain muuttamisesta](771.md) `771/2013`
+- [Laki pakkokeinolain 2 ja 3 luvun muuttamisesta](772.md) `772/2013`
+- [Laki pakkokeinolain 1 luvun muuttamisesta](773.md) `773/2013`
+- [Laki sakon ja rikesakon määräämisestä annetun lain 7 §:n muuttamisesta](774.md) `774/2013`
+- [Laki rangaistusmääräysmenettelystä annetun lain 5 §:n muuttamisesta](775.md) `775/2013`
+- [Laki rangaistusmääräysmenettelystä annetun lain 5 §:n väliaikaisesta muuttamisesta](776.md) `776/2013`
+- [Laki rikesakkomenettelystä annetun lain 7 §:n muuttamisesta](777.md) `777/2013`
+- [Laki rikesakkomenettelystä annetun lain 7 §:n väliaikaisesta muuttamisesta](778.md) `778/2013`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden Euroopan unionin jäsenvaltioiden välillä annetun lain 21 §:n muuttamisesta](779.md) `779/2013`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden Euroopan unionin jäsenvaltioiden välillä annetun lain 21 §:n väliaikaisesta muuttamisesta](780.md) `780/2013`
+- [Laki erillisellä päätöksellä määrättävästä veron\- tai tullinkorotuksesta](781.md) `781/2013`
+- [Laki rikoslain muuttamisesta](782.md) `782/2013`
+- [Laki rikesakkorikkomuksista annetun lain 10 §:n muuttamisesta](783.md) `783/2013`
+- [Laki verotusmenettelystä annetun lain 86 ja 87 §:n muuttamisesta](784.md) `784/2013`
+- [Laki arvonlisäverolain 218 §:n muuttamisesta](785.md) `785/2013`
+- [Laki varainsiirtoverolain 54 ja 55 §:n muuttamisesta](786.md) `786/2013`
+- [Laki ennakkoperintälain 55 §:n muuttamisesta](787.md) `787/2013`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain 18 §:n muuttamisesta](788.md) `788/2013`
+- [Laki polttoainemaksusta annetun lain 32 §:n muuttamisesta](789.md) `789/2013`
+- [Laki yksityisestä huvialuksesta suoritettavasta polttoainemaksusta annetun lain 29 §:n muuttamisesta](790.md) `790/2013`
+- [Laki alusliikennepalvelulain muuttamisesta](791.md) `791/2013`
+- [Laki ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteen V lukuun tehtyjen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain 2 §:n kumoamisesta](792.md) `792/2013`
+- [Laki lapseen kohdistuneen seksuaalirikoksen selvittämisen järjestämisestä annetun lain muuttamisesta](793.md) `793/2013`
+- [Laki vakuutusedustuksesta annetun lain 28 §:n muuttamisesta](794.md) `794/2013`
+- [Sosiaali\- ja terveysministeriön asetus laivaväeltä vaadittavasta näkö\- ja kuulokyvystä annetun asetuksen 4 §:n muuttamisesta](795.md) `795/2013`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 82 §:ssä tarkoitetun elinaikakertoimen antamisesta](796.md) `796/2013`
+- [Laki kirkkolain muuttamisesta](797.md) `797/2013`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](798.md) `798/2013`
+- [Kirkolliskokouksen päätös kirkon vaalijärjestyksen muuttamisesta](799.md) `799/2013`
+- [Valtioneuvoston asetus veroasioita koskevista tiedoista Dominican kanssa tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](800.md) `800/2013`
+- [Valtioneuvoston asetus veroasioita koskevista tiedoista Samoan kanssa tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](801.md) `801/2013`
+- [Laki terveydenhuoltolain 61 ja 79 §:n muuttamisesta](802.md) `802/2013`
+- [Sosiaali\- ja terveysministeriön asetus tapaturmavakuutuslain 18 e §:n 3 momentin mukaisen haittarahan kertakorvauksen perusteista](803.md) `803/2013`
+- [Sosiaali\- ja terveysministeriön asetus tapaturmavakuutuslain 18 e §:n 5 momentin mukaisen haittarahan kertakorvauksen perusteista](804.md) `804/2013`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvalla sallittavasta suden metsästyksestä poronhoitoalueen ulkopuolella metsästysvuosina 2013—2016](805.md) `805/2013`
+- [Valtioneuvoston asetus kalastusasetuksen 17 ja 19 §:n muuttamisesta](806.md) `806/2013`
+- [Valtioneuvoston asetus Turvallisuus\- ja kemikaalivirastosta annetun valtioneuvoston asetuksen muuttamisesta](807.md) `807/2013`
+- [Valtioneuvoston asetus sairausvakuutusmaksujen maksuprosenteista vuonna 2014](808.md) `808/2013`
+- [Valtioneuvoston asetus villieläimistön ja \-kasviston uhanalaisten lajien kansainvälistä kauppaa koskevan sopimuksen muutoksen voimaansaattamisesta](809.md) `809/2013`
+- [Valtioneuvoston asetus Euroopan jälleenrakennus\- ja kehityspankin \(EBRD\) perustamisesta tehdyn sopimuksen muutosten voimaansaattamisesta](810.md) `810/2013`
+- [Laki kiinteistöverolain muuttamisesta](811.md) `811/2013`
+- [Laki varojen arvostamisesta verotuksessa annetun lain 30 §:n muuttamisesta](812.md) `812/2013`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 14 §:n muuttamisesta](813.md) `813/2013`
+- [Laki veroasioita koskevasta tiedonvaihdosta Panaman kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](814.md) `814/2013`
+- [Tasavallan presidentin asetus Suomen ulkomaanedustustojen sijaintipaikoista annetun tasavallan presidentin asetuksen 1 ja 3 §:n muuttamisesta](815.md) `815/2013`
+- [Oikeusministeriön asetus oikeusministeriön työjärjestyksestä annetun oikeusministeriön asetuksen 8 ja 9 §:n muuttamisesta](816.md) `816/2013`
+- [Sisäasiainministeriön asetus valtion omistukseen siirtyneiden ampuma\-aseiden ja \-tarvikkeiden käsittelystä annetun sisäasiainministeriön asetuksen 4 §:n muuttamisesta](817.md) `817/2013`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 153 §:ssä tarkoitettujen työntekijän työeläkevakuutusmaksuprosenttien antamisesta](818.md) `818/2013`
+- [Sosiaali\- ja terveysministeriön asetus yrittäjän eläkelain 114 §:ssä tarkoitettujen työeläkevakuutusmaksuprosenttien ja maatalousyrittäjän eläkelain 22 §:ssä tarkoitettujen työeläkevakuutusmaksun perusprosenttien antamisesta](819.md) `819/2013`
+- [Valtioneuvoston asetus oikeusavun palkkioperusteista annetun valtioneuvoston asetuksen muuttamisesta](820.md) `820/2013`
+- [Valtioneuvoston asetus lainhuuto\- ja kiinnitysrekisteristä annetun asetuksen muuttamisesta](821.md) `821/2013`
+- [Valtioneuvoston asetus opetus\- ja kulttuuritoimen rahoituksesta annetun valtioneuvoston asetuksen muutta\-misesta](822.md) `822/2013`
+- [Valtioneuvoston asetus vuodelta 2013 maksettavista lypsylehmä\- ja nautapalkkioista, teuraskaritsan laatupalkkiosta, valkuais\- ja öljykasvipalkkiosta sekä tärkkelysperunapalkkiosta](823.md) `823/2013`
+- [Valtioneuvoston asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen ja alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvään vuoden 1978 pöytäkirjaan liittyvään IBC\-säännöstöön sekä mainittuun yleissopimukseen ja mainittuun pöytäkirjaan liittyvän BCH\-säännöstön lisäykseen tehtyjen muutosten voimaansaattamisesta](824.md) `824/2013`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen muuttamisesta](825.md) `825/2013`
+- [Sosiaali\- ja terveysministeriön ilmoitus eräistä indeksillä tarkistetuista sosiaali\- ja terveydenhuollon asiakasmaksuista ja kotipalvelun ja kotisairaanhoidon palvelusetelistä](826.md) `826/2013`
+- [Oikeusministeriön asetus suojaosuuden määrästä määräajoin maksettavan palkan ulosmittauksessa](827.md) `827/2013`
+- [Oikeusministeriön asetus velallisen maksukyvyn arvioinnin perusteista yksityishenkilön velkajärjestelyssä annetun oikeusministeriön asetuksen 4 ja 6 a §:n muuttamisesta](828.md) `828/2013`
+- [Opetus\- ja kulttuuriministeriön ilmoitus eräistä indeksillä tarkistetuista lasten päivähoidon asiakasmaksuista](829.md) `829/2013`
+- [Opetus\- ja kulttuuriministeriön ilmoitus Suomen ja Ruotsin välillä yhteistyöstä ulkomaanopetuksen alalla tehdyn sopimuksen irtisanomisesta](830.md) `830/2013`
+- [Sisäasiainministeriön ilmoitus sisäasiainministeriön asetuksesta Veikkaus Oy:n rahapelien pelisäännöistä](831.md) `831/2013`
+- [Maa\- ja metsätalousministeriön asetus Euroopan unionin ulkopuolelle vietäville eläimille ja eläimistä saaduille tuotteille asetettavista eläintautivaatimuksista ja tehtävistä tarkastuksista](832.md) `832/2013`
+- [Verohallinnon päätös muiden kuin sähköisesti annettavien kausiveroilmoitusten määräpäivistä vuonna 2014](833.md) `833/2013`
+- [Valtiovarainministeriön asetus valtiovarainministeriön työjärjestyksen muuttamisesta](834.md) `834/2013`
+- [Maa\- ja metsätalousministeriön asetus eräiden Metsähallituksen julkisten hallintotehtävien suoritteiden maksuista](835.md) `835/2013`
+- [Vuoden 2013 IV lisätalousarvio](836.md) `836/2013`
+- [Valtioneuvoston asetus kestävän metsätalouden kehittämishankkeesta Laosin kanssa tehdyn sopimuksen voimaansaattamisesta](837.md) `837/2013`
+- [Valtioneuvoston asetus eläinten terveysvalvonnasta sekä eläintautien vastustamisesta eläinten keinollisessa lisäämisessä](838.md) `838/2013`
+- [Valtioneuvoston asetus asumistuen määräytymisperusteista vuodelle 2014](839.md) `839/2013`
+- [LUETTELO kuntien ja seurakuntien tuloveroprosenteista vuonna 2014](840.md) `840/2013`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvilajikkeiden lajikeluettelosta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](841.md) `841/2013`
+- [Maa\- ja metsätalousministeriön asetus eräitä eläimistä saatavia sivutuotteita ja niistä johdettuja tuotteita käsittelevien toimijoiden valvonnasta ja eräiden sivutuotteiden käytöstä annetun asetuksen muuttamisesta](842.md) `842/2013`
+- [Maa\- ja metsätalousministeriön asetus vastustettavista eläintaudeista ja niiden luokittelusta](843.md) `843/2013`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](844.md) `844/2013`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](845.md) `845/2013`
+- [Liikenne\- ja viestintäministeriön asetus kuljettajantutkinnossa käytettävien ajoneuvojen vaatimuksista, opetusajoneuvon merkitsemisestä sekä uuteen ajokokeeseen pääsemisen edellytyksistä annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](846.md) `846/2013`
+- [Valtiovarainministeriön asetus rakennusten jälleenhankinta\-arvon perusteista](847.md) `847/2013`
+- [Valtiovarainministeriön asetus vesivoimalaitoksen ja sen rakenteiden jälleenhankinta\-arvon perusteista](848.md) `848/2013`
+- [Liikenne\- ja viestintäministeriön asetus Ilmatieteen laitoksen maksullisista suoritteista](849.md) `849/2013`
+- [Valtioneuvoston asetus ajokorteista annetun valtioneuvoston asetuksen liitteen muuttamisesta](850.md) `850/2013`
+- [Valtioneuvoston asetus ennakkoperintäasetuksen 2 §:n muuttamisesta](851.md) `851/2013`
+- [Valtioneuvoston asetus porotaloudesta saatujen tulojen vuoden 2013 verotuksessa noudatettavista tuottoperusteista](852.md) `852/2013`
+- [Valtioneuvoston asetus Interventiovarastointiin liittyvien tuotteiden kustannuksista ja valmistajien tarkastuksesta](853.md) `853/2013`
+- [Valtioneuvoston asetus kansanterveyttä sekä eläinten ja kasvien terveyttä, taudeista ilmoittamista, eläinten hyvinvointia sekä eläinten tunnistusta ja rekisteröintiä koskevien täydentävien ehtojen valvonnasta annetun valtioneuvoston asetuksen 16 §:n muuttamisesta](854.md) `854/2013`
+- [Valtioneuvoston asetus vuonna 2014 myönnettävän maatilan investointituen kohdentamisesta](855.md) `855/2013`
+- [Valtioneuvoston asetus alkoholijuomista ja väkiviinasta annetun asetuksen 25 §:n 3 momentin kumoamisesta](856.md) `856/2013`
+- [Valtioneuvoston päätös huoltovarmuuden tavoitteista](857.md) `857/2013`
+- [Valtiovarainministeriön asetus verovuoden 2013 jäännösveron eräpäivistä, ennakonpalautusten maksamisesta sekä metsänhoitomaksun eräpäivistä ja vuoden 2014 kiinteistöveron eräpäivistä](858.md) `858/2013`
+- [Maa\- ja metsätalousministeriön asetus maataloustuotteiden vientituki\- ja vakuus \- sekä tuonti\-, vienti\- ja ennakkovahvistustodistusjärjestelmän täytäntöönpanosta annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](859.md) `859/2013`
+- [Valtiovarainministeriön asetus holhousasioiden rekisterin pitämiseen kuuluvien tehtävien määräämisestä annetun valtiovarainministeriön asetuksen kumoamisesta](860.md) `860/2013`
+- [Maa\- ja metsätalousministeriön asetus maitoa ja maitovalmisteita koskevien tilastotietojen keruusta annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](861.md) `861/2013`
+- [Maa\- ja metsätalousministeriön asetus eräiden valvontatoimenpiteiden siirrosta sosiaali\- ja terveydenhuollon tuotevalvontakeskuksen hoidettavaksi annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](862.md) `862/2013`
+- [Maa\- ja metsätalousministeriön asetus yksityistä varastointia koskevien tietojen ilmoittamisen määräajasta](863.md) `863/2013`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](864.md) `864/2013`
+- [Verohallinnon päätös vuodelta 2014 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](865.md) `865/2013`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinterveyden suojelemisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](866.md) `866/2013`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta nurmi\- ja rehukasvien siemenkaupasta](867.md) `867/2013`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta viljakasvien siemenkaupasta](868.md) `868/2013`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2013 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista ja työnantajasuoritusten vähimmäismäärästä](869.md) `869/2013`
+- [Laki Energiavirastosta](870.md) `870/2013`
+- [Sisäministeriön asetus poliisin suoritteiden maksullisuudesta vuonna 2014](871.md) `871/2013`
+- [Sisäministeriön asetus Maahanmuuttoviraston suoritteiden maksullisuudesta](872.md) `872/2013`
+- [Valtiovarainministeriön asetus yksittäisten kuntien ja evankelis\-luterilaisten seurakuntien verovuoden 2014 yhteisöveron jako\-osuuksien laskentaperusteista](873.md) `873/2013`
+- [Liikenne\- ja viestintäministeriön asetus Liikenneviraston maksullisista suoritteista](874.md) `874/2013`
+- [Valtioneuvoston asetus oppilaitosten ja päiväkotien sisäilma\- ja kosteusvauriohankkeisiin myönnettävästä valtionavustuksesta](875.md) `875/2013`
+- [Opetus\- ja kulttuuriministeriön asetus Kansallisen audiovisuaalisen instituutin ja kuvaohjelmalautakunnan suoritteiden maksullisuudesta](876.md) `876/2013`
+- [Valtioneuvoston asetus maaseudun kehittämiseen liittyvien ohjelmien hallinnoinnista annetun valtioneuvoston asetuksen 10 §:n muuttamisesta](877.md) `877/2013`
+- [Liikenne\- ja viestintäministeriön asetus liikenne\- ja viestintäministeriön maksullisista suoritteista](878.md) `878/2013`
+- [Laki rikoslain muuttamisesta](879.md) `879/2013`
+- [Laki pakkokeinolain 10 luvun 7 §:n muuttamisesta](880.md) `880/2013`
+- [Laki poliisilain 5 luvun 9 §:n muuttamisesta](881.md) `881/2013`
+- [Valtioneuvoston asetus valtioneuvoston ohjesäännön muuttamisesta](882.md) `882/2013`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta kappaletavarana aluksessa annetun asetuksen muuttamisesta](883.md) `883/2013`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta ja tilapäisestä säilytyksestä satama\-alueella annetun valtioneuvoston asetuksen muuttamisesta](884.md) `884/2013`
+- [Liikenne\- ja viestintäministeriön asetus Liikenteen turvallisuusviraston maksullisista suoritteista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](885.md) `885/2013`
+- [Laki tupakkaverosta annetun lain liitteen muuttamisesta](886.md) `886/2013`
+- [Laki rajoitetusti verovelvollisen tulon verottamisesta annetun lain muuttamisesta](887.md) `887/2013`
+- [Laki sairausvakuutuslain 18 luvun 16 ja 32 §:n muuttamisesta](888.md) `888/2013`
+- [Laki Kansallisgalleriasta](889.md) `889/2013`
+- [Laki kulttuuriesineiden maastaviennin rajoittamisesta annetun lain 3 ja 10 §:n muuttamisesta](890.md) `890/2013`
+- [Laki rahankeräyslain 6 ja 7 §:n muuttamisesta](891.md) `891/2013`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](892.md) `892/2013`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](893.md) `893/2013`
+- [Laki vapaasta sivistystyöstä annetun lain 12 a §:n muuttamisesta](894.md) `894/2013`
+- [Laki kirkkolain muuttamisesta](895.md) `895/2013`
+- [Laki maatalouden interventiorahastosta annetun lain 1 §:n muuttamisesta](896.md) `896/2013`
+- [Laki puutavaran ja puutuotteiden markkinoille saattamisesta](897.md) `897/2013`
+- [Laki rikoslain 48 a luvun muuttamisesta](898.md) `898/2013`
+- [Laki kalastuslain 88 §:n muuttamisesta](899.md) `899/2013`
+- [Laki Maanmittauslaitoksesta](900.md) `900/2013`
+- [Laki kiinteistönmuodostamislain muuttamisesta](901.md) `901/2013`
+- [Laki kiinteistötietojärjestelmästä ja siitä tuotettavasta tietopalvelusta annetun lain muuttamisesta](902.md) `902/2013`
+- [Laki kiinteistörekisterilain muuttamisesta](903.md) `903/2013`
+- [Laki uusjakojen tukemisesta annetun lain muuttamisesta](904.md) `904/2013`
+- [Laki kiinteistötoimitusmaksusta annetun lain muuttamisesta](905.md) `905/2013`
+- [Laki maantielain 86 ja 92 §:n muuttamisesta](906.md) `906/2013`
+- [Laki yksityisistä teistä annetun lain muuttamisesta](907.md) `907/2013`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain muuttamisesta](908.md) `908/2013`
+- [Laki ratalain 76 §:n muuttamisesta](909.md) `909/2013`
+- [Laki vesilain 5 ja 17 luvun muuttamisesta](910.md) `910/2013`
+- [Laki vesistöhankkeiden johdosta suoritettavista tilusjärjestelyistä annetun lain 4 ja 21 §:n muuttamisesta](911.md) `911/2013`
+- [Laki kalastuslain 37 c ja 134 §:n muuttamisesta](912.md) `912/2013`
+- [Laki luonnonsuojelulain muuttamisesta](913.md) `913/2013`
+- [Laki rakennusperinnön suojelemisesta annetun lain 15 §:n muuttamisesta](914.md) `914/2013`
+- [Laki kaivoslain muuttamisesta](915.md) `915/2013`
+- [Laki maa\-aineslain 9 §:n muuttamisesta](916.md) `916/2013`
+- [Laki maankäyttö\- ja rakennuslain muuttamisesta](917.md) `917/2013`
+- [Laki yhteisaluelain muuttamisesta](918.md) `918/2013`
+- [Laki yhteismetsälain 38 ja 51 §:n muuttamisesta](919.md) `919/2013`
+- [Laki maastoliikennelain 17 §:n muuttamisesta](920.md) `920/2013`
+- [Laki ulkoilulain 5 ja 7 §:n muuttamisesta](921.md) `921/2013`
+- [Laki maakaaren muuttamisesta](922.md) `922/2013`
+- [Laki uhkasakkolain 19 §:n muuttamisesta](923.md) `923/2013`
+- [Laki käräjäoikeuslain 13 a §:n muuttamisesta](924.md) `924/2013`
+- [Laki kuntarakennelain 50 ja 51 §:n muuttamisesta](925.md) `925/2013`
+- [Laki väestötietojärjestelmästä ja Väestörekisterikeskuksen varmennepalveluista annetun lain 23 §:n muuttamisesta](926.md) `926/2013`
+- [Laki kaupanvahvistajista annetun lain muuttamisesta](927.md) `927/2013`
+- [Laki eräistä vesitilusjärjestelyistä annetun lain muuttamisesta](928.md) `928/2013`
+- [Laki kiinteistöjen kauppahintarekisteristä annetun lain 1 ja 4 §:n muuttamisesta](929.md) `929/2013`
+- [Laki saamen kielilain 2 §:n muuttamisesta](930.md) `930/2013`
+- [Laki kirjaamisasioiden siirtämistä koskevan lainsäädännön voimaanpanosta annetun lain 5 §:n kumoamisesta](931.md) `931/2013`
+- [Laki aluehallintovirastoista annetun lain muuttamisesta](932.md) `932/2013`
+- [Laki elinkeino\-, liikenne\- ja ympäristökeskuksista annetun lain 3 §:n muuttamisesta](933.md) `933/2013`
+- [Laki ympäristönsuojelu\- ja vesiasioiden käsittelystä aluehallintovirastoissa annetun lain 3 §:n muuttamisesta](934.md) `934/2013`
+- [Laki kirjastolain 6 ja 7 §:n muuttamisesta](935.md) `935/2013`
+- [Laki liikuntalain muuttamisesta](936.md) `936/2013`
+- [Laki nuorisolain muuttamisesta](937.md) `937/2013`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](938.md) `938/2013`
+- [Laki rautatielain muuttamisesta](939.md) `939/2013`
+- [Laki siviilipalveluslain muuttamisesta](940.md) `940/2013`
+- [Laki ajokorttilain muuttamisesta](941.md) `941/2013`
+- [Valtioneuvoston asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteen VII luvun vaarallisten aineiden kuljetusta kappaletavarana aluksessa koskevaan säännöstöön \(IMDG\-säännöstö\) tehtyjen muutosten voimaansaattamisesta](942.md) `942/2013`
+- [Valtioneuvoston asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan III liitteeseen tehtyjen muutosten voimaansaattamisesta](943.md) `943/2013`
+- [Valtioneuvoston asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteen II\-1, III, V, VI, VII ja XI\-1 lukuun, mainittuun yleissopimukseen liittyvään vuoden 2000 HSC\-säännöstöön, mainittuun yleissopimukseen liittyvään FSS\-säännöstöön ja vuoden 1966 kansainväliseen lastiviivayleissopimukseen liittyvään vuoden 1988 pöytäkirjaan tehtyjen muutosten sekä ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 2011 ESP\-säännöstön voimaansaattamisesta](944.md) `944/2013`
+- [Valtioneuvoston asetus poliisin, tullin ja rajavartiolaitoksen yhteistoiminnasta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](945.md) `945/2013`
+- [Valtioneuvoston asetus tallentamattomien ääni\- ja kuvanauhojen ja muiden tallennuslaitteiden valmistuksesta ja maahantuonnista suoritettavan maksun suuruudesta vuonna 2014](946.md) `946/2013`
+- [Valtioneuvoston asetus ammattikorkeakouluista annetun valtioneuvoston asetuksen liitteen muuttamisesta annetun valtioneuvoston asetuksen voimaantulosäännöksen muuttamisesta](947.md) `947/2013`
+- [Valtioneuvoston asetus elinkeinosuunnitelmatuesta annetun valtioneuvoston asetuksen muuttamisesta](948.md) `948/2013`
+- [Valtioneuvoston asetus alueellisesta kuljetustuesta annetun valtioneuvoston asetuksen 26 §:n muuttamisesta](949.md) `949/2013`
+- [Valtioneuvoston asetus valtionavustuksesta yritystoiminnan kehittämiseksi annetun valtioneuvoston asetuksen 25 §:n muuttamisesta](950.md) `950/2013`
+- [Valtioneuvoston asetus tilaajan selvitysvelvollisuudesta ja vastuusta ulkopuolista työvoimaa käytettäessä annetun lain 9 §:ssä säädetyn laiminlyöntimaksun rahamäärän tarkistamisesta](951.md) `951/2013`
+- [Valtioneuvoston asetus eläkkeensaajan asumistuen määräytymisperusteista vuonna 2014](952.md) `952/2013`
+- [Oikeusministeriön asetus vangitsemisasioiden ja muiden kiireellisten asioiden käsittelystä käräjäoikeuksissa eräissä tapauksissa](953.md) `953/2013`
+- [Sisäministeriön asetus Hätäkeskuslaitoksen maksullisista suoritteista](954.md) `954/2013`
+- [Laki tie\- ja katuverkon tietojärjestelmästä annetun lain 8 §:n muuttamisesta](955.md) `955/2013`
+- [Laki vaarallisten aineiden kuljetuksesta annetun lain muuttamisesta](956.md) `956/2013`
+- [Laki ajoneuvojen katsastustoiminnasta](957.md) `957/2013`
+- [Laki ajoneuvojen yksittäishyväksynnän järjestämisestä](958.md) `958/2013`
+- [Laki ajoneuvojen yksittäishyväksynnän väliaikaisesta järjestämisestä annetun lain muuttamisesta](959.md) `959/2013`
+- [Laki katsastustoiminnan valvontamaksusta](960.md) `960/2013`
+- [Laki ajoneuvolain muuttamisesta](961.md) `961/2013`
+- [Laki kaupparekisterilain muuttamisesta](962.md) `962/2013`
+- [Laki Tekes — teknologian ja innovaatioiden kehittämiskeskuksesta annetun lain muuttamisesta](963.md) `963/2013`
+- [Laki valtion erityisrahoitusyhtiöstä annetun lain 6 §:n muuttamisesta](964.md) `964/2013`
+- [Laki yrityspalvelujen asiakastietojärjestelmästä annetun lain 6 ja 10 §:n muuttamisesta](965.md) `965/2013`
+- [Laki tutkimus\- ja kehittämistoiminnan lisävähennyksestä vuosina 2013—2015 annetun lain 6 §:n muuttamisesta](966.md) `966/2013`
+- [Laki riskirahoitusta alkuvaiheen pääomarahastoihin sijoittavasta valtion kokonaan omistamasta osakeyhtiöstä](967.md) `967/2013`
+- [Laki poronhoitajien sijaisavusta vuonna 2014](968.md) `968/2013`
+- [Laki maatalousyrittäjän eläkelain 114 §:n muuttamisesta](969.md) `969/2013`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain muuttamisesta](970.md) `970/2013`
+- [Laki työttömyyskassalain 25 §:n muuttamisesta](971.md) `971/2013`
+- [Laki sairausvakuutuslain muuttamisesta](972.md) `972/2013`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 6 ja 7 §:n muuttamisesta](973.md) `973/2013`
+- [Laki sairausvakuutuslain 5 luvun 8 ja 9 §:n muuttamisesta](974.md) `974/2013`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta annetun lain muuttamisesta](975.md) `975/2013`
+- [Laki lastensuojelulain 29 §:n muuttamisesta](976.md) `976/2013`
+- [Laki apteekkimaksusta annetun lain muuttamisesta](977.md) `977/2013`
+- [Laki lääkelain muuttamisesta](978.md) `978/2013`
+- [Laki työkyvyttömyyseläkkeellä olevien työhönpaluun edistämisestä annetun lain 6 ja 12 §:n muuttamisesta](979.md) `979/2013`
+- [Laki sairausvakuutuslain 13 luvun 11 §:n väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](980.md) `980/2013`
+- [Laki vakuutusyhtiölain muuttamisesta](981.md) `981/2013`
+- [Laki ulkomaisista vakuutusyhtiöistä annetun lain muuttamisesta](982.md) `982/2013`
+- [Laki työeläkevakuutusyhtiöistä annetun lain muuttamisesta](983.md) `983/2013`
+- [Laki rahoitus\- ja vakuutusryhmittymien valvonnasta annetun lain muuttamisesta](984.md) `984/2013`
+- [Laki Finanssivalvonnasta annetun lain 65 b ja 65 c §:n muuttamisesta](985.md) `985/2013`
+- [Laki tapaturmavakuutuslain muuttamisesta](986.md) `986/2013`
+- [Laki liikennevakuutuslain muuttamisesta](987.md) `987/2013`
+- [Laki potilasvahinkolain 5 b §:n muuttamisesta](988.md) `988/2013`
+- [Laki maankäyttö\- ja rakennuslain muuttamisesta](989.md) `989/2013`
+- [Laki kevennettyjen rakentamis\- ja kaavamääräysten kokeilusta annetun lain muuttamisesta](990.md) `990/2013`
+- [Laki vuokra\-asuntolainojen ja asumisoikeustalolainojen korkotuesta annetun lain 13 §:n muuttamisesta](991.md) `991/2013`
+- [Laki aravarajoituslain 7 §:n muuttamisesta](992.md) `992/2013`
+- [Laki omistusasuntolainojen valtiontakauksesta annetun lain muuttamisesta](993.md) `993/2013`
+- [Laki veroasioita koskevista tiedoista Niuen kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](994.md) `994/2013`
+- [Laki tieteellis\-teknisestä yhteistyöstä Amerikan yhdysvaltain kanssa tehdyn sopimuksen muuttamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](995.md) `995/2013`
+- [Laki työturvallisuutta kemikaaleja käytettäessä koskevan yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](996.md) `996/2013`
+- [Valtioneuvoston asetus pääsystä korkeampaan koulutukseen Tanskan, Suomen, Islannin, Norjan ja Ruotsin välillä tehdyn sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](997.md) `997/2013`
+- [Sisäministeriön asetus Rajavartiolaitoksen suoritteiden maksuista](998.md) `998/2013`
+- [Sisäministeriön asetus Rajavartiolaitoksen hallitsemaa tilaa ja aluetta koskevista liikkumisrajoituksista ja \-kielloista annetun sisäasiainministeriön asetuksen muuttamisesta](999.md) `999/2013`
+- [Korkeimman hallinto\-oikeuden työjärjestys](1000.md) `1000/2013`
+- [Puolustusministeriön asetus puolustusministeriön maksullisista suoritteista vuosina 2014—2016](1001.md) `1001/2013`
+- [Puolustusministeriön asetus puolustusvoimien maksullisista suoritteista vuosina 2014—2016](1002.md) `1002/2013`
+- [Puolustusministeriön asetus puolustushallinnon rakennuslaitoksen maksullisista suoritteista vuosina 2014—2016](1003.md) `1003/2013`
+- [Valtiovarainministeriön asetus julkishallinnon ja \-talouden tilintarkastuslautakunnan maksullisista suoritteista](1004.md) `1004/2013`
+- [Maa\- ja metsätalousministeriön asetus vapaaehtoisesta eläinten terveysvalvonnasta](1005.md) `1005/2013`
+- [Maa\- ja metsätalousministeriön asetus Euroopan unionin ulkopuolisista maista tuotavista hevoseläimistä sekä niiden alkioista ja sukusoluista](1006.md) `1006/2013`
+- [Maa\- ja metsätalousministeriön asetus Euroopan unionin ulkopuolisista maista tuotavista eräistä elävistä eläimistä sekä niiden alkioista ja sukusoluista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1007.md) `1007/2013`
+- [Maa\- ja metsätalousministeriön päätös mehiläisten varroatoosin leviämisen estämiseksi perustettavasta rajoitusalueesta](1008.md) `1008/2013`
+- [Maa\- ja metsätalousministeriön asetus kaloissa, äyriäisissä ja nilviäisissä esiintyvien eläintautien vastustamisesta](1009.md) `1009/2013`
+- [Maa\- ja metsätalousministeriön asetus eläintautien ilmoittamisesta ja mikrobikantojen toimittamisesta](1010.md) `1010/2013`
+- [Maa\- ja metsätalousministeriön päätös kalojen tarttuvan haimakuoliotaudin ja kalojen bakteeriperäisen munuaistaudin leviämisen estämiseksi perustettavista rajoitusalueista](1011.md) `1011/2013`
+- [Maa\- ja metsätalousministeriön asetus kunnaneläinlääkärin maksullisista suoritteista](1012.md) `1012/2013`
+- [Työ\- ja elinkeinoministeriön asetus Matkailun edistämiskeskuksen maksullisista suoritteista annetun työ\- ja elinkeinoministeriön asetuksen 3 §:n muuttamisesta](1013.md) `1013/2013`
+- [Työ\- ja elinkeinoministeriön asetus mittatekniikan keskuksen maksullisista suoritteista annetun työ\- ja elinkeinoministeriön asetuksen 4 §:n muuttamisesta](1014.md) `1014/2013`
+- [Sosiaali\- ja terveysministeriön asetus merimieseläkekassan vakuutusteknisen vastuuvelan laskuperusteista ja perusteista merimieseläkelain 153 §:n mukaista vastuunjakoa varten](1015.md) `1015/2013`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1016.md) `1016/2013`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1017.md) `1017/2013`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](1018.md) `1018/2013`
+- [Sosiaali\- ja terveysministeriön asetus Terveyden ja hyvinvoinnin laitoksen maksullisista suoritteista](1019.md) `1019/2013`
+- [Oikeusministeriön asetus oikeusministeriön ja eräiden hallinnonalalla toimivien viranomaisten maksullisista suoritteista vuosina 2014\-2015](1020.md) `1020/2013`
+- [Puolustusministeriön asetus sotilaallisen kriisinhallintahenkilöstön pätevyysvaatimuksista ja palvelussuhteen ehdoista annetun puolustusministeriön asetuksen 11 §:n muuttamisesta](1021.md) `1021/2013`
+- [Eduskunnan päätös eduskunnan työjärjestyksen 32 §:n muuttamisesta](1022.md) `1022/2013`
+- [Maa\- ja metsätalousministeriön asetus Suomen riistakeskuksen ja riistanhoitoyhdistysten julkisten hallintotehtävien maksuista vuonna 2014](1023.md) `1023/2013`
+- [Maa\- ja metsätalousministeriön asetus eläintautien vastustamiseen liittyvistä yleisistä vaatimuksista siirrettäessä eläviä eläimiä, alkioita ja sukusoluja Euroopan unionin jäsenvaltioiden välillä](1024.md) `1024/2013`
+- [Maa ja metsätalousministeriön asetus Euroopan unionin jäsenvaltioiden välillä siirrettäviä nautaeläimiä sekä nautaeläinten alkioita ja sukusoluja koskevista terveysvaatimuksista](1025.md) `1025/2013`
+- [Maa\- ja metsätalousministeriön asetus sonnin spermalle eläintautien vastustamiseksi asetettavista vaatimuksista](1026.md) `1026/2013`
+- [Maa\- ja metsätalousministeriön asetus naudan alkioille ja munasoluille eläintautien vastustamiseksi asetettavista vaatimuksista](1027.md) `1027/2013`
+- [Maa ja metsätalousministeriön asetus Euroopan unionin jäsenvaltioiden välillä siirrettäviä sikoja sekä sikojen alkioita ja sukusoluja koskevista terveysvaatimuksista](1028.md) `1028/2013`
+- [Maa\- ja metsätalousministeriön asetus karjun spermalle eläintautien vastustamiseksi asetettavista vaatimuksista](1029.md) `1029/2013`
+- [Maa\- ja metsätalousministeriön asetus nautaeläinten ja sikojen salmonellavalvonnasta](1030.md) `1030/2013`
+- [Maa ja metsätalousministeriön asetus Euroopan unionin jäsenvaltioiden välillä siirrettäviä lampaita ja vuohia sekä lampaiden ja vuohien alkioita ja sukusoluja koskevista terveysvaatimuksista](1031.md) `1031/2013`
+- [Maa\- ja metsätalousministeriön asetus lampaiden ja vuohien sukusoluille ja alkioille eläintautien vastustamiseksi asetettavista vaatimuksista](1032.md) `1032/2013`
+- [Maa ja metsätalousministeriön asetus Euroopan unionin jäsenvaltioiden välillä siirrettäviä hevoseläimiä sekä hevoseläinten alkioita ja sukusoluja koskevista terveysvaatimuksista](1033.md) `1033/2013`
+- [Maa\- ja metsätalousministeriön asetus hevoseläinten sukusoluille ja alkioille eläintautien vastustamiseksi asetettavista vaatimuksista](1034.md) `1034/2013`
+- [Maa\- ja metsätalousministeriön asetus eräitä Euroopan unionin jäsenvaltioiden välillä siirrettäviä eläimiä, alkioita ja sukusoluja koskevista eläintautivaatimuksista](1035.md) `1035/2013`
+- [Maa ja metsätalousministeriön asetus Euroopan unionin jäsenvaltioiden välillä siirrettävää siipikarjaa ja siirrettäviä siipikarjan siitosmunia koskevista terveysvaatimuksista](1036.md) `1036/2013`
+- [Maa\- ja metsätalousministeriön asetus kanojen ja kalkkunoiden salmonellavalvonnasta](1037.md) `1037/2013`
+- [Maa\- ja metsätalousministeriön asetus rakentamisinvestointien hyväksyttävistä yksikkökustannuksista](1038.md) `1038/2013`
+- [Valtioneuvoston asetus yliopistojen tutkinnoista annetun valtioneuvoston asetuksen muuttamisesta](1039.md) `1039/2013`
+- [Opetus\- ja kulttuuriministeriön asetus yliopistojen koulutusvastuun täsmentämisestä, yliopistojen koulutusohjelmista ja erikoistumiskoulutuksista annetun opetusministeriön asetuksen muuttamisesta](1040.md) `1040/2013`
+- [Opetus\- ja kulttuuriministeriön asetus yliopistojen maisteriohjelmista annetun opetus\- ja kulttuuriministeriön asetuksen kumoamisesta](1041.md) `1041/2013`
+- [Laki valtion eläkelain muuttamisesta](1042.md) `1042/2013`
+- [Laki valtion eläkerahastosta annetun lain 5 ja 6 §:n muuttamisesta](1043.md) `1043/2013`
+- [Laki lukiolain muuttamisesta](1044.md) `1044/2013`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](1045.md) `1045/2013`
+- [Laki tilintarkastuslain muuttamisesta](1046.md) `1046/2013`
+- [Laki julkishallinnon ja \-talouden tilintarkastajista annetun lain 21 a §:n muuttamisesta](1047.md) `1047/2013`
+- [Laki säätiön valvontamaksusta](1048.md) `1048/2013`
+- [Laki työttömyysturvalain muuttamisesta ja väliaikaisesta muuttamisesta](1049.md) `1049/2013`
+- [Laki julkisesta työvoima\- ja yrityspalvelusta annetun lain muuttamisesta](1050.md) `1050/2013`
+- [Laki työsopimuslain 9 luvun 3 a ja 3 b §:n muuttamisesta](1051.md) `1051/2013`
+- [Laki kunnallisesta viranhaltijasta annetun lain 37 a §:n muuttamisesta](1052.md) `1052/2013`
+- [Laki merityösopimuslain 10 luvun 4 ja 5 §:n muuttamisesta](1053.md) `1053/2013`
+- [Laki vuorotteluvapaalain 15 §:n muuttamisesta](1054.md) `1054/2013`
+- [Laki kansainvälisen korruptionvastaisen akatemian perustamisesta kansainväliseksi järjestöksi tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1055.md) `1055/2013`
+- [Valtioneuvoston asetus sisäministeriöstä](1056.md) `1056/2013`
+- [Valtioneuvoston asetus tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista](1057.md) `1057/2013`
+- [Valtioneuvoston asetus tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista annetun lain 3 §:ssä säädettyjen maksujen tarkistamisesta](1058.md) `1058/2013`
+- [Valtioneuvoston asetus Tekes – teknologian ja innovaatioiden kehittämiskeskuksesta annetun valtioneuvoston asetuksen muuttamisesta](1059.md) `1059/2013`
+- [Valtioneuvoston asetus ajokorteista annetun valtioneuvoston asetuksen muuttamisesta](1060.md) `1060/2013`
+- [Valtioneuvoston asetus ajoneuvojen hyväksynnästä annetun valtioneuvoston asetuksen 25 §:n muuttamisesta](1061.md) `1061/2013`
+- [Valtioneuvoston asetus ajoneuvojen käytöstä tiellä annetun asetuksen 23 a §:n muuttamisesta](1062.md) `1062/2013`
+- [Opetus\- ja kulttuuriministeriön asetus Kotimaisten kielten keskuksen suoritteiden maksuista](1063.md) `1063/2013`
+- [Opetus\- ja kulttuuriministeriön asetus arkistolaitoksen suoritteiden maksuista](1064.md) `1064/2013`
+- [Maa\- ja metsätalousministeriön asetus silakan ja kilohailin troolikalastuksen rajoittamisesta vuonna 2013 annetun maa\- ja metsätalousministeriön asetuksen 2 §:n kumoamisesta](1065.md) `1065/2013`
+- [Maa\- ja metsätalousministeriön asetus silakan ja kilohailin troolikalastuksen rajoittamisesta vuonna 2014](1066.md) `1066/2013`
+- [Maa\- ja metsätalousministeriön asetus eräiden silakan ja kilohailin troolikalastuksen keskeyttämisestä Suomenlahdella ja Pohjoisella Itämerellä annettujen maa\- ja metsätalousministeriön asetusten kumoamisesta](1067.md) `1067/2013`
+- [Laki valtion varoista korvattavista merimiesten matkakustannuksista](1068.md) `1068/2013`
+- [Laki merityösopimuslain 3 luvun 4 §:n kumoamisesta](1069.md) `1069/2013`
+- [Laki merityöaikalain 19 b §:n kumoamisesta](1070.md) `1070/2013`
+- [Laki merimiesten vuosilomalain muuttamisesta](1071.md) `1071/2013`
+- [Laki sähkön ja eräiden polttoaineiden valmisteverosta annetun lain 2 ja 4 §:n ja muuttamisesta](1072.md) `1072/2013`
+- [Laki yleisradioverosta annetun lain 2 §:n muuttamisesta](1073.md) `1073/2013`
+- [Valtioneuvoston asetus Kansallisgalleriasta](1074.md) `1074/2013`
+- [Valtioneuvoston asetus käräjäoikeuksien tuomiopiireistä maaoikeuden käsiteltäviksi säädetyissä asioissa](1075.md) `1075/2013`
+- [Valtioneuvoston asetus valvotusta koevapaudesta](1076.md) `1076/2013`
+- [Valtioneuvoston asetus ehdonalaisen vapauden valvonnasta](1077.md) `1077/2013`
+- [Sisäasiainministeriön asetus sisäministeriön työjärjestyksestä](1078.md) `1078/2013`
+- [Valtioneuvoston asetus opetus\- ja kulttuuritoimen rahoituksesta annetun valtioneuvoston asetuksen muuttamisesta](1079.md) `1079/2013`
+- [Valtioneuvoston asetus poliisista](1080.md) `1080/2013`
+- [Valtioneuvoston asetus tekijänoikeusasetuksen muuttamisesta](1081.md) `1081/2013`
+- [Valtioneuvoston asetus Maanmittauslaitoksesta](1082.md) `1082/2013`
+- [Laki alkoholi\- ja alkoholijuomaverosta annetun lain liitteen muuttamisesta](1083.md) `1083/2013`
+- [Laki makeisten, jäätelön ja virvoitusjuomien valmisteverosta annetun lain muuttamisesta](1084.md) `1084/2013`
+- [Laki metsälain muuttamisesta](1085.md) `1085/2013`
+- [Laki rikoslain 48 a luvun 3 §:n muuttamisesta](1086.md) `1086/2013`
+- [Laki metsätuhojen torjunnasta](1087.md) `1087/2013`
+- [Laki Suomen metsäkeskuksesta annetun lain 8 §:n muuttamisesta](1088.md) `1088/2013`
+- [Laki kasvinsuojeluaineista annetun lain 20 §:n muuttamisesta](1089.md) `1089/2013`
+- [Laki metsänhoitoyhdistyksistä annetun lain muuttamisesta](1090.md) `1090/2013`
+- [Laki metsänhoitoyhdistyksistä annetun lain eräiden säännösten kumoamisesta](1091.md) `1091/2013`
+- [Valtioneuvoston asetus aluehallintovirastojen maksuista vuosina 2014 ja 2015](1092.md) `1092/2013`
+- [Valtioneuvoston asetus aluehallintovirastoista annetun valtioneuvoston asetuksen muuttamisesta](1093.md) `1093/2013`
+- [Valtioneuvoston asetus rautatiejärjestelmän turvallisuudesta ja yhteentoimivuudesta annetun valtioneuvoston asetuksen muuttamisesta](1094.md) `1094/2013`
+- [Valtioneuvoston asetus alueiden kehittämisestä annetussa laissa tarkoitetuista tukialueista annetun valtioneuvoston asetuksen muuttamisesta](1095.md) `1095/2013`
+- [Valtioneuvoston asetus siviilipalveluksesta annetun valtioneuvoston asetuksen muuttamisesta](1096.md) `1096/2013`
+- [Valtioneuvoston asetus Energiavirastosta](1097.md) `1097/2013`
+- [Valtioneuvoston asetus huumausaineena pidettävistä aineista, valmisteista ja kasveista annetun valtioneuvoston asetuksen muuttamisesta](1098.md) `1098/2013`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon kunnallisten toimintayksiköiden sisäilma\- ja kosteusvauriohankkeisiin myönnettävästä valtionavustuksesta](1099.md) `1099/2013`
+- [Valtioneuvoston asetus kulttuurihistoriallisesti arvokkaiden apteekkien apteekkimaksusta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](1100.md) `1100/2013`
+- [Valtioneuvoston asetus eräille ulkomaalaisille vapaaehtoisille rintamasotilaille vuonna 2014 maksettavasta rintama\-avustuksesta](1101.md) `1101/2013`
+- [Valtioneuvoston asetus sotainvalidien puolisoiden, leskien ja sotaleskien kuntoutuksesta vuonna 2014](1102.md) `1102/2013`
+- [Verohallinnon päätös yleisestä tiedonantovelvollisuudesta](1103.md) `1103/2013`
+- [Sisäministeriön asetus liikkumis\- ja oleskelurajoituksista](1104.md) `1104/2013`
+- [Sisäasiainministeriön ilmoitus sisäasiainministeriön asetuksesta Raha\-automaattiyhdistyksen rahapelien pelisäännöistä](1105.md) `1105/2013`
+- [Sisäministeriön asetus poliisin virkapuvusta](1106.md) `1106/2013`
+- [Puolustusministeriön asetus puolustusministeriön työjärjestyksestä annetun puolustusministeriön asetuksen muuttamisesta](1107.md) `1107/2013`
+- [Valtiovarainministeriön asetus Tilastokeskuksen suoritteiden maksullisuudesta](1108.md) `1108/2013`
+- [Valtiovarainministeriön asetus vuoden 2014 taidekilpailupalkintojen verovapaudesta](1109.md) `1109/2013`
+- [Valtiovarainministeriön asetus valtiovarainministeriön maksullisista suoritteista](1110.md) `1110/2013`
+- [Opetus\- ja kulttuuriministeriön asetus Opetushallituksen suoritteiden maksullisuudesta](1111.md) `1111/2013`
+- [Opetus\- ja kulttuuriministeriön asetus opetus\- ja kulttuuriministeriön työjärjestyksen muuttamisesta](1112.md) `1112/2013`
+- [Maa\- ja metsätalousministeriön asetus ojitussuunnitelman hankkimisesta perittävistä maksuista](1113.md) `1113/2013`
+- [Maa\- ja metsätalousministeriön asetus Elintarviketurvallisuusviraston maksullisista suoritteista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1114.md) `1114/2013`
+- [Maa\- ja metsätalousministeriön asetus  maa\- ja elintarviketalouden tutkimuskeskuksen suoritteista perittävistä maksuista](1115.md) `1115/2013`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön työjärjestyksestä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1116.md) `1116/2013`
+- [Maa\- ja metsätalousministeriön asetus Suomen metsäkeskuksen julkisen palvelun yksikön suoritteiden maksullisuudesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1117.md) `1117/2013`
+- [Maa\- ja metsätalousministeriön asetus puutavaran virallisesta mittauksesta, valvontamittauksesta ja mittauslautakunnan käsittelystä perittävästä maksusta](1118.md) `1118/2013`
+- [Maa\- ja metsätalousministeriön asetus Maanmittauslaitoksen palvelupisteistä ja niiden sijainnista](1119.md) `1119/2013`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten aineiden kuljetuksesta tiellä annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](1120.md) `1120/2013`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten aineiden kuljetuksesta rautatiellä annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](1121.md) `1121/2013`
+- [Työ\- ja elinkeinoministeriön asetus työ\- ja elinkeinoministeriön maksullisista suoritteista](1122.md) `1122/2013`
+- [Työ\- ja elinkeinoministeriön asetus työvoimapoliittisen lausunnon antamisesta ja lausuntoon merkittävistä tiedoista](1123.md) `1123/2013`
+- [Työ\- ja elinkeinoministeriön asetus siviilipalvelusvelvollisten matkakorvauksista ja maksuttomien lomamatkojen määristä annetun työministeriön asetuksen 3 §:n kumoamisesta](1124.md) `1124/2013`
+- [Sosiaali\- ja terveysministeriön asetus lääkäri\- ja hammaslääkärikoulutuksen korvauksiin ja yliopistotasoisen terveyden tutkimuksen rahoitukseen oikeutetuista palvelujen tuottajista](1125.md) `1125/2013`
+- [Sosiaali\- ja terveysministeriön asetus vuoden 2014 liikenneturvallisuusmaksusta](1126.md) `1126/2013`
+- [Sosiaali\- ja terveysministeriön asetus turkistuottajille järjestettävien lomituspalvelujen enimmäismääristä vuonna 2014](1127.md) `1127/2013`
+- [Sosiaali\- ja terveysministeriön asetus sotilasvammalain 18 §:n 2 momentissa tarkoitetun tulorajan tarkistamisesta](1128.md) `1128/2013`
+- [Sosiaali\- ja terveysministeriön asetus lääkkeen määräämisestä annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1129.md) `1129/2013`
+- [Laki patentti\- ja rekisterihallituksen valitusasioiden käsittelystä annetun lain kumoamisesta annetun lain voimaanpanosta](1130.md) `1130/2013`
+- [Laki nestemäisten polttoaineiden valmisteverosta annetun lain muuttamisesta](1131.md) `1131/2013`
+- [Laki sähkön ja eräiden polttoaineiden valmisteverosta annetun lain muuttamisesta](1132.md) `1132/2013`
+- [Laki maataloudessa käytettyjen eräiden energiatuotteiden valmisteveron palautuksesta annetun lain 1 ja 4 §:n muuttamisesta](1133.md) `1133/2013`
+- [Laki kiinteistönmuodostamislain muuttamisesta](1134.md) `1134/2013`
+- [Laki kiinteistörekisterilain 3 ja 7 §:n muuttamisesta](1135.md) `1135/2013`
+- [Laki taloudellisesti tuetusta ammatillisen osaamisen kehittämisestä](1136.md) `1136/2013`
+- [Laki yhteistoiminnasta yrityksissä annetun lain muuttamisesta](1137.md) `1137/2013`
+- [Laki työnantajan ja henkilöstön välisestä yhteistoiminnasta kunnissa annetun lain muuttamisesta](1138.md) `1138/2013`
+- [Laki yhteistoiminnasta valtion virastoissa ja laitoksissa annetun lain 7 a §:n muuttamisesta](1139.md) `1139/2013`
+- [Laki koulutuksen korvaamisesta](1140.md) `1140/2013`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain 10 §:n muuttamisesta](1141.md) `1141/2013`
+- [Vuoden 2013 V lisätalousarvio](1142.md) `1142/2013`
+- [Valtion talousarvio vuodelle 2014](1143.md) `1143/2013`
+- [Valtioneuvoston asetus elinkeino\- liikenne\- ja ympäristökeskuksista](1144.md) `1144/2013`
+- [Laki esitutkintalain muuttamisesta](1145.md) `1145/2013`
+- [Laki pakkokeinolain muuttamisesta](1146.md) `1146/2013`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain 5 luvun 3 §:n muuttamisesta](1147.md) `1147/2013`
+- [Laki ydinenergialain 68 §:n muuttamisesta](1148.md) `1148/2013`
+- [Laki puolustustilalain 9 §:n muuttamisesta](1149.md) `1149/2013`
+- [Laki tullilain 23 a ja 43 §:n muuttamisesta](1150.md) `1150/2013`
+- [Laki rajavartiolain 47 a §:n muuttamisesta](1151.md) `1151/2013`
+- [Laki valmisteverotuslain 103 §:n muuttamisesta](1152.md) `1152/2013`
+- [Laki Harmaan talouden selvitysyksiköstä annetun lain 6 §:n muuttamisesta](1153.md) `1153/2013`
+- [Laki valvontarangaistuksesta annetun lain 6 ja 35 §:n muuttamisesta](1154.md) `1154/2013`
+- [Laki eräiden Suomeen tuotavien näyttelyesineiden takavarikoinnin kieltämisestä annetun lain 3 §:n muuttamisesta](1155.md) `1155/2013`
+- [Laki autokiinnityslain 15 §:n muuttamisesta](1156.md) `1156/2013`
+- [Laki yrityskiinnityslain 25 §:n muuttamisesta](1157.md) `1157/2013`
+- [Laki alusrekisterilain 9 ja 10 §:n muuttamisesta](1158.md) `1158/2013`
+- [Laki oikeudenkäynnin julkisuudesta yleisissä tuomioistuimissa annetun lain 5 ja 16 §:n muuttamisesta](1159.md) `1159/2013`
+- [Laki kasvinsuojeluaineista annetun lain 32 §:n muuttamisesta](1160.md) `1160/2013`
+- [Laki ulosottokaaren 2 luvun 2 §:n muuttamisesta](1161.md) `1161/2013`
+- [Laki varojen jäädyttämisestä terrorismin torjumiseksi annetun lain 1 §:n muuttamisesta](1162.md) `1162/2013`
+- [Laki valvotusta koevapaudesta annetun lain 7 §:n muuttamisesta](1163.md) `1163/2013`
+- [Laki Poliisiammattikorkeakoulusta](1164.md) `1164/2013`
+- [Laki poliisin hallinnosta annetun lain eräiden säännösten kumoamisesta](1165.md) `1165/2013`
+- [Laki opintotukilain 3 §:n muuttamisesta](1166.md) `1166/2013`
+- [Laki opiskeluun liittyvissä työhön rinnastettavissa olosuhteissa syntyneen vamman tai sairauden korvaamisesta annetun lain 1 §:n muuttamisesta](1167.md) `1167/2013`
+- [Laki poliisilain muuttamisesta](1168.md) `1168/2013`
+- [Laki kilpailulain 37 §:n muuttamisesta](1169.md) `1169/2013`
+- [Laki kuluttajaturvallisuuslain 46 §:n muuttamisesta](1170.md) `1170/2013`
+- [Laki pelastuslain 41 §:n muuttamisesta](1171.md) `1171/2013`
+- [Laki rautatielain 78 §:n muuttamisesta](1172.md) `1172/2013`
+- [Laki uusiutuvilla energialähteillä tuotetun sähkön tuotantotuesta annetun lain 47 §:n muuttamisesta](1173.md) `1173/2013`
+- [Laki rakennusperinnön suojelemisesta annetun lain 18 §:n muuttamisesta](1174.md) `1174/2013`
+- [Laki eläintunnistusjärjestelmästä annetun lain 30 §:n muuttamisesta](1175.md) `1175/2013`
+- [Laki ulkomaalaislain muuttamisesta annetun lain 62 §:n 1 momentin kumoamisesta](1176.md) `1176/2013`
+- [Laki rautatiejärjestelmän liikenneturvallisuustehtävistä annetun lain 48 §:n muuttamisesta](1177.md) `1177/2013`
+- [Laki jätelain 135 §:n muuttamisesta](1178.md) `1178/2013`
+- [Laki biopankkilain 38 §:n muuttamisesta](1179.md) `1179/2013`
+- [Laki Euroopan unionin jäsenvaltioiden lainvalvontaviranomaisten välisen tietojen ja tiedustelutietojen vaihdon yksinkertaistamisesta tehdyn neuvoston puitepäätöksen lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja puitepäätöksen soveltamisesta annetun lain 3 §:n muuttamisesta](1180.md) `1180/2013`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain muuttamisesta](1181.md) `1181/2013`
+- [Laki henkilötietojen käsittelystä rajavartiolaitoksessa annetun lain muuttamisesta](1182.md) `1182/2013`
+- [Laki Euroopan unionin jäsenvaltioiden lainvalvontaviranomaisten välisen tietojen ja tiedustelutietojen vaihdon yksinkertaistamisesta tehdyn neuvoston puitepäätöksen lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja puitepäätöksen soveltamisesta annetun lain muuttamisesta](1183.md) `1183/2013`
+- [Laki arpajaislain muuttamisesta](1184.md) `1184/2013`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä ja selvittämisestä annetun lain muuttamisesta](1185.md) `1185/2013`
+- [Laki Euroopan yhteisön ja Venäjän federaation välillä tehdyn takaisinottoa koskevan sopimuksen toteuttamismenettelyistä Suomen tasavallan hallituksen ja Venäjän federaation hallituksen välillä tehdyn täytäntöönpanopöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain 2 §:n kumoamisesta](1186.md) `1186/2013`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain muuttamisesta annetun lain kumoamisesta](1187.md) `1187/2013`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain muuttamisesta](1188.md) `1188/2013`
+- [Laki totopelien tuottojen käyttämisestä hevoskasvatuksen ja hevosurheilun edistämiseen annetun lain 2 §:n muuttamisesta](1189.md) `1189/2013`
+- [Laki satovahinkojen korvaamisesta annetun lain muuttamisesta](1190.md) `1190/2013`
+- [Laki satovahinkojen korvaamisesta annetun lain kumoamisesta](1191.md) `1191/2013`
+- [Laki poikkeuksellisten tulvien aiheuttamien vahinkojen korvaamisen hallinnoinnista](1192.md) `1192/2013`
+- [Laki vesilain muuttamisesta](1193.md) `1193/2013`
+- [Laki maataloustuotteiden markkinajärjestelystä annetun lain muuttamisesta](1194.md) `1194/2013`
+- [Laki elintarvikelain 2 §:n 3 momentin kumoamisesta](1195.md) `1195/2013`
+- [Laki asumiseen perustuvan sosiaaliturvalainsäädännön soveltamisesta annetun lain muuttamisesta](1196.md) `1196/2013`
+- [Laki sairausvakuutuslain muuttamisesta](1197.md) `1197/2013`
+- [Laki työterveyslaitoksen toiminnasta ja rahoituksesta annetun lain väliaikaisesta muuttamisesta](1198.md) `1198/2013`
+- [Laki työttömyysturvalain muuttamisesta](1199.md) `1199/2013`
+- [Laki lääkelain muuttamisesta](1200.md) `1200/2013`
+- [Laki rajat ylittävästä terveydenhuollosta](1201.md) `1201/2013`
+- [Laki terveydenhuoltolain muuttamisesta](1202.md) `1202/2013`
+- [Laki sairausvakuutuslain muuttamisesta](1203.md) `1203/2013`
+- [Laki sairausvakuutuslain 2 luvun 3 §:n väliaikaisesta muuttamisesta annetun lain muuttamisesta](1204.md) `1204/2013`
+- [Laki sosiaaliturvajärjestelmien yhteensovittamista koskevan Euroopan unionin lainsäädännön soveltamisesta annetun lain muuttamisesta](1205.md) `1205/2013`
+- [Laki Kansaneläkelaitoksesta annetun lain 12 f §:n muuttamisesta](1206.md) `1206/2013`
+- [Laki yrittäjän eläkelain voimaanpanosta annetun lain 29 ja 30 §:n muuttamisesta](1207.md) `1207/2013`
+- [Laki merimieseläkelain 160 §:n muuttamisesta](1208.md) `1208/2013`
+- [Laki työntekijän eläkelain muuttamisesta](1209.md) `1209/2013`
+- [Laki työntekijän eläkelain voimaanpanolain muuttamisesta](1210.md) `1210/2013`
+- [Laki kuluttajansuojalain muuttamisesta](1211.md) `1211/2013`
+- [Laki sähkömarkkinalain 88 §:n muuttamisesta](1212.md) `1212/2013`
+- [Laki vaalilain 2 ja 18 §:n muuttamisesta](1213.md) `1213/2013`
+- [Laki ulkomaalaislain muuttamisesta](1214.md) `1214/2013`
+- [Laki ulkomaalaisrekisteristä annetun lain 6 ja 9 §:n muuttamisesta](1215.md) `1215/2013`
+- [Laki säilöön otettujen ulkomaalaisten kohtelusta ja säilöönottoyksiköstä annetun lain muuttamisesta](1216.md) `1216/2013`
+- [Laki vähemmistövaltuutetusta ja syrjintälautakunnasta annetun lain 2 §:n muuttamisesta](1217.md) `1217/2013`
+- [Laki ulkomaalaislain muuttamisesta](1218.md) `1218/2013`
+- [Laki ulkomaalaisrekisteristä annetun lain 7 §:n muuttamisesta](1219.md) `1219/2013`
+- [Laki aravarajoituslain 4 §:n muuttamisesta](1220.md) `1220/2013`
+- [Laki vuokra\-asuntolainojen ja asumisoikeustalolainojen korkotuesta annetun lain 11 §:n muuttamisesta](1221.md) `1221/2013`
+- [Laki kansanterveyslain 14 §:n muuttamisesta](1222.md) `1222/2013`
+- [Laki erikoissairaanhoitolain 3 §:n muuttamisesta](1223.md) `1223/2013`
+- [Laki lapsilisälain muuttamisesta](1224.md) `1224/2013`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta annetun lain muuttamisesta](1225.md) `1225/2013`
+- [Laki valtion yhteisten tieto\- ja viestintäteknisten palvelujen järjestämisestä](1226.md) `1226/2013`
+- [Laki julkisen hallinnon tietohallinnon ohjauksesta annetun lain 11 §:n ja 13 §:n 3 momentin kumoamisesta](1227.md) `1227/2013`
+- [Laki valtiokonttorista annetun lain 2 §:n 4 momentin kumoamisesta](1228.md) `1228/2013`
+- [Laki rajavartiolaitoksen hallinnosta annetun lain muuttamisesta](1229.md) `1229/2013`
+- [Laki henkilötietojen käsittelystä rajavartiolaitoksessa annetun lain muuttamisesta](1230.md) `1230/2013`
+- [Laki hätäkeskustoiminnasta annetun lain 20 §:n muuttamisesta](1231.md) `1231/2013`
+- [Laki rikoslain 45 luvun 27 §:n muuttamisesta](1232.md) `1232/2013`
+- [Laki yhteistoiminnasta valtion virastoissa ja laitoksissa](1233.md) `1233/2013`
+- [Laki rikoslain 47 luvun 4 §:n muuttamisesta](1234.md) `1234/2013`
+- [Laki tuloverolain 80 §:n muuttamisesta](1235.md) `1235/2013`
+- [Laki julkisesta työvoima\- ja yrityspalvelusta annetun lain 12 luvun 3 §:n muuttamisesta](1236.md) `1236/2013`
+- [Laki tuloverolain muuttamisesta](1237.md) `1237/2013`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](1238.md) `1238/2013`
+- [Laki maatilatalouden tuloverolain 5 §:n muuttamisesta](1239.md) `1239/2013`
+- [Laki rajoitetusti verovelvollisen tulon verottamisesta annetun lain muuttamisesta](1240.md) `1240/2013`
+- [Laki tutkimus\- ja kehittämistoiminnan lisävähennyksestä vuosina 2013—2015 annetun lain muuttamisesta](1241.md) `1241/2013`
+- [Laki tuotannollisten investointien korotetuista poistoista verovuosina 2013—2015 annetun lain muuttamisesta](1242.md) `1242/2013`
+- [Laki opintotukilain muuttamisesta](1243.md) `1243/2013`
+- [Laki lukiokoulutuksen ja ammatillisen koulutuksen opiskelijoiden koulumatkatuesta annetun lain 2 §:n muuttamisesta](1244.md) `1244/2013`
+- [Vuoden 2014 tuloveroasteikkolaki](1245.md) `1245/2013`
+- [Laki tuloverolain muuttamisesta ja väliaikaisesta muuttamisesta](1246.md) `1246/2013`
+- [Laki Verohallinnosta annetun lain väliaikaisesta muuttamisesta](1247.md) `1247/2013`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 6 §:n muuttamisesta](1248.md) `1248/2013`
+- [Laki Maanpuolustuskorkeakoulusta annetun lain 24 §:n kumoamisesta](1249.md) `1249/2013`
+- [Laki elinkeinotulon verottamisesta annetun lain 55 §:n 4 momentin kumoamisesta](1250.md) `1250/2013`
+- [Laki maatilatalouden tuloverolain 10 e §:n 4 momentin kumoamisesta](1251.md) `1251/2013`
+- [Laki ennakkoperintälain 9 §:n 6 momentin kumoamisesta](1252.md) `1252/2013`
+- [Laki verontilityslain muuttamisesta](1253.md) `1253/2013`
+- [Laki tuloverolain 124 ja 124 a §:n muuttamisesta](1254.md) `1254/2013`
+- [Voimalaitosverolaki](1255.md) `1255/2013`
+- [Laki elinkeinotulon verottamisesta annetun lain 16 §:n muuttamisesta](1256.md) `1256/2013`
+- [Laki verotililain 1 §:n muuttamisesta](1257.md) `1257/2013`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](1258.md) `1258/2013`
+- [Laki maatilatalouden tuloverolain muuttamisesta](1259.md) `1259/2013`
+- [Laki tullilain muuttamisesta](1260.md) `1260/2013`
+- [Laki ulkomaalaislain 181 §:n muuttamisesta](1261.md) `1261/2013`
+- [Laki opiskelijavalintarekisteristä, korkeakoulujen valtakunnallisesta tietovarannosta ja ylioppilastutkintorekisteristä annetun lain muuttamisesta](1262.md) `1262/2013`
+- [Laki perusopetuslain muuttamisesta](1263.md) `1263/2013`
+- [Laki lukiolain muuttamisesta](1264.md) `1264/2013`
+- [Laki ammatillisesta koulutuksesta annetun lain muuttamisesta](1265.md) `1265/2013`
+- [Laki ammatillisesta aikuiskoulutuksesta annetun lain 11 §:n muuttamisesta](1266.md) `1266/2013`
+- [Laki perusopetuslain muuttamisesta](1267.md) `1267/2013`
+- [Laki lukiolain muuttamisesta](1268.md) `1268/2013`
+- [Laki ammatillisesta koulutuksesta annetun lain muuttamisesta](1269.md) `1269/2013`
+- [Laki ammatillisesta aikuiskoulutuksesta annetun lain muuttamisesta](1270.md) `1270/2013`
+- [Laki kunnan peruspalveluiden valtionosuudesta annetun lain 41 ja 45 §:n muuttamisesta](1271.md) `1271/2013`
+- [Valtioneuvoston asetus vaarallisten tavaroiden kansainvälisistä tiekuljetuksista tehdyn eurooppalaisen sopimuksen \(ADR\) A liitteen 1\.5\.1 kohdan mukaisten monenkeskisten sopimusten M262, M263 ja M266 voimaansaattamisesta](1272.md) `1272/2013`
+- [Valtioneuvoston asetus joukkoliikenteen valtionavustuksista](1273.md) `1273/2013`
+- [Valtioneuvoston asetus tutkimus\-, kehittämis\- ja innovaatiotoiminnan rahoituksesta annetun valtioneuvoston asetuksen muuttamisesta](1274.md) `1274/2013`
+- [Valtioneuvoston asetus kotoutumisen edistämiseen liittyvien kunnan kustannusten korvaamisesta valtion varoista annetun valtioneuvoston asetuksen 1 §:n väliaikaisesta muuttamisesta](1275.md) `1275/2013`
+- [Valtioneuvoston asetus työttömyysturvalain täytäntöönpanosta annetun valtioneuvoston asetuksen 1 ja 4 §:n muuttamisesta](1276.md) `1276/2013`
+- [Valtioneuvoston asetus työttömyysetuutta määrättäessä huomioon otettavasta tulosta annetun valtioneuvoston asetuksen muuttamisesta](1277.md) `1277/2013`
+- [Valtioneuvoston asetus kunnan peruspalvelujen valtionosuudesta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](1278.md) `1278/2013`
+- [Maanmittauslaitoksen työjärjestys](1279.md) `1279/2013`
+- [Ulkoasiainministeriön asetus ulkoasiainministeriön työjärjestyksen muuttamisesta](1280.md) `1280/2013`
+- [Sisäministeriön asetus rajavartiolaitoksen virkamiesten koulutuskustannusten korvaamisesta annetun sisäasiainministeriön asetuksen 3 §:n muuttamisesta](1281.md) `1281/2013`
+- [Sisäministeriön asetus rajavartiolaitoksen virkapuvusta ja rajavartiomiehen tunnuksesta annetun sisäasiainministeriön asetuksen 2 ja 8 §:n muuttamisesta](1282.md) `1282/2013`
+- [Valtiovarainministeriön päätös valtion yhteisiä perustietotekniikka\- ja tietojärjestelmäpalveluja tuottavan palvelukeskuksen toimipaikkojen sijainnista](1283.md) `1283/2013`
+- [Valtiovarainministeriön asetus ulkomaisten väliyhteisöjen osakkaiden verotuksesta annetun lain 2 §:n 5 momentissa tarkoitetuista valtioista](1284.md) `1284/2013`
+- [Sosiaali\- ja terveysministeriön asetus tapaturmavakuutuslain 18 e §:n 3 momentin mukaisen haittarahan kertakorvauksen perusteista](1285.md) `1285/2013`
+- [Sosiaali\- ja terveysministeriön asetus tapaturmavakuutuslain 18 e §:n 5 momentin mukaisen haittarahan kertakorvauksen perusteista](1286.md) `1286/2013`
+- [Oppilas\- ja opiskelijahuoltolaki](1287.md) `1287/2013`
+- [Laki perusopetuslain muuttamisesta](1288.md) `1288/2013`
+- [Laki lukiolain muuttamisesta](1289.md) `1289/2013`
+- [Laki ammatillisesta koulutuksesta annetun lain muuttamisesta](1290.md) `1290/2013`
+- [Laki ammatillisesta aikuiskoulutuksesta annetun lain muuttamisesta](1291.md) `1291/2013`
+- [Laki lastensuojelulain 9 ja 12 §:n muuttamisesta](1292.md) `1292/2013`
+- [Laki terveydenhuoltolain 16 ja 17 §:n muuttamisesta](1293.md) `1293/2013`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain muuttamisesta](1294.md) `1294/2013`
+- [Laki Kansallisesta koulutuksen arviointikeskuksesta](1295.md) `1295/2013`
+- [Laki perusopetuslain 21 §:n muuttamisesta](1296.md) `1296/2013`
+- [Laki lukiolain 16 §:n muuttamisesta](1297.md) `1297/2013`
+- [Laki ammatillisesta koulutuksesta annetun lain 24 §:n muuttamisesta](1298.md) `1298/2013`
+- [Laki ammatillisesta aikuiskoulutuksesta annetun lain 15 §:n muuttamisesta](1299.md) `1299/2013`
+- [Laki vapaasta sivistystyöstä annetun lain 7 §:n muuttamisesta](1300.md) `1300/2013`
+- [Laki taiteen perusopetuksesta annetun lain 7 §:n muuttamisesta](1301.md) `1301/2013`
+- [Laki yliopistolain 87 §:n muuttamisesta](1302.md) `1302/2013`
+- [Laki ammattikorkeakoululain 9 §:n muuttamisesta](1303.md) `1303/2013`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain väliaikaisesta muuttamisesta](1304.md) `1304/2013`
+- [Laki Suomen Teollisuussijoitus Oy \-nimisestä valtionyhtiöstä annetun lain muuttamisesta](1305.md) `1305/2013`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskoroista](1306.md) `1306/2013`
+- [Valtioneuvoston asetus opetus\- ja kulttuuriministeriöstä annetun valtioneuvoston asetuksen 2 ja 6 §:n muuttamisesta](1307.md) `1307/2013`
+- [Valtioneuvoston asetus metsien kestävästä hoidosta ja käytöstä](1308.md) `1308/2013`
+- [Valtioneuvoston asetus puutavaran poiskuljettamista koskevasta aluejaosta](1309.md) `1309/2013`
+- [Valtioneuvoston asetus kaupanvahvistajista annetun valtioneuvoston asetuksen muuttamisesta](1310.md) `1310/2013`
+- [Valtioneuvoston asetus kiinteistönmuodostamisesta annetun asetuksen muuttamisesta](1311.md) `1311/2013`
+- [Valtioneuvoston asetus metsänhoitoyhdistyksistä annetun asetuksen 11 §:n kumoamisesta](1312.md) `1312/2013`
+- [Valtioneuvoston asetus valtion varoista korvattavista merimiesten matkakustannuksista](1313.md) `1313/2013`
+- [Valtioneuvoston asetus rajavartiolaitoksesta annetun valtioneuvoston asetuksen muuttamisesta](1314.md) `1314/2013`
+- [Valtioneuvoston asetus maatalousyrittäjien opintorahasta annetun valtioneuvoston asetuksen muuttamisesta](1315.md) `1315/2013`
+- [Valtioneuvoston asetus ennakkoperintäasetuksen 15 §:n muuttamisesta](1316.md) `1316/2013`
+- [Valtioneuvoston asetus Kansallisesta koulutuksen arviointikeskuksesta](1317.md) `1317/2013`
+- [Sosiaali\- ja terveysministeriön asetus Sosiaali\- ja terveysalan lupa\- ja valvontaviraston maksullisista suoritteista](1318.md) `1318/2013`
+- [Verohallinnon päätös ilmoittamisvelvollisuudesta ja muistiinpanoista](1319.md) `1319/2013`
+- [Maa\- ja metsätalousministeriön asetus metsänkäyttöilmoituksesta](1320.md) `1320/2013`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden porotalouden ja luontaiselinkeinojen rahoituslain mukaisten asuntolainojen viitekorosta](1321.md) `1321/2013`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden maatilalain mukaisten myyntihintasaamisten ja lainojen viitekorosta](1322.md) `1322/2013`
+- [Sosiaali\- ja terveysministeriön asetus työterveyshuollon erikoislääkärikoulutuksen kustannuksiin valtion varoista vuonna 2014 suoritettavasta määrärahasta](1323.md) `1323/2013`
+- [Sosiaali\- ja terveysministeriön asetus perusteista, joiden mukaan eläkelaitokset vastaavat työntekijän eläkelain 179 §:n 1 momentissa ja merimieseläkelain 159 §:n 1 momentissa tarkoitetuista kuluista, annetun sosiaali\- ja terveysministeriön asetuksen 2 ja 3 §:n muuttamisesta](1324.md) `1324/2013`
+- [Työ\- ja elinkeinoministeriön asetus patentti\- ja rekisterihallituksen maksullisista suoritteista annetun työ\- ja elinkeinoministeriön asetuksen muuttamisesta](1325.md) `1325/2013`
+- [Ympäristöministeriön asetus Metsähallituksen eräiden julkisten hallintotehtävien suoritteiden maksuista](1326.md) `1326/2013`
+- [Verohallinnon päätös vuonna 2014 sovellettavien ennakonpidätysperusteiden voimaantulosta](1327.md) `1327/2013`
+- [Verohallinnon päätös pientyönantajan maksu\- ja ilmoituspalvelujärjestelmässä hoidettavista tehtävistä](1328.md) `1328/2013`
+- [Verohallinnon päätös rakennusmaan verotusarvon laskentaperusteista](1329.md) `1329/2013`
+- [Verohallinnon päätös ennakonpidätyksen toimittamistavoista ja määrästä](1330.md) `1330/2013`
+- [Verohallinnon päätös ennakonpidätysvelvollisuudesta vapauttamisesta](1331.md) `1331/2013`

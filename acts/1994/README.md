@@ -1,0 +1,1602 @@
+# 1994 Statutes
+
+## Statutes
+
+- [Laki Pohjoismaiden välillä eräiden terveyden\- ja sairaanhoidon henkilöstöryhmien sekä eläinlääkäreiden yhteisistä pohjoismaisista työmarkkinoista tehdyn sopimuksen eräiden määräysten hyväksymisestä](1.md) `1/1994`
+- [Asetus Pohjoismaiden välillä eräiden terveyden\- ja sairaanhoidon henkilöstöryhmien sekä eläinlääkäreiden yhteisistä pohjoismaisista työmarkkinoista tehdyn sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](2.md) `2/1994`
+- [Asetus Korean tasavallan kanssa tehdyn yhteistyötä kulttuurin, opetuksen ja tieteen alalla koskevan sopimuksen voimaansaattamisesta](3.md) `3/1994`
+- [Laki kansainvälisestä oikeusavusta rikosasioissa](4.md) `4/1994`
+- [Laki todistelusta ulkomaan viranomaisen edessä rikosasioissa sekä ulkomaan viranomaiselle sellaisissa asioissa annettavasta virka\-avusta annetun lain kumoamisesta](5.md) `5/1994`
+- [Laki rikosasian vastaajan kutsumisesta toisen pohjoismaan tuomioistuimeen annetun lain kumoamisesta](6.md) `6/1994`
+- [Laki keskinäistä oikeusapua rikosasioissa koskevan eurooppalaisen yleissopimuksen eräiden määräysten hyväksymisestä sekä Suomen ja ulkomaan viranomaisen keskinäisestä oikeusavusta rikosasioissa eräissä tapauksissa annetun lain muuttamisesta](7.md) `7/1994`
+- [Laki oikeudenkäymiskaaren muuttamisesta](8.md) `8/1994`
+- [Laki kansainvälisestä yhteistoiminnasta vapausrangaistusten täytäntöönpanossa annetun lain muuttamisesta](9.md) `9/1994`
+- [Laki pakkokeinolain muuttamisesta](10.md) `10/1994`
+- [Laki oikeudenkäyntiin ja esitutkintaan osallistuvien henkilöiden koskemattomuudesta eräissä tapauksissa](11.md) `11/1994`
+- [Laki entisen Jugoslavian alueella tehtyjä rikoksia käsittelevän sotarikostuomioistuimen toimivallasta ja tuomioistuimelle annettavasta oikeusavusta](12.md) `12/1994`
+- [Asetus kansainvälisestä oikeusavusta rikosasioissa](13.md) `13/1994`
+- [Asetus pohjoismaiden keskeisestä oikeusavusta tiedoksiannon toimittamisessa ja todistelussa annetunasetuksen muuttamisesta](14.md) `14/1994`
+- [Asetus kansainvälisestä yhteistoiminnasta vapausrangaistusten täytäntöönpanossa annetun asetuksen muuttamisesta](15.md) `15/1994`
+- [Laki kuluttajansuojalain muuttamisesta](16.md) `16/1994`
+- [Laki kauppalain 58 §:n 2 momentin ja 63 §:n 4 momentin kumoamisesta](17.md) `17/1994`
+- [Laki kuluttaja\-asiamiehestä annetun lain 8 §:n muuttamisesta](18.md) `18/1994`
+- [Laki arvopaperimarkkinalain 7 luvun 1 §:n muuttamisesta](19.md) `19/1994`
+- [Laki kuluttajavalituslautakunnasta annetun lain 1 §:n muuttamisesta](20.md) `20/1994`
+- [Laki kuluttajansuojasta kiinteistönvälityksessä annetun lain 8 §:n muuttamisesta](21.md) `21/1994`
+- [Asetus asuntojen markkinoinnissa annettavista tiedoista annetun asetuksen 1 §:n muuttamisesta](22.md) `22/1994`
+- [Valtioneuvoston päätös puolustusministeriön eräiden virkojen lakkauttamisesta ja sen hallinnonalan erään viran perustamisesta](23.md) `23/1994`
+- [Opetusministeriön päätös arkistolaitoksen suoritteista perittävistä maksuista](24.md) `24/1994`
+- [Laki maaseutuelinkeinolain 59 a §:n muuttamisesta](25.md) `25/1994`
+- [Asetus kotieläintuotannon ohjaamisesta](26.md) `26/1994`
+- [Asetus liikenneministeriöstä annetun asetuksen muuttamisesta](27.md) `27/1994`
+- [Asetus valtion hankinnoista annetun asetuksen muuttamisesta](28.md) `28/1994`
+- [Asetus työvoimapalveluihin liittyvistä etuuksista annetun asetuksen 13 §:n muuttamisesta](29.md) `29/1994`
+- [Valtiovarainministeriön päätös veroilmoituksen antamisajan pidentämisestä](30.md) `30/1994`
+- [Asetus Chilen tasavallan kanssa taloudellisesta, teollisesta ja teknologisesta yhteistyöstä tehdyn perus\- sopimuksen voimaansaattamisesta](31.md) `31/1994`
+- [Asetus valtion virkamiesasetuksen muuttamisesta](32.md) `32/1994`
+- [Asetus Ilmailulaitoksesta annetun asetuksen 10 §:n kumoamisesta](33.md) `33/1994`
+- [Valtioneuvoston päätös vaikeista ja pitkäaikaisista sairauksista ja niiden hoitoon käytettävista lääkkeistä, joista sairausvakuutuslain mukaan korvataan 100 tai 75 prosenttia säädetyn kiinteän omavastuun ylittävältä osalta](34.md) `34/1994`
+- [Valtioneuvoston päätös työmarkkinatuen tarveharkinnassa noudatettavista yleisistä perusteista](35.md) `35/1994`
+- [Sosiaali\- ja terveysministeriön päätös lomautuksen jobdosta maksettavasta ylimääräisestä työttömyysvakuutusmaksusta vuonna 1994 annetun lain soveltamisesta](36.md) `36/1994`
+- [Asetus tilastokeskuksesta annetun asetuksen muuttamisesta](37.md) `37/1994`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](38.md) `38/1994`
+- [Laki tasavallan presidentin palkkiosta](39.md) `39/1994`
+- [Laki tasavallan presidentin eläkeoikeudesta](40.md) `40/1994`
+- [Valtioneuvoston kuulutus tasavallan presidentin vaalin ensimmäisen vaalin tuloksesta](41.md) `41/1994`
+- [Tiedonanto ehdokkaiden keskinäisestä järjestyksestä presidentinvaalin toisessa vaalissa](42.md) `42/1994`
+- [Ulkoasiainministeriön päätös ulkoasiainhallinnon suoritteiden maksullisuudesta ja maksuperusteista annetun ulkoasiainministeriön päätöksen muuttamisesta](43.md) `43/1994`
+- [Suomen Pankin ilmoitus voimassa olevasta Suomen Pankin peruskorkoa vastaavasta korkokannasta](44.md) `44/1994`
+- [Maa\- ja metsätalousministeriön päätös lannoitteista](45.md) `45/1994`
+- [Maa\- ja metsätalousministeriön päätös eräistä lannoitevalmisteista](46.md) `46/1994`
+- [Maa\- ja metsätalousministeriön päätös lannoitevalmisteiden valvonnasta](47.md) `47/1994`
+- [Laki Ukrainan kanssa tehdyn sijoitusten edistämistä ja molemminpuolista suojelua koskevan sopimuksen eräiden määräysten hyväksymisestä](48.md) `48/1994`
+- [Asetus Ukrainan kanssa tehdyn sijoitusten edistämistä ja molemminpuolista suojelua koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](49.md) `49/1994`
+- [Arvonlisäveroasetus](50.md) `50/1994`
+- [Asetus työllisyysasetuksen muuttamisesta](51.md) `51/1994`
+- [Valtioneuvoston päätös kuluttajavalituslautakunnan jaostoissa käsiteltävien asioiden jakoperusteista annetun valtioneuvoston päätöksen muuttamisesta](52.md) `52/1994`
+- [Valtioneuvoston päätös omistusaravalainan myöntämisessä sekä asukkaaksi valitsemisessa sovellettavista perusteista](53.md) `53/1994`
+- [Kauppa\- ja teollisuusministeriön päätös kiellosta käyttää eräitä myrkkyjä käyttö\- ja kulutustarvikkeisiin annetun kauppa\- ja teollisuus\- ministeriön päätöksen kumoamisesta](54.md) `54/1994`
+- [Maa\- ja metsätalousministeriön päätös Ruotsin kanssa vastavuoroisista kalastusoikeuksista Itämerellä tehtyjen sopimusten täytäntöön\- panosta vuonna 1994 annetun päätöksen 2 §:n muuttamisesta](55.md) `55/1994`
+- [Hovioikeuslaki](56.md) `56/1994`
+- [Laki hovioikeudenlaamannien nimittämisestä virkoja ensimmäisen kerran täytettäessä](57.md) `57/1994`
+- [Laki oikeudenkäymiskaaren muuttamisesta](58.md) `58/1994`
+- [Laki muutoksenhausta tuomioistuimen virkaa haettaessa annetun lain 2 §:n muuttamisesta](59.md) `59/1994`
+- [Laki Korkeimmasta oikeudesta annetun lain 14 §:n muuttamisesta](60.md) `60/1994`
+- [Laki käräjäoikeuslain 20 §:n muuttamisesta](61.md) `61/1994`
+- [Tilastolaki](62.md) `62/1994`
+- [Valtioneuvoston päätös oikeusministeriön hallinnonalan eräiden virkojen perustamisesta ja lakkauttamisesta](63.md) `63/1994`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](64.md) `64/1994`
+- [Opintotukilaki](65.md) `65/1994`
+- [Laki asumistukilain 2 ja 15 §:n muuttamisesta](66.md) `66/1994`
+- [Asetus raha\-arpa\- ja veikkauspelien ylijäämän käyttämisestä annetun asetuksen 2 §:n väliaikaisesta muuttamisesta](67.md) `67/1994`
+- [Eduskunnan päätös eduskunnan työjärjestyksen 18 b §:n muuttamisesta](68.md) `68/1994`
+- [Asetus majoitus\- ja ravitsemisliikkeistä annetun asetuksen muuttamisesta](69.md) `69/1994`
+- [Asetus luvanvaraisesta tavaraliikenteestä tiellä annetun asetuksen muuttamisesta](70.md) `70/1994`
+- [Asetus patenttiasetuksen muuttamisesta](71.md) `71/1994`
+- [Asetus vuonna 1994 kertyvien sosiaaliturvamaksujen jakautumasta](72.md) `72/1994`
+- [Kauppa\- ja teollisuusministeriön päätös vientitakuista perittävän maksun perusteista annetun kauppa\- ja teollisuusministeriön päätöksen 8 §:n muuttamisesta](73.md) `73/1994`
+- [Sosiaali\- ja terveysministeriön päätös talousveden laatuvaatimuksista ja valvontatutkimuksista](74.md) `74/1994`
+- [Valtioneuvoston päätös valtionosuuden perusteena olevien opetus\- ja kirjastotoimen yksikköhintojen keskimääräisistä markkamääristä vuonna 1994](75.md) `75/1994`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkelain 7 §:n 7 momentissa tarkoitetun kertoimen vahvistamisesta](76.md) `76/1994`
+- [Valtiovarainministeriön päätös verovuoden 1994 ennakon alarajasta ja kantoeristä annetun valtiovarainministeriön päätöksen 3 ja 4 §:n muuttamisesta](77.md) `77/1994`
+- [Ympäristöministeriön päätös asuinrakennusten ja asuntojen korjaustoimintaan myönnettävien avustusten jakoperusteista](78.md) `78/1994`
+- [Laki arvonlisäveron palautusten takaisinperinnästä kunnilta](79.md) `79/1994`
+- [Asetus Viron kanssa tehdyn lentoliikennesopimuksen voimaansaattamisesta](80.md) `80/1994`
+- [Asetus metsästysasetuksen muuttamisesta](81.md) `81/1994`
+- [Asetus maatalouden markkinointineuvostosta](82.md) `82/1994`
+- [Asetus teknillisestä tarkastuskeskuksesta annetun asetuksen muuttamisesta](83.md) `83/1994`
+- [Valtioneuvoston päätös apteekkimaksusta annetun lain 2 §:n 1 momentissa mainittujen liikevaihtoryhmien sekä liikevaihdon alarajojen kohdilla olevien apteekkimaksun markkamäärien tarkistamisesta](84.md) `84/1994`
+- [Kauppa\- ja teollisuusministeriön päätös majoitus\- ja ravitsemisliikkeiden elinkeinoilmoitukseen liitettävästä selvityksestä annetun kauppa\- ja teollisuusministeriön päätöksen kumoamisesta](85.md) `85/1994`
+- [Valtiovarainministeriön päätös eräiden tilastotietojen salassapitämisestä ennen niiden julkistamista](86.md) `86/1994`
+- [Maa\- ja metsätalousministeriön päätös kotieläintuotannon ohjaamisesta vuonna 1994](87.md) `87/1994`
+- [Sosiaali\- ja terveysministeriön ilmoitus sosiaali\- ja terveysministeriön päätöksestä aktiivisilta implantoitavilta lääkinnällisiltä laitteilta vaadittavista olennaisista vaatimuksista ja laitteiden hyväksymismenettelystä](88.md) `88/1994`
+- [Laki kuntien yhdistymisavustuksista](89.md) `89/1994`
+- [Laki kuntien valtionosuuslain 35 §:n väliaikaisesta muuttamisesta](90.md) `90/1994`
+- [Asetus Thaimaan kanssa tehdyn viisumivapaussopimuksen voimaansaattamisesta](91.md) `91/1994`
+- [Asetus esittävien taiteilijoiden, äänitteiden valmistajien sekä radioyritysten suojaamisesta tehdyn kansainvälisen yleissopimuksen voimaansaattamisesta annetun asetuksen 2 §:n muuttamisesta](92.md) `92/1994`
+- [Asetus Teknillisestä korkeakoulusta annetun asetuksen muuttamisesta](93.md) `93/1994`
+- [Asetus taideteollisen alan korkeakoulututkinnoista annetun asetuksen 3 §:n muuttamisesta](94.md) `94/1994`
+- [Valtioneuvoston päätös kauppa\- ja teollisuusministeriön erään viran lakkauttamisesta ja perustamisesta](95.md) `95/1994`
+- [Valtioneuvoston päätös Osuuskunta EKA\-Yhtymän säästökassaan tehtyjen talletusten lunastamisesta valtiolle](96.md) `96/1994`
+- [Liikenneministeriön päätös postipalveluista](97.md) `97/1994`
+- [Verohallituksen päätös pienimmästä ennakkopalautuksena maksettavasta määrästä](98.md) `98/1994`
+- [Verohallituksen päätös arvonlisäverotusta koskevasta ilmoittamisvelvollisuudesta](99.md) `99/1994`
+- [Verohallituksen päätös ulkomaalaisen elinkeinonharjoittajan arvonlisäveron palautushakemuksessa ilmoitettavista tiedoista ja hakemukseen liitettävistä asiakirjoista](100.md) `100/1994`
+- [Verohallituksen päätös diplomaattisten edustustojen arvonlisäveron palautushakemukseen liitettävistä tiedoista](101.md) `101/1994`
+- [Verohallituksen päätös jälkiverotuksen toimittamatta jättämisestä arvonlisäverotuksessa](102.md) `102/1994`
+- [Laki tieliikennelain 66 ja 67 §:n muuttamisesta](103.md) `103/1994`
+- [Asetus Korean tasavallan kanssa tehdyn viisumivapaussopimuksen muuttamista koskevan sopimuksen voimaansaattamisesta](104.md) `104/1994`
+- [Asetus tasavallan presidentin arkistosta](105.md) `105/1994`
+- [Asetus puolustusministeriöstä annetun asetuksen muuttamisesta](106.md) `106/1994`
+- [Asetus lukioasetuksen muuttamisesta](107.md) `107/1994`
+- [Asetus peruskoulua korvaavasta koulusta ja yksityisestä lukiosta annetun asetuksen 3 §:n muuttamisesta](108.md) `108/1994`
+- [Asetus opetusministeriön hallinnonalan koulutuksen ja korkeakouluissa harjoitettavan tutkimuksen kehittämissuunnitelmasta annetun asetuksen 4 §:n muuttamisesta](109.md) `109/1994`
+- [Opetusministeriön päätös Suomen Islam\-Keskus nimisen uskonnollisen yhdyskunnan hyväksymisestä uskonnollisten yhdyskuntien rekisteriin](110.md) `110/1994`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston ilmoitus eräistä osaston päätöksistä](111.md) `111/1994`
+- [Asetus patentti\- ja rekisterihallituksesta annetun asetuksen muuttamisesta](112.md) `112/1994`
+- [Valtioneuvoston kuulutus tasavallan presidentin vaalin toisen vaalin tuloksesta](113.md) `113/1994`
+- [Sisäasiainministeriön päätös pysäköintivirhemaksun korottamisesta](114.md) `114/1994`
+- [Opetusministeriön päätös Suomen Adventtikirkko nimisen uskonnollisen yhdyskunnan uuden yhdyskuntajärjestyksen hyväksymisestä rekisteriin merkittäväksi](115.md) `115/1994`
+- [Valtiovarainministeriön päätös vuoden 1994 yleisurheilun EM\-kilpailujen johdosta lyötävästä juhlarahasta](116.md) `116/1994`
+- [Ympäristöministeriön päätös avustuksista taloudellisissa vaikeuksissa oleville vuokrataloille](117.md) `117/1994`
+- [Laki Nuuksion kansallispuistosta](118.md) `118/1994`
+- [Asetus Nuuksion kansallispuistosta](119.md) `119/1994`
+- [Asetus Venäjän kanssa yhteistyöstä rikosten torjunnassa tehdyn sopimuksen voimaansaattamisesta](120.md) `120/1994`
+- [Asetus EFTA\-valtioiden ja Tsekin tasavallan välisen sopimuksen liitteiden ja pöytäkirjojen muuttamista koskevien päätösten voimaansaattamisesta](121.md) `121/1994`
+- [Asetus EFTA\-valtioiden ja Slovakian tasavallan välisen sopimuksen liitteiden ja pöytäkirjojen muuttamista koskevien päätösten voimaansaattamisesta](122.md) `122/1994`
+- [Suojauskemikaaliasetus](123.md) `123/1994`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](124.md) `124/1994`
+- [Valtioneuvoston päätös liikenneministeriön erään viran lakkauttamisesta](125.md) `125/1994`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](126.md) `126/1994`
+- [Valtiovarainministeriön päätös vuoden 1994 taidekilpailupalkintojen verovapaudesta annetun valtiovarainministeriön päätöksen 7 §:n muuttamisesta](127.md) `127/1994`
+- [Laki Suomen Hallitusmuodon muuttamisesta](128.md) `128/1994`
+- [Laki valtiopäiväjärjestyksen 33 §:n muuttamisesta](129.md) `129/1994`
+- [Laki verotuslain muuttamisesta](130.md) `130/1994`
+- [Laki ennakkoperintälain muuttamisesta](131.md) `131/1994`
+- [Laki veronkantolain muuttamisesta](132.md) `132/1994`
+- [Laki veron viivästyskorosta ja jäämämaksusta annetun lain muuttamisesta](133.md) `133/1994`
+- [Laki eräille omaisuudenhoitoyhtiöille myönnettävistä veronhuojennuksista](134.md) `134/1994`
+- [Laki eräistä ajoneuvoista suoritettavasta ajoneuvoverosta](135.md) `135/1994`
+- [Laki tulliverolain muuttamisesta](136.md) `136/1994`
+- [Laki polttoaineverosta annetun lain liitteenä olevan verotaulukon muuttamisesta](137.md) `137/1994`
+- [Maa\- ja metsätalousministeriön päätös kesannoimispalkkioista ja vientikustannusmaksun määräämisestä vuonna 1994](138.md) `138/1994`
+- [Asetus Liettuan kanssa tehdyn lentoliikennesopimuksen voimaansaattamisesta](139.md) `139/1994`
+- [Asetus keskinäistä oikeusapua rikosasioissa koskevan eurooppalaisen yleissopimuksen voimaansaattamisesta ja soveltamisesta ja yleissopimuksen eräiden määräysten hyväksymisestä sekä Suomen ja ulkomaan viranomaisen keskinäisestä oikeusavusta rikosasioissa eräissä tapauksissa annetun lain voimaantulosta annetun asetuksen muuttamisesta](140.md) `140/1994`
+- [Asetus Singaporen kanssa tehdyn tekstiilituotteiden kauppaa koskevan sopimuksen voimaansaattamisesta](141.md) `141/1994`
+- [Ulkomaalaisasetus](142.md) `142/1994`
+- [Valtioneuvoston päätös opetus\- ja kirjastotoimen perustamishankkeiden yksikköhinnoista annetun valtioneuvoston päätöksen muuttamisesta](143.md) `143/1994`
+- [Laki EFTA\-valtioiden ja Unkarin tasavallan välillä tehdyn sopimuksen sekä siihen liittyvän Suomen ja Unkarin välillä maataloustuotteiden kaupasta tehdyn pöytäkirjan eräiden määräysten hyväksymisestä](144.md) `144/1994`
+- [Asetus EFTA\-valtioiden ja Unkarin tasavallan välillä tehdyn sopimuksen sekä siihen liittyvän Suomen ja Unkarin välillä maataloustuotteiden kaupasta tehdyn pöytäkirjan voimaansaattamisesta sekä niiden eräiden määräysten hyväksymisestä annetun lain voimaantulosta](145.md) `145/1994`
+- [Asetus elokuvien sekä video\- ja muiden kuvaohjelmien tarkastusmaksujen tarkistamisesta](146.md) `146/1994`
+- [Asetus kauppa\- ja teollisuusministeriöstä annetun asetuksen muuttamisesta](147.md) `147/1994`
+- [Asetus ulkoasiainhallinnosta annetun asetuksen muuttamisesta](148.md) `148/1994`
+- [Asetus maan ulkomaankaupassa sovellettavista määrällisistä rajoituksista annetun asetuksen liitteen muuttamisesta](149.md) `149/1994`
+- [Asetus eläketurvakeskuksen ohjesäännön sisältävän asetuksen muuttamisesta](150.md) `150/1994`
+- [Ympäristöministeriön päätös ympäristönsuojelua edistävien kehittämis\- ja kokeiluavustusten ehdoista](151.md) `151/1994`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä annetun päätöksen muuttamisesta](152.md) `152/1994`
+- [Verohallituksen päätös ennakonpidätyksen toimittamisvelvollisuudesta](153.md) `153/1994`
+- [Asetus vankeinhoitolaitoksesta annetun asetuksen 25 ja 35 §:n muuttamisesta](154.md) `154/1994`
+- [Asetus oikeusministeriöstä annetun asetuksen muuttamisesta](155.md) `155/1994`
+- [Asetus Itämerellä harjoitettavaa kalastusta koskevista säännöistä annetun asetuksen 13 §:n muuttamisesta](156.md) `156/1994`
+- [Tuontimaksuasetus](157.md) `157/1994`
+- [Asetus maidon tuotantokiintiöistä](158.md) `158/1994`
+- [Asetus maatalousyrittäjien luopumiskorvauksesta annetun asetuksen 3 §:n muuttamisesta](159.md) `159/1994`
+- [Asetus sähkölaitosten huolehdittavista sähkölaitteistojen tarkastuksista perittävistä maksuista annetun asetuksen 5 §:n muuttamisesta](160.md) `160/1994`
+- [Asetus sähkölaitteiden hyväksymisestä ja valvonnasta perittävistä maksuista annetun asetuksen 5 §:n muuttamisesta](161.md) `161/1994`
+- [Valtioneuvoston päätös tullitariffin väliaikaisesta muuttamisesta](162.md) `162/1994`
+- [Maa\- ja metsätalousministeriön päätös maatalouden tutkimuskeskuksen suoritteiden maksullisuudesta ja maksuperusteista annetun maa\- ja metsätalousministeriön päätöksen 2 §:n muuttamisesta](163.md) `163/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](164.md) `164/1994`
+- [Pakasteasetus](165.md) `165/1994`
+- [Asetus sähköisen viestinnän varautumisesta annetun asetuksen 2 §:n muuttamisesta](166.md) `166/1994`
+- [Asetus ajokorttiasetuksen muuttamisesta](167.md) `167/1994`
+- [Liikenneministeriön päätös autokouluyrittäjän ja autokoulun opetustoiminnasta vastaavan johtajan koulutuksesta](168.md) `168/1994`
+- [Opetusministeriön päätös opetusministeriön suoritteiden maksullisuudesta](169.md) `169/1994`
+- [Kauppa\- ja teollisuusministeriön päätös kauppa\- ja teollisuusministeriön sekä kauppa\- ja teollisuusministeriön yrityspalvelun piiritoimistojen maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](170.md) `170/1994`
+- [Tullihallituksen päätös EFTA\-valtioiden ja Romanian välisessä kaupassa noudatettavien alkuperäsääntöjen eräiden muutosten soveltamisesta](171.md) `171/1994`
+- [Tullihallituksen päätös EFTA\-valtioiden ja Tsekin tasavallan välisessä kaupassa noudatettavien alkuperäsääntöjen eräiden muutosten soveltamisesta](172.md) `172/1994`
+- [Tullihallituksen päätös EFTA\-valtioiden ja Slovakian tasavallan välisessä kaupassa noudatettavien alkuperäsääntöjen eräiden muutosten soveltamisesta](173.md) `173/1994`
+- [Tullihallituksen päätös EFTA\-valtioiden ja Unkarin välisessä kaupassa noudatettavien alkuperäsääntöjen eräiden muutosten soveltamisesta](174.md) `174/1994`
+- [Asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan III liitteen muutosten voimaansaattamisesta](175.md) `175/1994`
+- [Asetus jätteen ja muun aineen mereen laskemisen aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1972 tehdyn yleissopimuksen I ja II liitteiden muutosten voimaansaattamisesta](176.md) `176/1994`
+- [Asetus vuonna 1949 tehtyjen Geneven yleissopimusten I pöytäkirjan I liitteen muutosten voimaansaattamisesta](177.md) `177/1994`
+- [Opetusministeriön päätös Islam ja Rakkaus nimisen uskonnollisen yhdyskunnan hyväksymisestä uskonnollisten yhdyskuntien rekisteriin](178.md) `178/1994`
+- [Valtiovarainministeriön päätös kuntien ja seurakuntien yhteisövero\-osuuksista](179.md) `179/1994`
+- [Maa\- ja metsätalousministeriön päätös rehuista](180.md) `180/1994`
+- [Maa\- ja metsätalousministeriön päätös rehun lisäaineista](181.md) `181/1994`
+- [Maa\- ja metsätalousministerion päätös rehuseoksista](182.md) `182/1994`
+- [Maa\- ja metsätalousministeriön päätös tietyistä eläinten ruokintaan käytettävistä tuotteista](183.md) `183/1994`
+- [Maa\- ja metsätalousministeriön päätös haitallisista aineista ja eliöistä rehuissa](184.md) `184/1994`
+- [Maa\- ja metsätalousministeriön päätös rehuvalmisteiden valvonnasta](185.md) `185/1994`
+- [Laki lapsen huollosta ja tapaamisoikeudesta annetun lain muuttamisesta](186.md) `186/1994`
+- [Laki ulkomailla annetun elatusapua koskevan päätöksen tunnustamisesta ja täytäntöönpanosta annetun lain 8 §:n muuttamisesta](187.md) `187/1994`
+- [Asetus kansainvälistä tekstiilikauppaa koskevan sopimuksen voimassapitämistä koskevan pöytäkirjan voimaansaattamisesta](188.md) `188/1994`
+- [Valtioneuvoston päätös luonnonmukaista maataloustuotantoa koskevista sopimuksista vuonna 1994](189.md) `189/1994`
+- [Valtioneuvoston päätös vuonna 1994 tehtävistä herneen ja viherheinän tuotantosopimuksista](190.md) `190/1994`
+- [Asetus tasavallan presidentin kanslian kansliasäännöstä annetun asetuksen 2 ja 6 §:n muuttamisesta](191.md) `191/1994`
+- [Asetus tasavallan presidentin kanslian eräistä virkajärjestelyistä](192.md) `192/1994`
+- [Asetus Ruotsin kanssa yhteistyöstä meri\- ja lentopelastuspalvelun alalla tehdyn sopimuksen voimaan\- saattamisesta](193.md) `193/1994`
+- [Asetus Venäjän kanssa yhteistyöstä merenkulun ja ilmailun etsintä\- ja pelastuspalvelun alalla tehdyn sopimuksen voimaansaattamisesta](194.md) `194/1994`
+- [Asetus Viron kanssa tehdyn kalastussopimuksen voimaansaattamisesta](195.md) `195/1994`
+- [Valtioneuvoston päätös työllisyyspoliittisesta rakennetuesta](196.md) `196/1994`
+- [Kauppa\- ja teollisuusministeriön päätös kauppa\- ja teollisuusministeriön yrityspalvelun piiritoimistojen oikeudesta antaa energia\-avustuksia koskevia sitoumuksia](197.md) `197/1994`
+- [Liikenneministeriön päätös luvanvaraisen tavaraliikenteen harjoittajalta vaadittavasta ammattitaidosta ja vakuuksista annetun liikenneministeriön päätöksen muuttamisesta](198.md) `198/1994`
+- [Liikenneministeriön päätös valtionavusta joukkoliikennevälineiden hankintaan ja kehittämiseen vammaisten tarpeita palvelevaksi](199.md) `199/1994`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston ilmoitus eräistä osaston päätöksistä](200.md) `200/1994`
+- [Kotikuntalaki](201.md) `201/1994`
+- [Laki väestötietolain muuttamisesta](202.md) `202/1994`
+- [Asetus korkeakoulututkintojen järjestelmästä](203.md) `203/1994`
+- [Asetus lääkekorvauslautakunnasta annetun asetuksen muuttamisesta](204.md) `204/1994`
+- [Valtioneuvoston päätös vaikeista sairauksista ja niiden hoitoon käytettävistä kliinisistä ravintovalmisteista, joihin suoritetaan sairausvakuutuslain mukaista korvausta](205.md) `205/1994`
+- [Asetus auto\- ja moottoripyöräverosta annetun asetuksen 6 §:n muuttamisesta](206.md) `206/1994`
+- [Valtioneuvoston päätös vuokra\-asuntojen korkotukilainojen yleisistä ehdoista](207.md) `207/1994`
+- [Valtioneuvoston päätös tuontimaksulaissa tarkoitetun etuluettelon muuttamisesta](208.md) `208/1994`
+- [Valtioneuvoston päätös sianlihan vientikustannusmaksun muuttamisesta](209.md) `209/1994`
+- [Sosiaali\- ja terveysministeriön päätös sairausvakuutuslain 9 §:n 2 momentissa tarkoitetusta ostokerrasta](210.md) `210/1994`
+- [Hovioikeusasetus](211.md) `211/1994`
+- [Asetus lääninsyyttäjäasetuksen muuttamisesta](212.md) `212/1994`
+- [Asetus valtioneuvoston oikeuskanslerin ohjesäännön muuttamisesta](213.md) `213/1994`
+- [Asetus esitutkinnasta ja pakkokeinoista annetun asetuksen 7 §:n muuttamisesta](214.md) `214/1994`
+- [Asetus tietojen antamisesta viran tai toimen haltijan syyttämistä koskevista jutuista annetun asetuksen 1 §:n kumoamisesta](215.md) `215/1994`
+- [Asetus puolustushallinnon rakennuslaitoksesta](216.md) `216/1994`
+- [Asetus puolustusvoimista annetun asetuksen muuttamisesta](217.md) `217/1994`
+- [Asetus puolustusministeriöstä](218.md) `218/1994`
+- [Asetus Suomen alueen valvonnasta ja sen alueellisen koskemattomuuden turvaamisesta annetun asetuksen muuttamisesta](219.md) `219/1994`
+- [Laki Neuvostoliiton kanssa Saimaan ja Vuoksen juoksutussäännöstä tehdyn sopimuksen eräiden määräysten hyväksymisestä sekä sopimuksen soveltamisesta annetun lain muuttamisesta](220.md) `220/1994`
+- [Asetus humanistisista ja luonnontieteellisistä tutkinnoista](221.md) `221/1994`
+- [Asetus kansaneläkeasetuksen muuttamisesta](222.md) `222/1994`
+- [Valtioneuvoston päätös eräiden opintotukilaissa \(28/72\) tarkoitettujen määrien vahvistamisesta](223.md) `223/1994`
+- [Valtiovarainministeriön päätös verohallinnon luottamushenkilöiden palkkioista](224.md) `224/1994`
+- [Sosiaali\- ja terveysministeriön päätös yliopistollista sairaalaa ylläpitävien kuntayhtymien erityiskorvauksen perusteista vuonna 1994](225.md) `225/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](226.md) `226/1994`
+- [Laki yhdyskuntapalvelun kokeilemisesta annetun lain muuttamisesta](227.md) `227/1994`
+- [Laki eräiden kiinteistöjen luovuttamisesta Vantaan kaupungille](228.md) `228/1994`
+- [Laki asumistukilain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](229.md) `229/1994`
+- [Asetus opintotukilain 1 §:n 2 momentin voimaanpanosta](230.md) `230/1994`
+- [Asetus eräistä lohen kalastusta koskevista rajoituksista Suomen aluevesillä ja kalastusvyöhykkeellä Itämeren pääaltaalla ja Pohjanlahdella sekä Simojoessa](231.md) `231/1994`
+- [Asetus kalastusasetuksen muuttamisesta](232.md) `232/1994`
+- [Asetus eläinlääkintä\- ja elintarvikelaitoksesta annetun asetuksen muuttamisesta](233.md) `233/1994`
+- [Asetus työministeriöstä](234.md) `234/1994`
+- [Sisäasiainministeriön päätös eräiden tilanosien ja alueiden siirtämisestä Lehtimäen kunnasta Soinin kuntaan](235.md) `235/1994`
+- [Puolustusministeriön päätös vapaaehtoisista harjoituksista](236.md) `236/1994`
+- [Puolustusministeriön päätös asevelvolliselle suoritettavasta päivärahasta annetun puolustusministeriön päätöksen 2 §:n muuttamisesta](237.md) `237/1994`
+- [Laki vanhempainpäiväraha\-ajalta suoritettavien vuosilomakustannusten korvaamisesta työnantajalle](238.md) `238/1994`
+- [Asetus hukkakauran torjunnasta annetun asetuksen muuttamisesta](239.md) `239/1994`
+- [Opetusministeriön päätös valtion elokuvatarkastamon maksullisista suoritteista](240.md) `240/1994`
+- [Työministeriön päätös työhallinnon maksullisista suoritteista](241.md) `241/1994`
+- [Laki maanmittausmaksusta annetun lain muuttamisesta](242.md) `242/1994`
+- [Laki yksityisistä teistä annetun lain muuttamisesta](243.md) `243/1994`
+- [Laki kiinteistörekisterilain muuttamisesta](244.md) `244/1994`
+- [Asetus yhteiskuntatieteellisistä tutkinnoista](245.md) `245/1994`
+- [Asetus farmasian tutkinnoista](246.md) `246/1994`
+- [Valtioneuvoston päätös erityishuoltopiireistä](247.md) `247/1994`
+- [Sisäasiainministeriön päätös erään tilan siirtämisestä Liperin kunnasta Polvijärven kuntaan](248.md) `248/1994`
+- [Sisäasiainministeriön päätös eräiden tilanosien siirtämisestä Närpiön kaupungista Korsnäsin kuntaan](249.md) `249/1994`
+- [Maa\- ja metsätalousministeriön päätös elävän kalan, maidin ja mädin kuljettamisen rajoittamisesta muualta Suomesta Vuoksen vesistöalueen eräälle osa\-alueelle ja eräille muille vesistöalueille](250.md) `250/1994`
+- [Laki tonttien myymisestä Kesko Oy:lle](251.md) `251/1994`
+- [Laki työtuomioistuimesta annetun lain muuttamisesta](252.md) `252/1994`
+- [Laki Valtionrautateistä annetun lain muuttamisesta](253.md) `253/1994`
+- [Asetus poliisin valtakunnallisista pysyvistä atk\-henkilörekistereistä annetun asetuksen 4 §:n muuttamisesta](254.md) `254/1994`
+- [Valtioneuvoston päätös veropiireistä annetun valtioneuvoston päätöksen muuttamisesta](255.md) `255/1994`
+- [Ympäristöministeriön päätös suojauskemikaalien ennakkohyväksymis\- ja ilmoitusmenettelystä](256.md) `256/1994`
+- [Opetusministeriön päätös korkeakoulujen eräistä suoritteista perittävistä maksuista annetun opetusministeriön päätöksen 2 §:n muuttamisesta](257.md) `257/1994`
+- [Laki Talaskankaan luonnonsuojelualueesta](258.md) `258/1994`
+- [Asetus Talaskankaan luonnonsuojelualueesta](259.md) `259/1994`
+- [Opintotukiasetus](260.md) `260/1994`
+- [Valtioneuvoston päätös Suomen alueella olevista suoja\-alueista sekä ulkomaalaisten ja ulkomaisten alusten liikkumisesta ja oleskelusta niillä annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](261.md) `261/1994`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Puumalan ja Ruokolahden kuntien välillä](262.md) `262/1994`
+- [Sisäasiainministeriön päätös rajan määräämisestä eräiltä osin Vehkalahden ja Virolahden kuntien välillä](263.md) `263/1994`
+- [Asetus nuorisoasteen koulutuksen ja ammattikorkeakoulujen kokeiluista annetun asetuksen13 §:n muuttamisesta](264.md) `264/1994`
+- [Asetus Hämeenlinnan ammatillisen opettajakorkeakoulun liikenneopetuskeskuksesta annetun asetuksen muuttamisesta](265.md) `265/1994`
+- [Asetus ajoneuvojen rekisteröinnistä annetun asetuksen muuttamisesta](266.md) `266/1994`
+- [Asetus ajoneuvojen katsastuksesta annetun asetuksen muuttamisesta](267.md) `267/1994`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannuista muutoksista](268.md) `268/1994`
+- [Opetusministeriön päätös Spaso\-Preobraženskaja nimisen uskonnollisen yhdyskunnan hyväksymisestä uskonnollisten yhdyskuntien rekisteriin](269.md) `269/1994`
+- [Valtiovarainministeriön päätös vuoden 1994 kiinteistöveron kantoajoista ja kantoeristä](270.md) `270/1994`
+- [Tullihallituksen päätös Suomen ja Färsaarten välisessä vapaakaupassa noudatettavien alkuperäsääntöjen eräiden muutosten soveltamisesta](271.md) `271/1994`
+- [Asetus opintotuen muutoksenhakulautakunnasta](272.md) `272/1994`
+- [Asetus eräistä poikkeuksista ammatillisia oppilaitoksia koskeviin asetuksiin](273.md) `273/1994`
+- [Asetus Kansainvälisen Itämeren kalastuskomission suositusten mukaisten vuoden 1994 saaliskiintiöiden voimaansaattamisesta](274.md) `274/1994`
+- [Valtioneuvoston päätös opetusministeriön hallinnonalan erään viran lakkauttamisesta](275.md) `275/1994`
+- [Maa\- ja metsätalousministeriön päätös elävän kalan, maidin ja mädin kuljettamisen rajoittamisesta muualta Suomesta Vuoksen vesistöalueen eräälle osa\-alueelle ja eräille muille vesistöalueille annetun maa\- ja metsätalousministeriön päätöksen 2 ja 3 §:n muuttamisesta](276.md) `276/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](277.md) `277/1994`
+- [Laki arvo\-osuusjärjestelmästä annetun lain 10 §:n muuttamisesta](278.md) `278/1994`
+- [Laki tullitariffilain liitteenä olevan tullitariffin väliaikaisesta muuttamisesta](279.md) `279/1994`
+- [Asetus veronkantoasetuksen 3 §:n muuttamisesta](280.md) `280/1994`
+- [Valtioneuvoston päätös kihlakuntien virastotyypistä ja kielellisestä jaotuksesta](281.md) `281/1994`
+- [Valtioneuvoston päätös puhdistamolietteen käytöstä maanviljelyksessä](282.md) `282/1994`
+- [Valtioneuvoston päätös tupakkatuotteista suoritettavasta lisäverosta annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](283.md) `283/1994`
+- [Valtioneuvoston päätös Evon retkeilyalueen perustamisesta](284.md) `284/1994`
+- [Valtioneuvoston päätös arvonlisäveroavustuksen myöntämisperusteista](285.md) `285/1994`
+- [Laki merilain muuttamisesta](286.md) `286/1994`
+- [Asetus maataloustuotteiden markkinajärjestelmästä](287.md) `287/1994`
+- [Asetus maanmittausmaksusta annetun asetuksen muuttamisesta](288.md) `288/1994`
+- [Asetus jakoasetuksen muuttamisesta](289.md) `289/1994`
+- [Maa\- ja metsätalousministeriön päätös maanmittaustoimituksista perittävistä työaikakorvauksista sekä lohkomisista perittävistä pintaalakorvauksista](290.md) `290/1994`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Lumijoen ja Temmeksen kuntien välillä](291.md) `291/1994`
+- [Puolustusministeriön päätös Suomen alueen valvonnasta ja sen alueellisen koskemattomuuden turvaamisesta annetussa asetuksessa tarkoitettujen lupa\-asioiden käsittelemisestä ja ratkaisemisesta](292.md) `292/1994`
+- [Kauppa\- ja teollisuusministeriön päätös yleisestä poikkeuksesta juustoasetuksen 2 §:n säännöksiin](293.md) `293/1994`
+- [Kauppa\- ja teollisuusministeriön päätös ETA\-sopimuksessa tarkoitettujen valtion tukien myöntämistä koskevien päätösten ilmoittamisesta kauppa\- ja teollisuusministeriön yrityspalvelun piiritoimistolle](294.md) `294/1994`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston ilmoitus eräistä osaston päätöksistä](295.md) `295/1994`
+- [Laki hovioikeuslain 7 ja 12 §:n muuttamisesta](296.md) `296/1994`
+- [Asetus ETA:n sekakomitean Euroopan talousalueesta tehdyn sopimuksen pöytäkirjan 37 ja liitteen VII muuttamisesta tekemän päätöksen voimaansaattamisesta](297.md) `297/1994`
+- [Valtioneuvoston päätös hovioikeuksien tuomiopiireistä](298.md) `298/1994`
+- [Valtiovarainministeriön päätös ETA:n sekakomitean 8 päivänä helmikuuta 1994 tekemän päätöksen numero 4/94 voimaansaattamisesta](299.md) `299/1994`
+- [Kauppa\- ja teollisuusministeriön päätös sähköllä toimivien hissien sekä eräiden muiden nosto\- ja siirtolaitteiden turvallisuusvaatimuksista](300.md) `300/1994`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](301.md) `301/1994`
+- [Kauppa\- ja teollisuusministeriön päätös eräiden mittauslaitteita koskevien Euroopan yhteisöjen neuvoston direktiivien voimaansaattamisesta](302.md) `302/1994`
+- [Kauppa\- ja teollisuusministeriön päätös eräiden valmispakkauksia koskevien Euroopan yhteisöjen neuvoston direktiivien voimaansaattamisesta](303.md) `303/1994`
+- [Liikenneministeriön päätös teletoiminnan yhdysliikenteestä annetun liikenneministeriön päätöksen muuttamisesta](304.md) `304/1994`
+- [Laki turvatarkastuksista lentoliikenteessä](305.md) `305/1994`
+- [Ammattitutkintolaki](306.md) `306/1994`
+- [Laki ammatillisista oppilaitoksista annetun lain muuttamisesta](307.md) `307/1994`
+- [Ammattitutkintoasetus](308.md) `308/1994`
+- [Asetus opetusministeriön hallinnonalan koulutuksen ja korkeakouluissa harjoitettavan tutkimuksen kehittämissuunnitelmasta annetun asetuksen 4 §:n muuttamisesta](309.md) `309/1994`
+- [Asetus opetushallituksesta annetun asetuksen 1 ja 4 §:n muuttamisesta](310.md) `310/1994`
+- [Asetus ammatillisesta aikuiskoulutuksesta annetun asetuksen 2 ja 5 §:n muuttamisesta](311.md) `311/1994`
+- [Ajoneuvoveroasetus](312.md) `312/1994`
+- [Valtiovarainministeriön päätös eräiden verojen ja maksujen jälkikannosta](313.md) `313/1994`
+- [Valtiovarainministeriön päätös eräiden verojen maksupaikoista ja tiedonsiirtokorvauksista](314.md) `314/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](315.md) `315/1994`
+- [Laki rikoslain 20 luvun muuttamisesta](316.md) `316/1994`
+- [Laki rikoslain muuttamisesta](317.md) `317/1994`
+- [Laki perintö\- ja lahjaverolain muuttamisesta](318.md) `318/1994`
+- [Laki verotuslain 85 §:n muuttamisesta](319.md) `319/1994`
+- [Laki moottoriajoneuvoverosta annetun lain 31 §:n muuttamisesta](320.md) `320/1994`
+- [Asetus Australian kanssa tehdyn keskinäistä oikeusapua rikosasioissa koskevan sopimuksen voimaansaattamisesta](321.md) `321/1994`
+- [Asetus Liettuan kanssa tehdyn kalastussopimuksen voimaansaattamisesta](322.md) `322/1994`
+- [Asetus Venäjän kanssa tehdyn kalastussopimuksen voimaansaattamisesta](323.md) `323/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](324.md) `324/1994`
+- [Laki Viron kanssa kauppaa ja taloudellista yhteistyötä koskevista väliaikaisista järjestelyistä tehdyn pöytäkirjan muuttamista koskevan sekakomitean päätöksen eräiden määräysten hyväksymisestä](325.md) `325/1994`
+- [Asetus Viron kanssa kauppaa ja taloudellista yhteistyötä koskevista väliaikaisista järjestelyistä tehdyn pöytäkirjan muuttamista koskevan sekakomitean päätöksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](326.md) `326/1994`
+- [Asetus liikuntatieteellisistä tutkinnoista](327.md) `327/1994`
+- [Asetus tieliikenneasetuksen muuttamisesta](328.md) `328/1994`
+- [Laki eräiden valtion ammatillisten oppilaitosten kiinteistöjen luovuttamisesta kunnalle tai kuntayhtymälle](329.md) `329/1994`
+- [Kalahygienialaki](330.md) `330/1994`
+- [Laki maan ulkomaankaupan ja taloudellisen kasvun turvaamisesta annetun lain 3 a §:n muuttamisesta](331.md) `331/1994`
+- [Asetus valtion virastojen aukiolosta](332.md) `332/1994`
+- [Valtioneuvoston päätös ydinvastuulain mukaisen vastuun enimmäismäärästä](333.md) `333/1994`
+- [Oikeusministeriön päätös viittausmenettelystä Euroopan talousyhteisön säädösten täytäntöönpanoa koskevissa säädöksissä annetun oikeusministeriön päätöksen muuttamisesta](334.md) `334/1994`
+- [Sosiaali\- ja terveysministeriön ilmoitus eräistä päätöksistä](335.md) `335/1994`
+- [Laki taidenäyttelyiden valtiontakuusta annetun lain 4 §:n muuttamisesta](336.md) `336/1994`
+- [Asetus äidinmaidonkorvikkeesta ja vierotusvalmisteesta](337.md) `337/1994`
+- [Asetus lastenruoka\-asetuksen muuttamisesta](338.md) `338/1994`
+- [Kauppa\- ja teollisuusministeriön päätös äidinmaidonkorvikkeesta ja vierotusvalmisteesta](339.md) `339/1994`
+- [Kauppa\- ja teollisuusministeriön päätös pakasteasetuksen valvonnasta ja siinä käytettävistä menetelmistä](340.md) `340/1994`
+- [Kauppa\- ja teollisuusministeriön päätös kauppasienistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](341.md) `341/1994`
+- [Asetus hankinnoista, joihin ei sovelleta lakia julkisista hankinnoista](342.md) `342/1994`
+- [Sisäasiainministeriön päätös erään tilan siirtämisestä Kuhmalahden kunnasta Luopioisten kuntaan](343.md) `343/1994`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Toholammin ja Lestijärven kuntien välillä](344.md) `344/1994`
+- [Sisäasiainministeriön päätös eräiden tilojen siirtämisestä Oulun kaupungista Oulunsalon kuntaan](345.md) `345/1994`
+- [Sisäasiainministeriön päätös poliisin suoritteiden maksullisuudesta annetun sisäasiainministeriön päätöksen muuttamisesta](346.md) `346/1994`
+- [Sisäasiainministeriön päätös sisäasiainministeriön maksullisista suoritteista](347.md) `347/1994`
+- [Laki valtion maksuperustelain 1 ja 8 §:n muuttamisesta](348.md) `348/1994`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](349.md) `349/1994`
+- [Asetus Venäjän kanssa tehdyn lentoliikennesopimuksen voimaansaattamisesta](350.md) `350/1994`
+- [Kotikunta\-asetus](351.md) `351/1994`
+- [Asetus väestötietoasetuksen muuttamisesta](352.md) `352/1994`
+- [Asetus eräiden kalastussopimusten täytäntöönpanosta ja soveltamisesta](353.md) `353/1994`
+- [Sisäasiainministeriön päätös kuntien yleisen valtionosuuden tasauskertoimen vahvistamisesta vuosille 1993\-2000 ja sen jälkeiseksi ajaksi uudelleen Uudenkaupungin osalta](354.md) `354/1994`
+- [Kauppa\- ja teollisuusministeriön päätös patentti\- ja rekisterihallituksen maksullisista suoritteista annetun päätöksen muuttamisesta](355.md) `355/1994`
+- [Työministeriön päätös traktoreiden ETY\-tyyppihyväksyntävaatimuksista](356.md) `356/1994`
+- [Valtiovarainministeriön päätös julkishallinnon ja \-talouden tilintarkastajan tutkinnon sisällöstä](357.md) `357/1994`
+- [Laki asevelvollisuuslain muuttamisesta](358.md) `358/1994`
+- [Laki sotilasoikeudenkäyntilain 2 §:n muuttamisesta](359.md) `359/1994`
+- [Sisäasiainministeriön päätös erään tilanosan siirtämisestä Längelmäen kunnasta Kuhmoisten kuntaan](360.md) `360/1994`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](361.md) `361/1994`
+- [Valtioneuvoston päätös viljelijöille maksettavasta maataloustuotteiden markkinajärjestelmästä annetun lain mukaisesta tulotuesta](362.md) `362/1994`
+- [Valtioneuvoston päätös eräiden ympäristölle tai terveydelle vaarallisten aineiden johtamisesta vesiin](363.md) `363/1994`
+- [Valtioneuvoston päätös pohjavesien suojelemisesta eräiden ympäristölle tai terveydelle vaarallisten aineiden aiheuttamalta pilaantumiselta](364.md) `364/1994`
+- [Valtioneuvoston päätös yleisestä viemäristä ja eräiltä teollisuudenaloilta vesiin johdettavien jätevesien sekä teollisuudesta yleiseen viemäriin johdettavien jätevesien käsittelystä](365.md) `365/1994`
+- [Valtioneuvoston päätös juomaveden valmistamiseen tarkoitetun pintaveden laatuvaatimuksista ja tarkkailusta](366.md) `366/1994`
+- [Valtioneuvoston päätös turvetta polttoaineena käyttävien kattiloiden rikkidioksidipäästöjen rajoittamiseksi](367.md) `367/1994`
+- [Valtioneuvoston päätös kattiloiden hiukkaspäästöjen rajoittamisesta](368.md) `368/1994`
+- [Valtiovarainministeriön päätös maahantuonnissa maksettavasta arvonlisäveron palautuksesta ja vähennetyn laskennallisen veron palauttamisesta](369.md) `369/1994`
+- [Puolustusministeriön päätös ohjusteknologian valvontajärjestelyn piiriin kuuluvan laitteiston ja teknologian rinnastamisesta puolustustarvikkeisiin](370.md) `370/1994`
+- [Maa\- ja metsätalousministeriön päätös Viron ja Liettuan kanssa tehtyjen kalastussopimusten täytäntöönpanosta vuonna 1994](371.md) `371/1994`
+- [Ulkoasiainministeriön ilmoitus ministeriön päätöksestä diplomaattipassin, virkapassin ja virkamatkapassin myöntämisperusteista](372.md) `372/1994`
+- [Ulkoasiainministeriön ilmoitus ministeriön päätöksestä viisumin, oleskeluluvan ja työluvan myöntämisperusteista edustustoissa](373.md) `373/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](374.md) `374/1994`
+- [Laki arvonlisäverolain muuttamisesta](375.md) `375/1994`
+- [Laki arvonlisäverolain 59 ja 130 §:n muuttamisesta](376.md) `376/1994`
+- [Laki arvonlisäverolain muuttamisesta](377.md) `377/1994`
+- [Laki Suomen Akatemiasta](378.md) `378/1994`
+- [Laki Kuopion yliopistosta annetun lain muuttamisesta](379.md) `379/1994`
+- [Asetus eräistä terveydenhuollon tutkinnoista annetun asetuksen 1 ja 3 §:n muuttamisesta](380.md) `380/1994`
+- [Valtioneuvoston päätös perintö\- ja lahjaverolain soveltamisesta annetun valtioneuvoston päätöksen kumoamisesta](381.md) `381/1994`
+- [Sisäasiainministeriön päätös rekisterihallinnon suoritteiden maksullisuudesta, maksuperusteista ja julkisoikeudellisista suoritteista perittävistä kiinteistä maksuista annetun sisäasiainministeriön päätöksen muuttamisesta](382.md) `382/1994`
+- [Valtiovarainministeriön päätös verohallinnon maksullisista suoritteista](383.md) `383/1994`
+- [Liikenneministeriön päätös liikenteen ohjauslaitteista annetun liikenneministeriön päätöksen muuttamisesta](384.md) `384/1994`
+- [Laki Valtion Korjaamosta](385.md) `385/1994`
+- [Laki rikoslain 29 luvun 4 §:n muuttamisesta](386.md) `386/1994`
+- [Laki henkilörekisterilain muuttamisesta](387.md) `387/1994`
+- [Laki yleisten asiakirjain julkisuudesta annetun lain 18 a §:n muuttamisesta](388.md) `388/1994`
+- [Laki tietosuojalautakunnasta ja tietosuojavaltuutetusta](389.md) `389/1994`
+- [Laki kuolleeksi julistamisesta annetun lain 7 §:n muuttamisesta](390.md) `390/1994`
+- [Laki avioliittolain 43 ja 45 §:n muuttamisesta](391.md) `391/1994`
+- [Asetus avioliittoasetuksen 14 ja 15 §:n muuttamisesta](392.md) `392/1994`
+- [Asetus tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista annetun asetuksen 3 §:n ja 8 §:n muuttamisesta](393.md) `393/1994`
+- [Asetus sakkorangaistuksen täytäntöönpanosta annetun asetuksen muuttamisesta](394.md) `394/1994`
+- [Asetus poliisin valtakunnallisista pysyvistä atk\-henkilörekistereistä annetun asetuksen 4 §:n 7 kohdan kumoamisesta](395.md) `395/1994`
+- [Asetus puolustustarvikkeiden maastaviennistä ja kauttakuljetuksesta annetun asetuksen 1 §:n muuttamisesta](396.md) `396/1994`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeen kanssa kosketukseen joutuvista muovisista tarvikkeista](397.md) `397/1994`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeen kanssa kosketukseen joutuvien muovisten tarvikkeiden sisältämien ainesosien siirtymisen testaamiseen tarvittavista perussäännöistä](398.md) `398/1994`
+- [Laki kirkkolain muuttamisesta](399.md) `399/1994`
+- [Laki maidon, sianlihan ja viljan vientikustannusmaksusta annetun lain 7 §:n muuttamisesta](400.md) `400/1994`
+- [Laki pellonraivauksen määräaikaisesta rajoittamisesta annetun lain 3 §:n muuttamisesta](401.md) `401/1994`
+- [Asetus eräiden tasavallan presidentin valtioneuvostossa ja valtioneuvoston yleisistunnossaan tekemien, sisäasiainministeriön hallinnonalaan kuuluvien päätösten maksullisuudesta ja maksujen suuruudesta](402.md) `402/1994`
+- [Asetus valtion virkaehtosopimusasetuksen muuttamisesta](403.md) `403/1994`
+- [Asetus metsänparannusasetuksen 8 ja 10 §:n muuttamisesta](404.md) `404/1994`
+- [Asetus Lapin vajaatuottoisten metsien kunnostamisesta annetun asetuksen 2 §:n muuttamisesta](405.md) `405/1994`
+- [Asetus kiinteistörekisteriasetuksen 11 §:n muuttamisesta](406.md) `406/1994`
+- [Asetus Ilmailulaitoksesta annetun asetuksen 5 §:n muuttamisesta](407.md) `407/1994`
+- [Asetus ilmailuasetuksen 98 §:n muuttamisesta](408.md) `408/1994`
+- [Sisäasiainministeriön päätös poliisin suoritteiden maksullisuudesta annetun sisäasiainministeriön päätöksen muuttamisesta](409.md) `409/1994`
+- [Maa\- ja metsätalousministeriön päätös kiinteistörekisteriä ja kiinteistörekisterikarttaa koskevista suoritteista perittävistä maksuista](410.md) `410/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](411.md) `411/1994`
+- [Asetus merentutkimuslaitoksesta](412.md) `412/1994`
+- [Asetus eräiden tavaroiden vientivalvonnasta](413.md) `413/1994`
+- [Valtioneuvoston päätös ammatillisen koulutuksen koulutuspituuksista](414.md) `414/1994`
+- [Valtiovarainministeriön ilmoitus teollisuusetujen myöntämistä koskevasta päätöksestä](415.md) `415/1994`
+- [Laki Viron kanssa keskinäisestä avunannosta tulliasioissa tehdyn sopimuksen eräiden määräysten hyväksymisestä](416.md) `416/1994`
+- [Asetus Viron kanssa keskinäisestä avunannosta tulliasioissa tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](417.md) `417/1994`
+- [Asetus huumausaineiden ja psykotrooppisten aineiden laitonta kauppaa vastaan tehdyn Yhdistyneiden Kansakuntien yleissopimuksen voimaansaattamisesta](418.md) `418/1994`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Haitia koskevaan päätökseen perustuvien velvoitusten täyttämisestä annetun asetuksen muuttamisesta](419.md) `419/1994`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Ruandaa koskevaan päätökseen perustuvien velvoitusten täyttämisestä](420.md) `420/1994`
+- [Liikenneministeriön päätös taksien ja invataksien reittitaksoista](421.md) `421/1994`
+- [Liikenneministeriön päätös taksien ja invataksien kuljetusmaksuista](422.md) `422/1994`
+- [Laki aluevaihdosta valtion ja Helsingin kaupungin välillä](423.md) `423/1994`
+- [Laki eläintautilain muuttamisesta](424.md) `424/1994`
+- [Asetus Suomen ulkomaanedustustojen sijainnista annetun asetuksen muuttamisesta](425.md) `425/1994`
+- [Asetus otsonikerrosta heikentäviä aineita koskevan Montrealin pöytäkirjan muutosten voimaansaattamisesta](426.md) `426/1994`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Etelä\-Afrikkaa koskevaan päätökseen perustuvien velvoitusten täyttämisestä annetun asetuksen kumoamisesta](427.md) `427/1994`
+- [Maa\- ja metsätalousministeriön päätös eräistä Metsähallituksen suoritteista perittävistä maksuista](428.md) `428/1994`
+- [Työministeriön päätös käyttöturvallisuustiedotteesta annetun työministeriön päätöksen liitteen muuttamisesta](429.md) `429/1994`
+- [Kauppa\- ja teollisuusministeriön ilmoitus vientilisensioinnin alaisia tavaroita ja palveluja koskevasta kauppa\- ja teollisuusministeriön päätöksestä](430.md) `430/1994`
+- [Asetus henkilörekisteriasetuksen muuttamisesta](431.md) `431/1994`
+- [Asetus tietosuojalautakunnasta ja tietosuojavaltuutetusta](432.md) `432/1994`
+- [Asetus Laukaan varavankilasta](433.md) `433/1994`
+- [Asetus eräistä järjestelyistä Vanajan koulukodin siirtyessä vankeinhoitolaitokselle](434.md) `434/1994`
+- [Asetus Hämeenlinnan keskusvankilasta annetun asetuksen muuttamisesta](435.md) `435/1994`
+- [Asetus valtion rakennusurakoista](436.md) `436/1994`
+- [Asetus Valtion Korjaamosta](437.md) `437/1994`
+- [Valtioneuvoston päätös raakasokerin tullin väliaikaisesta alentamisesta](438.md) `438/1994`
+- [Aikuislukiolaki](439.md) `439/1994`
+- [Asetus taideteollisen alan yliopistollisista tutkinnoista](440.md) `440/1994`
+- [Asetus kemikaaliasetuksen 25 §:n muuttamisesta](441.md) `441/1994`
+- [Asetus työttömyysturvalain täytäntöönpanosta annetun asetuksen muuttamisesta](442.md) `442/1994`
+- [Oikeusministeriön päätös yleisen asianajajayhdistyksen sääntöjen vahvistamisesta annetun oikeusministeriön päätöksen muuttamisesta](443.md) `443/1994`
+- [Laki teollisten investointien väliaikaisesta investointituesta](444.md) `444/1994`
+- [Laki tuontimaksulain muuttamisesta](445.md) `445/1994`
+- [Laki vähittäiskaupan ja eräiden työliikkeiden liikeajasta annetun lain muuttamisesta](446.md) `446/1994`
+- [Laki kilpailunrajoituksista annetun lain 2 §:n muuttamisesta](447.md) `447/1994`
+- [Laki kilpailunrajoituksista annetun lain muuttamisesta](448.md) `448/1994`
+- [Laki maatalousyrittäjien tapaturmavakuutuslain 14 §:n muuttamisesta](449.md) `449/1994`
+- [Asetus metrologian neuvottelukunnasta](450.md) `450/1994`
+- [Liikenneministeriön päätös sairaankuljetuksen taksoista](451.md) `451/1994`
+- [Liikenneministeriön päätös maanteiden tavara\- ja henkilöliikenteen harjoittajien muodollista kelpoisuutta osoittavien asiakirjojen vastavuoroisesta tunnustamisesta annetun liikenneministeriön päätöksen 2 §:n muuttamisesta](452.md) `452/1994`
+- [Asetus ammattioppilaitoksista annetun asetuksen 22 §:n kumoamisesta](453.md) `453/1994`
+- [Asetus hotelli\- ja ravintolaoppilaitoksista annetun asetuksen 22 §:n kumoamisesta](454.md) `454/1994`
+- [Asetus kauppaoppilaitoksista annetun asetuksen 34 §:n muuttamisesta](455.md) `455/1994`
+- [Asetus koti\- ja laitostalousoppilaitoksista annetun asetuksen 22 ja 35 §:n muuttamisesta](456.md) `456/1994`
+- [Asetus käsi\- ja taideteollisuusoppilaitoksista annetun asetuksen 22 ja 35 §:n muuttamisesta](457.md) `457/1994`
+- [Asetus maatalousalan oppilaitoksista annetun asetuksen 22 §:n kumoamisesta](458.md) `458/1994`
+- [Asetus merenkulkuoppilaitoksista annetun asetuksen muuttamisesta](459.md) `459/1994`
+- [Asetus metsä\- ja puutalousoppilaitoksista annetun asetuksen muuttamisesta](460.md) `460/1994`
+- [Asetus sosiaalialan oppilaitoksista annetun asetuksen 34 §:n muuttamisesta](461.md) `461/1994`
+- [Asetus taide\- ja viestintäkulttuurioppilaitoksista annetun asetuksen 35 §:n muuttamisesta](462.md) `462/1994`
+- [Asetus teknillisistä oppilaitoksista annetun asetuksen muuttamisesta](463.md) `463/1994`
+- [Asetus terveydenhuolto\-oppilaitoksista annetun asetuksen 21 §:n kumoamisesta](464.md) `464/1994`
+- [Valtioneuvoston päätös kananmunien lisähinnasta annetun valtioneuvoston päätöksen 3 a §:n muuttamisesta](465.md) `465/1994`
+- [Maa\- ja metsätalousministeriön päätös rehun lisäaineista annetun päätöksen muuttamisesta](466.md) `466/1994`
+- [Maa\- ja metsätalousministeriön päätös lihaa sisältävän ruokajätteen käytöstä eräiden kotieläinten ruokinnassa](467.md) `467/1994`
+- [Laki  ympäristövaikutusten arviointimenettelystä](468.md) `468/1994`
+- [Laki rakennuslain muuttamisesta](469.md) `469/1994`
+- [Laki vesilain 16 luvun muuttamisesta](470.md) `470/1994`
+- [Laki ympäristölupamenettelylain muuttamisesta](471.md) `471/1994`
+- [Laki kemikaalilain muuttamisesta](472.md) `472/1994`
+- [Laki maa\-aineslain 5 ja 6 §:n muuttamisesta](473.md) `473/1994`
+- [Laki kaivoslain muuttamisesta](474.md) `474/1994`
+- [Laki sähkölain 24 §:n muuttamisesta](475.md) `475/1994`
+- [Laki yleisistä teistä annetun lain muuttamisesta](476.md) `476/1994`
+- [Laki ilmailulain muuttamisesta](477.md) `477/1994`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain 5 §:n muuttamisesta](478.md) `478/1994`
+- [Laki yksityismetsälain muuttamisesta](479.md) `479/1994`
+- [Laki metsänparannuslain 2 §:n muuttamisesta](480.md) `480/1994`
+- [Asetus Kalahygienialain voimaanpanosta](481.md) `481/1994`
+- [Kalahygienia\-asetus](482.md) `482/1994`
+- [Asetus eäiden eläinlajien rauhoittamisesta](483.md) `483/1994`
+- [Asetus eräiden lintulajien rauhoittamisesta annetun asetuksen kumoamisesta](484.md) `484/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](485.md) `485/1994`
+- [Asetus kansanopistojen ja kansalaisopistojen oikeudesta antaa todistuksia peruskoulun ja lukion oppimäärien suorittamisesta](486.md) `486/1994`
+- [Asetus valtionosuutta saavista kansanopistoista annetun asetuksen 8 §:n muuttamisesta](487.md) `487/1994`
+- [Asetus hammaslääketieteellisistä tutkinnoista annetun asetuksen 2 §:n muuttamisesta](488.md) `488/1994`
+- [Asetus eläintautien vastustamisesta eläinten ja eräiden muiden tavaroiden maahantuonnissa ja maastaviennissä](489.md) `489/1994`
+- [Asetus Valtionrautateistä annetun asetuksen 7 ja 8 §:n kumoamisesta](490.md) `490/1994`
+- [Asetus Valtionrautateiden vakinaisen virkamiehen oikeudesta erorahaan ja toistuvaan korvaukseen annetun asetuksen kumoamisesta](491.md) `491/1994`
+- [Valtioneuvoston päätös laaja\-alaisista mukautuksista tehdyn ETA\-sopimuksen pöytäkirjan 1 muuttamista koskevan ETA:n sekakomitean päätöksen N:o 2/94 voimaansaattamisesta](492.md) `492/1994`
+- [Valtioneuvoston päätös turvavarastointiohjelmasta vuonna 1994 annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](493.md) `493/1994`
+- [Sosiaali\- ja terveysministeriön päätös yrittäjien eläkelain 3 §:n ja maatalousyrittäjien eläkelain 4 §:n soveltamisesta](494.md) `494/1994`
+- [Opetusministeriön päätös korkeakoulujen eräistä suoritteista perittävistä maksuista annetun opetusministeriön päätöksen 2 §:n muuttamisesta](495.md) `495/1994`
+- [Laki Hallinnon kehittämiskeskuksesta](496.md) `496/1994`
+- [Asetus vaarallisten aineiden kuljettajien ajoluvasta annetun asetuksen muuttamisesta](497.md) `497/1994`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](498.md) `498/1994`
+- [Asetus TIR\-tullitarkastusvihkoon merkittyjen tavarain kansainvälistä kuljetusta koskevaan tulliyleis\- sopimukseen ja sen liitteeseen 8 tehtyjen muutosten voimaansaattamisesta](499.md) `499/1994`
+- [Asetus sotilas\- ja palvelusarvoista](500.md) `500/1994`
+- [Asetus valtion virkaehtosopimusasetuksen muuttamisesta](501.md) `501/1994`
+- [Asetus jakoasetuksen 210 §:n muuttamisesta](502.md) `502/1994`
+- [Valtioneuvoston päätös metsänparannuslainojen kertasuoritusten alennusperusteista ja kannosta](503.md) `503/1994`
+- [Valtioneuvoston päätös viljan peruslaadusta ja laatuhinnoittelusta](504.md) `504/1994`
+- [Valtioneuvoston päätös maidon ja kananmunien peruslaadusta](505.md) `505/1994`
+- [Laki EFTA\-valtioiden ja Bulgarian tasavallan välillä tehdyn sopimuksen sekä siihen liittyvän Suomen ja Bulgarian välillä maataloustuotteiden kaupasta tehdyn pöytäkirjan eräiden määräysten hyväksymisestä](506.md) `506/1994`
+- [Asetus EFTA\-valtioiden ja Bulgarian tasavallan välillä tehdyn sopimuksen sekä siihen liittyvän Suomen ja Bulgarian välillä maataloustuotteiden kaupasta tehdyn pöytäkirjan voimaansaattamisesta sekä niiden eräiden määräysten hyväksymisestä annetun lain voimaantulosta](507.md) `507/1994`
+- [Asetus kanavamaksuista annetun asetuksen 2 §:n muuttamisesta](508.md) `508/1994`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Mustasaaren ja Maalahden kuntien välillä](509.md) `509/1994`
+- [Työministeriön päätös biologisten tekijöiden luokituksesta](510.md) `510/1994`
+- [Lihahygienialaki](511.md) `511/1994`
+- [Asetus lihahygienialain täytäntöönpanosta](512.md) `512/1994`
+- [Asetus siipikarjan lihan tarkastamisesta](513.md) `513/1994`
+- [Asetus poron lihan tarkastamisesta](514.md) `514/1994`
+- [Asetus riistan ja kanin lihan tarkastamisesta](515.md) `515/1994`
+- [Asetus valtion lihantarkastushenkilökunnasta](516.md) `516/1994`
+- [Munavalmistehygienialaki](517.md) `517/1994`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain 16 a §:n muuttamisesta](518.md) `518/1994`
+- [Laki leimaverolain muuttamisesta](519.md) `519/1994`
+- [Laki tuloverolain 105 ja 143 §:n muuttamisesta](520.md) `520/1994`
+- [Laki eräiden väliaikaisesti maahan tuotujen ajoneuvojen tullittomuudesta annetun lain 1 ja 6 §:n muuttamisesta](521.md) `521/1994`
+- [Laki moottoriajoneuvoverosta annetun lain muuttamisesta](522.md) `522/1994`
+- [Asetus eräiden väliaikaisesti maahan tuotujen ajoneuvojen tullittomuudesta annetun lain 1 ja 6 §:n muuttamisesta annetun lain ja moottoriajoneuvoverosta annetun lain muuttamisesta annetun lain voimaanpanosta](523.md) `523/1994`
+- [Asetus työmarkkinatuesta annetun asetuksen 5 §:n muuttamisesta](524.md) `524/1994`
+- [Kauppa\- ja teollisuusministeriön päätös eräiden elintarvikkeita koskevien Euroopan yhteisöjen direktiivien täytäntöönpanosta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](525.md) `525/1994`
+- [Kauppa\- ja teollisuusministeriön päätös eräiden elintarvikelisäaineita koskevien Euroopan yhteisöjen direktiivien täytäntöönpanosta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](526.md) `526/1994`
+- [Liikenneministeriön päätös valtionavusta joukkoliikennevälineiden hankintaan ja kehittämiseen vammaisten tarpeita palvelevaksi annetun liikenneministeriön päätöksen 3 §:n 3 momentin 1 kohdan sekä 4 §:n 1 momentin 2 kohdan ja 2 momentin muuttamisesta](527.md) `527/1994`
+- [Maa\- ja metsätalousministeriön päätös rehun lisäaineista annetun päätöksen muuttamisesta](528.md) `528/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](529.md) `529/1994`
+- [Laki ETA\-sopimuksen pöytäkirjan 47 ja tiettyjen liitteiden muuttamista koskevan ETA:n sekakomitean päätöksen n:o 7/94 eräiden määräysten hyväksymisestä ja päätöksen soveltamisesta](530.md) `530/1994`
+- [Asetus ETA\-sopimuksen pöytäkirjan 47 ja tiettyjen liitteiden muuttamista koskevan ETA:n sekakomitean päätöksen n:o 7/94 voimaansaattamisesta sekä päätöksen eräiden määräysten hyväksymisestä ja päätöksen soveltamisesta annetun lain voimaantulosta](531.md) `531/1994`
+- [Laki alkoholijuomaverosta](532.md) `532/1994`
+- [Laki lannoiteverosta annetun lain kumoamisesta](533.md) `533/1994`
+- [Valtioneuvoston päätös neljän poliisipiirin uudelleen järjestämisestä](534.md) `534/1994`
+- [Valtioneuvoston päätös kahden poliisipiirin uudelleen järjestämisestä](535.md) `535/1994`
+- [Valtioneuvoston päätös valtionosuutta saavien liikunnan koulutuskeskusten perustamishankkeista](536.md) `536/1994`
+- [Valtioneuvoston päätös yrityksiin sovellettavien kilpailusääntöjen täytäntöönpanosta tehdyn ETA\-sopimuksen pöytäkirjan 21 muuttamista koskevan ETA:n sekakomitean päätöksen N:o 3/94 eräiden määräysten hyväksymisestä](537.md) `537/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](538.md) `538/1994`
+- [Verohallituksen päätös perintö\- ja lahjaverotusta varten annettavista tiedoista](539.md) `539/1994`
+- [Laki kauppakaaren 10 luvun muuttamisesta](540.md) `540/1994`
+- [Laki kuluttajansuojalain 7 ja 11 luvun muuttamisesta](541.md) `541/1994`
+- [Laki kuluttajavalituslautakunnasta annetun lain 1 §:n muuttamisesta](542.md) `542/1994`
+- [Vakuutussopimuslaki](543.md) `543/1994`
+- [Laki korkolain 7 §:n muuttamisesta](544.md) `544/1994`
+- [Laki vakuutusyhtiölain 8 luvun 15 §:n ja 16 luvun 5 §:n muuttamisesta](545.md) `545/1994`
+- [Laki vakuutusyhdistyslain 8 luvun 5 §:n ja 14 luvun 9 §:n muuttamisesta](546.md) `546/1994`
+- [Laki Ahvenanmaan hallintotuomioistuimesta](547.md) `547/1994`
+- [Laki lääninoikeuslain muuttamisesta](548.md) `548/1994`
+- [Laki käräjäoikeuslain 1 ja 2 §:n muuttamisesta](549.md) `549/1994`
+- [Valtioneuvoston päätös eräiden tilojen ja alueiden siirtämisestä Saarijärven kaupungista Karstulan kuntaan](550.md) `550/1994`
+- [Kauppa\- ja teollisuusministeriön päätös vähittäiskaupan ja eräiden työliikkeiden liikeajasta annetun lain mukaisista sunnuntaiaukiolopäivistä](551.md) `551/1994`
+- [Laki yritystuesta annetun lain 7 §:n muuttamisesta](552.md) `552/1994`
+- [Laki vesilain muuttamisesta](553.md) `553/1994`
+- [Asetus vesiasetuksen muuttamisesta](554.md) `554/1994`
+- [Asetus lapsen huollosta ja tapaamisoikeudesta annetun lain muuttamisesta annetun lain voimaantulosta](555.md) `555/1994`
+- [Asetus lapsen huollosta ja tapaamisoikeudesta](556.md) `556/1994`
+- [Asetus luonnonmukaisen maataloustuotannon valvonnasta](557.md) `557/1994`
+- [Asetus kotieläinjalostuslain, eräiden kotieläinten maahantuonnista annetun lain 1 ja 2 §:n muuttamisesta annetun lain ja hevostalouslain voimaantulosta](558.md) `558/1994`
+- [Laki terveydenhuollon ammattihenkilöistä](559.md) `559/1994`
+- [Laki potilaan asemasta ja oikeuksista annetun lain 2 ja 4 §:n muuttamisesta](560.md) `560/1994`
+- [Laki steriloimislain 8 §:n muuttamisesta](561.md) `561/1994`
+- [Laki kotitaloustyöntekijän työsuhteesta annetun lain 2 §:n muuttamisesta](562.md) `562/1994`
+- [Laki yksityisestä terveydenhuollosta annetun lain 2 §:n muuttamisesta](563.md) `563/1994`
+- [Asetus terveydenhuollon ammattihenkilöistä](564.md) `564/1994`
+- [Asetus sairaankuljetuksesta](565.md) `565/1994`
+- [Asetus Euroopan talousaluetta koskevan sopimuksen tarkoittamista palveluhankinnoista](566.md) `566/1994`
+- [Asetus Euroopan talousalueesta tehdyssä sopimuksessa tarkoitetuista vesi\- ja energiahuollon, liikenteen ja teletoiminnan alalla toimivien yksiköiden hankinnoista](567.md) `567/1994`
+- [Asetus Euroopan talousalueesta tehdyssä sopimuksessa tarkoitetuista tavarahankinnoista annetun asetuksen muuttamisesta](568.md) `568/1994`
+- [Ympäristöministeriön päätös virvoitusjuomien ja alkoholijuomien vähittäismyyntipäällysten kierrätysjärjestelmän hyväksymisestä](569.md) `569/1994`
+- [Laki opintotukilain 15 §:n muuttamisesta](570.md) `570/1994`
+- [Laki tieliikennelain muuttamisesta](571.md) `571/1994`
+- [Asetus tieliikennelain muuttamisesta annetun lain voimaantulosta](572.md) `572/1994`
+- [Asetus ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta](573.md) `573/1994`
+- [Laki luvanvaraisesta tavaraliikenteestä tiellä annetun lain muuttamisesta](574.md) `574/1994`
+- [Asetus luvanvaraisesta tavaraliikenteestä tiellä annetun lain muuttamisesta annetun lain voimaantulosta](575.md) `575/1994`
+- [Asetus luvanvaraisesta tavaraliikenteestä tiellä annetun asetuksen muuttamisesta](576.md) `576/1994`
+- [Asetus tieliikenneasetuksen 20 §:n muuttamisesta](577.md) `577/1994`
+- [Laki neuvoa\-antavasta kansanäänestyksestä Suomen liittymisestä Euroopan unionin jäseneksi](578.md) `578/1994`
+- [Laki Euroopan talousalueen valtioiden kansalaisten tutkintotodistusten tunnustamisesta annetun lain muuttamisesta](579.md) `579/1994`
+- [Asetus Euroopan talousalueen valtioiden kansalaisten koulutuksen ja ammatillisen harjoittelun tunnustamisesta](580.md) `580/1994`
+- [Asetus Venäjän kanssa Suomen ja Neuvostoliiton välillä matkustajaliikenteestä Saimaan kanavalla, Suomen tasavallan Sosialististen neuvostotasavaltojen liitolta vuokraamalla alueella Viipuriin asti tai kauttakulkuliikenteestä aavalle merelle tehdyn sopimuksen muuttamista koskevan pöytäkirjan voimaansaattamisesta](581.md) `581/1994`
+- [Asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyvien IBC\- ja IGC\-koodien muutosten voimaansaattamisesta](582.md) `582/1994`
+- [Asetus rikoksen tuottaman hyödyn rahanpesua, etsintää, takavarikkoa ja menetetyksi tuomitsemista koskevan yleissopimuksen voimaansaattamisesta](583.md) `583/1994`
+- [Asetus EFTA\-valtioiden ja Romanian välillä tehdyn sopimuksen liitteiden ja pöytäkirjojen muutoksista ja teknisten virheiden korjauksista tehdyn päätöksen voimaansaattamisesta](584.md) `584/1994`
+- [Tullihallituksen päätös EFTA\-valtioiden ja Bulgarian tasavallan välisessä kaupassa noudatettavien alkuperäsääntöjen eräiden muutosten soveltamisesta](585.md) `585/1994`
+- [Laki työttömyysturvalain 18 §:n muuttamisesta](586.md) `586/1994`
+- [Laki työttömyysturvalain väliaikaisesta muuttamisesta](587.md) `587/1994`
+- [Laki ydinvastuulain muuttamisesta](588.md) `588/1994`
+- [Laki aluksista aiheutuvan vesien pilaantumisen ehkäisemisestä annetun lain 3 §:n muuttamisesta](589.md) `589/1994`
+- [Asetus aluksen miehityksestä ja laivahenkilökunnan pätevyydestä annetun asetuksen 39 ja 53 §:n muuttamisesta](590.md) `590/1994`
+- [Laki huumausainelain muuttamisesta](591.md) `591/1994`
+- [Asetus huumausainelain muuttamisesta annetun lain voimaantulosta](592.md) `592/1994`
+- [Laki patenttilain muuttamisesta](593.md) `593/1994`
+- [Asetus patenttilain muuttamisesta annetun lain voimaansaattamisesta](594.md) `594/1994`
+- [Asetus patenttiasetuksen muuttamisesta](595.md) `595/1994`
+- [Kauppa\- ja teollisuusministeriön päätös patentti\- ja rekisterihallituksen maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](596.md) `596/1994`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös eläintautien leviämisen ehkäisemisestä maahantuonnin yhteydessä annetun maa\- ja metsätalous\- ministeriön eläinlääkintöosaston päätöksen muuttamisesta](597.md) `597/1994`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös eläintautien leviämisen ehkäisemisestä Suomen ja muiden Euroopan talousalueeseen kuuluvien valtioiden välillä tapahtuvan hevosten maahantuonnin ja maastaviennin yhteydessä](598.md) `598/1994`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös eläintautien leviämisen ehkäisemisestä hevosten maahantuonnissa eräistä Euroopan talousalueen ulkopuolisista maista](599.md) `599/1994`
+- [Maa\- ja metsätalousministeriön päätös elintarvikehygieenisen laadun turvaamisesta ja eläintautien leviämisen ehkäisemisestä Suomen ja muiden Euroopan talousalueeseen kuuluvien valtioiden välillä tapahtuvan lihan ja lihatuotteiden maahantuonnin ja maastaviennin yhteydessä](600.md) `600/1994`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös nautojen ja sikojen maastaviennistä Suomesta muihin Euroopan talousalueen valtioihin noudatettavista terveysvaatimuksista](601.md) `601/1994`
+- [Maa\- ja metsätalousministeriön päätös kalastustuotteita sekä niistä tehtyjä valmisteita ja jalosteita koskevan Euroopan yhteisöjen direktiivin täytäntöönpanosta](602.md) `602/1994`
+- [Maa\- ja metsätalousministeriön päätös munavalmisteita koskevan Euroopan yhteisöjen direktiivin täytäntöönpanosta](603.md) `603/1994`
+- [Maa\- ja metsätalousministeriön päätös maitonäytteistä annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](604.md) `604/1994`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös ulkomaan liikenteen ruokajätteiden ja eläintautivaarallisten jätteiden sekä kauttakulkuliikenteen eläintautivaarallisten jätteiden käsittelystä](605.md) `605/1994`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston ilmoitus eräistä osaston päätöksistä](606.md) `606/1994`
+- [Valtioneuvoston päätös oikeusministeriön hallinnonalan eräiden virkojen perustamisesta ja lakkauttamisesta](607.md) `607/1994`
+- [Valtioneuvoston päätös nuorten kesätyötuesta](608.md) `608/1994`
+- [Laki verotuslain 125 ja 126 §:n muuttamisesta](609.md) `609/1994`
+- [Laki ennakkoperintälain 28 ja 49 a §:n muuttamisesta](610.md) `610/1994`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain 14 §:n muuttamisesta](611.md) `611/1994`
+- [Laki perintö\- ja lahjaverolain 53 ja 54 §:n muuttamisesta](612.md) `612/1994`
+- [Laki arvonlisäverolain 210 §:n muuttamisesta](613.md) `613/1994`
+- [Laki auto\- ja moottoripyöräverosta annetun lain 18 §:n muuttamisesta](614.md) `614/1994`
+- [Laki moottoriajoneuvoverosta annetun lain 32 a §:n muuttamisesta](615.md) `615/1994`
+- [Laki leimaverolain 99 §:n muuttamisesta](616.md) `616/1994`
+- [Laki arpajaisverolain 18 §:n muuttamisesta](617.md) `617/1994`
+- [Laki tilauslentoverosta annetun lain 19 §:n muuttamisesta](618.md) `618/1994`
+- [Laki luottoverolain 25 §:n muuttamisesta](619.md) `619/1994`
+- [Laki polttoainemaksusta annetun lain 15 §:n muuttamisesta](620.md) `620/1994`
+- [Laki tulliverolain 26 §:n muuttamisesta](621.md) `621/1994`
+- [Laki valmisteverotuslain 42 §:n muuttamisesta](622.md) `622/1994`
+- [Laki eräiden yleishyödyllisten yhteisöjen veronhuojennuksista annetun lain muuttamisesta](623.md) `623/1994`
+- [Laki tuloverolain 122 §:n muuttamisesta](624.md) `624/1994`
+- [Laki metalli\- ja rakennusteollisuuden edistämiseksi myönnettävistä veronhuojennuksista annetun lain 6 §:n kumoamisesta](625.md) `625/1994`
+- [Valtioneuvoston päätös yhdyskuntajätettä polttavien laitosten aiheuttaman ilman pilaantumisen ehkäisemisestä](626.md) `626/1994`
+- [Asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen muuttamisesta](627.md) `627/1994`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](628.md) `628/1994`
+- [Valtioneuvoston päätös rakennustyön turvallisuudesta](629.md) `629/1994`
+- [Valtioneuvoston päätös kauppa\- ja teollisuusministeriön erään viran lakkauttamisesta](630.md) `630/1994`
+- [Valtioneuvoston päätös peruskoulun tuntijaosta annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](631.md) `631/1994`
+- [Liikenneministeriön päätös liikenneministeriön maksullisista suoritteista](632.md) `632/1994`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös eläintautien leviämisen estämiseksi tehtävistä tuonti\- ja vientitarkastuksista](633.md) `633/1994`
+- [Maa\- ja metsätalousministeriön päätös eläinjätteen käsittelystä](634.md) `634/1994`
+- [Sosiaali\- ja terveysministeriön päätös vaarallisten aineiden luettelosta](635.md) `635/1994`
+- [Sosiaali\- ja terveysministeriön päätös kemikaalien luokitusperusteista ja merkintöjen tekemisestä annetun sosiaali\- ja terveysministeriön päätöksen liitteiden muuttamisesta](636.md) `636/1994`
+- [Laki aluevaihdosta valtion ja Turun kaupungin välillä](637.md) `637/1994`
+- [Laki valtion eläkelain muuttamisesta](638.md) `638/1994`
+- [Laki valtion perhe\-eläkelain 6 §:n muuttamisesta](639.md) `639/1994`
+- [Asetus valtion eläkeneuvottelukunnasta annetun asetuksen 2 §:n muuttamisesta](640.md) `640/1994`
+- [Laki maataloustuotteiden hinnanerokorvauksista annetun lain muuttamisesta](641.md) `641/1994`
+- [Asetus Norjan kanssa Norjan osallistumisesta Inarijärven säännöstelystä aiheutuvien haittojen korvaamiseen tehdyn sopimuksen voimaansaattamisesta](642.md) `642/1994`
+- [Asetus lasten huoltoa koskevien päätösten tunnustamisesta ja täytäntöönpanosta ja lasten palauttamisesta tehdyn eurooppalaisen yleissopimuksen voimaansaattamisesta](643.md) `643/1994`
+- [Asetus kansainvälisestä lapsikaappauksesta tehdyn yksityisoikeuden alaa koskevan yleissopimuksen voimaansaattamisesta](644.md) `644/1994`
+- [Asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan II liitteen muutosten voimaansaattamisesta](645.md) `645/1994`
+- [Asetus EFTA\-valtioiden ja Tsekin tasavallan välisen sopimuksen liitteiden muuttamista koskevien päätösten voimaansaattamisesta](646.md) `646/1994`
+- [Asetus EFTA\-valtioiden ja Slovakian tasavallan välisen sopimuksen liitteiden muuttamista koskevien päätösten voimaansaattamisesta](647.md) `647/1994`
+- [Valtioneuvoston päätös viljan vientikustannusmaksun väliaikaisesta poistamisesta](648.md) `648/1994`
+- [Asetus vankeinhoidon koulutuskeskuksesta annetun asetuksen muuttamisesta](649.md) `649/1994`
+- [Asetus sairausvakuutusasetuksen 8 ja 9 §:n muuttamisesta](650.md) `650/1994`
+- [Asetus huumausaineasetuksen muuttamisesta](651.md) `651/1994`
+- [Sosiaali\- ja terveysministeriön päätös huumausaineita koskevasta kirjanpito\- ja tietojenantovelvollisuudesta sekä huumausaineiden käsittelystä ja hävittämisestä annetun sosiaali\- ja terveysministeriön päätöksen nimikkeen ja 7 §:n muuttamisesta](652.md) `652/1994`
+- [Sosiaali\- ja terveysministeriön päätös lääkelaitoksen maksullisista suoritteista annetun päätöksen muuttamisesta](653.md) `653/1994`
+- [Ulkoasiainministeriön päätös ulkoasiainhallinnon suoritteiden maksullisuudesta ja maksuperusteista](654.md) `654/1994`
+- [Laki rikoslain 23 luvun muuttamisesta](655.md) `655/1994`
+- [Laki liikennevakuutuslain 7 ja 20 §:n muuttamisesta](656.md) `656/1994`
+- [Laki valtiopäiväjärjestyksen 61 §:n kumoamisesta](657.md) `657/1994`
+- [Laki kunnan talouden vakauttamisesta ja kuntaselvityksestä](658.md) `658/1994`
+- [Asetus ilmastonmuutosta koskevan Yhdistyneiden Kansakuntien puitesopimuksen voimaansaattamisesta](659.md) `659/1994`
+- [Aikuislukioasetus](660.md) `660/1994`
+- [Kauppa\- ja teollisuusministeriön päätös kuluttajansuojalain 7 luvun eräiden säännösten soveltamisesta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](661.md) `661/1994`
+- [Laki luvanvaraisesta henkilöliikenteestä tiellä annetun lain muuttamisesta](662.md) `662/1994`
+- [Laki luvanvaraisesta henkilöliikenteestä tiellä annetun lain muuttamisesta](663.md) `663/1994`
+- [Laki Euroopan talousalueesta tehdyn sopimuksen eräiden määräysten hyväksymisestä ja sopimuksen soveltamisesta annetun lain 7 §:n 1 momentin kumoamisesta](664.md) `664/1994`
+- [Asetus luvanvaraisesta henkilöliikenteestä tiellä annetun lain muuttamisesta annetun lain 7 a §:n voimaantulosta](665.md) `665/1994`
+- [Asetus luvanvaraisesta henkilöliikenteestä tiellä](666.md) `666/1994`
+- [Laki lukiolain muuttamisesta](667.md) `667/1994`
+- [Laki yleisistä kielitutkinnoista](668.md) `668/1994`
+- [Asetus yleisistä kielitutkinnoista](669.md) `669/1994`
+- [Asetus opetushallituksesta annetun asetuksen 1 ja 4 §:n muuttamisesta](670.md) `670/1994`
+- [Maitohygienialaki](671.md) `671/1994`
+- [Asetus matiohygienialain voimaanpanosta](672.md) `672/1994`
+- [Sisäasiainministeriön päätös lääninhallituksen suoritteiden maksullisuudesta, maksuperusteista ja julkisoikeudellisista suoritteista perittävistä maksuista annetun sisäasiainministeriön päätöksen muuttamisesta](673.md) `673/1994`
+- [Merilaki](674.md) `674/1994`
+- [Laki merioikeudellisen vastuun vuoksi perustettavasta rajoitusrahastosta ja rajoitusoikeudenkäynnistä annetun lain kumoamisesta](675.md) `675/1994`
+- [Laki aluksista aiheutuvista öljyvahingoista johtuvasta vastuusta annetun lain muuttamisesta](676.md) `676/1994`
+- [Asetus merilain, merioikeudellisen vastuun vuoksi perustettavasta rajoitusrahastosta ja rajoitusoikeudenkäynnistä annetun lain kumoamisesta annetun lain sekä aluksista aiheutuvista öljyvahingoista johtuvasta vastuusta annetun lain muuttamisesta annetun lain voimaanpanosta](677.md) `677/1994`
+- [Valtiovarainministeriön päätös eräiden verojen kantoajoista ja kantoeristä annetun valtiovarainministeriön päätöksen muuttamisesta](678.md) `678/1994`
+- [Liikenneministeriön päätös teleliittymien toimitusehdoista](679.md) `679/1994`
+- [Liikenneministeriön päätös telemaksujen yleisistä perusteista annetun liikenneministeriön päätöksen muuttamisesta](680.md) `680/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](681.md) `681/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](682.md) `682/1994`
+- [Kauppa\- ja teollisuusministeriön päätös eräistä elintarvikkeiden vieraista aineista annetun kauppa\- ja teollisuusministeriön päätöksen ja päätöksen liitteiden muuttamisesta](683.md) `683/1994`
+- [Laki viljakauppalain kumoamisesta](684.md) `684/1994`
+- [Laki kotimaisen viljan menekin edistämisestä annetun lain kumoamisesta](685.md) `685/1994`
+- [Asetus Latvian kanssa tehdyn kalastussopimuksen voimaansaattamisesta](686.md) `686/1994`
+- [Asetus neuvoa\-antavassa kansanäänestyksessä Suomen liittymisestä Euroopan unionin jäseneksi ennakkoäänestyspaikkoina olevista Suomen Posti Oy:n toimipaikoista ja sen tilapäisistä ennakkoäänestyspaikoista sekä Ahvenanmaan postin toimipaikoista](687.md) `687/1994`
+- [Asetus neuvoa\-antavassa kansanäänestyksessä Suomen liittymisestä Euroopan unionin jäseneksi ennakkoäänestyspaikkoina olevista Suomen edustustoista](688.md) `688/1994`
+- [Asetus Eckerön posti\- ja tullitalokiinteistön siirtämisestä Ahvenanmaan maakunnalle](689.md) `689/1994`
+- [Valtioneuvoston päätös kansanedustajien paikkojen jaosta vaalipiirien kesken](690.md) `690/1994`
+- [Laki muutoksenhausta hallintoasioissa annetun lain muuttamisesta](691.md) `691/1994`
+- [Laki Korkeimmasta hallinto\-oikeudesta annetun lain muuttamisesta](692.md) `692/1994`
+- [Laki verotuslain muuttamisesta](693.md) `693/1994`
+- [Laki ennakkoperintälain muuttamisesta](694.md) `694/1994`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain muuttamisesta](695.md) `695/1994`
+- [Laki rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun lain 21 §:n muuttamisesta](696.md) `696/1994`
+- [Laki perintö\- ja lahjaverolain 48 §:n muuttamisesta](697.md) `697/1994`
+- [Laki kiinteistöverolain 27 §:n muuttamisesta](698.md) `698/1994`
+- [Laki liikevaihtovero\-oikeudesta annetun lain kumoamisesta](699.md) `699/1994`
+- [Laki arvonlisäverolain muuttamisesta](700.md) `700/1994`
+- [Laki tullilain muuttamisesta](701.md) `701/1994`
+- [Laki valmisteverotuslain muuttamisesta](702.md) `702/1994`
+- [Laki auto\- ja moottoripyöräverosta annetun lain 20 ja 21 §:n muuttamisesta](703.md) `703/1994`
+- [Laki moottoriajoneuvoverosta annetun lain 32 §:n muuttamisesta](704.md) `704/1994`
+- [Laki polttoainemaksusta annetun lain 14 §:n muuttamisesta](705.md) `705/1994`
+- [Laki leimaverolain 98 b §:n muuttamisesta](706.md) `706/1994`
+- [Laki luottoverolain 22 §:n muuttamisesta](707.md) `707/1994`
+- [Laki tilauslentoverosta annetun lain 17 §:n muuttamisesta](708.md) `708/1994`
+- [Laki arpajaisverolain 16 §:n muuttamisesta](709.md) `709/1994`
+- [Laki rakennusverolain 17 §:n muuttamisesta](710.md) `710/1994`
+- [Laki suhdannetalletuslain 14 §:n muuttamisesta](711.md) `711/1994`
+- [Laki koiraverosta annetun lain 12 §:n muuttamisesta](712.md) `712/1994`
+- [Laki veronkantolain 12 §:n muuttamisesta](713.md) `713/1994`
+- [Laki tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista annetun lain 6 §:n 1 momentin 1 kohdan kumoamisesta](714.md) `714/1994`
+- [Laki teleliikenteen verottamisesta annetun lain 18 §:n muuttamisesta](715.md) `715/1994`
+- [Laki verojen ja maksujen perimisestä ulosottotoimin annetun lain 8 §:n muuttamisesta](716.md) `716/1994`
+- [Laki jäkälän maastaviennistä annetun lain kumoamisesta](717.md) `717/1994`
+- [Kauppa\- ja teollisuusministeriön päätös eräistä kosmeettisten valmisteiden koostumuksen tarkastamisessa käytettävistä analyysimenetelmistä](718.md) `718/1994`
+- [Laki vaarallisten aineiden kuljetuksesta](719.md) `719/1994`
+- [Laki kemikaalilain muuttamisesta](720.md) `720/1994`
+- [Asetus kemikaalilain muuttamisesta annetun lain eräiden säännösten voimaanpanosta](721.md) `721/1994`
+- [Kauppa\- ja teollisuusministeriön päätös patentti\- ja rekisterihallituksen maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](722.md) `722/1994`
+- [Sosiaali\- ja terveysministeriön päätös terveydenhuollon oikeusturvakeskuksen maksullisista suoritteista](723.md) `723/1994`
+- [Ulkoasiainministeriön ilmoitus ministeriön päätöksestä passin myöntämisperusteista edustustoissa](724.md) `724/1994`
+- [Valtioneuvoston päätös opintolainan koron maksamisesta valtion varoista työttömyyden perusteella](725.md) `725/1994`
+- [Valtiovarainministeriön päätös veron ja metsänhoitomaksun kantoajoista ja kantoeristä vuodelta 1993](726.md) `726/1994`
+- [Valtiovarainministeriön päätös tullilaitoksen suoritteiden maksullisuudesta ja maksuperusteista sekä suoritteista perittävistä maksuista annetun valtiovarainministeriön päätöksen muuttamisesta](727.md) `727/1994`
+- [Tullihallituksen päätös Suomen tasavallan ja Euroopan yhteisöjen välisessä kaupassa sovellettavien alkuperäsääntöjen muutoksista](728.md) `728/1994`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](729.md) `729/1994`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](730.md) `730/1994`
+- [Oikeusministeriön päätös vaaliluettelon ja äänestysluettelon oikaisuvaatimuslomakkeen kaavasta](731.md) `731/1994`
+- [Tullihailituksen päätös Euroopan talousalueesta tehdyn sopimuksen sopimuspuolten välisessä kaupassa sovellettavien alkuperäsääntöjen muutoksista](732.md) `732/1994`
+- [Laki perintökaaren 20 luvun muuttamisesta](733.md) `733/1994`
+- [Laki perintökaaren voimaanpanosta annetun lain 9 §:n kumoamisesta](734.md) `734/1994`
+- [Laki arvonlisäverolain 179 §:n muuttamisesta](735.md) `735/1994`
+- [Laki verotuslain 129 ja 132 §:n muuttamisesta](736.md) `736/1994`
+- [Laki  ympäristövahinkojen korvaamisesta](737.md) `737/1994`
+- [Laki eräistä naapuruussuhteista annetun lain muuttamisesta](738.md) `738/1994`
+- [Laki vesilain muuttamisesta](739.md) `739/1994`
+- [Laki puolustusvoimista annetun lain 2 §:n muuttamisesta](740.md) `740/1994`
+- [Asetus puolustusvoimista annetun asetuksen 12 §:n muuttamisesta](741.md) `741/1994`
+- [Asetus eräiden valtioneuvoston yleisistunnossaan tekemien, puolustusministeriön hallinnonalaan kuuluvien päätösten maksullisuudesta ja maksujen suuruudesta](742.md) `742/1994`
+- [Asetus eräistä määräajaksi tai muutoin rajoitetuksi ajaksi täytettävistä viroista annetun asetuksen muuttamisesta](743.md) `743/1994`
+- [Sisäasiainministeriön päätös pysäköintivirhemaksun korottamisesta](744.md) `744/1994`
+- [Opetusministeriön päätös vihkimisoikeuden myöntämisestä Spaso\-Preobrazenskaja \-nimiselle uskonnolliselle yhdyskunnalle](745.md) `745/1994`
+- [Kauppa\- ja teollisuusministeriön päätös  energia\-avustusten ehdoista](746.md) `746/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](747.md) `747/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](748.md) `748/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](749.md) `749/1994`
+- [Valtion virkamieslaki](750.md) `750/1994`
+- [Laki valtion virkaehtosopimuslain muuttamisesta](751.md) `751/1994`
+- [Laki valtion liikelaitoksista annetun lain muuttamisesta](752.md) `752/1994`
+- [Laki Valtionrautateistä annetun lain 10 §:n kumoamisesta](753.md) `753/1994`
+- [Laki Ilmailulaitoksesta annetun lain 10 §:n kumoamisesta](754.md) `754/1994`
+- [Laki  Autorekisterikeskuksesta annetun lain 9 ja 10 §:n kumoamisesta](755.md) `755/1994`
+- [Laki Metsähallituksesta annetun lain 12 §:n kumoamisesta](756.md) `756/1994`
+- [Laki valtion virkaehtosopimuslain 5 §:n muuttamisesta](757.md) `757/1994`
+- [Laki valtion riskipääomatakuista annetun lain muuttamisesta](758.md) `758/1994`
+- [Laki  kuluttajansuojalain 2 luvun muuttamisesta](759.md) `759/1994`
+- [Laki  työntekijäin eläkelain 9 §:n poikkeuksellisesta soveltamisesta vuonna 1995](760.md) `760/1994`
+- [Laki  työntekijäin työeläkemaksun ja työttömyysvakuutusmaksun huomioon ottamisesta eräissä päivärahoissa](761.md) `761/1994`
+- [Laki  kansaneläkelaissa säädettyjen eläkkeiden ja avustusten sitomisesta elinkustannuksiin annetun lain poikkeuksellisesta soveltamisesta vuonna 1995](762.md) `762/1994`
+- [Terveydensuojelulaki](763.md) `763/1994`
+- [Laki ympäristölupamenettelylain 2 §:n muuttamisesta](764.md) `764/1994`
+- [Laki toimenpiteistä tupakoinnin vähentämiseksi annetun lain muuttamisesta](765.md) `765/1994`
+- [Laki markkinatuomioistuimesta annetun lain muuttamisesta](766.md) `766/1994`
+- [Laki rintamaveteraanien kuntoutuksesta annetun lain 5 §:n väliaikaisesta muuttamisesta](767.md) `767/1994`
+- [Laki työsuojelun valvonnasta ja muutoksenhausta työsuojeluasioissa annetun lain 8 ja 10 §:n muuttamisesta](768.md) `768/1994`
+- [Laki rakennuslain muuttamisesta](769.md) `769/1994`
+- [Asetus kansainvälisen meriliikenteen helpottamista koskevan yleissopimuksen liitteen muutosten voimaansaattamisesta](770.md) `770/1994`
+- [Asetus kiinnitysrekisteristä annetun asetuksen muuttamisesta](771.md) `771/1994`
+- [Asetus  kodinkoneeseen liitettävässä energiankulutusmerkinnässä annettavista tiedoista](772.md) `772/1994`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta](773.md) `773/1994`
+- [Asetus ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta](774.md) `774/1994`
+- [Asetus ajoneuvojen katsastuksesta annetun asetuksen 4 ja 49 §:n muuttamisesta](775.md) `775/1994`
+- [Asetus ajoneuvojen rekisteröinnistä annetun asetuksen 2 §:n muuttamisesta](776.md) `776/1994`
+- [Maa\- ja metsätalousministeriön päätös rehun lisäaineista annetun päätöksen muuttamisesta](777.md) `777/1994`
+- [Maa\- ja metsätalousministeriön päätös rehun lisäaineista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](778.md) `778/1994`
+- [Maa\- ja metsätalousministeriön päätös rehuista annetun maa\- ja metsätalousministeriön päätöksen 5 §:n muuttamisesta](779.md) `779/1994`
+- [Laki ihmisen elimien ja kudoksien irrottamisesta lääketieteelliseen käyttöön annetun lain 11 §:n muuttamisesta](780.md) `780/1994`
+- [Laki sairausvakuutuslain 4 a §:n muuttamisesta](781.md) `781/1994`
+- [Laki sairausvakuutuslain muuttamisesta](782.md) `782/1994`
+- [Asetus ulkoasiainhallinnosta annetun asetuksen muuttamisesta](783.md) `783/1994`
+- [Asetus EFTA\-valtioiden ja Puolan tasavallan välillä tehdyn sopimuksen sekä siihen liittyvän Suomen ja Puolan välillä maataloustuotteiden kaupasta tehdyn pöytäkirjan voimaansaattamisesta](784.md) `784/1994`
+- [Asetus Puolan kanssa kaupan esteiden vastavuoroisesta poistamisesta tehdyn sopimuksen muuttamista koskevan kirjeenvaihdon voimaansaattamisesta](785.md) `785/1994`
+- [Asetus korkeimmasta oikeudesta](786.md) `786/1994`
+- [Korkeimman oikeuden työjärjestys](787.md) `787/1994`
+- [Opetusministeriön päätös ammattitutkintolaissa \(306/94\) tarkoitetusta tutkintomaksusta](788.md) `788/1994`
+- [Asetus Teknillisestä korkeakoulusta annetun asetuksen 29 §:n muuttamisesta](789.md) `789/1994`
+- [Asetus  työttömyysturvalain täytäntöönpanosta annetun asetuksen 3 ja 6 §:n muuttamisesta](790.md) `790/1994`
+- [Asetus  työmarkkinatuesta annetun asetuksen 2 §:n muuttamisesta](791.md) `791/1994`
+- [Asetus  ympäristövaikutusten arviointimenettelystä](792.md) `792/1994`
+- [Asetus rakennusasetuksen muuttamisesta](793.md) `793/1994`
+- [Asetus ydinenergia\-asetuksen 24 §:n muuttamisesta](794.md) `794/1994`
+- [Valtioneuvoston päätös opetusministeriön hallinnonalan erään viran perustamisesta](795.md) `795/1994`
+- [Valtioneuvoston päätös  erityishuoltopiireistä](796.md) `796/1994`
+- [Sisäasiainministeriön päätös rekisterihallinnon suoritteiden maksullisuudesta, maksuperusteista ja julkisoikeudellisista suoritteista perittävistä kiinteistä maksuista annetun sisäasiainministeriön päätöksen muuttamisesta](797.md) `797/1994`
+- [Opetusministeriön päätös vihkimisoikeuden myöntämisestä Islam ja Rakkaus \-nimiselle uskonnolliselle yhdyskunnalle](798.md) `798/1994`
+- [Maa\- ja metsätalousministeriön päätös elintarvikehygieenisen laadun turvaamisesta ja eläintautien leviämisen ehkäisemisestä Suomen ja muiden Euroopan talousalueeseen kuuluvien valtioiden välillä tapahtuvan lihan ja lihatuotteiden maahantuonnin ja maastaviennin yhteydessä annetun maa\- ja metsätalousministeriön päätöksen 13 §:n muuttamisesta](799.md) `799/1994`
+- [Kauppa\- ja teollisuusministeriön päätös kosmeettisista valmisteista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](800.md) `800/1994`
+- [Asetus yhteistyöstä Euroopan yhteisöjen komission kanssa elintarvikkeita koskevissa kysymyksissä](801.md) `801/1994`
+- [Asetus turvapaikkalautakunnasta annetun asetuksen muuttamisesta](802.md) `802/1994`
+- [Asetus kauppa\- ja teollisuusministeriön yrityspalvelun piiritoimistoista annetun asetuksen muuttamisesta](803.md) `803/1994`
+- [Asetus  kaasulaiteasetuksen muuttamisesta](804.md) `804/1994`
+- [Asetus  aerosoliasetuksen muuttamisesta](805.md) `805/1994`
+- [Kauppa\- ja teollisuusministeriön päätös yksinkertaisista painesäiliöistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](806.md) `806/1994`
+- [Sosiaali\- ja terveysministeriön päätös imeväisen ja pikkulapsen ruokintaa koskevasta tiedotusaineistosta](807.md) `807/1994`
+- [Sosiaali\- ja terveysministeriön päätös lastenruoan valmistusaineita ja imeväisen erityisvalmisteesta](808.md) `808/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](809.md) `809/1994`
+- [Laki Kemijoen vesistössä olevan koskiomaisuuden luovuttamisesta ja vaihdosta annetun lain kumoamisesta](810.md) `810/1994`
+- [Asetus Venäjän kanssa Suomen ja Venäjän välisen valtakunnanrajan ylityspaikoista tehdyn sopimuksen voimaansaattamisesta](811.md) `811/1994`
+- [Asetus Viron kanssa yhteistyöstä ilmansuojelun alalla tehdyn sopimuksen voimaansaattamisesta](812.md) `812/1994`
+- [Asetus työvoimapoliittisesta aikuiskoulutuksesta annetun asetuksen muuttamisesta](813.md) `813/1994`
+- [Asetus oman asunnon hankintaan myönnettävien lainojen korkotuesta annetun asetuksen 2 §:n muuttamisesta](814.md) `814/1994`
+- [Valtioneuvoston päätös  veropiireistä annetun valtioneuvoston päätöksen muuttamisesta](815.md) `815/1994`
+- [Liikenneministeriön päätös palveluvelvoiteasetuksen täytäntöönpanosta](816.md) `816/1994`
+- [Asetus Iranin kanssa tehdyn kansainvälisiä tiekuljetuksia koskevan sopimuksen voimaansaattamisesta](817.md) `817/1994`
+- [Asetus työllisyysasetuksen muuttamisesta](818.md) `818/1994`
+- [Asetus työvoima\-asiain piiri\- ja paikallishallinnosta annetun asetuksen muuttamisesta](819.md) `819/1994`
+- [Valtioneuvoston päätös myytäväksi toimitetun silakan ja kilohailin vähimmäishinnoista ja tavoitehinnoista](820.md) `820/1994`
+- [Valtioneuvoston päätös vuokra\-asuntojen korkotukilainojen yleisistä ehdoista annetun valtioneuvoston päätöksen 5 §:n muuttamisesta](821.md) `821/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](822.md) `822/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](823.md) `823/1994`
+- [Laki työsopimuslain 34 §:n muuttamisesta](824.md) `824/1994`
+- [Asetus Hallinnon kehittämiskeskuksesta](825.md) `825/1994`
+- [Sosiaali\- ja terveysministeriön päätös sairausvakuutuslain 7 §:ssä tarkoitetun lääkärinpalkkioiden korvaamista koskevan taksan perusteista](826.md) `826/1994`
+- [Sosiaali\- ja terveysministeriön päätös sairausvakuutuslain 8 §:ssä tarkoitetun tutkimuksen ja hoidon korvaamista koskevan taksan perusteista](827.md) `827/1994`
+- [Sosiaali\- ja terveysministeriön päätös hammashoidon korvaamista koskevan taksan perusteista](828.md) `828/1994`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](829.md) `829/1994`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](830.md) `830/1994`
+- [Arkistolaki](831.md) `831/1994`
+- [Asetus arkistolaitoksesta](832.md) `832/1994`
+- [Asetus Helsingin yliopistosta annetun asetuksen muuttamisesta](833.md) `833/1994`
+- [Asetus ajokorttiasetuksen muuttamisesta](834.md) `834/1994`
+- [Asetus eräitä julkisia teollisuusyrityksiä koskevasta tiedonantovelvollisuudesta](835.md) `835/1994`
+- [Valtioneuvoston päätös kahden poliisipiirin uudelleen järjestämisestä](836.md) `836/1994`
+- [Valtioneuvoston päätös neljän poliisipiirin uudelleen järjestämisestä](837.md) `837/1994`
+- [Puolustusministeriön päätös vapaaehtoisen maanpuolustuskoulutuksen tukemisesta](838.md) `838/1994`
+- [Kauppa\- ja teollisuusministeriön päätös  sähkötöiden johtamisesta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](839.md) `839/1994`
+- [Laki ihmisoikeuksien ja perusvapauksien suojaamista koskevan yleissopimuksen yhdeksännen lisäpöytäkirjan eräiden määräysten hyväksymisestä](840.md) `840/1994`
+- [Asetus ihmisoikeuksien ja perusvapauksien suojaamista koskevan yleissopimuksen yhdeksännen lisäpöytäkirjan voimaansaattamisesta sekä lisäpöytäkirjan eräiden määräysten hyväksymisestä annetun lain voimaantulosta](841.md) `841/1994`
+- [Asetus vuoden 1974 kansainväliseen yleissopimukseen ihmishengen turvallisuudesta merellä tehtyjen muutosten voimaansaattamisesta](842.md) `842/1994`
+- [Asuntokauppalaki](843.md) `843/1994`
+- [Laki kuluttajavalituslautakunnasta annetun lain muuttamisesta](844.md) `844/1994`
+- [Laki kuluttajansuojasta kiinteistönvälityksessä annetun lain 15 §:n muuttamisesta](845.md) `845/1994`
+- [Laki työntekijäin eläkelain muuttamisesta](846.md) `846/1994`
+- [Valtioneuvoston päätös työssä käytettävien ajoneuvojen peruutushälyttimestä](847.md) `847/1994`
+- [Valtioneuvoston päätös räjäytys\- ja louhintatyön järjestysohjeista annetun valtioneuvoston päätöksen 67 §:n muuttamisesta](848.md) `848/1994`
+- [Valtioneuvoston päätös ammatillisen aikuiskoulutuskeskuksen toiminta\-avustuksen perusteista annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](849.md) `849/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](850.md) `850/1994`
+- [Laki Liettuan kanssa yhteistyöstä tulliasioissa tehdyn sopimuksen eräiden määräysten hyväksymisestä](851.md) `851/1994`
+- [Asetus Liettuan kanssa yhteistyöstä tulliasioissa tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](852.md) `852/1994`
+- [Laki eräistä poikkeuksista kuntien valtionosuuslain 3 ja 4 §:n säännöksiin vuosina 1994 ja 1995](853.md) `853/1994`
+- [Valtioneuvoston päätös vuokratalolainojen ja asumisoikeustalojen lainojen vuosimaksun tarkistuksen alentamisesta](854.md) `854/1994`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeen kanssa kosketukseen joutuvien tarvikkeiden valmistuksessa käytettävästä, regeneroidusta selluloosasta valmistetusta kalvosta](855.md) `855/1994`
+- [Asetus Suomen Akatemiasta](856.md) `856/1994`
+- [Asetus  yksityisestä terveydenhuollosta annetun asetuksen muuttamisesta](857.md) `857/1994`
+- [Asetus  kuntoutusraha\-asetuksen 3 ja 4 §:n muuttamisesta](858.md) `858/1994`
+- [Asetus kihlakunnanvirastosta](859.md) `859/1994`
+- [Valtioneuvoston päätös kihlakuntajaosta annetun valtioneuvoston päätöksen 5 §:n muuttamisesta](860.md) `860/1994`
+- [Valtioneuvoston päätös kihlakunnista annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](861.md) `861/1994`
+- [Valtioneuvoston päätös kihlakuntien virastotyypistä ja kielellisestä jaotuksesta annetun valtioneuvoston päätöksen 3 §:n muuttamisesta](862.md) `862/1994`
+- [Valtioneuvoston päätös yhteisön ekotuotemerkin myöntämisjärjestelmästä annetussa neuvoston asetuksessa tarkoitetun toimivaltaisen elimen nimeämisestä](863.md) `863/1994`
+- [Ympäristöministeriön päätös eräiden Euroopan yhteisön ekotuotemerkintää koskevien komission päätösten täytäntöönpanosta](864.md) `864/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](865.md) `865/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](866.md) `866/1994`
+- [Laki  Pohjoismaiden Investointipankin palveluksessa olevan henkilön verottamisesta annetun lain muuttamisesta](867.md) `867/1994`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain 2 ja 5 §:n muuttamisesta](868.md) `868/1994`
+- [Asetus vaarallisten tai merta pilaavien aineiden aluskuljetuksiin liittyvistä ilmoitusvelvollisuuksista](869.md) `869/1994`
+- [Asetus luotsausasetuksen 2 a luvun kumoamisesta](870.md) `870/1994`
+- [Asetus Yleisradio Oy:n velvollisuudesta välittää viranomaistiedotuksia](871.md) `871/1994`
+- [Valtioneuvoston päätös valtionosuuden perusteena olevien opetus\- ja kirjastotoimen yksikköhintojen keskimääräisistä markkamääristä vuonna 1995](872.md) `872/1994`
+- [Opetusministeriön päätös aikuislukion tuntijaosta](873.md) `873/1994`
+- [Liikenneministeriön päätös ajoneuvon rakenteen, varusteen tai osan kansainvälisestä hyväksymisestä](874.md) `874/1994`
+- [Maa\- ja metsätalousministeriön päätös eläinjätteen käsittelystä annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](875.md) `875/1994`
+- [Sosiaali\- ja terveysministeriön päätös uusien aineiden ilmoitusmenettelystä annetun sosiaali\- ja terveysministeriön päätöksen muuttamisesta](876.md) `876/1994`
+- [Sosiaali\- ja terveysministeriön päätös kemikaalilain nojalla sosiaali\- ja terveysministeriölle perittävistä maksuista annetun sosiaali\- ja terveysministeriön päätöksen muuttamisesta](877.md) `877/1994`
+- [Laki työntekijäin eläkelain muuttamisesta](878.md) `878/1994`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](879.md) `879/1994`
+- [Laki merimieseläkelain muuttamisesta](880.md) `880/1994`
+- [Laki yrittäjien eläkelain muuttamisesta](881.md) `881/1994`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](882.md) `882/1994`
+- [Laki maatalousyrittäjien sukupolvenvaihdoseläkkeestä annetun lain 43 §:n muuttamisesta](883.md) `883/1994`
+- [Laki maatalousyrittäjien luopumiskorvauksesta annetun lain 37 §:n muuttamisesta](884.md) `884/1994`
+- [Laki luopumiseläkelain 24 §:n muuttamisesta](885.md) `885/1994`
+- [Laki kansaneläkelain muuttamisesta](886.md) `886/1994`
+- [Laki eläkkeensaajien asumistukilain 10 ja 14 §:n muuttamisesta](887.md) `887/1994`
+- [Laki perhe\-eläkelain 37 §:n muuttamisesta](888.md) `888/1994`
+- [Laki rintamasotilaseläkelain 17 §:n muuttamisesta](889.md) `889/1994`
+- [Laki vammaistukilain muuttamisesta](890.md) `890/1994`
+- [Laki lapsen hoitotuesta annetun lain muuttamisesta](891.md) `891/1994`
+- [Laki ulkomaille maksettavasta rintamalisästä annetun lain 10 §:n muuttamisesta](892.md) `892/1994`
+- [Laki tapaturmavakuutuslain muuttamisesta](893.md) `893/1994`
+- [Laki rintamaveteraanien varhaiseläkkeestä annetun lain 12 §:n muuttamisesta](894.md) `894/1994`
+- [Asetus rintamaveteraanien varhaiseläkkeestä annetun asetuksen 11 §: n muuttamisesta](895.md) `895/1994`
+- [Sosiaali\- ja terveysministeriön päätös yliopistollista sairaalaa ylläpitävien kuntayhtymien erityiskorvauksen perusteista vuonna 1994 annetun päätöksen muuttamisesta](896.md) `896/1994`
+- [Laki Oulun yliopistosta annetun lain muuttamisesta](897.md) `897/1994`
+- [Laki Lappeenrannan teknillisestä korkeakoulusta annetun lain muuttamisesta](898.md) `898/1994`
+- [Laki suurilta kana\- ja sikatalousyrityksiltä kannettavista markkinoimismaksuista annetun lain kumoamisesta](899.md) `899/1994`
+- [Asetus polttoaineverosta annetun asetuksen 2 §:n muuttamisesta](900.md) `900/1994`
+- [Asetus Metsäntutkimuslaitoksesta annetun asetuksen muuttamisesta](901.md) `901/1994`
+- [Valtioneuvoston päätös kansanopistojen perustamishankkeista](902.md) `902/1994`
+- [Kauppa\- ja teollisuusministeriön päätös N\-nitrosoamiinien ja N\-nitrosoituvien aineiden vapautumisesta elastomeeristä tai kumista valmistetuista tuttipullon tuteista ja huvituteista](903.md) `903/1994`
+- [Valtiovarainministeriön päätös omistusosuuksien ilmoittamisen ja julkistamisen yhteydessä annettavista tiedoista](904.md) `904/1994`
+- [Valtiovarainministeriön päätös tarjousesitteestä](905.md) `905/1994`
+- [Valtiovarainministeriön päätös arvopaperin ottamista pörssilistalle koskevista vaatimuksista](906.md) `906/1994`
+- [Maa\- ja metsätalousministeriön päätös eläinlääkintä\- ja elintarvikelaitoksen suoritteista perittävistä maksuista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](907.md) `907/1994`
+- [Liikenneministeriön päätös eräiden ulkomailla rekisteröityjen ajoneuvojen vapauttamisesta kuljetusluvista](908.md) `908/1994`
+- [Kauppa\- ja teollisuusministeriön päätös julkisten hankintojen ilmoitusmenettelystä](909.md) `909/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](910.md) `910/1994`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](911.md) `911/1994`
+- [Asetus eräistä väliaikaisista poikkeuksista Yhdistyneiden Kansakuntien turvallisuusneuvoston Jugoslavian liittotasavaltaa koskevaan päätökseen perustuvien velvoitusten täyttämisestä annetun asetuksen soveltamiseen](912.md) `912/1994`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Jugoslavian liittotasavaltaa koskevaan päätökseen perustuvien velvoitusten täyttämisestä annetun asetuksen muuttamisesta](913.md) `913/1994`
+- [Asetus biologista monimuotoisuutta koskevan yleissopimuksen voimaansaattamisesta](914.md) `914/1994`
+- [Asetus EFTA\-valtioiden ja Israelin välillä tehdyn sopimuksen liitteiden ja pöytäkirjojen muutoksista ja teknisten virheiden korjauksista tehtyjen päätösten voimaansaattamisesta](915.md) `915/1994`
+- [Asetus rikosrekisteriasetuksen 1 §:n muuttamisesta](916.md) `916/1994`
+- [Asetus siviilipalvelusasetuksen 6 §:n muuttamisesta](917.md) `917/1994`
+- [Valtioneuvoston päätös  veropiireistä annetun valtioneuvoston päätöksen muuttamisesta](918.md) `918/1994`
+- [Puolustusministeriön päätös puolustusvoimien ajokorteista annetun asetuksen soveltamisesta annetun puolustusministeriön päätöksen muuttamisesta](919.md) `919/1994`
+- [Maa\- ja metsätalousministeriön päätös eräiden lääkeaineiden käytön kieltämisestä eläimille](920.md) `920/1994`
+- [Ilmoitus Suomen liittymisestä Euroopan unionin jäseneksi 16 päivänä lokakuuta 1994 toimitetun neuvoa\-antavan kansanäänestyksen tuloksesta](921.md) `921/1994`
+- [Kauppa\- ja teollisuusministeriön päätös sähkölaitteiden turvallisuudesta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](922.md) `922/1994`
+- [Kauppa\- ja teollisuusministeriön päätös sähkölaitteiden ja \-laitteistojen sähkömagneettisesta yhteensopivuudesta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](923.md) `923/1994`
+- [Valtiovarainministeriön päätös verovuoden 1993 maksuunpanotilityksestä](924.md) `924/1994`
+- [Valtiovarainministeriön päätös verovuoden 1993 verotuksen toimittamisesta ja metsänhoitomaksun määräämisestä](925.md) `925/1994`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Haitia koskevaan päätökseen perustuvien velvoitusten täyttämisestä annetun asetuksen muuttamisesta](926.md) `926/1994`
+- [Asetus valtion talousarviosta annetun asetuksen muuttamisesta](927.md) `927/1994`
+- [Asetus öljysuojarahastosta annetun asetuksen muuttamisesta](928.md) `928/1994`
+- [Valtioneuvoston päätös yhteistyöstä muilla kuin neljän vapauden alaan kuuluvilla erityisalueilla tehdyn ETA\-sopimuksen pöytäkirjan 31 muuttamista koskevan ETA:n sekakomitean päätöksen N:o 8/94 voimaansaattamisesta](929.md) `929/1994`
+- [Työministeriön päätös yhteydenpidosta puunkorjuutöissä](930.md) `930/1994`
+- [Maa\- ja metsätalousministeriön päätös maa\- ja metsätalousministeriön suoritteista perittävistä maksuista annetun maa\- ja metsätalous\- ministeriön päätöksen muuttamisesta](931.md) `931/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](932.md) `932/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](933.md) `933/1994`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös eläintautien leviämisen ehkäisemisestä maahantuonnin yhteydessä annetun maa\- ja metsätalousministeriön eläinlääkintöosaston päätöksen muuttamisesta](934.md) `934/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä osaston päätöksistä](935.md) `935/1994`
+- [Tilintarkastuslaki](936.md) `936/1994`
+- [Laki osakeyhtiölain muuttamisesta](937.md) `937/1994`
+- [Laki asunto\-osakeyhtiölain muuttamisesta](938.md) `938/1994`
+- [Laki osuuskuntalain muuttamisesta](939.md) `939/1994`
+- [Laki avoimesta yhtiöstä ja kommandiittiyhtiöstä annetun lain muuttamisesta](940.md) `940/1994`
+- [Laki yhdistyslain 38 ja 39 §:n muuttamisesta](941.md) `941/1994`
+- [Laki säätiölain 12 ja 12 a §:n muuttamisesta](942.md) `942/1994`
+- [Laki sijoitusrahastolain muuttamisesta](943.md) `943/1994`
+- [Laki arvopaperinvälitysliikkeistä annetun lain 14 §:n muuttamisesta](944.md) `944/1994`
+- [Laki vakuutuskassalain muuttamisesta](945.md) `945/1994`
+- [Laki henkilöstörahastolain muuttamisesta](946.md) `946/1994`
+- [Asetus Lappeenrannan teknillisestä korkeakoulusta](947.md) `947/1994`
+- [Asetus Viron kanssa yhteistyöstä vesiensuojelun alalla tehdyn sopimuksen voimaansaattamisesta](948.md) `948/1994`
+- [Asetus kaikkinaisen rotusyrjinnän poistamista koskevan kansainvälisen yleissopimuksen voimaan\- saattamisesta annetun asetuksen muuttamisesta](949.md) `949/1994`
+- [Valtioneuvoston päätös  työnantajan velvollisuudeksi säädetystä sekä yrittäjän ja muun omaa työtään tekevän työterveyshuollosta](950.md) `950/1994`
+- [Valtioneuvoston päätös  työterveyshuollon, sairaanhoidon ja muun terveydenhuollon kustannusten korvausperusteista](951.md) `951/1994`
+- [Valtioneuvoston päätös maidon kuljetusavustuksista](952.md) `952/1994`
+- [Sosiaali\- ja terveysministeriön päätös pienten yksiköiden talousveden laatuvaatimuksista ja valvontatutkimuksista](953.md) `953/1994`
+- [Valtiovarainministeriön päätös valtiokonttorin maksullisista suoritteista annetun valtiovarainministeriön päätöksen 2 §:n muuttamisesta](954.md) `954/1994`
+- [Laki varallisuusverolain 24 §:n muuttamisesta](955.md) `955/1994`
+- [Laki maatilatalouden tuloverolain 13 §:n muuttamisesta](956.md) `956/1994`
+- [Asetus eräiden konkurssi\- ja yrityssaneerausrekisteriä koskevien lainkohtien voimaantulosta](957.md) `957/1994`
+- [Asetus konkurssi\- ja yrityssaneerausrekisteristä](958.md) `958/1994`
+- [Asetus konkurssiasioista tehtävistä ilmoituksista](959.md) `959/1994`
+- [Asetus alusrekisteriasetuksen 4 §:n kumoamisesta](960.md) `960/1994`
+- [Asetus yrityksen saneerauksesta annetun asetuksen muuttamisesta](961.md) `961/1994`
+- [Asetus erikoishammaslääkärin tutkinnosta annetun asetuksen 1 §:n muuttamisesta](962.md) `962/1994`
+- [Sisäasiainministeriön päätös rekisteritoimistojen virka\-alueista](963.md) `963/1994`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkelain vähimmäisehtojen mukaisen vakuutuksen maksun ja lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain sekä eräiden työsuhteessa olevien taiteilijoiden ja toimittajien eläkelain mukaisen vakuutusmaksun alentamisesta vuonna 1994 aiheutuvan vastuuvajauksen kuolettamisesta vuonna 1995](964.md) `964/1994`
+- [Sosiaali\- ja terveysministeriön päätös maatalousyrittäjien eläkelain 10 §:ssä tarkoitetun perusprosentin ja yrittäjien eläkelain 9 §:ssä tarkoitetun maksuprosentin vahvistamiseksi](965.md) `965/1994`
+- [Sosiaali\- ja terveysministeriön päätös vuoden 1995 palkkaindeksiluvusta](966.md) `966/1994`
+- [Kauppa\- ja teollisuusministeriön päätös  vähittäiskaupan ja eräiden työliikkeiden liikeajasta annetun lain mukaisista sunnuntaiaukiolopäivistä](967.md) `967/1994`
+- [Laki veripalvelutoiminnasta](968.md) `968/1994`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](969.md) `969/1994`
+- [Laki Valtion viljavaraston liiketoiminnoista muodostettavasta osakeyhtiöstä](970.md) `970/1994`
+- [Valtion virkamiesasetus](971.md) `971/1994`
+- [Asetus mittanormaalijärjestelmästä](972.md) `972/1994`
+- [Sosiaali\- ja terveysministeriön päätös lapsilisän maksupäivistä vuonna 1995](973.md) `973/1994`
+- [Työministeriön päätös syöpäsairauden vaaraa aiheuttavien aineiden ja tuotteiden sekä niille altistuvien työntekijöiden luetteloinnista](974.md) `974/1994`
+- [Verohallituksen päätös matkakuluvähennyksen määrästä vuodelta 1994 toimitettavassa verotuksessa](975.md) `975/1994`
+- [Valtioneuvoston päätös työpaikkojen turvamerkeistä ja niiden käytöstä](976.md) `976/1994`
+- [Työministeriön päätös rakennustyömaiden henkilöstötiloista](977.md) `977/1994`
+- [Valtiovarainministeriön päätös rakennusten jälleenhankinta\-arvon perusteista](978.md) `978/1994`
+- [Valtiovarainministeriön päätös vesivoimalaitoksen ja sen rakenteiden jälleenhankinta\-arvon perusteista](979.md) `979/1994`
+- [Kauppa\- ja teollisuusministeriön päätös Valtiontakuukeskuksen perimien maksujen perusteista](980.md) `980/1994`
+- [Laki kansaneläkelain muuttamisesta](981.md) `981/1994`
+- [Laki perhe\-eläkelain muuttamisesta](982.md) `982/1994`
+- [Laki lapsen hoitotuesta annetun lain 6 §:n muuttamisesta](983.md) `983/1994`
+- [Laki vammaistukilain muuttamisesta](984.md) `984/1994`
+- [Laki eläkkeensaajien asumistukilain muuttamisesta](985.md) `985/1994`
+- [Laki sairausvakuutuslain 25 §:n muuttamisesta](986.md) `986/1994`
+- [Laki kirkkolain 20 luvun 5 §:n muuttamisesta](987.md) `987/1994`
+- [Asetus kansainväliseen yleissopimukseen öljyn aiheuttamien pilaantumisvahinkojen kansainvälisen korvausrahaston perustamisesta liittyvän vuonna 1976 tehdyn pöytäkirjan voimaansaattamisesta](988.md) `988/1994`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta](989.md) `989/1994`
+- [Asetus tielaitoksesta annetun asetuksen muuttamisesta](990.md) `990/1994`
+- [Asetus sosiaali\- ja terveysministeriöstä](991.md) `991/1994`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkelain 7 §:n 7 momentissa tarkoitetun kertoimen vahvistamisesta](992.md) `992/1994`
+- [Puolustusministeriön päätös asevelvollisten yleisistä varusmiespalvelukseen astumispäivistä vuonna 1997](993.md) `993/1994`
+- [Laki väestötietolain 2 §:n muuttamisesta](994.md) `994/1994`
+- [Asetus väestötietoasetuksen muuttamisesta](995.md) `995/1994`
+- [Asetus väestökirjahallinnosta annetun asetuksen muuttamisesta](996.md) `996/1994`
+- [Asetus valtiovarainministeriöstä annetun asetuksen muuttamisesta](997.md) `997/1994`
+- [Asetus metsäveroasetuksen 13 ja 15 §:n muuttamisesta](998.md) `998/1994`
+- [Valtion virkamiesten eroraha\-asetus](999.md) `999/1994`
+- [Ylioppilastutkintoasetus](1000.md) `1000/1994`
+- [Asetus eräiden työoikeuden alaa koskevien Ahvenanmaan maakuntalakien kumoamisesta](1001.md) `1001/1994`
+- [Valtioneuvoston päätös kahden poliisipiirin uudelleen järjestämisestä annetun valtioneuvoston päätöksen 3 §:n muuttamisesta](1002.md) `1002/1994`
+- [Valtioneuvoston päätös neljän poliisipiirin uudelleen järjestämisestä annetun valtioneuvoston päätöksen 4 §:n muuttamisesta](1003.md) `1003/1994`
+- [Valtioneuvoston päätös kahden poliisipiirin uudelleen järjestämisestä annetun valtioneuvoston päätöksen 3 §:n muuttamisesta](1004.md) `1004/1994`
+- [Valtioneuvoston päätös neljän poliisipiirin uudelleen järjestämisestä annetun valtioneuvoston päätöksen 4 §:n muuttamisesta](1005.md) `1005/1994`
+- [Valtioneuvoston päätös maatalousyrittäjien hehtaari\- ja kotieläinyksikkökohtaisista luopumiskorvauksista vuonna 1995](1006.md) `1006/1994`
+- [Liikenneministeriön päätös tielaitoksen maksuista](1007.md) `1007/1994`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeiden pakkausmerkinnöistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1008.md) `1008/1994`
+- [Valtiovarainministeriön päätös A\. I\. Virtasen ja tieteen juhlarahan lyömisestä](1009.md) `1009/1994`
+- [Sosiaali– ja terveysministeriön päätös eräiden elatusapujen ja elatustukien korottamisesta elinkustannusindeksin nousun johdosta](1010.md) `1010/1994`
+- [Maa\- ja metsätalousministeriön päätös maatalouden tutkimuskeskuksen suoritteiden maksullisuudesta ja maksuperusteista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](1011.md) `1011/1994`
+- [Maa\- ja metsätalousministeriön päätös maatalouden taloudellisen tutkimuslaitoksen maksullisista suoritteista](1012.md) `1012/1994`
+- [Kauppa\- ja teollisuusministeriön päätös eräiden lastenruokien täydentämisestä A\- ja D\-vitamiineilla](1013.md) `1013/1994`
+- [Asetus verohallintoasetuksen muuttamisesta](1014.md) `1014/1994`
+- [Asetus Valtionrautateistä annetun asetuksen 5 §:n muuttamisesta](1015.md) `1015/1994`
+- [Asetus Ilmailulaitoksesta annetun asetuksen 7 §:n muuttamisesta](1016.md) `1016/1994`
+- [Valtioneuvoston päätös yritystuesta annetun valtioneuvoston päätöksen muuttamisesta](1017.md) `1017/1994`
+- [Valtiovarainministeriön päätös verovuoden 1995 ennakon alarajasta ja kantoeristä](1018.md) `1018/1994`
+- [Verohallituksen päätös asuntoyhteisön ilmoittamisvelvollisuuden rajoittamisesta](1019.md) `1019/1994`
+- [Verohallituksen päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](1020.md) `1020/1994`
+- [Verohallituksen päätös niistä perusteista, joiden mukaan muun kiinteistön kuin maatilan maapohjan verotusarvo lasketaan vuodelta 1994 toimitettavassa verotuksessa](1021.md) `1021/1994`
+- [Verohallituksen päätös pidätystodistuksen antamisvelvollisuuden rajoittamisesta ja ennakonpidätyksen sekä yhtiöveron hyvityksen hyväksi lukemisesta](1022.md) `1022/1994`
+- [Asetus Afrikan kehityspankin perustamissopimuksen muutoksen voimaansaattamisesta](1023.md) `1023/1994`
+- [Asetus Venäjän kanssa Karjalan tasavallan, Leningradin, Murmanskin, Novgorodin ja Pihkovan alueilla ja Pietarissa olevien ympäristönsuojeluhankkeiden toteuttamisesta tehdyn sopimuksen voimaansaattamisesta](1024.md) `1024/1994`
+- [Asetus rajat ylittäviä televisiolähetyksiä koskevan eurooppalaisen yleissopimuksen voimaansaattamisesta](1025.md) `1025/1994`
+- [Asetus rajavartiolaitoksesta](1026.md) `1026/1994`
+- [Asetus valtion virkaehtosopimusasetuksen muuttamisesta](1027.md) `1027/1994`
+- [Valtioneuvoston päätös toimenpiteistä valtion henkilöstövoimavarojen käytön tehostamiseksi](1028.md) `1028/1994`
+- [Liikenneministeriön päätös liikenneopettajantutkinnosta annetun liikenneministeriön päätöksen muuttamisesta](1029.md) `1029/1994`
+- [Laki kiinteistöjen kauppahintarekisteristä ja kauppahintatilastosta annetun lain muuttamisesta](1030.md) `1030/1994`
+- [Asetus Suomen säädöskokoelmasta annetun asetuksen 6 a §:n muuttamisesta](1031.md) `1031/1994`
+- [Asetus puolustusvoimista annetun asetuksen muuttamisesta](1032.md) `1032/1994`
+- [Asetus puolustusvoimissa annettavasta muonituksesta annetun asetuksen kumoamisesta](1033.md) `1033/1994`
+- [Asetus maanmittauslaitoksesta annetun asetuksen muuttamisesta](1034.md) `1034/1994`
+- [Asetus Valtion viljavaraston liiketoiminnoista muodostettavasta osakeyhtiöstä annetun lain voimaantulosta](1035.md) `1035/1994`
+- [Asetus kauppa\- ja teollisuusministeriöstä](1036.md) `1036/1994`
+- [Asetus kemikaalilain muuttamisesta annetun lain eräiden säännösten voimaanpanosta](1037.md) `1037/1994`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös eräitä eläintauteja koskevien Euroopan yhteisöjen direktiivien täytäntöönpanosta](1038.md) `1038/1994`
+- [Oikeusministeriön päätös viittauksista Euroopan yhteisöjen säädösten täytäntöönpanoa koskevissa säädöksissä](1039.md) `1039/1994`
+- [Asetus ydinvastuulain muuttamisesta annetun lain voimaantulosta](1040.md) `1040/1994`
+- [Asetus valtioneuvoston ohjesäännön muuttamisesta Annettu Helsingissä 28 päivänä marraskuuta 1994](1042.md) `1042/1994`
+- [Asetus valtioneuvoston kansliasta](1043.md) `1043/1994`
+- [Asetus tarkastuslautakunnasta annetun asetuksen muuttamisesta](1044.md) `1044/1994`
+- [Asetus sairaaloissa ja terveyskeskuksissa säteilyn käyttötehtävissä työskentelevien henkilöiden vuosilomasta](1045.md) `1045/1994`
+- [Asetus sosiaali\- ja terveysalan tutkimus\- ja kehittämiskeskuksesta annetun asetuksen muuttamisesta](1046.md) `1046/1994`
+- [Asetus valtion mielisairaaloista annetun asetuksen 1 ja 13 §:n muuttamisesta](1047.md) `1047/1994`
+- [Asetus lääkelaitoksesta annetun asetuksen 13 ja 14 §:n muuttamisesta](1048.md) `1048/1994`
+- [Asetus terveydenhuollon oikeusturvakeskuksetta annetun asetuksen 17 §:n muuttamisesta](1049.md) `1049/1994`
+- [Asetus valtion koulukodeista annetun asetuksen 18 ja 22 §:n muuttamisesta](1050.md) `1050/1994`
+- [Asetus tapaturmavirastosta annetun asetuksen muuttamisesta](1051.md) `1051/1994`
+- [Asetus vankeinhoitolaitoksesta annetun asetuksen muuttamisesta](1052.md) `1052/1994`
+- [Asetus vankeinhoidon koulutuskeskuksesta annetun asetuksen muuttamisesta](1053.md) `1053/1994`
+- [Asetus omistusasuntolainojen korkotuesta](1054.md) `1054/1994`
+- [Asetus asumisoikeustalolainojen korkotuesta](1055.md) `1055/1994`
+- [Valtioneuvoston päätös omistusasuntojen korkotukilainojen yleisistä ehdoista](1056.md) `1056/1994`
+- [Valtioneuvoston päätös asumisoikeustalojen korkotukilainojen yleisistä ehdoista](1057.md) `1057/1994`
+- [Valtioneuvoston päätös yleisohjeeksi asuinhuoneistojen vuokrien korottamatta jättämisestä](1058.md) `1058/1994`
+- [Laki maa\- ja puutarhatalouden kansallisista tuista](1059.md) `1059/1994`
+- [Asetus aina määräajaksi täytettävistä viroista](1060.md) `1060/1994`
+- [Ympäristöministeriön päätös ETA:n sekakomitean 28 päivänä lokakuuta 1994 tekemän päätöksen numero 15/94 voimaansaattamisesta](1061.md) `1061/1994`
+- [VEROHALLITUKSEN PÄÄTÖS vuodelta 1994 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](1062.md) `1062/1994`
+- [Verohallituksen päätös ennakonpidätyksessä vuonna 1995 noudatettavista luontoisetujen laskentaperusteista](1063.md) `1063/1994`
+- [Laki kansaneläkelaitoksen järjestämästä kuntoutuksesta annetun lain muuttamisesta](1064.md) `1064/1994`
+- [Laki kuntoutusrahalain muuttamisesta](1065.md) `1065/1994`
+- [Laki sairausvakuutuslain 18 a §:n muuttamisesta](1066.md) `1066/1994`
+- [Laki kansanterveyslain muuttamisesta](1067.md) `1067/1994`
+- [Laki erikoissairaanhoitolain muuttamisesta](1068.md) `1068/1994`
+- [Laki Helsingin yliopistollisesta keskussairaalasta annetun lain 7 §:n muuttamisesta](1069.md) `1069/1994`
+- [Laki tuontipolttoaineiden velvoitevarastoinnista](1070.md) `1070/1994`
+- [Asetus tuontipolttoaineiden velvoitevarastoinnista](1071.md) `1071/1994`
+- [Laki asumisoikeusyhdistyksistä](1072.md) `1072/1994`
+- [Laki asumisoikeusasunnoista annetun lain muuttamisesta](1073.md) `1073/1994`
+- [Laki kirjanpitolain 1 ja 33 §:n muuttamisesta](1074.md) `1074/1994`
+- [Laki kaupparekisterilain muuttamisesta](1075.md) `1075/1994`
+- [Laki toiminimilain 7 §:n muuttamisesta](1076.md) `1076/1994`
+- [Valtioneuvoston päätös ETA\-sopimuksen liitteen I \(eläinlääkintä\- ja kasvinsuojeluasiat\) ja liitteen II \(tekniset määräykset, standardit, testaus ja varmentaminen\) muuttamista koskevan ETA:n sekakomitean päätöksen N:o 12/94 voimaansaattamisesta](1077.md) `1077/1994`
+- [Sosiaali– ja terveysministeriön päätös lapsilisän maksupäivän muuttamisesta](1078.md) `1078/1994`
+- [Valmismatkalaki](1079.md) `1079/1994`
+- [Laki valmismatkaliikkeistä](1080.md) `1080/1994`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain 3 §:n muuttamisesta](1081.md) `1081/1994`
+- [Laki tilauslentoverosta annetun lain 3 §:n muuttamisesta](1082.md) `1082/1994`
+- [Laki maakaaren 1 luvun 3 §:n muuttamisesta](1083.md) `1083/1994`
+- [Asetus kaupanvahvistaja\-asetuksen muuttamisesta](1084.md) `1084/1994`
+- [Asetus valmismatkasta annettavista tiedoista](1085.md) `1085/1994`
+- [Asetus työsuojelun valvonnasta annetun asetuksen muuttamisesta](1086.md) `1086/1994`
+- [Valtioneuvoston päätös metsätaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](1087.md) `1087/1994`
+- [Valtioneuvoston päätös porotaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](1088.md) `1088/1994`
+- [Valtioneuvoston päätös vuokra\-asuntojen korkotukilainojen yleisistä ehdoista annetun valtioneuvoston päätöksen muuttamisesta](1089.md) `1089/1994`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](1090.md) `1090/1994`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](1091.md) `1091/1994`
+- [Opetusministeriön päätös tallentamattomien ääni\- ja kuvanauhojen maahantuonnista ja valmistuksesta suoritettavan tekijänoikeudellisen maksun suuruudesta](1092.md) `1092/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1093.md) `1093/1994`
+- [Laki eräiden valtion ammatillisten oppilaitosten kiinteistöjen luovuttamisesta kunnalle tai kuntayhtymälle](1094.md) `1094/1994`
+- [Laki satovahinkojen korvaamisesta annetun lain muuttamisesta](1095.md) `1095/1994`
+- [Laki sokerilain muuttamisesta](1096.md) `1096/1994`
+- [Laki kotimaisesta tärkkelystuotannosta annetun lain muuttamisesta](1097.md) `1097/1994`
+- [Laki kotimaisesta öljykasvituotannosta annetun lain muuttamisesta](1098.md) `1098/1994`
+- [Laki eräiden maatalouden alaan kuuluvien lakien kumoamisesta](1099.md) `1099/1994`
+- [Laki Euroopan yhteisön yhteisen maatalouspolitiikan täytäntöönpanosta](1100.md) `1100/1994`
+- [Laki maidon, sianlihan ja viljan vientikustannusmaksusta annetun lain 9 §:n muuttamisesta](1101.md) `1101/1994`
+- [Valtiovarainministeriön päätös eräiden verojen lykkäyksen ehdoista](1102.md) `1102/1994`
+- [Laki veronkantolain muuttamisesta](1103.md) `1103/1994`
+- [Laki yhtiöveron hyvityksestä annetun lain 9 §:n muuttamisesta](1104.md) `1104/1994`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](1105.md) `1105/1994`
+- [Laki rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun lain 3 §:n muuttamisesta](1106.md) `1106/1994`
+- [Laki teleliikenteen verottamisesta annetun lain muuttamisesta](1107.md) `1107/1994`
+- [Laki kansaneläkelaitoksen rahoituksen väliaikaisesta muuttamisesta vuonna 1995](1108.md) `1108/1994`
+- [Laki tuloverolain muuttamisesta](1109.md) `1109/1994`
+- [Laki perintö\- ja lahjaverolain 55 §:n muuttamisesta](1110.md) `1110/1994`
+- [Laki ennakkoperintälain 30 a §:n muuttamisesta](1111.md) `1111/1994`
+- [Laki talletusten ja obligaatioiden veronhuojennuslain 1 ja 6 §:n muuttamisesta](1112.md) `1112/1994`
+- [Laki veronkantolain muuttamisesta](1113.md) `1113/1994`
+- [Laki ennakkoperinnän korotuksesta verotulojen tilityksissä](1114.md) `1114/1994`
+- [Laki yhteistoiminnasta valtion virastoissa ja laitoksissa annetun lain 15 a §:n muuttamisesta](1115.md) `1115/1994`
+- [Laki Valko\-Venäjän kanssa tehdyn sijoitusten edistämistä ja molemminpuolista suojelua koskevan sopimuksen eräiden määräysten hyväksymisestä](1116.md) `1116/1994`
+- [Asetus Valko\-Venäjän kanssa tehdyn sijoitusten edistämistä ja molemminpuolista suojelua koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1117.md) `1117/1994`
+- [Asetus Tanskan, Suomen, Norjan ja Ruotsin välillä puolustusmateriaalialan yhteistyöstä tehdyn puitesopimuksen voimaansaattamisesta](1118.md) `1118/1994`
+- [Asetus Maailman terveysjärjestön perussäännön 24 ja 25 artiklan muutosten voimaansaattamisesta](1119.md) `1119/1994`
+- [Laki eläinten lääkitsemisestä annetun lain muuttamisesta](1120.md) `1120/1994`
+- [Laki asumistukilain 3 ja 15 §:n muuttamisesta](1121.md) `1121/1994`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta](1122.md) `1122/1994`
+- [Asetus Saaristomeren kansallispuistosta](1123.md) `1123/1994`
+- [Asetus Saaristomeren neuvottelukunnasta](1124.md) `1124/1994`
+- [Laki Lapin vajaatuottoisten metsien kunnostamisesta annetun lain muuttamisesta](1125.md) `1125/1994`
+- [Asetus julkisen hallinnon tietohallinnon neuvottelukunnasta annetun asetuksen muuttamisesta](1126.md) `1126/1994`
+- [Asetus raha\-automaattiasetuksen 14 §:n muuttamisesta](1127.md) `1127/1994`
+- [Asetus poliisin hallinnosta annetun asetuksen muuttamisesta](1128.md) `1128/1994`
+- [Valtioneuvoston päätös yhteistyöstä muilla kuin neljän vapauden alaan kuuluvilla erityisalueilla tehdyn ETA\-sopimuksen pöytäkirjan 31 muuttamista koskevan ETA:n sekakomitean päätöksen n:o 11/94 voimaan\- saattamisesta](1129.md) `1129/1994`
+- [Liikenneministeriön päätös ETA\-sopimuksen liitteen XIII \(kuljetus\) muuttamista koskevan ETA:n sekakomitean päätöksen N:o 8/94 voimaansaattamisesta](1130.md) `1130/1994`
+- [Sosiaali\- ja terveysministeriön päätös kemikaalilain nojalla sosiaali\- ja terveydenhuollon tuotevalvontakeskukselle perittävistä maksuista](1131.md) `1131/1994`
+- [Sosiaali\- ja terveysministeriön päätös uusien aineiden ilmoitusmenettelystä annetun sosiaali\- ja terveysministeriön päätöksen muuttamisesta](1132.md) `1132/1994`
+- [Sosiaali\- ja terveysministeriön päätös tupakkatuotteiden vähittäismyyntipakkausten merkinnöistä sekä tervan ja nikotiinin mittausmenetelmistä annetun sosiaali\- ja terveysministeriön päätöksen muuttamisesta](1133.md) `1133/1994`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös eläintautien leviämisen ehkäisemisestä Suomen ja muiden Euroopan talousalueeseen kuuluvien valtioiden välillä tapahtuvan hevosten maahantuonnin ja maastaviennin yhteydessä annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen muuttamisesta](1134.md) `1134/1994`
+- [Laki kulttuuriomaisuuden suojelemista aseellisen selkkauksen sattuessa koskevan pöytäkirjan eräiden määräysten hyväksymisestä ja pöytäkirjan soveltamisesta](1135.md) `1135/1994`
+- [Asetus kulttuuriomaisuuden suojelemista aseellisen selkkauksen sattuessa koskevan yleissopimuksen ja siihen liittyvän pöytäkirjan voimaansaattamisesta ja pöytäkirjan eräiden määräysten hyväksymisestä ja soveltamisesta annetun lain voimaantulosta](1136.md) `1136/1994`
+- [Laki Venäjän kanssa yhteistyöstä ja keskinäisestä avunannosta tulliasioissa tehdyn sopimuksen eräiden määräysten hyväksymisestä](1137.md) `1137/1994`
+- [Asetus Venäjän kanssa yhteistyöstä ja keskinäisestä avunannosta tulliasioissa tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1138.md) `1138/1994`
+- [Laki Euroopan yhteisön yhteisen kalastuspolitiikan täytäntöönpanosta](1139.md) `1139/1994`
+- [Laki Suomen kalastusvyöhykkeestä annetun lain muuttamisesta](1140.md) `1140/1994`
+- [Asetus vakuutusyhdistystarkastuksesta](1141.md) `1141/1994`
+- [Valtioneuvoston päätös työttömien aloitteellisuuden tukemisesta](1142.md) `1142/1994`
+- [Alkoholilaki](1143.md) `1143/1994`
+- [Laki alkoholilain muuttamisesta](1144.md) `1144/1994`
+- [Laki keskioluesta annetun lain kumoamisesta](1145.md) `1145/1994`
+- [Laki sosiaali\- ja terveydenhuollon tuotevalvontakeskuksesta](1146.md) `1146/1994`
+- [Laki kemikaalilain muuttamisesta](1147.md) `1147/1994`
+- [Laki toimenpiteistä tupakoinnin vähentämiseksi annetun lain muuttamisesta](1148.md) `1148/1994`
+- [Laki markkinatuomioistuimesta annetun lain muuttamisesta](1149.md) `1149/1994`
+- [Laki toimenpiteistä tupakoinnin vähentämiseksi annetun lain väliaikaisesta muuttamisesta](1150.md) `1150/1994`
+- [Laki markkinatuomioistuimesta annetun lain väliaikaisesta muuttamisesta](1151.md) `1151/1994`
+- [Asetus sosiaali\- ja terveydenhuollon tuotevalvontakeskuksesta](1152.md) `1152/1994`
+- [Asetus kemikaaliasetuksen muuttamisesta](1153.md) `1153/1994`
+- [Asetus torjunta\-aineasetuksen muuttamisesta](1154.md) `1154/1994`
+- [Laki kaupunkien satamanpitoon liittyvien erioikeuksien kumoamisesta](1155.md) `1155/1994`
+- [Laki yksityisistä yleisistä satamista](1156.md) `1156/1994`
+- [Laki kunnallisista satamajärjestyksistä ja liikennemaksuista annetun lain muuttamisesta](1157.md) `1157/1994`
+- [Laki väliaikaisista poikkeuksista työsopimuslain 2 §:n 2 momenttiin](1158.md) `1158/1994`
+- [Asetus vitamiinien ja eräiden muiden aineiden lisäämisestä elintarvikkeisiin annetun asetuksen muuttamisesta](1159.md) `1159/1994`
+- [Asetus työntekijöiden saatavien turvaamista työnantajan maksukyvyttömyystapauksessa koskevan yleissopimuksen voimaansaattamisesta](1160.md) `1160/1994`
+- [Valtioneuvoston päätös eräiden opintotukilaissa \(28/72\) tarkoitettujen määrien vahvistamisesta](1161.md) `1161/1994`
+- [Kauppa\- ja teollisuusministeriön päätös eräiden elintarvikkeita koskevien Euroopan yhteisöjen direktiivien täytäntöönpanosta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1162.md) `1162/1994`
+- [Liikenneministeriön päätös ETA:n sekakomitean 28 päivänä lokakuuta 1994 tekemän päätöksen numero 21/94 voimaansaattamisesta](1163.md) `1163/1994`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston ilmoitus](1164.md) `1164/1994`
+- [Laki Pelastusopistosta](1165.md) `1165/1994`
+- [Asetus Oulun yliopistosta](1166.md) `1166/1994`
+- [Asetus eräiden korkeakoulujen opetuksesta ja opiskelijoista annetun asetuksen 1 §:n muuttamisesta](1167.md) `1167/1994`
+- [Asetus Kuopion yliopistosta annetun asetuksen muuttamisesta](1168.md) `1168/1994`
+- [Asetus Sibelius\-Akatemiasta annetun asetuksen muuttamisesta](1169.md) `1169/1994`
+- [Asetus teatterikorkeakoulusta annetun asetuksen muuttamisesta](1170.md) `1170/1994`
+- [Oikeusministeriön päätös julkisen kaupanvahvistajan suoritteista perittävistä maksuista annetun oikeusministeriön päätöksen kumoamisesta](1171.md) `1171/1994`
+- [Laki säätiölain muuttamisesta](1172.md) `1172/1994`
+- [Laki patentti\- ja rekisterihallituksesta annetun lain 2 §:n muuttamisesta](1173.md) `1173/1994`
+- [Laki patentti\- ja rekisterihallituksen valitusasiain käsittelystä annetun lain muuttamisesta](1174.md) `1174/1994`
+- [Laki patentti\- ja rekisterihallituksen suoritteista perittävistä maksuista annetun lain 3 §:n muuttamisesta](1175.md) `1175/1994`
+- [Laki säästöpankin muuttamisesta osakeyhtiömuotoiseksi pankiksi annetun lain muuttamisesta](1176.md) `1176/1994`
+- [Laki yhdistyslain muuttamisesta](1177.md) `1177/1994`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin työeläkemaksun ja työttömyysvakuutusmaksun huomioon ottamisesta työttömyysturvalain perusteella maksettavissa päivärahoissa](1178.md) `1178/1994`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin työeläkemaksun ja työttömyysvakuutusmaksun huomioon ottamisesta tapaturmavakuutuslain perusteella maksettavissa päivärahoissa](1179.md) `1179/1994`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin työeläkemaksun ja työttömyysvakuutusmaksun huomioon ottamisesta sairausvakuutusjärjestelmän mukaisissa päivärahoissa](1180.md) `1180/1994`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](1181.md) `1181/1994`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](1182.md) `1182/1994`
+- [Laki Euroopan parlamenttiin valittavien edustajien vaalista eduskunnassa](1183.md) `1183/1994`
+- [Laki Suomesta Euroopan parlamenttiin valitun edustajan palkkiosta ja eläkkeestä](1184.md) `1184/1994`
+- [Laki edustajanpalkkiosta annetun lain 1 §:n muuttamisesta](1185.md) `1185/1994`
+- [Laki valtiopäiväjärjestyksen väliaikaisesta muuttamisesta](1186.md) `1186/1994`
+- [Laki väliaikaisesta poikkeuksesta edustajanpalkkiosta annettuun lakiin](1187.md) `1187/1994`
+- [Laki kansanedustajain vaaleista annetun lain 91 §:n väliaikaisesta muuttamisesta](1188.md) `1188/1994`
+- [Laki valtion eläkelain muuttamisesta](1189.md) `1189/1994`
+- [Laki valtion perhe\-eläkelain muuttamisesta](1190.md) `1190/1994`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain muuttamisesta](1191.md) `1191/1994`
+- [Laki Suomen Pankista annetun lain muuttamisesta](1192.md) `1192/1994`
+- [Laki kansaneläkelain 58 a §:n muuttamisesta](1193.md) `1193/1994`
+- [Asetus kansaneläkeasetuksen 12 a §:n 4 momentin kumoamisesta](1194.md) `1194/1994`
+- [Laki Helsingin yliopistosta annetun lain 5 §:n muuttamisesta](1195.md) `1195/1994`
+- [Laki yleisistä teistä annetun lain muuttamisesta](1196.md) `1196/1994`
+- [Asetus valtiontalouden tarkastuksesta annetun asetuksen muuttamisesta](1197.md) `1197/1994`
+- [Asetus valtiokonttorista annetun asetuksen muuttamisesta](1198.md) `1198/1994`
+- [Asetus opintotukiasetuksen 32 §:n muuttamisesta](1199.md) `1199/1994`
+- [Asetus opintotukiasetuksen 19 §:n muuttamisesta](1200.md) `1200/1994`
+- [Julistus neljästä kiitos\-, katumus\- ja rukouspäivästä, jotka on koko maassa juhlallisesti vietettävä vuonna 1995](1201.md) `1201/1994`
+- [Luettelo veroäyrien hinnoista vuonna 1995](1202.md) `1202/1994`
+- [Kasvinsuojelulaki](1203.md) `1203/1994`
+- [Laki torjunta\-ainelain muuttamisesta](1204.md) `1204/1994`
+- [Taimiaineistolaki](1205.md) `1205/1994`
+- [Laki maatalouden interventiorahastosta](1206.md) `1206/1994`
+- [Laki maa\- ja metsätalousministeriön tietopalvelukeskuksesta annetun lain muuttamisesta](1207.md) `1207/1994`
+- [Laki hevostalouslain muuttamisesta](1208.md) `1208/1994`
+- [Laki kotieläinjalostuslain muuttamisesta](1209.md) `1209/1994`
+- [Laki metsänviljelyaineiston kaupasta annetun lain muuttamisesta](1210.md) `1210/1994`
+- [Laki kuljetusten alueellisesta tukemisesta annetun lain muuttamisesta](1211.md) `1211/1994`
+- [Laki työttömyysturvaetuuksien poikkeuksellisesta tarkistamisesta](1212.md) `1212/1994`
+- [Laki merimieslain 32 §:n muuttamisesta](1213.md) `1213/1994`
+- [Valtioneuvoston päätös kemian työsuojeluneuvottelukunnasta](1214.md) `1214/1994`
+- [Laki ennakkoperintälain muuttamisesta](1215.md) `1215/1994`
+- [Laki arvonlisäverolain 1 §:n muuttamisesta](1216.md) `1216/1994`
+- [Laki ulkomaisten väliyhteisöjen osakkaiden verotuksesta](1217.md) `1217/1994`
+- [Laki arvonlisäverolain muuttamisesta](1218.md) `1218/1994`
+- [Laki asuintalovarauksesta verotuksessa annetun lain muuttamisesta](1219.md) `1219/1994`
+- [Laki keskinäisestä virka\-avusta verotuksen alalla Suomen ja muiden Euroopan unionin jäsenvaltioiden toimivaltaisten viranomaisten välillä](1220.md) `1220/1994`
+- [Laki keskinäisestä virka\-avusta eräiden saatavien, maksujen ja tullien sekä verojen perinnässä Suomen ja muiden Euroopan unionin jäsenvaltioiden toimivaltaisten viranomaisten välillä](1221.md) `1221/1994`
+- [Laki indeksiehdon käytön rajoittamisesta](1222.md) `1222/1994`
+- [Laki tuloverolain muuttamisesta](1223.md) `1223/1994`
+- [Laki elinkeinotulon verottamisesta annetun lain 6 §:n muuttamisesta](1224.md) `1224/1994`
+- [Laki verotuslain muuttamisesta](1225.md) `1225/1994`
+- [Laki ennakkoperintälain muuttamisesta](1226.md) `1226/1994`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain 17 §:n muuttamisesta](1227.md) `1227/1994`
+- [Laki arvonlisäverolain 159 §:n muuttamisesta](1228.md) `1228/1994`
+- [Laki leimaverolain väliaikaisesta muuttamisesta](1229.md) `1229/1994`
+- [Asetus eräiden yleishyödyllisten yhteisöjen veronhuojennuksista](1230.md) `1230/1994`
+- [Asetus korkotulon lähdeverosta annetun asetuksen 1 ja 5 §:n muuttamisesta](1231.md) `1231/1994`
+- [Lääkelaitoksen päätös lääkeluettelosta](1232.md) `1232/1994`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](1233.md) `1233/1994`
+- [Laki Kera Oy \-nimisestä osakeyhtiöstä annetun lain muuttamisesta](1234.md) `1234/1994`
+- [Asetus vuonna 1995 toimitettavissa kansanedustajain vaaleissa ennakkoäänestyspaikkoina olevista Suomen Posti Oy:n toimipaikoista ja sen tilapäisistä ennakkoäänestyspaikoista sekä Ahvenanmaan postin toimipaikoista](1235.md) `1235/1994`
+- [Asetus vuonna 1995 toimitettavissa kansanedustajain vaaleissa ennakkoäänestyspaikkoina olevista Suomen edustustoista](1236.md) `1236/1994`
+- [Asetus Pelastusopistosta](1237.md) `1237/1994`
+- [Asetus tilastokeskuksesta annetun asetuksen muuttamisesta](1238.md) `1238/1994`
+- [Laki uusjakojen tukemisesta annetun lain muuttamisesta](1239.md) `1239/1994`
+- [Asetus Rauman merenkulkuoppilaitoksen laivasimulaattorikeskuksesta annetun asetuksen muuttamisesta](1240.md) `1240/1994`
+- [Asetus Rauman merenkulkuoppilaitoksen palokoulutuskeskuksesta annetun asetuksen muuttamisesta](1241.md) `1241/1994`
+- [Asetus ammattioppilaitoksista annetun asetuksen 19 ja 35 §:n muuttamisesta](1242.md) `1242/1994`
+- [Asetus hotelli\- ja ravintolaoppilaitoksista annetun asetuksen 19 ja 35 §:n muuttamisesta](1243.md) `1243/1994`
+- [Asetus kauppaoppilaitoksista annetun asetuksen 18 ja 34 §:n muuttamisesta](1244.md) `1244/1994`
+- [Asetus koti\- ja laitostalousoppilaitoksista annetun asetuksen 19 ja 35 §:n muuttamisesta](1245.md) `1245/1994`
+- [Asetus käsi\- ja taideteollisuusoppilaitoksista annetun asetuksen 19 ja 35 §:n muuttamisesta](1246.md) `1246/1994`
+- [Asetus maatalousalan oppilaitoksista annetun asetuksen 19 ja 35 §:n muuttamisesta](1247.md) `1247/1994`
+- [Asetus merenkulkuoppilaitoksista annetun asetuksen muuttamisesta](1248.md) `1248/1994`
+- [Asetus metsä\- ja puutalousoppilaitoksista annetun asetuksen 18 ja 34 §:n muuttamisesta](1249.md) `1249/1994`
+- [Asetus sosiaalialan oppilaitoksista annetun asetuksen 18 ja 34 §:n muuttamisesta](1250.md) `1250/1994`
+- [Asetus taide\- ja viestintäkulttuurioppilaitoksista annetun asetuksen 20 ja 37 §:n muuttamisesta](1251.md) `1251/1994`
+- [Asetus teknillisistä oppilaitoksista annetun asetuksen 18 ja 37 §:n muuttamisesta](1252.md) `1252/1994`
+- [Asetus terveydenhuolto\-oppilaitoksista annetun asetuksen 18 ja 34 §:n muuttamisesta](1253.md) `1253/1994`
+- [Laki tekijänoikeuslain muuttamisesta](1254.md) `1254/1994`
+- [Laki eräistä väliaikaisista tulleista](1255.md) `1255/1994`
+- [Asetus ajokorttiasetuksen muuttamisesta](1256.md) `1256/1994`
+- [Asetus tieliikenneasetuksen 21 §:n muuttamisesta](1257.md) `1257/1994`
+- [Valtioneuvoston päätös eräistä maa\- ja puutarhataloustuottajille vuodelta 1995 maksettavista tuista](1258.md) `1258/1994`
+- [Laki kuluttajansuojalain 3 ja 4 luvun muuttamisesta](1259.md) `1259/1994`
+- [Laki varallisuusoikeudellisista oikeustoimista annetun lain 36 §:n muuttamisesta](1260.md) `1260/1994`
+- [Laki huoneenvuokralain 5 §:n muuttamisesta](1261.md) `1261/1994`
+- [Laki maanvuokralain 4 §:n muuttamisesta](1262.md) `1262/1994`
+- [Laki haastemieslain 6 §:n muuttamisesta](1263.md) `1263/1994`
+- [Asetus haastemiesasetuksen 5 §:n muuttamisesta](1264.md) `1264/1994`
+- [Asetus säätiöasetuksen muuttamisesta](1265.md) `1265/1994`
+- [Asetus yhdistysrekisteriasetuksen muuttamisesta](1266.md) `1266/1994`
+- [Asetus oikeusministeriöstä annetun asetuksen muuttamisesta](1267.md) `1267/1994`
+- [Asetus valtioneuvoston ohjesäännön muuttamisesta](1268.md) `1268/1994`
+- [Valtiovarainministeriön päätös valtion palveluksessa olevilta perittävistä ateriakorvauksista](1269.md) `1269/1994`
+- [Valtiovarainministeriön päätös valtion palvelussuhdeasuntoihin liittyvistä eduista perittävistä korvauksista](1270.md) `1270/1994`
+- [Valtiovarainministeriön päätös eräiden verojen maksupaikoista ja tiedonsiirtokorvauksista annetun valtiovarainministeriön päätöksen muuttamisesta](1271.md) `1271/1994`
+- [Laki eräistä kirjailijoille ja kääntäjille suoritettavista apurahoista ja avustuksista annetun lain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1272.md) `1272/1994`
+- [Laki kuntien kulttuuritoiminnasta annetun lain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1273.md) `1273/1994`
+- [Laki taiteilijaprofessorin viroista ja valtion taiteilija\-apurahoista annetun lain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1274.md) `1274/1994`
+- [Laki kirjastolain väliaikaisesta muuttamisesta](1275.md) `1275/1994`
+- [Laki Euroopan talousalueen valtion alueelta laittomasti vietyjen kulttuuriesineiden palauttamisesta](1276.md) `1276/1994`
+- [Laki teatteri\- ja orkesterilain muuttamisesta](1277.md) `1277/1994`
+- [Valtioneuvoston päätös omistusaravalainan myöntämisessä, omistusasuntokorkotukilainaksi hyväksymisessä sekä asukkaaksi valitsemisessa sovellettavista perusteista](1278.md) `1278/1994`
+- [Laki työvoima\-asiain piiri\- ja paikallishallinnosta annetun lain 3 §:n muuttamisesta](1279.md) `1279/1994`
+- [Terveydensuojeluasetus](1280.md) `1280/1994`
+- [Asetus ympäristölupamenettelyasetuksen 6 §:n muuttamisesta](1281.md) `1281/1994`
+- [Valtioneuvoston päätös maatalousperäisiä raaka\-aineita jalostaville elinkeinonharjoittajille vuonna 1994 myönnettävästä investointituesta ja tuotannon sopeuttamistuesta](1282.md) `1282/1994`
+- [Sosiaali\- ja terveysministeriön päätös tapaturmavakuutuslain 58 §:ssä säädetyn maksun suuruudesta](1283.md) `1283/1994`
+- [Laki aluevaihdosta valtion ja Oy Hackman Ab:n välillä](1284.md) `1284/1994`
+- [Asetus verotusasetuksen 3 §:n kumoamisesta](1285.md) `1285/1994`
+- [Asetus Helsingin ranskalais\-suomalaisesta koulusta annetun asetuksen muuttamisesta](1286.md) `1286/1994`
+- [Asetus Suomalais\-venäläisestä koulusta annetun asetuksen muuttamisesta](1287.md) `1287/1994`
+- [Valtioneuvoston päätös Suomen Ulkomaankauppaliiton valtionavun perusteista](1288.md) `1288/1994`
+- [Valtioneuvoston päätös eräistä aravalainojen lainoitusperusteista](1289.md) `1289/1994`
+- [Sisäasiainministeriön päätös rajavartiolaitoksen suoritteiden maksullisuudesta](1290.md) `1290/1994`
+- [Työministeriön päätös](1291.md) `1291/1994`
+- [Maa\- ja metsätalousministeriön päätös eräiden maanmittauslaitoksen suoritteiden maksullisuudesta ja maksuperusteista sekä suoritteista perittävistä maksuista](1292.md) `1292/1994`
+- [Laki maatalousyrittäjien luopumistuesta](1293.md) `1293/1994`
+- [Laki työntekijäin eläkelain 8 §:n muuttamisesta](1294.md) `1294/1994`
+- [Laki kansaneläkelain 26 §:n muuttamisesta](1295.md) `1295/1994`
+- [Laki työttömyysturvalain 5 ja 45 §:n muuttamisesta](1296.md) `1296/1994`
+- [Laki kasvihuonetuotannon ja omenanviljelyn lopettamistuesta](1297.md) `1297/1994`
+- [Laki maatalousyrittäjien eläkelain 16 §:n muuttamisesta](1298.md) `1298/1994`
+- [Laki eurooppalaisesta taloudellisesta etuyhtymästä](1299.md) `1299/1994`
+- [Laki kaupparekisterilain muuttamisesta ja väliaikaisesta muuttamisesta](1300.md) `1300/1994`
+- [Laki kaupparekisterilain 14 ja 18 §:n muuttamisesta](1301.md) `1301/1994`
+- [Laki toiminimilain 7 §:n muuttamisesta](1302.md) `1302/1994`
+- [Laki maa\- ja metsätalouden rakennepoliittisista toimenpiteistä](1303.md) `1303/1994`
+- [Laki maaseutuelinkeinolain muuttamisesta](1304.md) `1304/1994`
+- [Laki porotalouslain muuttamisesta](1305.md) `1305/1994`
+- [Laki luontaiselinkeinolain muuttamisesta](1306.md) `1306/1994`
+- [Laki maatilatalouden kehittämisrahastosta annetun lain muuttamisesta](1307.md) `1307/1994`
+- [Laki luottolaitosten varoista myönnettävistä eräistä korkotukilainoista annetun lain muuttamisesta](1308.md) `1308/1994`
+- [Laki asevelvollisen kuoltua suoritettavasta taloudellisesta tuesta](1309.md) `1309/1994`
+- [Laki tapaturma\- ja liikennevakuutuslaitoksilta vuodelta 1995 perittävästä maksusta](1310.md) `1310/1994`
+- [Asetus Latvian kanssa tehdyn lentoliikennesopimuksen voimaansaattamisesta](1311.md) `1311/1994`
+- [Sosiaali\- ja terveysministeriön päätös  hakemukseen, joka koskee Koulutus\- ja erorahaston uusien sääntöjen vahvistamista](1312.md) `1312/1994`
+- [Sosiaali– ja terveysministeriön ilmoitus eräästä päätöksestä](1313.md) `1313/1994`
+- [Valtioneuvoston päätös koneiden turvallisuudesta](1314.md) `1314/1994`
+- [Opetusministeriön päätös tuomiokapitulien suoritteiden maksullisuudesta](1315.md) `1315/1994`
+- [Opetusministeriön päätös opetushallituksen suoritteiden maksullisuudesta](1316.md) `1316/1994`
+- [Laki työttömyysturvalain muuttamisesta](1317.md) `1317/1994`
+- [Laki työttömyyskassalain muuttamisesta](1318.md) `1318/1994`
+- [Laki työvoimapoliittisesta aikuiskoulutuksesta annetun lain muuttamisesta](1319.md) `1319/1994`
+- [Laki työmarkkinatuesta annetun lain muuttamisesta](1320.md) `1320/1994`
+- [Laki työttömyysvakuutusmaksusta vuonna 1995](1321.md) `1321/1994`
+- [Laki vuodelta 1995 perittävästä palkansaajan työttömyysvakuutusmaksusta](1322.md) `1322/1994`
+- [Laki työttömyyskassalain 25 ja 30 §:n väliaikaisesta muuttamisesta](1323.md) `1323/1994`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain muuttamisesta](1324.md) `1324/1994`
+- [Laki hovioikeuslain 5 §:n muuttamisesta](1325.md) `1325/1994`
+- [Laki käräjäoikeuslain muuttamisesta](1326.md) `1326/1994`
+- [Asetus hovioikeusasetuksen muuttamisesta](1327.md) `1327/1994`
+- [Asetus käräjäoikeusasetuksen muuttamisesta](1328.md) `1328/1994`
+- [Asetus suomen ja ruotsin kielen taidon osoittamisesta annetun asetuksen muuttamisesta](1329.md) `1329/1994`
+- [Asetus valtioneuvoston oikeuskanslerin ohjesäännön muuttamisesta](1330.md) `1330/1994`
+- [Asetus oikeuskanslerinvirastosta annetun asetuksen muuttamisesta](1331.md) `1331/1994`
+- [Asetus opetusministeriöstä](1332.md) `1332/1994`
+- [Laki sosiaalihuoltolain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1333.md) `1333/1994`
+- [Laki säteilylain muuttamisesta](1334.md) `1334/1994`
+- [Asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen muuttamisesta](1335.md) `1335/1994`
+- [Asetus lasten päivähoidosta annetun asetuksen muuttamisesta](1336.md) `1336/1994`
+- [Asetus työttömyysturvalain täytäntöönpanosta annetun asetuksen muuttamisesta](1337.md) `1337/1994`
+- [Valtioneuvoston päätös valtion liikelaitoksen työttömyysvakuutusmaksusta vuonna 1995](1338.md) `1338/1994`
+- [Valtioneuvoston päätös eläkkeensaajien asumistukilain mukaisista hoitomenoina hyväksyttävistä keskimääräisistä kustannuksista ja asumiskustannusten enimmäismääristä](1339.md) `1339/1994`
+- [Valtioneuvoston päätös eräiden Suomeen muuttavien henkilöiden toimeentulotuen sekä heille annetun sosiaali– ja terveydenhuollon erityiskustannusten korvaamisesta annetun valtioneuvoston päätöksen muuttamisesta](1340.md) `1340/1994`
+- [Sosiaali– ja terveysministeriön päätös sosiaali– ja terveysministeriön maksullisista suoritteista](1341.md) `1341/1994`
+- [Ympäristöministeriön päätös ympäristöministeriön maksullisista suoritteista annetun ympäristöministeriön päätöksen muuttamisesta](1342.md) `1342/1994`
+- [Laki ulkoilulain muuttamisesta](1343.md) `1343/1994`
+- [Asetus alkoholijuomista ja väkiviinasta](1344.md) `1344/1994`
+- [Asetus alkoholivalmisteista ja denaturoimisesta](1345.md) `1345/1994`
+- [Asetus alkoholijuomien myynnistä ja sen valvonnasta Suomen ja ulkomaiden välillä kulkevissa liikennevälineissä](1346.md) `1346/1994`
+- [Asetus suojauskemikaaliasetuksen 9 §: n muuttamisesta](1347.md) `1347/1994`
+- [Sosiaali– ja terveysministeriön päätös työnantajan velvollisuudeksi säädetystä sekä yrittäjän ja muun omaa työtään tekevän työterveyshuollosta](1348.md) `1348/1994`
+- [Asetus valtion virkamiesasetuksen 3 §:n muuttamisesta](1349.md) `1349/1994`
+- [Asetus valtion virkamiesten eroraha\-asetuksen muuttamisesta](1350.md) `1350/1994`
+- [Valtioneuvoston päätös valtion virkamiesten erorahan suuruudesta](1351.md) `1351/1994`
+- [Valtioneuvoston päätös valtion eläkejärjestelmän piiriin kuuluvien työnantajien eläkemaksusta annetun valtioneuvoston päätöksen 5 §:n kumoamisesta](1352.md) `1352/1994`
+- [Valtiovarainministeriön päätös valtiovarainministeriön suoritteiden maksullisuudesta annetun valtiovarainministeriön päätöksen muuttamisesta](1353.md) `1353/1994`
+- [Verohallituksen päätös vuonna 1995 verosta vapaaksi katsottavien matkakustannusten korvausten perusteista ja määristä](1354.md) `1354/1994`
+- [Verohallituksen päätös kotieläinten arvon määräämisessä noudatettavista perusteista](1355.md) `1355/1994`
+- [Verohallituksen päätös ilmoittamisvelvollisuuden rajoittamisesta](1356.md) `1356/1994`
+- [Laki Helsingin yliopistosta annetun lain muuttamisesta](1357.md) `1357/1994`
+- [Laki Eläinlääketieteellisestä korkeakoulusta annetun lain kumoamisesta](1358.md) `1358/1994`
+- [Laki lastentarhanopettajaopistoista annetun lain kumoamisesta](1359.md) `1359/1994`
+- [Laki valtionosuutta saavista liikunnan koulutuskeskuksista annetun lain 9 ja 21 §:n muuttamisesta](1360.md) `1360/1994`
+- [Laki toimenpiteistä Suomen merenkulun turvaamiseksi annetun lain muuttamisesta](1361.md) `1361/1994`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain 4 §:n muuttamisesta](1362.md) `1362/1994`
+- [Asetus eläintautien vastustamisesta eläinten kuljetuksessa](1363.md) `1363/1994`
+- [Valtioneuvoston päätös eräiden poliisipiirien uudelleen järjestämisestä](1364.md) `1364/1994`
+- [Sosiaali\- ja terveysministeriön päätös sosiaali\- ja terveysalan tutkimus\- ja kehittämiskeskuksen maksullisista suoritteista](1365.md) `1365/1994`
+- [Sosiaali\- ja terveysministeriön päätös valtion mielisairaaloiden maksullisista suoritteista](1366.md) `1366/1994`
+- [Sosiaali\- ja terveysministeriön päätös valtion koulukotien maksullisista suoritteista](1367.md) `1367/1994`
+- [Asetus patentti\- ja rekisterihallituksesta annetun asetuksen muuttamisesta](1368.md) `1368/1994`
+- [Asetus patentti\- ja rekisterihallituksen valitusasioiden käsittelystä annetun asetuksen muuttamisesta](1369.md) `1369/1994`
+- [Asetus kaupparekisteriasetuksen muuttamisesta](1370.md) `1370/1994`
+- [Valtioneuvoston päätös veropiireistä annetun valtioneuvoston päätöksen muuttamisesta](1371.md) `1371/1994`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](1372.md) `1372/1994`
+- [Laki eduskunnan virkamiehistä](1373.md) `1373/1994`
+- [Eduskunnan päätös eduskunnan työjärjestyksen muuttamisesta](1374.md) `1374/1994`
+- [Eduskunnan päätös eduskunnan kanslian ohjesäännön muuttamisesta](1375.md) `1375/1994`
+- [Laki tiettyjen tuotteiden varustamisesta CE\-merkinnällä](1376.md) `1376/1994`
+- [Asetus mittatekniikan keskuksesta annetun asetuksen muuttamisesta](1377.md) `1377/1994`
+- [Asetus geologian tutkimuskeskuksesta](1378.md) `1378/1994`
+- [Tilintarkastusasetus](1379.md) `1379/1994`
+- [Valtioneuvoston päätös asbestityöstä](1380.md) `1380/1994`
+- [Valtiovarainministeriön päätös arvopaperin ottamista pörssilistalle koskevista vaatimuksista annetun päätöksen muuttamisesta](1381.md) `1381/1994`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](1382.md) `1382/1994`
+- [Laki vakauslain muuttamisesta](1383.md) `1383/1994`
+- [Asetus räjähteiden vaatimustenmukaisuuden toteamisesta](1384.md) `1384/1994`
+- [Asetus räjähdeasetuksen muuttamisesta](1385.md) `1385/1994`
+- [Asetus  liikenneministeriöstä](1386.md) `1386/1994`
+- [Opetusministeriön päätös opetusministeriön suoritteiden maksullisuudesta](1387.md) `1387/1994`
+- [Laki valtion vakauttamistakauksista annetun lain muuttamisesta](1388.md) `1388/1994`
+- [Asetus Wienin ja Pariisin yleissopimusten soveltamista koskevan yhteispöytäkirjan voimaansaattamisesta](1389.md) `1389/1994`
+- [Asetus radiolaitteista annetun asetuksen muuttamisesta](1390.md) `1390/1994`
+- [Valtioneuvoston päätös televisiolupamaksuista annetun valtioneuvoston päätöksen 2 §:n väliaikaisesta muuttamisesta](1391.md) `1391/1994`
+- [Valtioneuvoston päätös televisiolupamaksuista annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](1392.md) `1392/1994`
+- [Opetusministeriön päätös kansainvälisen henkilövaihdon keskuksen maksullisista suoritteista](1393.md) `1393/1994`
+- [Sosiaali– ja terveysministeriön päätös hyväksyttävästä hoidosta huumausainerikoksissa](1394.md) `1394/1994`
+- [Sisäasiainministeriön päätös Pelastusopiston suoritteiden maksullisuudesta ja maksuperusteista](1395.md) `1395/1994`
+- [Kauppa\- ja teollisuusministeriön päätös sähköasennusten turvallisuudesta](1396.md) `1396/1994`
+- [Kauppa\- ja teollisuusministeriön päätös sähköturvallisuusmääräyksistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1397.md) `1397/1994`
+- [Maa\- ja metsätalousministeriön päätös elintarvikehygieenisen laadun turvaamisesta ja eläintautien leviämisen ehkäisemisestä Suomen ja muiden Euroopan talousalueeseen kuuluvien valtioiden välillä tapahtuvan lihan ja lihatuotteiden maahantuonnin ja maastaviennin yhteydessä annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](1398.md) `1398/1994`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös eläintautien leviämisen ehkäisemisestä Suomen ja muiden Euroopan talousalueeseen kuuluvien valtioiden välillä tapahtuvan hevosten maahantuonnin ja maastaviennin yhteydessä annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen muuttamisesta](1399.md) `1399/1994`
+- [Laki kansaneläkelain väliaikaisesta muuttamisesta](1400.md) `1400/1994`
+- [Laki vuodelta 1995 suoritettavasta sairausvakuutusmaksusta](1401.md) `1401/1994`
+- [Laki työnantajan lapsilisämaksun perimättä jättämisestä vuodelta 1995](1402.md) `1402/1994`
+- [Laki eläketuloa saavan henkilön korotetusta sosiaaliturvamaksusta](1403.md) `1403/1994`
+- [Laki sairausvakuutuslain 59 §:n väliaikaisesta muuttamisesta](1404.md) `1404/1994`
+- [Asetus kansaneläkeasetuksen muuttamisesta](1405.md) `1405/1994`
+- [Asetus lapsen hoitotuesta annetun asetuksen muuttamisesta](1406.md) `1406/1994`
+- [Asetus vammaistukiasetuksen muuttamisesta](1407.md) `1407/1994`
+- [Asetus eläkkeensaajien asumistukiasetuksen muuttamisesta](1408.md) `1408/1994`
+- [Asetus sairausvakuutusasetuksen 7 §:n kumoamisesta](1409.md) `1409/1994`
+- [Asetus työnantajan sosiaaliturvamaksusta annetun asetuksen 1 §:n muuttamisesta](1410.md) `1410/1994`
+- [Sisäasiainministeriön päätös rekisterihallinnon suoritteiden maksullisuudesta, maksuperusteista ja julkisoikeudellisista suoritteista perittävistä kiinteistä maksuista annetun sisäasiainministeriön päätöksen muuttamisesta](1411.md) `1411/1994`
+- [Laki teollisuusyritysten vapaaehtoisesta osallistumisesta ympäristöasioiden hallinta\- ja auditointijärjestelmään](1412.md) `1412/1994`
+- [Laki jätelain muuttamisesta](1413.md) `1413/1994`
+- [Asetus jäteasetuksen muuttamisesta](1414.md) `1414/1994`
+- [Merensuojelulaki](1415.md) `1415/1994`
+- [Laki vesilain muuttamisesta](1416.md) `1416/1994`
+- [Laki aluksista aiheutuvan vesien pilaantumisen ehkäisemisestä annetun lain muuttamisesta](1417.md) `1417/1994`
+- [Laki yleisistä vesi\- ja viemärilaitoksista annetun lain muuttamisesta](1418.md) `1418/1994`
+- [Laki jätelain muuttamisesta](1419.md) `1419/1994`
+- [Laki ydinenergialain muuttamisesta](1420.md) `1420/1994`
+- [Opetusministeriön päätös Suomenlinnan hoitokunnan suoritteiden maksullisuudesta](1421.md) `1421/1994`
+- [Laki eräistä henkilöstön asemaa koskevista järjestelyistä kunnallistettaessa opetusministeriön hallinnonalaan kuuluvia ammatillisia oppilaitoksia](1422.md) `1422/1994`
+- [Laki oppisopimuskoulutuksesta annetun lain muuttamisesta](1423.md) `1423/1994`
+- [Laki oppisopimuskoulutuksesta annetun lain 16 §:n soveltamisesta vuosina 1995 ja 1996](1424.md) `1424/1994`
+- [Asetus oppisopimuskoulutuksesta annetun asetuksen muuttamisesta](1425.md) `1425/1994`
+- [Asetus kilpailuvirastosta annetun asetuksen 10 §:n muuttamisesta](1426.md) `1426/1994`
+- [Asetus kuluttajavirastosta annetun asetuksen muuttamisesta](1427.md) `1427/1994`
+- [Asetus kuluttaja\-asiamiehestä annetun asetuksen 6 §:n muuttamisesta](1428.md) `1428/1994`
+- [Asetus kuluttajavalituslautakunnasta annetun asetuksen 17 §:n muuttamisesta](1429.md) `1429/1994`
+- [Asetus kuluttajatutkimuskeskuksesta annetun asetuksen muuttamisesta](1430.md) `1430/1994`
+- [Asetus elintarvikevirastosta annetun asetuksen muuttamisesta](1431.md) `1431/1994`
+- [Kauppa\- ja teollisuusministeriön päätös kauppa\- ja teollisuusministeriön sekä kauppa\- ja teollisuusministeriön yrityspalvelun piiritoimistojen maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1432.md) `1432/1994`
+- [Liikenneministeriön päätös paineilmajarruilla varustettujen autojen ja niihin kytkettävien perävaunujen jarrulaitteista annetun liikenneministeriön päätöksen 97 §:n muuttamisesta](1433.md) `1433/1994`
+- [Laki arvonlisäveron palautusten takaisinperinnästä kunnilta annetun lain 10 §:n muuttamisesta](1434.md) `1434/1994`
+- [Laki luottolaitostoiminnasta annetun lain 104 ja 106 §:n muuttamisesta](1435.md) `1435/1994`
+- [Eduskunnan päätös eduskunnan oikeusasiamiehen johtosäännön muuttamisesta](1436.md) `1436/1994`
+- [Valtioneuvoston päätös asumistuen määräytymisperusteista](1437.md) `1437/1994`
+- [Valtioneuvoston päätös rakennusurakkasopimuksissa käytettävistä indeksiehdoista](1438.md) `1438/1994`
+- [Laki säätiölain muuttamisesta annetun lain 12 §:n 2 momentin kumoamisesta](1439.md) `1439/1994`
+- [Liikenneministeriön päätös Telehallintokeskuksen maksuista](1440.md) `1440/1994`
+- [Sisäasiainministeriön päätös lääninhallituksen suoritteiden maksullisuudesta, maksuperusteista ja julkisoikeudellisista suoritteista perittävistä maksuista](1441.md) `1441/1994`
+- [Kauppa\- ja teollisuusministeriön päätös patentti\- ja rekisterihallituksen maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1442.md) `1442/1994`
+- [Laki palkkaturvalain muuttamisesta](1443.md) `1443/1994`
+- [Laki eräistä opetus\- ja kulttuuritoimen vuoden 1995 rahoitusta koskevista järjestelyistä](1444.md) `1444/1994`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 49 §:n muuttamisesta](1445.md) `1445/1994`
+- [Laki valtionosuutta saavista kansanopistoista annetun lain 28 §:n muuttamisesta](1446.md) `1446/1994`
+- [Laki opintokeskuslain 23 §:n muuttamisesta](1447.md) `1447/1994`
+- [Laki peruskoululain muuttamisesta](1448.md) `1448/1994`
+- [Laki lukiolain 18 ja 54 b §:n muuttamisesta](1449.md) `1449/1994`
+- [Laki aikuislukiolain 13 ja 28 §:n muuttamisesta](1450.md) `1450/1994`
+- [Laki vieraskielisistä yksityisistä kouluista annetun lain muuttamisesta](1451.md) `1451/1994`
+- [Laki ammatillisista oppilaitoksista annetun lain muuttamisesta](1452.md) `1452/1994`
+- [Laki musiikkioppilaitoslain 4 §:n muuttamisesta](1453.md) `1453/1994`
+- [Laki valtionosuutta saavista kansanopistoista annetun lain 18 §:n muuttamisesta](1454.md) `1454/1994`
+- [Laki valtionosuutta saavista liikunnan koulutuskeskuksista annetun lain 21 §:n muuttamisesta](1455.md) `1455/1994`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 39 §:n 2 momentin kumoamisesta](1456.md) `1456/1994`
+- [Asetus peruskouluasetuksen muuttamisesta](1457.md) `1457/1994`
+- [Asetus lukioasetuksen 32 §:n muuttamisesta](1458.md) `1458/1994`
+- [Asetus aikuislukioasetuksen 8 §:n muuttamisesta](1459.md) `1459/1994`
+- [Asetus vieraskielisistä yksityisistä kouluista annetun asetuksen muuttamisesta](1460.md) `1460/1994`
+- [Asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen 6 §:n muuttamisesta](1461.md) `1461/1994`
+- [Valtiovarainministeriön päätös kansallisista viranomaisista salassapidettäviä tietoja Euroopan yhteisöjen tilastotoimistolle luovutettaessa](1462.md) `1462/1994`
+- [Opetusministeriön päätös museoviraston maksullisista suoritteista](1463.md) `1463/1994`
+- [Verohallituksen päätös kotitalouksien ennakonpidätysvelvollisuuden rajoittamisesta](1464.md) `1464/1994`
+- [Laki tuloverolain muuttamisesta](1465.md) `1465/1994`
+- [Tullilaki](1466.md) `1466/1994`
+- [Laki tullilaitoksesta annetun lain muuttamisesta](1467.md) `1467/1994`
+- [Laki eräiden ulkomaankauppaan liittyvien lakien kumoamisesta](1468.md) `1468/1994`
+- [Valmisteverotuslaki](1469.md) `1469/1994`
+- [Laki tupakkaverosta](1470.md) `1470/1994`
+- [Laki alkoholi\- ja alkoholijuomaverosta](1471.md) `1471/1994`
+- [Laki nestemäisten polttoaineiden valmisteverosta](1472.md) `1472/1994`
+- [Laki eräiden energialähteiden valmisteverosta](1473.md) `1473/1994`
+- [Laki makeis\- ja virvoitusjuomaverosta](1474.md) `1474/1994`
+- [Laki öljyjätemaksusta annetun lain muuttamisesta](1475.md) `1475/1994`
+- [Laki eräiden valmisteveroista annettujen lakien kumoamisesta](1476.md) `1476/1994`
+- [Laki alkoholilain muuttamisesta](1477.md) `1477/1994`
+- [Laki tuotannollisen toiminnan edistämiseksi myönnettävistä veronhuojennuksista annetun lain kumoamisesta](1478.md) `1478/1994`
+- [Vuoden 1995 veroasteikkolaki](1479.md) `1479/1994`
+- [Laki eräistä ajoneuvoista suoritettavasta ajoneuvoverosta annetun lain 5 ja 11 §:n muuttamisesta ja 4 §:n väliaikaisesta muuttamisesta](1480.md) `1480/1994`
+- [Laki varallisuusverolain muuttamisesta](1481.md) `1481/1994`
+- [Autoverolaki](1482.md) `1482/1994`
+- [Laki arvonlisäverolain muuttamisesta](1483.md) `1483/1994`
+- [Asetus moottoriajoneuvoverosta annetun lain täytäntöönpanosta ja soveltamisesta annetun asetuksen 1 ja 9 b §:n muuttamisesta](1484.md) `1484/1994`
+- [Laki arvonlisä\- ja valmisteverotuksen toimittamisesta Ahvenanmaan maakunnan ja muun Suomen välisissä suhteissa](1485.md) `1485/1994`
+- [Laki arvonlisäverolain muuttamisesta](1486.md) `1486/1994`
+- [Asetus arvonlisäveroasetuksen muuttamisesta](1487.md) `1487/1994`
+- [Asetus ulkomaisten väliyhteisöjen osakkaiden verotuksesta annetun lain 2 §:n 3 momentissa tarkoitetuista valtioista](1488.md) `1488/1994`
+- [Asetus verotusasetuksen muuttamisesta](1489.md) `1489/1994`
+- [Asetus ennakkoperintäasetuksen muuttamisesta](1490.md) `1490/1994`
+- [Asetus arvonlisäveroasetuksen muuttamisesta](1491.md) `1491/1994`
+- [Asetus verohallintoasetuksen muuttamisesta](1492.md) `1492/1994`
+- [Laki liikennevakuutuslain muuttamisesta](1493.md) `1493/1994`
+- [Laki lasten kotihoidon tuesta annetun lain muuttamisesta](1494.md) `1494/1994`
+- [Laki lasten kotihoidon tuesta annetun lain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1495.md) `1495/1994`
+- [Laki lasten päivähoidosta annetun lain 11 a §:n väliaikaisesta muuttamisesta](1496.md) `1496/1994`
+- [Laki lasten päivähoidosta annetun lain 31 §:n muuttamisesta](1497.md) `1497/1994`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain väliaikaisesta muuttamisesta](1498.md) `1498/1994`
+- [Laki lomautuksen johdosta maksettavasta ylimääräisestä työttömyysvakuutusmaksusta vuonna 1995](1499.md) `1499/1994`
+- [Laki työttömyysturvalain väliaikaisesta muuttamisesta](1500.md) `1500/1994`
+- [Laki sairausvakuutuslain muuttamisesta](1501.md) `1501/1994`
+- [Asetus vedonlyönnin toimeenpanemisesta hevoskilpailuissa annetun asetuksen 11 a §:n muuttamisesta](1502.md) `1502/1994`
+- [Asetus työttömyysturvalain täytäntöönpanosta annetun asetuksen muuttamisesta](1503.md) `1503/1994`
+- [Laki mielenterveyslain muuttamisesta](1504.md) `1504/1994`
+- [Laki terveydenhuollon laitteista ja tarvikkeista](1505.md) `1505/1994`
+- [Asetus terveydenhuollon laitteista ja tarvikkeista](1506.md) `1506/1994`
+- [Sosiaali\- ja terveysministeriön päätös lääkekorvauslautakunnan maksullisista suoritteista](1507.md) `1507/1994`
+- [Laki Valtion hankintakeskuksen muuttamisesta osakeyhtiöksi](1508.md) `1508/1994`
+- [Asetus väylämaksuasetuksen muuttamisesta](1509.md) `1509/1994`
+- [Asetus helpotuksista Saimaan kanavan ja vesistöalueen väylämaksuihin annetun asetuksen muuttamisesta](1510.md) `1510/1994`
+- [Liikenneministeriön päätös merenkulkulaitoksen maksullisista suoritteista](1511.md) `1511/1994`
+- [Valtiovarainministeriön päätös vuoden 1995 taidekilpailupalkintojen verovapaudesta](1512.md) `1512/1994`
+- [Laki oikeudesta hankkia maa\- ja metsätalousmaata annetun lain muuttamisesta](1513.md) `1513/1994`
+- [Laki maaseutuelinkeinojen tukitehtäviä hoidettaessa noudatettavasta menettelystä annetun lain muuttamisesta](1514.md) `1514/1994`
+- [Laki maaseutuelinkeinorekisteristä](1515.md) `1515/1994`
+- [Asetus maa\- ja metsätalousministeriöstä](1516.md) `1516/1994`
+- [Sisäasiainministeriön päätös poliisin suoritteiden maksullisuudesta annetun sisäasiainministeriön päätöksen liitteen muuttamisesta](1517.md) `1517/1994`
+- [Verohallituksen päätös vuonna 1995 sovellettavien ennakonpidätysperusteiden voimaantulosta](1518.md) `1518/1994`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](1519.md) `1519/1994`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](1520.md) `1520/1994`
+- [Laki ulkomaankaupan hallinnosta sekä tarkkailu\- ja suojatoimenpiteistä eräissä tapauksissa](1521.md) `1521/1994`
+- [Laki rikoslain 46 luvun 1 §:n muuttamisesta](1522.md) `1522/1994`
+- [Laki julkisista hankinnoista annetun lain muuttamisesta](1523.md) `1523/1994`
+- [Laki eräistä poikkeuksista kuntien valtionosuuslain säännöksiin vuonna 1995](1524.md) `1524/1994`
+- [Laki Valtion pukutehtaan yhtiöittämisestä](1525.md) `1525/1994`
+- [Laki kirjanpitolain muuttamisesta](1526.md) `1526/1994`
+- [Laki huoltovarmuuden turvaamisesta annetun lain muuttamisesta](1527.md) `1527/1994`
+- [Valtiovarainministeriön päätös tullilaitoksen suoritteiden maksullisuudesta ja maksuperusteista sekä suoritteista perittävistä maksuista annetun valtiovarainministeriön päätöksen muuttamisesta](1528.md) `1528/1994`
+- [Sosiaali– ja terveysministeriön päätös sotilasvammalain 18 §:n 2 momentissa tarkoitetun tulorajan tarkistamisesta](1529.md) `1529/1994`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](1530.md) `1530/1994`
+- [Laki pääomasijoitustoimintaa harjoittavasta valtionyhtiöstä](1531.md) `1531/1994`
+- [Asetus passintarkastajista](1532.md) `1532/1994`
+- [Asetus testaus\-, tarkastus\-, sertifiointi\- ja kalibrointitoimintaa harjoittavien toimielinten pätevyyden toteamisesta annetun asetuksen muuttamisesta](1533.md) `1533/1994`
+- [Asetus saamelaisvaltuuskunnasta annetun asetuksen muuttamisesta](1534.md) `1534/1994`
+- [Valtioneuvoston päätös saamelaisasiain neuvottelukunnasta annetun valtioneuvoston päätöksen muuttamisesta](1535.md) `1535/1994`
+- [Kauppa\- ja teollisuusministeriön päätös nettosähköenergian määrittelystä](1536.md) `1536/1994`
+- [Sosiaali– ja terveysministeriön päätös lomautuksen johdosta maksettavasta ylimääräisestä työttömyysvakuutusmaksusta vuonna 1995 annetun lain soveltamisesta](1537.md) `1537/1994`
+- [Sosiaali– ja terveysministeriön päätös vuodelta 1995 perittävästä palkansaajan työttömyysvakuutusmaksusta annetun lain soveltamisesta](1538.md) `1538/1994`
+- [Valtiovarainministeriön päätös liikeosakkeen verotusarvon perusteista](1539.md) `1539/1994`
+- [Laki Suomen liittymisestä Euroopan unioniin tehdyn sopimuksen eräiden määräysten hyväksymisestä](1540.md) `1540/1994`
+- [Asetus Suomen liittymisestä Euroopan unioniin tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1541.md) `1541/1994`
+- [Asetus eräiden Suomen liittymisestä Euroopan unioniin tehtyyn sopimukseen liittyvien verotusta, tulleja ja ulkomaankauppaa sekä tullilaitosta koskevien lakien voimaantulosta](1542.md) `1542/1994`
+- [Tulliasetus](1543.md) `1543/1994`
+- [Asetus tullilaitoksesta annetun asetuksen muuttamisesta](1544.md) `1544/1994`
+- [Asetus eräistä väliaikaisista tulleista annetun lain 1 §:n 2 momentissa tarkoitettujen tavaroiden ilmoittamisesta tulliviranomaiselle](1545.md) `1545/1994`
+- [Valmisteverotusasetus](1546.md) `1546/1994`
+- [Asetus nestemäisten polttoaineiden valmisteverosta](1547.md) `1547/1994`
+- [Valtioneuvoston päätös tullilaitoksen toimivallasta eräiden maataloustuotteiden varastojen verottamisessa](1548.md) `1548/1994`
+- [Valtiovarainministeriön päätös verohallinnon maksullisista suoritteista annetun valtiovarainministeriön päätöksen muuttamisesta](1549.md) `1549/1994`
+- [Valtiovarainministeriön päätös eräiden kulkuneuvojen muonituksesta sekä eräistä yksityisten henkilöiden maahan tuomien tavaroiden tulleista](1550.md) `1550/1994`
+- [Laki valtiopäiväjärjestyksen muuttamisesta](1551.md) `1551/1994`
+- [Laki valtioneuvostosta annetun lain 3 a §:n muuttamisesta](1552.md) `1552/1994`
+- [Eduskunnan päätös eduskunnan työjärjestyksen muuttamisesta](1553.md) `1553/1994`
+- [Laki Euroopan unionin jäsenyyteen liittyvistä oikeudenhoitoa koskevista säännöksistä](1554.md) `1554/1994`
+- [Asetus Euroopan unionin jäsenyyteen liittyvistä oikeudenhoitoa koskevista säännöksistä annetun lain voimaantulosta](1555.md) `1555/1994`
+- [Laki Ahvenanmaan itsehallintolain muuttamisesta](1556.md) `1556/1994`
+- [Asetus eräiden asumistukeen liittyvien tehtävien hoitamisesta Ahvenanmaan maakunnassa](1557.md) `1557/1994`
+- [Asetus eräitä poikkeuksia yleisten asiakirjain julkisuudesta sisältävän asetuksen 1 §:n muuttamisesta](1558.md) `1558/1994`
+- [Asetus yksinoikeudesta integroidun piirin piirimalliin annetun lain väliaikaisesta soveltamisesta eräisiin piirimalleihin](1559.md) `1559/1994`
+- [Asetus yksinoikeudesta integroidun piirin piirimalliin annetun lain pysyvästä soveltamisesta eräistä valtioista peräisin oleviin piirimalleihin annetun asetuksen 1 §:n muuttamisesta](1560.md) `1560/1994`
+- [VEROHALLITUKSEN PÄÄTÖS ulkomaalaisen elinkeinonharjoittajan arvonlisäveron palautushakemuksessa ilmoitettavista tiedoista ja hakemukseen liitettävistä asiakirjoista](1561.md) `1561/1994`
+- [Laki kalahygienialain muuttamisesta](1562.md) `1562/1994`
+- [Laki lihahygienialain muuttamisesta](1563.md) `1563/1994`
+- [Laki maitohygienialain muuttamisesta](1564.md) `1564/1994`
+- [Laki munavalmistehygienialain muuttamisesta](1565.md) `1565/1994`
+- [Asetus eräiden elintarvikehygieniaa koskevien lakien muuttamisesta annettujen lakien voimaantulosta](1566.md) `1566/1994`
+- [Asetus kalahygienialain voimaanpanosta annetun asetuksen 2 §:n muuttamisesta](1567.md) `1567/1994`
+- [Asetus kalahygienia\-asetuksen muuttamisesta](1568.md) `1568/1994`
+- [Asetus eräiden eläimistä saatavien elintarvikkeiden tuontivalvonnasta](1569.md) `1569/1994`
+- [Asetus eläintautien vastustamisesta eläinten ja eräiden muiden tavaroiden maahantuonnissa ja maastaviennissä annetun asetuksen muuttamisesta](1570.md) `1570/1994`
+- [Asetus kaivosasetuksen muuttamisesta](1571.md) `1571/1994`
+- [Asetus eräiden Suomen liittymisestä Euroopan unioniin tehtyyn sopimukseen liittyvien ulkomaankauppaa ja julkisia hankintoja koskevien lakien voimaantulosta](1572.md) `1572/1994`
+- [Asetus eräiden Suomen liittymisestä Euroopan unioniin tehtyyn sopimukseen liittyvien kalastuspolitiikan alaan kuuluvien lakien voimaantulosta](1573.md) `1573/1994`
+- [Asetus eräiden kalastussopimusten täytäntöönpanosta ja soveltamisesta annetun asetuksen kumoamisesta](1574.md) `1574/1994`
+- [Maa\- ja metsätalousministeriön päätös kalataloutta koskevista rekistereistä](1575.md) `1575/1994`
+- [Maa\- ja metsätalousministeriön päätös rakennepoliittisista kalataloustuista](1576.md) `1576/1994`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös eläintautien vastustamiseksi suoritettavista tarkastuksista Euroopan yhteisön sisämarkkinoilla](1577.md) `1577/1994`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös eräiden tuotantoeläinten sekä niiden alkioiden ja sukusolujen eläintautivaatimuksista Euroopan yhteisön sisämarkkinoilla](1578.md) `1578/1994`
+- [VEROHALLITUKSEN PÄÄTÖS arvonlisäverotusta koskevasta ilmoittamisvelvollisuudesta](1579.md) `1579/1994`
+- [Asetus eräiden Suomen liittymisestä Euroopan unioniin tehtyyn sopimukseen liittyvien maa\- ja metsätalousministeriön hallinnonalaan kuuluvien lakien voimaantulosta](1580.md) `1580/1994`
+- [Asetus maa\- ja metsätalousministeriön tietopalvelukeskuksesta annetun asetuksen 1 §:n muuttamisesta](1581.md) `1581/1994`
+- [Asetus eräiden maataloustuotteiden tuonnin tarkkailusta](1582.md) `1582/1994`
+- [Asetus maatalousyrittäjien luopumistuesta](1583.md) `1583/1994`
+- [Asetus maatalousyrittäjien eläkelaitoksen ohjesäännön sisältävän asetuksen muuttamisesta](1584.md) `1584/1994`
+- [Asetus työntekijäin eläkeasetuksen 12 a ja 12 c §:n muuttamisesta](1585.md) `1585/1994`
+- [Asetus kasvihuonetuotannon ja omenanviljelyn lopettamistuesta](1586.md) `1586/1994`
+- [Asetus maatalouden interventiorahastosta](1587.md) `1587/1994`
+- [Asetus eräiden Suomen liittymisestä Euroopan unioniin tehtyyn sopimukseen liittyvien liikenneministeriön hallinnonalaan kuuluvien lakien voimaantulosta](1588.md) `1588/1994`
+- [Asetus ydinenergialain muuttamisesta annetun lain voimaantulosta](1589.md) `1589/1994`
+- [Asetus uusjakojen tukemisesta annetun asetuksen muuttamisesta](1590.md) `1590/1994`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannuista muutoksisa](1591.md) `1591/1994`
+- [Valtioneuvoston päätös maatilavarastojen arvonalennuksen korvaamisesta](1592.md) `1592/1994`
+- [Laki eräiden valtion tukea koskevien Euroopan yhteisöjen säännösten soveltamisesta](1593.md) `1593/1994`
+- [Laki teknisten määräysten ilmoitusmenettelyä koskevien Euroopan yhteisöjen säännösten soveltamisesta](1594.md) `1594/1994`
+- [Asetus eräiden Suomen liittymisestä Euroopan unioniin tehtyyn sopimukseen liittyvien valtion tukea ja teknisten määräysten ilmoitusmenettelyä koskevien lakien voimaantulosta](1595.md) `1595/1994`
+- [Asetus valtioneuvoston ohjesäännön muuttamisesta](1596.md) `1596/1994`
+- [Asetus säteilylain muuttamisesta annetun lain voimaantulosta](1597.md) `1597/1994`
+- [Asetus säteilyasetuksen muuttamisesta](1598.md) `1598/1994`
+- [Sosiaali– ja terveysministeriön päätös lääkelaitoksen maksullisista suoritteista](1599.md) `1599/1994`

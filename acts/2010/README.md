@@ -1,0 +1,1428 @@
+# 2010 Statutes
+
+## Statutes
+
+- [Opetusministeriön asetus opetushallituksen suoritteiden maksullisuudesta](1.md) `1/2010`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveysministeriön työjärjestyksen muuttamisesta](2.md) `2/2010`
+- [Verohallinnon päätös pidennettyjen ilmoitusjaksojen muutosajankohdasta](3.md) `3/2010`
+- [Verohallinnon päätös ilmoittamisvelvollisuudesta ja muistiinpanoista](4.md) `4/2010`
+- [Sosiaali\- ja terveysministeriön asetus CLP\-asetuksen liitteessä VI tarkoitetuista kemikaaleista](5.md) `5/2010`
+- [Sosiaali\- ja terveysministeriön asetus kemikaalien luokitusperusteista ja merkintöjen tekemisestä annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](6.md) `6/2010`
+- [Valtioneuvoston asetus talletuspankkien ja kiinnitysluottopankkien varainhankinnalle myönnettävistä valtiontakauksista perittävistä maksuista](7.md) `7/2010`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön työjärjestyksen muuttamisesta](8.md) `8/2010`
+- [Laki arvopaperimarkkinalain muuttamisesta](9.md) `9/2010`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](10.md) `10/2010`
+- [Laki Finanssivalvonnan valvontamaksusta annetun lain 1 ja 6 §:n muuttamisesta](11.md) `11/2010`
+- [Valtiovarainministeriön asetus verovuoden 2009 ennakonpalautusten maksamisesta](12.md) `12/2010`
+- [Valtiovarainministeriön asetus vuoden 2010 kiinteistöveron eräpäivistä](13.md) `13/2010`
+- [Valtiovarainministeriön asetus jäännösveron ja metsänhoitomaksun eräpäivistä vuodelta 2009](14.md) `14/2010`
+- [Laki tieliikennelain muuttamisesta](15.md) `15/2010`
+- [Laki päästökauppalain muuttamisesta](16.md) `16/2010`
+- [Valtioneuvoston asetus valtion virkamiesasetuksen 3 ja 6 §:n muuttamisesta](17.md) `17/2010`
+- [Valtioneuvoston asetus ennakkoperintäasetuksen 31 ja 32 §:n kumoamisesta](18.md) `18/2010`
+- [Valtioneuvoston asetus rajoitetusti verovelvollisen tulon verottamisesta annetun valtioneuvoston asetuksen 3 ja 4 §:n kumoamisesta](19.md) `19/2010`
+- [Valtioneuvoston asetus korkotulon lähdeverosta annetun valtioneuvoston asetuksen 2 §:n kumoamisesta](20.md) `20/2010`
+- [Valtiovarainministeriön asetus veronkannosta annetun valtiovarainministeriön asetuksen 3 ja 5 §:n muuttamisesta](21.md) `21/2010`
+- [Maa\- ja metsätalousministeriön asetus elintarvikevalvonnasta annetun valtioneuvoston asetuksen 10 §:n muuttamisesta](22.md) `22/2010`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta \(EU\) N:o 1284/2009 tietyistä Guinean tasavaltaan kohdistuvista rajoittavista toimenpiteistä](23.md) `23/2010`
+- [Opetusministeriön asetus ammatillisesta aikuiskoulutuksesta annetussa laissa tarkoitetusta tutkintorakenteesta](24.md) `24/2010`
+- [Työ\- ja elinkeinoministeriön asetus kosmeettisista valmisteista annetun kauppa\- ja teollisuusministeriön asetuksen muuttamisesta](25.md) `25/2010`
+- [Maa\- ja metsätalousministeriön asetus maanmittauslaitoksen maksuista vuosina 2010 ja 2011 annetun maa\- ja metsätalousministeriön asetuksen 2 §:n muuttamisesta](26.md) `26/2010`
+- [Valtioneuvoston asetus rikoksen johdosta tapahtuvasta luovuttamisesta Euroopan unionin ja Amerikan yhdysvaltojen välillä tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](27.md) `27/2010`
+- [Valtioneuvoston asetus Suomen ja Amerikan yhdysvaltojen 11 päivänä kesäkuuta 1976 allekirjoittamaan luovutussopimukseen tehdyn pöytäkirjan voimaansaattamisesta sekä pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](28.md) `28/2010`
+- [Valtioneuvoston asetus keskinäisestä oikeusavusta Euroopan unionin ja Amerikan yhdysvaltojen välillä tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](29.md) `29/2010`
+- [Valtioneuvoston asetus Suomen ja Amerikan yhdysvaltojen välillä tietyistä keskinäiseen oikeusapuun rikosasioissa liittyvistä näkökohdista tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](30.md) `30/2010`
+- [Valtioneuvoston asetus huvialusten lipuista annetun asetuksen muuttamisesta](31.md) `31/2010`
+- [Opetusministeriön ilmoitus dopingin vastaisen yleissopimuksen liitteen muutosten voimaantulosta](32.md) `32/2010`
+- [Opetusministeriön ilmoitus kansainvälisen dopingin vastaisen yleissopimuksen liitteen muutosten voimaantulosta](33.md) `33/2010`
+- [Laki lentoliikenteen päästökaupasta](34.md) `34/2010`
+- [Tasavallan presidentin asetus hengenpelastusmitalista annetun asetuksen 4 ja 6 §:n muuttamisesta](35.md) `35/2010`
+- [Valtioneuvoston päätös hätäkeskusalueista](36.md) `36/2010`
+- [Valtioneuvoston asetus vuodelta 2010 maksettavasta Etelä\-Suomen kansallisesta tuesta](37.md) `37/2010`
+- [Valtioneuvoston asetus vuodelta 2010 maksettavasta pohjoisesta tuesta](38.md) `38/2010`
+- [Valtioneuvoston asetus vuodelta 2010 maksettavasta ympäristötuen kansallisesta lisäosasta](39.md) `39/2010`
+- [Valtioneuvoston asetus vuodelta 2010 maksettavasta luonnonhaittakorvauksen kansallisesta lisäosasta](40.md) `40/2010`
+- [Valtioneuvoston asetus vuodelta 2010 maksettavasta perunantuotannon kansallisesta tuesta](41.md) `41/2010`
+- [Valtioneuvoston asetus vuodelta 2010 maksettavasta sokerijuurikkaan kansallisesta tuesta](42.md) `42/2010`
+- [Valtioneuvoston asetus maatalousyrittäjien opintorahasta annetun valtioneuvoston asetuksen 12 §:n kumoamisesta](43.md) `43/2010`
+- [Valtioneuvoston asetus maatalousyrittäjien opintorahan määrästä vuonna 2010](44.md) `44/2010`
+- [Maa\- ja metsätalousministeriön asetus maatalousyrittäjien opintorahan hakemisesta annetun maa\- ja metsätalousministeriön asetuksen 2 §:n muuttamisesta](45.md) `45/2010`
+- [Valtioneuvoston asetus luonnonhaittakorvauksista ja maatalouden ympäristötuista vuosina 2007―2013 annetun valtioneuvoston asetuksen muuttamisesta](46.md) `46/2010`
+- [Valtioneuvoston asetus ei\-tuotannollisten investointien tuesta vuosina 2008―2013 annetun valtioneuvoston asetuksen muuttamisesta](47.md) `47/2010`
+- [Tasavallan presidentin asetus Palestiinalaishallinnon kanssa Suomen tuesta palestiinalaishallinnolle Mécanisme Palestino Européen de Gestion et d´Aide Socio\-économique \(PEGASE\) \-mekanismin ohjelman "Supporting Palestinian Public Administration and Services" kautta tehdyn sopimuksen voimaansaattamisesta](48.md) `48/2010`
+- [Tasavallan presidentin asetus laajakaistarakentamisen tukeen liittyvien hallintotehtävien hoitamisesta Ahvenanmaan maakunnassa](49.md) `49/2010`
+- [Valtioneuvoston asetus ajoneuvoverolain muuttamisesta annetun lain ja ajoneuvoverolain muuttamisesta annetun lain 10 §:n muuttamisesta annetun lain voimaantulosta](50.md) `50/2010`
+- [Valtioneuvoston asetus kuorma\- ja linja\-auton kuljettajien ammattipätevyydestä annetun valtioneuvoston asetuksen 8 §:n muuttamisesta](51.md) `51/2010`
+- [Valtioneuvoston asetus ajokorttiasetuksen muuttamisesta](52.md) `52/2010`
+- [Valtioneuvoston asetus työsuojelulautakunnista](53.md) `53/2010`
+- [Valtioneuvoston asetus työnantajan sosiaaliturvamaksujen jakautumasta](54.md) `54/2010`
+- [Sisäasiainministeriön asetus pysäköintivirhemaksusta](55.md) `55/2010`
+- [Sisäasiainministeriön asetus säteilyvaaratilanteiden varalle laadittavista pelastustoimen suunnitelmista ja säteilyvaarasta tiedottamisesta annetun sisäasiainministeriön asetuksen muuttamisesta](56.md) `56/2010`
+- [Sisäasiainministeriön asetus pelastusviranomaisen ja Pelastusopiston henkilöstön virkapuvusta, virka\-asematunnuksista sekä pelastusviranomaisen henkilökortista annetun sisäasiainministeriön asetuksen muuttamisesta](57.md) `57/2010`
+- [Sisäasiainministeriön asetus vaarallisista aineista aiheutuvien suuronnettomuuksien torjunnasta annetun sisäasiainministeriön asetuksen muuttamisesta](58.md) `58/2010`
+- [Työ\- ja elinkeinoministeriön asetus yhdenvertaisuuslaissa tarkoitetun hyvityksen enimmäismäärän tarkistamisesta](59.md) `59/2010`
+- [Sosiaali\- ja terveysministeriön asetus panostajan pätevyyskirjan myöntävästä viranomaisesta ja pätevyyskirjan saamiseksi vaadittavasta koulutuksesta annetun sosiaali\- ja terveysministeriön asetuksen 2 §:n muuttamisesta](60.md) `60/2010`
+- [Valtiovarainministeriön asetus muutto\- ja maastamuuttoilmoitusten vastaanottamiseen liittyvien tehtävien jakamisesta maistraattien kesken](61.md) `61/2010`
+- [Työ\- ja elinkeinoministeriön asetus Patentti\- ja rekisterihallituksen maksullisista suoritteista annetun työ\- ja elinkeinoministeriön asetuksen muuttamisesta](62.md) `62/2010`
+- [Liikenne\- ja viestintäministeriön asetus lentoliikenteen hiilidioksidipäästöjen ja tonnikilometrimäärien tarkkailusta, todentamisesta sekä todentajien hyväksymismenettelystä](63.md) `63/2010`
+- [Liikenne\- ja viestintäministeriön asetus maksutta jaettavien lentoliikenteen päästöoikeuksien hakemisesta ja myöntämisestä](64.md) `64/2010`
+- [Sisäasiainministeriön asetus Turvapaikanhakijoiden toimeentulotuen perusosan jakamisesta hyödykkeisiin ja rahana annettavaan osaan sekä vastaanoton majoituksesta ja palveluista perittävistä maksuista](65.md) `65/2010`
+- [Sosiaali\- ja terveysministeriön asetus Lääkealan turvallisuus\- ja kehittämiskeskuksen maksullisista suoritteista](66.md) `66/2010`
+- [Sosiaali\- ja terveysministeriön asetus lääkäri\- ja hammaslääkärikoulutuksen sekä yliopistotasoisen terveystieteellisen tutkimustoiminnan korvauksen perusteista vuonna 2010](67.md) `67/2010`
+- [Verohallinnon päätös ennakonpidätyksen toimittamistavoista ja määrästä](68.md) `68/2010`
+- [Laki Yliopistojen palvelukeskuksen muuttamisesta osakeyhtiöksi](69.md) `69/2010`
+- [Laki ulkomaalaisrekisteristä annetun lain 7 ja 8 §:n muuttamisesta](70.md) `70/2010`
+- [Laki verotusmenettelystä annetun lain 18 §:n muuttamisesta](71.md) `71/2010`
+- [Tasavallan presidentin asetus Euroopan talousyhteisön ja San Marinon tasavallan yhteistyötä ja tulliliittoa koskevaan sopimukseen Itävallan tasavallan, Suomen tasavallan ja Ruotsin kuningaskunnan Euroopan unioniin liittymisen vuoksi tehdyn pöytäkirjan voimaansaattamisesta](72.md) `72/2010`
+- [Valtiovarainministeriön asetus Eero Saarinen ja arkkitehtuuri \-juhlarahasta](73.md) `73/2010`
+- [Maa\- ja metsätalousministeriön asetus kasvihuonetuotannon tuesta vuonna 2010](74.md) `74/2010`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisten tukien hakemusten toimittamisesta sekä kotieläinten laskentapäivistä ja \-ajankohdista vuonna 2010](75.md) `75/2010`
+- [Valtioneuvoston asetus merenkulun ympäristönsuojelusta](76.md) `76/2010`
+- [Opetusministeriön asetus ammatillisista perustutkinnoista annetun opetusministeriön asetuksen liitteen muuttamisesta](77.md) `77/2010`
+- [Maa\- ja metsätalousministeriön asetus ravintolisistä](78.md) `78/2010`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön ulkopuolisista maista tuotavista linnunmunista ja munatuotteista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](79.md) `79/2010`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön ulkopuolisista maista tuotavasta lihasta ja lihasta jalostetuista tuotteista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](80.md) `80/2010`
+- [Maa\- ja metsätalousministeriön asetus eräiden Euroopan unioniin kuulumattomista valtioista tuotavien tavaroiden eläintautivaatimuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](81.md) `81/2010`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön ulkopuolisista maista tuotavista kalastustuotteista ja niistä saaduista raakavalmisteista ja jalosteista sekä elävistä simpukoista, piikkinahkaisista, vaippaeläimistä ja merikotiloista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](82.md) `82/2010`
+- [Valtioneuvoston asetus Valtion ydinjätehuoltorahaston varoista annettavien lainojen yleisistä ehdoista](83.md) `83/2010`
+- [Työ\- ja elinkeinoministeriön asetus päästöoikeuksien kaupan järjestelmään ensi kertaa vuonna 2013 tulevien laitosten päästötietojen toimittamisesta ja todentamisesta](84.md) `84/2010`
+- [Valtiovarainministeriön päätös kuntajaon muuttamisesta Maskun kunnan ja Naantalin kaupungin välillä](85.md) `85/2010`
+- [Maa\- ja metsätalousministeriön asetus silakan ja kilohailin kalastuksen keskeyttämisestä Itämeren pääaltaalla](86.md) `86/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta lannoitevalmisteita koskevan toiminnan harjoittamisesta ja sen valvonnasta annetun maa\- ja metsätalousministeriön asetuksen 13/07 muuttamisesta](87.md) `87/2010`
+- [Laki lastensuojelulain muuttamisesta](88.md) `88/2010`
+- [Laki vankeuslain 4 ja 20 luvun muuttamisesta](89.md) `89/2010`
+- [Laki tutkintavankeuslain 2 luvun 5 §:n muuttamisesta](90.md) `90/2010`
+- [Tasavallan presidentin asetus Euroopan yhteisöjen ja niiden jäsenvaltioiden sekä Tadžikistanin tasavallan välisen kumppanuus\- ja yhteistyösopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](91.md) `91/2010`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2010 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista ja työnantajasuoritusten vähimmäismäärästä](92.md) `92/2010`
+- [Liikenne\- ja viestintäministeriön asetus ajokorttiasetuksen soveltamisesta annetun liikenneministeriön päätöksen 3 §:n 4 momentin muuttamisesta](93.md) `93/2010`
+- [Tasavallan presidentin asetus WIPOn tekijänoikeussopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](94.md) `94/2010`
+- [Tasavallan presidentin asetus WIPOn esitys\- ja äänitesopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](95.md) `95/2010`
+- [Valtioneuvoston asetus valtionavustuksesta eläimen omistajalle nautojen, lampaiden, vuohien, sikojen ja siipikarjan raatojen keräilystä ja hävittämisestä aiheutuviin kustannuksiin](96.md) `96/2010`
+- [Valtioneuvoston asetus sähkön alkuperän varmentamisesta annetun valtioneuvoston asetuksen muuttamisesta](97.md) `97/2010`
+- [Maa\- ja metsätalousministeriön asetus hukkakauran torjunnasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](98.md) `98/2010`
+- [Valtiovarainministeriön asetus toimivaltaisista maistraateista isyyden tunnustamisen hyväksymistä koskevissa asioissa](99.md) `99/2010`
+- [Valtiovarainministeriön asetus toimivaltaisista maistraateista etunimen ja sukunimen muuttamista koskevien hakemusten käsittelyssä](100.md) `100/2010`
+- [Valtiovarainministeriön asetus toimivaltaisista maistraateista perukirjan osakasluettelon vahvistamista koskevissa asioissa](101.md) `101/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta hukkakauran torjunnasta aiheutuvien kustannusten korvaamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](102.md) `102/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinterveyden suojelemisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](103.md) `103/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta siemenperunan markkinoinnista ja tuottamisesta korkealaatuisen siemenperunan tuotantoalueella annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](104.md) `104/2010`
+- [Verohallinnon päätös yleisestä tiedonantovelvollisuudesta annetun päätöksen muuttamisesta](105.md) `105/2010`
+- [Tasavallan presidentin asetus Puolan kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](106.md) `106/2010`
+- [Tasavallan presidentin asetus korkeampaan koulutukseen pääsystä Pohjoismaiden välillä tehdyn sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](107.md) `107/2010`
+- [Valtioneuvoston asetus poronhoitovuodelta 2010/2011 maksettavasta eläinkohtaisesta tuesta](108.md) `108/2010`
+- [Valtioneuvoston asetus vuodelta 2010 maksettavasta mehiläistalouden kansallisesta pesäkohtaisesta tuesta](109.md) `109/2010`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen muuttamisesta](110.md) `110/2010`
+- [Valtioneuvoston asetus tuesta tilaneuvontaan vuonna 2010](111.md) `111/2010`
+- [Valtioneuvoston asetus erityishuoltopiireistä annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](112.md) `112/2010`
+- [Sosiaali\- ja terveysministeriön asetus Sosiaali\- ja terveysalan lupa\- ja valvontaviraston maksullisista suoritteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](113.md) `113/2010`
+- [Ulkoasiainministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoasiainministeriön asetuksen muuttamisesta](114.md) `114/2010`
+- [Ympäristöministeriön asetus biosidivalmisteen hyväksymisen tai rekisteröinnin hakemisesta, markkinoilta poistamisesta ja erityisehdoista annetun asetuksen 2 ja 4 §:n sekä liitteiden 1 ja 2 muuttamisesta](115.md) `115/2010`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain väliaikaisesta muuttamisesta](116.md) `116/2010`
+- [Tasavallan presidentin asetus ihmisoikeuksien ja ihmisarvon suojaamiseksi biologian ja lääketieteen alalla tehdyn yleissopimuksen sekä siihen liittyvien ihmisten toisintamisen kieltämisestä ja ihmisalkuperää olevien elinten ja kudosten siirroista tehtyjen lisäpöytäkirjojen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](117.md) `117/2010`
+- [Valtioneuvoston asetus kansanterveyttä sekä eläinten ja kasvien terveyttä, taudeista ilmoittamista, eläinten hyvinvointia sekä eläinten tunnistusta ja rekisteröintiä koskevien täydentävien ehtojen valvonnasta](118.md) `118/2010`
+- [Maa\- ja metsätalousministeriön asetus varotoimenpiteistä lintuinfluenssan leviämisen ehkäisemiseksi luonnonvaraisten lintujen ja siipikarjan välillä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](119.md) `119/2010`
+- [Maa\- ja metsätalousministeriön asetus helposti pilaantuvien elintarvikkeiden kansainvälisiä kuljetuksia ja tällaisissa kuljetuksissa käytettävää erityiskalustoa koskevan sopimuksen kansallisesta täytäntöönpanosta annetun sosiaali\- ja terveysministeriön asetuksen 4 §:n kumoamisesta sekä 2 §:n muuttamisesta](120.md) `120/2010`
+- [Maa\- ja metsätalousministeriön asetus erityisruokavaliovalmisteista](121.md) `121/2010`
+- [Sosiaali\- ja terveysministeriön asetus sotilasvammalain 18 §:n 2 momentissa tarkoitetun tulorajan tarkistamisesta](122.md) `122/2010`
+- [Valtiovarainministeriön asetus väestötietojärjestelmään talletettavista hallinnollisista ja muista vastaavista aluejaoista](123.md) `123/2010`
+- [Valtiovarainministeriön asetus toimivaltaisesta maistraatista eräissä väestötietojärjestelmän tietojen ylläpitoa koskevissa asioissa](124.md) `124/2010`
+- [Opetusministeriön asetus yliopistojen väliaikaisesti maksullisista koulutusohjelmista](125.md) `125/2010`
+- [Työ\- ja elinkeinoministeriön asetus talous\- ja velkaneuvontapalvelujen tuottajalle vuonna 2010 maksettavan korvauksen perusteista](126.md) `126/2010`
+- [Laki aikuiskoulutustuesta annetun lain muuttamisesta](127.md) `127/2010`
+- [Valtioneuvoston asetus väestötietojärjestelmästä](128.md) `128/2010`
+- [Valtioneuvoston asetus turvavarastointiohjelmasta vuonna 2010](129.md) `129/2010`
+- [Valtioneuvoston asetus mittayksikköasetuksen muuttamisesta](130.md) `130/2010`
+- [Maa\- ja metsätalousministeriön asetus Suomessa rekisteröityjen yli 20\-metristen kalastusalusten harjoittaman turskankalastuksen keskeyttämisestä ICES\-osa\-alueilla 25―32](131.md) `131/2010`
+- [Verohallinnon päätös tiedoista, jotka vakuutusyhtiön tai muun etuuden maksajan on ilmoitettava perintö\- ja lahjaverotusta varten](132.md) `132/2010`
+- [Laki vammaisten henkilöiden tulkkauspalvelusta](133.md) `133/2010`
+- [Laki vammaisuuden perusteella järjestettävistä palveluista ja tukitoimista annetun lain muuttamisesta](134.md) `134/2010`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 4 §:n muuttamisesta](135.md) `135/2010`
+- [Valtioneuvoston asetus arvonlisäveroasetuksen 1 ja 2 §:n muuttamisesta](136.md) `136/2010`
+- [Valtioneuvoston asetus eläinten hyvinvoinnin tuesta vuosina 2008―2013 annetun valtioneuvoston asetuksen muuttamisesta](137.md) `137/2010`
+- [Valtioneuvoston asetus maitoalan erityisestä markkinatukitoimenpiteestä](138.md) `138/2010`
+- [Valtioneuvoston asetus vesikulkuneuvorekisteristä annetun valtioneuvoston asetuksen muuttamisesta](139.md) `139/2010`
+- [Maa\- ja metsätalousministeriön asetus eläinten hyvinvoinnin tuesta vuosina 2008―2013 annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](140.md) `140/2010`
+- [Maa\- ja metsätalousministeriön asetus täydentäviin ehtoihin liittyvistä hyvän maatalouden ja ympäristön vähimmäisvaatimuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](141.md) `141/2010`
+- [Ympäristöministeriön asetus valtion tukemaa asuntorakentamista koskevista määräyksistä ja ohjeista annetun ympäristöministeriön päätöksen kumoamisesta](142.md) `142/2010`
+- [Työ\- ja elinkeinoministeriön asetus Patentti\- ja rekisterihallituksen maksullisista suoritteista annetun työ\- ja elinkeinoministeriön asetuksen liitteenä olevan maksutaulukon muuttamisesta](143.md) `143/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](144.md) `144/2010`
+- [Tasavallan presidentin asetus Suomen liittymisestä kansainväliseen COSPAS\-SARSAT\-ohjelmaan käyttäjävaltiona ja liittymisilmoituksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](145.md) `145/2010`
+- [Valtioneuvoston asetus työntekijöiden suojelemiseksi optiselle säteilylle altistumisesta aiheutuvilta vaaroilta](146.md) `146/2010`
+- [Laki asevelvollisuuslain muuttamisesta](147.md) `147/2010`
+- [Laki naisten vapaaehtoisesta asepalveluksesta annetun lain 2 ja 4 §:n muuttamisesta](148.md) `148/2010`
+- [Laki työnantajan sosiaaliturvamaksun suorittamisesta urheilemisesta saaduista palkkioista annetun lain kumoamisesta](149.md) `149/2010`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain muuttamisesta](150.md) `150/2010`
+- [Laki Gibraltarin kanssa veroasioita koskevista tiedoista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](151.md) `151/2010`
+- [Laki Singaporen kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen muuttamisesta tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](152.md) `152/2010`
+- [Tasavallan presidentin asetus jalometallituotteiden tarkastuksesta ja leimauksesta vuonna 1972 tehdyn yleissopimuksen muutosten voimaansaattamisesta](153.md) `153/2010`
+- [Valtioneuvoston asetus korvauksen maksamisesta kansallisesti tärkeiden peltokasvien jalostustyöstä ja kantasiementuotannosta annetun asetuksen muuttamisesta](154.md) `154/2010`
+- [Valtioneuvoston asetus Terveyden ja hyvinvoinnin laitoksesta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](155.md) `155/2010`
+- [Valtiovarainministeriön asetus Minna Canth ja tasa\-arvo \-juhlarahasta](156.md) `156/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](157.md) `157/2010`
+- [Laki veronkantolain 9 §:n muuttamisesta](158.md) `158/2010`
+- [Laki Anguillan kanssa veroasioita koskevista tiedoista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](159.md) `159/2010`
+- [Laki Cookinsaarten kanssa veroasioita koskevista tiedoista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](160.md) `160/2010`
+- [Laki Samoan kanssa veroasioita koskevista tiedoista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](161.md) `161/2010`
+- [Laki Turks\- ja Caicossaarten kanssa veroasioita koskevista tiedoista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](162.md) `162/2010`
+- [Laki San Marinon kanssa veroasioita koskevista tiedoista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](163.md) `163/2010`
+- [Laki Intian kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](164.md) `164/2010`
+- [Valtioneuvoston asetus laivanrakennuksen innovaatioihin myönnettävästä valtionavustuksesta annetun valtioneuvoston asetuksen muuttamisesta](165.md) `165/2010`
+- [Maa\- ja metsätalousministeriön asetus pakatusta vedestä](166.md) `166/2010`
+- [Maa\- ja metsätalousministeriön asetus tulvavahinkokorvauksista ja arviointiperusteista annetun maa\- ja metsätalousministeriön asetuksen 2 §:n kumoamisesta sekä 1 §:n muuttamisesta](167.md) `167/2010`
+- [Maa\- ja metsätalousministeriön asetus Euroopan unionin ulkopuolisista valtioista tuotavien hevoseläinten eläintautivaatimuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](168.md) `168/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kuormainvaa´an käytöstä puutavaran mittauksessa ja erien erillään pidosta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](169.md) `169/2010`
+- [Laki elinkeinotulon verottamisesta annetun lain 19 §:n väliaikaisesta muuttamisesta](170.md) `170/2010`
+- [Laki verotililain 8 §:n muuttamisesta](171.md) `171/2010`
+- [Valtioneuvoston asetus ulkoasiainhallinnosta annetun valtioneuvoston asetuksen 2 ja 5 §:n muuttamisesta](172.md) `172/2010`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavasta sokerijuurikkaan kuljetustuesta](173.md) `173/2010`
+- [Valtioneuvoston asetus luonnonhaittakorvausten, maatalouden ympäristötuen, eläinten hyvinvoinnin tuen ja ei\-tuotannollisten investointien tuen hakemisesta vuonna 2010](174.md) `174/2010`
+- [Valtioneuvoston asetus vuodelta 2010 maksettavasta luonnonhaittakorvauksen kansallisesta lisäosasta annetun valtioneuvoston asetuksen 7 ja 10 §:n muuttamisesta](175.md) `175/2010`
+- [Maa\- ja metsätalousministeriön asetus teurasruhojen luokittelusta ja hintaseurannasta annetun maa\- ja metsätalousministeriön asetuksen 3 §:n muuttamisesta](176.md) `176/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kalojen bakteeriperäisen munuaistaudin vastustamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](177.md) `177/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta koe\-eläintoiminnasta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](178.md) `178/2010`
+- [Laki rikoslain 7 luvun muuttamisesta](179.md) `179/2010`
+- [Laki Suomen ja muiden pohjoismaiden välisestä yhteistoiminnasta rikosasioissa annettujen tuomioiden täytäntöönpanossa annetun lain 29 §:n muuttamisesta](180.md) `180/2010`
+- [Laki kansainvälisestä yhteistoiminnasta eräiden rikosoikeudellisten seuraamusten täytäntöönpanossa annetun lain 18 §:n muuttamisesta](181.md) `181/2010`
+- [Valmisteverotuslaki](182.md) `182/2010`
+- [Laki Ahvenanmaan maakuntaa koskevista poikkeuksista arvonlisävero\- ja valmisteverolainsäädäntöön annetun lain 27 §:n muuttamisesta](183.md) `183/2010`
+- [Laki työaikalain 37 a §:n muuttamisesta](184.md) `184/2010`
+- [Valtioneuvoston asetus lukioasetuksen 14 §:n muuttamisesta](185.md) `185/2010`
+- [Maa\- ja metsätalousministeriön asetus luonnonhaittakorvaukseen ja maatalouden ympäristötukeen varattujen määrärahojen kohdentamisesta vuoden 2010 haussa ohjelmakaudelta 2000―2006 siirtyvien sitoumusten ja sopimusten osalta](186.md) `186/2010`
+- [Laki CE\-merkintärikkomuksesta](187.md) `187/2010`
+- [Tasavallan presidentin asetus Kansainvälistä Valuuttarahastoa koskevan sopimuksen muutoksen voimaansaattamisesta](188.md) `188/2010`
+- [Tasavallan presidentin asetus Laosin kanssa Laosin kartoitushankkeesta tehdyn sopimuksen voimaansaattamisesta](189.md) `189/2010`
+- [Tasavallan presidentin asetus eräiden Caymansaarten kanssa tehtyjen tuloverotusta koskevien sopimusten voimaansaattamisesta ja sopimusten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](190.md) `190/2010`
+- [Valtioneuvoston asetus eläinsuojeluasetuksen muuttamisesta](191.md) `191/2010`
+- [Valtioneuvoston asetus eläintautiasetuksen 4 ja 6 §:n muuttamisesta](192.md) `192/2010`
+- [Maa\- ja metsätalousministeriön asetus luonnonmukaisesta tuotannosta, luonnonmukaisten tuotteiden merkinnöistä ja valvonnasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](193.md) `193/2010`
+- [Maa\- ja metsätalousministeriön asetus lammas\- ja vuohieläinten merkitsemisestä ja rekisteröinnistä annetun maa\- ja metsätalousministeriön asetuksen 16 §:n muuttamisesta](194.md) `194/2010`
+- [Maa\- ja metsätalousministeriön asetus eläinvälittäjärekisteristä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](195.md) `195/2010`
+- [Maa\- ja metsätalousministeriön asetus sikojen merkitsemisestä ja rekisteröinnistä annetun maa\- ja metsätalousministeriön asetuksen 17 §:n muuttamisesta](196.md) `196/2010`
+- [Maa\- ja metsätalousministeriön asetus hevoseläinten tunnistamisesta ja merkitsemisestä annetun maa\- ja metsätalousministeriön asetuksen 11 §:n muuttamisesta](197.md) `197/2010`
+- [Maa\- ja metsätalousministeriön asetus vesiviljelyrekisteristä annetun maa\- ja metsätalousministeriön päätöksen 7 §:n muuttamisesta](198.md) `198/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinsuojeluaineen hyväksymisen hakemisesta ja hyväksymisestä sekä niihin liittyvistä menettelyistä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](199.md) `199/2010`
+- [Valtioneuvoston asetus opetus\- ja kulttuuritoimen rahoituksesta annetun valtioneuvoston asetuksen 29 §:n muuttamisesta](200.md) `200/2010`
+- [Valtioneuvoston asetus elintarvikeneuvottelukunnasta](201.md) `201/2010`
+- [Valtioneuvoston asetus laivavarusteista annetun asetuksen 2 §:n muuttamisesta](202.md) `202/2010`
+- [Työ\- ja elinkeinoministeriön asetus loistelamppujen virranrajoittimien energiatehokkuusvaatimuksista annetun kauppa\- ja teollisuusministeriön asetuksen kumoamisesta](203.md) `203/2010`
+- [Työ\- ja elinkeinoministeriön asetus kotitalouksien sähkökäyttöisten jääkaappien, pakastimien ja näiden yhdistelmien energiatehokkuusvaatimuksista annetun kauppa\- ja teollisuusministeriön asetuksen kumoamisesta](204.md) `204/2010`
+- [Sosiaali\- ja terveysministeriön asetus turkistuottajien lomituspalveluista annetun lain mukaan järjestettävien lomituspalvelujen määrästä vuonna 2010](205.md) `205/2010`
+- [Maa\- ja metsätalousministeriön asetus eläinproteiinin käytöstä märehtijöiden rehuna annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen kumoamisesta](206.md) `206/2010`
+- [Maa\- ja metsätalousministeriön asetus suu\- ja sorkkataudin vastustamisesta eläinten kuljetuksessa annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](207.md) `207/2010`
+- [Maa\- ja metsätalousministeriön asetus maatalouden interventiorahastosta maksettavista menoista](208.md) `208/2010`
+- [Verohallinnon päätös muiden kuin sähköisesti annettavien kausiveroilmoitusten määräpäivistä vuonna 2010](209.md) `209/2010`
+- [Laki maaseutuhallinnon järjestämisestä kunnissa](210.md) `210/2010`
+- [Laki maaseutuelinkeinojen tukitehtäviä hoidettaessa noudatettavasta menettelystä annetun lain muuttamisesta](211.md) `211/2010`
+- [Laki hukkakauran torjunnasta annetun lain 22 §:n muuttamisesta](212.md) `212/2010`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](213.md) `213/2010`
+- [Valtiovarainministeriön asetus Suomalainen raha 150 vuotta \-juhlarahasta](214.md) `214/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](215.md) `215/2010`
+- [Laki yhteistoiminta\-asiamiehestä](216.md) `216/2010`
+- [Laki työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetun lain 49 §:n muuttamisesta](217.md) `217/2010`
+- [Laki yhteistoiminnasta yrityksissä annetun lain 64 ja 66 §:n muuttamisesta](218.md) `218/2010`
+- [Laki yhteistoiminnasta suomalaisissa ja yhteisönlaajuisissa yritysryhmissä annetun lain 48 §:n muuttamisesta](219.md) `219/2010`
+- [Laki henkilöstön edustuksesta yritysten hallinnossa annetun lain 13 ja 14 §:n muuttamisesta](220.md) `220/2010`
+- [Laki henkilöstöedustuksesta eurooppayhtiössä \(SE\) ja eurooppaosuuskunnassa \(SCE\) annetun lain muuttamisesta](221.md) `221/2010`
+- [Laki henkilöstörahastolain muuttamisesta](222.md) `222/2010`
+- [Laki työneuvostosta ja eräistä työsuojelun poikkeusluvista annetun lain 8 ja 16 §:n muuttamisesta](223.md) `223/2010`
+- [Eduskunnan päätös antaa valtuus myöntää valtiontakaus Suomen Pankin Kansainväliselle valuuttarahastolle annettavan lainan vakuudeksi](224.md) `224/2010`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavasta eräiden peltokasvien ja nautojen tuotantopalkkiosta annetun valtioneuvoston asetuksen 7 §:n muuttamisesta](225.md) `225/2010`
+- [Valtioneuvoston asetus tilatukijärjestelmän kansallisen varannon käytöstä annetun valtioneuvoston asetuksen muuttamisesta](226.md) `226/2010`
+- [Ulkoasiainministeriön asetus ulkoasiainhallinnon suoritteiden maksuista annetun ulkoasiainministeriön asetuksen muuttamisesta](227.md) `227/2010`
+- [Oikeusministeriön asetus oikeusministeriön työjärjestyksestä annetun oikeusministeriön asetuksen muuttamisesta](228.md) `228/2010`
+- [Valtiovarainministeriön asetus tullilaitoksen suoritteiden maksullisuudesta annetun asetuksen muuttamisesta](229.md) `229/2010`
+- [Työ\- ja elinkeinoministeriön asetus kosmeettisista valmisteista annetun kauppa\- ja teollisuusministeriön asetuksen muuttamisesta](230.md) `230/2010`
+- [Valtioneuvoston asetus vuodelta 2010 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 7 §:n muuttamisesta](231.md) `231/2010`
+- [Valtioneuvoston asetus vuodelta 2010 maksettavasta eräiden peltokasvien tuotantopalkkiosta](232.md) `232/2010`
+- [Valtioneuvoston asetus tilatukijärjestelmästä](233.md) `233/2010`
+- [Valtioneuvoston asetus vuonna 2010 myönnettävän maatilan investointituen kohdentamisesta annetun valtioneuvoston asetuksen muuttamisesta](234.md) `234/2010`
+- [Valtioneuvoston asetus ympäristönsuojeluasetuksen muuttamisesta](235.md) `235/2010`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisten tukien hakemusten toimittamisesta sekä kotieläinten laskentapäivistä ja \-ajankohdista vuonna 2010 annetun asetuksen muuttamisesta](236.md) `236/2010`
+- [Maa\- ja metsätalousministeriön asetus elintarvikelisäaineiden puhtausvaatimuksista ja eräistä määritysmenetelmistä](237.md) `237/2010`
+- [Laki eläintunnistusjärjestelmästä](238.md) `238/2010`
+- [Laki eläintautilain muuttamisesta](239.md) `239/2010`
+- [Valtioneuvoston asetus kunnan maksuosuudesta laajakaistatukihankkeessa](240.md) `240/2010`
+- [Maa\- ja metsätalousministeriön asetus elävän riistaeläimen ohjeellisista arvoista](241.md) `241/2010`
+- [Maa\- ja metsätalousministeriön asetus rakentamisinvestointien hyväksyttävistä yksikkökustannuksista](242.md) `242/2010`
+- [Maa\- ja metsätalousministeriön asetus tuettavaa rakentamista koskevista sikaloiden rakennusteknisistä ja toiminnallisista vaatimuksista](243.md) `243/2010`
+- [Laki Andorran kanssa veroasioita koskevista tiedoista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](244.md) `244/2010`
+- [Valtioneuvoston asetus valtionavustuksesta yritystoiminnan kehittämiseksi annetun valtioneuvoston asetuksen 21 §:n muuttamisesta](245.md) `245/2010`
+- [Liikenne\- ja viestintäministeriön asetus laajakaistarakentamisen tuesta haja\-asutusalueilla annetussa laissa tarkoitetuista tukikelpoisista alueista](246.md) `246/2010`
+- [Valtioneuvoston asetus maatalousyrittäjien opintorahasta](247.md) `247/2010`
+- [Valtioneuvoston asetus ympäristönsuojeluasetuksen muuttamisesta annetun valtioneuvoston asetuksen voimaantulosäännöksen muuttamisesta](248.md) `248/2010`
+- [Maa\- ja metsätalousministeriön asetus vastustettavista eläintaudeista ja eläintautien ilmoittamisesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen muuttamisesta](249.md) `249/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta tuberkuloosin vastustamisesta tarhatuilla hirvieläimillä](250.md) `250/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta hedelmä\- ja marjakasvien taimiaineiston tuottamisesta, markkinoinnista ja maahantuonnista](251.md) `251/2010`
+- [Laki Saamelaisalueen koulutuskeskuksesta](252.md) `252/2010`
+- [Laki ympäristönsuojelulain muuttamisesta](253.md) `253/2010`
+- [Laki eräistä naapuruussuhteista annetun lain 19 §:n muuttamisesta](254.md) `254/2010`
+- [Laki terveydensuojelulain 51 §:n muuttamisesta](255.md) `255/2010`
+- [Tasavallan presidentin asetus Suomen ja Ruotsin välillä vuonna 2006 suoritetussa rajankäynnissä todettujen valtakunnanrajan kulun muutosten voimaansaattamisesta](256.md) `256/2010`
+- [Valtioneuvoston asetus poliisin hallinnosta annetun asetuksen 16 c §:n muuttamisesta](257.md) `257/2010`
+- [Valtioneuvoston asetus valtion virkaehtosopimusasetuksen 9 ja 10 §:n muuttamisesta](258.md) `258/2010`
+- [Valtioneuvoston kanslian asetus valtioneuvoston kanslian suoritteiden maksullisuudesta](259.md) `259/2010`
+- [Sosiaali\- ja terveysministeriön asetus vakuutuskassan ja eläkesäätiön tilinpäätöksestä annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](260.md) `260/2010`
+- [Tasavallan presidentin asetus Euroopan yhteisöjen ja niiden jäsenvaltioiden sekä Montenegron tasavallan välisen vakautus\- ja assosiaatiosopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](261.md) `261/2010`
+- [Maa\- ja metsätalousministeriön asetus perus\- ja kasvulohkoista ja niiden ulko\- ja sisärajoja koskevista tuen myöntämisen edellytyksistä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](262.md) `262/2010`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisten tukien hallinnosta vuonna 2010](263.md) `263/2010`
+- [Verohallinnon päätös pientyönantajan maksu\- ja ilmoituspalvelujärjestelmässä hoidettavista tehtävistä](264.md) `264/2010`
+- [Valtioneuvoston asetus vuodelta 2010 maksettavasta nurmi\- ja viljakasvien siementuotannon kansallisesta tuesta](265.md) `265/2010`
+- [Valtioneuvoston asetus maaseudun yritystoiminnan tukemisesta annetun valtioneuvoston asetuksen muuttamisesta](266.md) `266/2010`
+- [Sosiaali\- ja terveysministeriön asetus imeväisen ja pikkulapsen ruokintaa koskevasta tiedotusaineistosta](267.md) `267/2010`
+- [Maa\- ja metsätalousministeriön asetus maatalousyrittäjien opintorahan hakemisesta](268.md) `268/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinsuojeluaineen hyväksymisen hakemisesta ja hyväksymisestä sekä niihin liittyvistä menettelyistä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](269.md) `269/2010`
+- [Valtioneuvoston asetus vuoden 2009 satovahinkojen viljelmäkohtaisista korvausosuuksista](270.md) `270/2010`
+- [Valtioneuvoston asetus satovahinkojen korvaamisesta annetun valtioneuvoston asetuksen 6 §:n 3 momentin kumoamisesta](271.md) `271/2010`
+- [Valtioneuvoston asetus vuodelta 2010 maksettavista lypsylehmä\- ja nautapalkkioista](272.md) `272/2010`
+- [Valtioneuvoston asetus luonnonhaittakorvauksista ja maatalouden ympäristötuista vuosina 2007―2013 annetun valtioneuvoston asetuksen muuttamisesta](273.md) `273/2010`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavasta eräiden peltokasvien ja nautojen tuotantopalkkiosta annetun valtioneuvoston asetuksen 7 §:n muuttamisesta](274.md) `274/2010`
+- [Valtioneuvoston asetus joukkoliikenteen valtionavustuksista](275.md) `275/2010`
+- [Laki ajoneuvolain muuttamisesta](276.md) `276/2010`
+- [Valtioneuvoston asetus biosidivalmisteista annetun valtioneuvoston asetuksen muuttamisesta](277.md) `277/2010`
+- [Valtioneuvoston asetus viranomaisten suunnitelmien ja ohjelmien ympäristövaikutusten arvioinnista annetun valtioneuvoston asetuksen 8 §:n muuttamisesta](278.md) `278/2010`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisten tukien hakemusten toimittamisesta sekä kotieläinten laskentapäivistä ja \-ajankohdista vuonna 2010 annetun asetuksen 1 §:n muuttamisesta](279.md) `279/2010`
+- [Tasavallan presidentin asetus Espanjan kanssa turvallisuusluokitellun tiedon vastavuoroisesta suojaamisesta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](280.md) `280/2010`
+- [Tasavallan presidentin asetus Singaporen kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen muuttamisesta tehdyn pöytäkirjan voimaansaattamisesta ja pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](281.md) `281/2010`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyvään LSA\-säännöstöön tehtyjen muutosten voimaansaattamisesta](282.md) `282/2010`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyvään LSA\-säännöstöön tehtyjen muutosten voimaansaattamisesta](283.md) `283/2010`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyvään FSS\-säännöstöön tehtyjen muutosten voimaansaattamisesta](284.md) `284/2010`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyviin viranomaisten puolesta toimivien laitosten valtuuttamista koskeviin ohjeisiin tehtyjen muutosten voimaansaattamisesta](285.md) `285/2010`
+- [Sosiaali\- ja terveysministeriön asetus savukkeiden paloturvallisuudesta annetun sosiaali\- ja terveysministeriön asetuksen 1 §:n suomenkielisen sanamuodon muuttamisesta](286.md) `286/2010`
+- [Sosiaali\- ja terveysministeriön asetus rokotuksista ja tartuntatautien raskaudenaikaisesta seulonnasta annetun sosiaali\- ja terveysministeriön asetuksen liitteen muuttamisesta](287.md) `287/2010`
+- [Verohallinnon työjärjestys](288.md) `288/2010`
+- [Sosiaali\- ja terveysministeriön asetus Sosiaali\- ja terveysalan lupa\- ja valvontaviraston maksullisista suoritteista](289.md) `289/2010`
+- [Maksupalvelulaki](290.md) `290/2010`
+- [Laki kuluttajansuojalain 7 luvun 19 §:n muuttamisesta](291.md) `291/2010`
+- [Laki viestintämarkkinalain 79 a ja 80 §:n muuttamisesta](292.md) `292/2010`
+- [Laki eräistä arvopaperi\- ja valuuttakaupan sekä selvitysjärjestelmän ehdoista annetun lain muuttamisesta](293.md) `293/2010`
+- [Laki henkilötietolain 13 §:n muuttamisesta](294.md) `294/2010`
+- [Laki eräiden markkinaoikeudellisten asioiden käsittelystä annetun lain 2 ja 3 §:n muuttamisesta](295.md) `295/2010`
+- [Laki veronkantolain muuttamisesta](296.md) `296/2010`
+- [Maksulaitoslaki](297.md) `297/2010`
+- [Laki ulkomaisen maksulaitoksen toiminnasta Suomessa](298.md) `298/2010`
+- [Laki luottolaitoslaitostoiminnasta annetun lain muuttamisesta](299.md) `299/2010`
+- [Laki sijoituspalveluyrityksistä annetun lain 6 §:n muuttamisesta](300.md) `300/2010`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](301.md) `301/2010`
+- [Laki Finanssivalvonnan valvontamaksusta annetun lain muuttamisesta](302.md) `302/2010`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä ja selvittämisestä annetun lain muuttamisesta](303.md) `303/2010`
+- [Laki kirjanpitolain 8 luvun 1 ja 2 §:n muuttamisesta](304.md) `304/2010`
+- [Laki valtioneuvostosta annetun lain 1 §:n muuttamisesta](305.md) `305/2010`
+- [Laki televisio\- ja radiotoiminnasta annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](306.md) `306/2010`
+- [Laki tekijänoikeuslain 25 b ja 48 §:n muuttamisesta](307.md) `307/2010`
+- [Laki urheilijan tapaturma\- ja eläketurvasta annetun lain 9 §:n muuttamisesta](308.md) `308/2010`
+- [Valtioneuvoston asetus valtioneuvoston ohjesäännön 18 §:n muuttamisesta](309.md) `309/2010`
+- [Valtioneuvoston asetus opetus\- ja kulttuuriministeriöstä](310.md) `310/2010`
+- [Laki pintataistelualusten alumiinirakennesuunnittelusta Suomen, Saksan liittotasavallan ja Amerikan yhdysvaltojen välillä tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta](311.md) `311/2010`
+- [Laki julkisesta työvoimapalvelusta annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](312.md) `312/2010`
+- [Laki työttömyysturvalain muuttamisesta](313.md) `313/2010`
+- [Laki kuntouttavasta työtoiminnasta annetun lain muuttamisesta](314.md) `314/2010`
+- [Laki maahanmuuttajien kotouttamisesta ja turvapaikanhakijoiden vastaanotosta annetun lain 11 §:n muuttamisesta](315.md) `315/2010`
+- [Tasavallan presidentin asetus Palestiinalaishallinnon kanssa yhteistyöstä Jerusalemin luoteispuolella sijaitsevien kylien vesihuollon parantamiseksi tehdyn sopimuksen voimaansaattamisesta](316.md) `316/2010`
+- [Tasavallan presidentin asetus Gibraltarin kanssa veroasioita koskevista tiedoista tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](317.md) `317/2010`
+- [Valtioneuvoston asetus luonnonhaittakorvausten, maatalouden ympäristötuen, eläinten hyvinvoinnin tuen ja ei\-tuotannollisten investointien tuen hakemisesta vuonna 2010 annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](318.md) `318/2010`
+- [Valtioneuvoston asetus patoturvallisuudesta](319.md) `319/2010`
+- [Maa\- ja metsätalousministeriön asetus poronhoitovuodelta 2010/2011 maksettavan eläinkohtaisen tuen hakemisesta](320.md) `320/2010`
+- [Laki julkisista hankinnoista annetun lain muuttamisesta](321.md) `321/2010`
+- [Laki vesi\- ja energiahuollon, liikenteen ja postipalvelujen alalla toimivien yksiköiden hankinnoista annetun lain muuttamisesta](322.md) `322/2010`
+- [Laki markkinaoikeuslain muuttamisesta](323.md) `323/2010`
+- [Laki joukkoliikennelain 43 ja 53 §:n muuttamisesta](324.md) `324/2010`
+- [Valtioneuvoston asetus vaarallisten aineiden käytön rajoittamisesta sähkö\- ja elektroniikkalaitteissa annetun valtioneuvoston asetuksen liitteen muuttamisesta](325.md) `325/2010`
+- [Valtiovarainministeriön asetus valtiovarainministeriön työjärjestyksestä annetun valtiovarainministeriön asetuksen muuttamisesta](326.md) `326/2010`
+- [Laki lakisääteistä eläkevakuutustoimintaa harjoittavien eläkelaitosten vanhuuseläkkeiden rahastointia ja toimintapääomaa koskevien säännösten väliaikaisesta muuttamisesta annetun lain 8 §:n muuttamisesta](327.md) `327/2010`
+- [Valtioneuvoston asetus eräiden vaarallisten aineiden käytön rajoittamisesta ajoneuvoissa annetun valtioneuvoston asetuksen liitteen 1 muuttamisesta](328.md) `328/2010`
+- [Opetus\- ja kulttuuriministeriön työjärjestys](329.md) `329/2010`
+- [Laki valtion pääomasijoituksista talletuspankkeihin annetun lain 15 §:n muuttamisesta](330.md) `330/2010`
+- [Valtioneuvoston asetus julkisista hankinnoista annetun valtioneuvoston asetuksen muuttamisesta](331.md) `331/2010`
+- [Valtioneuvoston asetus julkisesta työvoimapalvelusta annetun valtioneuvoston asetuksen muuttamisesta](332.md) `332/2010`
+- [Valtioneuvoston asetus  eräiden työllisyysmäärärahojen käytöstä annetun valtioneuvoston asetuksen muuttamisesta](333.md) `333/2010`
+- [Valtioneuvoston asetus julkiseen työvoimapalveluun kuuluvista etuuksista annetun valtioneuvoston asetuksen muuttamisesta](334.md) `334/2010`
+- [Vuoden 2010 lisätalousarvio](335.md) `335/2010`
+- [Laki viestintämarkkinalain muuttamisesta](336.md) `336/2010`
+- [Laki televisio\- ja radiotoiminnasta annetun lain 7 a §:n muuttamisesta](337.md) `337/2010`
+- [Laki radiotaajuuksista ja telelaitteista annetun lain 6 §:n muuttamisesta](338.md) `338/2010`
+- [Laki viestintämarkkinalain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](339.md) `339/2010`
+- [Laki lannoitevalmistelain 5 ja 7 §:n muuttamisesta](340.md) `340/2010`
+- [Tasavallan presidentin asetus ihmisoikeuksien ja perusvapauksien suojaamiseksi tehdyn yleissopimuksen neljännentoista pöytäkirjan voimaansaattamisesta sekä pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](341.md) `341/2010`
+- [Tasavallan presidentin asetus Montenegron kanssa sijoitusten edistämisestä ja suojaamisesta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](342.md) `342/2010`
+- [Maa\- ja metsätalousministeriön asetus kalojen, äyriäisten ja nilviäisten sekä niistä saatavien tuotteiden eläintauteja koskevista vaatimuksista Euroopan unionin sisämarkkinoilla](343.md) `343/2010`
+- [Puolustusministeriön asetus sotilaallisen kriisinhallintahenkilöstön pätevyysvaatimuksista ja palvelussuhteen ehdoista annetun puolustusministeriön asetuksen 7 §:n muuttamisesta](344.md) `344/2010`
+- [Maa\- ja metsätalousministeriön asetus eräiden lääkeaineiden käytön kieltämisestä tai rajoittamisesta eläimille annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](345.md) `345/2010`
+- [Työ\- ja elinkeinoministeriön asetus kosmeettisista valmisteista annetun kauppa\- ja teollisuusministeriön asetuksen muuttamisesta](346.md) `346/2010`
+- [Ympäristöministeriön työjärjestys](347.md) `347/2010`
+- [Laki suhdanneluonteisista avustuksista eräiden asuinrakennusten korjauksiin annetun lain 3 §:n muuttamisesta](348.md) `348/2010`
+- [Vuoden 2010 toinen lisätalousarvio](349.md) `349/2010`
+- [Tasavallan presidentin asetus kansainvälisen meriliikenteen helpottamista koskevan yleissopimuksen liitteen muutosten voimaansaattamisesta](350.md) `350/2010`
+- [Työ\- ja elinkeinoministeriön asetus sähköalan töistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](351.md) `351/2010`
+- [Laki sosiaaliturvajärjestelmien yhteensovittamista koskevan Euroopan unionin lainsäädännön soveltamisesta](352.md) `352/2010`
+- [Laki Eläketurvakeskuksesta annetun lain 2 §:n muuttamisesta](353.md) `353/2010`
+- [Laki työntekijän eläkelain muuttamisesta](354.md) `354/2010`
+- [Laki yrittäjän eläkelain muuttamisesta](355.md) `355/2010`
+- [Laki merimieseläkelain muuttamisesta](356.md) `356/2010`
+- [Laki maatalousyrittäjän eläkelain muuttamisesta](357.md) `357/2010`
+- [Laki kansaneläkelain muuttamisesta](358.md) `358/2010`
+- [Laki sairausvakuutuslain muuttamisesta](359.md) `359/2010`
+- [Laki asumiseen perustuvan sosiaaliturvalainsäädännön soveltamisesta annetun lain muuttamisesta](360.md) `360/2010`
+- [Laki työttömyysturvalain muuttamisesta](361.md) `361/2010`
+- [Laki oikeudenkäymiskaaren muuttamisesta](362.md) `362/2010`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain muuttamisesta](363.md) `363/2010`
+- [Laki luonnonhaittakorvauksesta, maatalouden ympäristötuesta sekä eräistä muista ympäristön ja maaseudun tilan parantamiseen liittyvistä tuista annetun lain muuttamisesta](364.md) `364/2010`
+- [Valtioneuvoston asetus osakehuoneistojen pinta\-alan mittaustavasta ja isännöitsijäntodistuksesta](365.md) `365/2010`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 12 §:n muuttamisesta](366.md) `366/2010`
+- [Valtioneuvoston asetus riistavahingoista](367.md) `367/2010`
+- [Valtioneuvoston asetus Euroopan kalatalousrahaston kansallisesta hallinnoinnista ja elinkeinokalataloudelle myönnettävistä tuista annetun asetuksen muuttamisesta](368.md) `368/2010`
+- [Valtioneuvoston asetus tartuntatautiasetuksen väliaikaisesta muuttamisesta](369.md) `369/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](370.md) `370/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta viestikyyhkysten rokottamisesta Newcastlen tautia vastaan annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen muuttamisesta](371.md) `371/2010`
+- [Laki oikeushallinnon valtakunnallisesta tietojärjestelmästä](372.md) `372/2010`
+- [Laki tuomioistuimen velvollisuudesta ilmoittaa eräistä ratkaisuistaan](373.md) `373/2010`
+- [Laki viranomaisten toiminnan julkisuudesta annetun lain 24 §:n muuttamisesta](374.md) `374/2010`
+- [Laki sotilasoikeudenkäyntilain muuttamisesta](375.md) `375/2010`
+- [Laki sotilaskurinpitolain muuttamisesta](376.md) `376/2010`
+- [Laki rikosrekisterilain muuttamisesta](377.md) `377/2010`
+- [Laki tieliikennelain 106 §:n muuttamisesta](378.md) `378/2010`
+- [Laki sakon täytäntöönpanosta annetun lain 4 §:n muuttamisesta](379.md) `379/2010`
+- [Laki yhdyskuntapalvelusta annetun lain muuttamisesta](380.md) `380/2010`
+- [Laki nuorisorangaistuksesta annetun lain muuttamisesta](381.md) `381/2010`
+- [Laki vankeuslain muuttamisesta](382.md) `382/2010`
+- [Laki tutkintavankeuslain 2 luvun 2 §:n muuttamisesta](383.md) `383/2010`
+- [Laki lähestymiskiellosta annetun lain 9 §:n muuttamisesta](384.md) `384/2010`
+- [Laki yksityishenkilön velkajärjestelystä annetun lain muuttamisesta](385.md) `385/2010`
+- [Laki metsästyslain muuttamisesta](386.md) `386/2010`
+- [Laki eläinsuojelulain 55 §:n muuttamisesta](387.md) `387/2010`
+- [Laki kaupparekisterilain 18 ja 23 §:n muuttamisesta](388.md) `388/2010`
+- [Laki yhdistyslain 60 §:n muuttamisesta](389.md) `389/2010`
+- [Laki säätiölain 22 §:n muuttamisesta](390.md) `390/2010`
+- [Laki yrityskiinnityslain muuttamisesta](391.md) `391/2010`
+- [Laki patenttilain 70 §:n muuttamisesta](392.md) `392/2010`
+- [Laki tavaramerkkilain 49 §:n muuttamisesta](393.md) `393/2010`
+- [Laki mallioikeuslain 44 §:n muuttamisesta](394.md) `394/2010`
+- [Laki hyödyllisyysmallioikeudesta annetun lain 45 §:n muuttamisesta](395.md) `395/2010`
+- [Laki yksinoikeudesta integroidun piirin piirimalliin annetun lain 44 §:n muuttamisesta](396.md) `396/2010`
+- [Laki ulosottokaaren 3 luvun 5 §:n muuttamisesta](397.md) `397/2010`
+- [Laki eläkesäätiölain 74 §:n kumoamisesta](398.md) `398/2010`
+- [Laki henkilötietojen käsittelystä rangaistusten täytäntöönpanossa annetun lain 19 §:n muuttamisesta](399.md) `399/2010`
+- [Laki ulkomaalaisrekisteristä annetun lain 8 §:n muuttamisesta](400.md) `400/2010`
+- [Laki turvallisuusselvityksistä annetun lain 8 ja 22 §:n muuttamisesta](401.md) `401/2010`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain 13 ja 21 §:n muuttamisesta](402.md) `402/2010`
+- [Laki poliisin tehtävien suorittamisesta puolustusvoimissa annetun lain 6 ja 22 §:n muuttamisesta](403.md) `403/2010`
+- [Laki asevelvollisuuslain 96 §:n muuttamisesta](404.md) `404/2010`
+- [Laki henkilötietojen käsittelystä rajavartiolaitoksessa annetun lain 22 §:n muuttamisesta](405.md) `405/2010`
+- [Laki tullilain 28 §:n muuttamisesta](406.md) `406/2010`
+- [Laki ilmailulain 48 §:n muuttamisesta](407.md) `407/2010`
+- [Laki oikeudenkäynnin julkisuudesta yleisissä tuomioistuimissa annetun lain muuttamisesta](408.md) `408/2010`
+- [Laki oikeudenkäynnin julkisuudesta hallintotuomioistuimissa annetun lain muuttamisesta](409.md) `409/2010`
+- [Laki oikeusrekisterikeskuksesta annetun lain nimikkeen ja 1 §:n muuttamisesta](410.md) `410/2010`
+- [Tasavallan presidentin asetus pintataistelualusten alumiinirakennesuunnittelusta Suomen, Saksan liittotasavallan ja Amerikan yhdysvaltojen välillä tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta annetun lain voimaantulosta](411.md) `411/2010`
+- [Valtioneuvoston asetus terveydenhuollon ammattihenkilöistä annetun asetuksen 5 ja 6 §:n muuttamisesta](412.md) `412/2010`
+- [Valtioneuvoston asetus valtion pääomasijoituksista talletuspankkeihin](413.md) `413/2010`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](414.md) `414/2010`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](415.md) `415/2010`
+- [Laki yliopistolain muuttamisesta](416.md) `416/2010`
+- [Valtioneuvoston asetus täydentävien ehtojen hyvän maatalouden ja ympäristön vaatimusten sekä ympäristöön liittyvien lakisääteisten hoitovaatimusten valvonnasta annetun valtioneuvoston asetuksen 8 ja 13 §:n muuttamisesta](417.md) `417/2010`
+- [Valtioneuvoston asetus Euroopan yhteisön kokonaan rahoittamien eläintukien valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](418.md) `418/2010`
+- [Valtioneuvoston asetus ympäristötuen ja luonnonhaittakorvauksen valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](419.md) `419/2010`
+- [Valtioneuvoston asetus Euroopan yhteisön kokonaan rahoittamien tukien valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](420.md) `420/2010`
+- [Valtioneuvoston asetus ajoneuvojen rekisteröinnistä annetun valtioneuvoston asetuksen muuttamisesta](421.md) `421/2010`
+- [Ulkoasiainministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoasiainministeriön asetuksen muuttamisesta](422.md) `422/2010`
+- [Valtioneuvoston asetus radiotaajuuksien käytöstä ja taajuussuunnitelmasta annetun valtioneuvoston asetuksen muuttamisesta](423.md) `423/2010`
+- [Liikenne\- ja viestintäministeriön asetus Liikenteen turvallisuusviraston maksullisista suoritteista annetun liikenne\- ja viestintäministeriön asetuksen liitteen muuttamisesta](424.md) `424/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta teurastamoita ja leikkaamoita koskevista TSE\-tauteihin liittyvistä toimenpiteistä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](425.md) `425/2010`
+- [Laki vakuutussopimuslain muuttamisesta](426.md) `426/2010`
+- [Laki avioliittolain 35 §:n muuttamisesta](427.md) `427/2010`
+- [Laki velan vanhentumisesta annetun lain 11 §:n muuttamisesta](428.md) `428/2010`
+- [Laki vakuutusyhtiölain 13 luvun 3 §:n kumoamisesta](429.md) `429/2010`
+- [Laki vakuutusedustuksesta annetun lain 25 §:n muuttamisesta](430.md) `430/2010`
+- [Laki vaalilain muuttamisesta](431.md) `431/2010`
+- [Laki ulkomaalaislain 153 ja 158 a §:n muuttamisesta](432.md) `432/2010`
+- [Laki terveydenhuollon ammattihenkilöistä annetun lain muuttamisesta](433.md) `433/2010`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 5 ja 6 a §:n muuttamisesta](434.md) `434/2010`
+- [Laki lääkelain 57 a ja 57 b §:n muuttamisesta](435.md) `435/2010`
+- [Laki sähköisestä lääkemääräyksestä annetun lain muuttamisesta](436.md) `436/2010`
+- [Laki sairausvakuutuslain muuttamisesta](437.md) `437/2010`
+- [Laki sairausvakuutuslain 9 luvun muuttamisesta](438.md) `438/2010`
+- [Laki Sveitsin kanssa laittomasti maassa oleskelevien henkilöiden takaisinottamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](439.md) `439/2010`
+- [Laki Saint Kittsin ja Nevisin kanssa veroasioita koskevista tiedoista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](440.md) `440/2010`
+- [Laki Saint Vincentin ja Grenadiinien kanssa veroasioita koskevista tiedoista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](441.md) `441/2010`
+- [Laki Bahaman kanssa veroasioita koskevista tiedoista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](442.md) `442/2010`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](443.md) `443/2010`
+- [Valtioneuvoston asetus nestemäisten polttoaineiden jakeluasemien ympäristönsuojeluvaatimuksista](444.md) `444/2010`
+- [Valtioneuvoston asetus polttoaineteholtaan alle 50 megawatin energiantuotantoyksiköiden ympäristönsuojeluvaatimuksista](445.md) `445/2010`
+- [Valtioneuvoston asetus ympäristönsuojeluasetuksen 10 §:n muuttamisesta](446.md) `446/2010`
+- [Valtioneuvoston asetus polttoaineteholtaan vähintään 50 megawatin polttolaitosten ja kaasuturbiinien rikkidioksidi\-, typenoksidi\- ja hiukkaspäästöjen rajoittamisesta annetun valtioneuvoston asetuksen muuttamisesta](447.md) `447/2010`
+- [Valtioneuvoston asetus asfalttiasemien ympäristönsuojeluvaatimuksista](448.md) `448/2010`
+- [Työ\- ja elinkeinoministeriön asetus työvoimapoliittisen lausunnon antamisesta ja lausuntoon merkittävistä tiedoista annetun työ\- ja elinkeinoministeriön asetuksen muuttamisesta](449.md) `449/2010`
+- [Maa\- ja metsätalousministeriön asetus merkkipiireistä ja suurimmista sallituista poromääristä](450.md) `450/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](451.md) `451/2010`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 13 §:n muuttamisesta](452.md) `452/2010`
+- [Valtioneuvoston asetus maatalousyrittäjien opintorahan määrästä vuonna 2010 annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](453.md) `453/2010`
+- [Valtioneuvoston asetus vuodelta 2010 maksettavien kansallisten kasvintuotannon tukien ja kotieläintukien valvonnasta](454.md) `454/2010`
+- [Valtioneuvoston asetus maaseudun hanketoiminnan tukemisesta annetun valtioneuvoston asetuksen muuttamisesta](455.md) `455/2010`
+- [Maa\- ja metsätalousministeriön asetus tuettavaa rakentamista koskevista paloteknisistä vaatimuksista](456.md) `456/2010`
+- [Laki maa\- ja puutarhatalouden kansallisista tuista annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](457.md) `457/2010`
+- [Tasavallan presidentin asetus Intian kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](458.md) `458/2010`
+- [Tasavallan presidentin asetus San Marinon kanssa veroasioita koskevista tiedoista tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](459.md) `459/2010`
+- [Tasavallan presidentin asetus Luxemburgin kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen muuttamisesta tehdyn pöytäkirjan ja siihen liittyvän noottienvaihdon voimaansaattamisesta ja pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](460.md) `460/2010`
+- [Valtioneuvoston asetus henkilöstörahastoasetuksen muuttamisesta](461.md) `461/2010`
+- [Valtioneuvoston asetus alle 18\-vuotiaana vahinkoa kärsineen ansiotulon määrän vahvistamisesta](462.md) `462/2010`
+- [Valtioneuvoston asetus Euroopan yhteisön kokonaan tai osittain rahoittamien pinta\-alaperusteisten tukien valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](463.md) `463/2010`
+- [Valtioneuvoston asetus maitoalan erityisestä markkinatukitoimenpiteestä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](464.md) `464/2010`
+- [Valtioneuvoston päätös Kylmäkosken kunnan liittämisestä Akaan kaupunkiin](465.md) `465/2010`
+- [Valtiovarainministeriön päätös kuntajaon muuttamisesta Vihannin kunnan ja Siikajoen kunnan välillä](466.md) `466/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](467.md) `467/2010`
+- [Laki valtion eläkelain muuttamisesta](468.md) `468/2010`
+- [Laki kunnallisen eläkelain muuttamisesta](469.md) `469/2010`
+- [Laki valtiokonttorista annetun lain 2 §:n muuttamisesta](470.md) `470/2010`
+- [Laki kansanedustajain eläkelain 1 ja 18 §:n muuttamisesta](471.md) `471/2010`
+- [Laki kansanedustajain perhe\-eläkelain 4 §:n muuttamisesta](472.md) `472/2010`
+- [Laki valtion varoista suoritettavasta eläkkeen korvaamisesta alle kolmivuotiaan lapsen hoidon tai opiskelun ajalta annetun lain 5 §:n muuttamisesta](473.md) `473/2010`
+- [Valtioneuvoston kanslian asetus valtioneuvoston kanslian työjärjestyksen 3 ja 29 §:n muuttamisesta](474.md) `474/2010`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä toimintapääomasta](475.md) `475/2010`
+- [Sosiaali\- ja terveysministeriön asetus erityistason sairaanhoidon järjestämisestä ja keskittämisestä annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](476.md) `476/2010`
+- [Laki rajavartiolaitoksen hallinnosta annetun lain muuttamisesta](477.md) `477/2010`
+- [Laki rajavartiolain muuttamisesta](478.md) `478/2010`
+- [Laki henkilötietojen käsittelystä rajavartiolaitoksessa annetun lain muuttamisesta](479.md) `479/2010`
+- [Laki pakkokeinolain muuttamisesta](480.md) `480/2010`
+- [Laki tieliikennelain muuttamisesta](481.md) `481/2010`
+- [Laki tullilain 14 a §:n muuttamisesta](482.md) `482/2010`
+- [Laki poliisilain 10 a ja 31 a §:n muuttamisesta](483.md) `483/2010`
+- [Laki maastoliikennelain 33 ja 34 §:n muuttamisesta](484.md) `484/2010`
+- [Laki ampuma\-aselain 17 §:n muuttamisesta](485.md) `485/2010`
+- [Valtiovarainministeriön asetus peruskoron vahvistaminen](486.md) `486/2010`
+- [Oikeusministeriön päätös yleisen asianajajayhdistyksen sääntöjen vahvistamisesta annetun oikeusministeriön päätöksen 6 §:n muuttamisesta](487.md) `487/2010`
+- [Laki mittatekniikan keskuksesta annetun lain muuttamisesta](488.md) `488/2010`
+- [Laki Pallas\-Yllästunturin kansallispuistosta annetun lain muuttamisesta](489.md) `489/2010`
+- [Laki maatalouden interventiorahastosta annetun lain 3 §:n väliaikaisesta muuttamisesta](490.md) `490/2010`
+- [Laki avustuksista erityisryhmien asunto\-olojen parantamiseksi annetun lain 3 ja 8 §:n muuttamisesta](491.md) `491/2010`
+- [Valtioneuvoston päätös valtioista ja alueista, joiden rahanpesun ja terrorismin rahoituksen estämistä ja selvittämistä koskevat säännökset eivät vastaa rahanpesun ja terrorismin rahoittamisen estämisestä ja selvittämisestä annetussa laissa tarkoitettuja kansainvälisiä velvoitteita](492.md) `492/2010`
+- [Valtiovarainministeriön asetus julkishallinnon ja \-talouden tilintarkastuslautakunnan maksullisista suoritteista annetun valtiovarainministeriön asetuksen 2 §:n muuttamisesta](493.md) `493/2010`
+- [Maa\- ja metsätalousministeriön asetus maatalouden ympäristötuen perus\- ja lisätoimenpiteistä ja maatalouden ympäristötuen erityistuista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](494.md) `494/2010`
+- [Maa\- ja metsätalousministeriön asetus kuitupellavan ja –hampun jalostustuesta annetun maa\- ja metsätalousministeriön asetuksen 7 ja 8 §:n muuttamisesta](495.md) `495/2010`
+- [Maa\- ja metsätalousministeriön asetus kolttalain mukaisista enimmäistulorajoista annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](496.md) `496/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön päätöksestä kolttalain mukaisista enimmäistulorajoista](497.md) `497/2010`
+- [Laki rakennusperinnön suojelemisesta](498.md) `498/2010`
+- [Laki maankäyttö\- ja rakennuslain 57 ja 166 §:n muuttamisesta](499.md) `499/2010`
+- [Laki rikoslain 48 luvun 6 §:n muuttamisesta](500.md) `500/2010`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](501.md) `501/2010`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](502.md) `502/2010`
+- [Laki Verohallinnosta](503.md) `503/2010`
+- [Laki tuloverolain muuttamisesta](504.md) `504/2010`
+- [Laki varojen arvostamisesta verotuksessa annetun lain muuttamisesta](505.md) `505/2010`
+- [Laki elinkeinotulon verottamisesta annetun lain 43 ja 55 §:n muuttamisesta](506.md) `506/2010`
+- [Laki maatilatalouden tuloverolain 10 e §:n muuttamisesta](507.md) `507/2010`
+- [Laki eräiden yleishyödyllisten yhteisöjen veronhuojennuksista annetun lain muuttamisesta](508.md) `508/2010`
+- [Laki tonnistoverolain 32 §:n muuttamisesta](509.md) `509/2010`
+- [Laki rajoitetusti verovelvollisen tulon verottamisesta annetun lain muuttamisesta](510.md) `510/2010`
+- [Laki ulkomailta tulevan palkansaajan lähdeverosta annetun lain 4 ja 8 §:n muuttamisesta](511.md) `511/2010`
+- [Laki korkotulon lähdeverosta annetun lain muuttamisesta](512.md) `512/2010`
+- [Laki sairausvakuutuslain muuttamisesta](513.md) `513/2010`
+- [Laki metsänhoitoyhdistyksistä annetun lain 11 ja 13 §:n muuttamisesta](514.md) `514/2010`
+- [Laki kansainvälisen kaksinkertaisen verotuksen poistamisesta annetun lain 9 §:n muuttamisesta](515.md) `515/2010`
+- [Laki ennakkoperintälain muuttamisesta](516.md) `516/2010`
+- [Laki väliaikaisesta työnantajan matalapalkkatuesta annetun lain muuttamisesta](517.md) `517/2010`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain muuttamisesta](518.md) `518/2010`
+- [Laki pientyönantajan maksu\- ja ilmoituspalvelujärjestelmästä annetun lain muuttamisesta](519.md) `519/2010`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](520.md) `520/2010`
+- [Laki Euroopan talousalueelta saadusta osingosta suoritetun veron palauttamisesta eräissä tapauksissa annetun lain 8 ja 10 §:n muuttamisesta](521.md) `521/2010`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain muuttamisesta](522.md) `522/2010`
+- [Laki perintö\- ja lahjaverolain muuttamisesta](523.md) `523/2010`
+- [Laki arpajaisverolain muuttamisesta](524.md) `524/2010`
+- [Laki arvonimistä suoritettavasta verosta annetun lain muuttamisesta](525.md) `525/2010`
+- [Laki varainsiirtoverolain muuttamisesta](526.md) `526/2010`
+- [Laki kiinteistöverolain muuttamisesta](527.md) `527/2010`
+- [Laki koiraverosta annetun lain 12 §:n muuttamisesta](528.md) `528/2010`
+- [Laki arvonlisäverolain muuttamisesta](529.md) `529/2010`
+- [Laki rakennusverolain muuttamisesta](530.md) `530/2010`
+- [Laki eräistä vakuutusmaksuista suoritettavasta verosta annetun lain 2 §:n muuttamisesta](531.md) `531/2010`
+- [Laki maataloudessa käytettyjen eräiden energiatuotteiden valmisteveron palautuksesta annetun lain muuttamisesta](532.md) `532/2010`
+- [Laki tullilain 28 §:n muuttamisesta](533.md) `533/2010`
+- [Laki eräiden ennakkopäätösten maksuperusteista annetun lain 1 §:n muuttamisesta](534.md) `534/2010`
+- [Laki veronlisäyksestä ja viivekorosta annetun lain 2 §:n muuttamisesta](535.md) `535/2010`
+- [Laki haja\-asutusalueiden postitoiminnan turvaamiseksi perittävästä maksusta annetun lain muuttamisesta](536.md) `536/2010`
+- [Laki Pohjoismaiden Investointipankin ja Pohjoismaiden projektivientirahaston palveluksessa olevien henkilöiden verottamisesta annetun lain muuttamisesta](537.md) `537/2010`
+- [Laki laajakaistarakentamisen tuesta haja\-asutusalueilla annetun lain muuttamisesta](538.md) `538/2010`
+- [Laki maaseudun kehittämiseen myönnettävistä tuista annetun lain muuttamisesta](539.md) `539/2010`
+- [Laki kansainvälisessä maantieliikenteessä toimivien miehistöjen tekemästä työstä tehdyn eurooppalaisen sopimuksen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](540.md) `540/2010`
+- [Laki tieliikennelain 92 a §:n muuttamisesta](541.md) `541/2010`
+- [Tasavallan presidentin asetus kansainvälisessä maantieliikenteessä toimivien miehistöjen tekemästä työstä tehtyyn eurooppalaiseen sopimukseen tehtyjen muutosten voimaansaattamisesta ja muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](542.md) `542/2010`
+- [Valtioneuvoston asetus yhteistoiminnasta yrityksissä annetussa laissa säädetyn hyvityksen enimmäismäärän tarkistamisesta](543.md) `543/2010`
+- [Työ\- ja elinkeinoministeriön asetus ulkomaalaislain nojalla säädettyihin tehtäviin toimivaltaisista työ\- ja elinkeinotoimistoista](544.md) `544/2010`
+- [Työ\- ja elinkeinoministeriön asetus työvoimapoliittisen aikuiskoulutuksen yleisistä hankintaehdoista ja opiskelijoiden valintamenettelystä](545.md) `545/2010`
+- [Maa\- ja metsätalousministeriön asetus kalastuksesta Tornionjoen kalastusalueella annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](546.md) `546/2010`
+- [Laki asunto\-osakeyhtiölain 6 luvun 32 ja 34 §:n muuttamisesta](547.md) `547/2010`
+- [Laki asunto\-osakeyhtiölain voimaanpanosta annetun lain muuttamisesta](548.md) `548/2010`
+- [Laki ulkomaalaislain muuttamisesta](549.md) `549/2010`
+- [Tasavallan presidentin asetus Sveitsin kanssa laittomasti maassa oleskelevien henkilöiden takaisinottamisesta tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](550.md) `550/2010`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyvään FSS\-säännöstöön tehtyjen muutosten voimaansaattamisesta](551.md) `551/2010`
+- [Tasavallan presidentin asetus strategisesta ympäristöarvioinnista tehdyn pöytäkirjan voimaansaattamisesta ja pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](552.md) `552/2010`
+- [Valtioneuvoston päätös Varpaisjärven kunnan liittämisestä Lapinlahden kuntaan](553.md) `553/2010`
+- [Valtioneuvoston päätös Vöyri\-Maksamaan kunnan ja Oravaisten kunnan lakkauttamisesta ja uuden Vöyrin kunnan perustamisesta](554.md) `554/2010`
+- [Valtioneuvoston päätös Kuhmalahden kunnan liittämisestä Kangasalan kuntaan](555.md) `555/2010`
+- [Sisäasiainministeriön asetus hätäkeskuslaitoksen maksullisista suoritteista](556.md) `556/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](557.md) `557/2010`
+- [Laki Suomen ja Latvian välillä raakaöljyn ja öljytuotteiden vastavuoroisesta varmuusvarastoinnista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](558.md) `558/2010`
+- [Laki sijoitusrahastolain muuttamisesta](559.md) `559/2010`
+- [Tasavallan presidentin asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan uudistetun I liitteen voimaansaattamisesta ja liitteen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](560.md) `560/2010`
+- [Tasavallan presidentin asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan uudistetun II liitteen voimaansaattamisesta ja liitteen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](561.md) `561/2010`
+- [Valtioneuvoston asetus Verohallinnosta](562.md) `562/2010`
+- [Valtioneuvoston asetus Verohallinnon yksiköistä](563.md) `563/2010`
+- [Valtioneuvoston asetus tuloveroasetuksen muuttamisesta](564.md) `564/2010`
+- [Valtioneuvoston asetus eräiden yleishyödyllisten yhteisöjen veronhuojennuksista annetun asetuksen 1 ja 2 §:n muuttamisesta](565.md) `565/2010`
+- [Valtioneuvoston asetus rajoitetusti verovelvollisen tulon verottamisesta annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](566.md) `566/2010`
+- [Valtioneuvoston asetus korkotulon lähdeverosta annetun valtioneuvoston asetuksen 1 ja 3 §:n muuttamisesta](567.md) `567/2010`
+- [Valtioneuvoston asetus ennakkoperintäasetuksen muuttamisesta](568.md) `568/2010`
+- [Valtioneuvoston asetus työnantajan sosiaaliturvamaksusta annetun asetuksen 10 §:n muuttamisesta](569.md) `569/2010`
+- [Valtioneuvoston asetus verotusmenettelystä annetun asetuksen muuttamisesta](570.md) `570/2010`
+- [Valtioneuvoston asetus arvonlisäveroasetuksen muuttamisesta](571.md) `571/2010`
+- [Valtioneuvoston asetus Ahvenanmaan maakuntaa koskevista poikkeuksista arvonlisävero\- ja valmisteverolainsäädäntöön annetun lain täytäntöönpanosta annetun asetuksen 2 §:n muuttamisesta](572.md) `572/2010`
+- [Valtioneuvoston asetus verontilitysasetuksen 4 §:n muuttamisesta](573.md) `573/2010`
+- [Valtioneuvoston asetus maa\- ja puutarhatalouden väliaikaisesta kansallisesta tuesta](574.md) `574/2010`
+- [Oikeusministeriön asetus Rikosseuraamuslaitoksen kaksikielisistä osastoista](575.md) `575/2010`
+- [Oikeusministeriön asetus Rikosseuraamuslaitoksen tunnuskuvasta ja virkamerkistä](576.md) `576/2010`
+- [Oikeusministeriön asetus Rikosseuraamuslaitoksen virkamiesten virkapuvusta sekä suoja\- ja erityisvaatetuksesta](577.md) `577/2010`
+- [Valtiovarainministeriön asetus eräiden verojen lykkäysten ehdoista annetun valtiovarainministeriön asetuksen 2 §:n muuttamisesta](578.md) `578/2010`
+- [Valtiovarainministeriön asetus toimivaltaisista viranomaisista Euroopan unionin jäsenvaltioiden välisissä virka\-apua verotuksen alalla koskevissa asioissa annetun valtiovarainministeriön asetuksen muuttamisesta](579.md) `579/2010`
+- [Valtiovarainministeriön asetus veronkannosta annetun valtiovarainministeriön asetuksen 2 ja 8 §:n muuttamisesta](580.md) `580/2010`
+- [Laki hallintolain muuttamisesta](581.md) `581/2010`
+- [Laki hallintolainkäyttölain muuttamisesta](582.md) `582/2010`
+- [Sisäasiainministeriön asetus pysäköintivirhemaksusta](583.md) `583/2010`
+- [Liikenne\- ja viestintäministeriön asetus autojen ja perävaunujen rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](584.md) `584/2010`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2010 metsänhoitomaksun perusteesta](585.md) `585/2010`
+- [Tasavallan presidentin asetus Afrikan, Karibian ja Tyynenmeren valtioiden ryhmän jäsenten sekä Euroopan yhteisön ja sen jäsenvaltioiden välisen kumppanuussopimuksen muuttamisesta toisen kerran tehdyn sopimuksen väliaikaisesta soveltamisesta](586.md) `586/2010`
+- [Valtioneuvoston asetus lampaiden suojelusta](587.md) `587/2010`
+- [Valtioneuvoston asetus hevosten suojelusta](588.md) `588/2010`
+- [Valtioneuvoston asetus vuohien suojelusta](589.md) `589/2010`
+- [Valtioneuvoston asetus tarhattavien peurojen suojelusta](590.md) `590/2010`
+- [Valtioneuvoston asetus tarhattavien biisonien suojelusta](591.md) `591/2010`
+- [Valtioneuvoston asetus nautojen suojelusta](592.md) `592/2010`
+- [Valtioneuvoston päätös Artjärven kunnan liittämisestä Orimattilan kaupunkiin](593.md) `593/2010`
+- [Puolustusministeriön asetus asevelvollisuuslaissa ja terveydenhuollon järjestämisestä puolustusvoimissa annetussa laissa tarkoitetuista etuuksista annetun puolustusministeriön asetuksen 4 §:n muuttamisesta](594.md) `594/2010`
+- [Laki huumausainelain 3 §:n muuttamisesta](595.md) `595/2010`
+- [Valtioneuvoston asetus huumausaineina pidettävistä aineista, valmisteista ja kasveista annetun valtioneuvoston asetuksen liitteen IV muuttamisesta](596.md) `596/2010`
+- [Ulkoasiainministeriön asetus ulkoasiainministeriön työjärjestyksen muuttamisesta](597.md) `597/2010`
+- [Sosiaali\- ja terveysministeriön asetus tupakkatuotteiden vähittäismyyntipakkausten merkinnöistä sekä haitta\-aineiden määristä ja mittausmenetelmistä sekä testauslaboratorioista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](598.md) `598/2010`
+- [Laki talletuspankkien yhteenliittymästä](599.md) `599/2010`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](600.md) `600/2010`
+- [Laki osuuspankeista ja muista osuuskuntamuotoisista luottolaitoksista annetun lain muuttamisesta](601.md) `601/2010`
+- [Laki säästöpankkilain 128 §:n kumoamisesta](602.md) `602/2010`
+- [Laki valtion vakuusrahastosta annetun lain muuttamisesta](603.md) `603/2010`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](604.md) `604/2010`
+- [Laki Finanssivalvonnan valvontamaksusta annetun lain 6 §:n muuttamisesta](605.md) `605/2010`
+- [Laki rahoitus\- ja vakuutusryhmittymien valvonnasta annetun lain muuttamisesta](606.md) `606/2010`
+- [Laki sijoituspalveluyrityksistä annetun lain 50 ja 54 §:n muuttamisesta](607.md) `607/2010`
+- [Laki sijoitusrahastolain 26 a ja 30 a §:n muuttamisesta](608.md) `608/2010`
+- [Laki kaupparekisterilain muuttamisesta](609.md) `609/2010`
+- [Laki kirjanpitolain 8 luvun 1 §:n muuttamisesta](610.md) `610/2010`
+- [Laki varainsiirtoverolain 14 §:n muuttamisesta](611.md) `611/2010`
+- [Laki taksiliikennelain muuttamisesta](612.md) `612/2010`
+- [Valtioneuvoston asetus syyttäjänvirastojen toimialueista ja päätoimipaikoista annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](613.md) `613/2010`
+- [Valtioneuvoston asetus syyttäjänvirastosta annetun valtioneuvoston asetuksen 8 §:n muuttamisesta](614.md) `614/2010`
+- [Valtioneuvoston asetus taksiliikenteen kuluttajahinnoista](615.md) `615/2010`
+- [Valtioneuvoston asetus laajakaistatuen hakumenettelyssä käytettävien vertailuperusteiden suhteellisesta painotuksesta](616.md) `616/2010`
+- [Puolustusministeriön asetus puolustusvoimista annetun lain 39 §:n mukaisissa kansainvälisissä tehtävissä toimivien rinnastamisesta ulkomaanedustuksen virkamiehiin paikalliskorotuksia ja ulkomaanedustuksen eräitä muita korvauksia maksettaessa](617.md) `617/2010`
+- [Liikenne\- ja viestintäministeriön asetus liikenteen ohjauslaitteista annetun liikenneministeriön päätöksen muuttamisesta](618.md) `618/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä poro\- ja luontaiselinkeinotalouden rahoituslain mukaisista ulkopuolisista enimmäistuloista](619.md) `619/2010`
+- [Laki tulvariskien hallinnasta](620.md) `620/2010`
+- [Laki vesilain 2 luvun 11 a §:n ja 16 luvun 23 a §:n muuttamisesta](621.md) `621/2010`
+- [Laki ympäristönsuojelulain 50 ja 52 §:n muuttamisesta](622.md) `622/2010`
+- [Laki vesienhoidon järjestämisestä annetun lain muuttamisesta](623.md) `623/2010`
+- [Laki tieliikennelain muuttamisesta](624.md) `624/2010`
+- [Valtioneuvoston asetus tieliikenneasetuksen muuttamisesta](625.md) `625/2010`
+- [Maa\- ja metsätalousministeriön asetus eräiden Metsähallituksen julkisten hallintotehtävien suoritteiden maksuista annetun maa\- ja metsätalousministeriön asetuksen 2 ja 3 §:n muuttamisesta](626.md) `626/2010`
+- [Työ\- ja elinkeinoministeriön asetus ydinlaitosten ympäristövaikutusten arviointimenettelyyn kuuluvista työ\- ja elinkeinoministeriön maksullisista suoritteista](627.md) `627/2010`
+- [Työ\- ja elinkeinoministeriön asetus ydinenergian käytön valvontaan kuuluvista työ\- ja elinkeinoministeriön maksullisista suoritteista](628.md) `628/2010`
+- [Laki terveydenhuollon laitteista ja tarvikkeista](629.md) `629/2010`
+- [Työ\- ja elinkeinoministeriön asetus maksullisista suoritteista](630.md) `630/2010`
+- [Korkeimman hallinto\-oikeuden työjärjestys](631.md) `631/2010`
+- [Laki yksityishenkilön velkajärjestelystä annetun lain 30 ja 31 a §:n muuttamisesta](632.md) `632/2010`
+- [Laki nuoren rikoksesta epäillyn tilanteen selvittämisestä](633.md) `633/2010`
+- [Laki ehdollisen vankeuden valvonnasta](634.md) `634/2010`
+- [Laki rikoslain 6 luvun 10 §:n muuttamisesta](635.md) `635/2010`
+- [Laki Suomen ja muiden pohjoismaiden välisestä yhteistoiminnasta rikosasioissa annettujen tuomioiden täytäntöönpanossa annetun lain 11 ja 12 §:n muuttamisesta](636.md) `636/2010`
+- [Laki maahanmuuttajien kotouttamisesta ja turvapaikanhakijoiden vastaanotosta annetun lain 3 ja 19 c §:n muuttamisesta](637.md) `637/2010`
+- [Maa\- ja metsätalousministeriön asetus Elintarviketurvallisuusviraston maksullisista suoritteista](638.md) `638/2010`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskorosta](639.md) `639/2010`
+- [Vuoden 2010 kolmas lisätalousarvio](640.md) `640/2010`
+- [Laki yhdyskuntapalvelusta annetun lain muuttamisesta](641.md) `641/2010`
+- [Laki perusopetuslain muuttamisesta](642.md) `642/2010`
+- [Laki elintarvikelain muuttamisesta](643.md) `643/2010`
+- [Laki Euroopan yhteisön yhteisen kalastuspolitiikan täytäntöönpanosta annetun lain 3 §:n muuttamisesta](644.md) `644/2010`
+- [Laki luotsauslain muuttamisesta](645.md) `645/2010`
+- [Laki työ\- ja elinkeinoministeriön koulutus\- ja kehittämiskeskuksesta](646.md) `646/2010`
+- [Laki tapaturmavakuutuslain muuttamisesta](647.md) `647/2010`
+- [Valtioneuvoston asetus valtiovarainministeriöstä annetun asetuksen 2 §:n muuttamisesta](648.md) `648/2010`
+- [Valtiovarainministeriön asetus Konsta Jylhä ja kansanmusiikki \-juhlarahasta](649.md) `649/2010`
+- [Laki oikeudenkäymiskaaren muuttamisesta](650.md) `650/2010`
+- [Laki eräiden asiakirjain lähettämisestä tuomioistuimille annetun lain 1 §:n muuttamisesta](651.md) `651/2010`
+- [Laki ulosottokaaren 2 luvun muuttamisesta](652.md) `652/2010`
+- [Laki ihmisen elimien, kudoksien ja solujen lääketieteellisestä käytöstä annetun lain muuttamisesta](653.md) `653/2010`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 5 §:n muuttamisesta](654.md) `654/2010`
+- [Laki sairausvakuutuslain 7 luvun 4 §:n muuttamisesta](655.md) `655/2010`
+- [Tasavallan presidentin asetus Laosin kanssa Laosin ympäristöhallinnon vahvistamishankkeesta tehdyn sopimuksen voimaansaattamisesta](656.md) `656/2010`
+- [Valtioneuvoston asetus patentti\- ja rekisterihallituksesta annetun asetuksen 3 §:n muuttamisesta](657.md) `657/2010`
+- [Valtioneuvoston asetus televisio\- ja radiotoimintaan sekä toimiluvanvaraiseen teletoimintaan määrättyjen taajuusalueiden käyttösuunnitelmasta Ahvenanmaan maakunnassa annetun valtioneuvoston asetuksen muuttamisesta](658.md) `658/2010`
+- [Valtioneuvoston asetus tulvariskien hallinnasta](659.md) `659/2010`
+- [Valtioneuvoston asetus sosiaali\- ja terveysministeriöstä annetun valtioneuvoston asetuksen 3 ja 6 §:n muuttamisesta](660.md) `660/2010`
+- [Laki arpajaislain muuttamisesta](661.md) `661/2010`
+- [Laki eräiden markkinaoikeudellisten asioiden käsittelystä annetun lain 2 ja 7 §:n muuttamisesta](662.md) `662/2010`
+- [Laki rikoslain 17 luvun muuttamisesta](663.md) `663/2010`
+- [Valtioneuvoston asetus työ\- ja elinkeinoministeriön koulutus\- ja kehittämiskeskuksesta](664.md) `664/2010`
+- [Maa\- ja metsätalousministeriön asetus maidon, maitopohjaisten tuotteiden ja maidon prosessoinnissa syntyvien sivutuotteiden käytöstä elintarviketuotantoeläinten ruokinnassa](665.md) `665/2010`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](666.md) `666/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta haitallisista aineista, tuotteista ja eliöistä rehuissa](667.md) `667/2010`
+- [Laki Euroopan rahoitusvakausvälineelle annettavista valtiontakauksista](668.md) `668/2010`
+- [Laki Belgian kuningaskunnan, Saksan liittotasavallan, Irlannin, Espanjan kuningaskunnan, Ranskan tasavallan, Italian tasavallan, Kyproksen tasavallan, Luxemburgin suurherttuakunnan, Maltan tasavallan, Alankomaiden kuningaskunnan, Itävallan tasavallan, Portugalin tasavallan, Slovenian tasavallan, Slovakian tasavallan, Suomen tasavallan, Helleenien tasavallan ja Euroopan rahoitusvakausvälineen välisen ERVV\-puitesopimuksen lainsäädännön alaan kuuluvien määräysten voimansaattamisesta](669.md) `669/2010`
+- [Liikenne\- ja viestintäministeriön asetus radiotaajuuksien käyttösuunnitelmasta annetun liikenne\- ja viestintäministeriön asetuksen 4 ja 5 §:n muuttamisesta](670.md) `670/2010`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveysministeriön työjärjestyksen muuttamisesta](671.md) `671/2010`
+- [Tasavallan presidentin asetus Suomen ja Latvian välillä raakaöljyn ja öljytuotteiden vastavuoroisesta varmuusvarastoinnista tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](672.md) `672/2010`
+- [Valtioneuvoston asetus kanojen suojelusta](673.md) `673/2010`
+- [Valtioneuvoston asetus koirien, kissojen ja muiden pienikokoisten seura\- ja harrastuseläinten suojelusta](674.md) `674/2010`
+- [Valtioneuvoston asetus ankkojen ja hanhien suojelusta](675.md) `675/2010`
+- [Valtioneuvoston asetus strutsieläinten suojelusta](676.md) `676/2010`
+- [Valtioneuvoston asetus kalkkunoiden suojelusta](677.md) `677/2010`
+- [Laki yhdistyslain muuttamisesta](678.md) `678/2010`
+- [Laki tilintarkastuslain 57 §:n muuttamisesta](679.md) `679/2010`
+- [Laki puoluelain muuttamisesta](680.md) `680/2010`
+- [Valtioneuvoston asetus tietoturvallisuudesta valtionhallinnossa](681.md) `681/2010`
+- [Oikeusministeriön asetus vastapuolen maksettavaksi tuomittavista oikeudenkäyntikuluista oikeudenkäymiskaaren 21 luvun 8 c §:ssä tarkoitetuissa asioissa annetun oikeusministeriön asetuksen 3 §:n muuttamisesta](682.md) `682/2010`
+- [Laki puoluelain muuttamisesta](683.md) `683/2010`
+- [Laki ehdokkaan vaalirahoituksesta annetun lain muuttamisesta](684.md) `684/2010`
+- [Laki rahankeräyslain muuttamisesta](685.md) `685/2010`
+- [Laki arvonlisäverolain muuttamisesta](686.md) `686/2010`
+- [Laki arvonlisäverolain väliaikaisesta muuttamisesta](687.md) `687/2010`
+- [Laki kiinnitysluottopankkitoiminnasta](688.md) `688/2010`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](689.md) `689/2010`
+- [Laki merellä toimivien kalastus\- ja vesiviljelyalusten rekisteröinnistä](690.md) `690/2010`
+- [Valtioneuvoston asetus Belgian kuningaskunnan, Saksan liittotasavallan, Irlannin, Espanjan kuningaskunnan, Ranskan tasavallan, Italian tasavallan, Kyproksen tasavallan, Luxemburgin suurherttuakunnan, Maltan tasavallan, Alankomaiden kuningaskunnan, Itävallan tasavallan, Portugalin tasavallan, Slovenian tasavallan, Slovakian tasavallan, Suomen tasavallan, Helleenien tasavallan ja Euroopan rahoitusvakausvälineen välisen ERVV\-puitesopimuksen voimaansaattamisesta sekä puitesopimuksen lainsäädännön alaan kuuluvien määräysten voimansaattamisesta annetun lain voimaantulosta](691.md) `691/2010`
+- [Laki hätäkeskustoiminnasta](692.md) `692/2010`
+- [Laki nuorisolain muuttamisesta](693.md) `693/2010`
+- [Laki opiskelijavalintarekisteristä ja ylioppilastutkintorekisteristä annetun lain 5 §:n muuttamisesta](694.md) `694/2010`
+- [Valtioneuvoston asetus rajanylityspaikoista sekä rajatarkastustehtävien jakamisesta niillä annetun valtioneuvoston asetuksen muuttamisesta](695.md) `695/2010`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisten tukien hakemusten toimittamisesta sekä kotieläinten laskentapäivistä ja \-ajankohdista vuonna 2010 annetun asetuksen 1 ja 2 §:n muuttamisesta](696.md) `696/2010`
+- [Laki kalastuslain muuttamisesta](697.md) `697/2010`
+- [Laki toimenpiteistä tupakoinnin vähentämiseksi annetun lain muuttamisesta](698.md) `698/2010`
+- [Laki lääkelain 54 a ja 54 e §:n muuttamisesta](699.md) `699/2010`
+- [Laki sairausvakuutuslain 11 ja 18 luvun muuttamisesta](700.md) `700/2010`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain 3 ja 4 §:n muuttamisesta](701.md) `701/2010`
+- [Valtioneuvoston asetus metsästysasetuksen muuttamisesta](702.md) `702/2010`
+- [Laki takuueläkkeestä](703.md) `703/2010`
+- [Laki kansaneläkelain 35 ja 70 §:n muuttamisesta](704.md) `704/2010`
+- [Laki eläkkeensaajan asumistuesta annetun lain 8 ja 41 §:n muuttamisesta](705.md) `705/2010`
+- [Laki vammaisetuuksista annetun lain 9 §:n muuttamisesta](706.md) `706/2010`
+- [Laki työttömyysturvalain 3 luvun 4 §:n ja 11 luvun 14 §:n muuttamisesta](707.md) `707/2010`
+- [Laki sairausvakuutuslain 8 luvun 6 §:n muuttamisesta](708.md) `708/2010`
+- [Laki asumiseen perustuvan sosiaaliturvalainsäädännön soveltamisesta annetun lain 1 §:n muuttamisesta](709.md) `709/2010`
+- [Laki elatustukilain 21 §:n muuttamisesta](710.md) `710/2010`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain muuttamisesta](711.md) `711/2010`
+- [Laki opintotukilain 6 §:n muuttamisesta](712.md) `712/2010`
+- [Laki aikuiskoulutustuesta annetun lain 11 §:n muuttamisesta](713.md) `713/2010`
+- [Laki Kansaneläkelaitoksesta annetun lain 12 b §:n muuttamisesta](714.md) `714/2010`
+- [Laki työkyvyttömyyseläkkeellä olevien työhönpaluun edistämisestä annetun lain muuttamisesta](715.md) `715/2010`
+- [Laki sosiaaliturvan muutoksenhakulautakunnasta annetun lain 9 §:n muuttamisesta](716.md) `716/2010`
+- [Laki työntekijän eläkelain 120 §:n muuttamisesta](717.md) `717/2010`
+- [Laki merimieseläkelain 117 §:n muuttamisesta](718.md) `718/2010`
+- [Laki tapaturmavakuutuslain 61 a §:n muuttamisesta](719.md) `719/2010`
+- [Laki kunnallisen eläkelain 126 §:n muuttamisesta](720.md) `720/2010`
+- [Laki valtion eläkelain 122 §:n muuttamisesta](721.md) `721/2010`
+- [Laki Suomen ja Ruotsin välillä tehdyn rajajokisopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta, sopimuksen soveltamisesta ja eräiden lakien kumoamisesta](722.md) `722/2010`
+- [Laki järjestyslain 22 §:n muuttamisesta](723.md) `723/2010`
+- [Laki järjestyksenvalvojista annetun lain muuttamisesta](724.md) `724/2010`
+- [Laki yksityisistä turvallisuuspalveluista annetun lain muuttamisesta](725.md) `725/2010`
+- [Maa\- ja metsätalousministeriön asetus metsätalouden ympäristötuen laskennassa käytettävästä puukuutiometrin keskikantohinnasta](726.md) `726/2010`
+- [Maa\- ja metsätalousministeriön asetus kalojen VHS\-taudin vuoksi Ahvenanmaan maakuntaan perustettavasta rajoitusalueesta](727.md) `727/2010`
+- [Työ\- ja elinkeinoministeriön asetus kosmeettisista valmisteista annetun kauppa\- ja teollisuusministeriön asetuksen muuttamisesta](728.md) `728/2010`
+- [Laki eurooppalaisesta todisteiden luovuttamismääräyksestä esineiden, asiakirjojen ja tietojen hankkimiseksi rikosasian käsittelyä varten tehdyn puitepäätöksen lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja puitepäätöksen soveltamisesta](729.md) `729/2010`
+- [Laki pakkokeinolain 4 luvun 15 a §:n muuttamisesta](730.md) `730/2010`
+- [Laki viestintämarkkinalain 134 §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](731.md) `731/2010`
+- [Laki viestintämarkkinalain 134 §:n muuttamisesta](732.md) `732/2010`
+- [Laki televisio\- ja radiotoiminnasta annetun lain muuttamisesta](733.md) `733/2010`
+- [Tasavallan presidentin asetus Etelä\-Afrikan kanssa kehitysyhteistyön yleisistä ehdoista ja menettelytavoista tehdyn sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](734.md) `734/2010`
+- [Tasavallan presidentin asetus Kazakstanin kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](735.md) `735/2010`
+- [Valtioneuvoston asetus valtion virkamiesasetuksen 1 §:n muuttamisesta](736.md) `736/2010`
+- [Valtioneuvoston asetus työterveyslaitoksen toiminnasta ja rahoituksesta annetun asetuksen muuttamisesta](737.md) `737/2010`
+- [Valtioneuvoston asetus  ympäristöministeriöstä annetun asetuksen muuttamisesta](738.md) `738/2010`
+- [Valtiovarainministeriön asetus valtiovarainministeriön maksullisista suoritteista](739.md) `739/2010`
+- [Ympäristöministeriön työjärjestys](740.md) `740/2010`
+- [Laki tuomareiden nimittämisestä annetun lain muuttamisesta](741.md) `741/2010`
+- [Laki Eurojustia koskevan päätöksen eräiden määräysten täytäntöönpanosta](742.md) `742/2010`
+- [Laki yhteisistä tutkintaryhmistä annetun lain 2 §:n muuttamisesta](743.md) `743/2010`
+- [Valtioneuvoston asetus eräiden tekstiilejä koskevien direktiivien täytäntöönpanosta annetun asetuksen 1 §:n muuttamisesta](744.md) `744/2010`
+- [Ulkoasiainministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoasiainministeriön asetuksen muuttamisesta](745.md) `745/2010`
+- [Laki kuluttajansuojalain muuttamisesta](746.md) `746/2010`
+- [Laki eräiden luotonantajien rekisteröinnistä](747.md) `747/2010`
+- [Laki panttilainauslaitoksista annetun lain muuttamisesta](748.md) `748/2010`
+- [Laki osamaksukaupasta annetun lain muuttamisesta](749.md) `749/2010`
+- [Laki rikoslain 30 luvun 3 §:n muuttamisesta](750.md) `750/2010`
+- [Laki luottotietolain 29 §:n muuttamisesta](751.md) `751/2010`
+- [Laki kauppakaaren 10 luvun 2 §:n muuttamisesta](752.md) `752/2010`
+- [Laki rajat ylittävästä kieltomenettelystä annetun lain 1 ja 2 §:n muuttamisesta](753.md) `753/2010`
+- [Laki sakon ja rikesakon määräämisestä](754.md) `754/2010`
+- [Laki rikoslain muuttamisesta](755.md) `755/2010`
+- [Laki rikesakkorikkomuksista](756.md) `756/2010`
+- [Laki sakon täytäntöönpanosta annetun lain muuttamisesta](757.md) `757/2010`
+- [Laki oikeudenkäymiskaaren 17 luvun 18 §:n muuttamisesta](758.md) `758/2010`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain 8 luvun 11 §:n muuttamisesta](759.md) `759/2010`
+- [Laki esitutkintalain 14 ja 44 §:n muuttamisesta](760.md) `760/2010`
+- [Laki yleisistä syyttäjistä annetun lain 1 §:n muuttamisesta](761.md) `761/2010`
+- [Laki kihlakunnansyyttäjästä annetun lain 8 §:n muuttamisesta](762.md) `762/2010`
+- [Laki tullilain 46 ja 47 §:n muuttamisesta](763.md) `763/2010`
+- [Laki rajavartiolain 47 §:n muuttamisesta](764.md) `764/2010`
+- [Laki Metsähallituksen erävalvonnasta annetun lain 14 §:n muuttamisesta](765.md) `765/2010`
+- [Laki sotilasoikeudenkäyntilain 15 §:n muuttamisesta](766.md) `766/2010`
+- [Laki tieliikennelain 103 §:n muuttamisesta](767.md) `767/2010`
+- [Laki ajoneuvolain 96 §:n muuttamisesta](768.md) `768/2010`
+- [Laki kaupallisista tavarankuljetuksista tiellä annetun lain 32 §:n muuttamisesta](769.md) `769/2010`
+- [Laki vesiliikennelain 24 §:n muuttamisesta](770.md) `770/2010`
+- [Laki vesikulkuneuvorekisteristä annetun lain 26 §:n muuttamisesta](771.md) `771/2010`
+- [Laki jätelain 62 §:n muuttamisesta](772.md) `772/2010`
+- [Laki kalastuslain muuttamisesta](773.md) `773/2010`
+- [Laki järjestyslain muuttamisesta](774.md) `774/2010`
+- [Laki pysäköintivirhemaksusta annetun lain 1 ja 16 §:n muuttamisesta](775.md) `775/2010`
+- [Laki tekijänoikeuslain 58 §:n muuttamisesta](776.md) `776/2010`
+- [Laki käräjäoikeuslain 17 §:n muuttamisesta](777.md) `777/2010`
+- [Valtiovarainministeriön asetus holhousasioiden rekisterin pitämiseen kuuluvien tehtävien määräämisestä](778.md) `778/2010`
+- [Laki aikuisten kansainvälisestä suojelusta tehdyn yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta](779.md) `779/2010`
+- [Laki holhoustoimesta annetun lain muuttamisesta](780.md) `780/2010`
+- [Laki edunvalvontavaltuutuksesta annetun lain muuttamisesta](781.md) `781/2010`
+- [Laki eräistä kansainvälisluontoisista perheoikeudellisista suhteista annetun lain III osan kumoamisesta](782.md) `782/2010`
+- [Tasavallan presidentin asetus Bahaman kanssa veroasioita koskevista tiedoista tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](783.md) `783/2010`
+- [Valtioneuvoston asetus valtion eläkkeiden maksamiseen tarvittavien varojen siirrosta ja kustannusten korvaamisesta kunnalliselle eläkelaitokselle](784.md) `784/2010`
+- [Valtioneuvoston asetus työnantajan eläkemaksun perusteista annetun valtioneuvoston asetuksen muuttamisesta](785.md) `785/2010`
+- [Laki ulkomaanedustuksen korvauksista annetun lain muuttamisesta](786.md) `786/2010`
+- [Laki kirkkolain 16 luvun ja 25 luvun 12 §:n muuttamisesta](787.md) `787/2010`
+- [Tasavallan presidentin asetus Suomen ulkomaanedustustojen sijaintipaikoista annetun tasavallan presidentin asetuksen 3 §:n muuttamisesta](788.md) `788/2010`
+- [Valtioneuvoston asetus luottosopimuksesta kuluttajalle annettavista tiedoista](789.md) `789/2010`
+- [Valtioneuvoston asetus osamaksusopimuksessa annettavista tiedoista](790.md) `790/2010`
+- [Maa\- ja metsätalousministeriön asetus eläinvahinkojen korvaamisessa käytettävistä käyvistä arvoista](791.md) `791/2010`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen 16 luvun muuttamisesta](792.md) `792/2010`
+- [Verohallinnon päätös vuoden 2010 kiinteistöverotuksen päättymisestä](793.md) `793/2010`
+- [Laki lääketieteellisestä tutkimuksesta annetun lain muuttamisesta](794.md) `794/2010`
+- [Laki potilaan asemasta ja oikeuksista annetun lain 13 §:n muuttamisesta](795.md) `795/2010`
+- [Laki sosiaalihuollon asiakkaan asemasta ja oikeuksista annetun lain 18 §:n muuttamisesta](796.md) `796/2010`
+- [Valtioneuvoston asetus maatalouden harjoittamisesta luopumisen tukemisesta annetun lain muuttamisesta annetun lain voimaantulosta](797.md) `797/2010`
+- [Valtioneuvoston asetus vuonna 2010 myönnettävän maatilan investointituen kohdentamisesta annetun valtioneuvoston asetuksen muuttamisesta](798.md) `798/2010`
+- [Valtioneuvoston asetus maatalouden investointituesta ja nuoren viljelijän aloitustuesta annetun valtioneuvoston asetuksen 24 §:n muuttamisesta](799.md) `799/2010`
+- [Valtioneuvoston asetus kivenlouhimojen, muun kivenlouhinnan ja kivenmurskaamojen ympäristönsuojelusta](800.md) `800/2010`
+- [Sosiaali\- ja terveysministeriön asetus rokotuksista ja tartuntatautien raskaudenaikaisesta seulonnasta annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta ja väliaikaisesta muuttamisesta](801.md) `801/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus helposti pilaantuvien elintarvikkeiden kansainvälisiä kuljetuksia ja tällaisissa kuljetuksissa käytettävää erityiskalustoa koskevan sopimuksen liitteiden 1 ja 2 muutosten voimaantulosta](802.md) `802/2010`
+- [Tasavallan presidentin asetus Etelämannerta koskevaan sopimukseen liittyvän ympäristönsuojelupöytäkirjan liitteen V alaisten toimenpiteiden voimaansaattamisesta](803.md) `803/2010`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön ulkopuolisista maista tuotavasta maidosta ja maitopohjaisista tuotteista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](804.md) `804/2010`
+- [Sosiaali\- ja terveysministeriön asetus tapaturmavakuutuslain 18 e §:n 3 momentin mukaisen haittarahan kertakorvauksen perusteista](805.md) `805/2010`
+- [Sosiaali\- ja terveysministeriön asetus tapaturmavakuutuslain 18 e §:n 5 momentin mukaisen haittarahan kertakorvauksen perusteista](806.md) `806/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](807.md) `807/2010`
+- [Verohallinnon työjärjestys](808.md) `808/2010`
+- [Tasavallan presidentin asetus ulkomaalaislain nojalla työ\- ja elinkeinotoimistoille säädettyjen tehtävien hoitamisesta Ahvenanmaan maakunnassa](809.md) `809/2010`
+- [Tasavallan presidentin asetus laajakaistarakentamisen tukeen liittyvien hallintotehtävien hoitamisesta Ahvenanmaan maakunnassa](810.md) `810/2010`
+- [Valtioneuvoston asetus Museovirastosta annetun valtioneuvoston asetuksen 7 ja 14 §:n muuttamisesta](811.md) `811/2010`
+- [Valtioneuvoston asetus viljeltävien kalojen suojelusta](812.md) `812/2010`
+- [Valtioneuvoston asetus orgaanisten liuottimien käytöstä eräissä maaleissa ja lakoissa sekä ajoneuvojen korjausmaalaustuotteissa aiheutuvien haihtuvien orgaanisten yhdisteiden päästöjen rajoittamisesta annetun valtioneuvoston asetuksen 2 ja 6 §:n muuttamisesta](813.md) `813/2010`
+- [Valtioneuvoston asetus orgaanisten liuottimien käytöstä eräissä toiminnoissa ja laitoksissa aiheutuvien haihtuvien orgaanisten yhdisteiden päästöjen rajoittamisesta annetun valtioneuvoston asetuksen muuttamisesta](814.md) `814/2010`
+- [Maa\- ja metsätalousministeriön asetus Suomessa rekisteröityjen kalastusalusten harjoittaman turskankalastuksen keskeyttämisestä ICES\-osa\-alueilla 22―24](815.md) `815/2010`
+- [Tasavallan presidentin asetus Viktoria\-järven valuma\-alueen kestävän kehityksen edistämisestä tehdyn kumppanuussopimuksen voimaansaattamisesta](816.md) `816/2010`
+- [Tasavallan presidentin asetus Suomen ja Ruotsin välillä tehdyn rajajokisopimuksen voimaansaattamisesta, rajajokisopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta, sopimuksen soveltamisesta ja eräiden lakien kumoamisesta annetun lain voimaantulosta sekä eräiden Ruotsin kanssa tehtyjen sopimusten voimaansaattamista koskevien asetusten kumoamisesta](817.md) `817/2010`
+- [Sisäasiainministeriön asetus pelastusautoista](818.md) `818/2010`
+- [Ympäristöministeriön asetus biosidivalmisteen hyväksymisen tai rekisteröinnin hakemisesta, markkinoilta poistamisesta ja erityisehdoista annetun ympäristöministeriön asetuksen liitteen 1 muuttamisesta](819.md) `819/2010`
+- [Valtioneuvoston asetus valtakunnallisesta lääketieteellisestä tutkimuseettisestä toimikunnasta](820.md) `820/2010`
+- [Ulkoasiainministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoasiainministeriön asetuksen muuttamisesta](821.md) `821/2010`
+- [Laki metsälain muuttamisesta](822.md) `822/2010`
+- [Laki rikoslain 48 a luvun 3 §:n muuttamisesta](823.md) `823/2010`
+- [Oikeusministeriön asetus kuluttajaluoton todellisesta vuosikorosta](824.md) `824/2010`
+- [Valtiovarainministeriön asetus maakuntien juhlarahoista](825.md) `825/2010`
+- [Valtioneuvoston asetus maidon kuljetusavustuksesta vuonna 2010](826.md) `826/2010`
+- [Valtioneuvoston asetus vuodelta 2010 maksettavasta luonnonhaittakorvauksen kansallisesta lisäosasta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](827.md) `827/2010`
+- [Valtioneuvoston asetus mittatekniikan keskuksesta annetun asetuksen muuttamisesta](828.md) `828/2010`
+- [Valtioneuvoston asetus bensiinin varastoinnista ja jakelusta aiheutuvien haihtuvien orgaanisten yhdisteiden päästöjen rajoittamisesta annetun valtioneuvoston päätöksen 6 §:n muuttamisesta](829.md) `829/2010`
+- [Valtioneuvoston asetus öljyjätemaksuina kertyvien varojen käytöstä öljyjätehuoltoon annetun valtioneuvoston päätöksen 6 §:n muuttamisesta](830.md) `830/2010`
+- [Valtioneuvoston asetus ympäristövahinkovakuutuksesta annetun asetuksen 1 ja 3 §:n muuttamisesta](831.md) `831/2010`
+- [Valtioneuvoston asetus suojelua ja parantamista edellyttävien sisävesien laadusta kalojen elinolojen turvaamiseksi annetun valtioneuvoston päätöksen 7 ja 8 §:n muuttamisesta](832.md) `832/2010`
+- [Valtioneuvoston asetus otsonikerrosta heikentäviä aineita ja eräitä fluorattuja kasvihuonekaasuja sisältävien laitteiden huollosta annetun valtioneuvoston asetuksen 13 §:n muuttamisesta](833.md) `833/2010`
+- [Valtioneuvoston asetus maataloudesta peräisin olevien nitraattien vesiin pääsyn rajoittamisesta annetun valtioneuvoston asetuksen muuttamisesta](834.md) `834/2010`
+- [Valtioneuvoston asetus polttoaineteholtaan vähintään 50 megawatin polttolaitosten ja kaasuturbiinien rikkidioksidi\-, typenoksidi\- ja hiukkaspäästöjen rajoittamisesta annetun valtioneuvoston asetuksen muuttamisesta](835.md) `835/2010`
+- [Valtioneuvoston asetus maakotkien porotaloudelle aiheuttamien vahinkojen korvaamisesta annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](836.md) `836/2010`
+- [Ympäristöministeriön asetus rauhoitettujen eläinten ja kasvien ohjeellisista arvoista annetun asetuksen 3 ja 11 §:n muuttamisesta](837.md) `837/2010`
+- [Ympäristöministeriön asetus rauhoitettujen harvinaisten eläinten tuottamien vahinkojen korvaamiseksi maksettavista avustuksista annetun ympäristöministeriön päätöksen 2 ja 3 §:n muuttamisesta](838.md) `838/2010`
+- [Maa\- ja metsätalousministeriön asetus Tenojoen, Näätämöjoen, Paatsjoen, Tuulomajoen ja Uutuanjoen vesistöalueiden suojaamisesta Gyrodactylus salaris \-loisen leviämiseltä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](839.md) `839/2010`
+- [Sosiaali\- ja terveysministeriön asetus alueellisen eettisen toimikunnan ja valtakunnallisen lääketieteellisen tutkimuseettisen toimikunnan lausunnoista perittävistä maksuista](840.md) `840/2010`
+- [Sosiaali\- ja terveysministeriön asetus kliinisistä lääketutkimuksista](841.md) `841/2010`
+- [Tasavallan presidentin asetus alusten haitallisten kiinnittymisenestojärjestelmien rajoittamisesta tehdyn kansainvälisen yleissopimuksen voimaansaattamisesta sekä yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](842.md) `842/2010`
+- [Tasavallan Presidentin avoin kirje valtioneuvoston vaihdoksesta](843.md) `843/2010`
+- [Maa\- ja metsätalousministeriön asetus hedelmien ja vihannesten kaupan pitämistä koskevien vaatimusten valvonnasta annetun maa\- ja metsätalousministeriön asetuksen 2 §:n muuttamisesta](844.md) `844/2010`
+- [Maa\- ja metsätalousministeriön asetus maitokiintiöistä annetun maa\- ja metsätalousministeriön asetuksen 2 ja 14 §:n muuttamisesta](845.md) `845/2010`
+- [Maa\- ja metsätalousministeriön asetus naudanlihan merkitsemisestä annetun maa\- ja metsätalousministeriön asetuksen 2 §:n muuttamisesta](846.md) `846/2010`
+- [Maa\- ja metsätalousministeriön asetus maataloustuotteiden ja elintarvikkeiden nimisuojasta annetun maa\- ja metsätalousministeriön asetuksen 3 ja 4 §:n muuttamisesta](847.md) `847/2010`
+- [Maa\- ja metsätalousministeriön asetus oliiviöljyn kaupan pitämistä koskevien vaatimusten valvonnasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](848.md) `848/2010`
+- [Maa\- ja metsätalousministeriön asetus uuhipalkkioiden kiintiöistä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](849.md) `849/2010`
+- [Maa\- ja metsätalousministeriön asetus vasikanlihan kaupan pitämisestä annetun maa\- ja metsätalousministeriön asetuksen 2 §:n muuttamisesta](850.md) `850/2010`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 5 §:n muuttamisesta](851.md) `851/2010`
+- [Laki Amerikan yhdysvaltojen kanssa tutkimus\- ja kehitystiedon vaihdosta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta](852.md) `852/2010`
+- [Laki Antiguan ja Barbudan kanssa veroasioita koskevista tiedoista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](853.md) `853/2010`
+- [Laki Dominican kanssa veroasioita koskevista tiedoista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](854.md) `854/2010`
+- [Laki Grenadan kanssa veroasioita koskevista tiedoista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](855.md) `855/2010`
+- [Laki Saint Lucian kanssa veroasioita koskevista tiedoista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](856.md) `856/2010`
+- [Valtioneuvoston asetus sairausvakuutuslain 3 luvun 4 ja 5 §:ssä tarkoitettujen korvaustaksojen perusteista annetun valtioneuvoston asetuksen 2 luvun 3 ja 3 a §:n väliaikaisesta muuttamisesta](857.md) `857/2010`
+- [Laki vakuutusedustuksesta annetun lain 28 §:n muuttamisesta](858.md) `858/2010`
+- [Laki Monacon kanssa veroasioita koskevista tiedoista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](859.md) `859/2010`
+- [Laki Kiinan kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](860.md) `860/2010`
+- [Tasavallan presidentin asetus Amerikan yhdysvaltojen kanssa tutkimus\- ja kehitystiedon vaihdosta tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta annetun lain voimaantulosta](861.md) `861/2010`
+- [Valtioneuvoston asetus valtion rahoituksen perusteena käytettävistä lukiokoulutuksen, ammatillisen koulutuksen ammattikorkeakoulujen, taiteen perusopetuksen ja kansalaisopistojen keskimääräisistä yksikköhinnoista vuonna 2011](862.md) `862/2010`
+- [Valtioneuvoston asetus asbestityöstä annetun valtioneuvoston päätöksen muuttamisesta](863.md) `863/2010`
+- [Valtioneuvoston asetus rautatiejärjestelmän turvallisuudesta ja yhteentoimivuudesta annetun valtioneuvoston asetuksen muuttamisesta](864.md) `864/2010`
+- [Valtioneuvoston asetus televisiomaksuista](865.md) `865/2010`
+- [Valtioneuvoston päätös Haukiputaan kunnan, Kiimingin kunnan, Oulun kaupungin, Oulunsalon kunnan ja Yli\-Iin kunnan lakkauttamisesta ja yhdistämisestä perustamalla uusi Oulun kaupunki](866.md) `866/2010`
+- [Maa\- ja metsätalousministeriön asetus siipikarjan ja eräiden muiden lintujen tunnistamisesta](867.md) `867/2010`
+- [Valtioneuvoston asetus vesiympäristölle vaarallisista ja haitallisista aineista annetun valtioneuvoston asetuksen muuttamisesta](868.md) `868/2010`
+- [Valtioneuvoston asetus vesienhoidon järjestämisestä annetun valtioneuvoston asetuksen muuttamisesta](869.md) `869/2010`
+- [Valtioneuvoston asetus vesienhoitoalueista annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](870.md) `870/2010`
+- [Maa\- ja metsätalousministeriön asetus kilohailin ja silakan kalastuksesta Itämeren pääaltaalla vuonna 2010 annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](871.md) `871/2010`
+- [Sosiaali\- ja terveysministeriön asetus Terveyden ja hyvinvoinnin laitoksen maksullisista suoritteista annetun asetuksen 3 §:n muuttamisesta](872.md) `872/2010`
+- [Verohallinnon päätös muiden verovelvollisten kuin yhteisöjen ja yhteisetuuksien verovuoden 2009 verotuksen päättymisestä](873.md) `873/2010`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain muuttamisesta](874.md) `874/2010`
+- [Laki sairausvakuutuslain 2 luvun 3 §:n muuttamisesta](875.md) `875/2010`
+- [Laki Euroopan unionista tehtyyn sopimukseen, Euroopan unionin toiminnasta tehtyyn sopimukseen ja Euroopan atomienergiayhteisön perustamissopimukseen liitetyn siirtymämääräyksistä tehdyn pöytäkirjan muuttamisesta tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](876.md) `876/2010`
+- [Valtioneuvoston asetus hätäkeskustoiminnasta](877.md) `877/2010`
+- [Valtioneuvoston asetus valtion taideteostoimikunnasta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](878.md) `878/2010`
+- [Valtioneuvoston asetus tartuntatautien neuvottelukunnasta annetun asetuksen muuttamisesta](879.md) `879/2010`
+- [Valtioneuvoston asetus maakotkien porotaloudelle aiheuttamien vahinkojen korvaamisesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](880.md) `880/2010`
+- [Valtiovarainministeriön asetus Lapset ja luovuus \-juhlarahasta](881.md) `881/2010`
+- [Valtioneuvoston asetus koulutustoimikuntajärjestelmästä](882.md) `882/2010`
+- [Valtiovarainministeriön asetus tullilaitoksen suoritteiden maksullisuudesta annetun asetuksen muuttamisesta](883.md) `883/2010`
+- [Valtiovarainministeriön asetus maistraattien sijaintipaikoista ja yksiköistä annetun asetuksen muuttamisesta](884.md) `884/2010`
+- [Laki kansainvälisistä tietoturvallisuusvelvoitteista annetun lain muuttamisesta](885.md) `885/2010`
+- [Laki viestintähallinnosta annetun lain 2 §:n muuttamisesta](886.md) `886/2010`
+- [Laki eräistä arvopaperi\- ja valuuttakaupan sekä selvitysjärjestelmän ehdoista annetun lain muuttamisesta](887.md) `887/2010`
+- [Laki rahoitusvakuuslain muuttamisesta](888.md) `888/2010`
+- [Laki velkakirjalain 22 §:n muuttamisesta](889.md) `889/2010`
+- [Laki Pohjoisen ulottuvuuden liikenne\- ja logistiikkakumppanuuden sihteeristöstä tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](890.md) `890/2010`
+- [Tasavallan presidentin asetus Eteläisen Afrikan kehitysyhteisön kanssa yhteistyöstä koskien teknistä tukiohjelmaa uusiutuvalle energialle ja energiatehokkuudelle Eteläisen Afrikan kehitysyhteisössä tehdyn sopimuksen voimaansaattamisesta](891.md) `891/2010`
+- [Tasavallan presidentin asetus Kansainvälisen investointitakauslaitoksen perustamista koskevan yleissopimuksen muutoksen voimaansaattamisesta](892.md) `892/2010`
+- [Valtioneuvoston asetus perusopetusasetuksen 2 §:n muuttamisesta](893.md) `893/2010`
+- [Valtioneuvoston asetus radiotaajuuksien käytöstä ja taajuussuunnitelmasta annetun valtioneuvoston asetuksen muuttamisesta ja väliaikaisesta muuttamisesta](894.md) `894/2010`
+- [Valtiovarainministeriön asetus veronkannosta annetun valtiovarainministeriön asetuksen muuttamisesta](895.md) `895/2010`
+- [Sisäasiainministeriön asetus rajavartiolaitoksen virkapuvusta ja rajavartiomiehen tunnuksesta annetun sisäasiainministeriön asetuksen 11 §:n muuttamisesta](896.md) `896/2010`
+- [Ympäristöministeriön työjärjestys](897.md) `897/2010`
+- [Puolustusministeriön asetus asevelvollisten varusmiespalveluksen aloittamispäivistä vuosina 2011–2016](898.md) `898/2010`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 96 §:ssä tarkoitetun palkkakertoimen antamisesta](899.md) `899/2010`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 98 §:ssä tarkoitetun työeläkeindeksin antamisesta](900.md) `900/2010`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain voimaanpanolain 15 §:ssä tarkoitetun indeksiluvun vahvistamisesta](901.md) `901/2010`
+- [Laki kemiallisten aseiden kehittämisen, tuotannon, varastoinnin ja käytön kieltämistä sekä niiden hävittämistä koskevan yleissopimuksen eräiden määräysten hyväksymisestä ja sen soveltamisesta annetun lain muuttamisesta](902.md) `902/2010`
+- [Laki jäsenvaltioiden itselleen pidättämien kantopalkkioiden jaosta perinteisiä omia varoja EU:n talousarviokäyttöön asetettaessa tehdyn keskitettyä tulliselvitystä koskevan yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](903.md) `903/2010`
+- [Laki arvonlisäverolain 85 a §:n väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](904.md) `904/2010`
+- [Laki arvonlisäverolain 32 ja 33 §:n muuttamisesta](905.md) `905/2010`
+- [Laki lasten oikeuksien käyttöä koskevan eurooppalaisen yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](906.md) `906/2010`
+- [Valtioneuvoston asetus kansanterveyttä sekä eläinten ja kasvien terveyttä, taudeista ilmoittamista, eläinten hyvinvointia sekä eläinten tunnistusta ja rekisteröintiä koskevien täydentävien ehtojen valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](907.md) `907/2010`
+- [Opetus\- ja kulttuuriministeriön asetus ylioppilastutkintolautakunnan suoritteiden maksullisuudesta](908.md) `908/2010`
+- [Laki työntekijän eläkelain muuttamisesta](909.md) `909/2010`
+- [Laki työntekijän eläkelain voimaanpanolain 10 §:n muuttamisesta](910.md) `910/2010`
+- [Laki merimieseläkelain muuttamisesta](911.md) `911/2010`
+- [Laki merimieseläkelain voimaanpanosta annetun lain 6 §:n muuttamisesta](912.md) `912/2010`
+- [Laki yrittäjän eläkelain muuttamisesta](913.md) `913/2010`
+- [Laki yrittäjän eläkelain voimaanpanosta annetun lain 5 ja 13 §:n muuttamisesta](914.md) `914/2010`
+- [Laki maatalousyrittäjän eläkelain muuttamisesta](915.md) `915/2010`
+- [Laki maatalousyrittäjän eläkelain voimaanpanosta annetun lain 12 §:n muuttamisesta](916.md) `916/2010`
+- [Laki kansaneläkelain 11 ja 55 §:n muuttamisesta](917.md) `917/2010`
+- [Laki Valko\-Venäjän kanssa yhteistyöstä ja keskinäisestä avunannosta tulliasioissa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](918.md) `918/2010`
+- [Laki eräiden asuntojen vuokraustoimintaa harjoittavien osakeyhtiöiden veronhuojennuksesta annetun lain muuttamisesta](919.md) `919/2010`
+- [Valtioneuvoston asetus räjähteiden vaatimustenmukaisuuden toteamisesta annetun asetuksen muuttamisesta](920.md) `920/2010`
+- [Sosiaali\- ja terveysministeriön asetus biologisten tekijöiden luokituksesta](921.md) `921/2010`
+- [Sosiaali\- ja terveysministeriön asetus nuorille työntekijöille vaarallisten töiden esimerkkiluettelosta annetun sosiaali\- ja terveysministeriön asetuksen liitteen muuttamisesta](922.md) `922/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta eläinten ruokintaan käytettävistä tuotteista annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](923.md) `923/2010`
+- [Laki sähköisestä asioinnista viranomaistoiminnassa annetun lain muuttamisesta](924.md) `924/2010`
+- [Laki ulkomaanedustuksen virkamiesten puolisoille maksettavasta erityiskorvauksesta annetun lain muuttamisesta](925.md) `925/2010`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](926.md) `926/2010`
+- [Laki Turkin kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen ja pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](927.md) `927/2010`
+- [Tasavallan presidentin asetus kemiallisten aseiden kehittämisen, tuotannon, varastoinnin ja käytön kieltämistä sekä niiden hävittämistä koskevan yleissopimuksen voimaansaattamisesta sekä yleissopimuksen eräiden määräysten hyväksymisestä ja sen soveltamisesta annetun lain voimaantulosta annetun asetuksen 2 §:n muuttamisesta](928.md) `928/2010`
+- [Tasavallan presidentin asetus Venäjän kanssa Suomen ja Venäjän välisen valtakunnanrajan ylityspaikoista tehdyn sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](929.md) `929/2010`
+- [Tasavallan presidentin asetus Panaman kanssa sijoitusten edistämisestä ja suojaamisesta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](930.md) `930/2010`
+- [Valtioneuvoston asetus romuajoneuvoista annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](931.md) `931/2010`
+- [Valtioneuvoston asetus sähkö\- ja elektroniikkalaiteromusta annetun valtioneuvoston asetuksen muuttamisesta](932.md) `932/2010`
+- [Valtioneuvoston asetus eräiden vaarallisten aineiden käytön rajoittamisesta ajoneuvoissa annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](933.md) `933/2010`
+- [Henkilöstörahastolaki](934.md) `934/2010`
+- [Laki yhteistoiminnasta yrityksissä annetun lain 19 §:n muuttamisesta](935.md) `935/2010`
+- [Laki osuuskuntalain 8 luvun 7 §:n muuttamisesta](936.md) `936/2010`
+- [Laki valtion liikelaitoksista annetun lain 10 §:n muuttamisesta](937.md) `937/2010`
+- [Laki elinkeinotulon verottamisesta annetun lain 8 §:n muuttamisesta](938.md) `938/2010`
+- [Laki sairausvakuutuslain 11 luvun 2 §:n muuttamisesta](939.md) `939/2010`
+- [Laki työntekijän eläkelain 70 §:n muuttamisesta](940.md) `940/2010`
+- [Laki merimieseläkelain 78 §:n muuttamisesta](941.md) `941/2010`
+- [Laki kunnallisen eläkelain 68 §:n muuttamisesta](942.md) `942/2010`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain 19 §:n muuttamisesta](943.md) `943/2010`
+- [Laki tapaturmavakuutuslain 35 b §:n muuttamisesta](944.md) `944/2010`
+- [Tasavallan presidentin asetus Kiinan kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](945.md) `945/2010`
+- [Valtioneuvoston asetus alusten ympäristönsuojelua parantavien investointitukien yleisistä ehdoista](946.md) `946/2010`
+- [Sisäasiainministeriön asetus Palosuojelurahaston työjärjestyksestä](947.md) `947/2010`
+- [Liikenne\- ja viestintäministeriön asetus radiotaajuuksien käyttösuunnitelmasta annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](948.md) `948/2010`
+- [Maa\- ja metsätalousministeriön asetus turskankalastuksen erityisluvista](949.md) `949/2010`
+- [Maa\- ja metsätalousministeriön asetus Suomen turskakiintiön käyttämisestä itäisellä säätelyalueella vuonna 2010 annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](950.md) `950/2010`
+- [Laki arpajaisverolain muuttamisesta](951.md) `951/2010`
+- [Laki lentoliikenteen valvontamaksusta annetun lain 4 §:n muuttamisesta](952.md) `952/2010`
+- [Laki Teknologian tutkimuskeskus VTT:stä](953.md) `953/2010`
+- [Laki patenttilain 67 §:n muuttamisesta](954.md) `954/2010`
+- [Laki geenitekniikkalain 6 §:n muuttamisesta](955.md) `955/2010`
+- [Tasavallan presidentin asetus alkoholitavarain salakuljetuksen ehkäisemistä tarkoittavan sopimuksen voimaansaattamisesta annetun asetuksen kumoamisesta](956.md) `956/2010`
+- [Valtioneuvoston asetus työmarkkinatuen tarveharkinnassa sovellettavien euromäärien tarkistamisesta](957.md) `957/2010`
+- [Valtioneuvoston asetus kansanedustajien paikkojen jaosta vaalipiirien kesken](958.md) `958/2010`
+- [Valtioneuvoston asetus eräiden asuntojen vuokraustoimintaa harjoittavien osakeyhtiöiden veronhuojennuksesta annetun lain voimaantulosta ja eräiden asuntojen vuokraustoimintaa harjoittavien osakeyhtiöiden veronhuojennuksesta annetun lain muuttamisesta annetun lain voimaantulosta](959.md) `959/2010`
+- [Valtioneuvoston asetus jäsenvaltioiden itselleen pidättämien kantopalkkioiden jaosta perinteisiä omia varoja EU:n talousarviokäyttöön asetettaessa tehdyn keskitettyä tulliselvitystä koskevan yleissopimuksen väliaikaisesta voimaansaattamisesta ja yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain väliaikaisesta soveltamisesta](960.md) `960/2010`
+- [Valtioneuvoston asetus tulliasetuksen muuttamisesta](961.md) `961/2010`
+- [Valtioneuvoston asetus Suomenlinnan hoitokunnasta annetun asetuksen 11 ja 13 §:n muuttamisesta](962.md) `962/2010`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä toimintapääomasta](963.md) `963/2010`
+- [Maa\- ja metsätalousministeriön asetus elintarvikkeissa ja alkoholijuomissa käytettävistä makeutusaineista annetun kauppa\- ja teollisuusministeriön asetuksen liitteen muuttamisesta](964.md) `964/2010`
+- [Maa\- ja metsätalousministeriön asetus hedelmä\- ja vihannesalan tuottajaorganisaatioista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](965.md) `965/2010`
+- [Laki rikosasioiden ja eräiden riita\-asioiden sovittelusta annetun lain muuttamisesta](966.md) `966/2010`
+- [Valtioneuvoston asetus yliopistojen tutkinnoista annetun valtioneuvoston asetuksen liitteen muuttamisesta](967.md) `967/2010`
+- [Valtioneuvoston asetus kasvinjalostajanoikeudesta annetun asetuksen kumoamisesta](968.md) `968/2010`
+- [Valtioneuvoston asetus sairausvakuutusmaksujen maksuprosenteista vuonna 2011](969.md) `969/2010`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön ulkopuolisista maista tuotavasta lihasta ja lihasta jalostetuista tuotteista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](970.md) `970/2010`
+- [Oikeusministeriön asetus velallisen maksukyvyn arvioinnin perusteista yksityishenkilön velkajärjestelyssä annetun oikeusministeriön asetuksen 4 ja 6 a §:n muuttamisesta](971.md) `971/2010`
+- [Oikeusministeriön asetus suojaosuuden määrästä määräajoin maksettavan palkan ulosmittauksessa](972.md) `972/2010`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta \(EU\) N:o 961/2010 Iraniin kohdistuvista rajoittavista toimenpiteistä](973.md) `973/2010`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta \(EU\) N:o 667/2010 tietyistä Eritreaa koskevista rajoittavista toimenpiteistä](974.md) `974/2010`
+- [Valtioneuvoston asetus yksityisistä turvallisuuspalveluista annetun valtioneuvoston asetuksen muuttamisesta](975.md) `975/2010`
+- [Valtioneuvoston asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen 9 §:n muuttamisesta](976.md) `976/2010`
+- [Valtioneuvoston asetus vuonna 2011 myönnettävän maatilan investointituen kohdentamisesta](977.md) `977/2010`
+- [Valtioneuvoston asetus tuettavan peltosalaojituksen laatuvaatimuksista ja tukikelpoisista enimmäiskustannuksista annetun valtioneuvoston asetuksen muuttamisesta](978.md) `978/2010`
+- [Valtioneuvoston asetus maatalouden investointituesta ja nuoren viljelijän aloitustuesta annetun valtioneuvoston asetuksen muuttamisesta](979.md) `979/2010`
+- [Verohallinnon päätös matkakuluvähennyksen määrästä vuodelta 2010 toimitettavassa verotuksessa](980.md) `980/2010`
+- [Laki sosiaali\- ja terveydenhuollon asiakastietojen sähköisestä käsittelystä annetun lain muuttamisesta](981.md) `981/2010`
+- [Laki sähköisestä lääkemääräyksestä annetun lain muuttamisesta](982.md) `982/2010`
+- [Laki väestötietojärjestelmästä ja Väestörekisterikeskuksen varmennepalveluista annetun lain muuttamisesta](983.md) `983/2010`
+- [Tasavallan presidentin asetus Itä\-Afrikan yhteisön kanssa Suomen tuesta Itä\-Afrikan yhteisön kumppanuusrahastolle tehdyn sopimuksen voimaansaattamisesta](984.md) `984/2010`
+- [Valtioneuvoston asetus Museovirastosta annetun valtioneuvoston asetuksen muuttamisesta](985.md) `985/2010`
+- [Valtioneuvoston asetus vuodelta 2010 maksettavasta eräiden peltokasvien tuotantopalkkiosta annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](986.md) `986/2010`
+- [Valtioneuvoston asetus vuodelta 2010 maksettavista lypsylehmä\- ja nautapalkkioista annetun valtioneuvoston asetuksen muuttamisesta](987.md) `987/2010`
+- [Valtioneuvoston asetus henkilöstörahastoista](988.md) `988/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvilajikkeiden lajikeluettelosta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](989.md) `989/2010`
+- [Laki uusjakojen tukemisesta annetun lain muuttamisesta](990.md) `990/2010`
+- [Laki työaikalain 2 ja 7 §:n muuttamisesta](991.md) `991/2010`
+- [Laki sotilasvammalain 6 e §:n muuttamisesta](992.md) `992/2010`
+- [Valtioneuvoston asetus aluehallintoviraston maksuista annetun valtioneuvoston asetuksen liitteen 1\.1 ja 5 kohdan muuttamisesta](993.md) `993/2010`
+- [Valtioneuvoston asetus porotaloudesta saatujen tulojen vuoden 2010 verotuksessa noudatettavista tuottoperusteista](994.md) `994/2010`
+- [Valtioneuvoston asetus Geodeettisesta laitoksesta annetun valtioneuvoston asetuksen muuttamisesta](995.md) `995/2010`
+- [Valtioneuvoston asetus maanpuolustusta koskevista poikkeuksista kemikaalilainsäädännön soveltamisessa](996.md) `996/2010`
+- [Maa\- ja metsätalousministeriön asetus kiinteistöjen kirjaamisasioiden maksuista sekä kaupanvahvistuksesta perittävistä maksuista ja korvauksista vuosina 2011 ja 2012](997.md) `997/2010`
+- [Maa\- ja metsätalousministeriön asetus kameraalisen jaotuksen ja kuntajaon muuttamisesta](998.md) `998/2010`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 153 §:ssä tarkoitettujen työntekijän työeläkevakuutusmaksuprosenttien antamisesta](999.md) `999/2010`
+- [Sosiaali\- ja terveysministeriön asetus yrittäjän eläkelain 114 §:ssä tarkoitettujen työeläkevakuutusmaksuprosenttien ja maatalousyrittäjän eläkelain 22 §:ssä tarkoitettujen työeläkevakuutusmaksun perusprosenttien antamisesta](1000.md) `1000/2010`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta \(EU\) N:o 1032/2010 Norsunluurannikolle annettavan sotilaalliseen toimintaan liittyvän avun rajoittamisesta annetun neuvoston asetuksen \(EY\) N:o 174/2005 muuttamisesta](1001.md) `1001/2010`
+- [Maa\- ja metsätalousministeriön asetus eräiden elävien eläinten, eläimistä saatavien sivutuotteiden sekä eräiden tavaroiden eläintautivaatimuksista Euroopan unionin sisämarkkinoilla](1002.md) `1002/2010`
+- [Maa\- ja metsätalousministeriön asetus eläintautien vastustamiseksi suoritettavista tarkastuksista Euroopan yhteisön sisämarkkinoilla annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1003.md) `1003/2010`
+- [Maa\- ja metsätalousministeriön asetus hevoseläinten sukusolujen ja alkioiden eläintautivaatimuksista Euroopan unionin sisämarkkinoilla](1004.md) `1004/2010`
+- [Laki merenkulun ympäristönsuojelulain 3 luvun 6 §:n muuttamisesta](1005.md) `1005/2010`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](1006.md) `1006/2010`
+- [Laki joukkoliikennelain muuttamisesta](1007.md) `1007/2010`
+- [Laki Luotsausliikelaitoksen muuttamisesta osakeyhtiöksi](1008.md) `1008/2010`
+- [Laki tuotteiden ekologiselle suunnittelulle ja energiamerkinnälle asetettavista vaatimuksista annetun lain muuttamisesta](1009.md) `1009/2010`
+- [Tasavallan presidentin asetus Euroopan radioviestintätoimiston \(ERO\) perustamista koskevan yleissopimuksen muuttamista koskevan asiakirjan voimaansaattamisesta sekä sen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1010.md) `1010/2010`
+- [Valtioneuvoston asetus maa\- ja puutarhatalouden väliaikaisesta kansallisesta tuesta annetun valtioneuvoston asetuksen 4 ja 5 §:n muuttamisesta](1011.md) `1011/2010`
+- [Valtioneuvoston asetus Teknologian tutkimuskeskus VTT:stä](1012.md) `1012/2010`
+- [Valtiovarainministeriön asetus toimivaltaisista viranomaisista Euroopan unionin jäsenvaltioiden välisessä hallinnollisessa yhteistyössä arvonlisäverotuksen alalla](1013.md) `1013/2010`
+- [Sosiaali\- ja terveysministeriön asetus valtion mielisairaaloiden maksullisista suoritteista annetun sosiaali\- ja terveysministeriön asetuksen 1 §:n muuttamisesta](1014.md) `1014/2010`
+- [Maa\- ja metsätalousministeriön asetus kilohailin ja silakan kalastuksen keskeyttämisestä Itämeren pääaltaalla](1015.md) `1015/2010`
+- [Laki tavaramerkkilain muuttamisesta](1016.md) `1016/2010`
+- [Laki Etelämannerta koskevaan sopimukseen liittyvän ympäristönsuojelupöytäkirjan liitteen VI lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1017.md) `1017/2010`
+- [Laki Etelämannerta koskevaan sopimukseen liittyvän ympäristönsuojelupöytäkirjan liitteen II lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1018.md) `1018/2010`
+- [Laki Etelämannerta koskevan sopimuksen IX artiklan mukaisen sopimuspuolten konsultatiivikokouksen hyväksymän toimenpiteen 4\(2004\) lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1019.md) `1019/2010`
+- [Laki Etelämantereen ympäristönsuojelusta annetun lain muuttamisesta](1020.md) `1020/2010`
+- [Laki rikoslain 48 a luvun muuttamisesta](1021.md) `1021/2010`
+- [Valtioneuvoston päätös valtioista ja alueista, joiden rahanpesun ja terrorismin rahoituksen estämistä ja selvittämistä koskevat säännökset eivät vastaa rahanpesun ja terrorismin rahoittamisen estämisestä ja selvittämisestä annetussa laissa tarkoitettuja kansainvälisiä velvoitteita](1022.md) `1022/2010`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 82 §:ssä tarkoitetun elinaikakertoimen antamisesta](1023.md) `1023/2010`
+- [Oikeusministeriön asetus tietojen merkitsemisestä oikeushallinnon valtakunnallisen tietojärjestelmän ratkaisu\- ja päätösilmoitusjärjestelmään](1024.md) `1024/2010`
+- [Verohallinnon päätös vuodelta 2011 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](1025.md) `1025/2010`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain muuttamisesta](1026.md) `1026/2010`
+- [Valtiovarainministeriön asetus Tilastokeskuksen suoritteiden maksullisuudesta](1027.md) `1027/2010`
+- [Verohallinnon päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](1028.md) `1028/2010`
+- [Verohallinnon päätös metsän keskimääräisestä vuotuisesta tuotosta](1029.md) `1029/2010`
+- [Kirkolliskokouksen päätös Ortodoksisen kirkon kirkkojärjestyksen 132 §:n muuttamisesta](1030.md) `1030/2010`
+- [Kirkolliskokouksen päätös Ortodoksisen kirkon kirkkojärjestyksen 141 §:n muuttamisesta](1031.md) `1031/2010`
+- [Vuoden 2010 neljäs lisätalousarvio](1032.md) `1032/2010`
+- [Valtioneuvoston asetus opetus\- ja kulttuuritoimen rahoituksesta annetun valtioneuvoston asetuksen 14 §:n muuttamisesta](1033.md) `1033/2010`
+- [Laki Euroopan unionin sotilaallisen kriisinhallintaoperaation EUNAVFOR Atalantan yhteydessä merirosvoudesta tai aseellisesta ryöstöstä epäiltyä koskevan rikosasian käsittelystä](1034.md) `1034/2010`
+- [Laki vaalilain 5 §:n muuttamisesta](1035.md) `1035/2010`
+- [Valtioneuvoston asetus asumistuen määräytymisperusteista vuodelle 2011](1036.md) `1036/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden maatilalain mukaisten myyntihintasaamisten ja lainojen viitekorosta](1037.md) `1037/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden porotalouden ja luontaiselinkeinojen rahoituslain mukaisten asuntolainojen viitekorosta](1038.md) `1038/2010`
+- [Laki yrityspalvelujen asiakastietojärjestelmästä annetun lain muuttamisesta](1039.md) `1039/2010`
+- [Laki julkisesti tuettujen vienti\- ja alusluottojen korontasauksesta annetun lain muuttamisesta](1040.md) `1040/2010`
+- [Laki Suomen Vientiluotto Oy \-nimisestä yhtiöstä annetun lain muuttamisesta](1041.md) `1041/2010`
+- [Tasavallan presidentin asetus Monacon kanssa veroasioita koskevista tiedoista tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1042.md) `1042/2010`
+- [Valtioneuvoston asetus tuotteiden ekologiselle suunnittelulle asetettavista vaatimuksista](1043.md) `1043/2010`
+- [Valtioneuvoston asetus alkoholijuomien myynnistä ja sen valvonnasta Suomen ja ulkomaiden välillä kulkevissa liikennevälineissä annetun asetuksen muuttamisesta](1044.md) `1044/2010`
+- [Valtiovarainministeriön asetus peruskoron vahvistaminen](1045.md) `1045/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta lannoitevalmisteita koskevan toiminnan harjoittamisesta ja sen valvonnasta annetun maa\- ja metsätalousministeriön asetuksen 13/07 liitteen III muuttamisesta](1046.md) `1046/2010`
+- [Laki palvelujen tarjoamisesta annetun lain 7 §:n muuttamisesta](1047.md) `1047/2010`
+- [Ulkoasiainministeriön asetus ulkomaanedustuksen korvauksista](1048.md) `1048/2010`
+- [Laki henkilötietolain 2 §:n 4 momentin kumoamisesta](1049.md) `1049/2010`
+- [Laki luotsauslain muuttamisesta](1050.md) `1050/2010`
+- [Laki vahingonkorvauslain 3 luvun 7 §:n kumoamisesta](1051.md) `1051/2010`
+- [Laki tilaajan selvitysvelvollisuudesta ja vastuusta ulkopuolista työvoimaa käytettäessä annetun lain muuttamisesta](1052.md) `1052/2010`
+- [Laki työsuojeluun liittyvien arviointielimien hyväksymisestä](1053.md) `1053/2010`
+- [Maa\- ja metsätalousministeriön asetus hedelmätäysmehuista ja tietyistä vastaavista valmisteista](1054.md) `1054/2010`
+- [Laki satovahinkojen korvaamisesta annetun lain muuttamisesta](1055.md) `1055/2010`
+- [Laki sairausvakuutuslain 13 luvun 5 §:n muuttamisesta](1056.md) `1056/2010`
+- [Laki teollismallien kansainvälistä rekisteröintiä koskevaan Haagin sopimuksen Geneven asiakirjan ja sen täytäntöönpanomääräysten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1057.md) `1057/2010`
+- [Laki mallioikeuslain muuttamisesta](1058.md) `1058/2010`
+- [Valtioneuvoston asetus tartuntatautiasetuksen liitteiden 1 ja 2 muuttamisesta](1059.md) `1059/2010`
+- [Valtiovarainministeriön asetus maistraattien sijaintipaikoista ja yksiköistä annetun asetuksen muuttamisesta](1060.md) `1060/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta alkuperäiskasvilajikkeiden sekä erityisiin kasvuolosuhteisiin kehitettyjen vihanneslajikkeiden hyväksymisestä ja siemenkaupasta](1061.md) `1061/2010`
+- [Laki valtion liikelaitoksista](1062.md) `1062/2010`
+- [Laki valtion yhtiöomistuksesta ja omistajaohjauksesta annetun lain 1 ja 6 §:n muuttamisesta](1063.md) `1063/2010`
+- [Laki kansaneläkeindeksistä annetun lain muuttamisesta](1064.md) `1064/2010`
+- [Valtioneuvoston asetus Euroopan unionin sotilaallisen kriisinhallintaoperaation EUNAVFOR Atalantan yhteydessä merirosvoudesta tai aseellisesta ryöstöstä epäiltyä koskevan rikosasian käsittelystä annetun lain voimaantulosta](1065.md) `1065/2010`
+- [Valtioneuvoston asetus maatalousyrittäjien luopumistuesta annetun lain muuttamisesta annetun lain voimaantulosta](1066.md) `1066/2010`
+- [Valtioneuvoston asetus vuodelta 2010 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 4 ja 6 §:n muuttamisesta](1067.md) `1067/2010`
+- [Valtioneuvoston asetus vuodelta 2010 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](1068.md) `1068/2010`
+- [Valtioneuvoston asetus vuodelta 2010 maksettavasta perunantuotannon kansallisesta tuesta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](1069.md) `1069/2010`
+- [Valtioneuvoston asetus eräiden tekstiilejä koskevien direktiivien täytäntöönpanosta annetun asetuksen 1 §:n muuttamisesta](1070.md) `1070/2010`
+- [Valtioneuvoston asetus eläkkeensaajan asumistuen määräytymisperusteista vuonna 2011](1071.md) `1071/2010`
+- [Laki sähköturvallisuuslain muuttamisesta](1072.md) `1072/2010`
+- [Laki rikoslain 44 ja 48 luvun muuttamisesta](1073.md) `1073/2010`
+- [Laki luonnonsuojelulain 58 §:n muuttamisesta](1074.md) `1074/2010`
+- [Laki ympäristönsuojelulain 20 §:n muuttamisesta](1075.md) `1075/2010`
+- [Laki Suomen keskusviranomaisesta eräissä elatusapua koskevissa kansainvälisissä asioissa](1076.md) `1076/2010`
+- [Laki elatusvelvoitteita koskevan neuvoston asetuksen soveltamisesta](1077.md) `1077/2010`
+- [Laki avioliittolain muuttamisesta](1078.md) `1078/2010`
+- [Laki lapsen elatuksesta annetun lain muuttamisesta](1079.md) `1079/2010`
+- [Laki ulkomailla annetun elatusapua koskevan päätöksen tunnustamisesta ja täytäntöönpanosta annetun lain 1 ja 2 §:n muuttamisesta](1080.md) `1080/2010`
+- [Laki eräistä kansainvälisluontoisista perheoikeudellisista suhteista annetun lain kumoamisesta](1081.md) `1081/2010`
+- [Laki rikoslain 21 luvun 16 §:n muuttamisesta](1082.md) `1082/2010`
+- [Laki Tanskan, Suomen, Islannin, Norjan ja Ruotsin välillä tehdyn yleisen turvallisuussopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1083.md) `1083/2010`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötoimitusmaksusta](1084.md) `1084/2010`
+- [Sisäasiainministeriön asetus Maahanmuuttoviraston suoritteiden maksullisuudesta](1085.md) `1085/2010`
+- [Laki vaikeavammaisille yrittäjille myönnettävistä veronhuojennuksista annetun lain 3 §:n muuttamisesta](1086.md) `1086/2010`
+- [Laki eläinlääkärinammatin harjoittamisesta annetun lain muuttamisesta](1087.md) `1087/2010`
+- [Sosiaali\- ja terveysministeriön asetus lääkkeen määräämisestä](1088.md) `1088/2010`
+- [Valtioneuvoston asetus lääkkeen määräämisen edellyttämästä koulutuksesta](1089.md) `1089/2010`
+- [Valtioneuvoston asetus sairausvakuutuslain täytäntöönpanosta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](1090.md) `1090/2010`
+- [Laki eduskuntaryhmien tuesta](1091.md) `1091/2010`
+- [Laki kunnallisen eläkelain muuttamisesta](1092.md) `1092/2010`
+- [Laki valtion eläkelain muuttamisesta](1093.md) `1093/2010`
+- [Laki Kansaneläkelaitoksesta annetun lain 13 ja 14 §:n muuttamisesta](1094.md) `1094/2010`
+- [Laki kotikuntalain muuttamisesta](1095.md) `1095/2010`
+- [Laki julkisen hallinnon yhteispalvelusta annetun lain muuttamisesta](1096.md) `1096/2010`
+- [Laki veroasioissa annettavaa keskinäistä virka\-apua koskevan yleissopimuksen muuttamisesta tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1097.md) `1097/2010`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja elintarviketalouden tutkimuskeskuksen suoritteista perittävistä maksuista](1098.md) `1098/2010`
+- [Laki rikoslain 2 c luvun muuttamisesta](1099.md) `1099/2010`
+- [Valtioneuvoston asetus traktoreiden, niiden perävaunujen ja traktoreilla vedettävien vaihdettavissa olevien laitteiden EY\-tyyppihyväksynnästä](1100.md) `1100/2010`
+- [Valtioneuvoston asetus työvälineiden turvallisesta käytöstä ja tarkastamisesta annetun valtioneuvoston asetuksen muuttamisesta](1101.md) `1101/2010`
+- [Valtioneuvoston asetus henkilönostoista nosturilla ja haarukkatrukilla annetun valtioneuvoston päätöksen kumoamisesta](1102.md) `1102/2010`
+- [Laki vapaasta sivistystyöstä annetun lain muuttamisesta](1103.md) `1103/2010`
+- [Laki vapaasta sivistystyöstä annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1104.md) `1104/2010`
+- [Laki ajoneuvojen yksittäishyväksynnän järjestämisestä annetun lain muuttamisesta](1105.md) `1105/2010`
+- [Laki ajoneuvojen yksittäishyväksynnän väliaikaisesta järjestämisestä annetun lain muuttamisesta](1106.md) `1106/2010`
+- [Liikenne\- ja viestintäministeriön asetus liikenne\- ja viestintäministeriön maksullisista suoritteista annetun liikenne\- ja viestintäministeriön asetuksen liitteen muuttamisesta](1107.md) `1107/2010`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2010 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista ja työnantajasuoritusten vähimmäismäärästä](1108.md) `1108/2010`
+- [Laki alkolukon hyväksymisestä liikenteeseen](1109.md) `1109/2010`
+- [Laki alkolukon käytöstä koulu\- ja päivähoitokuljetuksissa](1110.md) `1110/2010`
+- [Laki alkolukolla valvotusta ajo\-oikeudesta annetun lain 3 §:n muuttamisesta](1111.md) `1111/2010`
+- [Laki lääkelain muuttamisesta](1112.md) `1112/2010`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyvään HSC\-koodiin tehtyjen muutosten voimaansaattamisesta](1113.md) `1113/2010`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen tehtyjen muutosten voimaansaattamisesta](1114.md) `1114/2010`
+- [Laki kasvinterveyden suojelemisesta annetun lain muuttamisesta](1115.md) `1115/2010`
+- [Laki apteekkimaksusta annetun lain 2 ja 6 §:n muuttamisesta](1116.md) `1116/2010`
+- [Laki yliopistolain 75 ja 92 a §:n muuttamisesta](1117.md) `1117/2010`
+- [Valtioneuvoston asetus ulkoasiainhallinnosta annetun valtioneuvoston asetuksen muuttamisesta](1118.md) `1118/2010`
+- [Valtioneuvoston asetus valtion liikelaitoksen lainanoton rajoista ja ehdoista](1119.md) `1119/2010`
+- [Valtioneuvoston asetus terveydenhuollon ammattihenkilöistä annetun asetuksen muuttamisesta](1120.md) `1120/2010`
+- [Sisäasianministeriön asetus vartijan voimankäyttökoulutuksesta ja voimankäyttökouluttajan koulutuksesta](1121.md) `1121/2010`
+- [LUETTELO kuntien ja seurakuntien tuloveroprosenteista vuonna 2011](1122.md) `1122/2010`
+- [Sosiaali\- ja terveysministeriön asetus CLP\-asetuksen liitteessä VI tarkoitetuista kemikaaleista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1123.md) `1123/2010`
+- [Liikenne\- ja viestintäministeriön asetus liikenne\- ja viestintäministeriön työjärjestyksen muuttamisesta](1124.md) `1124/2010`
+- [Laki tupakkaverosta annetun lain muuttamisesta](1125.md) `1125/2010`
+- [Jäteverolaki](1126.md) `1126/2010`
+- [Laki makeisten, jäätelön ja virvoitusjuomien valmisteverosta](1127.md) `1127/2010`
+- [Laki alkoholi\- ja alkoholijuomaverosta annetun lain muuttamisesta](1128.md) `1128/2010`
+- [Laki eräiden juomapakkausten valmisteverosta annetun lain muuttamisesta](1129.md) `1129/2010`
+- [Laki kansaneläkelain 98 ja 103 §:n muuttamisesta](1130.md) `1130/2010`
+- [Laki Kansaneläkelaitoksesta annetun lain 20 §:n muuttamisesta](1131.md) `1131/2010`
+- [Valtioneuvoston asetus vuodelta 2010 maksettavasta lihan kuljetusavustuksesta](1132.md) `1132/2010`
+- [Valtiovarainministeriön asetus yksittäisten kuntien ja evankelis\-luterilaisten seurakuntien verovuoden 2011 yhteisöveron jako\-osuuksien laskentaperusteista](1133.md) `1133/2010`
+- [Laki taiteen edistämisen järjestelystä annetun lain 1 a §:n muuttamisesta](1134.md) `1134/2010`
+- [Laki taiteilijaprofessorin viroista ja valtion taiteilija\-apurahoista annetun lain muuttamisesta](1135.md) `1135/2010`
+- [Laki Valtion taidemuseosta annetun lain muuttamisesta](1136.md) `1136/2010`
+- [Laki eräiden naisjärjestöjen valtionavusta annetun lain 1 §:n muuttamisesta](1137.md) `1137/2010`
+- [Laki alusturvallisuuden valvonnasta annetun lain muuttamisesta](1138.md) `1138/2010`
+- [Valtioneuvoston asetus liikenne\- ja viestintäministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](1139.md) `1139/2010`
+- [Laki maanvuokralain muuttamisesta](1140.md) `1140/2010`
+- [Laki perintökaaren 25 luvun 1 b §:n 4 momentin kumoamisesta](1141.md) `1141/2010`
+- [Laki sairausvakuutuslain muuttamisesta](1142.md) `1142/2010`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 35 ja 37 §:n muuttamisesta](1143.md) `1143/2010`
+- [Laki lapsilisälain 21 §:n muuttamisesta](1144.md) `1144/2010`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta annetun lain muuttamisesta](1145.md) `1145/2010`
+- [Valtioneuvoston asetus tallentamattomien ääni\- ja kuvanauhojen ja muiden tallennuslaitteiden valmistuksesta ja maahantuonnista suoritettavan maksun suuruudesta vuonna 2011](1146.md) `1146/2010`
+- [Valtioneuvoston asetus sotainvalidien puolisoiden, leskien ja sotaleskien kuntoutustoiminnasta](1147.md) `1147/2010`
+- [Valtioneuvoston asetus eräille ulkomaalaisille vapaaehtoisille rintamasotilaille maksettavasta rintama\-avustuksesta](1148.md) `1148/2010`
+- [Työ\- ja elinkeinoministeriön asetus Matkailun edistämiskeskuksen maksullisista suoritteista](1149.md) `1149/2010`
+- [Laki rajavartiolain muuttamisesta](1150.md) `1150/2010`
+- [Laki rajavartiolaitoksen hallinnosta annetun lain 21 ja 33 §:n muuttamisesta](1151.md) `1151/2010`
+- [Laki ulkomaalaislain 123 §:n muuttamisesta](1152.md) `1152/2010`
+- [Laki pakkokeinolain 1 luvun 6 §:n muuttamisesta](1153.md) `1153/2010`
+- [Laki maaseutuelinkeinojen rahoituslain muuttamisesta annetun lain voimaanpanosta annetun lain muuttamisesta](1154.md) `1154/2010`
+- [Laki luopumiseläkelain muuttamisesta](1155.md) `1155/2010`
+- [Valtioneuvoston asetus puolustusvoimista annetun valtioneuvoston asetuksen muuttamisesta](1156.md) `1156/2010`
+- [Valtioneuvoston asetus puolustusministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](1157.md) `1157/2010`
+- [Liikenne\- ja viestintäministeriön asetus Liikenneviraston maksullisista suoritteista](1158.md) `1158/2010`
+- [Laki työttömyysturvalain 2 luvun 1 a §:n muuttamisesta](1159.md) `1159/2010`
+- [Laki julkisesta työvoimapalvelusta annetun lain 7 luvun 7 §:n muuttamisesta](1160.md) `1160/2010`
+- [Laki maatalousyrittäjien lomituspalvelulain muuttamisesta](1161.md) `1161/2010`
+- [Laki turkistuottajien lomituspalveluista annetun lain 4 §:n muuttamisesta](1162.md) `1162/2010`
+- [Laki poronhoitajien sijaisapukokeilusta annetun lain 5 §:n muuttamisesta](1163.md) `1163/2010`
+- [Tasavallan presidentin asetus elatusavun perimistä ulkomailla koskevan yleissopimuksen voimaansaattamisesta ja soveltamisesta annetun asetuksen 2 §:n muuttamisesta](1164.md) `1164/2010`
+- [Tasavallan presidentin asetus ulkoasiainministeriön tehtävistä elatusapujen perinnässä annetun asetuksen kumoamisesta](1165.md) `1165/2010`
+- [Tasavallan presidentin asetus Sveitsin kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen ja pöytäkirjan muuttamisesta tehdyn pöytäkirjan voimaansaattamisesta ja pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1166.md) `1166/2010`
+- [Tasavallan presidentin asetus Kansainvälisen televiestintäliiton peruskirjaan ja Kansainvälisen televiestintäliiton yleissopimukseen tehtyjen muutosten voimaansaattamisesta](1167.md) `1167/2010`
+- [Valtioneuvoston asetus opetustoimen henkilöstön kelpoisuusvaatimuksista annetun asetuksen muuttamisesta](1168.md) `1168/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta eläinlääketieteen opiskelijan väliaikaisen ammatinharjoittamisoikeuden saavuttamisen edellytyksenä olevista opintosuorituksista](1169.md) `1169/2010`
+- [Laki vakuutusyhtiölain muuttamisesta](1170.md) `1170/2010`
+- [Laki laivaväen lääkärintarkastuksista](1171.md) `1171/2010`
+- [Laki toimeentulotuesta annetun lain 10 §:n muuttamisesta ja 11 §:n väliaikaisesta muuttamisesta](1172.md) `1172/2010`
+- [Sisäasiainministeriön asetus poliisin suoritteiden maksullisuudesta vuosina 2010 ja 2011 annetun sisäasiainministeriön asetuksen muuttamisesta](1173.md) `1173/2010`
+- [Valtioneuvoston asetus seura\- ja harrastuseläinten hyvinvoinnin neuvottelukunnasta](1174.md) `1174/2010`
+- [Liikenne\- ja viestintäministeriön asetus liikenneopettajaoppilaiden opetusharjoittelusta](1175.md) `1175/2010`
+- [Sisäasiainministeriön asetus Pelastusopiston maksullisista suoritteista](1176.md) `1176/2010`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1177.md) `1177/2010`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1178.md) `1178/2010`
+- [Puolustusministeriön asetus puolustusvoimien maksullisista suoritteista](1179.md) `1179/2010`
+- [Puolustusministeriön asetus puolustushallinnon rakennuslaitoksen maksullisista suoritteista](1180.md) `1180/2010`
+- [Puolustusministeriön asetus puolustusministeriön maksullisista suoritteista](1181.md) `1181/2010`
+- [Puolustusministeriön asetus puolustusministeriön työjärjestyksen 11 §:n muuttamisesta](1182.md) `1182/2010`
+- [Valtiovarainministeriön asetus Verohallinnon määräämisestä toimivaltaisena viranomaisena ratkaisemaan eräitä verotusta koskevissa kansainvälisissä sopimuksissa tarkoitettuja asioita](1183.md) `1183/2010`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun valtioneuvoston asetuksen 2 ja 8 §:n muuttamisesta](1184.md) `1184/2010`
+- [Liikenne\- ja viestintäministeriön asetus Liikenteen turvallisuusviraston maksullisista suoritteista](1185.md) `1185/2010`
+- [Valtion talousarvio vuodelle 2011](1186.md) `1186/2010`
+- [Maa\- ja metsätalousministeriön asetus Suomen turskakiintiöiden käyttämisestä vuonna 2011](1187.md) `1187/2010`
+- [Maa\- ja metsätalousministeriön asetus kilohailin ja silakan kalastuksesta Itämeren pääaltaalla vuonna 2011](1188.md) `1188/2010`
+- [Laki työkyvyttömyyseläkkeellä olevien työhönpaluun edistämisestä annetun lain muuttamisesta](1189.md) `1189/2010`
+- [Laki yrittäjän eläkelain 3 §:n muuttamisesta](1190.md) `1190/2010`
+- [Laki maatalousyrittäjän eläkelain muuttamisesta](1191.md) `1191/2010`
+- [Laki työntekijän eläkelain muuttamisesta](1192.md) `1192/2010`
+- [Laki merimieseläkelain 6 §:n muuttamisesta](1193.md) `1193/2010`
+- [Valtiovarainministeriön asetus tullilaitoksen suoritteiden maksullisuudesta](1194.md) `1194/2010`
+- [Valtiovarainministeriön asetus valtiokonttorin maksullisista suoritteista annetun valtiovarainministeriön asetuksen 1 §:n muuttamisesta](1195.md) `1195/2010`
+- [Verohallinnon päätös muiden kuin sähköisesti annettavien kausiveroilmoitusten määräpäivistä vuonna 2011](1196.md) `1196/2010`
+- [Laki Suomen säädöskokoelmasta annetun lain muuttamisesta](1197.md) `1197/2010`
+- [Oikeusministeriön asetus viittausmerkinnöistä Suomen säädöskokoelmassa](1198.md) `1198/2010`
+- [Valtioneuvoston asetus maan jakamisesta sotilaslääneihin ja aluetoimistoihin annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](1199.md) `1199/2010`
+- [Valtioneuvoston asetus taiteilijaprofessorin viroista ja valtion taiteilija\-apurahoista annetun asetuksen muuttamisesta](1200.md) `1200/2010`
+- [Valtioneuvoston asetus taiteen edistämisen järjestelystä annetun asetuksen 11 §:n muuttamisesta](1201.md) `1201/2010`
+- [Valtioneuvoston asetus valtion taideteostoimikunnasta annetun valtioneuvoston asetuksen muuttamisesta](1202.md) `1202/2010`
+- [Valtioneuvoston asetus Valtion taidemuseosta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](1203.md) `1203/2010`
+- [Valtioneuvoston asetus Ahvenanmaan maakunnassa oleville kunnille maataloustuen jako\- ja valvontatehtävien hoitamisesta vuosilta 2007―2009 suoritettavista korvauksista](1204.md) `1204/2010`
+- [Valtioneuvoston asetus merenkulun ympäristönsuojelusta annetun valtioneuvoston asetuksen muuttamisesta](1205.md) `1205/2010`
+- [Valtioneuvoston asetus moottoribensiinin, dieselöljyn ja eräiden muiden nestemäisten polttoaineiden laatuvaatimuksista](1206.md) `1206/2010`
+- [Laki Harmaan talouden selvitysyksiköstä](1207.md) `1207/2010`
+- [Laki Verohallinnosta annetun lain 4 §:n muuttamisesta](1208.md) `1208/2010`
+- [Opetus\- ja kulttuuriministeriön asetus näkövammaisten kirjaston suoritteiden maksullisuudesta](1209.md) `1209/2010`
+- [Opetus\- ja kulttuuriministeriön asetus Museoviraston suoritteiden maksullisuudesta](1210.md) `1210/2010`
+- [Valtiovarainministeriön asetus maistraattien suoritteiden maksuista](1211.md) `1211/2010`
+- [Valtiovarainministeriön asetus Väestörekisterikeskuksen suoritteiden maksuista](1212.md) `1212/2010`
+- [Laki tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista annetun lain muuttamisesta](1213.md) `1213/2010`
+- [Valtioneuvoston asetus tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista](1214.md) `1214/2010`
+- [Valtioneuvoston asetus sisäasiainministeriöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1215.md) `1215/2010`
+- [Valtioneuvoston asetus työmarkkina\-alueista](1216.md) `1216/2010`
+- [Työ\- ja elinkeinoministeriön asetus maksullisista suoritteista](1217.md) `1217/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden maatilalain mukaisten myyntihintasaamisten ja lainojen viitekorosta](1218.md) `1218/2010`
+- [Laki Belizen kanssa veroasioita koskevista tiedoista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1219.md) `1219/2010`
+- [Laki Marshallinsaarten kanssa veroasioita koskevista tiedoista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1220.md) `1220/2010`
+- [Laki Vanuatun kanssa veroasioita koskevista tiedoista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1221.md) `1221/2010`
+- [Liikenne\- ja viestintäministeriön asetus taajuusmaksuista ja Viestintäviraston radiohallinnollisista suoritteista perittävistä muista maksuista](1222.md) `1222/2010`
+- [Laki tilatukijärjestelmän täytäntöönpanosta annetun lain muuttamisesta](1223.md) `1223/2010`
+- [Laki työsopimuslain 1 luvun 3 §:n muuttamisesta](1224.md) `1224/2010`
+- [Laki valtion erityisrahoitusyhtiön luotto\- ja takaustoiminnasta annetun lain muuttamisesta](1225.md) `1225/2010`
+- [Laki valtion erityisrahoitusyhtiöstä annetun lain 6 §:n muuttamisesta](1226.md) `1226/2010`
+- [Laki sosiaali\- ja terveydenhuollon asiakastietojen sähköisestä käsittelystä annetun lain muuttamisesta](1227.md) `1227/2010`
+- [Laki sosiaali\- ja terveydenhuollon saumattoman palveluketjun kokeilusta annetun lain 30 §:n muuttamisesta](1228.md) `1228/2010`
+- [Laki sähköisestä lääkemääräyksestä annetun lain muuttamisesta](1229.md) `1229/2010`
+- [Laki potilaan asemasta ja oikeuksista annetun lain muuttamisesta](1230.md) `1230/2010`
+- [Laki Terveyden ja hyvinvoinnin laitoksesta annetun lain 2 §:n muuttamisesta](1231.md) `1231/2010`
+- [Työ\- ja elinkeinoministeriön asetus julkisesti tuetusta korontasaustoiminnasta annetun työ\- ja elinkeinoministeriön asetuksen muuttamisesta](1232.md) `1232/2010`
+- [Sosiaali\- ja terveysministeriön asetus lääkkeiden hintalautakunnan maksullisista suoritteista](1233.md) `1233/2010`
+- [Valtioneuvoston asetus metsien kestävästä hoidosta ja käytöstä](1234.md) `1234/2010`
+- [Valtioneuvoston asetus maatalouden harjoittamisesta luopumisen tukemisesta annetun valtioneuvoston asetuksen muuttamisesta](1235.md) `1235/2010`
+- [Maa\- ja metsätalousministeriön asetus kameraalisen jaotuksen ja kuntajaon muuttamisesta annetun maa\- ja metsätalousministeriön asetuksen 2 §:n 2 momentin muuttamisesta](1236.md) `1236/2010`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden porotalouden ja luontaiselinkeinojen rahoituslain mukaisten asuntolainojen viitekorosta](1237.md) `1237/2010`
+- [Verohallinnon päätös ilmoittamisvelvollisuudesta ja muistiinpanoista](1238.md) `1238/2010`
+- [Laki valtion vesiväyläpalvelujen määräaikaisesta turvaamisesta](1239.md) `1239/2010`
+- [Laki vaarallisten aineiden kuljetuksesta annetun lain muuttamisesta](1240.md) `1240/2010`
+- [Valtioneuvoston asetus ulkomaisten alusten tarkastuksesta Suomessa](1241.md) `1241/2010`
+- [Valtioneuvoston asetus alusten katsastuksista annetun asetuksen kumoamisesta](1242.md) `1242/2010`
+- [Valtioneuvoston asetus ajoneuvojen rekisteröinnistä annetun valtioneuvoston asetuksen muuttamisesta](1243.md) `1243/2010`
+- [Laki tartuntatautilain muuttamisesta](1244.md) `1244/2010`
+- [Laki työttömyysturvalain 4 ja 6 luvun väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1245.md) `1245/2010`
+- [Laki sairausvakuutuslain 8 ja 11 luvun muuttamisesta](1246.md) `1246/2010`
+- [Laki sairausvakuutuslain muuttamisesta](1247.md) `1247/2010`
+- [Laki työntekijän eläkelain 41 §:n muuttamisesta](1248.md) `1248/2010`
+- [Laki merimieseläkelain 41 §:n muuttamisesta](1249.md) `1249/2010`
+- [Laki yrittäjän eläkelain 38 §:n muuttamisesta](1250.md) `1250/2010`
+- [Laki maatalousyrittäjän eläkelain 52 §:n muuttamisesta](1251.md) `1251/2010`
+- [Valtioneuvoston asetus rikosasioiden ja eräiden riita\-asioiden sovittelusta annetun asetuksen muuttamisesta](1252.md) `1252/2010`
+- [Valtioneuvoston asetus kansaneläkelain mukaisten etuuksien ja valtion osuuden maksamisesta annetun valtioneuvoston asetuksen 2 ja 3 §:n muuttamisesta](1253.md) `1253/2010`
+- [Laki asuntojen korjaus\-, energia\- ja terveyshaitta\-avustuksista annetun lain muuttamisesta](1254.md) `1254/2010`
+- [Valtioneuvoston asetus asuntojen korjaus\-, energia\- ja terveyshaitta\-avustuksista annetun asetuksen muuttamisesta](1255.md) `1255/2010`
+- [Laki asumisoikeusasunnoista annetun lain muuttamisesta](1256.md) `1256/2010`
+- [Laki kevennettyjen rakentamis\- ja kaavamääräysten kokeilusta](1257.md) `1257/2010`
+- [Valtioneuvoston asetus kuntoutuspsykoterapian korvaustasosta](1258.md) `1258/2010`
+- [Valtioneuvoston asetus Etelämantereen ympäristönsuojelusta annetun asetuksen muuttamisesta](1259.md) `1259/2010`
+- [Työ\- ja elinkeinoministeriön asetus talous\- ja velkaneuvontapalvelujen tuottajalle vuonna 2010 maksettavan korvauksen perusteista annetun asetuksen muuttamisesta](1260.md) `1260/2010`
+- [Laki Turvallisuus\- ja kemikaalivirastosta](1261.md) `1261/2010`
+- [Laki kemikaalilain muuttamisesta](1262.md) `1262/2010`
+- [Laki Sosiaali\- ja terveysalan lupa\- ja valvontavirastosta annetun lain 2 §:n muuttamisesta](1263.md) `1263/2010`
+- [Laki ympäristönsuojelulain muuttamisesta](1264.md) `1264/2010`
+- [Laki kasvinsuojeluaineista annetun lain muuttamisesta](1265.md) `1265/2010`
+- [Valtioneuvoston asetus Turvallisuus\- ja kemikaalivirastosta](1266.md) `1266/2010`
+- [Laki öljyvahinkojen torjuntalain 31 §:n muuttamisesta](1267.md) `1267/2010`
+- [Laki eräiden riskin aiheuttavien tuotteiden markkinavalvontaan liittyvien tietojen ilmoittamisesta Euroopan yhteisöjen komissiolle annetun lain muuttamisesta](1268.md) `1268/2010`
+- [Laki tuotteiden ekologiselle suunnittelulle ja energiamerkinnälle asetettavista vaatimuksista annetun lain muuttamisesta](1269.md) `1269/2010`
+- [Laki pelastustoimen laitteista annetun lain muuttamisesta](1270.md) `1270/2010`
+- [Laki vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetun lain muuttamisesta](1271.md) `1271/2010`
+- [Laki kosmeettisista valmisteista annetun lain muuttamisesta](1272.md) `1272/2010`
+- [Laki kulutustavaroiden ja kuluttajapalvelusten turvallisuudesta annetun lain muuttamisesta](1273.md) `1273/2010`
+- [Laki pelastuslain 69 §:n muuttamisesta](1274.md) `1274/2010`
+- [Laki jalometallituotteista annetun lain 2 §:n muuttamisesta](1275.md) `1275/2010`
+- [Laki painelaitelain 2 §:n muuttamisesta](1276.md) `1276/2010`
+- [Laki konttilain muuttamisesta](1277.md) `1277/2010`
+- [Laki kemiallisten aseiden kehittämisen, tuotannon, varastoinnin ja käytön kieltämistä sekä niiden hävittämistä koskevan yleissopimuksen eräiden määräysten hyväksymisestä ja sen soveltamisesta annetun lain 6 §:n muuttamisesta](1278.md) `1278/2010`
+- [Laki lelujen turvallisuudesta annetun lain muuttamisesta](1279.md) `1279/2010`
+- [Laki sähköturvallisuuslain 4 §:n muuttamisesta](1280.md) `1280/2010`
+- [Laki sähkömarkkinalain 36 a §:n muuttamisesta](1281.md) `1281/2010`
+- [Laki vaarallisten aineiden kuljetuksesta annetun lain muuttamisesta](1282.md) `1282/2010`
+- [Laki jätelain muuttamisesta](1283.md) `1283/2010`
+- [Laki valtionavusta Urho Kekkosen kuntoinstituuttisäätiölle](1284.md) `1284/2010`
+- [Valtioneuvoston asetus pakolaisista ja eräistä muista maahanmuuttajista sekä turvapaikanhakijoiden vastaanoton järjestämisestä aiheutuvien kustannusten korvaamisesta annetun valtioneuvoston päätöksen 3 §:n muuttamisesta](1285.md) `1285/2010`
+- [Valtioneuvoston asetus opetus\- ja kulttuuriministeriöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1286.md) `1286/2010`
+- [Opetus\- ja kulttuuriministeriön asetus opetus\- ja kulttuuriministeriön työjärjestyksen 13 §:n muuttamisesta](1287.md) `1287/2010`
+- [Opetus\- ja kulttuuriministeriön asetus Opetushallituksen suoritteiden maksullisuudesta](1288.md) `1288/2010`
+- [Liikenne\- ja viestintäministeriön asetus Viestintäviraston eräistä maksuista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](1289.md) `1289/2010`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisissa tuissa saaristoksi luettavista kuntien osa\-alueista annetun maa\- ja metsätalousministeriön asetuksen liitteen 1 muuttamisesta](1290.md) `1290/2010`
+- [Sosiaali\- ja terveysministeriön asetus  työterveyshuollon erikoislääkärikoulutuksen kustannuksiin valtion varoista vuonna 2011 suoritettavasta määrärahasta](1291.md) `1291/2010`
+- [Valtioneuvoston asetus Senaatti\-kiinteistöistä](1292.md) `1292/2010`
+- [Opetus\- ja kulttuuriministeriön asetus Kotimaisten kielten tutkimuskeskuksen suoritteiden maksuista](1293.md) `1293/2010`
+- [Opetus\- ja kulttuuriministeriön asetus arkistolaitoksen suoritteiden maksuista](1294.md) `1294/2010`
+- [Valtiovarainministeriön asetus rakennusten jälleenhankinta\-arvon perusteista](1295.md) `1295/2010`
+- [Valtiovarainministeriön asetus vesivoimalaitoksen ja sen rakenteiden jälleenhankinta\-arvon perusteista](1296.md) `1296/2010`
+- [Valtiovarainministeriön asetus muutto\- ja maastamuuttoilmoitusten vastaanottamiseen ja rekisterimerkinnän tekemiseen liittyvien tehtävien jakamisesta maistraattien kesken](1297.md) `1297/2010`
+- [Valtiovarainministeriön asetus vuoden 2011 taidekilpailupalkintojen verovapaudesta](1298.md) `1298/2010`
+- [Liikenne\- ja viestintäministeriön asetus ilmatieteen laitoksen maksullisista suoritteista](1299.md) `1299/2010`
+- [Valtioneuvoston asetus yritysten yhteishankkeisiin myönnettävästä kansainvälistymisavustuksesta](1300.md) `1300/2010`
+- [Valtioneuvoston asetus yleisavustuksesta ulkomaankauppaa, elinkeinopolitiikkaa sekä yritysten kansainvälistymistä edistäville yhteisöille](1301.md) `1301/2010`
+- [Työ\- ja elinkeinoministeriön asetus Turvallisuus\- ja kemikaaliviraston maksullisista suoritteista](1302.md) `1302/2010`
+- [Sosiaali\- ja terveysministeriön asetus tapaturmavakuutuslain 18 e §:n 5 momentin mukaisen haittarahan kertakorvauksen perusteista](1303.md) `1303/2010`
+- [Sosiaali\- ja terveysministeriön asetus merimieseläkekassan vakuutusteknisen vastuuvelan laskuperusteista ja perusteista merimieseläkelain 153 §:n mukaista vastuunjakoa varten annetun sosiaali\- ja terveysministeriön asetuksen liitteiden 1 ja 2 muuttamisesta](1304.md) `1304/2010`
+- [Sosiaali\- ja terveysministeriön asetus perusteista, joiden mukaan eläkelaitokset vastaavat työntekijän eläkelain 179 §:n 1 momentissa ja merimieseläkelain 159 §:n 1 momentissa tarkoitetuista kuluista annetun sosiaali\- ja terveysministeriön asetuksen 2 ja 3 §:n muuttamisesta](1305.md) `1305/2010`
+- [Opetus\- ja kulttuuriministeriön asetus yliopistojen maisteriohjelmista](1306.md) `1306/2010`
+- [Opetus\- ja kulttuuriministeriön asetus yliopistojen väliaikaisesti maksullisista koulutusohjelmista](1307.md) `1307/2010`
+- [Maa\- ja metsätalousministeriön asetus metsänkäyttö\- ja taimikon perustamisilmoituksesta](1308.md) `1308/2010`
+- [Sosiaali\- ja terveysministeriön asetus turkistuottajille järjestettävien lomituspalvelujen enimmäismääristä vuonna 2011](1309.md) `1309/2010`
+- [Sosiaali\- ja terveysministeriön asetus poronhoitajille järjestettävän sijaisavun enimmäismääristä vuonna 2011](1310.md) `1310/2010`
+- [Sosiaali\- ja terveysministeriön asetus tupakkatuotteiden ja tupakointivälineiden vähittäismyynnin omavalvontasuunnitelmasta annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1311.md) `1311/2010`
+- [Puolustusministeriön asetus sotilaallisen kriisinhallintahenkilöstön pätevyysvaatimuksista ja palvelussuhteen ehdoista annetun puolustusministeriön asetuksen 7 §:n muuttamisesta](1312.md) `1312/2010`
+- [Verohallinnon päätös verovapaista matkakustannusten korvauksista vuonna 2011](1313.md) `1313/2010`
+- [Laki sosiaalihuoltolain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1314.md) `1314/2010`
+- [Laki kansanterveyslain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1315.md) `1315/2010`
+- [Laki tapaturma\-asioiden muutoksenhakulautakunnasta](1316.md) `1316/2010`
+- [Laki tapaturmavakuutuslain muuttamisesta](1317.md) `1317/2010`
+- [Laki työeläkeasioiden muutoksenhakulautakunnasta annetun lain muuttamisesta](1318.md) `1318/2010`
+- [Laki sosiaaliturvan muutoksenhakulautakunnasta annetun lain 10 a ja 14 §:n muuttamisesta](1319.md) `1319/2010`
+- [Laki työttömyysturvalain 12 a luvun muuttamisesta](1320.md) `1320/2010`
+- [Laki opintotukilain 32 §:n muuttamisesta](1321.md) `1321/2010`
+- [Laki sotilastapaturmalain 4 ja 5 §:n muuttamisesta](1322.md) `1322/2010`
+- [Laki maatalousyrittäjien tapaturmavakuutuslain 7 ja 9 §:n muuttamisesta](1323.md) `1323/2010`
+- [Laki urheilijan tapaturma\- ja eläketurvasta annetun lain 16 ja 23 §:n muuttamisesta](1324.md) `1324/2010`
+- [Laki opiskeluun liittyvissä työhön rinnastettavissa olosuhteissa syntyneen vamman tai sairauden korvaamisesta annetun lain 4 §:n muuttamisesta](1325.md) `1325/2010`
+- [Terveydenhuoltolaki](1326.md) `1326/2010`
+- [Laki kansanterveyslain muuttamisesta](1327.md) `1327/2010`
+- [Laki erikoissairaanhoitolain muuttamisesta](1328.md) `1328/2010`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain muuttamisesta](1329.md) `1329/2010`
+- [Laki vammaisten henkilöiden tulkkauspalvelusta annetun lain 24 §:n muuttamisesta](1330.md) `1330/2010`
+- [Laki ympäristöterveydenhuollon yhteistoiminta\-alueesta annetun lain 1 §:n muuttamisesta](1331.md) `1331/2010`
+- [Laki Sosiaali\- ja terveysalan lupa\- ja valvontavirastosta annetun lain 2 §:n muuttamisesta](1332.md) `1332/2010`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 18 §:n muuttamisesta](1333.md) `1333/2010`
+- [Laki sairausvakuutuslain muuttamisesta](1334.md) `1334/2010`
+- [Laki potilaan asemasta ja oikeuksista annetun lain 3 ja 4 §:n muuttamisesta](1335.md) `1335/2010`
+- [Laki liikennevakuutuslain perusteella korvattavasta kuntoutuksesta annetun lain 7 §:n muuttamisesta](1336.md) `1336/2010`
+- [Laki tapaturmavakuutuslain perusteella korvattavasta kuntoutuksesta annetun lain 7 §:n muuttamisesta](1337.md) `1337/2010`
+- [Laki mielenterveyslain 3 §:n muuttamisesta](1338.md) `1338/2010`
+- [Laki rintamaveteraanien kuntoutuksesta annetun lain 7 §:n muuttamisesta](1339.md) `1339/2010`
+- [Laki lääkelain 65 §:n muuttamisesta](1340.md) `1340/2010`
+- [Laki tartuntatautilain 7 §:n muuttamisesta](1341.md) `1341/2010`
+- [Laki sosiaalihuoltolain 12 c §:n muuttamisesta](1342.md) `1342/2010`
+- [Laki työterveyslaitoksen toiminnasta ja rahoituksesta annetun lain 3 b §:n muuttamisesta](1343.md) `1343/2010`
+- [Laki liikennevakuutuslain 6 a §:n muuttamisesta](1344.md) `1344/2010`
+- [Laki tapaturmavakuutuslain 15 §:n muuttamisesta](1345.md) `1345/2010`
+- [Laki sotilasvammalain 6 ja 6 a §:n muuttamisesta](1346.md) `1346/2010`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain muuttamisesta](1347.md) `1347/2010`
+- [Laki valtion virkamiehen ja työntekijän terveydenhuollosta ulkomailla annetun lain 3 §:n muuttamisesta](1348.md) `1348/2010`
+- [Laki yliopistolain 46 §:n muuttamisesta](1349.md) `1349/2010`
+- [Laki opiskelijavalintarekisteristä ja ylioppilastutkintorekisteristä annetun lain 5 §:n muuttamisesta](1350.md) `1350/2010`
+- [Laki ammatillisesta koulutuksesta annetun lain 37 a §:n muuttamisesta](1351.md) `1351/2010`
+- [Laki perusopetuslain 31 a §:n muuttamisesta](1352.md) `1352/2010`
+- [Laki asevelvollisuuslain 24 §:n muuttamisesta](1353.md) `1353/2010`
+- [Valtioneuvoston asetus rajavartiolaitoksesta annetun valtioneuvoston asetuksen muuttamisesta](1354.md) `1354/2010`
+- [Valtioneuvoston asetus maatalousyrittäjien lomituspalveluasetuksen muuttamisesta](1355.md) `1355/2010`
+- [Valtioneuvoston asetus sotilasvammalain eräiden säännösten soveltamisesta annetun asetuksen muuttamisesta](1356.md) `1356/2010`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](1357.md) `1357/2010`
+- [Laki ulkomaisen luotto\- ja rahoituslaitoksen toiminnasta Suomessa annetun lain kumoamisesta](1358.md) `1358/2010`
+- [Laki talletuspankkien yhteenliittymästä annetun lain 21 §:n muuttamisesta](1359.md) `1359/2010`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](1360.md) `1360/2010`
+- [Laki Finanssivalvonnan valvontamaksusta annetun lain 4 ja 5 §:n muuttamisesta](1361.md) `1361/2010`
+- [Laki rahoitus\- ja vakuutusryhmittymien valvonnasta annetun lain 21 ja 22 §:n muuttamisesta](1362.md) `1362/2010`
+- [Laki sidotusta pitkäaikaissäästämisestä annetun lain 3 §:n muuttamisesta](1363.md) `1363/2010`
+- [Laki sijoituspalveluyrityksistä annetun lain 14 ja 46 §:n muuttamisesta](1364.md) `1364/2010`
+- [Laki sijoitusrahastolain 6 ja 11 §:n muuttamisesta](1365.md) `1365/2010`
+- [Laki kiinteistörahastolain 9 §:n muuttamisesta](1366.md) `1366/2010`
+- [Laki arvopaperimarkkinalain 1 luvun 1 ja 4 §:n muuttamisesta](1367.md) `1367/2010`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä ja selvittämisestä annetun lain muuttamisesta](1368.md) `1368/2010`
+- [Laki eräistä arvopaperi\- ja valuuttakaupan sekä selvitysjärjestelmän ehdoista annetun lain 6 §:n muuttamisesta](1369.md) `1369/2010`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](1370.md) `1370/2010`
+- [Laki valtion vakuusrahastosta annetun lain 12 a §:n muuttamisesta](1371.md) `1371/2010`
+- [Valtiovarainministeriön asetus luottolaitosten ja sijoituspalveluyritysten palkitsemisjärjestelmistä](1372.md) `1372/2010`
+- [Valtiovarainministeriön asetus luottolaitoksen ja sijoituspalveluyrityksen sekä rahoitus\- ja vakuutusryhmittymän omien varojen vähimmäismäärän ja suuria asiakasriskejä koskevien rajoitusten laskemisesta](1373.md) `1373/2010`
+- [Sosiaali\- ja terveysministeriön asetus vuoden 2011 liikenneturvallisuusmaksusta](1374.md) `1374/2010`
+- [Oikeusministeriön asetus syyttäjänvirastojen palvelutoimistoista](1375.md) `1375/2010`
+- [Oikeusministeriön asetus oikeusministeriön ja eräiden hallinnonalalla toimivien viranomaisten maksullisista suoritteista](1376.md) `1376/2010`
+- [Laki kotikuntalain muuttamisesta](1377.md) `1377/2010`
+- [Laki sosiaalihuoltolain muuttamisesta](1378.md) `1378/2010`
+- [Laki Terveyden ja hyvinvoinnin laitoksen alaisista lastensuojeluyksiköistä](1379.md) `1379/2010`
+- [Laki lastensuojelulain muuttamisesta](1380.md) `1380/2010`
+- [Laki Pohjoismaiden Investointipankin kanssa tehdyn isäntämaasopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1381.md) `1381/2010`
+- [Tasavallan presidentin asetus Pohjoismaiden Investointipankin kanssa tehdyn isäntämaasopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1382.md) `1382/2010`
+- [Sosiaali\- ja terveysministeriön asetus eräiden aluehallintovirastojen työsuojelun vastuualueen toimialueista annetun sosiaali\- ja terveysministeriön asetuksen 2 §:n muuttamisesta](1383.md) `1383/2010`
+- [Ympäristöministeriön asetus Suomen ympäristökeskuksen maksullisista suoritteista annetun asetuksen muuttamisesta](1384.md) `1384/2010`
+- [Oikeusministeriön asetus käräjäoikeuksien kanslioiden ja istuntopaikkojen sijainnista annetun oikeusministeriön asetuksen 1 §:n muuttamisesta](1385.md) `1385/2010`
+- [Laki kotoutumisen edistämisestä](1386.md) `1386/2010`
+- [Laki julkisesta työvoimapalvelusta annetun lain muuttamisesta](1387.md) `1387/2010`
+- [Laki työttömyysturvalain muuttamisesta](1388.md) `1388/2010`
+- [Laki kuntouttavasta työtoiminnasta annetun lain 3 §:n muuttamisesta](1389.md) `1389/2010`
+- [Laki toimeentulotuesta annetun lain 5 c ja 10 §:n muuttamisesta](1390.md) `1390/2010`
+- [Laki lastensuojelulain 25 §:n muuttamisesta](1391.md) `1391/2010`
+- [Laki arvonlisäverolain muuttamisesta](1392.md) `1392/2010`
+- [Laki Ahvenanmaan maakuntaa koskevista poikkeuksista arvonlisävero\- ja valmisteverolainsäädäntöön annetun lain 6 a §:n muuttamisesta](1393.md) `1393/2010`
+- [Valtioneuvoston asetus elinkeino\-, liikenne\- ja ympäristökeskusten sekä työ\- ja elinkeinotoimistojen maksullisista suoritteista vuonna 2011](1394.md) `1394/2010`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskorosta](1395.md) `1395/2010`
+- [Laki uusiutuvilla energialähteillä tuotetun sähkön tuotantotuesta](1396.md) `1396/2010`
+- [Valtioneuvoston asetus uusiutuvilla energialähteillä tuotetun sähkön tuotantotuesta](1397.md) `1397/2010`
+- [Työ\- ja elinkeinoministeriön asetus Energiamarkkinaviraston maksullisista suoritteista](1398.md) `1398/2010`
+- [Laki nestemäisten polttoaineiden valmisteverosta annetun lain muuttamisesta](1399.md) `1399/2010`
+- [Laki sähkön ja eräiden polttoaineiden valmisteverosta annetun lain muuttamisesta](1400.md) `1400/2010`
+- [Laki ajoneuvoverolain 11 §:n muuttamisesta](1401.md) `1401/2010`
+- [Laki ajoneuvoverolain 12 §:n 2 momentin kumoamisesta](1402.md) `1402/2010`
+- [Laki maataloudessa käytettyjen eräiden energiatuotteiden valmisteveron palautuksesta annetun lain muuttamisesta](1403.md) `1403/2010`
+- [Verohallinnon päätös rakennusmaan verotusarvon laskentaperusteista](1404.md) `1404/2010`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain muuttamisesta](1405.md) `1405/2010`
+- [Laki kunta\- ja palvelurakenneuudistuksesta annetun lain 9 §:n kumoamisesta](1406.md) `1406/2010`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 64 §:n muuttamisesta](1407.md) `1407/2010`
+- [Laki selvitysmenettelystä yhteistyön edistämiseksi eräillä kaupunkiseuduilla](1408.md) `1408/2010`
+- [Vuoden 2011 tuloveroasteikkolaki](1409.md) `1409/2010`
+- [Laki tuloverolain muuttamisesta](1410.md) `1410/2010`
+- [Laki verotusmenettelystä annetun lain 21 ja 63 §:n muuttamisesta](1411.md) `1411/2010`
+- [Laki perintö\- ja lahjaverolain 43 §:n muuttamisesta](1412.md) `1412/2010`
+- [Laki arvonlisäverolain 169 a §:n 2 momentin kumoamisesta](1413.md) `1413/2010`
+- [Laki Verohallinnosta annetun lain väliaikaisesta muuttamisesta](1414.md) `1414/2010`
+- [Laki tuloverolain muuttamisesta ja väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1415.md) `1415/2010`
+- [Laki verotusmenettelystä annetun lain 16 §:n väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1416.md) `1416/2010`
+- [Valtioneuvoston asetus kunnan peruspalvelujen valtionosuudesta annetun valtioneuvoston asetuksen 1 ja 5 §:n muuttamisesta](1417.md) `1417/2010`
+- [Sisäasiainministeriön asetus sisäasiainministeriön maksullisista suoritteista](1418.md) `1418/2010`
+- [Verohallinnon työjärjestys](1419.md) `1419/2010`
+- [Laki biopolttoaineiden käytön edistämisestä liikenteessä annetun lain muuttamisesta](1420.md) `1420/2010`
+- [Tasavallan presidentin asetus Tanskan, Suomen, Islannin, Norjan ja Ruotsin välillä tehdyn yleisen turvallisuussopimuksen ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain väliaikaisesta soveltamisesta](1421.md) `1421/2010`
+- [Tasavallan presidentin asetus Maarianhaminan lentoaseman yhteistyövaltuuskunnasta](1422.md) `1422/2010`
+- [Valtioneuvoston asetus Verohallinnon yksiköistä annetun valtioneuvoston asetuksen muuttamisesta](1423.md) `1423/2010`
+- [Oikeusministeriön asetus vastapuolen maksettavaksi tuomittavista oikeudenkäyntikuluista oikeudenkäymiskaaren 21 luvun 8 c §:ssä tarkoitetuissa asioissa annetun oikeusministeriön asetuksen 3 ja 4 §:n muuttamisesta](1424.md) `1424/2010`

@@ -1,0 +1,1514 @@
+# 2007 Statutes
+
+## Statutes
+
+- [Valtioneuvoston asetus yritystoiminnan tukemisesta annetun valtioneuvoston asetuksen muuttamisesta](1.md) `1/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maaseutuelinkeinojen rahoituslain mukaisista enimmäistuloista](2.md) `2/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä poro\- ja luontaiselinkeinojen rahoituslain mukaisista ulkopuolisista enimmäistuloista](3.md) `3/2007`
+- [Valtioneuvoston asetus verohallinnosta annetun valtioneuvoston asetuksen 8 §:n kumoamisesta](4.md) `4/2007`
+- [Valtioneuvoston asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen muuttamisesta](5.md) `5/2007`
+- [Sosiaali\- ja terveysministeriön asetus Merimieseläkekassan ja Maatalousyrittäjien eläkelaitoksen tilinpäätöksestä ja konsernitilinpäätöksestä](6.md) `6/2007`
+- [Verohallituksen päätös yleisestä tiedonantovelvollisuudesta](7.md) `7/2007`
+- [Laki kuluttajariitalautakunnasta](8.md) `8/2007`
+- [Laki Kuluttajavirastosta annetun lain muuttamisesta](9.md) `9/2007`
+- [Laki pelastustoimen laitteista](10.md) `10/2007`
+- [Laki radiotaajuuksista ja telelaitteista annetun lain muuttamisesta](11.md) `11/2007`
+- [Laki ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](12.md) `12/2007`
+- [Laki merilain 6 luvun 9 §:n muuttamisesta](13.md) `13/2007`
+- [Laki työttömyysturvalain 2 luvun 5 §:n muuttamisesta](14.md) `14/2007`
+- [Tasavallan presidentin asetus Kanadan kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](15.md) `15/2007`
+- [Valtiovarainministeriön asetus jäännösveron ja metsänhoitomaksun eräpäivistä vuodelta 2006](16.md) `16/2007`
+- [Valtiovarainministeriön asetus vuoden 2007 kiinteistöveron eräpäivistä](17.md) `17/2007`
+- [Valtiovarainministeriön asetus valtiovarainministeriön työjärjestyksen muuttamisesta](18.md) `18/2007`
+- [Maa\- ja metsätalousministeriön asetus turskan kalastuksesta, eräiden pyydysten käytön rajoittamisesta ja lajittelemattoman saaliin purkamisesta vuonna 2007](19.md) `19/2007`
+- [Laki aravarajoituslain muuttamisesta](20.md) `20/2007`
+- [Laki vuokra\-asuntolainojen ja asumisoikeustalolainojen korkotuesta annetun lain muuttamisesta](21.md) `21/2007`
+- [Laki asumisoikeusasunnoista annetun lain muuttamisesta](22.md) `22/2007`
+- [Kauppa\- ja teollisuusministeriön asetus maakaasukauppoja koskevasta tiedonvaihdosta ja tasehallinnasta annetun asetuksen muuttamisesta](23.md) `23/2007`
+- [Liikenne\- ja viestintäministeriön asetus kaksi\- ja kolmipyöräisten ajoneuvojen sekä nelipyörien rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen liitteiden muuttamisesta](24.md) `24/2007`
+- [Valtioneuvoston asetus maaseudun kehittämisohjelman teknisestä avusta](25.md) `25/2007`
+- [Valtioneuvoston asetus maatalouden harjoittamisesta luopumisen tukemisesta](26.md) `26/2007`
+- [Valtioneuvoston asetus vuodelta 2007 maksettavasta Etelä\-Suomen kansallisesta tuesta](27.md) `27/2007`
+- [Valtioneuvoston asetus vuodelta 2007 maksettavasta ympäristötuen kansallisesta lisäosasta](28.md) `28/2007`
+- [Valtioneuvoston asetus vuodelta 2007 maksettavasta sokerijuurikkaan kansallisesta tuesta](29.md) `29/2007`
+- [Laki opintotukilain 39 ja 46 §:n muuttamisesta](30.md) `30/2007`
+- [Tasavallan presidentin asetus kansainvälisen dopingin vastaisen yleissopimuksen voimaansaattamisesta sekä yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](31.md) `31/2007`
+- [Valtioneuvoston asetus vuodelta 2007 maksettavasta pohjoisesta tuesta](32.md) `32/2007`
+- [Valtioneuvoston asetus vuodelta 2007 maksettavasta perunantuotannon kansallisesta tuesta](33.md) `33/2007`
+- [Valtiovarainministeriön asetus yksittäisten kuntien ja evankelis\-luterilaisten seurakuntien verovuoden 2007 yhteisöveron jako\-osuuksien laskentaperusteista](34.md) `34/2007`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2007 maa\- ja puutarhatalouden kansallisten tukien hakuajoista ja hakemisesta](35.md) `35/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta haitallisista aineista, tuotteista ja eliöistä rehuissa annetun maa\- ja metsätalousministeriön päätöksen liitteiden 1 ja 2 muuttamisesta](36.md) `36/2007`
+- [Verohallituksen päätös vuonna 2007 sovellettavien ennakonpidätysperusteiden voimaantulosta](37.md) `37/2007`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä](38.md) `38/2007`
+- [Valtioneuvoston asetus korkeakouluopiskelijoiden ruokailun tukemisen perusteista annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](39.md) `39/2007`
+- [Maa\- ja metsätalousministeriön asetus eläimistä saatavien elintarvikkeiden ja muiden tuotteiden eläinlääkinnällisistä rajatarkastuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](40.md) `40/2007`
+- [Maa\- ja metsätalousministeriön asetus eläinten eläinlääkinnällisistä rajatarkastuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](41.md) `41/2007`
+- [Liikenne\- ja viestintäministeriön asetus autojen ja perävaunujen rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen liitteen 1 muuttamisesta](42.md) `42/2007`
+- [Verohallituksen päätös verotusta koskevasta toimivallan siirrosta ja toimivaltaisesta verovirastosta](43.md) `43/2007`
+- [Valtioneuvoston asetus kehitysalueesta ja sen tukialueista](44.md) `44/2007`
+- [Valtioneuvoston asetus aikuisten koulutustason kohottamiseen myönnettävästä valtionavustuksesta](45.md) `45/2007`
+- [Valtioneuvoston asetus tilatukijärjestelmän tilatukioikeuksien siirroista ja kansallisen varannon käytöstä](46.md) `46/2007`
+- [Valtioneuvoston asetus vuonna 2007 kertyvien työnantajan sosiaaliturvamaksujen jakautumasta](47.md) `47/2007`
+- [Valtioneuvoston asetus vammaisuuden perusteella järjestettävistä palveluista ja tukitoimista annetun asetuksen eräiden säännösten kumoamisesta](48.md) `48/2007`
+- [Sosiaali\- ja terveysministeriön päätös tilaajan selvitysvelvollisuudesta ja vastuusta ulkopuolista työvoimaa käytettäessä annetun lain \(1233/2006\) valvonnan siirtämisestä Uudenmaan työsuojelupiirin työsuojelutoimistolle](49.md) `49/2007`
+- [Maa\- ja metsätalousministeriön asetus eräiden kolmansista maista tuotavien eläinten sekä niiden alkioiden ja sukusolujen eläintautivaatimuksista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](50.md) `50/2007`
+- [Valtiovarainministeriön asetus A\. E\. Nordenskiöld ja Koillisväylä \-juhlarahasta](51.md) `51/2007`
+- [Vuoden 2007 lisätalousarvio](52.md) `52/2007`
+- [Kauppa\- ja teollisuusministeriön asetus talous\- ja velkaneuvontapalvelujen tuottajalle vuonna 2007 maksettavan korvauksen perusteista](53.md) `53/2007`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisissa tuissa saaristoksi luettavista kuntien osa\-alueista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](54.md) `54/2007`
+- [Maa\- ja metsätalousministeriön asetus kasvihuonetuotannon tuesta vuonna 2007](55.md) `55/2007`
+- [Sosiaali\- ja terveysministeriön asetus Terveydenhuollon oikeusturvakeskuksen maksullisista suoritteista](56.md) `56/2007`
+- [Opetusministeriön asetus opetus\- ja kirjastotoimen perustamishankkeiden yksikköhinnoista annetunopetusministeriön päätöksen muuttamisesta](57.md) `57/2007`
+- [Maa\- ja metsätalousministeriön asetus lammas\- ja vuohieläinten tunnistimien hyväksymisestä annetun maa\- ja metsätalousministeriön asetuksen 5 §:n muuttamisesta](58.md) `58/2007`
+- [Maa\- ja metsätalousministeriön asetus oliiviöljyn kaupan pitämistä koskevien vaatimusten valvonnasta](59.md) `59/2007`
+- [Työministeriön asetus yhdenvertaisuuslaissa tarkoitetun hyvityksen enimmäismäärän tarkistamisesta](60.md) `60/2007`
+- [Laki sähköisestä lääkemääräyksestä](61.md) `61/2007`
+- [Laki lääkelain 57 ja 57 a §:n muuttamisesta](62.md) `62/2007`
+- [Valtioneuvoston asetus valtion asuntorahaston varainhankintavaltuuksista vuonna 2007](63.md) `63/2007`
+- [Puolustusministeriön asetus puolustusvoimista annetun lain 8 d §:n mukaisissa kansanvälisissä tehtävissä toimivien rinnastamisesta ulkomaanedustuksen virkamiehiin paikalliskorotuksia ja ulkomaanedustuksen eräitä muita korvauksia maksettaessa](64.md) `64/2007`
+- [Maa\- ja metsätalousministeriön asetus eräiden eläinten ja tavaroiden eläintautivaatimuksista Euroopan yhteisön sisämarkkinoilla annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](65.md) `65/2007`
+- [Maa\- ja metsätalousministeriön asetus eräiden Euroopan unioniin kuulumattomista valtioista tuotavien tavaroiden eläintautivaatimuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](66.md) `66/2007`
+- [Laki Euroopan neuvoston Suomen valtuuskunnasta annetun lain 1 §:n muuttamisesta](67.md) `67/2007`
+- [Laki rikoslain 2 a luvun 6 §:n muuttamisesta](68.md) `68/2007`
+- [Laki eräiden alusten ja niitä palvelevien satamarakenteiden turvatoimista ja turvatoimien valvonnasta annetun lain muuttamisesta](69.md) `69/2007`
+- [Laki viestintämarkkinalain muuttamisesta](70.md) `70/2007`
+- [Laki Asumisen rahoitus\- ja kehittämiskeskuksesta](71.md) `71/2007`
+- [Laki valtion asuntorahastosta annetun lain muuttamisesta](72.md) `72/2007`
+- [Tasavallan presidentin asetus palestiinalaishallinnon presidentin kanslian kanssa Suomen avustuksesta kansainväliselle erityismekanismille tehdyn sopimuksen voimaansaattamisesta](73.md) `73/2007`
+- [Ulkoasiainministeriön asetus ulkoasiainministeriön työjärjestyksen muuttamisesta](74.md) `74/2007`
+- [Laki patentti\- ja rekisterihallituksen suoritteista perittävistä maksuista annetun lain muuttamisesta](75.md) `75/2007`
+- [Laki Suomen Teollisuussijoitus Oy \-nimisestä valtionyhtiöstä annetun lain 1 ja 2 §:n muuttamisesta](76.md) `76/2007`
+- [Laki Suomen ja Venäjän rautatieyhdysliikenteen matkustajien, matkatavaran, kiitotavaran ja tavaroiden kuljetusehtojen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](77.md) `77/2007`
+- [Laki eräiden maa\- ja metsätalousministeriön hallinnonalan lainojen ja saamisten siirtämisestä Valtiokonttorin hoidettavaksi](78.md) `78/2007`
+- [Laki pakkohuutokaupalla myytävien kiinteistöjen lunastamisesta valtiolle annetun lain muuttamisesta](79.md) `79/2007`
+- [Laki maatilatalouden kehittämisrahastosta annetun lain muuttamisesta](80.md) `80/2007`
+- [Laki kolttalain muuttamisesta](81.md) `81/2007`
+- [Laki peruskuivatustoiminnan tukemisesta annetun lain muuttamisesta](82.md) `82/2007`
+- [Laki porotalouden ja luontaiselinkeinojen rahoituslain muuttamisesta](83.md) `83/2007`
+- [Laki maaseutuelinkeinojen rahoituslain muuttamisesta](84.md) `84/2007`
+- [Laki kestävän metsätalouden rahoituksesta annetun lain muuttamisesta](85.md) `85/2007`
+- [Laki uusjakojen tukemisesta annetun lain 10 a §:n muuttamisesta](86.md) `86/2007`
+- [Laki vuokra\-alueiden järjestelystä kaupungeissa ja kauppaloissa annetun lain kumoamisesta](87.md) `87/2007`
+- [Valtioneuvoston asetus syyttäjänvirastosta](88.md) `88/2007`
+- [Valtioneuvoston asetus syyttäjänvirastojen toimialueista ja päätoimipaikoista](89.md) `89/2007`
+- [Valtioneuvoston asetus valtakunnansyyttäjänvirastosta annetun asetuksen muuttamisesta](90.md) `90/2007`
+- [Oikeusministeriön asetus syyttäjänvirastojen palvelutoimistoista](91.md) `91/2007`
+- [Opetusministeriön asetus opetusministeriön työjärjestyksen muuttamisesta](92.md) `92/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vieraista aineista eläimistä saatavissa elintarvikkeissa](93.md) `93/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2006 EU:n siementuotannon tuen maksatuksesta timoteille](94.md) `94/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2007 kansallisen maidon tuotantotuen maksatuksesta](95.md) `95/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2006 kuitupellavan ja \-hampun jalostustuen ennakoiden maksatuksesta](96.md) `96/2007`
+- [Verohallituksen päätös eräiden yritysten verottamisesta Konserniverokeskuksessa](97.md) `97/2007`
+- [Laki Etiopian kanssa sijoitusten edistämisestä ja suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattaminen](98.md) `98/2007`
+- [Laki Suomen hallituksen ja Euroopan metsäinstituutin välisen instituutin ja sen henkilöstön oikeudellisesta asemasta, erioikeuksista ja vapauksista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](99.md) `99/2007`
+- [Laki poliisin hallinnosta annetun lain muuttamisesta](100.md) `100/2007`
+- [Laki yksityisistä turvallisuuspalveluista annetun lain muuttamisesta](101.md) `101/2007`
+- [Laki järjestyksenvalvojista annetun lain 7 §:n muuttamisesta](102.md) `102/2007`
+- [Laki poliisikoulutuksesta annetun lain muuttamisesta](103.md) `103/2007`
+- [Laki järjestyksenvalvojista annetun lain muuttamisesta](104.md) `104/2007`
+- [Laki yksityisistä turvallisuuspalveluista annetun lain muuttamisesta](105.md) `105/2007`
+- [Laki kokoontumislain 18 §:n muuttamisesta](106.md) `106/2007`
+- [Laki eräiden alusten ja niitä palvelevien satamarakenteiden turvatoimista ja turvatoimien valvonnasta annetun lain 10 §:n muuttamisesta](107.md) `107/2007`
+- [Laki päästökauppalain muuttamisesta](108.md) `108/2007`
+- [Laki Kioton mekanismien käytöstä](109.md) `109/2007`
+- [Ratalaki](110.md) `110/2007`
+- [Laki eräiden ympäristön käyttöön vaikuttavien hankkeiden lunastusluvasta annetun lain 2 §:n muuttamisesta](111.md) `111/2007`
+- [Laki maankäyttö\- ja rakennuslain muuttamisesta](112.md) `112/2007`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain 9 §:n muuttamisesta](113.md) `113/2007`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteen muutosten voimaansaattamisesta ja muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](114.md) `114/2007`
+- [Valtioneuvoston asetus merilain 6 luvun 9 §:n muuttamisesta annetun lain voimaantulosta](115.md) `115/2007`
+- [Valtioneuvoston asetus eräille ulkomaalaisille vapaaehtoisille rintamasotilaille maksettavasta rintama\-avustuksesta](116.md) `116/2007`
+- [Valtioneuvoston asetus sotainvalidien puolisoiden, leskien ja sotaleskien kuntoutustoiminnasta](117.md) `117/2007`
+- [Valtioneuvoston asetus maankäyttö\- ja rakennusasetuksen muuttamisesta](118.md) `118/2007`
+- [Oikeusministeriön asetus oikeusapuhakemusten siirtämisestä](119.md) `119/2007`
+- [Työministeriön työjärjestys](120.md) `120/2007`
+- [Laki luottolaitostoiminnasta](121.md) `121/2007`
+- [Laki liikepankeista ja muista osakeyhtiömuotoisista luottolaitoksista annetun lain muuttamisesta](122.md) `122/2007`
+- [Laki säästöpankkilain muuttamisesta](123.md) `123/2007`
+- [Laki osuuspankeista ja muista osuuskuntamuotoisista luottolaitoksista annetun lain muuttamisesta](124.md) `124/2007`
+- [Laki talletuspankin toiminnan väliaikaisesta keskeyttämisestä annetun lain 1 §:n muuttamisesta](125.md) `125/2007`
+- [Laki valtion vakuusrahastosta annetun lain muuttamisesta](126.md) `126/2007`
+- [Laki ulkomaisen luotto\- ja rahoituslaitoksen toiminnasta Suomessa annetun lain muuttamisesta](127.md) `127/2007`
+- [Laki kiinnitysluottopankkilain muuttamisesta](128.md) `128/2007`
+- [Laki hypoteekkiyhdistyksistä annetun lain 1 ja 26 §:n muuttamisesta](129.md) `129/2007`
+- [Laki Rahoitustarkastuksesta annetun lain muuttamisesta](130.md) `130/2007`
+- [Laki Rahoitustarkastuksen valvontamaksusta annetun lain muuttamisesta](131.md) `131/2007`
+- [Laki rahoitus\- ja vakuutusryhmittymien valvonnasta annetun lain muuttamisesta](132.md) `132/2007`
+- [Laki arvopaperimarkkinalain 1 luvun 4 §:n muuttamisesta](133.md) `133/2007`
+- [Laki sijoitusrahastolain muuttamisesta](134.md) `134/2007`
+- [Laki sijoituspalveluyrityksistä annetun lain muuttamisesta](135.md) `135/2007`
+- [Laki vakuutusyhtiölain 14 b luvun 1 §:n muuttamisesta](136.md) `136/2007`
+- [Laki vakuutusyhdistyslain 12 a luvun 1 §:n muuttamisesta](137.md) `137/2007`
+- [Laki takauksesta ja vierasvelkapanttauksesta annetun lain 10 §:n muuttamisesta](138.md) `138/2007`
+- [Laki tilisiirtolain 2 §:n muuttamisesta](139.md) `139/2007`
+- [Laki rahoitusvakuuslain 3 §:n muuttamisesta](140.md) `140/2007`
+- [Laki kaupparekisterilain 14 §:n muuttamisesta](141.md) `141/2007`
+- [Laki panttilainauslaitoksista annetun lain 33 §:n muuttamisesta](142.md) `142/2007`
+- [Laki kilpailunrajoituksista annetun lain 11 a §:n muuttamisesta](143.md) `143/2007`
+- [Laki sähköisen viestinnän tietosuojalain 33 §:n muuttamisesta](144.md) `144/2007`
+- [Laki rahanpesun estämisestä ja selvittämisestä annetun lain 3 §:n muuttamisesta](145.md) `145/2007`
+- [Laki eräistä arvopaperi\- ja valuuttakaupan sekä selvitysjärjestelmän ehdoista annetun lain 2 §:n muuttamisesta](146.md) `146/2007`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](147.md) `147/2007`
+- [Laki arvonlisäverolain 13 a §:n muuttamisesta](148.md) `148/2007`
+- [Valtiovarainministeriön asetus luottolaitoksen ja sijoituspalveluyrityksen sekä rahoitus\- ja vakuutusryhmittymän omien varojen vähimmäismäärän ja suuria asiakasriskejä koskevien rajoitusten laskemisesta](149.md) `149/2007`
+- [Valtiovarainministeriön asetus luottolaitoksen ja sijoituspalveluyrityksen tilinpäätöksestä, konsernitilinpäätöksestä ja toimintakertomuksesta](150.md) `150/2007`
+- [Valtiovarainministeriön asetus rahastoyhtiön tilinpäätöksestä ja toimintakertomuksesta sekä sijoitusrahaston tilinpäätöksestä, toimintakertomuksesta ja puolivuotiskatsauksesta](151.md) `151/2007`
+- [Laki arvopaperimarkkinalain muuttamisesta](152.md) `152/2007`
+- [Valtiovarainministeriön asetus arvopaperin liikkeeseenlaskijan säännöllisestä tiedonantovelvollisuudesta](153.md) `153/2007`
+- [Valtiovarainministeriön asetus liputusvelvollisuudesta ja omistusosuuksien ilmoittamisen ja julkistamisen yhteydessä annettavista tiedoista](154.md) `154/2007`
+- [Laki ulkomaisen sijoituspalveluyrityksen oikeudesta tarjota sijoituspalvelua Suomessa annetun lain 4 a §:n väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](155.md) `155/2007`
+- [Valtioneuvoston asetus ulkomaalaisten työntekijäin työsuhde\- ja oleskelulupa\-asioiden neuvottelukunnasta](156.md) `156/2007`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2007 maa\- ja puutarhatalouden kansallisten tukien hakuajoista ja hakemisesta annetun maa\- ja metsätalousministeriön asetuksen 3 §:n muuttamisesta](157.md) `157/2007`
+- [Maa\- ja metsätalousministeriön asetus varotoimenpiteistä lintuinfluenssan leviämisen ehkäisemiseksi luonnonvaraisten lintujen ja siipikarjan välillä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](158.md) `158/2007`
+- [Laki sosiaali\- ja terveydenhuollon asiakastietojen sähköisestä käsittelystä](159.md) `159/2007`
+- [Laki sosiaali\- ja terveydenhuollon saumattoman palveluketjun kokeilusta annetun lain 30 §:n muuttamisesta](160.md) `160/2007`
+- [Liikenne\- ja viestintäministeriön asetus Merenkulkulaitoksen maksullisista suoritteista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](161.md) `161/2007`
+- [Laki tuloverolain 20 §:n muuttamisesta](162.md) `162/2007`
+- [Tasavallan presidentin asetus Algerian kanssa tehdyn sijoitusten vastavuoroista edistämistä ja suojaamista koskevan sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](163.md) `163/2007`
+- [Valtioneuvoston asetus ilmassa olevasta arseenista, kadmiumista, elohopeasta, nikkelistä ja polysyklisistä aromaattisista hiilivedyistä](164.md) `164/2007`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Seinäjoen kaupungin ja Ilmajoen kunnan välillä](165.md) `165/2007`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2007 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista](166.md) `166/2007`
+- [Sisäasiainministeriön asetus poliisin virkapuvusta annetun sisäasiainministeriön asetuksen muuttamisesta](167.md) `167/2007`
+- [Sosiaali\- ja terveysministeriön asetus lääkäri\- ja hammaslääkärikoulutuksen sekä yliopistotasoisen terveystieteellisen tutkimustoiminnan korvauksen perusteista vuonna 2007](168.md) `168/2007`
+- [Laki kunta\- ja palvelurakenneuudistuksesta](169.md) `169/2007`
+- [Laki kuntajakolain muuttamisesta](170.md) `170/2007`
+- [Laki varainsiirtoverolain muuttamisesta ja väliaikaisesta muuttamisesta](171.md) `171/2007`
+- [Valtioneuvoston asetus kunnan talouden tunnuslukujen eräistä raja\-arvoista](172.md) `172/2007`
+- [Valtioneuvoston asetus kunta\- ja palvelurakenneuudistusta koskevien tietojen toimittamisesta valtioneuvostolle](173.md) `173/2007`
+- [Ortodoksisen kirkon kirkkojärjestys](174.md) `174/2007`
+- [Valtioneuvoston asetus tuesta tilaneuvontaan vuonna 2007](175.md) `175/2007`
+- [Valtioneuvoston asetus Ahvenanmaan maakunnassa oleville kunnille maataloustuen jako\- ja valvontatehtävien hoitamisesta vuodelta 2006 suoritettavista korvauksista](176.md) `176/2007`
+- [Valtioneuvoston asetus vuodelta 2006 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 19 §:n muuttamisesta](177.md) `177/2007`
+- [Valtioneuvoston asetus vuodelta 2006 maksettavasta ympäristötuen kansallisesta lisäosasta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](178.md) `178/2007`
+- [Valtioneuvoston asetus vuodelta 2007 maksettavasta mehiläistalouden kansallisesta pesäkohtaisesta tuesta](179.md) `179/2007`
+- [Valtioneuvoston päätös puolustustarvikkeiden maastavientiä, kauttakuljetusta ja välitystä koskevista yleisistä suuntaviivoista annetun valtioneuvoston päätöksen 1 §:n 3\.3\.2\. kohdan kumoamisesta](180.md) `180/2007`
+- [Maa\- ja metsätalousministeriön asetus maatilatalouden rakennetuen kohdentamisesta vuonna 2007 annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](181.md) `181/2007`
+- [Maa\- ja metsätalousministeriön asetus Elintarviketurvallisuusviraston maksullisista suoritteista annetun maa\- ja metsätalousministeriön asetuksen liitteen muuttamisesta](182.md) `182/2007`
+- [Valtioneuvoston asetus lukiokoulutuksen yleisistä valtakunnallisista tavoitteista ja tuntijaosta annetun asetuksen 8 §:n muuttamisesta](183.md) `183/2007`
+- [Valtioneuvoston asetus tieliikenneasetuksen 20 ja 21 §:n muuttamisesta](184.md) `184/2007`
+- [Maa\- ja metsätalousministeriön asetus vastustettavista eläintaudeista ja eläintautien ilmoittamisesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen muuttamisesta](185.md) `185/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta sikojen koeasemille, karjuasemille ja karjun spermalle asetettavista eläinten terveysvaatimuksista](186.md) `186/2007`
+- [Maa\- ja metsätalousministeriön asetus alkutuotannolle elintarviketurvallisuuden varmistamiseksi asetettavista vaatimuksista annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](187.md) `187/2007`
+- [Oikeusministeriön asetus kuluttajariitalautakunnasta](188.md) `188/2007`
+- [Sisäasiainministeriön asetus toimivaltaisista maistraateista etunimen ja sukunimen muuttamista koskevien hakemusten käsittelyssä](189.md) `189/2007`
+- [Sisäasiainministeriön asetus toimivaltaisista maistraateista isyyden tunnustamisen hyväksymistä koskevissa asioissa](190.md) `190/2007`
+- [Sisäasiainministeriön asetus toimivaltaisista maistraateista perukirjan osakasluettelon vahvistamista koskevissa asioissa](191.md) `191/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta lääkkeiden käytöstä, luovutuksesta ja määräämisestä eläinlääkinnässä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](192.md) `192/2007`
+- [Korkeimman hallinto\-oikeuden työjärjestys](193.md) `193/2007`
+- [Valtioneuvoston asetus päästökaupasta](194.md) `194/2007`
+- [Valtioneuvoston asetus vuonna 2007 toimitettavissa eduskuntavaaleissa ennakkoäänestyspaikkoina olevista Suomen edustustoista ja niiden toimipaikoista annetun valtioneuvoston asetuksen liitteen muuttamisesta](195.md) `195/2007`
+- [Opetusministeriön asetus ulkomailla järjestettävän yksityisen lukiokoulutuksen yksikköhinnan määräämisestä](196.md) `196/2007`
+- [Opetusministeriön asetus eräiden oppilailta ja opiskelijoilta perittävien maksujen perusteista annetun opetusministeriön asetuksen muuttamisesta](197.md) `197/2007`
+- [Sosiaali\- ja terveysministeriön asetus geenitekniikkalain mukaisesta tarkastusmenettelystä](198.md) `198/2007`
+- [Valtioneuvoston asetus yhteiskunnallisesti merkittävien tapahtumien televisioinnista](199.md) `199/2007`
+- [Maa\- ja metsätalousministeriön asetus suorien tukien täydentäviin ehtoihin liittyvistä hyvän maatalouden ja ympäristön vähimmäisvaatimuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](200.md) `200/2007`
+- [Kauppa\- ja teollisuusministeriön asetus Patentti\- ja rekisterihallituksen maksullisista suoritteista](201.md) `201/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2006 valkuaiskasvipalkkion maksatuksesta](202.md) `202/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2006 kansallisten pinta\-alaperusteisten tukien maksatuksesta](203.md) `203/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2006 puutarhatuotteiden varastointituen maksatuksesta](204.md) `204/2007`
+- [Valtioneuvoston asetus lasten ja nuorten psykiatriseen hoitoon ja kuntoutukseen sekä oikeuspsykiatristen tutkimusten kustannuksiin vuonna 2007 maksettavan valtionavustuksen myöntämisperusteista](205.md) `205/2007`
+- [Sosiaali\- ja terveysministeriön asetus kemikaalien luokitusperusteista ja merkintöjen tekemisestä annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](206.md) `206/2007`
+- [Opetusministeriön asetus opetusministeriön työjärjestyksen muuttamisesta](207.md) `207/2007`
+- [Sisäasiainministeriön asetus järjestyksenvalvojan tunnuksista annetun sisäasiainministeriön asetuksen muuttamisesta](208.md) `208/2007`
+- [Sisäasiainministeriön asetus järjestyksenvalvojaksi hyväksymisestä sekä järjestyksenvalvojakoulutuksesta](209.md) `209/2007`
+- [Laki seutuyhteistyökokeilusta annetun lain 2 §:n muuttamisesta](210.md) `210/2007`
+- [Valtioneuvoston asetus vuodelta 2007 maatalousyrittäjien opintorahana maksettavan tuen määrästä](211.md) `211/2007`
+- [Valtioneuvoston asetus tilatukijärjestelmän kansallisen varannon perustamisesta, tukitasoista ja tukioikeuksien vahvistamisesta annetun valtioneuvoston asetuksen muuttamisesta](212.md) `212/2007`
+- [Valtioneuvoston asetus toiminnallisesti ja taloudellisesti itsenäisen maatilan tunnusmerkeistä](213.md) `213/2007`
+- [Valtioneuvoston asetus maaperän pilaantuneisuuden ja puhdistustarpeen arvioinnista](214.md) `214/2007`
+- [Valtioneuvoston päätös Suomen Teollisuussijoitus Oy:n sijoitustoiminnan yleisistä suuntaviivoista](215.md) `215/2007`
+- [Laki edustajanpalkkiosta annetun lain muuttamisesta](216.md) `216/2007`
+- [Taksiliikennelaki](217.md) `217/2007`
+- [Laki luvanvaraisesta henkilöliikenteestä tiellä annetun lain muuttamisesta](218.md) `218/2007`
+- [Eduskunnan päätös eduskunnan työjärjestyksen 23 ja 48 §:n muuttamisesta](219.md) `219/2007`
+- [Maa\- ja metsätalousministeriön asetus tilatukioikeuksien hakumenettelystä kansallisesta varannosta vuonna 2007](220.md) `220/2007`
+- [Laki rajavartiolaitoksen hallinnosta annetun lain muuttamisesta](221.md) `221/2007`
+- [Laki rajavartiolain 28 §:n muuttamisesta](222.md) `222/2007`
+- [Laki julkisen hallinnon yhteispalvelusta](223.md) `223/2007`
+- [Laki keskinäisestä virka\-avusta verotuksen alalla Suomen ja muiden Euroopan unionin jäsenvaltioiden toimivaltaisten viranomaisten välillä annetun lain 1 §:n muuttamisesta](224.md) `224/2007`
+- [Laki rajoitetusti verovelvollisen tulon verottamisesta annetun lain 3 §:n muuttamisesta](225.md) `225/2007`
+- [Tasavallan presidentin asetus Maailman postiliiton yleissopimuksen ja muiden sopimusten voimaansaattamisesta sekä yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](226.md) `226/2007`
+- [Tasavallan presidentin asetus Maailman postiliiton perussopimuksen seitsemännen lisäpöytäkirjan voimaansaattamisesta](227.md) `227/2007`
+- [Liikenne\- ja viestintäministeriön asetus liikenteen ohjauslaitteista annetun liikenneministeriön päätöksen 22 ja 24 §:n muuttamisesta](228.md) `228/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2006 energiakasvituen maksatuksesta](229.md) `229/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2006 puutarhatuotteiden varastointituen maksatuksesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](230.md) `230/2007`
+- [Laki vastavuoroisen tunnustamisen periaatteen soveltamisesta taloudellisiin seuraamuksiin tehdyn puitepäätöksen lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja puitepäätöksen soveltamisesta](231.md) `231/2007`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](232.md) `232/2007`
+- [Laki ajoneuvolain muuttamisesta](233.md) `233/2007`
+- [Laki ajoneuvoliikennerekisteristä annetun lain muuttamisesta](234.md) `234/2007`
+- [Laki ajoneuvoverolain muuttamisesta](235.md) `235/2007`
+- [Laki tieliikennelain 94 §:n muuttamisesta](236.md) `236/2007`
+- [Laki ajoneuvojen katsastusluvista annetun lain muuttamisesta](237.md) `237/2007`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 23 a ja 28 §:n muuttamisesta](238.md) `238/2007`
+- [Laki perusopetuslain muuttamisesta](239.md) `239/2007`
+- [Laki yrityspalvelujen asiakastietojärjestelmästä](240.md) `240/2007`
+- [Tasavallan presidentin asetus Suomen hallituksen ja Euroopan metsäinstituutin välisen instituutin ja sen henkilöstön oikeudellisesta asemasta, erioikeuksista ja vapauksista tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](241.md) `241/2007`
+- [Valtioneuvoston asetus kuvaohjelmien tarkastamisesta annetun valtioneuvoston asetuksen muuttamisesta](242.md) `242/2007`
+- [Valtioneuvoston asetus arava\-asetuksen 36 §:n muuttamisesta](243.md) `243/2007`
+- [Liikenne\- ja viestintäministeriön asetus autojen ja perävaunujen rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen liitteen 1 muuttamisesta](244.md) `244/2007`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](245.md) `245/2007`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveysministeriön työjärjestyksen muuttamisesta](246.md) `246/2007`
+- [Laki yrityksen saneerauksesta annetun lain muuttamisesta](247.md) `247/2007`
+- [Laki takaisinsaannista konkurssipesään annetun lain 23 §:n muuttamisesta](248.md) `248/2007`
+- [Valtioneuvoston asetus yrityksen saneerauksesta annetun asetuksen muuttamisesta](249.md) `249/2007`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2007 maa\- ja puutarhatalouden kansallisten tukien hallinnosta](250.md) `250/2007`
+- [Sosiaali\- ja terveysministeriön asetus elintarvikkeiden tai talousveden välityksellä leviävien ruokamyrkytysepidemioiden selvittämisestä](251.md) `251/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](252.md) `252/2007`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain muuttamisesta](253.md) `253/2007`
+- [Laki Maailman terveysjärjestön kansainvälisen terveyssäännöstön \(2005\) lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](254.md) `254/2007`
+- [Tasavallan presidentin asetus kulttuuri\-ilmaisujen moninaisuuden suojelemisesta ja edistämisestä tehdyn yleissopimuksen voimaansaattamisesta sekä yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](255.md) `255/2007`
+- [Valtioneuvoston asetus pysäköintivirhemaksusta annetun asetuksen 3 §:n muuttamisesta](256.md) `256/2007`
+- [Valtioneuvoston asetus vastavuoroisen tunnustamisen periaatteen soveltamisesta taloudellisiin seuraamuksiin tehdyn puitepäätöksen säännösten kansallisesta täytäntöönpanosta ja puitepäätöksen soveltamisesta](257.md) `257/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinsuojeluaineissa sallituista tehoaineista ja niiden käytön ehdoista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](258.md) `258/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinsuojeluaineita koskevasta kirjanpidosta sekä markkinoille saatettujen kasvinsuojeluaineiden määrien ilmoittamisesta](259.md) `259/2007`
+- [Laki kunnallisen eläkelain muuttamisesta](260.md) `260/2007`
+- [Tasavallan presidentin asetus Suomen, Norjan ja Ruotsin välisen Pohjoiskalotin koulutussäätiötä koskevan sopimuksen voimaansaattamisesta](261.md) `261/2007`
+- [Tasavallan presidentin asetus pyörillä varustettujen ajoneuvojen määräajoin toistettavien katsastusten yhdenmukaisten ehtojen hyväksymisestä sekä näiden katsastusten vastavuoroisesta tunnustamisesta tehtyyn sopimukseen liitetyn normin 1 muutosten voimaansaattamisesta](262.md) `262/2007`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](263.md) `263/2007`
+- [Sisäasiainministeriön asetus poliisin suoritteiden maksullisuudesta annetun asetuksen liitteen muuttamisesta](264.md) `264/2007`
+- [Laki vankeuslain 12 luvun muuttamisesta](265.md) `265/2007`
+- [Laki tutkintavankeuslain 8 luvun muuttamisesta](266.md) `266/2007`
+- [Laki poliisin säilyttämien henkilöiden kohtelusta annetun lain 6 luvun muuttamisesta](267.md) `267/2007`
+- [Tasavallan presidentin asetus Suomen ja Venäjän rautatieyhdysliikenteen matkustajien, matkatavaran, kiitotavaran ja tavaroiden kuljetusehtojen voimaansaattamisesta ja kuljetusehtojen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](268.md) `268/2007`
+- [Valtioneuvoston asetus kansalaisyhteiskuntapolitiikan neuvottelukunnasta](269.md) `269/2007`
+- [Valtioneuvoston asetus geenitekniikkalain mukaisten suoritteiden maksullisuudesta](270.md) `270/2007`
+- [Valtioneuvoston asetus poronhoitovuodelta 2007/2008 maksettavasta eläinkohtaisesta tuesta](271.md) `271/2007`
+- [Laki Afrikan, Karibian ja Tyynenmeren valtioiden ryhmän jäsenten sekä Euroopan yhteisön ja sen jäsenvaltioiden välisen kumppanuussopimuksen täytäntöönpanemiseksi toteutettavista toimenpiteistä ja noudatettavista menettelyistä tehdyn sisäisen sopimuksen muuttamisesta tehdyn sisäisen sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta](272.md) `272/2007`
+- [Laki kuorma\- ja linja\-auton kuljettajien ammattipätevyydestä](273.md) `273/2007`
+- [Laki Ajoneuvohallintokeskuksesta annetun lain 2 §:n muuttamisesta](274.md) `274/2007`
+- [Laki tieliikennelain 75 §:n muuttamisesta](275.md) `275/2007`
+- [Laki ajoneuvoliikennerekisteristä annetun lain muuttamisesta](276.md) `276/2007`
+- [Laki Belgian kuningaskunnan, Saksan liittotasavallan, Espanjan kuningaskunnan, Ranskan tasavallan, Luxemburgin suurherttuakunnan, Alankomaiden kuningaskunnan ja Itävallan tasavallan välillä rajat ylittävän yhteistyön tehostamisesta erityisesti terrorismin, rajat ylittävän rikollisuuden ja laittoman muuttoliikkeen torjumiseksi tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta sekä sopimuksen soveltamisesta](277.md) `277/2007`
+- [Laki ampuma\-aselain 17 §:n muuttamisesta](278.md) `278/2007`
+- [Laki poliisilain 53 §:n muuttamisesta](279.md) `279/2007`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain muuttamisesta](280.md) `280/2007`
+- [Laki ajoneuvoliikennerekisteristä annetun lain 17 §:n muuttamisesta](281.md) `281/2007`
+- [Laki rikoslain 16 luvun 20 §:n ja 40 luvun 12 §:n muuttamisesta](282.md) `282/2007`
+- [Laki ulkomaalaislain muuttamisesta](283.md) `283/2007`
+- [Tasavallan presidentin asetus moottoriliikenteen ansiomitalista](284.md) `284/2007`
+- [Valtioneuvoston asetus Asumisen rahoitus\- ja kehittämiskeskuksesta](285.md) `285/2007`
+- [Valtioneuvoston asetus valtion asuntorahastosta](286.md) `286/2007`
+- [Valtioneuvoston asetus Euroopan poliisiviraston perustamisesta tehdyn yleissopimuksen 2 artiklan ja liitteen muuttamisesta tehdyn pöytäkirjan sekä Euroopan poliisiviraston perustamisesta tehdyn yleissopimuksen ja Europolin, sen elinten jäsenten sekä Europolin apulaisjohtajien ja työntekijöiden erioikeuksia ja vapauksia koskevan pöytäkirjan muuttamisesta tehdyn pöytäkirjan voimaansaattamisesta sekä niiden lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](287.md) `287/2007`
+- [Valtioneuvoston asetus Euroopan poliisiviraston perustamisesta tehdyn yleissopimuksen muuttamisesta tehdyn pöytäkirjan voimaansaattamisesta ja pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](288.md) `288/2007`
+- [Valtioneuvoston asetus alueiden kehittämisestä annetun valtioneuvoston asetuksen muuttamisesta](289.md) `289/2007`
+- [Sisäasiainministeriön asetus eräistä liikkumis\- ja oleskelukielloista](290.md) `290/2007`
+- [Sisäasiainministeriön asetus eräistä liikkumis\- ja oleskelukielloista](291.md) `291/2007`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön ulkopuolisista maista tuotavasta maidosta ja maitopohjaisista tuotteista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](292.md) `292/2007`
+- [Laki Euroopan unionin ja Amerikan yhdysvaltojen välillä lentoyhtiöiden PNR\- eli matkustajarekisteritietojen käsittelemisestä ja siirtämisestä Yhdysvaltojen sisäisen turvallisuuden ministeriölle tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta](293.md) `293/2007`
+- [Tasavallan presidentin asetus pysyviä orgaanisia yhdisteitä koskevan Tukholman yleissopimuksen G liitteen voimaansaattamisesta](294.md) `294/2007`
+- [Valtioneuvoston asetus vuodelta 2007 maksettavasta Etelä\-Suomen kasvintuotannon tuesta](295.md) `295/2007`
+- [Valtioneuvoston asetus tilatukijärjestelmän tukialueista, tuotantoon sidotuista tuista ja kesannoinnista annetun valtioneuvoston asetuksen muuttamisesta](296.md) `296/2007`
+- [Valtioneuvoston asetus vuoden 2006 satovahinkojen viljelmäkohtaisista korvausosuuksista](297.md) `297/2007`
+- [Valtioneuvoston asetus ulkomaanliikenteen kauppa\-alusluettelosta annetun lain 4 a §:n muuttamisesta ja 4 §:n väliaikaisesta muuttamisesta annetun lain voimaantulosta](298.md) `298/2007`
+- [Valtioneuvoston asetus Tekes ― teknologian ja innovaatioiden kehittämiskeskuksesta](299.md) `299/2007`
+- [Kauppa\- ja teollisuusministeriön asetus kosmeettisista valmisteista annetun kauppa\- ja teollisuusministeriön asetuksen muuttamisesta](300.md) `300/2007`
+- [Tasavallan presidentin asetus Venäjän kanssa Kuusamo\-Suoperä rajanylityspaikan avaamisesta kansainväliselle autoliikenteelle tehdyn periaatesopimuksen voimaansaattamisesta](301.md) `301/2007`
+- [Sosiaali\- ja terveysministeriön asetus nuorille työntekijöille vaarallisten töiden esimerkkiluettelosta](302.md) `302/2007`
+- [Maa\- ja metsätalousministeriön asetus riista\- ja kalatalouden tutkimuslaitoksen suoritteista perittävistä maksuista](303.md) `303/2007`
+- [Sisäasiainministeriön asetus järjestyksenvalvojan suorittamasta henkilöntarkastuksesta ja säilössäpidosta](304.md) `304/2007`
+- [Maa\- ja metsätalousministeriön asetus erikoistuista ja tulvavahinkokorvauksesta sekä näiden hakemisesta ja tuen tai korvauksen perusteena olevien pinta\- ja sopimusalojen sekä määrien ilmoittamisesta vuonna 2007](305.md) `305/2007`
+- [Maa\- ja metsätalousministeriön asetus satovahinkojen korvaamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](306.md) `306/2007`
+- [Sosiaali\- ja terveysministeriön asetus terveydenhuollon laitteista ja tarvikkeista annetun sosiaali\- ja terveysministeriön päätöksen liitteen 9 muuttamisesta](307.md) `307/2007`
+- [Ulkoasiainministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoasiainministeriön asetuksen muuttami\-sesta](308.md) `308/2007`
+- [Sisäasiainministeriön asetus sisäasiainministeriön työjärjestyksen muuttamisesta](309.md) `309/2007`
+- [Oikeusministeriön asetus opintososiaalisista eduista vankeinhoitoalan ammatilliseen tutkintoon johtavassa koulutuksessa](310.md) `310/2007`
+- [Valtioneuvoston asetus rakennerahastoista](311.md) `311/2007`
+- [Maa\- ja metsätalousministeriön asetus elävien kalojen, äyriäisten ja nilviäisten sekä näistä saatavien tiettyjen tuotteiden eläintauteja koskevista vaatimuksista Euroopan yhteisön sisämarkkinoilla](312.md) `312/2007`
+- [Laki metsäkeskuksista ja metsätalouden kehittämiskeskuksesta annetun lain muuttamisesta](313.md) `313/2007`
+- [Laki Maaseutuvirastosta annetun lain 2 §:n muuttamisesta](314.md) `314/2007`
+- [Laki metsälain muuttamisesta](315.md) `315/2007`
+- [Laki kestävän metsätalouden rahoituksesta annetun lain muuttamisesta](316.md) `316/2007`
+- [Laki metsän hyönteis\- ja sienituhojen torjunnasta annetun lain muuttamisesta](317.md) `317/2007`
+- [Laki metsänhoitoyhdistyksistä annetun lain 21 ja 22 §:n muuttamisesta](318.md) `318/2007`
+- [Laki kiinteistön yhteisomistajien osallistumisesta metsätalouden rahoituslainsäädännössä tarkoitettuun toimenpiteeseen annetun lain 4 §:n muuttamisesta](319.md) `319/2007`
+- [Tasavallan presidentin asetus Euroopan ydinfysiikan tutkimusjärjestön erioikeuksista ja \-vapauksista tehdyn pöytäkirjan voimaansaattamisesta sekä pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](320.md) `320/2007`
+- [Laki polttoturpeen turvavarastoista](321.md) `321/2007`
+- [Laki polttoturpeesta lauhdutusvoimalaitoksissa tuotetun sähkön syöttötariffista](322.md) `322/2007`
+- [Laki sähkötuotannon eräiden tehoreservien käytettävyyden varmistamisesta annetun lain 3 §:n muuttamisesta](323.md) `323/2007`
+- [Valtioneuvoston asetus polttoturpeesta lauhdutusvoimalaitoksissa tuotetun sähkön syöttötariffista](324.md) `324/2007`
+- [Valtioneuvoston asetus valtioneuvoston ohjesäännön muuttamisesta](325.md) `325/2007`
+- [Valtiovarainministeriön asetus julkishallinnon ja \-talouden tilintarkastuslautakunnan maksullisista suoritteista annetun valtiovarainministeriön asetuksen muuttamisesta](326.md) `326/2007`
+- [Valtiovarainministeriön asetus Mikael Agricola ja suomen kieli \-juhlarahasta](327.md) `327/2007`
+- [Maa\- ja metsätalousministeriön asetus poronhoitovuodelta 2007/2008 maksettavan eläinkohtaisen tuen hakuajasta ja hakemisesta](328.md) `328/2007`
+- [Maa\- ja metsätalousministeriön asetus perus\- ja kasvulohkoista ja niiden ulko\- ja sisärajoja koskevista tuen myöntämisen edellytyksistä](329.md) `329/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2007 kasvihuonetuen ennakon maksatuksesta](330.md) `330/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2006 viljelmäkohtaisten satovahinkokorvausten maksatuksesta](331.md) `331/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta tilatuen non food \-kesannon ehdoista vuonna 2007](332.md) `332/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta energiakasvituen ehdoista vuonna 2007](333.md) `333/2007`
+- [Laki yhteistoiminnasta yrityksissä](334.md) `334/2007`
+- [Laki yhteistoiminnasta suomalaisissa ja yhteisönlaajuisissa yritysryhmissä](335.md) `335/2007`
+- [Laki työneuvostosta ja eräistä työsuojelun poikkeusluvista annetun lain 7 ja 8 §:n muuttamisesta](336.md) `336/2007`
+- [Laki tuloverolain 80 §:n muuttamisesta](337.md) `337/2007`
+- [Laki henkilöstörahastolain 6 §:n muuttamisesta](338.md) `338/2007`
+- [Laki henkilöstön edustuksesta yritysten hallinnossa annetun lain 4 §:n muuttamisesta](339.md) `339/2007`
+- [Laki henkilöstöedustuksesta eurooppayhtiössä \(SE\) ja eurooppaosuuskunnassa \(SCE\) annetun lain 35 §:n muuttamisesta](340.md) `340/2007`
+- [Laki valtion liikelaitoksista annetun lain 12 §:n muuttamisesta](341.md) `341/2007`
+- [Laki merimieslain 24 §:n muuttamisesta](342.md) `342/2007`
+- [Laki valtion virkamieslain 36 §:n muuttamisesta](343.md) `343/2007`
+- [Laki opintovapaalain 9 §:n muuttamisesta](344.md) `344/2007`
+- [Laki julkisesta työvoimapalvelusta annetun lain 5 a luvun 7 §:n muuttamisesta](345.md) `345/2007`
+- [Laki rikoslain 47 luvun 4 §:n muuttamisesta](346.md) `346/2007`
+- [Laki yhteistoiminnasta valtion virastoissa ja laitoksissa annetun lain 2 §:n muuttamisesta](347.md) `347/2007`
+- [Laki julkisista hankinnoista](348.md) `348/2007`
+- [Laki vesi\- ja energiahuollon, liikenteen ja postipalvelujen alalla toimivien yksiköiden hankinnoista](349.md) `349/2007`
+- [Laki kiinteistörahastolain muuttamisesta](350.md) `350/2007`
+- [Laki sijoitusrahastolain muuttamisesta](351.md) `351/2007`
+- [Laki kaupparekisterilain 14 §:n muuttamisesta](352.md) `352/2007`
+- [Laki Rahoitustarkastuksesta annetun lain 6 §:n muuttamisesta](353.md) `353/2007`
+- [Laki kirkkolain 24 ja 25 luvun muuttamisesta](354.md) `354/2007`
+- [Tasavallan presidentin asetus Armenian kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](355.md) `355/2007`
+- [Kauppa\- ja teollisuusministeriön asetus erityisruokavaliovalmisteista annetun kauppa\- ja teollisuusministeriön asetuksen muuttamisesta](356.md) `356/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinsuojeluaineissa sallituista tehoaineista ja niiden käytön ehdoista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](357.md) `357/2007`
+- [Laki ulkomaalaislain muuttamisesta](358.md) `358/2007`
+- [Laki opintotukilain 1 §:n muuttamisesta](359.md) `359/2007`
+- [Laki ulkomaalaislain muuttamisesta](360.md) `360/2007`
+- [Laki opintotukilain 1 §:n muuttamisesta](361.md) `361/2007`
+- [Tasavallan presidentin asetus Nigerian kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](362.md) `362/2007`
+- [Maa\- ja metsätalousministeriön asetus eräiden kolmansista maista tuotavien eläinten sekä niiden alkioiden ja sukusolujen eläintautivaatimuksista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](363.md) `363/2007`
+- [Tasavallan presidentin asetus Dominikaanisen tasavallan kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](364.md) `364/2007`
+- [Valtioneuvoston asetus Euroopan unionin ja Amerikan yhdysvaltojen välillä lentoyhtiöiden PNR\- eli matkustajarekisteritietojen käsittelemisestä ja siirtämisestä Yhdysvaltojen sisäisen turvallisuuden ministeriölle tehdyn sopimuksen ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain väliaikaisesta soveltamisesta](365.md) `365/2007`
+- [Valtioneuvoston asetus luonnonhaittakorvauksista ja maatalouden ympäristötuista vuosina 2007―2013](366.md) `366/2007`
+- [Maa\- ja metsätalousministeriön asetus tilatukioikeuksien siirroista](367.md) `367/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta tärkkelysperunan tuottajalle vuodelta 2006 suoritettavan tuen maksatuksesta](368.md) `368/2007`
+- [Verohallituksen päätös ilmoittamisvelvollisuudesta ja muistiinpanoista annetun päätöksen muuttamisesta](369.md) `369/2007`
+- [Laki oikeudenkäynnin julkisuudesta yleisissä tuomioistuimissa](370.md) `370/2007`
+- [Laki oikeudenkäynnin julkisuudesta annetun lain kumoamisesta](371.md) `371/2007`
+- [Laki markkinaoikeuslain 15 §:n muuttamisesta](372.md) `372/2007`
+- [Laki eräiden markkinaoikeudellisten asioiden käsittelystä annetun lain 16 §:n muuttamisesta](373.md) `373/2007`
+- [Laki oikeudenkäymiskaaren 17 luvun 34 §:n muuttamisesta](374.md) `374/2007`
+- [Laki tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista annetun lain 6 §:n muuttamisesta](375.md) `375/2007`
+- [Laki yrityksen saneerauksesta annetun lain 100 §:n muuttamisesta](376.md) `376/2007`
+- [Laki yksityishenkilön velkajärjestelystä annetun lain 81 §:n muuttamisesta](377.md) `377/2007`
+- [Laki maakaaren 6 luvun 14 §:n muuttamisesta](378.md) `378/2007`
+- [Laki lapsen huoltoa ja tapaamisoikeutta koskevan päätöksen täytäntöönpanosta annetun lain 12 §:n muuttamisesta](379.md) `379/2007`
+- [Laki riita\-asioiden sovittelusta yleisissä tuomioistuimissa annetun lain 12 §:n muuttamisesta](380.md) `380/2007`
+- [Laki oikeudenkäynnin julkisuudesta hallintotuomioistuimissa](381.md) `381/2007`
+- [Laki hallinto\-oikeuslain 12 ja 22 §:n muuttamisesta](382.md) `382/2007`
+- [Laki Korkeimmasta hallinto\-oikeudesta annetun lain 16 c §:n kumoamisesta](383.md) `383/2007`
+- [Laki vakuutusoikeuslain 10 ja 17 §:n muuttamisesta](384.md) `384/2007`
+- [Laki viranomaisten toiminnan julkisuudesta annetun lain muuttamisesta](385.md) `385/2007`
+- [Laki sosiaalihuollon asiakkaan asemasta ja oikeuksista annetun lain 27 §:n muuttamisesta](386.md) `386/2007`
+- [Laki työeläkeasioiden muutoksenhakulautakunnasta annetun lain 13 §:n muuttamisesta](387.md) `387/2007`
+- [Laki tapaturmavakuutuslain 53 §:n muuttamisesta](388.md) `388/2007`
+- [Laki työttömyysturvalain 12 a luvun 5 §:n muuttamisesta](389.md) `389/2007`
+- [Laki opintotukilain 32 §:n muuttamisesta](390.md) `390/2007`
+- [Laki sosiaaliturvan muutoksenhakulautakunnasta annetun lain 15 §:n muuttamisesta](391.md) `391/2007`
+- [Opetusministeriön asetus vieraskielisten sekä saamenkielisten ja romanikielisten oppilaiden täydentävään opetukseen perusopetuksessa ja lukiokoulutuksessa myönnettävän valtionavustuksen perusteista](392.md) `392/2007`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta](393.md) `393/2007`
+- [Valtioneuvoston kanslian työjärjestys](394.md) `394/2007`
+- [Valtioneuvoston asetus Afrikan, Karibian ja Tyynenmeren valtioiden ryhmän jäsenten sekä Euroopan yhteisön ja sen jäsenvaltioiden välisen kumppanuussopimuksen täytäntöönpanemiseksi toteutettavista toimenpiteistä ja noudatettavista menettelyistä tehdyn sisäisen sopimuksen muuttamisesta tehdyn sisäisen sopimuksen ja sen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain väliaikaisesta soveltamisesta](395.md) `395/2007`
+- [Valtioneuvoston asetus rikoksentorjuntaneuvostosta](396.md) `396/2007`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön tietopalvelukeskuksen maksullisista suoritteista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](397.md) `397/2007`
+- [Verohallituksen päätös Nokia Asset Management Oy:n ja Nokia Networks Asset Management Oy:n verottamisesta Konserniverokeskuksessa](398.md) `398/2007`
+- [Laki kotikuntalain 4 §:n muuttamisesta](399.md) `399/2007`
+- [Valtioneuvoston asetus opintotukiasetuksen muuttamisesta](400.md) `400/2007`
+- [Valtioneuvoston asetus erikoislääkärin tutkinnosta annetun asetuksen 6 ja 8 §:n muuttamisesta](401.md) `401/2007`
+- [Valtioneuvoston asetus Puolustushallinnon palvelukeskuksesta](402.md) `402/2007`
+- [Valtioneuvoston asetus vuodelta 2006 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 4 ja 5 §:n muuttamisesta](403.md) `403/2007`
+- [Valtioneuvoston asetus vuodelta 2006 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 12 ja 13 §:n muuttamisesta](404.md) `404/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuonna 2006 teurastetuista lihasioista, lihasiipikarjasta, hiehoista ja sonneista sekä vuonna 2006 siitokseen myydyistä nuorista sioista maksettavan kansallisen kotieläintuen maksatuksesta](405.md) `405/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2007 kansallisen kotieläintuen ennakon maksatuksesta](406.md) `406/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2006 sonni\- ja härkäpalkkion loppuosan maksatuksesta](407.md) `407/2007`
+- [Laki poikkeusolojen vakuutustakuusta](408.md) `408/2007`
+- [Laki sosiaalisista yrityksistä annetun lain muuttamisesta](409.md) `409/2007`
+- [Laki julkisesta työvoimapalvelusta annetun lain 7 luvun 9 ja 11 §:n muuttamisesta](410.md) `410/2007`
+- [Laki jätelain 10 ja 13 §:n muuttamisesta](411.md) `411/2007`
+- [Valtioneuvoston asetus kauppa\- ja teollisuusministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](412.md) `412/2007`
+- [Valtioneuvoston asetus valtion virkamiesasetuksen muuttamisesta](413.md) `413/2007`
+- [Valtioneuvoston asetus metsäkeskuksista ja metsätalouden kehittämiskeskuksesta annetun asetuksen muuttamisesta](414.md) `414/2007`
+- [Valtioneuvoston asetus metsäasetuksen 5 §:n muuttamisesta](415.md) `415/2007`
+- [Valtioneuvoston asetus kestävän metsätalouden rahoituksesta annetun asetuksen muuttamisesta](416.md) `416/2007`
+- [Lastensuojelulaki](417.md) `417/2007`
+- [Laki kansanterveyslain muuttamisesta](418.md) `418/2007`
+- [Laki erikoissairaanhoitolain muuttamisesta](419.md) `419/2007`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 50 §:n muuttamisesta](420.md) `420/2007`
+- [Laki nimilain muuttamisesta](421.md) `421/2007`
+- [Laki hallinto\-oikeuslain 7 ja 12 b §:n muuttamisesta](422.md) `422/2007`
+- [Laki Euroopan yhteisön yhteisen maatalouspolitiikan täytäntöönpanosta annetun lain muuttamisesta](423.md) `423/2007`
+- [Laki maatilatalouden kehittämisrahastosta annetun lain 2 a ja 3 §:n muuttamisesta](424.md) `424/2007`
+- [Laki maaseutuelinkeinojen rahoituslain muuttamisesta](425.md) `425/2007`
+- [Laki porotalouden ja luontaiselinkeinojen rahoituslain muuttamisesta](426.md) `426/2007`
+- [Laki kolttalain muuttamisesta](427.md) `427/2007`
+- [Laki maaseutuelinkeinojen tukitehtäviä hoidettaessa noudatettavasta menettelystä annetun lain muuttamisesta](428.md) `428/2007`
+- [Laki tilatukijärjestelmän täytäntöönpanosta annetun lain 14 §:n muuttamisesta](429.md) `429/2007`
+- [Laki maa\- ja puutarhatalouden kansallisista tuista annetun lain 25 ja 27 §:n muuttamisesta](430.md) `430/2007`
+- [Laki maaseutuelinkeinorekisteristä annetun lain muuttamisesta](431.md) `431/2007`
+- [Laki perintökaaren 25 luvun 8 §:n muuttamisesta](432.md) `432/2007`
+- [Laki poikkeuksellisten tulvien aiheuttamien vahinkojen korvaamisesta annetun lain muuttamisesta](433.md) `433/2007`
+- [Laki satovahinkojen korvaamisesta annetun lain muuttamisesta](434.md) `434/2007`
+- [Laki Euroopan yhteisön maidon ja maitotuotteiden kiintiöjärjestelmän täytäntöönpanosta annetun lain muuttamisesta](435.md) `435/2007`
+- [Laki maaseutuelinkeinojen hallinnosta kunnissa annetun lain muuttamisesta](436.md) `436/2007`
+- [Laki luopumiseläkelain 14 §:n muuttamisesta](437.md) `437/2007`
+- [Laki maatalousyrittäjien luopumiskorvauksesta annetun lain 28 ja 31 §:n muuttamisesta](438.md) `438/2007`
+- [Laki maatalousyrittäjien sukupolvenvaihdoseläkkeestä annetun lain 35 ja 38 §:n muuttamisesta](439.md) `439/2007`
+- [Laki maatalousyrittäjien luopumistuesta annetun lain muuttamisesta](440.md) `440/2007`
+- [Laki maatalouden harjoittamisesta luopumisen tukemisesta annetun lain muuttamisesta](441.md) `441/2007`
+- [Laki maataloustuotannon lopettamistuesta annetun lain 18 ja 20 §:n muuttamisesta](442.md) `442/2007`
+- [Laki maatalousyrittäjän eläkelain 131 §:n muuttamisesta](443.md) `443/2007`
+- [Ryhmäkannelaki](444.md) `444/2007`
+- [Laki Kuluttajavirastosta annetun lain muuttamisesta](445.md) `445/2007`
+- [Laki biopolttoaineiden käytön edistämisestä liikenteessä](446.md) `446/2007`
+- [Merimiespalvelulaki](447.md) `447/2007`
+- [Sosiaali\- ja terveysministeriön asetus rokotuksista ja tartuntatautien raskaudenaikaisesta seulonnasta annetun sosiaali\- ja terveysministeriön asetuksen 2 §:n muuttamisesta](448.md) `448/2007`
+- [Laki työnantajan ja henkilöstön välisestä yhteistoiminnasta kunnissa](449.md) `449/2007`
+- [Laki kunnallisesta viranhaltijasta annetun lain muuttamisesta](450.md) `450/2007`
+- [Laki kunnan viranhaltijain neuvotteluoikeudesta annetun lain muuttamisesta](451.md) `451/2007`
+- [Laki tuloverolain 80 §:n muuttamisesta](452.md) `452/2007`
+- [Laki rikoslain 47 luvun 4 §:n muuttamisesta](453.md) `453/2007`
+- [Laki opintovapaalain 9 §:n muuttamisesta](454.md) `454/2007`
+- [Laki julkisesta työvoimapalvelusta annetun lain 5 a luvun 7 §:n muuttamisesta](455.md) `455/2007`
+- [Laki työterveyshuoltolain 11 §:n muuttamisesta](456.md) `456/2007`
+- [Laki yksityisyyden suojasta työelämässä annetun lain 4 ja 21 §:n muuttamisesta](457.md) `457/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta energiakasvituen ehdoista vuonna 2006 annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](458.md) `458/2007`
+- [Tilintarkastuslaki](459.md) `459/2007`
+- [Laki kirjanpitolain 3 luvun 12 §:n ja 7 a luvun 3 §:n muuttamisesta](460.md) `460/2007`
+- [Laki osakeyhtiölain muuttamisesta](461.md) `461/2007`
+- [Laki osuuskuntalain muuttamisesta](462.md) `462/2007`
+- [Laki asunto\-osakeyhtiölain muuttamisesta](463.md) `463/2007`
+- [Laki avoimesta yhtiöstä ja kommandiittiyhtiöstä annetun lain muuttamisesta](464.md) `464/2007`
+- [Laki säätiölain 12 §:n muuttamisesta](465.md) `465/2007`
+- [Laki asumisoikeusyhdistyksistä annetun lain muuttamisesta](466.md) `466/2007`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](467.md) `467/2007`
+- [Laki vakuutusyhtiölain muuttamisesta](468.md) `468/2007`
+- [Laki ulkomaisista vakuutusyhtiöistä annetun lain 39 a §:n muuttamisesta](469.md) `469/2007`
+- [Laki vakuutusyhdistyslain muuttamisesta](470.md) `470/2007`
+- [Laki eläkesäätiölain muuttamisesta](471.md) `471/2007`
+- [Laki vakuutuskassalain muuttamisesta](472.md) `472/2007`
+- [Laki työttömyyskassalain 16 §:n muuttamisesta](473.md) `473/2007`
+- [Laki rikoslain 30 luvun muuttamisesta](474.md) `474/2007`
+- [Laki kauppakamarilain 2 §:n muuttamisesta](475.md) `475/2007`
+- [Laki säästöpankkilain 77 §:n muuttamisesta](476.md) `476/2007`
+- [Laki sijoitusrahastolain 36 ja 37 §:n muuttamisesta](477.md) `477/2007`
+- [Laki panttilainauslaitoksista annetun lain 13 ja 13 a §:n muuttamisesta](478.md) `478/2007`
+- [Laki rahoitus\- ja vakuutusryhmittymien valvonnasta annetun lain 15 §:n muuttamisesta](479.md) `479/2007`
+- [Laki Rahoitustarkastuksesta annetun lain 17 §:n muuttamisesta](480.md) `480/2007`
+- [Laki valtion liikelaitoksista annetun lain muuttamisesta](481.md) `481/2007`
+- [Laki asumisoikeusasunnoista annetun lain 26 b ja 51 f §:n muuttamisesta](482.md) `482/2007`
+- [Laki työeläkeasioiden muutoksenhakulautakunnasta annetun lain 16 §:n muuttamisesta](483.md) `483/2007`
+- [Laki tapaturmavakuutuslain 53 i §:n muuttamisesta](484.md) `484/2007`
+- [Laki kemiallisten aseiden kehittämisen, tuotannon, varastoinnin ja käytön kieltämistä sekä niiden hävittämistä koskevan yleissopimuksen eräiden määräysten hyväksymisestä ja sen soveltamisesta annetun lain muuttamisesta](485.md) `485/2007`
+- [Laki ulkomaalaislain 46 §:n muuttamisesta](486.md) `486/2007`
+- [Laki rakennuksen energiatodistuksesta](487.md) `487/2007`
+- [Laki maankäyttö\- ja rakennuslain 2 ja 166 §:n muuttamisesta](488.md) `488/2007`
+- [Laki rakennuksen ilmastointijärjestelmän kylmälaitteiden energiatehokkuuden tarkastamisesta](489.md) `489/2007`
+- [Tasavallan Presidentin avoin kirje valtioneuvoston vaihdoksesta](490.md) `490/2007`
+- [Valtioneuvoston asetus riistanhoitomaksusta ja pyyntilupamaksusta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](491.md) `491/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta ohjelmakauden 2000–2006 luonnonhaittakorvauksen ja ympäristötuen valvonnasta](492.md) `492/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta markkinointivuoden 2007/2008 kuivattujen rehujen jalostusyrityksille suoritettavan jalostustuen ennakoiden maksatuksesta](493.md) `493/2007`
+- [Valtioneuvoston asetus valtioneuvoston ohjesäännön 25 §:n muuttamisesta](494.md) `494/2007`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun asetuksen 2 §:n muuttamisesta](495.md) `495/2007`
+- [Valtioneuvoston asetus maa\- ja metsätalousministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](496.md) `496/2007`
+- [Valtioneuvoston asetus liikenne\- ja viestintäministeriöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](497.md) `497/2007`
+- [Valtioneuvoston asetus polttoturpeen turvavarastoista](498.md) `498/2007`
+- [Maa\- ja metsätalousministeriön asetus alkuperäiskasvilajikkeen rekisteröinnistä](499.md) `499/2007`
+- [Maa\- ja metsätalousministeriön asetus maatalouden ympäristötuen erityistuista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](500.md) `500/2007`
+- [Maa\- ja metsätalousministeriön asetus luonnonhaittakorvaukseen ja maatalouden ympäristötukeen varattujen määrärahojen kohdentamisesta vuoden 2007 haussa ohjelmakaudelta 2000―2006 siirtyvien sitoumusten ja sopimusten osalta](501.md) `501/2007`
+- [Kauppa\- ja teollisuusministeriön asetus kauppa\- ja teollisuusministeriön työjärjestyksen muuttamisesta](502.md) `502/2007`
+- [Maa\- ja metsätalousministeriön asetus maatalouden ympäristötuen perus\- ja lisätoimenpiteistä ja maatalouden ympäristötuen erityistuista](503.md) `503/2007`
+- [Maa\- ja metsätalousministeriön asetus tilatuen, luonnonhaittakorvauksen, maatalouden ympäristötuen ja maatalouden ympäristötuen erityistukisopimusten hakemisesta sekä maatalouden ympäristötuen vähimmäisvaatimuksiin liittyvän koulutuksen hyväksymisestä vuonna 2007](504.md) `504/2007`
+- [Valtioneuvoston asetus valtion virkaehtosopimusasetuksen muuttamisesta](505.md) `505/2007`
+- [Valtioneuvoston asetus luonnonhaittakorvausten ja maatalouden ympäristötuen hakemisesta vuonna 2007](506.md) `506/2007`
+- [Valtioneuvoston kanslian asetus valtioneuvoston kanslian työjärjestyksen 9 ja 34 §:n muuttamisesta](507.md) `507/2007`
+- [Maa\- ja metsätalousministeriön työjärjestys](508.md) `508/2007`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain 11 §:n mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista](509.md) `509/2007`
+- [Verohallituksen päätös ilmoittamisvelvollisuudesta ja muistiinpanoista annetun päätöksen muuttamisesta](510.md) `510/2007`
+- [Valtioneuvoston asetus vuodelta 2007 maksettavasta luonnonhaittakorvauksen kansallisesta lisäosasta](511.md) `511/2007`
+- [Valtioneuvoston asetus vuodelta 2006 maksettavasta eräiden peltokasvien ja nautojen tuotantopalkkiosta annetun valtioneuvoston asetuksen 7 §:n muuttamisesta](512.md) `512/2007`
+- [Valtioneuvoston asetus liikenne\- ja viestintäministeriöstä annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](513.md) `513/2007`
+- [Valtioneuvoston asetus Vakuutusvalvontavirastosta annetun asetuksen muuttamisesta](514.md) `514/2007`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](515.md) `515/2007`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Ylihärmän ja Ylistaron kuntien välillä](516.md) `516/2007`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2007 maa\- ja puutarhatalouden kansallisten tukien hakuajoista ja hakemisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](517.md) `517/2007`
+- [Ympäristöministeriön asetus biosidivalmisteita ja niiden tehoaineita koskevista hakemuksista ja ilmoituksista annetun ympäristöministeriön asetuksen muuttamisesta](518.md) `518/2007`
+- [Laki kuntalain muuttamisesta](519.md) `519/2007`
+- [Sisäasiainministeriön asetus säteilyvaaratilanteiden varalle laadittavista pelastustoimen suunnitelmista ja säteilyvaarasta tiedottamisesta](520.md) `520/2007`
+- [Kauppa\- ja teollisuusministeriön asetus ravintolisistä annetun kauppa\- ja teollisuusministeriön asetuksen muuttamisesta](521.md) `521/2007`
+- [Sisäasiainministeriön asetus muuttoilmoituksen johdosta tehtävistä merkinnöistä väestötietojärjestelmään](522.md) `522/2007`
+- [Maa\- ja metsätalousministeriön asetus eräiden tuotantoeläinten sekä niiden alkioiden ja sukusolujen eläintautivaatimuksista Euroopan yhteisön sisämarkkinoilla annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen muuttamisesta](523.md) `523/2007`
+- [Maa\- ja metsätalousministeriön asetus eräiden eläinten ja tavaroiden eläintautivaatimuksista Euroopan yhteisön sisämarkkinoilla annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](524.md) `524/2007`
+- [Maa\- ja metsätalousministeriön asetus eläintautien vastustamiseksi suoritettavista tarkastuksista Euroopan yhteisön sisämarkkinoilla annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](525.md) `525/2007`
+- [Maa\- ja metsätalousministeriön asetus Suomen kilohailikiintiön käyttämisestä vuonna 2007](526.md) `526/2007`
+- [Luottotietolaki](527.md) `527/2007`
+- [Laki henkilötietolain muuttamisesta](528.md) `528/2007`
+- [Laki tietosuojalautakunnasta ja tietosuojavaltuutetusta annetun lain 1 ja 5 §:n muuttamisesta](529.md) `529/2007`
+- [Valtioneuvoston asetus kunnallistalouden ja \-hallinnon neuvottelukunnasta annetun asetuksen muuttamisesta](530.md) `530/2007`
+- [Laki rikoslain muuttamisesta](531.md) `531/2007`
+- [Laki ampuma\-aselain muuttamisesta](532.md) `532/2007`
+- [Laki järjestyslain muuttamisesta](533.md) `533/2007`
+- [Tasavallan presidentin asetus Etiopian kanssa sijoitusten edistämisestä ja suojaamisesta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](534.md) `534/2007`
+- [Tasavallan presidentin asetus kemiallisten aseiden kehittämisen, tuotannon, varastoinnin ja käytön kieltämistä sekä niiden hävittämistä koskevan yleissopimuksen voimaansaattamisesta sekä yleissopimuksen eräiden määräysten hyväksymisestä ja sen soveltamisesta annetun lain voimaantulosta annetun asetuksen muuttamisesta](535.md) `535/2007`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta tiellä annetun valtioneuvoston asetuksen muuttamisesta](536.md) `536/2007`
+- [Valtioneuvoston asetus vaarallisten aineiden maakuljetusten turvallisuusneuvonantajasta annetun valtioneuvoston asetuksen 7 §:n muuttamisesta](537.md) `537/2007`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta rautatiellä annetun valtioneuvoston asetuksen muuttamisesta](538.md) `538/2007`
+- [Laki Euroopan neuvoston tietoverkkorikollisuutta koskevan yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](539.md) `539/2007`
+- [Laki rikoslain muuttamisesta](540.md) `540/2007`
+- [Laki pakkokeinolain 4 luvun muuttamisesta](541.md) `541/2007`
+- [Laki esitutkintalain 27 ja 28 §:n muuttamisesta](542.md) `542/2007`
+- [Laki kansainvälisestä oikeusavusta rikosasioissa annetun lain 15 ja 23 §:n muuttamisesta](543.md) `543/2007`
+- [Kestävän metsätalouden rahoituslaki](544.md) `544/2007`
+- [Laki tuloverolain 53 §:n muuttamisesta](545.md) `545/2007`
+- [Kauppa\- ja teollisuusministeriön asetus elintarvikelisäaineiden puhtausvaatimuksista ja eräistä määritysmenetelmistä](546.md) `546/2007`
+- [Laki ihmisen elimien ja kudoksien lääketieteellisestä käytöstä annetun lain muuttamisesta](547.md) `547/2007`
+- [Valtioneuvoston asetus maaseudun kehittämiseen myönnettävistä tuista annetun lain voimaantulosta](548.md) `548/2007`
+- [Valtioneuvoston asetus syöpää aiheuttavia, perimää vaurioittavia ja lisääntymiselle vaarallisia aineita koskevista kielloista ja rajoituksista annetun valtioneuvoston asetuksen liitteen 2 muuttamisesta](549.md) `549/2007`
+- [Valtioneuvoston asetus polysyklisten aromaattisten hiilivetyjen käytön rajoittamisesta ajoneuvojen ja maatalouskoneiden renkaiden pehmittimissä](550.md) `550/2007`
+- [Laki puolustusvoimista](551.md) `551/2007`
+- [Laki sotalaitokselle rauhanaikana annettavista luontaissuorituksista annetun lain kumoamisesta](552.md) `552/2007`
+- [Laki rikoslain 45 luvun 26 a §:n kumoamisesta](553.md) `553/2007`
+- [Laki rajavartiolain 35 ja 39 §:n muuttamisesta](554.md) `554/2007`
+- [Laki rajavartiolaitoksen hallinnosta annetun lain 31 §:n muuttamisesta](555.md) `555/2007`
+- [Laki vapaaehtoisesta maanpuolustuksesta](556.md) `556/2007`
+- [Laki rajavartiolain 25 §:n muuttamisesta](557.md) `557/2007`
+- [Laki naisten vapaaehtoisesta asepalveluksesta annetun lain 3 §:n muuttamisesta](558.md) `558/2007`
+- [Laki puolustusvoimien virka\-avusta poliisille annetun lain 3 ja 5 §:n muuttamisesta](559.md) `559/2007`
+- [Laki poliisilain 45 a §:n muuttamisesta](560.md) `560/2007`
+- [Laki sotilastapaturmalain 1 §:n muuttamisesta](561.md) `561/2007`
+- [Laki työturvallisuuslain 6 §:n muuttamisesta](562.md) `562/2007`
+- [Laki rikoslain 45 luvun 27 §:n muuttamisesta](563.md) `563/2007`
+- [Laki valtioneuvoston oikeuskanslerin ja eduskunnan oikeusasiamiehen tehtävien jaosta annetun lain 1 §:n muuttamisesta](564.md) `564/2007`
+- [Valtioneuvoston asetus jäteasetuksen muuttamisesta](565.md) `565/2007`
+- [Valtioneuvoston asetus investointituesta ja kehittämistuesta maataloustuotteiden jalostukseen ja markkinointiin annetun valtioneuvoston asetuksen muuttamisesta](566.md) `566/2007`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista](567.md) `567/2007`
+- [Kansaneläkelaki](568.md) `568/2007`
+- [Laki kansaneläkelain voimaanpanosta](569.md) `569/2007`
+- [Laki vammaisetuuksista](570.md) `570/2007`
+- [Laki eläkkeensaajan asumistuesta](571.md) `571/2007`
+- [Laki rintamasotilaseläkelain muuttamisesta](572.md) `572/2007`
+- [Laki ulkomaille maksettavasta rintamalisästä annetun lain 2 ja 10 §:n muuttamisesta](573.md) `573/2007`
+- [Laki eräiden pitkäaikaisesti työttöminä olleiden henkilöiden eläketuesta annetun lain muuttamisesta](574.md) `574/2007`
+- [Laki maahanmuuttajan erityistuesta annetun lain muuttamisesta](575.md) `575/2007`
+- [Laki työttömyysturvalain 9 luvun 3 §:n muuttamisesta](576.md) `576/2007`
+- [Laki sotilasavustuslain muuttamisesta](577.md) `577/2007`
+- [Laki sotilasvammalain muuttamisesta](578.md) `578/2007`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain muuttamisesta](579.md) `579/2007`
+- [Laki asumistukilain muuttamisesta](580.md) `580/2007`
+- [Laki maatalousyrittäjien luopumistuesta annetun lain 19 §:n muuttamisesta](581.md) `581/2007`
+- [Laki maatalousyrittäjien sukupolvenvaihdoseläkkeestä annetun lain 16 §:n muuttamisesta](582.md) `582/2007`
+- [Laki toimeentulotuesta annetun lain 9 ja 11 §:n muuttamisesta](583.md) `583/2007`
+- [Laki sosiaalihuoltolain muuttamisesta](584.md) `584/2007`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 10 a §:n muuttamisesta](585.md) `585/2007`
+- [Laki asumiseen perustuvan sosiaaliturvalainsäädännön soveltamisesta annetun lain 1 §:n muuttamisesta](586.md) `586/2007`
+- [Laki Kansaneläkelaitoksesta annetun lain muuttamisesta](587.md) `587/2007`
+- [Laki alkoholilain muuttamisesta](588.md) `588/2007`
+- [Valtioneuvoston asetus valtion virkamiesasetuksen 1 §:n muuttamisesta](589.md) `589/2007`
+- [Valtioneuvoston asetus peruskuivatustoiminnan tukemisesta annetun asetuksen muuttamisesta](590.md) `590/2007`
+- [Valtioneuvoston asetus Euroopan yhteisön kokonaan tai osittain rahoittamien pinta\-alaperusteisten tukien valvonnasta](591.md) `591/2007`
+- [Valtioneuvoston asetus Euroopan yhteisön kokonaan rahoittamien eläintukien valvonnasta](592.md) `592/2007`
+- [Valtioneuvoston asetus koltta\-asetuksen muuttamisesta](593.md) `593/2007`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten aineiden kuljetuksesta tiellä annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](594.md) `594/2007`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten aineiden kuljetuksesta rautatiellä annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](595.md) `595/2007`
+- [Laki Suomen perustuslain 35 ja 90 §:n muuttamisesta](596.md) `596/2007`
+- [Laki valtiontalouden tarkastusvirastosta annetun lain 3 ja 5 §:n muuttamisesta](597.md) `597/2007`
+- [Laki valtiontilintarkastajain eräistä tarkastus\- ja tiedonsaantioikeuksista annetun lain kumoamisesta](598.md) `598/2007`
+- [Laki valtiontilintarkastajien ja valtiontalouden tarkastusviraston oikeudesta tarkastaa eräitä Suomen ja Euroopan yhteisöjen välisiä varainsiirtoja annetun lain muuttamisesta](599.md) `599/2007`
+- [Laki valtion liikelaitoksista annetun lain 15 §:n muuttamisesta](600.md) `600/2007`
+- [Laki valtion vakuusrahastosta annetun lain 7 ja 18 §:n muuttamisesta](601.md) `601/2007`
+- [Laki maatalouden interventiorahastosta annetun lain 8 §:n muuttamisesta](602.md) `602/2007`
+- [Laki arkistolain 1 §:n muuttamisesta](603.md) `603/2007`
+- [Laki valtion virkamieslain 3 ja 65 §:n muuttamisesta](604.md) `604/2007`
+- [Laki turvallisuusselvityksistä annetun lain 4 §:n muuttamisesta](605.md) `605/2007`
+- [Laki yhteistoiminnasta valtion virastoissa ja laitoksissa annetun lain 2 §:n muuttamisesta](606.md) `606/2007`
+- [Laki valtion maksuperustelain 1 ja 10 §:n muuttamisesta](607.md) `607/2007`
+- [Laki eduskunnan virkamiehistä annetun lain muuttamisesta](608.md) `608/2007`
+- [Eduskunnan päätös eduskunnan työjärjestyksen muuttamisesta](609.md) `609/2007`
+- [Eduskunnan päätös valtiontilintarkastajien johtosäännön kumoamisesta](610.md) `610/2007`
+- [Eduskunnan päätös Eduskunnan kirjaston ohjesäännön 5 §:n muuttamisesta](611.md) `611/2007`
+- [Eduskunnan päätös eduskunnan tilisäännön muuttamisesta](612.md) `612/2007`
+- [Valtioneuvoston asetus oikeusministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](613.md) `613/2007`
+- [Valtioneuvoston asetus julkisista hankinnoista](614.md) `614/2007`
+- [Sosiaali\- ja terveysministeriön asetus eläkesäätiön työntekijän eläkelain voimaanpanolain mukaisista laskuperusteista vuosimaksun korjausmaksun määrittämiseksi](615.md) `615/2007`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötoimitusmaksuista](616.md) `616/2007`
+- [Liikenne\- ja viestintäministeriön ilmoitus pyörillä varustettujen ajoneuvojen määräajoin toistettavien katsastusten yhdenmukaisten ehtojen hyväksymisestä sekä näiden katsastusten vastavuoroisesta tunnustamisesta tehtyyn sopimukseen liitetyn normin 1 muutosten voimaantulosta Ahvenanmaan maakunnassa](617.md) `617/2007`
+- [Laki ulkomaalaisrekisteristä annetun lain muuttamisesta](618.md) `618/2007`
+- [Laki ulkomaalaislain muuttamisesta](619.md) `619/2007`
+- [Laki kansalaisuuslain muuttamisesta](620.md) `620/2007`
+- [Laki ulosottolain 3 luvun 70 §:n muuttamisesta](621.md) `621/2007`
+- [Laki kansaneläkelain 46 e §:n muuttamisesta](622.md) `622/2007`
+- [Laki opiskelijavalintarekisteristä ja ylioppilastutkintorekisteristä annetun lain 5 §:n muuttamisesta](623.md) `623/2007`
+- [Laki sähkömarkkinalain muuttamisesta](624.md) `624/2007`
+- [Valtioneuvoston asetus käräjäoikeuksien tuomiopiireistä yrityksen saneerausta koskevissa asioissa](625.md) `625/2007`
+- [Laki kansanterveyslain muuttamisesta](626.md) `626/2007`
+- [Liikenne\- ja viestintäministeriön työjärjestys](627.md) `627/2007`
+- [Laki kemikaalilain muuttamisesta](628.md) `628/2007`
+- [Laki rikoslain 44 luvun 1 §:n ja 48 luvun 1 §:n muuttamisesta](629.md) `629/2007`
+- [Tasavallan presidentin asetus Maailman ilmatieteellisen järjestön yleissopimuksen muutoksen voimaansaattamisesta](630.md) `630/2007`
+- [Maa\- ja metsätalousministeriön asetus suorien tukien täydentäviin ehtoihin liittyvistä hyvän maatalouden ja ympäristön vähimmäisvaatimuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](631.md) `631/2007`
+- [Valtioneuvoston asetus maaseudun yritystoiminnan tukemisesta](632.md) `632/2007`
+- [Tasavallan presidentin asetus yhteistyöstä astrofysiikan alalla tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](633.md) `633/2007`
+- [Valtioneuvoston asetus maaseudun kehittämiseen liittyvien ohjelmien hallinnoinnista](634.md) `634/2007`
+- [Valtioneuvoston asetus vuodelta 2007 maksettavien kansallisten kasvintuotannon tukien ja kotieläintukien valvonnasta](635.md) `635/2007`
+- [Valtioneuvoston asetus täydentävien ehtojen hyvän maatalouden ja ympäristön vaatimusten sekä ympäristöön liittyvien lakisääteisten hoitovaatimusten valvonnasta](636.md) `636/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta nautojen BSE\-taudin vastustamisesta](637.md) `637/2007`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](638.md) `638/2007`
+- [Valtioneuvoston asetus Euroopan kalatalousrahaston kansallisesta hallinnoinnista ja elinkeinokalataloudelle myönnettävistä tuista](639.md) `639/2007`
+- [Valtioneuvoston asetus kuorma\- ja linja\-auton kuljettajien ammattipätevyydestä](640.md) `640/2007`
+- [Valtioneuvoston asetus vesikulkuneuvorekisteristä](641.md) `641/2007`
+- [Laki ulkomaanedustuksen korvauksista annetun lain 21 §:n muuttamisesta](642.md) `642/2007`
+- [Tasavallan presidentin asetus Maailman terveysjärjestön kansainvälisen terveyssäännöstön \(2005\) voimaansaattamisesta ja terveyssäännöstön lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](643.md) `643/2007`
+- [Valtioneuvoston asetus viestintämarkkinoihin liittyvästä varautumisvelvollisuudesta ja viranomaistiedotteiden välittämisvelvollisuudesta annetun valtioneuvoston asetuksen muuttamisesta](644.md) `644/2007`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon neuvottelukunnasta ja alueellisista johtoryhmistä](645.md) `645/2007`
+- [Oikeusministeriön asetus oikeusministeriön työjärjestyksen muuttamisesta](646.md) `646/2007`
+- [Kauppa\- ja teollisuusministeriön asetus hiilidioksidipäästöjen tarkkailusta ja päästöistä laadittavasta selvityksestä](647.md) `647/2007`
+- [Laki edunvalvontavaltuutuksesta](648.md) `648/2007`
+- [Laki holhoustoimesta annetun lain muuttamisesta](649.md) `649/2007`
+- [Laki oikeudenkäymiskaaren 12 luvun 4 a §:n muuttamisesta](650.md) `650/2007`
+- [Laki hallintolainkäyttölain 19 a §:n muuttamisesta](651.md) `651/2007`
+- [Tasavallan presidentin asetus Suomen ja Ruotsin välillä yhteisestä valvonnasta alkoholitavarain luvattoman maahantuonnin ehkäisemiseksi tehdyn sopimuksen voimaansaattamisesta annetun asetuksen kumoamisesta](652.md) `652/2007`
+- [Laki Euroopan yhteisön rajan yli kuljetettavan käteisrahan valvonnasta](653.md) `653/2007`
+- [Valtioneuvoston asetus valtioneuvoston ohjesäännön 25 §:n muuttamisesta](654.md) `654/2007`
+- [Valtioneuvoston asetus kemikaaliasetuksen muuttamisesta](655.md) `655/2007`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](656.md) `656/2007`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2007 metsänhoitomaksun perusteesta](657.md) `657/2007`
+- [Valtioneuvoston asetus luonnonhaittakorvauksista ja maatalouden ympäristötuista vuosina 2007―2013 annetun valtioneuvoston asetuksen muuttamisesta](658.md) `658/2007`
+- [Valtioneuvoston asetus Euroopan yhteisön kokonaan rahoittamien tukien valvonnasta](659.md) `659/2007`
+- [Valtioneuvoston asetus ympäristötuen ja luonnonhaittakorvauksen valvonnasta](660.md) `660/2007`
+- [Valtioneuvoston asetus päihde\- ja raittiusasiain neuvottelukunnasta annetun asetuksen 3 §:n muuttamisesta](661.md) `661/2007`
+- [Maa\- ja metsätalousministeriön asetus maatalouden ympäristötuen perus\- ja lisätoimenpiteistä ja maatalouden ympäristötuen erityistuista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](662.md) `662/2007`
+- [Laki eräiden naisjärjestöjen valtionavusta](663.md) `663/2007`
+- [Valtioneuvoston asetus Belgian kuningaskunnan, Saksan liittotasavallan, Espanjan kuningaskunnan, Ranskan tasavallan, Luxemburgin suurherttuakunnan, Alankomaiden kuningaskunnan ja Itävallan tasavallan välillä rajat ylittävän yhteistyön tehostamisesta erityisesti terrorismin, rajat ylittävän rikollisuuden ja laittoman muuttoliikkeen torjumiseksi tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta sekä sopimuksen soveltamisesta annetun lain voimaantulosta](664.md) `664/2007`
+- [Valtioneuvoston asetus ampuma\-aselain 17 §:n muuttamisesta annetun lain voimaantulosta](665.md) `665/2007`
+- [Valtioneuvoston asetus poliisilain 53 §:n muuttamisesta annetun lain voimaantulosta](666.md) `666/2007`
+- [Valtioneuvoston asetus henkilötietojen käsittelystä poliisitoimessa annetun lain muuttamisesta annetun lain voimaantulosta](667.md) `667/2007`
+- [Valtioneuvoston asetus ajoneuvoliikennerekisteristä annetun lain 17 §:n muuttamisesta annetun lain voimaantulosta](668.md) `668/2007`
+- [Valtioneuvoston asetus rikoslain 16 luvun 20 §:n ja 40 luvun 12 §:n muuttamisesta annetun lain voimaantulosta](669.md) `669/2007`
+- [Valtioneuvoston asetus ulkomaalaislain muuttamisesta annetun lain voimaantulosta](670.md) `670/2007`
+- [Valtioneuvoston asetus Belgian kuningaskunnan, Saksan liittotasavallan, Espanjan kuningaskunnan, Ranskan tasavallan, Luxemburgin suurherttuakunnan, Alankomaiden kuningaskunnan ja Itävallan tasavallan välillä rajat ylittävän yhteistyön tehostamisesta erityisesti terrorismin, rajat ylittävän rikollisuuden ja laittoman muuttoliikkeen torjumiseksi tehdyn sopimuksen täytäntöönpanosopimuksen voimaansaattamisesta](671.md) `671/2007`
+- [Kauppa\- ja teollisuusministeriön asetus ravintolisistä annetun kauppa\- ja teollisuusministeriön asetuksen 7 §:n muuttamisesta](672.md) `672/2007`
+- [Tasavallan presidentin asetus arvonimistä annetun tasavallan presidentin asetuksen liitteen 1 muuttamisesta](673.md) `673/2007`
+- [Valtioneuvoston asetus valtionavustuksesta yritystoiminnan kehittämiseksi annetun lain voimaantulosta](674.md) `674/2007`
+- [Valtioneuvoston asetus valtionavustuksesta yritystoiminnan kehittämiseksi](675.md) `675/2007`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](676.md) `676/2007`
+- [Valtioneuvoston asetus valtion talousarviosta annetun asetuksen muuttamisesta](677.md) `677/2007`
+- [Valtioneuvoston asetus eräiden lainojen ja saamisten hoidon maksullisuudesta](678.md) `678/2007`
+- [Tasavallan presidentin asetus Norjan kanssa Suomen ja Norjan välisen valtakunnanrajan hoidosta tehdyn sopimuksen voimaansaattamisesta](679.md) `679/2007`
+- [Valtioneuvoston asetus televisio\- ja radiotoimintaan sekä toimiluvanvaraiseen teletoimintaan määrättyjen taajuusalueiden käyttösuunnitelmasta](680.md) `680/2007`
+- [Maa\- ja metsätalousministeriön asetus tilatukijärjestelmästä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](681.md) `681/2007`
+- [Tasavallan presidentin asetus pyörillä varustettujen ajoneuvojen määräajoin toistettavien katsastusten yhdenmukaisten ehtojen hyväksymisestä sekä näiden katsastusten vastavuoroisesta tunnustamisesta tehdyn sopimuksen muutosten voimaansaattamisesta](682.md) `682/2007`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon sähköisen tietohallinnon neuvottelukunnasta](683.md) `683/2007`
+- [Valtioneuvoston asetus ajoneuvojen rekisteröinnistä annetun asetuksen 48 ja 51 §:n muuttamisesta](684.md) `684/2007`
+- [Valtioneuvoston päätös Leivonmäen kunnan liittämisestä Joutsan kuntaan](685.md) `685/2007`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä toimintapääomasta](686.md) `686/2007`
+- [Sisäasiainministeriön asetus pelastusviranomaisen ja Pelastusopiston henkilöstön virkapuvusta, virka\-asematunnuksista sekä pelastusviranomaisen henkilökortista](687.md) `687/2007`
+- [Sisäasiainministeriön asetus pysäköintivirhemaksusta](688.md) `688/2007`
+- [Valtioneuvoston asetus sektoritutkimuksen neuvottelukunnasta](689.md) `689/2007`
+- [Valtioneuvoston asetus aluksista aiheutuvan ympäristön pilaantumisen ehkäisemisestä annetun valtioneuvoston asetuksen 26 c ja 26 d §:n muuttamisesta](690.md) `690/2007`
+- [Valtioneuvoston asetus sähköntuotannon siirtomaksuista sähkönjakeluverkoissa](691.md) `691/2007`
+- [Valtioneuvoston asetus kansanterveysasetuksen 3 §:n muuttamisesta](692.md) `692/2007`
+- [Opetusministeriön asetus yliopistojen koulutusvastuun täsmentämisestä, yliopistojen koulutusohjelmista ja erikoistumiskoulutuksista annetun opetusministeriön asetuksen liitteen VI muuttamisesta](693.md) `693/2007`
+- [Sosiaali\- ja terveysministeriön asetus Koulutusrahastosta annetussa laissa tarkoitetun ammattitutkintostipendin suuruudesta](694.md) `694/2007`
+- [Liikenne\- ja viestintäministeriön asetus Ajoneuvohallintokeskuksen maksuista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](695.md) `695/2007`
+- [Kauppa\- ja teollisuusministeriön asetus Patentti\- ja rekisterihallituksen maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön asetuksen liitteenä olevan maksutaulukon muuttamisesta](696.md) `696/2007`
+- [Maa\- ja metsätalousministeriön asetus eläinten eläinlääkinnällisistä rajatarkastuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](697.md) `697/2007`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön ulkopuolisista maista tuotavasta lihasta ja lihasta jalostetuista tuotteista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](698.md) `698/2007`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön ulkopuolisista maista tuotavista kalastustuotteista ja niistä saaduista raakavalmisteista ja jalosteista sekä elävistä simpukoista, piikkinahkaisista, vaippaeläimistä ja merikotiloista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](699.md) `699/2007`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön ulkopuolisista maista tuotavasta maidosta ja maitopohjaisista tuotteista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](700.md) `700/2007`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön ulkopuolisista maista tuotavista linnunmunista ja munatuotteista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](701.md) `701/2007`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön ulkopuolisista maista tuotavista mehiläistuotteista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](702.md) `702/2007`
+- [Maa\- ja metsätalousministeriön asetus eläimistä saatavien elintarvikkeiden ja muiden tuotteiden eläinlääkinnällisistä rajatarkastuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](703.md) `703/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätösten sekä maa\- ja metsätalousministeriön asetusten kumoamisesta](704.md) `704/2007`
+- [Ulosottokaari](705.md) `705/2007`
+- [Laki verojen ja maksujen täytäntöönpanosta](706.md) `706/2007`
+- [Laki oikeudenkäymiskaaren 7 luvun muuttamisesta](707.md) `707/2007`
+- [Laki velan vanhentumisesta annetun lain 8 ja 17 §:n muuttamisesta](708.md) `708/2007`
+- [Laki konkurssilain muuttamisesta](709.md) `709/2007`
+- [Laki perintökaaren muuttamisesta](710.md) `710/2007`
+- [Laki avioliittolain 45 ja 99 §:n muuttamisesta](711.md) `711/2007`
+- [Laki velkojien maksunsaantijärjestyksestä annetun lain 6 §:n 1 momentin 6 kohdan kumoamisesta](712.md) `712/2007`
+- [Laki viranomaisten toiminnan julkisuudesta annetun lain 11 ja 24 §:n muuttamisesta](713.md) `713/2007`
+- [Laki verojen ja maksujen perimisen turvaamisesta annetun lain 1 ja 6 §:n muuttamisesta](714.md) `714/2007`
+- [Vuoden 2007 toinen lisätalousarvio](715.md) `715/2007`
+- [Valtioneuvoston asetus teknologisen tutkimus\- ja kehittämistoiminnan tuesta annetun valtioneuvoston asetuksen muuttamisesta](716.md) `716/2007`
+- [Valtioneuvoston asetus vuodelta 2006 maksettavasta nurmi\- ja viljakasvien siementuotannon kansallisesta tuesta](717.md) `717/2007`
+- [Valtioneuvoston asetus televisiomaksuista](718.md) `718/2007`
+- [Valtioneuvoston asetus päihdepalvelujen kehittämiseen vuosina 2007―2009 maksettavan valtionavustuksen myöntämisperusteista](719.md) `719/2007`
+- [Työministeriön asetus merimiespalvelutoimistosta](720.md) `720/2007`
+- [Sisäasiainministeriön asetus rajavartiolaitoksen virkamiesten koulutuskustannusten korvaamisesta](721.md) `721/2007`
+- [Sisäasiainministeriön asetus rajavartiolaitoksen turvatarkastajan koulutuksesta](722.md) `722/2007`
+- [Valtioneuvoston asetus maahan tilapäistä käyttöä varten tuotujen moottoriajoneuvojen liikennevakuutukseen liittyvistä tullilaitoksen tehtävistä annetun asetuksen 1 §:n muuttamisesta](723.md) `723/2007`
+- [Kauppa\- ja teollisuusministeriön asetus elintarvikkeiden pakkausmerkinnöistä annetun asetuksen muuttamisesta](724.md) `724/2007`
+- [Kauppa\- ja teollisuusministeriön asetus elintarvikkeiden ravintoarvomerkinnöistä annetun kauppa\- ja teollisuusministeriön päätöksen 12 §:n kumoamisesta](725.md) `725/2007`
+- [Kauppa\- ja teollisuusministeriön asetus vitamiinien, kivennäisaineiden ja eräiden muiden aineiden lisäämisestä elintarvikkeisiin annetun Euroopan parlamentin ja neuvoston asetuksen \(EY\) N:o 1925/2006 voimaantulon edellyttämistä kansallisista järjestelyistä](726.md) `726/2007`
+- [Maa\- ja metsätalousministeriön asetus metsätalouden ympäristötuen laskennassa käytettävästä puukuutiometrin keskikantohinnasta](727.md) `727/2007`
+- [Kauppa\- ja teollisuusministeriön asetus erityisruokavaliovalmisteista annetun kauppa\- ja teollisuusministeriön asetuksen 4 b §:n muuttamisesta](728.md) `728/2007`
+- [Kauppa\- ja teollisuusministeriön asetus laihdutusvalmisteista annetun kauppa\- ja teollisuusministeriön päätöksen 10 §:n muuttamisesta](729.md) `729/2007`
+- [Liikenne\- ja viestintäministeriön asetus taksiliikenteen yrittäjäkurssin opetussisällöstä](730.md) `730/2007`
+- [Sosiaali\- ja terveysministeriön asetus elintarvikkeiden myynnistä ulkotilassa sekä suurten yleisötilaisuuksien hygieenisistä järjestelyistä ja jätehuollosta](731.md) `731/2007`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskorosta](732.md) `732/2007`
+- [Laki sosiaali\- ja terveydenhuollon asiakastietojen sähköisestä käsittelystä annetun lain 25 §:n muuttamisesta](733.md) `733/2007`
+- [Valtioneuvoston asetus lasten ja nuorten terveyden ja hyvinvoinnin neuvottelukunnasta](734.md) `734/2007`
+- [Valtioneuvoston asetus tilintarkastuksesta](735.md) `735/2007`
+- [Valtioneuvoston asetus kirjanpitoasetuksen 2 ja 5 a luvun muuttamisesta](736.md) `736/2007`
+- [Opetusministeriön asetus yliopistojen suoritteista perittävistä maksuista](737.md) `737/2007`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2007 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista annetun valtiovarainministeriön asetuksen 2 §:n muuttamisesta](738.md) `738/2007`
+- [Kauppa\- ja teollisuusministeriön asetus Keskuskauppakamarin tilintarkastuslautakunnan ja kauppakamarin tilintarkastusvaliokunnan maksullisista suoritteista](739.md) `739/2007`
+- [Laki maaseutuelinkeinojen tukitehtäviä hoidettaessa noudatettavasta menettelystä annetun lain 10 ja 12 §:n muuttamisesta](740.md) `740/2007`
+- [Laki Geologian tutkimuskeskuksen kemian analyysipalvelujen yhtiöittämisestä](741.md) `741/2007`
+- [Laki liikennevakuutuslain muuttamisesta](742.md) `742/2007`
+- [Laki vakuutusyhtiölain 2 a luvun 10 §:n muuttamisesta](743.md) `743/2007`
+- [Valtioneuvoston asetus verovirastoista](744.md) `744/2007`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen 23 §:n muuttamisesta](745.md) `745/2007`
+- [Valtioneuvoston päätös kuntajaon muuttamisesta Sipoon kunnan, Vantaan kaupungin ja Helsingin kaupungin välillä](746.md) `746/2007`
+- [Laki jätelain muuttamisesta](747.md) `747/2007`
+- [Laki rikoslain 48 luvun 1 §:n muuttamisesta](748.md) `748/2007`
+- [Ympäristöministeriön asetus Suomen ympäristökeskuksen maksullisista suoritteista annetun asetuksen liitteen 1 ja 2 §:n muuttamisesta](749.md) `749/2007`
+- [Maa\- ja metsätalousministeriön asetus Elintarviketurvallisuusviraston maksullisista suoritteista annetun maa\- ja metsätalousministeriön asetuksen liitteen muuttamisesta](750.md) `750/2007`
+- [Maa\- ja metsätalousministeriön asetus maatilatalouden investointitukien hakuajan päättymisestä](751.md) `751/2007`
+- [Kauppa\- ja teollisuusministeriön asetus elintarvikkeissa ja alkoholijuomissa käytettävistä muista lisäaineista kuin makeutusaineista ja väreistä](752.md) `752/2007`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden vieraiden aineiden näytteenotto\- ja määritysmenetelmistä annetun asetuksen kumoamisesta](753.md) `753/2007`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](754.md) `754/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta lampaiden ja vuohien TSE\-tautien vastustamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](755.md) `755/2007`
+- [Laki valmisteverotuslain muuttamisesta](756.md) `756/2007`
+- [Valtioneuvoston asetus satovahinkojen korvaamisesta annetun valtioneuvoston asetuksen 7 §:n muuttamisesta](757.md) `757/2007`
+- [Valtioneuvoston asetus jäteasetuksen eräiden säännösten kumoamisesta](758.md) `758/2007`
+- [Maa\- ja metsätalousministeriön asetus Suomen lipun alla purjehtivien tai Suomessa rekisteröityjen alusten harjoittaman kohdennetun kilohailin kalastuksen keskeyttämisestä](759.md) `759/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vihanneskasvien taimiaineiston tuottamisesta ja markkinoimisesta annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](760.md) `760/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vihanneskasvien siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](761.md) `761/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvilajikkeiden lajikeluettelosta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](762.md) `762/2007`
+- [Laki Amerikan yhdysvaltain kanssa elatusvelvollisuuden täytäntöönpanosta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](763.md) `763/2007`
+- [Laki Makedonian kanssa yhteistyöstä ja keskinäisestä avunannosta tulliasioissa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](764.md) `764/2007`
+- [Ympäristöministeriön asetus rakennuksen energiatodistuksesta](765.md) `765/2007`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta Korean demokraattiseen kansantasavaltaan kohdistuvista rajoittavista toimenpiteistä](766.md) `766/2007`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta Iraniin kohdistuvista rajoittavista toimenpiteistä](767.md) `767/2007`
+- [Tasavallan presidentin asetus Euroopan neuvoston tietoverkkorikollisuutta koskevan yleissopimuksen voimaansaattamisesta ja yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](768.md) `768/2007`
+- [Tasavallan presidentin asetus Suomen ja Andien yhteisön välistä alueellisen biodiversiteettiohjelman ohjelmointivaihetta Andien yhteisön jäsenmaissa Andien ja Amazonaksen alueilla koskevan sopimuksen voimaansaattamisesta](769.md) `769/2007`
+- [Maa\- ja metsätalousministeriön asetus maataloustuotteiden vientituki\- ja vakuus\- sekä tuonti\-, vienti\- ja ennakkovahvistustodistusjärjestelmän täytäntöönpanosta annetun asetuksen 2―5 §:n kumoamisesta](770.md) `770/2007`
+- [Liikenne\- ja viestintäministeriön asetus ajoneuvon renkaiden nastoista annetun liikenne\- ja viestintäministeriön asetuksen 5 ja 6 §:n muuttamisesta](771.md) `771/2007`
+- [Maa\- ja metsätalousministeriön asetus Maaseutuviraston maksullisista suoritteista](772.md) `772/2007`
+- [Valtioneuvoston asetus ihmisen elimien ja kudoksien lääketieteellisestä käytöstä annetun valtioneuvoston asetuksen muuttamisesta](773.md) `773/2007`
+- [Työministeriön asetus työhallinnon maksullisista suoritteista annetun asetuksen muuttamisesta](774.md) `774/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta perunan vaalean rengasmädän torjunnasta](775.md) `775/2007`
+- [Valtioneuvoston asetus Bolivian kanssa tehdyn viisumivapaussopimuksen voimaansaattamisesta annetun asetuksen kumoamisesta](776.md) `776/2007`
+- [Valtioneuvoston asetus Bolivian diplomaattipassin tai virkapassin haltijoiden vapauttamisesta viisumivelvollisuudesta](777.md) `777/2007`
+- [Valtioneuvoston asetus ajokorttiasetuksen 20 §:n 3 momentin muuttamisesta](778.md) `778/2007`
+- [Kauppa\- ja teollisuusministeriön asetus elintarvikkeissa ja alkoholijuomissa käytettävistä makeutusaineista annetun kauppa\- ja teollisuusministeriön asetuksen 9 § 4 momentin kumoamisesta](779.md) `779/2007`
+- [Liikenne\- ja viestintäministeriön asetus taksitaksasta](780.md) `780/2007`
+- [Laki poliisin hallinnosta annetun lain muuttamisesta](781.md) `781/2007`
+- [Laki poliisikoulutuksesta annetun lain 1 §:n muuttamisesta](782.md) `782/2007`
+- [Tasavallan presidentin asetus Suomen ja Georgian välillä Suomen avusta ympäristöntilan seuranta\- ja hallintajärjestelmien kehittämiselle Georgiassa tehdyn sopimuksen voimaansaattamisesta](783.md) `783/2007`
+- [Tasavallan presidentin asetus Etelämannerta koskevaan sopimukseen liittyvän ympäristösuojelupöytäkirjan liitteen II muutoksen voimaansaattamisesta](784.md) `784/2007`
+- [Tasavallan presidentin asetus Etelämantereen ympäristönsuojeluasetuksen 5 §:n muuttamisesta](785.md) `785/2007`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun asetuksen 7 §:n muuttamisesta](786.md) `786/2007`
+- [Valtioneuvoston asetus arseeniyhdisteiden, elohopeayhdisteiden ja dibutyylitinavetyboraatin sekä niitä sisältävien valmisteiden ja tuotteiden markkinoille luovuttamisen ja käytön rajoittamisesta](787.md) `787/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvituotteiden markkinoinnissa noudatettavista kasvinterveyden suojelun vaatimuksista annetun maa\- ja metsätalousministeriön asetuksen liitteen VIII muuttamisesta](788.md) `788/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvituotteiden maahantuonnissa ja maastaviennissä noudatettavista kasvinterveyden suojelun vaatimuksista annetun maa\- ja metsätalousministeriön asetuksen liitteen VIII muuttamisesta](789.md) `789/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vieraista aineista eläimistä saatavissa elintarvikkeissa annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](790.md) `790/2007`
+- [Maa\- ja metsätalousministeriön asetus eräiden tehtävien siirrosta tullilaitoksen hoidettavaksi](791.md) `791/2007`
+- [Laki opintotukilain muuttamisesta](792.md) `792/2007`
+- [Valtioneuvoston asetus metsästysasetuksen muuttamisesta](793.md) `793/2007`
+- [Valtioneuvoston asetus autoverolain muuttamisesta annetun lain 61 §:n voimaantulosta](794.md) `794/2007`
+- [Sosiaali\- ja terveysministeriön asetus haitallisiksi tunnetuista pitoisuuksista](795.md) `795/2007`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](796.md) `796/2007`
+- [Laki liikenneväylien ja yleisten alueiden rakennustuotteiden hyväksynnästä](797.md) `797/2007`
+- [Valtioneuvoston asetus polttoaineteholtaan vähintään 50 megawatin polttolaitosten ja kaasuturbiinien rikkidioksidi\-, typenoksidi\- ja hiukkaspäästöjen rajoittamisesta annetun valtioneuvoston asetuksen muuttamisesta](798.md) `798/2007`
+- [Opetusministeriön asetus oppisopimuskoulutuksessa olevan opiskelijan opintososiaalisista eduista tietopuolisen opetuksen aikana](799.md) `799/2007`
+- [Maa\- ja metsätalousministeriön asetus Suomen lipun alla purjehtivien tai Suomessa rekisteröityjen alusten harjoittaman punakampelan kalastuksen keskeyttämisestä](800.md) `800/2007`
+- [Maa\- ja metsätalousministeriön asetus Suomen lipun alla purjehtivien tai Suomessa rekisteröityjen alusten harjoittaman turskan kalastuksen keskeyttämisestä](801.md) `801/2007`
+- [Laki Suomen perustuslain 9 ja 38 §:n muuttamisesta](802.md) `802/2007`
+- [Laki valtakunnanoikeudesta ja ministerivastuuasioiden käsittelystä annetun lain 1 §:n muuttamisesta](803.md) `803/2007`
+- [Laki eduskunnan oikeusasiamiehestä annetun lain muuttamisesta](804.md) `804/2007`
+- [Tasavallan presidentin asetus Makedonian kanssa yhteistyöstä ja keskinäisestä avunannosta tulliasioissa tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](805.md) `805/2007`
+- [Tasavallan presidentin asetus kansainvälisen suu\- ja sorkkatautirokotepankin perustamista koskevan sopimuksen voimaansaattamisesta annetun asetuksen kumoamisesta](806.md) `806/2007`
+- [Valtioneuvoston asetus Ecuadorin kanssa tehdyn viisumivapaussopimuksen voimaansaattamisesta annetun asetuksen kumoamisesta](807.md) `807/2007`
+- [Laki rikoslain 2 a luvun 2 §:n ja 16 luvun 6 §:n muuttamisesta](808.md) `808/2007`
+- [Valtioneuvoston asetus päiväsakon rahamäärästä annetun asetuksen 1 ja 4 §:n muuttamisesta](809.md) `809/2007`
+- [Valtioneuvoston asetus Hallinnon tietotekniikkakeskuksesta](810.md) `810/2007`
+- [Valtioneuvoston asetus patentti\- ja rekisterihallituksesta annetun asetuksen 3 §:n 2 momentin muuttamisesta](811.md) `811/2007`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon vuoden 2007 voimavaroista annetun valtioneuvoston asetuksen muuttamisesta](812.md) `812/2007`
+- [Sosiaali\- ja terveysministeriön asetus Terveydenhuollon oikeusturvakeskuksen maksullisista suoritteista](813.md) `813/2007`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](814.md) `814/2007`
+- [Maa\- ja metsätalousministeriön asetus turskan kalastuksesta, eräiden pyydysten käytön rajoittamisesta ja lajittelemattoman saaliin purkamisesta vuonna 2007 annetun maa\- ja metsätalousministeriön asetuksen 2 §:n muuttamisesta](815.md) `815/2007`
+- [Verohallituksen päätös ennakonpidätysvelvollisuudesta vapauttamisesta](816.md) `816/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinsuojeluaineissa sallituista tehoaineista ja niiden käytön ehdoista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](817.md) `817/2007`
+- [Valtiovarainministeriön asetus eräistä arvopaperimarkkinalain 2 luvun 3 a §:ssä ja kiinteistörahastolain 22 §:ssä tarkoitetuista esitteistä](818.md) `818/2007`
+- [Valtiovarainministeriön asetus kiinteistörahastolain nojalla annettavien tietojen vähimmäisvaatimuksista](819.md) `819/2007`
+- [Valtiovarainministeriön asetus rahastoyhtiön tilinpäätöksestä ja toimintakertomuksesta sekä sijoitusrahaston tilinpäätöksestä, toimintakertomuksesta ja puolivuotiskatsauksesta](820.md) `820/2007`
+- [Valtiovarainministeriön asetus rahastoesitteestä ja yksinkertaistetusta rahastoesitteestä](821.md) `821/2007`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](822.md) `822/2007`
+- [Opetusministeriön asetus opetusministeriön työjärjestyksen 7 ja 16 §:n muuttamisesta](823.md) `823/2007`
+- [Opetusministeriön asetus Valtion elokuvatarkastamon ja elokuvalautakunnan suoritteiden maksullisuudesta annetun opetusministeriön asetuksen 1 §:n muuttamisesta](824.md) `824/2007`
+- [Sosiaali\- ja terveysministeriön asetus hedelmöityshoidoista](825.md) `825/2007`
+- [Laki painelaitelain muuttamisesta](826.md) `826/2007`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveydenhuollon tuotevalvontakeskuksen maksullisista suoritteista annetun sosiaali\- ja terveysministeriön asetuksen väliaikaisesta muuttamisesta](827.md) `827/2007`
+- [Laki pohjoismaiden välillä tehdyn avioliittoa, lapseksiottamista ja holhousta koskevia kansainvälisyksityisoikeudellisia määräyksiä sisältävän sopimuksen muuttamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](828.md) `828/2007`
+- [Valtioneuvoston asetus maaseudun hanketoiminnan tukemisesta](829.md) `829/2007`
+- [Verohallituksen päätös vuoden 2007 kiinteistöverotuksen päättymisestä](830.md) `830/2007`
+- [Valtioneuvoston asetus kuljetusten alueellisesta tukemisesta annetun lain soveltamisalueesta](831.md) `831/2007`
+- [Puolustusministeriön asetus sotilaallisen kriisinhallintahenkilöstön pätevyysvaatimuksista ja palvelussuhteen ehdoista annetun puolustusministeriön asetuksen 16 §:n muuttamisesta](832.md) `832/2007`
+- [Liikenne\- ja viestintäministeriön asetus autojen ja perävaunujen rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen liitteen 1 muuttamisesta](833.md) `833/2007`
+- [Valtiovarainministeriön asetus vuoden 2006 ennakonpalautusten maksamisesta](834.md) `834/2007`
+- [Valtioneuvoston asetus valtakunnanoikeudesta ja ministerivastuuasioiden käsittelystä annetun lain 1 §:n muuttamisesta annetun lain voimaantulosta](835.md) `835/2007`
+- [Valtioneuvoston asetus eduskunnan oikeusasiamiehestä annetun lain muuttamisesta annetun lain voimaantulosta](836.md) `836/2007`
+- [Valtioneuvoston asetus kasvilajikelautakunnasta annetun asetuksen kumoamisesta](837.md) `837/2007`
+- [Maa\- ja metsätalousministeriön asetus kalojen VHS\-taudin vuoksi Ahvenanmaan maakuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](838.md) `838/2007`
+- [Maa\- ja metsätalousministeriön asetus kalojen VHS\-taudin vuoksi Uudenkaupungin, Pyhärannan ja Rauman kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](839.md) `839/2007`
+- [Maa\- ja metsätalousministeriön asetus kalojen VHS\-taudin vuoksi Pyhtään kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](840.md) `840/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta Ralstonia solanacearum \-tuhoojan torjunnasta](841.md) `841/2007`
+- [Verohallituksen päätös muiden verovelvollisten kuin yhteisöjen ja yhteisetuuksien verovuoden 2006 verotuksen päättymisestä](842.md) `842/2007`
+- [Valtioneuvoston asetus elokuvataiteen edistämisestä](843.md) `843/2007`
+- [Valtioneuvoston asetus kasvinjalostajanoikeudesta annetun asetuksen muuttamisesta](844.md) `844/2007`
+- [Liikenne\- ja viestintäministeriön asetus traktorien, moottorityökoneiden ja maastoajoneuvojen, niiden perävaunujen sekä hinattavien laitteiden rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen liitteen 1 muuttamisesta](845.md) `845/2007`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Kiimingin ja Haukiputaan kuntien välillä](846.md) `846/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden porotalouden ja luontaiselinkeinojen rahoituslain mukaisten asuntolainojen viitekorosta](847.md) `847/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden maatilalain mukaisten myyntihintasaamisten ja lainojen viitekorosta](848.md) `848/2007`
+- [Tasavallan presidentin asetus Etelämannerta koskevaan sopimukseen liittyvän ympäristönsuojelupöytäkirjan liitteen V alaisten toimenpiteiden voimaansaattamisesta](849.md) `849/2007`
+- [Tasavallan presidentin asetus Amerikan yhdysvaltojen kanssa elatusvelvollisuuden täytäntöönpanosta tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](850.md) `850/2007`
+- [Valtiovarainministeriön asetus Itsenäisyyden 90\-vuotisjuhlarahoista](851.md) `851/2007`
+- [Liikenne\- ja viestintäministeriön asetus kaksi\- ja kolmipyöräisten ajoneuvojen sekä nelipyörien rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen liitteen 1 muuttamisesta](852.md) `852/2007`
+- [Verohallituksen päätös Konserniverokeskuksessa verotettavista nimetyistä verovelvollisista](853.md) `853/2007`
+- [Laki sotilasoikeudenkäyntiasioita käsittelevistä yleisistä alioikeuksista annetun lain 1 §:n muuttamisesta](854.md) `854/2007`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon vuoden 2008 voimavaroista](855.md) `855/2007`
+- [Kauppa\- ja teollisuusministeriön asetus juustosta](856.md) `856/2007`
+- [Ulkoasiainministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoasiainministeriön asetuksen muuttamisesta](857.md) `857/2007`
+- [Työministeriön asetus merimiesasiain neuvottelukunnasta](858.md) `858/2007`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](859.md) `859/2007`
+- [Valtioneuvoston asetus valtion rahoituksen perusteena käytettävistä opetus\- ja kirjastotoimen keskimääräisistä yksikköhinnoista vuonna 2008](860.md) `860/2007`
+- [Valtioneuvoston asetus maaseudun kehittämiseen liittyvien ohjelmien hallinnoinnista annetun valtioneuvoston asetuksen muuttamisesta](861.md) `861/2007`
+- [Sisäasiainministeriön asetus rekisterihallinnon suoritteiden maksuista annetun asetuksen muuttamisesta](862.md) `862/2007`
+- [Sisäasiainministeriön asetus vesikulkuneuvorekisterin pitämiseen kuuluvien tehtävien määräämisestä](863.md) `863/2007`
+- [Sisäasiainministeriön asetus Seinäjoen maistraatin sijaintipaikasta ja yksiköistä](864.md) `864/2007`
+- [Valtioneuvoston asetus ulosottopiireistä](865.md) `865/2007`
+- [Oikeusministeriön päätös ulosottovirastojen toimipaikoista](866.md) `866/2007`
+- [Valtioneuvoston asetus oikeusavusta annetun asetuksen muuttamisesta](867.md) `867/2007`
+- [Oikeusministeriön asetus käräjäoikeuksien kanslioiden ja istuntopaikkojen sijainnista annetun oikeusministeriön asetuksen 1 §:n muuttamisesta](868.md) `868/2007`
+- [Maa\- ja metsätalousministeriön asetus Suomen vuoden 2007 turskakiintiön käyttämisestä](869.md) `869/2007`
+- [Laki vakuutusyhtiölain 18 luvun muuttamisesta](870.md) `870/2007`
+- [Laki vakuutusyhdistyslain 16 luvun muuttamisesta](871.md) `871/2007`
+- [Laki ulkomaisista vakuutusyhtiöistä annetun lain muuttamisesta](872.md) `872/2007`
+- [Laki työeläkevakuutusyhtiöistä annetun lain 1 §:n muuttamisesta](873.md) `873/2007`
+- [Valtioneuvoston asetus tietotekniikan käytöstä tullialalla tehdyn yleissopimuksen muuttamisesta tullitutkintatietokannan osalta tehdyn pöytäkirjan voimaansaattamisesta ja pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](874.md) `874/2007`
+- [Valtioneuvoston asetus tullilain 23 b ja 24 §:n muuttamisesta annetun lain voimaantulosta](875.md) `875/2007`
+- [Valtioneuvoston asetus vuodelta 2007 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 18 §:n muuttamisesta](876.md) `876/2007`
+- [Valtioneuvoston päätös Ylikiimingin kunnan liittämisestä Oulun kaupunkiin](877.md) `877/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta juurikkaiden siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](878.md) `878/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta nurmi\- ja rehukasvien siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](879.md) `879/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vihanneskasvien siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](880.md) `880/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta viljakasvien siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](881.md) `881/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta öljy\- ja kuitukasvien siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](882.md) `882/2007`
+- [Laki Australian kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](883.md) `883/2007`
+- [Laki Armenian kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](884.md) `884/2007`
+- [Valtioneuvoston asetus vaarallisten aineiden ilmakuljetuksesta annetun asetuksen muuttamisesta](885.md) `885/2007`
+- [Valtioneuvoston asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen muuttamisesta](886.md) `886/2007`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](887.md) `887/2007`
+- [Kauppa\- ja teollisuusministeriön asetus hiilidioksidipäästöjen todentajien hyväksymismenettelystä ja todentamistehtävän suorittamisesta päästökauppakaudella 2008―2012](888.md) `888/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvilajikkeiden lajikeluettelosta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](889.md) `889/2007`
+- [Laki Kansainvälisen merenpohjajärjestön erioikeuksista ja vapauksista tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](890.md) `890/2007`
+- [Laki sosiaalihuoltolain 29 b §:n muuttamisesta](891.md) `891/2007`
+- [Laki kansanterveyslain muuttamisesta](892.md) `892/2007`
+- [Valtioneuvoston asetus ajoneuvojen rekisteröinnistä](893.md) `893/2007`
+- [Valtioneuvoston asetus ajoneuvojen hyväksynnästä annetun valtioneuvoston asetuksen muuttamisesta](894.md) `894/2007`
+- [Valtioneuvoston asetus liikenteessä käytettävien ajoneuvojen liikennekelpoisuuden valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](895.md) `895/2007`
+- [Valtioneuvoston asetus ajoneuvoliikennerekisterin tiedoista annetun valtioneuvoston asetuksen muuttamisesta](896.md) `896/2007`
+- [Liikenne\- ja viestintäministeriön asetus autojen ja perävaunujen rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen 14 §:n ja liitteen 2 muuttamisesta](897.md) `897/2007`
+- [Liikenne\- ja viestintäministeriön asetus ajoneuvojen katsastusluvista annetun liikenneministeriön päätöksen 6 §:n muuttamisesta](898.md) `898/2007`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Kaustisen, Kälviän ja Ullavan kuntien välillä](899.md) `899/2007`
+- [Laki Kansainvälistä hydrografista järjestöä koskevan yleissopimuksen muuttamisesta tehdyn pöytäkirjan mukaan lukien siihen sisältyvän kansainvälistä merikartoitusjärjestöä koskevan yleissopimuksen konsolidoidun toisinnon lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](900.md) `900/2007`
+- [Kauppa\- ja teollisuusministeriön asetus kosmeettisista valmisteista annetun kauppa\- ja teollisuusministeriön asetuksen muuttamisesta](901.md) `901/2007`
+- [Laki kirkkolain 25 luvun 8 §:n muuttamisesta](902.md) `902/2007`
+- [Tasavallan presidentin asetus Suomen ja Islannin välisen kauppa\- ja merenkulkusopimuksen voimaansaattamisesta annetun asetuksen kumoamisesta ja Suomen ja Islannin välisen kauppa\- ja merenkulkusopimuksen säännöksien hyväksymisestä annetun lain kumoamisesta annetun lain voimaansaattamisesta](903.md) `903/2007`
+- [Tasavallan presidentin asetus Islannin kanssa tehdyn maksusopimuksen voimaansaattamisesta annetun asetuksen kumoamisesta](904.md) `904/2007`
+- [Sosiaali\- ja terveysministeriön asetus eräiden elintarvikehuoneistojen elintarvikehygieniasta](905.md) `905/2007`
+- [Valtiovarainministeriön asetus toimivaltaisista viranomaisista Euroopan unionin jäsenvaltioiden välisissä virka\-apua verotuksen alalla koskevissa asioissa](906.md) `906/2007`
+- [Maa\- ja metsätalousministeriön asetus maataloustuotteiden ja elintarvikkeiden nimisuojasta](907.md) `907/2007`
+- [Valtioneuvoston asetus rekisteröidystä parisuhteesta annetun asetuksen 1 §:n muuttamisesta](908.md) `908/2007`
+- [Valtioneuvoston asetus valtion rahoituksen perusteena käytettävistä opetus\- ja kirjastotoimen keskimääräisistä yksikköhinnoista vuonna 2008](909.md) `909/2007`
+- [Valtioneuvoston asetus aluksen miehityksestä, laivaväen pätevyydestä ja vahdinpidosta annetun asetuksen 1 §:n muuttamisesta](910.md) `910/2007`
+- [Valtioneuvoston asetus maakotkien porotaloudelle aiheuttamien vahinkojen korvaamisesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](911.md) `911/2007`
+- [Laki sairausvakuutuslain muuttamisesta](912.md) `912/2007`
+- [Ympäristöministeriön asetus yhteistoteutushankkeista](913.md) `913/2007`
+- [Ympäristöministeriön asetus ympäristöministeriön maksullisista suoritteista annetun asetuksen muuttamisesta](914.md) `914/2007`
+- [Ulkoasiainministeriön asetus puhtaan kehityksen mekanismin hankkeista](915.md) `915/2007`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 96 §:ssä tarkoitetun palkkakertoimen antamisesta](916.md) `916/2007`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 98 §:ssä tarkoitetun työeläkeindeksin antamisesta](917.md) `917/2007`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain voimaanpanolain 15 §:ssä tarkoitetun indeksiluvun vahvistamisesta](918.md) `918/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta toimenpiteistä kasvintuhoojien hävittämiseksi ja niiden leviämisen estämiseksi annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](919.md) `919/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvituotteiden markkinoinnissa noudatettavista kasvinterveyden suojelun vaatimuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](920.md) `920/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvituotteiden maahantuonnissa ja maastaviennissä noudatettavista kasvinterveyden suojelun vaatimuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](921.md) `921/2007`
+- [Laki sijoituspalveluyrityksistä](922.md) `922/2007`
+- [Laki arvopaperimarkkinalain muuttamisesta](923.md) `923/2007`
+- [Laki kaupankäynnistä vakioiduilla optioilla ja termiineillä annetun lain muuttamisesta](924.md) `924/2007`
+- [Laki rahoitusvakuuslain 3 §:n muuttamisesta](925.md) `925/2007`
+- [Laki arvo\-osuusjärjestelmästä annetun lain 7 §:n muuttamisesta](926.md) `926/2007`
+- [Laki eräistä arvopaperi\- ja valuuttakaupan sekä selvitysjärjestelmän ehdoista annetun lain 1 §:n muuttamisesta](927.md) `927/2007`
+- [Laki sijoitusrahastolain muuttamisesta](928.md) `928/2007`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](929.md) `929/2007`
+- [Laki ulkomaisen sijoituspalveluyrityksen oikeudesta tarjota sijoituspalvelua Suomessa annetun lain muuttamisesta](930.md) `930/2007`
+- [Laki ulkomaisen rahastoyhtiön toiminnasta Suomessa annetun lain 1 §:n muuttamisesta](931.md) `931/2007`
+- [Laki ulkomaisen luotto\- ja rahoituslaitoksen toiminnasta Suomessa annetun lain muuttamisesta](932.md) `932/2007`
+- [Laki Rahoitustarkastuksesta annetun lain muuttamisesta](933.md) `933/2007`
+- [Laki Rahoitustarkastuksen valvontamaksusta annetun lain muuttamisesta](934.md) `934/2007`
+- [Laki rikoslain 51 luvun muuttamisesta](935.md) `935/2007`
+- [Laki indeksiehdon käytön rajoittamisesta annetun lain 2 §:n muuttamisesta](936.md) `936/2007`
+- [Valtiovarainministeriön asetus sijoituspalveluyrityksen toimilupahakemukseen liitettävistä selvityksistä](937.md) `937/2007`
+- [Valtiovarainministeriön asetus rahastoyhtiön ja säilytysyhteisön toimilupahakemukseen liitettävistä selvityksistä](938.md) `938/2007`
+- [Valtiovarainministeriön asetus luottolaitoksen toimilupahakemukseen liitettävistä selvityksistä](939.md) `939/2007`
+- [Valtiovarainministeriön asetus arvopaperin ottamisesta pörssilistalle](940.md) `940/2007`
+- [Valtiovarainministeriön asetus osakkeen likvidistä markkinasta](941.md) `941/2007`
+- [Valtioneuvoston asetus edunvalvontavaltuutuksesta](942.md) `942/2007`
+- [Valtioneuvoston asetus holhoustoimesta annetun asetuksen muuttamisesta](943.md) `943/2007`
+- [Valtioneuvoston asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen 6 §:n muuttamisesta](944.md) `944/2007`
+- [Valtioneuvoston asetus vuodelta 2008 maksettavasta sokerijuurikkaan kansallisesta tuesta](945.md) `945/2007`
+- [Sisäasiainministeriön asetus Lahden maistraatin sijaintipaikasta](946.md) `946/2007`
+- [Sisäasiainministeriön asetus kriisinhallintaan osallistuvan siviilihenkilöstön palvelussuhteen ehdoista annetun sisäasiainministeriön asetuksen liitteen muuttamisesta](947.md) `947/2007`
+- [Opetusministeriön asetus opiskelijaksi ottamisen perusteista lukiokoulutuksessa annetun opetusministeriön asetuksen muuttamisesta](948.md) `948/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta eräiden tuontirajoituksista annettujen päätösten kumoamisesta](949.md) `949/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta puutavarapölkkyjen kappaleittaisten mittausmenetelmien vahvistamisesta annetun maa\- ja metsätalousministeriön asetuksen liitteen muuttamisesta](950.md) `950/2007`
+- [Laki Georgian kanssa sijoitusten edistämisestä ja suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](951.md) `951/2007`
+- [Laki Indonesian kanssa sijoitusten edistämisestä ja suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](952.md) `952/2007`
+- [Laki Jordanian kanssa sijoitusten vastavuoroisesta edistämisestä ja suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](953.md) `953/2007`
+- [Laki Kazakstanin kanssa sijoitusten edistämisestä ja vastavuoroisesta suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](954.md) `954/2007`
+- [Laki tuloverolain 33 a ja 122 §:n muuttamisesta](955.md) `955/2007`
+- [Laki varainsiirtoverolain muuttamisesta](956.md) `956/2007`
+- [Laki elinkeinotulon verottamisesta annetun lain 6 §:n muuttamisesta](957.md) `957/2007`
+- [Laki varojen arvostamisesta verotuksessa annetun lain 4 §:n muuttamisesta](958.md) `958/2007`
+- [Laki verotusmenettelystä annetun lain 17 §:n muuttamisesta](959.md) `959/2007`
+- [Valtioneuvoston asetus vapaaehtoisen maanpuolustuksen neuvottelukunnasta](960.md) `960/2007`
+- [Valtioneuvoston asetus maan jakamisesta sotilaslääneihin ja aluetoimistoihin](961.md) `961/2007`
+- [Valtioneuvoston asetus radoista](962.md) `962/2007`
+- [Tasavallan presidentin asetus Marokon kuningaskunnan kanssa suosituimmuuden soveltamisesta eräissä tapauksissa tehdyn sopimuksen voimaansaattamisesta annetun asetuksen kumoamisesta](963.md) `963/2007`
+- [Tasavallan presidentin asetus Ruotsin kanssa tehdyn maataloustuotekauppaa koskevan sopimuksen ja sen eräiden alkuperäsääntöjen väliaikaisesta muuttamisesta tehdyn sopimuksen voimaansaattamisesta sekä maataloustuotekauppaa koskevan sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta annetun asetuksen kumoamisesta ja Suomen ja Ruotsin välillä tehdyn maataloustuotekauppaa koskevan eräiden määräysten hyväksymisestä annetun lain kumoamisesta annetun lain voimaansaattamisesta](964.md) `964/2007`
+- [Valtioneuvoston asetus korkeakoulujen arviointineuvostosta annetun asetuksen muuttamisesta](965.md) `965/2007`
+- [Opetusministeriön asetus ylioppilastutkintolautakunnan suoritteiden maksullisuudesta annetun opetusministeriön asetuksen 2 §:n 1 momentin muuttamisesta](966.md) `966/2007`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](967.md) `967/2007`
+- [Verohallituksen päätös verotusta koskevasta toimivallan siirrosta ja toimivaltaisesta verovirastosta annetun päätöksen muuttamisesta](968.md) `968/2007`
+- [Verohallituksen päätös matkakuluvähennyksen määrästä vuodelta 2007 toimitettavassa verotuksessa](969.md) `969/2007`
+- [Laki valtioneuvostosta annetun lain 1 §:n muuttamisesta](970.md) `970/2007`
+- [Laki eräiden tehtävien siirtämisestä työ\- ja elinkeinoministeriöön](971.md) `971/2007`
+- [Laki maahanmuuttajien kotouttamisesta ja turvapaikanhakijoiden vastaanotosta annetun lain muuttamisesta](972.md) `972/2007`
+- [Laki ulkomaalaislain muuttamisesta](973.md) `973/2007`
+- [Laki kansalaisuuslain muuttamisesta](974.md) `974/2007`
+- [Laki ulkomaalaisvirastosta annetun lain muuttamisesta](975.md) `975/2007`
+- [Laki säilöön otettujen ulkomaalaisten kohtelusta ja säilöönottoyksiköstä annetun lain muuttamisesta](976.md) `976/2007`
+- [Laki ulkomaalaisrekisteristä annetun lain 3 §:n muuttamisesta](977.md) `977/2007`
+- [Laki yhdenvertaisuuslain 4 ja 21 §:n muuttamisesta](978.md) `978/2007`
+- [Laki vähemmistövaltuutetusta ja syrjintälautakunnasta annetun lain muuttamisesta](979.md) `979/2007`
+- [Laki henkilötietojen käsittelystä rajavartiolaitoksessa annetun lain 22 ja 28 §:n muuttamisesta](980.md) `980/2007`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain 13 ja 19 §:n muuttamisesta](981.md) `981/2007`
+- [Laki hätäkeskuslain 8 §:n muuttamisesta](982.md) `982/2007`
+- [Laki tullilain 26 ja 28 §:n muuttamisesta](983.md) `983/2007`
+- [Laki henkilötietojen käsittelystä rangaistusten täytäntöönpanossa annetun lain 16 ja 19 §:n muuttamisesta](984.md) `984/2007`
+- [Laki kansainvälisestä yhteistoiminnasta eräiden rikosoikeudellisten seuraamusten täytäntöönpanossa annetun lain 24 a §:n muuttamisesta](985.md) `985/2007`
+- [Laki kansaneläkelain 85 ja 90 §:n muuttamisesta](986.md) `986/2007`
+- [Laki ulosottokaaren 3 luvun 70 §:n muuttamisesta](987.md) `987/2007`
+- [Laki eräiden henkilöiden ja virkojen siirtämisestä sisäasiainministeriöön](988.md) `988/2007`
+- [Laki elintarvikelain muuttamisesta](989.md) `989/2007`
+- [Laki Elintarviketurvallisuusvirastosta annetun lain 1 §:n 2 momentin kumoamisesta](990.md) `990/2007`
+- [Laki eräiden virkojen perustamisesta ja eräiden virkojen lakkauttamisesta](991.md) `991/2007`
+- [Laki luopumiseläkelain 13 §:n muuttamisesta](992.md) `992/2007`
+- [Laki Kuluttajavirastosta annetun lain muuttamisesta](993.md) `993/2007`
+- [Laki Suomen ja Tanskan välillä raakaöljyn ja öljytuotteiden vastavuoroisesta varmuusvarastoinnista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](994.md) `994/2007`
+- [Valtioneuvoston asetus luonnonhaittakorvauksista ja maatalouden ympäristötuista vuosina 2007―2013 annetun valtioneuvoston asetuksen muuttamisesta](995.md) `995/2007`
+- [Valtioneuvoston asetus luonnonhaittakorvausten ja maatalouden ympäristötuen hakemisesta vuonna 2007 annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](996.md) `996/2007`
+- [Valtioneuvoston asetus sairausvakuutuslain täytäntöönpanosta annetun valtioneuvoston asetuksen 2 luvun 1 §:n ja 4 luvun 1 §:n muuttamisesta](997.md) `997/2007`
+- [Sosiaali\- ja terveysministeriön asetus lääkäri\- ja hammaslääkärikoulutuksen sekä yliopistotasoisen terveystieteellisen tutkimustoiminnan korvauksen perusteista vuonna 2007 annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](998.md) `998/2007`
+- [Maa\- ja metsätalousministeriön asetus maatalouden ympäristötuen perus\- ja lisätoimenpiteistä ja maatalouden ympäristötuen erityistuista annetun maa\- ja metsätalousministeriön asetuksen 44 §:n kumoamisesta](999.md) `999/2007`
+- [Maa\- ja metsätalousministeriön asetus tilatuen, luonnonhaittakorvauksen, maatalouden ympäristötuen ja maatalouden ympäristötuen erityistukisopimusten hakemisesta sekä maatalouden ympäristötuen vähimmäisvaatimuksiin liittyvän koulutuksen hyväksymisestä vuonna 2007 annetun maa\- ja metsätalousministeriön 25 §:n 3 ja 5 momentin kumoamisesta](1000.md) `1000/2007`
+- [Laki kuntajakolain muuttamisesta](1001.md) `1001/2007`
+- [Laki kunta\- ja palvelurakenneuudistuksesta annetun lain 9 ja 10 §:n muuttamisesta](1002.md) `1002/2007`
+- [Laki seutuyhteistyökokeilusta annetun lain 19 §:n muuttamisesta](1003.md) `1003/2007`
+- [Laki kuntien valtionosuuslain 13 a §:n muuttamisesta](1004.md) `1004/2007`
+- [Laki Kuntien takauskeskuksesta annetun lain muuttamisesta](1005.md) `1005/2007`
+- [Laki kunnallisen eläkelain muuttamisesta](1006.md) `1006/2007`
+- [Laki kunnallisesta työmarkkinalaitoksesta annetun lain 2 §:n muuttamisesta](1007.md) `1007/2007`
+- [Laki perintökaaren 20 luvun 9 a §:n muuttamisesta](1008.md) `1008/2007`
+- [Laki isyyslain 20 §:n muuttamisesta](1009.md) `1009/2007`
+- [Laki nimilain 14 §:n muuttamisesta](1010.md) `1010/2007`
+- [Laki väestötietolain 2 §:n muuttamisesta](1011.md) `1011/2007`
+- [Laki kotikuntalain 7 b ja 9 §:n muuttamisesta](1012.md) `1012/2007`
+- [Laki holhoustoimesta annetun lain 47 a ja 84 §:n muuttamisesta](1013.md) `1013/2007`
+- [Laki holhoustoimen edunvalvontapalveluiden järjestämisestä annetun lain 6 §:n muuttamisesta](1014.md) `1014/2007`
+- [Laki Kainuun hallintokokeilusta annetun lain 6 ja 45 §:n muuttamisesta](1015.md) `1015/2007`
+- [Laki maistraattien eräistä henkilörekistereistä annetun lain 3 §:n muuttamisesta](1016.md) `1016/2007`
+- [Laki vesikulkuneuvorekisteristä annetun lain 3 §:n muuttamisesta](1017.md) `1017/2007`
+- [Laki eräiden henkilöiden ja virkojen siirtämisestä valtiovarainministeriöön](1018.md) `1018/2007`
+- [Laki maatalouden interventiorahastosta annetun lain muuttamisesta](1019.md) `1019/2007`
+- [Tasavallan presidentin asetus Tanskan kanssa Suomen ja Grönlannin välisestä vapaakaupasta tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta annetun asetuksen kumoamisesta sekä Tanskan kanssa Suomen ja Grönlannin välisestä vapaakaupasta tehdyn sopimuksen eräiden määräysten hyväksymisestä annetun lain kumoamisesta annetun lain voimaantulosta](1020.md) `1020/2007`
+- [Valtioneuvoston asetus valtioneuvoston ohjesäännön muuttamisesta](1021.md) `1021/2007`
+- [Valtioneuvoston asetus sisäasiainministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](1022.md) `1022/2007`
+- [Valtioneuvoston asetus valtiovarainministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](1023.md) `1023/2007`
+- [Valtioneuvoston asetus työ\- ja elinkeinoministeriöstä](1024.md) `1024/2007`
+- [Maa\- ja metsätalousministeriön asetus Suomen lipun alla purjehtivien tai Suomessa rekisteröityjen yli 20 metristen kalastusalusten harjoittaman turskan kalastuksen keskeyttämisestä](1025.md) `1025/2007`
+- [Maa\- ja metsätalousministeriön asetus Suomen kilohailikiintiön käyttämisestä vuonna 2007 sekä Suomen lipun alla purjehtivien tai Suomessa rekisteröityjen alusten harjoittaman kohdennetun kilohailin kalastuksen keskeyttämisestä annettujen maa\- ja metsätalousministeriön asetusten kumoamisesta](1026.md) `1026/2007`
+- [Laki potilasturvallisuuden varmistamisesta terveydenhuollon työtaistelun aikana](1027.md) `1027/2007`
+- [Vuoden 2007 kolmas lisätalousarvio](1028.md) `1028/2007`
+- [Tasavallan presidentin asetus Kansainvälisen merenpohjajärjestön erioikeuksista ja vapauksista tehdyn pöytäkirjan voimaansaattamisesta sekä pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1029.md) `1029/2007`
+- [Tasavallan presidentin asetus Pohjoismaiden välillä pääsystä korkeampaan koulutukseen tehdyn sopimuksen muuttamista koskevan sopimuksen voimaansaattamisesta](1030.md) `1030/2007`
+- [Valtioneuvoston asetus kihlakuntien poliisilaitosten toimialueista](1031.md) `1031/2007`
+- [Valtioneuvoston asetus poliisin hallinnosta annetun asetuksen muuttamisesta](1032.md) `1032/2007`
+- [Valtioneuvoston asetus aina määräajaksi täytettävistä viroista annetun asetuksen muuttamisesta](1033.md) `1033/2007`
+- [Valtioneuvoston asetus vuodelta 2007 maksettavasta luonnonhaittakorvauksen kansallisesta lisäosasta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](1034.md) `1034/2007`
+- [Valtioneuvoston asetus sairausvakuutuksen päivärahamaksun ja työnantajan sairausvakuutusmaksun maksuprosentista vuonna 2008](1035.md) `1035/2007`
+- [Valtioneuvoston päätös kihlakuntajaosta annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](1036.md) `1036/2007`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](1037.md) `1037/2007`
+- [Sisäasiainministeriön päätös poliisilaitosten ja niiden palvelutoimistojen sijaintipaikoista](1038.md) `1038/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kotieläinten jalostusjärjestöjen hyväksymisestä annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](1039.md) `1039/2007`
+- [Valtioneuvoston asetus eräistä elintarvikevalvonnan maksuista](1040.md) `1040/2007`
+- [Valtioneuvoston asetus porotaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](1041.md) `1041/2007`
+- [Valtioneuvoston asetus työmarkkina\-alueista annetun valtioneuvoston asetuksen 11 §:n muuttamisesta](1042.md) `1042/2007`
+- [Verohallituksen päätös metsän keskimääräisestä vuotuisesta tuotosta](1043.md) `1043/2007`
+- [Verohallituksen päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](1044.md) `1044/2007`
+- [Valtioneuvoston asetus saaristokunnista ja muiden kuntien saaristo\-osista, joihin sovelletaan saaristokuntaa koskevia säännöksiä, annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1045.md) `1045/2007`
+- [Sosiaali\- ja terveysministeriön asetus vakuutuskassan ja eläkesäätiön tilinpäätöksestä annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1046.md) `1046/2007`
+- [Sosiaali\- ja terveysministeriön asetus vakuutusyrityksen tilinpäätöksestä ja konsernitilinpäätöksestä annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1047.md) `1047/2007`
+- [Maa\- ja metsätalousministeriön asetus alkutuotannolle elintarviketurvallisuuden varmistamiseksi asetettavista vaatimuksista annetun maa\- ja metsätalousministeriön asetuksen 19 §:n muuttamisesta](1048.md) `1048/2007`
+- [Oikeusministeriön asetus valtion oikeusaputoimistojen sekä niiden sivutoimistojen ja sivuvastaanottojen sijainnista](1049.md) `1049/2007`
+- [Laki keskinäisestä oikeusavusta rikosasioissa Euroopan unionin jäsenvaltioiden välillä 29 päivänä toukokuuta 2000 tehdyn yleissopimuksen ja siihen vuonna 2001 liitetyn pöytäkirjan tiettyjen määräysten soveltamisesta Euroopan unionin sekä Islannin tasavallan ja Norjan kuningaskunnan välillä tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1050.md) `1050/2007`
+- [Laki vapautensa menettäneen henkilön väliaikaisesta siirtämisestä todistelutarkoituksessa rikosasioissa annetun lain 7 §:n muuttamisesta](1051.md) `1051/2007`
+- [Laki Slovakian kanssa turvallisuusluokitellun tiedon vastavuoroisesta suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1052.md) `1052/2007`
+- [Laki joukkoliikenteen tarkastusmaksusta annetun lain muuttamisesta](1053.md) `1053/2007`
+- [Laki Pääkaupunkiseudun yhteistyövaltuuskunnasta annetun lain 2 §:n muuttamisesta](1054.md) `1054/2007`
+- [Laki lentoliikenteen valvontamaksusta annetun lain 4 §:n muuttamisesta](1055.md) `1055/2007`
+- [Tasavallan presidentin asetus Australian kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1056.md) `1056/2007`
+- [Valtioneuvoston asetus vuodelta 2007 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 4 ja 5 §:n muuttamisesta](1057.md) `1057/2007`
+- [Valtioneuvoston asetus vuodelta 2007 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 5 ja 13 §:n muuttamisesta](1058.md) `1058/2007`
+- [Valtioneuvoston asetus rautatieliikenteen harjoittajille tarjottavista palveluista](1059.md) `1059/2007`
+- [Valtiovarainministeriön asetus julkishallinnon ja \-talouden tilintarkastajan tutkinnosta ja tutkintoon vaadittavista opinnoista annetun valtiovarainministeriön asetuksen 12 §:n muuttamisesta](1060.md) `1060/2007`
+- [Laki arvonlisäverolain muuttamisesta](1061.md) `1061/2007`
+- [Laki verontilityslain 13 §:n muuttamisesta](1062.md) `1062/2007`
+- [Laki perintö\- ja lahjaverolain muuttamisesta](1063.md) `1063/2007`
+- [Laki varainsiirtoverolain väliaikaisesta muuttamisesta](1064.md) `1064/2007`
+- [Kauppa\- ja teollisuusministeriön asetus elintarvikkeen kanssa kosketukseen joutuvista muovisista tarvikkeista](1065.md) `1065/2007`
+- [Laki teatteri\- ja orkesterilain muuttamisesta](1066.md) `1066/2007`
+- [Laki arkistolain 1 ja 14 §:n muuttamisesta](1067.md) `1067/2007`
+- [Laki televisio\- ja radiotoiminnasta annetun lain muuttamisesta](1068.md) `1068/2007`
+- [Laki valtion televisio\- ja radiorahastosta annetun lain 3 ja 5 §:n muuttamisesta](1069.md) `1069/2007`
+- [Laki apteekkimaksusta annetun lain 2 §:n muuttamisesta](1070.md) `1070/2007`
+- [Laki lapsilisälain 7 §:n muuttamisesta](1071.md) `1071/2007`
+- [Valtioneuvoston asetus puolustusministeriöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1072.md) `1072/2007`
+- [Valtioneuvoston päätös Seinäjoen kaupungin, Nurmon kunnan ja Ylistaron kunnan lakkauttamisesta ja uuden Seinäjoen kaupungin perustamisesta](1073.md) `1073/2007`
+- [Valtioneuvoston päätös Salon kaupungin, Halikon kunnan, Kuusjoen kunnan, Perttelin kunnan, Muurlan kunnan, Perniön kunnan, Särkisalon kunnan, Kiskon kunnan, Kiikalan kunnan ja Suomusjärven kunnan lakkauttamisesta ja uuden Salon kaupungin perustamisesta](1074.md) `1074/2007`
+- [Valtioneuvoston päätös Tammisaaren kaupungin, Karjaan kaupungin ja Pohjan kunnan lakkauttamisesta ja uuden Raaseporin kaupungin perustamisesta](1075.md) `1075/2007`
+- [Oikeusministeriön asetus velallisen maksukyvyn arvioinnin perusteista yksityishenkilön velkajärjestelyssä annetun asetuksen muuttamiseksi](1076.md) `1076/2007`
+- [Valtiovarainministeriön asetus valtiovarainministeriön työjärjestyksen muuttamisesta](1077.md) `1077/2007`
+- [Valtioneuvoston asetus valtion aluejakoneuvottelukunnasta annetun asetuksen muuttamisesta](1078.md) `1078/2007`
+- [Valtioneuvoston asetus rakennerahastoista osarahoitettavien menojen tukikelpoisuudesta](1079.md) `1079/2007`
+- [Valtioneuvoston asetus tilatukijärjestelmän kansallisen varannon perustamisesta, tukitasoista ja tukioikeuksien vahvistamisesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](1080.md) `1080/2007`
+- [Valtioneuvoston asetus vuodelta 2007 maksettavasta eräiden peltokasvien ja nautojen tuotantopalkkiosta annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](1081.md) `1081/2007`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 153 §:ssä tarkoitettujen työntekijän työeläkevakuutusmaksuprosenttien antamisesta](1082.md) `1082/2007`
+- [Sosiaali\- ja terveysministeriön asetus yrittäjän eläkelain 114 §:ssä tarkoitettujen työeläkevakuutusmaksuprosenttien ja maatalousyrittäjän eläkelain 22 §:ssä tarkoitettujen työeläkevakuutusmaksun perusprosenttien antamisesta](1083.md) `1083/2007`
+- [Maa\- ja metsätalousministeriön asetus uuhipalkkioiden kiintiöstä annetun asetuksen muuttamisesta](1084.md) `1084/2007`
+- [Maa\- ja metsätalousministeriön asetus maidon toimitusten viitemääristä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1085.md) `1085/2007`
+- [Maa\- ja metsätalousministeriön asetus suoramyynnin viitemääristä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1086.md) `1086/2007`
+- [Verohallituksen päätös verotusta koskevasta toimivallan siirrosta ja toimivaltaisesta verovirastosta annetun päätöksen muuttamisesta](1087.md) `1087/2007`
+- [Laki valtion virkamieslain muuttamisesta](1088.md) `1088/2007`
+- [Tasavallan presidentin asetus toimivallan jaosta sotilaskäskyasioissa](1089.md) `1089/2007`
+- [Valtiovarainministeriön asetus vesivoimalaitoksen ja sen rakenteiden jälleenhankinta\-arvon perusteista](1090.md) `1090/2007`
+- [Valtiovarainministeriön asetus rakennusten jälleenhankinta\-arvon perusteista](1091.md) `1091/2007`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](1092.md) `1092/2007`
+- [Laki ammattipätevyyden tunnustamisesta](1093.md) `1093/2007`
+- [Laki eläinlääkärinammatin harjoittamisesta annetun lain muuttamisesta](1094.md) `1094/2007`
+- [Laki asianajajista annetun lain 3 §:n muuttamisesta](1095.md) `1095/2007`
+- [Laki ulkomailla suoritettujen korkeakouluopintojen tuottamasta virkakelpoisuudesta annetun lain muuttamisesta](1096.md) `1096/2007`
+- [Laki ammatillisesta aikuiskoulutuksesta annetun lain 8 ja 12 §:n muuttamisesta](1097.md) `1097/2007`
+- [Laki kauppakamarilain 2 §:n muuttamisesta](1098.md) `1098/2007`
+- [Maa\- ja metsätalousministeriön asetus kilohailin troolikalastuksen rajoituksista vuonna 2007](1099.md) `1099/2007`
+- [Laki maatalousyrittäjien lomituspalvelulain 6 ja 7 f §:n muuttamisesta](1100.md) `1100/2007`
+- [Laki työttömyysturvalain 15 luvun 1 §:n muuttamisesta](1101.md) `1101/2007`
+- [Laki työttömyyskassalain 27 §:n muuttamisesta](1102.md) `1102/2007`
+- [Laki asumistukilain 11 §:n muuttamisesta](1103.md) `1103/2007`
+- [Valtioneuvoston asetus ulkomaalaisvirastosta annetun valtioneuvoston asetuksen muuttamisesta](1104.md) `1104/2007`
+- [Valtioneuvoston asetus kansalaisuudesta annetun valtioneuvoston asetuksen muuttamisesta](1105.md) `1105/2007`
+- [Valtioneuvoston asetus maatilatalouden kehittämisrahastosta annetun asetuksen muuttamisesta](1106.md) `1106/2007`
+- [Kauppa\- ja teollisuusministeriön asetus tietyistä osittain tai kokonaan kuivatuista säilötyistä maidoista annetun kauppa\- ja teollisuusministeriön asetuksen liitteen muuttamisesta](1107.md) `1107/2007`
+- [Puolustusministeriön asetus sotilaallisen kriisinhallintahenkilöstön pätevyysvaatimuksista ja palvelussuhteen ehdoista annetun puolustusministeriön asetuksen 7 §:n muuttamisesta](1108.md) `1108/2007`
+- [Puolustusministeriön asetus puolustusvoimista annetun lain 39 §:n mukaisissa kansainvälisissä tehtävissä toimivien rinnastamisesta ulkomaanedustuksen virkamiehiin paikalliskorotuksia ja ulkomaanedustuksen eräitä muita korvauksia maksettaessa](1109.md) `1109/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta broilereiden kampylobakteerivalvonnasta](1110.md) `1110/2007`
+- [Laki Eläketurvakeskuksesta annetun lain muuttamisesta](1111.md) `1111/2007`
+- [Laki työntekijän eläkelain muuttamisesta](1112.md) `1112/2007`
+- [Laki maatalousyrittäjän eläkelain 136 §:n muuttamisesta](1113.md) `1113/2007`
+- [Laki kunnallisen eläkelain 132 §:n muuttamisesta](1114.md) `1114/2007`
+- [Laki valtion eläkelain muuttamisesta](1115.md) `1115/2007`
+- [Tasavallan presidentin asetus Eurooppapatenttien myöntämisestä tehdyn yleissopimuksen uudistamiskirjan voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1116.md) `1116/2007`
+- [Valtioneuvoston asetus patenttilain muuttamisesta annetun lain eräiden säännösten voimaantulosta](1117.md) `1117/2007`
+- [Valtioneuvoston asetus patenttiasetuksen muuttamisesta](1118.md) `1118/2007`
+- [Tasavallan presidentin asetus Suomen ― Egyptin väliaikaisen kauppasopimuksen voimaansaattamisesta annetun asetuksen kumoamisesta](1119.md) `1119/2007`
+- [Kauppa\- ja teollisuusministeriön asetus lisäaineiden ja muiden aineiden käytöstä luonnonmukaisesti tuotettuina markkinoitavista eläimistä saatavista elintarvikkeista annetun asetuksen kumoamisesta](1120.md) `1120/2007`
+- [Vuoden 2007 neljäs lisätalousarvio](1121.md) `1121/2007`
+- [Laki Euroopan yhteisöjen ja niiden jäsenvaltioiden sekä Albanian tasavallan välisen vakautus\- ja assosiaatiosopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1122.md) `1122/2007`
+- [Laki opiskelijavalintarekisteristä ja ylioppilastutkintorekisteristä annetun lain muuttamisesta](1123.md) `1123/2007`
+- [Valtioneuvoston asetus sokerialan rakenneuudistustuesta markkinointivuonna 2008/2009](1124.md) `1124/2007`
+- [Valtioneuvoston asetus asumistuen määräytymisperusteista vuodelle 2008](1125.md) `1125/2007`
+- [Laki Tieliikelaitoksen muuttamisesta osakeyhtiöksi](1126.md) `1126/2007`
+- [Laki vuorotteluvapaalain muuttamisesta](1127.md) `1127/2007`
+- [Laki henkilöstön edustuksesta yritysten hallinnossa annetun lain muuttamisesta](1128.md) `1128/2007`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](1129.md) `1129/2007`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2007 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista](1130.md) `1130/2007`
+- [Valtiovarainministeriön asetus yksittäisten kuntien ja evankelis\-luterilaisten seurakuntien verovuoden 2008 yhteisöveron jako\-osuuksien laskentaperusteista](1131.md) `1131/2007`
+- [Liikenne\- ja viestintäministeriön asetus Tiehallinnon maksuista](1132.md) `1132/2007`
+- [Laki Chilen kanssa sosiaaliturvasta tehdyn sopimuksen eräiden määräysten hyväksymisestä](1133.md) `1133/2007`
+- [Tasavallan presidentin asetus Chilen kanssa sosiaaliturvasta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1134.md) `1134/2007`
+- [Tasavallan presidentin asetus Israelin kanssa tehdyn kauppasopimuksen voimaansaattamisesta annetun asetuksen kumoamisesta sekä eräiden Israelin kanssa tehdyn kauppasopimuksen säännösten hyväksymisestä annetun lain kumoamisesta annetun lain voimaantulosta](1135.md) `1135/2007`
+- [Tasavallan presidentin asetus Israelin kanssa tehdyn kauppasopimuksen voimaansaattamisesta annetun asetuksen kumoamisesta](1136.md) `1136/2007`
+- [Tasavallan presidentin asetus Suomen ja Tanskan välillä raakaöljyn ja öljytuotteiden vastavuoroisesta varmuusvarastoinnista tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1137.md) `1137/2007`
+- [Kauppa\- ja teollisuusministeriön asetus Patentti\- ja rekisterihallituksen maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön asetuksen liitteenä olevan maksutaulukon muuttamisesta](1138.md) `1138/2007`
+- [Laki Oikeuspoliittisesta tutkimuslaitoksesta](1139.md) `1139/2007`
+- [Vuoden 2008 tuloveroasteikkolaki](1140.md) `1140/2007`
+- [Laki tuloverolain muuttamisesta](1141.md) `1141/2007`
+- [Laki verotusmenettelystä annetun lain 17 ja 52 §:n muuttamisesta](1142.md) `1142/2007`
+- [Laki rajoitetusti verovelvollisen tulon verottamisesta annetun lain 13 §:n muuttamisesta](1143.md) `1143/2007`
+- [Laki elinkeinotulon verottamisesta annetun lain 19 §:n väliaikaisesta muuttamisesta](1144.md) `1144/2007`
+- [Valtioneuvoston asetus yliopistoasetuksen 24 §:n muuttamisesta](1145.md) `1145/2007`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä toimintapääomasta](1146.md) `1146/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinsuojeluaineen hyväksymisen hakemisesta ja hyväksymisestä sekä niihin liittyvistä menettelyistä](1147.md) `1147/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinsuojeluaineen myyntipäällykseen tehtävistä merkinnöistä](1148.md) `1148/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinsuojeluaineiden käyttöä koskevasta tutkinnosta, tarkastuksia suorittavien laitosten hyväksymisestä sekä koe\- ja tutkimustoiminnasta](1149.md) `1149/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinsuojeluaineen lentolevityksestä](1150.md) `1150/2007`
+- [Laki kansaneläkelain muuttamisesta](1151.md) `1151/2007`
+- [Laki kansaneläkelain voimaanpanosta annetun lain muuttamisesta](1152.md) `1152/2007`
+- [Laki vammaisetuuksista annetun lain muuttamisesta](1153.md) `1153/2007`
+- [Laki eläkkeensaajan asumistuesta annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](1154.md) `1154/2007`
+- [Laki rintamasotilaseläkelain 9 a ja 17 §:n muuttamisesta](1155.md) `1155/2007`
+- [Laki ulkomaille maksettavasta rintamalisästä annetun lain 10 §:n 3 momentin kumoamisesta](1156.md) `1156/2007`
+- [Laki eräiden pitkäaikaisesti työttöminä olleiden henkilöiden eläketuesta annetun lain muuttamisesta](1157.md) `1157/2007`
+- [Laki maahanmuuttajan erityistuesta annetun lain muuttamisesta](1158.md) `1158/2007`
+- [Laki maahanmuuttajan erityistuesta annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1159.md) `1159/2007`
+- [Laki asumistukilain 3 ja 25 §:n muuttamisesta](1160.md) `1160/2007`
+- [Laki maatalouden harjoittamisesta luopumisen tukemisesta annetun lain 31 §:n muuttamisesta](1161.md) `1161/2007`
+- [Laki maatalousyrittäjien luopumistuesta annetun lain 19 §:n muuttamisesta](1162.md) `1162/2007`
+- [Laki maatalousyrittäjien sukupolvenvaihdoseläkkeestä annetun lain 16 §:n muuttamisesta](1163.md) `1163/2007`
+- [Laki työntekijän eläkelain muuttamisesta](1164.md) `1164/2007`
+- [Laki työntekijän eläkelain voimaanpanolain muuttamisesta](1165.md) `1165/2007`
+- [Laki yrittäjän eläkelain muuttamisesta](1166.md) `1166/2007`
+- [Laki yrittäjän eläkelain voimaanpanosta annetun lain 28 §:n muuttamisesta](1167.md) `1167/2007`
+- [Laki merimieseläkelain muuttamisesta](1168.md) `1168/2007`
+- [Laki merimieseläkelain voimaanpanosta annetun lain muuttamisesta](1169.md) `1169/2007`
+- [Laki maatalousyrittäjän eläkelain muuttamisesta](1170.md) `1170/2007`
+- [Laki maatalousyrittäjän eläkelain voimaanpanosta annetun lain 27 §:n muuttamisesta](1171.md) `1171/2007`
+- [Laki maatalousyrittäjien tapaturmavakuutuslain muuttamisesta](1172.md) `1172/2007`
+- [Valtioneuvoston asetus maa\- ja metsätalousministeriöstä annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](1173.md) `1173/2007`
+- [Laki alkoholi\- ja alkoholijuomaverosta annetun lain liitteen muuttamisesta](1174.md) `1174/2007`
+- [Liikenne\- ja viestintäministeriön asetus Merenkulkulaitoksen maksullisista suoritteista](1175.md) `1175/2007`
+- [Kauppa\- ja teollisuusministeriön asetus painelaiteturvallisuudesta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1176.md) `1176/2007`
+- [Laki julkisesta työvoimapalvelusta annetun lain 7 luvun 5 ja 11 §:n muuttamisesta](1177.md) `1177/2007`
+- [Valtioneuvoston asetus kuntien valtionosuudesta annetun asetuksen 3 §:n muuttamisesta](1178.md) `1178/2007`
+- [Valtioneuvoston asetus saaristokunnista ja muiden kuntien saaristo\-osista, joihin sovelletaan saaristokuntaa koskevia säännöksiä](1179.md) `1179/2007`
+- [Valtioneuvoston asetus valtionavustuksesta yritystoiminnan kehittämiseksi annetun valtioneuvoston asetuksen 21 §:n muuttamisesta](1180.md) `1180/2007`
+- [Valtioneuvoston asetus yksityisten sosiaali\- ja terveyspalvelujen neuvottelukunnasta](1181.md) `1181/2007`
+- [Valtioneuvoston asetus kansaneläkelain mukaisten etuuksien ja valtion osuuden maksamisesta](1182.md) `1182/2007`
+- [Valtioneuvoston asetus vammaisetuuksista annetun lain mukaisten etuuksien ja valtion osuuden maksamisesta](1183.md) `1183/2007`
+- [Valtioneuvoston asetus valtion osuuden maksamisesta eläkkeensaajan asumistuen perusteella](1184.md) `1184/2007`
+- [Valtioneuvoston asetus eläkkeensaajan asumistuen määräytymisperusteista vuonna 2008](1185.md) `1185/2007`
+- [Valtioneuvoston asetus Eläketurvakeskuksesta annetun valtioneuvoston asetuksen muuttamisesta](1186.md) `1186/2007`
+- [Laki valtion paikallishallinnon kehittämisen perusteista annetun lain muuttamisesta](1187.md) `1187/2007`
+- [Laki rekisterihallintolain 3 §:n muuttamisesta](1188.md) `1188/2007`
+- [Laki valtion eläkelain muuttamisesta](1189.md) `1189/2007`
+- [Laki valtion varoista suoritettavasta eläkkeen korvaamisesta alle kolmivuotiaan lapsen hoidon tai opiskelun ajalta annetun lain muuttamisesta](1190.md) `1190/2007`
+- [Valtioneuvoston asetus eräistä valtion omistamille alueille perustetuista kansallispuistoista ja luonnonpuistoista annetun asetuksen 8 §:n kumoamisesta](1191.md) `1191/2007`
+- [Valtioneuvoston asetus Kolin kansallispuistosta annetun asetuksen muuttamisesta](1192.md) `1192/2007`
+- [Valtioneuvoston asetus Punkaharjun luonnonsuojelualueesta annetun asetuksen muuttamisesta](1193.md) `1193/2007`
+- [Valtioneuvoston asetus Saanan luonnonsuojelualueesta annetun asetuksen 4 §:n kumoamisesta](1194.md) `1194/2007`
+- [Valtioneuvoston asetus lehtojensuojelualueista annetun asetuksen 10 §:n kumoamisesta](1195.md) `1195/2007`
+- [Valtioneuvoston asetus vanhojen metsien suojelusta annetun asetuksen 10 §:n kumoamisesta](1196.md) `1196/2007`
+- [Valtioneuvoston asetus Kirmunharjun, Peiliösuon, Miemalanharjun ja Raimansuon luonnonsuojelualueista annetun asetuksen muuttamisesta](1197.md) `1197/2007`
+- [Valtioneuvoston asetus erityisen luonnonsuojelualueen muodostamisesta Laajoen suistoon annetun asetuksen 5 § kumoamisesta](1198.md) `1198/2007`
+- [Laki Puolan kanssa turvallisuusluokitellun tiedon vastavuoroisesta suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1199.md) `1199/2007`
+- [Laki terveydenhuollon ammattihenkilöistä annetun lain muuttamisesta](1200.md) `1200/2007`
+- [Laki Kansaneläkelaitoksen oikeudesta saada elatusturvaa koskevia asiakastietoja](1201.md) `1201/2007`
+- [Laki toimeentulotuesta annetun lain muuttamisesta](1202.md) `1202/2007`
+- [Laki sairausvakuutuslain muuttamisesta](1203.md) `1203/2007`
+- [Laki rautatielain 26 ja 28 §:n muuttamisesta](1204.md) `1204/2007`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyvään IMDG\-säännöstöön tehtyjen muutosten voimaansaattamisesta](1205.md) `1205/2007`
+- [Valtioneuvoston asetus ulkomailla suoritettuja korkeakouluopintoja täydentävistä opinnoista](1206.md) `1206/2007`
+- [Valtioneuvoston asetus ammattipätevyyden tunnustamisessa edellytetystä sopeutumisajasta ja kelpoisuuskokeesta](1207.md) `1207/2007`
+- [Valtioneuvoston asetus rintamaveteraanien kuntoutuksesta annetun asetuksen 3 §:n muuttamisesta](1208.md) `1208/2007`
+- [Valtioneuvoston asetus valtion virkamiesasetuksen 1 §:n muuttamisesta](1209.md) `1209/2007`
+- [Liikenne\- ja viestintäministeriön asetus Ilmatieteen laitoksen maksullisista suoritteista](1210.md) `1210/2007`
+- [Liikenne\- ja viestintäministeriön asetus autojen ja perävaunujen rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen 38 §:n ja liitteen 1 muuttamisesta](1211.md) `1211/2007`
+- [Puolustusministeriön asetus vapaaehtoisesta maanpuolustuksesta](1212.md) `1212/2007`
+- [Sosiaali\- ja terveysministeriön asetus merimieseläkekassan vakuutusteknisen vastuuvelan laskuperusteista ja perusteista merimieseläkelain 153 §:n mukaista vastuunjakoa varten](1213.md) `1213/2007`
+- [Verohallituksen päätös vuodelta 2008 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](1214.md) `1214/2007`
+- [Kauppa\- ja teollisuusministeriön asetus lastenruokien torjunta\-ainejäämistä](1215.md) `1215/2007`
+- [Kauppa\- ja teollisuusministeriön asetus äidinmaidonkorvikkeesta ja vierotusvalmisteesta](1216.md) `1216/2007`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 7 c ja 10 a §:n muuttamisesta](1217.md) `1217/2007`
+- [Valtioneuvoston asetus Ahvenanmaan maakunnassa valtion palveluksessa olevilta vaadittavasta kielitaidosta](1218.md) `1218/2007`
+- [Valtioneuvoston asetus verontilitysasetuksen 1 ja 2 §:n muuttamisesta](1219.md) `1219/2007`
+- [Valtioneuvoston asetus maidon kuljetusavustuksesta vuonna 2007](1220.md) `1220/2007`
+- [Valtioneuvoston asetus ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta](1221.md) `1221/2007`
+- [Valtioneuvoston asetus asumistukiasetuksen 1 ja 3 §:n muuttamisesta](1222.md) `1222/2007`
+- [Maa\- ja metsätalousministeriön asetus eräiden Euroopan unioniin kuulumattomista valtioista tuotavien tavaroiden eläintautivaatimuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1223.md) `1223/2007`
+- [Kauppa\- ja teollisuusministeriön asetus elintarvikkeiden pakkausmerkinnöistä annetun kauppa\- ja teollisuusministeriön asetuksen muuttamisesta](1224.md) `1224/2007`
+- [Kauppa\- ja teollisuusministeriön asetus erityisruokavaliovalmisteista annetun kauppa\- ja teollisuusministeriön asetuksen 4 b §:n muuttamisesta](1225.md) `1225/2007`
+- [Valtioneuvoston asetus Luotsausliikelaitoksen luotsausmaksusta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](1226.md) `1226/2007`
+- [Maa\- ja metsätalousministeriön asetus maanmittauslaitoksen maksuista](1227.md) `1227/2007`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötietojärjestelmän suoritteista ja tietopalvelusta perittävistä maksuista](1228.md) `1228/2007`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön tietopalvelukeskuksen maksullisista suoritteista](1229.md) `1229/2007`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötietojärjestelmän tulojen jakamisesta](1230.md) `1230/2007`
+- [Laki auktorisoiduista kääntäjistä](1231.md) `1231/2007`
+- [Valtioneuvoston asetus auktorisoiduista kääntäjistä](1232.md) `1232/2007`
+- [Valtioneuvoston asetus opetushallituksesta annetun asetuksen 1 §:n muuttamisesta](1233.md) `1233/2007`
+- [Valtioneuvoston asetus kotimaisten kielten tutkimuskeskuksesta annetun asetuksen 12 §:n kumoamisesta](1234.md) `1234/2007`
+- [Valtioneuvoston asetus vuodelta 2008 maksettavasta eräiden peltokasvien ja nautojen tuotantopalkkiosta](1235.md) `1235/2007`
+- [Laki taiteen edistämisen järjestelystä annetun lain muuttamisesta](1236.md) `1236/2007`
+- [Valtioneuvoston asetus taiteen edistämisen järjestelystä annetun asetuksen muuttamisesta](1237.md) `1237/2007`
+- [Valtioneuvoston asetus tartuntatautiasetuksen muuttamisesta](1238.md) `1238/2007`
+- [Liikenne\- ja viestintäministeriön asetus Ajoneuvohallintokeskuksen maksuista](1239.md) `1239/2007`
+- [Verohallituksen päätös arvonlisäverolain 209 m §:ssä tarkoitetusta selvityksestä](1240.md) `1240/2007`
+- [Valtioneuvoston asetus Oikeuspoliittisesta tutkimuslaitoksesta](1241.md) `1241/2007`
+- [Valtioneuvoston asetus elintarvikevalvonnasta annetun valtioneuvoston asetuksen 12 §:n muuttamisesta](1242.md) `1242/2007`
+- [Valtioneuvoston asetus valtion varoista suoritettavasta eläkkeen korvaamisesta alle kolmivuotiaan lapsen hoidon tai opiskelun ajalta annetun valtioneuvoston asetuksen muuttamisesta](1243.md) `1243/2007`
+- [Liikenne\- ja viestintäministerin asetus Viestintäviraston eräistä maksuista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](1244.md) `1244/2007`
+- [Liikenne\- ja viestintäministeriön asetus Viestintäviraston radiohallinnollisista suoritteista perittävistä maksuista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](1245.md) `1245/2007`
+- [Maa\- ja metsätalousministeriön asetus vastustettavista eläintaudeista ja eläintautien ilmoittamisesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen muuttamisesta](1246.md) `1246/2007`
+- [Valtioneuvoston asetus poliisikoulutuksesta annetun valtioneuvoston asetuksen muuttamisesta](1247.md) `1247/2007`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1248.md) `1248/2007`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten](1249.md) `1249/2007`
+- [Sisäasiainministeriön asetus Poliisiammattikorkeakoulun opiskelijan opintososiaalisista eduista](1250.md) `1250/2007`
+- [Valtioneuvoston asetus julkisen hallinnon tietohallinnon neuvottelukunnasta annetun valtioneuvoston asetuksen muuttamisesta](1251.md) `1251/2007`
+- [Sosiaali\- ja terveysministeriön asetus Lääkelaitoksen maksullisista suoritteista](1252.md) `1252/2007`
+- [Puolustusministeriön asetus oleskelu\- ja vierailuluvista, kieltotauluista, vartio\- ja päivystystehtävää suorittavan virkamiehen koulutuksesta sekä ammattisotilaan perustaidoista ja kunnosta](1253.md) `1253/2007`
+- [Sisäasiainministeriön asetus lääninhallituksen suoritteiden maksuista](1254.md) `1254/2007`
+- [Puolustusministeriön asetus puolustusministeriön työjärjestyksen 12 §:n muuttamisesta](1255.md) `1255/2007`
+- [Työministeriön asetus ihmiskaupan uhrien auttamisessa toimivaltaisesta vastaanottokeskuksesta](1256.md) `1256/2007`
+- [Valtioneuvoston asetus valtion perintönä saaman omaisuuden luovuttamisesta](1257.md) `1257/2007`
+- [Opetusministeriön asetus opetushallituksen suoritteiden maksullisuudesta annetun opetusministeriön asetuksen 1 §:n muuttamisesta](1258.md) `1258/2007`
+- [Opetusministeriön asetus arkistolaitoksen suoritteiden maksuista](1259.md) `1259/2007`
+- [Opetusministeriön asetus Kotimaisten kielten tutkimuskeskuksen suoritteiden maksuista](1260.md) `1260/2007`
+- [Ulkoasiainministeriön asetus ulkoasiainhallinnon suoritteiden maksuista annetun ulkoasiainministeriön asetuksen muuttamisesta](1261.md) `1261/2007`
+- [Verohallituksen päätös verovapaista matkakustannusten korvauksista vuonna 2008](1262.md) `1262/2007`
+- [Laki vaalilain muuttamisesta](1263.md) `1263/2007`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](1264.md) `1264/2007`
+- [Laki ulkomaisen luotto\- ja rahoituslaitoksen toiminnasta Suomessa annetun lain muuttamisesta](1265.md) `1265/2007`
+- [Sisäasiainministeriön asetus poliisin suoritteiden maksullisuudesta](1266.md) `1266/2007`
+- [Laki väylämaksulain muuttamisesta](1267.md) `1267/2007`
+- [Liikenne\- ja viestintäministeriön asetus autojen ja perävaunujen rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](1268.md) `1268/2007`
+- [Liikenne\- ja viestintäministeriön asetus muualla kuin Euroopan talousalueeseen kuuluvassa valtiossa rekisteröidylle tai käyttöön otetulle ajoneuvolle myönnettävistä poikkeusluvista annetun liikenne\- ja viestintäministeriön asetuksen 3 §:n muuttamisesta](1269.md) `1269/2007`
+- [Liikenne\- ja viestintäministeriön asetus sairaankuljetuksen taksoista](1270.md) `1270/2007`
+- [Sisäasiainministeriön asetus holhoustoimessa tarvittavan edunvalvontapalvelun tuottajalle maksettavasta korvauksesta](1271.md) `1271/2007`
+- [Sisäasiainministeriön asetus rekisterihallinnon suoritteiden maksuista](1272.md) `1272/2007`
+- [Sisäasiainministeriön asetus julkisen notaarin suoritteiden maksuista](1273.md) `1273/2007`
+- [Valtiovarainministeriön asetus valtiovarainministeriön maksullisista suoritteista](1274.md) `1274/2007`
+- [Verohallituksen päätös vuonna 2008 sovellettavien ennakonpidätysperusteiden voimaantulosta](1275.md) `1275/2007`
+- [Verohallituksen päätös ilmoittamisvelvollisuudesta ja muistiinpanoista](1276.md) `1276/2007`
+- [Laki meriliikenteessä käytettävien alusten kilpailukyvyn parantamisesta](1277.md) `1277/2007`
+- [Laki eräiltä matkustaja\-aluksilta saadusta merityötulosta toimitetun ennakonpidätyksen väliaikaisesta maksuvapaudesta annetun lain kumoamisesta](1278.md) `1278/2007`
+- [Laki ulkomaalaislain 81 §:n muuttamisesta](1279.md) `1279/2007`
+- [Laki merimieseläkelain 5 §:n muuttamisesta](1280.md) `1280/2007`
+- [Laki työntekijän eläkelain 4 §:n muuttamisesta](1281.md) `1281/2007`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain 12 ja 15 §:n muuttamisesta](1282.md) `1282/2007`
+- [Laki tonnistoverolain 8 §:n muuttamisesta](1283.md) `1283/2007`
+- [Sosiaali\- ja terveysministeriön asetus Vakuutusvalvontaviraston maksullisista suoritteista](1284.md) `1284/2007`
+- [Laki julkisesta työvoimapalvelusta annetun lain 7 luvun 12 a §:n muuttamisesta](1285.md) `1285/2007`
+- [Valtioneuvoston asetus julkiseen työvoimapalveluun kuuluvista etuuksista annetun valtioneuvoston asetuksen 13 §:n muuttamisesta](1286.md) `1286/2007`
+- [Valtioneuvoston asetus julkisen työvoimapalvelun toimeenpanosta annetun valtioneuvoston asetuksen muuttamisesta](1287.md) `1287/2007`
+- [Valtioneuvoston asetus tuloverolain 20 §:n muuttamisesta annetun lain voimaantulosta](1288.md) `1288/2007`
+- [Valtiovarainministeriön asetus verohallituksen ja Länsi\-Suomen veroviraston määräämisestä toimivaltaisena viranomaisena ratkaisemaan eräitä verotusta koskevissa kansainvälisissä sopimuksissa tarkoitettuja asioita](1289.md) `1289/2007`
+- [Kauppa\- ja teollisuusministeriön asetus Energiamarkkinaviraston maksullisista suoritteista](1290.md) `1290/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vieraista aineista eläimistä saatavissa elintarvikkeissa annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1291.md) `1291/2007`
+- [Laki autoverolain muuttamisesta](1292.md) `1292/2007`
+- [Laki maatalouden harjoittamisesta luopumisen tukemisesta annetun lain muuttamisesta](1293.md) `1293/2007`
+- [Laki maatalousyrittäjien luopumistuesta annetun lain 19 ja 23 §:n muuttamisesta](1294.md) `1294/2007`
+- [Laki maatalousyrittäjien sukupolvenvaihdoseläkkeestä annetun lain 21 §:n muuttamisesta](1295.md) `1295/2007`
+- [Laki maatalousyrittäjien luopumiskorvauksesta annetun lain 22 §:n muuttamisesta](1296.md) `1296/2007`
+- [Laki luopumiseläkelain 8 §:n muuttamisesta](1297.md) `1297/2007`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannuista muutoksista](1298.md) `1298/2007`
+- [Puolustusministeriön asetus puolustusministeriön maksullisista suoritteista](1299.md) `1299/2007`
+- [Puolustusministeriön asetus puolustushallinnon rakennuslaitoksen maksullisista suoritteista](1300.md) `1300/2007`
+- [Puolustusministeriön asetus puolustusvoimien maksullisista suoritteista](1301.md) `1301/2007`
+- [Sosiaali\- ja terveysministeriön asetus ihmisen kudoksien ja solujen lääketieteellisestä käytöstä](1302.md) `1302/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](1303.md) `1303/2007`
+- [Laki Suomen hallituksen ja Euroopan kemikaaliviraston välisen toimipaikkasopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1304.md) `1304/2007`
+- [Laki nestemäisten polttoaineiden valmisteverosta annetun lain muuttamisesta](1305.md) `1305/2007`
+- [Laki sähkön ja eräiden polttoaineiden valmisteverosta annetun lain muuttamisesta](1306.md) `1306/2007`
+- [Laki yksityisestä huvialuksesta suoritettavasta polttoainemaksusta](1307.md) `1307/2007`
+- [Valtioneuvoston päätös Kurun kunnan liittämisestä Ylöjärven kaupunkiin](1308.md) `1308/2007`
+- [Sisäasiainministeriön asetus Rajavartiolaitoksen suoritteiden maksuista](1309.md) `1309/2007`
+- [Laki Viron kanssa turvallisuusluokitellun tiedon vastavuoroisesta suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1310.md) `1310/2007`
+- [Laki ajoneuvoverolain muuttamisesta](1311.md) `1311/2007`
+- [Laki arvonlisäverolain muuttamisesta](1312.md) `1312/2007`
+- [Valtioneuvoston asetus energiatuen myöntämisen yleisistä ehdoista](1313.md) `1313/2007`
+- [Laki väestötietolain muuttamisesta](1314.md) `1314/2007`
+- [Laki ajoneuvolain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1315.md) `1315/2007`
+- [Laki ajoneuvoliikennerekisteristä annetun lain 14 §:n väliaikaisesta muuttamisesta](1316.md) `1316/2007`
+- [Laki ajoneuvoliikennerekisteristä annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1317.md) `1317/2007`
+- [Laki rikesakkomenettelystä annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1318.md) `1318/2007`
+- [Valtioneuvoston asetus puolustusvoimista](1319.md) `1319/2007`
+- [Maa\- ja metsätalousministeriön asetus kanojen, broilereiden ja kalkkunoiden salmonellavalvontaohjelmasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1320.md) `1320/2007`
+- [Valtioneuvoston asetus ulosottotoimen hallinnosta](1321.md) `1321/2007`
+- [Valtioneuvoston asetus ulosottomenettelystä](1322.md) `1322/2007`
+- [Valtioneuvoston asetus käräjäoikeuksien tuomiopiireistä ulosottovalituksia koskevissa asioissa](1323.md) `1323/2007`
+- [Valtioneuvoston asetus verojen ja maksujen täytäntöönpanosta](1324.md) `1324/2007`
+- [Liikenne\- ja viestintäministeriön asetus liikenne\- ja viestintäministeriön maksullisista suoritteista](1325.md) `1325/2007`
+- [Laki sähkömarkkinalain 3 §:n muuttamisesta](1326.md) `1326/2007`
+- [Laki viestintämarkkinalain muuttamisesta](1327.md) `1327/2007`
+- [Laki sähköisen viestinnän tietosuojalain 2 ja 5 §:n muuttamisesta](1328.md) `1328/2007`
+- [Laki viestintämarkkinalain 134 §:n muuttamisesta](1329.md) `1329/2007`
+- [Valtioneuvoston asetus televisio\- ja radiotoimintaan sekä toimiluvanvaraiseen teletoimintaan määrättyjen taajuusalueiden käyttösuunnitelmasta Ahvenanmaan maakunnassa annetun valtioneuvoston asetuksen muuttamisesta](1330.md) `1330/2007`
+- [Valtioneuvoston päätös Pylkönmäen kunnan liittämisestä Saarijärven kaupunkiin](1331.md) `1331/2007`
+- [Opetusministeriön asetus yliopistojen maisteriohjelmista](1332.md) `1332/2007`
+- [Laki työsopimuslain 13 luvun 11 §:n muuttamisesta](1333.md) `1333/2007`
+- [Laki työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetun lain 13 §:n muuttamisesta](1334.md) `1334/2007`
+- [Valtioneuvoston asetus maaseudun hanketoiminnan tukemisesta annetun valtioneuvoston asetuksen muuttamisesta](1335.md) `1335/2007`
+- [Valtioneuvoston asetus eräiden valtion lainojen ja saamisten siirtämisestä Valtiokonttorin hoidettavaksi](1336.md) `1336/2007`
+- [Valtioneuvoston asetus yritysten yhteishankkeisiin myönnettävästä kansainvälistymisavustuksesta sekä yleisavustuksesta ulkomaankauppaa ja yritysten kansainvälistymistä edistäville järjestöille ja yhteisöille annetun valtioneuvoston asetuksen 1 ja 2 §:n muuttamisesta](1337.md) `1337/2007`
+- [Valtioneuvoston asetus terveydenhuollon ammattihenkilöistä annetun asetuksen muuttamisesta](1338.md) `1338/2007`
+- [Maa\- ja metsätalousministeriön asetus Elintarviketurvallisuusviraston maksullisista suoritteista annetun maa\- ja metsätalousministeriön asetuksen liitteen muuttamisesta](1339.md) `1339/2007`
+- [Ympäristöministeriön asetus  Metsähallituksen eräiden julkisten hallintotehtävien suoritteiden maksuista](1340.md) `1340/2007`
+- [Laki ammatillisesta koulutuksesta annetun lain 17 ja 19 §:n muuttamisesta](1341.md) `1341/2007`
+- [Laki Kansaneläkelaitoksesta annetun lain muuttamisesta](1342.md) `1342/2007`
+- [Laki sairausvakuutuksen sairaanhoitomaksun ja työnantajan kansaneläkemaksun maksuprosentista annetun lain 2 ja 3 §:n muuttamisesta](1343.md) `1343/2007`
+- [Laki työntekijän työeläkevakuutusmaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta eräissä päivärahoissa](1344.md) `1344/2007`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon vuoden 2008 voimavaroista annetun valtioneuvoston asetuksen muuttamisesta](1345.md) `1345/2007`
+- [Valtiovarainministeriön asetus vuoden 2008 taidekilpailupalkintojen verovapaudesta](1346.md) `1346/2007`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön kokonaan rahoittamista eläinpalkkioista](1347.md) `1347/2007`
+- [Sosiaali\- ja terveysministeriön asetus vuoden 2008 liikenneturvallisuusmaksusta](1348.md) `1348/2007`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän työeläkevakuutusmaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta sairausvakuutusjärjestelmän mukaisissa päivärahoissa ja Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain mukaisissa kuntoutusrahoissa](1349.md) `1349/2007`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän työeläkevakuutusmaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta tapaturmavakuutuslain perusteella maksettavissa päivärahoissa](1350.md) `1350/2007`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän työeläkevakuutusmaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta työttömyysturvalain perusteella maksettavissa päivärahoissa](1351.md) `1351/2007`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain muuttamisesta](1352.md) `1352/2007`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain muuttamisesta annetun lain muuttamisesta](1353.md) `1353/2007`
+- [Laki työttömyysturvalain muuttamisesta](1354.md) `1354/2007`
+- [Valtioneuvoston asetus työttömyyskassalain täytäntöönpanosta annetun valtioneuvoston asetuksen muuttamisesta](1355.md) `1355/2007`
+- [Valtioneuvoston asetus työttömyysturvalain täytäntöönpanosta annetun valtioneuvoston asetuksen muuttamisesta](1356.md) `1356/2007`
+- [Opetusministeriön asetus tallentamattomien ääni\- ja kuvanauhojen ja muiden tallennuslaitteiden valmistuksesta ja maahantuonnista suoritettavan maksun suuruudesta](1357.md) `1357/2007`
+- [Sosiaali\- ja terveysministeriön asetus vuoden 2008 työttömyysvakuutusmaksuista](1358.md) `1358/2007`
+- [Laki tapaturmavakuutuslain muuttamisesta](1359.md) `1359/2007`
+- [Laki ammattitautilain 3 a §:n muuttamisesta](1360.md) `1360/2007`
+- [Laki tapaturmavakuutuslain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1361.md) `1361/2007`
+- [Laki työeläkeasioiden muutoksenhakulautakunnasta annetun lain 16 §:n muuttamisesta](1362.md) `1362/2007`
+- [Laki työntekijän eläkelain 168 §:n muuttamisesta](1363.md) `1363/2007`
+- [Laki sairausvakuutuslain muuttamisesta](1364.md) `1364/2007`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain 4 §:n muuttamisesta](1365.md) `1365/2007`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen 28 a §:n muuttamisesta](1366.md) `1366/2007`
+- [Sosiaali\- ja terveysministeriön asetus tapaturmavakuutuslain 58 §:ssä säädetyn maksun tilityksestä](1367.md) `1367/2007`
+- [Laki valtion yhtiöomistuksesta ja omistajaohjauksesta](1368.md) `1368/2007`
+- [Laki terrorismin ennaltaehkäisyä koskevan Euroopan neuvoston yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1369.md) `1369/2007`
+- [Laki rikoslain 34 a luvun muuttamisesta](1370.md) `1370/2007`
+- [Laki pakkokeinolain 5 a luvun 2 §:n muuttamisesta](1371.md) `1371/2007`
+- [Laki poliisilain 31 d §:n muuttamisesta](1372.md) `1372/2007`
+- [Laki Rikosseuraamusalan koulutuskeskuksesta annetun lain 1 §:n muuttamisesta](1373.md) `1373/2007`
+- [Laki rangaistusten täytäntöönpanon hallinnosta annetun lain muuttamisesta](1374.md) `1374/2007`
+- [Laki kuntalain muuttamisesta](1375.md) `1375/2007`
+- [Laki kuntien valtionosuuslain 27 §:n muuttamisesta](1376.md) `1376/2007`
+- [Laki sosiaali\- ja terveyshuollon suunnittelusta ja valtionosuudesta annetun lain 18 §:n muuttamisesta](1377.md) `1377/2007`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 9 ja 28 §:n muuttamisesta](1378.md) `1378/2007`
+- [Valtioneuvoston asetus kuntien valtionosuudesta annetun asetuksen 5 §:n muuttamisesta](1379.md) `1379/2007`
+- [Opetusministeriön asetus Museoviraston suoritteiden maksullisuudesta](1380.md) `1380/2007`
+- [Liikenne\- ja viestintäministeriön asetus linjaliikenteen sarjalipputaksoista](1381.md) `1381/2007`
+- [Laki rikoksen johdosta tapahtuvaa luovuttamista koskevan Pohjoismaiden välisen sopimuksen \(Pohjoismainen pidätysmääräys\) lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1382.md) `1382/2007`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden Pohjoismaiden välillä](1383.md) `1383/2007`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta annetun lain 25 ja 33 §:n muuttamisesta](1384.md) `1384/2007`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden Euroopan unionin jäsenvaltioiden välillä annetun lain 34 ja 67 §:n muuttamisesta](1385.md) `1385/2007`
+- [Laki huoltoa tai hoitoa koskevan päätöksen täytäntöönpanoa varten tapahtuvasta luovuttamisesta Islantiin, Norjaan, Ruotsiin tai Tanskaan annetun lain 13 §:n muuttamisesta](1386.md) `1386/2007`
+- [Laki pakkokeinolain 1 luvun 8 §:n ja 4 luvun 15 a §:n muuttamisesta](1387.md) `1387/2007`
+- [Laki opintotukilain muuttamisesta](1388.md) `1388/2007`
+- [Laki lukiokoulutuksen ja ammatillisen koulutuksen opiskelijoiden koulumatkatuesta annetun lain 3 a §:n muuttamisesta](1389.md) `1389/2007`
+- [Laki lastensuojelulain 49 §:n muuttamisesta](1390.md) `1390/2007`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon valtionosuuden laskennassa käytettävistä syrjäisyyskertoimista annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](1391.md) `1391/2007`
+- [Valtioneuvoston asetus maahanmuuttajien kotouttamisesta ja turvapaikanhakijoiden vastaanotosta annetun asetuksen muuttamisesta](1392.md) `1392/2007`
+- [Valtioneuvoston asetus pakolaisista ja eräistä muista maahanmuuttajista sekä turvapaikanhakijoiden vastaanoton järjestämisestä aiheutuvien kustannusten korvaamisesta annetun valtioneuvoston päätöksen muuttamisesta](1393.md) `1393/2007`
+- [Valtioneuvoston asetus eräiden entisen Neuvostoliiton alueelta peräisin olevien henkilöiden kielitutkinnon perusteista ja järjestämisestä annetun asetuksen muuttamisesta](1394.md) `1394/2007`
+- [Valtioneuvoston asetus etnisten suhteiden neuvottelukunnasta annetun asetuksen muuttamisesta](1395.md) `1395/2007`
+- [Valtioneuvoston asetus asian käsittelystä syrjintälautakunnassa annetun valtioneuvoston asetuksen muuttamisesta](1396.md) `1396/2007`
+- [Valtioneuvoston asetus vähemmistövaltuutetusta annetun valtioneuvoston asetuksen muuttamisesta](1397.md) `1397/2007`
+- [Puolustusministeriön asetus sotilaallisen kriisinhallintahenkilöstön pätevyysvaatimuksista ja palvelussuhteen ehdoista annetun puolustusministeriön asetuksen muuttamisesta](1398.md) `1398/2007`
+- [Laki sotilasvammalain 6 ja 17 §:n muuttamisesta](1399.md) `1399/2007`
+- [Valtioneuvoston asetus käräjäoikeuksien tuomiopiireistä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1400.md) `1400/2007`
+- [Valtioneuvoston asetus sotainvalidien puolisoiden, leskien ja sotaleskien kuntoutustoiminnasta](1401.md) `1401/2007`
+- [Valtioneuvoston asetus sotilasvammalain eräiden säännösten soveltamisesta annetun asetuksen 3 ja 8 §:n muuttamisesta](1402.md) `1402/2007`
+- [Valtioneuvoston asetus eräille ulkomaalaisille vapaaehtoisille rintamasotilaille maksettavasta rintama\-avustuksesta](1403.md) `1403/2007`
+- [Valtioneuvoston asetus Kansaneläkelaitoksen tehtävistä toimeenpantaessa neuvoston asetuksen \(ETY\) N:o 1408/71 sekä sosiaaliturva\- ja sairaanhoitosopimusten eräitä säännöksiä](1404.md) `1404/2007`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön maksullisista suoritteista annetun maa\- ja metsätalousministeriön asetuksen 1 §:n muuttamisesta](1405.md) `1405/2007`
+- [Maa\- ja metsätalousministeriön asetus työvoima\- ja elinkeinokeskusten maaseutuosastojen suoritteista perittävistä maksuista](1406.md) `1406/2007`
+- [Maa\- ja metsätalousministeriön asetus maaseutuelinkeinojen valituslautakunnan suoritteista perittävistä maksuista](1407.md) `1407/2007`
+- [Maa\- ja metsätalousministeriön asetus eläinlääkintävahinkojen arviolautakunnan suoritteista perittävistä maksuista](1408.md) `1408/2007`
+- [Laki säteilyturvakeskuksesta annetun lain 2 §:n muuttamisesta](1409.md) `1409/2007`
+- [Valtioneuvoston asetus Säteilyturvakeskuksesta annetun asetuksen muuttamisesta](1410.md) `1410/2007`
+- [Opetusministeriön asetus ammatillisista perustutkinnoista annetun opetusministeriön asetuksen liitteen muuttamisesta](1411.md) `1411/2007`
+- [Maa\- ja metsätalousministeriön asetus eläimistä saatavien elintarvikkeiden ja muiden tuotteiden eläinlääkinnällisistä rajatarkastuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1412.md) `1412/2007`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön ulkopuolisen maan lipun alla purjehtivasta aluksesta purettavien kalastustuotteiden tarkastuksesta](1413.md) `1413/2007`
+- [Maa\- ja metsätalousministeriön asetus porotalouden ja luontaiselinkeinojen rahoitustukien hakuajan päättymisestä](1414.md) `1414/2007`
+- [Laki osakeyhtiölain muuttamisesta](1415.md) `1415/2007`
+- [Laki osakeyhtiölain voimaanpanosta annetun lain 1 §:n muuttamisesta](1416.md) `1416/2007`
+- [Laki osuuskuntalain muuttamisesta](1417.md) `1417/2007`
+- [Laki kaupparekisterilain 3 ja 18 a §:n muuttamisesta](1418.md) `1418/2007`
+- [Laki yritys\- ja yhteisötietolain 14 §:n muuttamisesta](1419.md) `1419/2007`
+- [Laki yrityskiinnityslain 10 §:n muuttamisesta](1420.md) `1420/2007`
+- [Laki liikepankeista ja muista osakeyhtiömuotoisista luottolaitoksista annetun lain muuttamisesta](1421.md) `1421/2007`
+- [Laki osuuspankeista ja muista osuuskuntamuotoisista luottolaitoksista annetun lain muuttamisesta](1422.md) `1422/2007`
+- [Laki säästöpankkilain muuttamisesta](1423.md) `1423/2007`
+- [Laki arvopaperimarkkinalain muuttamisesta](1424.md) `1424/2007`
+- [Laki kaupankäynnistä vakioiduilla optioilla ja termiineillä annetun lain 2 luvun 15 §:n muuttamisesta](1425.md) `1425/2007`
+- [Laki sijoitusrahastolain muuttamisesta](1426.md) `1426/2007`
+- [Laki sijoituspalveluyrityksistä annetun lain 78 ja 79 §:n muuttamisesta](1427.md) `1427/2007`
+- [Laki arvo\-osuusjärjestelmästä annetun lain 14 b §:n muuttamisesta](1428.md) `1428/2007`
+- [Laki panttilainauslaitoksista annetun lain 30 b §:n muuttamisesta](1429.md) `1429/2007`
+- [Valtioneuvoston asetus kaupparekisteriasetuksen muuttamisesta](1430.md) `1430/2007`
+- [Valtioneuvoston asetus yrityskiinnitysasetuksen 12 §:n muuttamisesta](1431.md) `1431/2007`
+- [Valtion talousarvio vuodelle 2008](1432.md) `1432/2007`
+- [Laki kulttuuriaineistojen tallettamisesta ja säilyttämisestä](1433.md) `1433/2007`
+- [Laki Kansallisesta audiovisuaalisesta arkistosta](1434.md) `1434/2007`
+- [Laki yliopistolain 25 §:n muuttamisesta](1435.md) `1435/2007`
+- [Laki tekijänoikeuslain muuttamisesta](1436.md) `1436/2007`
+- [Valtioneuvoston asetus opetusministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](1437.md) `1437/2007`
+- [Asevelvollisuuslaki](1438.md) `1438/2007`
+- [Laki sotilaallisesta kriisinhallinnasta annetun lain muuttamisesta](1439.md) `1439/2007`
+- [Laki vapaaehtoisesta maanpuolustuksesta annetun lain 18 ja 39 §:n muuttamisesta](1440.md) `1440/2007`
+- [Laki rikoslain 45 luvun 27 §:n muuttamisesta](1441.md) `1441/2007`
+- [Laki sotilasoikeudenkäyntilain 2 §:n muuttamisesta](1442.md) `1442/2007`
+- [Valtioneuvoston asetus asevelvollisuudesta](1443.md) `1443/2007`
+- [Puolustusministeriön asetus asevelvollisuuslaissa ja terveydenhuollon järjestämisestä puolustusvoimissa annetussa laissa tarkoitetuista etuuksista](1444.md) `1444/2007`
+- [Verohallituksen päätös rakennusmaan verotusarvon laskentaperusteista](1445.md) `1445/2007`
+- [Siviilipalveluslaki](1446.md) `1446/2007`
+- [Laki pelastuslain 6 ja 52 §:n muuttamisesta](1447.md) `1447/2007`
+- [Laki vuosilomalain 5 ja 7 §:n muuttamisesta](1448.md) `1448/2007`
+- [Laki lasten kanssa työskentelevien rikostaustan selvittämisestä annetun lain 2 ja 3 §:n muuttamisesta](1449.md) `1449/2007`
+- [Laki asevelvollisen kuoltua suoritettavasta taloudellisesta tuesta annetun lain 1 ja 2 §:n muuttamisesta](1450.md) `1450/2007`
+- [Laki rikoslain 2 c luvun 5 §:n muuttamisesta](1451.md) `1451/2007`
+- [Laki vankeuslain 3 luvun 4 §:n muuttamisesta](1452.md) `1452/2007`
+- [Laki kielilain 39 §:n muuttamisesta](1453.md) `1453/2007`
+- [Laki hallinto\-oikeuslain 12 a §:n muuttamisesta](1454.md) `1454/2007`
+- [Laki maatalousyrittäjien lomituspalvelulain 7 f §:n muuttamisesta](1455.md) `1455/2007`
+- [Laki opintotukilain 16 e §:n muuttamisesta](1456.md) `1456/2007`
+- [Laki sotilasavustuslain 1 §:n muuttamisesta](1457.md) `1457/2007`
+- [Laki rikosrekisterilain 2 §:n muuttamisesta](1458.md) `1458/2007`
+- [Laki tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista annetun lain 6 §:n muuttamisesta](1459.md) `1459/2007`
+- [Laki palvelukseen kutsutun asevelvollisen työ\- tai virkasuhteen jatkumisesta annetun lain 1 a §:n muuttamisesta](1460.md) `1460/2007`
+- [Valtioneuvoston asetus siviilipalveluksesta](1461.md) `1461/2007`
+- [Työministeriön asetus siviilipalvelusvelvollisen matkakorvauksista ja maksuttomien lomamatkojen lukumääristä](1462.md) `1462/2007`
+- [Laki Helsingin eurooppalaisesta koulusta](1463.md) `1463/2007`
+- [Opetusministeriön asetus opetusministeriön työjärjestyksen muuttamisesta](1464.md) `1464/2007`
+- [Laki sähköturvallisuuslain muuttamisesta](1465.md) `1465/2007`
+- [Valtioneuvoston asetus sähkölaitteiden ja \-laitteistojen sähkömagneettisesta yhteensopivuudesta](1466.md) `1466/2007`
+- [Sisäasiainministeriön asetus Maahanmuuttoviraston suoritteiden maksullisuudesta](1467.md) `1467/2007`
+- [Laki päästökauppalain muuttamisesta](1468.md) `1468/2007`
+- [Valtioneuvoston asetus maistraattien toimialueista](1469.md) `1469/2007`
+- [Sisäasiainministeriön asetus maistraattien sijaintipaikoista ja yksiköistä](1470.md) `1470/2007`
+- [Sisäasiainministeriön asetus muutto\- ja maastamuuttoilmoitusten vastaanottamiseen liittyvien tehtävien jakamisesta maistraattien kesken](1471.md) `1471/2007`
+- [Sosiaali\- ja terveysministeriön asetus työterveyshuollon erikoislääkärikoulutuksen kustannuksiin valtion varoista vuonna 2008 suoritettavasta määrärahasta](1472.md) `1472/2007`
+- [Opetusministeriön asetus kelpoisuuskokeeseen liittyvistä maksuista](1473.md) `1473/2007`
+- [Opetusministeriön asetus yliopistojen suoritteista perittävistä maksuista annetun opetusministeriön asetuksen 3 §:n muuttamisesta](1474.md) `1474/2007`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja elintarviketalouden tutkimuskeskuksen suoritteista perittävistä maksuista](1475.md) `1475/2007`
+- [Laki maatalouden rakennetuista](1476.md) `1476/2007`
+- [Laki valtakunnallisen maaseudun kehittämisen ja tutkimuksen sekä maa\- ja elintarviketalouden tutkimuksen rahoituksesta](1477.md) `1477/2007`
+- [Laki maaseudun kehittämiseen myönnettävistä tuista annetun lain muuttamisesta](1478.md) `1478/2007`
+- [Laki maaseutuelinkeinojen rahoituslain muuttamisesta](1479.md) `1479/2007`
+- [Laki maaseutuelinkeinojen rahoituslain muuttamisesta annetun lain voimaanpanosta](1480.md) `1480/2007`
+- [Laki maatilatalouden kehittämisrahastosta annetun lain muuttamisesta](1481.md) `1481/2007`
+- [Laki varainsiirtoverolain 14 §:n muuttamisesta](1482.md) `1482/2007`
+- [Tasavallan presidentin asetus vuoden 1989 kansainvälisen meripelastusyleissopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1483.md) `1483/2007`
+- [Tasavallan presidentin asetus erinäisten meriapua ja meripelastusta koskevain määräysten yhdenmukaistuttamista tarkoittavan kansainvälisen sopimuksen voimaansaattamisesta annetun asetuksen kumoamisesta](1484.md) `1484/2007`
+- [Valtioneuvoston asetus merilain muuttamisesta annetun lain voimaantulosta](1485.md) `1485/2007`
+- [Valtioneuvoston asetus pelastuspalkkion jakamisessa noudatettavista perusteista Suomen valtion aluksen suoritettua pelastuksen](1486.md) `1486/2007`
+- [Tasavallan presidentin asetus eläkkeen korvaamista alle kolmivuotiaan lapsen hoidon tai opiskelun ajalta koskevien tehtävien hoitamisesta Ahvenanmaan maakunnassa](1487.md) `1487/2007`
+- [Tasavallan presidentin asetus Slovakian kanssa turvallisuusluokitellun tiedon vastavuoroisesta suojaamisesta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1488.md) `1488/2007`
+- [Tasavallan presidentin asetus Suomen, Norjan, Venäjän ja Ruotsin välillä kansainvälisen Barents\-sihteeristön perustamisesta Barentsin euroarktisen alueen yhteistyötä varten tehdyn sopimuksen voimaansaattamisesta](1489.md) `1489/2007`
+- [Tasavallan presidentin asetus sotilas\- ja palvelusarvoista sekä puolustusvoimien tunnuskuvasta](1490.md) `1490/2007`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun asetuksen muuttamisesta](1491.md) `1491/2007`
+- [Valtioneuvoston asetus väestötietoasetuksen 4 §:n muuttamisesta](1492.md) `1492/2007`
+- [Oikeusministeriön asetus oikeusministeriön ja eräiden hallinnonalalla toimivien viranomaisten maksullisista suoritteista](1493.md) `1493/2007`
+- [Laki vaikeavammaisille yrittäjille myönnettävistä veronhuojennuksista annetun lain 3 §:n muuttamisesta](1494.md) `1494/2007`
+- [Laki satovahinkojen korvaamisesta annetun lain muuttamisesta](1495.md) `1495/2007`
+- [Verohallituksen päätös yleisestä tiedonantovelvollisuudesta](1496.md) `1496/2007`
+- [Laki yhteismetsälain muuttamisesta](1497.md) `1497/2007`
+- [Valtioneuvoston asetus Rikosseuraamusalan koulutuskeskuksesta annetun valtioneuvoston asetuksen muuttamisesta](1498.md) `1498/2007`
+- [Valtioneuvoston asetus alle 18\-vuotiaana vahinkoa kärsineen ansiotulon määrän vahvistamisesta vuodelle 2008](1499.md) `1499/2007`
+- [Valtioneuvoston asetus nestemäisten polttoaineiden valmisteverosta annetun asetuksen muuttamisesta](1500.md) `1500/2007`
+- [Valtioneuvoston asetus työnantajan sosiaaliturvamaksusta annetun asetuksen 1 §:n muuttamisesta](1501.md) `1501/2007`
+- [Sosiaali\- ja terveysministeriön asetus tilaviini\-nimityksen käyttämisestä annetun sosiaali\- ja terveysministeriön päätöksen 2 §:n muuttamisesta](1502.md) `1502/2007`
+- [LUETTELO kuntien ja seurakuntien tuloveroprosenteista vuonna 2008](1503.md) `1503/2007`
+- [Laki yliopistolain muuttamisesta](1504.md) `1504/2007`
+- [Laki ammattikorkeakoululain muuttamisesta](1505.md) `1505/2007`
+- [Tasavallan presidentin asetus Armenian kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1506.md) `1506/2007`
+- [Sosiaali\- ja terveysministeriön asetus avohoidon ja laitoshoidon määrittelyn perusteista](1507.md) `1507/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden porotalouden ja luontaiselinkeinojen rahoituslain mukaisten asuntolainojen viitekorosta](1508.md) `1508/2007`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden maatilalain mukaisten myyntihintasaamisten ja lainojen viitekorosta](1509.md) `1509/2007`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskorosta](1510.md) `1510/2007`

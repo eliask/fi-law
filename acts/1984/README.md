@@ -1,0 +1,120 @@
+# 1984 Statutes
+
+## Statutes
+
+- [Laki kehitysvammaisten erityishuollosta annetun lain muuttamisesta](26.md) `26/1984`
+- [Asetus valriontalouden tarkastuksesta annetun asetuksen 1 §:n muuttamisesta](44.md) `44/1984`
+- [Laki rikosvahinkojen korvaamisesta valtion varoista annetun lain muuttamisesta](63.md) `63/1984`
+- [Asetus rikosvahinkojen korvaamisesta valtion varoista annetun asetuksen muuttamisesta](64.md) `64/1984`
+- [Laki palkkaturvalain muuttamisesta](70.md) `70/1984`
+- [Laki kaupparekisterilain 1 §:n muuttamisesta](78.md) `78/1984`
+- [Laki luopumiseläkelain muuttamisesta](98.md) `98/1984`
+- [Laki tiedoksiannosta hallintoasioissa annetun lain 13 §:n muuttamisesta](114.md) `114/1984`
+- [Laki oikeudenkäymiskaaren 11 luvun 16 §:n muuttamisesta](115.md) `115/1984`
+- [Laki työsopimuslain muuttamisesta](125.md) `125/1984`
+- [Laki peruskoululain muuttamisesta](132.md) `132/1984`
+- [Laki lukiolain 21 ja 62 §:n muuttamisesta](133.md) `133/1984`
+- [Laki kuulovammaisten ja näkövammaisten kouluista annetun lain 19 §:n muuttamisesta](137.md) `137/1984`
+- [Laki ammatillisten oppilaitosten oppilaiden opintososiaalisista eduista annetun lain 9 §:n muuttamisesta](146.md) `146/1984`
+- [Laki  Teollisen Kehitysyhteistyön Rahasto Oy \- Fonden för Industriellt Utvecklingssamarbete Ab \-nimisestä osakeyhtiöstä annetun lain muuttamisesta](151.md) `151/1984`
+- [Laki ortodoksisesta kirkkokunnasta annetun lain 8 §:n muuttamisesta](157.md) `157/1984`
+- [Laki torjunta\-ainelain muuttamisesta](159.md) `159/1984`
+- [Kauppa\- ja teollisuusministeriön päätös ammoniumnitraatista](172.md) `172/1984`
+- [Asetus  väestökirjahallinnosta](183.md) `183/1984`
+- [Asetus verojen ja maksujen perimisestä ulosottotoimin annetun asetuksen muuttamisesta](194.md) `194/1984`
+- [Asetus kaupunginviskaaleista annetun asetuksen 6§:n muuttamisesta](198.md) `198/1984`
+- [Laki ortodoksisesta kirkkokunnasta annetun lain muuttamisesta](206.md) `206/1984`
+- [Asetus ortodoksisesta kirkkokunnasta annetun asetuksen 32 ja 140 §:n muuttamisesta](207.md) `207/1984`
+- [Asetus rahankeräysasetuksen 3 §:n muuttamisesta](209.md) `209/1984`
+- [Asetus tavara\-arpajaisasetuksen 11 §:n muuttamisesta](210.md) `210/1984`
+- [Asetus valtion eläkelain voimaanpanolain täytäntöönpanosta ja soveltamisesta annetun asetuksen 2§:n muuttamisesta](270.md) `270/1984`
+- [Laki aluksista aiheutuvista öljyvahingoista johtuvasta vastuusta annetun lain muuttamisesta](297.md) `297/1984`
+- [Asetus vesiasetuksen muuttamisesta](305.md) `305/1984`
+- [Asetus valtion virkamiesten vuosilomasta annetun asetuksen muuttamisesta](312.md) `312/1984`
+- [Valtioneuvoston päätös  valtion työntekijäin vuosilomista annetun valtioneuvoston päätöksen muuttamisesta](317.md) `317/1984`
+- [Laki palkkaturvalain muuttamisesta](403.md) `403/1984`
+- [Laki palkkaturvalain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](404.md) `404/1984`
+- [Patoturvallisuuslaki](413.md) `413/1984`
+- [Laki vesilain 2 ja 21 luvun muuttamisesta](414.md) `414/1984`
+- [Laki  työajasta kotimaanliikenteen aluksissa annetun lain muuttamisesta](415.md) `415/1984`
+- [Merimiesten vuosilomalaki](433.md) `433/1984`
+- [Laki  merimieslain 67 ja 88 §:n muuttamisesta](434.md) `434/1984`
+- [Laki  työajasta kotimaanliikenteen aluksissa annetun lain muuttamisesta](436.md) `436/1984`
+- [Muutoksia  valtiontilintarkastajain johtosääntöön](440.md) `440/1984`
+- [Laki työterveyslaitoksen toiminnasta ja rahoituksesta annetun lain 4§:n muuttamisesta](441.md) `441/1984`
+- [Laki tekijänoikeudesta kirjallisiin ja taiteellisiin teoksiin annetun lain muuttamisesta](442.md) `442/1984`
+- [Laki rikoslain voimaanpanemisesta annetun asetuksen 22 §:n muuttamisesta](460.md) `460/1984`
+- [Laki valtionenemmistöisten osakeyhtiöiden toiminnan tarkastuksesta annetun lain 1 ja 3 §:n muuttamisesta](462.md) `462/1984`
+- [Laki perintö\- ja lahjaverolain muuttamisesta](463.md) `463/1984`
+- [Laki maatalouden investointivarauslain 7 §:n muuttamisesta](465.md) `465/1984`
+- [Laki leimaverolain muuttamisesta](467.md) `467/1984`
+- [Laki vieraskielisistä yksityisistä kouluista annetun lain 1 ja 2 §:n muuttamisesta](472.md) `472/1984`
+- [Laki oikeudenkäynnistä huoneenvuokra\-asioissa annetun lain 29 §:n muuttamisesta](504.md) `504/1984`
+- [Laki vuosilomalain 3 §:n muuttamisesta](510.md) `510/1984`
+- [Asetus työntekijäin eläkeasetuksen 9 §:n muuttamisesta](513.md) `513/1984`
+- [Asetus jakoasetuksen muuttamisesta](552.md) `552/1984`
+- [Asetus rakennusasetuksen 51 ja 123 §:n muuttamisesta](553.md) `553/1984`
+- [Laki luonnonsuojelulain 18 §: n muuttamisesta Annettu Naantalissa 27 päivänä heinäkuuta 1984](560.md) `560/1984`
+- [Asetus vesiasetuksen muuttamisesta](573.md) `573/1984`
+- [Laki vapaakappalelain muuttamisesta](577.md) `577/1984`
+- [Laki tekijänoikeuslain muuttamisesta](578.md) `578/1984`
+- [Laki sotilasvammalain muuttamisesta](583.md) `583/1984`
+- [Laki kansalaisuuslain muuttamisesta](584.md) `584/1984`
+- [Laki ortodoksisesta kirkkokunnasta annetun lain muuttamisesta](593.md) `593/1984`
+- [Työttömyysturvalaki](602.md) `602/1984`
+- [Työttömyyskassalaki](603.md) `603/1984`
+- [Laki työntekijäin eläkelain 2 ja 7 §:n muuttamisesta](607.md) `607/1984`
+- [Luontaiselinkeinolaki](610.md) `610/1984`
+- [Laki leimaverolain muuttamisesta](612.md) `612/1984`
+- [Laki kuluttaja\-asiamiehestä annetun lain muuttamisesta](614.md) `614/1984`
+- [Laki kirjanpitolain muuttamisesta](615.md) `615/1984`
+- [Asetus ortodoksisesta kirkkokunnasta annetun asetuksen muuttamisesta](630.md) `630/1984`
+- [Yrityskiinnityslaki](634.md) `634/1984`
+- [Laki autokiinnityslain muuttamisesta](635.md) `635/1984`
+- [Laki konkurssisäännön 6 §:n muuttamisesta](637.md) `637/1984`
+- [Laki osakeyhtiölain 14 luvun 5 §:n muuttamisesta](643.md) `643/1984`
+- [Laki osuuskuntalain 154 §:n muuttamisesta](644.md) `644/1984`
+- [Laki työehtosopimuslain muuttamisesta](660.md) `660/1984`
+- [Asetus palkkaturva\-asetuksen muuttamisesta](701.md) `701/1984`
+- [Asetus bingoasetuksen 3§:n muuttamisesta](714.md) `714/1984`
+- [Peruskouluasetus](718.md) `718/1984`
+- [Lukioasetus](719.md) `719/1984`
+- [Asetus peruskoulua korvaavasta koulusta ja yksityisestä lukiosta](720.md) `720/1984`
+- [Laki moottoriajoneuvoverosta annetun lain 10 ja 12 §:n muuttamisesta](737.md) `737/1984`
+- [Asetus työttömyysturvalain täytäntöönpanosta](742.md) `742/1984`
+- [Asetus työttömyyskassalain täytäntöönpanosta](743.md) `743/1984`
+- [Työsuojeluhallituksen päätös traktorien turvallisuusmääräyksistä](758.md) `758/1984`
+- [Asetus sotilasvalasta annetun asetuksen 5§:n muuttamisesta](794.md) `794/1984`
+- [Asetus sotilasvalan kaavasta annettuun asetukseen liitetyn sotilasvalan kaavan muuttamisesta](795.md) `795/1984`
+- [Asetus kioski\- ja siihen verrattavasta kaupasta sekä automaattikaupasta annetun asetuksen muuttamisesta](831.md) `831/1984`
+- [Asetus aluksista aiheutuvista öljyvahingoista johtuvasta vastuusta annetun lain muuttamisesta annetun lain voimaantulosta](837.md) `837/1984`
+- [Laki ulosottotoimesta](866.md) `866/1984`
+- [Laki verojen ja maksujen perimisestä ulosottotoimin annetun lain 5 ja 13 §:n kumoamisesta](868.md) `868/1984`
+- [Laki sakkorangaistuksen täytäntöönpanosta annetun lain muuttamisesta](869.md) `869/1984`
+- [Laki leimaverolain 4 §:n muuttamisesta](870.md) `870/1984`
+- [Laki leimaverolain muuttamisesta](885.md) `885/1984`
+- [Laki Suomen Pankin ohjesäännön 4 ja 30 §:n muuttamisesta](890.md) `890/1984`
+- [Asetus luotsausasetuksen muuttamisesta](902.md) `902/1984`
+- [Laki toimenpiteistä tupakoinnin vähentämiseksi annetun lain 27 §:n muuttamisesta](910.md) `910/1984`
+- [Laki julkisista huvitilaisuuksista annetun lain 5 ja 6 §:n muuttamisesta](924.md) `924/1984`
+- [Asetus julkisista huvitilaisuuksista annetun asetuksen muuttamisesta](925.md) `925/1984`
+- [Asetus ennakkoperintäasetuksen muuttamisesta](927.md) `927/1984`
+- [Valtioneuvoston päätös ylimääräisistä taiteilijaeläkkeistä annetun valtioneuvoston päätöksen 3 ja 5 §:n muuttamisesta](929.md) `929/1984`
+- [Laki työntekijäin eläkelain muuttamisesta](938.md) `938/1984`
+- [Laki merimieseläkelain muuttamisesta](939.md) `939/1984`
+- [Laki tapaturmavakuutuslain muuttamisesta](940.md) `940/1984`
+- [Laki liikennevakuutuslain muuttamisesta](941.md) `941/1984`
+- [Laki oikeudenkäynnin julkisuudesta](945.md) `945/1984`
+- [Laki yleisten asiakirjain julkisuudesta annetun lain 23 ja 26 §:n muuttamisesta](946.md) `946/1984`
+- [Laki oikeudenkäymiskaaren 17 luvun 34 §:n muuttamisesta](947.md) `947/1984`
+- [Laki Korkeimmasta hallinto\-oikeudesta annetun lain 16 c §:n muuttamisesta](948.md) `948/1984`
+- [Laki lääninoikeuslain 20 §:n muuttamisesta](949.md) `949/1984`
+- [Laki markkinatuomioistuimesta annetun lain 12 §:n muuttamisesta](950.md) `950/1984`
+- [Laki leimaverolain muuttamisesta](979.md) `979/1984`
+- [Laki ennakkoperintälain 5 §:n muuttamisesta](980.md) `980/1984`
+- [Laki Eduskunnan kirjastosta](983.md) `983/1984`
+- [Laki syyttömästi vangitulle tai tuomitulle valtion varoista maksettavasta korvauksesta annetun lain muuttamisesta](984.md) `984/1984`
+- [Laki lääninoikeuslain 9 ja 15 §py:n väliaikaisesta muuttamisesta annetun lain 9 §py:n ja voimaantulosäännöksen muuttamisesta](990.md) `990/1984`
+- [Laki kuntajaosta annetun lain muuttamisesta](991.md) `991/1984`
+- [Laki verotuslain 65 §:n kumoamisesta](992.md) `992/1984`
+- [Laki työttömyyskassalain muuttamisesta](1008.md) `1008/1984`

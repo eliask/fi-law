@@ -1,0 +1,102 @@
+# 1980 Statutes
+
+## Statutes
+
+- [Laki kansanterveyslain muuttamisesta\.](2.md) `2/1980`
+- [Eläintautilaki](55.md) `55/1980`
+- [Asetus taiteilijaprofessorin viroista ja valtion taiteilija\-apurahoista annetun asetuksen 4 §:n muuttamisesta\.](86.md) `86/1980`
+- [Asetus julkisista huvitilaisuuksista annetun asetuksen 16 §:n muuttamisesta\.](106.md) `106/1980`
+- [Asetus ennakkoperintäasetuksen muuttamisesta\.](121.md) `121/1980`
+- [Oikeusministeriön päätös vankeinhoitolaitoksen aseistuksesta\.](208.md) `208/1980`
+- [Laki rintamasotilaseläkelain muuttamisesta\.](231.md) `231/1980`
+- [Laki valtion eläkelain 12 §:n muuttamisesta\.](234.md) `234/1980`
+- [Laki tapaturmavakuutuslain 23 §:n muuttamisesta](238.md) `238/1980`
+- [Laki merimieseläkelain muuttamisesta](280.md) `280/1980`
+- [Valtioneuvoston päätös maatalousyrittäjän vuosiloman pituudesta](284.md) `284/1980`
+- [Laki oikeudenkäymiskaaren 12 luvun 24 a §:n muuttamisesta](285.md) `285/1980`
+- [Laki valtioneuvoston jäsenen oikeudesta eläkkeeseen ja hänen jälkeensä suoritettavasta perheeläkkeestä annetun lain 3 ja 4 §:n muuttamisesta\.](299.md) `299/1980`
+- [Asetus raha\-automaattiasetuksen muuttamisesta\.](303.md) `303/1980`
+- [Laki opintovapaalain muuttamisesta\.](342.md) `342/1980`
+- [Asetus valtion virkamiesten vuosilomasta annetun asetuksen muuttamisesta](345.md) `345/1980`
+- [Valtioneuvoston päätös valtion työntekijäin vuosilomista annetun valtioneuvoston päätöksen muuttamisesta\.](348.md) `348/1980`
+- [Laki isyyslain muuttamisesta\.](351.md) `351/1980`
+- [Laki pohjoismaisten isyysratkaisujen tunnustamisesta\.](352.md) `352/1980`
+- [Laki yksityisoikeudellista vaatimusta koskevien pohjoismaisten tuomioiden tunnustamisesta ja täytäntöönpanosta annetun lain 4 §:n muuttamisesta\.](353.md) `353/1980`
+- [Asetus isyyden vahvistamisesta ja kumoamisesta sekä lapsen elatuksesta annetun asetuksen muuttamisesta\.](354.md) `354/1980`
+- [Laki verotuslain muuttamisesta](361.md) `361/1980`
+- [Asetus työterveyslaitoksen toiminnasta ja rahoituksesta annetun asetuksen muuttamisesta](375.md) `375/1980`
+- [Laki valtionenemmistöisten osakeyhtiöiden toiminnan tarkastuksesta annetun lain 2 §:n muuttamisesta\.](386.md) `386/1980`
+- [Asetus vankeusrangaistuksen täytäntöönpanosta annetun asetuksen muuttamisesta\.](389.md) `389/1980`
+- [Asetus rintamasotilaseläkeasetuksen 3 §:n muuttamisesta\.](391.md) `391/1980`
+- [Laki oikeudenkäymiskaaren 2 ja 4 luvun muuttamisesta\.](396.md) `396/1980`
+- [Laki aluksista aiheutuvista öljyvahingoista johtuvasta vastuusta\.](401.md) `401/1980`
+- [Laki työriitojen sovittelusta annetun lain muuttamisesta\.](405.md) `405/1980`
+- [Laki valtiontalouden tarkastuksesta annetun lain 18 §:n muuttamisesta](406.md) `406/1980`
+- [Laki patenttilain muuttamisesta\.](407.md) `407/1980`
+- [Laki leimaverolain muuttamisesta\.](419.md) `419/1980`
+- [Vapaakappalelaki\.](420.md) `420/1980`
+- [Laki painovapsuslain muuttamisesta](421.md) `421/1980`
+- [Laki eläkkeensaajien asumistukilain muuttamisesta\.](455.md) `455/1980`
+- [Asetus merimiehen lääkärintarkastuksista\.](476.md) `476/1980`
+- [Asetus vesien suojelua koskevista ennakkotoimenpiteistä annetun asetuksen muuttamisesta\.](499.md) `499/1980`
+- [Asetus yhteisestä haverista\.](502.md) `502/1980`
+- [Laki veronkantolain muuttamisesta\.](526.md) `526/1980`
+- [Maksuvapautuslaki](529.md) `529/1980`
+- [Maksuvapautusasetus](530.md) `530/1980`
+- [Laki kiinteistöjen kauppahintarekisteristä ja kauppahintatilastosta\.](552.md) `552/1980`
+- [Laki oikeudesta hankkia maa\- ja metsätalousmaata annetun lain 3 §:n muuttamisesta\.](554.md) `554/1980`
+- [Rahankeräys laki\.](590.md) `590/1980`
+- [Eläintautiasetus](601.md) `601/1980`
+- [Laki Suomen Hallitusmuoden 20 ja 28 §:n muuttamisesta\.](607.md) `607/1980`
+- [Laki leimaverolain muuttamisesta\.](608.md) `608/1980`
+- [Rahankeräysasetus](609.md) `609/1980`
+- [Asetus rahankeräys\- ja tavara\-arpajaislautakunnasta\.](610.md) `610/1980`
+- [Asetus kaavoitusalueiden jakoasetuksen muuttamisesta](618.md) `618/1980`
+- [Bingoasetus](623.md) `623/1980`
+- [Asetus luotsausasetuksen muuttamisesta](627.md) `627/1980`
+- [Patenttiasetus](669.md) `669/1980`
+- [Asetus ulosottoasetuksen 13 §:n muuttamisesta\.](677.md) `677/1980`
+- [Asetus rakennusasetuksen 51 ja 122 §:n muuttamisesta](687.md) `687/1980`
+- [Asetus jakoasetuksen muuttamisesta](690.md) `690/1980`
+- [Asetus Suomen säädöskokoelmasta](696.md) `696/1980`
+- [Asetus veronkantoasetuksen muuttamisesta\.](748.md) `748/1980`
+- [Asetus kaivosasetuksen 21 §:n muuttamisesta\.](752.md) `752/1980`
+- [Laki maakaaren 1 luvun 3 §:n muuttamisesta\.](760.md) `760/1980`
+- [Laki verotuslain muuttamisesta\.](768.md) `768/1980`
+- [Vapaakappaleasetus](774.md) `774/1980`
+- [Laki puolustusvoimien virka\-avusta poliisille\.](781.md) `781/1980`
+- [Asetus puolustusvoimien virka\-avusta poliisille\.](782.md) `782/1980`
+- [Laki asevelvollisuuslain 47 §:n muuttamisesta\.](783.md) `783/1980`
+- [Asetus eräistä sotilas\- ja siviiliviranomaisten välisistä suhteista rauhan aikana annetun asetuksen 7 §:n 1 momentm kumoamisesta\.](784.md) `784/1980`
+- [Laki valtion virantoimituksesta tai työtehtävästä aiheutuneiden eräiden vahinkojen korvaamisesta\.](794.md) `794/1980`
+- [Yhteismerkkilaki](795.md) `795/1980`
+- [Laki kansanterveyslain voimaanpanosta annetun lain 3 §:n muuttamisesta\.](796.md) `796/1980`
+- [Laki sairausvakuutuslain 59 §:n muuttamisesta\.](832.md) `832/1980`
+- [Laki kansaneläkelain 60 §:n muuttamisesta\.](833.md) `833/1980`
+- [Laki valtioneläkelain 9 a §:n muuttamisesta\.](840.md) `840/1980`
+- [Laki lapsen hoitotuesta annetun lain 2 ja 9 §:n muuttamisesta\.](842.md) `842/1980`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta\.](846.md) `846/1980`
+- [Laki maatilatalouden tuloverolain 12 §:n muuttamisesta\.](847.md) `847/1980`
+- [Laki leimaverolain muuttamisesta\.](851.md) `851/1980`
+- [Asetus ennakkoperintäasetuksen muuttamisesta\.](852.md) `852/1980`
+- [Laki osuuskuntalain muuttamisesta\.](861.md) `861/1980`
+- [Laki asumistukilain muuttamisesta\.](866.md) `866/1980`
+- [Laki asuntojen hankintaan myönnettävien lainojen korkotuesta\.](867.md) `867/1980`
+- [Laki tekijänoikeudesta kirjallisiin ja taiteellisiin teoksiin annetun lain muuttamisesta\.](897.md) `897/1980`
+- [Asetus jalometallituotteista annetun asetuksen muuttamisesta\.](904.md) `904/1980`
+- [Laki pellon käytön rajoittamisesta annetun lain 3 §:n muuttamisesta\.](920.md) `920/1980`
+- [Laki kansanterveyslain muuttamisesta](930.md) `930/1980`
+- [Laki kehitysvammaisten erikoishuollosta annetun lain muuttamisesta](952.md) `952/1980`
+- [Laki lasten päivähoidosta annetun lain muuttamisesta](956.md) `956/1980`
+- [Laki lapsen elatuksen turvaamisesta annetun lain muuttamisesta](969.md) `969/1980`
+- [Asetus lapsen elatuksen turvaamisesta annetun asetuksen muuttamisesta](970.md) `970/1980`
+- [Laki sotilasvammalain 14 ja 18 §:n muuttamisesta](972.md) `972/1980`
+- [Laki sotilasvammalain 18 ja 43 a §:n muuttamisesta](973.md) `973/1980`
+- [Asetus merimiehen lääkärintarkastuksista annetun asetuksen 2 §:n muuttamisesta](980.md) `980/1980`
+- [Asetus luotsausasetuksen muuttamisesta](991.md) `991/1980`
+- [Laki asevelvollisuuslain 6 ja 7 §:n muuttamisesta](1027.md) `1027/1980`
+- [Väylämaksulaki](1028.md) `1028/1980`
+- [Öljyvahinkovastuuasetus](1031.md) `1031/1980`
+- [Laki luopumiseläkelain muuttamisesta\.](1037.md) `1037/1980`
+- [Asetus luopumiseläkeasetuksen muuttamisesta\.](1038.md) `1038/1980`
+- [Laki rintamasotilaseläkelain muuttamisesta\.](1085.md) `1085/1980`

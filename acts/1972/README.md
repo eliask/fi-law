@@ -1,0 +1,56 @@
+# 1972 Statutes
+
+## Statutes
+
+- [Laki oikeudenkäymiskaaren muuttamisesta\.](21.md) `21/1972`
+- [Laki leimaverolain 12 §:n muuttamisesta\.](22.md) `22/1972`
+- [Laki asevelvollisuuslain muuttamisesta](25.md) `25/1972`
+- [Laki museovirastosta](31.md) `31/1972`
+- [Muutoksia Eduskunnan oikeusasiamiehen johtosääntöön](54.md) `54/1972`
+- [Kansanterveyslaki](66.md) `66/1972`
+- [Laki kansanterveyslain voimaanpanosta](67.md) `67/1972`
+- [Laki sairausvakuutuslain muuttamisesta](75.md) `75/1972`
+- [Laki valtion teknillisestä tutkimuskeskuksesta](144.md) `144/1972`
+- [Asetus sairausvakuutusasetuksen muuttamisesta](233.md) `233/1972`
+- [Asetus kunnille asuntoalueiden hankkimiseksi myönnettävästä korkotuesta](235.md) `235/1972`
+- [Laki kansanterveyslain voimaanpanosta annetun lain muuttamisesta](241.md) `241/1972`
+- [Laki avioliittolain voimaanpanosta annetun lain 11 §:n 3 momentin kumoamisesta\.](247.md) `247/1972`
+- [Laki oikeudenkäymiskaaren luvun muuttamisesta\.](252.md) `252/1972`
+- [Laki työntekijäin eläkelain muuttamisesta](274.md) `274/1972`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](275.md) `275/1972`
+- [Laki yksityisistä teistä annetun lain 40 ja 41 §:n muuttamisesta](322.md) `322/1972`
+- [Laki maakaaren 1 luvun 3 §:n muuttamisesta\.](323.md) `323/1972`
+- [Laki leimaverolain muuttamisesta](344.md) `344/1972`
+- [Laki valtiopäiväjärjestyksen muuttamisesta](357.md) `357/1972`
+- [Laki kansanedustajain valeista annetun lain muuttamisesta](358.md) `358/1972`
+- [Kunnallisvaalilaki](361.md) `361/1972`
+- [Laki maatilatalouden tuloverolain muuttamisesta](373.md) `373/1972`
+- [Asetus maanmittausmaksusta](398.md) `398/1972`
+- [Asetus jakoasetuksen muuttamisesta](399.md) `399/1972`
+- [Asetus yksityisistä teistä annetun asetuksen muuttamisesta](400.md) `400/1972`
+- [Atomivastuulaki](484.md) `484/1972`
+- [Laki edustajanpalkkiosta annetun lain muuttamisesta\.](497.md) `497/1972`
+- [Laki eräiden valtion eläkkeiden tarkistamisesta](555.md) `555/1972`
+- [Laki torjunta\-ainelain muuttamisesta](556.md) `556/1972`
+- [Laki pellon käytön rajoittamisesta annetun lain muuttamisesta](557.md) `557/1972`
+- [Laki kuntien yhdistymiskorvauksista ja \-avustuksista](572.md) `572/1972`
+- [Laki Suomen Hallitusmuodon muuttamisesta\.](592.md) `592/1972`
+- [Laki valtion varoista maksettavista todistelukustannuksista](666.md) `666/1972`
+- [Laki oikeudenkäymiskaaren 17 luvun muuttamisesta\.](667.md) `667/1972`
+- [Laki leimaverolain muuttamisesta](734.md) `734/1972`
+- [Asetus ortodoksisesta kirkkokunnasta annetun asetuksen muuttamisesta](745.md) `745/1972`
+- [Laki kalastuslain muuttamisesta\.](759.md) `759/1972`
+- [Autokiinnityslaki](810.md) `810/1972`
+- [Laki leimaverolain 45 §:n muuttamisesta\.](811.md) `811/1972`
+- [Asetus valtion varoista maksettavista todistelukustannuksista](813.md) `813/1972`
+- [Laki leimaverolain muuttamisesta](832.md) `832/1972`
+- [Asetus kansaneläkeasetuksen muuttamisesta](845.md) `845/1972`
+- [Laki konkurssisäännön väliaikaisesta muuttamisesta annetun lain voimassaoloajasta\.](891.md) `891/1972`
+- [Laki osamaksukaupasta annetun lain muuttamisesta](893.md) `893/1972`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](935.md) `935/1972`
+- [Asetus työntekijäin eläkeasetuksen muuttamisesta](939.md) `939/1972`
+- [Asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkeasetuksen muuttamisesta](940.md) `940/1972`
+- [Asetus maatalousyrittäjien eläkeasetuksen muuttamisesta](941.md) `941/1972`
+- [Asetus yrittäjien eläkeasetuksen muuttamisesta](942.md) `942/1972`
+- [Laki kansaneläkelain 3 ja 5 §:n muuttamisesta](956.md) `956/1972`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain 16 ja 20 §:n muuttamisesta](957.md) `957/1972`

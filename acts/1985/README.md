@@ -1,0 +1,182 @@
+# 1985 Statutes
+
+## Statutes
+
+- [Laki maatalousyrittäjän lomituspalveluista](2.md) `2/1985`
+- [Laki rintamasotilaseläkelain muuttamisesta](3.md) `3/1985`
+- [Laki lasten päivähoidosta annetun lain muuttamisesta](28.md) `28/1985`
+- [Asetus lasten päivähoidosta annetun asetuksen muuttamisesta](29.md) `29/1985`
+- [Laki työsopimuslain muuttamisesta](30.md) `30/1985`
+- [Laki vuosilomalain 3 §:n muuttamisesta](31.md) `31/1985`
+- [Laki sairausvakuutuslain muuttamisesta](32.md) `32/1985`
+- [Asetus sairausvakuutusasetuksen muuttamisesta](33.md) `33/1985`
+- [Laki työttömyysturvalain muuttamisesta](34.md) `34/1985`
+- [Laki pakkohuutokaupalla myytävien kiinteistöjen lunastamisesta valtiolle annetun lain 1 §:n muuttamisesta](45.md) `45/1985`
+- [Laki työntekijäin eläkelain muuttamisesta](50.md) `50/1985`
+- [Laki merimieseläkelain muuttamisesta](52.md) `52/1985`
+- [Laki kansaneläkelain muuttamisesta](53.md) `53/1985`
+- [Laki perhe\-eläkelain 15 b §:n muuttamisesta](54.md) `54/1985`
+- [Laki rintamasotilaseläkelain 8 §:n muuttamisesta](55.md) `55/1985`
+- [Laki eläkkeensaajien asumistukilain 6 §:n muuttamisesta](56.md) `56/1985`
+- [Rakennussuojelulaki](60.md) `60/1985`
+- [Laki rakennuslain muuttamisesta](61.md) `61/1985`
+- [Laki vuokra\-asuntojen hankintaan myönnettävien lainojen korkotuesta annetun lain muuttamisesta](62.md) `62/1985`
+- [Laki valtion eläkelain muuttamisesta](91.md) `91/1985`
+- [Laki valtion perhe\-eläkelain muuttamisesta](92.md) `92/1985`
+- [Laki eräiden valtion eläkkeiden tarkistamisesta annetun lain 4 §:n kumoamisesta](93.md) `93/1985`
+- [Asetus työntekijäin eläkeasetuksen muuttamisesta](106.md) `106/1985`
+- [Asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkeasetuksen muuttamisesta](107.md) `107/1985`
+- [Asetus maatalousyrittäjien eläkeasetuksen muuttamisesta](108.md) `108/1985`
+- [Asetus yrittäjien eläkeasetuksen muuttamisesta](109.md) `109/1985`
+- [Asetus kansaneläkeasetuksen muuttamisesta](110.md) `110/1985`
+- [Laki kalastuslain muuttamisesta](112.md) `112/1985`
+- [Laki steriloimislain muuttamisesta](125.md) `125/1985`
+- [Laki rakennuslain 10 b §:n muuttamisesta](135.md) `135/1985`
+- [Harjoittelukoululaki](143.md) `143/1985`
+- [Laki opettajankoulutuslain muuttamisesta](144.md) `144/1985`
+- [Asetus evankelis\-luterilaisen kirkon eläkeasetuksen 3 §:n 2 momentin kumoamisesta](146.md) `146/1985`
+- [Laki valtiopäiväjärjestyksen 29 §:n muuttamisesta](152.md) `152/1985`
+- [Laki lapseksiottamisesta](153.md) `153/1985`
+- [Asetus radiovastuuasetuksen 1 §:n muuttamisesta](156.md) `156/1985`
+- [Asetus ulosottotoimesta](158.md) `158/1985`
+- [Asetus ulosottoasetuksen muuttamisesta](162.md) `162/1985`
+- [Asetus verojen ja maksujen perimisestä ulosottotoimin annetun asetuksen muuttamisesta](163.md) `163/1985`
+- [Asetus sakkorangaistuksen täytäntöönpanosta annetun asetuksen muuttamisesta](164.md) `164/1985`
+- [Asetus korkeimmasta hallinto\-oikeudesta annetun asetuksen muuttamisesta](181.md) `181/1985`
+- [Laki avioliittolain voimaanpanosta annetun lain 11 §:n 3 momentin kumoamisesta\.](247.md) `247/1985`
+- [Laki ulkoilulain 2 §:n muuttamisesta](255.md) `255/1985`
+- [Oikeusministeriön päätös yleisen asianajajayhdistyksen sääntöjen vahvistamisesta annetun oikeusministeriön päätöksen muuttamisesta](312.md) `312/1985`
+- [Laki valtion eläkelain muuttamisesta](326.md) `326/1985`
+- [Laki tapaturmavakuutuslain 2 §:n muuttamisesta](329.md) `329/1985`
+- [Laki maatalousyrittäjien eläkelain 12 §:n muuttamisesta](331.md) `331/1985`
+- [Asetus kehitysvammaisten erityishuollosta annetun asetuksen muuttamisesta](335.md) `335/1985`
+- [Harjoittelukouluasetus](336.md) `336/1985`
+- [Laki ihmisen elimien ja kudoksien irrottamisesta lääketieteelliseen käyttöön](355.md) `355/1985`
+- [Asetus peruskouluasetuksen muuttamisesta](359.md) `359/1985`
+- [Asetus lukioasetuksen muuttamisesta](360.md) `360/1985`
+- [Laki kansanedustajain vaaleista annetun lain muuttamisesta](370.md) `370/1985`
+- [Laki kunnallisvaalilain muuttamisesta](372.md) `372/1985`
+- [Laki suuronnettomuuksien tutkinnasta](373.md) `373/1985`
+- [Laki osuuskuntalain 18 §:n muuttamisesta](385.md) `385/1985`
+- [Laki patenttilain muuttamisesta](387.md) `387/1985`
+- [Kiinteistörekisterilaki](392.md) `392/1985`
+- [Asetus valtion varoista maksettavista todistelukustannuksista annetun asetuksen muuttamisesta](394.md) `394/1985`
+- [Asetus maksuttomasta oikeudenkäynnistä annetun asetuksen muuttamisesta](395.md) `395/1985`
+- [Asetus eräistä veri\- ja muita periytyviä ominaisuuksia koskevista tutkimuksista annetun asetuksen 11 §:n muuttamisesta](396.md) `396/1985`
+- [Asetus yksityisoikeudellista vaatimusta koskevien pohjoismaisten tuomioiden täytäntöönpanosta annetun asetuksen 5 §:n muuttamisesta](397.md) `397/1985`
+- [Laki maatilatalouden tuloverolain väliaikaisesta muuttamisesta](408.md) `408/1985`
+- [Steriloimisasetus](427.md) `427/1985`
+- [Laki kuntien suhdannetalletuksista](434.md) `434/1985`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain muuttamisesta](461.md) `461/1985`
+- [Laki sairausvakuutuslain muuttamisesta](462.md) `462/1985`
+- [Asetus rakennusasetuksen muuttamisesta](471.md) `471/1985`
+- [Laki sairausvakuutuslain muuttamisesta](479.md) `479/1985`
+- [Kiinteistörekisteriasetus](481.md) `481/1985`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain 3 §:n muuttamisesta](484.md) `484/1985`
+- [Asetus patenttilain muuttamisesta annetun lain voimaantulosta](504.md) `504/1985`
+- [Asetus patenttiasetuksen muuttamisesta](505.md) `505/1985`
+- [Laki maa\-aineslain 26 §:n muuttamisesta](521.md) `521/1985`
+- [Laki verotuslain 125 ja 126 a §:n muuttamisesta](541.md) `541/1985`
+- [Laki ennakkoperintälain 28 ja 49 §:n muuttamisesta](542.md) `542/1985`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain 14 §:n muuttamisesta](543.md) `543/1985`
+- [Laki perintö\- ja lahjaverolain 62 §:n muuttamisesta](544.md) `544/1985`
+- [Laki moottoriajoneuvoverosta annetun lain 32 a §:n muuttamisesta](548.md) `548/1985`
+- [Laki raskauden keskeyttämisestä annetun lain muuttamisesta](572.md) `572/1985`
+- [Laki kansanterveyslain 15 §:n muuttamisesta](573.md) `573/1985`
+- [Laki työntekijäin eläkelain muuttamisesta](592.md) `592/1985`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 7 §:n muuttamisesta](593.md) `593/1985`
+- [Laki kansaneläkelain 26 §:n muuttamisesta](594.md) `594/1985`
+- [Laki sairausvakuutuslain 27 §:n muuttamisesta](595.md) `595/1985`
+- [Laki yrittäjien eläkelain 6 §:n muuttamisesta](597.md) `597/1985`
+- [Laki kansanterveyslain muuttamisesta](598.md) `598/1985`
+- [Laki sosiaalihuoltolain muuttamisesta](599.md) `599/1985`
+- [Laki työsuojelun valvonnasta annetun lain 8 §:n muuttamisesta](600.md) `600/1985`
+- [Laki peruskoululain muuttamisesta](614.md) `614/1985`
+- [Laki lukiolain muuttamisesta](615.md) `615/1985`
+- [Laki ammatillisten oppilaitosten oppilaiden opintososiaalisista eduista annetun lain muuttamisesta](626.md) `626/1985`
+- [Laki Jehovan todistajien vapauttamisesta asevelvollisuuden suorittamisesta eräissä tapauksissa](645.md) `645/1985`
+- [Laki asevelvollisuuslain 34 §:n muuttamisesta](646.md) `646/1985`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain 3 §:n muuttamisesta](653.md) `653/1985`
+- [Laki sairausvakuutuslain muuttamisesta](661.md) `661/1985`
+- [Eräiden työsuhteessa olevien taiteilijoiden ja toimittajien eläkelaki](662.md) `662/1985`
+- [Laki työntekijäin eläkelain 8 §:n muuttamisesta](663.md) `663/1985`
+- [Laki valtion eläkelain 2 §:n muuttamisesta](664.md) `664/1985`
+- [Laki työntekijäin eläkelain muuttamisesta](666.md) `666/1985`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](667.md) `667/1985`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](668.md) `668/1985`
+- [Laki yrittäjien eläkelain muuttamisesta](669.md) `669/1985`
+- [Laki kansaneläkelain muuttamisesta](670.md) `670/1985`
+- [Laki eläkkeensaajien asumistukilain muuttamisesta](671.md) `671/1985`
+- [Laki perhe\-eläkelain muuttamisesta](673.md) `673/1985`
+- [Laki sairausvakuutuslain muuttamisesta](674.md) `674/1985`
+- [Laki veronkantolain 27 a §:n muuttamisesta](682.md) `682/1985`
+- [Sukunimilaki](694.md) `694/1985`
+- [Laki lapseksiottamisesta annetun lain 13 §:n muuttamisesta](695.md) `695/1985`
+- [Laki valtion eläkelain muuttamisesta](696.md) `696/1985`
+- [Laki valtion perhe\-eläkelain muuttamisesta](697.md) `697/1985`
+- [Kansalaisuusasetus](699.md) `699/1985`
+- [Laki osakeyhtiölain 2 luvun 1 §:n ja 8 luvun 4 §:n muuttamisesta](701.md) `701/1985`
+- [Laki prokuralain 4 §:n muuttamisesta](702.md) `702/1985`
+- [Laki kuluttajavalituslautakunnasta annetun lain 2 §:n muuttamisesta](703.md) `703/1985`
+- [Laki torjunta\-ainelain 5 a ja 5 b §:n muuttamisesta](704.md) `704/1985`
+- [Asetus tavara\-arpajaisasetuksen muuttamisesta](708.md) `708/1985`
+- [Asetus ihmisen elimien ja kudoksien irrottamisesta lääketieteelliseen käyttöön](724.md) `724/1985`
+- [Laki nopeusvalvontaa vaikeuttavien laitteiden kieltämisestä](733.md) `733/1985`
+- [Laki maa\-alueilla tapahtuvien öljyvahinkojen torjumisesta annetun lain muuttamisesta](740.md) `740/1985`
+- [Laki öljysuojarahastosta annetun lain muuttamisesta](741.md) `741/1985`
+- [Asetus rintamaveteraanien varhaiseläkkeestä annetun asetuksen muuttamisesta](746.md) `746/1985`
+- [Laki eläinsuojelulain muuttamisesta](777.md) `777/1985`
+- [Yrityskiinnitysasetus](778.md) `778/1985`
+- [Asetus oikeudesta luovuttaa valtion maaomaisuutta ja tuloatuottavia oikeuksia annetun asetuksen 1 §:n muuttamisesta](794.md) `794/1985`
+- [Asetus raha\-automaattiasetuksen muuttamisesta](825.md) `825/1985`
+- [Asetus sairausvakuutusasetuksen 3 §:n muuttamisesta](835.md) `835/1985`
+- [Asetus yleisistä teistä annetun asetuksen muuttamisesta](844.md) `844/1985`
+- [Asetus väylämaksuasetuksen muuttamisesta](861.md) `861/1985`
+- [Laki ammatillisten oppilaitosten oppilaiden opintososiaalisista eduista annetun lain 2 §:n muuttamisesta](868.md) `868/1985`
+- [Asetus työntekijäin eläkeasetuksen muuttamisesta](871.md) `871/1985`
+- [Asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkeasetuksen muuttamisesta](872.md) `872/1985`
+- [Asetus yrittäjien eläkeasetuksen muuttamisesta](874.md) `874/1985`
+- [Laki perintö\- ja lahjaverolain muuttamisesta](876.md) `876/1985`
+- [Laki kansanterveyslain 14 §:n muuttamisesta](903.md) `903/1985`
+- [Laki kirjanpitolain 38 §:n muuttamisesta](904.md) `904/1985`
+- [Laki rikosvahinkojen korvaamisesta valtion varoista annetun lain muuttamisesta](916.md) `916/1985`
+- [Laki asunto\-olojen kehittämisestä](919.md) `919/1985`
+- [Laki maatilatalouden tuloverolain muuttamisesta](941.md) `941/1985`
+- [Laki verotuslain 45 §:n muuttamisesta](942.md) `942/1985`
+- [Laki leimaverolain 97 a §:n muuttamisesta](945.md) `945/1985`
+- [Laki moottoriajoneuvoverosta annetun lain muuttamisesta](947.md) `947/1985`
+- [Valuuttalaki](954.md) `954/1985`
+- [Asetus ulosottoasetuksen muuttamisesta](1017.md) `1017/1985`
+- [Asetus verojen ja maksujen perimisestä ulosottotoimin annetun asetuksen 4 §:n kumoamisesta](1019.md) `1019/1985`
+- [Asetus sakkorangaistuksen täytäntöönpanosta annetun asetuksen muuttamisesta](1020.md) `1020/1985`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](1038.md) `1038/1985`
+- [Laki maatilatalouden tuloverolain 5 ja 9 §:n muuttamisesta](1039.md) `1039/1985`
+- [Laki verotuslain 60 §:n muuttamisesta](1040.md) `1040/1985`
+- [Laki rikesakkolain 4 §:n muuttamisesta](1048.md) `1048/1985`
+- [Laki uskonnonvapauslain 9 §:n muuttamisesta](1049.md) `1049/1985`
+- [Laki sairausvakuutuslain 16 §:n muuttamisesta](1058.md) `1058/1985`
+- [Laki liiketoimintakiellosta](1059.md) `1059/1985`
+- [Laki ennakkoperintälain muuttamisesta](1083.md) `1083/1985`
+- [Laki luopumiseläkelain muuttamisesta](1087.md) `1087/1985`
+- [Laki maatalousyrittäjien eläkelain 6 §:n 5 momentin ja 10 §:n 5 momentin kumoamisesta](1089.md) `1089/1985`
+- [Asetus luopumiseläkeasetuksen muuttamisesta](1090.md) `1090/1985`
+- [Asetus kansaneläkeasetuksen 23 §:n muuttamisesta](1098.md) `1098/1985`
+- [Laki edustajanpalkkiosta annetun lain muuttamisesta](1110.md) `1110/1985`
+- [Laki elinkeinotulon verottamisesta annetun lain 28 ja 46 a §:n muuttamisesta](1112.md) `1112/1985`
+- [Laki sotilasvammalain muuttamisesta](1116.md) `1116/1985`
+- [Asetus  sotilasvammalain eräiden säännösten soveltamisesta](1117.md) `1117/1985`
+- [Laki lasten päivähoidosta annetun lain muuttamisesta](1119.md) `1119/1985`
+- [Laki työntekijäin eläkelain muuttamisesta](1120.md) `1120/1985`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 7 ja 10 §:n muuttamisesta](1121.md) `1121/1985`
+- [Laki merimieseläkelain muuttamisesta](1122.md) `1122/1985`
+- [Laki maatalousyrittäjien eläkelain 12 §:n muuttamisesta](1123.md) `1123/1985`
+- [Laki yrittäjien eläkelain 12 §:n muuttamisesta](1124.md) `1124/1985`
+- [Laki eräiden työsuhteessa olevien taiteilijoiden ja toimittajien eläkelain 8 §:n muuttamisesta](1125.md) `1125/1985`
+- [Laki työntekijäin eläkelain 4 c §:n muuttamisesta](1127.md) `1127/1985`
+- [Laki merimieseläkelain 15 e §:n muuttamisesta](1128.md) `1128/1985`
+- [Laki kansaneläkelain 20 §:n muuttamisesta](1129.md) `1129/1985`
+- [Laki valtion eläkelain 9 a §:n muuttamisesta](1130.md) `1130/1985`
+- [Asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkeasetuksen muuttamisesta](1131.md) `1131/1985`
+- [Asetus maatalousyrittäjien eläkeasetuksen muuttamisesta](1133.md) `1133/1985`
+- [Asetus yrittäjien eläkeasetuksen 12 a §:n muuttamisesta](1134.md) `1134/1985`
+- [Laki meripelastuspalvelusta annetun lain 11 §:n muuttamisesta](1142.md) `1142/1985`

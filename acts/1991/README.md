@@ -1,0 +1,1737 @@
+# 1991 Statutes
+
+## Statutes
+
+- [Laki autorekisterikeskuksesta annetun lain muuttamisesta](1.md) `1/1991`
+- [Asetus autorekisterikeskuksesta](2.md) `2/1991`
+- [Asetus ennakkoperintäasetuksen muuttamisesta](3.md) `3/1991`
+- [Asetus korkotulon lähdeverosta](4.md) `4/1991`
+- [Asetus sosiaali\- ja terveysministeriön hallinnonalan eräiden virkojen perustamisesta ja lakkauttamisesta](5.md) `5/1991`
+- [Valtioneuvoston päätös lomittajatoimintaa koskevasta ostopalvelukokeilusta annetun valtioneuvoston päätöksen muuttamisesta](6.md) `6/1991`
+- [Valtioneuvoston päätös asumistuen määräytymisperusteista annetun valtioneuvoston päätöksen 3§:n muuttamisesta](7.md) `7/1991`
+- [Asetus puolustusvoimien eräiden virkojen perustamisesta ja lakkauttamisesta](8.md) `8/1991`
+- [Asetus raha\-automaattiasetuksen 31§:n muuttamisesta](9.md) `9/1991`
+- [Asetus sisäasiainministeriöstä annetun asetuksen väliaikaisesta muuttamisesta](10.md) `10/1991`
+- [Valtioneuvoston päätös valtion työntekijöiden matkakustannusten korvaamisesta annetun valtioneuvoston päätöksen muuttamisesta](11.md) `11/1991`
+- [Valtiovarainministeriön päätös eräiden verojen maksupaikoista ja tiedonsiirtokorvauksista annetun valtiovarainministeriön päätöksen muuttamisesta](12.md) `12/1991`
+- [Valtiovarainministeriön päätös eräiden verojen ja maksujen jälkikannosta annetun valtiovarainministeriön päätöksen 1 ja 2§:n muuttamisesta](13.md) `13/1991`
+- [Valtiovarainministeriön päätös liiketoimintaa harjoittavista valtion virastoista ja laitoksista](14.md) `14/1991`
+- [Laki opintokeskusten valtionavusta annetun lain muuttamisesta](15.md) `15/1991`
+- [Asetus opintokeskusten valtionavusta](16.md) `16/1991`
+- [Laki kansanopistojen valtionavusta annetun lain muuttamisesta](17.md) `17/1991`
+- [Asetus kansanopistojen valtionavusta annetun asetuksen muuttamisesta](18.md) `18/1991`
+- [Asetus harjoittelukouluasetuksen 16 ja 19§:n muuttamisesta](19.md) `19/1991`
+- [Asetus indeksilain soveltamislautakunnasta](20.md) `20/1991`
+- [Asetus pakolaisten väliaikaisen sijoittamisen järjestämisestä](21.md) `21/1991`
+- [Asetus kaupunginviskaaleista annetun asetuksen muuttamisesta](22.md) `22/1991`
+- [Valtioneuvoston päätös maataloustuotannon vähentämissopimuksista vuonna 1991](23.md) `23/1991`
+- [Valtioneuvoston päätös pellon metsityspalkkioista vuonna 1991](24.md) `24/1991`
+- [Valtioneuvoston päätös pellon kesannoimissopimuksista ja \-palkkioista vuonna 1991](25.md) `25/1991`
+- [Valtioneuvoston päätös luonnonmukaista maataloustuotantoa koskevista sopimuksista vuonna 1991](26.md) `26/1991`
+- [Valtioneuvoston päätös vuonna 1991 tehtävistä herneen tuotantosopimuksista](27.md) `27/1991`
+- [Valtioneuvoston päätös vuonna 1991 tehtävistä viherheinän tuotantosopimuksista](28.md) `28/1991`
+- [Valtioneuvoston päätös kananmunien lisähinnasta](29.md) `29/1991`
+- [Laki Amerikan yhdysvaltojen kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](30.md) `30/1991`
+- [Asetus Amerikan yhdysvaltojen kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](31.md) `31/1991`
+- [Laki yksinoikeudesta integroidun piirin piirimalliin](32.md) `32/1991`
+- [Laki patentti\- ja rekisterihallituksesta annetun lain muuttamisesta](33.md) `33/1991`
+- [Laki tekijänoikeuslain muuttamisesta](34.md) `34/1991`
+- [Laki oikeudesta valokuvaan annetun lain muuttamisesta](35.md) `35/1991`
+- [Laki eläinsuojelulain muuttamisesta](36.md) `36/1991`
+- [Yhteismetsälaki](37.md) `37/1991`
+- [Yhteismetsäasetus](38.md) `38/1991`
+- [Asetus Neuvostoliiton kanssa clearingmaksujen selvitysmenettelystä tehdyn pöytäkirjan voimaansaattamisesta](39.md) `39/1991`
+- [Asetus Neuvostoliiton kanssa tavaranvaihdosta ja maksuista vuosina 1991\-1995 tehdyn sopimuksen sekä sopimukseen liittyvän pöytäkirjan voimaansaattamisesta](40.md) `40/1991`
+- [Asetus pohjoismaisen sosiaaliturvasopimuksen muutoksen voimaansaattamisesta](41.md) `41/1991`
+- [Laki opintovapaalain 5 ja 10§:n muuttamisesta](42.md) `42/1991`
+- [Asetus valtion mielisairaaloiden eräiden virkojen nimien muuttamisesta](43.md) `43/1991`
+- [Asetus sisäasiainministeriön ja liikkuvan poliisin eräiden virkojen perustamisesta ja lakkauttamisesta sekä sisäasiainministeriön eräiden virkojen nimien muuttamisesta](44.md) `44/1991`
+- [Asetus eräiden ympäristöministeriön hallinnonalan virkojen perustamisesta ja lakkauttamisesta](45.md) `45/1991`
+- [Asetus vesi\- ja ympäristöhallinnon eräistä virkajärjestelyistä](46.md) `46/1991`
+- [Valtioneuvoston päätös Teijon retkeilyalueen perustamisesta](47.md) `47/1991`
+- [Valtioneuvoston päätös maatalousyrittäjien opintorahasta](48.md) `48/1991`
+- [Valtiovarainministeriön päätös veroilmoituksen antamisajan pidentämisestä](49.md) `49/1991`
+- [Valtiovarainministeriön päätös eräiden tietojen toimittamisajankohdasta kalenterivuodelta 1990 ja verovuodelta 1990 tehtävän maatalouden investointitalletuksen tekoajasta](50.md) `50/1991`
+- [Valtiovarainministeriön päätös vuodelta 1989 maksuunpannun säännönmukaisen lopullisen veron kantoajoista ja kantoeristä](51.md) `51/1991`
+- [Valtiovarainministeriön päätös verovuoden 1991 ennakon alarajasta ja kantoeristä](52.md) `52/1991`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 1 ja 11§:n muuttamisesta](53.md) `53/1991`
+- [Laki eräiden työsuhteessa olevien taiteilijoiden ja toimittajien eläkelain 9§:n muuttamisesta](54.md) `54/1991`
+- [Asetus ulkoasiainhallinnosta annetun asetuksen muuttamisesta](55.md) `55/1991`
+- [Asetus Kiteen, Nivalan ja Orimattilan kaupungin perustamisesta](56.md) `56/1991`
+- [Asetus patjojen paloturvallisuusvaatimuksista](57.md) `57/1991`
+- [Asetus työllisyysasetuksen 24§:n muuttamisesta](58.md) `58/1991`
+- [Asetus työvoiman vuokrauksesta annetun asetuksen muuttamisesta](59.md) `59/1991`
+- [Valtioneuvoston päätös rakennemuutosmäärärahan käyttöperusteista annetun valtioneuvoston päätöksen 1§:n muuttamisesta](60.md) `60/1991`
+- [Valtioneuvoston päätös asunto\-, omaksilunastamis\- ja perusparannuslainan myöntämisessä sekä asukkaaksi hyväksymisessä sovellettavista arvosteluperusteista](61.md) `61/1991`
+- [Laki Erämaalaki](62.md) `62/1991`
+- [Laki sosiaali\- ja terveyshallituksesta](63.md) `63/1991`
+- [Laki lääkelaboratoriosta annetun lain 1 ja 4§:n muuttamisesta](64.md) `64/1991`
+- [Laki lääkärintoimen harjoittamisesta annetun lain muuttamisesta](65.md) `65/1991`
+- [Laki hammaslääkärintoimen harjoittamisesta annetun lain muuttamisesta](66.md) `66/1991`
+- [Laki hammasteknikon toimen harjoittamisesta annetun lain muuttamisesta](67.md) `67/1991`
+- [Laki sairaanhoitotoimen harjoittamisesta annetun lain muuttamisesta](68.md) `68/1991`
+- [Laki hierojan toimesta annetun lain muuttamisesta](69.md) `69/1991`
+- [Laki optikon toimen harjoittamisesta annetun lain muuttamisesta](70.md) `70/1991`
+- [Laki kansanterveyslain muuttamisesta](71.md) `71/1991`
+- [Laki kansanterveyslain voimaanpanosta annetun lain 11§:n muuttamisesta](72.md) `72/1991`
+- [Laki terveydenhoitolain muuttamisesta](73.md) `73/1991`
+- [Laki vastavuoroisesta sairaan\- ja terveydenhoidosta rajaseudulla annetun lain 3§:n muuttamisesta](74.md) `74/1991`
+- [Laki työterveyshuoltolain muuttamisesta](75.md) `75/1991`
+- [Laki tartuntatautilain muuttamisesta](76.md) `76/1991`
+- [Laki erikoissairaanhoitolain 5§:n muuttamisesta](77.md) `77/1991`
+- [Laki valtion mielisairaaloista annetun lain 1 ja 3§:n muuttamisesta](78.md) `78/1991`
+- [Laki yksityisestä terveydenhuollosta annetun lain muuttamisesta](79.md) `79/1991`
+- [Laki ihmisen elimien ja kudoksien irrottamisesta lääketieteelliseen käyttöön annetun lain muuttamisesta](80.md) `80/1991`
+- [Laki lääkelain muuttamisesta](81.md) `81/1991`
+- [Laki apteekkimaksusta annetun lain muuttamisesta](82.md) `82/1991`
+- [Laki proviisorintoimen ja farmaseutintoimen harjoittamisesta annetun lain muuttamisesta](83.md) `83/1991`
+- [Laki kemikaalilain muuttamisesta](84.md) `84/1991`
+- [Laki sairaanhoitotarvikelain muuttamisesta](85.md) `85/1991`
+- [Laki lääkkeiden velvoitevarastointilain muuttamisesta](86.md) `86/1991`
+- [Laki steriloimislain muuttamisesta](87.md) `87/1991`
+- [Laki kastroimislain muuttamisesta](88.md) `88/1991`
+- [Laki raskauden keskeyttämisestä annetun lain muuttamisesta](89.md) `89/1991`
+- [Laki rintamaveteraanien kuntoutuksesta annetun lain 3 ja 12§:n muuttamisesta](90.md) `90/1991`
+- [Laki sairausvakuutuslain muuttamisesta](91.md) `91/1991`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain muuttamisesta](92.md) `92/1991`
+- [Laki sosiaalihuoltolain muuttamisesta](93.md) `93/1991`
+- [Laki lastensuojelulain muuttamisesta](94.md) `94/1991`
+- [Laki lasten päivähoidosta annetun lain muuttamisesta](95.md) `95/1991`
+- [Laki kehitysvammaisten erityishuollosta annetun lain muuttamisesta](96.md) `96/1991`
+- [Laki päihdehuoltolain 18§:n muuttamisesta](97.md) `97/1991`
+- [Laki äitiysavustuslain 10 ja 11§:n muuttamisesta](98.md) `98/1991`
+- [Laki lapsilisälain 14§:n muuttamisesta](99.md) `99/1991`
+- [Laki sotilasavustuslain muuttamisesta](100.md) `100/1991`
+- [Laki avioliittolain 22§:n muuttamisesta](101.md) `101/1991`
+- [Laki lapseksiottamisesta annetun lain muuttamisesta](102.md) `102/1991`
+- [Laki metsästyslain 38§:n muuttamisesta](103.md) `103/1991`
+- [Laki tuoteturvallisuuslain muuttamisesta](104.md) `104/1991`
+- [Laki eräistä elintarvikerasvoista annetun lain 15 ja 17§:n muuttamisesta](105.md) `105/1991`
+- [Laki toimenpiteistä tupakoinnin vähentämiseksi annetun lain muuttamisesta](106.md) `106/1991`
+- [Laki alkoholilain muuttamisesta](107.md) `107/1991`
+- [Laki kotitaloustyöntekijän työsuhteesta annetun lain 2§:n muuttamisesta](108.md) `108/1991`
+- [Laki pienyrittäjän vuosilomarahasta annetun lain muuttamisesta](109.md) `109/1991`
+- [Laki maatalousyrittäjän lomituspalveluista annetun lain muuttamisesta](110.md) `110/1991`
+- [Laki nuorten työntekijäin suojelusta annetun lain 14 ja 19§:n muuttamisesta](111.md) `111/1991`
+- [Laki lyijyvalkoisen ja lyijysulfaatin käytön kieltämisestä eräissä maalaustöissä annetun lain 4§:n muuttamisesta](112.md) `112/1991`
+- [Laki vaarallisten rikoksenuusijain eristämisestä annetun lain 3§:n muuttamisesta](113.md) `113/1991`
+- [Laki kuolemansyyn selvittämisestä annetun lain 3 ja 13§:n muuttamisesta](114.md) `114/1991`
+- [Laki terveydenhuollon valtakunnallisista henkilörekistereistä annetun lain muuttamisesta](115.md) `115/1991`
+- [Laki kuulovammaisten ja näkövammaisten sekä liikuntavammaisten kouluista annetun lain 4§:n muuttamisesta](116.md) `116/1991`
+- [Laki eläinlääkärintoimen harjoittamisesta annetun lain 19§:n muuttamisesta](117.md) `117/1991`
+- [Laki sairausvakuutuslain mukaisen omavastuuajan korvaamisesta maatalousyrittäjille](118.md) `118/1991`
+- [Asetus vuonna 1991 pidettävien jääkiekkoilun maailmanmestaruuskisojen johdosta lyötävästä juhlarahasta](119.md) `119/1991`
+- [Asetus satovahinkojen korvaamisesta annetun asetuksen muuttamisesta](120.md) `120/1991`
+- [Valtioneuvoston päätös ulkomaanedustuksen virkamiesten paikalliskorotuksesta, varustautumiskorvauksesta ja asettautumiskustannusten korvauksesta annetun valtioneuvoston päätöksen muuttamisesta](121.md) `121/1991`
+- [Valtioneuvoston päätös valtion virkamiesten erorahan suuruudesta annetun valtioneuvoston päätöksen muuttamisesta](122.md) `122/1991`
+- [Valtioneuvoston päätös eräiden keskitetysti suoritettujen etuuksien ja korvausten perimisestä valtion liikelaitoksilta annetun valtioneuvoston päätöksen muuttamisesta](123.md) `123/1991`
+- [Valtioneuvoston päätös valtion liikelaitosten eläkemaksujen perusteista annetun valtioneuvoston päätöksen muuttamisesta](124.md) `124/1991`
+- [Valtioneuvoston päätös teollisuuden alennusvoin hinnanalennuskorvauksesta annetun valtioneuvoston päätöksen muuttamisesta](125.md) `125/1991`
+- [Valtioneuvoston päätös apteekkimaksusta annetun lain 2§:n 1 momentissa mainittujen liikevaihtoryhmien sekä liikevaihdon alarajojen kohdilla olevien apteekkimaksun markkamäärien tarkistamisesta](126.md) `126/1991`
+- [Puolustusministeriön päätös asevelvollisten yleisistä varusmiespalvelukseen astumispäivistä vuonna 1993](127.md) `127/1991`
+- [Valtiovarainministeriön päätös suurten kana\- ja sikatalouksien markkinoimismaksun määräämiseksi annettavan tuloilmoituksen antamisajan pidentämisestä](128.md) `128/1991`
+- [Maa\- ja metsätalousministeriön päätös kananmunien laatuluokittelusta](129.md) `129/1991`
+- [Laki Saaristomeren kansallispuistosta annetun lain 1 ja 3§:n muuttamisesta](130.md) `130/1991`
+- [Laki Haapasuon ja Syysniemen sekä Ruunaan luonnonsuojelualueista](131.md) `131/1991`
+- [Asetus Haapasuon ja Syysniemen sekä Ruunaan luonnonsuojelualueista](132.md) `132/1991`
+- [Laki Valtavaaran ja Pyhävaaran luonnonsuojelualueesta](133.md) `133/1991`
+- [Asetus Valtavaaran ja Pyhävaaran luonnonsuojelualueesta](134.md) `134/1991`
+- [Laki Jonkerinsalon, Siikavaaran, Jaaskamonvaaran, Mustanrinnantunturin ja Pitsloman luonnonsuojelualueista](135.md) `135/1991`
+- [Asetus Jonkerinsalon, Siikavaaran, Jaaskamonvaaran, Mustanrinnantunturin ja Pitsloman luonnonsuojelualueista](136.md) `136/1991`
+- [Laki Punkaharjun luonnonsuojelualueesta](137.md) `137/1991`
+- [Asetus Punkaharjun luonnonsuojelualueesta](138.md) `138/1991`
+- [Luettelo veroäyrien hinnoista vuonna 1991](139.md) `139/1991`
+- [Laki kansalais\- ja työväenopistojen valtionavusta annetun lain muuttamisesta](140.md) `140/1991`
+- [Asetus kansalais\- ja työväenopistojen valtionavusta annetun asetuksen muuttamisesta](141.md) `141/1991`
+- [Asetus sosiaali\- ja terveyshallituksesta](142.md) `142/1991`
+- [Asetus tartuntatautiasetuksen muuttamisesta](143.md) `143/1991`
+- [Valtioneuvoston päätös tuen myöntämisestä ulkomaanliikenteessä käytettävällekuljetuskalustolle](144.md) `144/1991`
+- [Valtioneuvoston päätös suhdannetalletusten palauttamisesta](145.md) `145/1991`
+- [Laki ammatillisista oppilaitoksista annetun lain muuttamisesta](146.md) `146/1991`
+- [Laki lukiolain 59§:n muuttamisesta](147.md) `147/1991`
+- [Laki ammatillisten oppilaitosten rahoituksesta annetun lain 2§:n muuttamisesta](148.md) `148/1991`
+- [Laki ammatillisten oppilaitosten oppilaiden opintososiaalisista eduista annetun lain muuttamisesta](149.md) `149/1991`
+- [Asetus ammattioppilaitoksista annetun asetuksen muuttamisesta](150.md) `150/1991`
+- [Asetus hotelli\- ja ravintolaoppilaitoksista annetun asetuksen muuttamisesta](151.md) `151/1991`
+- [Asetus kauppaoppilaitoksista annetun asetuksen muuttamisesta](152.md) `152/1991`
+- [Asetus koti\- ja laitostalousoppilaitoksista annetun asetuksen muuttamisesta](153.md) `153/1991`
+- [Asetus kuvataideoppilaitoksista annetun asetuksen muuttamisesta](154.md) `154/1991`
+- [Asetus käsi\- ja taideteollisuusoppilaitoksista annetun asetuksen muuttamisesta](155.md) `155/1991`
+- [Asetus maatalousalan oppilaitoksista annetun asetuksen muuttamisesta](156.md) `156/1991`
+- [Asetus merenkulkuoppilaitoksista annetun asetuksen muuttamisesta](157.md) `157/1991`
+- [Asetus metsä\- ja puutalousoppilaitoksista annetun asetuksen muuttamisesta](158.md) `158/1991`
+- [Asetus sosiaalialan oppilaitoksista annetun asetuksen muuttamisesta](159.md) `159/1991`
+- [Asetus teknillisistä oppilaitoksista annetun asetuksen muuttamisesta](160.md) `160/1991`
+- [Asetus terveydenhuolto\-oppilaitoksista annetun asetuksen muuttamisesta](161.md) `161/1991`
+- [Asetus ammatillisista erikoisoppilaitoksista annetun asetuksen 3§:n 2 momentin kumoamisesta](162.md) `162/1991`
+- [Asetus ammatillisista erityisoppilaitoksista annetun asetuksen 1§:n 4 momentin kumoamisesta](163.md) `163/1991`
+- [Asetus ammatillisista opettajankoulutuslaitoksista annetun asetuksen 31§:n muuttamisesta](164.md) `164/1991`
+- [Asetus opetusministeriön hallinnonalan koulutuksen ja korkeakouluissa harjoitettavan tutkimuksen kehittämissuunnitelmasta](165.md) `165/1991`
+- [Asetus yhteishausta](166.md) `166/1991`
+- [Asetus eräiden opetusministeriön hallinnonalan virkojen perustamisesta ja lakkauttamisesta](167.md) `167/1991`
+- [Laki yksityisten koulujen ja kasvatuslaitosten perustamisesta ja ylläpitämisestä annetun lain 1§:n muuttamisesta](168.md) `168/1991`
+- [Laki peruskoululain muuttamisesta](169.md) `169/1991`
+- [Laki lukiolain muuttamisesta](170.md) `170/1991`
+- [Laki peruskoululain muuttamisesta](171.md) `171/1991`
+- [Laki lukiolain muuttamisesta](172.md) `172/1991`
+- [Laki iltalukiolain muuttamisesta](173.md) `173/1991`
+- [Laki kunnan kouluhallinnosta annetun lain muuttamisesta](174.md) `174/1991`
+- [Laki kouluhallituksesta ja sen alaisesta piirihallinnosta annetun lain 5 a§:n kumoamisesta](175.md) `175/1991`
+- [Asetus peruskouluasetuksen muuttamisesta](176.md) `176/1991`
+- [Asetus lukioasetuksen muuttamisesta](177.md) `177/1991`
+- [Asetus peruskoulua korvaavasta koulusta ja yksityisestä lukiosta annetun asetuksen muuttamisesta](178.md) `178/1991`
+- [Asetus iltalukioasetuksen muuttamisesta](179.md) `179/1991`
+- [Asetus kouluhallituksesta annetun asetuksen 17 ja 18§:n muuttamisesta](180.md) `180/1991`
+- [Asetus koulutoimen johtajan viran kelpoisuusvaatimuksista](181.md) `181/1991`
+- [Laki opetushallituksesta](182.md) `182/1991`
+- [Asetus opetushallituksesta](183.md) `183/1991`
+- [Asetus eräiden opetusministeriön hallinnonalan virkojen perustamisesta ja lakkauttamisesta](184.md) `184/1991`
+- [Liikenneministeriön päätös ajoneuvoasetuksen täytäntöönpanosta annetun liikenneministeriön päätöksen muuttamisesta](185.md) `185/1991`
+- [Liikenneministeriön päätös tarkentavista määräyksistä myönnettäessä liikevaihtoveroa vastaavaa tukea ulkomaanliikenteessä käytettävälle kuljetuskalustolle](186.md) `186/1991`
+- [Verohallituksen päätös leimaverokoneiden käytöstä annetun päätöksen muuttamisesta](187.md) `187/1991`
+- [Verohallintolaki](188.md) `188/1991`
+- [Laki verotuslain muuttamisesta](189.md) `189/1991`
+- [Laki perintö\- ja lahjaverolain 32§:n muuttamisesta](190.md) `190/1991`
+- [Asetus rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun asetuksen muuttamisesta](191.md) `191/1991`
+- [Asetus Euroopan ydinfysiikan tutkimusjärjestön perustamista koskevan yleissopimuksen ja siihen liittyvän rahoitusta koskevan pöytäkirjan voimaansaattamisesta](192.md) `192/1991`
+- [Asetus valtiovarainministeriön ja sen hallinnonalan eräiden virkojen perustamisesta, lakkauttamisesta ja siirtämisestä sekä eräiden virkojen nimien muuttamisesta](193.md) `193/1991`
+- [Asetus kotieläintuotannon ohjaamisesta](194.md) `194/1991`
+- [Valtioneuvoston päätös elintarviketuotteiden hinnanerokorvauksista](195.md) `195/1991`
+- [Laki korkeimman oikeuden ja korkeimman hallinto\-oikeuden presidenttien ja jäsenten palvelussuhteen ehdoista](196.md) `196/1991`
+- [Laki korkeimmasta oikeudesta annetun lain 2§:n muuttamisesta](197.md) `197/1991`
+- [Laki korkeimmasta hallinto\-oikeudesta annetun lain 2§:n muuttamisesta](198.md) `198/1991`
+- [Laki valtion virkaehtosopimuslain 1§:n muuttamisesta](199.md) `199/1991`
+- [Laki valtion virkamieslain 64§:n muuttamisesta](200.md) `200/1991`
+- [Asetus korkeimman oikeuden ja korkeimman hallinto\-oikeuden presidenttien ja jäsenten palvelussuhteen ehdoista](201.md) `201/1991`
+- [Asetus patentti\- ja rekisterihallituksen suoritteista perittävistä maksuista](202.md) `202/1991`
+- [Maa\- ja metsätalousministeriön päätös hyväksytyistä rehun lisäaineista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](203.md) `203/1991`
+- [Laki kunnallisen virkaehtosopimuslain 5 a§:n muuttamisesta](204.md) `204/1991`
+- [Laki kunnallisista työehtosopimuksista annetun lain 1 a§:n muuttamisesta](205.md) `205/1991`
+- [Asetus sisäasiainministeriöstä](206.md) `206/1991`
+- [Asetus lääninhallitusten eräiden virkojen perustamisesta ja lakkauttamisesta](207.md) `207/1991`
+- [Asetus lääninhallitusasetuksen muuttamisesta](208.md) `208/1991`
+- [Asetus Oulun ja Lapin lääninhallitusten eräiden virkojen lakkauttamisesta ja perustamisesta](209.md) `209/1991`
+- [Verohallituksen päätös rahana suoritettavasta leimaverosta annetun päätöksen muuttamisesta](210.md) `210/1991`
+- [Laki alkoholilain muuttamisesta](211.md) `211/1991`
+- [Laki keskioluesta annetun lain muuttamisesta](212.md) `212/1991`
+- [Laki raittiustyölain 4§:n 1 momentin muuttamisesta](213.md) `213/1991`
+- [Laki kansaneläkelain muuttamisesta](214.md) `214/1991`
+- [Laki lapsen hoitotuesta annetun lain 4§:n muuttamisesta](215.md) `215/1991`
+- [Asetus oikeuskanslerinviraston ja oikeusministeriön hallinnonalan eräiden virkojen perustamisesta ja lakkauttamisesta](216.md) `216/1991`
+- [Asetus liikenneministeriön erään viran nimen muuttamisesta ja liikenneministeriön hallinnonalan eräiden virkojen perustamisesta ja lakkauttamisesta](217.md) `217/1991`
+- [Asetus vuonna 1991 kertyvien sosiaaliturvamaksujen jakautumasta](218.md) `218/1991`
+- [Asetus vuonna 1989 kertyvien sosiaaliturvamaksujen jakautumasta annetun asetuksen 2 §:n muuttamisesta](219.md) `219/1991`
+- [Laki eräiden kiinteistöjen vaihdosta valtion ja Arkkitehtitoimisto Veikko Juntunen Ky \-nimisen kommandiittiyhtiön välillä](220.md) `220/1991`
+- [Asetus väkivaltarikosten uhreille suoritettavia korvauksia koskevan eurooppalaisen yleissopimuksen voimaansaattamisesta](221.md) `221/1991`
+- [Asetus Pohjoismaiden Investointipankille annetun valtion takauksen korottamisesta](222.md) `222/1991`
+- [Verohallintoasetus](223.md) `223/1991`
+- [Asetus ympäristöministeriöstä annetun asetuksen muuttamisesta](224.md) `224/1991`
+- [Valtiovarainministeriön päätös valtion palveluksessa olevilta perittävistä ateriakorvauksista](225.md) `225/1991`
+- [Valtiovarainministeriön päätös valtion palvelussuhdeasuntoihin liittyvistä eduista perittävistä korvauksista](226.md) `226/1991`
+- [Valtiovarainministeriön päätös eräiden ulkomailla rekisteröityjen ajoneuvojen vapauttamisesta moottoriajoneuvoverosta tai veron alentamisesta annetun valtiovarainministeriön päätöksen 1§:n muuttamisesta](227.md) `227/1991`
+- [Laki tullilaitoksesta](228.md) `228/1991`
+- [Laki valtion eläkelain muuttamisesta](229.md) `229/1991`
+- [Laki valtion eläkelain voimaanpanolain 7 a§:n muuttamisesta](230.md) `230/1991`
+- [Laki valtion perhe\-eläkelain 9 ja 20§:n muuttamisesta](231.md) `231/1991`
+- [Laki valtion perhe\-eläkelain voimaanpanolain 5 a§:n muuttamisesta](232.md) `232/1991`
+- [Laki ennakkotiedosta, oikaisuvaatimuksesta ja muutoksenhausta eräissä eläkeasioissa annetun lain muuttamisesta](233.md) `233/1991`
+- [Asetus valtion eläkeasetuksen muuttamisesta](234.md) `234/1991`
+- [Laki yhtiöjärjestykseen perustuvasta kunnan lunastusoikeudesta ja osakkeiden enimmäishinnoista](235.md) `235/1991`
+- [Laki leimaverolain 57§:n muuttamisesta](236.md) `236/1991`
+- [Ympäristöministeriön päätös avustuksista taloudellisissa vaikeuksissa oleville vuokrataloille](237.md) `237/1991`
+- [Laki kansainvälisen henkilövaihdon keskuksesta](238.md) `238/1991`
+- [Asetus kansainvälisen henkilövaihdon keskuksesta](239.md) `239/1991`
+- [Laki yrityskiinnityslain muuttamisesta](240.md) `240/1991`
+- [Laki kaupparekisterilain 18§:n muuttamisesta](241.md) `241/1991`
+- [Laki avoimesta yhtiöstä ja kommandiittiyhtiöstä annetun lain 8 luvun 6§:n muuttamisesta](242.md) `242/1991`
+- [Laki osakeyhtiölain 14 luvun 5§:n muuttamisesta](243.md) `243/1991`
+- [Laki osuuskuntalain 154 ja 155§:n muuttamisesta](244.md) `244/1991`
+- [Laki ulosottolain 5 luvun 8 a ja 10 a§:n muuttamisesta](245.md) `245/1991`
+- [Asetus yrityskiinnitysasetuksen muuttamisesta](246.md) `246/1991`
+- [Asetus korkeimmasta oikeudesta annetun asetuksen 13 §:n muuttamisesta](247.md) `247/1991`
+- [Maaseutuelinkeinoasetus](248.md) `248/1991`
+- [Valtioneuvoston päätös turvavarastointiohjelmasta vuonna 1991](249.md) `249/1991`
+- [Valtioneuvoston päätös perunan vientituesta](250.md) `250/1991`
+- [Maatilahallituksen päätös rehuomavaraisuuden laskemisesta](251.md) `251/1991`
+- [Laki kirkkolain 418§:n muuttamisesta](252.md) `252/1991`
+- [Laki sukunimilain muuttamisesta](253.md) `253/1991`
+- [Nimiasetus](254.md) `254/1991`
+- [Asetus väestökirja\-asetuksen 54 a§:n muuttamisesta](255.md) `255/1991`
+- [Asetus rajavartiolaitoksen eräiden virkojen perustamisesta ja lakkauttamisesta](256.md) `256/1991`
+- [Asetus Toimiupseeriliiton ansiomitalista annetun asetuksen muuttamisesta](257.md) `257/1991`
+- [Asetus asevelvollisten palveluskelpoisuuden tarkastuksista annetun asetuksen 3§:n muuttamisesta](258.md) `258/1991`
+- [Asetus opetusministeriöstä annetun asetuksen muuttamisesta](259.md) `259/1991`
+- [Asetus opetusministeriön ja sen hallinnonalan eräiden virkojen perustamisesta, lakkauttamisesta ja siirtämisestä](260.md) `260/1991`
+- [Laki peruskoululain muuttamisesta](261.md) `261/1991`
+- [Laki lukiolain muuttamisesta](262.md) `262/1991`
+- [Laki metsän hyönteis\- ja sienituhojen torjunnasta](263.md) `263/1991`
+- [Laki metsähallituksesta](264.md) `264/1991`
+- [Laki metsäkeskuksista ja metsälautakunnista](265.md) `265/1991`
+- [Laki yksityismetsälain muuttamisesta](266.md) `266/1991`
+- [Laki suojametsistä annetun lain muuttamisesta](267.md) `267/1991`
+- [Laki metsänparannuslain muuttamisesta](268.md) `268/1991`
+- [Laki Lapin vajaatuottoisten metsien kunnostamisesta annetun lain muuttamisesta](269.md) `269/1991`
+- [Laki tilan yhteisomistajien osallistumisesta metsänparannushankkeeseen annetun lain 1§:n muuttamisesta](270.md) `270/1991`
+- [Laki metsänhoitoyhdistyksistä annetun lain muuttamisesta](271.md) `271/1991`
+- [Laki metsänviljelyaineiston kaupasta annetun lain muuttamisesta](272.md) `272/1991`
+- [Laki raittiustyölain 3§:n 2 momentin kumoamisesta](273.md) `273/1991`
+- [Laki työsuojeluhallinnosta annetun lain muuttamisesta](274.md) `274/1991`
+- [Laki tartuntatautilain 20§:n muuttamisesta](275.md) `275/1991`
+- [Asetus Kiinan Kansantasavallan kanssa tehdyn tekstiilituotteiden kauppaa koskevan sopimuksen jatkamisen voimaansaattamisesta](276.md) `276/1991`
+- [Asetus Sri Lankan kanssa tehdyn keskinäistä tekstiilikauppaa koskevan sopimuksen voimaan\- saattamisesta](277.md) `277/1991`
+- [Asetus lihan sekä lihavalmisteiden viennistä ja tuonnista annetun asetuksen muuttamisesta](278.md) `278/1991`
+- [Asetus valtion eläinlääketieteellisestä laitoksesta annetun asetuksen 1§:n muuttamisesta](279.md) `279/1991`
+- [Asetus valtion lihantarkastamon suoritteista perittävistä maksuista annetun asetuksen kumoamisesta](280.md) `280/1991`
+- [Asetus valtion eläinlääketieteellisen laitoksen suoritteista perittävistä maksuista annetun asetuksen ja sen liitteenä olevan hinnaston muuttamisesta](281.md) `281/1991`
+- [Asetus eläinlääkäreiden toimituspalkkioista annetun asetuksen muuttamisesta](282.md) `282/1991`
+- [Valtioneuvoston päätös ammatinvalinnanohjaukseen liittyvien kustannusten korvaamisesta](283.md) `283/1991`
+- [Ympäristöministeriön päätös jätehuollon ja jätteiden hyödyntämisen edistämiseen myönnettävistä avustuksista annetun ympäristöministeriön päätöksen muuttamisesta](284.md) `284/1991`
+- [Laki vartioimisliikelain muuttamisesta](285.md) `285/1991`
+- [Asetus vartioimisliikeasetuksen muuttamisesta](286.md) `286/1991`
+- [Asetus kemikaaliasetuksen muuttamisesta](287.md) `287/1991`
+- [Asetus terveydelle tai ympäristölle vaarallisen kemikaalin myynnistä ja säilyttämisestä annetun asetuksen 14§:n muuttamisesta](288.md) `288/1991`
+- [Asetus kemikaalilain nojalla lääkintöhallitukselle tehtävien ilmoitusten käsittelymaksuista annetun asetuksen muuttamisesta](289.md) `289/1991`
+- [Asetus sairaanhoitotarvikkeista tehtävien ilmoitusten käsittelystä perittävistä maksuista annetun asetuksen 2§:n muuttamisesta](290.md) `290/1991`
+- [Asetus lääkintähuollosta poikkeuksellisissa oloissa annetun asetuksen 2 ja 5§:n muuttamisesta](291.md) `291/1991`
+- [Asetus alkoholijuomista annetun asetuksen 42§:n muuttamisesta](292.md) `292/1991`
+- [Asetus väkiviinasta ja alkoholivalmisteista annetun asetuksen 20§:n muuttamisesta](293.md) `293/1991`
+- [Asetus denaturoiduista alkoholipitoisista aineista ja denaturoimisesta annetun asetuksen muuttamisesta](294.md) `294/1991`
+- [Asetus keskioluesta annetun asetuksen 24§:n muuttamisesta](295.md) `295/1991`
+- [Asetus kauppa\- ja teollisuusministeriön hallinnonalan eräiden virkojen perustamisesta ja lakkauttamisesta](296.md) `296/1991`
+- [Asetus markkinatuomioistuimesta annetun asetuksen muuttamisesta](297.md) `297/1991`
+- [Asetus poliisin eräiden virkojen perustamisesta ja lakkauttamisesta](298.md) `298/1991`
+- [Asetus metsäkeskuksista ja metsälautakunnista](299.md) `299/1991`
+- [Yksityismetsäasetus](300.md) `300/1991`
+- [Asetus metsänparannusasetuksen muuttamisesta](301.md) `301/1991`
+- [Asetus Lapin vajaatuottoisten metsien kunnostamisesta annetun asetuksen muuttamisesta](302.md) `302/1991`
+- [Asetus metsänhoitoyhdistyksistä annetun asetuksen muuttamisesta](303.md) `303/1991`
+- [Laki Kouvolan kasarmialueen myymisestä Kouvolan kaupungille ja varuskuntasairaalan myymisestä Kouvolan\-Valkealan kansanterveystyön kuntainliitolle](304.md) `304/1991`
+- [Laki valtiokonttorista](305.md) `305/1991`
+- [Asetus valtiokonttorista](306.md) `306/1991`
+- [Asetus oikeusministeriöstä annetun asetuksen muuttamisesta](307.md) `307/1991`
+- [Asetus valtiovarainministeriöstä annetun asetuksen muuttamisesta](308.md) `308/1991`
+- [Valtioneuvoston päätös valtion urheiluneuvostosta annetun päätöksen 2§:n muuttamisesta](309.md) `309/1991`
+- [Valtioneuvoston päätös valtion nuorisoneuvostosta annetun päätöksen 2§:n muuttamisesta](310.md) `310/1991`
+- [Valtioneuvoston päätös peruskoulun ja lukion huonetilojen normaalihinnoista](311.md) `311/1991`
+- [Valtioneuvoston päätös kirjastorakennusten normaalihinnoista vuonna 1991](312.md) `312/1991`
+- [Asetus sosiaali\- ja terveydenhuollon tutkimus\- ja kehittämistoiminnan neuvottelukunnasta annetun asetuksen 3§:n muuttamisesta](313.md) `313/1991`
+- [Asetus yksityisestä terveydenhuollosta annetun asetuksen 5 ja 6§:n muuttamisesta](314.md) `314/1991`
+- [Asetus ihmisen elimien ja kudoksien irrottamisesta lääketieteelliseen käyttöön annetun asetuksen muuttamisesta](315.md) `315/1991`
+- [Asetus lääkeasetuksen muuttamisesta](316.md) `316/1991`
+- [Asetus ehkäisimien laaduntarkkailusta annetun asetuksen muuttamisesta](317.md) `317/1991`
+- [Asetus lääkkeiden velvoitevarastoinnista annetun asetuksen muuttamisesta](318.md) `318/1991`
+- [Asetus steriloimisasetuksen muuttamisesta](319.md) `319/1991`
+- [Asetus kastroimisasetuksen muuttamisesta](320.md) `320/1991`
+- [Asetus raskauden keskeyttämisestä annetun asetuksen muuttamisesta](321.md) `321/1991`
+- [Asetus kansaneläkeasetuksen 6§:n muuttamisesta](322.md) `322/1991`
+- [Asetus isyyden vahvistamisesta ja kumoamisesta sekä lapsen elatuksesta annetun asetuksen 2 ja 16§:n muuttamisesta](323.md) `323/1991`
+- [Asetus eräiden viranomaisten tehtävistä aineiden ja tuotteiden syöpävaarallisuutta arvioitaessa annetun asetuksen muuttamisesta](324.md) `324/1991`
+- [Asetus vaarallisten rikoksenuusijain eristämisestä annetun lain täytäntöönpanosta ja soveltamisesta annetun asetuksen 2§:n muuttamisesta](325.md) `325/1991`
+- [Asetus huumausaineasetuksen muuttamisesta](326.md) `326/1991`
+- [Asetus oikeuslääkeopillisten tutkimusten toimittamisesta lääkärille ja hammaslääkärille tulevasta korvauksesta annetun asetuksen 3 ja 6§:n muuttamisesta](327.md) `327/1991`
+- [Asetus sosiaalihuoltoasetuksen 21 ja 22§:n muuttamisesta](328.md) `328/1991`
+- [Asetus sosiaalipalveluista perittävistä maksuista annetun asetuksen 7 ja 20§:n muuttamisesta](329.md) `329/1991`
+- [Asetus lastensuojeluasetuksen muuttamisesta](330.md) `330/1991`
+- [Asetus lasten päivähoidosta annetun asetuksen 13§:n muuttamisesta](331.md) `331/1991`
+- [Asetus lasten kotihoidon tuesta annetun asetuksen 3 ja 7§:n muuttamisesta](332.md) `332/1991`
+- [Asetus vammaisuuden perusteella järjestettävistä palveluista ja tukitoimista annetun asetuksen 21§:n muuttamisesta](333.md) `333/1991`
+- [Asetus avioliittoasetuksen 18§:n kumoamisesta](334.md) `334/1991`
+- [Asetus Suomen kansainvälisten lapseksiottamisasioiden lautakunnasta annetun asetuksen 2 ja 3§:n muuttamisesta](335.md) `335/1991`
+- [Asetus lapsen elatuksen turvaamisesta annetun asetuksen 4 ja 19§:n muuttamisesta](336.md) `336/1991`
+- [Asetus eräiden elatusapujen sitomisesta elinkustannuksiin annetun asetuksen 1 ja 4§:n muuttamisesta](337.md) `337/1991`
+- [Asetus rintamaveteraanien kuntoutuksesta annetun asetuksen 7§:n muuttamisesta](338.md) `338/1991`
+- [Asetus lapsen huollosta ja tapaamisoikeudesta annetun päätöksen täytäntöönpanosta annetun asetuksen 12§:n muuttamisesta](339.md) `339/1991`
+- [Valtioneuvoston päätös toimeentulotuen yleisistä perusteista annetun valtioneuvoston päätöksen 11§:n muuttamisesta](340.md) `340/1991`
+- [Laki leimaverolain muuttamisesta](341.md) `341/1991`
+- [Laki luvanvaraisesta tavaraliikenteestä tiellä](342.md) `342/1991`
+- [Laki luvanvaraisesta henkilöliikenteestä tiellä](343.md) `343/1991`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain 22§:n kumoamisesta](344.md) `344/1991`
+- [Laki tieliikenteen tietojärjestelmästä annetun lain 12§:n muuttamisesta](345.md) `345/1991`
+- [Asetus luvanvaraisesta tavaraliikenteestä tiellä](346.md) `346/1991`
+- [Asetus luvanvaraisesta henkilöliikenteestä tiellä](347.md) `347/1991`
+- [Valtioneuvoston päätös ammattimaisen moottoriajoneuvoliikenteen taksojen vahvistamisesta annetun valtioneuvoston päätöksen kumoamisesta](348.md) `348/1991`
+- [Valtioneuvoston päätös äitiysavustuksen suuruuden vahvistamisesta](349.md) `349/1991`
+- [Laki opintotukilain 10§:n muuttamisesta](350.md) `350/1991`
+- [Laki asumistukilain 2§:n muuttamisesta](351.md) `351/1991`
+- [Laki ennakkoperintälain muuttamisesta](352.md) `352/1991`
+- [Laki veronkantolain muuttamisesta](353.md) `353/1991`
+- [Laki verotuslain muuttamisesta](354.md) `354/1991`
+- [Laki tulo\- ja varallisuusverolain 158 §:n muuttamisesta](355.md) `355/1991`
+- [Laki veron viivästyskorosta ja jäämämaksusta annetun lain muuttamisesta](356.md) `356/1991`
+- [Laki koiraverosta annetun lain 1 ja 3§:n muuttamisesta](357.md) `357/1991`
+- [Asetus elokuvien sekä video\- ja muiden kuvaohjelmien tarkastusmaksujen tarkistamisesta](358.md) `358/1991`
+- [Asetus elintarvikkeita jäljittelevistä vaarallisista tuotteista](359.md) `359/1991`
+- [Sosiaali\- ja terveysministeriön päätös sotilasavustuksen suuruuden määrittelemistä koskevien yleisten perusteiden vahvistamisesta](360.md) `360/1991`
+- [Oikeusministeriön päätös lainhuuto\- ja kiinnitysrekisterin käyttöön ottamisesta eräissä tuomiokunnissa ja raastuvanoikeuksissa](361.md) `361/1991`
+- [Kauppa\- ja teollisuusministeriön päätös alustoimitusten rahoitukseen myönnettävän korkotuen yleisistä ehdoista](362.md) `362/1991`
+- [Laki aseettomasta palveluksesta ja siviilipalveluksesta annetun lain väliaikaisesta muuttamisesta](363.md) `363/1991`
+- [Puutavaranmittauslaki](364.md) `364/1991`
+- [Puutavaranmittausasetus](365.md) `365/1991`
+- [Asetus Sveitsin kanssa tehdyn kansainvälisiä maantiekuljetuksia koskevan sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](366.md) `366/1991`
+- [Asetus kauppa\- ja teollisuusministeriöstä annetun asetuksen muuttamisesta](367.md) `367/1991`
+- [Maa\- ja metsätalousministeriön päätös kalastuksesta Lestijokisuun kalaväylässä](368.md) `368/1991`
+- [Laki lapsilisälain 1 ja 8§:n muuttamisesta](369.md) `369/1991`
+- [Asetus tulliasetuksen muuttamisesta](370.md) `370/1991`
+- [Asetus tullilaitoksesta](371.md) `371/1991`
+- [Asetus valtion virkamiesasetuksen 12 ja 13§:n muuttamisesta](372.md) `372/1991`
+- [Asetus metsähallituksesta](373.md) `373/1991`
+- [Asetus metsäntutkimuslaitoksesta](374.md) `374/1991`
+- [Asetus lasten kotihoidon tuesta annetun asetuksen muuttamisesta](375.md) `375/1991`
+- [Laki yleisestä oikeusaputoiminnasta annetun lain muuttamisesta](376.md) `376/1991`
+- [Asetus yleisestä oikeusaputoiminnasta annetun asetuksen muuttamisesta](377.md) `377/1991`
+- [Ulkomaalaislaki](378.md) `378/1991`
+- [Asetus maa\- ja metsätalousministeriöstä annetun asetuksen muuttamisesta](379.md) `379/1991`
+- [Laki työneuvostosta ja työsuojelun poikkeusluvista annetun lain 10 c§:n muuttamisesta](380.md) `380/1991`
+- [Laki merimieslain muuttamisesta](381.md) `381/1991`
+- [Asetus valtioneuvoston kansliasta](382.md) `382/1991`
+- [Asetus korkeakoulujen eräiden virkojen perustamisesta ja lakkauttamisesta](383.md) `383/1991`
+- [Asetus Teknillisestä korkeakoulusta annetun asetuksen 8 ja 48§:n muuttamisesta](384.md) `384/1991`
+- [Asetus Tampereen yliopistosta annetun asetuksen muuttamisesta](385.md) `385/1991`
+- [Asetus torjunta\-aineasetuksen muuttamisesta](386.md) `386/1991`
+- [Asetus Saimaan kanavan hoitokunnasta annetun asetuksen 3 ja 4§:n muuttamisesta](387.md) `387/1991`
+- [Asetus terveyskeskuksen lääkärin ja hammaslääkärin kunnalta tai kuntainliitolta saamien toimenpidepalkkioiden huomioon ottamisesta eläkkeen perusteena olevana palkkana annetun asetuksen 2§:n muuttamisesta](388.md) `388/1991`
+- [Laki valtion taidemuseosta annetun lain 2§:n muuttamisesta](389.md) `389/1991`
+- [Asetus valtion taidemuseon suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](390.md) `390/1991`
+- [Laki nuorisoasteen koulutuksen ja ammattikorkeakoulujen kokeiluista](391.md) `391/1991`
+- [Asetus nuorisoasteen koulutuksen ja ammattikorkeakoulujen kokeiluista](392.md) `392/1991`
+- [Asetus eräiden kasvatus\- ynnä muiden laitosten maksujen perimisestä annetun asetuksen kumoamisesta](393.md) `393/1991`
+- [Asetus opetushallituksesta annetun asetuksen 26§:n muuttamisesta](394.md) `394/1991`
+- [Valtioneuvoston päätös ydinvoimalaitosten turvallisuutta koskevista yleisistä määräyksistä](395.md) `395/1991`
+- [Valtioneuvoston päätös ydinvoimalaitosten turvajärjestelyjä koskevista yleisistä määräyksistä](396.md) `396/1991`
+- [Valtioneuvoston päätös ydinvoimalaitosten valmiusjärjestelyjä koskevista yleisistä määräyksistä](397.md) `397/1991`
+- [Valtioneuvoston päätös ydinvoimalaitosten voimalaitosjätteiden loppusijoituslaitoksen turvallisuutta koskevista yleisistä määräyksistä](398.md) `398/1991`
+- [Asetus kansanterveyslaitoksessa suoritetuista tutkimuksista perittävistä maksuista annetun asetuksen 6§:n muuttamisesta](399.md) `399/1991`
+- [Asetus lääkelaboratoriosta annetun asetuksen muuttamisesta](400.md) `400/1991`
+- [Asetus erikoislääkärin tutkinnosta ja erikoishammaslääkärin tutkinnosta suoritettavasta maksusta annetun asetuksen kumoamisesta](401.md) `401/1991`
+- [Asetus hammasteknikon toimen harjoittamisesta annetun asetuksen muuttamisesta](402.md) `402/1991`
+- [Asetus sairaanhoitotoimen harjoittamisesta annetun asetuksen 2§:n muuttamisesta](403.md) `403/1991`
+- [Asetus kätilöntoimen harjoittamisesta ja synnytyslaitoksista annetun asetuksen kumoamisesta](404.md) `404/1991`
+- [Asetus optikon toimen harjoittamisesta annetun asetuksen muuttamisesta](405.md) `405/1991`
+- [Asetus kansanterveysasetuksen muuttamisesta](406.md) `406/1991`
+- [Asetus tartuntatautiasetuksen muuttamisesta](407.md) `407/1991`
+- [Asetus hengityshalvauspotilaiden hoitokustannusten korvaamisesta annetun asetuksen 1 ja 4§:n muuttamisesta](408.md) `408/1991`
+- [Asetus mielenterveysasetuksen muuttamisesta](409.md) `409/1991`
+- [Asetus valtion mielisairaaloista annetun asetuksen muuttamisesta](410.md) `410/1991`
+- [Asetus eräiden sairaalamaksujen perimisestä ulosottotoimin ilman tuomiota tai päätöstä annetun asetuksen kumoamisesta](411.md) `411/1991`
+- [Asetus terveydenhuollon valtakunnallisista henkilörekistereistä annetun asetuksen muuttamisesta](412.md) `412/1991`
+- [Asetus sairausvakuutusasetuksen muuttamisesta](413.md) `413/1991`
+- [Asetus toimenpiteistä tupakoinnin vähentämiseksi annetun asetuksen muuttamisesta](414.md) `414/1991`
+- [Asetus kuolemansyyn selvittämisestä annetun asetuksen muuttamisesta](415.md) `415/1991`
+- [Asetus kehitysvammaisten erityishuollosta annetun asetuksen muuttamisesta](416.md) `416/1991`
+- [Asetus valtion kasvatuslaitoksista annetun asetuksen muuttamisesta](417.md) `417/1991`
+- [Asetus valtion sosiaalihuollon ja terveydenhuollon toimintayksiköiden palveluista perittävistä korvauksista annetun asetuksen 2 ja 10§:n muuttamisesta](418.md) `418/1991`
+- [Asetus sosiaalihuollon ammatillisen henkilöstön kelpoisuusehdoista annetun asetuksen 10 ja 15§:n muuttamisesta](419.md) `419/1991`
+- [Asetus äitiysavustusasetuksen muuttamisesta](420.md) `420/1991`
+- [Asetus lapsilisälain täytäntöönpanosta annetun asetuksen muuttamisesta](421.md) `421/1991`
+- [Asetus vankeinhoitolaitoksen eräiden virkojen perustamisesta ja lakkauttamisesta](422.md) `422/1991`
+- [Asetus vankeinhoitolaitoksesta annetun asetuksen muuttamisesta](423.md) `423/1991`
+- [Asetus Kestilän varavankilasta](424.md) `424/1991`
+- [Asetus eräiden virkojen lakkauttamisesta ja perustamisesta sisäasiainministeriön hallinnonalalla](425.md) `425/1991`
+- [Asetus poliisiasetuksen muuttamisesta](426.md) `426/1991`
+- [Asetus päihdehuoltoasetuksen muuttamisesta](427.md) `427/1991`
+- [Asetus sotilasavustusasetuksen muuttamisesta](428.md) `428/1991`
+- [Asetus kotiuttamisrahan suorittamisesta annetun asetuksen 2 ja 3§:n muuttamisesta](429.md) `429/1991`
+- [Asetus pienyrittäjän vuosilomarahasta annetun asetuksen muuttamisesta](430.md) `430/1991`
+- [Asetus maatalousyrittäjän lomituspalveluista annetun asetuksen muuttamisesta](431.md) `431/1991`
+- [Sosiaali\- ja terveysministeriön päätös tupakointivälineistä annetun sosiaali\- ja terveysministeriön päätöksen muuttamisesta](432.md) `432/1991`
+- [Sosiaali\- ja terveysministeriön päätös uusien aineiden ilmoitusmenettelystä annetun sosiaali\- ja terveysministeriön päätöksen muuttamisesta](433.md) `433/1991`
+- [Sosiaali\- ja terveysministeriön päätös kertakäyttöisten insuliiniruiskujen ilmoittamisesta](434.md) `434/1991`
+- [Laki tieliikennelain muuttamisesta](435.md) `435/1991`
+- [Asetus ajoneuvojen katsastuksesta annetun asetuksen muuttamisesta](436.md) `436/1991`
+- [Asetus ajoneuvojen rekisteröinnistä annetun asetuksen muuttamisesta](437.md) `437/1991`
+- [Asetus ajoneuvoasetuksen muuttamisesta](438.md) `438/1991`
+- [Liikenneministeriön päätös ajoneuvoasetuksen täytäntöönpanosta annetun liikenneministeriön päätöksen muuttamisesta](439.md) `439/1991`
+- [Valtioneuvoston päätös lääketaksasta annetun valtioneuvoston päätöksen muuttamisesta](440.md) `440/1991`
+- [Liikenneministeriön päätös luvanvaraisen tavaraliikenteen harjoittajalta vaadittavasta ammattitaidosta ja vakuuksista](441.md) `441/1991`
+- [Liikenneministeriön päätös henkilöautolla harjoitettavan tilausliikenteen liikennealuejaosta](442.md) `442/1991`
+- [Liikenneministeriön päätös luvanvaraisen henkilöliikenteen taksoista](443.md) `443/1991`
+- [Liikenneministeriön päätös kaupunkimaisen paikallisliikenteen taksat hyväksyvistä kunnista](444.md) `444/1991`
+- [Laki luottoverolain muuttamisesta](445.md) `445/1991`
+- [Laki ulkomaalaisvaltuutetusta](446.md) `446/1991`
+- [Asetus ulkomaalaisvaltuutetusta](447.md) `447/1991`
+- [Asetus turvapaikkalautakunnasta](448.md) `448/1991`
+- [Ulkomaalaisasetus](449.md) `449/1991`
+- [Asetus sisäasiainministeriöstä annetun asetuksen muuttamisesta](450.md) `450/1991`
+- [Sisäasiainministeriön päätös pysäköintivirhemaksun korottamisesta](451.md) `451/1991`
+- [Asetus terveyskeskuksessa perittävistä maksuista ja korvauksista annetun asetuksen 9§:n muuttamisesta](452.md) `452/1991`
+- [Asetus terveydenhoitoasetuksen muuttamisesta](453.md) `453/1991`
+- [Asetus työterveyshuollon neuvottelukunnasta annetun asetuksen 2§:n muuttamisesta](454.md) `454/1991`
+- [Asetus potilasvahinkolautakunnasta annetun asetuksen 6§:n muuttamisesta](455.md) `455/1991`
+- [Asetus eräistä veri\- ja muita periytyviä ominaisuuksia koskevista tutkimuksista annetun asetuksen muuttamisesta](456.md) `456/1991`
+- [Asetus sosiaali\- ja terveyshallituksen eräiden virkojen nimien muuttamisesta](457.md) `457/1991`
+- [Asetus lääkärintoimen harjoittamisesta annetun asetuksen muuttamisesta](458.md) `458/1991`
+- [Asetus hammaslääkärintoimen harjoittamisesta annetun asetuksen muuttamisesta](459.md) `459/1991`
+- [Sosiaali\- ja terveysministeriön päätös isyyslaissa \(700/75\) sekä veri\- ja muita periytyviä ominaisuuksia koskevista tutkimuksista annetussa laissa \(702/75\) tarkoitettujen oikeuslääketieteellisten tutkimusten korvausperusteista annetun \>sosiaali\- ja terveysministeriön päätöksen 4 ja 8§:n muuttamisesta](460.md) `460/1991`
+- [Sosiaali\- ja terveysministeriön päätös työterveyshuoltolain 10§:n 3 momentissa tarkoitetusta asiantuntijalaitoksesta ja viranomaisesta annetun sosiaali\- ja terveysministeriön päätöksen 2 ja 4§:n muuttamisesta](461.md) `461/1991`
+- [Liikenneministeriön päätös katsastuskonttoreista ja \-toimistoista sekä niiden toimialueista annetun liikenneministeriön päätöksen 1 ja 3§:n muuttamisesta](462.md) `462/1991`
+- [Laki kidutuksen ja epäinhimillisen tai halventavan kohtelun tai rangaistuksen estämiseksi tehdyn eurooppalaisen yleissopimuksen eräiden määräysten hyväksymisestä sekä yleissopimuksen soveltamisesta](463.md) `463/1991`
+- [Asetus kidutuksen ja epäinhimillisen tai halventavan kohtelun tai rangaistuksen estämiseksi tehdyn eurooppalaisen yleissopimuksen voimaansaattamisesta ja yleissopimuksen eräiden määräysten hyväksymisestä sekä yleissopimuksen soveltamisesta annetun lain voimaantulosta](464.md) `464/1991`
+- [Asetus Neuvostoliiton kanssa matkustajaliikenteestä Saimaan kanavalla, Suomen tasavallan Sosialististen neuvostotasavaltojen liitolta vuokraamalla alueella Viipuriin asti tai kauttakulkuliikenteestä aavalle merelle tehdyn sopimuksen voimaansaattamisesta](465.md) `465/1991`
+- [Laki eläkesäätiölain muuttamisesta](466.md) `466/1991`
+- [Laki työntekijäin eläkelain 13 a§:n muuttamisesta](467.md) `467/1991`
+- [Asetus eläkesäätiölain täytäntöönpanosta annetun asetuksen 3§:n muuttamisesta](468.md) `468/1991`
+- [Asetus ulkoasiainhallinnon palveluista perittävistä maksuista](469.md) `469/1991`
+- [Vesi\- ja ympäristöhallituksen päätös kielletyistä tai voimakkaasti rajoitetuista kemikaaleista](470.md) `470/1991`
+- [Laki kansaneläkelain muuttamisesta](471.md) `471/1991`
+- [Laki perhe\-eläkelain muuttamisesta](472.md) `472/1991`
+- [Laki eläkkeensaajien asumistukilain muuttamisesta](473.md) `473/1991`
+- [Laki rintamasotilaseläkelain 12§:n muuttamisesta](474.md) `474/1991`
+- [Laki yksityisen työnantajan kansaneläkemaksun poikkeuksellisesta alentamisesta vuonna 1991 annetun lain 1§:n muuttamisesta](475.md) `475/1991`
+- [Laki velvoitetyön poikkeuksellisesta huomioon ottamisesta työeläketurvassa](476.md) `476/1991`
+- [Asetus Valtion viljavarastosta annetun asetuksen muuttamisesta](477.md) `477/1991`
+- [Asetus opintovapaa\-asetuksen muuttamisesta](478.md) `478/1991`
+- [Valtioneuvoston päätös tullipiireistä ja eräistä tullitoimipaikoista](479.md) `479/1991`
+- [Valtiovarainministeriön päätös verovuoden 1989 maksuunpano\- ja oikaisutilityksestä sekä verotuskustannusten perimisestä vuonna 1991](480.md) `480/1991`
+- [Maatilahallituksen päätös peltoalan perusteella suoritettavasta vientikustannusmaksusta annetussa laissa tarkoitetusta kesannoinnista ja muista seikoista](481.md) `481/1991`
+- [Asetus yhteistoimintasopimuksia tekevistä valtion virastoista ja laitoksista annetun asetuksen 1§:n muuttamisesta](482.md) `482/1991`
+- [Asetus eräiden maa\- ja metsätalousministeriön hallinnonalan virkojen lakkauttamisesta ja perustamisesta](483.md) `483/1991`
+- [Asetus kauppa\- ja teollisuusministeriöstä annetun asetuksen muuttamisesta](484.md) `484/1991`
+- [Asetus sosiaalipalveluista perittävistä maksuista annetun asetuksen muuttamisesta](485.md) `485/1991`
+- [Asetus työsuojeluhallinnosta](486.md) `486/1991`
+- [Eduskunnan päätös eduskunnan kanslian ohjesäännön muuttamisesta](487.md) `487/1991`
+- [Eduskunnan päätös eduskunnan työjärjestyksen muuttamisesta](488.md) `488/1991`
+- [Valtioneuvoston päätös ohjusteknologian valvontajärjestelyn piiriin kuuluvien tarvikkeiden rinnastamisesta puolustustarvikkeisiin](489.md) `489/1991`
+- [Valtioneuvoston päätös työnantajalle maksettavasta koulutuskorvauksesta vuodelta 1991](490.md) `490/1991`
+- [Laki metsästyslain muuttamisesta](491.md) `491/1991`
+- [Asetus Luontaiselinkeinoasetus](492.md) `492/1991`
+- [Koltta\-asetus](493.md) `493/1991`
+- [Asetus Porotalousasetus](494.md) `494/1991`
+- [Asetus oikeudesta hankkia maa\- ja metsätalousmaata](495.md) `495/1991`
+- [Asetus pakkohuutokaupalla myytävien kiinteistöjen lunastamisesta valtiolle](496.md) `496/1991`
+- [Asetus lämminveristen ravihevosten maahantuonnista](497.md) `497/1991`
+- [Asetus ratsuhevosten ja ponien maahantuonnista](498.md) `498/1991`
+- [Asetus poronlihan tarkastuksesta](499.md) `499/1991`
+- [Asetus poronlihan tarkastuksesta perittävistä maksuista](500.md) `500/1991`
+- [Laki Tenojoen kalastussääntöä koskevan sopimuksen ja kalastussäännön eräiden määräysten aiheuttamien menetysten korvaamisesta](501.md) `501/1991`
+- [Laki kaavoitusalueiden jakolain muuttamisesta](502.md) `502/1991`
+- [Laki rakennuslain muuttamisesta](503.md) `503/1991`
+- [Laki kiinteistörekisterilain 3§:n muuttamisesta](504.md) `504/1991`
+- [Laki maanmittauslaitoksesta](505.md) `505/1991`
+- [Laki jakolain muuttamisesta](506.md) `506/1991`
+- [Laki kaavoitusalueiden jakolain 2 a§:n 3 momentin kumoamisesta](507.md) `507/1991`
+- [Valtioneuvoston päätös täysin halogenoitujen kloorifluorihiilivety\-yhdisteiden käytön kieltämisestä eräissä tuotteissa](508.md) `508/1991`
+- [Laki ammatillisista oppilaitoksista annetun lain 1§:n muuttamisesta](509.md) `509/1991`
+- [Laki ammatillisten oppilaitosten rahoituksesta annetun lain 11§:n muuttamisesta](510.md) `510/1991`
+- [Asetus kuvataideoppilaitoksista annetun asetuksen muuttamisesta](511.md) `511/1991`
+- [Asetus kanavien ja avattavien siltojen liikennesäännöstä](512.md) `512/1991`
+- [Asetus vesikulkuväylien merkitsemisestä annetun asetuksen muuttamisesta](513.md) `513/1991`
+- [Asetus luotsausasetuksen muuttamisesta](514.md) `514/1991`
+- [Asetus kanavamaksuista](515.md) `515/1991`
+- [Laki saamen kielen käyttämisestä viranomaisissa](516.md) `516/1991`
+- [Laki kielilain 1§:n muuttamisesta](517.md) `517/1991`
+- [Laki arpajaislain muuttamisesta](518.md) `518/1991`
+- [Laki rikoslain 43 luvun 4§:n muuttamisesta](519.md) `519/1991`
+- [Asetus raha\-automaattiasetuksen 2 ja 6§:n muuttamisesta](520.md) `520/1991`
+- [Asetus ajoneuvoasetuksen muuttamisesta](521.md) `521/1991`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Irakia ja Kuwaitia koskevaan päätökseen perustuvien velvoitusten täyttämisestä annetun asetuksen soveltamisen lakkaamisesta Kuwaitin osalta](522.md) `522/1991`
+- [Valtioneuvoston päätös investointivarausten käyttämisestä annetun valtioneuvoston päätöksen 1§:n muuttamisesta](523.md) `523/1991`
+- [Valtioneuvoston päätös ulkomaan kuorma\-autoliikenteen polttoaineen hintaan sisältyvän liikevaihtoveron korvaamisesta](524.md) `524/1991`
+- [Valtioneuvoston päätös rehuksi käytettävien maitotaloustuotteiden hinnanalennuskorvauksista annetun valtioneuvoston päätöksen muuttamisesta](525.md) `525/1991`
+- [Valtioneuvoston päätös energiataloudellisen tutkimuksen ja koetoiminnan edistämiseen myönnettävien avustusten ehdoista](526.md) `526/1991`
+- [Valtioneuvoston päätös yleisistä ohjeista kattiloiden ja kaasuturbiinien typenoksidipäästöjen rajoittamiseksi](527.md) `527/1991`
+- [Maa\- ja metsätalousministeriön päätös pellon metsitysavustuksista vuonna 1991](528.md) `528/1991`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta annetun Suomen Pankin päätöksen 2 luvun 1 ja 2§:n kumoamisesta](529.md) `529/1991`
+- [Laki vuosilomalain muuttamisesta](530.md) `530/1991`
+- [Laki mustalaisväestön asunto\-olojen parantamisesta annetun lain muuttamisesta](531.md) `531/1991`
+- [Asetus mustalaisväestön asunto\-olojen parantamisesta annetun asetuksen muuttamisesta](532.md) `532/1991`
+- [Asetus erikoissairaanhoidosta perittävistä maksuista ja korvauksista annetun asetuksen muuttamisesta](533.md) `533/1991`
+- [Asetus terveyskeskuksessa perittävistä maksuista ja korvauksista annetun asetuksen muuttamisesta](534.md) `534/1991`
+- [Asetus terveyskeskukselle työterveyshuollosta perittävistä maksuista ja korvauksista annetun asetuksen muuttamisesta](535.md) `535/1991`
+- [Asetus sosiaali\- ja terveyshallituksen suoritteista perittävistä maksuista](536.md) `536/1991`
+- [Laki Perämeren kansallispuistosta](537.md) `537/1991`
+- [Asetus Perämeren kansallispuistosta](538.md) `538/1991`
+- [Asetus elintarvikkeen kanssa kosketukseen joutuvista tarvikkeista](539.md) `539/1991`
+- [Asetus elintarvikeasetuksen muuttamisesta](540.md) `540/1991`
+- [Asetus kosmetiikka\-asetuksen muuttamisesta](541.md) `541/1991`
+- [Valtioneuvoston päätös eräiden tilojen ja alueiden siirtämisestä Pukkilan kunnasta ja Porvoon maalaiskunnasta Askolan kuntaan](542.md) `542/1991`
+- [Valtioneuvoston päätös kuntajaon muuttamisesta eräiltä osin Taivalkosken ja Posion kuntien välillä](543.md) `543/1991`
+- [Valtioneuvoston päätös kahden tilanosan ja eräiden alueiden siirtämisestä Sonkajärven kunnasta Vieremän kuntaan](544.md) `544/1991`
+- [Valtioneuvoston päätös eräiden tilojen ja yhteisen alueen siirtämisestä Joutsenon kunnasta Taipalsaaren kuntaan](545.md) `545/1991`
+- [Valtioneuvoston päätös kuntajaon muuttamisesta eräiltä osin Tuusniemen ja Kaavin kuntien välillä](546.md) `546/1991`
+- [Valtioneuvoston päätös pienyrittäjän vuosilomarahasta annetussa laissa tarkoitetun enimmäisvuositulon määrän ja vuosilomarahan suuruuden vahvistamisesta](547.md) `547/1991`
+- [Laki valtiopäiväjärjestyksen 48§:n muuttamisesta](548.md) `548/1991`
+- [Asetus tullilaitoksen suoritteista perittävistä maksuista](549.md) `549/1991`
+- [Asetus eräistä metsäverotuksessa käytettävistä määritelmistä](550.md) `550/1991`
+- [Asetus valtion virkamiesasetuksen muuttamisesta](551.md) `551/1991`
+- [Asetus sosiaalipalveluista perittävistä maksuista annetun asetuksen muuttamisesta](552.md) `552/1991`
+- [Maa\- ja metsätalousministeriön päätös lämminveristen ravihevosten maahantuonnissa noudatettavista tulosvaatimuksista](553.md) `553/1991`
+- [Ympäristöministeriön päätös asuinrakennusten ja asuntojen korjaustoimintaan myönnettävien avustusten jakoperusteista](554.md) `554/1991`
+- [Valtiovarainministeriön päätös verovuoden 1989 verotuksen loppuun saattamisesta sekä veromuistutuksen ja eläketulon jaksottamista koskevan vaatimuksen määräajasta](555.md) `555/1991`
+- [Laki Euroopan ihmisoikeustoimikunnan ja ihmisoikeustuomioistuimen käsittelyihin osallistuvia henkilöitä koskevan eurooppalaisen sopimuksen eräiden määräysten hyväksymisestä](556.md) `556/1991`
+- [Asetus Euroopan ihmisoikeustoimikunnan ja ihmisoikeustuomioistuimen käsittelyihin osallistuvia henkilöitä koskevan eurooppalaisen sopimuksen voimaansaattamisesta sekä sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](557.md) `557/1991`
+- [Asetus otsonikerrosta heikentäviä aineita koskevan Montrealin pöytäkirjan muutosten voimaansaattamisesta](558.md) `558/1991`
+- [Liikevaihtoverolaki](559.md) `559/1991`
+- [Liikevaihtoveroasetus](560.md) `560/1991`
+- [Asetus ennakkoperintäasetuksen muuttamisesta](561.md) `561/1991`
+- [Valtioneuvoston päätös myytäväksi toimitetun rehusilakan vähimmäishinnoista ja tavoitehinnoista annetun valtioneuvoston päätöksen kumoamisesta](562.md) `562/1991`
+- [Laki Puolan kanssa tehdyn sijoitusten edistämistä ja niiden vastavuoroista suojelua koskevan sopimuksen eräiden määräysten hyväksymisestä](563.md) `563/1991`
+- [Asetus Puolan kanssa tehdyn sijoitusten edistämistä ja niiden vastavuoroista suojelua koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](564.md) `564/1991`
+- [Laki Urho Kekkosen kansallispuiston rajauksen muuttamisesta](565.md) `565/1991`
+- [Laki aluevaihdosta valtion ja Pelkosenniemen kunnan välillä](566.md) `566/1991`
+- [Asetus eräistä alusten katsastuksiin ja tarkastuksiin sekä jäämaksuluokan määräämiseen liittyvistä palkkioista ja korvauksista annetun asetuksen muuttamisesta](567.md) `567/1991`
+- [Asetus merimieskatselmusmiehille maksettavista palkkioista ja lunastuksista annetun asetuksen muuttamisesta](568.md) `568/1991`
+- [Asetus aluksen lastiviivojen määräämisestä ja merkitsemisestä suoritettavasta maksusta](569.md) `569/1991`
+- [Asetus alusten paineastioiden tarkastuksiin liittyvistä palkkioista ja korvauksista annetun asetuksen muuttamisesta](570.md) `570/1991`
+- [Asetus aluksenmittaukseen liittyvistä palkkioista, korvauksista ja maksuista annetun asetuksen muuttamisesta](571.md) `571/1991`
+- [Valtioneuvoston päätös lukion oppilaiden koulukuljetuksesta ja koulumatkasta aiheutuvien kustannusten korvaamisesta](572.md) `572/1991`
+- [Opetusministeriön päätös peruskoulussa järjestettävän lisäopetuksen perusteista](573.md) `573/1991`
+- [Opetusministeriön päätös peruskoulussa järjestettävän esiopetuksen perusteista](574.md) `574/1991`
+- [Laki Luxemburgin kanssa sosiaaliturvasta tehdyn sopimuksen eräiden määräysten hyväksymisestä](575.md) `575/1991`
+- [Asetus Luxemburgin kanssa sosiaaliturvasta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](576.md) `576/1991`
+- [Asetus eräistä määräajaksi tai muutoin rajoitetuksi ajaksi täytettävistä viroista annetun asetuksen 1 ja 2§:n muuttamisesta](577.md) `577/1991`
+- [Asetus maa\- ja metsätalousministeriöstä annetun asetuksen muuttamisesta](578.md) `578/1991`
+- [Valtioneuvoston päätös neljän poliisipiirin uudelleen järjestämisestä](579.md) `579/1991`
+- [Sosiaali\- ja terveysministeriön päätös kotipalvelusta perittävien maksujen perusteena olevasta 1\. korvausluokan tulorajasta](580.md) `580/1991`
+- [Laki Kolin kansallispuistosta](581.md) `581/1991`
+- [Asetus Oulangan kansallispuistosta](582.md) `582/1991`
+- [Asetus eräistä valtion omistamille alueille perustetuista kansallispuistoista ja luonnonpuistoista annetun asetuksen muuttamisesta](583.md) `583/1991`
+- [Asetus kartastoasiain neuvottelukunnasta annetun asetuksen kumoamisesta](584.md) `584/1991`
+- [Asetus kasvintuhoojien maahan kulkeutumisen estämisestä annetun asetuksen liitteen muuttamisesta](585.md) `585/1991`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Haukiputaan ja Yli\-Iin kuntien välillä](586.md) `586/1991`
+- [Sisäasiainministeriön päätös erään tilan ja alueiden siirtämisestä Limingan kunnasta Tyrnävän kuntaan](587.md) `587/1991`
+- [Sisäasiainministeriön päätös eräiden tilojen siirtämisestä Mietoisten kunnasta Mynämäen kuntaan](588.md) `588/1991`
+- [Sisäasiainministeriön päätös erään kylän, tilan ja alueiden siirtämisestä Mynämäen kunnasta Mietoisten kuntaan](589.md) `589/1991`
+- [Sisäasiainministeriön päätös eräiden tilojen, tilanosan ja alueiden siirtämisestä Mynämäen kunnasta Mietoisten kuntaan](590.md) `590/1991`
+- [Liikenneministeriön päätös sairaankuljetuksen taksoista](591.md) `591/1991`
+- [Säteilylaki](592.md) `592/1991`
+- [Asetus valtioneuvoston ohjesäännön muuttamisesta](593.md) `593/1991`
+- [Laki virallisista kääntäjistä annetun lain 13§:n muuttamisesta](594.md) `594/1991`
+- [Laki työsopimuslain muuttamisesta](595.md) `595/1991`
+- [Laki työsopimuksen irtisanomismenettelystä annetun lain kumoamisesta](596.md) `596/1991`
+- [Laki työttömyysturvalain 9§:n muuttamisesta](597.md) `597/1991`
+- [Asetus liike\- ja yhteisötunnuksesta](598.md) `598/1991`
+- [Valtioneuvoston päätös eräiden tilojen ja alueiden siirtämisestä Tohmajärven kunnasta Pyhäselän kuntaan](599.md) `599/1991`
+- [Valtioneuvoston päätös kuntajaon muuttamisesta eräiltä osin Sonkajärven kunnan ja Kajaanin kaupungin välillä](600.md) `600/1991`
+- [Valtioneuvoston päätös kuntajaon muuttamisesta eräiltä osin Kankaanpään kaupungin ja Pomarkun kunnan välillä](601.md) `601/1991`
+- [Valtioneuvoston päätös ulkomaalaisen kelpoisuudesta valtion virkaan](602.md) `602/1991`
+- [Liikenneministeriön päätös henkilövuokra\-autojen kuljetusmaksuista](603.md) `603/1991`
+- [Laki kuntoutuksen asiakaspalveluyhteistyöstä](604.md) `604/1991`
+- [Laki kansanterveyslain muuttamisesta](605.md) `605/1991`
+- [Laki erikoissairaanhoitolain muuttamisesta](606.md) `606/1991`
+- [Laki sosiaalihuoltolain 17§:n muuttamisesta](607.md) `607/1991`
+- [Laki työterveyshuoltolain 2§:n muuttamisesta](608.md) `608/1991`
+- [Laki työllisyyslain 7§:n muuttamisesta](609.md) `609/1991`
+- [Laki kansaneläkelaitoksen järjestämästä kuntoutuksesta](610.md) `610/1991`
+- [Kuntoutusrahalaki](611.md) `611/1991`
+- [Laki työntekijäin eläkelain muuttamisesta](612.md) `612/1991`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](613.md) `613/1991`
+- [Laki maatalousyrittäjien eläkelain 6§:n muuttamisesta](614.md) `614/1991`
+- [Laki yrittäjien eläkelain 5§:n muuttamisesta](615.md) `615/1991`
+- [Laki eräiden työsuhteessa olevien taiteilijoiden ja toimittajien eläkelain 3§:n muuttamisesta](616.md) `616/1991`
+- [Laki merimieseläkelain muuttamisesta](617.md) `617/1991`
+- [Laki valtion eläkelain muuttamisesta](618.md) `618/1991`
+- [Laki kansaneläkelain muuttamisesta](619.md) `619/1991`
+- [Laki työttömyysturvalain 5§:n muuttamisesta](620.md) `620/1991`
+- [Laki sairausvakuutuslain muuttamisesta](621.md) `621/1991`
+- [Laki eläkkeensaajien asumistukilain 6§:n muuttamisesta](622.md) `622/1991`
+- [Laki perhe\-eläkelain 15 b§:n muuttamisesta](623.md) `623/1991`
+- [Laki rintamasotilaseläkelain 8§:n muuttamisesta](624.md) `624/1991`
+- [Laki tapaturmavakuutuslain perusteella korvattavasta kuntoutuksesta](625.md) `625/1991`
+- [Laki liikennevakuutuslain perusteella korvattavasta kuntoutuksesta](626.md) `626/1991`
+- [Laki tapaturmavakuutuslain 14 ja 22§:n muuttamisesta](627.md) `627/1991`
+- [Laki maatalousyrittäjien tapaturmavakuutuslain 9§:n muuttamisesta](628.md) `628/1991`
+- [Laki vesilain muuttamisesta](629.md) `629/1991`
+- [Laki lasten päivähoidosta annetun lain 11 a ja 31§:n muuttamisesta](630.md) `630/1991`
+- [Laki lasten kotihoidon tuesta annetun lain muuttamisesta](631.md) `631/1991`
+- [Laki vakuutusyhtiölain muuttamisesta](632.md) `632/1991`
+- [Laki ulkomaisten vakuutusyhtiöiden toiminnasta Suomessa annetun lain muuttamisesta](633.md) `633/1991`
+- [Laki vakuutusyhdistyslain 12 luvun 3§:n muuttamisesta](634.md) `634/1991`
+- [Asetus puolustusministeriöstä annetun asetuksen muuttamisesta](635.md) `635/1991`
+- [Laki teollisuudelle ympäristönsuojeluinvestointeihin myönnettävistä valtiontakauksista annetun lain muuttamisesta](636.md) `636/1991`
+- [Laki alkoholilain muuttamisesta](637.md) `637/1991`
+- [Laki keskioluesta annetun lain 12§:n muuttamisesta](638.md) `638/1991`
+- [Laki taidenäyttelyiden valtiontakuusta annetun lain 3 ja 4§:n muuttamisesta](639.md) `639/1991`
+- [Asetus taidenäyttelyiden valtiontakuusta annetun asetuksen muuttamisesta](640.md) `640/1991`
+- [Asetus maanmittaushallinnon suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](641.md) `641/1991`
+- [Asetus autorekisterikeskuksen ja sen katsastustoimipaikkojen suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](642.md) `642/1991`
+- [Valtioneuvoston päätös televisioluvista annetun valtioneuvoston päätöksen 5§:n muuttamisesta](643.md) `643/1991`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Kiukaisten kunnan ja Harjavallan kaupungin välillä](644.md) `644/1991`
+- [Sisäasiainministeriön päätös kahden tilanosan siirtämisestä Lohjan kunnasta Lohjan kaupunkiin](645.md) `645/1991`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Maskun ja Nousiaisten kuntien välillä](646.md) `646/1991`
+- [Sisäasiainministeriön päätös eräiden tilojen, tilanosien ja alueiden siirtämisestä Nurmijärven kunnasta Hyvinkään kaupunkiin](647.md) `647/1991`
+- [Sisäasiainministeriön päätös eräiden tilojen ja alueiden siirtämisestä Rantasalmen ja Heinäveden kunnista sekä Savonlinnan kaupungista Kangaslammin kuntaan](648.md) `648/1991`
+- [Sisäasiainministeriön päätös eräiden tilojen ja alueiden siirtämisestä Riihimäen kaupungista Hyvinkään kaupunkiin](649.md) `649/1991`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Siikajoen ja Pattijoen kuntien välillä](650.md) `650/1991`
+- [Laki rikoslain 2 luvun 1§:n muuttamisesta](651.md) `651/1991`
+- [Laki sotilaskurinpitolain muuttamisesta](652.md) `652/1991`
+- [Asetus puolustusvoimista annetun asetuksen muuttamisesta](653.md) `653/1991`
+- [Merimieseläkeasetus](654.md) `654/1991`
+- [Asetus työntekijäin eläkeasetuksen muuttamisesta](655.md) `655/1991`
+- [Asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkeasetuksen 12 ja 13§:n muuttamisesta](656.md) `656/1991`
+- [Asetus maatalousyrittäjien eläkeasetuksen 10 ja 11§:n muuttamisesta](657.md) `657/1991`
+- [Asetus yrittäjien eläkeasetuksen 10 ja 11§:n muuttamisesta](658.md) `658/1991`
+- [Asetus eräiden työsuhteessa olevien taiteilijoiden ja toimittajien eläkeasetuksen 3 ja 4§:n muuttamisesta](659.md) `659/1991`
+- [Laki Euroopan jälleenrakennus\- ja kehityspankin perustamista koskevan sopimuksen eräiden määräysten hyväksymisestä](660.md) `660/1991`
+- [Asetus Euroopan jälleenrakennus\- ja kehityspankin perustamista koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](661.md) `661/1991`
+- [Asetus vuoden 1972 yleissopimukseen kansainvälisistä säännöistä yhteentörmäämisen ehkäisemiseksi merellä liittyvien sääntöjen muutoksen voimaansaattamisesta](662.md) `662/1991`
+- [Taimiaineistolaki](663.md) `663/1991`
+- [Asetus puolustusministeriön ja puolustusvoimien sähkölaitteistoista ja voimalaitoksista](664.md) `664/1991`
+- [Valtioneuvoston päätös ulkomaanedustuksen virkamiesten paikalliskorotuksesta, varustautumiskorvauksesta ja asettautumiskustannusten korvauksesta annetun valtioneuvoston päätöksen muuttamisesta](665.md) `665/1991`
+- [Valtiovarainministeriön päätös komitean kokouspalkkioista](666.md) `666/1991`
+- [Maa\- ja metsätalousministeriön päätös leipäviljan varastointi\- ja ostosopimuksista](667.md) `667/1991`
+- [Laki Kreikan kanssa sosiaaliturvasta tehdyn sopimuksen eräiden määräysten hyväksymisestä](668.md) `668/1991`
+- [Asetus Kreikan kanssa sosiaaliturvasta tehdyn sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](669.md) `669/1991`
+- [Maastoliikennelaki](670.md) `670/1991`
+- [Laki tieliikennelain muuttamisesta](671.md) `671/1991`
+- [Laki luonnonsuojelulain muuttamisesta](672.md) `672/1991`
+- [Laki yleisten asiakirjain julkisuudesta annetun lain 9§:n muuttamisesta](673.md) `673/1991`
+- [Asetus Kolin kansallispuistosta](674.md) `674/1991`
+- [Valtiovarainministeriön päätös kuljetuskustannusten liikevaihtoverotuksesta](675.md) `675/1991`
+- [Metalliraha\-asetus](676.md) `676/1991`
+- [Asetus opetusministeriön hallinnonalan eräiden virkojen nimien muuttamisesta](677.md) `677/1991`
+- [Asetus mittatekniikan keskuksesta](678.md) `678/1991`
+- [Asetus teknillisestä tarkastuskeskuksesta](679.md) `679/1991`
+- [Asetus vesiasiain neuvottelukunnasta annetun asetuksen 3 ja 5§:n muuttamisesta](680.md) `680/1991`
+- [Oikeusministeriön päätös vankeusrangaistuksen täytäntöönpanosta eräissä tapauksissa annetun oikeusministeriön päätöksen 1 §:n muuttamisesta](681.md) `681/1991`
+- [Työsuojeluhallituksen päätös vaarallisen kemikaalijätteen käyttöturvallisuustiedotteesta](682.md) `682/1991`
+- [Asetus eräistä lohenkalastusta koskevista rajoituksista vuonna 1991](683.md) `683/1991`
+- [Asetus eräiden pyydysten käytön rajoittamisesta yleisellä vesialueella meressä sekä Suomen kalastusvyöhykkeellä annetun asetuksen 2§:n muuttamisesta](684.md) `684/1991`
+- [Valtioneuvoston päätös pinta\-alalisästä](685.md) `685/1991`
+- [Valtioneuvoston päätös peltoalan perusteella maksettavasta tuesta](686.md) `686/1991`
+- [Valtioneuvoston päätös kotieläinten lukumäärän perusteella annettavista avustuksista](687.md) `687/1991`
+- [Valtioneuvoston päätös maidon tuotantotuesta](688.md) `688/1991`
+- [Valtioneuvoston päätös lihan tuotantotuesta](689.md) `689/1991`
+- [Valtioneuvoston päätös rehuviljan tuotantopalkkiosta annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](690.md) `690/1991`
+- [Valtioneuvoston päätös teollisuusperunan tuotantopalkkiosta annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](691.md) `691/1991`
+- [Valtioneuvoston päätös sokerijuurikkaan tuotantopalkkiosta annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](692.md) `692/1991`
+- [Valtioneuvoston päätös vuonna 1991 tehtävistä emolehmäsopimuksista](693.md) `693/1991`
+- [Liikenneministeriön päätös invataksien kuljetusmaksuista](694.md) `694/1991`
+- [Laki NORSAD\-rahaston ja NORSAD\-sihteeristön perustamista koskevan sopimuksen eräiden määräysten hyväksymisestä](695.md) `695/1991`
+- [Asetus NORSAD\-rahaston ja NORSAD\-sihteeristön perustamista koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](696.md) `696/1991`
+- [Laki rikoslain muuttamisesta](697.md) `697/1991`
+- [Laki rikoslain voimaanpanemisesta annetun asetuksen 16§:n muuttamisesta](698.md) `698/1991`
+- [Laki sotilaskurinpitolain 5§:n muuttamisesta](699.md) `699/1991`
+- [Laki ehdollisesta rangaistuksesta annetun lain 4 ja 5§:n muuttamisesta](700.md) `700/1991`
+- [Laki nuorista rikoksentekijöistä annetun lain eräiden säännösten kumoamisesta](701.md) `701/1991`
+- [Laki vaarallisten rikoksenuusijain eristämisestä annetun lain 1 ja 13§:n muuttamisesta](702.md) `702/1991`
+- [Laki rangaistusten täytäntöönpanosta annetun asetuksen 2 ja 5 luvun muuttamisesta](703.md) `703/1991`
+- [Laki Suomen ja muiden pohjoismaiden välisestä yhteistoiminnasta rikosasioissa annettujen tuomioiden täytäntöönpanossa annetun lain 7 ja 29§:n muuttamisesta](704.md) `704/1991`
+- [Laki kansainvälisestä yhteistoiminnasta vapausrangaistusten täytäntöönpanossa annetun lain 18§:n muuttamisesta](705.md) `705/1991`
+- [Laki aseettomasta palveluksesta ja siviilipalveluksesta annetun lain 19§:n muuttamisesta](706.md) `706/1991`
+- [Laki rikesakkolain 20§:n muuttamisesta](707.md) `707/1991`
+- [Laki oikeudenkäymiskaaren muuttamisesta](708.md) `708/1991`
+- [Laki sotilasoikeudenkäyntilain 8§:n muuttamisesta](709.md) `709/1991`
+- [Laki maksuttomasta oikeudenkäynnistä annetun lain 17§:n muuttamisesta](710.md) `710/1991`
+- [Asetus tietohuollon neuvottelukunnasta](711.md) `711/1991`
+- [Laki taiteen edistämisen järjestelystä annetun lain muuttamisesta](712.md) `712/1991`
+- [Asetus eräiden virkojen siirtämisestä ja virkojen nimien muuttamisesta sisäasiainministeriön hallinnonalalla](713.md) `713/1991`
+- [Asetus valtion virkamiesten vuosilomasta annetun asetuksen muuttamisesta](714.md) `714/1991`
+- [Asetus eräiden valtion palveluksessa olevien osa\-aikaisten ja sivutoimisten virkamiesten sekä tunti\- opettajien vuosilomasta ja vuosilomakorvauksesta annetun asetuksen muuttamisesta](715.md) `715/1991`
+- [Asetus eräiden sosiaali\- ja terveyshallituksen virkojen perustamisesta ja lakkauttamisesta](716.md) `716/1991`
+- [Asetus sairausvakuutusasetuksen muuttamisesta](717.md) `717/1991`
+- [Valtioneuvoston päätös valtion työntekijäin vuosilomista annetun valtioneuvoston päätöksen muuttamisesta](718.md) `718/1991`
+- [Valtioneuvoston päätös Luxemburgin kanssa sosiaaliturvasta tehdystä sopimuksesta johtuvista poikkeuksista kansaneläkelain ja perhe\-eläkelain säännöksiin](719.md) `719/1991`
+- [Valtioneuvoston päätös Kreikan kanssa sosiaaliturvasta tehdystä sopimuksesta johtuvista poikkeuksista kansaneläkelain ja perhe\-eläkelain säännöksiin](720.md) `720/1991`
+- [Valtiovarainministeriön päätös eräiden arvopapereiden verotusarvon perusteista annetun valtiovarainministeriön päätöksen muuttamisesta](721.md) `721/1991`
+- [Laki tieliikenteen tietojärjestelmästä annetun lain muuttamisesta](722.md) `722/1991`
+- [Laki tieliikennelain 84§:n muuttamisesta](723.md) `723/1991`
+- [Asetus vaarallisten aineiden kuljettajien ajoluvasta](724.md) `724/1991`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](725.md) `725/1991`
+- [Asetus kioski\- ja siihen verrattavasta kaupasta sekä automaattikaupasta annetun asetuksen muuttamisesta](726.md) `726/1991`
+- [Asetus majoitus\- ja ravitsemisliikkeistä](727.md) `727/1991`
+- [Valtioneuvoston päätös vientitakuusta perittävän maksun yleisistä perusteista annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](728.md) `728/1991`
+- [Laki kuntien ympäristönsuojelun hallinnosta annetun lain muuttamisesta](729.md) `729/1991`
+- [Laki kansanterveyslain 6§:n muuttamisesta](730.md) `730/1991`
+- [Laki tuoteturvallisuuslain 7§:n muuttamisesta](731.md) `731/1991`
+- [Laki elintarvikelain 3§:n muuttamisesta](732.md) `732/1991`
+- [Laki liikkuvasta kaupasta annetun lain 17§:n muuttamisesta](733.md) `733/1991`
+- [Laki rakennuslain 10§:n muuttamisesta](734.md) `734/1991`
+- [Ympäristölupamenettelylaki](735.md) `735/1991`
+- [Laki eräistä naapuruussuhteista annetun lain 18 ja 19 §:n muuttamisesta](736.md) `736/1991`
+- [Laki terveydenhoitolain 26 §:n muuttamisesta](737.md) `737/1991`
+- [Laki ilmansuojelulain muuttamisesta](738.md) `738/1991`
+- [Laki jätehuoltolain 21 ja 23§:n muuttamisesta](739.md) `739/1991`
+- [Laki valtion osakasvallan käytöstä eräissä taloudellista toimintaa harjoittavissa osakeyhtiöissä](740.md) `740/1991`
+- [Asetus luonnontieteellisen perustutkinnon järjestämisestä annetun asetuksen 11 a§:n muuttamisesta](741.md) `741/1991`
+- [Asetus kauppatieteellisistä tutkinnoista annetun asetuksen 1 ja 9§:n muuttamisesta](742.md) `742/1991`
+- [Asetus humanistisen perustutkinnon järjestämisestä annetun asetuksen 10§:n muuttamisesta](743.md) `743/1991`
+- [Asetus eräistä rajavartiolaitoksen virkajärjestelyistä](744.md) `744/1991`
+- [Asetus tapaturmalautakunnasta annetun asetuksen muuttamisesta](745.md) `745/1991`
+- [Valtioneuvoston päätös avustusten myöntämisestä Neuvostoliiton yrnpäristönsuojelutoimien edistämiseen Suomen lähialueilla](746.md) `746/1991`
+- [Valtioneuvoston päätös pakolaisten toimeentulon turvaamisesta annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](747.md) `747/1991`
+- [Ympäristöministeriön päätös Itä\-Euroopan ympäristönsuojelutoimien edistämiseen myönnettävien korkotukilainojen yleisistä ehdoista](748.md) `748/1991`
+- [Asetus peruskouluasetuksen muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](749.md) `749/1991`
+- [Asetus Heinolan kurssikeskuksen eräiden virkojen perustamisesta ja lakkauttamisesta](750.md) `750/1991`
+- [Asetus alaltaan vaihtuvista sopimuspalkkaisista professorin viroista annetun asetuksen 1 §:n muuttamisesta](751.md) `751/1991`
+- [Asetus soveltavan kemian professorin viran perustamisesta Jyväskylän yliopistoon](752.md) `752/1991`
+- [Asetus Åbo Akademin kahden apulaisprofessorin viran opetusalan muuttamisesta](753.md) `753/1991`
+- [Asetus kaavoitusalueiden jakoasetuksen muuttamisesta](754.md) `754/1991`
+- [Maa\- ja metsätalousministeriön päätös eräiden lääkeaineiden käytön kieltämisestä tuotantoeläimille](755.md) `755/1991`
+- [Oikeusministeriön päätös lainhuuto\- ja kiinnitysrekisterin käyttöön ottamisesta eräissä tuomiokunnissa ja raastuvanoikeuksissa](756.md) `756/1991`
+- [Verohallituksen päätös uudelleen maksuunpannun ennakon kantamisesta](757.md) `757/1991`
+- [Laki takaisinsaannista konkurssipesään](758.md) `758/1991`
+- [Laki konkurssisäännön muuttamisesta](759.md) `759/1991`
+- [Laki konkurssisäännön väliaikaisesta muuttamisesta annetun lain 85§:n muuttamisesta](760.md) `760/1991`
+- [Laki akordilain 34 ja 40§:n muuttamisesta](761.md) `761/1991`
+- [Laki etuoikeusasetuksen muuttamisesta](762.md) `762/1991`
+- [Laki vakuutussopimuslain 117§:n muuttamisesta](763.md) `763/1991`
+- [Laki ulosottolain 3 ja 4 luvun muuttamisesta](764.md) `764/1991`
+- [Laki avioliittolain muuttamisesta](765.md) `765/1991`
+- [Laki lahjanlupauslain muuttamisesta](766.md) `766/1991`
+- [Laki eräistä kansainvälisluontoisista perheoikeudellisista suhteista annetun lain 16§:n muuttamisesta](767.md) `767/1991`
+- [Laki perintökaaren muuttamisesta](768.md) `768/1991`
+- [Asetus lahjoitusten rekisteröimisestä ja kuuluttamisesta](769.md) `769/1991`
+- [Asetus avioliittoasetuksen 14 §:n 1 momentin 3 kohdan kumoamisesta](770.md) `770/1991`
+- [Laki Pohjoismaiden välillä virka\-avusta veroasioissa tehdyn sopimuksen eräiden määräysten hyväksymisestä](771.md) `771/1991`
+- [Asetus Pohjoismaiden välillä virka\-avusta veroasioissa tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](772.md) `772/1991`
+- [Laki oikeudesta entiseen tiealueeseen annetun lain muuttamisesta](773.md) `773/1991`
+- [Laki yleisistä teistä annetun lain 33 ja 35§:n muuttamisesta](774.md) `774/1991`
+- [Laki yksityisistä teistä annetun lain 38§:n 1 momentin 5 kohdan kumoamisesta](775.md) `775/1991`
+- [Asetus opintotukiasetuksen 5 §:n muuttamisesta](776.md) `776/1991`
+- [Asetus työturvallisuuslain ja työterveyshuoltolain soveltamisesta työturvallisuuslain 2§:ssä tarkoitettuun työhön annetun asetuksen 3§:n muuttamisesta](777.md) `777/1991`
+- [Asetus Ruotsin kanssa tehdyn automaattipeliä Suomen ja Ruotsin välillä säännöllisessä linjaliikenteessä olevilla matkustaja\-aluksilla koskevan sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](778.md) `778/1991`
+- [Asetus Suomen ulkomaanedustustojen sijainnista annetun asetuksen muuttamisesta](779.md) `779/1991`
+- [Tasavallan Presidentin avoin kirje valtioneuvoston vaihdoksesta](780.md) `780/1991`
+- [Maa\- ja metsätalousministeriön päätös maitonäytteistä annetun maa\- ja metsätalousmisteriön päätöksen muuttamisesta](781.md) `781/1991`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannuista muutoksista](782.md) `782/1991`
+- [Valtioneuvoston päätös kuntajaon muuttamisesta eräiltä osin Joutsan ja Hartolan kuntien välillä](783.md) `783/1991`
+- [Valtioneuvoston päätös rajan määräänieestä eräiltä osin Espoon kaupungin, Helsingin kaupungin, Inkoon kunnan, Kirkkonummen kunnan, Porvoon maalaiskunnan ja Sipoon kunnan välillä](784.md) `784/1991`
+- [Valtioneuvoston päätös eräiden tilojen ja alueiden siirtämisestä Suonenjoen kaupungista ja Tuusniemen, Heinäveden sekä Jäppilän kunnista Leppävirran kuntaan](785.md) `785/1991`
+- [Valtioneuvoston päätös eräiden tilojen, tilanosan ja alueiden siirtämisestä Lapuan kaupungista ja Alahärmän kunnasta Ylihärmän kuntaan](786.md) `786/1991`
+- [Valtioneuvoston päätös kuntajaon muuttamisesta eräiltä osin Ranuan kunnan ja Rovaniemen maalaiskunnan välillä](787.md) `787/1991`
+- [Valtioneuvoston päätös eräiden tilojen, tilanosien ja alueiden siirtämisestä Mikkelin maalaiskunnasta ja Puumalan kunnasta Ristiinan kuntaan](788.md) `788/1991`
+- [Valtioneuvoston päätös kuntajaon muuttamisesta ja kunnan rajan määräämisestä eräiltä osin Pelkosenniemen, Sodankylän, Savukosken ja Sallan kuntien ja Kemijärven kaupungin välillä](789.md) `789/1991`
+- [Valtioneuvoston päätös eräiden opintotukilaissa tarkoitettujen määrien vahvistamisesta](790.md) `790/1991`
+- [Asetus kouluasiainneuvostosta annetun asetuksen 3 §:n muuttami](791.md) `791/1991`
+- [Asetus alkoholijuomista annetun asetuksen 34 ja 37 §:n muuttamisesta](792.md) `792/1991`
+- [Asetus keskioluesta annetun asetuksen 18 ja 21 §:n muuttamisesta](793.md) `793/1991`
+- [Asetus elintarvikkeiden pakkausmerkinnöistä](794.md) `794/1991`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeiden pakkausmerkinnöistä](795.md) `795/1991`
+- [Asetus makeutusaineasetuksen kumoamisesta](796.md) `796/1991`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikelisäaineista annetun elinkeinohallituksen päätöksen muuttamisesta](797.md) `797/1991`
+- [Liikenneministeriön päätös ulkomaanliikenteen lastialusten kilpailuedellytysten edistämiseksi tarkoitetuista avustuksista](798.md) `798/1991`
+- [Maa\- ja metsätalousministeriön päätös kotimaisen rukiin ja vehnän jauhatusvelvollisuudesta annetun maa\- ja metsätalousministeriön päätöksen 3 §:n muuttamisesta](799.md) `799/1991`
+- [Laki hyödyllisyysmallioikeudesta](800.md) `800/1991`
+- [Laki patenttilain 2 ja 6§:n muuttamisesta](801.md) `801/1991`
+- [Laki mallioikeuslain 2 ja 4§:n muuttamisesta](802.md) `802/1991`
+- [Laki patentti\- ja rekisterihallituksesta annetun lain muuttamisesta](803.md) `803/1991`
+- [Asetus hyödyllisyysmallioikeudesta annetun lain, patenttilain 2 ja 6 §:n muuttamisesta annetun lain, mallioikeuslain 2 ja 4 §:n muuttamisesta annetun lain sekä patentti\- ja rekisterihallituksesta annetun lain muuttamisesta annetun lain voimaantulosta](804.md) `804/1991`
+- [Asetus valtioneuvoston ohjesäännön 46 §:n muuttamisesta](805.md) `805/1991`
+- [Asetus haastemiesasetuksen muuttamisesta](806.md) `806/1991`
+- [Valtioneuvoston päätös kuntajaon muuttamisesta eräiltä osin Ylitornion kunnan ja Rovaniemen maalaiskunnan välillä](807.md) `807/1991`
+- [Verohallituksen päätös liikkeen\- ja ammatinharjoittajan työmatkasta aiheutuneen elantokustannusten lisäyksen vähentämisestä vuodelta 1991 toimitettavassa verotuksessa](808.md) `808/1991`
+- [Asunto\-osakeyhtiölaki](809.md) `809/1991`
+- [Laki ulkomaalaisten sekä eräiden yhteisöjen oikeudesta omistaa ja hallita kiinteätä omaisuutta ja osakkeita annetun lain 2§:n muuttamisesta](810.md) `810/1991`
+- [Asunto\-osakeyhtiöasetus](811.md) `811/1991`
+- [Asetus Thaimaan kanssa tehdyn eräiden tiettyjen tekstiilituotteiden tuontia koskevan sopimuksen voimaansaattamisesta](812.md) `812/1991`
+- [Asetus teatterikorkeakoulusta annetun asetuksen muuttamisesta](813.md) `813/1991`
+- [Asetus Unkarin kanssa liikennevahinkojen vastavuoroisesta korvaamisesta tehdyn sopimuksen voimaansaattamisesta](814.md) `814/1991`
+- [Asetus lääninhallitusten suoritteista perittävistä maksuista](815.md) `815/1991`
+- [Asetus liikenneministeriöstä](816.md) `816/1991`
+- [Maatilahallituksen päätös peltoalan perusteella suoritettavasta vientikustannusmaksusta annetussa laissa tarkoitetusta vientikustannusmaksun määräämisestä, maksuunpanosta ja kannosta](817.md) `817/1991`
+- [Asetus työministeriöstä annetun asetuksen muuttamisesta](818.md) `818/1991`
+- [Asetus oikeaksi todistamattomista jäljennöksistä valtiolle perittävistä maksuista annetun asetuksen muuttamisesta](819.md) `819/1991`
+- [Asetus kolmen professorin viran perustamisesta määräajaksi Teknilliseen korkeakouluun](820.md) `820/1991`
+- [Asetus merenkulkualan koulutuskeskuksesta annetun asetuksen muuttamisesta](821.md) `821/1991`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](822.md) `822/1991`
+- [Valtioneuvoston päätös eräiden tilojen, tilanosien ja alueiden siirtämisestä Oulaisten kaupungista Vihannin kuntaan](823.md) `823/1991`
+- [Valtioneuvoston päätös auto\- Ja moottoripyöräveron muuttamisesta](824.md) `824/1991`
+- [Sisäasiainministeriön päätös erään tilan siirtämisestä Kalannin kunnan Laitilan kaupunkiin](825.md) `825/1991`
+- [Laki arvo\-osuusjärjestelmästä](826.md) `826/1991`
+- [Laki arvo\-osuustileistä](827.md) `827/1991`
+- [Laki määräajasta velkomisasioissa sekä julkisesta haasteesta velkojille annetun asetuksen 19§:n muuttamisesta](828.md) `828/1991`
+- [Laki ulosottolain muuttamisesta](829.md) `829/1991`
+- [Laki rahan, arvopaperien tai asiakirjain tallettamisesta velan maksuna tai vapautumiseksi muusta suoritusvelvollisuudesta annetun lain muuttamisesta](830.md) `830/1991`
+- [Laki lahjanlupauslain muuttamisesta](831.md) `831/1991`
+- [Laki osakeyhtiölain muuttamisesta](832.md) `832/1991`
+- [Laki yrityskiinnityslain muuttamisesta](833.md) `833/1991`
+- [Laki sijoitusrahastolain muuttamisesta](834.md) `834/1991`
+- [Laki ulkomaalaisten sekä eräiden yhteisöjen oikeudesta omistaa ja hallita kiinteätä omaisuutta ja osakkeita annetun lain 8§:n muuttamisesta](835.md) `835/1991`
+- [Laki ulkomaalaisten oikeudesta omistaa suomalaisen luottolaitoksen osakkeita ja harjoittaa pankkitoimintaa Suomessa annetun lain 3 a§:n muuttamisesta](836.md) `836/1991`
+- [Laki vakuutusyhtiölain 3 a luvun 5§:n muuttamisesta](837.md) `837/1991`
+- [Laki kaupparekisterilain 18§:n muuttamisesta](838.md) `838/1991`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain 3§:n muuttamisesta](839.md) `839/1991`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Savonlinnan kaupungin ja Punkaharjun kunnan välillä](840.md) `840/1991`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Ruskon ja Maskun kuntien välillä](841.md) `841/1991`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Auran ja Liedon kuntien välillä](842.md) `842/1991`
+- [Laki Euroopan sosiaalisen peruskirjan ja siihen liittyvän lisäpöytäkirjan eräiden määräysten hyväksymisestä](843.md) `843/1991`
+- [Asetus Euroopan sosiaalisen peruskirjan voimaansaattamisesta sekä peruskirjan ja siihen liittyvän lisäpöytäkirjan eräiden määräysten hyväksymisestä annetun lain voimaantulosta](844.md) `844/1991`
+- [Asetus Namibian kanssa tehdyn viisumivapaussopimuksen voimaansaattamisesta](845.md) `845/1991`
+- [Asetus sotilaskurinpitoasetuksen muuttamisesta](846.md) `846/1991`
+- [Asetus Aluksista aiheutuvan vesien pilaantumisen ehkäisemisestä annetun asetuksen 1 ja 23 §:n muuttamisesta](847.md) `847/1991`
+- [Asetus kansanterveyetetslaitoksesta](848.md) `848/1991`
+- [Asetus Kreikan kanssa sosiaaliturvasta tehdystä sopimuksesta johtuvista poikkeuksista sairausvakuutuslain säännöksiin](849.md) `849/1991`
+- [Asetus Kreikan kanssa sosiaaliturvasta tehdyssä sopimuksessa tarkoitetusta vakuutuslaitosten välisestä sairaanhoitoetuuksien kustannusten korvaamisesta](850.md) `850/1991`
+- [Valtioneuvoston päätös eräiden kuntien määräämisestä erityisalueiksi](851.md) `851/1991`
+- [Valtioneuvoston päätös hirvieläinvahinkojen korvaamisesta annetun valtioneuvoston päätöksen muuttamisesta](852.md) `852/1991`
+- [Maa\- ja metsätalousministeriön päätös valtiolle maksettavan virkatalonvuokran Ja muun valtiolle viljassa suoritettavan korvauksen vuonna 1991](853.md) `853/1991`
+- [Laki Helsingin yliopistosta](854.md) `854/1991`
+- [Laki Helsingin yliopistosta annetun lain voimaanpanosta](855.md) `855/1991`
+- [Laki korkeakoulun professorin ja apulaisprofessorin viran täyttämisestä](856.md) `856/1991`
+- [Laki eräiden korkeakoululakien kutsumismenettelyä koskevien säännösten kumoamisesta](857.md) `857/1991`
+- [Asetus eräiden korkeakoulujen virkojen kelpoisuusvaatimuksista sekä virkamiesten tehtävistä annetun asetuksen 44§:n muuttamisesta](858.md) `858/1991`
+- [Asetus taideteollisesta korkeakoulusta annetun asetuksen 6 §:n muuttamisesta](859.md) `859/1991`
+- [Asetus Otaniemen sähkölaitoksen suoritteista perittävistä maksuista annetun asetuksen kumoamisesta](860.md) `860/1991`
+- [Valtioneuvoston päätös eläkkeensaajien asumistukilain mukaista hoitomenoina hyväksyttävistä keskimääräisestä kustannuksista ja asumiskustannusten enimmäismääristä](861.md) `861/1991`
+- [Valtioneuvoston päätös lainaehdoiltaan muutettujen vuokratalolainojen koroista](862.md) `862/1991`
+- [Valtioneuvoston päätös vuokratalon tai asunto\-osuuskuntatalon peruskorjausta varten myönnetyn asuntolainan vuosimaksusta ja korosta](863.md) `863/1991`
+- [Liikenneministeriön päätös henkilövuokra\-autojen reittitaksoista](864.md) `864/1991`
+- [Liikenneministeriön päätös linja\-autolla kesällä 1991 ajettavan peruspalveluliikenteen valtionapumenettelystä](865.md) `865/1991`
+- [Kauppa\- ja teollisuusministeriön päätös valvontalisensioinnista annetun päätöksen muuttamisesta](866.md) `866/1991`
+- [Sisäasiainministeriön päätös rahankeräys\- ja tavara\-arpajaislautakunnasta annetun asetuksen soveltamisesta](867.md) `867/1991`
+- [Maatilahallituksen päätös tärkeimpien kasvilajien lajikkeista](868.md) `868/1991`
+- [Asetus maanmittauslaitoksesta](869.md) `869/1991`
+- [Asetus kiinteistörekisteriasetuksen muuttamisesta](870.md) `870/1991`
+- [Asetus yleisistä teistä annetun asetuksen muuttamisesta](871.md) `871/1991`
+- [Asetus radioasetuksen 6 §:n muuttamisesta](872.md) `872/1991`
+- [Asetus elintarvikeviraston suoritteista perittävistä maksuista](873.md) `873/1991`
+- [Asetus mittatekniikan keskukselle suoritettavista maksuista](874.md) `874/1991`
+- [Asetus teknilliselle tarkastuskeskukselle suoritettavista maksuista annettuun asetukseen liittyvän hinnaston muuttamisesta](875.md) `875/1991`
+- [Asetus työnvälityslain täytäntöönpanosta annetun asetuksen 12 §:n muuttamisesta](876.md) `876/1991`
+- [Laki rahalain 2 §:n muuttamisesta](877.md) `877/1991`
+- [Asetus kuntoutusasiain neuvottelukunnasta](878.md) `878/1991`
+- [Asetus Oulangan kansallispuistosta annetun asetuksen 2 §:n muuttamisesta](879.md) `879/1991`
+- [Sisäasiainministeriön päätös erään tilan siirtämisestä Kuhmoisten kunnasta Längelmäen kuntaan](880.md) `880/1991`
+- [Sisäasiainministeriön päätös rajan määräämisestä eräiltä osin Rautalammen ja Konneveden kuntien välillä](881.md) `881/1991`
+- [Valtioneuvoston päätös markan ulkoisesta arvosta](882.md) `882/1991`
+- [Sisäasiainministeriön päätös rajan määräämisestä eräiltä osin Alavuden ja Virtain kaupunkien välillä](883.md) `883/1991`
+- [Sisäasiainministeriön päätös erään tilan siirtämisestä Teuvan kunnasta Jurvan kuntaan](884.md) `884/1991`
+- [Sisäasiainministeriön päätös eräiden tilojen, tilanosien ja alueiden siirtämisestä Haukivuoren ja Jäppilän kunnista sekä Pieksämäen kaupungista Pieksämäen maalaiskuntaan](885.md) `885/1991`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta ja rajan määräämisestä eräiltä osin Hollolan kunnan ja Lahden kaupungin välillä](886.md) `886/1991`
+- [Sisäasiainministeriön päätös rajojen määräämisestä eräiltä osin Kajaanin kaupungin sekä Paltamon, Vaalan ja Vuolijoen kuntien välillä](887.md) `887/1991`
+- [Asetus vesiasetuksen muuttamisesta](888.md) `888/1991`
+- [Asetus passintarkastuspaikoista](889.md) `889/1991`
+- [Asetus eräiden virkojen nimien muuttamisesta sisäasiainministeriön hallinnonalalla](890.md) `890/1991`
+- [Asetus eräiden virkojen lakkauttamisesta ja perustamisesta Turun ja Porin, Hämeen, Kuopion, Mikkelin sekä Oulun lääninhallituksissa](891.md) `891/1991`
+- [Asetus maataloustuloasetuksen 12 §:n muuttamisesta](892.md) `892/1991`
+- [Kuntoutusraha\-asetus](893.md) `893/1991`
+- [Asetus työsuojeluhallinnon eräiden virkojen perustamisesta](894.md) `894/1991`
+- [Valtioneuvoston päätös maatalousyrittäjien opintorahasta annetun valtioneuvoston päätöksen 3 §:n muuttamisesta](895.md) `895/1991`
+- [Asetus palo\- ja pelastustoimesta annetun asetuksen muuttamisesta](896.md) `896/1991`
+- [Asetus työttömyysturvaetuuksien korottamisesta](897.md) `897/1991`
+- [Asetus  työterveyslaitoksen toiminnasta ja rahoituksesta annetun asetulesen muuttamisesta](898.md) `898/1991`
+- [Asetus  sairausvakuutuslain mukaisen omavastuuajan korvaamisesta maatalousyrittäjille](899.md) `899/1991`
+- [Asetus  ympäristöneuvostosta](900.md) `900/1991`
+- [Asetus  asuntoneuvostosta](901.md) `901/1991`
+- [Asetus  vesi\- ja ympäristöhallinnon eräistä virkajärjestelyistä](902.md) `902/1991`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Pietarsaaren kaupungin ja Pedersören kunnan välillä](903.md) `903/1991`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Luodon ja Pedersören kuntien, Kokkolan kaupungin ja Pietarsaaren kaupungin välillä](904.md) `904/1991`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Hartolan ja Joutsan kuntien välillä](905.md) `905/1991`
+- [Laki  lannoiteverosta annetun lain 4 §:n muuttamisesta](906.md) `906/1991`
+- [Laki  sotilasopetuslaitoksista annetun lain 4 §:n muuttamisesta](907.md) `907/1991`
+- [Asetus  sotilasopetuslaitoksista ja niissä suoritettavista tutkinnoista annetun asetuksen muuttamisesta](908.md) `908/1991`
+- [Asetus  puolustusvoimista annetun asetuksen muuttamisesta](909.md) `909/1991`
+- [Asetus  puolustusvoimien eräiden virkojen lakkauttamisesta ja perustamisesta sekä eräiden virkojen nimien muuttamisesta](910.md) `910/1991`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä](911.md) `911/1991`
+- [Verohallituksen päätös ennakonpidätyksen toimittamisvelvollisuudesta](912.md) `912/1991`
+- [Asetus  peltoalan perusteella suoritettavasta vientikustannusmaksusta annetun lain täytäntöönpanosta Ahvenanmaalla](913.md) `913/1991`
+- [Asetus  eräistä maatilahallinnon suoritteista perittävistä maksuista](914.md) `914/1991`
+- [Asetus  valtion siementarkastuslaitoksen tarkastusmaksuista annetun asetuksen muuttamisesta](915.md) `915/1991`
+- [Valtioneuvoston päätös ulkomaanedustuksen virkamiesten paikalliskorotuksesta, varustautumiskorvauksesta ja asettautumiskustannusten korvauksesta annetun valtioneuvoston päätöksen muuttamisesta](916.md) `916/1991`
+- [Valtioneuvoston päätös valtion urheiluneuvostosta annetun päätöksen 2 §:n muuttamisesta](917.md) `917/1991`
+- [Valtioneuvoston päätös valtion nuorisoneuvostosta annetun päätöksen 2 §:n muuttamisesta](918.md) `918/1991`
+- [Valtioneuvoston päätös maidon kuljetusavustuksista](919.md) `919/1991`
+- [Valtioneuvoston päätös vuonna 1991 tehtävistä emolehmäsopimuksista annetun valtioneuvoston päätöksen 3 ja 5 §:n muuttamisesta](920.md) `920/1991`
+- [Valtioneuvoston päätös turkisnahkojen väliakaisesta hintatuesta](921.md) `921/1991`
+- [Liikenneministeriön päätös ajokorttiasetuksen soveltamisesta annetun liikenneministeriön päätöksen muuttamisesta](922.md) `922/1991`
+- [Laki  leimaverolain 30 §:n muuttamisesta](923.md) `923/1991`
+- [Laki  investointiverolain muuttamisesta](924.md) `924/1991`
+- [Asetus  verotusasetuksen 31 ja 34 §:n kumoamisesta](925.md) `925/1991`
+- [Asetus  julkishallinnon ja \-talouden tilintarkastajan tutkinnosta](926.md) `926/1991`
+- [Asetus  eräistä opetusministeriön hallinnonalan virkajärjestelystä](927.md) `927/1991`
+- [Asetus  tartuntatautiasetuksen 11 ja 12 §:n muuttamisesta](928.md) `928/1991`
+- [Asetus  sosiaali\- ja terveyshallituksen eräiden virkojen nimien muuttamisesta](929.md) `929/1991`
+- [Asetus  eräistä veri\- ja muita periytyviä ominaisuuksia koskevista tutkimuksista annetun asetuksen 12 §:n muuttamisesta](930.md) `930/1991`
+- [Sosiaali\- ja terveysministeriön päätös sikiön kehitykselle ja raskaudelle vaaraa aiheuttavista tekijöistä ja vaaran arvioimisesta](931.md) `931/1991`
+- [Asetus  asevelvolliselle suoritettavasta päivärahasta annetun asetuksen kumoamisesta](932.md) `932/1991`
+- [Asetus  peruskouluasetuksen muuttamisesta](933.md) `933/1991`
+- [Asetus  lukioasetuksen muuttamisesta](934.md) `934/1991`
+- [Asetus  kuurojen sielunhoidon järjestämisestä](935.md) `935/1991`
+- [Asetus  opetusministeriön hallinnonalan erään viran nimen muuttamisesta](936.md) `936/1991`
+- [Asetus  raittiustyöasetuksen eräiden säännösten kumoamisesta](937.md) `937/1991`
+- [Asetus  alkoholilain 98 §:ssä tarkoitettujen varojen jakamisesta ja käyttämisestä annetun asetuksen kumoamisesta](938.md) `938/1991`
+- [Asetus  jätehuoltoasetuksen 21 §:n muuttamisesta](939.md) `939/1991`
+- [Asetus  ilmansuojeluasetuksen muuttamisesta](940.md) `940/1991`
+- [Asetus  meluntorjunta\-asetuksen 4 ja 11 §:n muuttamisesta](941.md) `941/1991`
+- [Asetus  vesien suojelua koskevista ennakkotoimenpiteistä annetun asetuksen 8 §:n muuttamisesta](942.md) `942/1991`
+- [Puolustusministeriön päätös asevelvolliselle suoritettavasta päivärahasta](943.md) `943/1991`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta annetun Suomen Pankin päätöksen 4 luvun kumoamisesta](944.md) `944/1991`
+- [Asetus  postiliikenneasetuksen kumoamisesta](945.md) `945/1991`
+- [Asetus  yksinoikeudesta integroidun piirin piirimalliin](946.md) `946/1991`
+- [Asetus  yksinoikeudesta integroidun piirin piirimalliin annetun lain väliaikaisesta soveltamisesta eräistä valtioista peräisin oleviin piirimalleihin](947.md) `947/1991`
+- [Asetus  patentti\- ja rekisterihallituksen suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](948.md) `948/1991`
+- [Asetus  sosiaalipalveluista perittävistä maksuista annetun asetuksen 3 §:n muuttamisesta](949.md) `949/1991`
+- [Valtioneuvoston päätös vaikeista ja pitkäaikaisista sairauksista ja niiden hoitoon käytettävistä sairausvakuutuslain mukaan kokonaan tai 90\-prosenttisesti korvattavista lääkkeistä annetun valtioneuvoston päätöksen 1 ja 2 §:n muuttamisesta](950.md) `950/1991`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Loimaan kunnan ja Loimaan kaupungin välillä](951.md) `951/1991`
+- [Oikeusministeriön päätös lainhuuto\- ja kiinnitysrekisterin käyttöön ottamisesta eräissä tuomiokunnissa ja raastuvanoikeuksissa](952.md) `952/1991`
+- [Liikenneministeriön päätös eraiden radiolähetinten yhteistaajuuksien vahvistamisesta ja niiden käytöstä annetun liikenneministeriön päätöksen kumoamisesta](953.md) `953/1991`
+- [Liikenneministeriön päätös sairaankuljetuksen taksoista](954.md) `954/1991`
+- [Asetus Suomen elokuva\-arkiston erään viran nimen muuttamisesta](955.md) `955/1991`
+- [Asetus ammattioppilaitoksista annetun asetuksen 17 ja 42 §:n muuttamisesta](956.md) `956/1991`
+- [Asetus hotelli\- ja ravintolaoppilaitoksista annetun asetuksen 17 ja 41 §:n muuttamisesta](957.md) `957/1991`
+- [Asetus kauppaoppilaitoksista annetun asetuksen 17 ja 40 §:n muuttamisesta](958.md) `958/1991`
+- [Asetus koti\- ja laitostalousoppilaitoksista annetun asetuksen 42 §:n muuttamisesta](959.md) `959/1991`
+- [Asetus käsi\- ja taideteollisuusoppilaitoksista annetun asetuksen 17 ja 42 §:n muuttamisesta](960.md) `960/1991`
+- [Asetus maatalousalan oppilaitoksista annetun asetuksen 42 §:n muuttamisesta](961.md) `961/1991`
+- [Asetus merenkulkuoppilaitoksista annetun asetuksen 41 §:n muuttamisesta](962.md) `962/1991`
+- [Asetus metsä\- ja puutalousoppilaitoksista annetun asetuksen 41 §:n muuttamisesta](963.md) `963/1991`
+- [Asetus sosiaalialan oppilaitoksista annetun asetuksen 17 ja 39 §:n muuttamisesta](964.md) `964/1991`
+- [Asetus taide\- ja viestintäkulttuurioppilaitoksista annetun asetuksen 17 ja 40 §:n muuttamisesta](965.md) `965/1991`
+- [Asetus teknillisistä oppilaitoksista annetun asetuksen muuttamisesta](966.md) `966/1991`
+- [Asetus terveydenhuolto\-oppilaitoksista annetun asetuksen 17 ja 40 §:n muuttamisesta](967.md) `967/1991`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Parkanon kaupungin ja Karvian kunnan välillä](968.md) `968/1991`
+- [Sisäasiainministeriön päätös eräiden tilojen, tilanosien ja alueiden siirtämisestä Tornion kaupungista Keminmaan kuntaan](969.md) `969/1991`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Jomalan ja Saltvikin kuntien välillä](970.md) `970/1991`
+- [Opetusministeriön päätös Seitsemännen Päivän Adventistit Uskonpuhdistusliike \-nimisen uskonnollisen yhdyskunnan merkitsemisestä uskonnollisten yhdyskuntien rekisteriin](971.md) `971/1991`
+- [Opetusministeriön päätös pakolaisten harkinnanvaraisesta opintotuesta](972.md) `972/1991`
+- [Maa\- ja metsätalousministeriön päätös viljan laatuhinnoittelusta](973.md) `973/1991`
+- [Laki työttömyysvakuutusmaksusta vuonna 1991](974.md) `974/1991`
+- [Muutoksia vuoden 1991 tulo\- ja menoarvioon](975.md) `975/1991`
+- [Asetus maan ulkomaankaupassa sovellettavista määrällisistä rajoituksista annetun asetuksen liitteen muuttamisesta](976.md) `976/1991`
+- [Asetus sosiaaliavustajista annetun asetuksen kumoamisesta](977.md) `977/1991`
+- [Laki erikoiskasvien markkinoimismaksuista](978.md) `978/1991`
+- [Laki maaseutuelinkeinolain muuttamisesta](979.md) `979/1991`
+- [Asetus oikeusministeriön hallinnonalan eräistä virkajärjestelyistä](980.md) `980/1991`
+- [Asetus rajavartiolaitoksesta annetun asetuksen muuttamisesta](981.md) `981/1991`
+- [Asetus ajoneuvoasetuksen muuttamisesta](982.md) `982/1991`
+- [Asetus tieliikenneasetuksen 18 §:n muuttamisesta](983.md) `983/1991`
+- [Liikenneministeriön päätös liikenteen ohjauslaitteista annetun liikenneministeriön päätöksen 6 ja 20 §:n muuttamisesta](984.md) `984/1991`
+- [Liikenneministeriön päätös moottoripyöräilijän, moottorikelkkailijan ja mopoilijan suojakypärästä](985.md) `985/1991`
+- [Laki auto\- ja moottoripyöräverosta annetun lain 3 §:n muuttamisesta](986.md) `986/1991`
+- [Laki tasausverolain muuttamisesta](987.md) `987/1991`
+- [Laki yksityisen työnantajan kansaneläkemaksun poikkeuksellisesta alentamisesta vuonna 1991](988.md) `988/1991`
+- [Laki vuodelta 1991 suoritettavasta sairausvakuutusmaksusta annetun lain 1 ja 2 §:n muuttamisesta](989.md) `989/1991`
+- [Asetus työnantajan sosiaaliturvamaksusta annetun asetuksen 1 §:n muuttamisesta](990.md) `990/1991`
+- [Asetus vuonna 1991 kertyvien sosiaaliturvamaksujen jakautumasta annetun asetuksen 1 §:n muuttamisesta](991.md) `991/1991`
+- [Asetus sairausvakuutusasetuksen muuttamisesta](992.md) `992/1991`
+- [Asetus kansaneläkeasetuksen 28 §:n 2 momentin ja 56 §:n kumoamisesta](993.md) `993/1991`
+- [Asetus eräistä Etelä\-Afrikkaan kohdistuvista toimenpiteistä annetun lain 2 a §:n soveltamisen lakkaamisesta](994.md) `994/1991`
+- [Valtioneuvoston päätös Etelä\-Afrikalle myönnettävistä luotoista annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](995.md) `995/1991`
+- [Valtioneuvoston päätös tavaroiden viennistä ja tuonnista Suomen ja Etelä\-Afrikan tasavallan välillä annetun valtioneuvoston päätöksen kumoamisesta](996.md) `996/1991`
+- [Laki eräiden saamisten perimisestä kerta kaikkiaan annetun lain 1 ja 3 §:n muuttamisesta](997.md) `997/1991`
+- [Asetus eräiden virkojen lakkauttamisesta ja perustamisesta sekä virkojen nimien muuttamisesta työsuojeluhallinnossa](998.md) `998/1991`
+- [Asetus vuoden 1979 valtiosta toiseen tapahtuvaa ilman epäpuhtauksien kaukokulkeutumista koskevaan yleissopimukseen liittyvän typen oksidien päästöjen tai niiden valtiosta toiseen kulkeutuvan vuon rajoittamisesta tehdyn pöytäkirjan voimaansaattamisesta](999.md) `999/1991`
+- [Asetus lisävaltuuksien antamisesta valtioneuvostolle lainanottoon vuoden 1991 aikana](1000.md) `1000/1991`
+- [Asetus valtion liikelaitoksista annetun lain mukaisten liikelaitosten lainanottovaltuuksien lisäämisestä vuonna 1991](1001.md) `1001/1991`
+- [Asetus lisävaltuuksien antamisesta asunto\-olojen kehittämisrahastolle lainanottoon vuonna 1991](1002.md) `1002/1991`
+- [Asetus VTT Technology Oy:n lainojen valtion takauksista](1003.md) `1003/1991`
+- [Asetus Ilmailulaitoksen palveluksessa olevan henkilön käyttämisestä lentoliikenteen turvaamistoimenpiteiden suorittamiseen](1004.md) `1004/1991`
+- [Asetus ajoneuvojen rekisteröinnistä annetun asetuksen muuttamisesta](1005.md) `1005/1991`
+- [Asetus ajoneuvojen katsastuksesta annetun asetuksen muuttamisesta](1006.md) `1006/1991`
+- [Asetus antorekisterikeskuksen ja sen katsastustoimipaikkojen suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](1007.md) `1007/1991`
+- [Laki kansalaisoikeuksia ja poliittisia oikeuksia koskevaan kansainväliseen yleissopimukseen liittyvän kuolemanrangaistuksen poistamisesta tehdyn toisen valinnaisen pöytäkirjan eräiden määräysten hyväksymisestä](1008.md) `1008/1991`
+- [Asetus kansalaisoikeuksia ja poliittisia oikeuksia koskevaan kansainväliseen yleissopimukseen liittyvän kuolemanrangaistuksen poistamisesta tehdyn toisen valinnaisen pöytäkirjan voimaansaattamisesta sekä pöytäkirjan eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1009.md) `1009/1991`
+- [Laki peruskoululain 10 a ja 23 §:n muuttamisesta](1010.md) `1010/1991`
+- [Laki lukiolain 15 §:n muuttamisesta](1011.md) `1011/1991`
+- [Asetus iltalukioasetuksen 4 §:n muuttamisesta](1012.md) `1012/1991`
+- [Asetus valtionosuutta saavista musiikkioppilaitoksista annetun asetuksen 4 ja 11 §:n muuttamisesta](1013.md) `1013/1991`
+- [Asetus lukioasetuksen 16 §:n muuttamisesta](1014.md) `1014/1991`
+- [Asetus lääkinnällisestä kuntoutuksesta](1015.md) `1015/1991`
+- [Asetus eraiden sosiaali\- ja terveyshallituksen virkojen perustamisesta ja lakkauttamisesta](1016.md) `1016/1991`
+- [Asetus päihde\- ja raittiusasiain neuvottelukunnasta](1017.md) `1017/1991`
+- [Asetus lasten päivähoidosta annetun asetuksen muuttamisesta](1018.md) `1018/1991`
+- [Asetus tarkastuslautakunnan eräiden virkojen nimien muuttamisesta](1019.md) `1019/1991`
+- [Valtioneuvoston päätös alkoholi\- ja huumeneuvostosta annetun valtioneuvoston päätöksen kumoamisesta](1020.md) `1020/1991`
+- [Sosiaali\- ja terveysministeriön päätös lasten päivähoidosta perittävien maksujen perusteena olevasta 1\. korvausluokan tulorajasta](1021.md) `1021/1991`
+- [Laki ulkomailla toimivasta peruskoulua vastaavasta yksityiskoulusta annetun lain 2 §:n muuttamisesta](1022.md) `1022/1991`
+- [Asetus ylioppilastutkinnosta annetun asetuksen muuttamisesta](1023.md) `1023/1991`
+- [Asetus paineastia\-asetuksen muuttamisesta](1024.md) `1024/1991`
+- [Kauppa\- ja teollisuusministeriön päätös paineastia\-asetuksen soveltamisesta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1025.md) `1025/1991`
+- [Kauppa\- ja teollisuusministeriön päätös paineastiain suunnittelusta ja valmistuksesta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1026.md) `1026/1991`
+- [Kauppa\- ja teollisuusministeriön päätös höyrykattilaan tai painesäiliöön liitetyistä putkistoista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1027.md) `1027/1991`
+- [Kauppa\- ja teollisuusministeriön päätös kuljetettavista kaasusäiliöistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1028.md) `1028/1991`
+- [Valtioneuvoston päätös pellon kesannoimissopimuksista ja \-palkkioista vuonna 1991 annetun valtioneuvoston päätöksen muuttamisesta](1029.md) `1029/1991`
+- [Maatilahallituksen päätös peltoalan perusteella suoritettavasta vientikustannusmaksusta annetussa laissa tarkoitetusta kesannoinnista ja muista seikoista annetun maatilahallituksen päätöksen 2 §:n muuttamisesta](1030.md) `1030/1991`
+- [Verohallituksen päätös pientntnaästä ennakkopalautuksena maksettavasta määrästä](1031.md) `1031/1991`
+- [Verohallituksen päätös jälkiverotuksen toimittamatta jättämisestä liikevaihtoverotuksessa](1032.md) `1032/1991`
+- [Laki hierojan toimesta annetun lain 2 §:n muuttamisesta](1033.md) `1033/1991`
+- [Asetus opetusministeriöstä annetun asetuksen 14 §:n muuttamisesta](1034.md) `1034/1991`
+- [Asetus taloushistorian varsinaisen professorin viran perustamisesta määräajaksi Helsingin yliopistoon](1035.md) `1035/1991`
+- [Asetus metallurgian professorin viran perustamisesta määräajaksi Oulun yliopistoon](1036.md) `1036/1991`
+- [Asetus tietotekriikan professorin viran ja matematiikan apulaisprofessorin viran perustamista määräajaksi Vaasan yliopistoon](1037.md) `1037/1991`
+- [Asetus kansainvälisten suhteiden professorin viran perustamisesta määräajaksi Lapin yliopistoon](1038.md) `1038/1991`
+- [Asetus sähkönkäyttötekniikan professorin viran perustamisesta määräajaksi Tampereen teknilliseen korkeakouluun](1039.md) `1039/1991`
+- [Asetus palvelujen markkinoinnin professorin viran perustamisesta määräajaksi Svenska handelshögskolaniin](1040.md) `1040/1991`
+- [Valtioneuvoston päätös orgaanisten tinayhdisteiden käytön rajoittamisesta](1041.md) `1041/1991`
+- [Valtioneuvoston päätös nostureista ja niiden tarkastuksesta annetun valtioneuvoston päätöksen 17 §:n muuttamisesta](1042.md) `1042/1991`
+- [Valtioneuvoston päätös perimälle, sikiölle ja lisääntymiselle työssä aiheutuvan vaaran torjunnasta](1043.md) `1043/1991`
+- [Työministeriön päätös perimälle, sikiölle ja lisääntymiselle työssä vaaraa aiheuttavista tekijöistä](1044.md) `1044/1991`
+- [Asetus metsätuhoja aiheuttavien kasvitautien ja tuhoeläinten seurannasta](1045.md) `1045/1991`
+- [Asetus metsän hyönteis ja sienituhojen torjunnasta](1046.md) `1046/1991`
+- [Opetusministeriön päätös kuurojenpappien toiminnasta](1047.md) `1047/1991`
+- [Maa\- ja metsätalousministeriön päätös kartasto\- ja tietopalvelutoimistojen ja maanmittaustoimistojen lukumäärästä, toimialueista ja hallintopaikoista](1048.md) `1048/1991`
+- [Maa\- ja metsätalousministeriön päätös villan tuotantopalkkiosta](1049.md) `1049/1991`
+- [Valtioneuvoston päätös villan tuotantopalkkiosta annetun valtioneuvoston päätöksen kumoamisesta](1050.md) `1050/1991`
+- [Liikenneministeriön päätös linja\-autoliikenteen henkilötaksoista](1051.md) `1051/1991`
+- [Laki oikeudenkäymiskaaren muuttamisesta](1052.md) `1052/1991`
+- [Laki kiinnityksestä kiinteään omaisuuteen annetun asetuksen muuttamisesta](1053.md) `1053/1991`
+- [Laki hakemusasioiden käsittelystä yleisessä alioikeudessa annetun lain muuttamisesta](1054.md) `1054/1991`
+- [Laki ulosottolain muuttamisesta](1055.md) `1055/1991`
+- [Laki oikeudenkäymiskaaren muuttamisesta](1056.md) `1056/1991`
+- [Laki kuolleeksi julistamisesta annetun lain 6 ja 7 §:n muuttamisesta](1057.md) `1057/1991`
+- [Laki asiakirjain kuolettamisesta annetun lain 6 ja 8 §:n muuttamisesta](1058.md) `1058/1991`
+- [Laki vekselilain 71 ja 94 §:n muuttamisesta](1059.md) `1059/1991`
+- [Laki shekkilain 53 ja 72 §:n muuttamisesta](1060.md) `1060/1991`
+- [Laki maksamismääräyslain 6 §:n muuttamisesta](1061.md) `1061/1991`
+- [Laki rangaistusmääräyslain 5 §:n muuttamisesta](1062.md) `1062/1991`
+- [Laki rikesakkolain 8 §:n muuttamisesta](1063.md) `1063/1991`
+- [Laki oikeudenkäymiskaaren muuttamisesta](1064.md) `1064/1991`
+- [Laki oikeudenkäymiskaaren muuttamisesta](1065.md) `1065/1991`
+- [Laki ulosottolain muuttamisesta](1066.md) `1066/1991`
+- [Laki verojen ja maksujen perimisen turvaamisesta annetun lain muuttamisesta](1067.md) `1067/1991`
+- [Laki ylikuormamaksusta annetun lain 1 §:n muuttamisesta](1068.md) `1068/1991`
+- [Laki arvo\-osuusjärjestelmästä annetun lain sekä siihen liittyvän lainsäädännön voimaantulosta](1069.md) `1069/1991`
+- [Laki arvo\-osuusjärjestelmästä annetun lain 15 §:n muuttamisesta](1070.md) `1070/1991`
+- [Laki pankkitarkastusvirastosta annetun lain muuttamisesta](1071.md) `1071/1991`
+- [Laki leimaverolain 10 §:n muuttamisesta](1072.md) `1072/1991`
+- [Asetus  arvo\-osuusjärjestelmästä](1073.md) `1073/1991`
+- [Laki Suomen Hallitusmuodon muuttamisesta](1074.md) `1074/1991`
+- [Laki valtiopäiväjärjestyksen 3 ja 8 §:n muuttamisesta](1075.md) `1075/1991`
+- [Laki tasavallan presidentin vaalista](1076.md) `1076/1991`
+- [Laki Suomen Hallitusmuodon VI luvun muuttamisesta](1077.md) `1077/1991`
+- [Laki valtiopäiväjärjestyksen muuttamisesta](1078.md) `1078/1991`
+- [Laki valtiopäiväjärjestyksen muuttamisesta](1079.md) `1079/1991`
+- [Valmiuslaki](1080.md) `1080/1991`
+- [Laki väestönsuojelulain 32 §:n muuttamisesta](1081.md) `1081/1991`
+- [Laki valtiopäiväjärjestyksen 67 a §:n 3 momentin kumoamisesta](1082.md) `1082/1991`
+- [Puolustustilalaki](1083.md) `1083/1991`
+- [Laki rikoslain 46 luvun 1 §:n muuttamisesta](1084.md) `1084/1991`
+- [Laki liikevaihtoverolain väliaikaisesta muuttamisesta](1085.md) `1085/1991`
+- [Laki liikevaihtoverolain muuttamisesta](1086.md) `1086/1991`
+- [Laki Jyväskylän yliopistosta annetun lain 9 ja 10 §:n muuttamisesta](1087.md) `1087/1991`
+- [Laki Oulun yliopistosta annetun lain 9 ja 10 §:n muuttamisesta](1088.md) `1088/1991`
+- [Laki Joensuun yliopistosta annetun lain 9 ja 10 §:n muuttamisesta](1089.md) `1089/1991`
+- [Laki Kuopion yliopistosta annetun lain 7 ja 8 §:n muuttamisesta](1090.md) `1090/1991`
+- [Laki Turun yliopistosta annetun lain muuttamisesta](1091.md) `1091/1991`
+- [Laki Tampereen yliopistosta annetun lain 7 ja 8 §:n muuttamisesta](1092.md) `1092/1991`
+- [Laki Eläinlääketieteellisestä korkeakoulusta annetun lain 6 ja 7 §:n muuttamisesta](1093.md) `1093/1991`
+- [Laki Teknillisestä korkeakoulusta annetun lain 9 ja 10 §:n muuttamisesta](1094.md) `1094/1991`
+- [Laki Tampereen teknillisestä korkeakoulusta annetun lain 8 ja 9 §:n muuttamisesta](1095.md) `1095/1991`
+- [Laki Lappeenrannan teknillisestä korkeakoulusta annetun lain 8 ja 9 §:n muuttamisesta](1096.md) `1096/1991`
+- [Laki Helsingin kauppakorkeakoulusta annetun lain 7 ja 8 §:n muuttamisesta](1097.md) `1097/1991`
+- [Laki Turun kauppakorkeakoulusta annetun lain 7 ja 8 §:n muuttamisesta](1098.md) `1098/1991`
+- [Asetus  eräiden korkeakoulujen virkojen kelpoisuusvaatimuksista sekä virkamiesten tehtävistä annetun asetuksen muuttamisesta](1099.md) `1099/1991`
+- [Asetus teknillisten korkeakoulujen virkojen kelpoisuusvaatimuksista sekä virkamiesten tehtävistä annetun asetuksen muuttamisesta](1100.md) `1100/1991`
+- [Asetus  kauppakorkeakoulujen virkojen kelpoisuusvaatimuksista sekä virkamiesten tehtävistä annetun asetuksen 3 a §:n muuttamisesta](1101.md) `1101/1991`
+- [Asetus  Eläinlääketieteellisen korkeakoulun virkojen kelpoisuusvaatimuksista sekä virkamiesten tehtävistä annetun asetuksen muuttamisesta](1102.md) `1102/1991`
+- [Asetus opetusministeriön hallinnonalan eräiden virkojen lakkauttamisesta](1103.md) `1103/1991`
+- [Asetus opetusministeriön hallinnonalan eräiden virkojen nimien muuttamisesta](1104.md) `1104/1991`
+- [Asetus taiteen edistämisen järjestelystä](1105.md) `1105/1991`
+- [Valtioneuvoston päätös  tavaroiden tuonnista tai viennistä ilman tuontilisenssiä tai hyväksyttyä vientitarkkailuilmoitusta](1106.md) `1106/1991`
+- [Laki kiinteistövaihdosta valtion ja Rovaniemen kaupungin välillä](1107.md) `1107/1991`
+- [Laki liikuntalain muuttamisesta](1108.md) `1108/1991`
+- [Asetus poliisin eräiden virkojen nimien muuttamisesta](1109.md) `1109/1991`
+- [Asetus tilastokeskuksesta](1110.md) `1110/1991`
+- [Asetus musiikkialan korkeakoulututkinnoista](1111.md) `1111/1991`
+- [Asetus humanistisen perustutkinnon järjestämisestä annetun asetuksen 3 §:n muuttamisesta](1112.md) `1112/1991`
+- [Asetus yhteiskuntatieteellisten perustutkintojen järjestämisestä annetun asetuksen 7 a §:n muuttamisesta](1113.md) `1113/1991`
+- [Asetus erään kauppa\- ja teollisuusministeriön viran perustamisesta ja lakkauttamisesta](1114.md) `1114/1991`
+- [Asetus kauppa\- ja teollisuusministeriöstä annetun asetuksen muuttamisesta](1115.md) `1115/1991`
+- [Asetus tapattirmaviraston eräiden virkojen nimien m uuttamisesta](1116.md) `1116/1991`
+- [Asetus työsuojeluneuvottelukunnasta, työsuojelulautakunnista ja työsuojelulautakuntien poikkeuslupajaostoista annetun asetuksen muuttamisesta](1117.md) `1117/1991`
+- [Asetus työsuojeluhallinnon eräiden virkojen nimien muuttamisesta](1118.md) `1118/1991`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Pertunmaan ja Mäntyharjun kuntien välillä](1119.md) `1119/1991`
+- [Maa\- ja metsätalousministeriön päätös maanmittaustoimituksista perittävistä työaikakorvauksista ja sekä lohkomisesta ja halkomisesta perittävistä pinta\-alakorvauksista](1120.md) `1120/1991`
+- [Valtioneuvoston päätös avustusten myöntämisestä minkkikannan tervehdyttämiseksi annetun valtioneuvoston päätöksen muuttamisesta](1121.md) `1121/1991`
+- [SISÄASIAINMINISTERIÖN PÄÄTÖS rajan määräämisestä eräin osin Leivonmäen ja Toivakan kuntien, Korpilahden ja Toivakan kuntien, Korpilahden ja Leivonmäen kuntien, Muuramen ja Säynätsalon kuntien, Korpilahden ja Muuramen kuntien, Jämsän kaupungin ja Korpilahden kunnan, Jämsän ja Jämsänkosken kaupunkien, Jyväskylän maalaiskunnan ja Toivakan kunnan, Jyväskylän maalaiskunnan ja Uuraisten kunnan sekä Keuruun ja Multian kuntien välillä](1122.md) `1122/1991`
+- [Asetus kotipalveluista perittäviä maksuja koskevasta kokeilusta annetun asetuksen muuttamisesta](1123.md) `1123/1991`
+- [Valtioneuvoston päätös  valtion liikuntaneuvostosta](1124.md) `1124/1991`
+- [Valtioneuvoston päätös valtion nuorisoneuvostosta](1125.md) `1125/1991`
+- [Liikenneministeriön päätös telelaitosten yhdysliikenteestä](1126.md) `1126/1991`
+- [Laki Neuvostoliiton kanssa tehdyn sijoitusten edistämistä ja molemminpuolista suojelua koskevan sopimuksen eräiden määräysten hyväksymisestä](1127.md) `1127/1991`
+- [Asetus Neuvostoliiton kanssa tehdyn sijoitusten edistämistä ja molemminpuolista suojelua koskevan sopimuksen voimaansaattamisesta sekä sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1128.md) `1128/1991`
+- [Laki lapsen oikeuksia koskevan yleissopimuksen eräiden määräysten hyväksymisestä](1129.md) `1129/1991`
+- [Asetus lapsen oikeuksia koskevan yleissopimuksen voimaansaattamisesta sekä yleissopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1130.md) `1130/1991`
+- [Asetus Suomen Punaisen Ristin säännöt sisältävän asetuksen muuttamisesta](1131.md) `1131/1991`
+- [Asetus toimenpiteistä valtion henkilöstövoimavarojen käytön tehostamiseksi](1132.md) `1132/1991`
+- [Asetus valtiovarainministeriön hallinnonalan eräiden virkojen nimien muuttamisesta](1133.md) `1133/1991`
+- [Asetus  veronkantoasetuksen 23 §:n kumoamisesta](1134.md) `1134/1991`
+- [Asetus liikevaihtoveroasetuksen 9 §:n kumoamisesta](1135.md) `1135/1991`
+- [Valtioneuvoston päätös lannoiteveron muuttamisesta](1136.md) `1136/1991`
+- [Valtioneuvoston päätös ohran ja kauran vientikustannusmaksun muuttamisesta](1137.md) `1137/1991`
+- [Laki  Turun Asennuspajan osakeyhtiöksi muuttamisesta aiheutuvista toimenpiteistä](1138.md) `1138/1991`
+- [Laki Kyrönjoen erityissuojelusta](1139.md) `1139/1991`
+- [Asetus puolustusvoimien eräiden virkojen lakkauttamisesta ja perustamisesta sekä eräiden virkojen nimien muuttamisesta](1140.md) `1140/1991`
+- [MAASTOLIIKENNEASETUS](1141.md) `1141/1991`
+- [Asetus vesi\- ja ympäristöhallinnon suoritteista perittävistä maksuista](1142.md) `1142/1991`
+- [Maa\- ja metsätalousministeriön päätös viljan laatuhinnoittelusta annetun maa\- ja metsauml;talousministeriön päätöksen muuttamisesta](1143.md) `1143/1991`
+- [Ahvenanmaan itsehallintolaki](1144.md) `1144/1991`
+- [Laki Ahvenanmaan maakunnassa olevan kiinteän omaisuuden hankkimista ja hallintaa koskevan oikeuden rajoittamisesta annetun lain muuttamisesta](1145.md) `1145/1991`
+- [Asetus kansainvälisen meriliikenteen helpottamista koskevan yleissopimuksen liitteen muutosten voimaansaattamisesta](1146.md) `1146/1991`
+- [Asetus vahingonkorvausvastuuta ydinaineiden merikuljetuksen yhteydessä koskevan yleissopimuksen voimaansaattamisesta](1147.md) `1147/1991`
+- [Asetus Mongolian kansantasavallan kanssa tieteellis\-teknisestä ja taloudellisesta yhteistyöstä tehdyn sopimuksen voimaansaattamisesta](1148.md) `1148/1991`
+- [Asetus eräiden laivanrakennustai laivanvarustamotoimintaa harjoittaville yrityksille myönnettävistä valtiontakauksista annetun lain mukaisten tehtävien hoitamisesta Ahvenanmaan maakunnassa](1149.md) `1149/1991`
+- [Asetus eräiden vientitakuulain mukaisten tehtävien hoitamisesta Ahvenanmaan maakunnassa](1150.md) `1150/1991`
+- [Asetus alustoimitusten rahoitukseen myönnettävästä korkotuesta annetun lain mukaisten tehtävien hoitamisesta Ahvenanmaan maakunnassa](1151.md) `1151/1991`
+- [Asetus puutavaran mittauksen hoitamisesta Ahvenanmaan maakunnassa](1152.md) `1152/1991`
+- [Asetus valtiovarainministeriön hallinnonalan eräistä virkajärjestelyistä](1153.md) `1153/1991`
+- [Asetus lukioasetuksen väliaikaisesta muuttamisesta](1154.md) `1154/1991`
+- [Asetus tielaitoksen suoritteista perittävistä maksuista](1155.md) `1155/1991`
+- [Asetus atomivastuulain muuttamisesta annetun lain voimaantulosta](1156.md) `1156/1991`
+- [Asetus valtion mielisairaaloista annetun asetuksen 2 §:n muuttamisesta](1157.md) `1157/1991`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](1158.md) `1158/1991`
+- [Asetus tilastokeskuksesta annetun asetuksen 7 §:n 2 momentin kumoamisesta](1159.md) `1159/1991`
+- [Asetus kauppa\- ja teollisuusministeriön hallinnonalan eräiden virkojen nimien muuttamisesta](1160.md) `1160/1991`
+- [Asetus kansaneläkelaitoksen järjestämästä kuntoutuksesta](1161.md) `1161/1991`
+- [Asetus Suomen ILO\-neuvottelukunnasta annetun asetuksen 4 §:n muuttamisesta](1162.md) `1162/1991`
+- [Asetus siirtolaisuusasiain neuvottelukunnasta annetun asetuksen 4 §:n muuttamisesta](1163.md) `1163/1991`
+- [Asetus palkkaturva\-asetuksen 10 §:n muuttamisesta](1164.md) `1164/1991`
+- [Asetus työelämän tutkimuspolitiikan neuvottelukunnasta annetun asetuksen 2 §:n muuttamisesta](1165.md) `1165/1991`
+- [Asetus merimiesasiain neuvottelukunnasta annetun asetuksen 3 §:n muuttamisesta](1166.md) `1166/1991`
+- [Asetus työvoimapalvelujen neuvottelukunnasta annetun asetuksen 2 §:n muuttamisesta](1167.md) `1167/1991`
+- [Valtioneuvoston päätös kemian työsuojeluneuvottelukunnasta annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](1168.md) `1168/1991`
+- [Valtioneuvoston päätös työturvallisuusmääräyksiä valmistelevasta neuvottelukunnasta annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](1169.md) `1169/1991`
+- [Maa\- ja metsätalousministeriön eläinlääkintöosaston päätös eläintautien leviämisen ehkäisemisestä maahantuonnin yhteydessä annetun maa\- ja metsauml;talousministeriön eläinlääkintöosaston päätöksen muuttamisesta](1170.md) `1170/1991`
+- [Maa\- ja metsätalousministeriön päätös lohen ja taimenen kalastuksesta eräillä vesistöalueilla vuonna 1991](1171.md) `1171/1991`
+- [Liikenneministeriön päätös  Valtionrautateillä perittävästä joukkoliikenteen tarkastusmaksusta pääkaupunkiseudun lähiliikenteessä](1172.md) `1172/1991`
+- [Liikenneministeriön päätös linja\-autoliikenteen henkilötaksoista annetun liikenneministeriön päätöksen 3 §:n muuttamisesta](1173.md) `1173/1991`
+- [Asetus työllisyyden edistämistä ja työttömyysturvaa koskevan yleissopimuksen voimaansaattamisesta](1174.md) `1174/1991`
+- [Asetus eräiden ulkomaalaislain mukaisten tehtävien hoitamisesta Ahvenanmaan maakunnassa](1175.md) `1175/1991`
+- [Asetus sosiaali\- ja terveysministeriöstä](1176.md) `1176/1991`
+- [Asetus kiinteistörekisterin otteista ja tiedoista sekä kiinteistörekisterikartan otteista perittävistä maksuista annetun asetuksen muuttamisesta](1177.md) `1177/1991`
+- [Maa\- ja metsauml;talousministeriön päätös eräistä karttajäljennöksistä ja \-otteista perittävästä leimaverosta](1178.md) `1178/1991`
+- [Maa\- ja metsätalousministeriön päätös eräiden kiinteistöinsinöörin ja tonttikirjan pitäjän toimesta laadittujen asiakirjojen jäljennöksistä ja otteista perittävistä lunastusmaksuista](1179.md) `1179/1991`
+- [Laki Euroopan paikallisen itsehallinnon peruskirjan eräiden määräysten hyväksymisestä](1180.md) `1180/1991`
+- [Asetus Euroopan paikallisen itsehallinnon peruskirjan voimaansaattamisesta ja peruskirjan eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1181.md) `1181/1991`
+- [Asetus Suomen ulkomaanedustustojen sijainnista annetun asetuksen muuttamisesta](1182.md) `1182/1991`
+- [Liikenneministeriön päätös Pääkaupunkiseudun yhteistyövaltuuskunnan toimialueen seudullisessa linja\-autoliikenteessä sekä Espoon, Kauniaisten ja Vantaan kaupunkien sisäisessä linja\-autoliikenteessä perittävästä joukkoliikenteen tarkastusmaksusta](1183.md) `1183/1991`
+- [Valtiovarainministeriön päätös maahantuonnissa maksettavasta liikevaihtoveron palautuksesta ja vähennetyn laskennallisen veron palauttamisesta](1184.md) `1184/1991`
+- [Kauppa\- ja teollisuusministeriön päätös sähkölaitteiden ennakkotarkastuksesta ja valvonnasta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1185.md) `1185/1991`
+- [Kauppa\- ja teollisuusministeriön päätös asennustarkastustoiminnan puolueettomuudesta](1186.md) `1186/1991`
+- [Kauppa\- ja teollisuusministeriön päätös sähkölaitteistojen tarkastamisesta](1187.md) `1187/1991`
+- [Kauppa\- ja teollisuusministeriön päätös sähkölaitteiston käytön johtamisesta](1188.md) `1188/1991`
+- [Kauppa\- ja teollisuusministeriön päätös sähkötöiden johtamisesta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1189.md) `1189/1991`
+- [Laki aluevaihdosta valtion ja Tampereen kaupungin välillä](1190.md) `1190/1991`
+- [Asetus Pelastushallinnon eräiden virkojen perustamisesta](1191.md) `1191/1991`
+- [Asetus luopumiseläkeasetuksen 18 §:n muuttamisesta](1192.md) `1192/1991`
+- [Asetus ajokorttiasetuksen muuttamisesta](1193.md) `1193/1991`
+- [Asetus maatalousyrittäjien eläkeasetuksen 17 ja 20 §:n muuttamisesta](1194.md) `1194/1991`
+- [Asetus maatalousyrittäjien tapaturmavakuutusasetuksen 7 ja 8 §:n muuttamisesta](1195.md) `1195/1991`
+- [Asetus työvoimatoimikunnasta annetun asetuksen 3 §:n muuttamisesta](1196.md) `1196/1991`
+- [Valtioneuvoston päätös saaristokunnista ja kuntien saaristo\-osista](1197.md) `1197/1991`
+- [Valtioneuvoston päätös asevelvolliselle muulta kuin vakinaisen väen palvelusajalta suoritettavasta palkkauksesta annetun valtioneuvoston päätöksen 1 ja 2 §:n muuttamisesta](1198.md) `1198/1991`
+- [Valtioneuvoston päätös teollisuuden alennusvoin hinnanalennuskorvauksesta annetun valtioneuvoston päätöksen muuttamisesta](1199.md) `1199/1991`
+- [Valtioneuvoston päätös rintamaveteraaniasiain neuvottelukunnasta annetun valtioneuvoston päätöksen 3 §:n muuttamisesta](1200.md) `1200/1991`
+- [Asetus saamen kielen käyttämisestä viranomaisissa](1201.md) `1201/1991`
+- [Asetus saamen kielen toimistosta](1202.md) `1202/1991`
+- [Asetus maanmittaushallinnon suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](1203.md) `1203/1991`
+- [Asetus Kansainvälisen Itämeren kalastuskomission suositusten mukaisten saaliskiintiöiden voimaansaattamisesta](1204.md) `1204/1991`
+- [Valtioneuvoston päätös asumisoikeuden haltijoiden valinnasta annetun valtioneuvoston päätöksen muuttamisesta](1205.md) `1205/1991`
+- [Maa\- ja metsätalousministeriön päätös virallisten mittaajien toimintapiireistä](1206.md) `1206/1991`
+- [Asetus hakemusasioiden käsittelystä yleisessä alioikeudessa](1207.md) `1207/1991`
+- [Metsäveroasetus](1208.md) `1208/1991`
+- [Asetus verotusasetuksen 29 §: n muuttamisesta](1209.md) `1209/1991`
+- [Valtioneuvoston päätös kuntajaon muuttamisesta eräiltä osin Savonrannan ja Enonkosken kuntien välillä](1210.md) `1210/1991`
+- [Valtioneuvoston päätös kuntajaon muuttamisesta eräiltä osin Uudenkaarlepyyn kaupungin ja Alahärmän kunnan välillä](1211.md) `1211/1991`
+- [Valtioneuvoston päätös elintarviketuotteiden hinnanerokorvauksista](1212.md) `1212/1991`
+- [Oikeusministeriön päätös lainhuuto\- ja kiinnitysrekisterin käyttöön ottamisesta eräissä tuomiokunnissa ja raastuvanoikeuksissa](1213.md) `1213/1991`
+- [Asetus ulkoasiainhallinnosta annetun asetuksen muuttamisesta](1214.md) `1214/1991`
+- [Asetus alkoholijuomista annetun asetuksen muuttamisesta](1215.md) `1215/1991`
+- [Asetus keskioluesta annetun asetuksen muuttamisesta](1216.md) `1216/1991`
+- [Asetus työllisyysasetuksen muuttamisesta ja väliaikaisesta muuttamisesta](1217.md) `1217/1991`
+- [Asetus asuntotuotantoasetuksen 8 §:n muuttamisesta](1218.md) `1218/1991`
+- [Valtioneuvoston päätös opintolainan saajalle työttömyyden perusteella maksettavasta korkoavustuksesta annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](1219.md) `1219/1991`
+- [Liikenneministeriön päätös polkupyöristä annetun liikenneministeriön päätöksen 11 § kumoamisesta](1220.md) `1220/1991`
+- [Kauppa\- ja teollisuusministeriön päätös teknillisen tarkastuskeskuksen tarkastuspiireistä ja piiritoimistojen sijoituspaikoista](1221.md) `1221/1991`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä annetun päätöksen muuttamisesta](1222.md) `1222/1991`
+- [Verohallituksen päätös ennakonpidätyksen toimittamisvelvollisuudesta annetun päätöksen muuttamisesta](1223.md) `1223/1991`
+- [Asetus Euroopan neuvoston erioikeuksia ja vapauksia koskevan yleissopimuksen viidennen lisäpöytäkirjan voimaansaattamisesta](1224.md) `1224/1991`
+- [Asetus Maailman postiliiton perussopimuksen neljännen lisäpöytäkirjan voimaansaattamisesta](1225.md) `1225/1991`
+- [Asetus Maailman postiliiton yleisohjesäännön ja muiden sopimusten voimaansaattamisesta](1226.md) `1226/1991`
+- [Asetus sotasiirtolaisten yhteiskunnallisesta huollosta annetun asetuksen 7 §:n muuttamisesta](1227.md) `1227/1991`
+- [Asetus metsä\- ja uittotöissä suoritettavasta palkkauksesta annetun asetuksen 6 §:n muuttamisesta](1228.md) `1228/1991`
+- [Liikenneministeriön päätös Helsingin yhteistariffiliikenteessä perittävästä joukkoliikenteen tarkastusmaksusta](1229.md) `1229/1991`
+- [Valtiovarainministeriön päätös vuoden 1991 taidekilpailupalkintojen verovapaudesta annetun valtiovarainministeriön päätöksen 4 §:n muuttamisesta](1230.md) `1230/1991`
+- [Asetus ilmansuojeluasetuksen 21 §:n muuttamisesta](1231.md) `1231/1991`
+- [Valtioneuvoston päätös maidon tuotantotuesta annetun valtioneuvoston päätöksen 5 §:n muuttamisesta](1232.md) `1232/1991`
+- [VALTIONEUVOSTON PÄÄTÖS lihan tuotantotuesta annetun valtioneuvoston päätöksen 5 §:n muuttamisesta](1233.md) `1233/1991`
+- [Valtioneuvoston päätös eräiden asuntolainojen ja perusparannuslainojen korosta](1234.md) `1234/1991`
+- [Valtioneuvoston päätös asunto\-, omaksilunastamisja perusparannuslainan myöntämisessä sekä asukkaaksi hyväksymisessä sovellettavista arvosteluperusteista annetun valtioneuvoston päätöksen väliaikaisesta muuttamisesta](1235.md) `1235/1991`
+- [Liikenneministeriön päätös ajoneuvoasetuksen täytäntöönpanosta annetun liikenneministeriön päätöksen muuttamisesta](1236.md) `1236/1991`
+- [Sosiaali\- ja terveysministeriön päätös  perusteista, joiden mukaan eläkelaitokset vastaavat työntekijäin eläkelain 12 §:n 1 momentin 4 kohdassa tarkoitetuista kuluista](1237.md) `1237/1991`
+- [Laki Tshekin ja Slovakian liittotasavallan kanssa tehdyn sijoitusten edistämistä ja suojelua koskevan sopimuksen eräiden määräysten hyväksymisestä](1238.md) `1238/1991`
+- [Asetus Tshekin ja Slovakian liittotasavallan kanssa tehdyn sijoitusten edistämistä ja suojelua koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1239.md) `1239/1991`
+- [Asetus puolustusvoimien eräiden virkojen lakkauttamisesta ja perustamisesta](1240.md) `1240/1991`
+- [Asetus Helsingin yliopistosta](1241.md) `1241/1991`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Toholammin kunnan ja Kannuksen kaupungin välillä](1242.md) `1242/1991`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Kiuruveden, Pyhäjärven ja Pyhännän kuntien välillä](1243.md) `1243/1991`
+- [Valtiovarainministeriön päätös vuoden 1991 taidekilpailupalkintojen verovapaudesta annetun valtiovarainministeriön päätöksen 4 §:n muuttamisesta](1244.md) `1244/1991`
+- [Maa\- ja metsätalousministeriön päätös hankkeen vähimmäiskoosta kalatalouden korkotukilainan myöntämiseksi sisävesikalastukseen](1245.md) `1245/1991`
+- [Laki Ison\-Britannian ja Pohjois\-Irlannin yhdistyneen kuningaskunnan kanssa keskinäisestä hallinnollisesta avunannosta tulliasioissa tehdyn sopimuksen eräiden määräysten hyväksymisestä](1246.md) `1246/1991`
+- [Asetus Ison\-Britannian ja Pohjois\-Irlannin yhdistyneen kuningaskunnan kanssa keskinäisestä hallinnollisesta avunannosta tulliasioissa tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1247.md) `1247/1991`
+- [Asetus Ahvenanmaan juhlarahasta](1248.md) `1248/1991`
+- [Asetus nuorisoasteen koulutuksen ja ammattikorkeakoulujen kokeiluista annetun asetuksen 11 §:n muuttamisesta](1249.md) `1249/1991`
+- [Valtioneuvoston päätös investointivarausten käyttämisestä annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](1250.md) `1250/1991`
+- [Valtioneuvoston päätös  tupakkatuotteista suoritettavasta lisäverosta](1251.md) `1251/1991`
+- [Valtioneuvoston päätös eräistä lohenkalastusta koskevista rajoituksista vuonna 1991 annetun asetuksen aiheuttamia taloudellisia menetyksiä koskevien avustusten maksamisperusteista](1252.md) `1252/1991`
+- [Asetus korkeakoulujen opiskelujaksojen yleisestä vastaavuudesta tehdyn eurooppalaisen yleissopimuksen voimaansaattamisesta](1253.md) `1253/1991`
+- [Asetus ulkomailla opiskeleville opiskelijoille maksettavan opintotuen keskeytymättömästä maksamisesta tehdyn eurooppalaisen sopimuksen voimaansaattamisesta](1254.md) `1254/1991`
+- [Asetus korkeakouluun pääsyyn oikeuttavien tutkintotodistusten vastaavuudesta tehdyn eurooppalaisen yleissopimuksen voimaansaattamisesta](1255.md) `1255/1991`
+- [Asetus korkeakouluun pääsyyn oikeuttavien tutkintotodistusten vastaavuutta koskevan eurooppalaisen yleissopimuksen lisäpöytäkirjan voimaansaattamisesta](1256.md) `1256/1991`
+- [Asetus korkeakoulututkintojen akateemisesta tunnustamisesta tehdyn eurooppalaisen yleissopimuksen voimaansaattamisesta](1257.md) `1257/1991`
+- [Asetus korkeakoulujen opiskelujaksojen vastaavuudesta tehdyn eurooppalaisen yleissopimuksen voimaansaattamisesta](1258.md) `1258/1991`
+- [Asetus kiinteistöjen kauppahintarekisteristä annettavista otteista ja muista tiedoista perittävistä maksuista annetun asetuksen muuttamisesta](1259.md) `1259/1991`
+- [Sisäasiainministeriön päätös pysäköintivirhemaksun korottamisesta](1260.md) `1260/1991`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain muuttamisesta](1261.md) `1261/1991`
+- [Asetus tullimenetelmien yksinkertaistamisesta ja yhdenmukaistamisesta tehdyn kansainvälisen yleissopimuksen liitteiden B\.1\., E\.1\. ja E\.5\. voimaansaattamisesta annetun asetuksen muuttamisesta](1262.md) `1262/1991`
+- [Asetus tullimenetelmien yksinkertaistamisesta ja yhdenmukaistamisesta tehdyn kansainvälisen yleissopimuksen liitteiden A\.1\., A\.2\., E\.3\., E\.4\., E\.6\., F\.1\. ja F\.3\. voimaansaattamisesta annetun asetuksen muuttamisesta](1263.md) `1263/1991`
+- [Valtioneuvoston päätös  ulkomaanedustuksen virkamiesten paikalliskorotuksesta, varustautumiskorvauksesta ja asettautumiskustannusten korvauksesta annetun valtioneuvoston päätöksen muuttamisesta](1264.md) `1264/1991`
+- [Asetus rakennusasetuksen muuttamisesta](1265.md) `1265/1991`
+- [Asetus ajoneuvoasetuksen 53 §:n muuttamisesta](1266.md) `1266/1991`
+- [Asetus peruskouluasetuksen väliaikaisesta muuttamisesta](1267.md) `1267/1991`
+- [Asetus lukioasetuksen väliaikaisesta muuttamisesta](1268.md) `1268/1991`
+- [Asetus peruskouluasetuksen väliaikaisesta muuttamisesta](1269.md) `1269/1991`
+- [Asetus Posti\- ja telelaitoksesta annetun asetuksen muuttamisesta](1270.md) `1270/1991`
+- [Asetus Valtionrautateistä annetun asetuksen 1 §:n muuttamisesta](1271.md) `1271/1991`
+- [Asetus oikeuslääkeopillisten tutkimusten toimittamisesta lääkärille ja hammaslääkärille tulevasta korvauksesta annetun asetuksen muuttamisesta](1272.md) `1272/1991`
+- [Asetus erikoissairaanhoidosta perittävistä maksuista ja korvauksista annetun asetuksen 9 §:n muuttamisesta](1273.md) `1273/1991`
+- [Asetus terveyskeskuksessa perittävistä maksuista ja korvauksista annetun asetuksen 6 a §:n muuttamisesta](1274.md) `1274/1991`
+- [Asetus kansanterveysasetuksen 8 a §:n kumoamisesta](1275.md) `1275/1991`
+- [Valtioneuvoston päätös eräiden kuntien ja kunnan osan määräämisestä erityisalueiksi](1276.md) `1276/1991`
+- [Maa\- ja metsätalousministeriön päätös ruoka\- ja ruokateollisuusperunan hintatason vakaannuttamisesta](1277.md) `1277/1991`
+- [Asetus vahingonkorvausvastuusta ydinvoiman alalla tehtyä Pariisin yleissopimusta täydentävää Brysselin lisäyleissopimusta muuttavan pöytäkirjan voimaansaattamisesta](1278.md) `1278/1991`
+- [Asetus filosofian tohtorin tutkinnosta](1279.md) `1279/1991`
+- [Asetus atomivastuulain muuttamisesta annetun lain voimaantulosta](1280.md) `1280/1991`
+- [Eduskunnan päätös eduskunnan työjärjestyksen muuttamisesta](1281.md) `1281/1991`
+- [Liikenneministeriön päätös linja\-auto\- ja taksiliikenteelle myönnettävästä peruspalveluliikenteen valtionavusta](1282.md) `1282/1991`
+- [Liikenneministeriön päätös teleliittymien toimitusehtojen yleisistä perusteista](1283.md) `1283/1991`
+- [Kauppa\- ja teollisuusministeriön päätös ravitsemisliikkeiden aukioloaikojen poikkeuksista](1284.md) `1284/1991`
+- [Sosiaali\- ja terveysministeriön päätös valtiokonttorin tapaturma\-asiamiehistä](1285.md) `1285/1991`
+- [Verohallituksen päätös ennakoiden siirrosta vuodelta 1990 toimitettavassa verotuksessa](1286.md) `1286/1991`
+- [Asetus ruotsinkielisen korkeakouluopetuksen yhteensovittamisesta](1287.md) `1287/1991`
+- [Asetus Åbo Akademista](1288.md) `1288/1991`
+- [Asetus Svenska handelshögskolan \-nimisestä korkeakoulusta annetun asetuksen muuttamisesta](1289.md) `1289/1991`
+- [Asetus Lapin yliopistosta](1290.md) `1290/1991`
+- [Asetus Vaasan yliopistosta](1291.md) `1291/1991`
+- [Asetus eräiden korkeakoulujen opetuksesta ja opiskelijoista](1292.md) `1292/1991`
+- [Asetus Suomen ja Euroopan talousyhteisön välillä ERASMUS\-ohjelman puitteissa tapahtuvasta yhteistyöstä koulutuksen alalla tehdyn sopimuksen voimaansaattamisesta](1293.md) `1293/1991`
+- [Asetus saamelaisten koulutusasiainneuvostosta annetun asetuksen muuttamisesta](1294.md) `1294/1991`
+- [Asetus ajoneuvoasetuksen muuttamisesta](1295.md) `1295/1991`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkeasetuksen 9 §:ssä tarkoitetun palkkaindeksiluvun vahvistamisesta](1296.md) `1296/1991`
+- [Asetus toisten lisävaltuuksien antamisesta valtioneuvostolle lainanottoon vuoden 1991 aikana](1297.md) `1297/1991`
+- [Asetus toisten lisävaltuuksien antamisesta asunto\-olojen kehittämisrahastolle lainanottoon vuonna 1991](1298.md) `1298/1991`
+- [Valtioneuvoston päätös leimaverolain soveltamisesta annetun valtioneuvoston päätöksen 35 §:n muuttamisesta](1299.md) `1299/1991`
+- [Laki verotuslain muuttamisesta ja väliaikaisesta muuttamisesta](1300.md) `1300/1991`
+- [Laki veronkantolain muuttamisesta](1301.md) `1301/1991`
+- [Laki veron viivästyskorosta ja jäämämaksusta annetun lain muuttamisesta](1302.md) `1302/1991`
+- [Laki metsänhoitoyhdistyksistä annetun lain 10 ja 11 §:n muuttamisesta](1303.md) `1303/1991`
+- [Asetus pohjoismaisen sosiaaliturvasopimuksen muutoksen voimaansaattamisesta](1304.md) `1304/1991`
+- [Asetus Suomen, Norjan ja Ruotsin välisen määrätynlaista henkilökuljetusta maanteitse koskevan sopimuksen voimaansaattamisesta](1305.md) `1305/1991`
+- [Asetus Sibelius\-Akatemian, teatterikorkeakoulun ja taideteollisen korkeakoulun virkojen kelpoisuusvaatimuksista sekä virkamiesten tehtävistä annetun asetuksen muuttamisesta](1306.md) `1306/1991`
+- [Asetus Jyväskylän yliopiston eräiden virkojen opetusalojen muuttamisesta](1307.md) `1307/1991`
+- [Valtioneuvoston päätös maksuttoman koulukuljetuksen järjestämisestä ja koulumatkasta aiheutuvien kustannusten suorittamisesta ammatillisten oppilaitosten oppilaille annetun valtioneuvoston päätöksen 1 §:n väliaikaisesta muuttamisesta](1308.md) `1308/1991`
+- [Valtioneuvoston päätös lukion oppilaiden koulukuljetuksesta ja koulumatkasta aiheutuvien kustannusten korvaamisesta annetun valtioneuvoston päätöksen 2 §:n väliaikaisesta muuttamisesta](1309.md) `1309/1991`
+- [Valtioneuvoston päätös alueellisen teknologiatoiminnan edistämiseen myönnettävien avustusten ehdoista](1310.md) `1310/1991`
+- [Laki tullilain muuttamisesta](1311.md) `1311/1991`
+- [Asetus hovioikeuksista annetun asetuksen muuttamisesta](1312.md) `1312/1991`
+- [Korkeimman oikeuden päätös hovioikeuksien työjärjestyksestä annetun korkeimman oikeuden päätöksen muuttamisesta](1313.md) `1313/1991`
+- [Valtiovarainministeriön päätös Suomen tasavallan ja Euroopan talousyhteisön välisessä kaupassa noudatettavien alkuperäsääntöjen eräiden muutosten soveltamisesta](1314.md) `1314/1991`
+- [Valtiovarainministeriön päätös Euroopan vapaakauppaliiton jäsenvaltioiden välisessä kaupassa noudatettavien alkuperäsääntöjen eräiden muutosten soveltamisesta](1315.md) `1315/1991`
+- [Maa\- ja metsätalousministeriön päätös puutavaran virallisen mittauksen perustoimitusmaksuista](1316.md) `1316/1991`
+- [Laki verotuslain muuttamisesta](1317.md) `1317/1991`
+- [Laki ennakkoperintälain 28 ja 49 a §:n muuttamisesta](1318.md) `1318/1991`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain 14 §:n muuttamisesta](1319.md) `1319/1991`
+- [Laki perintö\- ja lahjaverolain 62 ja 63 §:n muuttamisesta](1320.md) `1320/1991`
+- [Laki moottoriajoneuvoverosta annetun lain 9 ja 32 a §:n muuttamisesta](1321.md) `1321/1991`
+- [Laki leimaverolain 99 §:n muuttamisesta](1322.md) `1322/1991`
+- [Laki luottoverolain 25 §:n muuttamisesta](1323.md) `1323/1991`
+- [Laki arpajaisverolain 11 §:n muuttamisesta](1324.md) `1324/1991`
+- [Laki liikevaihtoverolain 127 §:n muuttamisesta](1325.md) `1325/1991`
+- [Laki auto\- ja moottoripyöräverosta annetun lain 18 §:n muuttamisesta](1326.md) `1326/1991`
+- [Laki tulliverolain 26 §:n muuttamisesta](1327.md) `1327/1991`
+- [Laki tasausverolain 6 §:n muuttamisesta](1328.md) `1328/1991`
+- [Laki valmisteverotuslain 42 §:n muuttamisesta](1329.md) `1329/1991`
+- [Valtiovarainministeriön päätös vuoden 1990 metsänhoitomaksun määräämisestä ja maksuunpanosta](1330.md) `1330/1991`
+- [Laki Neuvostoliiton kanssa Saimaan ja Vuoksen juoksutussäännöstä tehdyn sopimuksen eräiden määräysten hyväksymisestä sekä sopimuksen soveltamisesta](1331.md) `1331/1991`
+- [Asetus Neuvostoliiton kanssa Saimaan ja Vuoksen juoksutussäännöstä tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä sekä sopimuksen soveltamisesta annetun lain voimaantulosta](1332.md) `1332/1991`
+- [Valtioneuvoston päätös eräiden tilojen, tilanosien ja alueiden siirtämisestä Vöyrin kunnasta Ylihärmän kuntaan](1333.md) `1333/1991`
+- [Maa\- ja metsätalousministeriöo päätös lohen kalastuksen rajoittamisesta Pohjanlahdella ja Itämeren pääaltaalla vuonna 1991](1334.md) `1334/1991`
+- [VEROHALLITUKSEN PÄÄTÖS ilmoittamisvelvollisuuden rajoittamisesta](1335.md) `1335/1991`
+- [VEROHALLITUKSEN PÄÄTÖS pidätystodistuksen antamisvelvollisuuden rajoittamisesta ja ennakonpidätyksen hyväksi lukemisesta](1336.md) `1336/1991`
+- [Verohallituksen päätös metsätalouden tulojen verotuksessa noudatettavista kantohinta\-alueista](1337.md) `1337/1991`
+- [Asetus eräistä radiolain ja teletoimintalain nojalla perittävistä maksuista](1338.md) `1338/1991`
+- [Asetus sähköisen viestinnän varautumisesta](1339.md) `1339/1991`
+- [Sisäasiainministeriön päätös kuntien kantokykyluokituksen vahvistamisesta vuodeksi 1992](1340.md) `1340/1991`
+- [Suomen Pankin päätös Suomen Pankin vuoden 1986 tuhannen, viidensadan, sadan ja viidenkymmenen markan setelien Litt\. A \-mallien selitelmistä](1341.md) `1341/1991`
+- [Valtioneuvoston päätös markan ulkoisesta arvosta annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](1342.md) `1342/1991`
+- [Laki Sveitsin kanssa tehdyn sveitsiläisten juustojen tuontia koskevan pöytäkirjan eräiden määräysten hyväksymisestä](1343.md) `1343/1991`
+- [Asetus Sveitsin kanssa tehdyn sveitsiläisten juustojen tuontia koskevan pöytäkirjan voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1344.md) `1344/1991`
+- [Asetus eräistä rajavartiolaitoksen virkajärjestelyistä](1345.md) `1345/1991`
+- [Asetus eräiden virkojen nimien muuttamisesta sisäasiainministeriön hallinnonalalla](1346.md) `1346/1991`
+- [Asetus tutkimuseettisestä neuvottelukunnasta](1347.md) `1347/1991`
+- [Asetus yksityisistä teistä annetun asetuksen muuttamisesta](1348.md) `1348/1991`
+- [Valtioneuvoston päätös avustusten myöntämisestä ympäristönsuojelutoimien edistämiseen Suomen lähialueilla Itä\-Euroopassa](1349.md) `1349/1991`
+- [Laki räjähdysvaarallisista aineista annetun lain muuttamisesta](1350.md) `1350/1991`
+- [Laki räjähdysvaarallisista aineista annetun lain muuttamisesta](1351.md) `1351/1991`
+- [Laki pääkaupunkiseudun rakennusmaamaksusta annetun lain 15 §:n muuttamisesta](1352.md) `1352/1991`
+- [Laki työttömyyskassalain 29 §:n muuttamisesta](1353.md) `1353/1991`
+- [Asetus kansanterveysasetuksen 6 c §:n muuttamisesta](1354.md) `1354/1991`
+- [Asetus sairaalassa säteilyvahingollisessa työssä toimivien henkilöiden vuosilomasta annetun asetuksen 4 §:n muuttamisesta](1355.md) `1355/1991`
+- [Opetusministeriön päätös tallentamattomien äänija kuvanauhojen maahantuonnista ja valmistuksesta suoritettavan tekijänoikeudellisen maksun suuruudesta](1356.md) `1356/1991`
+- [Laki verohinnantaksojen lakkauttamisesta sekä niihin sisältyvien hintojen perusteella suoritettavien valtion menojen vakauttamisesta annetun lain kumoamisesta](1357.md) `1357/1991`
+- [Asetus Amerikan Yhdysvaltojen kanssa puolustusmateriaalin hankintoja koskevista vastavuoroisista periaatteista tehdyn sopimuksen voimaansaattamisesta](1358.md) `1358/1991`
+- [Asetus Amerikan Yhdysvaltojen kanssa tehdyn sotilastiedon turvallisuutta koskevan sopimuksen voimaansaattamisesta](1359.md) `1359/1991`
+- [Taimiaineistoasetus](1360.md) `1360/1991`
+- [Valtioneuvoston päätös myytäväksi toimitetun silakan ja kilohailin vähimmäishinnoista ja tavoitehinnoista](1361.md) `1361/1991`
+- [Laki kuntien yleisestä kalleusluokituksesta annetun lain 6 §:n muuttamisesta](1362.md) `1362/1991`
+- [Laki rehujen rasva\- ja valkuaisverosta annetun lain muuttamisesta](1363.md) `1363/1991`
+- [Laki öljyjätemaksusta annetun lain 10 §:n muuttamisesta](1364.md) `1364/1991`
+- [Laki sokeriverosta annetun lain 4 ja 12 §:n muuttamisesta](1365.md) `1365/1991`
+- [Laki investointivarauslain muuttamisesta ja väliaikaisesta muuttamisesta](1366.md) `1366/1991`
+- [Laki asuintalovarauksesta verotuksessa annetun lain muuttamisesta](1367.md) `1367/1991`
+- [Laki rakennushallinnosta](1368.md) `1368/1991`
+- [Asetus rakennushallinnosta](1369.md) `1369/1991`
+- [Asetus rakennushallinnon suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](1370.md) `1370/1991`
+- [Valtiovarainministeriön päätös vuodelta 1990 maksuunpannun säännönmukaisen lopullisen veron kantoajoista ja kantoeristä](1371.md) `1371/1991`
+- [Laki valtion tulo\- ja menoarviosta annetun lain 19 §:n muuttamisesta](1372.md) `1372/1991`
+- [Oikeusministeriön päätös suojaosuuden määristä palkan ulosmittauksessa](1373.md) `1373/1991`
+- [Puolustusministeriön päätös kemiallisten taisteluaineiden raaka\-aineista](1374.md) `1374/1991`
+- [Laki luottolaitosten varoista myönnettävistä eräistä korkotukilainoista annetun lain 2 §:n muuttamisesta](1375.md) `1375/1991`
+- [Asetus kansanterveysasetuksen 6 §:n muuttamisesta](1376.md) `1376/1991`
+- [Valtioneuvoston päätös metsätaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](1377.md) `1377/1991`
+- [Valtioneuvoston päätös porotaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](1378.md) `1378/1991`
+- [Valtioneuvoston päätös pakolaisten vastaanoton järjestämisestä ja korvaamisesta annetun valtioneuvoston päätöksen muuttamisesta](1379.md) `1379/1991`
+- [Sosiaali\- ja terveysministeriön päätös sairausvakuutuslain 8 §:ssä tarkoitetun tutkimuksen ja hoidon korvaamista koskevan taksan perusteista annetun sosiaali\- ja terveysministeriön päätöksen 2 §:n muuttamisesta](1380.md) `1380/1991`
+- [Opetusministeriön päätös peruskoulussa järjestettävän lisäopetuksen perusteista annetun päätöksen 3 §:n muuttamisesta](1381.md) `1381/1991`
+- [Maa\- ja metsätalousministeriön päätös tuottajamaidon samahintaisuudesta sekä laatu\- ja koostumushinnoittelun perusteista annetun maa\- ja metsätalousministeriön päätöksen 4 ja 8 §:n muuttamisesta](1382.md) `1382/1991`
+- [Muutoksia vuoden 1991 tulo\- ja menoarvioon](1383.md) `1383/1991`
+- [Laki ulkomaanedustuksen virkamiesten puolisoille maksettavasta erityiskorvauksesta annetun lain muuttamisesta](1384.md) `1384/1991`
+- [Laki pellonraivauksen määräaikaisesta rajoittamisesta](1385.md) `1385/1991`
+- [Laki maataloustulolain eräiden säännösten soveltamisesta vuonna 1991](1386.md) `1386/1991`
+- [Laki teurastetun siipikarjan ja syötävän metsänriistan maastaviennistä annetun lain kumoamisesta](1387.md) `1387/1991`
+- [Asetus Ranskan kanssa rikoksen johdosta tapahtuvaa luovuttamista koskevan eurooppalaisen yleissopimuksen alueellisen soveltamisalan laajentamisesta tehdyn sopimuksen voimaansaattamisesta](1388.md) `1388/1991`
+- [Asetus Ranskan kanssa keskinäistä oikeusapua rikosasioissa koskevan eurooppalaisen yleissopimuksen ja sen lisäpöytäkirjan alueellisen soveltamisalan laajentamisesta tehdyn sopimuksen voimaansaattamisesta](1389.md) `1389/1991`
+- [Asetus kalastustuloasetuksen 1 §:n muuttamisesta](1390.md) `1390/1991`
+- [Asetus pakolais\- ja siirtolaisuusasiain neuvottelukunnasta](1391.md) `1391/1991`
+- [Valtioneuvoston päätös kuntien yleisen kalleusluokituksen vahvistamisesta](1392.md) `1392/1991`
+- [Laki korkotulon lähdeverosta annetun lain muuttamisesta](1393.md) `1393/1991`
+- [Laki tulo\- ja varallisuusverolain 59 §:n väliaikaisesta muuttamisesta](1394.md) `1394/1991`
+- [Laki luottoverolain 2 ja 25 §:n muuttamisesta](1395.md) `1395/1991`
+- [Laki ravintorasvaverosta annetun lain muuttamisesta](1396.md) `1396/1991`
+- [Maa\- ja metsätalousministeriön päätös metsän hyönteis\- ja sienituhojen torjunnasta](1397.md) `1397/1991`
+- [Valtiovarainministeriön päätös verohallituksen määräämisestä ratkaisemaan eräitä verosopimuksessa tarkoitettuja asioita](1398.md) `1398/1991`
+- [Kauppa\- ja teollisuusministeriön päätös majoitus\- ja ravitsemisliikkeiden elinkeinoilmoitukseen liitettävästä selvityksestä](1399.md) `1399/1991`
+- [Verohallituksen päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](1400.md) `1400/1991`
+- [Laki perintökaaren 5 luvun muuttamisesta](1401.md) `1401/1991`
+- [Laki perintökaaren voimaanpanosta annetun lain 6 §:n muuttamisesta](1402.md) `1402/1991`
+- [Asetus valtion perintönä saaman omaisuuden luovuttamisesta](1403.md) `1403/1991`
+- [Asetus Valtion ravitsemiskeskuksesta annetun asetuksen 1 ja 2 §:n muuttamisesta](1404.md) `1404/1991`
+- [Asetus ajoneuvoasetuksen muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](1405.md) `1405/1991`
+- [Asetus ajoneuvoasetuksen 65 §:n muuttamisesta](1406.md) `1406/1991`
+- [Asetus luotsausmaksuista annetun asetuksen muuttamisesta](1407.md) `1407/1991`
+- [Asetus merenkulkulaitoksen suoritteista perittävistä maksuista annetun asetuksen 3 §:n muuttamisesta](1408.md) `1408/1991`
+- [Asetus väylämaksuasetuksen 3 §:n muuttamisesta](1409.md) `1409/1991`
+- [Asetus merimiehen lääkärintarkastuksista annetun asetuksen 2 ja 15 §:n muuttamisesta](1410.md) `1410/1991`
+- [Asetus laivaväen ruoanpidosta aluksissa annetun asetuksen muuttamisesta](1411.md) `1411/1991`
+- [Asetus merimiesasiain neuvottelukunnasta annetun asetuksen 5 §:n muuttamisesta](1412.md) `1412/1991`
+- [VALTIONEUVOSTON PÄÄTÖS asbestityöstä annetun valtioneuvoston päätöksen 8 §:n muuttamisesta](1413.md) `1413/1991`
+- [Valtioneuvoston päätös merionnettomuudessa menetetystä henkilökohtaisesta omaisuudesta työntekijälle tulevan korvauksen perusteista annetun valtioneuvoston päätöksen muuttamisesta](1414.md) `1414/1991`
+- [Valtioneuvoston päätös rakennushallinnon rakennuspiireistä](1415.md) `1415/1991`
+- [Laki raakapuun mittausja valvontatoimesta vientikaupassa annetun lain kumoamisesta](1416.md) `1416/1991`
+- [Asetus Tampereen yliopistosta annetun asetuksen muuttamisesta](1417.md) `1417/1991`
+- [Asetus sähkölaitteiden tarkastuksista perittävistä maksuista annetun asetuksen 7 §:n muuttamisesta](1418.md) `1418/1991`
+- [Asetus hyödyllisyysmallioikeudesta](1419.md) `1419/1991`
+- [Asetus patentti\- ja rekisterihallituksen suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](1420.md) `1420/1991`
+- [Julistus neljästä kiitos\-, katumus\- ja rukouspäivästä, jotka on koko maassa juhlallisesti vietettävä vuonna 1992](1421.md) `1421/1991`
+- [Valtioneuvoston päätös valtion liikelaitosten vahinkoturvajärjestelmästä](1422.md) `1422/1991`
+- [Laki vahingonkorvauslain muuttamisesta](1423.md) `1423/1991`
+- [Laki oikeuspoliittisesta tutkimuslaitoksesta annetun lain muuttamisesta](1424.md) `1424/1991`
+- [Asetus oikeuspoliittisesta tutkimuslaitoksesta](1425.md) `1425/1991`
+- [Laki liikevaihtoverolain väliaikaisesta muuttamisesta](1426.md) `1426/1991`
+- [Laki eräistä vakuutusmaksuista suoritettavasta verosta annetun lain 3 §:n väliaikaisesta muuttamisesta](1427.md) `1427/1991`
+- [Asetus eräiden eläkkeiden myöntämisestä ja maksamisesta annetun asetuksen 4 §:n muuttamisesta](1428.md) `1428/1991`
+- [Valtioneuvoston päätös ratkaisuvallan siirtämisestä eräissä ylimääräistä eläkettä koskevissa asioissa](1429.md) `1429/1991`
+- [Valtioneuvoston päätös asuinhuoneistojen vuokrien korotusyleisohjeeksi](1430.md) `1430/1991`
+- [Valtioneuvoston päätös tasoyleisohjeeksi asuinhuoneistojen kohtuullisista vuokrista eräillä paikkakunnilla](1431.md) `1431/1991`
+- [Laki maidon, sianlihan ja viljan vientikustannusmaksusta annetun lain 9 §:n muuttamisesta](1432.md) `1432/1991`
+- [Laki lannoiteverosta annetun lain 4 §:n väliaikaisesta muuttamisesta](1433.md) `1433/1991`
+- [Laki kasvinsuojelulain muuttamisesta](1434.md) `1434/1991`
+- [Laki mielenterveyslain muuttamisesta](1435.md) `1435/1991`
+- [Laki yrittäjien eläkelain 9 §:n muuttamisesta](1436.md) `1436/1991`
+- [Asetus Aulangon luonnonsuojelualueesta](1437.md) `1437/1991`
+- [Asetus Lammin biologisen aseman luonnonsuojelualueesta](1438.md) `1438/1991`
+- [Asetus geodeettisesta laitoksesta annetun asetuksen 3 §:n muuttamisesta](1439.md) `1439/1991`
+- [Asetus maatalousyrittäjien eläkeasetuksen 1 §:n muuttamisesta](1440.md) `1440/1991`
+- [Laki vapaakunnan oikeudesta poiketa eräistä säännöksistä ja määräyksistä annetun lain muuttamisesta](1441.md) `1441/1991`
+- [Laki vapaakuntakokeilusta annetun lain muuttamisesta](1442.md) `1442/1991`
+- [Asetus verotusasetuksen muuttamisesta](1443.md) `1443/1991`
+- [Verohallituksen päätös vuodelta 1991 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](1444.md) `1444/1991`
+- [Verohallituksen päätös ennakonpidätyksessä vuonna 1992 noudatettavista luontoisetujen laskentaperusteista](1445.md) `1445/1991`
+- [Verohallituksen päätös niistä perusteista, joiden mukaan muun kiinteistön kuin maatilan maapohjan verotusarvo lasketaan vuodelta 1991 toimitettavassa verotuksessa](1446.md) `1446/1991`
+- [Asetus maa\-ainesasetuksen 2 §:n 4 momentin kumoamisesta](1447.md) `1447/1991`
+- [Asetus puolustusministeriön hallinnonalan suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](1448.md) `1448/1991`
+- [Asetus puolustusministeriöstä annetun asetuksen muuttamisesta](1449.md) `1449/1991`
+- [Asetus terveydenhuollon järjestämisestä puolustusvoimissa annetun asetuksen 13 §:n muuttamisesta](1450.md) `1450/1991`
+- [Asetus maanpuolustustiedotuksen suunnittelukunnasta annetun asetuksen 2 §:n muuttamisesta](1451.md) `1451/1991`
+- [Valtioneuvoston päätös maanpuolustuksen tieteellisestä neuvottelukunnasta annetun valtioneuvoston päätöksen muuttamisesta](1452.md) `1452/1991`
+- [Valtiovarainministeriön päätös rakennusten jälleenhankinta\-arvon perusteista](1453.md) `1453/1991`
+- [Valtiovarainministeriön päätös vesivoimalaitoksen ja sen rakenteiden jälleenhankinta\-arvon perusteista](1454.md) `1454/1991`
+- [Verohallituksen päätös matkakuluvähennyksen määrästä vuodelta 1991 toimitettavassa verotuksessa](1455.md) `1455/1991`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain 16 §:n väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1456.md) `1456/1991`
+- [Asetus terveyskeskukselle työterveyshuollosta perittävistä maksuista ja korvauksista annetun asetuksen muuttamisesta](1457.md) `1457/1991`
+- [Asetus säteilyturvakeskuksen suoritteista perittävistä maksuista](1458.md) `1458/1991`
+- [Valtioneuvoston päätös työturvallisuuslain soveltamisesta torninostureihin ja niiden tarkastukseen annetun valtioneuvoston päätöksen muuttamisesta](1459.md) `1459/1991`
+- [Valtioneuvoston päätös vaikeista ja pitkäaikaisista sairauksista ja niiden hoitoon käytettävistä sairausvakuutuslain mukaan kokonaan tai 90\-prosenttisesti korvattavista lääkkeistä annetun valtioneuvoston päätöksen 1 ja 2 §:n muuttamisesta](1460.md) `1460/1991`
+- [Valtioneuvoston päätös vaikeista sairauksista ja niiden hoitoon käytettävistä kliinisistä ravintovalmisteista, joihin suoritetaan sairausvakuutuslain mukaista korvausta, annetun valtioneuvoston päätöksen 1 ja 2 §:n muuttamisesta](1461.md) `1461/1991`
+- [Laki kirkkolain muuttamisesta](1462.md) `1462/1991`
+- [Sisäasiainministeriön päätös pysäköintivirhemaksusta](1463.md) `1463/1991`
+- [sosiaali\- ja terveyshallituksen päätös lääkeluettelosta](1464.md) `1464/1991`
+- [Laki turvapaikan hakijoiden vastaanottoasemista ja \-keskuksista](1465.md) `1465/1991`
+- [Asetus sosiaali\- ja terveysministeriöstä annetun asetuksen muuttamisesta](1466.md) `1466/1991`
+- [Asetus sosiaali\- ja terveyshaliltuksesta annetun asetuksen 1 §:n muuttamisesta](1467.md) `1467/1991`
+- [Asetus eräiden virkojen siirtämisestä ja erään viran nimen muuttamisesta sosiaali\- ja terveysministeriön hallinnonalalla](1468.md) `1468/1991`
+- [Asetus eräiden virkojen perustamisesta ja lakkauttamisesta sosiaali\- ja terveysministeriön hallinnonalalla](1469.md) `1469/1991`
+- [Valtioneuvoston päätös ammatillisten erikoisoppilaitosten käyttökustannuksiin suoritettavasta valtionavustuksesta](1470.md) `1470/1991`
+- [Valtioneuvoston päätös työttömyysvakuutusmaksusta vuonna 1992](1471.md) `1471/1991`
+- [Valtioneuvoston päätös öljyjätemaksuina kertyvien varojen käytöstä annetun valtioneuvoston päätöksen muuttamisesta](1472.md) `1472/1991`
+- [Maa\- ja metsauml;talousministeriön päätös  elävän kalan ja mädin kuljettamisesta muualta Suomesta Oulujoen, Vuoksen, Jänisjoen, Kiteenjoen\-Tohmajoen ja Hiitolanjoen vesistöalueelle, Kymijoen Voikkaan nousuesteen yläpuoliselle vesistöalueelle sekä Koutajoen ja Kemjoen Suomen puolella oleville latvavesistöalueille](1473.md) `1473/1991`
+- [sosiaali\- ja terveysministeriön päätös ionisoimattoman säteilyn altistuksen enimmäisarvoista](1474.md) `1474/1991`
+- [Laki kuntien yleisestä valtionosuudesta ja yleisistä rahoitusavustuksista annetun lain 5 §:n muuttamisesta](1475.md) `1475/1991`
+- [Laki liikuntalain väliaikaisesta muuttamisesta](1476.md) `1476/1991`
+- [Laki nuorisotyölain väliaikaisesta muuttamisesta](1477.md) `1477/1991`
+- [Laki Valtion viljavarastosta annetun lain 7 ja 9 §:n muuttamisesta](1478.md) `1478/1991`
+- [Laki tieliikennelain 86 ja 105 §:n muuttamisesta](1479.md) `1479/1991`
+- [Laki ilmansuojelulain 23 §:n muuttamisesta](1480.md) `1480/1991`
+- [Laki pysäköintivirhemaksusta annetun lain 1 §:n muuttamisesta](1481.md) `1481/1991`
+- [Asetus Euroopan avaruusjärjestön liitännäisjäsenyyden jatkamista koskevan sopimuksen voimaansaattamisesta](1482.md) `1482/1991`
+- [Asetus Euroopan avaruusjärjestön tiedeohjelmaan osallistumisen jatkamista koskevan sopimuksen voimaansaattamisesta](1483.md) `1483/1991`
+- [Asetus Liikenneturvasta annetun asetuksen muuttamisesta](1484.md) `1484/1991`
+- [Valtioneuvoston päätös Ilmailulaitoksen viranomaissuoritteista perittävistä maksuista](1485.md) `1485/1991`
+- [Valtioneuvoston päätös energiapolitiikan neuvostosta](1486.md) `1486/1991`
+- [Laki ilmailulain muuttamisesta](1487.md) `1487/1991`
+- [Asetus kansainvälistä tekstiilikauppaa koskevan sopimuksen voimassapitämistä koskevan pöytäkirjan voimaansaattamisesta](1488.md) `1488/1991`
+- [Asetus Kiinan kansantasavallan kanssa tehdyn tekstiilituotteiden kauppaa koskevan sopimuksen voimaansaattamisesta](1489.md) `1489/1991`
+- [Asetus Hongkongin kanssa eräiden tekstiilituotteiden Hongkongista tapahtuvan tuonnin rajoittamisesta ja valvomisesta tehdyn sopimuksen voimaansaattamisesta](1490.md) `1490/1991`
+- [Asetus Korean tasavallan kanssa tehdyn tekstiilituotteiden kauppaa koskevan sopimuksen voimaansaattamisesta](1491.md) `1491/1991`
+- [Asetus Macaon kanssa eräiden tekstiilituotteiden Macaosta tapahtuvan tuonnin rajoittamisesta ja valvomisesta tehdyn sopimuksen voimaansaattamisesta](1492.md) `1492/1991`
+- [Asetus valtion liikelaitoksista annetun lain mukaisten liikelaitosten lainanottovaltuuksista vuonna 1992](1493.md) `1493/1991`
+- [Asetus Valtion taloudellisen tutkimuskeskuksen suoritteista perittävistä maksuista](1494.md) `1494/1991`
+- [Valtioneuvoston päätös eräiden tilojen, tilanosien ja alueiden siirtämisestä Enonkosken, Kangaslammin, Kerimäen, Punkaharjun, Sulkavan ja Savonrannan kunnista Savonlinnan kaupunkiin](1495.md) `1495/1991`
+- [Valtioneuvoston päätös rajan määräämisestä eräin osin Hankasalmen ja Laukaan kuntien, Hankasalmen ja Konneveden kuntien, Suolahden kaupungin ja Sumiaisten kunnan, Suolahden ja Äänekosken kaupunkien, Saarijärven ja Äänekosken kaupunkien, Saarijärven kaupungin ja Uuraisten kunnan, Saarijärven kaupungin ja Karstulan kunnan, Karstulan ja Pylkönmäen kuntien, Karstulan ja Kyyjärven kuntien, Kivijärven ja Kannonkosken kuntien sekä Viitasaaren ja Pihtiputaan kuntien välillä](1496.md) `1496/1991`
+- [Laki Brasilian kanssa tulon kaksinkertaisen verotuksen sekä veron kiertämisen estämiseksi tehdyn sopimuksen muuttamista koskevan pöytäkirjan eräiden määräysten hyväksymisestä](1497.md) `1497/1991`
+- [Asetus Brasilian kanssa tulon kaksinkertaisen verotuksen sekä veron kiertämisen estämiseksi tehdyn sopimuksen muuttamista koskevan pöytäkirjan voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1498.md) `1498/1991`
+- [Laki Espanjan kanssa tulon ja omaisuuden kaksinkertaisen verotuksen estämiseksi tehdyn sopimuksen muuttamista koskevan sopimuksen eräiden määräysten hyväksymisestä](1499.md) `1499/1991`
+- [Asetus Espanjan kanssa tulon ja omaisuuden kaksinkertaisen verotuksen estämiseksi tehdyn sopimuksen muuttamista koskevan sopimuksen voimaansaattamisesta sekä sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1500.md) `1500/1991`
+- [Laki Japanin kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen muuttamisesta tehdyn pöytäkirjan eräiden määräysten hyväksymisestä](1501.md) `1501/1991`
+- [Asetus Japanin kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen muuttamisesta tehdyn pöytäkirjan voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1502.md) `1502/1991`
+- [Laki teollisuusammateissa olevain työntekijäin suojelemisesta annetun asetuksen kumoamisesta](1503.md) `1503/1991`
+- [Laki lain, jolla kielletään pitämästä nuoria naisia eräissä lastausja purkaustöissä, kumoamisesta](1504.md) `1504/1991`
+- [Laki metsä\- ja uittotöissä suoritettavasta palkkauksesta annetun lain kumoamisesta](1505.md) `1505/1991`
+- [Laki työsuojeluhallinnosta annetun lain 2 §:n muuttamisesta](1506.md) `1506/1991`
+- [Laki kaivoslain 58 §:n kumoamisesta](1507.md) `1507/1991`
+- [Laki työturvallisuuslain muuttamisesta](1508.md) `1508/1991`
+- [Laki lyijyvalkoisen ja lyijysulfaatin käytön kieltämisestä eräissä maalaustöissä annetun lain 3 §:n muuttamisesta](1509.md) `1509/1991`
+- [Laki merityöaikalain 16 §:n muuttamisesta](1510.md) `1510/1991`
+- [Asetus Neuvostoliittoon, Viroon, Latviaan ja Liettuaan elintarvikkeita, rehuja, polttonesteitä, lääkkeitä ja muita humanitäärisiin tarkoituksiin käytettäviä tuotteita vievien laitosten ja yrityksien vientisaatavien valtion takauksista](1511.md) `1511/1991`
+- [Säteilyasetus](1512.md) `1512/1991`
+- [Asetus ionisoimattoman säteilyn valvonnasta](1513.md) `1513/1991`
+- [Asetus sairaalassa tai terveyskeskuksessa säteilytyötä tekevien henkilöiden vuosilomasta](1514.md) `1514/1991`
+- [Asetus säteilyturvakeskuksesta](1515.md) `1515/1991`
+- [Valtioneuvoston päätös eläkkeensaajien asumistukilain mukaisista hoitomenoina hyväksyttävistä keskimääräisistä kustannuksista ja asumiskustannusten enimmäismääristä](1516.md) `1516/1991`
+- [Valtioneuvoston päätös kuntien ryhmityksestä kansaneläkelain mukaisen lisäosan maksamista varten](1517.md) `1517/1991`
+- [Valtioneuvoston päätös kuntien ryhmityksestä rintamasotilaseläkkeen maksamista varten](1518.md) `1518/1991`
+- [Asetus maan ulkomaankaupassa sovellettavista määrällisistä rajoituksista annetun asetuksen liitteen muuttamisesta](1519.md) `1519/1991`
+- [Valtioneuvoston päätös turvavarastointiohjelmasta vuonna 1992](1520.md) `1520/1991`
+- [Valtiovarainministeriön päätös verovuoden 1990 verotuksen toimittamisesta](1521.md) `1521/1991`
+- [Asetus valtion tulo\- ja menoarvion väliaikaisesta järjestämisestä](1522.md) `1522/1991`
+- [Asetus kehitysmaista peräisin olevien tavaroiden tullija tuontimaksuetuuksista](1523.md) `1523/1991`
+- [Asetus tullilaitoksen suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](1524.md) `1524/1991`
+- [Valtioneuvoston päätös Kehitysaluerahasto Oy:n määräämisestä toimimaan Loviisassa ja Ruotsinpyhtäällä](1525.md) `1525/1991`
+- [Maa\- ja metsauml;talousministeriön päätös Ruotsin kanssa vastavuoroisista kalastusoikeuksista Itämerellä tehtyjen sopimusten täytäntöönpanosta vuonna 1992](1526.md) `1526/1991`
+- [Laki opiskelijoiden asumistukien väliaikaisesta tarkistamisesta](1527.md) `1527/1991`
+- [Laki asuntotuotantolain 11 g §:n muuttamisesta](1528.md) `1528/1991`
+- [Asetus vankeinhoitolaitoksesta annetun asetuksen muuttamisesta](1529.md) `1529/1991`
+- [Asetus sähkötöiden valvonnasta perittävistä maksuista annetun asetuksen 2 §:n muuttamisesta](1530.md) `1530/1991`
+- [Asetus sähkölaitteistojen tarkastuksista perittävistä maksuista annetun asetuksen muuttamisesta](1531.md) `1531/1991`
+- [Valtioneuvoston päätös asumistuen määräytymisperusteista](1532.md) `1532/1991`
+- [Valtioneuvoston päätös asuntolainan vuosimaksusta annetun valtioneuvoston päätöksen 1 §:n väliaikaisesta muuttamisesta](1533.md) `1533/1991`
+- [Laki polttoaineverosta annetun lain muuttamisesta](1534.md) `1534/1991`
+- [Laki Helsingissä pidettävien Euroopan turvallisuutta ja yhteistyötä koskevien kokousten yhteydessä toimivasta verottomien tavaroiden myymälästä](1535.md) `1535/1991`
+- [Laki tasausverolain muuttamisesta](1536.md) `1536/1991`
+- [Asetus Suomen, Norjan ja Ruotsin välisen Pohjoiskalotin koulutussäätiön perustamista koskevan sopimuksen voimaansaattamisesta](1537.md) `1537/1991`
+- [Asetus oikeusministeriön tietojärjestelmien maksuista](1538.md) `1538/1991`
+- [Asetus merilain 252 ja 254 §:ssä tarkoitettujen sekä eräiden muiden palkkioiden ja korvausten suorittamisesta valtion varoista annetun asetuksen 1 §:n muuttamisesta](1539.md) `1539/1991`
+- [Asetus valtioneuvoston lainanottovaltuuksista vuonna 1992](1540.md) `1540/1991`
+- [Asetus asunto\-olojen kehittämisrahaston lainanottovaltuuksista vuonna 1992](1541.md) `1541/1991`
+- [Valtioneuvoston päätös moottoriajoneuvojen joutokäynnin rajoittamisesta](1542.md) `1542/1991`
+- [Laki kuntien vapaaehtoisen yhdistymisen kannustamisesta vuosina 1992\-1993 annetun lain 2 ja 9 §:n muuttamisesta](1543.md) `1543/1991`
+- [Rahoitustoimintalaki](1544.md) `1544/1991`
+- [Laki talletuspankkien toiminnasta annetun lain muuttamisesta](1545.md) `1545/1991`
+- [Laki ulkomaalaisen oikeudesta omistaa suomalaisen luottolaitoksen osakkeita ja harjoittaa pankkitoimintaa Suomessa annetun lain muuttamisesta](1546.md) `1546/1991`
+- [Laki pankkitarkastusvirastosta annetun lain 1 §:n muuttamisesta](1547.md) `1547/1991`
+- [Laki obligaatioja debentuurilainoista sekä muista joukkovelkakirjalainoista annetun lain 5 ja 18 §:n muuttamisesta](1548.md) `1548/1991`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain 3 §:n muuttamisesta](1549.md) `1549/1991`
+- [Laki kuluttaja\-asiamiehestä annetun lain 8 §:n muuttamisesta](1550.md) `1550/1991`
+- [Laki ulkomaalaisten sekä eräiden yhteisöjen oikeudesta omistaa ja hallita kiinteätä omaisuutta ja osakkeita annetun lain 24 §:n muuttamisesta](1551.md) `1551/1991`
+- [Laki hypoteekkiyhdistyksistä annetun lain muuttamisesta](1552.md) `1552/1991`
+- [Laki arvopaperinvälitysliikkeistä annetun lain 4 §:n muuttamisesta](1553.md) `1553/1991`
+- [Laki arvopaperimarkkinalain 1 luvun 4 §:n muuttamisesta](1554.md) `1554/1991`
+- [Laki leimaverolain muuttamisesta](1555.md) `1555/1991`
+- [Valtioneuvoston päätös leimaverolain soveltamisesta annetun valtioneuvoston päätöksen 7 ja 11 §:n muuttamisesta](1556.md) `1556/1991`
+- [VALTIOVARAINMINISTERIÖN PÄÄTÖS verovuoden 1992 ennakon alarajasta ja kantoeristä](1557.md) `1557/1991`
+- [Laki maaseutuelinkeinojen hallinnosta kunnissa](1558.md) `1558/1991`
+- [Laki maaseutuelinkeinolain muuttamisesta](1559.md) `1559/1991`
+- [Laki porotalouslain muuttamisesta](1560.md) `1560/1991`
+- [Laki luontaiselinkeinolain muuttamisesta](1561.md) `1561/1991`
+- [Laki kolttalain muuttamisesta](1562.md) `1562/1991`
+- [Laki metsänparannuslainojen takaisinperinnän nopeuttamisesta ja koron nostamisesta](1563.md) `1563/1991`
+- [Asetus kasvinsuojeluasetuksen muuttamisesta](1564.md) `1564/1991`
+- [Asetus kasvintuhoojien maahan kulkeutumisen estämisestä annetun asetuksen muuttamisesta](1565.md) `1565/1991`
+- [Valtioneuvoston päätös rehuksi käytettävien maitotaloustuotteiden hinnanalennuskorvauksista annetun valtioneuvoston päätöksen kumoamisesta](1566.md) `1566/1991`
+- [Asetus teknilliselle tarkastuskeskukselle suoritettavista maksuista](1567.md) `1567/1991`
+- [Asetus testaus\-, tarkastus\-, sertifiointi\- ja kalibrointitoimintaa harjoittavien toimielinten pätevyyden toteamisesta](1568.md) `1568/1991`
+- [Asetus mittatekniikan keskukselle suoritettavista maksuista](1569.md) `1569/1991`
+- [Laki Valtiontakuukeskuksesta annetun lain muuttamisesta](1570.md) `1570/1991`
+- [Asetus Valtiontakuukeskuksesta annetun asetuksen muuttamisesta](1571.md) `1571/1991`
+- [Asetus vedonlyönnin toimeenpanemisesta hevoskilpailuissa annetun asetuksen 5 §:n muuttamisesta](1572.md) `1572/1991`
+- [Asetus eräiden virkojen nimien muuttamisesta sisäasiainministeriön hallinnonalalla](1573.md) `1573/1991`
+- [Asetus eräiden virkojen perustamisesta ja lakkauttamisesta sisäasiainministeriön hallinnonalalla](1574.md) `1574/1991`
+- [Asetus eräiden virkojen lakkauttamisesta ja perustamisesta sekä eräiden virkojen nimien muuttamisesta sisäasiainministeriön hallinnonalalla](1575.md) `1575/1991`
+- [Asetus valtiovarainministeriön hallinnonalan eräistä virkajärjestelyistä](1576.md) `1576/1991`
+- [Asetus rakennushallinnon eräiden virkojen perustamisesta](1577.md) `1577/1991`
+- [Asetus kuluttajaviraston suoritteista perittävistä maksuista](1578.md) `1578/1991`
+- [Valtioneuvoston päätös valtion työntekijöiden matkakustannusten korvaamisesta annetun valtioneuvoston päätöksen kumoamisesta](1579.md) `1579/1991`
+- [Asetus kouluasiainneuvostosta annetun asetuksen kumoamisesta](1580.md) `1580/1991`
+- [Asetus korkeakoulun professorin ja apulaisprofessorin viran täyttämisestä](1581.md) `1581/1991`
+- [Asetus Jyväskylän yliopistosta annetun asetuksen muuttamisesta](1582.md) `1582/1991`
+- [Asetus Oulun yliopistosta annetun asetuksen muuttamisesta](1583.md) `1583/1991`
+- [Asetus Joensuun yliopistosta annetun asetuksen muuttamisesta](1584.md) `1584/1991`
+- [Asetus Kuopion yliopistosta annetun asetuksen muuttamisesta](1585.md) `1585/1991`
+- [Asetus Turun yliopistosta annetun asetuksen muuttamisesta](1586.md) `1586/1991`
+- [Asetus Eläinlääketieteellisestä korkeakoulusta annetun asetuksen muuttamisesta](1587.md) `1587/1991`
+- [Asetus Teknillisestä korkeakoulusta annetun asetuksen muuttamisesta](1588.md) `1588/1991`
+- [Asetus Tampereen teknillisestä korkeakoulusta annetun asetuksen muuttamisesta](1589.md) `1589/1991`
+- [Asetus Lappeenrannan teknillisestä korkeakoulusta annetun asetuksen muuttamisesta](1590.md) `1590/1991`
+- [Asetus Helsingin kauppakorkeakoulusta annetun asetuksen muuttamisesta](1591.md) `1591/1991`
+- [Asetus eräiden korkeakoulujen professorin ja apulaisprofessorin virkojen opetusalojen muuttamisesta](1592.md) `1592/1991`
+- [Asetus arkistolaitoksen eräiden virkojen perustamisesta ja lakkauttamisesta](1593.md) `1593/1991`
+- [Asetus museoviraston eräiden virkojen perustamisesta ja lakkauttamisesta](1594.md) `1594/1991`
+- [Laki Kansaneläkelain muuttamisesta](1595.md) `1595/1991`
+- [Laki SAIRAUSVAKUUTUSLAIN MUUTTAMISESTA](1596.md) `1596/1991`
+- [Laki maatalousyrittäjän lomituspalveluista annetun lain muuttamisesta](1597.md) `1597/1991`
+- [Laki lapsilisälain muuttamisesta](1598.md) `1598/1991`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](1599.md) `1599/1991`
+- [Laki lasten kotihoidon tuesta annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1600.md) `1600/1991`
+- [Asetus alkoholijuomista annetun asetuksen muuttamisesta](1601.md) `1601/1991`
+- [Asetus keskioluesta annetun asetuksen 12 ja 13 §:n muuttamisesta](1602.md) `1602/1991`
+- [Asetus sairausvakuutusasetuksen 9 §:n väliaikaisesta muuttamisesta](1603.md) `1603/1991`
+- [Asetus valtion sosiaalihuollon ja terveydenhuollon toimintayksiköiden palveluista perittävistä korvauksista annetun asetuksen muuttamisesta](1604.md) `1604/1991`
+- [Asetus sosiaalipalveluista perittävistä maksuista annetun asetuksen muuttamisesta](1605.md) `1605/1991`
+- [Valtioneuvoston päätös lääkelain eräiden maksujen tarkistamisesta](1606.md) `1606/1991`
+- [Laki energia\-avustuksista](1607.md) `1607/1991`
+- [Asetus turvapaikan hakijoiden vastaanottoasemista ja \-keskuksista](1608.md) `1608/1991`
+- [Asetus tapaturmaviraston eräiden virkojen lakkauttamisesta ja perustamisesta sekä eräiden virkojen nimien muuttamisesta](1609.md) `1609/1991`
+- [Asetus erikoissairaanhoidosta perittävistä maksuista ja korvauksista annetun asetuksen muuttamisesta](1610.md) `1610/1991`
+- [Asetus terveyskeskuksessa perittävistä maksuista ja korvauksista annetun asetuksen muuttamisesta](1611.md) `1611/1991`
+- [Valtioneuvoston päätös läänin kehittämisrahan käyttöperusteista annetun valtioneuvoston päätöksen muuttamisesta](1612.md) `1612/1991`
+- [sosiaali\- ja terveysministeriön päätös sotilasvammalain 18 §:n 2 momentissa tarkoitetun tulorajan tarkistamisesta](1613.md) `1613/1991`
+- [sosiaali\- ja terveysministeriön päätös paikkakuntien kalleusluokituksesta sotilasvammalain mukaisen huoltoeläkkeen ja täydennyskoron maksamista varten](1614.md) `1614/1991`
+- [sosiaali\- ja terveysministeriön päätös tapaturmavakuutuslain 58 §:ssä säädetyn maksun suuruudesta](1615.md) `1615/1991`
+- [sosiaali\- ja terveysministeriön päätös lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 10 §:n 1 momentissa tarkoitetun maksuprosentin vahvistamisesta](1616.md) `1616/1991`
+- [Laki Teollisen Kehitysyhteistyön Rahasto Oy \- Fonden för Industriellt Utvecklingssamarbete Ab \-nimisestä osakeyhtiöstä annetun lain muuttamisesta](1617.md) `1617/1991`
+- [Laki tuomiokuntain hoidosta annetun lain 5 ja 8 a §:n muuttamisesta](1618.md) `1618/1991`
+- [Laki raastuvanoikeudesta annetun lain 4 a §:n muuttamisesta](1619.md) `1619/1991`
+- [Asetus tuomiokuntain hoidosta annetun asetuksen 2 §:n muuttamisesta](1620.md) `1620/1991`
+- [Asetus raastuvanoikeudesta annetun asetuksen 15 a §:n muuttamisesta](1621.md) `1621/1991`
+- [Asetus kiinteistön rasitustodistuksista annetun asetuksen 1 §:n muuttamisesta](1622.md) `1622/1991`
+- [Valtioneuvoston päätös käräjäoikeuksien tuomiopiireistä](1623.md) `1623/1991`
+- [Valtioneuvoston päätös veropiireistä annetun valtioneuvoston päätöksen muuttamisesta](1624.md) `1624/1991`
+- [Oikeusministeriön päätös lainhuuto\- ja kiinnitysrekisterin käyttöön ottamisesta eräissä tuomiokunnissa ja raastuvanoikeuksissa](1625.md) `1625/1991`
+- [Ympäristöministeriön päätös rauhoitettujen harvinaisten eläinten tuottamien vahinkojen korvaamiseksi maksettavista avustuksista](1626.md) `1626/1991`
+- [Valtiovarainministeriön päätös eräiden ulkomailla rekisteröityjen ajoneuvojen vapauttamisesta moottoriajoneuvoverosta tai veron alentamisesta annetun valtiovarainministeriön päätöksen 1 §:n muuttamisesta](1627.md) `1627/1991`
+- [Laki aluevaihdosta valtion ja Helsingin kaupungin välillä](1628.md) `1628/1991`
+- [Verohallintoasetus](1629.md) `1629/1991`
+- [Valtiovarainministeriön päätös vuoden 1992 taidekilpailupalkintojen verovapaudesta](1630.md) `1630/1991`
+- [Verohallituksen päätös kotieläinten arvon määräämisessä noudatettavista perusteista](1631.md) `1631/1991`
+- [Luettelo veroäyrien hinnoista vuonna 1992](1632.md) `1632/1991`
+- [Laki verojen ja maksujen perimisestä ulosottotoimin annetun lain muuttamisesta](1633.md) `1633/1991`
+- [Laki ulosottolain muuttamisesta](1634.md) `1634/1991`
+- [Laki ulosottotoimesta annetun lain muuttamisesta](1635.md) `1635/1991`
+- [Laki Ahvenanmaan maakunnan maakunnanvoudinvirastosta annetun lain muuttamisesta](1636.md) `1636/1991`
+- [Asetus ulosottoasetuksen muuttamisesta](1637.md) `1637/1991`
+- [Asetus sakkorangaistuksen täytäntöönpanosta annetun asetuksen 23 b §:n muuttamisesta](1638.md) `1638/1991`
+- [Asetus ulosottotoimesta annetun asetuksen muuttamisesta](1639.md) `1639/1991`
+- [Asetus Ahvenanmaan maakunnan maakunnanvoudinvirastosta annetun asetuksen muuttamisesta](1640.md) `1640/1991`
+- [Asetus ulosottovirastojen eräiden virkojen nimien muuttamisesta](1641.md) `1641/1991`
+- [Asetus virkavalasta ja virkavakuutuksesta sekä tuomarinvalasta ja tuomarinvakuutuksesta annetun asetuksen 4 §:n muuttamisesta](1642.md) `1642/1991`
+- [Asetus ajoneuvoasetuksen 45 §:n muuttamisesta](1643.md) `1643/1991`
+- [Valtioneuvoston päätös eräiden elintarvikkeiden tullien ja tuontimaksujen väliaikaisesta muuttamisesta](1644.md) `1644/1991`
+- [Laki työnvälityslain muuttamisesta](1645.md) `1645/1991`
+- [Asetus työvoiman kotimaisen liikkuvuuden tukemisesta](1646.md) `1646/1991`
+- [Asetus paluumuuton ja Pohjoismaista tapahtuvan työvoiman muuton tukemisesta](1647.md) `1647/1991`
+- [Laki Pohjoismaiden neuvoston Suomen valtuuskunnasta annetun lain 3 ja 4 §:n muuttamisesta](1648.md) `1648/1991`
+- [Laki kansainvälisiä konferensseja ja erityisedustustoja koskevista erioikeuksista ja vapauksista annetun lain muuttamisesta](1649.md) `1649/1991`
+- [Asetus kansainvälisiä konferensseja ja erityisedustustoja koskevista erioikeuksista ja vapauksista annetun asetuksen muuttamisesta](1650.md) `1650/1991`
+- [Asetus Euroopan turvallisuusja yhteistyökonferenssin kansainvälisen sihteeristön jäsenten palvelussuhteista](1651.md) `1651/1991`
+- [Kauppa\- ja teollisuusministeriön päätös alueelliseen kuljetustukeen oikeuttavasta vähimmästä kuljetusmaksusta](1652.md) `1652/1991`
+- [Kauppa\- ja teollisuusministeriön päätös kuljetusten alueellisesta tukemisesta annetun lain 12 §:n 1 momentissa tarkoitetun laivakuljetuksissa maksettavan kuljetustuen määrästä](1653.md) `1653/1991`
+- [Patentti\- ja rekisterihallituksen päätös muutoksista tavaramerkkien rekisteröinnissä noudatettavaan luokitukseen](1654.md) `1654/1991`
+- [Laki jätehuoltolain muuttamisesta](1655.md) `1655/1991`
+- [Laki ammatillisten oppilaitosten rahoituksesta annetun lain 19 ja 24 §:n muuttamisesta](1656.md) `1656/1991`
+- [Laki vuokra\-asuntolainojen korkotuesta annetun lain muuttamisesta](1657.md) `1657/1991`
+- [Valtiovarainministeriön päätös valtion työntekijöiden matkakustannusten korvaamisesta](1658.md) `1658/1991`
+- [Verohallituksen päätös vuonna 1992 verosta vapaaksi katsottavien matkakustannusten korvausten perusteista ja määristä](1659.md) `1659/1991`
+- [Laki hukkakauran torjunnasta annetun lain 11 §:n väliaikaisesta muuttamisesta](1660.md) `1660/1991`
+- [Laki maidon väliaikaisesta kiintiömaksusta annetun lain 27 §:n muuttamisesta](1661.md) `1661/1991`
+- [Laki maidon väliaikaisista tuotantokiintiöistä annetun lain 34 §:n muuttamisesta](1662.md) `1662/1991`
+- [Laki meijerikohtaisesta kiintiömaksusta annetun lain muuttamisesta](1663.md) `1663/1991`
+- [Laki sokerilain muuttamisesta](1664.md) `1664/1991`
+- [Laki kotimaisesta tärkkelystuotannosta annetun lain muuttamisesta](1665.md) `1665/1991`
+- [Laki kotimaisesta öljykasvituotannosta annetun lain muuttamisesta](1666.md) `1666/1991`
+- [Laki maataloustulolain eräiden säännösten soveltamisesta vuonna 1992](1667.md) `1667/1991`
+- [Laki maidon, sianlihan ja viljan vientikustannusmaksusta annetun lain muuttamisesta](1668.md) `1668/1991`
+- [Maatilahallituksen päätös pellonraivauksesta ja raivauslupa\-asioissa noudatettavasta menettelystä](1669.md) `1669/1991`
+- [Laki eräiden väliaikaisesti maahan tuotujen ajoneuvojen tullittomuudesta](1670.md) `1670/1991`
+- [Laki vuodelta 1992 toimitettavassa valtionverotuksessa sovellettavista veroasteikoista ja veroprosenteista](1671.md) `1671/1991`
+- [Laki yhtiöveron hyvityksestä annetun lain muuttamisesta](1672.md) `1672/1991`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1673.md) `1673/1991`
+- [Laki maatilatalouden tuloverolain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1674.md) `1674/1991`
+- [Laki maatalouden investointivarauslain muuttamisesta](1675.md) `1675/1991`
+- [Laki tulo\- ja varallisuusverolain 115 §:n muuttamisesta ja 167 b §:n väliaikaisesta muuttamisesta](1676.md) `1676/1991`
+- [Laki elinkeinotulon verottamisesta annetun lain 14 ja 46 §:n muuttamisesta](1677.md) `1677/1991`
+- [Laki indeksiehdon käytöstä vuosia 1992 ja 1993 koskevissa työ\-, virka\- ja toimiehtosopimuksissa](1678.md) `1678/1991`
+- [Laki lannoiteverosta annetun lain muuttamisesta](1679.md) `1679/1991`
+- [Laki fosforilannoiteverosta annetun lain kumoamisesta](1680.md) `1680/1991`
+- [Valtioneuvoston päätös ammatillisen koulutuksen järjestämisestä väliaikaisesti annetun valtioneuvoston päätöksen muuttamisesta](1681.md) `1681/1991`
+- [Laki kansainvälisestä energiaohjelmasta tehdyn sopimuksen eräiden määräysten hyväksymisestä ja sopimuksen soveltamisesta](1682.md) `1682/1991`
+- [Asetus kansainvälisestä energiaohjelmasta tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen eräiden määräysten hyväksymisestä ja sopimuksen soveltamisesta annetun lain voimaantulosta](1683.md) `1683/1991`
+- [Laki tuontipolttoaineiden velvoitevarastointilain muuttamisesta](1684.md) `1684/1991`
+- [Laki turvavarastolain muuttamisesta](1685.md) `1685/1991`
+- [Laki rikoslain 46 luvun 1 §:n muuttamisesta](1686.md) `1686/1991`
+- [Laki sijoitusrahastolain 27 §:n kumoamisesta](1687.md) `1687/1991`
+- [Laki tuloja varallisuusverolain muuttamisesta](1688.md) `1688/1991`
+- [Verohallituksen päätös ennakonpidätyksen toimittamisvelvollisuudesta](1689.md) `1689/1991`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä annetun päätöksen muuttamisesta](1690.md) `1690/1991`
+- [Verohallituksen päätös vuonna 1992 sovellettavien ennakonpidätysperusteiden voimaantulosta](1691.md) `1691/1991`
+- [Laki työttömyysturvalain muuttamisesta](1692.md) `1692/1991`
+- [Laki työttömyyskassalain 29 §:n muuttamisesta](1693.md) `1693/1991`
+- [Laki työttömyysturvalain 23 §:n muuttamisesta](1694.md) `1694/1991`
+- [Laki työttömyyskassalain 25 §:n muuttamisesta](1695.md) `1695/1991`
+- [Laki työttömyyskassalain 19 §:n väliaikaisesta muuttamisesta](1696.md) `1696/1991`
+- [Laki kansaneläkelain väliaikaisesta muuttamisesta](1697.md) `1697/1991`
+- [Laki vuodelta 1992 suoritettavasta sairausvakuutusmaksusta](1698.md) `1698/1991`
+- [Laki työnantajan lapsilisämaksun perimättä jättämisestä vuodelta 1992](1699.md) `1699/1991`
+- [Asetus kansaneläkeasetuksen 12 a ja 19 §:n muuttamisesta](1700.md) `1700/1991`
+- [Asetus sairausvakuutusasetuksen 42 §:n muuttamisesta](1701.md) `1701/1991`
+- [Asetus työnantajan sosiaaliturvamaksusta annetun asetuksen l §:n muuttamisesta](1702.md) `1702/1991`
+- [Asetus kansaneläkelain 62 §:n mukaisesta kunnan lisäosaosuuden tilityksestä vuodelta 1992](1703.md) `1703/1991`
+- [Valtioneuvoston päätös kuntien ryhmityksestä perhe\-eläkelain mukaisen lisäosan maksamista varten](1704.md) `1704/1991`
+- [Valtioneuvoston päätös kemikaaleista aiheutuvan suuronnettomuusvaaran torjunnasta](1705.md) `1705/1991`
+- [Sisäasiainministeriön päätös matkustajakortista](1706.md) `1706/1991`
+- [Laki ulkomaanliikenteen kauppa\-alusluettelosta](1707.md) `1707/1991`
+- [Laki sairausvakuutuslain muuttamisesta](1708.md) `1708/1991`
+- [Laki kuntoutusrahalain muuttamisesta](1709.md) `1709/1991`
+- [Laki merimieseläkelain 1 §:n muuttamisesta](1710.md) `1710/1991`
+- [Laki työntekijäin eläkelain 1 §:n muuttamisesta](1711.md) `1711/1991`
+- [Laki työttömyyskassalain muuttamisesta](1712.md) `1712/1991`
+- [Laki ulkomaanliikenteen lastialusten kilpailuedellytysten edistämisestä annetun lain kumoamisesta](1713.md) `1713/1991`
+- [Laki sairausvakuutuslain muuttamisesta](1714.md) `1714/1991`
+- [Laki kansanterveyslain 14 §:n 6 momentin kumoamisesta](1715.md) `1715/1991`
+- [Laki työttömyysturvalain 29 §:n muuttamisesta](1716.md) `1716/1991`
+- [Laki Suomen Hallitusmuodon 51 §:n muuttamisesta](1717.md) `1717/1991`
+- [Laki kunnallislain muuttamisesta](1718.md) `1718/1991`
+- [Laki kunnallisvaalilain 8 §:n muuttamisesta](1719.md) `1719/1991`
+- [Valtioneuvoston päätös tullitariffin ja teollisuustulliluettelon muuttamisesta](1720.md) `1720/1991`
+- [Valtioneuvoston päätös tuontimaksulakiin liitettyjen tuontimaksutaulukon ja teollisuusetuluettelon muuttamisesta](1721.md) `1721/1991`
+- [Laki alkoholilain muuttamisesta](1722.md) `1722/1991`
+- [Siviilipalveluslaki](1723.md) `1723/1991`
+- [Laki palvelukseen kutsutun asevelvollisen työ\- tai virkasuhteen jatkumisesta annetun lain muuttamisesta](1724.md) `1724/1991`
+- [Siviilipalvelusasetus](1725.md) `1725/1991`
+- [Asetus opetusministeriön hallinnonalan eräistä virkajärjestelyistä](1726.md) `1726/1991`
+- [Asetus alkoholijuomista annetun asetuksen muuttamisesta](1727.md) `1727/1991`
+- [Laki asevelvollisuuslain muuttamisesta](1728.md) `1728/1991`
+- [Asetus asevelvollisuuslain soveltamisesta annetun asetuksen muuttamisesta](1729.md) `1729/1991`
+- [Laki työntekijäin eläkelain 15 b §:n muuttamisesta](1730.md) `1730/1991`
+- [Laki eräiden työsuhteessa olevien taiteilijoiden ja toimittajien eläkelain muuttamisesta](1731.md) `1731/1991`
+- [Laki  työllisyyslain 18 §:n muuttamisesta](1732.md) `1732/1991`
+- [Laki työllisyyslain muuttamisesta ja väliaikaisesta muuttamisesta](1733.md) `1733/1991`

@@ -1,0 +1,133 @@
+# 1979 Statutes
+
+## Statutes
+
+- [Laki Korkeimmasta hallinto\-oikeudesta annetun lain muuttamisesta\.](12.md) `12/1979`
+- [Laki rakennuslain 142 §:n muuttamisesta\.](13.md) `13/1979`
+- [Laki kaivoslain 69 §:n muuttamisesta\.](14.md) `14/1979`
+- [Laki lapseksiottamisesta\.](32.md) `32/1979`
+- [Laki avioliittolain 10 §:n muuttamisesta\.](33.md) `33/1979`
+- [Laki teräaselain 1 §:n muuttamisesta\.](39.md) `39/1979`
+- [Asetus kaupunginviskaaleista annetun asetuksen 3 §:n muuttamisesta](46.md) `46/1979`
+- [Muutos  valtiontilintarkastajain johtosääntöön](63.md) `63/1979`
+- [Asetus ennakkoperintäasetuksen 30 ja 32 §:n muuttamisesta](70.md) `70/1979`
+- [Asetus työnantajan sosiaaliturvamaksusta annetun asetuksen 5 §:n muuttamisesta](72.md) `72/1979`
+- [Korkeimman hallinto\-oikeuden työjärjestys](86.md) `86/1979`
+- [Laki teatterikorkeakoulusta](87.md) `87/1979`
+- [Laki oikeudenkäymiskaaren 30 luvun sekä 31 luvun 4 ja 5 §:n muuttamisesta\.](104.md) `104/1979`
+- [Laki hallitusmuodon 54 §:n muuttamisesta\.](105.md) `105/1979`
+- [Laki korkeimmasta oikeudesta annetun lain muuttamisesta\.](106.md) `106/1979`
+- [Laki maksuttomasta oikeudenkäynnistä annetun lain 26 §:n muuttamisesta](107.md) `107/1979`
+- [Laki yleisistä teistä annetun lain muuttamisesta](110.md) `110/1979`
+- [Laki yksityisistä teistä annetun lain muuttamisesta](111.md) `111/1979`
+- [Laki eräiden asiakirjain lähettämisestä tuomioistuimille annetun lain 1 §:n muuttamisesta](112.md) `112/1979`
+- [Laki leimaverolain muuttamisesta](113.md) `113/1979`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta annetun lain muuttamisesta](114.md) `114/1979`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden pohjoismaiden välillä annetun lain 7 §:n muuttamisesta](115.md) `115/1979`
+- [Laki leimaverolain 8 ja 10 §:n muuttamisesta\.](117.md) `117/1979`
+- [Toiminimilaki](128.md) `128/1979`
+- [Kaupparekisterilaki](129.md) `129/1979`
+- [Prokuralaki](130.md) `130/1979`
+- [Laki osuuskuntalain muuttamisesta](132.md) `132/1979`
+- [Asetus korkeimmasta hallinto\-oikeudesta annetun asetuksen muuttamisesta\.](155.md) `155/1979`
+- [Laki rikoslain voimaanpanemisesta annetun asetuksen 22 ja 30 a §:n muuttamisesta\.](163.md) `163/1979`
+- [Laki leimaverolain 87 ja 92 §:n muuttamisesta\.](174.md) `174/1979`
+- [Laki haja\-asutusalueiden vähittäiskaupan rahoitustuesta annetun lain muuttamisesta\.](184.md) `184/1979`
+- [Valtioneuvoston päätös valtion työntekijäin vuosilomista annetun valtioneuvoston päätöksen muuttamisesta](199.md) `199/1979`
+- [Kaupparekisteriasetus](208.md) `208/1979`
+- [Asetus tavaramerkkiasetuksen muuttamisesta](209.md) `209/1979`
+- [Laki valtion eläkelain muuttamisesta](215.md) `215/1979`
+- [Asetus valtion virkamiesten vuosilomasta annetun asetuksen muuttamisesta](229.md) `229/1979`
+- [Laki valtion eläkelain 15 §:n muuttamisesta](232.md) `232/1979`
+- [Laki valtiopäiväjärjestyksen muuttamisesta](237.md) `237/1979`
+- [Laki tyoaikalain 19 a §:n muuttamisesta\.](241.md) `241/1979`
+- [Laki talonmiesten työaikalain 19 §:n muuttamisesta\.](242.md) `242/1979`
+- [Laki vuosilomalain 16 §:n muuttamisesta\.](243.md) `243/1979`
+- [Laki työtuomioistuimesta annetun lain muuttamisesta\.](244.md) `244/1979`
+- [Laki työriitojen sovittelusta annetun lain muuttamisesta\.](245.md) `245/1979`
+- [Laki merimieslain muuttamisesta\.](255.md) `255/1979`
+- [Asetus asevelvollisuuslain soveltamisesta annetun asetuksen 111 §:n muuttamisesta\.](257.md) `257/1979`
+- [Opintovapaalaki](273.md) `273/1979`
+- [Laki vuosilomalain 3 §:n muuttamisesta\.](276.md) `276/1979`
+- [Laki Teollisen Kehitysyhteistyön Rahasto Oy \- Fonden för Industriellt Utvecklingssamarbete Ab \-nimisestä osakeyhtiöstä](291.md) `291/1979`
+- [Laki leimaverolain 2 §:n muuttamisesta\.](293.md) `293/1979`
+- [Laki vesilain 1 luvun 19 §:n ja 10 luvun 24 §:n muuttamisesta\.](299.md) `299/1979`
+- [Asetus vesien suojelua koskevista ennakkotoimenpiteistä annetun asetuksen 3 §:n muuttamisesta\.](309.md) `309/1979`
+- [Asetus rakennusasetuksen muuttamisesta\.](310.md) `310/1979`
+- [Laki perintö\- ja lahjaverolain muuttamisesta](318.md) `318/1979`
+- [Sähkölaki](319.md) `319/1979`
+- [Laki elinkeinon hafloittanusen oikeudesta annetun lain 3 §:n muuttamisesta\.](320.md) `320/1979`
+- [Laki leimaverolain 30 c §:n muuttamisesta\.](326.md) `326/1979`
+- [Asetus jakoasetuksen muuttamisesta](329.md) `329/1979`
+- [Asetus rakennusasetuksen muuttamisesta](341.md) `341/1979`
+- [Tiekuljetussopimuslaki](345.md) `345/1979`
+- [Laki merimieseläkelain 50 §:n muuttamisesta](363.md) `363/1979`
+- [Laki valtiontalouden tarkastuksesta annetun lain 8 §:n muuttamisesta\.](365.md) `365/1979`
+- [Laki leimaverolain 77 §:n muuttamisesta](366.md) `366/1979`
+- [Laki radiovastuulain 4 §:n muuttamisesta](369.md) `369/1979`
+- [Laki rakennuskaaren 8, 9 ja 11 luvun eräiden säännösten kumoamisesta\.](370.md) `370/1979`
+- [Laki vahingonkorvauslain 4 luvun muuttamisesta](373.md) `373/1979`
+- [Laki liikennevakuutuslain 7 ja 20 §:n muuttamisesta\.](374.md) `374/1979`
+- [Laki kansanterveyslain 40 §:n kumoamisesta](376.md) `376/1979`
+- [Laki kehitysvammaisten erityishuollosta annetun lain 72 §:n kumoamisesta](386.md) `386/1979`
+- [Laki lasten päivähoidosta annetun lain 23 §:n 3 momentin ja 27 §:n kumoamisesta](389.md) `389/1979`
+- [Laki sakkorangaistuksen täytäntöönpanosta annetun lain muuttamisesta](397.md) `397/1979`
+- [Asetus sakkorangaistuksen täytäntöönpanosta annetun asetuksen muuttamisesta](398.md) `398/1979`
+- [Työsuojelurahastolaki](407.md) `407/1979`
+- [Laki tapaturmavakuutuslain 35 §:n muuttamisesta](408.md) `408/1979`
+- [Laki joukkoliikenteen tarkastusmaksusta](469.md) `469/1979`
+- [Asetus asiakirjain lähettämisestä annetun asetuksen 8 §:n muuttamisesta](478.md) `478/1979`
+- [Asetus työneuvoston käsiteltävistä asioista](485.md) `485/1979`
+- [Asetus joukkoliikenteen tarkastusmaksusta](498.md) `498/1979`
+- [Laki leimaverolain 30 c §:n muuttamisesta](522.md) `522/1979`
+- [Laki ennakkoperintälain 63 §:n muuttamisesta](555.md) `555/1979`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain 18 §:n muuttamisesta](556.md) `556/1979`
+- [Laki leimaverolain 10 §:n muuttamisesta\.](558.md) `558/1979`
+- [Laki koiraverosta](590.md) `590/1979`
+- [Laki ortodoksisesta kirkkokunnasta annetun lain muuttamisesta](591.md) `591/1979`
+- [Laki ennakkoperintälain muuttamisesta\.](610.md) `610/1979`
+- [Asetus saamelaisalueen ammatillisesta koulutuskeskuksesta annetun asetuksen 13 §:n muuttamisesta](622.md) `622/1979`
+- [Asetus kansaneläkeasetuksen muuttamisesta](639.md) `639/1979`
+- [Asetus perhe\-eläkeasetuksen muuttamisesta](640.md) `640/1979`
+- [Eläkkeensaajien asumistukiasetus](642.md) `642/1979`
+- [Asetus rintamasotilaseläkeasetuksen muuttamisesta](643.md) `643/1979`
+- [Laki oikeudesta hankkia maa\- ja metsätalousmaata annetun lain 5 ja 8 §:n muuttamisesta](673.md) `673/1979`
+- [Laki kansanterveyslain muuttamisesta](675.md) `675/1979`
+- [Asetus palkkaturva\-asetuksen 9 §:n muuttamisesta](724.md) `724/1979`
+- [Asetus eläinsuojeluasetuksen 2 §:n muuttamisesta](729.md) `729/1979`
+- [Asetus kehitysvammaisten erityishuollosta annetun asetuksen muuttamisesta](730.md) `730/1979`
+- [Asetus ortodoksisesta kirkkokunnasta annetun asetuksen muuttamisesta](736.md) `736/1979`
+- [Asetus työneuvoston käsiteltävistä asioista annetun asetuksen 2 §:n muuttamisesta](776.md) `776/1979`
+- [Asetus raha\-automaattiasetuksen 2 §:n muuttamisesta](817.md) `817/1979`
+- [Asetus kiinnitysrekisteristä annetun asetuksen muuttamisesta](828.md) `828/1979`
+- [Asetus kiinteistön rasitustodistuksista annetun asetuksen 5 §:n muuttamisesta](829.md) `829/1979`
+- [Laki pellon käytön rajoittamisesta annetun lain 5 §:n muuttamisesta](840.md) `840/1979`
+- [Opintovapaa \-asetus](864.md) `864/1979`
+- [Laki valtion eläkelain muuttamisesta](902.md) `902/1979`
+- [Asetus jakoasetuksen muuttamisesta](911.md) `911/1979`
+- [Asetus ortodoksisesta kirkkokunnasta annetun asetuksen 8 ja 184 §:n muuttamisesta](921.md) `921/1979`
+- [Sähköasetus\.](925.md) `925/1979`
+- [Merimiesten palkkaturvalaki](927.md) `927/1979`
+- [Asetus liikennevakuutusasetuksen 4 §:n muuttamisesta\.](929.md) `929/1979`
+- [Asetus vankeusrangaistuksen täytäntöönpanosta annetun asetuksen muuttamisesta\.](931.md) `931/1979`
+- [Laki kunnallisen virkaehtosopimuslain muuttamisesta\.](939.md) `939/1979`
+- [Laki kunnallisista työehtosopimuksista annetun lain muuttamisesta\.](940.md) `940/1979`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain muuttamisesta\.](941.md) `941/1979`
+- [Laki valtion perhe\-eläkelain voimaanpanolain muuttamisesta\.](959.md) `959/1979`
+- [Laki valtion eläkelain 9 a §:n muuttamisesta\.](962.md) `962/1979`
+- [Luettelo ennakkoveroäyrien hinnoista vuonna 1980](971.md) `971/1979`
+- [Laki maatilatalouden tuloverolain muuttamisesta\.](975.md) `975/1979`
+- [Laki investointivarauslain muuttamisesta\.](978.md) `978/1979`
+- [Laki verotuslain muuttamisesta\.](980.md) `980/1979`
+- [Liikuntalaki](984.md) `984/1979`
+- [Laki eläkkeensaajien asumistukilain 13 §:n muuttaimsesta\.](1012.md) `1012/1979`
+- [Laki luopumiseläkelain muuttamisesta\.](1032.md) `1032/1979`
+- [Asetus ennakkoperintäasetuksen muuttamisesta\.](1055.md) `1055/1979`
+- [Vakuutusyhtiölaki\.](1062.md) `1062/1979`
+- [Vakuutusyhtiöasetus\.](1064.md) `1064/1979`
+- [Laki Sibelius\-Akatemiasta\.](1068.md) `1068/1979`
+- [Laki oikeudenkäymiskaaren 25 luvun 12 §:n ja 26 luvun 9 §:n muuttamisesta\.](1072.md) `1072/1979`
+- [Laki markkinatuomioistuimesta annetun lain 16 §:n muuttamisesta\.](1073.md) `1073/1979`
+- [Laki vesilain 21 luvun 6 §:n muuttamisesta](1074.md) `1074/1979`
+- [Kaupanvahvistaja\-asetus\.](1080.md) `1080/1979`
+- [Liikunta\-asetus\.](1085.md) `1085/1979`

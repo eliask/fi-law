@@ -1,0 +1,54 @@
+# 1965 Statutes
+
+## Statutes
+
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain muuttamisesta](2.md) `2/1965`
+- [Perintökaari\.](40.md) `40/1965`
+- [Laki perintökaaren voimaanpanosta](41.md) `41/1965`
+- [Laki avioliittolain muuttamisesta](42.md) `42/1965`
+- [Laki ottolapsista annetun lain muuttamisesta\.](44.md) `44/1965`
+- [Laki oikeudenkäymiskaaren 10 luvun muuttamisesta\.](45.md) `45/1965`
+- [Laki konkurssisäännön muuttamisesta\.](47.md) `47/1965`
+- [Laki korkeimmasta oikeudesta annetun lain muuttamisesta\.](54.md) `54/1965`
+- [Laki oikeudenkäymiskaaren 30 luvun muuttamisesta\.](55.md) `55/1965`
+- [Laki tapaturmavakuutuslain muuttamisesta\.](58.md) `58/1965`
+- [Laki leimaverolain muuttamisesta\.](60.md) `60/1965`
+- [Laki Suomen aluevesien rajoista annetun lain muuttamisesta](144.md) `144/1965`
+- [Laki eräiden vedenalaisten johtojen suojelemisesta](145.md) `145/1965`
+- [Mannermaajalustalaki](149.md) `149/1965`
+- [Laki valtiontalouden tarkastuksesta annetun lain muuttamisesta\.](200.md) `200/1965`
+- [Laki mittayksiköistä ja mittaamisvälineiden vakaamisesta](219.md) `219/1965`
+- [Laki kauppakaaren 8 luvun kumoamisesta\.](220.md) `220/1965`
+- [Laki konkurssisäännön muuttamisesta\.](246.md) `246/1965`
+- [Laki eräiden asiakirjain lähettämisestä tuomioistuimille](248.md) `248/1965`
+- [Laki leimaverolain muuttamisesta\.](249.md) `249/1965`
+- [Laki verotuslain muuttamisesta](260.md) `260/1965`
+- [Laki elokuvien tarkastuksesta](299.md) `299/1965`
+- [Laki elokuvien tarkastuksen toimittamisesta](300.md) `300/1965`
+- [Laki rakennuslain muuttamisesta](301.md) `301/1965`
+- [Laki rakennuslain muuttamisesta](330.md) `330/1965`
+- [Laki eräistä toiminnan järjestämisen perusteista Saimaan kanavan vuokra\-alueilla annetun lain muuttamisesta\.](331.md) `331/1965`
+- [Asetus rakennusasetuksen muuttamisesta](334.md) `334/1965`
+- [Asetus kansaneläkeasetuksen muuttamisesta](357.md) `357/1965`
+- [Laki metsäkiinnityslain muuttamisesta](421.md) `421/1965`
+- [Laki lainhuudatuksesta ja kiinteistönsaannon moittimisajasta annetun lain muuttamisesta\.](422.md) `422/1965`
+- [Laki leimaverolain muuttamisesta\.](424.md) `424/1965`
+- [Valtioneuvoston päätös valtionavustuksia koskeviksi yleismääräyksiksi\.](490.md) `490/1965`
+- [Kaivoslaki](503.md) `503/1965`
+- [Laki rikoslain voimaanpanemisesta annetun asetuksen 22 §:n muuttamisesta\.](554.md) `554/1965`
+- [Asetus liikennevakuutusasetuksen muuttamisesta](590.md) `590/1965`
+- [Laki eräiden kruununluontoisten tilojen ja tilanosien järjestelystä](598.md) `598/1965`
+- [Maatalousministeriön päätös kotimaisen rukiin ja vehnän jauhatusvelvollisuuden täyttämisestä pääasiallisesti kauppajauhatusta harjoittavissa myllyissä\.](616.md) `616/1965`
+- [Laki sotilasvammalain muuttamisesta](622.md) `622/1965`
+- [Asetus sotilasvalan kaavasta](651.md) `651/1965`
+- [Asetus eräiden asiakirjain lähettämisestä tuomioistuimille](655.md) `655/1965`
+- [Kaivosasetus](663.md) `663/1965`
+- [Laki rajakuntien tilusjärjestelylain muuttamisesta\.](667.md) `667/1965`
+- [Laki kansaneläkelain muuttamisesta](705.md) `705/1965`
+- [Laki työntekijäin eläkelain muuttamisesta](707.md) `707/1965`
+- [Asetus työntekijäin eläkeasetuksen muuttamisesta](709.md) `709/1965`
+- [Asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkeasetuksen muuttamisesta](710.md) `710/1965`
+- [Laki työaikalain muuttamisesta](713.md) `713/1965`
+- [Laki leimaverolain muuttamisesta](736.md) `736/1965`
+- [Laki Suomen Pankin ohjesäännön muuttamisesta\.](744.md) `744/1965`
+- [Laki apteekkimaksusta annetun lain muuttamisesta\.](758.md) `758/1965`

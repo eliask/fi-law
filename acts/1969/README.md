@@ -1,0 +1,77 @@
+# 1969 Statutes
+
+## Statutes
+
+- [Laki nuorista rikoksentekijöistä annetun lain 6 §:n 2 ja 3 momentin kumoamisesta](3.md) `3/1969`
+- [Laki valtiopäiväjärjestyksen muuttamisesta](4.md) `4/1969`
+- [Laki oikeudenkäymiskaaren muuttamisesta\.](5.md) `5/1969`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain muuttamisesta\.](9.md) `9/1969`
+- [Puoluelaki](10.md) `10/1969`
+- [Laki rikoslain voimaanpanemisesta annetun asetuksen 43 §:n kumoamisesta\.](29.md) `29/1969`
+- [Laki sakkorangaistuksen sekä eräiden muiden rikosoikeudellisten seuraamusten ja valtiolle maksettaviiksi tuomittujen korvausten täytäntöönpanosta ulosottotoimin annetun lain muuttamisesta](31.md) `31/1969`
+- [Laki asevelvollisuuslain muuttamisesta](32.md) `32/1969`
+- [Perhe\-eläkelaki](38.md) `38/1969`
+- [Laki evankelis\-luterilaisen kirkon eläkelain muuttamisesta](47.md) `47/1969`
+- [Veneliikenneasetus](152.md) `152/1969`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain muuttamisesta](193.md) `193/1969`
+- [Laki merimieseläkelain muuttamisesta](194.md) `194/1969`
+- [Laki kalastuslain muuttamisesta](196.md) `196/1969`
+- [Laki pellon käytön rajoittamisesta](216.md) `216/1969`
+- [Asetus valtion virka\-ansiomerkistä annetun asetuksen muuttamisesta](229.md) `229/1969`
+- [Laki ennakkoperintälain muuttamisesta](282.md) `282/1969`
+- [Laki työantajan sosiaaliturvamaksusta annetun lain muuttamisesta](283.md) `283/1969`
+- [Asetus sakon ja sen muuntorangaistuksen sekä eräiden muiden rikosoikeudellisten seuraamusten ja valtiolle maksettaviksi tuomittujen korvausten täytäntöönpanosta](321.md) `321/1969`
+- [Laki oikeudenkäymiskaaren muuttamisesta\.](323.md) `323/1969`
+- [Laki ottolapsista annetun lain 6 §:n kumoamisesta\.](325.md) `325/1969`
+- [Torjunta\-ainelaki](327.md) `327/1969`
+- [Laki valtiopäiväjärjestyksen muuttamisesta\.](341.md) `341/1969`
+- [Asetus kansaneläkeasetuksen muuttamisesta](369.md) `369/1969`
+- [Laki eräistä valtion varoista suoritettavista eläkkeistä](382.md) `382/1969`
+- [Laki valtion eläkelain muuttamisesta](383.md) `383/1969`
+- [Laki kansanedustajain vaaleista](391.md) `391/1969`
+- [Laki vähittäiskaupan liikeajasta](435.md) `435/1969`
+- [Asetus kioski\- ja siihen verrattavasta kaupasta sekä automaattikaupasta](436.md) `436/1969`
+- [Laki valtion perhe\-eläkelain muuttamisesta](440.md) `440/1969`
+- [Laki tapaturmavakuutuslain muuttamisesta\.](442.md) `442/1969`
+- [Laki lapsen hoitotuesta](444.md) `444/1969`
+- [Laki kansaneläkelain muuttamisesta](448.md) `448/1969`
+- [Perhe\-eläkeasetus](449.md) `449/1969`
+- [Laki sairausvakuutuslain muuttamisesta](464.md) `464/1969`
+- [Maatalousyrittäjien eläkelaki](467.md) `467/1969`
+- [Yrittäjien eläkelaki](468.md) `468/1969`
+- [Laki työntekijäin eläkelain muuttamisesta](469.md) `469/1969`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamista](470.md) `470/1969`
+- [Laki valtion muuttamisesta](471.md) `471/1969`
+- [Laki oikeudenkäymiskaaren muuttamisesta\.](494.md) `494/1969`
+- [Laki ortodoksisesta kirkkokunnasta](521.md) `521/1969`
+- [Laki vientitakuulain muuttamisesta](532.md) `532/1969`
+- [Laki velkakirjalain muuttamisesta](550.md) `550/1969`
+- [Asetus asevelvollisuuslain soveltamisesta annetun asetuksen muuttamisesta](597.md) `597/1969`
+- [Asetus uskonnonvapauslain täytäntöönpanosta annetun asetuksen muuttamisesta](614.md) `614/1969`
+- [Laki rakennuslain muuttamisesta](626.md) `626/1969`
+- [Asetus rakennusasetuksen muuttamisesta](628.md) `628/1969`
+- [Asetus lapsen hoitotuesta](632.md) `632/1969`
+- [Asetus kansaneläkeasetuksen muuttamisesta](633.md) `633/1969`
+- [Asetus patenttiasiamiehistä](636.md) `636/1969`
+- [Maatalousyrittäjien eläkeasetus](667.md) `667/1969`
+- [Yrittäjien eläkeasetus](668.md) `668/1969`
+- [Asetus työntekijäin eläkeasetuksen muuttamisesta](669.md) `669/1969`
+- [Asetus liikennevakuutusasetuksen muuttamisesta](680.md) `680/1969`
+- [Laki valtiopäiväjärjestyksen muuttamisesta](685.md) `685/1969`
+- [Laki talousneuvostosta annetun lain muuttamisesta](712.md) `712/1969`
+- [Laki leimaverolain muuttamisesta\.](715.md) `715/1969`
+- [Laki verotuslain muuttamisesta](740.md) `740/1969`
+- [Laki perintö ja lahjaverolain muuttamisesta](742.md) `742/1969`
+- [Laki moottoriajoneuvoverosta annetun lain muuttamisesta](747.md) `747/1969`
+- [Asetus siitä, mitä ulosottolakia käytettäissä eräissä tapauksissa on noudatettava, annetun asetuksen muuttamisesta\.](755.md) `755/1969`
+- [Laki uskonnonvapauslain muuttamisesta](767.md) `767/1969`
+- [Laki Suomen aluevesien rajoista annetun lain muuttamisesta](781.md) `781/1969`
+- [Asetus talousneuvostosta annetun asetuksen muuttamisesta](791.md) `791/1969`
+- [Laki sotilasvammalain muuttamisesta](809.md) `809/1969`
+- [Laki sairausvakuutuslain muuttamisesta\.](811.md) `811/1969`
+- [Laki tapaturmavakuutuslain muuttamisesta](812.md) `812/1969`
+- [Tavara\-arpajaisasetus](824.md) `824/1969`
+- [Asetus taiteilijaprofessorin viroista ja valtion taiteilija\-apurahoista\.](845.md) `845/1969`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](889.md) `889/1969`
+- [Laki leimaverolain muuttamisesta](890.md) `890/1969`
+- [Laki leimaverolain muuttamisesta\.](895.md) `895/1969`

@@ -1,0 +1,1381 @@
+# 1996 Statutes
+
+## Statutes
+
+- [Asetus ulkomaalaisasetuksen 23 §:n muuttamisesta](1.md) `1/1996`
+- [Asetus ajokorttiasetuksen muuttamisesta](2.md) `2/1996`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen 94 ja 179 §:n muuttamisesta](3.md) `3/1996`
+- [Maa\- ja metsätalousministeriön päätös nurmikasvien siementuotannon kansallisen tuen suuruudesta ja tukeen oikeuttavista lajikkeista](4.md) `4/1996`
+- [Verohallituksen päätös liikkeen\- ja ammatinharjoittajan työmatkasta aiheutuneen elantokustannusten lisäyksen vähentämisestä vuodelta 1996 toimitettavassa verotuksessa](5.md) `5/1996`
+- [Laki suuronnettomuuksien tutkinnasta annetun lain muuttamisesta annetun lain muuttamisesta](6.md) `6/1996`
+- [Laki valtion rataverkosta, radanpidosta ja rataverkon käytöstä annetun lain 15 §:n muuttamisesta](7.md) `7/1996`
+- [Asetus sähköuunien energiankulutuksen osoittamista merkinnöin koskevan Euroopan yhteisöjen neuvoston direktiivin täytäntöönpanosta](8.md) `8/1996`
+- [Asetus kodinkoneiden tuottamasta ilmassa kantautuvasta melusta annetun Euroopan yhteisöjen neuvoston direktiivin täytäntöönpanosta](9.md) `9/1996`
+- [Maastoliikenneasetus](10.md) `10/1996`
+- [Asetus ajoneuvoveroasetuksen 1 §:n muuttamisesta](11.md) `11/1996`
+- [Valtiovarainministeriön päätös varsinaisen ajoneuvoveron kannosta, maksupaikoista ja suorittamisesta](12.md) `12/1996`
+- [Valtiovarainministeriön päätös verohallinnon maksullisista suoritteista annetun valtiovarainministeriön päätöksen muuttamisesta](13.md) `13/1996`
+- [Verohallituksen päätös verovuoden 1996 ennakon alarajasta ja kantoeristä](14.md) `14/1996`
+- [Asetus raha\-arpa\- ja veikkauspelien ylijäämän käyttämisestä annetun asetuksen 2 §:n väliaikaisesta muuttamisesta](15.md) `15/1996`
+- [Asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen väliaikaisesta muuttamisesta](16.md) `16/1996`
+- [Asetus hevostalousneuvottelukunnasta](17.md) `17/1996`
+- [Asetus kasvinjalostajanoikeudesta annetussa laissa tarkoitetuista kasvisuvuista ja \-lajeista annetun asetuksen liitteen muuttamisesta](18.md) `18/1996`
+- [Asetus kaupparekisteriasetuksen muuttamisesta](19.md) `19/1996`
+- [Puolustusministeriön ilmoitus eräistä päätöksistä](20.md) `20/1996`
+- [Sosiaali\- ja terveysministeriön päätös geenitekniikalla muunnettujen mikro\-organismien luokituksesta ja käytöstä suljetussa tilassa](21.md) `21/1996`
+- [Sosiaali\- ja terveysministeriön päätös geenitekniikalla muunnettujen organismien tutkimus\- ja kehittämiskoetta sekä tuotteen markkinoille luovuttamista koskevista ilmoituksista](22.md) `22/1996`
+- [Valtioneuvoston päätös kuuden poliisipiirin uudelleen järjestämisestä](23.md) `23/1996`
+- [Liikenneministeriön päätös sairaankuljetuksen taksoista](24.md) `24/1996`
+- [Liikenneministeriön päätös henkilövuokra\-autojen reittitaksoista](25.md) `25/1996`
+- [Liikenneministeriön päätös henkilövuokra\-autojen kuljetusmaksuista](26.md) `26/1996`
+- [Sosiaali\- ja terveysministeriön päätös yliopistollista sairaalaa ylläpitävien kuntayhtymien erityiskorvauksen perusteista vuonna 1996](27.md) `27/1996`
+- [Suomen Pankin ilmoitus voimassa olevasta Suomen Pankin peruskorosta](28.md) `28/1996`
+- [Asetus Venäjän federaation kanssa tehdyn Suomen tasavallalla entiseltä Neuvostoliitolta olevien velkasaatavien osittaista hoitamista koskevan sopimuksen voimaansaattanitsesta](29.md) `29/1996`
+- [Oikeusministeriön päätös Suomesta Euroopan parlamenttiin valittavien edustajien vaaleissa käytettävien eräiden lomakkeiden kaavoista](30.md) `30/1996`
+- [Maa\- ja metsätalousministeriön päätös vuodelta 1995 maksettavan pinta\-alalisän jakoyksikön suuruudesta](31.md) `31/1996`
+- [Maa\- ja metsätalousministeriön päätös kananmunatuotannolle maksettavan tuotantotuen täytäntöönpanosta vuodelta 1995](32.md) `32/1996`
+- [Valtioneuvoston päätös opintolainan koron maksamisesta valtion varoista työttömyyden perusteella](33.md) `33/1996`
+- [Liikenneministeriön päätös Telehallintokeskuksen maksuista annetun liikenneministeriön päätöksen 17 §:n muuttamisesta](34.md) `34/1996`
+- [Ympäristöministeriön päätös Suomen ympäristökeskuksen maksullisista suoritteista annetun ympäristöministeriön päätöksen muuttamisesta](35.md) `35/1996`
+- [Sosiaali\- ja terveysministeriön päätös sairausvakuutuslain 5 a §:ssä tarkoitettujen eräiden reseptittä myytävien lääkkeiden korvaamisesta](36.md) `36/1996`
+- [Maa\- ja metsätalousministeriön päätös siirtymäkauden tuen maksamisesta kalanviljelyelinkeinolle annetun maa\- ja metsätalousministeriön päätöksen 5 §:n muuttamisesta](37.md) `37/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](38.md) `38/1996`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös kananmunien salmonellavaatimuksista Euroopan yhteisön sisämarkkinoilla](39.md) `39/1996`
+- [Verohallituksen päätös perintö\- ja lahjaverotusta varten annettavista tiedoista](40.md) `40/1996`
+- [Verohallituksen päätös veroilmoituksesta ja asuntoyhteisön ilmoituksesta annetun verohallituksen päätöksen 11 §:n muuttamisesta](41.md) `41/1996`
+- [Laki vankeinhoitolaitoksen työtoiminnassa tuotettujen suoritteiden hinnoittelun perusteista annetun lain kumoamisesta](42.md) `42/1996`
+- [Asetus vuonna 1996 kertyvien sosiaaliturvamaksujen jakautumasta](43.md) `43/1996`
+- [Valtioneuvoston päätös oikeudesta hankkia maa\- ja metsätalousmaata annetun lain alueellisesta soveltamisesta](44.md) `44/1996`
+- [Valtioneuvoston päätös energiatuen myöntämisen yleisistä ehdoista](45.md) `45/1996`
+- [Valtioneuvoston päätös kehitysalueesta, sen tukialueista ja rakennemuutosalueesta annetun valtioneuvoston päätöksen 4 §:n muuttamisesta](46.md) `46/1996`
+- [Sisäasiainministeriön päätös kehitysalueesta, sen tukialueista ja rakennemuutosalueesta annetun valtioneuvoston päätöksen 4 §:n muuttamisesta annetun valtioneuvoston päätöksen voimaantulosta](47.md) `47/1996`
+- [Maa\- ja metsätalousministeriön päätös metsämarjojen ja \-sienten poimintatuen suuruudesta ja jaosta tuotteittain](48.md) `48/1996`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavasta lihasta ja lihatuotteista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](49.md) `49/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](50.md) `50/1996`
+- [Laki eräiden elinkeinoalojen valtiontakauksista annetun lain 1 §:n muuttamisesta](51.md) `51/1996`
+- [Asetus patenttiasiamiehistä annetun asetuksen 2 §:n muuttamisesta](52.md) `52/1996`
+- [Valtioneuvoston päätös maatiloille myönnettävästä investointituesta](53.md) `53/1996`
+- [Valtioneuvoston päätös maatiloille myönnettävästä investointituesta annetun valtioneuvoston päätöksen muuttamisesta](54.md) `54/1996`
+- [Valtioneuvoston päätös maatiloille myönnettävästä investointituesta annetun valtioneuvoston päätöksen muuttamisesta](55.md) `55/1996`
+- [Valtioneuvoston päätös nuorille viljelijöille myönnettävästä käynnistystuesta annetun valtioneuvoston päätöksen 29 §:n muuttamisesta](56.md) `56/1996`
+- [Valtioneuvoston päätös eräiden maatilatalouden rakenteiden parantamiseksi myönnettävien lainojen hoitamisesta](57.md) `57/1996`
+- [Maa\- ja metsätalousministeriön päätös maatiloille myönnettävästä investointituesta annetun valtioneuvoston päätöksen voimaantulosta](58.md) `58/1996`
+- [Laki kirkkolain muuttamisesta](59.md) `59/1996`
+- [Asetus eräiden ilmailua ja onnettomuuksien tutkintaa koskevien lakien voimaantulosta](60.md) `60/1996`
+- [Asetus alusturvallisuutta ja sen valvontaa koskevien lakien voimaantulosta](61.md) `61/1996`
+- [Asetus kauppa\-alusten merikelpoisuuden silmälläpidosta annetun asetuksen kumoamisesta](62.md) `62/1996`
+- [Asetus merenkulkuhallinnosta annetun asetuksen 24 §:n kumoamisesta](63.md) `63/1996`
+- [Asetus helikopteritoiminnasta aluksella](64.md) `64/1996`
+- [Asetus matkustajien luetteloinnista matkustaja\-aluksella](65.md) `65/1996`
+- [Asetus laivanisännän turvallisuusjohtamisjärjestelmästä ja aluksen turvalliseen käyttöön liittyvistä johtamisjärjestelyistä](66.md) `66/1996`
+- [Liikenneministeriön päätös henkilövuokra\-autojen kuljetusmaksuista annetun liikenneministeriön päätöksen muuttamisesta](67.md) `67/1996`
+- [Laki maatalousyrittäjien luopumistuesta annetun lain 2 ja 4 §:n muuttamisesta](68.md) `68/1996`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannuista muutoksista](69.md) `69/1996`
+- [Valtioneuvoston päätös apteekkimaksusta annetun lain 2 §:n 1 momentissa mainittujen liikevaihtoryhmien sekä liikevaihdon alarajojen kohdilla olevien apteekkimaksun markkamäärien tarkistamisesta](70.md) `70/1996`
+- [Valtioneuvoston päätös asuinrakennusten ja asuntojen korjaustoimintaan myönnettävien avustusten jakoperusteista](71.md) `71/1996`
+- [Valtiovarainministeriön päätös eräiden verojen maksupaikoista ja tiedonsiirtokorvauksista](72.md) `72/1996`
+- [Liikenneministeriön päätös ajokorttiasetuksen soveltamisesta annetun liikenneministeriön päätöksen muuttamisesta](73.md) `73/1996`
+- [Maa\- ja metsätalousministeriön päätös maa\- ja metsätalousministeriön tietopalvelukeskuksen suoritteista perittävistä maksuista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](74.md) `74/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](75.md) `75/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](76.md) `76/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](77.md) `77/1996`
+- [Asetus vaarallisten kemikaalien teollisesta käsittelystä ja varastoinnista puolustusvoimissa](78.md) `78/1996`
+- [Asetus onnettomuuksien tutkinnasta](79.md) `79/1996`
+- [Asetus luotsausasetuksen 3 ja 3 a §:n muuttamisesta](80.md) `80/1996`
+- [Asetus moottoriajoneuvoverosta annetun asetuksen 18 §:n muuttamisesta](81.md) `81/1996`
+- [Valtiovarainministeriön päätös eräiden ulkomailla rekisteröityjen ajoneuvojen vapauttamisesta moottoriajoneuvoverosta tai veron alentamisesta](82.md) `82/1996`
+- [Maa\- ja metsätalousministeriön päätös kotimaisten tuoreiden hedelmien ja vihannesten merkinnöistä vuonna 1996](83.md) `83/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](84.md) `84/1996`
+- [Asetus vapaaehtoisen maanpuolustustyön neuvottelukunnasta](85.md) `85/1996`
+- [Asetus oikeustieteellisistä tutkinnoista](86.md) `86/1996`
+- [Asetus taideteollisen alan yliopistollisista tutkinnoista annetun asetuksen 6 §:n muuttamisesta](87.md) `87/1996`
+- [Asetus tavaramerkkilain muuttamisesta annetun lain voimaantulosta](88.md) `88/1996`
+- [Valtioneuvoston päätös opetus\- ja kirjastotoimen perustamishankkeiden yksikköhinnoista annetun valtioneuvoston päätöksen muuttamisesta](89.md) `89/1996`
+- [Sisäasiainministeriön päätös Lohjan kunnan ja Lohjan kaupungin lakkauttamisesta ja uuden Lohja \-nimisen kunnan perustamisesta](90.md) `90/1996`
+- [Verohallituksen päätös diplomaattisten edustustojen arvonlisäveron palautushakemukseen liitettävistä tiedoista](91.md) `91/1996`
+- [Asetus lääkelaitoksesta annetun asetuksen muuttamisesta](92.md) `92/1996`
+- [Asetus metsäkeskuksista ja metsätalouden kehittämiskeskuksesta](93.md) `93/1996`
+- [Asetus maaseutuelinkeinoasetuksen muuttamisesta](94.md) `94/1996`
+- [Asetus rakennusasetuksen 1 a §:n 2 momentin kumoamisesta](95.md) `95/1996`
+- [Asetus rakennussuojeluasetuksen kumoamisesta](96.md) `96/1996`
+- [Valtioneuvoston päätös tunnustettujen puutarhatuottajien markkinointiorganisaatioiden tukemisesta](97.md) `97/1996`
+- [Asetus oikeusrekisterikeskuksesta](98.md) `98/1996`
+- [Asetus oikeusministeriöstä annetun asetuksen 4 ja 5 §:n kumoamisesta](99.md) `99/1996`
+- [Asetus tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](100.md) `100/1996`
+- [Asetus yhteistoimintasopimuksia tekevistä valtion virastoista ja laitoksista annetun asetuksen 1 §:n muuttamisesta](101.md) `101/1996`
+- [Asetus ajoneuvojen rekisteröinnistä annetun asetuksen 48 ja 53 §:n muuttamisesta](102.md) `102/1996`
+- [Asetus Euroopan patenttisopimukseen liittymistä koskevan lainsäädännön eräiden säännösten voimaantulosta](103.md) `103/1996`
+- [Asetus patenttiasetuksen muuttamisesta](104.md) `104/1996`
+- [Asetus sosiaali\- ja terveysministeriöstä annetun asetuksen muuttamisesta](105.md) `105/1996`
+- [Laki työsopimuslain 38 ja 42 §:n muuttamisesta](106.md) `106/1996`
+- [Laki merimieslain 41 ja 45 §:n muuttamisesta](107.md) `107/1996`
+- [Valtioneuvoston päätös turvavarastointiohjelmasta vuonna 1996](108.md) `108/1996`
+- [Valtioneuvoston päätös vuoden 1995 satovahinkojen viljelmäkohtaisista korvausosuuksista ja yleiskorvauksista](109.md) `109/1996`
+- [Puolustusministeriön päätös puolustustarvikkeiden maastaviennissä ja kauttakuljetuksessa Euroopan unionin alueella vaadittavasta ilmoituksesta](110.md) `110/1996`
+- [Valtiovarainministeriön päätös Helene Schjerfbeckin ja kuvataiteen juhlarahasta](111.md) `111/1996`
+- [Sosiaali\- ja terveysministeriön päätös geenitekniikkalain mukaisten suoritteiden maksullisuudesta](112.md) `112/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](113.md) `113/1996`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](114.md) `114/1996`
+- [Asetus valtioneuvoston ohjesäännön muuttamisesta](115.md) `115/1996`
+- [Asetus Suomen ulkomaanedustustojen sijainnista annetun asetuksen muuttamisesta](116.md) `116/1996`
+- [Asetus eurooppapatenttien myöntämisestä tehdyn yleissopimuksen \(Euroopan patenttisopimus\) voimaansaattamisesta](117.md) `117/1996`
+- [Ilmailuasetus](118.md) `118/1996`
+- [Asetus hyödyllisyysmallioikeudesta annetun asetuksen muuttamisesta](119.md) `119/1996`
+- [Asetus panostaja\-asetuksen 1 §:n muuttamisesta](120.md) `120/1996`
+- [Valtioneuvoston päätös räjäytys\- ja louhintatyön järjestysohjeista annetun valtioneuvoston päätöksen muuttamisesta](121.md) `121/1996`
+- [Oikeusministeriön päätös oikeusministeriön ja eräiden hallinnonalalla toimivien viranomaisten suoritteista perittävistä maksuista annetun oikeusministeriön päätöksen muuttamisesta](122.md) `122/1996`
+- [Kauppa\- ja teollisuusministeriön päätös patentti\- ja rekisterihallituksen maksullisista suoritteista annetun kauppa\- ja teollisuusminis\- teriön päätöksen liitteenä olevan maksutaulukon muuttamisesta](123.md) `123/1996`
+- [Liikenneministeriön ilmoitus eräästä päätöksestä](124.md) `124/1996`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä annetun päätöksen muuttamisesta](125.md) `125/1996`
+- [Asetus ylioppilastutkintoasetuksen muuttamisesta](126.md) `126/1996`
+- [Asetus vieraskielisistä yksityisistä kouluista annetun asetuksen 12 a §:n muuttamisesta](127.md) `127/1996`
+- [Asetus Suomen alueen valvonnasta ja sen alueellisen koskemattomuuden turvaamisesta annetun asetuksen muuttamisesta](128.md) `128/1996`
+- [Sosiaali\- ja terveysministeriön päätös toimeentulotukitehtävien siirtoa koskevaan kokeiluun 1995\-1996 osallistuvista kunnista annetun päätöksen muuttamisesta](129.md) `129/1996`
+- [Opetusministeriön päätös opetusministeriön suoritteiden maksullisuudesta](130.md) `130/1996`
+- [Asetus elintarvikkeiden vieraista aineista annetun asetuksen kumoamisesta](131.md) `131/1996`
+- [Kauppa\- ja teollisuusministeriön päätös eräiden torjunta\-aineiden enimmäismääristä kasvikunnan tuotteissa sekä munissa ja munavalmisteissa ja eräiden vieraita aineita koskevien määräysten teknisestä sopeuttamisesta](132.md) `132/1996`
+- [Kauppa\- ja teollisuusministeriön päätös elohopean, histamiinin ja eräiden merellisten biotoksiinien enimmäismääristä kalassa ja eräissä kalastustuotteissa koskevien määräysten teknisestä sopeuttamisesta](133.md) `133/1996`
+- [Kauppa\- ja teollisuusministeriön päätös eräiden tavallisimpien kontaminanttien enimmäismääristä elintarvikkeissa](134.md) `134/1996`
+- [Kauppa\- ja teollisuusministeriön ohjeet eräiden biologisten epäpuhtauksien enimmäismääristä elintarvikkeissa](135.md) `135/1996`
+- [Asetus lihavalmisteasetuksen kumoamisesta](136.md) `136/1996`
+- [Asetus liha\-asetuksen kumoamisesta](137.md) `137/1996`
+- [Kauppa\- ja teollisuusministeriön päätös lihasta ja lihatuotteista](138.md) `138/1996`
+- [Kauppa\- ja teollisuusministeriön päätös makkaran koostumuksesta ja pakkausmerkinnöistä](139.md) `139/1996`
+- [Asetus vuoden 1995 kansainväliseen viljasopimukseen sisältyvän elintarvikeapua koskevan vuoden 1995 yleissopimuksen voimaansaattamisesta](140.md) `140/1996`
+- [Maa\- ja metsätalousministeriön päätös eräistä maa\- ja puutarhatalouden kansallisen tuen hakuajoista sekä eläinmäärien ilmoittamisesta vuonna 1996](141.md) `141/1996`
+- [Asetus rikosrekisteriasetuksen 2 ja 16 §:n muuttamisesta](142.md) `142/1996`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta](143.md) `143/1996`
+- [Asetus ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta](144.md) `144/1996`
+- [Valtioneuvoston päätös avustuksista taloudellisissa vaikeuksissa oleville vuokrataloille](145.md) `145/1996`
+- [Sosiaali\- ja terveysministeriön päätös sosiaali\- ja terveydenhuollon tuotevalvontakeskuksen maksullisista suoritteista annetun sosiaali\- ja terveysministeriön päätöksen muuttamisesta](146.md) `146/1996`
+- [Laki valtion virkamieslain 30 ja 49 §:n muuttamisesta](147.md) `147/1996`
+- [Laki makeis\- ja virvoitusjuomaverosta annetun lain liitteenä olevan virvoitusjuomaverotaulukon muuttamisesta](148.md) `148/1996`
+- [Laki eräistä väliaikaisista tulleista annetun lain liitteenä olevan luettelon muuttamisesta](149.md) `149/1996`
+- [Laki Euroopan yhteisön maidon ja maitotuotteiden kiintiöjärjestelmän täytäntöönpanosta annetun lain 5 §:n muuttamisesta](150.md) `150/1996`
+- [Asetus eräistä väliaikaisista poikkeuksista Yhdistyneiden Kansakuntien turvallisuusneuvoston Jugoslavian liittotasavaltaa \(Serbia ja Montenegro\) ja eräitä Kroatian tasavallan ja Bosnian ja Herzegovinan tasavallan alueita koskeviin päätöksiin perustuvien velvoitusten täyttämisestä annetun asetuksen soveltamiseen](151.md) `151/1996`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Jugoslaviaa koskevaan päätökseen perustuvien velvoitusten täyttämisestä annetun asetuksen muuttamisesta](152.md) `152/1996`
+- [Asetus maatalouden taloudellisesta tutkimuslaitoksesta](153.md) `153/1996`
+- [Maa\- ja metsätalousministeriön päätös meijerimaidon viitemäärien siirtämisestä](154.md) `154/1996`
+- [Maa\- ja metsätalousministeriön päätös meijerimaidon viitemäärien vahvistamisesta](155.md) `155/1996`
+- [Laki poliisin hallinnosta annetun lain muuttamisesta](156.md) `156/1996`
+- [Laki nimittämisestä kihlakunnanvirastojen ja kihlakuntien erillisten virastojen eräisiin virkoihin](157.md) `157/1996`
+- [Asetus poliisin hallinnosta](158.md) `158/1996`
+- [Asetus nimittämisestä kihlakunnanvirastojen ja kihlakuntien erillisten virastojen eräisiin virkoihin](159.md) `159/1996`
+- [Asetus tekijänoikeusasetuksen 16 §:n kumoamisesta](160.md) `160/1996`
+- [Asetus metsänparannusasetuksen 22 §:n muuttamisesta](161.md) `161/1996`
+- [Asetus tilintarkastuslain 14 §:n voimaantulosta](162.md) `162/1996`
+- [Asetus eräiden sähkölain mukaisten tehtävien siirtämisestä turvatekniikan keskukselle](163.md) `163/1996`
+- [Asetus Sähkötarkastuskeskuksesta annetun asetuksen kumoamisesta](164.md) `164/1996`
+- [Maa\- ja metsätalousministeriön päätös nuorille viljelijöille myönnettävästä käynnistystuesta annetun valtioneuvoston päätöksen voimaantulosta](165.md) `165/1996`
+- [Rekisterihallintolaki](166.md) `166/1996`
+- [Laki valtiopäiväjärjestyksen väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](167.md) `167/1996`
+- [Laki väliaikaisesta poikkeuksesta edustajanpalkkiosta annettuun lakiin annetun lain 2 §:n muuttamisesta](168.md) `168/1996`
+- [Laki kansanedustajain vaaleista annetun lain 91 §:n väliaikaisesta muuttamisesta](169.md) `169/1996`
+- [Laki ylikuormamaksusta annetun lain muuttamisesta](170.md) `170/1996`
+- [Asetus ylikuormamaksusta annetun asetuksen muuttamisesta](171.md) `171/1996`
+- [Asetus torjunta\-aineasetuksen 18 §:n muuttamisesta](172.md) `172/1996`
+- [Liikenneministeriön päätös ajokorttiasetuksen soveltamisesta annetun liikenneministeriön päätöksen muuttamisesta](173.md) `173/1996`
+- [Valtiovarainministeriön päätös verohallinnon maksullisista suoritteista annetun valtiovarainministeriön päätöksen muuttamisesta](174.md) `174/1996`
+- [Laki lapseksiottamisesta annetun lain muuttamisesta](175.md) `175/1996`
+- [Laki siviili\-ilma\-aluksen kaappaukseen syyllistyneiden henkilöiden palauttamisesta eräissä tapauksissa annetun lain kumoamisesta](176.md) `176/1996`
+- [Laki avoimesta yhtiöstä ja kommandiittiyhtiöstä annetun lain 10 luvun 1 §:n muuttamisesta](177.md) `177/1996`
+- [Laki säätiölain 10 §:n muuttamisesta](178.md) `178/1996`
+- [Laki hätäkeskuksia koskevasta kokeilusta annetun lain 7 §:n kumoamisesta](179.md) `179/1996`
+- [Asetus tavaramerkkien kansainvälistä rekisteröintiä koskevaan Madridin sopimukseen liittyvän pöytäkirjan voimaansaattamisesta](180.md) `180/1996`
+- [Asetus saamelaisten koulutusasiainneuvostosta annetun asetuksen kumoamisesta](181.md) `181/1996`
+- [Maa\- ja metsätalousministeriön päätös virallisten mittaajien toimintapiireistä](182.md) `182/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](183.md) `183/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](184.md) `184/1996`
+- [Asetus puolustusvoimista annetun asetuksen muuttamisesta](185.md) `185/1996`
+- [Asetus sotilas\- ja palvelusarvoista annetun asetuksen 12 §:n muuttamisesta](186.md) `186/1996`
+- [Asetus liputuksesta Suomen lipulla annetun asetuksen muuttamisesta](187.md) `187/1996`
+- [Asetus tavaramerkkiasetuksen muuttamisesta](188.md) `188/1996`
+- [Kosmetiikka\-asetus](189.md) `189/1996`
+- [Kauppa\- ja teollisuusministeriön päätös kosmeettisista valmisteista](190.md) `190/1996`
+- [Asetus asuntotuotantoasetuksen 29 §:n mukaisten korkojen muuttamisesta](191.md) `191/1996`
+- [Asetus vuokra\-asuntojen omaksilunastamisesta annetun asetuksen 5 §:n mukaisten korkojen muuttamisesta](192.md) `192/1996`
+- [Valtioneuvoston päätös eräiden asuntolainojen ja perusparannuslainojen koroista](193.md) `193/1996`
+- [Opetusministeriön päätös opetushallituksen suoritteiden maksullisuudesta annetun päätöksen 1 §:n muuttamisesta](194.md) `194/1996`
+- [Laki kihlakunnansyyttäjästä](195.md) `195/1996`
+- [Laki rangaistusmääräysmenettelystä annetun lain 9 §:n 2 ja 3 momentin kumoamisesta](196.md) `196/1996`
+- [Laki ulosottolain muuttamisesta](197.md) `197/1996`
+- [Laki ulosottotoimesta annetun lain kumoamisesta](198.md) `198/1996`
+- [Laki osamaksukaupasta annetun lain muuttamisesta](199.md) `199/1996`
+- [Laki maksuttomasta oikeudenkäynnistä annetun lain 1 §:n muuttamisesta](200.md) `200/1996`
+- [Laki kielilain 10 §:n muuttamisesta](201.md) `201/1996`
+- [Kauppa\- ja teollisuusministeriön päätös kotitalouksien sähkökäyttöisten pyykinpesukoneiden energiamerkinnässä annettavista tiedoista](202.md) `202/1996`
+- [Kauppa\- ja teollisuusministeriön päätös kotitalouksien sähkökäyttöisten kuivausrumpujen energiamerkinnässä annettavista tiedoista](203.md) `203/1996`
+- [Laki omistusasuntolainojen valtiontakauksesta](204.md) `204/1996`
+- [Laki asunto\-osakeyhtiötalolainojen korkotuesta](205.md) `205/1996`
+- [Laki asuntosäästöpalkkiolain 5 §:n muuttamisesta](206.md) `206/1996`
+- [Laki omistusasuntolainojen korkotuesta annetun lain 3 §:n muuttamisesta](207.md) `207/1996`
+- [Laki valtion asuntorahastosta annetun lain muuttamisesta](208.md) `208/1996`
+- [Asetus asunto\-osakeyhtiötalolainojen korkotuesta](209.md) `209/1996`
+- [Valtioneuvoston päätös asunto\-osakeyhtiötalojen korkotukilainojen yleisistä ehdoista](210.md) `210/1996`
+- [Opetusministeriön päätös vihkimisoikeuden myöntämisestä Vörå Frikyrka \-nimiselle uskonnolliselle yhdyskunnalle](211.md) `211/1996`
+- [Maa\- ja metsätalousministeriön päätös vesiviljelyrekisteristä](212.md) `212/1996`
+- [Sosiaali\- ja terveysministeriön päätös eräiden eläkesäätiöiden valvontaa koskevien tehtävien siirtämisestä eläketurvakeskukselle](213.md) `213/1996`
+- [Kauppa\- ja teollisuusministeriön päätös kauppa\- ja teollisuusministeriön sekä kauppa\- ja teollisuusministeriön yrityspalvelun piiritoimistojen maksullisista suoritteista](214.md) `214/1996`
+- [Kauppa\- ja teollisuusministeriön päätös eräiden sähköalan viranomaistehtävien siirtämisestä turvatekniikan keskukselle](215.md) `215/1996`
+- [Kauppa\- ja teollisuusministeriön päätös sähkölaitteiden turvallisuudesta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](216.md) `216/1996`
+- [Kauppa\- ja teollisuusministeriön päätös sähkölaitteiden valvonnasta ja eräiltä sähkölaitteilta vaadittavasta hyväksynnästä annetun kauppa\- ja teollisuusministeriön päätöksen 16 §:n kumoamisesta](217.md) `217/1996`
+- [Kauppa\- ja teollisuusministeriön päätös sähköllä toimivien hissien sekä eräiden muiden nosto\- ja siirtolaitteiden turvallisuusvaati\- muksista annetun kauppa\- ja teollisuusministeriön päätöksen 48 §:n muuttamisesta](218.md) `218/1996`
+- [Kauppa\- ja teollisuusministeriön päätös turvatekniikan keskuksen suoritteiden maksullisuudesta ja maksuperusteista annetun kauppa\- ja teollisuusministeriön päätöksen 2 §:n muuttamisesta](219.md) `219/1996`
+- [Liikenneministeriön päätös Ratahallintokeskuksen maksuista](220.md) `220/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](221.md) `221/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](222.md) `222/1996`
+- [Valtioneuvoston päätös emolehmistä vuodelta 1995 maksettavasta kansallisesta lisäpalkkiosta](223.md) `223/1996`
+- [Valtioneuvoston päätös eräistä maa\- ja puutarhataloustuottajille vuodelta 1996 maksettavista tuista annetun valtioneuvoston päätöksen muuttamisesta](224.md) `224/1996`
+- [Valtioneuvoston päätös maa\- ja puutarhatalouden harjoittajille maksettavasta pohjoisesta tuesta annetun valtioneuvoston päätöksen muuttamisesta](225.md) `225/1996`
+- [Maa\- ja metsätalousministeriön päätös pysyvän luonnonhaitan korvaamista koskevan tuen sekä maatalouden ympäristötuen perus\- ja erityistuen hakuajoista](226.md) `226/1996`
+- [Laki tuloverolain 65 §:n muuttamisesta](227.md) `227/1996`
+- [Asetus Amerikan yhdysvaltojen kanssa tehdyn virkamiesten perheenjäsenten työskentelyä koskevan sopimuksen voimaansaattamisesta](228.md) `228/1996`
+- [Asetus valtion virkamiesasetuksen 3 §:n muuttamisesta](229.md) `229/1996`
+- [Asetus maatalousyrittäjien luopumistuesta annetun lain muuttamisesta annetun lain voimaantulosta](230.md) `230/1996`
+- [Asetus maatalousyrittäjien luopumistuesta annetun asetuksen muuttamisesta](231.md) `231/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](232.md) `232/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](233.md) `233/1996`
+- [Laki merilain muuttamisesta](234.md) `234/1996`
+- [Laki oikeudenkäymiskaaren 7 luvun 4 §:n muuttamisesta](235.md) `235/1996`
+- [Laki ulosottolain 3 luvun 2 §:n ja 7 luvun 1 §:n muuttamisesta](236.md) `236/1996`
+- [Asetus aluksen takavarikkoa koskevan lainsäädännön muuttamisesta annettujen lakien voimaantulosta](237.md) `237/1996`
+- [Valtioneuvoston päätös maataloustuotteita jalostavan teollisuuden kehittämishankkeisiin myönnettävästä tuesta](238.md) `238/1996`
+- [Valtiovarainministeriön päätös veron ja metsänhoitomaksun eräpäivistä vuodelta 1995](239.md) `239/1996`
+- [Valtiovarainministeriön päätös vuoden 1996 kiinteistöveron eräpäivistä](240.md) `240/1996`
+- [Kauppa\- ja teollisuusministeriön päätös energiatuen myöntämisen ehdoista](241.md) `241/1996`
+- [Kauppa\- ja teollisuusministeriön päätös kauppa\- ja teollisuusministeriön yrityspalvelun piiritoimistojen oikeudesta antaa energiatukea koskevia sitoumuksia](242.md) `242/1996`
+- [Sosiaali\- ja terveysministeriön päätös sosiaali\- ja terveysalan tutkimus\- ja kehittämiskeskuksen maksullisista suoritteista annetun sosiaali\- ja terveysministeriön päätöksen muuttamisesta](243.md) `243/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](244.md) `244/1996`
+- [Laki valtion vakuusrahastosta annetun lain muuttamisesta](245.md) `245/1996`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](246.md) `246/1996`
+- [Eläinsuojelulaki](247.md) `247/1996`
+- [Rekisterihallintoasetus](248.md) `248/1996`
+- [Sosiaali\- ja terveysministeriön päätös talousveden laatuvaatimuksista ja valvontatutkimuksista annetun sosiaali\- ja terveysministeriön päätöksen muuttamisesta](249.md) `249/1996`
+- [Laki Korkeimmasta hallinto\-oikeudesta annetun lain muuttamisesta](250.md) `250/1996`
+- [Asetus maaseutuelinkeinoasetuksen 16 ja 46 §:n muuttamisesta](251.md) `251/1996`
+- [Asetus terveydensuojeluasetuksen muuttamisesta](252.md) `252/1996`
+- [Valtioneuvoston päätös viljansiementuotannon kansallisesta tuesta](253.md) `253/1996`
+- [Valtioneuvoston päätös nurmikasvien siementuotannon kansallisesta tuesta](254.md) `254/1996`
+- [Valtioneuvoston päätös perunantuotannolle maksettavasta kansallisesta tuesta](255.md) `255/1996`
+- [Valtioneuvoston päätös siemenhuollon edistämisestä](256.md) `256/1996`
+- [Maa\- ja metsätalousministeriön päätös perunanviljelijälle maksettavan kansallisen tuen ehdoista](257.md) `257/1996`
+- [Asetus lohenkalastusta koskevista rajoituksista Suomen aluevesillä ja kalastusvyöhykkeellä varsinaisella Itämerellä ja Pohjanlahdella sekä Simojoessa](258.md) `258/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](259.md) `259/1996`
+- [Laki Pakistanin kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](260.md) `260/1996`
+- [Asetus Pakistanin kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](261.md) `261/1996`
+- [Asetus lohenkalastusta koskevista rajoituksista Suomen aluevesillä ja kalastusvyöhykkeellä varsinaisella Itämerellä ja Pohjanlahdella sekä Simojoessa annetun asetuksen 5 §:n muuttamisesta](262.md) `262/1996`
+- [Valtioneuvoston päätös maatalouden ympäristötuesta annetun valtioneuvoston päätöksen muuttamisesta](263.md) `263/1996`
+- [Valtioneuvoston päätös tuottajaryhmien ja niiden liittojen tunnustamisesta ja tukemisesta](264.md) `264/1996`
+- [Kauppa\- ja teollisuusministeriön päätös telakkateollisuuden kilpailuedellytysten turvaamiseen myönnettävästä valtion avustuksesta](265.md) `265/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](266.md) `266/1996`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta](267.md) `267/1996`
+- [Asetus työvoimapalveluihin liittyvistä etuuksista annetun asetuksen 5 ja 18 §:n muuttamisesta](268.md) `268/1996`
+- [Liikenneministeriön päätös linja\-autojen rakenteesta ja varusteista annetun liikenneministeriön päätöksen 1 ja 7 §:n muuttamisesta](269.md) `269/1996`
+- [Sisäasiainministeriön poliisimääräys eräistä liikkumis\- ja oleskelukielloista](270.md) `270/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](271.md) `271/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](272.md) `272/1996`
+- [Laki Argentiinan kanssa tehdyn sijoitusten edistämistä ja molemminpuolista suojaamista koskevan sopimuksen eräiden määräysten hyväksymisestä](273.md) `273/1996`
+- [Asetus Argentiinan kanssa tehdyn sijoitusten edistämistä ja molemminpuolista suojaamista koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestäannetun lain voimaantulosta](274.md) `274/1996`
+- [Laki Chilen kanssa tehdyn sijoitusten edistämistä ja molemminpuolista suojaamista koskevan sopimuksen eräiden määräysten hyväksymisestä](275.md) `275/1996`
+- [Asetus Chilen kanssa tehdyn sijoitusten edistämistä ja molemminpuolista suojaamista koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](276.md) `276/1996`
+- [Laki Korean tasavallan kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen eräiden määräysten hyväksymisestä](277.md) `277/1996`
+- [Asetus Korean tasavallan kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](278.md) `278/1996`
+- [Laki Vietnamin kanssa tehdyn sijoitusten edistämistä ja molemminpuolista suojaamista koskevan sopimuksen eräiden määräysten hyväksymisestä](279.md) `279/1996`
+- [Asetus Vietnamin kanssa tehdyn sijoitusten edistämistä ja molemminpuolista suojaamista koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](280.md) `280/1996`
+- [Laki sairausvakuutuslain 5 a §:n väliaikaisesta muuttamisesta](281.md) `281/1996`
+- [Laki lääkelain väliaikaisesta muuttamisesta](282.md) `282/1996`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 5 §:n väliaikaisesta muuttamisesta](283.md) `283/1996`
+- [Laki erikoissairaanhoitolain 56 a §:n väliaikaisesta muuttamisesta](284.md) `284/1996`
+- [Asetus erikoissairaanhoidon tasausjärjestelmän toteuttamisesta lääkekustannuksiin](285.md) `285/1996`
+- [Valtioneuvoston päätös sairausvakuutuslain 5 a §:n 1 momentissa tarkoitetuista lääkkeistä](286.md) `286/1996`
+- [Laki alkoholilain 10 §:n muuttamisesta](287.md) `287/1996`
+- [Asetus alkoholijuomista ja väkiviinasta annetun asetuksen muuttamisesta](288.md) `288/1996`
+- [Valtioneuvoston päätös käräjäoikeuksien tuomiopiireistä annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](289.md) `289/1996`
+- [Valtioneuvoston päätös nuorille viljelijöille myönnettävästä käynnistystuesta annetun valtioneuvoston päätöksen 25 §:n muuttamisesta](290.md) `290/1996`
+- [Sisäasiainministeriön päätös rajavyöhykkeestä ja rajavyöhykkeen takarajasta annetun sisäasiainministeriön päätöksen 4 §:n 2 kohdan muuttamisesta](291.md) `291/1996`
+- [Sosiaali\- ja terveysministeriön päätös yleisten uimarantojen veden laatuvaatimuksista ja valvontatutkimuksista](292.md) `292/1996`
+- [Asetus Heinolan kurssikeskuksesta annetun asetuksen muuttamisesta](293.md) `293/1996`
+- [Asetus peruskouluasetuksen muuttamisesta](294.md) `294/1996`
+- [Asetus lukioasetuksen muuttamisesta](295.md) `295/1996`
+- [Asetus luonnonsuojelualueiden hankinnasta, hallinnasta ja hoidosta](296.md) `296/1996`
+- [Valtioneuvoston päätös luonnonsuojelualueen muodostamisesta maanomistajalle aiheutuvan menetyksen korvaamisesta annetun valtioneuvoston päätöksen muuttamisesta](297.md) `297/1996`
+- [Ympäristöministeriön päätös alueellisten ympäristökeskusten tehtävistä luonnonsuojelualueiden hankinnassa](298.md) `298/1996`
+- [Ympäristöministeriön päätös alueiden liittämisestä Haapasuon ja Syysniemen luonnonsuojelualueeseen](299.md) `299/1996`
+- [Laki kiinteistöjen kauppahintarekisteristä ja kauppahintatilastosta annetun lain muuttamisesta](300.md) `300/1996`
+- [Laki eräistä henkilöstön asemaa koskevista järjestelyistä opintotukiasioiden siirryttyä kansaneläkelaitoksen hoidettaviksi](301.md) `301/1996`
+- [Asetus alueiden kehittämisestä annetun asetuksen muuttamisesta](302.md) `302/1996`
+- [Asetus ajoneuvojen käytöstä tiellä annetun asetuksen 17 §:n muuttamisesta](303.md) `303/1996`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen 37 ja 38 §:n muuttamisesta](304.md) `304/1996`
+- [Asetus lasten päivähoidosta annetun asetuksen muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](305.md) `305/1996`
+- [Asetus ilmansuojeluasetuksen muuttamisesta](306.md) `306/1996`
+- [Maa\- ja metsätalousministeriön päätös peltokasvien tukijärjestelmän soveltamisesta ja siihen liittyvästä kesannoimisesta vuonna 1996](307.md) `307/1996`
+- [Valtioneuvoston päätös kihlakuntajaosta annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](308.md) `308/1996`
+- [Valtioneuvoston päätös kahden poliisipiirin uudelleen järjestämisestä](309.md) `309/1996`
+- [Liikenneministeriön päätös lääninhallitusten kautta suunnattavasta joukkoliikennepalvelujen valtion rahoituksesta annetun liikenneministeriön päätöksen muuttamisesta](310.md) `310/1996`
+- [Maa\- ja metsätalousministeriön päätös maatalouden ympäristötuen perustuesta annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](311.md) `311/1996`
+- [Asetus merellä käytettäviin aluksiin kohdistuvaa takavarikkoa ja sitä vastaavia toimenpiteitä tarkoittavien säännösten yhtenäistämistä koskevan yleissopimuksen voimaansaattamisesta](312.md) `312/1996`
+- [Asetus Luoteis\-Venäjän alueellisen riskipääomarahaston teknisen avun rahastoa koskevan sopimuksen voimaansaattamisesta](313.md) `313/1996`
+- [Valtioneuvoston päätös vuoden 1995 satovahinkojen viljelmäkohtaisista korvausosuuksista ja yleiskorvauksista annetun päätöksen muuttamisesta](314.md) `314/1996`
+- [Valtioneuvoston päätös mehiläistaloudelle vuodelta 1996 maksettavasta kansallisesta tuesta hakeminen ja maksaminen](315.md) `315/1996`
+- [Oikeusministeriön päätös valitsijayhdistyksen perustajajäsenten vähimmäismääristä eräissä kunnissa vuoden 1996 kunnallisvaaleissa](316.md) `316/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](317.md) `317/1996`
+- [Asetus psykologian tutkinnoista](318.md) `318/1996`
+- [Asetus ulosottotoimen hallinnosta](319.md) `319/1996`
+- [Laki vuosilomalain muuttamisesta](320.md) `320/1996`
+- [Asetus Latinalaisen Amerikan kehityspankin johtokunnan jäsenten valintaa koskevien sääntöjen muutosten voimaansaattamisesta](321.md) `321/1996`
+- [Asetus maaseutuelinkeinoasetuksen muuttamisesta](322.md) `322/1996`
+- [Asetus maaseutuelinkeinoasetuksen muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](323.md) `323/1996`
+- [Asetus ilmansuojeluasetuksen 2 §:n 2 kohdan kumoamisesta](324.md) `324/1996`
+- [Valtioneuvoston päätös kuntien välisen rajan määräämisestä ja kuntajaon muuttamisesta Posion ja Pudasjärven kuntien välillä](325.md) `325/1996`
+- [Valtioneuvoston päätös kuntajaon muuttamisesta Karstulan kunnan ja Saarijärven kaupungin välillä](326.md) `326/1996`
+- [Valtioneuvoston päätös kuntien välisen rajan määräämisestä Muhoksen ja Utajärven kuntien välillä](327.md) `327/1996`
+- [Valtioneuvoston päätös lohenkalastuksen rajoittamisen johdosta maksettavista korvauksista](328.md) `328/1996`
+- [Valtioneuvoston päätös perunantuotannolle maksettavasta kansallisesta tuesta annetun valtioneuvoston päätöksen 7 §:n muuttamisesta](329.md) `329/1996`
+- [Valtioneuvoston päätös viljasiementuotannon kansallisesta tuesta annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](330.md) `330/1996`
+- [Laki tullilain muuttamisesta](331.md) `331/1996`
+- [Laki valmisteverotuslain 21 §:n muuttamisesta](332.md) `332/1996`
+- [Laki merimieslain muuttamisesta](333.md) `333/1996`
+- [Laki merimiesten vuosilomalain muuttamisesta](334.md) `334/1996`
+- [Laki merityöaikalain muuttamisesta](335.md) `335/1996`
+- [Laki työajasta kotimaanliikenteen aluksissa annetun lain 8 ja 30 §:n muuttamisesta](336.md) `336/1996`
+- [Laki yhteistoiminnasta yrityksissä annetun lain 8 §:n muuttamisesta](337.md) `337/1996`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta](338.md) `338/1996`
+- [Laki Perun kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen eräiden määräysten hyväksymisestä](339.md) `339/1996`
+- [Asetus Perun kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](340.md) `340/1996`
+- [Laki Thaimaan kuningaskunnan kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen eräiden määräysten hyväksymisestä](341.md) `341/1996`
+- [Asetus Thaimaan kuningaskunnan kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](342.md) `342/1996`
+- [Laki teletoimintalain muuttamisesta](343.md) `343/1996`
+- [Asetus puolustusministeriöstä annetun asetuksen muuttamisesta](344.md) `344/1996`
+- [Valtiovarainministeriön päätös verohallituksen määräämisestä toimivaltaisena viranomaisena ratkaisemaan eräitä verotusta koskevissa kansainvälisissä sopimuksissa tarkoitettuja asioita](345.md) `345/1996`
+- [Valtiovarainministeriön päätös valtion kiinteistölaitoksen maksullisista suoritteista](346.md) `346/1996`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös Newcastlen taudin vuoksi perustettavista suoja\- ja valvontavyöhykkeistä](347.md) `347/1996`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavasta maidosta ja maitopohjaisista tuotteista](348.md) `348/1996`
+- [Työministeriön päätös vaaraa aiheuttavia kemikaaleja koskevien tietojen toimittamisesta annetun työministeriön päätöksen muuttamisesta](349.md) `349/1996`
+- [Laki sairausvakuutuslain muuttamisesta](350.md) `350/1996`
+- [Asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteen muutosten voimaansaattamisesta](351.md) `351/1996`
+- [Asetus kihlakunnansyyttäjästä](352.md) `352/1996`
+- [Asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen muuttamisesta](353.md) `353/1996`
+- [Asetus humanistisista ja luonnontieteellisistä tutkinnoista annetun asetuksen liitteen muuttamisesta](354.md) `354/1996`
+- [Asetus riistan ja kanin lihan tarkastamisesta annetun asetuksen muuttamisesta](355.md) `355/1996`
+- [Asetus ajoneuvojen käytöstä tiellä annetun asetuksen 44 §:n muuttamisesta](356.md) `356/1996`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen 238 ja 242 §:n muuttamisesta](357.md) `357/1996`
+- [Asetus tilintarkastuslain eräiden säännösten soveltamisesta](358.md) `358/1996`
+- [Asetus lääkekorvauslautakunnasta annetun asetuksen muuttamisesta](359.md) `359/1996`
+- [Kauppa\- ja teollisuusministeriön päätös valmistuksen apuaineista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](360.md) `360/1996`
+- [Kauppa\- ja teollisuusministeriön päätös kosmeettisista valmisteista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](361.md) `361/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](362.md) `362/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](363.md) `363/1996`
+- [Laki maaseutuelinkeinolain 27 §:n muuttamisesta](364.md) `364/1996`
+- [Laki porotalouslain 41 a §:n muuttamisesta](365.md) `365/1996`
+- [Laki luontaiselinkeinolain 46 §:n muuttamisesta](366.md) `366/1996`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 5 §:n muuttamisesta](367.md) `367/1996`
+- [Laki työsopimuslain 24 ja 54 §:n muuttamisesta](368.md) `368/1996`
+- [Asetus Venäjän kanssa ydinonnettomuutta koskevasta pikaisesta ilmoittamisesta ja ydinlaitoksia koskevasta tietojenvaihdosta tehdyn sopimuksen voimaansaattamisesta](369.md) `369/1996`
+- [Asetus Ahvenanmaan maakunnan maakunnanvoudinvirastosta](370.md) `370/1996`
+- [Asetus maaseutuelinkeinoasetuksen muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](371.md) `371/1996`
+- [Asetus merenkulkulaitoksesta annetun asetuksen muuttamisesta](372.md) `372/1996`
+- [Asetus ajokorttiasetuksen muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](373.md) `373/1996`
+- [Teletoiminta\-asetus](374.md) `374/1996`
+- [Valtioneuvoston päätös eräistä maa\- ja puutarhataloustuottajille vuodelta 1995 maksettavista tuista annetun valtioneuvoston päätöksen 9 §:n muuttamisesta](375.md) `375/1996`
+- [Valtioneuvoston päätös vuoden 1995 puutarhatuotannon tuen jakoperusteista](376.md) `376/1996`
+- [Valtioneuvoston päätös maa\- ja puutarhatalouden harjoittajille maksettavasta pohjoisesta tuesta annetun valtioneuvoston päätöksen muuttamisesta](377.md) `377/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](378.md) `378/1996`
+- [Laki rahalain muuttamisesta](379.md) `379/1996`
+- [Laki valtion talousarviosta annetun lain 3 a §:n muuttamisesta](380.md) `380/1996`
+- [Laki arvonlisäverolain muuttamisesta](381.md) `381/1996`
+- [Valtioneuvoston päätös maatalouden ympäristötuesta annetun valtioneuvoston päätöksen 14 §:n muuttamisesta](382.md) `382/1996`
+- [Maa\- ja metsätalousministeriön päätös poronhoitovuodelta 1996/1997 maksettavasta eläinkohtaisesta tuesta](383.md) `383/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](384.md) `384/1996`
+- [Laki eräiden maa\-alueiden luovuttamisesta Helsingin kaupungille](385.md) `385/1996`
+- [Asetus kielilain täytäntöönpanosta annetun asetuksen 2 ja 3 §:n muuttamisesta](386.md) `386/1996`
+- [Sotilasilmailuasetus](387.md) `387/1996`
+- [Asetus opintotukiasetuksen 32 §:n väliaikaisesta muuttamisesta](388.md) `388/1996`
+- [Valtioneuvoston päätös vaikeista ja pitkäaikaisista sairauksista ja niiden hoitoon käytettävistä lääkkeistä, joista sairausvakuutuslain mukaan korvataan 100 tai 75 prosenttia säädetyn kiinteän omavastuun ylittävältä osalta annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](389.md) `389/1996`
+- [Valtioneuvoston päätös vaikeista sairauksista ja niiden hoitoon käytettävistä kliinisistä ravintovalmisteista, joihin suoritetaan sairausvakuutuslain mukaista korvausta annetun valtioneuvoston päätöksen 1 ja 2 §:n muuttamisesta](390.md) `390/1996`
+- [Sisäasiainministeriön päätös maistraattien toimialueista](391.md) `391/1996`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Hämeenkosken ja Kärkölän kuntien välillä](392.md) `392/1996`
+- [Laki eräiden kiinteistöjen luovuttamisesta Helsingin kaupungille](393.md) `393/1996`
+- [Laki kiinteistön luovuttamisesta perustettavalle kiinteistöyhtiölle Vaasassa](394.md) `394/1996`
+- [Asetus koe\-eläintoiminnasta annetun asetuksen muuttamisesta](395.md) `395/1996`
+- [Eläinsuojeluasetus](396.md) `396/1996`
+- [Työministeriön päätös haitallisiksi tunnetuista pitoisuuksista](397.md) `397/1996`
+- [Kauppa\- ja teollisuusministeriön ilmoitus päätöksestä](398.md) `398/1996`
+- [Asetus elintarvikkeen kanssa kosketukseen joutuvista tarvikkeista annetun asetuksen kumoamisesta](399.md) `399/1996`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeen kanssa kosketukseen joutuvista tarvikkeista](400.md) `400/1996`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeen kanssa kosketukseen joutuvista muovisista tarvikkeista](401.md) `401/1996`
+- [Asetus suun kanssa kosketukseen joutuvista tarvikkeista](402.md) `402/1996`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Karstulan ja Kannonkosken kuntien välillä](403.md) `403/1996`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Kittilän ja Kolarin kuntien välillä](404.md) `404/1996`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Rantsilan ja Temmeksen kuntien välillä, Rantsilan ja Limingan kuntien välillä, Pattijoen ja Siikajoen kuntien välillä, Raahen kaupungin ja Siikajoen kunnan välillä sekä Ruukin ja Siikajoen kuntien välillä](405.md) `405/1996`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Ruskon ja Maskun kuntien välillä](406.md) `406/1996`
+- [Sisäasiainministeriön päätös Porvoon kaupungin ja Porvoon maalaiskunnan lakkauttamisesta ja uuden kunnan perustamisesta](407.md) `407/1996`
+- [Laki nuorista työntekijöistä annetun lain muuttamisesta](408.md) `408/1996`
+- [Laki työajasta kotimaanliikenteen aluksissa annetun lain muuttamisesta](409.md) `409/1996`
+- [Sähköturvallisuuslaki](410.md) `410/1996`
+- [Asetus Romanian kanssa tehdyn lentoliikennesopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](411.md) `411/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](412.md) `412/1996`
+- [Laki eräistä väliaikaisista tulleista annetun lain 1 §:n ja liitteenä olevan luettelon muuttamisesta](413.md) `413/1996`
+- [Laki arvonlisä\- ja valmisteverotuksen toimittamisesta Ahvenanmaan maakunnan ja muun Suomen välisissä suhteissa annetun lain muuttamisesta](414.md) `414/1996`
+- [Laki osuuskuntalain muuttamisesta](415.md) `415/1996`
+- [Laki osuuskunnan talletuksesta antaman vastakirjan ja muun todistuksen kuolettamisesta annetun lain kumoamisesta](416.md) `416/1996`
+- [Laki markkinatuomioistuimesta annetun lain muuttamisesta](417.md) `417/1996`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](418.md) `418/1996`
+- [Laki työttömyysturvalain 27 §:n muuttamisesta](419.md) `419/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](420.md) `420/1996`
+- [Laki merilain muuttamisesta](421.md) `421/1996`
+- [Laki aluksista aiheutuvista öljyvahingoista johtuvasta vastuusta annetun lain kumoamisesta](422.md) `422/1996`
+- [Asetus merilain muuttamisesta annetun lain sekä aluksista aiheutuvista öljyvahingoista johtuvasta vastuusta annetun lain kumoamisesta annetun lain voimaantulosta](423.md) `423/1996`
+- [Laki öljyn aiheuttamien pilaantumisvahinkojen kansainvälisen korvausrahaston perustamista koskevan vuoden 1971 kansainvälisen yleissopimuksen muuttamisesta tehdyn vuoden 1992 pöytäkirjan eräiden määräysten hyväksymisestä ja soveltamisesta](424.md) `424/1996`
+- [Asetus öljyn aiheuttamien pilaantumisvahinkojen kansainvälisen korvausrahaston perustamista koskevan vuoden 1971 kansainvälisen yleissopimuksen muuttamisesta tehdyn vuoden 1992 pöytäkirjan voimaansaattamisesta sekä vuoden 1992 pöytäkirjan eräiden määräysten hyväksymisestä ja soveltamisesta annetun lain voimaantulosta](425.md) `425/1996`
+- [Asetus öljyn aiheuttamasta pilaantumisvahingosta johtuvasta siviilioikeudellisesta vastuusta vuonna 1969 tehdyn kansainvälisen yleissopimuksen muuttamisesta tehdyn vuoden 1992 pöytäkirjan voimaansaattamisesta](426.md) `426/1996`
+- [Laki öljyn aiheuttamasta pilaantumisvahingosta johtuvasta siviilioikeudellisesta vastuusta ja öljyn aiheuttamien pilaantumisvahinkojen kansainvälisen korvausrahaston perustamisesta tehtyjen kansainvälisten yleissopimusten eräiden määräysten hyväksymisestä sekä viimeksi mainitun yleissopimuksen soveltamisesta annetun lain kumoamisesta](427.md) `427/1996`
+- [Asetus öljyn aiheuttamasta pilaantumisvahingosta johtuvasta siviilioikeudellisesta vastuusta ja öljyn aiheuttamien pilaantumisvahinkojen kansainvälisen korvausrahaston perustamisesta tehtyjen kansainvälisten yleissopimusten eräiden määräysten hyväksymisestä sekä viimeksi mainitun yleissopimuksen soveltamisesta annetun lain kumoamisesta annetun lain voimaantulosta](428.md) `428/1996`
+- [Laki tieliikennelain 70 ja 108 §:n muuttamisesta](429.md) `429/1996`
+- [Laki perintö\- ja lahjaverolain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](430.md) `430/1996`
+- [Laki tuloverolain 76 §:n muuttamisesta](431.md) `431/1996`
+- [Asetus Suomen ulkomaanedustustojen sijainnista annetun asetuksen muuttamisesta](432.md) `432/1996`
+- [Asetus ajokorttiasetuksen muuttamisesta](433.md) `433/1996`
+- [Valtioneuvoston päätös eräiden maatilatalouden luottojen kohdennetusta vakauttamisesta annetun valtioneuvoston päätöksen muuttamisesta](434.md) `434/1996`
+- [Maa\- ja metsätalousministeriön päätös eräiden maatilatalouden luottojen kohdennetusta vakauttamisesta annetun valtioneuvoston päätöksen muuttamisesta annetun valtioneuvoston päätöksen voimaantulosta](435.md) `435/1996`
+- [Valtioneuvoston päätös valtion tukien ilmoittamisessa komissiolle noudatettavista menettelytavoista annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](436.md) `436/1996`
+- [Valtioneuvoston päätös maaseudun rakennepoliittisesta ohjelmaperusteisesta tuesta](437.md) `437/1996`
+- [Liikenneministeriön päätös liikenneministeriön maksullisista suoritteista](438.md) `438/1996`
+- [Maa\- ja metsätalousministeriön päätös luonnonmukaisesta maataloustuotannosta sekä luonnonmukaisesti tuotettujen maataloustuotteiden ja elintarvikkeiden valvonnan järjestämisestä annetun maa\- ja metsätalousministeriön päätöksen 11 §:n muuttamisesta](439.md) `439/1996`
+- [Sosiaali\- ja terveysministeriön päätös lääkärin perusterveydenhuollon lisäkoulutuksesta johtuviin kustannuksiin suoritettavan erityiskorvauksen perusteista vuonna 1996](440.md) `440/1996`
+- [Laki eräiden valtion ammatillisten oppilaitosten kiinteistöjen luovuttamisesta kunnalle tai kuntayhtymälle](441.md) `441/1996`
+- [Laki kasvihuonetuotannon ja omenanviljelyn lopettamistuesta annetun lain muuttamisesta](442.md) `442/1996`
+- [Laki maa\- ja metsätalouden rakennepoliittisista toimenpiteistä annetun lain muuttamisesta](443.md) `443/1996`
+- [Laki yhdyskuntien vesihuoltotoimenpiteiden avustamisesta annetun lain muuttamisesta](444.md) `444/1996`
+- [Asetus eläinlääkärin oikeudesta luovuttaa lääkkeitä eläinlääkintää varten annetun asetuksen muuttamisesta](445.md) `445/1996`
+- [Asetus Viron, Suomen ja Ruotsin välillä M/S Estoniasta tehdyn sopimuksen lisäpöytäkirjan voimaansaattamisesta](446.md) `446/1996`
+- [Asetus opintotukiasetuksen muuttamisesta](447.md) `447/1996`
+- [Valtioneuvoston päätös eräiden opintotukilaissa \(28/72\) tarkoitettujen määrien vahvistamisesta](448.md) `448/1996`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeiden pakkausmerkinnöistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](449.md) `449/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](450.md) `450/1996`
+- [Laki eräistä henkilöstön asemaa koskevista järjestelyistä yksityistettäessä opetusministeriön hallinnonalaan kuuluvia ammatillisia oppilaitoksia ja muodostettaessa yksityisiä ammattikorkeakouluja](451.md) `451/1996`
+- [Laki ammatillisesta opettajankoulutuksesta](452.md) `452/1996`
+- [Laki ammattikorkeakouluopinnoista annetun lain muuttamisesta](453.md) `453/1996`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 38 §:n muuttamisesta](454.md) `454/1996`
+- [Asetus ammatillisesta opettajankoulutuksesta](455.md) `455/1996`
+- [Asetus liikenneopettajankoulutuksesta](456.md) `456/1996`
+- [Asetus alueellisista ympäristökeskuksista annetun asetuksen 9 §:n muuttamisesta](457.md) `457/1996`
+- [Puolustusministeriön päätös ohjusteknologian valvontajärjestelyn piiriin kuuluvan laitteiston ja teknologian rinnastamisesta puolustustarvikkeisiin annetun puolustusministeriön päätöksen kumoamisesta](458.md) `458/1996`
+- [Liikenneministeriön päätös ajokorttiasetuksen soveltamisesta annetun liikenneministeriön päätöksen muuttamisesta](459.md) `459/1996`
+- [Liikenneministeriön päätös ajokorttiasetuksen soveltamisesta annetun liikenneministeriön päätöksen muuttamisesta annetun liikenneministeriön päätöksen voimaantulosäännöksen muuttamisesta](460.md) `460/1996`
+- [Laki alusturvallisuuden valvonnasta annetun lain muuttamisesta](461.md) `461/1996`
+- [Laki merilain 20 luvun 9 §:n muuttamisesta](462.md) `462/1996`
+- [Vesiliikennelaki](463.md) `463/1996`
+- [Asetus eräiden huviveneiden turvallisuudesta](464.md) `464/1996`
+- [Asetus veneliikenneasetuksen 2 §:n 3 momentin ja 4 §:n kumoamisesta](465.md) `465/1996`
+- [Laki työsopimuslain 17 ja 55 §:n muuttamisesta](466.md) `466/1996`
+- [Asetus työllisyysasetuksen väliaikaisesta muuttamisesta](467.md) `467/1996`
+- [Valtioneuvoston päätös bensiinin varastoinnista ja jakelusta aiheutuvien haihtuvien orgaanisten yhdisteiden päästöjen rajoittamisesta](468.md) `468/1996`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](469.md) `469/1996`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](470.md) `470/1996`
+- [Kauppa\- ja teollisuusministeriön päätös bensiinin käsittelystä ja varastoinnista](471.md) `471/1996`
+- [Asetus jäteasetuksen muuttamisesta](472.md) `472/1996`
+- [Asetus ydinenergia\-asetuksen muuttamisesta](473.md) `473/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](474.md) `474/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](475.md) `475/1996`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain muuttamisesta](476.md) `476/1996`
+- [Asetus julkishaliinnon ja \-talouden tilintarkastajan tutkinnosta annetun asetuksen muuttamisesta](477.md) `477/1996`
+- [Asetus maa\- ja metsätalousministeriön tietopalvelukeskuksesta](478.md) `478/1996`
+- [Asetus pehmustettujen istuinhuonekalujen paloturvallisuusvaatimuksista annetun asetuksen 2 §:n muuttamisesta](479.md) `479/1996`
+- [Valtioneuvoston päätös ilmanlaadun ohjearvoista ja rikkilaskeuman tavoitearvosta](480.md) `480/1996`
+- [Valtioneuvoston päätös ilmanlaadun raja\-arvoista ja kynnysarvoista](481.md) `481/1996`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä annetun päätöksen muuttamisesta](482.md) `482/1996`
+- [Laki kuntarajojen määräämisestä Suomen aluevesillä](483.md) `483/1996`
+- [Laki kunnallisen viranhaltijan palvelussuhdeturvasta](484.md) `484/1996`
+- [Laki kunnallisen virkaehtosopimuslain 2 §:n muuttamisesta](485.md) `485/1996`
+- [Laki kuntalain 45 §:n muuttamisesta](486.md) `486/1996`
+- [Laki Kuntien takauskeskuksesta](487.md) `487/1996`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain 1 §:n muuttamisesta](488.md) `488/1996`
+- [Laki Steiner\-koulusta annetun lain muuttamisesta](489.md) `489/1996`
+- [Asetus Steiner\-koulusta annetun asetuksen muuttamisesta](490.md) `490/1996`
+- [Asetus eläinten kuljetuksesta](491.md) `491/1996`
+- [Asetus Ukrainan kanssa tehdyn lentoliikennesopimuksen voimaansaattamisesta](492.md) `492/1996`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Jugoslaviaa koskevaan päätökseen perustuvien velvoitusten täyttämisestä annetun asetuksen kumoamisesta](493.md) `493/1996`
+- [Sisäasiainministeriön päätös rekisterihallinnon suoritteiden maksuista](494.md) `494/1996`
+- [Jäteverolaki](495.md) `495/1996`
+- [Laki rajavartiolaitoksesta annetun lain muuttamisesta](496.md) `496/1996`
+- [Asetus valtion virkaehtosopimusasetuksen muuttamisesta](497.md) `497/1996`
+- [Sähköturvallisuusasetus](498.md) `498/1996`
+- [Maa\- ja metsätalousministeriön päätös eräiden kasvinviljelytuotteiden kansallisen tuotantotuen maksamiselle asetettavista laatuvaatimuksista annetun maa\- ja metsätalousministeriön päätöksen 1 ja 2 §:n muuttamisesta](499.md) `499/1996`
+- [Liikenneministeriön päätös televerkkojen numeroinnista](500.md) `500/1996`
+- [Liikenneministeriön päätös teletoimintalain soveltamisalaan kuulumattomasta teletoiminnasta](501.md) `501/1996`
+- [Liikenneministeriön päätös teletoimintalain 10 a §:n soveltamisesta](502.md) `502/1996`
+- [Liikenneministeriön päätös teleliittymien toimitusehdoista](503.md) `503/1996`
+- [Liikenneministeriön päätös telelaitosten yhdysliikenteestä](504.md) `504/1996`
+- [Liikenneministeriön päätös palveluoperaattorien liittämisestä yleiseen televerkkoon](505.md) `505/1996`
+- [Liikenneministeriön päätös teletoiminnan tunnistamistietojen luovuttamisesta ja tallentamisesta](506.md) `506/1996`
+- [Liikenneministeriön päätös rajoitetun käyttäjäryhmän teletoiminnasta](507.md) `507/1996`
+- [Liikenneministeriön päätös eräistä Euroopan yhteisöjen lainsäädännössä tarkoitetuista telemaksuista](508.md) `508/1996`
+- [Liikenneministeriön päätös eräistä Euroopan yhteisöjen lainsäädännössä tarkoitetuista telepalveluista](509.md) `509/1996`
+- [Laki sotilastapaturmalain 6 §:n muuttamisesta](510.md) `510/1996`
+- [Laki ulkomaalaislain muuttamisesta](511.md) `511/1996`
+- [Maa\- ja metsätalousministeriön päätös eläimistä saatavien elintarvikkeiden eläinlääkinnällisistä rajatarkastuksista](512.md) `512/1996`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavista kalastustuotteista ja niistä saaduista valmisteista ja jalosteista](513.md) `513/1996`
+- [Sisäasiainministeriön päätös Heinolan kaupungin ja Heinolan maalaiskunnan lakkauttamisesta ja uuden kunnan perustamisesta](514.md) `514/1996`
+- [Maa\- ja metsätalousministeriön päätös eräiden lääkeaineiden käytön kieltämisestä eläimille](515.md) `515/1996`
+- [Kauppa\- ja teollisuusministeriön päätös sähköalan töistä](516.md) `516/1996`
+- [Kauppa\- ja teollisuusministeriön päätös sähkölaitteistojen käyttöönotosta ja käytöstä](517.md) `517/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](518.md) `518/1996`
+- [Verohallituksen päätös ennakkoperintärekisteristä poistettujen julkaisemisesta](519.md) `519/1996`
+- [Laki Ahvenanmaan itsehallintolain muuttamisesta](520.md) `520/1996`
+- [Asetus löytötavara\-asetuksen muuttamisesta](521.md) `521/1996`
+- [Laki aluksista aiheutuvan vesien pilaantumisen ehkäisemisestä annetun lain muuttamisesta](522.md) `522/1996`
+- [Asetus aluksista aiheutuvan vesien pilaantumisen ehkäisemisestä annetun lain muuttamisesta annetun lain voimaantulosta](523.md) `523/1996`
+- [Laki Yhdistyneiden Kansakuntien merioikeusyleissopimuksen ja sen XI osan soveltamiseen liittyvän sopimuksen eräiden määräysten hyväksymisestä](524.md) `524/1996`
+- [Asetus Yhdistyneiden Kansakuntien merioikeusyleissopimuksen ja sen XI osan soveltamiseen liittyvän sopimuksen voimaansaattamisesta sekä näiden eräiden määräysten hyväksymisestä annetun lain voimaantulosta](525.md) `525/1996`
+- [Laki kalastuslain muuttamisesta](526.md) `526/1996`
+- [Laki kalastuslain 90 §:n muuttamisesta](527.md) `527/1996`
+- [Asetus maaseutuelinkeinoasetuksen 15 §:n muuttamisesta](528.md) `528/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](529.md) `529/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](530.md) `530/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](531.md) `531/1996`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös Newcastlen taudin vuoksi perustettavista suoja\- ja valvontavyöhykkeistä annetun eläinlääkintä\- ja elintarvikeosaston päätöksen kumoamisesta](532.md) `532/1996`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös kolmansista maista tuotaville eläimille ja eräille tavaroille suoritettavista eläinlääkinnällisistä rajatarkastuksista](533.md) `533/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](534.md) `534/1996`
+- [Laki keskusverolautakunnasta](535.md) `535/1996`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](536.md) `536/1996`
+- [Laki ennakkoperintälain muuttamisesta](537.md) `537/1996`
+- [Laki rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun lain muuttamisesta](538.md) `538/1996`
+- [Laki korkotulon lähdeverosta annetun lain muuttamisesta](539.md) `539/1996`
+- [Laki perintö\- ja lahjaverolain muuttamisesta](540.md) `540/1996`
+- [Laki kiinteistöverolain muuttamisesta](541.md) `541/1996`
+- [Laki arvonlisäverolain muuttamisesta](542.md) `542/1996`
+- [Laki eräistä vakuutusmaksuista suoritettavasta verosta annetun lain 7 §:n muuttamisesta](543.md) `543/1996`
+- [Laki arpajaisverolain 15 ja 16 §:n muuttamisesta](544.md) `544/1996`
+- [Laki leimaverolain muuttamisesta](545.md) `545/1996`
+- [Laki moottoriajoneuvoverosta annetun lain 18 §:n muuttamisesta](546.md) `546/1996`
+- [Laki valmisteverotuslain muuttamisesta](547.md) `547/1996`
+- [Laki leimaverolain muuttamisesta](548.md) `548/1996`
+- [Laki leimaverolain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](549.md) `549/1996`
+- [Laki Venäjän kanssa yhteistyöstä onnettomuuksien ehkäisemiseksi ja niiden seurausten torjumiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](550.md) `550/1996`
+- [Asetus Venäjän kanssa yhteistyöstä onnettomuuksien ehkäisemiseksi ja niiden seurausten torjumiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](551.md) `551/1996`
+- [Laki Viron kanssa yhteistyöstä ja keskinäisestä avunannosta onnettomuustapauksissa tehdyn sopimuksen eräiden määräysten hyväksymisestä](552.md) `552/1996`
+- [Asetus Viron kanssa yhteistyöstä ja keskinäisestä avunannosta onnettomuustapauksissa tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](553.md) `553/1996`
+- [Asetus Macaon kanssa tehdyn lentoliikennesopimuksen voimaansaattamisesta](554.md) `554/1996`
+- [Asetus Maailman kauppajärjestön palvelukaupan yleissopimuksen kolmannen pöytäkirjan voimaansaattamisesta](555.md) `555/1996`
+- [Maa\- ja metsätalousministeriön päätös naudanlihantuottajille vuonna 1996 suoritettavista lisämaksuista ja niiden hakuajoista](556.md) `556/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](557.md) `557/1996`
+- [Laki Helsingin kauppakorkeakoulusta annetun lain muuttamisesta](558.md) `558/1996`
+- [Laki Svenska handelshögskolan \-nimisestä korkeakoulusta annetun lain muuttamisesta](559.md) `559/1996`
+- [Laki Helsingin yliopistosta annetun lain muuttamisesta](560.md) `560/1996`
+- [Asetus fysiikan tutkimuslaitoksesta](561.md) `561/1996`
+- [Laki kaksikäyttötuotteiden vientivalvonnasta](562.md) `562/1996`
+- [Laki rikoslain 46 luvun 1 §:n muuttamisesta](563.md) `563/1996`
+- [Laki lyijyvalkoisen ja lyijysulfaatin käytön kieltämisestä eräissä maalaustöissä annetun lain kumoamisesta](564.md) `564/1996`
+- [Laki metsä\- ja uittotyöntekijäin yhteisasunnoista annetun lain kumoamisesta](565.md) `565/1996`
+- [Laki työneuvostosta ja työsuojelun poikkeusluvista annetun lain 10 b §:n muuttamisesta](566.md) `566/1996`
+- [Laki työsuojelun valvonnasta ja muutoksenhausta työsuojeluasioissa annetun lain 21 §:n muuttamisesta](567.md) `567/1996`
+- [Asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen 10 a §:n muuttamisesta](568.md) `568/1996`
+- [Asetus ammatillisten oppilaitosten ja korkeakoulujen yhteistoimintakokeilusta annetun asetuksen kumoamisesta](569.md) `569/1996`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](570.md) `570/1996`
+- [Laki ulkomaisen luotto\- ja rahoituslaitoksen toiminnasta Suomessa annetun lain muuttamisesta](571.md) `571/1996`
+- [Laki rahoitustarkastuslain muuttamisesta](572.md) `572/1996`
+- [Laki liikepankkilain 8 ja 66 §:n muuttamisesta](573.md) `573/1996`
+- [Laki Postipankki Oy:stä annetun lain 12 §:n kumoamisesta](574.md) `574/1996`
+- [Laki osuuspankkilain muuttamisesta](575.md) `575/1996`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](576.md) `576/1996`
+- [Laki rahoitustarkastuslain muuttamisesta](577.md) `577/1996`
+- [Laki kaupparekisterilain muuttamisesta](578.md) `578/1996`
+- [Laki sijoituspalveluyrityksistä](579.md) `579/1996`
+- [Laki ulkomaisen sijoituspalveluyrityksen oikeudesta tarjota sijoituspalvelua Suomessa](580.md) `580/1996`
+- [Laki arvopaperimarkkinalain muuttamisesta](581.md) `581/1996`
+- [Laki kaupankäynnistä vakioiduilla optioilla ja termiineillä annetun lain muuttamisesta](582.md) `582/1996`
+- [Laki sijoitusrahastolain muuttamisesta](583.md) `583/1996`
+- [Laki arvopaperimarkkinalain muuttamisesta](584.md) `584/1996`
+- [Laki kaupparekisterilain 14 §:n muuttamisesta](585.md) `585/1996`
+- [Hallintolainkäyttölaki](586.md) `586/1996`
+- [Laki Korkeimmasta hallinto\-oikeudesta annetun lain eräiden lainkohtien kumoamisesta](587.md) `587/1996`
+- [Laki lääninoikeuslain muuttamisesta](588.md) `588/1996`
+- [Laki hallintomenettelylain muuttamisesta](589.md) `589/1996`
+- [Laki vesilain muuttamisesta](590.md) `590/1996`
+- [Laki kotimaisten kielten tutkimuskeskuksesta annetun lain muuttamisesta](591.md) `591/1996`
+- [Laki työturvallisuuslain 24 §:n muuttamisesta](592.md) `592/1996`
+- [Valtioneuvoston päätös yritystuesta annetun valtioneuvoston päätöksen muuttamisesta](593.md) `593/1996`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavasta lihasta ja lihatuotteista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](594.md) `594/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](595.md) `595/1996`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös eläintautien leviämisen ehkäisemisestä hevosten maahantuonnissa kolmansista maista annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen muuttamisesta](596.md) `596/1996`
+- [Laki Kreikan kanssa lahjana saadun kiinteän omaisuuden vapauttamisesta lahjaverosta eräissätapauksissa tehdyn sopimuksen eräiden määräysten hyväksymisestä](597.md) `597/1996`
+- [Asetus Kreikan kanssa lahjana saadun kiinteän omaisuuden vapauttamisesta lahjaverosta eräissätapauksissa tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräystenhyväksymisestä annetun lain voimaantulosta](598.md) `598/1996`
+- [Asetus kauppa\- ja teollisuusministeriöstä annetun asetuksen muuttamisesta](599.md) `599/1996`
+- [Liikenneministeriön päätös Telehallintokeskuksen maksuista annetun liikenneministeriön päätöksen 16 §:nmuuttamisesta](600.md) `600/1996`
+- [Oikeusministeriön päätös äänioikeusrekisterin oikaisuvaatimuslomakkeen kaavasta](601.md) `601/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](602.md) `602/1996`
+- [Laki yksityisten sosiaalipalvelujen valvonnasta](603.md) `603/1996`
+- [Laki sosiaalihuoltolain muuttamisesta](604.md) `604/1996`
+- [Työaikalaki](605.md) `605/1996`
+- [Laki kotitaloustyöntekijän työsuhteesta annetun lain 9 §:n muuttamisesta](606.md) `606/1996`
+- [Valtioneuvoston päätös valtioneuvoston päätöksen, joka sisältää järjestysohjeet hissien rakentamista, asentamista,käyttöä, hoitoa ja tarkastusta varten, kumoamisesta](607.md) `607/1996`
+- [Valtioneuvoston päätös järjestysohjeista tekoainetta viskoosimenetelmin valmistavia teollisuuslaitoksia varten annetun valtioneuvoston päätöksen kumoamisesta](608.md) `608/1996`
+- [Valtioneuvoston päätös työturvallisuuslain soveltamisesta nestemäisen typen kuljettamiseen ajoneuvossa annetun valtioneuvoston päätöksen kumoamisesta](609.md) `609/1996`
+- [Valtioneuvoston päätös puunkorjuutyön järjestysohjeista annetun valtioneuvoston päätöksen muuttamisesta](610.md) `610/1996`
+- [Valtioneuvoston päätös rakennustyön turvallisuudesta annetun valtioneuvoston päätöksen 6 §:n muuttamisesta](611.md) `611/1996`
+- [Laki ammatillisista oppilaitoksista annetun lain muuttamisesta](612.md) `612/1996`
+- [Laki kuljetusten alueellisesta tukemisesta annetun lain muuttamisesta](613.md) `613/1996`
+- [Laki yhteistoiminnasta yrityksissä annetun lain muuttamisesta](614.md) `614/1996`
+- [Asetus vuonna 1996 toimitettavissa Euroopan parlamentin edustajien vaaleissa ja kunnallisvaaleissaennakkoäänestyspaikkoina toimivista postikonttoreista ja eräistä muista toimipaikoista](615.md) `615/1996`
+- [Asetus vuonna 1996 toimitettavissa Euroopan parlamentin edustajien vaaleissaennakkoäänestyspaikkoina olevista Suomen edustustoista](616.md) `616/1996`
+- [Asetus Suomen ja Ruotsin välillä yhteistyöstä ulkomaanopetuksen alalla tehdyn sopimuksenvoimaansaattamisesta](617.md) `617/1996`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- jaelintarvikeosaston päätös mehiläisten esikotelomädän vuoksi perustettavasta rajoitusalueesta](618.md) `618/1996`
+- [Laki lapsen huoltoa ja tapaamisoikeutta koskevan päätöksen täytäntöönpanosta](619.md) `619/1996`
+- [Laki lapsen huollosta ja tapaamisoikeudesta annetun lain muuttamisesta](620.md) `620/1996`
+- [Laki sosiaalihuoltolain 17 §:n muuttamisesta](621.md) `621/1996`
+- [Laki avioliittolain 20 §:n muuttamisesta](622.md) `622/1996`
+- [Laki rangaistusten täytäntöönpanosta annetun lain 6 luvun 12 §:n muuttamisesta](623.md) `623/1996`
+- [Laki uhkasakkolain 2 §:n muuttamisesta](624.md) `624/1996`
+- [Laki Kera Oy \-nimisestä osakeyhtiöstä annetun lain 2 §:n muuttamisesta](625.md) `625/1996`
+- [Laki rikoslain muuttamisesta](626.md) `626/1996`
+- [Asetus rikoslain 1 luvun 7 §:n soveltamisesta](627.md) `627/1996`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden pohjoismaiden välilläannetun lain 2 §:n muuttamisesta](628.md) `628/1996`
+- [Laki lääninoikeuslain muuttamisesta](629.md) `629/1996`
+- [Asetus lääninoikeusasetuksen muuttamisesta](630.md) `630/1996`
+- [Asetus sotilasrikoksia koskevien rangaistussäännösten soveltamisalasta](631.md) `631/1996`
+- [Asetus vaarallisten aineiden kuljetuksesta tiellä](632.md) `632/1996`
+- [Valtioneuvoston päätös maatalousperäisiä raaka\-aineita jalostaville elinkeinonharjoittajille myönnettävästä investointituesta annetun valtioneuvoston päätöksen muuttamisesta](633.md) `633/1996`
+- [Laki Kolin kansallispuiston laajentamisesta](634.md) `634/1996`
+- [Laki Valkmusan kansallispuistosta](635.md) `635/1996`
+- [Asetus Valkmusan kansallispuistosta](636.md) `636/1996`
+- [Kauppa\- ja teollisuusministeriön päätös eräistä kosmeettisten valmisteiden koostumuksen tarkastamisessa käytettävistä analyysimenetelmistä](637.md) `637/1996`
+- [Laki näkövammaisten kirjastosta](638.md) `638/1996`
+- [Asetus näkövammaisten kirjastosta](639.md) `639/1996`
+- [Laki kotieläinjalostuslain 6 ja 15 §:n muuttamisesta](640.md) `640/1996`
+- [Laki hevostalouslain 5 §:n muuttamisesta](641.md) `641/1996`
+- [Asetus valtioneuvoston ohjesäännön muuttamisesta](642.md) `642/1996`
+- [Asetus kansainvälistä tietoliikennetekokuujärjestö INTELSATia koskevan toimintasopimuksenmuutosten voimaansaattamisesta](643.md) `643/1996`
+- [Asetus Maailman kauppajärjestön palvelukaupan yleissopimuksen toisen pöytäkirjanvoimaansaattamisesta](644.md) `644/1996`
+- [Asetus kaksikäyttötuotteiden vientivalvonnasta](645.md) `645/1996`
+- [Kauppa\- ja teollisuusministeriön päätös kaksikäyttötuotteiden vientilisensioinnista](646.md) `646/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](647.md) `647/1996`
+- [Asetus puolustusvoimien räjähteistä](648.md) `648/1996`
+- [Kauppa\- ja teollisuusministeriön päätös sähköturvallisuusmääräyksistä annetun kauppa\- ja teollisuusministeriön päätöksenmuuttamisesta](649.md) `649/1996`
+- [Kauppa\- ja teollisuusministeriön päätös sähkölaitteiden turvallisuudesta annetun kauppa\- ja teollisuusministeriön päätöksenmuuttamisesta](650.md) `650/1996`
+- [Kauppa\- ja teollisuusministeriön päätös sähkölaitteiden valvonnasta ja eräiltä sähkölaitteilta vaadittavasta hyväksynnästä annetun kauppa\- ja teollisuusministeriön päätöksen kumoamisesta](651.md) `651/1996`
+- [Kauppa\- ja teollisuusministeriön päätös sähkölaitteiden ja \-laitteistojen sähkömagneettisesta yhteensopivuudesta annetun kauppa\- jateollisuusministeriön päätöksen muuttamisesta](652.md) `652/1996`
+- [Kauppa\- ja teollisuusministeriön päätös eläinlääketieteessä käytettävien sähkökäyttöisten lääkintälaitteiden sähköturvallisuus\-vaatimuksista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](653.md) `653/1996`
+- [Kauppa\- ja teollisuusministeriön päätös räjähdysvaarallisissa tiloissa käytettävien sähkölaitteiden sähköturvallisuusvaatimuksistaannetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](654.md) `654/1996`
+- [Kauppa\- ja teollisuusministeriön päätös sähköasennusten turvallisuudesta annetun kauppa\- ja teollisuusministeriön päätöksen eräidenmääräysten kumoamisesta](655.md) `655/1996`
+- [Kauppa\- ja teollisuusministeriön päätös sähköllä toimivien hissien sekä eräiden muiden nosto\- ja siirtolaitteiden turvallisuusvaati\-muksista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](656.md) `656/1996`
+- [Kauppa\- ja teollisuusministeriön päätös sähköturvallisuuslain soveltamisesta](657.md) `657/1996`
+- [Kauppa\- ja teollisuusministeriön päätös kauppa\- ja teollisuusministeriön sekä kauppa\- ja teollisuusministeriön yrityspalvelun piiritoimistojen maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](658.md) `658/1996`
+- [Valtioneuvoston päätös ongelmajätteistä annettavista tiedoista sekä ongelmajätteiden pakkaamisesta ja merkitsemisestä](659.md) `659/1996`
+- [Valtioneuvoston päätös yleislisenssistä kannettavien tai siirrettävien radiopuhelimien vientiin](660.md) `660/1996`
+- [Maa\- ja metsätalousministeriön päätös maatilatalouden investointeihin ja tilanpidon aloittamiseen myönnetyn ja myönnettävänvaltionlainan korosta](661.md) `661/1996`
+- [Liikenneministeriön päätös eräistä Euroopan yhteisöjen lainsäädännössä tarkoitetuista kiinteiden yhteyksien tarjonnasta](662.md) `662/1996`
+- [Kauppa\- ja teollisuusministeriön päätös sähköllä toimivien hissien käyttöönotosta ja käytöstä](663.md) `663/1996`
+- [Suomen Pankin ilmoitus voimassa olevasta Suomen Pankin peruskorosta](664.md) `664/1996`
+- [Laki työmarkkinatuesta annetun lain muuttamisesta](665.md) `665/1996`
+- [Laki työttömyysturvalain muuttamisesta ja väliaikaisesta muuttamisesta](666.md) `666/1996`
+- [Asetus eurooppalaisen radioviestintätoimiston \(ERO\) perustamista koskevan yleissopimuksenvoimaansaattamisesta](667.md) `667/1996`
+- [Asetus vuonna 1996 toimitettavissa Euroopan parlamentin edustajien vaaleissa ja kunnallisvaaleissaennakkoäänestyspaikkoina Ahvenanmaan maakunnassa toimivista postikonttoreista](668.md) `668/1996`
+- [Ulkoasiainministeriön päätös ulkoasiainhallinnon suoritteiden maksullisuudesta ja maksuperusteista](669.md) `669/1996`
+- [Rahoitustarkastuksen työjärjestyksen muuttaminen](670.md) `670/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](671.md) `671/1996`
+- [Asetus tuloveroasetuksen 4 §:n muuttamisesta](672.md) `672/1996`
+- [Valtioneuvoston päätös kahden poliisipiirin uudelleen järjestämisestä](673.md) `673/1996`
+- [Työministeriön päätös rakennustyötä veden alla tekevän sukeltajan pätevyydestä](674.md) `674/1996`
+- [Valtiovarainministeriön päätös sijoituspalveluyrityksen toimilupahakemuksen sisällöstä](675.md) `675/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](676.md) `676/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](677.md) `677/1996`
+- [Verohallituksen päätös verovuoden 1995 verotuksen päättymisestä](678.md) `678/1996`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Ruandaa koskevaan päätökseenperustuvien velvoitusten täyttämisestä annetun asetuksen muuttamisesta](679.md) `679/1996`
+- [Asetus alkoholijuomien vähittäismyynnistä lähettämällä niitä tilaajalle tai ostajalle](680.md) `680/1996`
+- [Asetus alkoholijuomista ja väkiviinasta annetun asetuksen 11 §:n kumoamisesta](681.md) `681/1996`
+- [Valtiovarainministeriön päätös kuntien ja seurakuntien vuoden 1993 yhteisövero\-osuuksista](682.md) `682/1996`
+- [Valtiovarainministeriön päätös kuntien ja seurakuntien yhteisövero\-osuuksista](683.md) `683/1996`
+- [Laki turvapaikan hakijoiden vastaanottoasemista ja \-keskuksista annetun lain 1 §:n muuttamisesta](684.md) `684/1996`
+- [Valtioneuvoston päätös eräiden Suomeen muuttavien henkilöiden toimeentulotuen sekä heille annetun sosiaali\- ja terveydenhuollon erityiskustannusten korvaamisesta annetun valtioneuvoston päätöksen muuttamisesta](685.md) `685/1996`
+- [Valtioneuvoston päätös maa\- ja puutarhatalouden harjoittajille maksettavasta pohjoisesta tuesta annetunvaltioneuvoston päätöksen muuttamisesta](686.md) `686/1996`
+- [Valtiovarainministeriön päätös julkishallinnon ja \-talouden tilintarkastuslautakunnan maksullisista suoritteista](687.md) `687/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](688.md) `688/1996`
+- [Verohallituksen päätös yleisestä tiedonantovelvollisuudesta](689.md) `689/1996`
+- [Verohallituksen päätös puun ostajan tiedonantovelvollisuudesta Metsäntutkimuslaitokselle](690.md) `690/1996`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeissa ja alkoholijuomissa käytettävistä muista lisäaineista kuin makeutusaineistaja väreistä](691.md) `691/1996`
+- [Laki pohjoismaisen sosiaalipalvelusopimuksen eräiden määräysten hyväksymisestä](692.md) `692/1996`
+- [Asetus pohjoismaisen sosiaalipalvelusopimuksen voimaansaattamisesta ja sen eräiden määräystenhyväksymisestä annetun lain voimaantulosta](693.md) `693/1996`
+- [Asetus Viron kanssa laittomasti maahan saapuneiden ja maassa oleskelevien henkilöidentakaisinottamisesta tehdyn sopimuksen voimaansaattamisesta](694.md) `694/1996`
+- [Asetus maasta toiseen ulottuvien vesistöjen ja kansainvälisten järvien suojelusta ja käytöstä tehdynyleissopimuksen voimaansaattamisesta](695.md) `695/1996`
+- [Maa\- ja metsätalousministeriön päätös merkkipiireistä sekä suurimmista sallituista poromääristä annetun maaja metsätalousministeriön päätöksen 1 §:n muuttamisesta](696.md) `696/1996`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta](697.md) `697/1996`
+- [Asetus Suomen tasavallan ja Alankomaiden kuningaskunnan välillä rikoksen johdosta tapahtuvaaluovuttamista koskevan eurooppalaisen yleissopimuksen soveltamisalan laajentamisestatehdyn sopimuksen voimaansaattamisesta](698.md) `698/1996`
+- [Eduskunnan päätös eduskunnan työjärjestyksen muuttamisesta](699.md) `699/1996`
+- [Eduskunnan päätös eduskunnan työjärjestyksen väliaikaisesta muuttamisesta](700.md) `700/1996`
+- [Eduskunnan päätös eduskunnan vaalisäännön 1 §:n muuttamisesta](701.md) `701/1996`
+- [Valtioneuvoston päätös Suomen Teollisuussijoitus Oy:n pääomasijoitustoiminnan yleisistä periaatteista](702.md) `702/1996`
+- [Sosiaali\- ja terveysministeriön päätös huumausaineita koskevasta kirjanpito\- ja tietojenantovelvollisuudesta sekä huumausaineidenkäsittelystä ja hävittämisestä annetun sosiaali\- ja terveysministeriön päätöksenmuuttamisesta](703.md) `703/1996`
+- [Sosiaali\- ja terveysministeriön päätös huumausaineista ja huumausaineen valmistuksessa käytettävistä aineista annetun sosiaali\- ja terveysministeriön päätöksen muuttamisesta](704.md) `704/1996`
+- [Liikenneministeriön päätös vaarallisten aineiden tiekuljetusten valvomiseksi suoritettavista tarkastuksista](705.md) `705/1996`
+- [Asetus vakuutusoikeudesta annetun asetuksen muuttamisesta](706.md) `706/1996`
+- [Asetus Svenska handelshögskolanista](707.md) `707/1996`
+- [Asetus eräiden korkeakoulujen opetuksesta ja opiskelijoista annetun asetuksen 1 §:n muuttamisesta](708.md) `708/1996`
+- [Maa\- ja metsätalousministeriön päätös mehiläisyhteiskuntien lukumäärään perustuvan tuen suuruudesta vuonna 1996](709.md) `709/1996`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikevalvonnan järjestämisestä](710.md) `710/1996`
+- [Valtiovarainministeriön päätös rahastoesitteestä](711.md) `711/1996`
+- [Valtioneuvoston päätös markan ulkoisesta arvosta](712.md) `712/1996`
+- [Asetus käräjäoikeuksien tuomiopiireistä ulosottovalituksia koskevissa asioissa](713.md) `713/1996`
+- [Asetus ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta](714.md) `714/1996`
+- [Valtioneuvoston päätös virastojen sineteistä annetun valtioneuvoston päätöksen muuttamisesta](715.md) `715/1996`
+- [Valtioneuvoston päätös valtion palvelussuhdeasuntojen vuokrien määräämisperusteista annetun valtioneuvoston päätöksen kumoamisesta](716.md) `716/1996`
+- [Valtioneuvoston päätös valtionosuuden perusteena olevien opetus\- ja kirjastotoimen yksikköhintojenkeskimääräisistä markkamääristä vuonna 1997](717.md) `717/1996`
+- [Valtiovarainministeriön päätös verovuoden 1995 maksuunpanotilityksestä](718.md) `718/1996`
+- [Valtioneuvoston päätös virastojen sineteistä annetun valtioneuvoston päätöksen muuttamisesta annetunvaltioneuvoston päätöksen voimaantulosäännöksen muuttamisesta](719.md) `719/1996`
+- [Maa\- ja metsätalousministeriön päätös Suomen lipun alla purjehtivien alusten harjoittaman lohen pyynnin keskeyttämisestä](720.md) `720/1996`
+- [Verohallituksen päätös vuoden 1997 ennakon alarajasta ja kantoeristä](721.md) `721/1996`
+- [Laki rikoslain 45 luvun 1 §:n muuttamisesta](722.md) `722/1996`
+- [Laki Kera Oy \-nimisestä osakeyhtiöstä annetun lain 2 §:n väliaikaisesta muuttamisesta](723.md) `723/1996`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Jugoslavian liittotasavaltaa \(Serbia ja Montenegro\) ja eräitä Kroatian tasavallan ja Bosnian ja Hertsegovinan tasavallan alueita koskeviin päätöksiin perustuvien velvoitusten täyttämisestä annetun asetuksen muuttamisesta](724.md) `724/1996`
+- [Asetus ydinturvallisuutta koskevan yleissopimuksen voimaansaattamisesta](725.md) `725/1996`
+- [Valtioneuvoston päätös maidon kuljetusavustuksista](726.md) `726/1996`
+- [Valtioneuvoston päätös maa\- ja puutarhatalouden harjoittajille maksettavasta pohjoisesta tuesta annetunvaltioneuvoston päätöksen muuttamisesta](727.md) `727/1996`
+- [Sosiaali\- ja terveysministeriön päätös väkevien alkoholijuomien mainonnasta ja muusta myynninedistämistoiminnasta sekä niitäkoskevan tuotetiedon antamisesta annetun päätöksen muuttamisesta](728.md) `728/1996`
+- [Asetus lapsen huoltoa ja tapaamisoikeutta koskevan päätöksen täytäntöönpanosta](729.md) `729/1996`
+- [Asetus ulosottomaksuista annetun asetuksen 5 §:n muuttamisesta](730.md) `730/1996`
+- [Asetus sakkorangaistuksen täytäntöönpanosta annetun asetuksen 37 ja 38 §:n muuttamisesta](731.md) `731/1996`
+- [Asetus lastensuojeluasetuksen 13 §:n muuttamisesta](732.md) `732/1996`
+- [Asetus valtiontalouden tarkastuksesta annetun asetuksen muuttamisesta](733.md) `733/1996`
+- [Valtioneuvoston päätös maankäyttölain ja eräiden muiden lakien mukaisten asuntolainojen korosta](734.md) `734/1996`
+- [Valtioneuvoston päätös vaikeista sairauksista ja niiden hoitoon käytettävistä kliinisistä ravintovalmisteista, joihinsuoritetaan sairausvakuutuslain mukaista korvausta, annetun valtioneuvoston päätöksen 1 ja2 §:n muuttamisesta](735.md) `735/1996`
+- [Sisäasiainministeriön päätös poliisin virkamerkistä ja henkilökortista annetun sisäasiainministeriön päätöksenkumoamisesta](736.md) `736/1996`
+- [Maa\- ja metsätalousministeriön päätös peltokasvien tukijärjestelmän soveltamisesta ja siihen liittyvästä kesannoimisesta vuonna1996 annetun maa\- ja metsätalousministeriön päätöksen 2 §:n muuttamisesta](737.md) `737/1996`
+- [Asetus valtioneuvoston ohjesäännön 51 §:n muuttamisesta](738.md) `738/1996`
+- [Työministeriön päätös biologisten tekijöiden luokituksesta](739.md) `739/1996`
+- [Maa\- ja metsätalousministeriön päätös eräiden kasvinviljelytuotteiden kansallisen tuotantotuen maksamiselle asetettavistalaatuvaatimuksista](740.md) `740/1996`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkelain 9 §:ssä tarkoitettujen indeksilukujen vahvistamisesta](741.md) `741/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](742.md) `742/1996`
+- [Laki eduskunnan virkamiehistä annetun lain muuttamisesta](743.md) `743/1996`
+- [Laki Pohjoismaiden neuvoston Suomen valtuuskunnasta annetun lain 3 ja 4 §:n muuttamisesta](744.md) `744/1996`
+- [Laki Euroopan neuvoston Suomen valtuuskunnasta annetun lain 5 §:n muuttamisesta](745.md) `745/1996`
+- [Laki arkistolain 1 §:n muuttamisesta](746.md) `746/1996`
+- [Laki valtion virkamieslain 3 ja 65 §:n muuttamisesta](747.md) `747/1996`
+- [Laki yhteistoiminnasta valtion virastoissa ja laitoksissa annetun lain 2 §:n muuttamisesta](748.md) `748/1996`
+- [Laki valtion maksuperustelain 1 ja 10 §:n muuttamisesta](749.md) `749/1996`
+- [Laki vesilain muuttamisesta](750.md) `750/1996`
+- [Eduskunnan päätös eduskunnan työjärjestyksen 8 §:n muuttamisesta](751.md) `751/1996`
+- [Eduskunnan päätös eduskunnan kanslian ohjesäännön muuttamisesta](752.md) `752/1996`
+- [Eduskunnan päätös eduskunnan tilisäännön muuttamisesta](753.md) `753/1996`
+- [Eduskunnan päätös Eduskunnan kirjaston ohjesäännön 1 §:n muuttamisesta](754.md) `754/1996`
+- [Asetus nuorten työntekijäin suojelusta annetun asetuksen muuttamisesta](755.md) `755/1996`
+- [Työministeriön päätös nuorille työntekijöille vaarallisista töistä](756.md) `756/1996`
+- [Asetus kansainvälisiä rautatiekuljetuksia koskevan yleissopimuksen \(COTIF\) muuttamisesta tehdynvuoden 1990 pöytäkirjan voimaansaattamisesta](757.md) `757/1996`
+- [Asetus kotimaisten kielten tutkimuskeskuksesta annetun asetuksen muuttamisesta](758.md) `758/1996`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta annetun asetuksenvoimaantulosäännöksen muuttamisesta](759.md) `759/1996`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta](760.md) `760/1996`
+- [Asetus ajoneuvojen katsastuksesta annetun asetuksen muuttamisesta](761.md) `761/1996`
+- [Asetus ajoneuvojen rekisteröinnistä annetun asetuksen muuttamisesta](762.md) `762/1996`
+- [Asetus aluksen miehityksestä ja laivahenkilökunnan pätevyydestä annetun asetuksen muuttamisesta](763.md) `763/1996`
+- [Kauppa\- ja teollisuusministeriön päätös kiinteistönvälittäjäasetuksen täytäntöönpanosta annetun kauppa\- ja teollisuusministeriönpäätöksen 2 §:n muuttamisesta](764.md) `764/1996`
+- [Maa\- ja metsätalousministeriön päätös pysyvän luonnonhaitan korvaamista koskevan tuen myöntämisen perusteena olevanyksikkömäärän rajoittamisesta](765.md) `765/1996`
+- [Sosiaali\- ja terveysministeriön päätös sosiaali\- ja terveydenhuollon tuotevalvontakeskuksen maksullisista suoritteista annetunsosiaali\- ja terveysministeriön päätöksen muuttamisesta](766.md) `766/1996`
+- [Oikeusministeriön kuulutus Suomesta Euroopan parlamenttiin valittavien edustajien vaalien tuloksesta](767.md) `767/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](768.md) `768/1996`
+- [Verohallituksen päätös yhteisökoron laskemisesta](769.md) `769/1996`
+- [Laki Suomen kreikkalaiskatolisen kirkkokunnan seurakunnille suoritettavasta verohyvityksestäannetun lain kumoamisesta](770.md) `770/1996`
+- [Laki kirkkolain muuttamisesta](771.md) `771/1996`
+- [Valtioneuvoston päätös saaristokunnista ja muiden kuntien saaristo\-osista, joihin sovelletaan saaristokuntaa koskeviasäännöksiä](772.md) `772/1996`
+- [Maa\- ja metsätalousministeriön päätös Suomen lipun alla purjehtivien alusten harjoittaman turskan pyynnin keskeyttämisestä](773.md) `773/1996`
+- [Maa\- ja metsätalousministeriön päätös Suomen lipun alla purjehtivien alusten lohen pyynnin keskeyttämisestä Latvian vesialueella](774.md) `774/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](775.md) `775/1996`
+- [Laki merimieseläkelain 1 §:n muuttamisesta](776.md) `776/1996`
+- [Laki terveydensuojelulain muuttamisesta](777.md) `777/1996`
+- [Asetus kansainvälisistä pääliikenneväylistä tehdyn eurooppalaisen sopimuksen \(AGR\) liitteen Imuutosten voimaansaattamisesta](778.md) `778/1996`
+- [Asetus Intian kanssa tehdyn lentoliikennesopimuksen voimaansaattamisesta](779.md) `779/1996`
+- [Valtioneuvoston päätös teknisen avun käytöstä LEADER II \-yhteisöaloiteohjelman puitteissa](780.md) `780/1996`
+- [Kauppa\- ja teollisuusministeriön päätös kuluttajaviraston maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön päätök\-sen muuttamisesta](781.md) `781/1996`
+- [Maa\- ja metsätalousministeriön päätös metsäkeskusten ja Metsätalouden kehittämiskeskus Tapion maksullisista suoritteista](782.md) `782/1996`
+- [Maa\- ja metsätalousministeriön päätös perunanviljelijälle maksettavan kansallisen tuen suuruudesta](783.md) `783/1996`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksenmuuttamisesta](784.md) `784/1996`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosastonpäätös mehiläisten esikotelomädän vuoksi perustettavasta rajoitusalueesta](785.md) `785/1996`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosastonpäätös mehiläisten esikotelomädän vuoksi perustettavasta rajoitusalueesta](786.md) `786/1996`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosastonpäätös mehiläisten esikotelomädän vuoksi perustettavasta rajoitusalueesta](787.md) `787/1996`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosastonpäätös mehiläisten esikotelomädän vuoksi perustettavasta rajoitusalueesta](788.md) `788/1996`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosastonpäätös mehiläisten esikotelomädän vuoksi perustettavasta rajoitusalueesta](789.md) `789/1996`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosastonpäätös mehiläisten esikotelomädän vuoksi perustettavasta rajoitusalueesta](790.md) `790/1996`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosastonpäätös mehiläisten esikotelomädän vuoksi perustettavasta rajoitusalueesta](791.md) `791/1996`
+- [Laki ulosottolain muuttamisesta](792.md) `792/1996`
+- [Laki rahan, arvo\-osuuksien, arvopaperien tai asiakirjain tallettamisesta velan maksuna taivapautumiseksi muusta suoritusvelvollisuudesta annetun lain muuttamisesta](793.md) `793/1996`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain muuttamisesta](794.md) `794/1996`
+- [Laki vesilain 11 luvun 15 §:n muuttamisesta](795.md) `795/1996`
+- [Laki vesistöhankkeiden johdosta suoritettavista tilusjärjestelyistä annetun lain 17 §:nmuuttamisesta](796.md) `796/1996`
+- [Laki maanvuokralain 41 §:n muuttamisesta](797.md) `797/1996`
+- [Laki muinaismuistolain 7 §:n muuttamisesta](798.md) `798/1996`
+- [Laki Suomen ja ulkomaan viranomaisten yhteistoiminnasta oikeudenkäynnissä sekä ulkomaantuomioistuimen päätöksen täytäntöönpanosta eräissä tapauksissa annetun lain 17 ja 18 §:nmuuttamisesta](799.md) `799/1996`
+- [Laki Pohjoismaiden kesken tehdyn yksityisoikeudellista vaatimusta koskevien tuomioidentunnustamista ja täytäntöönpanoa tarkoittavan sopimuksen eräiden määräystenhyväksymisestä ja sopimuksen soveltamisesta annetun lain 2 §:n muuttamisesta](800.md) `800/1996`
+- [Laki yksityisoikeudellista vaatimusta koskevien pohjoismaisten tuomioiden tunnustamisesta jatäytäntöönpanosta annetun lain muuttamisesta](801.md) `801/1996`
+- [Laki Itävallassa annettujen yksityisoikeudellista vaatimusta koskevien tuomioiden tunnustamisesta ja täytäntöönpanosta annetun lain muuttamisesta](802.md) `802/1996`
+- [Laki konkurssisäännön 54 §:n muuttamisesta](803.md) `803/1996`
+- [Laki ennakkoperintälain 29 §:n muuttamisesta](804.md) `804/1996`
+- [Laki arvonlisäverolain 216 §:n muuttamisesta](805.md) `805/1996`
+- [Laki merimieseläkelain 58 §:n muuttamisesta](806.md) `806/1996`
+- [Laki asumisoikeusasunnoista annetun lain 38 §:n muuttamisesta](807.md) `807/1996`
+- [Laki kaivoslain 15 ja 65 §:n muuttamisesta](808.md) `808/1996`
+- [Laki hovioikeuslain 2 §:n muuttamisesta](809.md) `809/1996`
+- [Laki varallisuusoikeudellisista oikeustoimista annetun lain 17 §:n muuttamisesta](810.md) `810/1996`
+- [Laki maksuttomasta oikeudenkäynnistä annetun lain 9 §:n muuttamisesta](811.md) `811/1996`
+- [Laki holhouslain 76 §:n muuttamisesta](812.md) `812/1996`
+- [Laki verojen ja maksujen perimisestä ulosottotoimin annetun lain 9 §:n muuttamisesta](813.md) `813/1996`
+- [Laki vapaaehtoisista huutokaupoista annetun asetuksen 6 §:n muuttamisesta](814.md) `814/1996`
+- [Laki sakkorangaistuksen täytäntöönpanosta annetun lain 7 §:n muuttamisesta](815.md) `815/1996`
+- [Laki kiinteistönmuodostamislain 288 §:n muuttamisesta](816.md) `816/1996`
+- [Laki välimiesmenettelystä annetun lain 43 ja 55 §:n muuttamisesta](817.md) `817/1996`
+- [Laki ulosoton viranomaisia ja muutoksenhakua sekä ulosotonhaltijan lakkauttamista koskevan uudistuksen siirtymäsäännöksistä](818.md) `818/1996`
+- [Kauppa\- ja teollisuusministeriön päätös eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](819.md) `819/1996`
+- [Laki arvo\-osuustileistä annetun lain 29 ja 30 §:n muuttamisesta](820.md) `820/1996`
+- [Asetus Latvian kanssa yhteistyöstä kulttuurin, opetuksen ja tieteen alalla tehdyn sopimuksenvoimaansaattamisesta](821.md) `821/1996`
+- [Valtion virkamiesten työaika\-asetus](822.md) `822/1996`
+- [Valtioneuvoston päätös yritystuesta annetun valtioneuvoston päätöksen 14 c §:n muuttamisesta](823.md) `823/1996`
+- [Liikenneministeriön päätös henkilövuokra\-autojen reittitaksoista annetun päätöksen voimassaoloajan jatkamisesta](824.md) `824/1996`
+- [Opetusministeriön päätös tallentamattomien ääni\- ja kuvanauhojen maahantuonnista ja valmistuksesta suoritettavantekijänoikeudellisen maksun suuruudesta](825.md) `825/1996`
+- [Verohallituksen päätös matkakuluvähennyksen määrästä vuodelta 1996 toimitettavassa verotuksessa](826.md) `826/1996`
+- [Laki kansaneläkelain muuttamisesta](827.md) `827/1996`
+- [Laki perhe\-eläkelain muuttamisesta](828.md) `828/1996`
+- [Laki rintamasotilaseläkelain muuttamisesta](829.md) `829/1996`
+- [Laki eläkkeensaajien asumistukilain muuttamisesta](830.md) `830/1996`
+- [Laki vammaistukilain 8 §:n muuttamisesta](831.md) `831/1996`
+- [Laki sairausvakuutuslain muuttamisesta](832.md) `832/1996`
+- [Laki työttömyysturvalain muuttamisesta](833.md) `833/1996`
+- [Laki työvoimapoliittisesta aikuiskoulutuksesta annetun lain 21 §:n muuttamisesta](834.md) `834/1996`
+- [Laki työntekijäin eläkelain 19 a ja 19 d §:n muuttamisesta](835.md) `835/1996`
+- [Laki merimieseläkelain 28 b ja 63 a §:n muuttamisesta](836.md) `836/1996`
+- [Laki valtion eläkelain 14 ja 17 §:n muuttamisesta](837.md) `837/1996`
+- [Laki tapaturmavakuutuslain 61 a §:n muuttamisesta](838.md) `838/1996`
+- [Laki työntekijäin eläkelain 12 ja 15 §:n muuttamisesta](839.md) `839/1996`
+- [Laki merimieseläkelain 3 a §:n muuttamisesta](840.md) `840/1996`
+- [Laki yrittäjien eläkelain 9 §:n muuttamisesta](841.md) `841/1996`
+- [Laki maatalousyrittäjien eläkelain 10 §:n muuttamisesta](842.md) `842/1996`
+- [Laki palo\- ja pelastustoimesta annetun lain 10 §:n muuttamisesta](843.md) `843/1996`
+- [Laki kuntalain muuttamisesta](844.md) `844/1996`
+- [Laki kansaneläkelaitoksen rahoituksen väliaikaisesta muuttamisesta vuonna 1997](845.md) `845/1996`
+- [Laki öljyjätemaksusta annetun lain muuttamisesta](846.md) `846/1996`
+- [Asetus metsäveroasetuksen muuttamisesta](847.md) `847/1996`
+- [Sosiaali\- ja terveysministeriön päätös toimeentulotukitehtävien siirtoa koskevaan kokeiluun 1995–1996 osallistuvista kunnista annetun päätöksen muuttamisesta](848.md) `848/1996`
+- [Laki Argentiinan kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](849.md) `849/1996`
+- [Asetus Argentiinan kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksenvälttämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräystenhyväksymisestä annetun lain voimaantulosta](850.md) `850/1996`
+- [Asetus Reservin Aliupseerien Liiton ansiorististä annetun asetuksen muuttamisesta](851.md) `851/1996`
+- [Öljyvahinkovastuuasetus](852.md) `852/1996`
+- [Asetus yksityisoikeudellista vaatimusta koskevien pohjoismaisten tuomioiden täytäntöönpanostaannetun asetuksen muuttamisesta](853.md) `853/1996`
+- [Asetus ulosottoasetuksen muuttamisesta](854.md) `854/1996`
+- [Laki työneuvostosta ja työsuojelun poikkeusluvista annetun lain muuttamisesta](855.md) `855/1996`
+- [Laki vuosilomalain 2 §:n muuttamisesta](856.md) `856/1996`
+- [Laki yhteistoiminnasta yrityksissä annetun lain 2 §:n muuttamisesta](857.md) `857/1996`
+- [Laki työturvallisuuslain 7 §:n muuttamisesta](858.md) `858/1996`
+- [Laki nuorista työntekijöistä annetun lain 14 §:n muuttamisesta](859.md) `859/1996`
+- [Laki kotitaloustyöntekijän työsuhteesta annetun lain 3 §:n muuttamisesta](860.md) `860/1996`
+- [Laki työaikalain 3 ja 46 §:n muuttamisesta](861.md) `861/1996`
+- [Asetus työneuvostosta ja työsuojelun poikkeusluvista annetun asetuksen 1 ja 2 §:n kumoamisesta](862.md) `862/1996`
+- [Asetus työneuvoston käsiteltävistä asioista annetun asetuksen kumoamisesta](863.md) `863/1996`
+- [Maa\- ja metsätalousministeriön päätös emakoiden lukumäärän perusteella maksettavasta kansallisen tuen määrästä](864.md) `864/1996`
+- [Verohallituksen päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](865.md) `865/1996`
+- [Verohallituksen päätös pidätystodistuksen antamisvelvollisuuden rajoittamisesta](866.md) `866/1996`
+- [Ympäristöministeriön päätös yleisimpien jätteiden sekä ongelmajätteiden luettelosta](867.md) `867/1996`
+- [Valtioneuvoston päätös eräiden ulkomaanliikenteessä käytettävälle kuljetuskalustolle myönnettyjen tukien takaisinperimisestä luopumisesta](868.md) `868/1996`
+- [Valtioneuvoston päätös yötyötä tekevälle työntekijälle järjestettävästä kuljetuksesta](869.md) `869/1996`
+- [Valtiovarainministeriön päätös verohallinnon maksullisista suoritteista](870.md) `870/1996`
+- [Sisäasiainministeriön päätös sisäasiainministeriön maksullisista suoritteista](871.md) `871/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](872.md) `872/1996`
+- [Valtiovarainministeriön päätös markan ulkoisesta arvosta annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](873.md) `873/1996`
+- [Laki veronkantolain muuttamisesta](874.md) `874/1996`
+- [Laki vaikeavammaisille yrittäjille myönnettävistä veronhuojennuksista annetun lain 3 §:n muuttamisesta](875.md) `875/1996`
+- [Laki kiinteistörekisterilain muuttamisesta](876.md) `876/1996`
+- [Laki eräistä vesitilusjärjestelyistä annetun lain 7 a ja 8 §:n muuttamisesta](877.md) `877/1996`
+- [Laki kiinteistötoimitusmaksusta annetun lain muuttamisesta](878.md) `878/1996`
+- [Laki yksityisistä teistä annetun lain 37 §:n muuttamisesta](879.md) `879/1996`
+- [Asetus poliisiasetuksen muuttamisesta](880.md) `880/1996`
+- [Asetus viihdelaiteasetuksen 4 §:n muuttamisesta](881.md) `881/1996`
+- [Asetus potilasvahinkolautakunnasta annetun asetuksen muuttamisesta](882.md) `882/1996`
+- [Asetus työntekijäin eläkelain 7 a §:ssä tarkoitetun kertoimen julkaisemisesta vuodelle 1997](883.md) `883/1996`
+- [Sosiaali\- ja terveysministeriön päätös sairausvakuutuslain 5 a §:ssä tarkoitettujen eräiden reseptittä myytävien lääkkeidenkorvaamisesta](884.md) `884/1996`
+- [Laki julkisesta notaarista annetun lain 1 ja 2 §:n muuttamisesta](885.md) `885/1996`
+- [Laki pakkokeinolain 1 luvun 6 §:n muuttamisesta](886.md) `886/1996`
+- [Laki haastemieslain muuttamisesta](887.md) `887/1996`
+- [Laki saamen kielen käyttämisestä viranomaisissa annetun lain 9 §:n muuttamisesta](888.md) `888/1996`
+- [Laki tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuistaannetun lain muuttamisesta](889.md) `889/1996`
+- [Asetus valtioneuvoston oikeuskanslerin ohjesäännön 11 ja 14 §:n muuttamisesta](890.md) `890/1996`
+- [Asetus tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuistaannetun asetuksen muuttamisesta](891.md) `891/1996`
+- [Asetus kaupanvahvistaja\-asetuksen 1 §:n muuttamisesta](892.md) `892/1996`
+- [Asetus ulkomaisten yleisten asiakirjojen laillistamisvaatimuksen poistamisesta tehdynyleissopimuksen eräiden määräysten hyväksymisestä annetun lain täytäntöönpanosta jasoveltamisesta annetun asetuksen 1 §:n muuttamisesta](893.md) `893/1996`
+- [Valtioneuvoston päätös ympäristönsuojelun edistämiseen myönnettävien avustusten yleisistä ehdoista](894.md) `894/1996`
+- [Laki lääkelain muuttamisesta](895.md) `895/1996`
+- [Laki apteekkimaksusta annetun lain muuttamisesta](896.md) `896/1996`
+- [Laki sairausvakuutuslain 5 a §:n väliaikaisesta muuttamisesta](897.md) `897/1996`
+- [Laki lääkelain 66 §:n väliaikaisesta muuttamisesta](898.md) `898/1996`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 5 §:n väliaikaisesta muuttamisesta](899.md) `899/1996`
+- [Laki erikoissairaanhoitolain 56 a §:n väliaikaisesta muuttamisesta](900.md) `900/1996`
+- [Laki tapaturma\- ja liikennevakuutuslaitoksilta vuodelta 1997 perittävästä maksusta](901.md) `901/1996`
+- [Laki maatalousyrittäjien tapaturmavakuutuslain muuttamisesta](902.md) `902/1996`
+- [Laki sairausvakuutuslain mukaisen omavastuuajan korvaamisesta maatalousyrittäjille annetun lain3 ja 5 §:n muuttamisesta](903.md) `903/1996`
+- [Asetus lääkeasetuksen 11 §:n 1 momentin ja 25 §:n muuttamisesta](904.md) `904/1996`
+- [Asetus sairaaloissa ja terveyskeskuksissa säteilyn käyttötehtävissä työskentelevien henkilöidenvuosilomasta annetun asetuksen 2 ja 6 §:n muuttamisesta](905.md) `905/1996`
+- [Laki yhteistoiminnasta yrityksissä annetun lain muuttamisesta](906.md) `906/1996`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksenmuuttamisesta](907.md) `907/1996`
+- [Valtiovarainministeriön päätös kuntien ja seurakuntien yhteisövero\-osuuksista annetun valtiovarainministeriön päätöksenoikaisemisesta](908.md) `908/1996`
+- [Laki työvoimapoliittisesta aikuiskoulutuksesta annetun lain muuttamisesta](909.md) `909/1996`
+- [Laki työttömyysvakuutusmaksusta vuonna 1997](910.md) `910/1996`
+- [Laki vuodelta 1997 perittävästä palkansaajan työttömyysvakuutusmaksusta](911.md) `911/1996`
+- [Laki työttömyyskassalain muuttamisesta ja väliaikaisesta muuttamisesta](912.md) `912/1996`
+- [Asetus Helsingin kauppakorkeakoulusta](913.md) `913/1996`
+- [Asetus eräiden korkeakoulujen opetuksesta ja opiskelijoista annetun asetuksen 1 §:n muuttamisesta](914.md) `914/1996`
+- [Asetus Helsingin kauppakorkeakoulun ylioppilaskunnasta annetun asetuksen 7 §:n muuttamisesta](915.md) `915/1996`
+- [Asetus Vaasan yliopistosta annetun asetuksen 20 ja 21 §:n muuttamisesta](916.md) `916/1996`
+- [Asetus räjähdysvaarallisiin ilmaseoksiin tarkoitetuista laitteista ja suojausjärjestelmistä](917.md) `917/1996`
+- [Kauppa\- ja teollisuusministeriön päätös räjähdysvaarallisiin ilmaseoksiin tarkoitetuista laitteista ja suojausjärjestelmistä](918.md) `918/1996`
+- [Laki valtioneuvoston oikeudesta luovuttaa Lapuan patruunatehtaan hallinnassa olevaa omaisuuttaperustettavalle osakeyhtiölle sekä ryhtyä eräisiin muihin yhtiön perustamiseen liittyviinjärjestelyihin annetun lain kumoamisesta](919.md) `919/1996`
+- [Asetus asevelvollisuuslain soveltamisesta annetun asetuksen 72 §:n muuttamisesta](920.md) `920/1996`
+- [Asetus työeläkekassan ohjesäännön sisältävän asetuksen muuttamisesta](921.md) `921/1996`
+- [Laki indeksiehdon käytön rajoittamisesta annetun lain muuttamisesta](922.md) `922/1996`
+- [Vuoden 1997 veroasteikkolaki](923.md) `923/1996`
+- [Laki varallisuusverolain muuttamisesta](924.md) `924/1996`
+- [Laki yhtiöveron hyvityksestä annetun lain 1 ja 6 §:n muuttamisesta](925.md) `925/1996`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](926.md) `926/1996`
+- [Laki tuloverolain muuttamisesta](927.md) `927/1996`
+- [Laki eläinlääkärintoimen harjoittamisesta annetun lain muuttamisesta](928.md) `928/1996`
+- [Laki rakennuslain muuttamisesta](929.md) `929/1996`
+- [Puolustusministeriön ilmoitus eräistä päätöksistä](930.md) `930/1996`
+- [Varainsiirtoverolaki](931.md) `931/1996`
+- [Laki leimaverolain muuttamisesta](932.md) `932/1996`
+- [Laki maakaaren muuttamisesta](933.md) `933/1996`
+- [Laki rikoslain 29 luvun 4 §:n muuttamisesta](934.md) `934/1996`
+- [Laki tuomiokapitulien ylläpidon ja kuurojenpapin virkojen siirtämisestä sekä eräiden tonttienluovuttamisesta Suomen evankelis\-luterilaiselle kirkolle](935.md) `935/1996`
+- [Laki kirkkolain muuttamisesta](936.md) `936/1996`
+- [Laki kirkkolain muuttamisesta](937.md) `937/1996`
+- [Laki evankelis\-luterilaisen kirkon eläkelain muuttamisesta](938.md) `938/1996`
+- [Laki valtion virkamieslain 68 §:n muuttamisesta](939.md) `939/1996`
+- [Laki valtion virkaehtosopimuslain 1 §:n muuttamisesta](940.md) `940/1996`
+- [Asetus maaseutuelinkeinoasetuksen muuttamisesta](941.md) `941/1996`
+- [Asetus kiinteistötoimitusmaksusta](942.md) `942/1996`
+- [Laki korkeakoululaitoksen kehittämisestä annetun lain muuttamisesta](943.md) `943/1996`
+- [Liikenneministeriön päätös lääninhallitusten kautta suunnattavasta joukkoliikennepalvelujen valtion rahoituksestaannetun liikenneministeriön päätöksen muuttamisesta](944.md) `944/1996`
+- [Valtiovarainministeriön päätös rakennusten jälleenhankinta\-arvon perusteista](945.md) `945/1996`
+- [Valtiovarainministeriön päätös vesivoimalaitoksen ja sen rakenteiden jälleenhankinta\-arvon perusteista](946.md) `946/1996`
+- [Verohallituksen päätös niistä perusteista, joiden mukaan muun kiinteistön kuin maatilan maapohjan verotusarvo lasketaan vuodelta 1996 toimitettavassa verotuksessa](947.md) `947/1996`
+- [Laki laintarkastuskunnasta annetun lain ja asetuksen kumoamisesta](948.md) `948/1996`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](949.md) `949/1996`
+- [Laki sijoituspalveluyrityksistä annetun lain muuttamisesta](950.md) `950/1996`
+- [Laki sijoitusrahastolain 10 §:n muuttamisesta](951.md) `951/1996`
+- [Laki rahoitustarkastuslain muuttamisesta](952.md) `952/1996`
+- [Asetus työvoimapoliittisesta aikuiskoulutuksesta annetun asetuksen 14 ja 18 §:n muuttamisesta](953.md) `953/1996`
+- [Valtioneuvoston päätös lihan kuljetusavustuksista vuonna 1996](954.md) `954/1996`
+- [Kauppa\- ja teollisuusministeriön päätös telakkateollisuuden kilpailuedellytysten turvaamiseen myönnettävästä valtion avustuksesta](955.md) `955/1996`
+- [Verohallituksen päätös vuodelta 1997 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](956.md) `956/1996`
+- [Laki vieraskielisistä yksityisistä kouluista annetun lain 2 §:n muuttamisesta](957.md) `957/1996`
+- [Kaupanvahvistaja\-asetus](958.md) `958/1996`
+- [Asetus ulosottoasetuksen muuttamisesta](959.md) `959/1996`
+- [Asetus lainhuuto\- ja kiinnitysrekisteristä](960.md) `960/1996`
+- [Asetus yrityskiinnitysasetuksen 12 §:n muuttamisesta](961.md) `961/1996`
+- [Kauppa\- ja teollisuusministeriön päätös vähittäiskaupan ja eräiden työliikkeiden liikeajasta annetun lain mukaisistasunnuntaiaukiolopäivistä](962.md) `962/1996`
+- [Asetus eräiden maataloustuotteiden tuonnin tarkkailusta annetun asetuksen 5 §:n ja liitteenmuuttamisesta](963.md) `963/1996`
+- [Asetus ajoneuvojen katsastuksesta annetun asetuksen muuttamisesta](964.md) `964/1996`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta](965.md) `965/1996`
+- [Asetus ajokorttiasetuksen muuttamisesta annetun asetuksen voimaantulosäännöksen 6 ja 7 momentin muuttamisesta](966.md) `966/1996`
+- [Julistus neljästä kiitos\-, katumus\- ja rukouspäivästä, jotka on koko maassa juhlallisesti vietettävävuonna 1997](967.md) `967/1996`
+- [Laki kalastuslain muuttamisesta](968.md) `968/1996`
+- [Asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteen muutosten voimaansaattamisesta](969.md) `969/1996`
+- [Kiinteistörekisteriasetus](970.md) `970/1996`
+- [Valtioneuvoston päätös erityishuoltopiireistä annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](971.md) `971/1996`
+- [Sosiaali\- ja terveysministeriön päätös sosiaali\- ja terveysalan tutkimus\- ja kehittämiskeskuksen maksullisista suoritteista](972.md) `972/1996`
+- [Sosiaali\- ja terveysministeriön päätös valtion mielisairaaloiden maksullisista suoritteista](973.md) `973/1996`
+- [Sosiaali\- ja terveysministeriön päätös valtion koulukotien maksullisista suoritteista](974.md) `974/1996`
+- [Sosiaali\- ja terveysministeriön päätös terveydenhuollon oikeusturvakeskuksen maksullisista suoritteista](975.md) `975/1996`
+- [Suomen Pankin ilmoitus vahvistetusta viitekorosta ja viivästyskorosta](976.md) `976/1996`
+- [Laki sotilasvammalain muuttamisesta](977.md) `977/1996`
+- [Laki rintamaveteraanien kuntoutuksesta annetun lain 5 §:n väliaikaisesta muuttamisesta](978.md) `978/1996`
+- [Laki kansaneläkelain muuttamisesta](979.md) `979/1996`
+- [Laki kansaneläkelain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](980.md) `980/1996`
+- [Laki eläkkeensaajien asumistukilain muuttamisesta](981.md) `981/1996`
+- [Laki perhe\-eläkelain muuttamisesta](982.md) `982/1996`
+- [Laki rintamasotilaseläkelain muuttamisesta](983.md) `983/1996`
+- [Laki ulkomaille maksettavasta rintamalisästä annetun lain muuttamisesta](984.md) `984/1996`
+- [Laki vammaistukilain 1 ja 8 §:n muuttamisesta](985.md) `985/1996`
+- [Laki sotilasavustuslain muuttamisesta](986.md) `986/1996`
+- [Laki kuntoutusrahalain muuttamisesta](987.md) `987/1996`
+- [Laki kansaneläkelaissa säädettyjen eläkkeiden ja avustusten sitomisesta elinkustannuksiin annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](988.md) `988/1996`
+- [Laki asumistukilain 1 ja 2 §:n muuttamisesta](989.md) `989/1996`
+- [Laki asumiseen perustuvan sosiaaliturvalainsäädännön soveltamisesta annetun lain 1 §:n muuttamisesta](990.md) `990/1996`
+- [Laki työntekijäin eläkelain 4 a ja 8 §:n muuttamisesta](991.md) `991/1996`
+- [Laki valtion perhe\-eläkelain 3 ja 6 §:n muuttamisesta](992.md) `992/1996`
+- [Laki työmarkkinatuesta annetun lain 2 §:n muuttamisesta](993.md) `993/1996`
+- [Laki kansaneläkelain muuttamisesta](994.md) `994/1996`
+- [Laki sairausvakuutuslain muuttamisesta](995.md) `995/1996`
+- [Laki tuloverolain muuttamisesta](996.md) `996/1996`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](997.md) `997/1996`
+- [Laki vuodelta 1997 suoritettavista sairausvakuutusmaksuista, työnantajan kansaneläkemaksusta ja työnantajan lapsilisämaksusta](998.md) `998/1996`
+- [Laki kansaneläkelain 59 §:n väliaikaisesta muuttamisesta](999.md) `999/1996`
+- [Laki sairausvakuutuslain 59 §:n väliaikaisesta muuttamisesta](1000.md) `1000/1996`
+- [Laki perhe\-eläkelain 36 §:n muuttamisesta](1001.md) `1001/1996`
+- [Laki eläkkeensaajien asumistukilain 11 §:n muuttamisesta](1002.md) `1002/1996`
+- [Laki erikoissairaanhoitolain muuttamisesta](1003.md) `1003/1996`
+- [Laki kansanterveyslain 40 §:n muuttamisesta](1004.md) `1004/1996`
+- [Laki Helsingin yliopistollisesta keskussairaalasta annetun lain 7 §:n muuttamisesta](1005.md) `1005/1996`
+- [Asetus erikoissairaanhoidon tasausjärjestelmän toteuttamisesta lääkekustannuksiin](1006.md) `1006/1996`
+- [Asetus steriloimisasetuksen 2 §:n 2 momentin 1 kohdan kumoamisesta](1007.md) `1007/1996`
+- [Asetus raskauden keskeyttämisestä annetun asetuksen 3 §:n 2 momentin 1 kohdan kumoamisesta](1008.md) `1008/1996`
+- [Asetus kastroimisasetuksen 1 §:n 2 momentin 1 kohdan kumoamisesta](1009.md) `1009/1996`
+- [Asetus ihmisen elimien ja kudoksien irrottamisesta lääketieteelliseen käyttöön annetun asetuksen 2 §:n 1 kohdan ja 3 §:n 1 kohdan kumoamisesta](1010.md) `1010/1996`
+- [Valtioneuvoston päätös sairausvakuutuslain 5 a §:n 1 momentissa tarkoitetuista lääkkeistä](1011.md) `1011/1996`
+- [Valtioneuvoston päätös öljyjätemaksuina kertyvien varojen käytöstä annetun valtioneuvoston päätöksen muuttamisesta](1012.md) `1012/1996`
+- [Laki kuntien ympäristönsuojelun hallinnosta annetun lain muuttamisesta](1013.md) `1013/1996`
+- [Laki ympäristölupamenettelylain muuttamisesta](1014.md) `1014/1996`
+- [Laki jätelain muuttamisesta](1015.md) `1015/1996`
+- [Laki meluntorjuntalain muuttamisesta](1016.md) `1016/1996`
+- [Laki ilmansuojelulain muuttamisesta](1017.md) `1017/1996`
+- [Laki maastoliikennelain muuttamisesta](1018.md) `1018/1996`
+- [Laki ulkoilulain muuttamisesta](1019.md) `1019/1996`
+- [Laki vesilain muuttamisesta](1020.md) `1020/1996`
+- [Asetus Suomen ulkomaanedustustojen sijainnista annetun asetuksen muuttamisesta](1021.md) `1021/1996`
+- [Laki vakuutusyhtiölain muuttamisesta](1022.md) `1022/1996`
+- [Laki vakuutusyhdistyslain muuttamisesta](1023.md) `1023/1996`
+- [Valtioneuvoston päätös metsätaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](1024.md) `1024/1996`
+- [Valtioneuvoston päätös porotaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](1025.md) `1025/1996`
+- [Työministeriön päätös merionnettomuudessa menetetystä henkilökohtaisesta omaisuudesta työntekijälle tulevan korvauksen perusteista annetun valtioneuvoston päätöksen 1 ja 2 §:ssä tarkoitetuista markkamääristä vuonna 1997](1026.md) `1026/1996`
+- [Sosiaali\- ja terveysministeriön päätös vaarallisten aineiden luettelosta](1027.md) `1027/1996`
+- [Valtioneuvoston päätös rakennusurakkasopimuksissa käytettävistä indeksiehdoista](1028.md) `1028/1996`
+- [Valtioneuvoston päätös vuoden 1996 puutarhatuotannon tuen jakoperusteista](1029.md) `1029/1996`
+- [Valtioneuvoston päätös eräistä maa\- ja puutarhataloustuottajille vuodelta 1997 maksettavista tuista](1030.md) `1030/1996`
+- [Valtioneuvoston päätös maa\- ja puutarhatalouden harjoittajille maksettavasta pohjoisesta tuesta annetunvaltioneuvoston päätöksen muuttamisesta](1031.md) `1031/1996`
+- [Kauppa\- ja teollisuusministeriön päätös turvatekniikan keskuksen suoritteiden maksullisuudesta ja maksuperusteista](1032.md) `1032/1996`
+- [Kauppa\- ja teollisuusministeriön päätös valtion teknillisen tutkimuskeskuksen suoritteista perittävistä maksuista](1033.md) `1033/1996`
+- [Laki yleisestä oikeusaputoiminnasta annetun lain muuttamisesta](1034.md) `1034/1996`
+- [Laki kriminaalihuollon järjestämisestä ja rahoituksesta](1035.md) `1035/1996`
+- [Laki viranomaisten määräyksiä ja ohjeita koskevista toimenpiteistä annetun lain muuttamisesta](1036.md) `1036/1996`
+- [Laki opettajankoulutuslain 11 §:n muuttamisesta](1037.md) `1037/1996`
+- [Laki kuntien kulttuuritoiminnasta annetun lain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1038.md) `1038/1996`
+- [Laki taiteilijaprofessorin viroista ja valtion taiteilija\-apurahoista annetun lain väliaikaisestamuuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1039.md) `1039/1996`
+- [Laki eräistä kirjailijoille ja kääntäjille suoritettavista apurahoista ja avustuksista annetun lainväliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1040.md) `1040/1996`
+- [Laki kirjastolain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1041.md) `1041/1996`
+- [Asetus valtion talousarviosta annetun asetuksen muuttamisesta](1042.md) `1042/1996`
+- [Asetus opintotukiasetuksen 32 §:n muuttamisesta](1043.md) `1043/1996`
+- [Opetusministeriön päätös tuomiokapitulien suoritteiden maksullisuudesta annetun opetusministeriön päätöksen kumoamisesta](1044.md) `1044/1996`
+- [Laki kalastuslain muuttamisesta](1045.md) `1045/1996`
+- [Laki maatilatalouden kehittämisrahastosta annetun lain muuttamisesta](1046.md) `1046/1996`
+- [Laki vuosilomalain 6 §:n muuttamisesta](1047.md) `1047/1996`
+- [Laki palkkaturvalain 12 §:n muuttamisesta](1048.md) `1048/1996`
+- [Laki merimiesten palkkaturvalain 12 §:n muuttamisesta](1049.md) `1049/1996`
+- [Asetus ammatillisen peruskoulutuksen koulutusaloista](1050.md) `1050/1996`
+- [Asetus vaarallisten aineiden kuljettajien ajoluvasta annetun asetuksen muuttamisesta](1051.md) `1051/1996`
+- [Asetus työnantajan sosiaaliturvamaksusta annetun asetuksen 1 §:n muuttamisesta](1052.md) `1052/1996`
+- [Asetus työehtosopimuslaissa tarkoitettujen hyvityssakkojen enimmäismäärien tarkistamisesta](1053.md) `1053/1996`
+- [Asetus valtion asuntorahastosta annetun asetuksen 1 ja 15 §:n muuttamisesta](1054.md) `1054/1996`
+- [Laki yhdyskuntapalvelusta](1055.md) `1055/1996`
+- [Laki rikoslain 2 luvun 1 §:n muuttamisesta](1056.md) `1056/1996`
+- [Laki rangaistusten täytäntöönpanosta annetun lain muuttamisesta](1057.md) `1057/1996`
+- [Laki nuorisorangaistuksen kokeilemisesta](1058.md) `1058/1996`
+- [Laki rikoslain voimaanpanemisesta annetun asetuksen 15 a §:n muuttamisesta](1059.md) `1059/1996`
+- [Laki rikoslain 3 luvun muuttamisesta](1060.md) `1060/1996`
+- [Laki rikosrekisterilain 2 ja 10 §:n muuttamisesta](1061.md) `1061/1996`
+- [Laki rikosvahinkojen korvaamisesta valtion varoista annetun lain 8 §:n muuttamisesta](1062.md) `1062/1996`
+- [Laki eräisiin rangaistus\-, huolto\- ja hoitolaitoksiin otettujen henkilöiden tapaturmakorvauksestaannetun lain 1 §:n muuttamisesta](1063.md) `1063/1996`
+- [Asetus yhdyskuntapalvelun kokeilemisesta annetun asetuksen muuttamisesta](1064.md) `1064/1996`
+- [Asetus yhdyskuntapalvelun täytäntöönpanosta annetun asetuksen muuttamisesta](1065.md) `1065/1996`
+- [Asetus nuorisorangaistuksen kokeilemisesta](1066.md) `1066/1996`
+- [Asetus ihmisoikeuksien ja perusvapauksien suojaamiseksi tehdyn yleissopimuksen ja siihen liittyvien lisäpöytäkirjojen voimaansaattamisesta sekä yleissopimuksen ja lisäpöytäkirjojen eräiden määräysten hyväksymisestä annetun lain voimaantulosta annetun asetuksen 2 §:n muuttamisesta](1067.md) `1067/1996`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavista kalastustuotteista ja niistä saaduista valmisteista ja jalosteistaannetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](1068.md) `1068/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](1069.md) `1069/1996`
+- [Maa\- ja metsätalousministeriön päätös yhteisöaloite PESCAn täytäntöönpanosta](1070.md) `1070/1996`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeen kanssa kosketukseen joutuvista muovisista tarvikkeista](1071.md) `1071/1996`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavasta maidosta ja maitopohjaisista tuotteista annetun maa\- jametsätalousministeriön päätöksen 14 ja 15 §:n muuttamisesta](1072.md) `1072/1996`
+- [Laki arvo\-osuusjärjestelmästä annetun lain muuttamisesta](1073.md) `1073/1996`
+- [Laki arvo\-osuustileistä annetun lain muuttamisesta](1074.md) `1074/1996`
+- [Laki osakeyhtiölain muuttamisesta](1075.md) `1075/1996`
+- [Laki arvopaperimarkkinalain muuttamisesta](1076.md) `1076/1996`
+- [Laki rahoitustarkastuslain 2 §:n muuttamisesta](1077.md) `1077/1996`
+- [Laki ydinenergialain muuttamisesta](1078.md) `1078/1996`
+- [Maa\- ja metsätalousministeriön päätös maa\- ja metsätalousministeriön suoritteista perittävistä maksuista annetun maa\- jametsätalousministeriön päätöksen muuttamisesta](1079.md) `1079/1996`
+- [Kauppa\- ja teollisuusministeriön päätös sähkömarkkinakeskuksen maksullisista suoritteista](1080.md) `1080/1996`
+- [Liikenneministeriön päätös Ratahallintokeskuksen maksuista](1081.md) `1081/1996`
+- [Maa\- ja metsätalousministeriön päätös emolehmä\- ja uuhipalkkioiden kiintiöistä annetun maa\- ja metsätalousministeriön päätöksenmuuttamisesta](1082.md) `1082/1996`
+- [Luettelo kuntien tuloveroprosenteista ja kirkollisveroäyrien hinnoista vuonna 1997](1083.md) `1083/1996`
+- [Laki liikennevakuutuslain muuttamisesta](1084.md) `1084/1996`
+- [Laki potilasvahinkolain muuttamisesta](1085.md) `1085/1996`
+- [Laki tapaturmavakuutuslain muuttamisesta](1086.md) `1086/1996`
+- [Laki vakuutusyhtiölain muuttamisesta](1087.md) `1087/1996`
+- [Laki ulkomaisista vakuutusyhtiöistä annetun lain 33 ja 49 §:n muuttamisesta](1088.md) `1088/1996`
+- [Asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen 15 ja 33 §:n muuttamisesta](1089.md) `1089/1996`
+- [Asetus Kansainvälisen televiestintäliiton peruskirjan, Kansainvälisen televiestintäliiton yleissopimuksen ja Kansainvälisen televiestintäliiton peruskirjaan, Kansainvälisen televiestintäliiton yleissopimukseen sekä hallinnollisiin ohjesääntöihin liittyvien riitojen pakollista ratkaisua koskevan valinnaisen pöytäkirjan muutosten voimaansaattamisesta](1090.md) `1090/1996`
+- [Maa\- ja metsätalousministeriön päätös kiinteistötoimituksista sekä muista kiinteistönmuodostamislain \(554/1995\) mukaisista toimenpiteistä ja tehtävistä perittävistä työaikakorvauksista ja toimituskorvauksista sekä kiinteistötoimitusmaksun laskentaperusteista](1091.md) `1091/1996`
+- [Verohallituksen päätös arvonlisäverotuksen ilmoittamisvelvollisuutta koskevan \(1809/95\) päätöksen kumoamisesta](1092.md) `1092/1996`
+- [Metsälaki](1093.md) `1093/1996`
+- [Laki kestävän metsätalouden rahoituksesta](1094.md) `1094/1996`
+- [Laki rikoslain 48 luvun 1 §:n 3 momentin muuttamisesta](1095.md) `1095/1996`
+- [Luonnonsuojelulaki](1096.md) `1096/1996`
+- [Laki rakennuslain muuttamisesta](1097.md) `1097/1996`
+- [Laki maa\-aineslain 1 §:n muuttamisesta](1098.md) `1098/1996`
+- [Laki ympäristölupamenettelylain 2 §:n muuttamisesta](1099.md) `1099/1996`
+- [Laki yleisistä teistä annetun lain 19 §:n muuttamisesta](1100.md) `1100/1996`
+- [Laki yksityisistä teistä annetun lain muuttamisesta](1101.md) `1101/1996`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain 5 §:n muuttamisesta](1102.md) `1102/1996`
+- [Laki kaivoslain 71 §:n muuttamisesta](1103.md) `1103/1996`
+- [Laki erämaalain 2 §:n muuttamisesta](1104.md) `1104/1996`
+- [Laki vesilain muuttamisesta](1105.md) `1105/1996`
+- [Laki kiinteistönmuodostamislain 35 §:n muuttamisesta](1106.md) `1106/1996`
+- [Laki valaiden suojelusta annetun lain muuttamisesta](1107.md) `1107/1996`
+- [Laki rikoslain 48 luvun 5 §:n muuttamisesta](1108.md) `1108/1996`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](1109.md) `1109/1996`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1110.md) `1110/1996`
+- [Laki ajoneuvoverosta](1111.md) `1111/1996`
+- [Valtioneuvoston päätös valtion eläkejärjestelmän piiriin kuuluvien työnantajien eläkemaksusta annetunvaltioneuvoston päätöksen 7 §:n muuttamisesta](1112.md) `1112/1996`
+- [Valtioneuvoston päätös valtion virkamiesten erorahan suuruudesta annetun valtioneuvoston päätöksen 3 §:n muuttamisesta](1113.md) `1113/1996`
+- [Valtioneuvoston päätös eräistä maa\- ja puutarhataloustuottajille vuodelta 1996 maksettavista tuista annetunvaltioneuvoston päätöksen 9 §:n muuttamisesta](1114.md) `1114/1996`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkelain vähimmäisehtojen mukaisen vakuutuksen maksun ja lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain sekä eräiden työsuhteessa olevien taiteilijoiden ja toimittajien eläkelain mukaisen vakuutusmaksun alentamisesta vuonna 1994 aiheutuneen vastuuvajauksen kuolettamisesta vuonna 1997](1115.md) `1115/1996`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkelain 12 §:n 4 momentissa tarkoitetuista perusteista](1116.md) `1116/1996`
+- [Verohallituksen päätös veroilmoituksesta](1117.md) `1117/1996`
+- [Ennakkoperintälaki](1118.md) `1118/1996`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain muuttamisesta](1119.md) `1119/1996`
+- [Laki rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun lain muuttamisesta](1120.md) `1120/1996`
+- [Laki veronkantolain muuttamisesta](1121.md) `1121/1996`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](1122.md) `1122/1996`
+- [Laki arvonlisäverolain muuttamisesta](1123.md) `1123/1996`
+- [Ennakkoperintäasetus](1124.md) `1124/1996`
+- [Laki maakaaren voimaanpanosta annetun lain muuttamisesta](1125.md) `1125/1996`
+- [Laki tuloverolain muuttamisesta](1126.md) `1126/1996`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](1127.md) `1127/1996`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta](1128.md) `1128/1996`
+- [Laki lasten päivähoidosta annetun lain 11 a §:n muuttamisesta](1129.md) `1129/1996`
+- [Laki lasten päivähoidosta annetun lain 11 a §:n väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1130.md) `1130/1996`
+- [Laki työttömyysturvalain muuttamisesta](1131.md) `1131/1996`
+- [Laki työmarkkinatuesta annetun lain 24 §:n muuttamisesta](1132.md) `1132/1996`
+- [Laki opintotuesta annetun lain 6 §:n 8 kohdan ja 17 §:n 2 momentin kumoamisesta](1133.md) `1133/1996`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain muuttamisesta](1134.md) `1134/1996`
+- [Laki lasten kotihoidon tuesta annetun lain 8 ja 11 §:n poikkeuksellisesta soveltamisesta](1135.md) `1135/1996`
+- [Laki julkisesti tuettujen vientiluottojen korontasausyhtiöstä](1136.md) `1136/1996`
+- [Laki julkisesti tuettujen vientiluottojen korontasauksesta](1137.md) `1137/1996`
+- [Laki ammatillisen lisäkoulutuksen rahoituksesta](1138.md) `1138/1996`
+- [Laki ammatillisista oppilaitoksista annetun lain muuttamisesta](1139.md) `1139/1996`
+- [Laki ammatillisista aikuiskoulutuskeskuksista annetun lain muuttamisesta](1140.md) `1140/1996`
+- [Laki oppisopimuskoulutuksesta annetun lain 1 §:n muuttamisesta](1141.md) `1141/1996`
+- [Asetus ammatillisen lisäkoulutuksen rahoituksesta](1142.md) `1142/1996`
+- [Asetus ammatillisista aikuiskoulutuskeskuksista annetun asetuksen muuttamisesta](1143.md) `1143/1996`
+- [Valtioneuvoston päätös kuljetusten alueellisesta tukemisesta annetun lain soveltamisalueesta](1144.md) `1144/1996`
+- [Kauppa\- ja teollisuusministeriön päätös mittatekniikan keskuksen suoritteiden maksullisuudesta ja maksuperusteista](1145.md) `1145/1996`
+- [Kauppa\- ja teollisuusministeriön päätös geologian tutkimuskeskuksen suoritteiden maksullisuudesta ja maksuperusteista](1146.md) `1146/1996`
+- [Kuntien valtionosuuslaki](1147.md) `1147/1996`
+- [Laki kunnan talouden vakauttamisesta ja kuntaselvityksestä annetun lain 19 §:n muuttamisesta](1148.md) `1148/1996`
+- [Laki kuntien yhdistymisavustuksista annetun lain 5 §:n muuttamisesta](1149.md) `1149/1996`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain muuttamisesta](1150.md) `1150/1996`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](1151.md) `1151/1996`
+- [Laki peruskoululain eräiden säännösten kumoamisesta](1152.md) `1152/1996`
+- [Laki lukiolain muuttamisesta](1153.md) `1153/1996`
+- [Laki Steiner\-koulusta annetun lain muuttamisesta](1154.md) `1154/1996`
+- [Laki steinerpedagogisista erityiskouluista annetun lain muuttamisesta](1155.md) `1155/1996`
+- [Laki vieraskielisistä yksityisistä kouluista annetun lain muuttamisesta](1156.md) `1156/1996`
+- [Laki ammattikorkeakouluopinnoista annetun lain muuttamisesta](1157.md) `1157/1996`
+- [Laki nuorisoasteen koulutuksen ja ammattikorkeakoulujen kokeiluista annetun lain 18 ja 19 §:n muuttamisesta](1158.md) `1158/1996`
+- [Laki valtionosuutta saavista kansanopistoista annetun lain muuttamisesta](1159.md) `1159/1996`
+- [Laki valtionosuutta saavista liikunnan koulutuskeskuksista annetun lain muuttamisesta](1160.md) `1160/1996`
+- [Laki Anna Tapion koulusta annetun lain muuttamisesta](1161.md) `1161/1996`
+- [Laki opintokeskuslain muuttamisesta](1162.md) `1162/1996`
+- [Laki eräisiin opetustointa koskeviin lakeihin sisältyvien oppilaan kotikunnan maksuosuutta koskevien säännösten kumoamisesta](1163.md) `1163/1996`
+- [Laki liikuntalain muuttamisesta](1164.md) `1164/1996`
+- [Laki nuorisotyölain 7 §:n muuttamisesta](1165.md) `1165/1996`
+- [Laki museolain muuttamisesta](1166.md) `1166/1996`
+- [Laki työntekijäin eläkelain muuttamisesta](1167.md) `1167/1996`
+- [Laki työntekijäin eläkelain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1168.md) `1168/1996`
+- [Laki merimieseläkelain muuttamisesta](1169.md) `1169/1996`
+- [Laki merimieseläkelain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1170.md) `1170/1996`
+- [Laki eräiden työsuhteessa olevien taiteilijoiden ja toimittajien eläkelain 1 §:n muuttamisesta](1171.md) `1171/1996`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 7 §:n muuttamisesta](1172.md) `1172/1996`
+- [Laki maatalousyrittäjien eläkelain 8 k §:n muuttamisesta](1173.md) `1173/1996`
+- [Laki yrittäjien eläkelain 7 a §:n muuttamisesta](1174.md) `1174/1996`
+- [Laki valtion eläkelain 10 a §:n muuttamisesta](1175.md) `1175/1996`
+- [Laki valtion eläkelain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1176.md) `1176/1996`
+- [Asetus verotusmenettelystä annetun asetuksen muuttamisesta](1177.md) `1177/1996`
+- [Asetus korkotulon lähdeverosta annetun asetuksen 4 §:n muuttamisesta](1178.md) `1178/1996`
+- [Verohallituksen päätös vuonna 1997 sovellettavien ennakonpidätysperusteiden voimaantulosta](1179.md) `1179/1996`
+- [Laki valtion eläkelain 5 ja 8 §:n muuttamisesta](1180.md) `1180/1996`
+- [Laki Autorekisterikeskuksen muuttamisesta osakeyhtiöksi ja yhtiön eräistä tehtävistä annetun lain6 §:n 1 momentin muuttamisesta](1181.md) `1181/1996`
+- [Asetus rakennusasetuksen muuttamisesta](1182.md) `1182/1996`
+- [Valtioneuvoston päätös hyvityssakkojen enimmäismäärien tarkistamisesta](1183.md) `1183/1996`
+- [Valtioneuvoston päätös omistusasuntojen korkotukilainojen yleisistä ehdoista annetun valtioneuvoston päätöksen14 §:n muuttamisesta](1184.md) `1184/1996`
+- [Liikenneministeriön päätös Telehallintokeskuksen maksuista annetun liikenneministeriön päätöksen muuttamisesta](1185.md) `1185/1996`
+- [Liikenneministeriön päätös linja\-autoliikenteen henkilötaksoista](1186.md) `1186/1996`
+- [Verohallituksen päätös kotieläinten arvon määräämisessä noudatettavista perusteista](1187.md) `1187/1996`
+- [Laki kiinteistönmuodostamislain muuttamisesta](1188.md) `1188/1996`
+- [Kiinteistönmuodostamisasetus](1189.md) `1189/1996`
+- [Maa\- ja metsätalousministeriön päätös kiinteistörekisteriä ja kiinteistörekisterikarttaa koskevista suoritteista perittävistä maksuista](1190.md) `1190/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](1191.md) `1191/1996`
+- [Laki eläinlääkinnällisestä rajatarkastuksesta](1192.md) `1192/1996`
+- [Laki eläintautilain 13 ja 15 §:n muuttamisesta](1193.md) `1193/1996`
+- [Laki eläinsuojelulain muuttamisesta](1194.md) `1194/1996`
+- [Laki eläimistä saatavien elintarvikkeiden elintarvikehygieniasta](1195.md) `1195/1996`
+- [Työministeriön päätös vaarallisen kemikaalijätteen käyttöturvallisuustiedotteesta annetun työsuojeluhallituksenpäätöksen kumoamisesta](1196.md) `1196/1996`
+- [Laki maaseutuelinkeinotilastoista](1197.md) `1197/1996`
+- [Laki yhteismetsälain muuttamisesta](1198.md) `1198/1996`
+- [Laki yhteismetsäosuuksien lunastamisesta annetun lain kumoamisesta](1199.md) `1199/1996`
+- [Metsäasetus](1200.md) `1200/1996`
+- [Asetus maanmittauslaitoksesta annetun asetuksen 19 §:n muuttamisesta](1201.md) `1201/1996`
+- [Maa\- ja metsätalousministeriön päätös eräiden maanmittauslaitoksen suoritteiden maksullisuudesta ja maksuperusteista sekäsuoritteista perittävistä maksuista](1202.md) `1202/1996`
+- [Liikenneministeriön päätös merenkulkulaitoksen maksullisista suoritteista annetun liikenneministeriön päätöksenmuuttamisesta](1203.md) `1203/1996`
+- [Laki tapaturmavakuutuslain muuttamisesta](1204.md) `1204/1996`
+- [Laki tapaturmavakuutuslain perusteella korvattavasta kuntoutuksesta annetun lain 4 §:nmuuttamisesta](1205.md) `1205/1996`
+- [Laki maatalousyrittäjien tapaturmavakuutuslain 9 ja 22 §:n muuttamisesta](1206.md) `1206/1996`
+- [Laki vakuutusyhtiölain 2 luvun 5 §:n muuttamisesta](1207.md) `1207/1996`
+- [Asetus yksityisten sosiaalipalvelujen valvonnasta](1208.md) `1208/1996`
+- [Valtioneuvoston päätös henkilönsuojaimista annetun valtioneuvoston päätöksen liitteen muuttamisesta](1209.md) `1209/1996`
+- [Laki sairausvakuutuslain 21 ja 23 §:n muuttamisesta](1210.md) `1210/1996`
+- [Laki kuntoutusrahalain 31 §:n poikkeuksellisesta soveltamisesta](1211.md) `1211/1996`
+- [Laki työntekijäin työeläkemaksun ja työttömyysvakuutusmaksun huomioon ottamisesta eräissäpäivärahoissa](1212.md) `1212/1996`
+- [Laki sairausvakuutuslain 5 ja 5 b §:n väliaikaisesta muuttamisesta](1213.md) `1213/1996`
+- [Asetus kansaneläkeasetuksen muuttamisesta](1214.md) `1214/1996`
+- [Asetus sairausvakuutusasetuksen muuttamisesta](1215.md) `1215/1996`
+- [Asetus rintamasotilaseläkeasetuksen muuttamisesta](1216.md) `1216/1996`
+- [Asetus ulkomaille maksettavasta rintamalisästä annetun asetuksen muuttamisesta](1217.md) `1217/1996`
+- [Asetus eläkkeensaajien asumistukiasetuksen muuttamisesta](1218.md) `1218/1996`
+- [Asetus perhe\-eläkeasetuksen muuttamisesta](1219.md) `1219/1996`
+- [Asetus Suomen Akatemiasta annetun asetuksen 7 luvun kumoamisesta](1220.md) `1220/1996`
+- [Laki työttömyysturvalain 25 §:n poikkeuksellisesta soveltamisesta](1221.md) `1221/1996`
+- [Laki työttömyysturvalain 22 ja 24 §:n muuttamisesta annetun lain voimaantulosäännöksenmuuttamisesta](1222.md) `1222/1996`
+- [Asetus ulkomaanedustuksesta annetun asetuksen 43 §:n kumoamisesta](1223.md) `1223/1996`
+- [Asetus ydinenergia\-asetuksen muuttamisesta](1224.md) `1224/1996`
+- [Asetus ydinenergialain 6 a §:n ja 32 §:n 1 momentin 2 kohdan voimaantulosta](1225.md) `1225/1996`
+- [Asetus räjähdeasetuksen muuttamisesta](1226.md) `1226/1996`
+- [Asetus ansioon suhteutetun työttömyyspäivärahan perusteena olevan palkan määrittämisestä](1227.md) `1227/1996`
+- [Valtioneuvoston päätös valtion liikelaitoksen työttömyysvakuutusmaksusta vuonna 1997](1228.md) `1228/1996`
+- [Sosiaali\- ja terveysministeriön päätös vuodelta 1997 perittävästä palkansaajan työttömyysvakuutusmaksusta annetun lain soveltamisesta](1229.md) `1229/1996`
+- [Laki sosiaalihuoltolain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1230.md) `1230/1996`
+- [Maatalousyrittäjien lomituspalvelulaki](1231.md) `1231/1996`
+- [Asetus ulkoasiainhallintoasetuksen 38 §:n 4 momentin kumoamisesta](1232.md) `1232/1996`
+- [Asetus kotimaisten kielten tutkimuskeskuksesta annetun asetuksen 13 §:n muuttamisesta](1233.md) `1233/1996`
+- [Asetus Suomen ja Norjan välillä norjalaisten alusten oikeudesta meriliikenteen kabotaasin harjoittamiseen Suomessa tehdyn sopimuksen voimaansaattamisesta](1234.md) `1234/1996`
+- [Sosiaali\- ja terveysministeriön päätös terveydelle vaarallisen jätteen merkitsemisestä annetun sosiaali\- ja terveysministeriön päätöksen kumoamisesta](1235.md) `1235/1996`
+- [Maa\- ja metsätalousministeriön päätös eläinten eläinlääkinnällisistä rajatarkastuksista](1236.md) `1236/1996`
+- [Maa\- ja metsätalousministeriön päätös eläimistä saatavien elintarvikkeiden ja muiden tuotteiden eläinlääkinnällisistä rajatarkastuksista](1237.md) `1237/1996`
+- [Maa\- ja metsätalousministeriön päätös eläinlääkinnällisistä rajatarkastuksista perittävistä maksuista](1238.md) `1238/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1239.md) `1239/1996`
+- [Asetus ulkomailla hädänalaiseen asemaan joutuneelle Suomen kansalaiselle myönnettävästätaloudellisesta avustuksesta](1240.md) `1240/1996`
+- [Asetus Kriminaalihuoltoyhdistyksestä](1241.md) `1241/1996`
+- [Valtioneuvoston päätös eräiden opintotukilaissa \(28/1972\) tarkoitettujen määrien vahvistamisesta](1242.md) `1242/1996`
+- [Opetusministeriön päätös Museoviraston maksullisista suoritteista](1243.md) `1243/1996`
+- [Opetusministeriön päätös Suomen elokuva\-arkiston maksullisista suoritteista](1244.md) `1244/1996`
+- [Opetusministeriön päätös taiteen keskustoimikunnan maksullisista suoritteista](1245.md) `1245/1996`
+- [Opetusministeriön päätös Valtion taidemuseon maksullisista suoritteista](1246.md) `1246/1996`
+- [Maa\- ja metsätalousministeriön päätös perunantuotannon lisäkustannusten korvaamisesta vuonna 1996 Siemenperunakeskuksentuotantoalueella](1247.md) `1247/1996`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](1248.md) `1248/1996`
+- [Kirkolliskokouksen päätös kirkon vaalijärjestyksen muuttamisesta](1249.md) `1249/1996`
+- [Laki vaarallisten aineiden kuljetuksesta annetun lain muuttamisesta](1250.md) `1250/1996`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](1251.md) `1251/1996`
+- [Sisäasiainministeriön päätös poliisin suoritteiden maksullisuudesta](1252.md) `1252/1996`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriönpäätöksen muuttamisesta](1253.md) `1253/1996`
+- [Sisäasiainministeriön poliisimääräys eräistä liikkumis\- ja oleskelukielloista](1254.md) `1254/1996`
+- [Verohallituksen päätös ennakonpidätysvelvollisuudesta vapauttamisesta](1255.md) `1255/1996`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta ja 19 §:n väliaikaisestamuuttamisesta](1256.md) `1256/1996`
+- [Laki arvonlisäverolain 15 ja 29 §:n muuttamisesta](1257.md) `1257/1996`
+- [Laki merenkulun veronhuojennuksista annetun lain 6 ja 14 §:n muuttamisesta](1258.md) `1258/1996`
+- [Laki nestemäisten polttoaineiden valmisteverosta annetun lain muuttamisesta](1259.md) `1259/1996`
+- [Laki sähkön ja eräiden polttoaineiden valmisteverosta](1260.md) `1260/1996`
+- [Kauppa\- ja teollisuusministeriön päätös voimalaitosten omakäyttölaitteista](1261.md) `1261/1996`
+- [Laki varainsiirtoverolain 64 §:n muuttamisesta](1262.md) `1262/1996`
+- [Laki verohallintolain 14 §:n muuttamisesta](1263.md) `1263/1996`
+- [Laki arvonlisäverolain muuttamisesta](1264.md) `1264/1996`
+- [Laki valmisteverotuslain muuttamisesta](1265.md) `1265/1996`
+- [Laki Ahvenanmaan maakuntaa koskevista poikkeuksista arvonlisävero\- javalmisteverolainsäädäntöön](1266.md) `1266/1996`
+- [Laki ulkomaanliikenteessä olevissa matkustaja\-aluksissa myytävien tavaroiden verottamisestaeräissä tapauksissa annetun lain muuttamisesta](1267.md) `1267/1996`
+- [Verohallituksen päätös varainsiirtoveron maksamisesta ja ilmoittamisesta](1268.md) `1268/1996`
+- [Laki Pääkaupunkiseudun yhteistyövaltuuskunnasta](1269.md) `1269/1996`
+- [Laki ulkoilulain 2 §:n muuttamisesta](1270.md) `1270/1996`
+- [Asetus kuntien valtionosuudesta](1271.md) `1271/1996`
+- [Asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen muuttamisesta](1272.md) `1272/1996`
+- [Asetus lukioasetuksen 39 §:n kumoamisesta](1273.md) `1273/1996`
+- [Asetus vieraskielisistä yksityisistä kouluista annetun asetuksen 13 a §:n kumoamisesta](1274.md) `1274/1996`
+- [Asetus valtionosuutta saavista kansanopistoista annetun asetuksen 8 §:n muuttamisesta](1275.md) `1275/1996`
+- [Asetus valtionosuutta saavista liikunnan koulutuskeskuksista annetun asetuksen muuttamisesta](1276.md) `1276/1996`
+- [Asetus eräisiin opetustointa koskeviin asetuksiin sisältyvien oppilaan kotikunnan maksuosuuttakoskevien säännösten kumoamisesta](1277.md) `1277/1996`
+- [Laki vesilain muuttamisesta](1278.md) `1278/1996`
+- [Laki eräistä naapuruussuhteista annetun lain 14 §:n muuttamisesta](1279.md) `1279/1996`
+- [Laki jätevesimaksusta annetun lain 13 §:n muuttamisesta](1280.md) `1280/1996`
+- [Laki eräistä vesitilusjärjestelyistä annetun lain 20 §:n muuttamisesta](1281.md) `1281/1996`
+- [Laki rajakuntien tilusjärjestelylain 43 §:n muuttamisesta](1282.md) `1282/1996`
+- [Laki rakennuslain muuttamisesta](1283.md) `1283/1996`
+- [Laki yksityisistä teistä annetun lain muuttamisesta](1284.md) `1284/1996`
+- [Laki uusjakojen tukemisesta annetun lain 10 §:n muuttamisesta](1285.md) `1285/1996`
+- [Laki maaseutuelinkeinolain eräiden lainkohtien kumoamisesta](1286.md) `1286/1996`
+- [Laki luontaiselinkeinolain muuttamisesta](1287.md) `1287/1996`
+- [Laki porotalouslain muuttamisesta](1288.md) `1288/1996`
+- [Laki kolttalain muuttamisesta](1289.md) `1289/1996`
+- [Ulkoasiainministeriön ilmoitus ministeriön päätöksestä diplomaattipassin, virkapassin ja virkamatkapassin myöntämisperusteista](1290.md) `1290/1996`
+- [Verohallituksen päätös rahana suoritettavasta leimaverosta](1291.md) `1291/1996`
+- [Laki vakuutusyhtiölain muuttamisesta](1292.md) `1292/1996`
+- [Laki työntekijäin eläkelain muuttamisesta](1293.md) `1293/1996`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 9 ja 13 a §:n muuttamisesta](1294.md) `1294/1996`
+- [Laki merimieseläkelain 3 a §:n muuttamisesta](1295.md) `1295/1996`
+- [Laki vakuutuskassalain 79 §:n muuttamisesta](1296.md) `1296/1996`
+- [Laki eläkesäätiölain 43 §:n muuttamisesta](1297.md) `1297/1996`
+- [Asetus vakuutusyhtiön toimintapääomaan luettavista eristä annetun asetuksen muuttamisesta](1298.md) `1298/1996`
+- [Asetus lakisääteistä eläkevakuutusliikettä harjoittavan vakuutusyhtiön vakavaraisuusrajan laskemisesta](1299.md) `1299/1996`
+- [Verohallituksen päätös vuonna 1997 verosta vapaaksi katsottavien matkakustannusten korvaustenperusteista ja määristä](1300.md) `1300/1996`
+- [Laki omaisuuden lunastuksesta puolustustarkoituksiin](1301.md) `1301/1996`
+- [Asetus Korean tasavallan kanssa tehdyn lentoliikennesopimuksen voimaansaattamisesta](1302.md) `1302/1996`
+- [Asetus puolustusvoimista annetun asetuksen muuttamisesta](1303.md) `1303/1996`
+- [Asetus maanpuolustuskorkeakoulusta annetun asetuksen muuttamisesta](1304.md) `1304/1996`
+- [Asetus rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta](1305.md) `1305/1996`
+- [Asetus ulkomaisten väliyhteisöjen osakkaiden verotuksesta annetun lain 2 §:n 3 momentissatarkoitetuista valtioista](1306.md) `1306/1996`
+- [Valtiovarainministeriön päätös verohallituksen määräämisestä toimivaltaisena viranomaisena ratkaisemaan eräitä verotusta koskevissa kansainvälisissä sopimuksissa tarkoitettuja asioita](1307.md) `1307/1996`
+- [Valtioneuvoston päätös asumistuen määräytymisperusteista](1308.md) `1308/1996`
+- [Laki Kanadan kanssa sosiaaliturvasopimuksen muuttamisesta tehdyn pöytäkirjan ja Quebecin kanssa tehdyn sosiaaliturvasopimusjärjestelyn muutoksen eräiden määräysten hyväksymisestä](1309.md) `1309/1996`
+- [Asetus Kanadan kanssa sosiaaliturvasopimuksen muuttamisesta tehdyn pöytäkirjan voimaansaattamisesta sekä Kanadan kanssa sosiaaliturvasopimuksen muuttamisesta tehdyn pöytäkirjan ja Quebecin kanssa tehdyn sosiaaliturvasopimusjärjestelyn muutoksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1310.md) `1310/1996`
+- [Asetus kestävän metsätalouden rahoituksesta](1311.md) `1311/1996`
+- [Asetus Tapaturmavakuutuslaitosten liiton säännöistä](1312.md) `1312/1996`
+- [Asetus tapaturma\-asiain korvauslautakunnan säännöistä](1313.md) `1313/1996`
+- [Asetus tapaturmavakuutuslain täytäntöönpanosta](1314.md) `1314/1996`
+- [Asetus tapaturmavakuutuslain 58 §:ssä säädetyn maksun tilityksestä](1315.md) `1315/1996`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkelain 12 b §:ssä tarkoitetun työntekijäin eläkemaksun vahvistamisesta](1316.md) `1316/1996`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkelain 7 a §:n 3 momentissa tarkoitetun kertoimen vahvistamisesta](1317.md) `1317/1996`
+- [Sosiaali\- ja terveysministeriön päätös maatalousyrittäjien eläkelain 10 §:ssä tarkoitetun perusprosentin ja yrittäjien eläkelain9 §:ssä tarkoitetun maksuprosentin vahvistamisesta](1318.md) `1318/1996`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin työeläkemaksun ja työttömyysvakuutusmaksun huomioon ottamisestasairausvakuutusjärjestelmän mukaisissa päivärahoissa ja kuntoutusrahalainmukaisissa kuntoutusrahoissa](1319.md) `1319/1996`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin työeläkemaksun ja työttömyysvakuutusmaksun huomioon ottamisestatapaturmavakuutuslain perusteella maksettavissa päivärahoissa](1320.md) `1320/1996`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin työeläkemaksun ja työttömyysvakuutusmaksun huomioon ottamisestatyöttömyysturvalain perusteella maksettavissa päivärahoissa](1321.md) `1321/1996`
+- [Asetus valtioneuvoston kansliasta](1322.md) `1322/1996`
+- [Asetus valtioneuvoston ohjesäännön muuttamisesta](1323.md) `1323/1996`
+- [Ympäristöministeriön päätös toimivallan siirtämisestä eräille kunnille perusparannuslainan myöntämistä koskevissa asioissa](1324.md) `1324/1996`
+- [Kauppa\- ja teollisuusministeriön päätös KHT\- ja HTM\-tutkintoihin vaadittavista opinnoista](1325.md) `1325/1996`
+- [Kauppa\- ja teollisuusministeriön päätös KHT\- ja HTM\-tutkintoihin vaadittavista käytännön kokemuksesta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1326.md) `1326/1996`
+- [Valtiovarainministeriön päätös liikeosakkeen verotusarvon perusteista annetun päätöksen muuttamisesta](1327.md) `1327/1996`
+- [Sosiaali\- ja terveysministeriön päätös toimeentulotukitehtävien siirtoa koskevaan kokeiluun osallistuvista kunnista](1328.md) `1328/1996`
+- [Laki työllisyyslain muuttamisesta](1329.md) `1329/1996`
+- [Asetus työllisyysasetuksen muuttamisesta](1330.md) `1330/1996`
+- [Asetus työllisyysasetuksen muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](1331.md) `1331/1996`
+- [Asetus Valtion taloudellisesta tutkimuskeskuksesta](1332.md) `1332/1996`
+- [Maatalousyrittäjien lomituspalveluasetus](1333.md) `1333/1996`
+- [Verohallituksen päätös leimaverokoneiden käytöstä](1334.md) `1334/1996`
+- [Asetus pientyönantajien palvelukeskuksesta](1335.md) `1335/1996`
+- [Asetus eläimistä saatavien elintarvikkeiden elintarvikehygieniasta](1336.md) `1336/1996`
+- [Asetus valtion lihantarkastushenkilökunnasta](1337.md) `1337/1996`
+- [Asetus eläintautien vastustamisesta Euroopan yhteisön sisämarkkinoilla sekä viennissä kolmansiin maihin](1338.md) `1338/1996`
+- [Valtioneuvoston päätös varautumisesta ydinjätehuollon kustannuksiin annetun valtioneuvoston päätöksenmuuttamisesta](1339.md) `1339/1996`
+- [Laki maataloustuotannon lopettamistuesta](1340.md) `1340/1996`
+- [Laki maatalousyrittäjien eläkelain 16 §:n muuttamisesta](1341.md) `1341/1996`
+- [Laki maaseutuelinkeinolain muuttamisesta](1342.md) `1342/1996`
+- [Laki maa\- ja puutarhatalouden kansallisista tuista annetun lain muuttamisesta](1343.md) `1343/1996`
+- [Laki siemenkauppalain 3 ja 4 §:n väliaikaisesta muuttamisesta](1344.md) `1344/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1345.md) `1345/1996`
+- [Valtiovarainministeriön päätös vuoden 1997 taidekilpailupalkintojen verovapaudesta](1346.md) `1346/1996`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksenmuuttamisesta](1347.md) `1347/1996`
+- [Laki Lapin vajaatuottoisten metsien kunnostamisesta annetun lain muuttamisesta](1348.md) `1348/1996`
+- [Laki kiinteistön yhteisomistajien osallistumisesta metsätalouden rahoituslainsäädännössätarkoitettuun toimenpiteeseen](1349.md) `1349/1996`
+- [Laki maa\- ja metsätalouden rakennepoliittisista toimenpiteistä annetun lain muuttamisesta](1350.md) `1350/1996`
+- [Laki metsän hyönteis\- ja sienituhojen torjunnasta annetun lain 9 ja 11 §:n muuttamisesta](1351.md) `1351/1996`
+- [Laki metsänhoitoyhdistyksistä annetun lain 9 §:n muuttamisesta](1352.md) `1352/1996`
+- [Laki poronhoitolain muuttamisesta](1353.md) `1353/1996`
+- [Asetus porotalousasetuksen muuttamisesta](1354.md) `1354/1996`
+- [Maa\- ja metsätalousministeriön päätös harjuksen pyynnistä Enontekiön, Inarin ja Utsjoen kuntien alueilla](1355.md) `1355/1996`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Irakia koskeviin päätöksiin perustuvienvelvoitusten täyttämisestä annetun asetuksen muuttamisesta](1356.md) `1356/1996`
+- [Asetus Viron kanssa merivyöhykerajasta Suomenlahdella ja pohjoisella Itämerellä tehdynsopimuksen voimaansaattamisesta](1357.md) `1357/1996`
+- [Asetus Thaimaan kuningaskunnan kanssa tehdyn lentoliikennesopimuksen muuttamisesta tehdynsopimuksen voimaansaattamisesta](1358.md) `1358/1996`
+- [Asetus väylämaksuasetuksen muuttamisesta](1359.md) `1359/1996`
+- [Asetus patjojen paloturvallisuusvaatimuksista annetun asetuksen 2 §:n muuttamisesta](1360.md) `1360/1996`
+- [Valtioneuvoston päätös tiettyjä tehoaineita sisältävien torjunta\-aineiden markkinoille saattamisen ja käytönkieltämisestä](1361.md) `1361/1996`
+- [Valtioneuvoston päätös kansaneläkkeen määrästä tehtävästä vähennyksestä vuonna 1997](1362.md) `1362/1996`
+- [Valtioneuvoston päätös eläkkeensaajien asumistukilain mukaisista hoitomenoina hyväksyttävistä keskimääräisistäkustannuksista ja asumiskustannusten enimmäismääristä vuodelle 1997](1363.md) `1363/1996`
+- [Valtioneuvoston päätös sosiaali\- ja terveydenhuollon valtionosuuden laskennassa käytettävistä syrjäisyyskertoimista](1364.md) `1364/1996`
+- [Sosiaali\- ja terveysministeriön päätös eräille ulkomaalaisille vapaaehtoisille rintamasotilaille maksettavasta rintama\-avustuksesta](1365.md) `1365/1996`
+- [Maa\- ja metsätalousministeriön päätös Suomen lohikiintiön pyyntiajoista](1366.md) `1366/1996`
+- [Sosiaali\- ja terveysministeriön päätös tapaturma\-asiamiehistä](1367.md) `1367/1996`
+- [Laki peruskoululain muuttamisesta](1368.md) `1368/1996`
+- [Laki kehitysvammaisten erityishuollosta annetun lain muuttamisesta](1369.md) `1369/1996`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 7 a §:n muuttamisesta](1370.md) `1370/1996`
+- [Laki Suomen Vientiluotto Oy:n korkotuesta, valuuttakurssitappioiden korvaamisesta jaantolainauksen valtion takauksista annetun lain 1 §:n muuttamisesta](1371.md) `1371/1996`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta](1372.md) `1372/1996`
+- [Asetus kansalaisuusasetuksen muuttamisesta](1373.md) `1373/1996`
+- [Asetus metsästysasetuksen muuttamisesta](1374.md) `1374/1996`
+- [Sisäasiainministeriön päätös Pelastusopiston suoritteiden maksullisuudesta ja maksuperusteista](1375.md) `1375/1996`
+- [Liikenneministeriön päätös kuljettajantutkintomaksuista](1376.md) `1376/1996`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](1377.md) `1377/1996`

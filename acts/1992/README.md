@@ -1,0 +1,1719 @@
+# 1992 Statutes
+
+## Statutes
+
+- [Laki  Ison\-Britannian ja Pohjois\-Irlannin yhdistyneen kuningaskunnan kanssa tulon ja omaisuuden kaksinkertaisen verotuksen sekä veron kiertämisen estämiseksi tehdyn sopimuksen muuttamista koskevan pöytäkirjan eräiden määräysten hyväksymisestä](1.md) `1/1992`
+- [Asetus Ison\-Britannian ja Pohjois\-Irlannin yhdistyneen kuningaskunnan kanssa tulon ja omaisuuden kaksinkertaisen verotuksen sekä veron kiertämisen estämiseksi tehdyn sopimuksen muuttamista koskevan pöytäkirjan voimaansaattamisesta sekä sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](2.md) `2/1992`
+- [Matkustajaverolaki](3.md) `3/1992`
+- [Matkustajaveroasetus](4.md) `4/1992`
+- [Laki valtion eläkelain 7 §:n muuttamisesta](5.md) `5/1992`
+- [Laki valtion perhe\-eläkelain voimaanpanolain 4 §:n muuttamisesta](6.md) `6/1992`
+- [Laki liikevaihtoverolain 47 §:n muuttamisesta](7.md) `7/1992`
+- [Laki huoneenvuokralain muuttamisesta](8.md) `8/1992`
+- [Laki indeksiehdon käytön rajoittamisesta annetun lain muuttamisesta](9.md) `9/1992`
+- [Asetus Valmet Oy:n lainojen valtion takauksista](10.md) `10/1992`
+- [Valtiovarainministeriön päätös liiketoimintaa harjoittavista valtion virastoista ja laitoksista](11.md) `11/1992`
+- [Laki Tshekkoslovakian Sosialistisen Tasavallan kanssa kaupan esteiden vastavuoroisesta poistamisesta tehdyn sopimuksen muuttamista koskevan Tshekin ja Slovakian liittotasavallan kanssa tehdyn sopimuksen eräiden määräysten hyväksymisestä](12.md) `12/1992`
+- [Asetus Tshekkoslovakian Sosialistisen Tasavallan kanssa kaupan esteiden vastavuoroisesta poistamisesta tehdyn sopimuksen muuttamista koskevan Tshekin ja Slovakian liittotasavallan kanssa tehdyn sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](13.md) `13/1992`
+- [Asetus sosiaali\- ja terveysministeriön hallinnonalan eräistä virkajärjestelyistä](14.md) `14/1992`
+- [Asetus työsuojeluhallituksen suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](15.md) `15/1992`
+- [Asetus metsäalan palkkatilastolautakunnasta](16.md) `16/1992`
+- [Asetus työministeriön tehtävistä eräissä työsuojeluhallinnon alaan kuuluvissa asioissa annetun asetuksen kumoamisesta](17.md) `17/1992`
+- [Sisäasiainministeriön päätös  erään tilanosan ja eräiden alueiden siirtämisestä Vieremän kunnasta Kiuruveden kuntaan](18.md) `18/1992`
+- [Valtiovarainministeriön päätös veroilmoituksen antamisajan pidentämisestä](19.md) `19/1992`
+- [Laki tieteellisen tutkimuksen järjestelystä annetun lain muuttamisesta](20.md) `20/1992`
+- [Laki peltoalan perusteella suoritettavasta vientikustannusmaksusta annetun lain muuttamisesta](21.md) `21/1992`
+- [Laki maataloustuotannon tasapainottamisesta annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](22.md) `22/1992`
+- [Asetus Maltan kanssa kauppa\-alusten mittakirjojen tunnustamisesta tehdyn sopimuksen voimaansaattamisesta](23.md) `23/1992`
+- [Asetus  rikesakosta tieliikenteessä annetun asetuksen 7 ja 10 §:n muuttamisesta](24.md) `24/1992`
+- [Asetus kaupanvahvistaja\-asetuksen muuttamisesta](25.md) `25/1992`
+- [Asetus maksamismääräysasetuksen 4 §:n kumoamisesta](26.md) `26/1992`
+- [Asetus verohallinnon eräistä virkajärjestelyistä](27.md) `27/1992`
+- [Maa\- ja metsätalousministeriön päätös Suomen ja Viron välisten vastavuoroisten kalastuskysymysten järjestämisestä vuonna 1992](28.md) `28/1992`
+- [Laki teknologian kehittämiskeskuksesta annetun lain muuttamisesta](29.md) `29/1992`
+- [Laki teollisuussihteereistä annetun lain kumoamisesta](30.md) `30/1992`
+- [Asetus alusten radiolaitteista](31.md) `31/1992`
+- [Asetus terveydenhoitoasetuksen muuttamisesta](32.md) `32/1992`
+- [Asetus lapsilisälain täytäntöönpanosta annetun asetuksen 1 §:n 1 ja 3 momentin kumoamisesta](33.md) `33/1992`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Isonkyrön, Laihian ja Vähänkyrön kuntien välillä](34.md) `34/1992`
+- [Valtion tulo\- ja menoarvio vuodelle 1992](35.md) `35/1992`
+- [Asetus Pohjoismaiden välillä tehdyn yhteistyösopimuksen muuttamista koskevan sopimuksen voimaansaattamisesta](36.md) `36/1992`
+- [Asetus Euroopan rakennustaiteellisen perinnön suojelua koskevan yleissopimuksen voimaansaattamisesta](37.md) `37/1992`
+- [Asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen sekä siihen liittyvän vuoden 1978 pöytäkirjan eräiden muutosten voimaansaattamisesta](38.md) `38/1992`
+- [Asetus eräästä väliaikaisesta poikkeuksesta rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annettuun asetukseen](39.md) `39/1992`
+- [Asetus korkotulon lähdeverosta annetun asetuksen muuttamisesta](40.md) `40/1992`
+- [Asetus yritystoiminnan aluetuesta annetun asetuksen 1 ja 2 §:n muuttamisesta](41.md) `41/1992`
+- [Valtioneuvoston päätös leimaverolain soveltamisesta annetun valtioneuvoston päätöksen 4 §:n muuttamisesta](42.md) `42/1992`
+- [Valtioneuvoston päätös elintarviketuotteiden hinnanerokorvauksista](43.md) `43/1992`
+- [Valtioneuvoston päätös maatalousyrittäjien opintorahasta](44.md) `44/1992`
+- [Valtioneuvoston päätös investointi\-, käynnistys\- ja kehittämisavustusten myöntämistä koskeviksi periaateohjeiksi annetun valtioneuvoston päätöksen muuttamisesta](45.md) `45/1992`
+- [Valtiovarainministeriön päätös  verovuoden 1990 maksuunpanotilityksestä](46.md) `46/1992`
+- [Laki  vaatteiden tullittomasta maahantuonnista eräissä tapauksissa](47.md) `47/1992`
+- [Laki tilastokeskuksesta](48.md) `48/1992`
+- [Laki vesien saastumisesta ammattikalastajille aiheutuneiden kalavahinkojen korvaamisesta annetun lain kumoamisesta](49.md) `49/1992`
+- [Asetus valtiovarainministeriön ja sen hallinnonalan eräiden virkojen perustamisesta, lakkauttamisesta ja nimien muuttamisesta](50.md) `50/1992`
+- [Asetus raha\-arpa\- ja veikkauspelien ylijäämän käyttämisestä annetun asetuksen 2 §:n väliaikaisesta muuttamisesta](51.md) `51/1992`
+- [Asetus tielaitoksesta annetun asetuksen muuttamisesta](52.md) `52/1992`
+- [Asetus erään viran siirtämisestä liikenneministeriön hallinnonalalla](53.md) `53/1992`
+- [Asetus mittauspalvelutoiminnasta annetun asetuksen muuttamisesta](54.md) `54/1992`
+- [Asetus jalometallituotteista annetun asetuksen muuttamisesta](55.md) `55/1992`
+- [Asetus eräiden virkojen lakkauttamisesta ja perustamisesta sekä virkojen nimien muuttamisesta työsuojeluhallinnossa](56.md) `56/1992`
+- [Valtiovarainministeriön päätös vaatteiden tullittomasta maahantuonnista eräissä tapauksissa](57.md) `57/1992`
+- [Valtioneuvoston päätös lomittajatoimintaa koskevasta ostopalvelukokeilusta annetun valtioneuvoston päätöksen muuttamisesta](58.md) `58/1992`
+- [Sisäasiainministeriön päätös eräiden tilojen, tilanosan ja alueiden siirtämisestä Hankasalmen kunnasta Pieksämäen maalaiskuntaan](59.md) `59/1992`
+- [Valtiovarainministeriön päätös Suomen tasavallan ja Euroopan talousyhteisön välisessä kaupassa noudatettavien alkuperäsääntöjen eräiden muutosten soveltamisesta](60.md) `60/1992`
+- [Valtiovarainministeriön päätös Euroopan vapaakauppaliiton jäsenvaltioiden välisessä kaupassa noudatettavien alkuperäsääntöjen eräiden muutosten soveltamisesta](61.md) `61/1992`
+- [Laki valtion pelastusoppilaitoksista](62.md) `62/1992`
+- [Asetus liikenneministeriön eräiden virkojen perustamisesta ja lakkauttamisesta](63.md) `63/1992`
+- [Valtioneuvoston päätös maataloustuotannon vähentämissopimuksista vuonna 1992](64.md) `64/1992`
+- [Valtioneuvoston päätös  pellon maataloustuotannosta poistamisesta](65.md) `65/1992`
+- [Valtioneuvoston päätös kesannoimispalkkioista vuonna 1992](66.md) `66/1992`
+- [Valtioneuvoston päätös  luonnonmukaista maataloustuotantoa koskevista sopimuksista vuonna 1992](67.md) `67/1992`
+- [Valtioneuvoston päätös  vuonna 1992 tehtävistä herneen tuotantosopimuksista](68.md) `68/1992`
+- [Valtioneuvoston päätös  vuonna 1992 tehtävistä viherheinän tuotantosopimuksista](69.md) `69/1992`
+- [Sisäasiainministeriön päätös  eräiden tilojen, tilanosien ja alueiden siirtämisestä Jäppilän ja Savonrannan kunnista sekä Pieksämäen maalaiskunnasta Joroisten kuntaan](70.md) `70/1992`
+- [Liikenneministeriön päätös ulkomaanliikenteen kauppa\-alusluettelosta annetun lain soveltamisesta](71.md) `71/1992`
+- [Laki kuluttajaneuvonnan järjestämisestä kunnassa](72.md) `72/1992`
+- [Laki erikoissairaanhoitolain 37 §:n muuttamisesta](73.md) `73/1992`
+- [Laki kansanterveyslain muuttamisesta](74.md) `74/1992`
+- [Asetus patentti\- ja rekisterihallituksen suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](75.md) `75/1992`
+- [Asetus Kroatian kansalaisten viisumivapaudesta](76.md) `76/1992`
+- [Asetus Slovenian kansalaisten viisumivapaudesta](77.md) `77/1992`
+- [Asetus  oikeusministeriön hallinnonalan eräiden virkojen perustamisesta ja lakkauttamisesta](78.md) `78/1992`
+- [Asetus poliisiasetuksen muuttamisesta](79.md) `79/1992`
+- [Asetus sisäasiainministeriön erään viran perustamisesta ja lakkauttamisesta sekä eräiden virkojen nimien muuttamisesta](80.md) `80/1992`
+- [Asetus  väestörekisterikeskuksen maksuasetuksen 6 a §:n muuttamisesta](81.md) `81/1992`
+- [Asetus  vuonna 1992 kertyvien sosiaaliturvamaksujen jakautumasta](82.md) `82/1992`
+- [Asetus vuonna 1990 kertyvien sosiaaliturvamaksujen jakautumasta annetun asetuksen 2 §:n muuttamisesta](83.md) `83/1992`
+- [Asetus työvoimapoliittisesta aikuiskoulutuksesta annetun asetuksen 16 §:n muuttamisesta](84.md) `84/1992`
+- [Asetus erään viran perustamisesta ja lakkauttamisesta työsuojeluhallinnossa](85.md) `85/1992`
+- [Asetus työllisyysasetuksen muuttamisesta](86.md) `86/1992`
+- [Laki  ammatillisten oppilaitosten rahoituksesta annetun lain muuttamisesta](87.md) `87/1992`
+- [Asetus ammatillisista erityisoppilaitoksista annetun asetuksen 5 ja 8 §:n muuttamisesta](88.md) `88/1992`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Somaliaa koskevaan päätökseen perustuvien velvoitusten täyttämisestä](89.md) `89/1992`
+- [Asetus Kanadan kanssa kummankin maan alueiden välisestä ja niiden kautta edelleen tapahtuvasta lentoliikenteestä tehdyn sopimuksen voimaansaattamisesta](90.md) `90/1992`
+- [Asetus ulkoasiainhallinnon eräiden virkojen perustamisesta ja lakkauttamisesta](91.md) `91/1992`
+- [Asetus pelastushallinnon eräiden virkojen perustamisesta ja lakkauttamisesta](92.md) `92/1992`
+- [Asetus indeksilain soveltamislautakunnasta annetun asetuksen 1 §:n muuttamisesta](93.md) `93/1992`
+- [Asetus Varastokirjastosta](94.md) `94/1992`
+- [Valtioneuvoston päätös peruskoulu\- ja lukiorakennusten suunnittelun, rakentamisen ja normaalihintojen perusteista annetun valtioneuvoston päätöksen muuttamisesta](95.md) `95/1992`
+- [Valtioneuvoston päätös peruskoulun ja lukion huonetilojen normaalihinnoista](96.md) `96/1992`
+- [Valtioneuvoston päätös Ahvenanmaan maakunnassa oleville kunnille maataloustuen jako\- ja valvontatehtävien hoitamisesta suoritettavista korvauksista](97.md) `97/1992`
+- [Laki kansanterveyslain voimaanpanosta annetun lain 3 §:n muuttamisesta](98.md) `98/1992`
+- [Asetus Ilmailulaitoksesta annetun asetuksen muuttamisesta](99.md) `99/1992`
+- [Liikenneministeriön päätös joukkoliikenteelle myönnettävästä valtionavusta suunnitteluun, tutkimukseen ja liikennekokeiluihin](100.md) `100/1992`
+- [Laki valtiopäiväjärjestyksen väliaikaisesta muuttamisesta](101.md) `101/1992`
+- [Asetus valtioneuvoston kanslian erään viran nimen muuttamisesta](102.md) `102/1992`
+- [Asetus sisäasiainministeriöstä annetun asetuksen muuttamisesta](103.md) `103/1992`
+- [Asetus rajavartiolaitoksen erään viran perustamisesta ja eräiden virkojen lakkauttamisesta](104.md) `104/1992`
+- [Asetus tilastokeskuksesta](105.md) `105/1992`
+- [Valtioneuvoston päätös eräiden kuntien määräämisestä erityisalueiksi](106.md) `106/1992`
+- [Valtioneuvoston päätös viranomaisten määräyksiä ja ohjeita koskevista toimenpiteistä annetun valtioneuvoston päätöksen 4 ja 7 §:n muuttamisesta](107.md) `107/1992`
+- [Valtioneuvoston päätös vientitakuista perittävän maksun yleisistä perusteista](108.md) `108/1992`
+- [Valtioneuvoston päätös avustusten myöntämisestä ympäristönsuojelutoimien edistämiseen Suomen lähialueilla Itä\- ja Keski\-Euroopassa](109.md) `109/1992`
+- [Laki poliisin hallinnosta](110.md) `110/1992`
+- [Laki  korkeakouluopiskelijoiden opintotuesta](111.md) `111/1992`
+- [Laki  opintotukilain muuttamisesta](112.md) `112/1992`
+- [Laki  opintotuen hallinnosta](113.md) `113/1992`
+- [Asetus  poliisin eräiden virkojen perustamisesta ja lakkauttamisesta](114.md) `114/1992`
+- [Asetus  lääninhallitusten eräiden virkojen perustamisesta](115.md) `115/1992`
+- [Asetus opetusministeriön eräiden virkojen perustamisesta ja lakkauttamisesta](116.md) `116/1992`
+- [Laki  tieliikennelain muuttamisesta](117.md) `117/1992`
+- [Asetus  museoviraston eräiden virkojen perustamisesta ja lakkauttamisesta](118.md) `118/1992`
+- [Asetus  museovirastosta](119.md) `119/1992`
+- [Asetus  maa\- ja metsätalousministeriön hallinnonalan erään viran perustamisesta ja virkojen nimien muuttamisesta](120.md) `120/1992`
+- [Asetus maanmittauslaitoksesta annetun asetuksen muuttamisesta](121.md) `121/1992`
+- [Asetus  metsähallituksesta annetun asetuksen 31 §:n muuttamisesta](122.md) `122/1992`
+- [Asetus sosiaali\- ja terveysministeriöstä annetun asetuksen muuttamisesta](123.md) `123/1992`
+- [Valtioneuvoston päätös Ilmailulaitoksen eräistä virkajärjestelyistä](124.md) `124/1992`
+- [Valtioneuvoston päätös  äitiysavustuksen suuruuden vahvistamisesta](125.md) `125/1992`
+- [Laki  valtion paikallishallinnon kehittämisen perusteista](126.md) `126/1992`
+- [Laki valtion virkaehtosopimuslain 4 §:n muuttamisesta](127.md) `127/1992`
+- [Laki kuntien ja kuntainliittojen valtionosuuksista ja \-avustuksista annetun lain 15 §:n muuttamisesta](128.md) `128/1992`
+- [Laki  toimiehtosopimuksen vaikutuksesta valtionapuun annetun lain 1 §:n muuttamisesta](129.md) `129/1992`
+- [Laki  yksityisten valtionapulaitosten sopimusvaltuuskunnasta annetun lain 2 §:n muuttamisesta](130.md) `130/1992`
+- [Asetus  valtion pelastusoppilaitoksista](131.md) `131/1992`
+- [Asetus erikoissairaanhoidosta perittävistä maksuista ja korvauksista annetun asetuksen 5 §:n muuttamisesta](132.md) `132/1992`
+- [Asetus terveyskeskuksessa perittävistä maksuista ja korvauksista annetun asetuksen 5 §:n muuttamisesta](133.md) `133/1992`
+- [Kauppa\- ja teollisuusministeriön päätös energia\-avustusten ehdoista](134.md) `134/1992`
+- [Asetus jäätelöasetuksen 16 §:n muuttamisesta](135.md) `135/1992`
+- [Kauppa\- ja teollisuusministeriön päätös jäätelöasetuksen soveltamisesta annetun kauppa\- ja teollisuusministeriön päätöksen 4 ja 5 §:n kumoamisesta](136.md) `136/1992`
+- [Asetus juustoasetuksen muuttamisesta](137.md) `137/1992`
+- [Asetus  lihavalmisteasetuksen muuttamisesta](138.md) `138/1992`
+- [Asetus ruokaperuna\-asetuksen muuttamisesta](139.md) `139/1992`
+- [Asetus lastenruoka\-asetuksen 10 §:n muuttamisesta](140.md) `140/1992`
+- [Asetus pakastetuista, jäädytetyistä ja jäätyneistä elintarvikkeista annetun asetuksen muuttamisesta](141.md) `141/1992`
+- [Kauppa\- ja teollisuusministeriön päätös pakastetuista, jäädytetyistä ja jäätyneistä elintarvikkeista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](142.md) `142/1992`
+- [Asetus kananmuna\-asetuksen muuttamisesta](143.md) `143/1992`
+- [Asetus erityisvalmisteasetuksen muuttamisesta](144.md) `144/1992`
+- [Kauppa\- ja teollisuusministeriön päätös eräiden elintarvikerasvojen pakkausmerkinnöistä annetun kauppa\- ja teollisuusministeriön päätöksen 7 §:n muuttamisesta](145.md) `145/1992`
+- [Asetus vaarallisten aineiden kuljettamisesta tiellä](146.md) `146/1992`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä](147.md) `147/1992`
+- [Valtioneuvoston päätös opiskelijoiden asumistukien väliaikaisesta tarkistamisesta](148.md) `148/1992`
+- [Oikeusministeriön päätös eräistä kunnallisvaalilaissa tarkoitetuista kaavoista](149.md) `149/1992`
+- [Valtion maksuperustelaki](150.md) `150/1992`
+- [Asetus  kansainvälisistä pääliikenneväylistä tehdyn eurooppalaisen sopimuksen \(AGR\) voimaansaattamisesta](151.md) `151/1992`
+- [Asetus kansainvälisen kasvinsuojeluyleissopimuksen tarkistetun tekstin voimaansaattamisesta](152.md) `152/1992`
+- [Asetus poliisin eräiden virkojen nimien muuttamisesta](153.md) `153/1992`
+- [Asetus opetusministeriöstä annetun asetuksen muuttamisesta](154.md) `154/1992`
+- [Asetus yhteisantennilaitosten tarkastuksista suoritettavista maksuista annetun asetuksen 2 §:n muuttamisesta](155.md) `155/1992`
+- [Valtioneuvoston päätös asunto\-, omaksilunastamis\- ja perusparannuslainan myöntämisessä sekä asukkaaksi hyväksymisessä sovellettavista arvosteluperusteista](156.md) `156/1992`
+- [Sisäasiainministeriön päätös peliautomaatista saatavan tavaravoiton arvon enimmäismäärästä](157.md) `157/1992`
+- [Asetus  toimimiesten asettamisesta eräisiin virastoihin annetun asetuksen kumoamisesta](158.md) `158/1992`
+- [Asetus vesiasetuksen 15 §:n kumoamisesta](159.md) `159/1992`
+- [Asetus eräiden asiakirjojen lähettämisestä tuomioistuimille annetun asetuksen 4 §:n kumoamisesta](160.md) `160/1992`
+- [Asetus ulosottoasetuksen 10 §:n muuttamisesta](161.md) `161/1992`
+- [Asetus arkistolaitoksen eräiden virkojen perustamisesta ja lakkauttamisesta](162.md) `162/1992`
+- [Asetus tieliikenneasetuksen 5 luvun muuttamisesta](163.md) `163/1992`
+- [Liikenneministeriön päätös liikenteen ohjauslaitteista annetun liikenneministeriön päätöksen 3 luvun muuttamisesta](164.md) `164/1992`
+- [Laki  valtion tulo\- ja menoarviosta annetun lain muuttamisesta](165.md) `165/1992`
+- [Asetus erään viran siirtämisestä sosiaali\- ja terveysministeriön hallinnonalalla](166.md) `166/1992`
+- [Eduskunnan päätös eduskunnan työjärjestyksen muuttamisesta](167.md) `167/1992`
+- [Eduskunnan päätös eduskunnan kanslian ohjesäännön 10 ja 12 §:n muuttamisesta](168.md) `168/1992`
+- [Eduskunnan päätös eduskunnan oikeusasiamiehen johtosäännön muuttamisesta](169.md) `169/1992`
+- [Eduskunnan päätös Eduskunnan Pankkivaltuusmiesten johtosäännön muuttamisesta](170.md) `170/1992`
+- [Eduskunnan päätös Eduskunnan kirjaston ohjesäännön muuttamisesta](171.md) `171/1992`
+- [Eduskunnan päätös eduskunnan tilisäännön muuttamisesta](172.md) `172/1992`
+- [Eduskunnan päätös valtiontilintarkastajain johtosäännön muuttamisesta](173.md) `173/1992`
+- [Valtioneuvoston päätös  runsasrikkisen raskaan polttoöljyn käytön rajoittamisesta](174.md) `174/1992`
+- [Liikenneministeriön päätös televerkkojen liikenteellisestä aluejaosta annetun päätöksen 2 §:n muuttamisesta](175.md) `175/1992`
+- [Työsuojeluhallituksen päätös hyväksyttävistä asbestipurkutyössä käytettävistä menetelmistä ja laitteista annetun päätöksen muuttamisesta](176.md) `176/1992`
+- [Laki  Tanskan, Suomen, Norjan ja Ruotsin välillä valtakunnanrajojen yli ulottuvaa yhteistyötä onnettomuustapauksissa ihmisiin, omaisuuteen tai ympäristöön kohdistuvien vahinkojen estämiseksi tai rajoittamiseksi koskevan sopimuksen eräiden määräysten hyväksymisestä](177.md) `177/1992`
+- [Asetus Tanskan, Suomen, Norjan ja Ruotsin välillä valtakunnanrajojen yli ulottuvaa yhteistyötä onnettomuustapauksissa ihmisiin, omaisuuteen tai ympäristöön kohdistuvien vahinkojen estämiseksi tai rajoittamiseksi koskevan sopimuksen voimaansaattamisesta sekä sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](178.md) `178/1992`
+- [Asetus Viron kanssa yhteistyöstä ympäristönsuojelun alalla tehdyn sopimuksen voimaansaattamisesta](179.md) `179/1992`
+- [Asetus Kroatian kanssa tehdyn viisumivapaussopimuksen voimaansaattamisesta](180.md) `180/1992`
+- [Asetus vankeinhoidon koulutuskeskuksesta annetun asetuksen muuttamisesta](181.md) `181/1992`
+- [Asetus poliisin maksuasetuksen muuttamisesta](182.md) `182/1992`
+- [Asetus Turun ja Porin lääninhallituksen erään viran perustamisesta ja lakkauttamisesta](183.md) `183/1992`
+- [Asetus opetusministeriön hallinnonalan eräistä virkajärjestelyistä](184.md) `184/1992`
+- [Asetus ammatillisten opettajakorkeakoulujen, ammattikasvatushallinnon koulutuskeskuksen ja valtion ammatillisten oppilaitosten suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](185.md) `185/1992`
+- [Maa\- ja metsätalousministeriön päätös maitonäytteistä annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](186.md) `186/1992`
+- [Maa\- ja metsätalousministeriön päätös maidontarkastuksesta annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](187.md) `187/1992`
+- [Maatilahallituksen päätös peltoalan perusteella suoritettavasta vientikustannusmaksusta annetussa laissa tarkoitetusta kesannoinnista ja muista seikoista](188.md) `188/1992`
+- [Asetus korkeakoulujen eräiden virkojen perustamisesta ja lakkauttamisesta](189.md) `189/1992`
+- [Asetus laskentatoimen, erityisesti rahoitusteorian professorin viran perustamisesta määräajaksi Helsingin kauppakorkeakouluun](190.md) `190/1992`
+- [Asetus Åbo Akademista annetun asetuksen muuttamisesta](191.md) `191/1992`
+- [Asetus Tampereen yliopistosta annetun asetuksen 43 ja 57 §:n muuttamisesta](192.md) `192/1992`
+- [Asetus riista\- ja kalatalouden tutkimuslaitoksesta annetun asetuksen muuttamisesta](193.md) `193/1992`
+- [Asetus maataloustuloasetuksen 1 §:n muuttamisesta](194.md) `194/1992`
+- [Valtioneuvoston päätös tuen myöntämisestä ulkomaanliikenteessä käytettävälle kuljetuskalustolle](195.md) `195/1992`
+- [Liikenneministeriön päätös valtionavusta joukkoliikennevälineiden varustamiseen vammaisten tarpeisiin](196.md) `196/1992`
+- [Laki  asianajajista annetun lain muuttamisesta](197.md) `197/1992`
+- [Laki  yleisestä oikeusaputoiminnasta annetun lain 10 §:n muuttamisesta](198.md) `198/1992`
+- [Valtioneuvoston päätös pienyrittäjän vuosilomarahasta annetussa laissa tarkoitetun enimmäisvuositulon määrän ja vuosilomarahan suuruuden vahvistamisesta](199.md) `199/1992`
+- [Sisäasiainministeriön päätös erään tilanosan ja eräiden alueiden siirtämisestä Helsingin kaupungista Vantaan kaupunkiin](200.md) `200/1992`
+- [Sisäasiainministeriön päätös eräiden tilojen ja alueiden siirtämisestä Kaustisen kunnasta Halsuan kuntaan](201.md) `201/1992`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Oravaisten ja Vöyrin kuntien välillä](202.md) `202/1992`
+- [Oikeusministeriön päätös  yleisen asianajajayhdistyksen sääntöjen vahvistamisesta annetun oikeusministeriön päätöksen muuttamisesta](203.md) `203/1992`
+- [Valtiovarainministeriön päätös  eräiden verojen lykkäyksen ehdoista](204.md) `204/1992`
+- [Laki valtiopäiväjärjestyksen muuttamisesta](205.md) `205/1992`
+- [Laki  edustajanpalkkiosta annetun lain muuttamisesta](206.md) `206/1992`
+- [Laki  eduskunnan virkamiehistä annetun lain 4 §:n muuttamisesta](207.md) `207/1992`
+- [Asetus ulkomaanedustuksen virkamiesten vuosilomista](208.md) `208/1992`
+- [Asetus  Tansanian kanssa tehdyn yhteistyötä kulttuurin, opetuksen ja tieteen alalla koskevan sopimuksen voimaansaattamisesta](209.md) `209/1992`
+- [Asetus  asiakirjain lähettämisestä annetun asetuksen 4 ja 8 §:n kumoamisesta](210.md) `210/1992`
+- [Valtion maksuperusteasetus](211.md) `211/1992`
+- [Asetus  eräistä määräajaksi tai muutoin rajoitetuksi ajaksi täytettävistä viroista annetun asetuksen 1 §:n muuttamisesta](212.md) `212/1992`
+- [Asetus  laivaväen asuntoja aluksessa \(täydentävät määräykset\) koskevan yleissopimuksen voimaansaattamisesta](213.md) `213/1992`
+- [Valtioneuvoston päätös valtion viranomaisten asiakirjojen lähettämisestä annetun valtioneuvoston päätöksen kumoamisesta](214.md) `214/1992`
+- [Valtiovarainministeriön päätös ulkomaan kuorma\-autoliikenteen polttoaineen hintaan sisältyvän liikevaihtoveron korvaamisesta](215.md) `215/1992`
+- [Verohallituksen päätös liikkeen\- ja ammatinharjoittajan työmatkasta aiheutuneen elantokustannusten lisäyksen vähentämisestä vuodelta 1992 toimitettavassa verotuksessa](216.md) `216/1992`
+- [Asetus  kansainvälisiä konferensseja ja erityisedustustoja koskevista erioikeuksista ja vapauksista annetun asetuksen 8 §:n muuttamisesta](217.md) `217/1992`
+- [Asetus metsähallituksen eräiden virkojen perustamisesta ja lakkauttamisesta sekä virkojen nimien muuttamisesta](218.md) `218/1992`
+- [Asetus metsähallituksesta](219.md) `219/1992`
+- [Asetus metsähallituksen liiketoiminnasta](220.md) `220/1992`
+- [Asetus aluksista aiheutuvan vesien pilaantumisen ehkäisemisestä annetun asetuksen 1 ja 4 §:n muuttamisesta](221.md) `221/1992`
+- [Asetus sosiaalihuoltoasetuksen muuttamisesta](222.md) `222/1992`
+- [Asetus kansanterveysasetuksen muuttamisesta](223.md) `223/1992`
+- [Valtioneuvoston päätös investointivarausten käyttämisestä annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](224.md) `224/1992`
+- [Valtioneuvoston päätös investointirahastojen käyttämisestä annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](225.md) `225/1992`
+- [Valtioneuvoston päätös ylimääräisistä sanomalehtimieseläkkeistä annetun valtioneuvoston päätöksen 3 ja 5 §:n muuttamisesta](226.md) `226/1992`
+- [Valtioneuvoston päätös  kirjastorakennusten suunnittelun, rakentamisen ja normaalihintojen perusteista annetun valtioneuvoston päätöksen muuttamisesta](227.md) `227/1992`
+- [Valtioneuvoston päätös kirjastorakennusten normaalihinnoista vuonna 1992](228.md) `228/1992`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain muuttamisesta](229.md) `229/1992`
+- [Laki kunnallisten luottamushenkilöiden eläkelain muuttamisesta](230.md) `230/1992`
+- [Laki toimenpiteistä kansainvälisiin kokouksiin osallistuviin, kansainvälistä erityissuojelua nauttiviin henkilöihin kohdistuvien rikosten ehkäisemiseksi](231.md) `231/1992`
+- [Laki Kera Oy \-nimisestä osakeyhtiöstä](232.md) `232/1992`
+- [Asetus puolustusvoimien eräiden virkojen lakkauttamisesta ja perustamisesta](233.md) `233/1992`
+- [Asetus arkistolaitoksesta](234.md) `234/1992`
+- [Asetus Intian kanssa tehdyn tekstiilituotteiden kauppaa koskevan sopimuksen jatkamista muutoksin koskevan sopimuksen voimaansaattamisesta](235.md) `235/1992`
+- [Asetus Singaporen kanssa eräiden tekstiilituotteiden Singaporesta tapahtuvan tuonnin rajoittamisesta tehdyn sopimuksen voimaansaattamisesta](236.md) `236/1992`
+- [Asetus Sri Lankan kanssa tehdyn keskinäistä tekstiilikauppaa koskevan sopimuksen voimaansaattamisesta](237.md) `237/1992`
+- [Asetus  työministeriöstä annetun asetuksen muuttamisesta](238.md) `238/1992`
+- [Laki eräistä väliaikaisista poikkeuksista veronkantolakiin](239.md) `239/1992`
+- [Laki kalastusvakuutusyhdistyksistä annetun lain 7 §:n muuttamisesta](240.md) `240/1992`
+- [Laki vientitakuulain 2 a ja 3 §:n muuttamisesta](241.md) `241/1992`
+- [Laki  Suomen Vientiluotto Oy:n korkotuesta, valuuttakurssitappioiden korvaamisesta ja antolainauksen valtion takauksista annetun lain muuttamisesta](242.md) `242/1992`
+- [Asetus  valtion virkaehtosopimusasetuksen muuttamisesta](243.md) `243/1992`
+- [Asetus valtionavusta hevoskasvatuksen edistämiseen ja hevosurheilun tukemiseen](244.md) `244/1992`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeiden pakkausmerkinnöistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](245.md) `245/1992`
+- [Liikenneministeriön päätös paineilmajarruilla varustettujen autojen ja niihin kytkettävien perävaunujen jarrulaitteista annetun liikenneministeriön päätöksen muuttamisesta](246.md) `246/1992`
+- [Sisäasiainministeriön päätös  toimenpiteistä kansainvälisiin kokouksiin osallistuviin, kansainvälistä erityissuojelua nauttiviin henkilöihin kohdistuvien rikosten ehkäisemiseksi annetun lain mukaisten turvatoimenpiteiden käyttämisestä](247.md) `247/1992`
+- [Suomen Pankin ilmoitus voimassa olevasta Suomen Pankin peruskorkoa vastaavasta korkokannasta](248.md) `248/1992`
+- [Asetus Slovenian kanssa tehdyn viisumivapaussopimuksen voimaansaattamisesta](249.md) `249/1992`
+- [Asetus sakkorangaistuksen täytäntöönpanosta annetun asetuksen muuttamisesta](250.md) `250/1992`
+- [Asetus sotilasoikeudenkäyntiasetuksen 13 §:n muuttamisesta](251.md) `251/1992`
+- [Asetus sotilaskurinpitoasetuksen 22 ja 23 §:n muuttamisesta](252.md) `252/1992`
+- [Asetus vankeusrangaistuksen täytäntöönpanosta annetun asetuksen muuttamisesta](253.md) `253/1992`
+- [Asetus nuorista rikoksentekijöistä annetun asetuksen 16 §:n kumoamisesta](254.md) `254/1992`
+- [Asetus tekijänoikeusasetuksen 24 ja 26 §:n muuttamisesta](255.md) `255/1992`
+- [Asetus ilmailulta rajoitetuista alueista](256.md) `256/1992`
+- [Asetus alusten radioasemien katsastusmaksuista annetun asetuksen kumoamisesta](257.md) `257/1992`
+- [Asetus tavaramerkkiasetuksen muuttamisesta](258.md) `258/1992`
+- [Kauppa\- ja teollisuusministeriön päätös tunnuksesta, joka voidaan liittää elintarvikkeen kanssa kosketukseen joutuviin tarvikkeisiin](259.md) `259/1992`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeen kanssa kosketukseen joutuvista muovisista tarvikkeista](260.md) `260/1992`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeen kanssa kosketukseen joutuvien muovisten tarvikkeiden sisältämien ainesosien siirtymisen testaamiseen tarvittavista perussäännöistä](261.md) `261/1992`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeen kanssa kosketukseen joutuvien muovisten tarvikkeiden sisältämien ainesosien migraation testaamiseen käytettävistä simulanteista](262.md) `262/1992`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeen kanssa kosketukseen joutuvista vinyylikloridimonomeeria sisältävistä tarvikkeista](263.md) `263/1992`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeen kanssa kosketukseen joutuvien tarvikkeiden vinyylikloridipitoisuuden valvontaan käytettävästä analyysimenetelmästä](264.md) `264/1992`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeen kanssa kosketukseen joutuvista tarvikkeista elintarvikkeeseen siirtyvän vinyylikloridin valvontaan käytettävästä analyysimenetelmästä](265.md) `265/1992`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeen kanssa kosketukseen joutuvien tarvikkeiden valmistuksessa käytettävästä, regeneroidusta selluloosasta valmistetusta kalvosta](266.md) `266/1992`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeen kanssa kosketukseen joutuvista keraamisista tarvikkeista](267.md) `267/1992`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeen kanssa kosketukseen joutuvista tarvikkeista liukenevista raskasmetalleista](268.md) `268/1992`
+- [Laki yksilöiden suojelua henkilötietojen automaattisessa tietojenkäsittelyssä koskevan yleissopimuksen eräiden määräysten hyväksymisestä](269.md) `269/1992`
+- [Asetus  yksilöiden suojelua henkilötietojen automaattisessa tietojenkäsittelyssä koskevan yleissopimuksen voimaansaattamisesta sekä yleissopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](270.md) `270/1992`
+- [Laki pakkokeinolain 1 ja 2 luvun muuttamisesta](271.md) `271/1992`
+- [Laki  yhdyskuntapalvelun kokeilemisesta annetun lain muuttamisesta](272.md) `272/1992`
+- [Laki  rikosvahinkojen korvaamisesta valtion varoista annetun lain 1 ja 8 §:n muuttamisesta](273.md) `273/1992`
+- [Asetus yhdyskuntapalvelun kokeilemisesta annetun asetuksen 2 §:n muuttamisesta](274.md) `274/1992`
+- [Asetus yhdyskuntapalvelun täytäntöönpanosta annetun asetuksen muuttamisesta](275.md) `275/1992`
+- [Asetus eräistä määräajaksi tai muutoin rajoitetuksi ajaksi täytettävistä viroista annetun asetuksen muuttamisesta](276.md) `276/1992`
+- [Asetus  hirvieläinten metsästyksestä annetun asetuksen muuttamisesta](277.md) `277/1992`
+- [Oikeusministeriön päätös yleisten alioikeuksien ja hovioikeuksien ratkaisuista tehtävistä ilmoituksista](278.md) `278/1992`
+- [Oikeusministeriön päätös lainhuuto\- ja kiinnitysrekisterin käyttöön ottamisesta eräissä tuomiokunnissa ja raastuvanoikeuksissa](279.md) `279/1992`
+- [Laki  pääkaupunkiseudun yhteistyövaltuuskunnasta annetun lain 6 ja 9 §:n muuttamisesta](280.md) `280/1992`
+- [Asetus Suomen ulkomaanedustustojen sijainnista annetun asetuksen muuttamisesta](281.md) `281/1992`
+- [Asetus  ulkoasiainhallinnosta annetun asetuksen muuttamisesta](282.md) `282/1992`
+- [Asetus  kasvatustieteellisen perustutkinnon ja erillisten erityisopettajan opintojen järjestämisestä Helsingin yliopistossa annetun asetuksen muuttamisesta](283.md) `283/1992`
+- [Asetus  luonnontieteellisen perustutkinnon järjestämisestä annetun asetuksen 9 §:n muuttamisesta](284.md) `284/1992`
+- [Asetus  teologisen perustutkinnon järjestämisestä Joensuun yliopistossa annetun asetuksen 3 §:n muuttamisesta](285.md) `285/1992`
+- [Asetus  yhteiskuntatieteellisistä tutkinnoista annetun asetuksen muuttamisesta](286.md) `286/1992`
+- [Asetus  yhteiskuntatieteellisten perustutkintojen järjestämisestä annetun asetuksen muuttamisesta](287.md) `287/1992`
+- [Asetus  avaruusasiain neuvottelukunnasta](288.md) `288/1992`
+- [Valtioneuvoston päätös työllisyyspoliittisesta rakennetuesta](289.md) `289/1992`
+- [Liikenneministeriön päätös  linja\-autoliikenteen henkilötaksoista](290.md) `290/1992`
+- [Ympäristöministeriön päätös asuinrakennusten ja asuntojen korjaustoimintaan myönnettävien avustusten jakoperusteista](291.md) `291/1992`
+- [Ympäristöministeriön päätös avustuksista taloudellisissa vaikeuksissa oleville vuokrataloille](292.md) `292/1992`
+- [Laki eräiden elinkeinoalojen valtiontakauksista annetun lain muuttamisesta](293.md) `293/1992`
+- [Asetus  merimiesasiain neuvottelukunnasta annetun asetuksen 5 §:n muuttamisesta](294.md) `294/1992`
+- [Asetus Amerikan yhdysvaltojen kanssa ydinenergian rauhanomaisesta käytöstä tehdyn yhteistyösopimuksen voimaansaattamisesta](295.md) `295/1992`
+- [Asetus talouspolitiikan johtamiskoulutuksen neuvottelukunnasta annetun asetuksen kumoamisesta](296.md) `296/1992`
+- [Asetus  maaseutuelinkeinoasetuksen muuttamisesta](297.md) `297/1992`
+- [Asetus ansioon suhteutetun työttömyyspäivärahan perusteena olevan palkan määrittämisestä annetun asetuksen 5 §:n muuttamisesta](298.md) `298/1992`
+- [Valtioneuvoston päätös  veropiireistä annetun valtioneuvoston päätöksen muuttamisesta](299.md) `299/1992`
+- [Valtioneuvoston päätös  maataloustuotannon vähentämissopimuksista vuonna 1992 annetun valtioneuvoston päätöksen muuttamisesta](300.md) `300/1992`
+- [Valtioneuvoston päätös  pellon metsityspalkkioista vuonna 1991 annetun valtioneuvoston päätöksen muuttamisesta](301.md) `301/1992`
+- [Laki jakolain muuttamisesta](302.md) `302/1992`
+- [Laki eräiden erillisten alueiden siirtämisestä kunnasta toiseen kuntaan](303.md) `303/1992`
+- [Laki kuntajaosta annetun lain 52 §:n muuttamisesta](304.md) `304/1992`
+- [Laki maanmittausmaksusta annetun lain 5 ja 9 §:n muuttamisesta](305.md) `305/1992`
+- [Laki valtion virkamieslain muuttamisesta](306.md) `306/1992`
+- [Laki valtion talousarviosta annetun lain muuttamisesta](307.md) `307/1992`
+- [Asetus puolustusvoimista annetun asetuksen muuttamisesta](308.md) `308/1992`
+- [Maa\- ja metsätalousministeriön päätös metsähallituksen alueyksiköistä](309.md) `309/1992`
+- [Maa\- ja metsätalousministeriön päätös harjuksen pyynnistä Enontekiön, Inarin ja Utsjoen kuntien alueilla](310.md) `310/1992`
+- [Laki sosiaalihuoltolain muuttamisesta](311.md) `311/1992`
+- [Perhehoitajalaki](312.md) `312/1992`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain 1 ja 2 §:n muuttamisesta](313.md) `313/1992`
+- [Laki tapaturmavakuutuslain muuttamisesta](314.md) `314/1992`
+- [Laki lastensuojelulain 27 ja 28 §:n kumoamisesta](315.md) `315/1992`
+- [Asetus aluksen miehityksestä ja laivahenkilökunnan pätevyydestä annetun asetuksen muuttamisesta](316.md) `316/1992`
+- [Asetus korkeakouluopiskelijoiden opintotuesta](317.md) `317/1992`
+- [Valtioneuvoston päätös  aikuisopiskelijoiden opintotuesta](318.md) `318/1992`
+- [Valtioneuvoston päätös työnantajalle maksettavasta koulutuskorvauksesta vuodelta 1992](319.md) `319/1992`
+- [Laki Kansainvälisen Itämeren kalastuskomission suositusten voimaansaattamisesta annetun lain muuttamisesta](320.md) `320/1992`
+- [Laki  mittayksiköistä ja mittaamisvälineiden vakaamisesta annetun lain muuttamisesta](321.md) `321/1992`
+- [Asetus Thaimaan kanssa yhteistoiminnasta rikosasiassa annettujen tuomioiden täytäntöönpanossa tehdyn sopimuksen voimaansaattamisesta](322.md) `322/1992`
+- [Asetus  Albanian tasavallan kanssa tehdyn taloudellista, teollista ja tieteellis\-teknillistä yhteistyötä koskevan sopimuksen voimaansaattamisesta](323.md) `323/1992`
+- [Asetus  puolustustarvikkeiden maastaviennistä ja kauttakuljetuksesta annetun asetuksen 1 §:n muuttamisesta](324.md) `324/1992`
+- [Asetus verohallinnon eräistä virkajärjestelyistä](325.md) `325/1992`
+- [Asetus valtion tulo\- ja menoarviosta annetun asetuksen muuttamisesta](326.md) `326/1992`
+- [Asetus  Suomen itsenäisyyden 75\-vuotisjuhlan johdosta lyötävistä juhlarahoista](327.md) `327/1992`
+- [Asetus  valtion virkamiesasetuksen muuttamisesta](328.md) `328/1992`
+- [Asetus  hoitotieteen professorin viran perustamisesta määräajaksi Jyväskylän yliopistoon](329.md) `329/1992`
+- [Asetus  ydinenergia\-asetuksen A liitteen muuttamisesta](330.md) `330/1992`
+- [Liikenneministeriön päätös linja\-autoliikenteelle myönnettävästä linjaliikenteen kilometrituesta](331.md) `331/1992`
+- [Liikenneministeriön päätös  moottoripyörän ja mopon rakenteen muuttamisesta](332.md) `332/1992`
+- [Liikenneministeriön päätös  ajoneuvon rakenteen, varusteen tai osan kansainvälisestä hyväksymisestä](333.md) `333/1992`
+- [Laki tullitariffilain liitteinä olevien tullitariffin ja teollisuustulliluettelon muuttamisesta](334.md) `334/1992`
+- [Laki tuontimaksulain sekä sen liitteinä olevien tuontimaksutaulukon ja teollisuusetuluettelon muuttamisesta](335.md) `335/1992`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Libyaa koskevaan päätökseen perustuvien velvoitusten täyttämisestä](336.md) `336/1992`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Irakia ja Kuwaitia koskevaan päätökseen perustuvien velvoitusten täyttämisestä annetun asetuksen muuttamisesta](337.md) `337/1992`
+- [Asetus pohjoismaisesta kehitysyhteistyöstä tehdyn sopimuksen muuttamista koskevan lisäpöytäkirjan voimaansaattamisesta](338.md) `338/1992`
+- [Valtioneuvoston päätös ulkomaanedustuksen virkamiesten paikalliskorotuksesta, varustautumiskorvauksesta ja asettautumiskustannusten korvauksesta annetun valtioneuvoston päätöksen muuttamisesta](339.md) `339/1992`
+- [Valtioneuvoston päätös sokerin tuontimaksun väliaikaisesta muuttamisesta](340.md) `340/1992`
+- [Puolustusministeriön päätös kemiallisten taisteluaineiden raaka\-aineista ja kemiallisten taisteluaineiden valmistamiseen soveltuvista laitteista ja niihin liittyvästä teknologiasta](341.md) `341/1992`
+- [Puolustusministeriön päätös biologiseen sodankäyntiin soveltuvista aineista ja niiden valmistamiseen soveltuvista laitteista](342.md) `342/1992`
+- [Puolustusministeriön päätös ohjusteknologian valvontajärjestelyn piiriin kuuluvien tarvikkeiden rinnastamisesta puolustustarvikkeisiin](343.md) `343/1992`
+- [Maa\- ja metsätalousministeriön päätös merkkipiireistä sekä suurimmista sallituista poromääristä annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](344.md) `344/1992`
+- [Asetus opintotuen hallinnosta](345.md) `345/1992`
+- [Asetus opintotukiasetuksen muuttamisesta](346.md) `346/1992`
+- [Asetus opintotuen muutoksenhakulautakunnasta](347.md) `347/1992`
+- [Valtioneuvoston päätös eräiden opintotukilaissa tarkoitettujen määrien vahvistamisesta](348.md) `348/1992`
+- [Valtioneuvoston päätös korkeakouluopiskelijoiden opintotuen asumislisästä](349.md) `349/1992`
+- [Valtioneuvoston päätös Porvoon raastuvanoikeuden lakkauttamisesta ja Porvoon tuomiokunnan uudelleen muodostamisesta](350.md) `350/1992`
+- [Puolustusministeriön päätös asevelvollisten yleisistä varusmiespalvelukseen astumispäivistä vuonna 1994](351.md) `351/1992`
+- [Laki EFTA\-valtioiden ja Turkin välillä tehdyn sopimuksen sekä siihen liittyvän Suomen ja Turkin välillä tehdyn maataloustuotteiden kauppaa koskevan pöytäkirjan eräiden määräysten hyväksymisestä](352.md) `352/1992`
+- [Asetus EFTA\-valtioiden ja Turkin välillä tehdyn sopimuksen sekä siihen liittyvän Suomen ja Turkin välillä tehdyn maataloustuotteiden kauppaa koskevan pöytäkirjan voimaansaattamisesta sekä niiden eräiden määräysten hyväksymisestä annetun lain voimaantulosta](353.md) `353/1992`
+- [Valtiovarainministeriön päätös EFTA\-valtioiden ja Turkin väliseen sopimukseen sekä siihen liittyvään Suomen ja Turkin väliseen maataloustuotteiden kauppaa koskevaan pöytäkirjaan sovellettaviin alkuperäsääntöihin liittyvistä määräyksistä](354.md) `354/1992`
+- [Liikenneministeriön päätös henkilöautolla harjoitettavan tilausliikenteen liikennealuejaosta](355.md) `355/1992`
+- [Kauppa\- ja teollisuusministeriön päätös energiainvestointeihin annettavien korkotukilainojen yleisistä ehdoista](356.md) `356/1992`
+- [Laki  rajavartiolaitoksesta annetun lain muuttamisesta](357.md) `357/1992`
+- [Asetus rajavartiolaitoksesta](358.md) `358/1992`
+- [Asetus poliisin hallinnosta](359.md) `359/1992`
+- [Asetus passintarkastuspaikoista annetun asetuksen 2 §:n muuttamisesta](360.md) `360/1992`
+- [Laki vaarallisten jätteiden maan rajan ylittävien siirtojen ja käsittelyn valvontaa koskevan Baselin yleissopimuksen eräiden määräysten hyväksymisestä](361.md) `361/1992`
+- [Asetus vaarallisten jätteiden maan rajan ylittävien siirtojen ja käsittelyn valvontaa koskevan Baselin yleissopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](362.md) `362/1992`
+- [Laki Posti\- ja telelaitoksesta annetun lain 4 §:n muuttamisesta](363.md) `363/1992`
+- [Asetus Kansainvälisen Itämeren kalastuskomission suositusten mukaisten vuoden 1992 saaliskiintiöiden voimaansaattamisesta](364.md) `364/1992`
+- [Asetus Itämerellä harjoitettavaa kalastusta koskevista säännöistä annetun asetuksen muuttamisesta](365.md) `365/1992`
+- [Valtioneuvoston päätös eräiden Suomeen muuttavien henkilöiden toimeentulotuen sekä heille annetun sosiaali\- ja terveydenhuollon erityiskustannusten korvaamisesta annetun valtioneuvoston päätöksen muuttamisesta](366.md) `366/1992`
+- [Valtioneuvoston päätös valtion radiorahaston varojen käytöstä annetun valtioneuvoston päätöksen1 §:n muuttamisesta](367.md) `367/1992`
+- [Vuoden 1992 I lisätalousarvio](368.md) `368/1992`
+- [Asetus  maan ulkomaankaupassa sovellettavista määrällisistä rajoituksista annetun asetuksen liitteen muuttamisesta](369.md) `369/1992`
+- [Vakausasetus](370.md) `370/1992`
+- [Mittayksikköasetus](371.md) `371/1992`
+- [Asetus oman asunnon hankintaan myönnettävien lainojen korkotuesta annetun asetuksen 2 §:n muuttamisesta](372.md) `372/1992`
+- [Ympäristöministeriön päätös eräiden korkotukilainojen koroista](373.md) `373/1992`
+- [Liikenneministeriön päätös alusten radioasemien katsastusmaksuista](374.md) `374/1992`
+- [Laki leimaverolain muuttamisesta](375.md) `375/1992`
+- [Laki leimaverolain 54 ja 88 §:n muuttamisesta](376.md) `376/1992`
+- [Laki talletusten ja obligaatioiden veronhuojennuslain muuttamisesta](377.md) `377/1992`
+- [Laki tulo\- ja varallisuusverolain muuttamisesta](378.md) `378/1992`
+- [Laki valtion vakuusrahastosta](379.md) `379/1992`
+- [Laki talletuspankkien toiminnasta annetun lain muuttamisesta](380.md) `380/1992`
+- [Laki ulkomaalaisen oikeudesta omistaa suomalaisen luottolaitoksen osakkeita ja harjoittaa pankkitoimintaa Suomessa annetun lain 18 §:n muuttamisesta](381.md) `381/1992`
+- [Laki tulo\- ja varallisuusverolain 16 §:n muuttamisesta](382.md) `382/1992`
+- [Laki leimaverolain muuttamisesta](383.md) `383/1992`
+- [Asetus autorekisterikeskuksen ja sen katsastustoimipaikkojen suoritteista perittävistä maksuista annetun asetuksen kumoamisesta](384.md) `384/1992`
+- [Asetus elintarvikeneuvottelukunnasta](385.md) `385/1992`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](386.md) `386/1992`
+- [Valtioneuvoston päätös lihan tuotantotuesta annetun valtioneuvoston päätöksen 5 §:n muuttamisesta](387.md) `387/1992`
+- [Sisäasiainministeriön päätös erään tilan ja alueen siirtämisestä Limingan kunnasta Temmeksen kuntaan](388.md) `388/1992`
+- [Sisäasiainministeriön päätös  kuntajaon muuttamisesta eräiltä osin Naantalin kaupungin ja Maskun kunnan välillä](389.md) `389/1992`
+- [Sisäasiainministeriön päätös  eräiden tilojen ja tilanosien siirtämisestä Raahen kaupungista Pattijoen kuntaan](390.md) `390/1992`
+- [Sisäasiainministeriön päätös  erään tilan ja eräiden alueiden siirtämisestä Raision kaupungista Nousiaisten kuntaan](391.md) `391/1992`
+- [Sisäasiainministeriön päätös erään tilanosan ja eräiden alueiden siirtämisestä Vuolijoen kunnasta Vieremän kuntaan](392.md) `392/1992`
+- [Maa\- ja metsätalousministeriön eläinlääkintöosaston päätös eläintautien leviämisen ehkäisemisestä maahantuonnin yhteydessä annetun maa\- ja metsätalousministeriön eläinlääkintöosaston päätöksen muuttamisesta](393.md) `393/1992`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä](394.md) `394/1992`
+- [Valtioneuvoston päätös pinta\-alalisästä](395.md) `395/1992`
+- [Valtioneuvoston päätös peltoalan perusteella maksettavasta tuesta](396.md) `396/1992`
+- [Valtioneuvoston päätös kotieläinten lukumäärän perusteella annettavista avustuksista](397.md) `397/1992`
+- [Valtioneuvoston päätös rehuviljan tuotantopalkkiosta annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](398.md) `398/1992`
+- [Valtioneuvoston päätös teollisuusperunan tuotantopalkkiosta annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](399.md) `399/1992`
+- [Valtioneuvoston päätös sokerijuurikkaan tuotantopalkkiosta annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](400.md) `400/1992`
+- [Valtioneuvoston päätös maidon kuljetusavustuksista annetun valtioneuvoston päätöksen muuttamisesta](401.md) `401/1992`
+- [Valtioneuvoston päätös emolehmäpalkkioista](402.md) `402/1992`
+- [Valtioneuvoston päätös sianlihan vientikustannusmaksun muuttamisesta](403.md) `403/1992`
+- [Valtioneuvoston päätös eräiden maatilatalouden luottojen kohdennetusta vakauttamisesta](404.md) `404/1992`
+- [Laki  sairausvakuutuslain 61 ja 64 §:n muuttamisesta](405.md) `405/1992`
+- [Laki  kuntoutusrahalain muuttamisesta](406.md) `406/1992`
+- [Laki maaseutuelinkeinolain 59 a §:n muuttamisesta](407.md) `407/1992`
+- [Laki  taloudellisissa vaikeuksissa oleville asuntovelallisille myönnettävästä korkotuesta](408.md) `408/1992`
+- [Asetus taloudellisissa vaikeuksissa oleville asuntovelallisille myönnettävästä korkotuesta](409.md) `409/1992`
+- [Laki tulo\- ja varallisuusverolain väliaikaisesta muuttamisesta](410.md) `410/1992`
+- [Laki leimaverolain väliaikaisesta muuttamisesta](411.md) `411/1992`
+- [Laki  asuntotuotantolain mukaisten hankintalainojen myöntämisestä eräissä tapauksissa](412.md) `412/1992`
+- [Asetus asuntotuotantolain mukaisten hankintalainojen myöntämisestä eräissä tapauksissa](413.md) `413/1992`
+- [Asetus  Venäjän federaation kanssa Vartiuksen rajanylityspaikan avaamisesta kansainväliselle ajoneuvoliikenteelle tehdyn sopimuksen voimaansaattamisesta](414.md) `414/1992`
+- [Valtioneuvoston päätös  nuorten kesätyötuesta](415.md) `415/1992`
+- [Maa\- ja metsätalousministeriön päätös  Ruotsin kanssa vastavuoroisista kalastusoikeuksista Itämerellä tehtyjen sopimusten täytäntöönpanosta vuonna 1992 annetun päätöksen 2 §:n muuttamisesta](416.md) `416/1992`
+- [Laki  kauppaedustajista ja myyntimiehistä](417.md) `417/1992`
+- [Asetus ulkomaalaisen rintamasotilastunnuksesta](418.md) `418/1992`
+- [Asetus  sosiaalihuoltoasetuksen 12 §:n muuttamisesta](419.md) `419/1992`
+- [Asetus perhehoitajalle maksettavasta palkkiosta ja korvauksesta](420.md) `420/1992`
+- [Asetus  lastensuojeluasetuksen muuttamisesta](421.md) `421/1992`
+- [Oikeusministeriön päätös valitsijayhdistyksen perustajajäsenten vähimmäismäärästä eräissä kunnissa vuoden 1992 kunnallisvaaleissa](422.md) `422/1992`
+- [Sisäasiainministeriön päätös pysäköintivirhemaksun korottamisesta](423.md) `423/1992`
+- [Laki  taiteen perusopetuksesta](424.md) `424/1992`
+- [Laki peruskoululain 26 §:n muuttamisesta](425.md) `425/1992`
+- [Laki lukiolain 18 §:n muuttamisesta](426.md) `426/1992`
+- [Laki Valtiontakuukeskuksesta annetun lain 6 §:n muuttamisesta](427.md) `427/1992`
+- [Asetus lisävaltuuksien antamisesta valtioneuvostolle lainanottoon vuoden 1992 aikana](428.md) `428/1992`
+- [Asetus Suomen ulkomaanedustustojen sijainnista annetun asetuksen muuttamisesta](429.md) `429/1992`
+- [Asetus poliisikoulutuksesta](430.md) `430/1992`
+- [Asetus tullilaitoksesta annetun asetuksen 18 §:n muuttamisesta](431.md) `431/1992`
+- [Asetus kansanopistojen valtionavusta annetun asetuksen 10 §:n muuttamisesta](432.md) `432/1992`
+- [Asetus kansanopistojen valtionavusta annetun asetuksen muuttamisesta annetun asetuksen voimaantulosäännöksen 4 momentin kumoamisesta](433.md) `433/1992`
+- [Valtioneuvoston päätös taloudellisissa vaikeuksissa olevien asuntovelallisten lainojen korkotukilainoiksi hyväksymisen perusteista](434.md) `434/1992`
+- [Laki  kansanedustajain vaaleista annetun lain muuttamisesta](435.md) `435/1992`
+- [Laki kunnallisvaalilain muuttamisesta](436.md) `436/1992`
+- [Laki osakeyhtiölain 3 a luvun 3 ja 4 §:n muuttamisesta](437.md) `437/1992`
+- [Valtioneuvoston päätös erään tilanosan siirtämisestä Iitin kunnasta Nastolan kuntaan](438.md) `438/1992`
+- [Valtioneuvoston päätös tullipiireistä ja eräistä tullitoimipaikoista](439.md) `439/1992`
+- [Verohallituksen päätös ennakonpidätyksen toimittamisvelvollisuudesta](440.md) `440/1992`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä](441.md) `441/1992`
+- [Laki alueen luovuttamisesta Savukosken kunnalle](442.md) `442/1992`
+- [Asetus opettajankoulutusasetuksen muuttamisesta](443.md) `443/1992`
+- [Asetus Oulun yliopiston Pohjois\-Suomen tutkimuslaitoksesta annetun asetuksen 2 ja 6 §:n muuttamisesta](444.md) `444/1992`
+- [Asetus liikenneturvallisuusalan ansiomitalista](445.md) `445/1992`
+- [Asetus  tieliikenneasetuksen 21 ja 53 §:n muuttamisesta](446.md) `446/1992`
+- [Asetus  työntekijäin eläkeasetuksen 18 §:n muuttamisesta](447.md) `447/1992`
+- [Asetus  eläketurvakeskuksen ohjesäännön sisältävän asetuksen 6 §:n muuttamisesta](448.md) `448/1992`
+- [Asetus Kirmunharjun, Peiliösuon, Miemalanharjun ja Raimansuon luonnonsuojelualueista](449.md) `449/1992`
+- [Asetus  eräiden kasvien rauhoittamisesta](450.md) `450/1992`
+- [Valtioneuvoston päätös eräiden tilojen, tilanosien ja alueiden siirtämisestä Kälviän ja Kaustisten kunnista Ullavan kuntaan](451.md) `451/1992`
+- [Valtioneuvoston päätös maataloustuotannon vähentämissopimuksista vuonna 1992 annetun valtioneuvoston päätöksen muuttamisesta](452.md) `452/1992`
+- [Valtioneuvoston päätös  raskaan polttoöljyn rikkipitoisuudesta](453.md) `453/1992`
+- [Liikenneministeriön päätös  Autorekisterikeskuksen suoritteiden maksullisuudesta, maksuperusteista ja suoritteista perittävistä maksuista](454.md) `454/1992`
+- [Maa\- ja metsätalousministeriön päätös merilohisaaliin ilmoittamisesta](455.md) `455/1992`
+- [Laki  siviilipalveluslain muuttamisesta](456.md) `456/1992`
+- [Asetus ulkoasiainhallinnosta annetun asetuksen muuttamisesta](457.md) `457/1992`
+- [Asetus tuotantoeläinten suojelua koskevan eurooppalaisen yleissopimuksen voimaansaattamisesta](458.md) `458/1992`
+- [Asetus teuraseläinten suojelua koskevan eurooppalaisen yleissopimuksen voimaansaattamisesta](459.md) `459/1992`
+- [Asetus  vankeinhoitolaitoksesta annetun asetuksen muuttamisesta](460.md) `460/1992`
+- [Asetus  passintarkastuspaikoista](461.md) `461/1992`
+- [Asetus eroraha\-asetuksen 10 §:n muuttamisesta](462.md) `462/1992`
+- [Asetus  taiteen perusopetuksesta](463.md) `463/1992`
+- [Valtioneuvoston päätös polttoaineverotaulukon muuttamisesta](464.md) `464/1992`
+- [Kauppa\- ja teollisuusministeriön päätös vientitakuista perittävän maksun perusteista](465.md) `465/1992`
+- [Kauppa\- ja teollisuusministeriön päätös valtiontakauksista perittävän maksun perusteista](466.md) `466/1992`
+- [Laki  Kera Oy \-nimisestä osakeyhtiöstä annetun lain muuttamisesta](467.md) `467/1992`
+- [Asetus  vaarallisten kemikaalien teollisesta käsittelystä ja varastoinnista puolustusvoimissa](468.md) `468/1992`
+- [Asetus kemikaalilain valvontaviranomaisista puolustusvoimissa](469.md) `469/1992`
+- [Asetus metsästysasetuksen muuttamisesta](470.md) `470/1992`
+- [Asetus sairausvakuutusasetuksen 17 ja 17 a §:n muuttamisesta](471.md) `471/1992`
+- [Valtioneuvoston päätös  Tenholan kunnan liittämisestä Tammisaaren kaupunkiin](472.md) `472/1992`
+- [Valtioneuvoston päätös eräiden tilojen ja alueiden siirtämisestä Mietoisten kunnasta Mynämäen kuntaan](473.md) `473/1992`
+- [Valtioneuvoston päätös  julkisen liikenteen neuvottelukunnasta](474.md) `474/1992`
+- [Sisäasiainministeriön päätös poliisin antamasta siirtokilpiluvasta perittävästä maksusta](475.md) `475/1992`
+- [Maa\- ja metsätalousministeriön päätös eräiden lääkeaineiden käytön kieltämisestä tuotantoeläimille](476.md) `476/1992`
+- [Maa\- ja metsätalousministeriön päätös eräiden mikrobilääkkeiden enimmäismääristä maidossa](477.md) `477/1992`
+- [Työministeriön päätös ennen 1 päivää lokakuuta 1973 käyttöön otettujen torninosturien rakenteellisista vaatimuksista](478.md) `478/1992`
+- [Laki tulliverolain väliaikaisesta muuttamisesta](479.md) `479/1992`
+- [Laki kilpailunrajoituksista](480.md) `480/1992`
+- [Laki kilpailuneuvostosta](481.md) `481/1992`
+- [Laki kilpailuvirastosta annetun lain 2 ja 3 §:n muuttamisesta](482.md) `482/1992`
+- [Laki vakuutusyhtiölain muuttamisesta](483.md) `483/1992`
+- [Laki talletuspankkien toiminnasta annetun lain muuttamisesta](484.md) `484/1992`
+- [Asetus kilpailuneuvostosta](485.md) `485/1992`
+- [Asetus  kilpailuvirastosta annetun asetuksen muuttamisesta](486.md) `486/1992`
+- [Asetus  sosiaalipalveluista perittävistä maksuista annetun asetuksen 3 §:n muuttamisesta](487.md) `487/1992`
+- [Valtioneuvoston päätös korkeakouluopiskelijoiden opintotuen asumislisästä annetun valtioneuvoston päätöksen 3 ja 4 §:n kumoamisesta](488.md) `488/1992`
+- [Valtioneuvoston päätös  eräitä terveydelle haittaa aiheuttavia kemikaaleja ja niitä sisältäviä tuotteita koskevista kielloista ja rajoituksista](489.md) `489/1992`
+- [Laki puolustusvoimista annetun lain muuttamisesta](490.md) `490/1992`
+- [Laki sotilasopetuslaitoksista annetun lain kumoamisesta](491.md) `491/1992`
+- [Laki  rehulain 13 §:n muuttamisesta](492.md) `492/1992`
+- [Laki  lannoitelain 10 §:n muuttamisesta](493.md) `493/1992`
+- [Laki  sotilasvammalain muuttamisesta](494.md) `494/1992`
+- [Asetus  sotilasvammalain eräiden säännösten soveltamisesta annetun asetuksen muuttamisesta](495.md) `495/1992`
+- [Asetus  Yhdistyneiden Kansakuntien turvallisuusneuvoston Jugoslavian liittotasavaltaa koskevaan päätökseen perustuvien velvoitusten täyttämisestä](496.md) `496/1992`
+- [Asetus vieraskielisistä yksityisistä kouluista annetun asetuksen 4 §:n muuttamisesta](497.md) `497/1992`
+- [Valtioneuvoston päätös  Säynätsalon kunnan liittämisestä Jyväskylän kaupunkiin](498.md) `498/1992`
+- [Sosiaali\- ja terveysministeriön päätös  lasten päivähoidosta perittävien maksujen perusteena olevasta 1\. korvausluokan tulorajasta](499.md) `499/1992`
+- [Sosiaali\- ja terveysministeriön päätös alkoholijuomien tuonnin rajoittamisesta eräissä tapauksissa annetun sosiaali\- ja terveysministeriön päätöksen 1 §:n muuttamisesta](500.md) `500/1992`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta annetunSuomen Pankin päätöksen muuttamisesta](501.md) `501/1992`
+- [Maatilahallituksen päätös peltoalan perusteella suoritettavasta vientikustannusmaksusta annetussa laissa tarkoitetusta kesannoinnista ja muista seikoista annetun maatilahallituksen päätöksen 2 §:n muuttamisesta](502.md) `502/1992`
+- [Asetus lehtojensuojelualueista](503.md) `503/1992`
+- [Laki osakeyhtiölain muuttamisesta](504.md) `504/1992`
+- [Asetus ennakkoäänestyspaikkoina olevista Posti\- ja telelaitoksen toimipaikoista ja tilapäisistä ennakkoäänestyspaikoista](505.md) `505/1992`
+- [Laki  maan ulkomaankaupan ja taloudellisen kasvun turvaamisesta annetun lain muuttamisesta](506.md) `506/1992`
+- [Asetus  peruskouluasetuksen eräiden säännösten kumoamisesta](507.md) `507/1992`
+- [Asetus  lukioasetuksen eräiden säännösten kumoamisesta](508.md) `508/1992`
+- [Asetus  vedonlyönnin toimeenpanemisesta hevoskilpailuissa annetun asetuksen 5 §:n muuttamisesta](509.md) `509/1992`
+- [Asetus  puolustusministeriön ja puolustuslaitoksen viran tai toimen haltijain palkkauksesta annetun asetuksen 4 ja 5 §:n muuttamisesta](510.md) `510/1992`
+- [Asetus tulliverolain täytäntöönpanosta](511.md) `511/1992`
+- [Asetus  koulutustoimikunnista](512.md) `512/1992`
+- [Asetus eläinlääkärin erikoistumisesta annetun asetuksen muuttamisesta](513.md) `513/1992`
+- [Valtioneuvoston päätös ulkomailla suoritettavaan korkeakoulututkintoon myönnettävän opintotuen enimmäiskestosta](514.md) `514/1992`
+- [Valtioneuvoston päätös  porotalouslain 3 §:n 2 momentissa tarkoitetuista enimmäistuloista annetun valtioneuvoston päätöksen 1 ja 2 §:n muuttamisesta](515.md) `515/1992`
+- [Valtioneuvoston päätös  luontaiselinkeinolain 4 §:n 2 momentissa tarkoitetuista enimmäistuloista annetun valtioneuvoston päätöksen 1 ja 2 §:n muuttamisesta](516.md) `516/1992`
+- [Opetusministeriön päätös korkeakouluopiskelijoiden opintorahan korotusperusteiden vahvistamisesta](517.md) `517/1992`
+- [Asetus  teatterikorkeakoulusta](518.md) `518/1992`
+- [Asetus eräiden korkeakoulujen opetuksesta ja opiskelijoista annetun asetuksen muuttamisesta](519.md) `519/1992`
+- [Asetus ajoneuvoasetuksen muuttamisesta](520.md) `520/1992`
+- [Asetus elintarvikelisäaineista](521.md) `521/1992`
+- [Asetus aromeista ja niiden valmistusaineista](522.md) `522/1992`
+- [Valtioneuvoston päätös Konginkankaan kunnan liittämisestä Äänekosken kaupunkiin](523.md) `523/1992`
+- [Valtioneuvoston päätös Rauman maalaiskunnan liittämisestä Rauman kaupunkiin](524.md) `524/1992`
+- [Valtioneuvoston päätös sosiaali\- ja terveysministeriön eräiden virkojen perustamisesta ja lakkauttamisesta](525.md) `525/1992`
+- [Valtioneuvoston päätös tupakkatuotteista suoritettavasta lisäverosta](526.md) `526/1992`
+- [Valtioneuvoston päätös teollisuustulli\- ja tuontimaksuetujen myöntämisestä](527.md) `527/1992`
+- [Valtioneuvoston päätös valtiovarainministeriön eräiden virkojen perustamisesta ja lakkauttamisesta](528.md) `528/1992`
+- [Valtioneuvoston päätös teollisuustulliluettelon muuttamisesta](529.md) `529/1992`
+- [Ympäristöministeriön päätös ilmansuojelun kehittämiseen ja koerakennustoimintaan myönnettävistä avustuksista](530.md) `530/1992`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeen kanssa kosketukseen joutuvien tarvikkeiden valmistuksessa käytettävästä, regeneroidusta selluloosasta valmistetusta kalvosta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](531.md) `531/1992`
+- [Sisäasiainministeriön päätös  toimenpiteistä kansainvälisiin kokouksiin osallistuviin, kansainvälistä erityissuojelua nauttiviin henkilöihin kohdistuvien rikosten ehkäisemiseksi annetun lain mukaisten turvatoimenpiteiden käyttämisestä](532.md) `532/1992`
+- [Valtiovarainministeriön päätös eräiden kulkuneuvojen muonituksesta](533.md) `533/1992`
+- [Valtiovarainministeriön päätös maahan saapuvan matkustajan tuomisten tullittomuudesta](534.md) `534/1992`
+- [Maa\- ja metsätalousministeriön päätös isorysän käytöstä eräillä vesialueilla](535.md) `535/1992`
+- [Kauppa\- ja teollisuusministeriön päätös valvontalisensioinnista annetun päätöksen muuttamisesta](536.md) `536/1992`
+- [Vuoden 1992 II lisätalousarvio](537.md) `537/1992`
+- [Laki pienten ja keskisuurten yritysten investointien korkotukilainoista](538.md) `538/1992`
+- [Asetus pienten ja keskisuurten yritysten investointien korkotukilainoista](539.md) `539/1992`
+- [Asetus lemmikkieläinten suojelua koskevan eurooppalaisen yleissopimuksen voimaansaattamisesta](540.md) `540/1992`
+- [Asetus otsonikerrosta heikentäviä aineita koskevan Montrealin pöytäkirjan liitteen D voimaansaattamisesta](541.md) `541/1992`
+- [Asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansain\- väliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan III liitteen voimaansaattamisesta](542.md) `542/1992`
+- [Asetus Amerikan yhdysvaltain kanssa tieteellis\-teknisestä yhteistyöstä tehdyn sopimuksen muuttamista ja jatkamista koskevan sopimuksen voimaansaattamisesta](543.md) `543/1992`
+- [Asetus alkoholijuomista annetun asetuksen 14 §:n muuttamisesta](544.md) `544/1992`
+- [Asetus keskioluesta annetun asetuksen 2 §:n muuttamisesta](545.md) `545/1992`
+- [Asetus alkoholijuomien anniskelusta kansainvälisessä yhdysliikenteessä olevassa junassa annetun asetuksen muuttamisesta](546.md) `546/1992`
+- [Asetus työministeriöstä annetun asetuksen 12 §:n muuttamisesta](547.md) `547/1992`
+- [Asetus työvoimapalvelujen neuvottelukunnasta annetun asetuksen muuttamisesta](548.md) `548/1992`
+- [Asetus työvoimapoliittisesta aikuiskoulutuksesta annetun asetuksen 15 §:n muuttamisesta](549.md) `549/1992`
+- [Valtioneuvoston päätös sokerin tuontimaksun väliaikaisesta muuttamisesta](550.md) `550/1992`
+- [Laki tulo\- ja varallisuusverolain muuttamisesta](551.md) `551/1992`
+- [Arpajaisverolaki](552.md) `552/1992`
+- [Laki leimaverolain 10 ja 14 §:n muuttamisesta](553.md) `553/1992`
+- [Laki tulo\- ja varallisuusverolain 79 §:n muuttamisesta](554.md) `554/1992`
+- [Laki leimaverolain muuttamisesta](555.md) `555/1992`
+- [Laki verotuslain muuttamisesta](556.md) `556/1992`
+- [Laki sairausvakuutuslain 33 §:n muuttamisesta](557.md) `557/1992`
+- [Laki kansaneläkelain 4 §:n muuttamisesta](558.md) `558/1992`
+- [Laki aikuisten järjestelmällisen hammashuollon toimeenpanon siirtämisestä](559.md) `559/1992`
+- [Sotilasajoneuvoasetus](560.md) `560/1992`
+- [Liikenneministeriön päätös sotilasajoneuvoasetuksen soveltamisesta](561.md) `561/1992`
+- [Laki maidon, sianlihan ja viljan vientikustannusmaksusta annetun lain 7 ja 9 §:n muuttamisesta](562.md) `562/1992`
+- [Laki työntekijäin eläkelain väliaikaisesta muuttamisesta](563.md) `563/1992`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 1 §:n väliaikaisesta muuttamisesta](564.md) `564/1992`
+- [Laki maatalousyrittäjien eläkelain 10 §:n väliaikaisesta muuttamisesta](565.md) `565/1992`
+- [Laki yrittäjien eläkelain 9 §:n väliaikaisesta muuttamisesta](566.md) `566/1992`
+- [Asetus kameraalisen jaotuksen muuttamisesta](567.md) `567/1992`
+- [Asetus  rehuasetuksen 20 §:n kumoamisesta](568.md) `568/1992`
+- [Asetus  lannoiteasetuksen 17 §:n kumoamisesta](569.md) `569/1992`
+- [Asetus  tielaitoksesta annetun asetuksen muuttamisesta](570.md) `570/1992`
+- [Valtioneuvoston päätös  Hämeenkyrön, Ikaalisten, Kihniön, Mouhijärven, Parkanon ja Viljakkalan kuntien siirtämisestä Turun ja Porin läänistä Hämeen lääniin](571.md) `571/1992`
+- [Valtioneuvoston päätös  Kalannin kunnan liittämisestä Uudenkaupungin kaupunkiin](572.md) `572/1992`
+- [Valtioneuvoston päätös  lääketaksasta annetun valtioneuvoston päätöksen muuttamisesta](573.md) `573/1992`
+- [Kauppa\- ja teollisuusministeriön päätös kauppasienistä annetun elinkeinohallituksen päätöksen muuttamisesta](574.md) `574/1992`
+- [Laki patentti\- ja rekisterihallituksesta](575.md) `575/1992`
+- [Laki patentti\- ja rekisterihallituksen valitusasioiden käsittelystä](576.md) `576/1992`
+- [Laki patenttilain 25 ja 72 §:n muuttamisesta](577.md) `577/1992`
+- [Laki mallioikeuslain 22 §:n muuttamisesta](578.md) `578/1992`
+- [Laki yksinoikeudesta integroidun piirin piirimalliin annetun lain 29 §:n muuttamisesta](579.md) `579/1992`
+- [Laki hyödyllisyysmallioikeudesta annetun lain 23 §:n muuttamisesta](580.md) `580/1992`
+- [Laki tavaramerkkilain 51 a §:n muuttamisesta](581.md) `581/1992`
+- [Laki kaupparekisterilain muuttamisesta](582.md) `582/1992`
+- [Asetus patenttiasetuksen muuttamisesta](583.md) `583/1992`
+- [Asetus OECD:n neuvoston hyödynnettävien jätteiden maan rajan ylittävien siirtojen valvontaa koskevan päätöksen voimaansaattamisesta](584.md) `584/1992`
+- [Asetus ammatillisista aikuiskoulutuskeskuksista annetun asetuksen 17 §:n muuttamisesta](585.md) `585/1992`
+- [Asetus sotilasvammalain eräiden säännösten soveltamisesta annetun asetuksen 3 §:n muuttamisesta](586.md) `586/1992`
+- [Opetusministeriön päätös lunastuksesta, joka suoritetaan kirkonkirjoista ja seurakunnan muista asiakirjoista annettavista virkatodistuksista ja otteista](587.md) `587/1992`
+- [Laki  valtion virkaehtosopimuslain 2 ja 5 §:n muuttamisesta](588.md) `588/1992`
+- [Laki valtion liikelaitoksista annetun lain muuttamisesta](589.md) `589/1992`
+- [Laki yhteistoiminnasta yrityksissä annetun lain 2 §:n muuttamisesta](590.md) `590/1992`
+- [Laki yhteistoiminnasta valtion virastoissa ja laitoksissa annetun lain 2 §:n muuttamisesta](591.md) `591/1992`
+- [Laki opintotukilain väliaikaisesta muuttamisesta](592.md) `592/1992`
+- [Laki rajoituksesta oikeuteen saada aikuisopintorahaa](593.md) `593/1992`
+- [Laki valtion riskipääomatakuista](594.md) `594/1992`
+- [Laki työllisyyslain väliaikaisesta muuttamisesta](595.md) `595/1992`
+- [Asetus taideteollisen alan korkeakoulututkinnoista annetun asetuksen muuttamisesta](596.md) `596/1992`
+- [Asetus eräistä poikkeuksista ammatillisia oppilaitoksia koskeviin säännöksiin](597.md) `597/1992`
+- [Laki Martinselkosen luonnonsuojelualueesta](598.md) `598/1992`
+- [Asetus Uudenmaan lääninvankilan perustamisesta](599.md) `599/1992`
+- [Valtiovarainministeriön päätös valtiokonttorin maksullisista suoritteista](600.md) `600/1992`
+- [Liikenneministeriön päätös linja\-autoliikenteen tilausajotaksasta annetun liikenneministeriön päätöksen kumoamisesta](601.md) `601/1992`
+- [Laki lukiolain muuttamisesta](602.md) `602/1992`
+- [Laki iltalukiolain muuttamisesta](603.md) `603/1992`
+- [Laki peruskoulun, lukion ja yleisen kirjaston valtionosuuksista ja \-avustuksista annetun lain 5 §:n muuttamisesta](604.md) `604/1992`
+- [Laki ammatillisista oppilaitoksista annetun lain muuttamisesta](605.md) `605/1992`
+- [Laki ammatillisten oppilaitosten rahoituksesta annetun lain 2 ja 15 §:n muuttamisesta](606.md) `606/1992`
+- [Laki lukiolain 15 §:n muuttamisesta](607.md) `607/1992`
+- [Laki iltalukiolain 16 §:n väliaikaisesta muuttamisesta](608.md) `608/1992`
+- [Laki peruskoulun, lukion ja yleisen kirjaston valtionosuuksista ja \-avustuksista annetun lain väliaikaisesta muuttamisesta](609.md) `609/1992`
+- [Asetus ammattioppilaitoksista annetun asetuksen 21 §:n muuttamisesta](610.md) `610/1992`
+- [Asetus hotelli\- ja ravintolaoppilaitoksista annetun asetuksen 21 §:n muuttamisesta](611.md) `611/1992`
+- [Asetus kauppaoppilaitoksista annetun asetuksen 20 §:n muuttamisesta](612.md) `612/1992`
+- [Asetus koti\- ja laitostalousoppilaitoksista annetun asetuksen 21 §:n muuttamisesta](613.md) `613/1992`
+- [Asetus käsi\- ja taideteollisuusoppilaitoksista annetun asetuksen 21 §:n muuttamisesta](614.md) `614/1992`
+- [Asetus lukioasetuksen muuttamisesta](615.md) `615/1992`
+- [Asetus maatalousalan oppilaitoksista annetun asetuksen 21 §:n muuttamisesta](616.md) `616/1992`
+- [Asetus merenkulkuoppilaitoksista annetun asetuksen 20 §:n muuttamisesta](617.md) `617/1992`
+- [Asetus metsä\- ja puutalousoppilaitoksista annetun asetuksen 20 §:n muuttamisesta](618.md) `618/1992`
+- [Asetus peruskoulua korvaavasta koulusta ja yksityisestä lukiosta annetun asetuksen 3 §:n muuttamisesta](619.md) `619/1992`
+- [Asetus sosiaalialan oppilaitoksista annetun asetuksen 20 §:n muuttamisesta](620.md) `620/1992`
+- [Asetus taide\- ja viestintäkulttuurioppilaitoksista annetun asetuksen 22 §:n muuttamisesta](621.md) `621/1992`
+- [Asetus teknillisistä oppilaitoksista annetun asetuksen 20 §:n muuttamisesta](622.md) `622/1992`
+- [Asetus terveydenhuolto\-oppilaitoksista annetun asetuksen 20 §:n muuttamisesta](623.md) `623/1992`
+- [Laki naisten ja miesten välisestä tasa\-arvosta annetun lain muuttamisesta](624.md) `624/1992`
+- [Laki  polttoaineverosta annetun lain verotaulukon muuttamisesta](625.md) `625/1992`
+- [Laki sairausvakuutuslain väliaikaisesta muuttamisesta](626.md) `626/1992`
+- [Laki kuntoutusrahalain 14 §:n väliaikaisesta muuttamisesta](627.md) `627/1992`
+- [Laki erikoissairaanhoitolain voimaanpanosta annetun lain muuttamisesta](628.md) `628/1992`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 1 a §:n kumoamisesta](629.md) `629/1992`
+- [Laki työntekijäin eläkelain 8 §:n muuttamisesta](630.md) `630/1992`
+- [Asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 1 a §:n soveltamisesta annetun asetuksen kumoamisesta](631.md) `631/1992`
+- [Asetus Kansainvälisen työjärjestön hyväksymän taloudellisesti tuettua opintovapaata koskevan yleissopimuksen voimaansaattamisesta](632.md) `632/1992`
+- [Asetus automaattisten palonilmaisulaitteiden tarkastusmaksujen perusteista annetun asetuksen muuttamisesta](633.md) `633/1992`
+- [Asetus Finnyards Oy:n koti\- ja ulkomaisten lainojen valtion takauksista](634.md) `634/1992`
+- [Eduskunnan päätös eduskunnan työjärjestyksen muuttamisesta](635.md) `635/1992`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikelisäaineista](636.md) `636/1992`
+- [Laki huoneenvuokralain muuttamisesta](637.md) `637/1992`
+- [Lääninhallitusasetus](638.md) `638/1992`
+- [Sisäasiainministeriön päätös eräiden tilojen, erään alueen ja pakkolunastusyksikön siirtämisestä Hirvensalmen, Kangasniemen ja Mäntyharjun kunnista Mikkelin maalaiskuntaan](639.md) `639/1992`
+- [Sisäasiainministeriön päätös eräiden tilojen siirtämisestä Kokkolan kaupungista Kruunupyyn kuntaan](640.md) `640/1992`
+- [Verohallituksen päätös ennakoiden siirrosta](641.md) `641/1992`
+- [Laki Luxemburgin kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen muuttamista koskevan pöytäkirjan eräiden määräysten hyväksymisestä](642.md) `642/1992`
+- [Asetus Luxemburgin kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen muuttamista koskevan pöytäkirjan voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](643.md) `643/1992`
+- [Laki Venäjän federaation kanssa yhteistyöstä Murmanskin alueella, Karjalan tasavallassa, Pietarissa ja Leningradin alueella tehdyn sopimuksen eräiden määräysten hyväksymisestä](644.md) `644/1992`
+- [Asetus Venäjän federaation kanssa yhteistyöstä Murmanskin alueella, Karjalan tasavallassa,Pietarissa ja Leningradin alueella tehdyn sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](645.md) `645/1992`
+- [Laki vesilain muuttamisesta](646.md) `646/1992`
+- [Asetus vesiasetuksen muuttamisesta](647.md) `647/1992`
+- [Asetus Venäjän federaation kanssa suhteiden perusteista tehdyn sopimuksen voimaansaattamisesta](648.md) `648/1992`
+- [Asetus Puolan kanssa tehdyn kunniakonsuleita koskevan sopimuksen voimaansaattamisesta](649.md) `649/1992`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Jugoslavian liittotasavaltaa koskevaan päätökseen perustuvien velvoitusten täyttämisestä annetun asetuksen 1 ja 2 §:n muuttamisesta](650.md) `650/1992`
+- [Asetus väliintulosta aavalla merellä muista aineista kuin öljystä johtuvissa pilaantumistapauksissa tehdyn vuoden 1973 pöytäkirjan liitteen muutosten voimaansaattamisesta](651.md) `651/1992`
+- [Asetus Ison\-Britannian ja Pohjois\-Irlannin yhdistyneen kuningaskunnan kanssa tehdyn lento\- liikennesopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](652.md) `652/1992`
+- [Laki puoluelain 10 §:n muuttamisesta](653.md) `653/1992`
+- [Kiinteistöverolaki](654.md) `654/1992`
+- [Laki verotuslain harkintaverotusta koskevien säännösten kumoamisesta](655.md) `655/1992`
+- [Laki asuntotulon verottamisesta eräissä tapauksissa annetun lain kumoamisesta](656.md) `656/1992`
+- [Laki kunnalle suoritettavasta katumaksusta annetun lain kumoamisesta](657.md) `657/1992`
+- [Laki maalaiskuntain kunnallishallinnosta annetun asetuksen 79 §:n 2 momentin kumoamisesta](658.md) `658/1992`
+- [Laki veronkantolain 8 §:n muuttamisesta](659.md) `659/1992`
+- [Laki maaseutuelinkeinolain muuttamisesta](660.md) `660/1992`
+- [Laki vuokra\-asuntolainojen korkotuesta annetun lain muuttamisesta](661.md) `661/1992`
+- [Sisäasiainministeriön päätös erään alueen siirtämisestä Lappajärven kunnasta Kauhavan kaupunkiin](662.md) `662/1992`
+- [Sisäasiainministeriön päätös eräiden tilojen siirtämisestä Vetelin kunnasta Perhon kuntaan](663.md) `663/1992`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Ähtärin kaupungin ja Soinin kunnan välillä](664.md) `664/1992`
+- [Valtiovarainministeriön päätös maahan saapuvan matkustajan tuomisten tullittomuudesta annetun valtiovarainministeriön päätöksen 2 §:n muuttamisesta](665.md) `665/1992`
+- [Ympäristöministeriön päätös nuorille osoitettavien asuntojen jälleenvuokraustoiminnasta aiheutuvien kustannusten kattamiseen myönnettävistä avustuksista](666.md) `666/1992`
+- [Asetus puolustusvoimista](667.md) `667/1992`
+- [Asetus maanpuolustuskorkeakoulusta](668.md) `668/1992`
+- [Asetus maanpuolustusopistosta](669.md) `669/1992`
+- [Asetus asevelvollisuuslain soveltamisesta annetun asetuksen 62 §:n 2 momentin kumoamisesta](670.md) `670/1992`
+- [Valtiovarainministeriön päätös vuoden 1992 taidekilpailupalkintojen verovapaudesta annetun valtiovarainministeriön päätöksen muuttamisesta](671.md) `671/1992`
+- [Valtiovarainministeriön päätös avustuksen myöntämisestä uusien kuorma\-autojen ja niiden perävaunujen hankintaan](672.md) `672/1992`
+- [Sokerilaki](673.md) `673/1992`
+- [Laki kotimaisesta tärkkelystuotannosta](674.md) `674/1992`
+- [Laki kotimaisesta öljykasvituotannosta](675.md) `675/1992`
+- [Laki teletoimintalain muuttamisesta](676.md) `676/1992`
+- [Laki radiolain muuttamisesta](677.md) `677/1992`
+- [Laki rintamaveteraanien hammashuollon järjestämisestä ja korvaamisesta](678.md) `678/1992`
+- [Laki rintamasotilaseläkelain 9 a §:n muuttamisesta](679.md) `679/1992`
+- [Asetus eräistä määräajaksi tai muutoin rajoitetuksi ajaksi täytettävistä viroista annetun asetuksen muuttamisesta](680.md) `680/1992`
+- [Asetus työllisyysasetuksen muuttamisesta ja väliaikaisesta muuttamisesta](681.md) `681/1992`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](682.md) `682/1992`
+- [Maa\- ja metsätalousministeriön päätös maaseutuelinkeinolaissa tarkoitetuista keskusrahalaitoksista](683.md) `683/1992`
+- [Laki otsonikerrosta heikentäviä aineita koskevan Montrealin pöytäkirjan eräiden muutosten hyväksymisestä](684.md) `684/1992`
+- [Asetus otsonikerrosta heikentäviä aineita koskevan Montrealin pöytäkirjan muutosten voimaansaattamisesta ja pöytäkirjan eräiden muutosten hyväksymisestä annetun lain voimaantulosta](685.md) `685/1992`
+- [Laki Venäjän federaation kanssa kaupasta ja taloudellisesta yhteistyöstä tehdyn sopimuksen, siihen liittyvän kirjeenvaihdon ja alkuperäsääntöjen eräiden määräysten hyväksymisestä](686.md) `686/1992`
+- [Asetus Venäjän federaation kanssa kaupasta ja taloudellisesta yhteistyöstä tehdyn sopimuksen, siihen liittyvän kirjeenvaihdon ja alkuperäsääntöjen voimaansaattamisesta sekä niiden eräiden määräysten hyväksymisestä annetun lain voimaantulosta](687.md) `687/1992`
+- [Kuntien valtionosuuslaki](688.md) `688/1992`
+- [Laki kunnallislain 67 ja 71 §:n muuttamisesta](689.md) `689/1992`
+- [Laki kunnallisesta työmarkkinalaitoksesta annetun lain 11 §:n muuttamisesta](690.md) `690/1992`
+- [Laki kuntien kantokykyluokituksen toimittamisesta vuodeksi 1993](691.md) `691/1992`
+- [Laki kunnille palo\- ja pelastustoimen kustannuksiin suoritettavista valtionosuuksista ja\-avustuksista annetun lain 3 §:n muuttamisesta](692.md) `692/1992`
+- [Laki yleisestä oikeusaputoiminnasta annetun lain 22 §:n muuttamisesta](693.md) `693/1992`
+- [Laki maaseutuelinkeinojen hallinnosta kunnissa annetun lain 5 §:n muuttamisesta](694.md) `694/1992`
+- [Laki maataloustuen jako\- ja valvontatehtävien hoitamisesta annetun lain 7 §:n muuttamisesta](695.md) `695/1992`
+- [Laki kuluttajaneuvonnan järjestämisestä kunnassa annetun lain 9 §:n muuttamisesta](696.md) `696/1992`
+- [Laki valtionavustuksesta elinkeinojen edistämiseen kunnissa annetun lain 2 §:n muuttamisesta](697.md) `697/1992`
+- [Laki maatalousyrittäjän lomituspalveluista annetun lain 24 §:n muuttamisesta](698.md) `698/1992`
+- [Laki pienyrittäjän vuosilomarahasta annetun lain 12 §:n muuttamisesta](699.md) `699/1992`
+- [Laki asumistukilain 17 §:n muuttamisesta](700.md) `700/1992`
+- [Laki kunnalle suoritettavasta katumaksusta annetun lain 13 §:n muuttamisesta](701.md) `701/1992`
+- [Laki rakennuslain muuttamisesta](702.md) `702/1992`
+- [Asetus vaarallisten kemikaalien teollisesta käsittelystä ja varastoinnista annetun asetuksen muuttamisesta](703.md) `703/1992`
+- [Kauppa\- ja teollisuusministeriön päätös vaarallisten kemikaalien teollisesta käsittelystä ja varastoinnista annetun asetuksen soveltamisesta annetun kauppa\- ja teollisuusministeriön päätöksen 3 ja 4 §:n muuttamisesta](704.md) `704/1992`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta](705.md) `705/1992`
+- [Laki kunnan opetustoimen hallinnosta](706.md) `706/1992`
+- [Laki peruskoululain muuttamisesta](707.md) `707/1992`
+- [Laki lukiolain muuttamisesta](708.md) `708/1992`
+- [Laki iltalukiolain muuttamisesta](709.md) `709/1992`
+- [Laki yhteisistä opettajista](710.md) `710/1992`
+- [Laki harjoittelukoululain 18 ja 19 §:n muuttamisesta](711.md) `711/1992`
+- [Laki Suomalais\-venäläisestä koulusta annetun lain 10 §:n muuttamisesta](712.md) `712/1992`
+- [Laki Helsingin ranskalais\-suomalaisesta koulusta annetun lain 10 §:n muuttamisesta](713.md) `713/1992`
+- [Laki kuulovammaisten ja näkövammaisten sekä liikuntavammaisten kouluista annetun lain 17 a §:n muuttamisesta](714.md) `714/1992`
+- [Laki Steiner\-koulusta annetun lain 5 §:n muuttamisesta](715.md) `715/1992`
+- [Laki steinerpedagogisista erityiskouluista annetun lain 3 ja 4 §:n muuttamisesta](716.md) `716/1992`
+- [Laki ammatillisista oppilaitoksista annetun lain muuttamisesta](717.md) `717/1992`
+- [Laki ammatillisten oppilaitosten oppilaiden opintososiaalisista eduista annetun lain muuttamisesta](718.md) `718/1992`
+- [Laki ammatillisista opettajankoulutuslaitoksista annetun lain 19 §:n kumoamisesta](719.md) `719/1992`
+- [Laki ammatillisista aikuiskoulutuskeskuksista annetun lain muuttamisesta](720.md) `720/1992`
+- [Laki lastentarhanopettajaopistoista annetun lain 4 a §:n muuttamisesta](721.md) `721/1992`
+- [Kansalaisopistolaki](722.md) `722/1992`
+- [Laki valtionosuutta saavista musiikkioppilaitoksista annetun lain muuttamisesta](723.md) `723/1992`
+- [Laki kansanopistojen valtionavusta annetun lain 2 a ja 14 a §:n muuttamisesta](724.md) `724/1992`
+- [Laki kirjastolain muuttamisesta](725.md) `725/1992`
+- [Laki nuorisotyölain muuttamisesta](726.md) `726/1992`
+- [Laki liikuntalain muuttamisesta](727.md) `727/1992`
+- [Laki kuntien kulttuuritoiminnasta](728.md) `728/1992`
+- [Museolaki](729.md) `729/1992`
+- [Teatteri\- ja orkesterilaki](730.md) `730/1992`
+- [Laki yksityisten valtionapulaitosten toimiehtosopimuslain 2 §:n muuttamisesta](731.md) `731/1992`
+- [Laki taiteen perusopetuksesta annetun lain muuttamisesta](732.md) `732/1992`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta](733.md) `733/1992`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista](734.md) `734/1992`
+- [Laki sairausvakuutuslain 11 a §:n muuttamisesta](735.md) `735/1992`
+- [Laki sosiaalihuoltolain muuttamisesta](736.md) `736/1992`
+- [Laki lastensuojelulain 5 ja 46 §:n muuttamisesta](737.md) `737/1992`
+- [Laki lasten päivähoidosta annetun lain muuttamisesta](738.md) `738/1992`
+- [Laki kehitysvammaisten erityishuollosta annetun lain muuttamisesta](739.md) `739/1992`
+- [Laki päihdehuoltolain 4 ja 12 §:n muuttamisesta](740.md) `740/1992`
+- [Laki raittiustyölain muuttamisesta](741.md) `741/1992`
+- [Laki lasten kotihoidon tuesta annetun lain 4 §:n muuttamisesta](742.md) `742/1992`
+- [Laki vammaisuuden perusteella järjestettävistä palveluista ja tukitoimista annetun lain muuttamisesta](743.md) `743/1992`
+- [Laki sotilasavustuslain 13 §:n muuttamisesta](744.md) `744/1992`
+- [Laki lapsen elatuksen turvaamisesta annetun lain 28 §:n muuttamisesta](745.md) `745/1992`
+- [Laki kansanterveyslain muuttamisesta](746.md) `746/1992`
+- [Laki kansanterveyslain voimaanpanosta annetun lain muuttamisesta](747.md) `747/1992`
+- [Laki erikoissairaanhoitolain muuttamisesta](748.md) `748/1992`
+- [Laki erikoissairaanhoitolain voimaanpanosta annetun lain 23 §:n muuttamisesta](749.md) `749/1992`
+- [Laki Helsingin yliopistollisesta keskussairaalasta annetun lain muuttamisesta](750.md) `750/1992`
+- [Laki mielenterveyslain 3 §:n muuttamisesta](751.md) `751/1992`
+- [Laki aluesairaaloiden ja sairasmajojen lakkauttamisesta annetun lain 3 §:n muuttamisesta](752.md) `752/1992`
+- [Laki reumatautisten hoitolaitosten valtionavusta annetun lain kumoamisesta](753.md) `753/1992`
+- [Laki kaatumatautisten hoitolaitosten valtionavusta annetun lain kumoamisesta](754.md) `754/1992`
+- [Laki terveydenhoitolain muuttamisesta](755.md) `755/1992`
+- [Laki tartuntatautilain muuttamisesta](756.md) `756/1992`
+- [Laki kemikaalilain 61 §:n muuttamisesta](757.md) `757/1992`
+- [Laki elintarvikelain 8 §:n muuttamisesta](758.md) `758/1992`
+- [Laki maidontarkastuslain 4 a §:n muuttamisesta](759.md) `759/1992`
+- [Laki lihantarkastuslain 5 a §:n muuttamisesta](760.md) `760/1992`
+- [Laki eläinlääkintähuoltolain muuttamisesta](761.md) `761/1992`
+- [Laki tuoteturvallisuuslain 21 §:n muuttamisesta](762.md) `762/1992`
+- [Laki kuntien ympäristönsuojelun hallinnosta annetun lain muuttamisesta](763.md) `763/1992`
+- [Laki ulkomaalaisen Suomessa olevasta, hoidotta jääneestä omaisuudesta annetun lain kumoamisesta](764.md) `764/1992`
+- [Laki sosiaali\- ja terveyshallituksesta annetun lain 2 §:n muuttamisesta](765.md) `765/1992`
+- [Laki kemikaalilain muuttamisesta](766.md) `766/1992`
+- [Laki terveydenhoitolain muuttamisesta](767.md) `767/1992`
+- [Laki toimenpiteistä tupakoinnin vähentämiseksi annetun lain muuttamisesta](768.md) `768/1992`
+- [Laki tuoteturvallisuuslain muuttamisesta](769.md) `769/1992`
+- [Laki tartuntatautilain muuttamisesta](770.md) `770/1992`
+- [Asetus eräiden korkeakoulujen virkojen kelpoisuusvaatimuksista sekä virkamiesten tehtävistä annetun asetuksen 44 §:n muuttamisesta](771.md) `771/1992`
+- [Ympäristölupamenettelyasetus](772.md) `772/1992`
+- [Asetus ilmansuojeluasetuksen muuttamisesta](773.md) `773/1992`
+- [Asetus jätehuoltoasetuksen eräiden säännösten kumoamisesta](774.md) `774/1992`
+- [Asetus terveydenhoitoasetuksen muuttamisesta](775.md) `775/1992`
+- [Valtioneuvoston päätös lannoiteveron muuttamisesta](776.md) `776/1992`
+- [Valtioneuvoston päätös viljan vientikustannusmaksun muuttamisesta](777.md) `777/1992`
+- [Sosiaali\- ja terveysministeriön päätös sairausvakuutuslain 5 a §:ssä tarkoitettujen eräiden reseptittä myytävien lääkkeiden korvaamisesta](778.md) `778/1992`
+- [Laki Barbadosin kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](779.md) `779/1992`
+- [Asetus Barbadosin kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](780.md) `780/1992`
+- [Laki Kanadan kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](781.md) `781/1992`
+- [Asetus Kanadan kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](782.md) `782/1992`
+- [Laki Tanskan, Islannin, Norjan ja Ruotsin kanssa perintö\- ja lahjaveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](783.md) `783/1992`
+- [Asetus Tanskan, Islannin, Norjan ja Ruotsin kanssa perintö\- ja lahjaveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](784.md) `784/1992`
+- [Laki potilaan asemasta ja oikeuksista](785.md) `785/1992`
+- [Asetus verotusasetuksen muuttamisesta](786.md) `786/1992`
+- [Asetus pakistanilaista alkuperää olevien vuodeliinavaatteiden tuontilisensioinnista](787.md) `787/1992`
+- [Valtioneuvoston päätös kaupallisten sihteerien toiminnan valtionavusta](788.md) `788/1992`
+- [Laki kasvinjalostajanoikeudesta](789.md) `789/1992`
+- [Laki siementavaran kaupasta annetun lain 8 §:n muuttamisesta](790.md) `790/1992`
+- [Laki sairaanhoitotarvikelain muuttamisesta](791.md) `791/1992`
+- [Asetus valtiokonttorista annetun asetuksen muuttamisesta](792.md) `792/1992`
+- [Asetus sairausvakuutusasetuksen muuttamisesta](793.md) `793/1992`
+- [Valtiovarainministeriön päätös vuodelta 1991 maksuunpannun säännönmukaisen lopullisen veron ja metsänhoitomaksun kantoajoista ja kantoeristä](794.md) `794/1992`
+- [Sosiaali\- ja terveysministeriön päätös sairausvakuutuslain 7 §:ssä tarkoitetun hammaslääkärinpalkkioiden korvaamista koskevan taksan perusteista annetun sosiaali\- ja terveysministeriön päätöksen muuttamisesta](795.md) `795/1992`
+- [Lapsilisälaki](796.md) `796/1992`
+- [Laki lasten kotihoidon tuesta](797.md) `797/1992`
+- [Laki lasten päivähoidosta annetun lain 11 a §:n muuttamisesta](798.md) `798/1992`
+- [Asetus patentti\- ja rekisterihallituksesta](799.md) `799/1992`
+- [Asetus patentti\- ja rekisterihallituksen valitusasioiden käsittelystä](800.md) `800/1992`
+- [Laki valtionosuutta saavista liikunnan koulutuskeskuksista](801.md) `801/1992`
+- [Kansanterveysasetus](802.md) `802/1992`
+- [Asetus sosiaalihuoltoasetuksen muuttamisesta](803.md) `803/1992`
+- [Asetus sosiaalihuollon ammatillisen henkilöstön kelpoisuusehdoista](804.md) `804/1992`
+- [Asetus lastensuojeluasetuksen 6 c §:n muuttamisesta](805.md) `805/1992`
+- [Asetus lasten päivähoidosta annetun asetuksen muuttamisesta](806.md) `806/1992`
+- [Asetus raittiustyöasetuksen muuttamisesta](807.md) `807/1992`
+- [Asetus vammaisuuden perusteella järjestettävistä palveluista ja tukitoimista annetun asetuksen 4 §:n muuttamisesta](808.md) `808/1992`
+- [Laki eläintautilain muuttamisesta](809.md) `809/1992`
+- [Asetus poliisitarkastajasta lääninsyyttäjänä annetun asetuksen muuttamisesta](810.md) `810/1992`
+- [Asetus valtioneuvoston oikeuskanslerin ohjesäännön 11 §:n muuttamisesta](811.md) `811/1992`
+- [Asetus poliisin hallinnosta annetun asetuksen muuttamisesta](812.md) `812/1992`
+- [Asetus poliisiasetuksen 36 §:n muuttamisesta](813.md) `813/1992`
+- [Asetus sosiaaliturvan tutkimus\- ja kehittämistoiminnan neuvottelukunnasta](814.md) `814/1992`
+- [Asetus ilmansuojeluasetuksen muuttamisesta](815.md) `815/1992`
+- [Asetus liikennetarvikkeiden kaupasta, asennuksesta ja korjauksesta annetun asetuksen 4 §:n muuttamisesta](816.md) `816/1992`
+- [Liikenneministeriön päätös liikennetarvikkeiden asennus\- ja korjausluvan ehdoista](817.md) `817/1992`
+- [Laki valtiopäiväjärjestyksen muuttamisesta](818.md) `818/1992`
+- [Asetus vankeinhoitolaitoksesta annetun asetuksen muuttamisesta](819.md) `819/1992`
+- [Asetus opetus\- ja kulttuuritoimen rahoituksesta](820.md) `820/1992`
+- [Asetus Posti\- ja telelaitoksesta annetun asetuksen 7 §:n kumoamisesta](821.md) `821/1992`
+- [Asetus teknologian kehittämiskeskuksesta annetun asetuksen muuttamisesta](822.md) `822/1992`
+- [Asetus eläketurvakeskuksen ohjesäännön sisältävän asetuksen 6 §:n muuttamisesta](823.md) `823/1992`
+- [Asetus sosiaali\- ja terveysministeriöstä annetun asetuksen muuttamisesta](824.md) `824/1992`
+- [Asetus pakolais\- ja siirtolaisuusasiainneuvottelukunnasta annetun asetuksen 3 ja 4 §:n muuttamisesta](825.md) `825/1992`
+- [Asetus työministeriöstä annetun asetuksen muuttamisesta](826.md) `826/1992`
+- [Sisäasiainministeriön päätös valtion pelastusoppilaitosten suoritteiden maksullisuudesta ja maksuperusteista](827.md) `827/1992`
+- [Kauppa\- ja teollisuusministeriön päätös palavien nesteiden kuljettamiseen tarkoitetuista säiliöistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](828.md) `828/1992`
+- [Ympäristöministeriön päätös eräiden korkotukilainojen koroista](829.md) `829/1992`
+- [Verohallituksen päätös arpajaisverotusta koskevasta ilmoittamisvelvollisuudesta](830.md) `830/1992`
+- [Asetus toimenpiteistä tupakoinnin vähentämiseksi annetun asetuksen muuttamisesta](831.md) `831/1992`
+- [Asetus  sosiaali\- ja terveyshallituksesta annetun asetuksen muuttamisesta](832.md) `832/1992`
+- [Asetus  tartuntatautiasetuksen muuttamisesta](833.md) `833/1992`
+- [Asetus  tartuntatautien neuvottelukunnasta](834.md) `834/1992`
+- [Asetus  kemikaaliasetuksen muuttamisesta](835.md) `835/1992`
+- [Asetus  terveydelle tai ympäristölle vaarallisen kemikaalin myynnistä ja säilyttämisestä annetun asetuksen 14 §:n muuttamisesta](836.md) `836/1992`
+- [Asetus  kemikaalilain nojalla sosiaali\- ja terveyshallitukselle tehtävien ilmoitusten käsittelymaksuista annetun asetuksen nimikkeen ja 7 §:n muuttamisesta](837.md) `837/1992`
+- [Asetus terveydenhoitoasetuksen muuttamisesta](838.md) `838/1992`
+- [Asetus  terveydenhuollon valtakunnallisista henkilörekistereistä annetun asetuksen muuttamisesta](839.md) `839/1992`
+- [Asetus  meluntorjunta\-asetuksen 4 §:n muuttamisesta](840.md) `840/1992`
+- [Asetus  ilmansuojeluasetuksen 4 §:n muuttamisesta](841.md) `841/1992`
+- [Asetus  torjunta\-aineasetuksen muuttamisesta](842.md) `842/1992`
+- [Asetus  kananmuna\-asetuksen 31 ja 33 §:n muuttamisesta](843.md) `843/1992`
+- [Asetus  juustoasetuksen 11 a §:n muuttamisesta](844.md) `844/1992`
+- [Asetus  vitamiinien ja eräiden muiden aineiden lisäämisestä elintarvikkeisiin annetun asetuksen muuttamisesta](845.md) `845/1992`
+- [Sosiaali\- ja terveysministeriön päätös  tupakointivälineistä annetun sosiaali\- ja terveysministeriön päätöksen 2 §:n muuttamisesta](846.md) `846/1992`
+- [Sosiaali\- ja terveysministeriön päätös uusien aineiden ilmoitusmenettelystä annetun sosiaali\- ja terveysministeriön päätöksen muuttamisesta](847.md) `847/1992`
+- [Asetus Euroopan sosiaalisen peruskirjan lisäpöytäkirjan voimaansaattamisesta](848.md) `848/1992`
+- [Maatilahallituksen päätös tärkeimpien kasvilajien lajikkeista](849.md) `849/1992`
+- [Asetus ajokorttiasetuksen 20 §:n 2 momentin ja 24 §:n muuttamisesta](850.md) `850/1992`
+- [Valtioneuvoston päätös kahden poliisipiirin uudelleen järjestämisestä](851.md) `851/1992`
+- [Valtioneuvoston päätös asbestin ja asbestipitoisen tuotteen valmistuksen, maahantuonnin, myymisen ja käyttöön ottamisen kieltämisestä](852.md) `852/1992`
+- [Maa\- ja metsätalousministeriön päätös lohen ja taimenen kalastuksesta eräillä vesistöalueilla vuonna 1992](853.md) `853/1992`
+- [Valtiovarainministeriön päätös Suomen tasavallan ja Euroopan talousyhteisön välisessä kaupassa noudatettavien alkuperäsääntöjen eräiden muutosten soveltamisesta](854.md) `854/1992`
+- [Valtiovarainministeriön päätös Euroopan vapaakauppaliiton jäsenvaltioiden välisessä kaupassa noudatettavien alkuperäsääntöjen eräiden muutosten soveltamisesta](855.md) `855/1992`
+- [Liikenneministeriön päätös ajokorttiasetuksen soveltamisesta annetun liikenneministeriön päätöksen muuttamisesta](856.md) `856/1992`
+- [Laki Venäjän ja Itä\-Euroopan instituutista](857.md) `857/1992`
+- [Asetus  Venäjän ja Itä\-Euroopan instituutista](858.md) `858/1992`
+- [Asetus radiolaitteista](859.md) `859/1992`
+- [Valtioneuvoston päätös  opetus\- ja kulttuuritoimen rahoituksesta](860.md) `860/1992`
+- [Valtioneuvoston päätös  televisiolupamaksuista](861.md) `861/1992`
+- [Valtioneuvoston päätös ammatillisen aikuiskoulutuskeskuksen toiminta\-avustuksen perusteista annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](862.md) `862/1992`
+- [Valtioneuvoston päätös  pellon kesannoimissopimuksista ja \-palkkioista vuonna 1991 annetun valtioneuvoston päätöksen 6 §:n muuttamisesta](863.md) `863/1992`
+- [Valtioneuvoston päätös  kansallisista mittauspaikoista annetun valtioneuvoston päätöksen muuttamisesta](864.md) `864/1992`
+- [Liikenneministeriön päätös televisioluvista annetun valtioneuvoston päätöksen \(803/88\) soveltamisesta annetun liikenneministeriön päätöksen kumoamisesta](865.md) `865/1992`
+- [Sisäasiainministeriön päätös pysäköintivirhemaksun korottamisesta](866.md) `866/1992`
+- [Sisäasiainministeriön päätös lääninhallituksen käsittelemän ympäristöluvan kuulutus\- ja ilmoitusmaksuista](867.md) `867/1992`
+- [Teletoiminta\-asetus](868.md) `868/1992`
+- [Radioasetus](869.md) `869/1992`
+- [Asetus eräistä radiolain ja teletoimintalain nojalla perittävistä maksuista annetun asetuksen kumoamisesta](870.md) `870/1992`
+- [Asetus työntekijäin eläkeasetuksen 13 §:n muuttamisesta](871.md) `871/1992`
+- [Asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkeasetuksen 15 §:n muuttamisesta](872.md) `872/1992`
+- [Asetus maatalousyrittäjien eläkeasetuksen 14 §:n muuttamisesta](873.md) `873/1992`
+- [Asetus  yrittäjien eläkeasetuksen 13 §:n muuttamisesta](874.md) `874/1992`
+- [Liikenneministeriön päätös Telehallintokeskuksen maksuista](875.md) `875/1992`
+- [Asetus ulkomaalaisasetuksen 14 §:n muuttamisesta](876.md) `876/1992`
+- [Asetus valtiontakauksista perittävistä maksuista annetun asetuksen 2 §:n muuttamisesta](877.md) `877/1992`
+- [Asetus valtion virkaehtosopimusasetuksen muuttamisesta](878.md) `878/1992`
+- [Asetus opintotuen muutoksenhakulautakunnasta annetun asetuksen 3 ja 14 §:n muuttamisesta](879.md) `879/1992`
+- [Asetus liikenneministeriöstä annetun asetuksen 26 §:n muuttamisesta](880.md) `880/1992`
+- [Asetus valtion koulukodeista annetun asetuksen 1 ja 2 §:n muuttamisesta](881.md) `881/1992`
+- [Liikenneministeriön päätös radiolähettimen käyttäjältä vaadittavasta erityisestä kelpoisuudesta annetun liikenneministeriön päätöksen kumoamisesta](882.md) `882/1992`
+- [Asetus erikoiseläinlääkärin tutkinnosta annetun asetuksen 2 ja 3 §:n muuttamisesta](883.md) `883/1992`
+- [Asetus työvoimapoliittisesta aikuiskoulutuksesta annetun asetuksen 29 §:n väliaikaisesta muuttamisesta](884.md) `884/1992`
+- [Liikenneministeriön päätös telemaksujen yleisistä perusteista](885.md) `885/1992`
+- [Liikenneministeriön päätös vähäisestä teletoiminnasta](886.md) `886/1992`
+- [Liikenneministeriön päätös telelaitosten yhdysliikenteen siirtoyhteyksistä](887.md) `887/1992`
+- [Asetus eräiden tavaroiden viennin edellyttämistä vientilisensseistä](888.md) `888/1992`
+- [Valtioneuvoston päätös vientilisensioinnista vapautettavista maista](889.md) `889/1992`
+- [Valtioneuvoston päätös valtionosuuden perusteena olevien opetus\- ja kirjastotoimen yksikköhintojen keskimääräisistä markkamääristä ja valtion oppilaitoksen oppilaan kotikunnan maksuosuuden perusteista vuonna 1993](890.md) `890/1992`
+- [Valtioneuvoston päätös halonien käytön rajoittamisesta](891.md) `891/1992`
+- [Valtioneuvoston päätös sokerin tuontimaksun väliaikaisesta muuttamisesta](892.md) `892/1992`
+- [Oikeusministeriön päätös tasavallan presidentin vaalista annetussa laissa tarkoitettujen kannattajakorttien kaavasta](893.md) `893/1992`
+- [Liikenneministeriön päätös joukkoliikenteen tarkastusmaksusta Valtionrautateillä](894.md) `894/1992`
+- [Asetus toisten lisävaltuuksien antamisesta valtioneuvostolle lainanottoon vuoden 1992 aikana](895.md) `895/1992`
+- [Asetus lisävaltuuksien antamisesta asunto\-olojen kehittämisrahastolle lainanottoon vuonna 1992](896.md) `896/1992`
+- [Asetus Pohjoismaiden Investointipankin Baltian maiden yrityksille myönnettävien luottojen valtiontakauksista](897.md) `897/1992`
+- [Valtiovarainministeriön päätös julkishallinnon ja \-talouden tilintarkastuslautakunnan maksullisista suoritteista](898.md) `898/1992`
+- [Laki kihlakunnanoikeuden lautakunnasta annetun lain 5 §:n muuttamisesta](899.md) `899/1992`
+- [Laki tullitariffilain liitteenä olevan teollisuustulliluettelon muuttamisesta](900.md) `900/1992`
+- [Laki vaatteiden tullittomasta maahantuonnista eräissä tapauksissa annetun lain muuttamisesta](901.md) `901/1992`
+- [Laki pääkaupunkiseudun rakennusmaamaksusta annetun lain kumoamisesta](902.md) `902/1992`
+- [Asetus pysyvän suomalais\-neuvostoliittolaisen hallitusten välisen taloudellisen yhteistyökomissionSuomen ryhmästä annetun asetuksen kumoamisesta](903.md) `903/1992`
+- [Asetus maahan tilapäistä käyttöä varten tuotujen moottoriajoneuvojen liikennevakuutukseen liittyvistä tullilaitoksen tehtävistä](904.md) `904/1992`
+- [Asetus kasvinjalostajanoikeudesta annetussa laissa tarkoitetuista kasvisuvuista ja \-lajeista](905.md) `905/1992`
+- [Asetus kasvilajikelautakunnasta](906.md) `906/1992`
+- [Asetus kasvinjalostajanoikeudesta](907.md) `907/1992`
+- [Laki erikoissairaanhoitolain muuttamisesta](908.md) `908/1992`
+- [Laki Helsingin yliopistollisesta keskussairaalasta annetun lain muuttamisesta](909.md) `909/1992`
+- [Laki kansanterveyslain muuttamisesta](910.md) `910/1992`
+- [Asetus Suomen säädöskokoelmasta annetun asetuksen muuttamisesta](911.md) `911/1992`
+- [Asetus sosiaali\- ja terveydenhuollon asiakasmaksuista](912.md) `912/1992`
+- [Asetus tartuntatautiasetuksen 13 §:n kumoamisesta](913.md) `913/1992`
+- [Valtioneuvoston päätös eräiden asuntolainojen ja perusparannuslainojen korosta](914.md) `914/1992`
+- [Laki Amerikan yhdysvaltain kanssa sosiaaliturvasta tehdyn sopimuksen eräiden määräysten hyväksymisestä](915.md) `915/1992`
+- [Asetus Amerikan yhdysvaltain kanssa sosiaaliturvasta tehdyn sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](916.md) `916/1992`
+- [Asetus Paraguayn kanssa tehdyn viisumivapaussopimuksen voimaansaattamisesta](917.md) `917/1992`
+- [Asetus maaseutuelinkeinoasetuksen muuttamisesta](918.md) `918/1992`
+- [Valtioneuvoston päätös vinyylikloridityöstä](919.md) `919/1992`
+- [Valtioneuvoston päätös työntekijöiden suojelemisesta kemiallisille tekijöille altistumiseen liittyviltä vaaroilta](920.md) `920/1992`
+- [Laki talletusten ja obligaatioiden veronhuojennuslain muuttamisesta](921.md) `921/1992`
+- [Laki leimaverolain muuttamisesta](922.md) `922/1992`
+- [Laki leimaverolain muuttamisesta](923.md) `923/1992`
+- [Asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen 6 ja 18 §:n muuttamisesta](924.md) `924/1992`
+- [Liikenneministeriön päätös linja\-autolla tilausliikenneoikeuden nojalla harjoitettavasta joukkoliikenteestä](925.md) `925/1992`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](926.md) `926/1992`
+- [Laki liikevaihtoverolain muuttamisesta](927.md) `927/1992`
+- [Laki eräistä vakuutusmaksuista suoritettavasta verosta annetun lain muuttamisesta](928.md) `928/1992`
+- [Laki maatilatalouden tuloverolain 13 §:n muuttamisesta](929.md) `929/1992`
+- [Laki talletuspankkien toiminnasta annetun lain muuttamisesta](930.md) `930/1992`
+- [Laki liikepankkilain muuttamisesta](931.md) `931/1992`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](932.md) `932/1992`
+- [Laki valtion vakuusrahastosta annetun lain 14 ja 15 §:n muuttamisesta](933.md) `933/1992`
+- [Laki tuotevastuuseen sovellettavaa lakia koskevan yleissopimuksen eräiden määräysten hyväksymisestä ja yleissopimuksen soveltamisesta](934.md) `934/1992`
+- [Asetus tuotevastuuseen sovellettavaa lakia koskevan yleissopimuksen voimaansaattamisesta sekä yleissopimuksen eräiden määräysten hyväksymisestä ja yleissopimuksen soveltamisesta annetun lain voimaantulosta](935.md) `935/1992`
+- [Asetus yksityisten ajoneuvojen väliaikaista maahantuontia koskevan tulliyleissopimuksen muutosten voimaansaattamisesta](936.md) `936/1992`
+- [Asetus kaupallisten ajoneuvojen väliaikaista maahantuontia koskevan tulliyleissopimuksen muutosten voimaansaattamisesta](937.md) `937/1992`
+- [Asetus Euroopan farmakopean laatimista koskevan yleissopimuksen lisäpöytäkirjan voimaansaattamisesta](938.md) `938/1992`
+- [Asetus Venäjän kanssa yhteistyöstä toisen maailmansodan seurauksena Venäjällä kaatuneiden suomalaisten sotilaiden ja Suomessa kaatuneiden venäläisten \(neuvostoliittolaisten\) sotilaiden muiston vaalimisessa tehdyn sopimuksen voimaansaattamisesta](939.md) `939/1992`
+- [Asetus talousneuvostosta annetun asetuksen 7 §:n muuttamisesta](940.md) `940/1992`
+- [Valtioneuvoston päätös veropiireistä annetun valtioneuvoston päätöksen muuttamisesta](941.md) `941/1992`
+- [Valtioneuvoston päätös maan jakamisesta alusrekisterialueisiin annetun valtioneuvoston päätöksen muuttamisesta](942.md) `942/1992`
+- [Maa\- ja metsätalousministeriön päätös kasvilajikelautakunnan suoritteista perittävistä maksuista](943.md) `943/1992`
+- [Sosiaali\- ja terveysministeriön päätös asuntojen huoneilman radonpitoisuuden enimmäisarvoista](944.md) `944/1992`
+- [Valtiovarainministeriön päätös valtiokonttorin maksullisista suoritteista annetun valtiovarainministeriön päätöksen muuttamisesta](945.md) `945/1992`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta annetun Suomen Pankin päätöksen 2 luvun 3 ja 4 §:n kumoamisesta](946.md) `946/1992`
+- [Laki perhe\-eläkelain muuttamisesta](947.md) `947/1992`
+- [Laki tapaturmavakuutuslain muuttamisesta](948.md) `948/1992`
+- [Laki työntekijäin eläkelain muuttamisesta](949.md) `949/1992`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 1 §:n muuttamisesta](950.md) `950/1992`
+- [Laki merimieseläkelain 27 a ja 33 §:n muuttamisesta](951.md) `951/1992`
+- [Laki maatalousyrittäjien sukupolvenvaihdoseläkkeestä annetun lain 43 §:n muuttamisesta](952.md) `952/1992`
+- [Laki toimenpiteistä tupakoinnin vähentämiseksi annetun lain muuttamisesta](953.md) `953/1992`
+- [Laki mielenterveyslain 8 §:n muuttamisesta](954.md) `954/1992`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkeasetuksen 9 §:ssä tarkoitetun palkkaindeksiluvun vahvistamisesta](955.md) `955/1992`
+- [Laki kulutustavaroiden alkuperämaan ilmoittamisesta annetun lain kumoamisesta](956.md) `956/1992`
+- [Asetus kesäajasta vuosina 1993 ja 1994](957.md) `957/1992`
+- [Asetus Suomen hallituksen ja Korean demokraattisen kansantasavallan hallituksen välillä tehdyn eräiden tiettyjen tekstiilituotteiden vientiä ja tuontia koskevan sopimuksen voimaansaattamisesta](958.md) `958/1992`
+- [Asetus sakkorangaistuksen täytäntöönpanosta annetun asetuksen muuttamisesta](959.md) `959/1992`
+- [Asetus maan ulkomaankaupassa sovellettavista määrällisistä rajoituksista annetun asetuksen muuttamisesta](960.md) `960/1992`
+- [Valtioneuvoston päätös valtionosuuden perusteena olevien opetus\- ja kirjastotoimen yksikköhintojen keskimääräisistä markkamääristä ja valtion oppilaitoksen oppilaan kotikunnan maksuosuuden perusteista vuonna 1993 annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](961.md) `961/1992`
+- [Maa\- ja metsätalousministeriön päätös kalastuksesta Lestijokisuun kalaväylässä](962.md) `962/1992`
+- [Verohallituksen päätös ilmoittamisvelvollisuuden rajoittamisesta](963.md) `963/1992`
+- [Verohallituksen päätös pidätystodistuksen antamisvelvollisuuden rajoittamisesta ja ennakonpidätyksen hyväksi lukemisesta](964.md) `964/1992`
+- [Laki EFTA\-valtioiden ja Tsekin ja Slovakian liittotasavallan välillä tehdyn sopimuksen sekä siihen liittyvän Suomen tasavallan ja Tškin ja Slovakian liittotasavallan välillä tehdyn maataloustuotteiden kauppaa koskevan pöytäkirjan eräiden määräysten hyväksymisestä](965.md) `965/1992`
+- [Asetus EFTA\-valtioiden ja Tšekin ja Slovakian liittotasavallan välillä tehdyn sopimuksen sekä siihen liittyvän Suomen tasavallan ja Tšekin ja Slovakian liittotasavallan välillä tehdyn maataloustuotteiden kauppaa koskevan pöytäkirjan voimaansaattamisesta sekä niiden eräiden määräysten hyväksymisestä annetun lain voimaantulosta](966.md) `966/1992`
+- [Laki välimiesmenettelystä](967.md) `967/1992`
+- [Laki ulosottolain 3 luvun 16 §:n ja 7 luvun 11 §:n muuttamisesta](968.md) `968/1992`
+- [Laki osakeyhtiölain 16 luvun 5 §:n muuttamisesta](969.md) `969/1992`
+- [Valtioneuvoston päätös suomalais\-ruotsalaisen rajajokikomission lohenkalastuksen rajoituspäätöksen aiheuttamia taloudellisia menetyksiä koskevien avustusten maksamisperusteista](970.md) `970/1992`
+- [Valtioneuvoston päätös eräiden maatilatalouden luottojen kohdennetusta vakauttamisesta annetun valtioneuvoston päätöksen 7 §:n muuttamisesta](971.md) `971/1992`
+- [Laki säästöpankin muuttamisesta osakeyhtiömuotoiseksi pankiksi](972.md) `972/1992`
+- [Laki pankkitarkastusvirastosta annetun lain 1 §:n muuttamisesta](973.md) `973/1992`
+- [Valtioneuvoston päätös ylimääräisistä taiteilijaeläkkeistä annetun valtioneuvoston päätöksen 2 ja 3 §:n muuttamisesta](974.md) `974/1992`
+- [Maa\- ja metsätalousministeriön päätös Ruotsin kanssa vastavuoroisista kalastusoikeuksista Itämerellä tehtyjen sopimusten täytäntöönpanosta vuonna 1992 annetun päätöksen 2 §:n muuttamisesta](975.md) `975/1992`
+- [Laki tilauslentoverosta](976.md) `976/1992`
+- [Laki jakolain muuttamisesta](977.md) `977/1992`
+- [Valtioneuvoston päätös ulkomaanedustuksen virkamiesten paikalliskorotuksesta, varustautumiskorvauksesta ja asettautumiskustannusten korvauksesta annetun valtioneuvoston päätöksen muuttamisesta](978.md) `978/1992`
+- [Laki kunnallislain muuttamisesta](979.md) `979/1992`
+- [Laki kuntajaosta annetun lain muuttamisesta](980.md) `980/1992`
+- [Laki kunnallisten luottamushenkilöiden eläkelain kumoamisesta](981.md) `981/1992`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain muuttamisesta](982.md) `982/1992`
+- [Asetus Venäjän kanssa yhteistyöstä kulttuurin, opetuksen ja tieteen alalla tehdyn sopimuksen voimaansaattamisesta](983.md) `983/1992`
+- [Asetus Venäjän federaation kanssa tehdyn yhteistyötä tieteen ja teknologian aloilla koskevan sopimuksen voimaansaattamisesta](984.md) `984/1992`
+- [Asetus valtion teknillisestä tutkimuskeskuksesta annetun asetuksen muuttamisesta](985.md) `985/1992`
+- [Puolustusministeriön päätös puolustusvoimien tunnuskuvan käyttämisestä](986.md) `986/1992`
+- [Valtiovarainministeriön päätös verovuoden 1991 verotuksen toimittamisesta](987.md) `987/1992`
+- [Laki Autorekisterikeskuksesta](988.md) `988/1992`
+- [Laki tieliikennelain muuttamisesta](989.md) `989/1992`
+- [Laki etuostolain muuttamisesta](990.md) `990/1992`
+- [Asetus ulosottomaksuista annetun asetuksen muuttamisesta](991.md) `991/1992`
+- [Asetus Karttakeskuksesta annetun asetuksen 2 §:n muuttamisesta](992.md) `992/1992`
+- [Valtioneuvoston päätös melutason ohjearvoista](993.md) `993/1992`
+- [Valtioneuvoston päätös rakennuskoneiden ja \-laitteiden melupäästöjen rajoittamisesta ja määrittämisestä](994.md) `994/1992`
+- [Valtioneuvoston päätös ruohonleikkureiden melupäästöjen rajoittamisesta](995.md) `995/1992`
+- [Liikenneministeriön päätös linja\-autolla tilausliikenneoikeuden nojalla harjoitettavasta joukkoliikenteestä annetun liikenneministeriön päätöksen 1 §:n muuttamisesta](996.md) `996/1992`
+- [Laki rahalain 2 §:n muuttamisesta](997.md) `997/1992`
+- [Asetus markan ulkoista arvoa koskevien asioiden käsittelystä valtioneuvostossa](998.md) `998/1992`
+- [Sisäasiainministeriön päätös kuntien kantokykyluokituksen vahvistamisesta vuodeksi 1993](999.md) `999/1992`
+- [Laki erikoiskasvien markkinoimismaksuista annetun lain 5 §:n muuttamisesta](1000.md) `1000/1992`
+- [Laki suurilta kana\- ja sikatalousyrityksiltä kannettavista markkinoimismaksuista annetun lain 1 ja 17 §:n muuttamisesta](1001.md) `1001/1992`
+- [Laki maidon, sianlihan ja viljan vientikustannusmaksusta annetun lain 9 §:n muuttamisesta](1002.md) `1002/1992`
+- [Laki lannoiteverosta annetun lain muuttamisesta](1003.md) `1003/1992`
+- [Laki työntekijäin eläkemaksusta](1004.md) `1004/1992`
+- [Laki valtion eläkejärjestelmän piiriin kuuluvassa palveluksessa olevan henkilön eläkemaksusta](1005.md) `1005/1992`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain piiriin kuuluvien viranhaltijoiden ja työntekijöiden eläkemaksusta](1006.md) `1006/1992`
+- [Laki maatalousyrittäjien eläkelain 10 §:n muuttamisesta](1007.md) `1007/1992`
+- [Laki aikuisten järjestelmällisen hammashuollon toimeenpanon siirtämisestä](1008.md) `1008/1992`
+- [Asetus metsäveroasetuksen 13 ja 15 §:n muuttamisesta](1009.md) `1009/1992`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkemaksusta annetun lain mukaisesta eläkemaksusta](1010.md) `1010/1992`
+- [Laki Viron kanssa sijoitusten edistämisestä ja suojelusta tehdyn sopimuksen eräiden määräysten hyväksymisestä](1011.md) `1011/1992`
+- [Asetus Viron kanssa sijoitusten edistämisestä ja suojelusta tehdyn sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1012.md) `1012/1992`
+- [Laki Viron kanssa kauppaa ja taloudellista yhteistyötä koskevista väliaikaisista järjestelyistä tehdyn pöytäkirjan eräiden määräysten hyväksymisestä](1013.md) `1013/1992`
+- [Asetus Viron kanssa kauppaa ja taloudellista yhteistyötä koskevista väliaikaisista järjestelyistä tehdyn pöytäkirjan voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1014.md) `1014/1992`
+- [Laki vapaakuntakokeilusta annetun lain muuttamisesta](1015.md) `1015/1992`
+- [Laki vapaakunnan oikeudesta poiketa eräistä säännöksistä ja määräyksistä annetun lain muuttamisesta](1016.md) `1016/1992`
+- [Laki kiinteistövaihdosta valtion ja Postipankki Oy:n välillä](1017.md) `1017/1992`
+- [Asetus teatterikorkeakoulusta annetun asetuksen 27 §:n muuttamisesta](1018.md) `1018/1992`
+- [Asetus valtionosuutta saavista liikunnan koulutuskeskuksista](1019.md) `1019/1992`
+- [Julistus neljästä kiitos\-, katumus\- ja rukouspäivästä, jotka on koko maassa juhlallisesti vietettävä vuonna 1993](1020.md) `1020/1992`
+- [Laki lääkärintoimen harjoittamisesta annetun lain muuttamisesta](1021.md) `1021/1992`
+- [Laki hammaslääkärintoimen harjoittamisesta annetun lain muuttamisesta](1022.md) `1022/1992`
+- [Laki proviisorintoimen ja farmaseutintoimen harjoittamisesta annetun lain 2 ja 3 §:n muuttamisesta](1023.md) `1023/1992`
+- [Laki optikon toimen harjoittamisesta annetun lain 2 §:n muuttamisesta](1024.md) `1024/1992`
+- [Laki hammasteknikon toimen harjoittamisesta annetun lain 1 a §:n muuttamisesta](1025.md) `1025/1992`
+- [Laki sairaanhoitotoimen harjoittamisesta annetun lain muuttamisesta](1026.md) `1026/1992`
+- [Laki ulkomaalaisten vapaaehtoisten rintamasotilaiden kuntoutuksesta ja rintamarahasta](1027.md) `1027/1992`
+- [Asetus Kaarinan, Kiuruveden, Närpiön, Pyhäjärven ja Someron kaupungin perustamisesta](1028.md) `1028/1992`
+- [Asetus Valtionrautateistä annetun asetuksen 1 §:n muuttamisesta](1029.md) `1029/1992`
+- [Asetus Posti\- ja telelaitoksesta annetun asetuksen 1 §:n muuttamisesta](1030.md) `1030/1992`
+- [Valtioneuvoston päätös taloudellisissa vaikeuksissa olevien asuntovelallisten lainojen korkotukilainoiksi hyväksymisen perusteista annetun valtioneuvoston päätöksen muuttamisesta](1031.md) `1031/1992`
+- [Laki patentti\- ja rekisterihallituksen suoritteista perittävistä maksuista](1032.md) `1032/1992`
+- [Laki leimaverolain muuttamisesta](1033.md) `1033/1992`
+- [Laki patenttilain 73 §:n muuttamisesta](1034.md) `1034/1992`
+- [Laki mallioikeuslain 47 §:n muuttamisesta](1035.md) `1035/1992`
+- [Laki yksinoikeudesta integroidun piirin piirimalliin annetun lain 45 §:n muuttamisesta](1036.md) `1036/1992`
+- [Laki hyödyllisyysmallioikeudesta annetun lain 46 §:n muuttamisesta](1037.md) `1037/1992`
+- [Laki tavaramerkkilain 58 §:n muuttamisesta](1038.md) `1038/1992`
+- [Laki kaupparekisterilain 21 ja 31 §:n muuttamisesta](1039.md) `1039/1992`
+- [Liikenneministeriön päätös linja\-auto\- ja taksiliikenteelle myönnettävästä peruspalveluliikenteen valtionavusta](1040.md) `1040/1992`
+- [Maa\- ja metsätalousministeriön päätös  lohen kalastuksen rajoittamisesta Pohjanlahdella ja Itämeren pääaltaalla vuonna 1992](1041.md) `1041/1992`
+- [Valtiovarainministeriön päätös verovuoden 1993 ennakon alarajasta ja kantoeristä](1042.md) `1042/1992`
+- [Vuoden 1992 III lisätalousarvio](1043.md) `1043/1992`
+- [Laki kansainvälisistä kehitysluotoista annetun lain kumoamisesta](1044.md) `1044/1992`
+- [Laki kansainvälisten sopimusten julkaisemisesta annetun lain 1 ja 3 §:n muuttamisesta](1045.md) `1045/1992`
+- [Asetus kansainvälisten sopimusten julkaisemisesta annetun asetuksen muuttamisesta](1046.md) `1046/1992`
+- [Asetus Suomen säädöskokoelmasta annetun asetuksen muuttamisesta](1047.md) `1047/1992`
+- [Laki maataloustulolain eräiden säännösten soveltamisesta vuonna 1992 annetun lain muuttamisesta](1048.md) `1048/1992`
+- [Laki maatalouden tutkimuskeskuksesta annetun lain muuttamisesta](1049.md) `1049/1992`
+- [Laki valtion maatalousteknologian tutkimuslaitoksesta annetun lain kumoamisesta](1050.md) `1050/1992`
+- [Laki energia\-avustuksista annetun lain 3 ja 4 §:n muuttamisesta](1051.md) `1051/1992`
+- [Asetus Ruotsin kanssa taloudellisesta yhteistyöstä kansainvälisissä kriisitilanteissa tehdyn sopimuksen voimaansaattamisesta](1052.md) `1052/1992`
+- [Valtioneuvoston päätös myytäväksi toimitetun silakan vähimmäishinnoista ja tavoitehinnoista](1053.md) `1053/1992`
+- [Valtioneuvoston päätös asumisoikeuden haltijoiden valinnasta annetun valtioneuvoston päätöksen muuttamisesta](1054.md) `1054/1992`
+- [Maa\- ja metsätalousministeriön päätös ruoka\- ja ruokateollisuusperunan hintatason vakaannuttamisesta](1055.md) `1055/1992`
+- [Oikeusministeriön päätös suojaosuuden määristä palkan ulosmittauksessa](1056.md) `1056/1992`
+- [Puolustusministeriön päätös ohjusteknologian valvontajärjestelyn piiriin kuuluvan laitteiston ja teknologian rinnastamisesta puolustustarvikkeisiin](1057.md) `1057/1992`
+- [Puolustusministeriön päätös biologiseen sodankäyntiin soveltuvista aineista ja niiden valmistamiseen soveltuvista laitteista](1058.md) `1058/1992`
+- [Puolustusministeriön päätös kemiallisten taisteluaineiden raaka\-aineista ja kemiallisten taisteluaineiden valmistamiseen soveltuvista laitteista ja niihin liittyvästä teknologiasta](1059.md) `1059/1992`
+- [Maa\- ja metsätalousministeriön päätös eräiden lannoitevalmisteiden laatuvaatimuksista annetun maa\- ja metsätalousministeriön päätöksen 5 §:n muuttamisesta](1060.md) `1060/1992`
+- [Ympäristöministeriön päätös eräiden korkotukilainojen koroista](1061.md) `1061/1992`
+- [Asetus maanmittauslaitoksesta annetun asetuksen muuttamisesta](1062.md) `1062/1992`
+- [Ympäristöministeriön päätös alueiden liittämisestä Tiilikkajärven kansallispuistoon](1063.md) `1063/1992`
+- [Ympäristöministeriön päätös alueiden liittämisestä Hiidenportin kansallispuistoon](1064.md) `1064/1992`
+- [Ympäristöministeriön päätös alueiden liittämisestä Paljakan luonnonpuistoon](1065.md) `1065/1992`
+- [Ympäristöministeriön päätös alueiden liittämisestä Pilvinevan soidensuojelualueeseen](1066.md) `1066/1992`
+- [Liikenneministeriön päätös joukkoliikenteen tarkastusmaksun suuruudesta](1067.md) `1067/1992`
+- [Liikenneministeriön päätös telepäätelaitteiden ja radiolaitteiden tyyppihyväksynnästä annetun liikenneministeriön päätöksen kumoamisesta](1068.md) `1068/1992`
+- [Liikenneministeriön päätös sisäjohtoverkoista annetun liikenneministeriön päätöksen kumoamisesta](1069.md) `1069/1992`
+- [Sisäasiainministeriön päätös pysäköintivirhemaksun korottamisesta](1070.md) `1070/1992`
+- [Sosiaali\- ja terveysministeriön päätös eräiden elatusapujen ja elatustukien korottamisesta elinkustannusindeksin nousun johdosta](1071.md) `1071/1992`
+- [Oikeusministeriön päätös viittausmenettelystä Euroopan talousyhteisön säädösten täytäntöönpanoa koskevissa säädöksissä](1072.md) `1072/1992`
+- [Laki sosiaali\- ja terveysalan tutkimus\- ja kehittämiskeskuksesta](1073.md) `1073/1992`
+- [Laki terveydenhuollon oikeusturvakeskuksesta](1074.md) `1074/1992`
+- [Laki lääkärintoimen harjoittamisesta annetun lain muuttamisesta](1075.md) `1075/1992`
+- [Laki hammaslääkärintoimen harjoittamisesta annetun lain muuttamisesta](1076.md) `1076/1992`
+- [Laki vastavuoroisesta sairaan\- ja terveydenhoidosta rajaseudulla annetun lain 3 §:n muuttamisesta](1077.md) `1077/1992`
+- [Laki hammasteknikon toimen harjoittamisesta annetun lain muuttamisesta](1078.md) `1078/1992`
+- [Laki sairaanhoitotoimen harjoittamisesta annetun lain muuttamisesta](1079.md) `1079/1992`
+- [Laki hierojan toimesta annetun lain muuttamisesta](1080.md) `1080/1992`
+- [Laki optikon toimen harjoittamisesta annetun lain muuttamisesta](1081.md) `1081/1992`
+- [Laki proviisorintoimen ja farmaseutintoimen harjoittamisesta annetun lain muuttamisesta](1082.md) `1082/1992`
+- [Laki steriloimislain muuttamisesta](1083.md) `1083/1992`
+- [Laki kastroimislain muuttamisesta](1084.md) `1084/1992`
+- [Laki raskauden keskeyttämisestä annetun lain muuttamisesta](1085.md) `1085/1992`
+- [Laki mielenterveyslain muuttamisesta](1086.md) `1086/1992`
+- [Laki ihmisen elimien ja kudoksien irrottamisesta lääketieteelliseen käyttöön annetun lain muuttamisesta](1087.md) `1087/1992`
+- [Laki terveydenhuollon valtakunnallisista henkilörekistereistä annetun lain muuttamisesta](1088.md) `1088/1992`
+- [Laki kuolemansyyn selvittämisestä annetun lain 3 §:n muuttamisesta](1089.md) `1089/1992`
+- [Laki sosiaalihuoltolain 4 §:n muuttamisesta](1090.md) `1090/1992`
+- [Laki kansanterveyslain 4 §:n muuttamisesta](1091.md) `1091/1992`
+- [Laki työterveyshuoltolain muuttamisesta](1092.md) `1092/1992`
+- [Laki erikoissairaanhoitolain 5 §:n muuttamisesta](1093.md) `1093/1992`
+- [Laki valtion mielisairaaloista annetun lain 1 §:n muuttamisesta](1094.md) `1094/1992`
+- [Laki yksityisestä terveydenhuollosta annetun lain 10 ja 13 §:n muuttamisesta](1095.md) `1095/1992`
+- [Laki sairaanhoitotarvikelain väliaikaisesta muuttamisesta](1096.md) `1096/1992`
+- [Laki rintamaveteraanien kuntoutuksesta annetun lain 3 §:n muuttamisesta](1097.md) `1097/1992`
+- [Laki sairausvakuutuslain 50 ja 52 §:n muuttamisesta](1098.md) `1098/1992`
+- [Laki kehitysvammaisten erityishuollosta annetun lain 3 §:n muuttamisesta](1099.md) `1099/1992`
+- [Laki äitiysavustuslain 10 ja 11 §:n muuttamisesta](1100.md) `1100/1992`
+- [Laki lapseksiottamisesta annetun lain muuttamisesta](1101.md) `1101/1992`
+- [Laki säteilylain muuttamisesta](1102.md) `1102/1992`
+- [Laki kuulovammaisten ja näkövammaisten sekä liikuntavammaisten kouluista annetun lain4 §:n muuttamisesta](1103.md) `1103/1992`
+- [Laki kotitaloustyöntekijän työsuhteesta annetun lain 2 §:n muuttamisesta](1104.md) `1104/1992`
+- [Laki vaarallisten rikoksenuusijain eristämisestä annetun lain 3 §:n muuttamisesta](1105.md) `1105/1992`
+- [Laki tartuntatautilain 7 §:n 2 momentin ja 26 §:n kumoamisesta](1106.md) `1106/1992`
+- [Laki lääkärintoimen harjoittamisesta annetun lain 6 §:n väliaikaisesta muuttamisesta](1107.md) `1107/1992`
+- [Laki lääkärintoimen harjoittamisesta annetun lain 6 ja 6 a §:n muuttamisesta](1108.md) `1108/1992`
+- [Laki hammaslääkärintoimen harjoittamisesta annetun lain 6 §:n väliaikaisesta muuttamisesta](1109.md) `1109/1992`
+- [Laki hammaslääkärintoimen harjoittamisesta annetun lain 6 ja 6 a §:n muuttamisesta](1110.md) `1110/1992`
+- [Laki hammasteknikon toimen harjoittamisesta annetun lain 1 a §:n väliaikaisesta muuttamisesta](1111.md) `1111/1992`
+- [Laki hammasteknikon toimen harjoittamisesta annetun lain 1 a §:n muuttamisesta](1112.md) `1112/1992`
+- [Laki sairaanhoitotoimen harjoittamisesta annetun lain 1 §:n väliaikaisesta muuttamisesta](1113.md) `1113/1992`
+- [Laki sairaanhoitotoimen harjoittamisesta annetun lain 1 ja 1 a §:n muuttamisesta](1114.md) `1114/1992`
+- [Laki optikon toimen harjoittamisesta annetun lain 2 §:n väliaikaisesta muuttamisesta](1115.md) `1115/1992`
+- [Laki optikon toimen harjoittamisesta annetun lain 2 §:n muuttamisesta](1116.md) `1116/1992`
+- [Laki proviisorintoimen ja farmaseutintoimen harjoittamisesta annetun lain 2 ja 3 §:n väliaikaisesta muuttamisesta](1117.md) `1117/1992`
+- [Laki proviisorintoimen ja farmaseutintoimen harjoittamisesta annetun lain 2 ja 3 §:n muuttamisesta](1118.md) `1118/1992`
+- [Laki terveydenhuollon laitteista ja tarvikkeista annetun lain muuttamisesta](1119.md) `1119/1992`
+- [Asetus sosiaali\- ja terveysalan tutkimus\- ja kehittämiskeskuksesta](1120.md) `1120/1992`
+- [Asetus terveydenhuollon oikeusturvakeskuksesta](1121.md) `1121/1992`
+- [Asetus lääkärintoimen harjoittamisesta annetun asetuksen muuttamisesta](1122.md) `1122/1992`
+- [Asetus hammaslääkärintoimen harjoittamisesta annetun asetuksen muuttamisesta](1123.md) `1123/1992`
+- [Asetus sairaanhoitotoimen harjoittamisesta annetun asetuksen 2 §:n muuttamisesta](1124.md) `1124/1992`
+- [Asetus hammasteknikon toimen harjoittamisesta annetun asetuksen muuttamisesta](1125.md) `1125/1992`
+- [Asetus optikon toimen harjoittamisesta annetun asetuksen muuttamisesta](1126.md) `1126/1992`
+- [Asetus raskauden keskeyttämisestä annetun asetuksen muuttamisesta](1127.md) `1127/1992`
+- [Asetus steriloimisasetuksen muuttamisesta](1128.md) `1128/1992`
+- [Asetus kastroimisasetuksen muuttamisesta](1129.md) `1129/1992`
+- [Asetus ihmisen elimien ja kudoksien irrottamisesta lääketieteelliseen käyttöön annetun asetuksen muuttamisesta](1130.md) `1130/1992`
+- [Asetus kuolemansyyn selvittämisestä annetun asetuksen muuttamisesta](1131.md) `1131/1992`
+- [Asetus oikeuslääkeopillisten tutkimusten toimittamisesta lääkärille ja hammaslääkärille tulevasta korvauksesta annetun asetuksen 3 §:n muuttamisesta](1132.md) `1132/1992`
+- [Asetus mielenterveysasetuksen muuttamisesta](1133.md) `1133/1992`
+- [Asetus valtion mielisairaaloista annetun asetuksen muuttamisesta](1134.md) `1134/1992`
+- [Asetus](1135.md) `1135/1992`
+- [Asetus yksityisestä terveydenhuollosta annetun asetuksen 5 ja 6 §:n muuttamisesta](1136.md) `1136/1992`
+- [Asetus](1137.md) `1137/1992`
+- [Asetus potilasvahinkolautakunnasta annetun asetuksen 6 §:n muuttamisesta](1138.md) `1138/1992`
+- [Asetus sosiaaliturvan tutkimus\- ja kehittämistoiminnan neuvottelukunnasta annetun asetuksen 3 §:n muuttamisesta](1139.md) `1139/1992`
+- [Asetus äitiysavustusasetuksen muuttamisesta](1140.md) `1140/1992`
+- [Asetus valtion koulukodeista annetun asetuksen muuttamisesta](1141.md) `1141/1992`
+- [Asetus kotiuttamisrahan suorittamisesta annetun asetuksen 2 ja 3 §:n muuttamisesta](1142.md) `1142/1992`
+- [Asetus rintamaveteraanien kuntoutuksesta annetun asetuksen 7 §:n muuttamisesta](1143.md) `1143/1992`
+- [Asetus työterveyshuollon neuvottelukunnasta annetun asetuksen 2 §:n muuttamisesta](1144.md) `1144/1992`
+- [Asetus sosiaalihuoltoasetuksen 21 §:n muuttamisesta](1145.md) `1145/1992`
+- [Asetus kansaneläkeasetuksen 6 §:n muuttamisesta](1146.md) `1146/1992`
+- [Asetus sairausvakuutusasetuksen muuttamisesta](1147.md) `1147/1992`
+- [Laki radiovastuulain muuttamisesta](1148.md) `1148/1992`
+- [Laki valtion virkamiehen ja työntekijän terveydenhuollosta ulkomailla annetun lain 12 §:n muuttamisesta](1149.md) `1149/1992`
+- [Laki eräiden elinkeinoalojen valtiontakauksista annetun lain 4 §:n muuttamisesta](1150.md) `1150/1992`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Jugoslavian liittotasavaltaa koskevaan päätökseen perustuvien velvoitusten täyttämisestä annetun asetuksen muuttamisesta](1151.md) `1151/1992`
+- [Asetus vuoden 1978 kansainvälisen merenkulkijoiden koulutusta, pätevyyskirjoja ja vahdinpitoa koskevan yleissopimuksen liitteen muutosten voimaansaattamisesta](1152.md) `1152/1992`
+- [Asetus Neuvostoliiton kanssa tieteellis\-teknillisestä yhteistoiminnasta tehdyn sopimuksen edellyttämän suomalais\-neuvostoliittolaisen komitean suomalaisesta osapuolesta annetun asetuksen kumoamisesta](1153.md) `1153/1992`
+- [Asetus eräistä määräajaksi tai muutoin rajoitetuksi ajaksi täytettävistä viroista annetun asetuksen muuttamisesta](1154.md) `1154/1992`
+- [Asetus tekijänoikeusasetuksen 24 §:n muuttamisesta](1155.md) `1155/1992`
+- [Asetus sosiaali\- ja terveysministeriöstä annetun asetuksen muuttamisesta](1156.md) `1156/1992`
+- [Valtioneuvoston päätös eräiden maatilatalouden luottojen kohdennetusta vakauttamisesta annetun valtioneuvoston päätöksen 4 ja 13 §:n muuttamisesta](1157.md) `1157/1992`
+- [Valtioneuvoston päätös sosiaali\- ja terveysministeriön eräiden virkojen perustamisesta ja lakkauttamisesta](1158.md) `1158/1992`
+- [Valtioneuvoston päätös eräiden virkojen perustamisesta ja lakkauttamisesta sosiaali\- ja terveysministeriön hallinnonalalla](1159.md) `1159/1992`
+- [Työministeriön päätös moottorisahoista ja niiden tarkastuksesta annetun sosiaali\- ja terveysministeriön päätöksen muuttamisesta](1160.md) `1160/1992`
+- [Valtiovarainministeriön päätös alkuperän osoittamisesta etuuskohtelun saamiseksi Virosta tuotavalle tavaralle](1161.md) `1161/1992`
+- [Laki lääkelain muuttamisesta](1162.md) `1162/1992`
+- [Laki sairausvakuutuslain 5 a ja 9 §:n muuttamisesta](1163.md) `1163/1992`
+- [Vakuutuskassalaki](1164.md) `1164/1992`
+- [Laki sairausvakuutuslain 61 §:n muuttamisesta](1165.md) `1165/1992`
+- [Asetus lesken koulutustuesta annetun asetuksen kumoamisesta](1166.md) `1166/1992`
+- [Laki rakennuslain 136 a §:n kumoamisesta](1167.md) `1167/1992`
+- [Asetus Suomen Unesco\-toimikunnasta annetun asetuksen 4 §:n muuttamisesta](1168.md) `1168/1992`
+- [Valtioneuvoston päätös metsätaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](1169.md) `1169/1992`
+- [Valtioneuvoston päätös porotaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](1170.md) `1170/1992`
+- [Valtioneuvoston päätös investointivarausten käyttämisestä annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](1171.md) `1171/1992`
+- [Sosiaali\- ja terveysministeriön päätös vaarallisen kemikaalin päällyksen turvasulkimesta ja näkövammaisille tarkoitetusta vaaratunnuksesta](1172.md) `1172/1992`
+- [Verohallituksen päätös tilauslentoverotusta koskevasta ilmoittamisvelvollisuudesta](1173.md) `1173/1992`
+- [Asetus peruskouluasetuksen muuttamisesta](1174.md) `1174/1992`
+- [Asetus peruskouluasetuksen muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](1175.md) `1175/1992`
+- [Asetus lukioasetuksen muuttamisesta](1176.md) `1176/1992`
+- [Asetus lukioasetuksen muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](1177.md) `1177/1992`
+- [Asetus peruskoulua korvaavasta koulusta ja yksityisestä lukiosta annetun asetuksen muuttamisesta](1178.md) `1178/1992`
+- [Asetus iltalukioasetuksen muuttamisesta](1179.md) `1179/1992`
+- [Asetus yhteisistä opettajista](1180.md) `1180/1992`
+- [Asetus valtionosuutta saavista musiikkioppilaitoksista annetun asetuksen muuttamisesta](1181.md) `1181/1992`
+- [Valtioneuvoston päätös työhön liittyvän syöpävaaran torjunnasta](1182.md) `1182/1992`
+- [Valtioneuvoston päätös eräiden kuntien määräämisestä erityisalueiksi](1183.md) `1183/1992`
+- [Valtioneuvoston päätös pienten ja keskisuurten yritysten korkoavustuksesta](1184.md) `1184/1992`
+- [Maa\- ja metsätalousministeriön päätös kartasto\- ja tietopalvelutoimistojen ja maanmittaustoimistojen lukumäärästä, toimialueista ja hallintopaikoista](1185.md) `1185/1992`
+- [Opetusministeriön päätös vihkimisoikeuden myöntämisestä Suomen Islamilainen Yhdyskunta \-nimiselle uskonnolliselle yhdyskunnalle](1186.md) `1186/1992`
+- [Laki kiinteistöjen myynnistä Vapo Oy:lle](1187.md) `1187/1992`
+- [Laki eräiden kiinteistöjen vaihdosta valtion sekä Oulun Rakennus Oy:n ja Kiinteistö Oy Lyötynparkin välillä](1188.md) `1188/1992`
+- [Laki maidon väliaikaisesta kiintiömaksusta annetun lain 5 ja 27 §:n muuttamisesta](1189.md) `1189/1992`
+- [Laki maidon väliaikaisista tuotantokiintiöistä annetun lain muuttamisesta](1190.md) `1190/1992`
+- [Laki meijerikohtaisesta kiintiömaksusta annetun lain muuttamisesta](1191.md) `1191/1992`
+- [Asetus Amerikan yhdysvaltojen kanssa tehtyyn ystävyys\-, kauppa\- ja konsulisopimukseen liittyvän pöytäkirjan voimaansaattamisesta](1192.md) `1192/1992`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Liberiaa koskevaan päätökseen perustuvien velvoitusten täyttämisestä](1193.md) `1193/1992`
+- [Asetus väliaikaisesta poikkeuksesta raha\-automaattiasetukseen](1194.md) `1194/1992`
+- [Asetus valtion virkaehtosopimusasetuksen muuttamisesta](1195.md) `1195/1992`
+- [Asetus eräisiin lämmityslaitoshankkeisiin myönnettävistä lainoista ja korkotuesta annetun asetuksen12 ja 14 §:n muuttamisesta](1196.md) `1196/1992`
+- [Valtioneuvoston päätös asuinhuoneistojen vuokrien korotusyleisohjeeksi](1197.md) `1197/1992`
+- [Valtioneuvoston päätös tasoyleisohjeeksi asuinhuoneistojen kohtuullisista vuokrista eräillä paikkakunnilla](1198.md) `1198/1992`
+- [Laki maaseutuelinkeinohallinnosta](1199.md) `1199/1992`
+- [Laki maa\- ja metsätalousministeriön tietopalvelukeskuksesta](1200.md) `1200/1992`
+- [Laki kasvintuotannon tarkastuskeskuksesta](1201.md) `1201/1992`
+- [Laki eläinlääkintä\- ja elintarvikelaitoksesta](1202.md) `1202/1992`
+- [Laki maaseutuelinkeinojen valituslautakunnasta](1203.md) `1203/1992`
+- [Laki kalastuslain 86 ja 87 §:n muuttamisesta](1204.md) `1204/1992`
+- [Laki maatilatalouden kehittämisrahastosta annetun lain muuttamisesta](1205.md) `1205/1992`
+- [Asetus läänin nuorisolautakunnasta annetun asetuksen väliaikaisesta muuttamisesta](1206.md) `1206/1992`
+- [Valtioneuvoston päätös kauppa\- ja teollisuusministeriön eräiden virkojen perustamisesta ja lakkauttamisesta](1207.md) `1207/1992`
+- [Liikenneministeriön päätös ulkomaanliikenteen kauppa\-alusluettelosta annetun lain soveltamisesta annetun liikenneministeriön päätöksen 4 §:n muuttamisesta](1208.md) `1208/1992`
+- [Laki sokeriverosta annetun lain 4 ja 12 §:n muuttamisesta](1209.md) `1209/1992`
+- [Laki valtion pelastusoppilaitoksista annetun lain 4 §:n muuttamisesta](1210.md) `1210/1992`
+- [Laki valtiontalouden tarkastuksesta annetun lain muuttamisesta](1211.md) `1211/1992`
+- [Laki kansaneläkelaitoksen rahoituksen väliaikaisesta muuttamisesta](1212.md) `1212/1992`
+- [Laki kaapelilähetystoiminnasta annetun lain muuttamisesta](1213.md) `1213/1992`
+- [Laki telehallinnosta annetun lain 2 §:n muuttamisesta](1214.md) `1214/1992`
+- [Laki  sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain 46 §:n muuttamisesta](1215.md) `1215/1992`
+- [Laki maatalousyrittäjän lomituspalveluista annetun lain muuttamisesta](1216.md) `1216/1992`
+- [Asetus tielaitoksen suoritteista perittävistä maksuista annetun asetuksen kumoamisesta](1217.md) `1217/1992`
+- [Liikenneministeriön päätös tielaitoksen maksuista](1218.md) `1218/1992`
+- [Laki Kera Oy \-nimisestä osakeyhtiöstä annetun lain muuttamisesta](1219.md) `1219/1992`
+- [Laki pienten ja keskisuurten yritysten investointien korkotukilainoista annetun lain muuttamisesta](1220.md) `1220/1992`
+- [Asetus pienten ja keskisuurten yritysten investointien korkotukilainoista annetun asetuksen 3 ja 4 §:n muuttamisesta](1221.md) `1221/1992`
+- [Asetus valtioneuvoston lainanottovaltuuksista vuonna 1993](1222.md) `1222/1992`
+- [Vuoden 1992 IV lisätalousarvio](1223.md) `1223/1992`
+- [Valtioneuvoston päätös arseeni\- ja elohopeayhdisteiden sekä dibutyylitinavetyboraatin käytön rajoittamisesta](1224.md) `1224/1992`
+- [Liikenneministeriön päätös maaseudun linja\-autoliikenteelle myönnettävästä peruskorvauksesta](1225.md) `1225/1992`
+- [Liikenneministeriön päätös kaupunkiliikenteen valtionavusta](1226.md) `1226/1992`
+- [Verohallituksen päätös matkakuluvähennyksen määrästä vuodelta 1992 toimitettavassa verotuksessa](1227.md) `1227/1992`
+- [Verohallituksen päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](1228.md) `1228/1992`
+- [Laki valtioneuvoston oikeudesta luovuttaa Valtion ravitsemiskeskuksen hallinnassa oleva omaisuus perustettavalle valtionyhtiölle](1229.md) `1229/1992`
+- [Laki Valtion ravitsemiskeskuksesta annetun lain kumoamisesta](1230.md) `1230/1992`
+- [Laki Suomen rahapajasta annetun lain kumoamisesta](1231.md) `1231/1992`
+- [Laki valtioneuvoston oikeudesta luovuttaa Valtion tietokonekeskuksen hallinnassa oleva omaisuus perustettavalle valtionyhtiölle](1232.md) `1232/1992`
+- [Laki Valtion tietokonekeskuksesta annetun lain kumoamisesta](1233.md) `1233/1992`
+- [Laki valtioneuvoston oikeudesta luovuttaa Valtion painatuskeskuksen hallinnassa oleva omaisuus perustettavalle valtionyhtiölle sekä yhtiön eräistä tehtävistä](1234.md) `1234/1992`
+- [Laki Valtion painatuskeskuksesta annetun lain kumoamisesta](1235.md) `1235/1992`
+- [Laki Eduskunnan kirjastosta annetun lain 9 §:n 2 momentin kumoamisesta](1236.md) `1236/1992`
+- [Laki valtion virkamieslain väliaikaisesta muuttamisesta](1237.md) `1237/1992`
+- [Laki yhteistoiminnasta valtion virastoissa ja laitoksissa annetun lain 15 a §:n väliaikaisesta muuttamisesta](1238.md) `1238/1992`
+- [Laki kunnan ja kuntainliiton viranhaltijoiden virantoimituksen ja työntekijöiden työnteon palkattomasta keskeyttämisestä määräajaksi](1239.md) `1239/1992`
+- [Asetus vankeinhoitolaitoksesta annetun asetuksen muuttamisesta](1240.md) `1240/1992`
+- [Asetus Hämeen lääninvankilan perustamisesta](1241.md) `1241/1992`
+- [Asetus Hämeenlinnan keskusvankilasta](1242.md) `1242/1992`
+- [Asetus valtion talousarviosta](1243.md) `1243/1992`
+- [Asetus sähkölaitteiden tarkastuksista perittävistä maksuista annetun asetuksen7 §:n muuttamisesta](1244.md) `1244/1992`
+- [Asetus poliisiasetuksen muuttamisesta](1245.md) `1245/1992`
+- [Asetus karhun, suden ja ahman metsästämisestä](1246.md) `1246/1992`
+- [Asetus metsästäjäin keskusjärjestön jakautumisesta riistanhoitopiireihin annetun asetuksen muuttamisesta](1247.md) `1247/1992`
+- [Valtioneuvoston päätös sisäasiainministeriön eräiden virkojen nimien muuttamisesta](1248.md) `1248/1992`
+- [Valtioneuvoston päätös leimaverolain soveltamisesta annetun valtioneuvoston päätöksen muuttamisesta](1249.md) `1249/1992`
+- [Valtioneuvoston päätös veropiireistä annetun valtioneuvoston päätöksen muuttamisesta](1250.md) `1250/1992`
+- [Valtioneuvoston päätös opetusministeriön erään viran lakkauttamisesta](1251.md) `1251/1992`
+- [Valtioneuvoston päätös poronomistajien ansionmenetysten korvaamiseksi annettavista avustuksista](1252.md) `1252/1992`
+- [Valtioneuvoston päätös poronvasakadon korvaamiseksi annettavista avustuksista](1253.md) `1253/1992`
+- [Valtioneuvoston päätös työministeriön eräiden virkojen nimien muuttamisesta sekä perustamisesta ja lakkauttamisesta](1254.md) `1254/1992`
+- [Valtioneuvoston päätös työttömyysvakuutusmaksusta vuonna 1993](1255.md) `1255/1992`
+- [Asetus ajoneuvojen rakenteesta ja varusteista](1256.md) `1256/1992`
+- [Asetus ajoneuvojen käytöstä tiellä](1257.md) `1257/1992`
+- [Asetus ulosottoasetuksen 13 a §:n muuttamisesta](1258.md) `1258/1992`
+- [Asetus vaarallisten aineiden kuljettamisesta tiellä annetun asetuksen muuttamisesta](1259.md) `1259/1992`
+- [Laki asevelvollisuuslain muuttamisesta](1260.md) `1260/1992`
+- [Laki Jehovan todistajien vapauttamisesta asevelvollisuuden suorittamisesta eräissä tapauksissa annetun lain muuttamisesta](1261.md) `1261/1992`
+- [Laki terveydenhuollon järjestämisestä puolustusvoimissa annetun lain 3 ja 5 §:n muuttamisesta](1262.md) `1262/1992`
+- [Laki sotilasoikeudenkäyntilain 11 §:n muuttamisesta](1263.md) `1263/1992`
+- [Laki siviilipalveluslain 60 §:n kumoamisesta](1264.md) `1264/1992`
+- [Asetus asevelvollisuuslain soveltamisesta annetun asetuksen muuttamisesta](1265.md) `1265/1992`
+- [Asetus Jehovan todistajien vapauttamisesta asevelvollisuuden suorittamisesta eräissä tapauksissa annetun asetuksen muuttamisesta](1266.md) `1266/1992`
+- [Asetus sotilasoikeudenkäyntiasetuksen 2 §:n muuttamisesta](1267.md) `1267/1992`
+- [Asetus sotilaskurinpitoasetuksen 39 ja 45 §:n muuttamisesta](1268.md) `1268/1992`
+- [Asetus Valtionhallinnon kehittämiskeskuksen suoritteista perittävistä maksuista annetun asetuksen kumoamisesta](1269.md) `1269/1992`
+- [Asetus tilastokeskuksen suoritteista perittävistä maksuista annetun asetuksen kumoamisesta](1270.md) `1270/1992`
+- [Asetus elintarvikkeiden pakkausmerkinnöistä annetun asetuksen 2 §:n muuttamisesta](1271.md) `1271/1992`
+- [Asetus vitamiinien ja eräiden muiden aineiden lisäämisestä elintarvikkeisiin annetun asetuksen 7 §:n kumoamisesta](1272.md) `1272/1992`
+- [Laki korkeakoululaitoksen kehittämisestä annetun lain 3 §:n väliaikaisesta muuttamisesta](1273.md) `1273/1992`
+- [Asetus Turun yliopistosta](1274.md) `1274/1992`
+- [Asetus Tampereen teknillisestä korkeakoulusta](1275.md) `1275/1992`
+- [Asetus valtionarkiston ja maakunta\-arkistojen suoritteista perittävistä maksuista annetun asetuksen kumoamisesta](1276.md) `1276/1992`
+- [Laki maanmittausmaksusta annetun lain 9 §:n muuttamisesta](1277.md) `1277/1992`
+- [Laki metsänparannuslain muuttamisesta](1278.md) `1278/1992`
+- [Asetus maaseutuelinkeinopiireistä](1279.md) `1279/1992`
+- [Asetus maa\- ja metsätalousministeriön tietopalvelukeskuksesta](1280.md) `1280/1992`
+- [Asetus kasvintuotannon tarkastuskeskuksesta](1281.md) `1281/1992`
+- [Asetus eläinlääkintä\- ja elintarvikelaitoksesta](1282.md) `1282/1992`
+- [Asetus maaseutuelinkeinojen valituslautakunnasta](1283.md) `1283/1992`
+- [Asetus maatilatalouden kehittämisrahastosta](1284.md) `1284/1992`
+- [Asetus maa\- ja metsätalousministeriöstä](1285.md) `1285/1992`
+- [Laki lasten kotihoidon tuesta annetun lain muuttamisesta](1286.md) `1286/1992`
+- [Laki lasten kotihoidon tuesta annetun lain väliaikaisesta muuttamisesta](1287.md) `1287/1992`
+- [Laki lasten päivähoidosta annetun lain 11 a §:n väliaikaisesta muuttamisesta](1288.md) `1288/1992`
+- [Laki arpajaislain 3 ja 5 §:n muuttamisesta](1289.md) `1289/1992`
+- [Laki työnvälityslain muuttamisesta](1290.md) `1290/1992`
+- [Asetus työvoiman liikkuvuuden tukemisesta](1291.md) `1291/1992`
+- [Asetus paluumuuton ja Pohjoismaista tapahtuvan työvoiman muuton tukemisesta annetun asetuksen kumoamisesta](1292.md) `1292/1992`
+- [Asetus geodeettisesta laitoksesta](1293.md) `1293/1992`
+- [Valtioneuvoston päätös saaristokunnista ja kuntien saaristo\-osista](1294.md) `1294/1992`
+- [Valtioneuvoston päätös eräiden poliisipiirien uudelleen järjestämisestä](1295.md) `1295/1992`
+- [Sosiaali\- ja terveysministeriön päätös lapsilisän maksupäivästä](1296.md) `1296/1992`
+- [Maa\- ja metsätalousministeriön päätös Ruotsin kanssa vastavuoroisista kalastusoikeuksista Itämerellä tehtyjen sopimusten täytäntöönpanosta vuonna 1993](1297.md) `1297/1992`
+- [Asetus Autorekisterikeskuksesta](1298.md) `1298/1992`
+- [Sisäasiainministeriön päätös erään alueen siirtämisestä Utajärven kunnasta Muhoksen kuntaan](1299.md) `1299/1992`
+- [Sisäasiainministeriön päätös eräiden tilojen siirtämisestä Maskun kunnasta Raision kaupunkiin](1300.md) `1300/1992`
+- [Verohallituksen päätös niistä perusteista, joiden mukaan muun kiinteistön kuin maatilan maapohjan verotusarvo lasketaan vuodelta 1992 toimitettavassa verotuksessa](1301.md) `1301/1992`
+- [Verohallituksen päätös vuodelta 1992 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](1302.md) `1302/1992`
+- [Verohallituksen päätös ennakonpidätyksessä vuonna 1993 noudatettavista luontoisetujen laskentaperusteista](1303.md) `1303/1992`
+- [Asetus Suomalais\-venäläisestä koulusta annetun asetuksen muuttamisesta](1304.md) `1304/1992`
+- [Asetus Helsingin ranskalais\-suomalaisesta koulusta annetun asetuksen muuttamisesta](1305.md) `1305/1992`
+- [Asetus kuulovammaisten ja näkövammaisten sekä liikuntavammaisten kouluista annetun asetuksen 33 a §:n muuttamisesta](1306.md) `1306/1992`
+- [Asetus Steiner\-koulusta annetun asetuksen muuttamisesta](1307.md) `1307/1992`
+- [Asetus steinerpedagogisista erityiskouluista annetun asetuksen muuttamisesta](1308.md) `1308/1992`
+- [Asetus lastentarhanopettajaopistoista annetun asetuksen muuttamisesta](1309.md) `1309/1992`
+- [Asetus ammatillisista aikuiskoulutuskeskuksista annetun asetuksen muuttamisesta](1310.md) `1310/1992`
+- [Kirjastoasetus](1311.md) `1311/1992`
+- [Museoasetus](1312.md) `1312/1992`
+- [Kansalaisopistoasetus](1313.md) `1313/1992`
+- [Asetus ammatillisesta aikuiskoulutuksesta](1314.md) `1314/1992`
+- [Asetus ammatillisista erikoisoppilaitoksista annetun asetuksen 2 §:n muuttamisesta](1315.md) `1315/1992`
+- [Asetus ammatillisista erityisoppilaitoksista annetun asetuksen 2 §:n muuttamisesta](1316.md) `1316/1992`
+- [Asetus liikunta\-asetuksen muuttamisesta](1317.md) `1317/1992`
+- [Asetus nuorisotyöasetuksen muuttamisesta](1318.md) `1318/1992`
+- [Sisäasiainministeriön päätös rajan määräämisestä eräiltä osin Karstulan ja Kyyjärven kuntien välillä](1319.md) `1319/1992`
+- [Sisäasiainministeriön päätös eräiden alueiden siirtämisestä Heinolan kaupungista Heinolan maalaiskuntaan](1320.md) `1320/1992`
+- [Laki eräiden väliaikaisesti maahan tuotujen ajoneuvojen tullittomuudesta](1321.md) `1321/1992`
+- [Laki leimaverolain 10 ja 50 §:n muuttamisesta](1322.md) `1322/1992`
+- [Laki työntekijäin eläkelain väliaikaisesta muuttamisesta annetun lain muuttamisesta](1323.md) `1323/1992`
+- [Laki maatalousyrittäjien eläkelain 10 §:n väliaikaisesta muuttamisesta annetun lain muuttamisesta](1324.md) `1324/1992`
+- [Laki yrittäjien eläkelain 9 §:n väliaikaisesta muuttamisesta annetun lain muuttamisesta](1325.md) `1325/1992`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 1 §:n väliaikaisesta muuttamisesta annetun lain muuttamisesta](1326.md) `1326/1992`
+- [Valtiovarainministeriön päätös rakennusten jälleenhankinta\-arvon perusteista](1327.md) `1327/1992`
+- [Valtiovarainministeriön päätös vesivoimalaitoksen ja sen rakenteiden jälleenhankinta\-arvon perusteista](1328.md) `1328/1992`
+- [Laki maidon, sianlihan ja viljan vientikustannusmaksusta annetun lain muuttamisesta](1329.md) `1329/1992`
+- [Laki maatalousyrittäjien luopumiskorvauksesta](1330.md) `1330/1992`
+- [Laki maatalousyrittäjien eläkelain 16 §:n muuttamisesta](1331.md) `1331/1992`
+- [Laki työntekijäin eläkelain 8 §:n muuttamisesta](1332.md) `1332/1992`
+- [Laki kansaneläkelain 26 §:n muuttamisesta](1333.md) `1333/1992`
+- [Laki työttömyysturvalain 5 ja 45 §:n muuttamisesta](1334.md) `1334/1992`
+- [Laki peltoalan perusteella suoritettavasta vientikustannusmaksusta annetun lain muuttamisesta](1335.md) `1335/1992`
+- [Laki maaseutuelinkeinojen tukitehtäviä hoidettaessa noudatettavasta menettelystä](1336.md) `1336/1992`
+- [Laki luopumiseläkelain muuttamisesta](1337.md) `1337/1992`
+- [Valtioneuvoston päätös avustusten myöntämisestä minkkikannan tervehdyttämiseksi annetun valtioneuvoston päätöksen 1 ja 6 §:n muuttamisesta](1338.md) `1338/1992`
+- [Kauppa\- ja teollisuusministeriön päätös valtion riskipääomatakuista perittävien maksujen perusteista](1339.md) `1339/1992`
+- [Kauppa\- ja teollisuusministeriön päätös ravintoarvon ilmoittamisesta annetun elinkeinohallituksen päätöksen 15 §:n muuttamisesta](1340.md) `1340/1992`
+- [Laki siirtymämaksusta muutettaessa valtion virastoja, laitoksia tai liikelaitoksia osakeyhtiöiksi](1341.md) `1341/1992`
+- [Laki työntekijäin eläkelain 12 §:n muuttamisesta](1342.md) `1342/1992`
+- [Laki työntekijäin eläkelain 9 §:n poikkeuksellisesta soveltamisesta vuonna 1993](1343.md) `1343/1992`
+- [Laki työntekijäin työeläkemaksun huomioon ottamisesta päivärahoissa](1344.md) `1344/1992`
+- [Asetus eroraha\-asetuksen 2 ja 3 §:n muuttamisesta](1345.md) `1345/1992`
+- [Asetus eroraha\-asetuksen muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](1346.md) `1346/1992`
+- [Asetus eroraha\-asetuksen muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](1347.md) `1347/1992`
+- [Asetus valtion virkamiesten sairaanhoidosta annetun asetuksen muuttamisesta](1348.md) `1348/1992`
+- [Valtioneuvoston päätös valtion liikelaitosten kirjanpidon perusteista annetun valtioneuvoston päätöksen muuttamisesta](1349.md) `1349/1992`
+- [Valtioneuvoston päätös valtion liikelaitoksilta valtion alueellisten työterveysasemien tuottamista terveydenhuoltopalveluista perittävien korvausten yleisistä perusteista annetun valtioneuvoston päätöksen kumoamisesta](1350.md) `1350/1992`
+- [Valtioneuvoston päätös valtion virkamiesten erorahan suuruudesta annetun valtioneuvoston päätöksen muuttamisesta](1351.md) `1351/1992`
+- [Valtioneuvoston päätös valtion työntekijäin terveydenhuollon ohjesäännöstä annetun valtioneuvoston päätöksen 25 ja 26 §:n muuttamisesta](1352.md) `1352/1992`
+- [Laki panttilainauslaitoksista](1353.md) `1353/1992`
+- [Laki pankkitarkastusvirastosta annetun lain 1 §:n muuttamisesta](1354.md) `1354/1992`
+- [Asetus lääninneuvottelukunnista annetun asetuksen muuttamisesta](1355.md) `1355/1992`
+- [Asetus valtion aluejakoneuvottelukunnasta annetun asetuksen muuttamisesta](1356.md) `1356/1992`
+- [Asetus Hamarijärven luonnonsuojelualueesta](1357.md) `1357/1992`
+- [Opetusministeriön päätös tallentamattomien ääni\- ja kuvanauhojen maahantuonnista ja valmistuksesta suoritettavan tekijänoikeudellisen maksun suuruudesta](1358.md) `1358/1992`
+- [Sosiaali\- ja terveysministeriön päätös terveydenhuollon oikeusturvakeskuksen maksullisista suoritteista](1359.md) `1359/1992`
+- [Asetus poliisitoimesta sekä nimismiehelle kuuluvien yleishallintotehtävien hoitamisestaAhvenanmaan maakunnassa](1360.md) `1360/1992`
+- [Asetus yleisestä oikeusaputoiminnasta Ahvenanmaan maakunnassa](1361.md) `1361/1992`
+- [Asetus eräiden kansanedustajain vaaleista annetun lain ja kunnallisvaalilain mukaisten tehtävien hoitamisesta Ahvenanmaan maakunnassa](1362.md) `1362/1992`
+- [Asetus eräiden maatalousyrittäjien sukupolvenvaihdoseläkkeestä annetun lain mukaisten tehtävien hoitamisesta Ahvenanmaan maakunnassa](1363.md) `1363/1992`
+- [Valtioneuvoston päätös virka\- ja itsehallintoalueiden kielellisestä jaotuksesta vuosina 1993\-2002](1364.md) `1364/1992`
+- [Laki sosiaalihuoltolain muuttamisesta](1365.md) `1365/1992`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain 1 ja 2 §:n muuttamisesta](1366.md) `1366/1992`
+- [Laki kotiuttamisrahalain kumoamisesta](1367.md) `1367/1992`
+- [Laki ammatinvalinnanohjauksesta annetun lain 2 §:n muuttamisesta](1368.md) `1368/1992`
+- [Asetus Kansainvälisen työjärjestön hyväksymän, työnantajan toimesta tapahtuvaa palvelussuhteen päättämistä koskevan yleissopimuksen voimaansaattamisesta](1369.md) `1369/1992`
+- [Asetus Kansainvälisen työjärjestön hyväksymän merenkulkijoiden viihtyvyyttä ja hyvinvointia merellä ja satamissa koskevan yleissopimuksen voimaansaattamisesta](1370.md) `1370/1992`
+- [Asetus eräistä työhallinnon palvelumaksuista annetun asetuksen kumoamisesta](1371.md) `1371/1992`
+- [Asetus työsuojeluhallituksen suoritteista perittävistä maksuista annetun asetuksen eräiden säännösten kumoamisesta](1372.md) `1372/1992`
+- [Asetus siviilipalvelusasetuksen muuttamisesta](1373.md) `1373/1992`
+- [Työministeriön päätös työhallinnon maksullisista suoritteista](1374.md) `1374/1992`
+- [Valtiovarainministeriön päätös eräiden arvopapereiden verotusarvon perusteista](1375.md) `1375/1992`
+- [Laki Liettuan kanssa kauppaa ja taloudellista yhteistyötä koskevista väliaikaisista järjestelyistä tehdyn pöytäkirjan eräiden määräysten hyväksymisestä](1376.md) `1376/1992`
+- [Asetus Liettuan kanssa kauppaa ja taloudellista yhteistyötä koskevista väliaikaisista järjestelyistä tehdyn pöytäkirjan voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1377.md) `1377/1992`
+- [Laki Liettuan kanssa sijoitusten edistämisestä ja suojelusta tehdyn sopimuksen eräiden määräysten hyväksymisestä](1378.md) `1378/1992`
+- [Asetus Liettuan kanssa sijoitusten edistämisestä ja suojelusta tehdyn sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1379.md) `1379/1992`
+- [Laki Romanian kanssa tehdyn sijoitusten vastavuoroista edistämistä ja suojelua koskevan sopimuksen eräiden määräysten hyväksymisestä](1380.md) `1380/1992`
+- [Asetus Romanian kanssa tehdyn sijoitusten vastavuoroista edistämistä ja suojelua koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1381.md) `1381/1992`
+- [Asetus ilmatieteen laitoksen suoritteista perittävistä maksuista annetun asetuksen kumoamisesta](1382.md) `1382/1992`
+- [Liikenneministeriön päätös ilmatieteen laitoksen maksullisista suoritteista](1383.md) `1383/1992`
+- [Laki indeksiehdon käytön rajoittamisesta](1384.md) `1384/1992`
+- [Laki indeksiehdon käytöstä vuosia 1992 ja 1993 koskevissa työ\-, virka\- ja toimiehtosopimuksissa annetun lain 4 §:n muuttamisesta](1385.md) `1385/1992`
+- [Laki tulliverolain muuttamisesta](1386.md) `1386/1992`
+- [Tulliveroasetus](1387.md) `1387/1992`
+- [Valtiovarainministeriön päätös Suomen tasavallan ja Euroopan talousyhteisön välisessä kaupassa noudatettavien alkuperäsääntöjen eräiden muutosten soveltamisesta](1388.md) `1388/1992`
+- [Valtiovarainministeriön päätös alkuperän osoittamisesta etuuskohtelun saamiseksi Liettuasta tuotavalle tavaralle](1389.md) `1389/1992`
+- [Laki huoltovarmuuden turvaamisesta](1390.md) `1390/1992`
+- [Asetus Huoltovarmuuskeskuksesta](1391.md) `1391/1992`
+- [Laki turvavarastolain muuttamisesta](1392.md) `1392/1992`
+- [Laki tuontipolttoaineiden velvoitevarastointilain muuttamisesta](1393.md) `1393/1992`
+- [Laki varmuusvarastointimaksusta annetun lain 1 ja 5 §:n muuttamisesta](1394.md) `1394/1992`
+- [Asetus matkailun edistämiskeskuksesta annetun asetuksen 7 §:n 3 momentin kumoamisesta](1395.md) `1395/1992`
+- [Eduskunnan päätös talousarvioesityksen noudattamisesta väliaikaisesti talousarviona vuoden 1993 alusta](1396.md) `1396/1992`
+- [Valtioneuvoston päätös kihlakunnista annetun valtioneuvoston päätöksen muuttamisesta](1397.md) `1397/1992`
+- [Valtioneuvoston päätös maa\- ja metsätalousministeriön hallinnonalan eräiden virkojen perustamisesta ja lakkauttamisesta sekä virkajärjestelyistä](1398.md) `1398/1992`
+- [Suomen Pankin ilmoitus voimassa olevasta Suomen Pankin peruskorkoa vastaavasta korkokannasta](1399.md) `1399/1992`
+- [Asetus tilastokeskuksesta annetun asetuksen 11 §:n kumoamisesta](1400.md) `1400/1992`
+- [Asetus valtionhallinnon tietohallinnosta annetun asetuksen 4 §:n kumoamisesta](1401.md) `1401/1992`
+- [Asetus virkalähetysoikeudesta postiliikenteessä annetun asetuksen kumoamisesta](1402.md) `1402/1992`
+- [Asetus luvanvaraisesta tavaraliikenteestä tiellä annetun asetuksen muuttamisesta](1403.md) `1403/1992`
+- [Asetus ajokorttiasetuksen muuttamisesta](1404.md) `1404/1992`
+- [Liikenneministeriön päätös ajokorttiasetuksen soveltamisesta annetun liikenneministeriön päätöksen muuttamisesta](1405.md) `1405/1992`
+- [Asetus kaapelilähetystoiminnasta annetun asetuksen muuttamisesta](1406.md) `1406/1992`
+- [Liikenneministeriön päätös kaapelilähetystoiminnan seurannasta](1407.md) `1407/1992`
+- [Liikenneministeriön päätös vähäisestä kaapelilähetystoiminnasta](1408.md) `1408/1992`
+- [Laki patenttilain 3 §:n muuttamisesta](1409.md) `1409/1992`
+- [Laki hyödyllisyysmallioikeudesta annetun lain 3 §:n muuttamisesta](1410.md) `1410/1992`
+- [Laki mallioikeuslain 5 §:n muuttamisesta](1411.md) `1411/1992`
+- [Laki kemikaalilain muuttamisesta](1412.md) `1412/1992`
+- [Asetus työterveyshuollon neuvottelukunnasta annetun asetuksen 3 ja 6 §:n muuttamisesta](1413.md) `1413/1992`
+- [Asetus työvoimatoimikunnasta annetun asetuksen 2 §:n muuttamisesta](1414.md) `1414/1992`
+- [Valtioneuvoston päätös kadmiumia ja sen yhdisteitä sisältäviä tuotteita ja tarvikkeita koskevista kielloista ja rajoituksista](1415.md) `1415/1992`
+- [Opetusministeriön päätös arkistolaitoksen suoritteista perittävistä maksuista](1416.md) `1416/1992`
+- [Laki alioikeusuudistukseen liittyvien lakien voimaanpanosta](1417.md) `1417/1992`
+- [Laki Suomen Hallitusmuodon 90 §:n muuttamisesta](1418.md) `1418/1992`
+- [Laki maistraatista annetun lain kumoamisesta](1419.md) `1419/1992`
+- [Laki julkisesta notaarista annetun lain 1 §:n muuttamisesta](1420.md) `1420/1992`
+- [Laki ulosottotoimesta annetun lain 2 §:n muuttamisesta](1421.md) `1421/1992`
+- [Laki ulosottolain 1 luvun 1 §:n muuttamisesta](1422.md) `1422/1992`
+- [Laki lapsen huollosta ja tapaamisoikeudesta annetun päätöksen täytäntöönpanosta annetun lain 11 §:n muuttamisesta](1423.md) `1423/1992`
+- [Laki kielilain 10 §:n muuttamisesta](1424.md) `1424/1992`
+- [Laki painovapauslain 7 §:n muuttamisesta](1425.md) `1425/1992`
+- [Laki yhdistyslain 47 §:n muuttamisesta](1426.md) `1426/1992`
+- [Laki kaivoslain 3 ja 7 §:n muuttamisesta](1427.md) `1427/1992`
+- [Laki avioliittolain 17 §:n muuttamisesta](1428.md) `1428/1992`
+- [Laki rahan, arvo\-osuuksien, arvopaperien tai asiakirjain tallettamisesta velan maksuna tai vapautumiseksi muusta suoritusvelvollisuudesta annetun lain 1 §:n muuttamisesta](1429.md) `1429/1992`
+- [Laki yleisistä teistä annetun lain 42 ja 101 §:n muuttamisesta](1430.md) `1430/1992`
+- [Laki tiedoksiannosta hallintoasioissa annetun lain 2 ja 25 §:n muuttamisesta](1431.md) `1431/1992`
+- [Laki eräiden yleisten alueiden rekisterissä olevien alueiden järjestelystä annetun lain muuttamisesta](1432.md) `1432/1992`
+- [Laki yleisistä talletusmakasiineista, joilla on oikeus antaa warrantteja, annetun asetuksen sekä siihen liittyvän julistuksen kumoamisesta](1433.md) `1433/1992`
+- [Laki vesilain 5 luvun muuttamisesta](1434.md) `1434/1992`
+- [Laki haastemieslain muuttamisesta](1435.md) `1435/1992`
+- [Laki kaupunginviskaalista ja nimismiehestä käräjäoikeuden syyttäjänä](1436.md) `1436/1992`
+- [Laki kaupunginviskaaleista annetun lain 1 ja 5 §:n muuttamisesta](1437.md) `1437/1992`
+- [Asetus kaupunginviskaaleista annetun asetuksen muuttamisesta](1438.md) `1438/1992`
+- [Laki rakennuslain muuttamisesta](1439.md) `1439/1992`
+- [Laki merimieslain muuttamisesta](1440.md) `1440/1992`
+- [Laki merimiesten vuosilomalain 3 §:n muuttamisesta](1441.md) `1441/1992`
+- [Laki sairausvakuutuslain 23 g §:n muuttamisesta](1442.md) `1442/1992`
+- [Laki työttömyysturvalain 9 §:n muuttamisesta](1443.md) `1443/1992`
+- [Laki merimiesten palvelu\- ja opintotoiminnasta annetun lain 3 §:n muuttamisesta](1444.md) `1444/1992`
+- [Asetus naisten ja miesten välisestä tasa\-arvosta annetussa laissa säädettyjen hyvityksen markkamäärien tarkistamisesta](1445.md) `1445/1992`
+- [Asetus mielenterveysasetuksen 2 §:n muuttamisesta](1446.md) `1446/1992`
+- [Asetus sotilasvammalain eräiden säännösten soveltamisesta annetun asetuksen 8 §:n muuttamisesta](1447.md) `1447/1992`
+- [Asetus maatalousyrittäjän lomituspalveluista annetun asetuksen muuttamisesta](1448.md) `1448/1992`
+- [Sosiaali\- ja terveysministeriön päätös maatalousyrittäjän viikkovapaasta perittävistä maksuista](1449.md) `1449/1992`
+- [Työministeriön päätös merionnettomuudessa menetetystä henkilökohtaisesta omaisuudesta työntekijälle tulevan korvauksen perusteista annetun valtioneuvoston päätöksen 1 ja 2 §:ssä tarkoitetuista markkamääristä vuonna 1993](1450.md) `1450/1992`
+- [Asetus ylioppilastutkinnosta annetun asetuksen muuttamisesta](1451.md) `1451/1992`
+- [Asetus ylioppilastutkinnosta annetun asetuksen muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](1452.md) `1452/1992`
+- [Asetus ajoneuvojen käytöstä tiellä annetun asetuksen 57 §:n muuttamisesta](1453.md) `1453/1992`
+- [Valtioneuvoston päätös lakkaavan Konginkankaan kunnan alueen aluepoliittisen perusvyöhyke\- ja tukialueaseman säilyttämisestä ennallaan, kun kunta liitetään Äänekosken kaupunkiin](1454.md) `1454/1992`
+- [Sisäasiainministeriön päätös eräiden tilojen, tilanosien ja alueiden siirtämisestä Juvan, Sulkavan ja Ristiinan kunnista sekä Savonlinnan kaupungista Puumalan kuntaan](1455.md) `1455/1992`
+- [Valtiovarainministeriön päätös vuoden 1993 taidekilpailupalkintojen verovapaudesta](1456.md) `1456/1992`
+- [Valtiovarainministeriön päätös eräistä henkilöstöhallinnon maksullisista suoritteista](1457.md) `1457/1992`
+- [Verohallituksen päätös kotieläinten arvon määräämisessä noudatettavista perusteista](1458.md) `1458/1992`
+- [Luettelo veroäyrien hinnoista vuonna 1993](1459.md) `1459/1992`
+- [Asetus poliisin henkilörekistereistä annetun asetuksen 4 §:n muuttamisesta](1460.md) `1460/1992`
+- [Asetus poliisin valtakunnallisista pysyvistä atk\-henkilörekistereistä annetun asetuksen muuttamisesta](1461.md) `1461/1992`
+- [Kuntien valtionosuusasetus](1462.md) `1462/1992`
+- [Valtioneuvoston päätös kuntien yleisen valtionosuuden tasauskerrointen vahvistamisesta vuosille 1993\-2000 ja sen jälkeiseksi ajaksi](1463.md) `1463/1992`
+- [Valtioneuvoston päätös kihlakuntajaosta](1464.md) `1464/1992`
+- [Asetus maanmittaushallinnon suoritteista perittävistä maksuista annetun asetuksen kumoamisesta](1465.md) `1465/1992`
+- [Asetus maanmittausmaksusta annetun asetuksen 4 a §:n kumoamisesta](1466.md) `1466/1992`
+- [Asetus maatalouden tutkimuskeskuksesta annetun asetuksen muuttamisesta](1467.md) `1467/1992`
+- [Asetus maatalousyrittäjien luopumiskorvauksesta](1468.md) `1468/1992`
+- [Asetus maatalousyrittäjien eläkelaitoksen ohjesäännön sisältävän asetuksen 1 ja 10 §:n muuttamisesta](1469.md) `1469/1992`
+- [Asetus työntekijäin eläkeasetuksen 12 a ja 12 c §:n muuttamisesta](1470.md) `1470/1992`
+- [Asetus luopumiseläkeasetuksen 4 a ja 10 §:n muuttamisesta](1471.md) `1471/1992`
+- [Valtioneuvoston päätös maaseudun neuvontajärjestöjen valtionavusta](1472.md) `1472/1992`
+- [Valtioneuvoston päätös kesannoimispalkkioista vuonna 1993](1473.md) `1473/1992`
+- [Valtioneuvoston päätös kananmunien lisähinnasta annetun valtioneuvoston päätöksen 1 ja 8 §:n muuttamisesta](1474.md) `1474/1992`
+- [Valtioneuvoston päätös lihan tuotantotuesta annetun valtioneuvoston päätöksen 5 §:n muuttamisesta](1475.md) `1475/1992`
+- [Maa\- ja metsätalousministeriön päätös maaseutuelinkeinolaissa tarkoitetuista keskusrahalaitoksista annetun maa\- ja metsätalousministeriön päätöksen 1 §:n muuttamisesta](1476.md) `1476/1992`
+- [Maa\- ja metsätalousministeriön päätös kotimaisen rukiin ja vehnän jauhatusvelvollisuudesta](1477.md) `1477/1992`
+- [Maa\- ja metsätalousministeriön päätös eräiden maanmittauslaitoksen suoritteiden maksullisuudesta, maksuperusteista ja suoritteista perittävistä maksuista](1478.md) `1478/1992`
+- [Laki työvoimapoliittisesta aikuiskoulutuksesta annetun lain muuttamisesta](1479.md) `1479/1992`
+- [Asetus työvoimapoliittisesta aikuiskoulutuksesta annetun asetuksen muuttamisesta](1480.md) `1480/1992`
+- [Laki asuntotuotantolain muuttamisesta](1481.md) `1481/1992`
+- [Laki asuntojen perusparantamisesta annetun lain muuttamisesta](1482.md) `1482/1992`
+- [Laki vuokra\-asuntolainojen korkotuesta annetun lain muuttamisesta](1483.md) `1483/1992`
+- [Asetus asuntotuotantoasetuksen muuttamisesta](1484.md) `1484/1992`
+- [Valtioneuvoston päätös asuntolainan vuosimaksusta annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](1485.md) `1485/1992`
+- [Sisäasiainministeriön päätös eräiden tilojen, tilanosien ja alueiden siirtämisestä Joroisten ja Kangaslammin kunnista sekä Savonlinnan kaupungista Rantasalmen kuntaan](1486.md) `1486/1992`
+- [Laki erikoissairaanhoitolain muuttamisesta](1487.md) `1487/1992`
+- [Laki vakuutuspalvelujen vapaasta tarjonnasta](1488.md) `1488/1992`
+- [Laki eräistä vakuutusmaksuista suoritettavasta verosta annetun lain 2 §:n muuttamisesta](1489.md) `1489/1992`
+- [Laki palosuojelumaksusta annetun lain 1 §:n muuttamisesta](1490.md) `1490/1992`
+- [Laki vakuutustarkastuksen kustantamisesta annetun lain 1 §:n muuttamisesta](1491.md) `1491/1992`
+- [Valtioneuvoston päätös eläkkeensaajien asumistukilain mukaisista hoitomenoina hyväksyttävistä keskimääräisistä kustannuksista ja asumiskustannusten enimmäismääristä](1492.md) `1492/1992`
+- [Sosiaali\- ja terveysministeriön päätös lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 10 §:n 1 momentissa tarkoitetun maksuprosentin vahvistamisesta](1493.md) `1493/1992`
+- [Sosiaali\- ja terveysministeriön päätös maatalousyrittäjien eläkelain 10 §:ssä tarkoitetun perusprosentin ja yrittäjien eläkelain 9 §:ssä tarkoitetun maksuprosentin vahvistamisesta](1494.md) `1494/1992`
+- [Sosiaali\- ja terveysministeriön päätös eräiden eläkekassojen valvontaa koskevien tehtävien siirtämisestä eläketurvakeskukselle](1495.md) `1495/1992`
+- [Sosiaali\- ja terveysministeriön päätös työpaikkakassojen valvontaa koskevien tehtävien siirtämisestä kansaneläkelaitokselle](1496.md) `1496/1992`
+- [Asetus asunto\-olojen kehittämisrahaston lainanottovaltuuksista vuonna 1993](1497.md) `1497/1992`
+- [Asetus valtion liikelaitoksista annetun lain mukaisten liikelaitosten lainanottovaltuuksista vuonna 1993](1498.md) `1498/1992`
+- [Asetus taideteollisesta korkeakoulusta](1499.md) `1499/1992`
+- [Asetus eräiden korkeakoulujen opetuksesta ja opiskelijoista annetun asetuksen muuttamisesta](1500.md) `1500/1992`
+- [Asetus tapaturmavirastosta](1501.md) `1501/1992`
+- [Asetus toimenpiteistä tupakoinnin vähentämiseksi annetun asetuksen muuttamisesta](1502.md) `1502/1992`
+- [Valtioneuvoston päätös tupakkatuotteen haitta\-aineiden enimmäismääristä](1503.md) `1503/1992`
+- [Sosiaali\- ja terveysministeriön päätös tupakkatuotteiden vähittäismyyntipakkausten merkinnöistä sekä tervan ja nikotiinin mittausmenetelmistä](1504.md) `1504/1992`
+- [Laki julkisista hankinnoista](1505.md) `1505/1992`
+- [Laki kilpailuneuvostosta annetun lain muuttamisesta](1506.md) `1506/1992`
+- [Asetus liikenneministeriöstä](1507.md) `1507/1992`
+- [Asetus luotsausmaksuista annetun asetuksen kumoamisesta](1508.md) `1508/1992`
+- [Asetus helpotuksista Saimaan kanavan ja vesistöalueen luotsaus\- ja väylämaksuihin annetun asetuksen muuttamisesta](1509.md) `1509/1992`
+- [Asetus](1510.md) `1510/1992`
+- [Asetus merentutkimuslaitoksen maksuista annetun asetuksen kumoamisesta](1511.md) `1511/1992`
+- [Liikenneministeriön päätös merenkulkulaitoksen maksullisista suoritteista](1512.md) `1512/1992`
+- [Liikenneministeriön päätös merentutkimuslaitoksen maksullisista suoritteista](1513.md) `1513/1992`
+- [Asetus työvoima\-asiain piiri\- ja paikallishallinnosta annetun asetuksen muuttamisesta](1514.md) `1514/1992`
+- [Valtioneuvoston päätös alueellisen teknologiatoiminnan edistämiseen myönnettävien avustusten ehdoista annetun valtioneuvoston päätöksen muuttamisesta](1515.md) `1515/1992`
+- [Valtioneuvoston päätös turvavarastointiohjelmasta vuonna 1993](1516.md) `1516/1992`
+- [Valtioneuvoston päätös asumistuen määräytymisperusteista](1517.md) `1517/1992`
+- [Laki nuorisoasteen koulutuksen ja ammattikorkeakoulujen kokeiluista annetun lain muuttamisesta](1518.md) `1518/1992`
+- [Asetus ammattioppilaitoksista annetun asetuksen muuttamisesta](1519.md) `1519/1992`
+- [Asetus hotelli\- ja ravintolaoppilaitoksista annetun asetuksen muuttamisesta](1520.md) `1520/1992`
+- [Asetus kauppaoppilaitoksista annetun asetuksen muuttamisesta](1521.md) `1521/1992`
+- [Asetus koti\- ja laitostalousoppilaitoksista annetun asetuksen muuttamisesta](1522.md) `1522/1992`
+- [Asetus käsi\- ja taideteollisuusoppilaitoksista annetun asetuksen muuttamisesta](1523.md) `1523/1992`
+- [Asetus maatalousalan oppilaitoksista annetun asetuksen muuttamisesta](1524.md) `1524/1992`
+- [Asetus merenkulkuoppilaitoksista annetun asetuksen muuttamisesta](1525.md) `1525/1992`
+- [Asetus metsä\- ja puutalousoppilaitoksista annetun asetuksen muuttamisesta](1526.md) `1526/1992`
+- [Asetus sosiaalialan oppilaitoksista annetun asetuksen muuttamisesta](1527.md) `1527/1992`
+- [Asetus taide\- ja viestintäkulttuurioppilaitoksista annetun asetuksen muuttamisesta](1528.md) `1528/1992`
+- [Asetus teknillisistä oppilaitoksista annetun asetuksen muuttamisesta](1529.md) `1529/1992`
+- [Asetus terveydenhuolto\-oppilaitoksista annetun asetuksen muuttamisesta](1530.md) `1530/1992`
+- [Valtioneuvoston päätös aikuisopintotuesta](1531.md) `1531/1992`
+- [Maa\- ja metsätalousministeriön päätös maaseutuelinkeinopiireistä](1532.md) `1532/1992`
+- [Maa\- ja metsätalousministeriön päätös metsänviljelynineiston kaupasta](1533.md) `1533/1992`
+- [Kuluttajaviraston päätös kulutustavaran yksikköhinnan ilmoittamisesta markkinoinnissa annetun elinkeinohallituksenpäätöksen muuttamisesta](1534.md) `1534/1992`
+- [Tuloverolaki](1535.md) `1535/1992`
+- [Laki eräiden yleishyödyllisten yhteisöjen veronhuojennuksista annetun lain 1 ja 6 §:n muuttamisesta](1536.md) `1536/1992`
+- [Varallisuusverolaki](1537.md) `1537/1992`
+- [Vuoden 1993 veroasteikkolaki](1538.md) `1538/1992`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](1539.md) `1539/1992`
+- [Laki konserniavustuksesta verotuksessa annetun lain muuttamisesta](1540.md) `1540/1992`
+- [Laki maatilatalouden tuloverolain muuttamisesta](1541.md) `1541/1992`
+- [Laki yhtiöveron hyvityksestä annetun lain muuttamisesta](1542.md) `1542/1992`
+- [Laki merenkulun veronhuojennuksista annetun lain muuttamisesta](1543.md) `1543/1992`
+- [Laki rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun lain muuttamisesta](1544.md) `1544/1992`
+- [Laki veronhyvityslain 1 §:n muuttamisesta](1545.md) `1545/1992`
+- [Laki moottoriajoneuvoverosta annetun lain 5 §:n muuttamisesta](1546.md) `1546/1992`
+- [Laki veronkantolain muuttamisesta](1547.md) `1547/1992`
+- [Laki verotuslain muuttamisesta](1548.md) `1548/1992`
+- [Laki ennakkoperintälain muuttamisesta](1549.md) `1549/1992`
+- [Laki korkotulon lähdeverosta annetun lain muuttamisesta](1550.md) `1550/1992`
+- [Tuloveroasetus](1551.md) `1551/1992`
+- [Asetus ennakkoperintäasetuksen muuttamisesta](1552.md) `1552/1992`
+- [Valtioneuvoston päätös rakennusurakkasopimuksissa käytettävistä indeksiehdoista](1553.md) `1553/1992`
+- [Valtiovarainministeriön päätös liikeosakkeen verotusarvon perusteista](1554.md) `1554/1992`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain muuttamisesta](1555.md) `1555/1992`
+- [Laki kuntien valtionosuuslain muuttamisesta](1556.md) `1556/1992`
+- [Laki luottolaitosten varoista myönnettävistä eräistä korkotukilainoista annetun lain muuttamisesta](1557.md) `1557/1992`
+- [Laki sähköverosta](1558.md) `1558/1992`
+- [Valtiovarainministeriön päätös sähköverosta annetun lain täytäntöönpanosta](1559.md) `1559/1992`
+- [Kauppa\- ja teollisuusministeriön päätös nettosähköenergian määrittelystä ja laskemisesta](1560.md) `1560/1992`
+- [Laki polttoaineverosta annetun lain 2 ja 13 §:n muuttamisesta ja verotaulukon väliaikaisesta muuttamisesta](1561.md) `1561/1992`
+- [Asetus polttoaineverosta annetun asetuksen muuttamisesta](1562.md) `1562/1992`
+- [Asetus metsänparannusasetuksen muuttamisesta](1563.md) `1563/1992`
+- [Valtioneuvoston päätös teollisuustulli\- ja tuontimaksuetujen myöntämisestä](1564.md) `1564/1992`
+- [Valtioneuvoston päätös eräiden elintarvikkeiden tullien väliaikaisesta muuttamisesta](1565.md) `1565/1992`
+- [Valtioneuvoston päätös metsälannoitteista suoritettavan lannoiteveronpalautuksen ehdoista](1566.md) `1566/1992`
+- [Valtioneuvoston päätös tuen myöntämisestä ulkomaanliikenteessä käytettävälle kuljetuskalustolle annetun valtioneuvoston päätöksen 21 §:n muuttamisesta](1567.md) `1567/1992`
+- [Valtiovarainministeriön päätös maahan saapuvan matkustajan tuomisten tullittomuudesta sekä Utsjoen, Inarin tai Enontekiön kunnan asukkaan oikeudesta tuoda tullitta välttämättömiä kulutustavaroita](1568.md) `1568/1992`
+- [Valtiovarainministeriön päätös eräiden kulkuneuvojen muonituksesta](1569.md) `1569/1992`
+- [Laki EFTA\-valtioiden ja Israelin välillä tehdyn sopimuksen sekä siihen liittyvän Suomen ja Israelin välillä maataloustuotteiden kaupasta tehdyn pöytäkirjan eräiden määräysten hyväksymisestä](1570.md) `1570/1992`
+- [Asetus EFTA\-valtioiden ja Israelin välillä tehdyn sopimuksen sekä siihen liittyvän Suomen ja Israelin välillä maataloustuotteiden kaupasta tehdyn pöytäkirjan voimaansaattamisesta sekä niiden eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1571.md) `1571/1992`
+- [Laki kirjanpitolain muuttamisesta](1572.md) `1572/1992`
+- [Laki osakeyhtiölain 11 ja 12 luvun muuttamisesta](1573.md) `1573/1992`
+- [Laki osuuskuntalain muuttamisesta](1574.md) `1574/1992`
+- [Kirjanpitoasetus](1575.md) `1575/1992`
+- [Asetus harjoittelukouluasetuksen muuttamisesta](1576.md) `1576/1992`
+- [Liikenneministeriön päätös linja\-autoliikenteen henkilötaksoista](1577.md) `1577/1992`
+- [Laki velkojien maksunsaantijärjestyksestä](1578.md) `1578/1992`
+- [Laki kauppakaaren 10 luvun 1 §:n muuttamisesta](1579.md) `1579/1992`
+- [Laki kiinnityksestä kiinteään omaisuuteen annetun asetuksen 22 §:n muuttamisesta](1580.md) `1580/1992`
+- [Laki merilain muuttamisesta](1581.md) `1581/1992`
+- [Laki kiinnityksestä ilma\-aluksiin annetun lain 4 §:n muuttamisesta](1582.md) `1582/1992`
+- [Laki autokiinnityslain 5 §:n muuttamisesta](1583.md) `1583/1992`
+- [Laki eläkesäätiölain 23 §:n muuttamisesta](1584.md) `1584/1992`
+- [Laki konkurssisäännön muuttamisesta](1585.md) `1585/1992`
+- [Laki ulosottolain muuttamisesta](1586.md) `1586/1992`
+- [Laki palkkaturvalain muuttamisesta](1587.md) `1587/1992`
+- [Laki merimiesten palkkaturvalain muuttamisesta](1588.md) `1588/1992`
+- [Laki kiinteistöverolain muuttamisesta](1589.md) `1589/1992`
+- [Asetus ulosottoasetuksen muuttamisesta](1590.md) `1590/1992`
+- [Asetus palkkaturva\-asetuksen muuttamisesta](1591.md) `1591/1992`
+- [Asetus merimiesten palkkaturva\-asetuksen muuttamisesta](1592.md) `1592/1992`
+- [Asetus vähäisten jako\-osuuksien huomiotta jättämisestä konkurssissa](1593.md) `1593/1992`
+- [Asetus eräiden vuoden 1951 Ahvenanmaan itsehallintolain nojalla annettujen sopimusasetusten voimassaolon pidentämisestä](1594.md) `1594/1992`
+- [Asetus maatalousyrittäjien luopumiskorvausta koskevien asioiden hallinnosta Ahvenanmaan maakunnassa](1595.md) `1595/1992`
+- [Asetus eräiden lapsilisää koskevien tehtävien hoitamisesta Ahvenanmaan maakunnassa](1596.md) `1596/1992`
+- [Laki Euroopan talousalueen valtioiden kansalaisten tutkintotodistusten tunnustamisesta](1597.md) `1597/1992`
+- [Laki ulkomailla suoritettujen korkeakouluopintojen tuottamasta virkakelpoisuudesta annetun lain muuttamisesta](1598.md) `1598/1992`
+- [Laki valtion eläkelain muuttamisesta](1599.md) `1599/1992`
+- [Laki valtion eläkelain muuttamisesta](1600.md) `1600/1992`
+- [Laki evankelis\-luterilaisen kirkon eläkelain 2 ja 3 §:n muuttamisesta](1601.md) `1601/1992`
+- [Laki maataloustulolain eräiden säännösten soveltamisesta vuonna 1993](1602.md) `1602/1992`
+- [Asetus valtion virkamiesasetuksen muuttamisesta](1603.md) `1603/1992`
+- [Sosiaali\- ja terveysministeriön päätös lasten päivähoidosta perittävien maksujen perusteena olevasta 1\. korvausluokan tulorajasta](1604.md) `1604/1992`
+- [Laki oppisopimuskoulutuksesta](1605.md) `1605/1992`
+- [Asetus oppisopimuskoulutuksesta](1606.md) `1606/1992`
+- [Valtioneuvoston päätös pakolaisten ja turvapaikanhakijoiden vastaanotosta](1607.md) `1607/1992`
+- [Valtioneuvoston päätös pakolaisten ja turvapaikanhakijoiden opetuksen erityisjärjestelyistä ja ylimääräisen valtionavustuksen myöntämisestä](1608.md) `1608/1992`
+- [Opetusministeriön päätös ylimääräisen valtionavustuksen myöntämisestä maahanmuuttajien tukiopetukseen peruskoulussa ja lukiossa](1609.md) `1609/1992`
+- [Opetusministeriön päätös ylimääräisen valtionavustuksen myöntämisestä vieraskielisten oppilaiden äidinkielen opetukseen ja ulkomailta muuttaneiden suomalaisten ulkomailla hankkiman kielitaidon ylläpitämiseksi tähtäävään opetukseen peruskoulussa ja lukiossa](1610.md) `1610/1992`
+- [Laki ulkomaanliikenteen kauppa\-alusluettelosta annetun lain 1 §:n muuttamisesta](1611.md) `1611/1992`
+- [Laki ulkomaalaisten yritysostojen seurannasta](1612.md) `1612/1992`
+- [Laki ulkomailla asuvien ja ulkomaisten yhteisöjen kiinteistönhankintojen valvonnasta](1613.md) `1613/1992`
+- [Laki yhdistyslain 10 ja 11 §:n muuttamisesta](1614.md) `1614/1992`
+- [Laki säätiölain 6 ja 7 §:n muuttamisesta](1615.md) `1615/1992`
+- [Laki kaupparekisterilain muuttamisesta](1616.md) `1616/1992`
+- [Laki avoimesta yhtiöstä ja kommandiittiyhtiöstä annetun lain 8 luvun 4 §:n 4 momentin kumoamisesta](1617.md) `1617/1992`
+- [Laki osakeyhtiölain muuttamisesta](1618.md) `1618/1992`
+- [Laki asunto\-osakeyhtiölain 20 §:n muuttamisesta](1619.md) `1619/1992`
+- [Laki osuuskuntalain 27 §:n muuttamisesta](1620.md) `1620/1992`
+- [Laki taloudellista toimintaa harjoittavan yhdistyksen muuttamisesta osuuskunnaksi annetun lain 7 §:n kumoamisesta](1621.md) `1621/1992`
+- [Laki sijoitusrahastolain 8 §:n kumoamisesta](1622.md) `1622/1992`
+- [Laki kaupankäynnistä vakioiduilla optioilla ja termiineillä annetun lain 2 luvun 2 §:n muuttamisesta](1623.md) `1623/1992`
+- [Laki arvo\-osuustileistä annetun lain 3 §:n muuttamisesta](1624.md) `1624/1992`
+- [Laki kaivoslain muuttamisesta](1625.md) `1625/1992`
+- [Laki eläkesäätiölain 14 ja 15 §:n muuttamisesta](1626.md) `1626/1992`
+- [Laki valtioneuvoston oikeudesta luovuttaa toisen omaksi valtion omistamia kivennäislöydöksiä sekä niiden hyväksikäyttöä varten tarvittavia maa\-alueita annetun lain 1 §:n muuttamisesta](1627.md) `1627/1992`
+- [Laki vakuutusyhtiölain 3 a luvun kumoamisesta](1628.md) `1628/1992`
+- [Laki ulkomaalaisen oikeudesta omistaa suomalaisen luottolaitoksen osakkeita ja harjoittaa pankkitoimintaa Suomessa annetun lain eräiden säännösten kumoamisesta](1629.md) `1629/1992`
+- [Laki leimaverolain muuttamisesta](1630.md) `1630/1992`
+- [Asetus väylämaksuasetuksen muuttamisesta](1631.md) `1631/1992`
+- [Asetus kaupanvahvistaja\-asetuksen muuttamisesta](1632.md) `1632/1992`
+- [Laki asumistukilain muuttamisesta](1633.md) `1633/1992`
+- [Asuntosäästöpalkkiolaki](1634.md) `1634/1992`
+- [Laki oman asunnon hankintaan myönnettävien lainojen korkotuesta annetun lain muuttamisesta](1635.md) `1635/1992`
+- [Asuntosäästöpalkkioasetus](1636.md) `1636/1992`
+- [Asetus oman asunnon hankintaan myönnettävien lainojen korkotuesta annetun asetuksen 1 §:n muuttamisesta](1637.md) `1637/1992`
+- [Asetus asumistukiasetuksen 3 a ja 4 §:n muuttamisesta](1638.md) `1638/1992`
+- [Liikenneministeriön päätös matkailuautoista ja matkailukoreista annetun liikenneministeriön päätöksen muuttamisesta](1639.md) `1639/1992`
+- [Liikenneministeriön päätös vaurioituneen auton kunnostamisesta ja auton kokoamisesta osista annetun liikenneministeriön päätöksen muuttamisesta](1640.md) `1640/1992`
+- [Ympäristöministeriön päätös eräiden korkotukilainojen koroista](1641.md) `1641/1992`
+- [Laki tapaturmavakuutuslain muuttamisesta](1642.md) `1642/1992`
+- [Laki ammattitautilain muuttamisesta](1643.md) `1643/1992`
+- [Laki maatalousyrittäjien tapaturmavakuutuslain muuttamisesta](1644.md) `1644/1992`
+- [Laki tapaturma\- ja liikennevakuutuslaitoksilta vuodelta 1993 perittävästä maksusta](1645.md) `1645/1992`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 5 ja 6 §:n muuttamisesta](1646.md) `1646/1992`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain 45 §:n muuttamisesta](1647.md) `1647/1992`
+- [Asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen muuttamisesta](1648.md) `1648/1992`
+- [Laki vuodelta 1993 perittävästä palkansaajan työttömyysvakuutusmaksusta](1649.md) `1649/1992`
+- [Laki koulutus\- ja erorahastosta annetun lain muuttamisesta](1650.md) `1650/1992`
+- [Laki työttömyysturvalain muuttamisesta](1651.md) `1651/1992`
+- [Laki työttömyysturvalain muuttamisesta](1652.md) `1652/1992`
+- [Laki sairausvakuutuslain muuttamisesta](1653.md) `1653/1992`
+- [Laki kuntoutusrahalain 9 §:n muuttamisesta](1654.md) `1654/1992`
+- [Laki kuntoutusrahalain 14 §:n väliaikaisesta muuttamisesta annetun lain kumoamisesta](1655.md) `1655/1992`
+- [Sosiaali\- ja terveysministeriön päätös sairausvakuutuslain 5 a §:ssä tarkoitettujen eräiden reseptittä myytävien lääkkeiden korvaamisesta](1656.md) `1656/1992`
+- [Laki sosiaalihuoltolain väliaikaisesta muuttamisesta](1657.md) `1657/1992`
+- [Laki kansaneläkelain 66 ja 68 §:n muuttamisesta](1658.md) `1658/1992`
+- [Laki sairausvakuutuslain muuttamisesta](1659.md) `1659/1992`
+- [Laki kansaneläkelain väliaikaisesta muuttamisesta](1660.md) `1660/1992`
+- [Laki vuodelta 1993 suoritettavasta sairausvakuutusmaksusta](1661.md) `1661/1992`
+- [Laki eläketuloa saavan henkilön korotetusta sosiaaliturvamaksusta](1662.md) `1662/1992`
+- [Laki työnantajan lapsilisämaksun perimättä jättämisestä vuodelta 1993](1663.md) `1663/1992`
+- [Asetus työnantajan sosiaaliturvamaksusta annetun asetuksen 1 §:n muuttamisesta](1664.md) `1664/1992`
+- [Vakuutuskassa\-asetus](1665.md) `1665/1992`
+- [Asetus liikennevakuutusasetuksen 7 §:n muuttamisesta](1666.md) `1666/1992`
+- [Valtioneuvoston päätös eräiden eläkesäätiöiden valvontaa koskevien tehtävien siirtämisestä eläketurvakeskukselle](1667.md) `1667/1992`
+- [Laki maksuttomasta oikeudenkäynnistä annetun lain muuttamisesta](1668.md) `1668/1992`
+- [Laki työterveyshuoltopalvelujen lisäksi järjestettävien avosairaanhoidon lääkäripalvelujen väliaikaisesta vuosimaksusta](1669.md) `1669/1992`
+- [Asetus työterveyshuoltopalvelujen lisäksi järjestettävien avosairaanhoidon lääkäripalvelujen väliaikaisesta vuosimaksusta](1670.md) `1670/1992`
+- [Valtioneuvoston päätös työterveyshuollon ja muun terveydenhuollon kustannusten korvausperusteista annetun päätöksen 7 §:n muuttamisesta](1671.md) `1671/1992`
+- [Valtioneuvoston päätös terveystarkastuksista erityistä sairastumisen vaaraa aiheuttavissa töissä](1672.md) `1672/1992`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Evijärven ja Kortesjärven kuntien välillä](1673.md) `1673/1992`
+- [Sisäasiainministeriön päätös eräiden tilojen, tilanosan ja alueiden siirtämisestä Haukivuoren ja Hankasalmen kunnista sekä Pieksämäen maalaiskunnasta Kangasniemen kuntaan](1674.md) `1674/1992`
+- [Sosiaali\- ja terveysministeriön päätös tapaturmavakuutuslain 58 §:ssä säädetyn maksun suuruudesta](1675.md) `1675/1992`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin työeläkemaksun huomioon ottamisesta työttömyysturvalain perusteella maksettavissa päivärahoissa](1676.md) `1676/1992`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin työeläkemaksun huomioon ottamisesta tapaturmavakuutuslain perusteella maksettavissa päivärahoissa](1677.md) `1677/1992`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin työeläkemaksun huomioon ottamisesta sairausvakuutusjärjestelmän mukaisissa päivärahoissa](1678.md) `1678/1992`
+- [Laki eräistä opetus\- ja kulttuuritoimen vuoden 1993 rahoitusta koskevista järjestelyistä](1679.md) `1679/1992`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](1680.md) `1680/1992`
+- [Laki kuntien kulttuuritoiminnasta annetun lain väliaikaisesta muuttamisesta](1681.md) `1681/1992`
+- [Laki näkövammaisten kirjastosta annetun lain väliaikaisesta muuttamisesta](1682.md) `1682/1992`
+- [Laki kansanopistojen valtionavusta annetun lain 1 ja 2 a §:n muuttamisesta](1683.md) `1683/1992`
+- [Laki lastentarhanopettajaopistoista annetun lain 1 ja 2 §:n muuttamisesta](1684.md) `1684/1992`
+- [Laki musiikkioppilaitoslain 1 §:n muuttamisesta](1685.md) `1685/1992`
+- [Laki ammatillisista oppilaitoksista annetun lain 31 c §:n muuttamisesta ja 31 d §:n väliaikaisesta muuttamisesta](1686.md) `1686/1992`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 9 ja 40 §:n muuttamisesta](1687.md) `1687/1992`
+- [Laki ammatillisista aikuiskoulutuskeskuksista annetun lain 4 ja 16 §:n muuttamisesta](1688.md) `1688/1992`
+- [Laki kuulovammaisten ja näkövammaisten sekä liikuntavammaisten kouluista annetun lain 17 a §:n muuttamisesta](1689.md) `1689/1992`
+- [Laki ammatillisista oppilaitoksista annetun lain 4 ja 32 c §:n muuttamisesta](1690.md) `1690/1992`
+- [Sisäasiainministeriön päätös eräiden tilojen, tilanosien ja alueiden siirtämisestä Enonkosken, Punkaharjun ja Savonrannan kunnista sekä Savonlinnan kaupungista Kerimäen kuntaan](1691.md) `1691/1992`
+- [Opetusministeriön päätös peruskoulussa järjestettävän esiopetuksen perusteista annetun päätöksen muuttamisesta](1692.md) `1692/1992`
+- [Laki laintarkastuskunnasta annetun lain väliaikaisesta muuttamisesta](1693.md) `1693/1992`
+- [Laki Korkeimmasta oikeudesta annetun lain 2 §:n muuttamisesta](1694.md) `1694/1992`
+- [Laki Korkeimmasta hallinto\-oikeudesta annetun lain 2 §:n muuttamisesta](1695.md) `1695/1992`
+- [Laki työllisyyslain muuttamisesta](1696.md) `1696/1992`
+- [Valtioneuvoston oikeuskanslerin ohjesääntö](1697.md) `1697/1992`
+- [Asetus oikeuskanslerinvirastosta](1698.md) `1698/1992`
+- [Asetus vankeusrangaistuksen täytäntöönpanosta annetun asetuksen 16 §:n 2 momentin kumoamisesta](1699.md) `1699/1992`
+- [Asetus työttömyysturvan saamisen työvoimapoliittisista edellytyksistä annetun asetuksen 5 §:n muuttamisesta](1700.md) `1700/1992`
+- [Asetus Venäjän kanssa yhteistyöstä työpolitiikan alalla tehdyn sopimuksen voimaansaattamisesta](1701.md) `1701/1992`
+- [Asetus ajoneuvojen katsastuksesta](1702.md) `1702/1992`
+- [Asetus ajoneuvojen rekisteröinnistä](1703.md) `1703/1992`
+- [Valtioneuvoston päätös Autorekisterikeskuksen suoritteiden maksuista](1704.md) `1704/1992`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä](1705.md) `1705/1992`
+- [Verohallituksen päätös ennakonpidätyksen toimittamisvelvollisuudesta](1706.md) `1706/1992`
+- [Verohallituksen päätös vuonna 1993 verosta vapaaksi katsottavien matkakustannusten korvausten perusteista ja määristä](1707.md) `1707/1992`
+- [Verohallituksen päätös vuonna 1993 sovellettavien ennakonpidätysperusteiden voimaantulosta](1708.md) `1708/1992`
+- [Verohallituksen päätös edustusmenojen vähentämistä koskevan päätöksen \(6/72\) kumoamisesta](1709.md) `1709/1992`
+- [Valtiovarainministeriön päätös valtionhallinnon kehittämiskeskuksen suoritteiden maksullisuudesta](1710.md) `1710/1992`
+- [Valtiovarainministeriön päätös tilastokeskuksen suoritteiden maksullisuudesta](1711.md) `1711/1992`
+- [Maa\- ja metsätalousministeriön päätös maatalouden tutkimuskeskuksen suoritteiden maksullisuudesta ja maksuperusteista](1712.md) `1712/1992`
+- [Maa\- ja metsätalousministeriön päätös eräistä kasvintuotannon tarkastuskeskuksen maksullisista suoritteista](1713.md) `1713/1992`
+- [Liikenneministeriön päätös auton rakenteen muuttamisesta](1714.md) `1714/1992`
+- [Liikenneministeriön päätös erikoiskuljetuksista ja erikoiskuljetusajoneuvoista](1715.md) `1715/1992`

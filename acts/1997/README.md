@@ -1,0 +1,1425 @@
+# 1997 Statutes
+
+## Statutes
+
+- [Asetus kalastusasetuksen muuttamisesta](1.md) `1/1997`
+- [Asetus veronkantoasetuksen 12 §:n muuttamisesta](2.md) `2/1997`
+- [Asetus maataloustuotannon lopettamistuesta](3.md) `3/1997`
+- [Asetus maatalousyrittäjien eläkelaitoksen ohjesäännön sisältävän asetuksen 1 ja 10 §:nmuuttamisesta](4.md) `4/1997`
+- [Asetus maaseutuelinkeinoasetuksen muuttamisesta](5.md) `5/1997`
+- [Valtioneuvoston päätös Suomen tiedepalkinnosta](6.md) `6/1997`
+- [Kauppa\- ja teollisuusministeriön päätös teknologian kehittämiskeskuksen maksuista](7.md) `7/1997`
+- [Opetusministeriön päätös valtion elokuvatarkastamon maksullisista suoritteista](8.md) `8/1997`
+- [Laki työsuojeluhallinnosta annetun lain muuttamisesta](9.md) `9/1997`
+- [Laki työsuojelun valvonnasta ja muutoksenhausta työsuojeluasioissa annetun lain muuttamisesta](10.md) `10/1997`
+- [Laki työturvallisuuslain muuttamisesta](11.md) `11/1997`
+- [Laki kemikaalilain muuttamisesta](12.md) `12/1997`
+- [Laki työsuojelurahastolain 3 §:n muuttamisesta](13.md) `13/1997`
+- [Laki työehtosopimuslain 2 §:n muuttamisesta](14.md) `14/1997`
+- [Laki syöpäsairauden vaaraa aiheuttaville aineille ja menetelmille ammatissaan altistuvien rekisteristä annetun lain 3 ja 4 §:n muuttamisesta](15.md) `15/1997`
+- [Laki nuorista työntekijöistä annetun lain 19 §:n muuttamisesta](16.md) `16/1997`
+- [Laki merityöaikalain 20 §:n muuttamisesta](17.md) `17/1997`
+- [Laki merimiesten vuosilomalain 30 §:n muuttamisesta](18.md) `18/1997`
+- [Laki kunnallisen virkaehtosopimuslain 28 §:n muuttamisesta](19.md) `19/1997`
+- [Laki evankelis\-luterilaisen kirkon virkaehtosopimuksista annetun lain 21 §:n muuttamisesta](20.md) `20/1997`
+- [Maa\- ja metsätalousministeriön päätös vasikoiden aikaistetun teurastuksen palkkiosta](21.md) `21/1997`
+- [Lääninhallituslaki](22.md) `22/1997`
+- [Laki työvoima\- ja elinkeinokeskuksista](23.md) `23/1997`
+- [Laki kansanedustajain vaaleista annetun lain 1 ja 4 §:n muuttamisesta](24.md) `24/1997`
+- [Laki Suomesta Euroopan parlamenttiin valittavien edustajien vaaleista annetun lain 4 §:n muuttamisesta](25.md) `25/1997`
+- [Laki liikuntalain muuttamisesta](26.md) `26/1997`
+- [Laki nuorisotyölain 3 §:n muuttamisesta](27.md) `27/1997`
+- [Laki palkkaturvalain muuttamisesta](28.md) `28/1997`
+- [Laki maaseutuelinkeinolain muuttamisesta](29.md) `29/1997`
+- [Laki porotalouslain muuttamisesta](30.md) `30/1997`
+- [Laki luontaiselinkeinolain muuttamisesta](31.md) `31/1997`
+- [Laki kolttalain muuttamisesta](32.md) `32/1997`
+- [Laki maaseutuelinkeinojen valituslautakunnasta annetun lain 1 §:n muuttamisesta](33.md) `33/1997`
+- [Laki siemenkauppalain muuttamisesta](34.md) `34/1997`
+- [Laki kasvinsuojelulain muuttamisesta](35.md) `35/1997`
+- [Laki maa\- ja metsätalouden rakennepoliittisista toimenpiteistä annetun lain muuttamisesta](36.md) `36/1997`
+- [Laki emolehmä\- ja uuhipalkkioiden kiintiöistä annetun lain muuttamisesta](37.md) `37/1997`
+- [Laki Euroopan yhteisön maidon ja maitotuotteiden kiintiöjärjestelmän täytäntöönpanosta annetun lain muuttamisesta](38.md) `38/1997`
+- [Laki maaseutuelinkeinojen tukitehtäviä hoidettaessa noudatettavasta menettelystä annetun lain muuttamisesta](39.md) `39/1997`
+- [Laki kalastuslain muuttamisesta](40.md) `40/1997`
+- [Laki satovahinkojen korvaamisesta annetun lain 5 §:n muuttamisesta](41.md) `41/1997`
+- [Laki maatalousyrittäjien luopumiskorvauksesta annetun lain muuttamisesta](42.md) `42/1997`
+- [Laki oikeudesta hankkia maa\- ja metsätalousmaata annetun lain muuttamisesta](43.md) `43/1997`
+- [Laki pakkohuutokaupalla myytävien kiinteistöjen lunastamisesta valtiolle annetun lain muuttamisesta](44.md) `44/1997`
+- [Laki yritystuesta annetun lain muuttamisesta](45.md) `45/1997`
+- [Laki Kera Oy \-nimisestä osakeyhtiöstä annetun lain 12 §:n muuttamisesta](46.md) `46/1997`
+- [Laki kuljetusten alueellisesta tukemisesta annetun lain 13 §:n muuttamisesta](47.md) `47/1997`
+- [Laki lukioiden ja ammatillisten oppilaitosten opiskelijoiden koulumatkatuesta](48.md) `48/1997`
+- [Laki opintotukilain muuttamisesta](49.md) `49/1997`
+- [Laki kansanterveyslain 4 §:n muuttamisesta](50.md) `50/1997`
+- [Asetus raha\-arpa\- ja veikkauspelien ylijäämän käyttämisestä annetun asetuksen 2 §:n väliaikaisesta muuttamisesta](51.md) `51/1997`
+- [Valtioneuvoston päätös turvavarastointiohjelmasta vuonna 1997](52.md) `52/1997`
+- [Valtioneuvoston päätös ampumaratojen aiheuttaman melutason ohjearvoista](53.md) `53/1997`
+- [Kauppa\- ja teollisuusministeriön päätös kaksikäyttötuotteiden vientilisensioinnista](54.md) `54/1997`
+- [Maa\- ja metsätalousministeriön päätös maatalouden ympäristötuen erityistuen hakemisesta ja hakuajasta](55.md) `55/1997`
+- [Laki työsopimuslain 2 §:n väliaikaisesta muuttamisesta](56.md) `56/1997`
+- [Laki työturvallisuuslain 3 §:n muuttamisesta](57.md) `57/1997`
+- [Laki opintovapaalain 4 §:n muuttamisesta](58.md) `58/1997`
+- [Asetus rajavartiolaitoksesta annetun asetuksen muuttamisesta](59.md) `59/1997`
+- [Valtiovarainministeriön päätös kuntien ja seurakuntien vuoden 1993 yhteisövero\-osuuksista](60.md) `60/1997`
+- [Valtiovarainministeriön päätös kuntien ja seurakuntien yhteisövero\-osuuksista](61.md) `61/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](62.md) `62/1997`
+- [Laki yksityishenkilön velkajärjestelystä annetun lain muuttamisesta](63.md) `63/1997`
+- [Asetus yksityishenkilön velkajärjestelystä annetun asetuksen muuttamisesta](64.md) `64/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](65.md) `65/1997`
+- [Asetus kansanterveyslaitoksesta annetun asetuksen muuttamisesta](66.md) `66/1997`
+- [Asetus kansanterveyden neuvottelukunnasta](67.md) `67/1997`
+- [Asetus aavikoitumisen estämiseksi vakavasta kuivuudesta ja/tai aavikoitumisesta kärsivissä maissa, erityisesti Afrikassa, tehdyn Yhdistyneiden Kansakuntien yleissopimuksen voimaansaattamisesta](68.md) `68/1997`
+- [Asetus oikeusrekisterikeskuksesta annetun asetuksen 1 §:n muuttamisesta](69.md) `69/1997`
+- [Asetus sakkorangaistuksen täytäntöönpanosta annetun asetuksen muuttamisesta](70.md) `70/1997`
+- [Asetus vuonna 1997 kertyvien työnantajan sosiaaliturvamaksujen jakautumasta](71.md) `71/1997`
+- [Valtioneuvoston päätös nuorille viljelijöille myönnettävästä käynnistystuesta annetun valtioneuvoston päätöksen 25 §:n muuttamisesta](72.md) `72/1997`
+- [Valtiovarainministeriön ilmoitus eräistä ministeriön päätöksistä](73.md) `73/1997`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä](74.md) `74/1997`
+- [Verohallituksen päätös liikkeen\- ja ammatinharjoittajan työmatkasta aiheutuneen elantokustannusten lisäyksen vähentämisestä vuodelta 1997 toimitettavassa verotuksessa](75.md) `75/1997`
+- [Asetus vaarallisten tai merta pilaavien aineiden aluskuljetuksiin liittyvistäilmoitusvelvollisuuksista annetun asetuksen 2 ja 3 §:n muuttamisesta](76.md) `76/1997`
+- [Valtioneuvoston päätös kehitysalueesta, sen tukialueista ja rakennemuutosalueesta annetun valtioneuvostonpäätöksen 4 §:n muuttamisesta](77.md) `77/1997`
+- [Sisäasiainministeriön päätös kehitysalueesta, sen tukialueista ja rakennemuutosalueesta annetun valtioneuvostonpäätöksen 4 §:n muuttamisesta annetun valtioneuvoston päätöksen voimaantulosta](78.md) `78/1997`
+- [Oikeusministeriön päätös käräjäoikeuksien kanslioiden ja istuntopaikkojen sijainnista annetun oikeusministeriönpäätöksen 1 §:n muuttamisesta](79.md) `79/1997`
+- [Liikenneministeriön päätös teletoimintalain 10 a §:n soveltamisesta kiinteiden televerkkojen tilaajayhteyksiin](80.md) `80/1997`
+- [Maa\- ja metsätalousministeriön päätös eräistä maa\- ja puutarhatalouden kansallisen tuen hakuajoista sekä eläinmäärienilmoittamisesta vuonna 1997](81.md) `81/1997`
+- [Maa\- ja metsätalousministeriön päätös eläimistä saatavien elintarvikkeiden ja muiden tuotteiden eläinlääkinnällisistärajatarkastuksista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](82.md) `82/1997`
+- [Sosiaali\- ja terveysministeriön päätös perusteista, joiden mukaan eläkelaitokset vastaavat työntekijäin eläkelain 12 §:n 1 momentin 4 kohdassa tarkoitetuista kuluista](83.md) `83/1997`
+- [Asetus väestötietoasetuksen 2 §:n muuttamisesta](84.md) `84/1997`
+- [Valtioneuvoston päätös valtionavustuksia koskeviksi yleismääräyksiksi annetun valtioneuvoston päätöksen 21 §:n muuttamisesta](85.md) `85/1997`
+- [Valtioneuvoston päätös vuokra\-asuntojen korkotukilainojen yleisistä ehdoista annetun valtioneuvoston päätöksen 18 §:n muuttamisesta](86.md) `86/1997`
+- [Valtioneuvoston päätös asumisoikeustalojen korkotukilainojen yleisistä ehdoista annetun valtioneuvostonpäätöksen 14 §:n muuttamisesta](87.md) `87/1997`
+- [Kauppa\- ja teollisuusministeriön päätös eräiden elintarvikerasvojen pakkausmerkinnöistä annetun kauppa\- ja teollisuusministeriön päätöksen kumoamisesta](88.md) `88/1997`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeiden pakkausmerkinnöistä annetun kauppa\- ja teollisuusministeriönpäätöksen eräiden määräysten muuttamisesta](89.md) `89/1997`
+- [Liikenneministeriön päätös kuljettajantutkintomaksuista](90.md) `90/1997`
+- [Laki luvanvaraisesta henkilöliikenteestä tiellä annetun lain muuttamisesta](91.md) `91/1997`
+- [Asetus moottoriajoneuvojen varusteiden ja osien hyväksymisehtojen yhdenmukaistamista jahyväksymisten vastavuoroista tunnustamista koskevan sopimuksen muutostenvoimaansaattamisesta](92.md) `92/1997`
+- [Asetus työvoima\- ja elinkeinokeskuksista](93.md) `93/1997`
+- [Valtioneuvoston päätös asuinrakennusten ja asuntojen korjaustoimintaan myönnettävien avustusten jakoperusteista](94.md) `94/1997`
+- [Liikenneministeriön päätös tavarankuljetuksesta takseissa](95.md) `95/1997`
+- [Valtiovarainministeriön päätös valtiovarainministeriön suoritteiden maksullisuudesta annetun valtiovarainministeriön päätöksen muuttamisesta](96.md) `96/1997`
+- [Laki onnettomuuksien tutkinnasta annetun lain muuttamisesta](97.md) `97/1997`
+- [Laki merilain 18 luvun muuttamisesta](98.md) `98/1997`
+- [Asetus onnettomuuksien tutkinnasta annetun asetuksen muuttamisesta](99.md) `99/1997`
+- [Valtioneuvoston päätös apteekkimaksusta annetun lain 2 §:n 1 momentissa mainittujen liikevaihtoryhmiensekä liikevaihdon alarajojen kohdilla olevien apteekkimaksun markkamäärientarkistamisesta](100.md) `100/1997`
+- [Valtioneuvoston päätös öljyjätehuollosta](101.md) `101/1997`
+- [Kauppa\- ja teollisuusministeriön päätös polydekeenin käytöstä elintarvikelisäaineena](102.md) `102/1997`
+- [Sosiaali\- ja terveysministeriön päätös lääkärikoulutuksen ja tieteellisen tutkimustoiminnan korvauksen perusteista vuonna 1997](103.md) `103/1997`
+- [Opetusministeriön päätös maahanmuuttajien peruskouluopetukseen valmistavasta opetuksesta](104.md) `104/1997`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös mehiläisten esikotelomädän vuoksi perustettavasta rajoitusalueesta](105.md) `105/1997`
+- [Asetus työympäristötyön erityisansio\- ja ansiomitalista](106.md) `106/1997`
+- [Asetus Ison\-Britannian ja Pohjois\-Irlannin yhdistyneen kuningaskunnan kanssa rikoksen johdosta tapahtuvaa luovuttamista koskevan eurooppalaisen yleissopimuksen soveltamisalan laajentamisesta tehdyn sopimuksen voimaansaattamisesta](107.md) `107/1997`
+- [Asetus puolustustarvikkeiden maastaviennistä ja kauttakuljetuksesta](108.md) `108/1997`
+- [Asetus valtion ydinjätehuoltorahastosta annetun asetuksen 5 §:n muuttamisesta](109.md) `109/1997`
+- [Valtioneuvoston päätös valtion ydinjätehuoltorahaston varoista annettavien lainojen yleisistä ehdoista annetunvaltioneuvoston päätöksen 1 ja 2 §:n muuttamisesta](110.md) `110/1997`
+- [Asetus työllisyysperusteisista kunnallisista peruskorjausavustuksista](111.md) `111/1997`
+- [Valtioneuvoston päätös hammashoidon amalgaamipitoisista jätevesistä ja jätteistä](112.md) `112/1997`
+- [Valtioneuvoston päätös emolehmistä vuodelta 1996 maksettavasta kansallisesta lisäpalkkiosta](113.md) `113/1997`
+- [Maa\- ja metsätalousministeriön päätös naudanlihantuottajille vuonna 1997 teurastetuista naudoista maksettavasta lisätuesta ja sen hakemisesta](114.md) `114/1997`
+- [Laki eräistä kuvataiteen tekijöille suoritettavista apurahoista](115.md) `115/1997`
+- [Asetus kuvataiteen apurahalautakunnasta](116.md) `116/1997`
+- [Asetus peruskouluasetuksen muuttamisesta](117.md) `117/1997`
+- [Asetus Lapin yliopistosta annetun asetuksen 21 §:n muuttamisesta](118.md) `118/1997`
+- [Asetus arava\-asetuksen 25 ja 28 §:n muuttamisesta](119.md) `119/1997`
+- [Lääninhallitusasetus](120.md) `120/1997`
+- [Valtioneuvoston päätös läänien alueista sekä lääninhallitusten toimipaikoista ja nimistä](121.md) `121/1997`
+- [Valtioneuvoston päätös työvoima\- ja elinkeinokeskusten toimialueista ja toimipaikoista](122.md) `122/1997`
+- [Liikenneministeriön päätös ajoneuvohallintokeskuksen maksuista annetun liikenneministeriön päätöksen 3 §:n muuttamisesta](123.md) `123/1997`
+- [Vesiliikenneasetus](124.md) `124/1997`
+- [Asetus veneliikenneasetuksen 1 luvun kumoamisesta](125.md) `125/1997`
+- [Asetus valtiovarainministeriöstä annetun asetuksen muuttamisesta](126.md) `126/1997`
+- [Valtioneuvoston päätös vuoden 1996 satovahinkojen viljelmäkohtaisista korvausosuuksista](127.md) `127/1997`
+- [Valtioneuvoston päätös maatiloille myönnettävästä investointituesta annetun valtioneuvoston päätöksen 25 §:nmuuttamisesta](128.md) `128/1997`
+- [Ulkoasiainministeriön päätös ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella suoritettavista korvauksista annetun ulkoasiainministeriön päätöksen kumoamisesta](129.md) `129/1997`
+- [Ulkoasiainministeriön ilmoitus ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetusta ulkoasiainministeriön päätöksestä](130.md) `130/1997`
+- [Ulkoasiainministeriön päätös edustossa ratkaistavista asioista](131.md) `131/1997`
+- [Liikenneministeriön päätös teleliittymien toimitusehdoista annetun liikenneministeriön päätöksen17 §:n muuttamisesta](132.md) `132/1997`
+- [Koltta\-asetus](133.md) `133/1997`
+- [Asetus avioliittoasetuksen muuttamisesta](134.md) `134/1997`
+- [Asetus nimiasetuksen 1 §:n muuttamisesta](135.md) `135/1997`
+- [Asetus puolustusvoimien sotilaspuvuista ja virkapuvuista](136.md) `136/1997`
+- [Asetus Ahvenanmaan maakuntaa koskevista poikkeuksista arvonlisävero\- ja valmisteverolainsäädäntöön annetun lain täytäntöönpanosta](137.md) `137/1997`
+- [Asetus ulkomaanliikenteessä olevissa matkustaja\-aluksissa myytävien tavaroiden verottamisesta eräissä tapauksissa annetun lain täytäntöönpanosta ja soveltamisesta annetun asetuksen kumoamisesta](138.md) `138/1997`
+- [Asetus turvapaikan hakijoiden vastaanottoasemista ja \-keskuksista annetun asetuksen muuttamisesta](139.md) `139/1997`
+- [Valtioneuvoston päätös pakolaisten ja turvapaikanhakijoiden vastaanotosta annetun valtioneuvoston päätöksen 21 §:n muuttamisesta](140.md) `140/1997`
+- [Valtioneuvoston päätös opetus\- ja kirjastotoimen perustamishankkeiden yksikköhinnoista annetun valtioneuvoston päätöksen muuttamisesta](141.md) `141/1997`
+- [Valtioneuvoston päätös dieselöljyn ja kevyen polttoöljyn rikkipitoisuudesta](142.md) `142/1997`
+- [Ympäristöministeriön päätös toimivallan siirtämisestä Porvoon kaupungille perusparannuslainan myöntämistä koskevissa asioissa](143.md) `143/1997`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikelisäaineiden puhtausvaatimuksista ja eräistä määritysmenetelmistä](144.md) `144/1997`
+- [Laki osakeyhtiölain muuttamisesta](145.md) `145/1997`
+- [Laki arvopaperimarkkinalain muuttamisesta](146.md) `146/1997`
+- [Laki kaupparekisterilain muuttamisesta](147.md) `147/1997`
+- [Laki toiminimilain 7 ja 12 §:n muuttamisesta](148.md) `148/1997`
+- [Laki yrityskiinnityslain muuttamisesta](149.md) `149/1997`
+- [Laki asunto\-osakeyhtiölain muuttamisesta](150.md) `150/1997`
+- [Laki avoimesta yhtiöstä ja kommandiittiyhtiöstä annetun lain 8 luvun 3 ja 4 §:n muuttamisesta](151.md) `151/1997`
+- [Laki osuuskuntalain muuttamisesta](152.md) `152/1997`
+- [Laki arvo\-osuustileistä annetun lain 26 §:n muuttamisesta](153.md) `153/1997`
+- [Laki kaupankäynnistä vakioiduilla optioilla ja termiineillä annetun lain 2 luvun 5 §:n muuttamisesta](154.md) `154/1997`
+- [Laki valtionenemmistöisten osakeyhtiöiden toiminnan tarkastuksesta annetun lain 2 §:n muuttamisesta](155.md) `155/1997`
+- [Laki sijoituspalveluyrityksistä annetun lain 3 §:n muuttamisesta](156.md) `156/1997`
+- [Asetus kaupparekisteriasetuksen muuttamisesta](157.md) `157/1997`
+- [Asetus yrityskiinnitysasetuksen muuttamisesta](158.md) `158/1997`
+- [Laki puutavaranmittauslain muuttamisesta](159.md) `159/1997`
+- [Luonnonsuojeluasetus](160.md) `160/1997`
+- [Asetus merenkulun turvallisuuskoulutuskeskuksesta](161.md) `161/1997`
+- [Asetus opetusministeriöstä](162.md) `162/1997`
+- [Asetus työneuvostosta](163.md) `163/1997`
+- [Maa\- ja metsätalousministeriön päätös lihasta ja lihatuotteista Euroopan unionin sisämarkkinakaupassa](164.md) `164/1997`
+- [Asetus omistusasuntolainojen korkotuesta annetun asetuksen muuttamisesta](165.md) `165/1997`
+- [Asetus omaishoidon tuesta annetun asetuksen 6 ja 7 §:n muuttamisesta](166.md) `166/1997`
+- [Liikenneministeriön päätös vaurioituneen ajoneuvon kunnostamisesta ja ajoneuvon kokoamisesta osista](167.md) `167/1997`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavasta hunajasta](168.md) `168/1997`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavista linnunmunista](169.md) `169/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](170.md) `170/1997`
+- [Laki ulosottolain muuttamisesta](171.md) `171/1997`
+- [Asetus sotilasvammalain eräiden säännösten soveltamisesta annetun asetuksen3 §:n muuttamisesta](172.md) `172/1997`
+- [Asetus kehitysvammaisten erityishuollosta annetun asetuksen muuttamisesta](173.md) `173/1997`
+- [Asetus valtioneuvoston ohjesäännön 24 ja 25 §:n muuttamisesta](174.md) `174/1997`
+- [Asetus rekisterihallintoasetuksen 10 ja 11 §:n muuttamisesta](175.md) `175/1997`
+- [Asetus työnantajan sosiaaliturvamaksusta annetun asetuksen muuttamisesta](176.md) `176/1997`
+- [Asetus alusten katsastuksista annetun asetuksen muuttamisesta](177.md) `177/1997`
+- [Valtiovarainministeriön päätös eräiden verojen maksupaikoista ja tiedonsiirtokorvauksista annetun valtiovarain\-ministeriön päätöksen 6 §:n muuttamisesta](178.md) `178/1997`
+- [Maa\- ja metsätalousministeriön päätös kalataloutta koskevista rekistereistä annetun maa\- ja metsätalousministeriön päätöksenmuuttamisesta](179.md) `179/1997`
+- [Maa\- ja metsätalousministeriön päätös eräiden kolmansista maista tuotavien tavaroiden eläintautivaatimuksista](180.md) `180/1997`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös eräiden eläinten ja tavaroiden eläintautivaatimuksista Euroopan yhteisön sisämarkkinoilla annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen muuttamisesta](181.md) `181/1997`
+- [Maa\- ja metsätalousministeriön päätös lihaa sisältävän ruokajätteen käytöstä eräiden kotieläinten ruokinnassa annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](182.md) `182/1997`
+- [Valtioneuvoston päätös LEADER II \-yhteisöaloiteohjelman toimeenpanosta](183.md) `183/1997`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](184.md) `184/1997`
+- [Verohallituksen päätös yleisestä tiedonantovelvollisuudesta](185.md) `185/1997`
+- [Valtioneuvoston päätös asuinrakennusten ja asuntojen korjaustoimintaan myönnettävien avustusten jakoperusteista annetun valtioneuvoston päätöksen 29 §:n muuttamisesta](186.md) `186/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](187.md) `187/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](188.md) `188/1997`
+- [Verohallituksen päätös arvonlisäverottomasta matkustajamyynnistä Ahvenanmaan maakunnassa](189.md) `189/1997`
+- [Valtioneuvoston päätös eräistä maaseudun koulutusavustuksista](190.md) `190/1997`
+- [Liikenneministeriön päätös ajokorttiasetuksen soveltamisesta annetun liikenneministeriön päätöksen 12 §:nmuuttamisesta](191.md) `191/1997`
+- [Puolustusministeriön päätös puolustustarvikkeiden maastaviennistä ja kauttakuljetuksesta annetun asetuksentäytäntöönpanosta](192.md) `192/1997`
+- [Kauppa\- ja teollisuusministeriön ilmoitus eräistä patentti\- ja rekisterihallituksen päätöksistä](193.md) `193/1997`
+- [Laki rikosvahinkojen korvaamisesta valtion varoista annetun lain muuttamisesta](194.md) `194/1997`
+- [Asetus Latvian kanssa yhteistyöstä rikosten torjunnassa tehdyn sopimuksenvoimaansaattamisesta](195.md) `195/1997`
+- [Asetus opetuksen, tutkimuksen ja kulttuurin tietoyhteiskuntaneuvottelukunnasta](196.md) `196/1997`
+- [Asetus yksityisistä teistä annetun asetuksen muuttamisesta](197.md) `197/1997`
+- [Laki Suomen Hallitusmuodon muuttamisesta](198.md) `198/1997`
+- [Laki yleisistä syyttäjistä](199.md) `199/1997`
+- [Laki kihlakunnansyyttäjästä annetun lain 1 ja 4 §:n muuttamisesta](200.md) `200/1997`
+- [Laki Ahvenanmaan maakunnan maakunnansyyttäjänvirastosta annetun lain muuttamisesta](201.md) `201/1997`
+- [Laki sotilasoikeudenkäyntilain 4 ja 23 §:n muuttamisesta](202.md) `202/1997`
+- [Laki esitutkintalain 14 ja 44 §:n muuttamisesta](203.md) `203/1997`
+- [Laki eräiden asiakirjain lähettämisestä tuomioistuimille annetun lain 1 §:n muuttamisesta](204.md) `204/1997`
+- [Laki rikoslain 1 luvun 12 ja 13 §:n muuttamisesta](205.md) `205/1997`
+- [Laki Suomen ja muiden pohjoismaiden välisestä yhteistoiminnasta rikosasioissa annettujen tuomioiden täytäntöönpanossa annetun lain 25 §:n muuttamisesta](206.md) `206/1997`
+- [Laki kansainvälisestä yhteistoiminnasta eräiden rikosoikeudellisten seuraamusten täytäntöönpanossa annetun lain 3 §:n muuttamisesta](207.md) `207/1997`
+- [Laki aavalta mereltä tapahtuvan väkijuomien salakuljetuksen ehkäisemisestä annetun lain 3 §:n muuttamisesta](208.md) `208/1997`
+- [Asetus valtakunnansyyttäjänvirastosta](209.md) `209/1997`
+- [Asetus vaarallisten aineiden ilmakuljetuksesta](210.md) `210/1997`
+- [Kauppa\- ja teollisuusministeriön päätös sähköverkkotoiminnan tunnuslukujen julkaisemisesta ja ilmoittamisesta sähkö\-markkinaviranomaiselle annetun kauppa\- ja teollisuusministeriön päätöksenliitteiden muuttamisesta](211.md) `211/1997`
+- [Valtiovarainministeriön päätös luottolaitoksen markkinariskien kattamiseksi vaadittavasta omien varojen määrästä](212.md) `212/1997`
+- [Verohallituksen päätös ennakonpidätysvelvollisuudesta vapauttamisesta](213.md) `213/1997`
+- [Valtioneuvoston päätös eräistä maa\- ja puutarhataloustuottajille vuodelta 1997 maksettavista tuista annetun valtioneuvoston päätöksen muuttamisesta](214.md) `214/1997`
+- [Valtioneuvoston päätös maa\- ja puutarhatalouden harjoittajille maksettavasta pohjoisesta tuesta annetunvaltioneuvoston päätöksen muuttamisesta](215.md) `215/1997`
+- [Valtioneuvoston päätös maataloustuotannon lopettamistuesta annetun lain mukaisista hehtaari\-, kotieläin\- ja maidon viitemääräkorvauksista](216.md) `216/1997`
+- [Valtioneuvoston päätös avustuksista taloudellisissa vaikeuksissa oleville vuokrataloille](217.md) `217/1997`
+- [Valtiovarainministeriön päätös eräiden metallirahojen lakkauttamisesta laillisina maksuvälineinä](218.md) `218/1997`
+- [Maa\- ja metsätalousministeriön päätös meijerimaidon viitemäärien siirtämisestä](219.md) `219/1997`
+- [Maa\- ja metsätalousministeriön päätös erityisviitemäärän myöntämisestä eräille maidon ja maitotuotteiden tuottajille annetun päätöksen 5 §:n muuttamisesta](220.md) `220/1997`
+- [Asetus valtioneuvoston ohjesäännön muuttamisesta](221.md) `221/1997`
+- [Asetus nimiasetuksen 6 §:n muuttamisesta](222.md) `222/1997`
+- [Asetus sosiaali\- ja terveysministeriöstä annetun asetuksen 5 ja 8 §:n muuttamisesta](223.md) `223/1997`
+- [Maa\- ja metsätalousministeriön päätös metsälain soveltamisesta](224.md) `224/1997`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös mehiläisten esikotelomädän vuoksi Ruskon kuntaan perustettavasta rajoitusalueesta](225.md) `225/1997`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös mehiläisten esikotelomädän vuoksi Sysmän kuntaan perustettavasta rajoitusalueesta](226.md) `226/1997`
+- [Asetus työministeriöstä annetun asetuksen muuttamisesta](227.md) `227/1997`
+- [Asetus Suomen elokuva\-arkistosta](228.md) `228/1997`
+- [Sisäasiainministeriön poliisimääräys eräistä liikkumis\- ja oleskelukielloista](229.md) `229/1997`
+- [Sisäasiainministeriön poliisimääräys liikkumis\- ja oleskelukiellosta Oulun kaupungin Koskikeskuksen kaupunginosassa sijaitsevan Merikosken voimalaitoksen läheisyydessä](230.md) `230/1997`
+- [Maa\- ja metsätalousministeriön päätös eräiden kolmansista maista tuotavien eläinten sekä niiden alkioiden ja sukusolujen eläintautivaatimuksista](231.md) `231/1997`
+- [Laki alueiden kehittämisestä annetun lain muuttamisesta](232.md) `232/1997`
+- [Asetus INTERREG\-yhteisöaloitteen toimeenpanosta](233.md) `233/1997`
+- [Laki vuokratalolainojen lainaehtojen muuttamisesta annetun lain muuttamisesta](234.md) `234/1997`
+- [Asetus asuntotuotantoasetuksen 29 §:n mukaisten korkojen muuttamisesta annetun asetuksen 2 §:n muuttamisesta](235.md) `235/1997`
+- [Asetus vuokra\-asuntojen omaksilunastamisesta annetun asetuksen 5 §:n mukaisten korkojen muuttamisesta annetun asetuksen 2 §:n muuttamisesta](236.md) `236/1997`
+- [Asetus asuntotuotantoasetuksen 28 §:n mukaisten korkojen muuttamisesta](237.md) `237/1997`
+- [Valtioneuvoston päätös eräiden asuntolainojen ja perusparannuslainojen koroista](238.md) `238/1997`
+- [Asetus kuluttajavalituslautakunnasta annetun asetuksen 4 §:n muuttamisesta](239.md) `239/1997`
+- [Asetus puutavaranmittausasetuksen muuttamisesta](240.md) `240/1997`
+- [Liikenneministeriön päätös Telehallintokeskuksen maksuista annetun liikenneministeriön päätöksen5 §:n muuttamisesta](241.md) `241/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](242.md) `242/1997`
+- [Laki patenttilain muuttamisesta](243.md) `243/1997`
+- [Laki patentti\- ja rekisterihallituksen valitusasioiden käsittelystä annetun lain 4 §:nmuuttamisesta](244.md) `244/1997`
+- [Laki maanpuolustukselle merkityksellisistä keksinnöistä annetun lain 5 §:n muuttamisesta](245.md) `245/1997`
+- [Asetus patenttiasetuksen muuttamisesta](246.md) `246/1997`
+- [Kauppa\- ja teollisuusministeriön päätös patentti\- ja rekisterihallituksen maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön päätöksen liitteenä olevan maksutaulukon muuttamisesta](247.md) `247/1997`
+- [Laki kansanterveyslain muuttamisesta](248.md) `248/1997`
+- [Asetus elokuvien sekä video\- ja muiden kuvaohjelmien tarkastusmaksujen tarkistamisesta](249.md) `249/1997`
+- [Asetus työterveyslaitoksen toiminnasta ja rahoituksesta annetun asetuksen muuttamisesta](250.md) `250/1997`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](251.md) `251/1997`
+- [Eduskunnan päätös Eduskunnan kirjaston ohjesäännön muuttamisesta](252.md) `252/1997`
+- [Sosiaali\- ja terveysministeriön päätös sosiaali\- ja terveysministeriön ja työsuojelun piirihallinnon maksullisista suoritteista](253.md) `253/1997`
+- [Maa\- ja metsätalousministeriön päätös eräiden kolmansista maista tuotavien tavaroiden eläintautivaatimuksista annetun maa\-ja metsätalousministeriön päätöksen muuttamisesta](254.md) `254/1997`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös eräiden tuotantoeläinten sekä niiden alkioiden ja sukusolujen eläintautivaatimuksista Euroopan yhteisön sisämarkkinoilla annetun maa\- ja metsätalousministeriöneläinlääkintä\- ja elintarvikeosaston päätöksen muuttamisesta](255.md) `255/1997`
+- [Asetus kemikaaliasetuksen muuttamisesta](256.md) `256/1997`
+- [Asetus merimiesasiain neuvottelukunnasta annetun asetuksen 2 ja 3 §:n muuttamisesta](257.md) `257/1997`
+- [Asetus merimiehen lääkärintarkastuksista annetun asetuksen muuttamisesta](258.md) `258/1997`
+- [Asetus panostaja\-asetuksen muuttamisesta](259.md) `259/1997`
+- [Asetus työsuojelun valvonnasta annetun asetuksen muuttamisesta](260.md) `260/1997`
+- [Asetus työsuojeluhallinnosta annetun asetuksen muuttamisesta](261.md) `261/1997`
+- [Asetus työsuojeluneuvottelukunnasta annetun asetuksen muuttamisesta](262.md) `262/1997`
+- [Asetus metsäalan palkkatilastolautakunnasta annetun asetuksen muuttamisesta](263.md) `263/1997`
+- [Asetus virka\- tai työsopimussuhdetta vailla olevien työsuojelun valvonnasta annetun asetuksen 9 §:n muuttamisesta](264.md) `264/1997`
+- [Asetus nuorten työntekijäin suojelusta annetun asetuksen 3 ja 4 §:n muuttamisesta](265.md) `265/1997`
+- [Asetus laivaväen ruoanpidosta aluksissa annetun asetuksen muuttamisesta](266.md) `266/1997`
+- [Asetus laivaväen asuintiloista aluksella annetun asetuksen 38 §:n muuttamisesta](267.md) `267/1997`
+- [Asetus räjähdeasetuksen 28 §:n muuttamisesta](268.md) `268/1997`
+- [Asetus jäteasetuksen 18 ja 25 §:n muuttamisesta](269.md) `269/1997`
+- [Asetus viranomaisten tehtävistä ja yhteistyöstä olemassa olevien aineiden ja vaarojen arvioinnissa ja valvonnassa annetun asetuksen 2 §:n muuttamisesta](270.md) `270/1997`
+- [Asetus suojauskemikaaliasetuksen 9 §:n muuttamisesta](271.md) `271/1997`
+- [Asetus torjunta\-aineasetuksen 16 ja 18 §:n muuttamisesta](272.md) `272/1997`
+- [Valtioneuvoston päätös kemian työsuojeluneuvottelukunnasta annetun valtioneuvoston päätöksen muuttamisesta](273.md) `273/1997`
+- [Sosiaali\- ja terveysministeriön päätös alkoholijuoman tai väkiviinan valmistusluvan, maahantuontiluvan ja tukkumyyntiluvan myöntämiseen tarvittavista edellytyksistä ja hakijalta vaadittavasta luotettavuudesta](274.md) `274/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](275.md) `275/1997`
+- [Laki vähittäiskaupan ja eräiden työliikkeiden liikeajasta](276.md) `276/1997`
+- [Asetus vähittäiskaupan ja eräiden työliikkeiden liikeajasta](277.md) `277/1997`
+- [Kauppa\- ja teollisuusministeriön päätös vähittäiskaupan ja eräiden työliikkeiden liikeajasta annetun lain mukaisistasunnuntaiaukiolopäivistä](278.md) `278/1997`
+- [Asetus kioski\- ja siihen verrattavasta kaupasta sekä automaattikaupasta annetun asetuksen 1 §:n muuttamisesta](279.md) `279/1997`
+- [Asetus merilain 1 §:n soveltamisesta annetun asetuksen muuttamisesta](280.md) `280/1997`
+- [Asetus maaseutuelinkeinoasetuksen muuttamisesta](281.md) `281/1997`
+- [Asetus maaseutuelinkeinoasetuksen muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](282.md) `282/1997`
+- [Asetus maaseutuelinkeinoasetuksen muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](283.md) `283/1997`
+- [Valtioneuvoston päätös meijerimaidon viitemäärien sopeuttamisesta maakiintiöön](284.md) `284/1997`
+- [Valtioneuvoston päätös eräistä maa\- ja puutarhataloustuottajille vuodelta 1997 maksettavista tuista annetun valtioneuvoston päätöksen muuttamisesta](285.md) `285/1997`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavista munavalmisteista](286.md) `286/1997`
+- [Laki lelujen turvallisuudesta](287.md) `287/1997`
+- [Asetus Suomen ulkomaanedustustojen sijainnista annetun asetuksen muuttamisesta](288.md) `288/1997`
+- [Asetus maaseutuelinkeinojen valituslautakunnasta annetun asetuksen muuttamisesta](289.md) `289/1997`
+- [Asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen 8 ja 12 §:nmuuttamisesta](290.md) `290/1997`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](291.md) `291/1997`
+- [Asetus opintotukiasetuksen muuttamisesta](292.md) `292/1997`
+- [Asetus lukioiden ja ammatillisten oppilaitosten opiskelijoiden koulumatkatuesta](293.md) `293/1997`
+- [Asetus jäteasetuksen 1 §:n muuttamisesta](294.md) `294/1997`
+- [Valtioneuvoston päätös rakennusjätteistä](295.md) `295/1997`
+- [Valtiovarainministeriön päätös ilmoittamisvelvollisuudesta annetun päätöksen muuttamisesta](296.md) `296/1997`
+- [Maa\- ja metsätalousministeriön päätös pysyvän luonnonhaitan korvaamista koskevan tuen ja maatalouden ympäristötuen perustuen hakuajoista](297.md) `297/1997`
+- [Ulkoasiainministeriön ilmoitus ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](298.md) `298/1997`
+- [Ulkoasiainministeriön ilmoitus ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](299.md) `299/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](300.md) `300/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](301.md) `301/1997`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksenmuuttamisesta](302.md) `302/1997`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavista kalastustuotteista ja niistä saaduista valmisteista ja jalosteista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](303.md) `303/1997`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavasta maidosta ja maitopohjaisista tuotteista](304.md) `304/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](305.md) `305/1997`
+- [Laki alkoholilain 3 ja 60 §:n muuttamisesta](306.md) `306/1997`
+- [Laki alkoholilain 93 §:n muuttamisesta](307.md) `307/1997`
+- [Laki alkoholi\- ja alkoholijuomaverosta annetun lain 3 §:n muuttamisesta](308.md) `308/1997`
+- [Asetus Viron kanssa tehdyn viisumivapaussopimuksen voimaansaattamisesta](309.md) `309/1997`
+- [Asetus lemmikkieläinten suojelua koskevan eurooppalaisen yleissopimuksen voimaansaattamisesta annetun asetuksen 2 §:n muuttamisesta](310.md) `310/1997`
+- [Asetus valtion virkaehtosopimusasetuksen muuttamisesta](311.md) `311/1997`
+- [Ympäristöministeriön päätös eräiden kasvilajien rauhoitusta koskevista poikkeuksista](312.md) `312/1997`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](313.md) `313/1997`
+- [Laki eräistä henkilöstön asemaa koskevista järjestelyistä kunnallistettaessa Helsingin yliopiston lääketieteellisen tiedekunnan eräitä palvelutoimintoja](314.md) `314/1997`
+- [Asetus humanistisista ja luonnontieteellisistä tutkinnoista annetun asetuksenliitteen muuttamisesta](315.md) `315/1997`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeissa ja alkoholijuomissa käytettävistä muista lisäaineista kuin makeutusaineista ja väreistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](316.md) `316/1997`
+- [Oikeusministeriön päätös yleisen asianajajayhdistyksen sääntöjen vahvistamisesta annetun oikeusministeriönpäätöksen muuttamisesta](317.md) `317/1997`
+- [Maa\- ja metsätalousministeriön päätös eräiden kolmansista maista tuotavien tavaroiden eläintautivaatimuksista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](318.md) `318/1997`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosastonpäätös mehiläisten esikotelomädän vuoksi Jämsän kuntaan perustettavasta rajoitusalueesta](319.md) `319/1997`
+- [Maa\- ja metsätalousministeriön päätös Suomen lipun alla purjehtivien alusten harjoittaman lohen pyynnin keskeyttämisestä](320.md) `320/1997`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](321.md) `321/1997`
+- [Laki varallisuusverolain 34 §:n muuttamisesta](322.md) `322/1997`
+- [Asetus Latvian kanssa laittomasti maahan saapuneiden ja maassa oleskelevien henkilöiden takaisinottamisesta tehdyn sopimuksen ja pöytäkirjan voimaansaattamisesta](323.md) `323/1997`
+- [Ajoneuvoveroasetus](324.md) `324/1997`
+- [Asetus ulkomaisten alusten tarkastuksesta Suomessa](325.md) `325/1997`
+- [Valtioneuvoston päätös mehiläistaloudelle vuodelta 1997 maksettavasta kansallisesta tuesta](326.md) `326/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](327.md) `327/1997`
+- [Laki kansaneläkelain muuttamisesta](328.md) `328/1997`
+- [Laki sairausvakuutuslain muuttamisesta](329.md) `329/1997`
+- [Laki työttömyysturvalain muuttamisesta](330.md) `330/1997`
+- [Laki työmarkkinatuesta annetun lain muuttamisesta](331.md) `331/1997`
+- [Laki työvoimapoliittisesta aikuiskoulutuksesta annetun lain muuttamisesta](332.md) `332/1997`
+- [Laki kansaneläkelaitoksen järjestämästä kuntoutuksesta annetun lain muuttamisesta](333.md) `333/1997`
+- [Laki kuntoutusrahalain muuttamisesta](334.md) `334/1997`
+- [Laki lapsilisälain muuttamisesta](335.md) `335/1997`
+- [Laki lasten kotihoidon tuesta annetun lain muuttamisesta](336.md) `336/1997`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta annetun lain muuttamisesta](337.md) `337/1997`
+- [Laki äitiysavustuslain muuttamisesta](338.md) `338/1997`
+- [Laki sotilasavustuslain muuttamisesta](339.md) `339/1997`
+- [Laki asumistukilain muuttamisesta](340.md) `340/1997`
+- [Laki opintotukilain muuttamisesta](341.md) `341/1997`
+- [Laki asumiseen perustuvan sosiaaliturvalainsäädännön soveltamisesta annetun lainmuuttamisesta](342.md) `342/1997`
+- [Asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen muuttamisesta](343.md) `343/1997`
+- [Kauppa\- ja teollisuusministeriön päätös nestekaasuasetuksen soveltamisesta](344.md) `344/1997`
+- [Verohallituksen päätös yhteisöjen ja yhteisetuuksien verotuksen päättymisajankohdasta](345.md) `345/1997`
+- [Laki kemiallisten aseiden kehittämisen, tuotannon, varastoinnin ja käytön kieltämistä sekä niiden hävittämistä koskevan yleissopimuksen eräiden määräysten hyväksymisestä ja sen soveltamisesta](346.md) `346/1997`
+- [Laki kemiallisten aseiden kehittämisen, tuotannon, varastoinnin ja käytön kieltämistä sekä niiden hävittämistä koskevan yleissopimuksen eräiden määräysten hyväksymisestä ja sen soveltamisesta annetun lain muuttamisesta](347.md) `347/1997`
+- [Asetus kemiallisten aseiden kehittämisen, tuotannon, varastoinnin ja käytön kieltämistä sekä niiden hävittämistä koskevan yleissopimuksen voimaansaattamisesta sekä yleissopimuksen eräiden määräysten hyväksymisestä ja sen soveltamisesta annetun lain voimaantulosta](348.md) `348/1997`
+- [Laki rikoslain muuttamisesta annetun lain kumoamisesta](349.md) `349/1997`
+- [Asetus rikoslain muuttamisesta annetun lain kumoamisesta annetun lain voimaantulosta](350.md) `350/1997`
+- [Laki rikoslain muuttamisesta](351.md) `351/1997`
+- [Asetus rikoslain muuttamisesta annetun lain voimaantulosta](352.md) `352/1997`
+- [Asetus rikoslain 1 luvun 7 §:n soveltamisesta annetun asetuksen muuttamisesta](353.md) `353/1997`
+- [Laki työeläkevakuutusyhtiöistä](354.md) `354/1997`
+- [Laki vakuutusyhtiölain muuttamisesta](355.md) `355/1997`
+- [Laki työntekijäin eläkelain 3 ja 12 a §:n muuttamisesta](356.md) `356/1997`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 11 §:n muuttamisesta](357.md) `357/1997`
+- [Laki eräiden työsuhteessa olevien taiteilijoiden ja toimittajieneläkelain 9 §:n muuttamisesta](358.md) `358/1997`
+- [Laki maatalousyrittäjien eläkelain 17 §:n muuttamisesta](359.md) `359/1997`
+- [Laki merimieseläkelain 56 §:n muuttamisesta](360.md) `360/1997`
+- [Asetus vakuutusyhtiön toimintapääomaan luettavista eristä annetun asetuksen1 §:n muuttamisesta](361.md) `361/1997`
+- [Asetus lakisääteistä eläkevakuutusliikettä harjoittavan vakuutusyhtiön vakavaraisuusrajan laskemisesta annetun asetuksen 2 §:n muuttamisesta](362.md) `362/1997`
+- [Asetus ensivakuutusliikettä harjoittavan vakuutusyhtiön vastuuvelan katteesta annetunasetuksen 2 §:n muuttamisesta](363.md) `363/1997`
+- [Laki Imatran Voima \-konsernille kantaverkko\-omaisuuden myynnistä myönnettävistäveronhuojennuksista](364.md) `364/1997`
+- [Laki tekijänoikeuslain 47 §:n muuttamisesta](365.md) `365/1997`
+- [Laki luopumiseläkelain muuttamisesta](366.md) `366/1997`
+- [Laki maatalousyrittäjien luopumiskorvauksesta annetun lain 25 §:n muuttamisesta](367.md) `367/1997`
+- [Asetus julkishallinnon ja \-talouden tilintarkastajan tutkinnosta sekä JHTT\-yhteisöstä annetun asetuksen muuttamisesta](368.md) `368/1997`
+- [Asetus työttömyysturvalain täytäntöönpanosta annetun asetuksen 21 §:n 4 momentin kumoamisesta](369.md) `369/1997`
+- [Asetus opintotukiasetuksen 21 §:n kumoamisesta](370.md) `370/1997`
+- [Kauppa\- ja teollisuusministeriön päätös nitraatin enimmäispitoisuudesta eräissä kasviksissa](371.md) `371/1997`
+- [Valtiovarainministeriön päätös vuoden 1997 kiinteistöveron eräpäivistä](372.md) `372/1997`
+- [Valtiovarainministeriön päätös veron ja metsänhoitomaksun eräpäivistä vuodelta 1996](373.md) `373/1997`
+- [Maa\- ja metsätalousministeriön päätös puutavaran virallisen mittauksen perustoimitusmaksuista ja valvontamittauksesta perittävästä maksusta](374.md) `374/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](375.md) `375/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](376.md) `376/1997`
+- [Laki Kuntien takauskeskuksesta annetun lain muuttamisesta](377.md) `377/1997`
+- [Laki ulosottolain muuttamisesta](378.md) `378/1997`
+- [Asetus ulosottoasetuksen muuttamisesta](379.md) `379/1997`
+- [Asetus oikeustieteellisistä tutkinnoista annetun asetuksen 21 §:n muuttamisesta](380.md) `380/1997`
+- [Asetus Kuvataideakatemian tutkinnoista](381.md) `381/1997`
+- [Asetus määrättyjen luoteis\-Euroopan ja Itämeren satamien välillä tapahtuvassa tai näihin satamiin tai näistä satamista suuntautuvassa säännöllisessä kansainvälisessä reittiliikenteessä liikennöivien ro\-ro matkustaja\-alusten vakavuuden erityisvaatimuksista tehdyn sopimuksen voimaansaattamisesta](382.md) `382/1997`
+- [Laki mielenterveyslain muuttamisesta](383.md) `383/1997`
+- [Laki valtion mielisairaaloista annetun lain 3 §:n muuttamisesta](384.md) `384/1997`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](385.md) `385/1997`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta annetun lain voimaantulosäännöksen 8 momentin kumoamisesta](386.md) `386/1997`
+- [Laki valtionosuutta saavista kansanopistoista annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](387.md) `387/1997`
+- [Laki valtionosuutta saavista liikunnan koulutuskeskuksista annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](388.md) `388/1997`
+- [Laki opintokeskuslain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](389.md) `389/1997`
+- [Laki taidenäyttelyiden valtiontakuusta annetun lain 4 §:n muuttamisesta](390.md) `390/1997`
+- [Asetus taidenäyttelyiden valtiontakuusta annetun asetuksen 4 §:n muuttamisesta](391.md) `391/1997`
+- [Asetus alkoholijuomista ja väkiviinasta annetun asetuksen 14 §:n muuttamisesta](392.md) `392/1997`
+- [Valtioneuvoston päätös maa\- ja puutarhataloustuottajille vuodelta 1997 maksettavista tuista annetun valtioneuvoston päätöksen 4 §:n muuttamisesta](393.md) `393/1997`
+- [Kauppa\- ja teollisuusministeriön päätös Elintarvikeviraston maksullisista suoritteista](394.md) `394/1997`
+- [Maa\- ja metsätalousministeriön päätös munivaa kanaa kohti vuodelta 1996 maksettavasta tuesta](395.md) `395/1997`
+- [Telemarkkinalaki](396.md) `396/1997`
+- [Laki telehallinnosta annetun lain muuttamisesta](397.md) `397/1997`
+- [Suomen Pankin päätös Suomen Pankin vuoden 1993 kahdenkymmenen markan setelinLitt\. A \-mallin selitelmästä](398.md) `398/1997`
+- [Laki Arabiemiraattien liiton kanssa tehdyn sijoitusten edistämistä ja molemminpuolista suojaamista koskevan sopimuksen eräiden määräysten hyväksymisestä](399.md) `399/1997`
+- [Asetus Arabiemiraattien liiton kanssa tehdyn sijoitusten edistämistä ja molemminpuolista suojaamista koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](400.md) `400/1997`
+- [Asetus Pohjoismaiden välillä pääsystä korkeampaan koulutukseen tehdyn sopimuksenvoimaansaattamisesta](401.md) `401/1997`
+- [Valtioneuvoston päätös vaikeista sairauksista ja niiden hoitoon käytettävistä kliinisistä ravintovalmisteista, joihin suoritetaan sairausvakuutuslain mukaista korvausta](402.md) `402/1997`
+- [Maa\- ja metsätalousministeriön päätös nurmikasvien siementuotannon kansallisen tuen suuruudesta vuodelta 1996](403.md) `403/1997`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain muuttamisesta](404.md) `404/1997`
+- [Asetus maatilatalouden kehittämisrahastosta annetun asetuksen muuttamisesta](405.md) `405/1997`
+- [Valtioneuvoston päätös kasvinviljelyn kansallisesta tuesta vuodelta 1997](406.md) `406/1997`
+- [Valtioneuvoston päätös hedelmän\- ja vihannestuottajaorganisaatioiden ja niiden liittojen hyväksymisestä](407.md) `407/1997`
+- [Valtioneuvoston päätös maatalousyrittäjien opintorahasta](408.md) `408/1997`
+- [Valtioneuvoston päätös Raha\-automaattiyhdistyksen tuotosta myönnettävistä avustuksista annetunvaltioneuvoston päätöksen 9 ja 10 §:n muuttamisesta](409.md) `409/1997`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Janakkalan ja Lopen kuntien välillä](410.md) `410/1997`
+- [Laki Pohjoismaiden välillä tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](411.md) `411/1997`
+- [Asetus Pohjoismaiden välillä tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](412.md) `412/1997`
+- [Laki autoverolain muuttamisesta](413.md) `413/1997`
+- [Laki tieliikennelain muuttamisesta](414.md) `414/1997`
+- [Asetus tieliikenneasetuksen muuttamisesta](415.md) `415/1997`
+- [Valtiovarainministeriön päätös Paavo Nurmen ja urheilun juhlarahasta](416.md) `416/1997`
+- [Liikenneministeriön päätös Telehallintokeskuksen maksuista annetun liikenneministeriön päätöksen muuttamisesta](417.md) `417/1997`
+- [Laki ulkomailla suoritettujen korkeakouluopintojen tuottamasta virkakelpoisuudesta annetun lain muuttamisesta](418.md) `418/1997`
+- [Laki Euroopan talousalueen valtioiden kansalaisten koulutuksen ja ammatillisen harjoittelun tunnustamisesta annetun lain muuttamisesta](419.md) `419/1997`
+- [Laki vapaaehtoisista huutokaupoista annetun asetuksen ja lähempiä määräyksiähuutokaupantoimittajan\-ammatin harjoittamisesta kaupungissa sisältävän julistuksenkumoamisesta](420.md) `420/1997`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain 3 §:n muuttamisesta](421.md) `421/1997`
+- [Laki eräistä yhteisomistussuhteista annetun lain 11 §:n muuttamisesta](422.md) `422/1997`
+- [Asetus telehallinnosta](423.md) `423/1997`
+- [Telemarkkina\-asetus](424.md) `424/1997`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä annetun päätöksen muuttamisesta](425.md) `425/1997`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavasta lihasta ja lihatuotteista annetun maa\- jametsätalousministeriön päätöksen muuttamisesta](426.md) `426/1997`
+- [Kauppa\- ja teollisuusministeriön päätös uuselintarvikkeista ja elintarvikkeiden uusista ainesosista annetun Euroopan parlamentin ja neuvoston asetuksen \(EY\) N:o 258/97 voimaantulosta](427.md) `427/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä määräyksistä](428.md) `428/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](429.md) `429/1997`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](430.md) `430/1997`
+- [Asetus valtion mielisairaaloista](431.md) `431/1997`
+- [Asetus terveydenhuollon oikeusturvakeskuksesta annetun asetuksen 12 §:n muuttamisesta](432.md) `432/1997`
+- [Asetus Keminmaan kunnassa toimitettavissa uusissa kunnallisvaaleissa ennakkoäänestyspaikkoina olevista postikonttoreista](433.md) `433/1997`
+- [Valtioneuvoston päätös ETY\-tyyppihyväksyttyjen traktoreiden käytöstä vaarallisissa olosuhteissa](434.md) `434/1997`
+- [Valtioneuvoston päätös omistusasuntojen korkotukilainojen yleisistä ehdoista annetun valtioneuvoston päätöksen 14 §:n muuttamisesta](435.md) `435/1997`
+- [Valtioneuvoston päätös asumisoikeustalojen korkotukilainojen yleisistä ehdoista annetun valtioneuvostonpäätöksen muuttamisesta](436.md) `436/1997`
+- [Valtioneuvoston päätös vuokra\-asuntojen korkotukilainojen yleisistä ehdoista annetun valtioneuvostonpäätöksen muuttamisesta](437.md) `437/1997`
+- [Kauppa\- ja teollisuusministeriön päätös kosmeettisista valmisteista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](438.md) `438/1997`
+- [Valtioneuvoston päätös valtionosuuden perusteena olevien opetus\- ja kirjastotoimen yksikköhintojenkeskimääräisistä markkamääristä vuonna 1997](439.md) `439/1997`
+- [Maa\- ja metsätalousministeriön päätös hedelmän\- ja vihannestuottajaorganisaatioiden toimintasuunnitelmasta, \-ohjelmasta ja \-rahastosta sekä yhteisön taloudellisesta tuesta](440.md) `440/1997`
+- [Maa\- ja metsätalousministeriön päätös peltokasvien tukijärjestelmän soveltamisesta ja siihen liittyvästä kesannoimisestavuonna 1997](441.md) `441/1997`
+- [Maa\- ja metsätalousministeriön päätös peltokasvien tukijärjestelmästä ja siihen liittyvästä kesannoimisesta yhdennetynhallinto\- ja valvontajärjestelmän mukaisesti vuonna 1997](442.md) `442/1997`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](443.md) `443/1997`
+- [Asetus puolustustaloudellisesta suunnittelukunnasta annetun asetuksen muuttamisesta](444.md) `444/1997`
+- [Asetus raittiustyöasetuksen 6 ja 16 §:n muuttamisesta](445.md) `445/1997`
+- [Maa\- ja metsätalousministeriön päätös metsänviljelyaineiston kaupasta annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](446.md) `446/1997`
+- [Laki valtion rataverkosta, radanpidosta ja rataverkon käytöstä annetun lain muuttamisesta](447.md) `447/1997`
+- [Laki yhteistoiminnasta valtion virastoissa ja laitoksissa annetun lain muuttamisesta](448.md) `448/1997`
+- [Asetus ajoneuvojen rekisteröinnistä annetun asetuksen 10 ja 41 §:n muuttamisesta](449.md) `449/1997`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta](450.md) `450/1997`
+- [Asetus sähkömarkkina\-asetuksen muuttamisesta](451.md) `451/1997`
+- [Maa\- ja metsätalousministeriön päätös rypsin ja rapsin koesiemenen rekisteröinnistä](452.md) `452/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](453.md) `453/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](454.md) `454/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](455.md) `455/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](456.md) `456/1997`
+- [Laki opintotukilain muuttamisesta](457.md) `457/1997`
+- [Laki markkinatuomioistuimesta annetun lain muuttamisesta](458.md) `458/1997`
+- [Laki työsopimuslain 28 §:n muuttamisesta](459.md) `459/1997`
+- [Laki vuosilomalain muuttamisesta](460.md) `460/1997`
+- [Laki työturvallisuuslain 22 §:n muuttamisesta](461.md) `461/1997`
+- [Laki tapaturmavakuutuslain 16 a §:n muuttamisesta](462.md) `462/1997`
+- [Laki maa\-aineslain muuttamisesta](463.md) `463/1997`
+- [Laki rakennuslain muuttamisesta](464.md) `464/1997`
+- [Asetus maa\-ainesasetuksen muuttamisesta](465.md) `465/1997`
+- [Asetus rakennusasetuksen 146 c §:n muuttamisesta](466.md) `466/1997`
+- [Liikenneministeriön päätös Telehallintokeskuksen maksuista annetun liikenneministeriön päätöksen muuttamisesta](467.md) `467/1997`
+- [Liikenneministeriön päätös kiinteiden televerkkojen tilaajayhteyksien vuokraamisesta teleyritykselle](468.md) `468/1997`
+- [Liikenneministeriön päätös teletoiminnan tunnistamistietojen luovuttamisesta ja tallentamisesta](469.md) `469/1997`
+- [Liikenneministeriön päätös etuoikeustoiminteesta](470.md) `470/1997`
+- [Liikenneministeriön päätös eräistä Euroopan yhteisöjen lainsäädännössä tarkoitetuista telepalveluista](471.md) `471/1997`
+- [Liikenneministeriön päätös teletoiminnan toimintojen eriyttämisestä](472.md) `472/1997`
+- [Liikenneministeriön päätös toimiluvista ja teletoimintailmoituksista](473.md) `473/1997`
+- [Liikenneministeriön päätös kaapelikanavien ja antennipaikkojen vuokraamisesta](474.md) `474/1997`
+- [Liikenneministeriön päätös telemarkkinalain soveltamisalasta ja teletoiminnan ilmoitusvelvollisuudesta](475.md) `475/1997`
+- [Liikenneministeriön päätös eräistä Euroopan yhteisöjen lainsäädännössä tarkoitetuista telemaksuista](476.md) `476/1997`
+- [Liikenneministeriön päätös eräistä Euroopan yhteisöjen lainsäädännössä tarkoitetuista kiinteiden yhteyksientarjonnasta](477.md) `477/1997`
+- [Liikenneministeriön päätös telepalveluiden toimitusehtojen yleisistä perusteista](478.md) `478/1997`
+- [Liikenneministeriön päätös teleyritysten televerkkojen ja \-palvelujen yhteenliittämisestä](479.md) `479/1997`
+- [Sisäasiainministeriön päätös poliisin suoritteiden maksullisuudesta](480.md) `480/1997`
+- [Merenkulkuhallituksen ilmoitus eräistä päätöksistä](481.md) `481/1997`
+- [Asetus Suomen hallituksen ja entisen Jugoslavian alueella tehtyjä rikoksia käsittelevän kansainvälisen sotarikostuomioistuimen välillä sotarikostuomioistuimen tuomioiden täytäntöönpanosta tehdyn sopimuksen voimaansaattamisesta](482.md) `482/1997`
+- [Asetus lastenruoka\-asetuksen kumoamisesta](483.md) `483/1997`
+- [Asetus äidinmaidonkorvikkeesta ja vierotusvalmisteesta annetun asetuksen kumoamisesta](484.md) `484/1997`
+- [Kauppa\- ja teollisuusministeriön päätös äidinmaidonkorvikkeesta ja vierotusvalmisteesta](485.md) `485/1997`
+- [Laki alkoholilain muuttamisesta](486.md) `486/1997`
+- [Asetus poliisin hallinnosta annetun asetuksen 30 §:n muuttamisesta](487.md) `487/1997`
+- [Valtioneuvoston päätös maaseudun kehittämistoimenpiteiden tukemisesta Etelä\-Suomen rannikkoseudun, Kaakkois\-Suomen ja Karjalan INTERREG\-yhteisöaloiteohjelmissa](488.md) `488/1997`
+- [Valtioneuvoston päätös maatalouden ympäristötuesta annetun valtioneuvoston päätöksen 25 §:nmuuttamisesta](489.md) `489/1997`
+- [Laki säteilylain 72 §:n kumoamisesta](490.md) `490/1997`
+- [Laki eläintautilain 15 §:n muuttamisesta](491.md) `491/1997`
+- [Laki luonnonsuojelulain muuttamisesta](492.md) `492/1997`
+- [Laki kalastuslain muuttamisesta](493.md) `493/1997`
+- [Laki kalastuksesta Tornionjoen kalastusalueella](494.md) `494/1997`
+- [Asetus kalastuksesta Tornionjoen kalastusalueella annetun lain voimaantulosta](495.md) `495/1997`
+- [Maa\- ja metsätalousministeriön päätös kalastuksesta Tornionjoen kalastusalueella](496.md) `496/1997`
+- [Asetus lasten suojelua sekä yhteistyötä kansainvälisissä lapseksiottamisasioissa koskevanyleissopimuksen voimaansaattamisesta](497.md) `497/1997`
+- [Asetus kemiallisten aseiden kehittämisen, tuotannon, varastoinnin ja käytön kieltämistä sekä niiden hävittämistä koskevan yleissopimuksen voimaansaattamisesta sekä yleissopimuksen eräiden määräysten hyväksymisestä ja sen soveltamisesta annetun lain voimaantulosta annetun asetuksen muuttamisesta](498.md) `498/1997`
+- [Valtiovarainministeriön päätös säästökassatoimintaa harjoittavan osuuskunnan säännöllisestä tiedonantovelvollisuudesta](499.md) `499/1997`
+- [Laki Kuwaitin kanssa tehdyn sijoitusten edistämistä ja suojelemista koskevan sopimuksen eräiden määräysten hyväksymisestä](500.md) `500/1997`
+- [Asetus Kuwaitin kanssa tehdyn sijoitusten edistämistä ja suojelemista koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lainvoimaantulosta](501.md) `501/1997`
+- [Laki Indonesian kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen eräiden määräysten hyväksymisestä](502.md) `502/1997`
+- [Asetus Indonesian kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lainvoimaantulosta](503.md) `503/1997`
+- [Laki öljysuojarahastosta annetun lain muuttamisesta](504.md) `504/1997`
+- [Asetus öljysuojarahastosta annetun asetuksen muuttamisesta](505.md) `505/1997`
+- [Asetus valtion virastojen ja laitosten osallistumisesta kehitysyhteistyöhön annetun asetuksen 1 §:n kumoamisesta](506.md) `506/1997`
+- [Asetus lapseksiottamisesta annetun lain muuttamisesta annetun lain voimaantulosta](507.md) `507/1997`
+- [Asetus lapseksiottamisesta](508.md) `508/1997`
+- [Asetus Suomen kansainvälisten lapseksiottamisasioiden lautakunnasta](509.md) `509/1997`
+- [Laki peruskoululain muuttamisesta](510.md) `510/1997`
+- [Laki lukiolain muuttamisesta](511.md) `511/1997`
+- [Laki aikuislukiolain 21 ja 24 §:n muuttamisesta](512.md) `512/1997`
+- [Laki ammatillisista oppilaitoksista annetun lain 24 §:n muuttamisesta](513.md) `513/1997`
+- [Laki ammattikorkeakouluopinnoista annetun lain 20 §:n muuttamisesta](514.md) `514/1997`
+- [Asetus eräiden tekstiilejä koskevien direktiivien täytäntöönpanosta](515.md) `515/1997`
+- [Asetus ammattikorkeakoulujen yhteishakujärjestelmästä annetun asetuksen muuttamisesta](516.md) `516/1997`
+- [Asetus ammatillisten oppilaitosten ja lukioiden yhteishakujärjestelmästä annetun asetuksen4 ja 5 §:n muuttamisesta](517.md) `517/1997`
+- [Asetus ylioppilastutkintoasetuksen 16 §:n muuttamisesta](518.md) `518/1997`
+- [Asetus ulkomailla suoritettujen korkeakouluopintojen tuottamasta virkakelpoisuudesta](519.md) `519/1997`
+- [Asetus Euroopan yhteisön yleisen tutkintojen tunnustamisjärjestelmän voimaanpanosta](520.md) `520/1997`
+- [Sisäasiainministeriön päätös maistraattien toimialueista annetun sisäasiainministeriön päätöksen muuttamisesta](521.md) `521/1997`
+- [Maa\- ja metsätalousministeriön päätös Suomen lohikiintiön jakamisesta](522.md) `522/1997`
+- [Maa\- ja metsätalousministeriön päätös Suomen lohikiintiön pyyntiajoista annetun maa\- ja metsätalousministeriön päätöksenmuuttamisesta](523.md) `523/1997`
+- [Maa\- ja metsätalousministeriön päätös Suomen lipun alla purjehtivien alusten harjoittaman lohen pyynnin keskeyttämisestäannetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](524.md) `524/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](525.md) `525/1997`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksenmuuttamisesta](526.md) `526/1997`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](527.md) `527/1997`
+- [Asetus Ruotsin kanssa tehdyn rajajokisopimuksen B liitteen eräiden määräysten soveltamisenkeskeyttämisestä](528.md) `528/1997`
+- [Asetus ulosottotoimen hallinnosta annetun asetuksen 11 §:n muuttamisesta](529.md) `529/1997`
+- [Asetus vuokraveneiden turvallisuudesta annetun asetuksen muuttamisesta](530.md) `530/1997`
+- [Valtioneuvoston päätös perunantuotannolle maksettavasta kansallisesta tuesta annetun valtioneuvoston päätöksenmuuttamisesta](531.md) `531/1997`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös vastustettavista eläintaudeista ja eläintautien ilmoittamisesta annetun maa\- jametsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen muuttamisesta](532.md) `532/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](533.md) `533/1997`
+- [Asetus puolustusvoimien ajokorteista annetun asetuksen muuttamisesta](534.md) `534/1997`
+- [Maa\- ja metsätalousministeriön päätös perunanviljelijälle maksettavan kansallisen tuen ehdoista](535.md) `535/1997`
+- [Maa\- ja metsätalousministeriön päätös Euroopan unionin metsien terveydentilan seurantaan myöntämää tukea koskevasta menettelystä](536.md) `536/1997`
+- [Maa\- ja metsätalousministeriön päätös virallisen mittaajan laatimien tehdasmittausta koskevien asiakirjojen sisällöstä](537.md) `537/1997`
+- [Valtiovarainministeriön ilmoitus eräistä ministeriön päätöksistä](538.md) `538/1997`
+- [Asetus valtion virkamiesten eroraha\-asetuksen 10 §:n muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](539.md) `539/1997`
+- [Asetus porotalousasetuksen muuttamisesta](540.md) `540/1997`
+- [Asetus tielaitoksesta annetun asetuksen muuttamisesta](541.md) `541/1997`
+- [Kauppa\- ja teollisuusministeriön päätös kuljetettavista kaasusäiliöistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](542.md) `542/1997`
+- [Laki hallintomenettelylain 10 §:n muuttamisesta](543.md) `543/1997`
+- [Laki kuntalain 52 §:n muuttamisesta](544.md) `544/1997`
+- [Laki valtion virkamieslain muuttamisesta](545.md) `545/1997`
+- [Kauppa\- ja teollisuusministeriön päätös kotitalouksien sähkökäyttöisten pyykinpesukoneiden energiamerkinnässä annettavista tiedoista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](546.md) `546/1997`
+- [Sisäasiainministeriön poliisimääräys eräistä liikkumis\- ja oleskelukielloista](547.md) `547/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](548.md) `548/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](549.md) `549/1997`
+- [Laki Euroopan yhteisön maidon ja maitotuotteiden kiintiöjärjestelmän täytäntöönpanosta annetun lain muuttamisesta](550.md) `550/1997`
+- [Asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksenliitteeseen tehtyjen muutosten voimaansaattamisesta](551.md) `551/1997`
+- [Asetus kansainvälisen meriliikenteen helpottamista koskevan yleissopimuksen liitteeseen tehtyjenmuutosten voimaansaattamisesta](552.md) `552/1997`
+- [Asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyynkansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan liitteeseentehtyjen muutosten voimaansaattamisesta](553.md) `553/1997`
+- [Asetus rautatieyrityksen toimiluvasta](554.md) `554/1997`
+- [Asetus matkailun edistämiskeskuksesta annetun asetuksen muuttamisesta](555.md) `555/1997`
+- [Liikenneministeriön päätös eräiden vaarallisten aineiden kuljettamisesta tiellä ja rautatiellä annettujen päätöstenvoimaantulosta](556.md) `556/1997`
+- [Laki Moldovan kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen eräiden määräysten hyväksymisestä](557.md) `557/1997`
+- [Asetus Moldovan kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](558.md) `558/1997`
+- [Asetus Eurooppapatenttien myöntämistä koskevan vuonna 1973 tehdyn yleissopimuksen 63 artiklan muutoksen voimaansaattamisesta](559.md) `559/1997`
+- [Asetus läänien vaakunoista annetun asetuksen kumoamisesta](560.md) `560/1997`
+- [Valtioneuvoston päätös läänien vaakunoista annetun valtioneuvoston päätöksen kumoamisesta](561.md) `561/1997`
+- [Sisäasiainministeriön päätös lääninhallitusten virastotunnuksista](562.md) `562/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä määräyksistä](563.md) `563/1997`
+- [Kauppa\- ja teollisuusministeriön päätös hissien turvallisuudesta](564.md) `564/1997`
+- [Laki pakkokeinolain muuttamisesta](565.md) `565/1997`
+- [Laki valtion virkamieslain 13 ja 23 §:n muuttamisesta](566.md) `566/1997`
+- [Asetus työvoimatoimistosta](567.md) `567/1997`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös mehiläisten esikotelomädän vuoksi Kerimäen kuntaan perustettavasta rajoitusalueesta](568.md) `568/1997`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös mehiläisten esikotelomädän vuoksi Elimäen kuntaan perustettavista rajoitusalueista](569.md) `569/1997`
+- [Laki veronkantolain 26 a §:n muuttamisesta](570.md) `570/1997`
+- [Laki alkoholi\- ja alkoholijuomaverosta annetun lain 9 §:n muuttamisesta](571.md) `571/1997`
+- [Laki maaseutuelinkeinolain muuttamisesta](572.md) `572/1997`
+- [Laki porotalouslain muuttamisesta](573.md) `573/1997`
+- [Laki luontaiselinkeinolain muuttamisesta](574.md) `574/1997`
+- [Laki kolttalain muuttamisesta](575.md) `575/1997`
+- [Laki siemenkauppalain 9 §:n muuttamisesta](576.md) `576/1997`
+- [Asetus Ruotsin kanssa tehdyn automaattipeliä Suomen ja Ruotsin välillä säännöllisessä linjaliikenteessä olevilla matkustaja\-aluksilla koskevan sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](577.md) `577/1997`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](578.md) `578/1997`
+- [Laki liikepankkilain muuttamisesta](579.md) `579/1997`
+- [Laki säästöpankkilain muuttamisesta](580.md) `580/1997`
+- [Laki osuuspankkilain muuttamisesta](581.md) `581/1997`
+- [Laki hypoteekkiyhdistyksistä annetun lain 28 a §:n muuttamisesta](582.md) `582/1997`
+- [Laki sijoituspalveluyrityksistä annetun lain 32 ja 48 §:n muuttamisesta](583.md) `583/1997`
+- [Laki tuloverolain 66 §:n muuttamisesta](584.md) `584/1997`
+- [Laki arvonlisäverolain muuttamisesta](585.md) `585/1997`
+- [Laki Ahvenanmaan maakuntaa koskevista poikkeuksista arvonlisävero\- ja valmisteverolainsäädäntöön annetun lain muuttamisesta](586.md) `586/1997`
+- [Asetus arvonlisäveroasetuksen 9 §:n muuttamisesta](587.md) `587/1997`
+- [Laki eräistä arvopaperi\- ja valuuttakaupan ehdoista](588.md) `588/1997`
+- [Laki kaivoslain muuttamisesta](589.md) `589/1997`
+- [Laki henkilöstörahastolain muuttamisesta](590.md) `590/1997`
+- [Asetus konkurssiasioista tehtävistä ilmoituksista annetun asetuksen 1 §:n muuttamisesta](591.md) `591/1997`
+- [Asetus yrityksen saneerauksesta annetun asetuksen 8 §:n muuttamisesta](592.md) `592/1997`
+- [Asetus merenkulun tietoliikenteen kansainvälistä tekokuujärjestöä \(INMARSAT\) koskevaan yleissopimukseen ja toimintasopimukseen tehtyjen muutosten voimaansaattamisesta](593.md) `593/1997`
+- [Asetus maa\- ja metsätalousministeriön tietopalvelukeskuksesta annetun asetuksen 6 §:n muuttamisesta](594.md) `594/1997`
+- [Asetus eräistä kalastustuotteiden vierasainevalvonnan maksuista](595.md) `595/1997`
+- [Maa\- ja metsätalousministeriön päätös vierasainevalvonnasta perittävistä maksuista](596.md) `596/1997`
+- [Kauppa\- ja teollisuusministeriön päätös patentti\- ja rekisterihallituksen maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön päätöksen liitteenä olevan maksutaulukon muuttamisesta](597.md) `597/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](598.md) `598/1997`
+- [Laki kaupankäynnistä vakioiduilla optioilla ja termiineillä annetun lain muuttamisesta](599.md) `599/1997`
+- [Asetus valtion talousarviosta annetun asetuksen muuttamisesta](600.md) `600/1997`
+- [Puolustusministeriön ilmoitus eräistä ministeriön päätöksistä](601.md) `601/1997`
+- [Laki rikoslain muuttamisesta](602.md) `602/1997`
+- [Laki lääninoikeuslain muuttamisesta](603.md) `603/1997`
+- [Laki valtion virkamieslain muuttamisesta](604.md) `604/1997`
+- [Laki jätelain muuttamisesta](605.md) `605/1997`
+- [Laki ulkomaalaislain 12 §:n muuttamisesta](606.md) `606/1997`
+- [Asetus ulkomaalaisasetuksen 24 §:n muuttamisesta](607.md) `607/1997`
+- [Asetus sveitsiläisten vahinkovakuutusyhtiöiden toiminnasta Suomessa](608.md) `608/1997`
+- [Asetus suomalaisten vahinkovakuutusyhtiöiden toiminnasta Sveitsissä](609.md) `609/1997`
+- [Sisäasiainministeriön päätös pysäköintivirhemaksun korottamisesta](610.md) `610/1997`
+- [Laki vakuutusyhtiölain muuttamisesta](611.md) `611/1997`
+- [Laki ulkomaisista vakuutusyhtiöistä annetun lain muuttamisesta](612.md) `612/1997`
+- [Laki vakuutuspalvelujen vapaasta tarjonnasta annetun lain ja ulkomaisten vakuutusyhtiöiden toiminnasta Suomessa annetun lain kumoamisesta](613.md) `613/1997`
+- [Laki arvopaperimarkkinalain muuttamisesta](614.md) `614/1997`
+- [Laki vakuutuskassalain muuttamisesta](615.md) `615/1997`
+- [Laki eläkesäätiölain muuttamisesta](616.md) `616/1997`
+- [Laki eläinten lääkitsemisestä](617.md) `617/1997`
+- [Asetus säteilyturvakeskuksesta](618.md) `618/1997`
+- [Maa\- ja metsätalousministeriön päätös työvoima\- ja elinkeinokeskusten kalataloutta koskevien tehtävien hoidosta](619.md) `619/1997`
+- [Oikeusministeriön päätös käräjäoikeuksien kanslioiden ja istuntopaikkojen sijainnista annetun oikeusministeriön päätöksen 1 §:n muuttamisesta](620.md) `620/1997`
+- [Sisäasiainministeriön päätös rahankeräys\- ja tavara\-arpajaislautakunnasta annetun asetuksen soveltamisesta](621.md) `621/1997`
+- [Sosiaali\- ja terveysministeriön päätös lääkelaitoksen maksullisista suoritteista](622.md) `622/1997`
+- [Liikenneministeriön päätös eräistä Euroopan yhteisöjen lainsäädännössä tarkoitetuista telepalveluista annetun liikenneministeriön päätöksen 2 §:n muuttamisesta](623.md) `623/1997`
+- [Liikenneministeriön päätös eräistä Euroopan yhteisöjen lainsäädännössä tarkoitetuista telemaksuista annetun liikenneministeriön päätöksen 2 §:n muuttamisesta](624.md) `624/1997`
+- [Laki Venäjän kanssa Suomen ja Venäjän välisestä rautatieyhdysliikenteestä tehdyn sopimuksen eräiden määräysten hyväksymisestä](625.md) `625/1997`
+- [Asetus Venäjän kanssa Suomen ja Venäjän välisestä rautatieyhdysliikenteestä tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](626.md) `626/1997`
+- [Laki tieliikenteen tietojärjestelmästä annetun lain muuttamisesta](627.md) `627/1997`
+- [Asetus terveystieteiden tutkinnoista](628.md) `628/1997`
+- [Asetus yhteiskuntatieteellisistä tutkinnoista annetun asetuksen liitteen muuttamisesta](629.md) `629/1997`
+- [Asetus vuoden 1994 kansainvälisen kahvisopimuksen voimaansaattamisesta](630.md) `630/1997`
+- [Asetus vuoden 1995 kansainvälisen luonnonkumisopimuksen voimaansaattamisesta](631.md) `631/1997`
+- [Asetus lukioiden ja ammatillisten oppilaitosten opiskelijoiden koulumatkatuesta annetun asetuksen 1 §:n muuttamisesta](632.md) `632/1997`
+- [Asetus kansanterveysasetuksen 3 §:n muuttamisesta](633.md) `633/1997`
+- [Eduskunnan päätös eduskunnan kanslian ohjesäännön muuttamisesta](634.md) `634/1997`
+- [Laki taiteen edistämisen järjestelystä annetun lain muuttamisesta](635.md) `635/1997`
+- [Asetus taiteen edistämisen järjestelystä annetun asetuksen 3 luvunja 19 §:n muuttamisesta](636.md) `636/1997`
+- [Laki verohallintolain muuttamisesta](637.md) `637/1997`
+- [Asetus verohallintoasetuksen muuttamisesta](638.md) `638/1997`
+- [Laki ammattitutkintolain 3 ja 4 §:n muuttamisesta](639.md) `639/1997`
+- [Laki työeläkevakuutusyhtiöistä annetun lain muuttamisesta](640.md) `640/1997`
+- [Maa\- ja metsätalousministeriön päätös sikatilarekisteristä](641.md) `641/1997`
+- [Maa\- ja metsätalousministeriön päätös eräiden kolmansista maista tuotavien eläinten sekä niiden alkioiden ja sukusolujen eläintautivaatimuksista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](642.md) `642/1997`
+- [Laki Belgian kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen muuttamista koskevan lisäsopimuksen eräiden määräysten hyväksymisestä](643.md) `643/1997`
+- [Asetus Belgian kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen muuttamista koskevan lisäsopimuksen voimaansaattamisesta ja lisäsopimuksen eräiden määräysten hyväksymisestäannetun lain voimaantulosta](644.md) `644/1997`
+- [Yliopistolaki](645.md) `645/1997`
+- [Laki yliopistolain voimaanpanosta](646.md) `646/1997`
+- [Laki Suomen Hallitusmuodon 87 ja 89 §:n muuttamisesta](647.md) `647/1997`
+- [Laki korkeakoulun professorin ja apulaisprofessorin viran täyttämisestä annetun lain muuttamisesta](648.md) `648/1997`
+- [Asetus maan jakamisesta sotilaslääneihin ja maanpuolustusalueisiin annetun asetuksen 2 ja 3 §:n muuttamisesta](649.md) `649/1997`
+- [Valtioneuvoston päätös kuntajaon muuttamisesta Jämsänkosken ja Jämsän kaupunkien välillä](650.md) `650/1997`
+- [Valtioneuvoston päätös verovirastoista](651.md) `651/1997`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Korpilahden kunnan ja Jämsän kaupungin välillä](652.md) `652/1997`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Karstulan ja Kyyjärven kuntien välillä](653.md) `653/1997`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Äänekosken ja Saarijärven kaupunkien välillä](654.md) `654/1997`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Suolahden kaupungin ja Sumiaisten kunnan sekäÄänekosken kaupungin ja Sumiaisten kunnan välillä](655.md) `655/1997`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Sumiaisten kunnan ja Äänekosken kaupungin sekä Uuraisten kunnan ja Äänekosken kaupungin välillä](656.md) `656/1997`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Kannonkosken ja Kivijärven kuntien välillä](657.md) `657/1997`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Karstulan ja Pylkönmäen kuntien välillä](658.md) `658/1997`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Saarijärven kaupungin ja Pylkönmäen kunnan välillä](659.md) `659/1997`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljetuksesta tiellä](660.md) `660/1997`
+- [Verohallituksen päätös arpajaisverotusta koskevasta ilmoittamisvelvollisuudesta](661.md) `661/1997`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](662.md) `662/1997`
+- [Laki Yliopistollisen Eurooppa\-instituutin perustamisesta tehdyn yleissopimukseneräiden määräysten hyväksymisestä](663.md) `663/1997`
+- [Asetus Yliopistollisen Eurooppa\-instituutin perustamisesta tehdyn yleissopimuksenvoimaansaattamisesta sekä yleissopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](664.md) `664/1997`
+- [Asetus Euroopan jälleenrakennus\- ja kehityspankin peruspääoman korottamista ja osakkeiden merkintää koskevan päätöslauselman nro 59 voimaansaattamisesta](665.md) `665/1997`
+- [Asetus Liettuan kanssa laittomasti maahan saapuneiden ja maassa oleskelevien henkilöiden takaisinottamisesta tehdyn sopimuksen voimaansaattamisesta](666.md) `666/1997`
+- [Asetus maaseutuelinkeinoasetuksen muuttamisesta](667.md) `667/1997`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Multian kunnan ja Keuruun kaupungin välillä](668.md) `668/1997`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Leivonmäen ja Toivakan kuntien välillä](669.md) `669/1997`
+- [Asetus ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta](670.md) `670/1997`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta](671.md) `671/1997`
+- [Asetus ajoneuvojen katsastuksesta annetun asetuksen muuttamisesta](672.md) `672/1997`
+- [Asetus ajoneuvojen rekisteröinnistä annetun asetuksen muuttamisesta](673.md) `673/1997`
+- [Asetus vaarallisten aineiden kuljetuksesta rautatiellä](674.md) `674/1997`
+- [Ulkoasiainministeriön ilmoitus ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](675.md) `675/1997`
+- [Ulkoasiainministeriön ilmoitus ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](676.md) `676/1997`
+- [Laki kirkkolain muuttamisesta](677.md) `677/1997`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](678.md) `678/1997`
+- [Kirkolliskokouksen päätös kirkon vaalijärjestyksen muuttamisesta](679.md) `679/1997`
+- [Laki työttömyysturvalain muuttamisesta](680.md) `680/1997`
+- [Laki työmarkkinatuesta annetun lain muuttamisesta](681.md) `681/1997`
+- [Laki aravavuokra\-asuntojen ja aravavuokratalojen käytöstä, luovutuksesta ja omaksilunastamisesta annetun lain 2 ja 3 §:n muuttamisesta](682.md) `682/1997`
+- [Asetus rajavartiolaitoksesta annetun asetuksen muuttamisesta](683.md) `683/1997`
+- [Asetus sairausvakuutusasetuksen muuttamisesta ja väliaikaisesta muuttamisesta](684.md) `684/1997`
+- [Asetus kansanterveyslaitoksesta annetun asetuksen 7 §:n muuttamisesta](685.md) `685/1997`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Luhangan ja Sysmän kuntien välillä](686.md) `686/1997`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Multian kunnan ja Ähtärin kaupungin välillä](687.md) `687/1997`
+- [Opetusministeriön päätös opetushallituksen suoritteiden maksullisuudesta](688.md) `688/1997`
+- [Laki oikeudenkäynnistä rikosasioissa](689.md) `689/1997`
+- [Laki oikeudenkäymiskaaren muuttamisesta](690.md) `690/1997`
+- [Laki rikoslain voimaanpanemisesta annetun asetuksen muuttamisesta](691.md) `691/1997`
+- [Laki esitutkintalain muuttamisesta](692.md) `692/1997`
+- [Laki pakkokeinolain muuttamisesta](693.md) `693/1997`
+- [Laki sotilaskurinpitolain 24 §:n muuttamisesta](694.md) `694/1997`
+- [Laki sotilasoikeudenkäyntilain 4 §:n muuttamisesta](695.md) `695/1997`
+- [Laki ulosottolain 3 luvun 23 §:n muuttamisesta](696.md) `696/1997`
+- [Laki valtion varoista maksettavista todistelukustannuksista annetun lain 16 §:n muuttamisesta](697.md) `697/1997`
+- [Laki rangaistusmääräysmenettelystä annetun lain 6 ja 8 §:n muuttamisesta](698.md) `698/1997`
+- [Laki rikesakkolain 8 §:n muuttamisesta](699.md) `699/1997`
+- [Laki työsuojelun valvonnasta ja muutoksenhausta työsuojeluasioissa annetun lain 24 §:n muuttamisesta](700.md) `700/1997`
+- [Laki maksuttomasta oikeudenkäynnistä annetun lain 17 §:n muuttamisesta](701.md) `701/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](702.md) `702/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](703.md) `703/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](704.md) `704/1997`
+- [Laki eräiden Suomelle Yhdistyneiden Kansakuntien jäsenenä kuuluvien velvoitusten täyttämisestä annetun lain muuttamisesta](705.md) `705/1997`
+- [Laki rikoslain 46 luvun 1 §:n muuttamisesta](706.md) `706/1997`
+- [Laki tuloverolain 136 §:n muuttamisesta](707.md) `707/1997`
+- [Laki haja\-asutusalueiden postitoiminnan turvaamiseksi perittävästä maksusta](708.md) `708/1997`
+- [Laki pitkäaikaistyöttömien omaehtoisen opiskelun tukemisesta](709.md) `709/1997`
+- [Laki opintotukilain 6 §:n muuttamisesta](710.md) `710/1997`
+- [Asetus Yhdistyneiden Kansakuntien kanssa Yhdistyneiden Kansakuntien yhteydessä toimivan Helsingin kriminaalipoliittisen instituutin perustamisesta tehdyn sopimuksen muutoksen voimaansaattamisesta](711.md) `711/1997`
+- [Asetus pitkäaikaistyöttömien omaehtoisen opiskelun tukemisesta](712.md) `712/1997`
+- [Asetus työmarkkinatuesta annetun asetuksen muuttamisesta](713.md) `713/1997`
+- [Asetus työvoimatoimikunnasta annetun asetuksen 2 ja 3 §:n muuttamisesta](714.md) `714/1997`
+- [Asetus työttömyysturvan saamisen työvoimapoliittisista edellytyksistä annetun asetuksen muuttamisesta](715.md) `715/1997`
+- [Sosiaali\- ja terveysministeriön päätös geenitekniikalla muunnettujen organismien tutkimus\- ja kehittämiskoetta sekä tuotteen markkinoille luovuttamista koskevista ilmoituksista annetun sosiaali\- ja terveysministeriön päätöksen liitteen muuttamisesta](716.md) `716/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](717.md) `717/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](718.md) `718/1997`
+- [Laki Suomen Pankista](719.md) `719/1997`
+- [Laki valuuttalain 6 §:n muuttamisesta](720.md) `720/1997`
+- [Laki rahoitustarkastuslain muuttamisesta](721.md) `721/1997`
+- [Laki työtuomioistuimesta annetun lain muuttamisesta](722.md) `722/1997`
+- [Laki yhteistoiminnasta yrityksissä annetun lain muuttamisesta](723.md) `723/1997`
+- [Laki henkilöstön edustuksesta yritysten hallinnossa annetun lain 4 ja 5 §:n muuttamisesta](724.md) `724/1997`
+- [Maa\- ja metsätalousministeriön päätös maitoa ja maitovalmisteita koskevien tilastotietojen keruusta annetun neuvoston direktiivin täytäntöönpanosta](725.md) `725/1997`
+- [Maa\- ja metsätalousministeriön päätös meijerimaidon viitemäärien siirtämisestä annetun maa\- ja metsätalousministeriön päätöksen 11 §:n muuttamisesta](726.md) `726/1997`
+- [Maa\- ja metsätalousministeriön päätös kalatalousalan tuottajajärjestöjen hyväksymisestä ja tukemisesta](727.md) `727/1997`
+- [Laki kotitaloustyön väliaikaisesta verotuesta](728.md) `728/1997`
+- [Laki tuontipolttoaineiden velvoitevarastoinnista annetun lain muuttamisesta](729.md) `729/1997`
+- [Laki lääkkeiden velvoitevarastointilain muuttamisesta](730.md) `730/1997`
+- [Asetus Suomen ulkomaanedustustojen sijainnista annetun asetuksen muuttamisesta](731.md) `731/1997`
+- [Asetus työttömyysturvalain täytäntöönpanosta annetun asetuksen muuttamisesta](732.md) `732/1997`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Mietoisten ja Mynämäen kuntien välillä](733.md) `733/1997`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Kittilän ja Sodankylän kuntien välillä](734.md) `734/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](735.md) `735/1997`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](736.md) `736/1997`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](737.md) `737/1997`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Mietoisten ja Mynämäen kuntien sekä Laitilan kaupungin ja Mynämäen kunnan välillä](738.md) `738/1997`
+- [Maa\- ja metsätalousministeriön päätös emolehmä\- ja uuhipalkkioiden kiintiöistä annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](739.md) `739/1997`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](740.md) `740/1997`
+- [Laki Ison\-Britannian ja Pohjois\-Irlannin yhdistyneen kuningaskunnan kanssa tulon ja omaisuuden kaksinkertaisen verotuksen sekä veron kiertämisen estämiseksi tehdyn sopimuksen muuttamista koskevan pöytäkirjan eräiden määräysten hyväksymisestä](741.md) `741/1997`
+- [Asetus Ison\-Britannian ja Pohjois\-Irlannin yhdistyneen kuningaskunnan kanssa tulon ja omaisuuden kaksinkertaisen verotuksen sekä veron kiertämisen estämiseksi tehdyn sopimuksen muuttamista koskevan pöytäkirjan voimaansaattamisesta ja pöytäkirjan eräiden määräysten hyväksymisestä annetun lain voimaantulosta](742.md) `742/1997`
+- [Maa\- ja metsätalousministeriön päätös eräiden lääkeaineiden käytön kieltämisestä eläimille](743.md) `743/1997`
+- [Laki Pohjois\-Atlantin sopimuksen sopimusvaltioiden ja muiden rauhankumppanuuteen osallistuvien valtioiden välillä niiden joukkojen asemasta tehdyn sopimuksen ja sen lisäpöytäkirjan eräiden määräysten hyväksymisestä](744.md) `744/1997`
+- [Asetus Pohjois\-Atlantin sopimuksen sopimusvaltioiden ja muiden rauhankumppanuuteen osallistuvien valtioiden välillä niiden joukkojen asemasta tehdyn sopimuksen ja sen lisäpöytäkirjan voimaansaattamisesta sekä näiden eräiden määräysten hyväksymisestä annetun lain voimaantulosta](745.md) `745/1997`
+- [Valtioneuvoston päätös metsäkeskuksista](746.md) `746/1997`
+- [Valtioneuvoston päätös eräistä maa\- ja puutarhataloustuottajille vuodelta 1996 maksettavista tuista annetun valtioneuvoston päätöksen muuttamisesta](747.md) `747/1997`
+- [Valtioneuvoston päätös vuoden 1996 puutarhatuotannon tuen jakoperusteista annetun valtioneuvoston päätöksen liitteen muuttamisesta](748.md) `748/1997`
+- [Valtioneuvoston päätös maa\- ja puutarhatalouden harjoittajille maksettavasta pohjoisesta tuesta annetun valtioneuvoston päätöksen 13 a §:n muuttamisesta](749.md) `749/1997`
+- [Liikenneministeriön päätös ulkomaisten alusten tarkastuksia Suomessa suorittavan valvontaviranomaisen henkilötodistuksesta](750.md) `750/1997`
+- [Laki rikoslain 7 luvun muuttamisesta](751.md) `751/1997`
+- [Laki ehdollisesta rangaistuksesta annetun lain muuttamisesta](752.md) `752/1997`
+- [Laki Suomen ja muiden pohjoismaiden välisestä yhteistoiminnasta rikosasioissa annettujen tuomioiden täytäntöönpanossa annetun lain 29 §:n 2 momentin kumoamisesta](753.md) `753/1997`
+- [Laki yhdyskuntapalvelusta annetun lain 3 ja 11 §:n muuttamisesta](754.md) `754/1997`
+- [Laki oikeudenkäymiskaaren 31 luvun 9 a §:n muuttamisesta](755.md) `755/1997`
+- [Laki työllisyyslain muuttamisesta](756.md) `756/1997`
+- [Laki työvoimapoliittisesta aikuiskoulutuksesta annetun lain muuttamisesta](757.md) `757/1997`
+- [Laki työvoimapalvelulain muuttamisesta](758.md) `758/1997`
+- [Asetus siviilipalveluasetuksen 3 §:n muuttamisesta](759.md) `759/1997`
+- [Valtioneuvoston päätös maakunta\-arkistojen piirijaosta](760.md) `760/1997`
+- [Maa\- ja metsätalousministeriön päätös eläinten eläinlääkinnällisistä rajatarkastuksista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](761.md) `761/1997`
+- [Maa\- ja metsätalousministeriön päätös eläimistä saatavien elintarvikkeiden ja muiden tuotteiden eläinlääkinnällisistä rajatarkastuksista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](762.md) `762/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](763.md) `763/1997`
+- [Asetus merentutkimuslaitoksesta annetun asetuksen 11 §:n muuttamisesta](764.md) `764/1997`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](765.md) `765/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](766.md) `766/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](767.md) `767/1997`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](768.md) `768/1997`
+- [Laki panttilainauslaitoksista annetun lain muuttamisesta](769.md) `769/1997`
+- [Asetus Ilmailulaitoksesta annetun asetuksen 7 §:n muuttamisesta](770.md) `770/1997`
+- [Asetus Ratahallintokeskuksesta annetun asetuksen 8 §:n muuttamisesta](771.md) `771/1997`
+- [Asetus ilmatieteen laitoksesta annetun asetuksen 3 ja 11 §:n muuttamisesta](772.md) `772/1997`
+- [Asetus riista\- ja kalatalouden tutkimuslaitoksesta annetun asetuksen 11 §:n muuttamisesta](773.md) `773/1997`
+- [Asetus kalastusasetuksen 12 §:n muuttamisesta](774.md) `774/1997`
+- [Asetus jäteasetuksen muuttamisesta](775.md) `775/1997`
+- [Valtioneuvoston päätös omistusaravalainan myöntämisessä, omistusasuntokorkotukilainaksi hyväksymisessä sekä asukkaaksi valitsemisessa sovellettavista perusteista annetun valtioneuvoston päätöksen muuttamisesta](776.md) `776/1997`
+- [Puolustusministeriön päätös asevelvollisten yleisistä varusmiespalvelukseen astumispäivistä vuosina 1998\-2000](777.md) `777/1997`
+- [Laki poliisin hallinnosta annetun lain muuttamisesta](778.md) `778/1997`
+- [Laki poliisin hallinnosta annetun lain 4 ja 5 §:n muuttamisesta](779.md) `779/1997`
+- [Asetus työsuojeluhallinnosta annetun asetuksen 7 §:n muuttamisesta](780.md) `780/1997`
+- [Valtioneuvoston päätös työsuojelupiireistä](781.md) `781/1997`
+- [Valtioneuvoston päätös eräistä työsuojeluvaatimuksista vuokratyössä](782.md) `782/1997`
+- [Asetus Sibelius\-Akatemian tutkinnoista annetun asetuksen muuttamisesta](783.md) `783/1997`
+- [Valtiovarainministeriön päätös vuoden 1997 ajoneuvoveron kannosta](784.md) `784/1997`
+- [Sosiaali\- ja terveysministeriön päätös sosiaali\- ja terveydenhuollon tuotevalvontakeskuksen maksullisista suoritteista annetun sosiaali\- ja terveysministeriön päätöksen muuttamisesta](785.md) `785/1997`
+- [Laki yritystuen yleisistä ehdoista](786.md) `786/1997`
+- [Laki yritystuesta annetun lain 21 §:n 2 momentin kumoamisesta](787.md) `787/1997`
+- [Asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen 15 §:n muuttamisesta](788.md) `788/1997`
+- [Kauppa\- ja teollisuusministeriön päätös lastenruoista](789.md) `789/1997`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](790.md) `790/1997`
+- [Asetus valtioneuvoston ohjesäännön muuttamisesta](791.md) `791/1997`
+- [Asetus kesäajasta vuosina 1998\-2001](792.md) `792/1997`
+- [Asetus valtion virkamiesasetuksen muuttamisesta](793.md) `793/1997`
+- [Asetus kauppa\- ja teollisuusministeriöstä annetun asetuksen muuttamisesta](794.md) `794/1997`
+- [Valtioneuvoston päätös lääninoikeuksien tuomiopiireistä](795.md) `795/1997`
+- [Valtioneuvoston päätös virastojen sineteistä annetun valtioneuvoston päätöksen 13 §:n muuttamisesta](796.md) `796/1997`
+- [Kauppa\- ja teollisuusministeriön päätös patentti\- ja rekisterihallituksen maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön päätöksen liitteenä olevan maksutaulukon muuttamisesta](797.md) `797/1997`
+- [Maa\- ja metsätalousministeriön päätös kalataloutta koskevista rekistereistä annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](798.md) `798/1997`
+- [Asetus kiinteistönmuodostamisasetuksen muuttamisesta](799.md) `799/1997`
+- [Asetus ajoneuvohallintokeskuksesta annetun asetuksen 8 §:n muuttamisesta](800.md) `800/1997`
+- [Asetus merenkulkulaitoksesta annetun asetuksen 17 ja 18 §:n muuttamisesta](801.md) `801/1997`
+- [Asetus veneliikenneasetuksen 11 ja 13 §:n muuttamisesta](802.md) `802/1997`
+- [Asetus työeläkekassan ohjesäännön sisältävän asetuksen muuttamisesta](803.md) `803/1997`
+- [Asetus sosiaali\- ja terveysalan tutkimus\- ja kehittämiskeskuksesta annetun asetuksen 9 §:n muuttamisesta](804.md) `804/1997`
+- [Asetus lääkelaitoksesta annetun asetuksen 11 §:n muuttamisesta](805.md) `805/1997`
+- [Asetus terveydenhuollon oikeusturvakeskuksesta annetun asetuksen 14 §:n muuttamisesta](806.md) `806/1997`
+- [Valtioneuvoston päätös oikeudesta hankkia maa\- ja metsätalousmaata annetun lain alueellisesta soveltamisesta](807.md) `807/1997`
+- [Valtioneuvoston päätös eläkkeensaajien asumistukilain mukaisista hoitomenoina hyväksyttävistä keskimääräisistä kustannuksista ja asumiskustannusten enimmäismääristä vuodelle 1997 annetun valtioneuvoston päätöksen muuttamisesta](808.md) `808/1997`
+- [Valtioneuvoston päätös pakolaisten ja turvapaikanhakijoiden vastaanotosta annetun valtioneuvoston päätöksen muuttamisesta](809.md) `809/1997`
+- [Valtioneuvoston päätös eräiden Suomeen muuttavien henkilöiden toimeentulotuen sekä heille annetun sosiaali\- ja terveydenhuollon erityiskustannusten korvaamisesta annetun valtioneuvoston päätöksen 6 §:n muuttamisesta](810.md) `810/1997`
+- [Valtioneuvoston päätös asumistuen määräytymisperusteista annetun valtioneuvoston päätöksen 4 §:n muuttamisesta](811.md) `811/1997`
+- [Asetus Suomenlinnan hoitokunnasta annetun asetuksen 10 §:n muuttamisesta](812.md) `812/1997`
+- [Asetus elokuvien tarkastuksen toimittamisesta annetun asetuksen 6 §:n muuttamisesta](813.md) `813/1997`
+- [Asetus taiteen edistämisen järjestelystä annetun asetuksen 13 §:n muuttamisesta](814.md) `814/1997`
+- [Asetus valtion taidemuseosta annetun asetuksen 6 §:n muuttamisesta](815.md) `815/1997`
+- [Asetus työriitojen sovittelusta annetun asetuksen 4 §:n muuttamisesta](816.md) `816/1997`
+- [Valtioneuvoston päätös alueellisten taidetoimikuntien lukumäärästä ja toimialueista](817.md) `817/1997`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Pihtiputaan kunnan ja Viitasaaren kaupungin välillä](818.md) `818/1997`
+- [Maa\- ja metsätalousministeriön päätös työvoima\- ja elinkeinokeskusten maatilataloutta ja siihen liittyviä maaseutuelinkeinoja koskevien tehtävien hoidosta](819.md) `819/1997`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös mehiläisten esikotelomädän vuoksi Vesilahden kuntaan perustettavasta rajoitusalueesta](820.md) `820/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](821.md) `821/1997`
+- [Asetus valtioneuvoston kansliasta annetun asetuksen 3 §:n muuttamisesta](822.md) `822/1997`
+- [Asetus valtion talousarviosta annetun asetuksen 34 §:n muuttamisesta](823.md) `823/1997`
+- [Asetus valtiokonttorista annetun asetuksen 9 ja 10 §:n muuttamisesta](824.md) `824/1997`
+- [Asetus liikenneministeriöstä annetun asetuksen muuttamisesta](825.md) `825/1997`
+- [Asetus  vakuutusyhtiön toimintapääomaan luettavista eristä annetun asetuksen 1 §:n muuttamisesta](826.md) `826/1997`
+- [Asetus ensivakuutusliikettä harjoittavan vakuutusyhtiön vastuuvelan katteesta annetun asetuksen 3 ja 11 §:n muuttamisesta](827.md) `827/1997`
+- [Asetus vakuutusyhtiöasetuksen 2 ja 6 §:n muuttamisesta](828.md) `828/1997`
+- [Asetus sosiaali\- ja terveydenhuollon tuotevalvontakeskuksesta annetun asetuksen 3 §:n muuttamisesta](829.md) `829/1997`
+- [Asetus ulkomaalaisvaltuutetusta annetun asetuksen 1 ja 2 §:n muuttamisesta](830.md) `830/1997`
+- [Asetus tasa\-arvovaltuutetusta ja tasa\-arvolautakunnasta annetun asetuksen 4 ja 5 §:n muuttamisesta](831.md) `831/1997`
+- [Asetus sosiaali\- ja terveysministeriöstä annetun asetuksen 6 §:n muuttamisesta](832.md) `832/1997`
+- [Asetus ympäristöministeriöstä annetun asetuksen muuttamisesta](833.md) `833/1997`
+- [Asetus Suomen ympäristökeskuksesta annetun asetuksen muuttamisesta](834.md) `834/1997`
+- [Asetus alueellisista ympäristökeskuksista annetun asetuksen 3 §:n muuttamisesta](835.md) `835/1997`
+- [Asetus valtion asuntorahastosta annetun asetuksen muuttamisesta](836.md) `836/1997`
+- [Valtioneuvoston päätös opetus\- ja kulttuuritoimen rahoituksesta annetun valtioneuvoston päätöksen 3 §:n muuttamisesta](837.md) `837/1997`
+- [Sosiaali\- ja terveysministeriön päätös sosiaali\- ja terveysministeriön ja työsuojelun piirihallinnon maksullisista suoritteista](838.md) `838/1997`
+- [Laki kotitaloustyön väliaikaisesta tukijärjestelmästä](839.md) `839/1997`
+- [Asetus Ukrainan kanssa ydinonnettomuuksia koskevasta pikaisesta ilmoittamisesta sekä ydinteknistä turvallisuutta ja säteilysuojelua koskevasta tietojen ja kokemusten vaihdosta tehdyn sopimuksen voimaansaattamisesta](840.md) `840/1997`
+- [Asetus tartuntatautiasetuksen 2 §:n muuttamisesta](841.md) `841/1997`
+- [Valtioneuvoston päätös ongelmajätteiden poltosta](842.md) `842/1997`
+- [Valtiovarainministeriön päätös eräiden verojen kantoajoista ja kantoeristä annetun valtiovarainministeriön päätöksen muuttamisesta](843.md) `843/1997`
+- [Asetus sisäasiainministeriöstä annetun asetuksen 5 ja 6 §:n muuttamisesta](844.md) `844/1997`
+- [Asetus rekisterihallintoasetuksen 11 §:n muuttamisesta](845.md) `845/1997`
+- [Asetus lääninhallitusasetuksen 7 §:n muuttamisesta](846.md) `846/1997`
+- [Asetus valtioiden rajat ylittävien ympäristövaikutusten arviointia koskevan yleissopimuksen voimaansaattamisesta](847.md) `847/1997`
+- [Asetus maaseutuelinkeinoasetuksen muuttamisesta](848.md) `848/1997`
+- [Asetus vaarallisten aineiden kuljetuksesta rautatiellä annetun asetuksen 16 §:n muuttamisesta](849.md) `849/1997`
+- [Asetus merimiesasiain neuvottelukunnasta annetun asetuksen 3 §:n muuttamisesta](850.md) `850/1997`
+- [Valtioneuvoston päätös maa\- ja puutarhatalouden harjoittajille maksettavasta pohjoisesta tuesta annetun valtioneuvoston päätöksen 13 a §:n muuttamisesta](851.md) `851/1997`
+- [Valtioneuvoston päätös asumisoikeuden haltijoiden valinnasta annetun valtioneuvoston päätöksen muuttamisesta](852.md) `852/1997`
+- [Maa\- ja metsätalousministeriön päätös Suomen lipun alla purjehtivien alusten lohen pyynnin keskeyttämisestä Liettuan vesialueella](853.md) `853/1997`
+- [Ulkoasiainministeriön ilmoitus eräiden Suomelle Yhdistyneiden Kansakuntien ja Euroopan unionin jäsenenä kuuluvien velvoitusten täyttämisestä annetun lain 2 a §:ssä tarkoitettuja pakoteasetuksia rikottaessa sovellettavista rangaistussäännöksistä](854.md) `854/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](855.md) `855/1997`
+- [Verohallituksen päätös verovuoden 1996 verotuksen päättymisestä](856.md) `856/1997`
+- [Laki väestötietolain muuttamisesta](857.md) `857/1997`
+- [Laki kuolemansyyn selvittämisestä annetun lain muuttamisesta](858.md) `858/1997`
+- [Laki terveydenhuollon ammattihenkilöistä annetun lain muuttamisesta](859.md) `859/1997`
+- [Asetus kunnallisverotuksen toimittamisesta Ahvenanmaan maakunnassa](860.md) `860/1997`
+- [Valtioneuvoston päätös kaatopaikoista](861.md) `861/1997`
+- [Valtioneuvoston päätös työturvallisuuslain soveltamisesta pulttipistooleihin ja niiden tarkastukseen](862.md) `862/1997`
+- [Asetus ympäristölupamenettelyasetuksen muuttamisesta](863.md) `863/1997`
+- [Asetus kilpailuvirastosta annetun asetuksen 8 ja 9 §:n muuttamisesta](864.md) `864/1997`
+- [Asetus kuluttajavirastosta annetun asetuksen 16 ja 17 §:n muuttamisesta](865.md) `865/1997`
+- [Asetus matkailun edistämiskeskuksesta annetun asetuksen 9 ja 10 §:n muuttamisesta](866.md) `866/1997`
+- [Asetus kuluttajatutkimuskeskuksesta annetun asetuksen 13 ja 14 §:n muuttamisesta](867.md) `867/1997`
+- [Asetus elintarvikevirastosta annetun asetuksen 12 ja 13 §:n muuttamisesta](868.md) `868/1997`
+- [Asetus raha\-automaattiasetuksen 31 §:n väliaikaisesta muuttamisesta](869.md) `869/1997`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavista sammakonreisistä ja etanoista](870.md) `870/1997`
+- [Puolustusministeriön päätös puolustusvoimien ajokorteista annetun asetuksen soveltamisesta annetun puolustusministeriön päätöksen muuttamisesta](871.md) `871/1997`
+- [Asetus turvallisuutta ja terveyttä rakentamisessa koskevan yleissopimuksen voimaansaattamisesta](872.md) `872/1997`
+- [Asetus opetusministeriöstä annetun asetuksen 4 ja 5 §:n muuttamisesta](873.md) `873/1997`
+- [Valtioneuvoston päätös maatalouden ympäristötuesta annetun valtioneuvoston päätöksen 5 ja 21 §:n muuttamisesta](874.md) `874/1997`
+- [Maa\- ja metsätalousministeriön päätös poronhoitovuodelta 1997/1998 maksettavasta eläinkohtaisesta tuesta](875.md) `875/1997`
+- [Sosiaali\- ja terveysministeriön päätös sairausvakuutuslain 5 a §:ssä tarkoitettujen eräiden reseptittä myytävien lääkkeiden korvaamisesta](876.md) `876/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](877.md) `877/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](878.md) `878/1997`
+- [Maa\- ja metsätalousministeriön päätös eläimistä saatavien elintarvikkeiden valvonnasta ensisaapumispaikoissa](879.md) `879/1997`
+- [Valtiovarainministeriön päätös verovuoden 1996 ennakonpalautusten maksamisesta](880.md) `880/1997`
+- [Valtiovarainministeriön päätös Suomen itsenäisyyden 80\-vuotisjuhlarahoista](881.md) `881/1997`
+- [Verohallituksen päätös yhteisön tilikauden ennakon alarajasta ja kantoeristä](882.md) `882/1997`
+- [Verohallituksen päätös yleisestä tiedonantovelvollisuudesta annetun päätöksen muuttamisesta](883.md) `883/1997`
+- [Laki Viron kanssa sosiaaliturvasta tehdyn sopimuksen eräiden määräysten hyväksymisestä](884.md) `884/1997`
+- [Asetus Viron kanssa sosiaaliturvasta tehdyn sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](885.md) `885/1997`
+- [Asetus täydennyspoliisihenkilöstöstä](886.md) `886/1997`
+- [Asetus puolustusvoimista annetun asetuksen 16 ja 51 §:n muuttamisesta](887.md) `887/1997`
+- [Asetus maanpuolustuskorkeakoulusta annetun asetuksen muuttamisesta](888.md) `888/1997`
+- [Asetus opetushallituksesta annetun asetuksen 18 ja 19 §:n muuttamisesta](889.md) `889/1997`
+- [Asetus maanmittauslaitoksesta annetun asetuksen 11 §:n muuttamisesta](890.md) `890/1997`
+- [Asetus maa\- ja metsätalousministeriöstä annetun asetuksen muuttamisesta](891.md) `891/1997`
+- [Asetus Lapin vajaatuottoisten metsien kunnostamisesta annetun asetuksen muuttamisesta](892.md) `892/1997`
+- [Valtioneuvoston päätös kasvinviljelyn kansallisesta tuesta vuodelta 1997 annetun valtioneuvoston päätöksen 7 §:n muuttamisesta](893.md) `893/1997`
+- [Asetus vuoden 1979 valtiosta toiseen tapahtuvaa ilman epäpuhtauksien kaukokulkeutumista koskevaan yleissopimukseen liittyvän haihtuvien orgaanisten yhdisteiden päästöjen tai niiden valtiosta toiseen kulkeutuvan vuon rajoittamisesta tehdyn pöytäkirjan voimaansaattamisesta](894.md) `894/1997`
+- [Kauppa\- ja teollisuusministeriön päätös kotitalouksien kuivaavien pyykinpesukoneiden energiankulutusmerkinnässä annettavista tiedoista](895.md) `895/1997`
+- [Työministeriön päätös työnantajan velvollisuudesta maksaa korvausta työntekijälle merionnettomuudessa menetetystä henkilökohtaisesta omaisuudesta](896.md) `896/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](897.md) `897/1997`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](898.md) `898/1997`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](899.md) `899/1997`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](900.md) `900/1997`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljetuksesta rautatiellä](901.md) `901/1997`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta](902.md) `902/1997`
+- [Kauppa\- ja teollisuusministeriön päätös eräistä kosmeettisten valmisteiden koostumuksen tarkastamisessa käytettävistä analyysimenetelmistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](903.md) `903/1997`
+- [Kauppa\- ja teollisuusministeriön päätös laihdutusvalmisteista](904.md) `904/1997`
+- [Kauppa\- ja teollisuusministeriön päätös erityisruokavaliovalmisteista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](905.md) `905/1997`
+- [Asetus puolustushallinnon rakennuslaitoksesta annetun asetuksen 4 §:n muuttamisesta](906.md) `906/1997`
+- [Asetus kestävän metsätalouden rahoituksesta annetun asetuksen 1 §:n 2 momentin muuttamisesta](907.md) `907/1997`
+- [Asetus asetuksen, joka sisältää liikennevakuutuskeskuksen säännöt, 18 §:n muuttamisesta](908.md) `908/1997`
+- [Valtioneuvoston päätös alueellisten ympäristökeskusten toimialueiden rajoista ja toimipaikoista](909.md) `909/1997`
+- [Maa\- ja metsätalousministeriön päätös kalastuksesta Tornionjoen kalastusalueella annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](910.md) `910/1997`
+- [Oikeusministeriön päätös käräjäoikeuksien kanslioiden ja istuntopaikkojen sijainnista annetun oikeusministeriön päätöksen 1 §:n muuttamisesta](911.md) `911/1997`
+- [Maa\- ja metsätalousministeriön päätös mehiläisyhteiskuntien lukumäärään perustuvan tuen suuruudesta vuonna 1997](912.md) `912/1997`
+- [Asetus Liettuan kanssa yhteistyöstä rikosten torjunnassa tehdyn sopimuksen voimaansaattamisesta](913.md) `913/1997`
+- [Asetus pientyönantajien palvelukeskuksesta](914.md) `914/1997`
+- [Asetus työministeriöstä annetun asetuksen 7 §:n muuttamisesta](915.md) `915/1997`
+- [Asetus luonnonsuojeluasetuksen muuttamisesta](916.md) `916/1997`
+- [Valtioneuvoston päätös valtionosuuden perusteena olevien opetus\- ja kirjastotoimen yksikköhintojen keskimääräisistä markkamääristä vuonna 1998](917.md) `917/1997`
+- [Maa\- ja metsätalousministeriön päätös lampaiden ja vuohien rekisteröinnistä ja merkitsemisestä](918.md) `918/1997`
+- [Verohallituksen päätös Konserniverokeskuksen toimivallasta ja toimivaltaisesta verotuksen oikaisulautakunnasta](919.md) `919/1997`
+- [Laki opintotukilain muuttamisesta](920.md) `920/1997`
+- [Laki nestemäisten polttoaineiden valmisteverosta annetun lain muuttamisesta](921.md) `921/1997`
+- [Asetus nestemäisten polttoaineiden valmisteverosta annetun asetuksen muuttamisesta](922.md) `922/1997`
+- [Asetus maatalousyrittäjien luopumistuesta annetun asetuksen 3 b §:n muuttamisesta](923.md) `923/1997`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](924.md) `924/1997`
+- [Valtioneuvoston päätös maatiloille myönnettävästä investointituesta annetun valtioneuvoston päätöksen muuttamisesta](925.md) `925/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](926.md) `926/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](927.md) `927/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräästä ministeriön päätöksestä](928.md) `928/1997`
+- [Laki valtion riskipääomatakuista annetun lain muuttamisesta](929.md) `929/1997`
+- [Asetus Liettuan kanssa tehdyn viisumivapaussopimuksen voimaansaattamisesta](930.md) `930/1997`
+- [Valtioneuvoston päätös tupakkatuotteen haitta\-aineiden enimmäismääristä](931.md) `931/1997`
+- [Puolustusministeriön päätös puolustusministeriön hallinnonalan maksullisista suoritteista](932.md) `932/1997`
+- [Oikeusministeriön päätös oikeusministeriön ja eräiden hallinnonalalla toimivien viranomaisten suoritteista perittävistä maksuista annetun oikeusministeriön päätöksen 3 §:n muuttamisesta](933.md) `933/1997`
+- [Maa\- ja metsätalousministeriön päätös eräiden kasvinviljelytuotteiden kansallisen tuotantotuen maksamiselle asetettavista laatuvaatimuksista](934.md) `934/1997`
+- [Kauppa\- ja teollisuusministeriön päätös eräiden elintarvikkeita koskevien Euroopan yhteisöjen direktiivien täytäntöönpanosta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](935.md) `935/1997`
+- [Maa\- ja metsätalousministeriön päätös eläimistä saatavien elintarvikkeiden ja muiden tuotteiden eläinlääkinnällisistä rajatarkastuksista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](936.md) `936/1997`
+- [Maa\- ja metsätalousministeriön päätös eläinten eläinlääkinnällisistä rajatarkastuksista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](937.md) `937/1997`
+- [Sisäasiainministeriön poliisimääräys eräistä liikkumis\- ja oleskelukielloista](938.md) `938/1997`
+- [Maa\- ja metsätalousministeriön päätös Suomen lipun alla purjehtivien alusten harjoittaman lohen pyynnin keskeyttämisestä](939.md) `939/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräästä ministeriön päätöksestä](940.md) `940/1997`
+- [Laki asuntokauppalain muuttamisesta](941.md) `941/1997`
+- [Laki merityöaikalain muuttamisesta](942.md) `942/1997`
+- [Laki työajasta kotimaanliikenteen aluksissa annetun lain muuttamisesta](943.md) `943/1997`
+- [Asetus museovirastosta annetun asetuksen 11 §:n muuttamisesta](944.md) `944/1997`
+- [Asetus ammatillisen koulutuksen yleisistä toimikunnista ja koulutustoimikunnista](945.md) `945/1997`
+- [Laki Pelastusopistosta annetun lain 4 §:n kumoamisesta](946.md) `946/1997`
+- [Laki peruskuivatustoiminnan tukemisesta](947.md) `947/1997`
+- [Laki vesilain muuttamisesta](948.md) `948/1997`
+- [Asetus Viron kanssa yhteistyöstä sotien seurauksena menehtyneiden muiston vaalimisessa tehdyn sopimuksen voimaansaattamisesta](949.md) `949/1997`
+- [Asetus eräiden kansainvälistä ilmakuljetusta koskevien sääntöjen yhtenäistämisestä allekirjoitetun yleissopimuksen muuttamisesta tehdyn ensimmäisen lisäpöytäkirjan voimaansaattamisesta](950.md) `950/1997`
+- [Asetus eräiden kansainvälistä ilmakuljetusta koskevien sääntöjen yhtenäistämisestä allekirjoitetun yleissopimuksen muuttamisesta tehdyn toisen lisäpöytäkirjan voimaansaattamisesta](951.md) `951/1997`
+- [Asetus puolustusministeriöstä](952.md) `952/1997`
+- [Asetus eläinlääkintä\- ja elintarvikelaitoksesta annetun asetuksen muuttamisesta](953.md) `953/1997`
+- [Asetus maaseutuelinkeinoasetuksen muuttamisesta](954.md) `954/1997`
+- [Asetus asetuksen, joka sisältää liikennevakuutuskeskuksen säännöt, 12 §:n muuttamisesta](955.md) `955/1997`
+- [Työministeriön päätös työhallinnon maksullisista suoritteista annetun työministeriön päätöksen muuttamisesta](956.md) `956/1997`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkelain 9 §:ssä tarkoitettujen indeksilukujen vahvistamisesta](957.md) `957/1997`
+- [Laki Euroopan yhteisön ympäristömerkin myöntämisjärjestelmästä](958.md) `958/1997`
+- [Asetus Latvian kanssa tehdyn viisumivapaussopimuksen voimaansaattamisesta](959.md) `959/1997`
+- [Asetus Uzbekistanin kanssa tehdyn lentoliikennesopimuksen voimaansaattamisesta](960.md) `960/1997`
+- [Valtioneuvoston päätös heksakloorietaanin käytön rajoittamisesta](961.md) `961/1997`
+- [Valtioneuvoston päätös pakkauksista ja pakkausjätteistä](962.md) `962/1997`
+- [Verohallituksen päätös ennakon alarajasta ja kantoeristä](963.md) `963/1997`
+- [Laki valtion vakuusrahastosta annetun lain 15 §:n muuttamisesta](964.md) `964/1997`
+- [Liikenneministeriön päätös televerkkojen ja teleyritysten televerkkojen ja \-palvelujen yhteenliittämisestä annetun päätöksen muuttamisesta](965.md) `965/1997`
+- [Opetusministeriön päätös ylioppilastutkintolautakunnan suoritteiden maksullisuudesta](966.md) `966/1997`
+- [Laki tekijänoikeuslain muuttamisesta](967.md) `967/1997`
+- [Laki pienyrittäjän vuosilomarahasta annetun lain soveltamatta jättämisestä annetun lain 1 ja 2 §:n muuttamisesta](968.md) `968/1997`
+- [Asetus Venäjän ja Itä\-Euroopan instituutista annetun asetuksen 7 §:n muuttamisesta](969.md) `969/1997`
+- [Asetus kansainvälisen henkilövaihdon keskuksesta annetun asetuksen 8 ja 9 §:n muuttamisesta](970.md) `970/1997`
+- [Asetus opintotukiasetuksen muuttamisesta](971.md) `971/1997`
+- [Asetus sähkömarkkinakeskuksesta annetun asetuksen 3 §:n muuttamisesta](972.md) `972/1997`
+- [Kauppa\- ja teollisuusministeriön päätös vähittäiskaupan ja eräiden työliikkeiden liikeajasta annetun lain mukaisista sunnuntaiaukiolopäivistä](973.md) `973/1997`
+- [Maa\- ja metsätalousministeriön päätös perunanviljelijälle maksettavan kansallisen tuen suuruudesta](974.md) `974/1997`
+- [Ulkoasiainministeriön ilmoitus ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](975.md) `975/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](976.md) `976/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](977.md) `977/1997`
+- [Asetus Suomen ulkomaanedustustojen sijainnista annetun asetuksen muuttamisesta](978.md) `978/1997`
+- [Sosiaali\- ja terveysministeriön päätös kemikaalien luokitusperusteista ja merkintöjen tekemisestä](979.md) `979/1997`
+- [Laki kunnille palo\- ja pelastustoimen kustannuksiin suoritettavista valtionosuuksista ja \-avustuksista annetun lain muuttamisesta](980.md) `980/1997`
+- [Laki ilmailulain muuttamisesta](981.md) `981/1997`
+- [Laki rintamaveteraanien hammashuollon järjestämisestä ja korvaamisesta annetun lain 3 §:n muuttamisesta](982.md) `982/1997`
+- [Asetus valtioneuvoston oikeuskanslerin ohjesäännön muuttamisesta](983.md) `983/1997`
+- [Asetus oikeuskanslerinvirastosta](984.md) `984/1997`
+- [Asetus lääkkeiden velvoitevarastoinnista annetun asetuksen muuttamisesta](985.md) `985/1997`
+- [Verohallituksen päätös matkakuluvähennyksen määrästä vuodelta 1997 toimitettavassa verotuksessa](986.md) `986/1997`
+- [Laki Euroopan yhteisön yhteisen maatalouspolitiikan tunnistamis\- ja tiedonantojärjestelmän täytäntöönpanosta](987.md) `987/1997`
+- [Asetus valtiovarainministeriöstä](988.md) `988/1997`
+- [Asetus metsäveroasetuksen muuttamisesta](989.md) `989/1997`
+- [Asetus aina määräajaksi täytettävistä viroista annetun asetuksen 1 §:n muuttamisesta](990.md) `990/1997`
+- [Laki sotilaskurinpitolain muuttamisesta](991.md) `991/1997`
+- [Laki rikoslain 45 luvun 25 §:n muuttamisesta](992.md) `992/1997`
+- [Laki sotilasoikeudenkäyntilain muuttamisesta](993.md) `993/1997`
+- [Asetus Lemströmin kanavan luovuttamisesta Ahvenanmaan maakunnalle](994.md) `994/1997`
+- [Asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan liitteeseen tehtyjen muutosten voimaansaattamisesta](995.md) `995/1997`
+- [Sosiaali\- ja terveysministeriön päätös traktoreiden ETY\-tyyppihyväksyntävaatimuksista](996.md) `996/1997`
+- [Maa\- ja metsätalousministeriön päätös merkkipiireistä sekä suurimmista sallituista poromääristä annetun maa\- ja metsätalousministeriön päätöksen 1 §:n muuttamista](997.md) `997/1997`
+- [Maa\- ja metsätalousministeriön päätös vasikoiden aikaistetun teurastuksen palkkiosta annetun maa\- ja metsätalousministeriön päätöksen 2 §:n muuttamisesta](998.md) `998/1997`
+- [Laki lääkelain muuttamisesta](999.md) `999/1997`
+- [Laki eläintautilain 11 §:n kumoamisesta](1000.md) `1000/1997`
+- [Laki lääkelaitoksesta annetun lain muuttamisesta](1001.md) `1001/1997`
+- [Laki yrittäjien eläkelain muuttamisesta](1002.md) `1002/1997`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](1003.md) `1003/1997`
+- [Asetus työntekijäin eläkelain 7 a §:ssä tarkoitetun kertoimen julkaisemisesta vuodelle 1998](1004.md) `1004/1997`
+- [Valtioneuvoston päätös valtionosuuden perusteena olevien opetus\- ja kirjastotoimen yksikköhintojen keskimääräisistä markkamääristä vuonna 1998](1005.md) `1005/1997`
+- [Valtioneuvoston päätös valtion osallistumisesta maaseudun kehittämistoimenpiteiden tukemiseen Merenkurkku\-MittSkandian, Pohjois\-Kalotin sekä Suomen ja Ruotsin saariston INTERREG\-yhteisöaloiteohjelmissa](1006.md) `1006/1997`
+- [Kauppa\- ja teollisuusministeriön päätös poikkeuksesta sähkömarkkinakeskuksen maksullisista suoritteista annettuun kauppa\- ja teollisuusministeriön päätökseen](1007.md) `1007/1997`
+- [Maa\- ja metsätalousministeriön päätös pysyvän luonnonhaitan korvaamista koskevan tuen myöntämisen perusteena olevan yksikkömäärän rajoittamisesta](1008.md) `1008/1997`
+- [Maa\- ja metsätalousministeriön päätös emakoiden lukumäärän perusteella vuodelta 1997 maksettavasta kansallisen tuen määrästä](1009.md) `1009/1997`
+- [Laki käräjäoikeuslain 12 §:n muuttamisesta](1010.md) `1010/1997`
+- [Laki kuntien kulttuuritoiminnasta annetun lain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1011.md) `1011/1997`
+- [Laki taiteilijaprofessorin viroista ja valtion taiteilija\-apurahoista annetun lain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1012.md) `1012/1997`
+- [Laki eräistä kirjailijoille ja kääntäjille suoritettavista apurahoista ja avustuksista annetun lain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1013.md) `1013/1997`
+- [Laki kirjastolain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1014.md) `1014/1997`
+- [Asetus kihlakunnansyyttäjästä](1015.md) `1015/1997`
+- [Asetus Ahvenanmaan maakunnan maakunnansyyttäjänvirastosta](1016.md) `1016/1997`
+- [Asetus valtakunnansyyttäjänvirastosta annetun asetuksen muuttamisesta](1017.md) `1017/1997`
+- [Asetus kihlakunnanvirastosta annetun asetuksen 3 §:n muuttamisesta](1018.md) `1018/1997`
+- [Asetus valtion virkamiesasetuksen muuttamisesta](1019.md) `1019/1997`
+- [Asetus esitutkinnasta ja pakkokeinoista annetun asetuksen 7 §:n muuttamisesta](1020.md) `1020/1997`
+- [Asetus sakkorangaistuksen täytäntöönpanosta annetun asetuksen 4 ja 67 a §:n muuttamisesta](1021.md) `1021/1997`
+- [Laki valtioneuvoston oikeudesta luovuttaa valtion Koitajoessa omistama koskiomaisuus Imatran Voima Osakeyhtiölle annetun lain kumoamisesta](1022.md) `1022/1997`
+- [Laki ulkomailta tulevan palkansaajan lähdeverosta annetun lain muuttamisesta](1023.md) `1023/1997`
+- [Laki tuloverolain 77 §:n muuttamisesta](1024.md) `1024/1997`
+- [Laki sairausvakuutuslain 33 §:n muuttamisesta](1025.md) `1025/1997`
+- [Laki alkoholi\- ja alkoholijuomaverosta annetun lain muuttamisesta](1026.md) `1026/1997`
+- [Laki valmisteverotuslain 18 §:n muuttamisesta](1027.md) `1027/1997`
+- [Laki Kansaneläkelaitoksen rahoituksen väliaikaisesta muuttamisesta vuonna 1998](1028.md) `1028/1997`
+- [Laki vaikeavammaisille yrittäjille myönnettävistä veronhuojennuksista annetun lain 3 §:n muuttamisesta](1029.md) `1029/1997`
+- [Laki veronlisäyksestä ja viivekorosta annetun lain 2 ja 4 §:n muuttamisesta](1030.md) `1030/1997`
+- [Laki torjunta\-ainelain 7 §:n muuttamisesta](1031.md) `1031/1997`
+- [Laki asumistukilain muuttamisesta](1032.md) `1032/1997`
+- [Asetus valtion virkaehtosopimusasetuksen 10 §:n muuttamisesta](1033.md) `1033/1997`
+- [Sisäasiainministeriön päätös kokeiluhätäkeskusten maksullisista suoritteista](1034.md) `1034/1997`
+- [Verohallituksen päätös pidätystodistuksen antamisvelvollisuuden rajoittamisesta](1035.md) `1035/1997`
+- [Lääkelaitoksen päätös lääkeluettelosta](1036.md) `1036/1997`
+- [Laki naisten ja miesten välisestä tasa\-arvosta annetun lain 25 §:n 4 momentin kumoamisesta](1037.md) `1037/1997`
+- [Laki vapaaehtoisten lisäeläkejärjestelyjen tasa\-arvoistamisesta](1038.md) `1038/1997`
+- [Laki eräissä Suomen sotiin liittyneissä tehtävissä palvelleiden kuntoutuksesta](1039.md) `1039/1997`
+- [Laki rintamaveteraanien kuntoutuksesta annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](1040.md) `1040/1997`
+- [Asetus rintamaveteraanien kuntoutuksesta annetun asetuksen muuttamisesta](1041.md) `1041/1997`
+- [Julistus neljästä kiitos\-, katumus\- ja rukouspäivästä, jotka on koko maassa juhlallisesti vietettävä vuonna 1998](1042.md) `1042/1997`
+- [Valtioneuvoston päätös virastojen sineteistä annetun valtioneuvoston päätöksen 3 ja 10 §:n muuttamisesta](1043.md) `1043/1997`
+- [Verohallituksen päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](1044.md) `1044/1997`
+- [Laki puolustusvoimista annetun lain muuttamisesta](1045.md) `1045/1997`
+- [Asetus maan jakamisesta maanpuolustusalueisiin ja niiden alaisiin sotilaslääneihin](1046.md) `1046/1997`
+- [Asetus puolustusvoimista annetun asetuksen muuttamisesta](1047.md) `1047/1997`
+- [Asetus Euroopan yhteisöjen ja niiden jäsenvaltioiden sekä Venäjän väliseen kumppanuus\- ja yhteistyösopimukseen tehdyn Itävallan, Suomen ja Ruotsin liittymistä koskevan pöytäkirjan väliaikaisesta soveltamisesta](1048.md) `1048/1997`
+- [Asetus Valtion kiinteistölaitoksesta annetun asetuksen muuttamisesta](1049.md) `1049/1997`
+- [Asetus koulutussuunnittelun neuvottelukunnasta annetun asetuksen kumoamisesta](1050.md) `1050/1997`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](1051.md) `1051/1997`
+- [Valtioneuvoston päätös maatiloille myönnettävästä investointituesta annetun valtioneuvoston päätöksen 8 §:n muuttamisesta](1052.md) `1052/1997`
+- [Valtioneuvoston päätös maidon kuljetusavustuksista vuonna 1997](1053.md) `1053/1997`
+- [Valtioneuvoston päätös lihan kuljetusavustuksista vuonna 1997](1054.md) `1054/1997`
+- [Valtioneuvoston päätös pellon metsittämistä koskevasta tuesta annetun valtioneuvoston päätöksen muuttamisesta](1055.md) `1055/1997`
+- [Laki eräiden työsuhteessa olevien taiteilijoiden ja toimittajien eläkelain muuttamisesta](1056.md) `1056/1997`
+- [Laki työntekijäin eläkelain muuttamisesta](1057.md) `1057/1997`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](1058.md) `1058/1997`
+- [Laki maatalousyrittäjien eläkelain 6 §:n muuttamisesta](1059.md) `1059/1997`
+- [Laki yrittäjien eläkelain 5 §:n muuttamisesta](1060.md) `1060/1997`
+- [Asetus yrittäjien eläkeasetuksen 6 §:n muuttamisesta](1061.md) `1061/1997`
+- [Asetus maatalousyrittäjien eläkeasetuksen 6 §:n muuttamisesta](1062.md) `1062/1997`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkelain vähimmäisehtojen mukaisen vakuutuksen maksun ja lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain sekä taiteilijoiden ja eräiden erityisryhmiin kuuluvien työntekijäin eläkelain mukaisen vakuutusmaksun alentamisesta vuonna 1994 aiheutuneen vastuuvajauksen kuolettamisesta vuonna 1998](1063.md) `1063/1997`
+- [Liikenneministeriön päätös ilmatieteen laitoksen maksullisista suoritteista](1064.md) `1064/1997`
+- [Asetus Suomen Punaisesta Rististä](1065.md) `1065/1997`
+- [Asetus tilastokeskuksesta annetun asetuksen muuttamisesta](1066.md) `1066/1997`
+- [Valtioneuvoston päätös metsätaloudesta saatujen tulojen verotuksessa noudettavista tuottoperusteista](1067.md) `1067/1997`
+- [Valtioneuvoston päätös porotaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](1068.md) `1068/1997`
+- [Opetusministeriön päätös ulkomailla toimivien peruskoulua vastaavien yksityiskoulujen yksikköhintojen määräämisperusteista annetun opetusministeriön päätöksen 1 §:n muuttamisesta](1069.md) `1069/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1070.md) `1070/1997`
+- [Laki Postipankki Oy:stä annetun lain 3 §:n muuttamisesta](1071.md) `1071/1997`
+- [Asetus venäläisten yhteisöjen osallistumisen jatkumisesta kalanviljelytoimenpiteisiin Inarijärven kalakantojen säilyttämiseksi Venäjän kanssa tehdyn pöytäkirjan voimaansaattamisesta](1072.md) `1072/1997`
+- [Valtioneuvoston päätös maatiloille myönnettävästä kirjanpitoavustuksesta](1073.md) `1073/1997`
+- [Maa\- ja metsätalousministeriön päätös maatiloille myönnettävästä kirjanpitoavustuksesta annetun valtioneuvoston päätöksen voimaantulosta](1074.md) `1074/1997`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä joita sovelletaan rikottaessa neuvoston asetusta tiettyjen taloussuhteiden keskeyttämisestä Angolaan Unitan taivuttamiseksi täyttämään velvollisuutensa rauhanprosessissa](1075.md) `1075/1997`
+- [Rahoitustarkastuksen työjärjestyksen muuttaminen](1076.md) `1076/1997`
+- [Suomen Pankin ilmoitus vahvistetusta viitekorosta ja viivästyskorosta](1077.md) `1077/1997`
+- [Verohallituksen päätös vuodelta 1998 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](1078.md) `1078/1997`
+- [Laki kehitysyhteistyötä koskevan kertomuksen antamisesta eduskunnalle annetun lain 1 §:n muuttamisesta](1079.md) `1079/1997`
+- [Laki sosiaali\- ja terveyskertomuksesta](1080.md) `1080/1997`
+- [Laki työllisyyslain 6 §:n muuttamisesta](1081.md) `1081/1997`
+- [Laki tapaturma\- ja liikennevakuutuslaitoksilta vuodelta 1998 perittävästä maksusta](1082.md) `1082/1997`
+- [Asetus työntekijäin eläkeasetuksen muuttamisesta](1083.md) `1083/1997`
+- [Asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkeasetuksen muuttamisesta](1084.md) `1084/1997`
+- [Asetus eräiden työsuhteessa olevien taiteilijoiden ja toimittajien eläkeasetuksen muuttamisesta](1085.md) `1085/1997`
+- [Asetus maatalousyrittäjien eläkeasetuksen 10 §:n muuttamisesta](1086.md) `1086/1997`
+- [Asetus yrittäjien eläkeasetuksen 10 §:n muuttamisesta](1087.md) `1087/1997`
+- [Asetus esiintyvien taiteilijoiden eläkekassan ohjesäännön sisältävän asetuksen muuttamisesta](1088.md) `1088/1997`
+- [Asetus mittatekniikan keskuksesta annetun asetuksen muuttamisesta](1089.md) `1089/1997`
+- [Asetus turvatekniikan keskuksesta annetun asetuksen muuttamisesta](1090.md) `1090/1997`
+- [Asetus paineastia\-asetuksen muuttamisesta](1091.md) `1091/1997`
+- [Asetus maakaasuasetuksen muuttamisesta](1092.md) `1092/1997`
+- [Asetus nestekaasuasetuksen muuttamisesta](1093.md) `1093/1997`
+- [Asetus vaarallisten kemikaalien teollisesta käsittelystä ja varastoinnista annetun asetuksen 60 §:n muuttamisesta](1094.md) `1094/1997`
+- [Asetus öljylämmityslaitteistoista annetun asetuksen muuttamisesta](1095.md) `1095/1997`
+- [Asetus vakausasetuksen muuttamisesta](1096.md) `1096/1997`
+- [Asetus ampuma\-aseiden ja \-tarvikkeiden tarkastuksesta annetun asetuksen 7 §:n muuttamisesta](1097.md) `1097/1997`
+- [Asetus kattilalaitosten käytön valvojien pätevyyskirjoista annetun asetuksen muuttamisesta](1098.md) `1098/1997`
+- [Kauppa\- ja teollisuusministeriön päätös palavista nesteistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1099.md) `1099/1997`
+- [Kauppa\- ja teollisuusministeriön päätös kuljetettavista kaasusäiliöistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1100.md) `1100/1997`
+- [Kauppa\- ja teollisuusministeriön päätös paineastia\-asetuksen soveltamisesta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1101.md) `1101/1997`
+- [Laki kuntien valtionosuuslain muuttamisesta](1102.md) `1102/1997`
+- [Laki kunnan talouden vakauttamisesta ja kuntaselvityksestä annetun lain 19 §:n muuttamisesta](1103.md) `1103/1997`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](1104.md) `1104/1997`
+- [Laki verohallintolain muuttamisesta](1105.md) `1105/1997`
+- [Laki ennakkoperintälain 60 §:n muuttamisesta](1106.md) `1106/1997`
+- [Laki varainsiirtoverolain 64 §:n muuttamisesta](1107.md) `1107/1997`
+- [Laki Teknillisen tarkastuskeskuksen muuttamisesta osakeyhtiöksi](1108.md) `1108/1997`
+- [Laki sosiaalihuoltolain 27 b §:n muuttamisesta](1109.md) `1109/1997`
+- [Asetus ETA\-sopimuksen pöytäkirjan 47 ja tiettyjen liitteiden muuttamista koskevan ETA:n sekakomitean päätöksen n:o 7/94 eräiden määräysten hyväksymisestä ja päätöksen soveltamisesta annetun lain eräiden säännösten kumoamisesta annetun lain voimaantulosta lain 530/1994 5 §:n osalta](1110.md) `1110/1997`
+- [Asetus ammattioppilaitoksista annetun asetuksen 58 §:n muuttamisesta](1111.md) `1111/1997`
+- [Maa\- ja metsätalousministeriön päätös maatalouden ympäristötuen perustuesta annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](1112.md) `1112/1997`
+- [Laki Suomen Hallitusmuodon 49 ja 59 §:n muuttamisesta](1113.md) `1113/1997`
+- [Laki eduskunnan oikeudesta tarkastaa valtioneuvoston jäsenten ja oikeuskanslerin sekä eduskunnan oikeusasiamiehen virkatointen lainmukaisuutta annetun lain 1 §:n muuttamisesta](1114.md) `1114/1997`
+- [Laki valtakunnanoikeudesta annetun lain 1 §:n muuttamisesta](1115.md) `1115/1997`
+- [Laki eräiden valtion oppilaitoskiinteistöjen luovuttamisesta eräille kuntayhtymille](1116.md) `1116/1997`
+- [Laki opintotukilain muuttamisesta](1117.md) `1117/1997`
+- [Laki vientitakuulain muuttamisesta](1118.md) `1118/1997`
+- [Laki julkisesti tuettujen vientiluottojen korontasauksesta annetun lain muuttamisesta](1119.md) `1119/1997`
+- [Laki julkisesti tuettujen vientiluottojen korontasausyhtiöstä annetun lain muuttamisesta](1120.md) `1120/1997`
+- [Valtioneuvoston päätös tuottajaryhmien ja niiden liittojen tunnustamisesta ja tukemisesta](1121.md) `1121/1997`
+- [Valtioneuvoston päätös eräiden opintotukilaissa \(28/1972\) tarkoitettujen määrien vahvistamisesta](1122.md) `1122/1997`
+- [Sisäasiainministeriön päätös pysäköintivirhemaksun korottamisesta](1123.md) `1123/1997`
+- [Laki Alankomaiden kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](1124.md) `1124/1997`
+- [Asetus Alankomaiden kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1125.md) `1125/1997`
+- [Laki Kera Oy \-nimisestä osakeyhtiöstä annetun lain muuttamisesta](1126.md) `1126/1997`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Angolaa koskevaan päätökseen perustuvien velvoitusten täyttämisestä annetun asetuksen muuttamisesta](1127.md) `1127/1997`
+- [Valtiovarainministeriön päätös rakennusten jälleenhankinta\-arvon perusteista](1128.md) `1128/1997`
+- [Valtiovarainministeriön päätös vesivoimalaitoksen ja sen rakenteiden jälleenhankinta\-arvon perusteista](1129.md) `1129/1997`
+- [Valtiovarainministeriön päätös eräiden verojen lykkäyksen ehdoista](1130.md) `1130/1997`
+- [Laki kansanterveyslain muuttamisesta](1131.md) `1131/1997`
+- [Laki työturvallisuuslain 9 §:n muuttamisesta](1132.md) `1132/1997`
+- [Laki sairausvakuutuslain muuttamisesta](1133.md) `1133/1997`
+- [Laki lääkelain 58 §:n muuttamisesta](1134.md) `1134/1997`
+- [Laki lääkelain 66 §:n väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1135.md) `1135/1997`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 5 §:n väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1136.md) `1136/1997`
+- [Laki erikoissairaanhoitolain 56 a §:n väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1137.md) `1137/1997`
+- [Asetus erikoissairaanhoidon tasausjärjestelmän toteuttamisesta lääkekustannuksiin](1138.md) `1138/1997`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkelain 12 §:n 4 momentin mukaisen eläkelaitosten vastuun prosenttimäärästä vuodelle 1998](1139.md) `1139/1997`
+- [Sosiaali\- ja terveysministeriön päätös maatalousyrittäjien eläkelain 10 §:ssä tarkoitetun perusprosentin ja yrittäjien eläkelain 9 §:ssä tarkoitetun maksuprosentin vahvistamisesta](1140.md) `1140/1997`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkelain 12 b §:ssä tarkoitetun työntekijäin eläkemaksun vahvistamisesta](1141.md) `1141/1997`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkelain 7 a §:n 3 momentissa tarkoitetun kertoimen vahvistamisesta](1142.md) `1142/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](1143.md) `1143/1997`
+- [Valtioneuvoston päätös eräistä maa\- ja puutarhataloustuottajille vuodelta 1998 maksettavista siirtymäkauden tuista](1144.md) `1144/1997`
+- [Valtioneuvoston päätös maa\- ja puutarhataloustuottajille vuodelta 1998 maksettavasta pohjoisesta tuesta](1145.md) `1145/1997`
+- [Valtioneuvoston päätös kasvinviljelyn kansallisesta tuesta vuodelta 1998](1146.md) `1146/1997`
+- [Valtioneuvoston päätös eräiden maaseudun kehittämishankkeiden avustamisesta Euroopan aluekehitysrahaston tuella](1147.md) `1147/1997`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](1148.md) `1148/1997`
+- [Laki valtionosuutta saavista kansanopistoista annetun lain 12 ja 28 §:n muuttamisesta](1149.md) `1149/1997`
+- [Laki opintokeskuslain 23 §:n muuttamisesta](1150.md) `1150/1997`
+- [Laki indeksiehdon käytön rajoittamisesta annetun lain 1 ja 2 §:n muuttamisesta](1151.md) `1151/1997`
+- [Laki kuukautta lyhyempien valtion palvelussuhteiden eläketurvan järjestämisestä](1152.md) `1152/1997`
+- [Laki valtion eläkelain muuttamisesta](1153.md) `1153/1997`
+- [Laki valtion eläkerahastosta annetun lain 4 ja 6 §:n muuttamisesta](1154.md) `1154/1997`
+- [Asetus valtion palveluksessa olleen henkilön kuoltua suoritettavan taloudellisen tuen myöntämisestä ja maksamisesta annetun asetuksen 2 ja 5 §:n muuttamisesta](1155.md) `1155/1997`
+- [Asetus Suomen FAO\-toimikunnasta](1156.md) `1156/1997`
+- [Asetus tuontipolttoaineiden velvoitevarastoinnista annetun asetuksen muuttamisesta](1157.md) `1157/1997`
+- [Laki työtuomioistuimesta annetun lain muuttamisesta](1158.md) `1158/1997`
+- [Maakuntajakolaki](1159.md) `1159/1997`
+- [Laki rakennuslain 18 §:n muuttamisesta](1160.md) `1160/1997`
+- [Laki alueiden kehittämisestä annetun lain muuttamisesta](1161.md) `1161/1997`
+- [Laki kuluttajansuojalain muuttamisesta](1162.md) `1162/1997`
+- [Laki kuluttajansuojasta kiinteistönvälityksessä annetun lain 8 §:n muuttamisesta](1163.md) `1163/1997`
+- [Asetus asuntojen markkinoinnissa annettavista tiedoista annetun asetuksen 1 §:n muuttamisesta](1164.md) `1164/1997`
+- [Asetus eräiden rikosvahinkojen korvaamisesta valtion varoista annetussa laissa säädettyjen korvausten enimmäismäärien tarkistamisesta](1165.md) `1165/1997`
+- [Asetus sakkorangaistuksen täytäntöönpanosta annetun asetuksen muuttamisesta](1166.md) `1166/1997`
+- [Asetus metsäntutkimuslaitoksesta annetun asetuksen muuttamisesta](1167.md) `1167/1997`
+- [Laki teknologian kehittämiskeskuksesta annetun lain muuttamisesta](1168.md) `1168/1997`
+- [Asetus geologian tutkimuskeskuksesta annetun asetuksen muuttamisesta](1169.md) `1169/1997`
+- [Opetusministeriön päätös tallentamattomien ääni\- ja kuvanauhojen maahantuonnista ja valmistuksesta suoritettavan tekijänoikeudellisen maksun suuruudesta](1170.md) `1170/1997`
+- [Verohallituksen päätös verovapaista matkakustannusten korvauksista vuonna 1998](1171.md) `1171/1997`
+- [Luettelo kuntien tuloveroprosenteista ja kirkollisveroäyrien hinnoista vuonna 1998](1172.md) `1172/1997`
+- [Kiinteistörahastolaki](1173.md) `1173/1997`
+- [Asetus yritystukineuvottelukunnasta](1174.md) `1174/1997`
+- [Eduskunnan päätös eduskunnan tilisäännön muuttamisesta](1175.md) `1175/1997`
+- [Sisäasiainministeriön päätös julkisen notaarin suoritteiden maksuista](1176.md) `1176/1997`
+- [Valtiovarainministeriön päätös Alvar Aallon ja arkkitehtuurin juhlarahasta](1177.md) `1177/1997`
+- [Maa\- ja metsätalousministeriön päätös metsälain soveltamisesta annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](1178.md) `1178/1997`
+- [Opetusministeriön päätös Suomenlinnan hoitokunnan suoritteiden maksullisuudesta](1179.md) `1179/1997`
+- [Sisäasiainministeriön päätös rekisterihallinnon suoritteiden maksuista](1180.md) `1180/1997`
+- [Maa\- ja metsätalousministeriön päätös maa\- ja metsätalousministeriön tietopalvelukeskuksen suoritteista perittävistä maksuista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](1181.md) `1181/1997`
+- [Verohallituksen päätös niistä perusteista, joiden mukaan muun kiinteistön kuin maatilan maapohjan verotusarvo lasketaan vuodelta 1997 toimitettavassa verotuksessa](1182.md) `1182/1997`
+- [Laki ulkomaalaislain muuttamisesta](1183.md) `1183/1997`
+- [Asetus ulkomaalaislain muuttamisesta annetun lain voimaantulosta](1184.md) `1184/1997`
+- [Asetus Euroopan yhteisöjen jäsenvaltioon jätetyn turvapaikkahakemuksen käsittelystä vastuussa olevan valtion ratkaisemisesta tehdyn yleissopimuksen voimaansaattamisesta](1185.md) `1185/1997`
+- [Asetus patenttiyhteistyösopimuksen voimaansaattamisesta annetun asetuksen 2 §:n muuttamisesta](1186.md) `1186/1997`
+- [Asetus villieläimistön ja \-kasviston uhanalaisten lajien kansainvälistä kauppaa koskevan yleissopimuksen I ja II liitteen muutosten voimaansaattamisesta](1187.md) `1187/1997`
+- [Asetus väliintulosta aavalla merellä muista aineista kuin öljystä johtuvissa pilaantumistapauksissa tehdyn vuoden 1973 pöytäkirjan liitteen muutosten voimaansaattamisesta](1188.md) `1188/1997`
+- [Valtioneuvoston päätös eräistä maa\- ja puutarhataloustuottajille vuodelta 1998 maksettavista siirtymäkauden tuista annetun valtioneuvoston päätöksen muuttamisesta](1189.md) `1189/1997`
+- [Valtioneuvoston päätös saaristokuljetusten tukemisesta annetun valtioneuvoston päätöksen muuttamisesta](1190.md) `1190/1997`
+- [Valtioneuvoston päätös öljyjätemaksuina kertyvien varojen käytöstä öljyjätehuoltoon](1191.md) `1191/1997`
+- [Valtiovarainministeriön päätös Tilastokeskuksen suoritteiden maksullisuudesta](1192.md) `1192/1997`
+- [Valtiovarainministeriön päätös JHTT\-tutkintoon vaadittavasta käytännön kokemuksesta](1193.md) `1193/1997`
+- [Laki Arabiemiraattien liiton kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](1194.md) `1194/1997`
+- [Asetus Arabiemiraattien liiton kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1195.md) `1195/1997`
+- [Kuntajakolaki](1196.md) `1196/1997`
+- [Laki pienten erillisten alueiden siirtämisestä kunnasta toiseen kuntaan](1197.md) `1197/1997`
+- [Laki kuntalain 5 §:n muuttamisesta](1198.md) `1198/1997`
+- [Laki Brasilian kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](1199.md) `1199/1997`
+- [Asetus Brasilian kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen voimaansaattamisesta ja eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1200.md) `1200/1997`
+- [Laki vuorotteluvapaakokeilusta annetun lain muuttamisesta](1201.md) `1201/1997`
+- [Valtioneuvoston päätös asumistuen määräytymisperusteista](1202.md) `1202/1997`
+- [Verohallituksen päätös vuonna 1998 sovellettavien ennakonpidätysperusteiden voimaantulosta](1203.md) `1203/1997`
+- [Laki vakuutustarkastuksen kustantamisesta annetun lain 1 ja 4 §:n muuttamisesta](1204.md) `1204/1997`
+- [Laki työttömyysvakuutusmaksusta vuonna 1998](1205.md) `1205/1997`
+- [Laki vuodelta 1998 perittävästä palkansaajan työttömyysvakuutusmaksusta](1206.md) `1206/1997`
+- [Laki työttömyyskassalain 25 ja 30 §:n väliaikaisesta muuttamisesta](1207.md) `1207/1997`
+- [Valtioneuvoston päätös syöpää aiheuttavia, perimää vaurioittavia ja lisääntymiselle vaarallisia aineita koskevista kielloista ja rajoituksista](1208.md) `1208/1997`
+- [Valtioneuvoston päätös tiettyjä kloorattuja liuottimia koskevista kielloista ja rajoituksista](1209.md) `1209/1997`
+- [Valtioneuvoston päätös sairausvakuutuslain 5 a §:n 1 momentissa tarkoitetuista lääkkeistä](1210.md) `1210/1997`
+- [Sosiaali\- ja terveysministeriön päätös lääkkeiden tukkuhintojen tarkistamisesta](1211.md) `1211/1997`
+- [Laki kalastuslain muuttamisesta](1212.md) `1212/1997`
+- [Laki petoeläinten tappamien porojen korvaamisesta annetun lain kumoamisesta](1213.md) `1213/1997`
+- [Asetus sotilaskurinpitoasetuksen muuttamisesta](1214.md) `1214/1997`
+- [Asetus kuljetusten alueellisesta tukemisesta](1215.md) `1215/1997`
+- [Ulkoasiainministeriön päätös kemiallisten aseiden kehittämisen, tuotannon, varastoinnin ja käytön kieltämistä sekä niiden hävittämistä koskevaan yleissopimukseen liittyvien tehtävien hoitamisesta](1216.md) `1216/1997`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeissa käytettävistä makeutusaineista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1217.md) `1217/1997`
+- [Laki konkurssisäännön muuttamisesta](1218.md) `1218/1997`
+- [Laki konkurssipesien hallinnon valvonnasta annetun lain 7 §:n muuttamisesta](1219.md) `1219/1997`
+- [Laki liiketoimintakiellosta annetun lain muuttamisesta](1220.md) `1220/1997`
+- [Laki eurooppalaisesta taloudellisesta etuyhtymästä annetun lain 1 §:n 2 momentin kumoamisesta](1221.md) `1221/1997`
+- [Laki poliisin henkilörekistereistä annetun lain 13 §:n muuttamisesta](1222.md) `1222/1997`
+- [Asetus työtuomioistuimesta annetun asetuksen muuttamisesta](1223.md) `1223/1997`
+- [Asetus vankeinhoitolaitoksesta annetun asetuksen 45 §:n muuttamisesta](1224.md) `1224/1997`
+- [Asetus vankeinhoidon koulutuskeskuksesta annetun asetuksen 9 §:n muuttamisesta](1225.md) `1225/1997`
+- [Asetus oikeusministeriöstä annetun asetuksen 6 §:n muuttamisesta](1226.md) `1226/1997`
+- [Asetus onnettomuuksien tutkinnasta annetun asetuksen muuttamisesta](1227.md) `1227/1997`
+- [Laki rikoslain 29 luvun 1 §:n muuttamisesta](1228.md) `1228/1997`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](1229.md) `1229/1997`
+- [Laki ulkomaisen luotto\- ja rahoituslaitoksen toiminnasta Suomessa annetun lain muuttamisesta](1230.md) `1230/1997`
+- [Laki liikepankkilain muuttamisesta](1231.md) `1231/1997`
+- [Laki säästöpankkilain muuttamisesta](1232.md) `1232/1997`
+- [Laki osuuspankkilain muuttamisesta](1233.md) `1233/1997`
+- [Laki osuuspankkilain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1234.md) `1234/1997`
+- [Laki säästöpankin muuttamisesta osakeyhtiömuotoiseksi pankiksi annetun lain 14 ja 15 §:n kumoamisesta](1235.md) `1235/1997`
+- [Laki rahoitustarkastuslain muuttamisesta](1236.md) `1236/1997`
+- [Laki valtion vakuusrahastosta annetun lain muuttamisesta](1237.md) `1237/1997`
+- [Laki varallisuusverolain 5 §:n muuttamisesta](1238.md) `1238/1997`
+- [Laki elinkeinotulon verottamisesta annetun lain 8 §:n muuttamisesta](1239.md) `1239/1997`
+- [Laki leimaverolain 51 §:n muuttamisesta](1240.md) `1240/1997`
+- [Laki laitteiden energiatehokkuudesta](1241.md) `1241/1997`
+- [Laki tieliikennelain muuttamisesta](1242.md) `1242/1997`
+- [Asetus ajokorttiasetuksen muuttamisesta](1243.md) `1243/1997`
+- [Liikenneministeriön päätös ajokorttiin tehtävistä merkinnöistä](1244.md) `1244/1997`
+- [Liikenneministeriön päätös ajokorttiasetuksen soveltamisesta annetun liikenneministeriön päätöksen muuttamisesta](1245.md) `1245/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1246.md) `1246/1997`
+- [Laki julkisista hankinnoista annetun lain muuttamisesta](1247.md) `1247/1997`
+- [Laki merenkulkulaitoksesta annetun lain 1 ja 2 §:n muuttamisesta](1248.md) `1248/1997`
+- [Asetus merenkulkulaitoksesta](1249.md) `1249/1997`
+- [Sosiaali\- ja terveysministeriön päätös lääkärin hyväksymisestä merimieslääkäriksi](1250.md) `1250/1997`
+- [Laki alusturvallisuuden valvonnasta annetun lain muuttamisesta](1251.md) `1251/1997`
+- [Asetus väylämaksuasetuksen muuttamisesta](1252.md) `1252/1997`
+- [Asetus teknologian kehittämiskeskuksesta annetun asetuksen muuttamisesta](1253.md) `1253/1997`
+- [Kauppa\- ja teollisuusministeriön päätös teknologian kehittämiskeskuksen maksuista](1254.md) `1254/1997`
+- [Asetus maaseutuelinkeinoasetuksen muuttamisesta](1255.md) `1255/1997`
+- [Asetus aluksen miehityksestä, laivaväen pätevyydestä ja vahdinpidosta](1256.md) `1256/1997`
+- [Liikenneministeriön päätös aluksen miehityksestä, laivaväen pätevyydestä ja vahdinpidosta](1257.md) `1257/1997`
+- [Asetus testaus\-, tarkastus\-, sertifiointi\- ja kalibrointitoimintaa harjoittavien toimielinten pätevyyden toteamisesta annetun asetuksen muuttamisesta](1258.md) `1258/1997`
+- [Laki Opetusalan koulutuskeskuksesta](1259.md) `1259/1997`
+- [Laki nestemäisten polttoaineiden valmisteverosta annetun lain liitteenä olevan verotaulukon muuttamisesta](1260.md) `1260/1997`
+- [Laki sähkön ja eräiden polttoaineiden valmisteverosta annetun lain muuttamisesta](1261.md) `1261/1997`
+- [Vuoden 1998 veroasteikkolaki](1262.md) `1262/1997`
+- [Laki tuloverolain muuttamisesta](1263.md) `1263/1997`
+- [Laki veronkantolain 12 c §:n muuttamisesta](1264.md) `1264/1997`
+- [Laki arvonlisäverolain muuttamisesta](1265.md) `1265/1997`
+- [Asetus arvonlisäveroasetuksen 9 §:n muuttamisesta](1266.md) `1266/1997`
+- [Asetus ennakkoperintäasetuksen 8 §:n 5 momentin ja 11 §:n kumoamisesta](1267.md) `1267/1997`
+- [Asetus Suomen Akatemiasta annetun asetuksen muuttamisesta](1268.md) `1268/1997`
+- [Laki ulkomaalaislain muuttamisesta](1269.md) `1269/1997`
+- [Laki ulkomaalaisrekisteristä](1270.md) `1270/1997`
+- [Asetus ulkomaalaisvirastosta annetun asetuksen muuttamisesta](1271.md) `1271/1997`
+- [Asetus poliisikoulutuksesta](1272.md) `1272/1997`
+- [Asetus poliisin hallinnosta annetun asetuksen muuttamisesta](1273.md) `1273/1997`
+- [Laki maatalousyrittäjien tapaturmavakuutuslain muuttamisesta](1274.md) `1274/1997`
+- [Laki kuntoutusrahalain 31 §:n poikkeuksellisesta soveltamisesta](1275.md) `1275/1997`
+- [Laki työntekijäin eläkemaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta eräissä päivärahoissa](1276.md) `1276/1997`
+- [Laki vuodelta 1998 suoritettavista sairausvakuutusmaksuista, työnantajan kansaneläkemaksusta ja työnantajan lapsilisämaksusta](1277.md) `1277/1997`
+- [Laki kansaneläkelain 59 §:n väliaikaisesta muuttamisesta](1278.md) `1278/1997`
+- [Laki sairausvakuutuslain 59 §:n väliaikaisesta muuttamisesta](1279.md) `1279/1997`
+- [Asetus lääkkeiden hintalautakunnasta](1280.md) `1280/1997`
+- [Asetus työnantajan sosiaaliturvamaksusta annetun asetuksen 1 §:n muuttamisesta](1281.md) `1281/1997`
+- [Valtioneuvoston päätös eläkkeensaajien asumistukilain mukaisista hoitomenoina hyväksyttävistä keskimääräisistä kustannuksista ja asumiskustannusten enimmäismääristä vuodelle 1998](1282.md) `1282/1997`
+- [Valtioneuvoston päätös kansaneläkkeen määrästä tehtävästä vähennyksestä vuonna 1997 annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](1283.md) `1283/1997`
+- [Laki siemenkauppalain muuttamisesta ja lain 3 ja 4 §:n väliaikaisesta muuttamisesta](1284.md) `1284/1997`
+- [Laki satovahinkojen korvaamisesta annetun lain muuttamisesta](1285.md) `1285/1997`
+- [Laki kestävän metsätalouden rahoituksesta annetun lain muuttamisesta](1286.md) `1286/1997`
+- [Laki Lapin vajaatuottoisten metsien kunnostamisesta annetun lain muuttamisesta annetun lain voimaantulo\- ja siirtymäsäännöksen muuttamisesta](1287.md) `1287/1997`
+- [Laki kiinteistön yhteisomistajien osallistumisesta metsätalouden rahoituslainsäädännössä tarkoitettuun toimenpiteeseen annetun lain 8 §:n muuttamisesta](1288.md) `1288/1997`
+- [Laki maa\- ja metsätalouden rakennepoliittisista toimenpiteistä annetun lain muuttamisesta annetun lain voimaantulo\- ja siirtymäsäännöksen muuttamisesta](1289.md) `1289/1997`
+- [Asetus kasvintuotannon tarkastuskeskuksesta annetun asetuksen 8 §:n muuttamisesta](1290.md) `1290/1997`
+- [Asetus Kasvinjalostuslaitoksesta annetun asetuksen 9 §:n muuttamisesta](1291.md) `1291/1997`
+- [Asetus Siemenperunakeskuksesta annetun asetuksen 10 §:n muuttamisesta](1292.md) `1292/1997`
+- [Kauppa\- ja teollisuusministeriön päätös sähkömarkkinakeskuksen maksullisista suoritteista](1293.md) `1293/1997`
+- [Maa\- ja metsätalousministeriön päätös työvoima\- ja elinkeinokeskusten porotaloutta koskevien tehtävien hoidosta](1294.md) `1294/1997`
+- [Laki Kurjenrahkan kansallispuistosta](1295.md) `1295/1997`
+- [Asetus Kurjenrahkan kansallispuistosta](1296.md) `1296/1997`
+- [Asetus sähköisen viestinnän varautumisesta](1297.md) `1297/1997`
+- [Asetus laitteiden energiatehokkuudesta annetussa laissa tarkoitettujen tarkastuslaitosten hyväksymisestä](1298.md) `1298/1997`
+- [Liikenneministeriön päätös teletoiminnan toimintojen eriyttämisestä annetun liikenneministeriön päätöksen muuttamisesta](1299.md) `1299/1997`
+- [Liikenneministeriön päätös eräistä Euroopan yhteisöjen lainsäädännössä tarkoitetuista telemaksuista](1300.md) `1300/1997`
+- [Liikenneministeriön päätös eräiden Euroopan yhteisöjen lainsäädännössä tarkoitetuista kiinteiden yhteyksien tarjonnasta](1301.md) `1301/1997`
+- [Liikenneministeriön päätös merenkulkulaitoksen maksullisista suoritteista annetun liikenneministeriön päätöksen 3 §:n ja liitteen 1 muuttamisesta](1302.md) `1302/1997`
+- [Laki kirkkolain muuttamisesta](1303.md) `1303/1997`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](1304.md) `1304/1997`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](1305.md) `1305/1997`
+- [Kirkolliskokouksen päätös kirkon vaalijärjestyksen muuttamisesta](1306.md) `1306/1997`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](1307.md) `1307/1997`
+- [Valtiovarainministeriön päätös verohallituksen määräämisestä toimivaltaisena viranomaisena ratkaisemaan eräitä verotusta koskevissa kansainvälisissä sopimuksissa tarkoitettuja asioita](1308.md) `1308/1997`
+- [Valtiovarainministeriön päätös vuoden 1998 taidekilpailupalkintojen verovapaudesta](1309.md) `1309/1997`
+- [Verohallituksen päätös veroilmoituksesta annetun Verohallituksen päätöksen muuttamisesta](1310.md) `1310/1997`
+- [Valtioneuvoston päätös verovirastoista annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](1311.md) `1311/1997`
+- [Valtioneuvoston päätös eräistä maa\- ja puutarhataloustuottajille vuodelta 1997 maksettavista tuista annetun valtioneuvoston päätöksen 9 §:n muuttamisesta](1312.md) `1312/1997`
+- [Valtiovarainministeriön päätös varsinaisen ajoneuvoveron kannosta, maksupaikoista ja suorittamisesta annetun valtiovarainministeriön päätöksen muuttamisesta](1313.md) `1313/1997`
+- [Valtiovarainministeriön päätös ajoneuvoveron kannosta](1314.md) `1314/1997`
+- [Opetusministeriön päätös yleiseen kielitutkintoon osallistuvalta perittävän maksun enimmäismäärästä](1315.md) `1315/1997`
+- [Maa\- ja metsätalousministeriön päätös eräistä maa\- ja puutarhatalouden kansallisen tuen hakuajoista sekä eläinmäärien ilmoittamisesta vuonna 1998](1316.md) `1316/1997`
+- [Maa\- ja metsätalousministeriön päätös perunantuotannon lisäkustannusten korvaamisesta vuonna 1997 Siemenperunakeskuksen tuotantoalueella](1317.md) `1317/1997`
+- [Liikenneministeriön päätös telemarkkinalain soveltamisalasta ja teletoiminnan ilmoitusvelvollisuudesta annetun liikenneministeriön päätöksen 3 ja 4 §:n muuttamisesta](1318.md) `1318/1997`
+- [Liikenneministeriön päätös Telehallintokeskuksen maksuista annetun liikenneministeriön päätöksen muuttamisesta](1319.md) `1319/1997`
+- [Työministeriön päätös työhallinnon maksullisista suoritteista annetun työministeriön päätöksen muuttamisesta](1320.md) `1320/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä määräyksistä](1321.md) `1321/1997`
+- [Laki vakuutuskassalain muuttamisesta](1322.md) `1322/1997`
+- [Laki eläkesäätiölain muuttamisesta](1323.md) `1323/1997`
+- [Asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkekassan toimintapääomaan luettavista eristä](1324.md) `1324/1997`
+- [Asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkekassan vakavaraisuusrajan laskemisesta](1325.md) `1325/1997`
+- [Asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkesäätiön toimintapääomaan luettavista eristä](1326.md) `1326/1997`
+- [Asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkesäätiön vakavaraisuusrajan laskemisesta](1327.md) `1327/1997`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkemaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta sairausvakuutusjärjestelmän mukaisissa päivärahoissa ja kuntoutusrahalain mukaisissa kuntoutusrahoissa](1328.md) `1328/1997`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkemaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta työttömyysturvalain perusteella maksettavissa päivärahoissa](1329.md) `1329/1997`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkemaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta tapaturmavakuutuslain perusteella maksettavissa päivärahoissa](1330.md) `1330/1997`
+- [Valtioneuvoston päätös televisiolupamaksuista annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](1331.md) `1331/1997`
+- [Liikenneministeriön päätös henkilövuokra\-autojen reittitaksoista](1332.md) `1332/1997`
+- [Liikenneministeriön päätös henkilövuokra\-autojen kuljetusmaksuista](1333.md) `1333/1997`
+- [Liikenneministeriön päätös linja\-autoliikenteen henkilötaksoista](1334.md) `1334/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1335.md) `1335/1997`
+- [Kirjanpitolaki](1336.md) `1336/1997`
+- [Laki osakeyhtiölain muuttamisesta](1337.md) `1337/1997`
+- [Laki osuuskuntalain 79 c §:n muuttamisesta](1338.md) `1338/1997`
+- [Kirjanpitoasetus](1339.md) `1339/1997`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](1340.md) `1340/1997`
+- [Laki liikepankkilain muuttamisesta](1341.md) `1341/1997`
+- [Laki säästöpankkilain muuttamisesta](1342.md) `1342/1997`
+- [Laki säästöpankin muuttamisesta osakeyhtiömuotoiseksi pankiksi annetun lain muuttamisesta](1343.md) `1343/1997`
+- [Laki osuuspankkilain muuttamisesta](1344.md) `1344/1997`
+- [Laki hypoteekkiyhdistyksistä annetun lain 7 §:n 1 momentin 12 kohdan ja 21 §:n 2 momentin kumoamisesta](1345.md) `1345/1997`
+- [Laki ulkomaisen luotto\- ja rahoituslaitoksen toiminnasta Suomessa annetun lain 23 §:n muuttamisesta](1346.md) `1346/1997`
+- [Laki sijoituspalveluyrityksistä annetun lain muuttamisesta](1347.md) `1347/1997`
+- [Laki ulkomaisen sijoituspalveluyrityksen oikeudesta tarjota sijoituspalvelua Suomessa annetun lain 15 §:n muuttamisesta](1348.md) `1348/1997`
+- [Laki rahoitustarkastuslain muuttamisesta](1349.md) `1349/1997`
+- [Sosiaali\- ja terveysministeriön päätös vuodelta 1998 perittävästä palkansaajan työttömyysvakuutusmaksusta annetun lain soveltamisesta](1350.md) `1350/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1351.md) `1351/1997`
+- [Laki indeksiehdon käytöstä vuosia 1998 ja 1999 koskevissa työ\- ja virkaehtosopimuksissa](1352.md) `1352/1997`
+- [Laki työvoimapalvelulain muuttamisesta](1353.md) `1353/1997`
+- [Laki työmarkkinatuesta annetun lain muuttamisesta](1354.md) `1354/1997`
+- [Laki työllisyyslain muuttamisesta](1355.md) `1355/1997`
+- [Laki työttömyysturvalain 13 ja 16 §:n muuttamisesta](1356.md) `1356/1997`
+- [Laki työttömyysturvalain muuttamisesta ja väliaikaisesta muuttamisesta annetun lain 13 ja 16 §:n muuttamisesta](1357.md) `1357/1997`
+- [Asetus työvoimapalveluasetuksen muuttamisesta](1358.md) `1358/1997`
+- [Asetus työvoimatoimikunnasta annetun asetuksen 3 §:n muuttamisesta](1359.md) `1359/1997`
+- [Asetus työvoimatoimikunnasta annetun asetuksen muuttamisesta ja väliaikaisesta muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](1360.md) `1360/1997`
+- [Asetus työmarkkinatuesta](1361.md) `1361/1997`
+- [Asetus työttömien aloitteellisuuden tukemisesta annetun asetuksen 6 §:n muuttamisesta](1362.md) `1362/1997`
+- [Työllisyysasetus](1363.md) `1363/1997`
+- [Asetus kalastusasetuksen muuttamisesta](1364.md) `1364/1997`
+- [Asetus pohjoisten kuntien kalastusaluelautakunnasta](1365.md) `1365/1997`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta](1366.md) `1366/1997`
+- [Valtioneuvoston päätös petoeläinvahinkojen korvaamisesta](1367.md) `1367/1997`
+- [Kauppa\- ja teollisuusministeriön päätös telakkateollisuuden kilpailuedellytysten turvaamiseen myönnettävästä valtion avustuksesta](1368.md) `1368/1997`
+- [Maa\- ja metsätalousministeriön päätös aluskohtaisista erityisistä kalastusluvista](1369.md) `1369/1997`
+- [Maa\- ja metsätalousministeriön päätös maatalouden tutkimuskeskuksen suoritteiden maksullisuudesta ja maksuperusteista](1370.md) `1370/1997`
+- [Maa\- ja metsätalousministeriön päätös maatalouden taloudellisen tutkimuslaitoksen maksullisista suoritteista](1371.md) `1371/1997`
+- [Laki evankelis\-luterilaisen kirkon eläkelain muuttamisesta](1372.md) `1372/1997`
+- [Asetus valtion asuntorahastosta annetun asetuksen 12 §:n muuttamisesta](1373.md) `1373/1997`
+- [Valtioneuvoston päätös käräjäoikeuksien tuomiopiireistä annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](1374.md) `1374/1997`
+- [Valtioneuvoston päätös kehitysalueesta, sen tukialueista ja rakennemuutosalueesta](1375.md) `1375/1997`
+- [Valtiovarainministeriön päätös luottolaitoksen ja sijoituspalveluyrityksen tilinpäätöksestä ja konsernitilinpäätöksestä](1376.md) `1376/1997`
+- [Valtiovarainministeriön päätös luottolaitoksen markkinariskien kattamiseksi vaadittavasta omien varojen määrästä annetun valtiovarainministeriön päätöksen kumoamisesta](1377.md) `1377/1997`
+- [Laki tullilain muuttamisesta](1378.md) `1378/1997`
+- [Laki valmisteverotuslain muuttamisesta](1379.md) `1379/1997`
+- [Laki autoverolain muuttamisesta](1380.md) `1380/1997`
+- [Laki arvonlisäverolain 197 ja 198 §:n muuttamisesta](1381.md) `1381/1997`
+- [Laki tullilaitoksesta annetun lain 4 §:n kumoamisesta](1382.md) `1382/1997`
+- [Laki tuloverolain muuttamisesta](1383.md) `1383/1997`
+- [Laki rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun lain 3 §:n muuttamisesta](1384.md) `1384/1997`
+- [Laki elinkeinotulon verottamisesta annetun lain 6 ja 16 §:n muuttamisesta](1385.md) `1385/1997`
+- [Laki yhtiöveron hyvityksestä annetun lain 1 §:n muuttamisesta](1386.md) `1386/1997`
+- [Laki verotusmenettelystä annetun lain 15 §:n muuttamisesta](1387.md) `1387/1997`
+- [Verohallituksen päätös kotieläinten arvon määräämisessä noudatettavista perusteista](1388.md) `1388/1997`
+- [Laki Pohjoismaiden välillä tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen muuttamista koskevan pöytäkirjan eräiden määräysten hyväksymisestä](1389.md) `1389/1997`
+- [Asetus Pohjoismaiden välillä tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen muuttamista koskevan pöytäkirjan voimaansaattamisesta ja pöytäkirjan eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1390.md) `1390/1997`
+- [Asetus Ruotsin kanssa tehdyn öljyn varmuusvarastointia koskevan sopimuksen voimaansaattamisesta](1391.md) `1391/1997`
+- [Asetus ulkomaisten väliyhteisöjen osakkaiden verotuksesta annetun lain 2 §:n 3 momentissa tarkoitetuista valtioista](1392.md) `1392/1997`
+- [Liikenneministeriön päätös teleyritysten televerkkojen ja \-palvelujen yhteenliittämisestä](1393.md) `1393/1997`
+- [Laki oikeudesta hankkia maa\- ja metsätalousmaata annetun lain kumoamisesta](1394.md) `1394/1997`
+- [Laki maatalouden tutkimuskeskuksesta](1395.md) `1395/1997`
+- [Asetus maatalouden tutkimuskeskuksesta](1396.md) `1396/1997`
+- [Asetus maatilatalouden kehittämisrahastosta annetun asetuksen 4 §:n muuttamisesta](1397.md) `1397/1997`
+- [Asetus eläinten kuljetuksesta annetun asetuksen 28 ja 48 §:n muuttamisesta](1398.md) `1398/1997`
+- [Valtioneuvoston päätös vuoden 1997 puutarhatuotannon tuen jakoperusteista](1399.md) `1399/1997`
+- [Valtioneuvoston päätös maa\- ja puutarhatalouden harjoittajille maksettavasta pohjoisesta tuesta annetun valtioneuvoston päätöksen soveltamisesta vuodelta 1997](1400.md) `1400/1997`
+- [Laki työttömyysturvalain muuttamisesta ja väliaikaisesta muuttamisesta](1401.md) `1401/1997`
+- [Laki työttömien omaehtoisen opiskelun tukemisesta](1402.md) `1402/1997`
+- [Laki opintotukilain 6 §:n muuttamisesta](1403.md) `1403/1997`
+- [Asetus työttömyysturvalain täytäntöönpanosta annetun asetuksen 4 a §:n muuttamisesta](1404.md) `1404/1997`
+- [Valtioneuvoston päätös valtion liikelaitoksen työttömyysvakuutusmaksusta vuonna 1998](1405.md) `1405/1997`
+- [Ulkoasiainministeriön ilmoitus ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](1406.md) `1406/1997`
+- [Ulkoasiainministeriön ilmoitus ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](1407.md) `1407/1997`
+- [Laki joukkotuhontana pidettävän rikoksen ehkäisemistä ja rankaisemista koskevan yleissopimuksen eräiden säännösten hyväksymisestä annetun lain muuttamisesta](1408.md) `1408/1997`
+- [Asetus joukkotuhontana pidettävän rikoksen ehkäisemistä ja rankaisemista koskevan yleissopimuksen eräiden säännösten hyväksymisestä annetun lain muuttamisesta annetun lain voimaantulosta](1409.md) `1409/1997`
+- [Asetus joukkotuhontana pidettävän rikoksen ehkäisemistä ja rankaisemista koskevan yleissopimuksen voimaansaattamisesta annetun asetuksen 2 §:n kumoamisesta](1410.md) `1410/1997`
+- [Maa\- ja metsätalousministeriön päätös sikojen merkitsemisestä ja luetteloinnista](1411.md) `1411/1997`
+- [Laki toimeentulotuesta](1412.md) `1412/1997`
+- [Laki sosiaalihuoltolain ja \-asetuksen eräiden säännösten kumoamisesta](1413.md) `1413/1997`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain muuttamisesta](1414.md) `1414/1997`
+- [Asetus kestävän metsätalouden rahoituksesta annetun asetuksen muuttamisesta](1415.md) `1415/1997`
+- [Ulkoasiainministeriön päätös ulkoasiainhallinnon suoritteiden maksullisuudesta ja maksuperusteista](1416.md) `1416/1997`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkemaksusta](1417.md) `1417/1997`
+- [Kauppa\- ja teollisuusministeriön päätös ydinlaitosten ympäristövaikutusten arviointimenettelyyn kuuluvista kauppa\- ja teollisuusministeriön maksullisista suoritteista](1418.md) `1418/1997`
+- [Sosiaali\- ja terveysministeriön päätös geenitekniikkalain mukaisten suoritteiden maksullisuudesta annetun sosiaali\- ja terveysministeriön päätöksen 3 §:n muuttamisesta](1419.md) `1419/1997`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä joita sovelletaan rikottaessa neuvoston asetusta tiettyjen taloussuhteiden katkaisemisesta Sierra Leoneen](1420.md) `1420/1997`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1421.md) `1421/1997`

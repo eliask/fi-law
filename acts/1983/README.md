@@ -1,0 +1,151 @@
+# 1983 Statutes
+
+## Statutes
+
+- [Laki valtioneuvoston ministeriöiden lukumäärästä ja yleisestä toimialasta annetun lain 1 ja 3 §:n muuttamisesta](1.md) `1/1983`
+- [Asetus korkeakoulujen eräiden virkojen perustamisesta](18.md) `18/1983`
+- [Laki kuluttajansuojalain 1 luvun muuttamisesta](45.md) `45/1983`
+- [Laki verojen ja maksujen perimisestä ulosottotoimin annetun lain muuttamisesta](47.md) `47/1983`
+- [Asetus rakennusasetuksen 47 ja 147 §:n muuttamisesta](52.md) `52/1983`
+- [Asetus asevelvollisuuslain soveltamisesta annetun asetuksen 109 §:n muuttamisesta](53.md) `53/1983`
+- [Laki apteekimaksusta annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](59.md) `59/1983`
+- [Rikesakkolaki](66.md) `66/1983`
+- [Laki rikesakosta tieliikenteessä](68.md) `68/1983`
+- [Laki sakkorangaistuksen täytäntöönpanosta annetun lain 3 §:n muuttamisesta](69.md) `69/1983`
+- [Laki verotuslain 72 §:n muuttamisesta](70.md) `70/1983`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](71.md) `71/1983`
+- [Laki räjähdysvaarallisista aineista annetun lain muuttamisesta](89.md) `89/1983`
+- [Laki maa\-alueilla tapahtuvien öljyvahinkojen torjumisesta annetun lain muuttamisesta](90.md) `90/1983`
+- [Asetus lääninhallituksesta annetun asetuksen muuttamisesta](94.md) `94/1983`
+- [Laki kansaneläkelain muuttamisesta](99.md) `99/1983`
+- [Laki valtion eläkelain 17 §:n muuttamisesta](102.md) `102/1983`
+- [Laki evankelis\-luterilaisen kirkon eläkelain muuttamisesta](112.md) `112/1983`
+- [Laki evankelis\-luterilaisen kirkon perhe\-eläkelain muuttamisesta](113.md) `113/1983`
+- [Laki metsäntutkimuslaitoksesta annetun lain muuttamisesta](135.md) `135/1983`
+- [Muutos eduskunnan oikeusasiamiehen johtosäännön 20 §:ään](142.md) `142/1983`
+- [Asetus taiteilijaprofessorin viroista ja valtion taitelija\-apurahoista annetun asetuksen 7 §:n muuttamisesta](162.md) `162/1983`
+- [Asetus työtuomioistuimesta](201.md) `201/1983`
+- [Laki tiekuljetussopimuslain muuttamisesta](208.md) `208/1983`
+- [Laki perintökaaren muuttamisesta](209.md) `209/1983`
+- [Valtioneuvoston päätös ylimääräisistä sanomalehtimieseläkkeistä annetun valtioneuvoston päätöksen 3 ja 5 §:n muuttamisesta](218.md) `218/1983`
+- [Laki elinkeinotulon verottamisesta annetun lain väliaikaisesta muuttamisesta](222.md) `222/1983`
+- [Laki verotuslain muuttamisesta](223.md) `223/1983`
+- [Asetus palkkaturva\-asetuksen 4 ja 6 §:n muuttamisesta](225.md) `225/1983`
+- [Asetus rakennusasetuksen 157 §:n muuttamisesta](230.md) `230/1983`
+- [Asetus veronkantoasetuksen muuttamisesta](232.md) `232/1983`
+- [Raittiustyöasetus](233.md) `233/1983`
+- [Laki merimieseläkelain muuttamisesta](236.md) `236/1983`
+- [Vartioimisliikelaki](237.md) `237/1983`
+- [Laki leipomotyölain muuttamisesta](264.md) `264/1983`
+- [Laki laivanisännistöyhtiön ja laivanisännän verottamisesta](273.md) `273/1983`
+- [Laki valtionenemmistöisten osakeyhtiöiden toiminnan tarkastuksesta annettua lain 2 §:n muuttamisesta annetun lain soveltamissäännöksen muuttamisesta](275.md) `275/1983`
+- [Laki valtiopäiväjärjestyksen muuttamisesta](278.md) `278/1983`
+- [Laki Suomen Hallitusmuodon 27 §:n muuttamisesta](279.md) `279/1983`
+- [Laki edustajanpalkkiosta annetun lain 4 §:n muuttamisesta](281.md) `281/1983`
+- [Laki valtakunnanoikeudesta annetun lain 1 §:n muuttamisesta](282.md) `282/1983`
+- [Laki liiketoiminnan perusteella suoritettavista suhdannetalletuksista annetun lain muuttamisesta](295.md) `295/1983`
+- [Laki eräistä talonrakennustöistä suoritettavasta investointiverosta annetun lain muuttamisesta](296.md) `296/1983`
+- [Laki lasten päivähoidosta annetun lain muuttamisesta](304.md) `304/1983`
+- [Laki pellon käytön rajoittamisesta annetun lain muuttamisesta](307.md) `307/1983`
+- [Asetus valtiopäivien avajaisten ja päättäjäisten juhlamenoista annetun asetuksen muuttamisesta](311.md) `311/1983`
+- [Laki nuorista rikoksentekijöistä annetun lain 27 §:n muuttamisesta](323.md) `323/1983`
+- [Laki vaarallisten rikoksenuusijain eristämisestä annetun lain 2 §:n muuttamisesta](324.md) `324/1983`
+- [Laki asevelvollisuuslain muuttamisesta](325.md) `325/1983`
+- [Sotilasoikeudenkäyntilaki](326.md) `326/1983`
+- [Laki sotilasoikeudenkäyntiasioita käsittelevistä yleisistä alioikeuksista](327.md) `327/1983`
+- [Laki sotilasoikeudenkäyntilain voimaanpanosta](328.md) `328/1983`
+- [Laki rikoslain voimaanpanemisesta annetun asetuksen 15 ja 16 §:n muuttamisesta](329.md) `329/1983`
+- [Laki korkeimmasta oikeudesta annetun lain 7 a §:n muuttamisesta](330.md) `330/1983`
+- [Sotilaskurinpitolaki](331.md) `331/1983`
+- [Laki rajavartiolaitoksesta annetun lain 9 §:n muuttamisesta](332.md) `332/1983`
+- [Laki verotuslain muuttamisesta](334.md) `334/1983`
+- [Asetus valtion virkamiesten vuosilomasta annetun asetuksen muuttamisesta](335.md) `335/1983`
+- [Valtioneuvoston päätös valtion työntekijäin vuosilomista annetun valtioneuvoston päätöksen muuttamisesta](341.md) `341/1983`
+- [Laki yksityisoikeudellista vaatimusta koskevien pohjoismaisten tuomioiden tunnustamisesta ja täytäntöönpanosta annetun lain 2 §:n muuttamisesta](349.md) `349/1983`
+- [Laki palo\- ja pelastustoimesta annetun lain muuttamisesta](355.md) `355/1983`
+- [Asetus ampuma\-aseiden ja \-tarvikkeiden tarkastuksesta annetun asetuksen muuttamisesta](356.md) `356/1983`
+- [Laki lapsen huollosta ja tapaamisoikeudesta](361.md) `361/1983`
+- [Laki avioliittolain muuttamisesta](362.md) `362/1983`
+- [Laki oikeudenkäymiskaaren 12 luvun muuttamisesta](363.md) `363/1983`
+- [Laki lapsen elatuksesta annetun lain 4 ja 5 §:n muuttamisesta](364.md) `364/1983`
+- [Laki lapsen huoltoa tai tapaamisoikeutta koskevan tuomion täytäntöönpanosta annetun lain muuttamisesta](366.md) `366/1983`
+- [Laki isyyslain 15 ja 20 §:n muuttamisesta](367.md) `367/1983`
+- [Laki holhouksen järjestämisestä eräissä tapauksissa annetun lain 3 ja 7 §:n muuttamisesta](369.md) `369/1983`
+- [Laki ulkomailla annetun elatusapua koskevan päätöksen tunnustamisesta ja täytäntöönpanosta](370.md) `370/1983`
+- [Laki luonnonsuojelulain muuttamisesta](401.md) `401/1983`
+- [Asetus vuokraveneiden turvallisuudesta](438.md) `438/1983`
+- [Peruskoululaki](476.md) `476/1983`
+- [Lukiolaki](477.md) `477/1983`
+- [Laki kuulovammaisten ja näkövammaisten kouluista](481.md) `481/1983`
+- [Laki kehitysvammaisten erityishuollosta annetun lain muuttamisesta](484.md) `484/1983`
+- [Laki ammatillisten oppilaitosten oppilaiden opinto sosiaalisista eduista](498.md) `498/1983`
+- [Asetus valtion kasvatuslaitoksista annetun asetuksen 29 §:n muuttamisesta](547.md) `547/1983`
+- [Asetus kehitysvammaisten erityishuollosta annetun asetuksen muuttamisesta](548.md) `548/1983`
+- [Asetus lasten päivähoidosta annetun asetuksen muuttamisesta](550.md) `550/1983`
+- [Asetus lapsen elatuksen turvaamisesta annetun asetuksen 1 §:n 2 momentin ja 3 §:n kumoamisesta](558.md) `558/1983`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain muuttamisesta](578.md) `578/1983`
+- [Sosiaalihuoltoasetus](607.md) `607/1983`
+- [Valtioneuvoston päätös saaristolotljetusten tukemisesta annetun valtioneuvoston päätöksen muuttamisesta](621.md) `621/1983`
+- [Laki kansanterveyslain muuttamisesta](674.md) `674/1983`
+- [Laki sairausvakuutuslain 5 ja 10 §:n muuttamisesta](676.md) `676/1983`
+- [Laki rahankeräyslain muuttamisesta](681.md) `681/1983`
+- [Lastensuojelulaki](683.md) `683/1983`
+- [Laki  osakeyhtiölain muuttamisesta](687.md) `687/1983`
+- [Laki osuuskuntalain 79 c §:n muuttamisesta](688.md) `688/1983`
+- [Laki kirjanpitolain 33 § :n muuttamisesta](689.md) `689/1983`
+- [Laki rikoslain voimaanpanemisesta annetun asetuksen 22 §:n muuttamisesta](690.md) `690/1983`
+- [Laki verojen ja maksujen perimisen turvaamisesta annetun lain 1§:n muuttamisesta](691.md) `691/1983`
+- [Laki ennakkoperintälain muuttamisesta](704.md) `704/1983`
+- [Asetus kansaneläkeasetuksen 20 ja 22 §:n muuttamisesta](719.md) `719/1983`
+- [Asetus sairausvakuutusasetuksen 40§:n muuttamisesta](720.md) `720/1983`
+- [Asetus valtion eläkeasetuksen 5 §:n muuttamisesta](723.md) `723/1983`
+- [Vartioimisliikeasetus](743.md) `743/1983`
+- [Laki osuuskuntalain 11 ja 154 §:n muuttamisesta](775.md) `775/1983`
+- [Asetus tapaturmavakuutuslain ja ammattitautilain täytäntöönpanosta annetun asetuksen 1§:n ja liikennevakuutusasetuksen 2§:n kumoamisesta](801.md) `801/1983`
+- [Laki leimaverolain muuttamisesta](808.md) `808/1983`
+- [Laki elinkeinotulon verottamisesta annetun lain 6 §:n muuttamisesta](825.md) `825/1983`
+- [Laki uskonnonvapauslain 11§:n kumoamisesta](831.md) `831/1983`
+- [Asetus asuntojen markkinoinnissa annettavista tiedoista](847.md) `847/1983`
+- [Asetus tiedoksiannosta hallintoasioissa annetun asetuksen 6 §:n muuttamisesta](852.md) `852/1983`
+- [Laki maatilatalouden tuloverolain 17 §:n muuttamisesta Annettu Helsingissä päivänä kuuta 1983](900.md) `900/1983`
+- [Asetus sakkorangaistuksen täytäntöönpanosta annetun asetuksen muuttamisesta](910.md) `910/1983`
+- [Laki leimaverolain muuttamisesta](916.md) `916/1983`
+- [Laki maa\-aineslain muuttamisesta](928.md) `928/1983`
+- [Laki rakennuslain muuttamisesta](929.md) `929/1983`
+- [Laki korkolain 1 §:n muuttamisesta](943.md) `943/1983`
+- [Laki valtion eläkelain 9 a §:n muuttamisesta](957.md) `957/1983`
+- [Asetus sotilasrikoksia koskevien rangaistussäännösten soveltamisalasta](963.md) `963/1983`
+- [Sotilasoikeudenkäyntiasetus](964.md) `964/1983`
+- [Asetus vankeusrangaistuksen täytäntöönpanosta annetun asetukosen muuttamisesta](966.md) `966/1983`
+- [Asetus sakkorangaistuken täytäntöönpanosta annetun asetuksen 2 ja 73 §:n muuttamisesta](967.md) `967/1983`
+- [Sotilaskurinpitoasetus](969.md) `969/1983`
+- [Asetus asevelvollisuuslain soveltamisesta annetun asetuksen muuttamisesta](971.md) `971/1983`
+- [Asetus eräistä sotilas\- ja siviiliviranomaisten välisistä suhteista rauhan aikana annetun asetuksen muuttamisesta](972.md) `972/1983`
+- [Asetus sotilasvalasta annetun asetuksen 3 §:n muuttamisesta](974.md) `974/1983`
+- [Laki valtioneuvoston ministeriöiden lukumäärästä ja yleisestä toimialasta annetun lain 3 §:n muuttamisesta](978.md) `978/1983`
+- [Laki vesilain muuttamisesta](979.md) `979/1983`
+- [Laki geologian tutkimuskeskuksesta](995.md) `995/1983`
+- [Laki tavaramerkkilain muuttamisesta](996.md) `996/1983`
+- [Asetus tavaramerkkiasetuksen muuttamisesta](997.md) `997/1983`
+- [Laki rakennuslain 115 §:n muuttamisesta](998.md) `998/1983`
+- [Asetus rakennusasetuksen 159§:n muuttamisesta](999.md) `999/1983`
+- [Lastensuojeluasetus](1010.md) `1010/1983`
+- [Väylämaksuasetus](1016.md) `1016/1983`
+- [Asetus maa\-ainesasetuksen muuttamisesta](1029.md) `1029/1983`
+- [Laki valtion teknillisestä tutkimuskeskuksesta annetun lain 1 ja 3§:n muuttamisesta](1041.md) `1041/1983`
+- [Laki kansaneläkelain 27 §:n muuttamisesta](1053.md) `1053/1983`
+- [Laki kansaneläkelain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1054.md) `1054/1983`
+- [Laki perhe\-eläkelain 15 d §:n muuttamisesta](1055.md) `1055/1983`
+- [Laki kansanterveyslain 21 §:n muuttamisesta](1070.md) `1070/1983`
+- [Laki kansanterveyslain voimaanpanosta annetun lain 3 §:n muuttamisesta](1071.md) `1071/1983`
+- [Laki eräistä kirjailijoille ja kääntäjille suoritettavista apurahoista ja avustuksista annetun lain muuttamisesta](1080.md) `1080/1983`
+- [Laki vientitakuulain 1 ja 2 § :n muuttamisesta](1106.md) `1106/1983`
+- [Laki rakennuslain 137 §:n muuttamisesta](1108.md) `1108/1983`
+- [Laki sairausvakuutuslain muuttamisesta](1119.md) `1119/1983`
+- [Laki työntekijäin eläkelain 9 §:n 2 momentin kumoamisesta](1120.md) `1120/1983`
+- [Laki merimieseläkelain 18 §:n muuttamisesta](1121.md) `1121/1983`
+- [Laki tapaturmavakuutuslain 60 §:n muuttamisesta](1122.md) `1122/1983`
+- [Laki sotilasvammalain 43 a §:n muuttamisesta](1124.md) `1124/1983`
+- [Laki kansaneläkelaissa säädettyjen eläkkeiden ja avustusten sitomisesta elinkustannuksiin annetun lain 1§:n muuttamisesta](1127.md) `1127/1983`
+- [Asetus eräistä kirjailijoille ja kääntäjille suoritettavista apurahoista ja avustuksista annetun asetuksen muuttamisesta](1140.md) `1140/1983`
+- [Laki liikuntalain muuttamisesta](1146.md) `1146/1983`

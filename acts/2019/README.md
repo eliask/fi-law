@@ -1,0 +1,1600 @@
+# 2019 Statutes
+
+## Statutes
+
+- [Maa\- ja metsätalousministeriön asetus eläinten hyvinvointikorvauksesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1.md) `1/2019`
+- [Valtioneuvoston asetus rajanylityspaikoista sekä rajatarkastustehtävien jakamisesta niillä annetun valtioneuvoston asetuksen 10 §:n muuttamisesta](2.md) `2/2019`
+- [Valtioneuvoston asetus maanpuolustuksen tieteellisestä neuvottelukunnasta](3.md) `3/2019`
+- [Valtioneuvoston asetus yritystukien tutkimusjaostosta](4.md) `4/2019`
+- [Valtioneuvoston asetus valtionavustuksesta öljyjätteen keräykseen, kuljetukseen ja varastointiin](5.md) `5/2019`
+- [Valtioneuvoston asetus öljyjätemaksuina kertyvien varojen käytöstä öljyjätehuoltoon annetun valtioneuvoston päätöksen kumoamisesta](6.md) `6/2019`
+- [Laki diplomaattisten edustustojen, konsuliedustustojen tai kansainvälisessä hallitusten välisessä järjestössä toimivien edustustojen jäsenten perheenjäsenten ansiotyöstä Kolumbian kanssa tehdystä sopimuksesta](7.md) `7/2019`
+- [Laki diplomaattisten edustustojen tai konsuliedustustojen diplomaattisen henkilökunnan, konsuliedustuston henkilökunnan tai hallinnollisen tai teknillisen henkilökunnan perheenjäsenten ansiotyöstä Perun kanssa tehdystä sopimuksesta](8.md) `8/2019`
+- [Laki rajavartiolain muuttamisesta](9.md) `9/2019`
+- [Laki ulkomaalaislain muuttamisesta](10.md) `10/2019`
+- [Laki henkilötietojen käsittelystä rajavartiolaitoksessa annetun lain muuttamisesta](11.md) `11/2019`
+- [Laki rajavartiolaitoksen hallinnosta annetun lain muuttamisesta](12.md) `12/2019`
+- [Laki poliisilain 2 luvun 21 §:n muuttamisesta](13.md) `13/2019`
+- [Laki kestävän metsätalouden määräaikaisen rahoituslain muuttamisesta](14.md) `14/2019`
+- [Laki ajokorttilain 32 ja 61 §:n muuttamisesta](15.md) `15/2019`
+- [Laki asumisperusteisesta sosiaaliturvasta rajat ylittävissä tilanteissa](16.md) `16/2019`
+- [Laki kansaneläkelain 4 §:n muuttamisesta](17.md) `17/2019`
+- [Laki takuueläkkeestä annetun lain 2 ja 23 §:n muuttamisesta](18.md) `18/2019`
+- [Laki rintamasotilaseläkelain 1 §:n muuttamisesta](19.md) `19/2019`
+- [Laki eläketukilain 6 §:n muuttamisesta](20.md) `20/2019`
+- [Laki eläkkeensaajan asumistuesta annetun lain 2 §:n muuttamisesta](21.md) `21/2019`
+- [Laki sairausvakuutuslain 1 luvun 2 §:n muuttamisesta](22.md) `22/2019`
+- [Laki vammaisetuuksista annetun lain 4 §:n muuttamisesta](23.md) `23/2019`
+- [Laki lapsilisälain 1 ja 1 a §:n muuttamisesta](24.md) `24/2019`
+- [Laki äitiysavustuslain 1 §:n muuttamisesta](25.md) `25/2019`
+- [Laki elatustukilain 1 §:n muuttamisesta](26.md) `26/2019`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta annetun lain muuttamisesta](27.md) `27/2019`
+- [Laki työttömyysturvalain 1 luvun 8 a §:n muuttamisesta](28.md) `28/2019`
+- [Laki yleisestä asumistuesta annetun lain 2 §:n muuttamisesta](29.md) `29/2019`
+- [Laki maatalousyrittäjän eläkelain 10 b §:n muuttamisesta](30.md) `30/2019`
+- [Valtioneuvoston asetus ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta](31.md) `31/2019`
+- [Laki Syyttäjälaitoksesta](32.md) `32/2019`
+- [Laki rikosoikeudellisia menettelyjä koskevien toimivaltaristiriitojen ehkäisemisestä ja ratkaisemisesta sekä esitutkinnan ja syytetoimien siirtämisestä Suomen ja muiden Euroopan unionin jäsenvaltioiden välillä annetun lain 3 §:n muuttamisesta](33.md) `33/2019`
+- [Laki Eurojustia koskevan päätöksen eräiden määräysten täytäntöönpanosta annetun lain muuttamisesta](34.md) `34/2019`
+- [Laki oikeushallinnon valtakunnallisesta tietojärjestelmästä annetun lain 12 §:n muuttamisesta](35.md) `35/2019`
+- [Laki viranomaisten sineteistä ja leimoista annetun lain 3 §:n muuttamisesta](36.md) `36/2019`
+- [Laki ehdokkaiden nimeämisestä kansainvälisten tuomioistuinten ja Euroopan unionin tuomioistuimen tuomarin ja jäsenen tehtäviin annetun lain 4 §:n muuttamisesta](37.md) `37/2019`
+- [Laki sotilasoikeudenkäyntilain 4 §:n muuttamisesta](38.md) `38/2019`
+- [Laki tuomittujen siirtoa Euroopan unionissa koskevan puitepäätöksen lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja puitepäätöksen soveltamisesta annetun lain 5 §:n muuttamisesta](39.md) `39/2019`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden Pohjoismaiden välillä annetun lain 9 §:n muuttamisesta](40.md) `40/2019`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden Euroopan unionin jäsenvaltioiden välillä annetun lain 12 §:n muuttamisesta](41.md) `41/2019`
+- [Laki tutkintavankeuden vaihtoehtona määrättyjä valvontatoimia koskevan puitepäätöksen lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja puitepäätöksen soveltamisesta annetun lain 4 ja 14 §:n muuttamisesta](42.md) `42/2019`
+- [Laki oikeudenkäymiskaaren 17 luvun 12 §:n muuttamisesta](43.md) `43/2019`
+- [Ympäristöministeriön asetus ympäristöministeriön maksullisista suoritteista](44.md) `44/2019`
+- [Ympäristöministeriön asetus Asumisen rahoitus\- ja kehittämiskeskuksen maksullisista suoritteista](45.md) `45/2019`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvalla sallittavasta ahman metsästyksestä metsästysvuonna 2018–2019](46.md) `46/2019`
+- [Valtioneuvoston asetus rikosasioiden ja eräiden riita\-asioiden sovittelusta annetun valtioneuvoston asetuksen 5 b §:n muuttamisesta](47.md) `47/2019`
+- [Sosiaali\- ja terveysministeriön asetus työtapaturma\- ja ammattitautilain 87 §:n 3 momentin mukaisen haittarahan kertakorvauksen perusteista](48.md) `48/2019`
+- [Laki ympäristönsuojelulain muuttamisesta](49.md) `49/2019`
+- [Valtioneuvoston asetus ympäristönsuojelusta annetun valtioneuvoston asetuksen muuttamisesta](50.md) `50/2019`
+- [Laki luotsauslain muuttamisesta](51.md) `51/2019`
+- [Laki sähköisen viestinnän palveluista annetun lain muuttamisesta](52.md) `52/2019`
+- [Laki julkisen hallinnon turvallisuusverkkotoiminnasta annetun lain muuttamisesta](53.md) `53/2019`
+- [Laki rintamaveteraanien kuntoutuksesta annetun lain muuttamisesta](54.md) `54/2019`
+- [Laki väestötietojärjestelmästä ja Väestörekisterikeskuksen varmennepalveluista annetun lain muuttamisesta](55.md) `55/2019`
+- [Laki kansainvälisten parien varallisuussuhteita koskevien neuvoston asetusten soveltamisesta](56.md) `56/2019`
+- [Laki avioliittolain muuttamisesta](57.md) `57/2019`
+- [Laki rekisteröidystä parisuhteesta annetun lain 15 §:n muuttamisesta](58.md) `58/2019`
+- [Laki maistraattien eräistä henkilörekistereistä annetun lain 4 §:n muuttamisesta](59.md) `59/2019`
+- [Laki luonnonmukaisen tuotannon valvonnasta annetun lain 24 §:n muuttamisesta](60.md) `60/2019`
+- [Laki elintarvikelain 84 §:n muuttamisesta](61.md) `61/2019`
+- [Laki kasvinjalostajanoikeudesta annetun lain 23 §:n muuttamisesta](62.md) `62/2019`
+- [Laki rehulain 37 §:n muuttamisesta](63.md) `63/2019`
+- [Laki lannoitevalmistelain 29 §:n muuttamisesta](64.md) `64/2019`
+- [Laki siemenkauppalain 24 §:n muuttamisesta](65.md) `65/2019`
+- [Laki taimiaineistolain 3 a §:n muuttamisesta](66.md) `66/2019`
+- [Laki kasvinterveyden suojelemisesta annetun lain 5 ja 7 a §:n muuttamisesta](67.md) `67/2019`
+- [Laki hukkakauran torjunnasta annetun lain 15 §:n muuttamisesta](68.md) `68/2019`
+- [Laki kasvinsuojeluaineista annetun lain 35 §:n muuttamisesta](69.md) `69/2019`
+- [Laki eläimistä saatavista sivutuotteista annetun lain 37 §:n muuttamisesta](70.md) `70/2019`
+- [Laki tieteellisiin tai opetustarkoituksiin käytettävien eläinten suojelusta annetun lain 45 ja 46 §:n muuttamisesta](71.md) `71/2019`
+- [Laki eläinten kuljetuksesta annetun lain 36 §:n muuttamisesta](72.md) `72/2019`
+- [Laki eläinten lääkitsemisestä annetun lain 41 §:n muuttamisesta](73.md) `73/2019`
+- [Laki eläinlääkintähuoltolain 33 §:n muuttamisesta](74.md) `74/2019`
+- [Laki eläinlääkärinammatin harjoittamisesta annetun lain 33 §:n muuttamisesta](75.md) `75/2019`
+- [Laki maaseutuelinkeinohallinnon tietojärjestelmästä annetun lain 2 §:n muuttamisesta](76.md) `76/2019`
+- [Laki maatalouden tukien toimeenpanosta annetun lain 50 §:n muuttamisesta](77.md) `77/2019`
+- [Laki maaseudun kehittämisen tukemisesta annetun lain 50 §:n muuttamisesta](78.md) `78/2019`
+- [Laki porotalouden ja luontaiselinkeinojen rakennetuista annetun lain 91 §:n muuttamisesta](79.md) `79/2019`
+- [Laki maataloustuotteiden markkinajärjestelystä annetun lain 46 g §:n muuttamisesta](80.md) `80/2019`
+- [Laki maatalouden harjoittamisesta luopumisen tukemisesta annetun lain muuttamisesta](81.md) `81/2019`
+- [Laki maatalousyrittäjien luopumistuesta annetun lain muuttamisesta](82.md) `82/2019`
+- [Laki luopumiseläkelain muuttamisesta](83.md) `83/2019`
+- [Laki maatalousyrittäjien sukupolvenvaihdoseläkkeestä annetun lain muuttamisesta](84.md) `84/2019`
+- [Laki maatalousyrittäjien luopumiskorvauksesta annetun lain muuttamisesta](85.md) `85/2019`
+- [Laki kasvihuonetuotannon ja omenanviljelyn lopettamistuesta annetun lain kumoamisesta](86.md) `86/2019`
+- [Laki maataloustuotannon lopettamistuesta annetun lain kumoamisesta](87.md) `87/2019`
+- [Laki Suomen metsäkeskuksen metsätietojärjestelmästä annetun lain muuttamisesta](88.md) `88/2019`
+- [Laki Suomen metsäkeskuksesta annetun lain 1 ja 15 §:n muuttamisesta](89.md) `89/2019`
+- [Laki metsänhoitoyhdistyksistä annetun lain 7 §:n kumoamisesta](90.md) `90/2019`
+- [Laki metsänviljelyaineiston kaupasta annetun lain 21 §:n muuttamisesta](91.md) `91/2019`
+- [Laki kalastuslain 92 §:n muuttamisesta](92.md) `92/2019`
+- [Laki Euroopan meri\- ja kalatalousrahastoa koskevan eurooppalaisen asetuksen kansallisesta täytäntöönpanosta annetun lain 31 ja 33 §:n muuttamisesta](93.md) `93/2019`
+- [Laki merellä toimivien kalastus\- ja vesiviljelyalusten rekisteröinnistä annetun lain muuttamisesta](94.md) `94/2019`
+- [Laki yhteisen kalastuspolitiikan seuraamusjärjestelmästä ja valvonnasta annetun lain 37 ja 64 §:n muuttamisesta](95.md) `95/2019`
+- [Laki Euroopan unionin yhteisen kalastuspolitiikan kansallisesta täytäntöönpanosta annetun lain muuttamisesta](96.md) `96/2019`
+- [Laki kalastuksesta Tenojoen vesistössä Norjan kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja soveltamisesta annetun lain 7 §:n muuttamisesta](97.md) `97/2019`
+- [Laki riistavahinkolain 35 ja 37 §:n muuttamisesta](98.md) `98/2019`
+- [Laki riistanhoitomaksusta ja pyyntilupamaksusta annetun lain 7 a ja 7 c §:n muuttamisesta](99.md) `99/2019`
+- [Laki metsästyslain 38 b §:n muuttamisesta](100.md) `100/2019`
+- [Laki Metsähallituksen erävalvonnasta annetun lain muuttamisesta](101.md) `101/2019`
+- [Laki kiinteistörekisterilain 11 §:n muuttamisesta](102.md) `102/2019`
+- [Laki kiinteistötietojärjestelmästä ja siitä tuotettavasta tietopalvelusta annetun lain 6 ja 8 §:n muuttamisesta](103.md) `103/2019`
+- [Laki ruoka\- ja luonnonvaratilastoista annetun lain 4 §:n muuttamisesta](104.md) `104/2019`
+- [Valtioneuvoston asetus vuodelta 2019 maksettavasta Etelä\-Suomen kansallisesta tuesta](105.md) `105/2019`
+- [Valtioneuvoston asetus vuodelta 2019 maksettavasta pohjoisesta tuesta](106.md) `106/2019`
+- [Valtioneuvoston asetus sokerijuurikkaan viljelijöille vuodelta 2019 maksettavasta kansallisesta tuesta](107.md) `107/2019`
+- [Laki sähkömarkkinalain muuttamisesta](108.md) `108/2019`
+- [Laki sähkö\- ja maakaasumarkkinoiden valvonnasta annetun lain 10 ja 16 §:n muuttamisesta](109.md) `109/2019`
+- [Laki väestötietojärjestelmästä ja Väestörekisterikeskuksen varmennepalveluista annetun lain muuttamisesta](110.md) `110/2019`
+- [Laki maakaasumarkkinalain 21 ja 59 §:n muuttamisesta](111.md) `111/2019`
+- [Laki energiatehokkuuslain 25 §:n 5 momentin kumoamisesta](112.md) `112/2019`
+- [Laki aravalainojen lainaehtojen muuttamisesta eräissä tapauksissa annetun lain muuttamisesta](113.md) `113/2019`
+- [Laki vuokra\- ja asumisoikeustaloyhteisöjen talouden tervehdyttämisavustuksista annetun lain muuttamisesta](114.md) `114/2019`
+- [Laki aravarajoituslain 16 a ja 17 a §:n muuttamisesta](115.md) `115/2019`
+- [Valtioneuvoston asetus ammattikorkeakouluista annetun valtioneuvoston asetuksen muuttamisesta](116.md) `116/2019`
+- [Opetus\- ja kulttuuriministeriön asetus ammattikorkeakoulujen perusrahoituksen laskentakriteereistä](117.md) `117/2019`
+- [Valtioneuvoston asetus yliopistoista annetun valtioneuvoston asetuksen muuttamisesta](118.md) `118/2019`
+- [Opetus\- ja kulttuuriministeriön asetus yliopistojen perusrahoituksen laskentakriteereistä](119.md) `119/2019`
+- [Verohallinnon päätös yksityisten apteekkien liikevaihdon keskiarvosta vuonna 2017](120.md) `120/2019`
+- [Laki tiedustelutoiminnan valvonnasta](121.md) `121/2019`
+- [Laki valtion virkamieslain 7 §:n muuttamisesta](122.md) `122/2019`
+- [Eduskunnan päätös eduskunnan työjärjestyksen muuttamisesta](123.md) `123/2019`
+- [Laki eduskunnan virkamiehistä annetun lain 9 §:n muuttamisesta](124.md) `124/2019`
+- [Laki henkilötietojen käsittelystä rikosasioissa ja kansallisen turvallisuuden ylläpitämisen yhteydessä annetun lain 29 §:n muuttamisesta](125.md) `125/2019`
+- [Laki ympäristövaikutusten arviointimenettelystä annetun lain liitteen 1 muuttamisesta](126.md) `126/2019`
+- [Laki työsopimuslain 7 luvun 2 §:n muuttamisesta](127.md) `127/2019`
+- [Laki työttömyysturvalain 2 a luvun 1 §:n muuttamisesta](128.md) `128/2019`
+- [Laki sosiaalihuoltolain muuttamisesta](129.md) `129/2019`
+- [Laki ajoneuvolain muuttamisesta](130.md) `130/2019`
+- [Laki ajokorttilain muuttamisesta](131.md) `131/2019`
+- [Laki tieliikennelain muuttamisesta](132.md) `132/2019`
+- [Laki ajoneuvoverolain 4 §:n muuttamisesta](133.md) `133/2019`
+- [Laki autoverolain 1 §:n muuttamisesta](134.md) `134/2019`
+- [Laki polttoainemaksusta annetun lain 1 §:n muuttamisesta](135.md) `135/2019`
+- [Laki arvonlisäverolain 114 §:n muuttamisesta](136.md) `136/2019`
+- [Laki rikoslain 23 luvun 12 §:n muuttamisesta](137.md) `137/2019`
+- [Valtioneuvoston asetus ilmoituksenvaraisista eläinsuojista](138.md) `138/2019`
+- [Valtioneuvoston asetus vuonna 2019 toimitettavissa eduskuntavaaleissa ja europarlamenttivaaleissa ennakkoäänestyspaikkoina olevista Suomen edustustoista ja niiden toimipaikoista](139.md) `139/2019`
+- [Valtioneuvoston asetus ajoneuvojen hyväksynnästä annetun valtioneuvoston asetuksen muuttamisesta](140.md) `140/2019`
+- [Valtioneuvoston asetus ympäristönsuojelusta annetun valtioneuvoston asetuksen muuttamisesta](141.md) `141/2019`
+- [Valtioneuvoston asetus väestötietojärjestelmästä annetun valtioneuvoston asetuksen muuttamisesta](142.md) `142/2019`
+- [Valtioneuvoston asetus valtion yhteisten tieto\- ja viestintäteknisten palvelujen järjestämisestä annetun valtioneuvoston asetuksen 12 §:n kumoamisesta](143.md) `143/2019`
+- [Valtioneuvoston asetus valtion kiinteistövarallisuuden hankinnasta, vuokraamisesta, hallinnasta ja hoitamisesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](144.md) `144/2019`
+- [Valtioneuvoston asetus vuodelta 2019 maksettavista lypsylehmä\-, nauta\-, uuhi\- ja kuttupalkkioista, teuraskaritsa\- ja teuraskilipalkkiosta sekä peltokasvipalkkiosta](145.md) `145/2019`
+- [Valtioneuvoston asetus perustuesta, viherryttämistuesta ja nuoren viljelijän tuesta annetun valtioneuvoston asetuksen muuttamisesta](146.md) `146/2019`
+- [Valtioneuvoston asetus perustukijärjestelmän kansallisen varannon käytöstä annetun valtioneuvoston asetuksen 5 ja 6 §:n muuttamisesta](147.md) `147/2019`
+- [Valtioneuvoston asetus valtion virkaehtosopimusasetuksen 10 §:n muuttamisesta](148.md) `148/2019`
+- [Valtioneuvoston asetus aravavuokratalojen purkamiskustannuksiin myönnettävästä avustuksesta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](149.md) `149/2019`
+- [Valtioneuvoston asetus eräiden valtion asuntolainojen enimmäiskorosta annetun asetuksen muuttamisesta](150.md) `150/2019`
+- [Maa\- ja metsätalousministeriön asetus kasvihuonetuotannon tuesta vuonna 2019](151.md) `151/2019`
+- [Sisäministeriön asetus erityistä vaaraa aiheuttavien kohteiden ulkoisesta pelastussuunnitelmasta annetun sisäministeriön asetuksen 2 ja 6 §:n muuttamisesta](152.md) `152/2019`
+- [Ulkoministeriön asetus ulkoasiainhallinnon suoritteiden maksuista annetun ulkoasiainministeriön asetuksen muuttamisesta](153.md) `153/2019`
+- [Maa\- ja metsätalousministeriön asetus elintarviketietojen antamisesta kuluttajille annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](154.md) `154/2019`
+- [Valtioneuvoston asetus valtion virkamiesasetuksen 3 §:n muuttamisesta](155.md) `155/2019`
+- [Valtioneuvoston asetus oikeusministeriöstä annetun valtioneuvoston asetuksen 3 ja 6 §:n muuttamisesta](156.md) `156/2019`
+- [Valtioneuvoston asetus päästökaupasta johtuvien epäsuorien kustannusten kompensoimisesta annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](157.md) `157/2019`
+- [Valtioneuvoston asetus työtapaturma\- ja ammattitautilain mukaisen vuosityöansion määrittämisestä annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](158.md) `158/2019`
+- [Sisäministeriön asetus rajavartiomiehen virkamerkistä annetun sisäasiainministeriön asetuksen 2 §:n muuttamisesta](159.md) `159/2019`
+- [Ulkoministeriön asetus Tansanian vero\-ohjelman tukemisesta Tansanian kanssa tehdystä sopimuksesta](160.md) `160/2019`
+- [Opetus\- ja kulttuuriministeriön asetus opiskelijaksi ottamisen perusteista ammatillisessa perustutkintokoulutuksessa annetun opetus\- ja kulttuuriministeriön asetuksen muuttamisesta](161.md) `161/2019`
+- [Valtioneuvoston asetus henkilöllisyyden toteamiseksi hyväksyttävistä asiakirjoista äitiysasioissa](162.md) `162/2019`
+- [Oikeusministeriön asetus äitiysasioissa käytettävistä lomakkeista](163.md) `163/2019`
+- [Valtioneuvoston asetus raaka\-ainetakuutoiminnassa noudatettavista periaatteista annetun valtioneuvoston asetuksen 3 ja 7 §:n muuttamisesta](164.md) `164/2019`
+- [Ulkoministeriön asetus Nepalin maaseudun vesi\- ja sanitaatiohankkeen toista vaihetta koskevan Nepalin kanssa tehdyn sopimuksen muuttamisesta tehdystä sopimuksesta](165.md) `165/2019`
+- [Laki kuntien kulttuuritoiminnasta](166.md) `166/2019`
+- [Laki lentoliikenteestä Jamaikan kanssa tehdystä sopimuksesta](167.md) `167/2019`
+- [Laki lentoliikenteestä Bahaman kanssa tehdystä sopimuksesta](168.md) `168/2019`
+- [Laki aluksen teknisestä turvallisuudesta ja turvallisesta käytöstä annetun lain muuttamisesta](169.md) `169/2019`
+- [Laki alusturvallisuuden valvonnasta annetun lain muuttamisesta](170.md) `170/2019`
+- [Laki matkustaja\-aluksen henkilöluetteloista annetun lain muuttamisesta](171.md) `171/2019`
+- [Laki laivaväestä ja aluksen turvallisuusjohtamisesta annetun lain 2 ja 4 §:n muuttami\-sesta](172.md) `172/2019`
+- [Laki liikenteen palveluista annetun lain muuttamisesta](173.md) `173/2019`
+- [Laki konsulipalvelulain muuttamisesta](174.md) `174/2019`
+- [Laki kuntalain muuttamisesta](175.md) `175/2019`
+- [Laki tulotietojärjestelmästä annetun lain muuttamisesta](176.md) `176/2019`
+- [Laki perintö\- ja lahjaverolain 28 a §:n muuttamisesta](177.md) `177/2019`
+- [Laki tuloverolain 112 a §:n muuttamisesta](178.md) `178/2019`
+- [Laki Valtion talous\- ja henkilöstöhallinnon palvelukeskuksesta](179.md) `179/2019`
+- [Laki valtiokonttorista annetun lain 2 §:n muuttamisesta](180.md) `180/2019`
+- [Laki valtion virkamieslain muuttamisesta](181.md) `181/2019`
+- [Laki arvonlisäverolain 12 ja 85 a §:n muuttamisesta](182.md) `182/2019`
+- [Laki asunto\-osakeyhtiölain muuttamisesta](183.md) `183/2019`
+- [Laki osakeyhtiölain 1 luvun 3 §:n muuttamisesta](184.md) `184/2019`
+- [Laki asunto\-osakeyhtiölain 1 luvun 7 §:n 1 momentin kumoamisesta](185.md) `185/2019`
+- [Laki osuuskuntalain 16 luvun 7 §:n 1 momentin kumoamisesta](186.md) `186/2019`
+- [Laki turvallisuustutkintalain muuttamisesta](187.md) `187/2019`
+- [Laki yhdyskuntaseuraamusten täytäntöönpanosta annetun lain 70 §:n muuttamisesta](188.md) `188/2019`
+- [Laki Vankiterveydenhuollon yksiköstä annetun lain 6 ja 7 §:n muuttamisesta](189.md) `189/2019`
+- [Laki lapsen huollosta ja tapaamisoikeudesta annetun lain muuttamisesta](190.md) `190/2019`
+- [Laki lapsen huoltoa ja tapaamisoikeutta koskevan päätöksen täytäntöönpanosta annetun lain muuttamisesta](191.md) `191/2019`
+- [Laki lapsen elatuksesta annetun lain muuttamisesta](192.md) `192/2019`
+- [Laki riita\-asioiden sovittelusta ja sovinnon vahvistamisesta yleisissä tuomioistuimissa annetun lain 10 §:n muuttamisesta](193.md) `193/2019`
+- [Laki oikeudenkäymiskaaren muuttamisesta](194.md) `194/2019`
+- [Laki hallintolainkäyttölain 19 a §:n muuttamisesta](195.md) `195/2019`
+- [Laki avioliittolain 23 a §:n muuttamisesta](196.md) `196/2019`
+- [Laki adoptiolain 63 ja 95 §:n muuttamisesta](197.md) `197/2019`
+- [Laki holhoustoimesta annetun lain 11 §:n muuttamisesta](198.md) `198/2019`
+- [Laki uskonnonvapauslain 3 §:n muuttamisesta](199.md) `199/2019`
+- [Laki lastensuojelulain 46 §:n muuttamisesta](200.md) `200/2019`
+- [Laki toimivallasta, sovellettavasta laista, toimenpiteiden tunnustamisesta ja täytäntöönpanosta sekä yhteistyöstä vanhempainvastuuseen ja lasten suojeluun liittyvissä asioissa tehdyn yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta annetun lain 10 §:n muuttamisesta](201.md) `201/2019`
+- [Laki ihmisen elimien, kudoksien ja solujen lääketieteellisestä käytöstä annetun lain muuttamisesta](202.md) `202/2019`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2019 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista ja työnantajasuoritusten vähimmäismääristä](203.md) `203/2019`
+- [Valtioneuvoston asetus Etelä\-Savon maakunnan luonnonsuojelualueista](204.md) `204/2019`
+- [Ympäristöministeriön asetus Etelä\-Savon maakunnan luonnonsuojelualueista](205.md) `205/2019`
+- [Maa\- ja metsätalousministeriön asetus kliinisistä ravintovalmisteista annetun kauppa\- ja teollisuusministeriön asetuksen 2 §:n muuttamisesta](206.md) `206/2019`
+- [Valtioneuvoston asetus tiekuljetussopimuslain muuttamisesta annetun lain voimaantulosta](207.md) `207/2019`
+- [Laki lääkelain muuttamisesta](208.md) `208/2019`
+- [Laki tuomioistuinlain muuttamisesta](209.md) `209/2019`
+- [Laki tuomioistuinharjoittelusta annetun lain muuttamisesta](210.md) `210/2019`
+- [Laki käräjäoikeuden lautamiehistä annetun lain 3 ja 12 §:n muuttamisesta](211.md) `211/2019`
+- [Laki turvatarkastuksista tuomioistuimissa annetun lain 7 §:n kumoamisesta](212.md) `212/2019`
+- [Sijoitusrahastolaki](213.md) `213/2019`
+- [Laki vaihtoehtorahastojen hoitajista annetun lain muuttamisesta](214.md) `214/2019`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](215.md) `215/2019`
+- [Laki lahjanlupauslain 3 ja 4 §:n muuttamisesta](216.md) `216/2019`
+- [Laki Finanssivalvonnan valvontamaksusta annetun lain 1 ja 3 §:n muuttamisesta](217.md) `217/2019`
+- [Laki sijoituspalvelulain 1 luvun 2 §:n ja 11 luvun 15 §:n muuttamisesta](218.md) `218/2019`
+- [Laki kiinteistörahastolain 1 ja 15 §:n muuttamisesta](219.md) `219/2019`
+- [Laki sidotusta pitkäaikaissäästämisestä annetun lain 3 ja 6 §:n muuttamisesta](220.md) `220/2019`
+- [Laki rahoitusvakuuslain 3 §:n muuttamisesta](221.md) `221/2019`
+- [Laki rahoitus\- ja vakuutusryhmittymien valvonnasta annetun lain 2 ja 18 §:n muuttamisesta](222.md) `222/2019`
+- [Laki arvo\-osuusjärjestelmästä ja selvitystoiminnasta annetun lain 5 luvun 1 §:n muuttamisesta](223.md) `223/2019`
+- [Laki rahoitusvakausviranomaisesta annetun lain 3 luvun 6 §:n muuttamisesta](224.md) `224/2019`
+- [Laki joukkorahoituslain 2 §:n muuttamisesta](225.md) `225/2019`
+- [Laki kaupparekisterilain 14 §:n muuttamisesta](226.md) `226/2019`
+- [Laki varojen arvostamisesta verotuksessa annetun lain 4 §:n muuttamisesta](227.md) `227/2019`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 18 ja 20 §:n muuttamisesta](228.md) `228/2019`
+- [Laki verotusmenettelystä annetun lain 16 ja 17 §:n muuttamisesta](229.md) `229/2019`
+- [Laki holhoustoimesta annetun lain 34 §:n muuttamisesta](230.md) `230/2019`
+- [Laki veropohjan rapautumisen ja voitonsiirron estämiseksi verosopimuksiin toteuttavista toimenpiteistä tehdystä monenvälisestä yleissopimuksesta](231.md) `231/2019`
+- [Laki valtiontakauksista maatilojen maksuvalmiuslainoille](232.md) `232/2019`
+- [Laki kalastuksesta Tenojoen vesistössä Norjan kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja soveltamisesta annetun lain 8 §:n muuttamisesta](233.md) `233/2019`
+- [Laki maakaasumarkkinalain muuttamisesta](234.md) `234/2019`
+- [Laki sähkö\- ja maakaasumarkkinoiden valvonnasta annetun lain 10 §:n muuttamisesta](235.md) `235/2019`
+- [Laki sähkömarkkinalain 56 §:n muuttamisesta](236.md) `236/2019`
+- [Valtioneuvoston asetus Valtion talous\- ja henkilöstöhallinnon palvelukeskuksen toimipaikoista](237.md) `237/2019`
+- [Valtioneuvoston asetus Ahvenanmaan maakunnan kunnille maatalouden tukien toimeenpanotehtävien hoitamisesta vuodelta 2018 suoritettavista korvauksista](238.md) `238/2019`
+- [Valtioneuvoston asetus diplomaattisten edustustojen, konsuliedustustojen tai kansainvälisessä hallitusten välisessä järjestössä toimivien edustustojen jäsenten perheenjäsenten ansiotyöstä Kolumbian kanssa tehdystä sopimuksesta](239.md) `239/2019`
+- [Valtioneuvoston asetus diplomaattisten edustustojen tai konsuliedustustojen diplomaattisen henkilökunnan, konsuliedustuston henkilökunnan tai hallinnollisen tai teknillisen henkilökunnan perheenjäsenten ansiotyöstä Perun kanssa tehdystä sopimuksesta](240.md) `240/2019`
+- [Laki hankintayksiköiden ja elinkeinonharjoittajien sähköisestä laskutuksesta](241.md) `241/2019`
+- [Laki ulkomaalaislain muuttamisesta](242.md) `242/2019`
+- [Laki poliisilain 2 luvun muuttamisesta](243.md) `243/2019`
+- [Laki Maailman postiliiton yleissopimuksesta](244.md) `244/2019`
+- [Laki vaarallisten aineiden käytön rajoittamisesta sähkö\- ja elektroniikkalaitteissa annetun lain 2 ja 25 §:n muuttamisesta](245.md) `245/2019`
+- [Laki pilaantuneiden alueiden puhdistamisen tukemisesta](246.md) `246/2019`
+- [Laki jätelain 148 §:n muuttamisesta](247.md) `247/2019`
+- [Laki tupakkalain muuttamisesta](248.md) `248/2019`
+- [Verohallinnon päätös sääntöjen vastaisesti tai muuta kuin kaupallista myyntiä varten maahantuotujen tupakkatuotteiden verotusarvoista](249.md) `249/2019`
+- [Laki merityösopimuslain 1 luvun 7 §:n ja 13 luvun 17 a §:n muuttamisesta](250.md) `250/2019`
+- [Laki merityöaikalain muuttamisesta](251.md) `251/2019`
+- [Laki työajasta kotimaanliikenteen aluksissa annetun lain muuttamisesta](252.md) `252/2019`
+- [Laki laivaväestä ja aluksen turvallisuusjohtamisesta annetun lain 26 b §:n muuttamisesta](253.md) `253/2019`
+- [Ulkoministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoministeriön asetuksen muuttamisesta](254.md) `254/2019`
+- [Valtioneuvoston asetus valtion virkamiesasetuksen 28 §:n 2 momentin 3 kohdan kumoamisesta](255.md) `255/2019`
+- [Valtioneuvoston asetus omistusosuuden hankkimista ja luovuttamista luottolaitoksessa, sijoituspalveluyrityksessä, rahastoyhtiössä, säilytysyhteisössä, erityisessä säilytysyhteisössä, vakuutusyhtiössä, rahoitus\- ja vakuutusryhmittymän omistusyhteisössä ja vaihtoehtorahastojen hoitajassa koskevasta ilmoituksesta annetun valtioneuvoston asetuksen muuttamisesta](256.md) `256/2019`
+- [Valtiovarainministeriön asetus rahastoyhtiön ja säilytysyhteisön lupahakemuksiin liitettävistä selvityksistä, palkitsemisjärjestelmästä, rahastoesitteestä ja sijoitusrahastolain 13 luvussa tarkoitetuista rahoitusvälineistä sekä yhteissijoitusyrityksen saatavilla pidettävien tietojen laajuudesta](257.md) `257/2019`
+- [Valtiovarainministeriön asetus rahastoyhtiön, sijoitusrahaston ja vaihtoehtorahaston tilinpäätökseen sisältyvän tuloslaskelman ja taseen kaavasta, tilinpäätökseen liitettävästä toimintakertomuksesta sekä sijoitusrahaston puolivuotiskatsauksesta annetun valtiovarainministeriön asetuksen muuttamisesta](258.md) `258/2019`
+- [Valtioneuvoston asetus lievästi denaturoidun väkiviinan ja alkoholivalmisteen valmistamisessa käytettävistä denaturoimisaineista](259.md) `259/2019`
+- [Työ\- ja elinkeinoministeriön asetus ydinlaitosten ympäristövaikutusten arviointimenettelyyn kuuluvista työ\- ja elinkeinoministeriön maksullisista suoritteista](260.md) `260/2019`
+- [Työ\- ja elinkeinoministeriön asetus ydinenergian käytön valvontaan kuuluvista työ\- ja elinkeinoministeriön maksullisista suoritteista](261.md) `261/2019`
+- [Maa\- ja metsätalousministeriön asetus maatalouden investointien hyväksyttävistä yksikkökustannuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](262.md) `262/2019`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](263.md) `263/2019`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](264.md) `264/2019`
+- [Maa\- ja metsätalousministeriön asetus tuettavaa rakentamista koskevista paloteknisistä vaatimuksista](265.md) `265/2019`
+- [Maa\- ja metsätalousministeriön asetus tuettavaa rakentamista koskevista ympäristönsuojeluvaatimuksista](266.md) `266/2019`
+- [Valtioneuvoston asetus taloudenhallinnan neuvottelukunnasta](267.md) `267/2019`
+- [Valtioneuvoston asetus Turvallisuuskomiteasta annetun valtioneuvoston asetuksen 3 ja 4 §:n muuttamisesta](268.md) `268/2019`
+- [Valtioneuvoston asetus vuodelta 2018 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 6 §:n ja liitteen muuttamisesta](269.md) `269/2019`
+- [Valtioneuvoston asetus vuodelta 2018 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 9 §:n muuttamisesta](270.md) `270/2019`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta rautatiellä annetun valtioneuvoston asetuksen muuttamisesta](271.md) `271/2019`
+- [Laki rikoslain 6 luvun 10 §:n muuttamisesta](272.md) `272/2019`
+- [Laki yhdyskuntaseuraamusten täytäntöönpanosta annetun lain muuttamisesta](273.md) `273/2019`
+- [Laki Rikosseuraamuslaitoksesta annetun lain 3 §:n muuttamisesta](274.md) `274/2019`
+- [Laki henkilötietojen käsittelystä Rikosseuraamuslaitoksessa annetun lain 2 §:n muuttamisesta](275.md) `275/2019`
+- [Laki Suomen ja muiden pohjoismaiden välisestä yhteistoiminnasta rikosasioissa annettujen tuomioiden täytäntöönpanossa annetun lain 11 ja 12 §:n muuttamisesta](276.md) `276/2019`
+- [Laki viranomaisten toiminnan julkisuudesta annetun lain 24 §:n muuttamisesta](277.md) `277/2019`
+- [Laki oikeudenkäynnin julkisuudesta yleisissä tuomioistuimissa annetun lain 9 §:n muuttamisesta](278.md) `278/2019`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta siemenperunan kaupasta annetun maa\- ja metsätalousministeriön asetuksen väliaikaisesta muuttamisesta](279.md) `279/2019`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](280.md) `280/2019`
+- [Valtioneuvoston asetus metsästysasetuksen 25 a §:n muuttamisesta](281.md) `281/2019`
+- [Maa\- ja metsätalousministeriön asetus kalatalousalueiden yleisavustuksen jakoperusteista](282.md) `282/2019`
+- [Sisäministeriön asetus pysäköintivirhemaksusta](283.md) `283/2019`
+- [Valtioneuvoston asetus rautatiejärjestelmän yhteentoimivuudesta](284.md) `284/2019`
+- [Puolustusministeriön asetus sotilaallisen kriisinhallintahenkilöstön pätevyysvaatimuksista ja palvelussuhteen ehdoista annetun puolustusministeriön asetuksen 7 ja 8 §:n muuttamisesta](285.md) `285/2019`
+- [Valtioneuvoston asetus Sloveniaan sovelletun Euroopan vakausmekanismin peruspääoman jakoperusteen väliaikaisen korjauksen voimassaolon päättymisen seurauksena Euroopan vakausmekanismin perustamisesta tehtyyn sopimukseen johtuvien mukautusten voimaansaattamisesta](286.md) `286/2019`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](287.md) `287/2019`
+- [Valtioneuvoston asetus liputuksesta Suomen lipulla annetun asetuksen 2 §:n muuttamisesta](288.md) `288/2019`
+- [Valtioneuvoston asetus korkeakoulujen yhteishausta](289.md) `289/2019`
+- [Sosiaali\- ja terveysministeriön asetus tupakkatuotteiden vähittäismyyntipakkausten jäljitettävyydestä ja turvaominaisuuksista](290.md) `290/2019`
+- [Laki päästökauppalain muuttamisesta](291.md) `291/2019`
+- [Laki tuloverolain 9 §:n muuttamisesta](292.md) `292/2019`
+- [Laki eräistä vakuutusmaksuista suoritettavasta verosta annetun lain väliaikaisesta muuttamisesta](293.md) `293/2019`
+- [Laki sijoituspalvelulain muuttamisesta](294.md) `294/2019`
+- [Laki kaupankäynnistä rahoitusvälineillä annetun lain muuttamisesta](295.md) `295/2019`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](296.md) `296/2019`
+- [Laki arvopaperimarkkinalain muuttamisesta](297.md) `297/2019`
+- [Laki vaihtoehtorahastojen hoitajista annetun lain 3 luvun 3 §:n ja 7 luvun 11 §:n muuttamisesta](298.md) `298/2019`
+- [Laki rahoitusvakausviranomaisesta annetun lain eräiden säännösten kumoamisesta](299.md) `299/2019`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](300.md) `300/2019`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](301.md) `301/2019`
+- [Laki Finanssivalvonnan valvontamaksusta annetun lain 1 ja 6 §:n muuttamisesta](302.md) `302/2019`
+- [Vuoden 2019 lisätalousarvio](303.md) `303/2019`
+- [Laki Digi\- ja väestötietovirastosta](304.md) `304/2019`
+- [Laki aluehallintovirastoista annetun lain 4 §:n 2 momentin 2 kohdan kumoamisesta](305.md) `305/2019`
+- [Laki digitaalisten palvelujen tarjoamisesta](306.md) `306/2019`
+- [Laki sähköisestä asioinnista viranomaistoiminnassa annetun lain muuttamisesta](307.md) `307/2019`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](308.md) `308/2019`
+- [Laki tuloverolain 119 ja 120 §:n muuttamisesta](309.md) `309/2019`
+- [Laki konserniavustuksesta verotuksessa annetun lain 2 §:n muuttamisesta](310.md) `310/2019`
+- [Laki varojen arvostamisesta verotuksessa annetun lain 3 §:n muuttamisesta](311.md) `311/2019`
+- [Laki asuintalovarauksesta verotuksessa annetun lain 1 §:n muuttamisesta](312.md) `312/2019`
+- [Laki kansainvälisen kaksinkertaisen verotuksen poistamisesta annetun lain 5 §:n muuttamisesta](313.md) `313/2019`
+- [Museolaki](314.md) `314/2019`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](315.md) `315/2019`
+- [Laki ammattipätevyyden tunnustamisesta annetun lain 21 ja 30 §:n muuttamisesta](316.md) `316/2019`
+- [Laki ajoneuvojen katsastustoiminnasta annetun lain muuttamisesta](317.md) `317/2019`
+- [Laki riistavahinkolain muuttamisesta](318.md) `318/2019`
+- [Laki palvelujen tarjoamisesta annetun lain 19 §:n muuttamisesta](319.md) `319/2019`
+- [Laki rajat ylittävästä kieltomenettelystä annetun lain 1 §:n muuttamisesta](320.md) `320/2019`
+- [Laki rikoslain 2 a luvun 2 §:n muuttamisesta](321.md) `321/2019`
+- [Laki esitutkintalain muuttamisesta](322.md) `322/2019`
+- [Laki pakkokeinolain 2 luvun 11 ja 12 §:n muuttamisesta](323.md) `323/2019`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain 5 luvun muuttamisesta](324.md) `324/2019`
+- [Laki nuoren rikoksesta epäillyn tilanteen selvittämisestä annetun lain 4 §:n muuttamisesta](325.md) `325/2019`
+- [Laki tutkintavankeuslain muuttamisesta](326.md) `326/2019`
+- [Laki poliisin säilyttämien henkilöiden kohtelusta annetun lain 2 luvun 3 §:n ja 5 luvun 1 §:n muuttamisesta](327.md) `327/2019`
+- [Laki sakon ja rikesakon määräämisestä annetun lain 7 §:n muuttamisesta](328.md) `328/2019`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden Euroopan unionin jäsenvaltioiden välillä annetun lain muuttamisesta](329.md) `329/2019`
+- [Laki Jehovan todistajien vapauttamisesta asevelvollisuuden suorittamisesta eräissä tapauksissa annetun lain kumoamisesta](330.md) `330/2019`
+- [Laki asevelvollisuuslain 3 §:n muuttamisesta](331.md) `331/2019`
+- [Laki henkilötietojen käsittelystä Puolustusvoimissa](332.md) `332/2019`
+- [Laki asevelvollisuuslain muuttamisesta](333.md) `333/2019`
+- [Laki sotilaallisesta kriisinhallinnasta annetun lain muuttamisesta](334.md) `334/2019`
+- [Laki puolustusvoimista annetun lain 16 ja 17 §:n muuttamisesta](335.md) `335/2019`
+- [Laki aluevalvontalain muuttamisesta](336.md) `336/2019`
+- [Laki sotilaskurinpidosta ja rikostorjunnasta puolustusvoimissa annetun lain muuttamisesta](337.md) `337/2019`
+- [Laki vapaaehtoisesta maanpuolustuksesta annetun lain muuttamisesta](338.md) `338/2019`
+- [Laki terveydenhuollon järjestämisestä puolustusvoimissa annetun lain 9 a §:n muuttamisesta](339.md) `339/2019`
+- [Laki turvallisuusselvityslain 25 §:n muuttamisesta](340.md) `340/2019`
+- [Laki metsätuhojen torjunnasta annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](341.md) `341/2019`
+- [Laki arvonlisäverolain muuttamisesta](342.md) `342/2019`
+- [Laki veronkantolain 38 ja 71 §:n muuttamisesta](343.md) `343/2019`
+- [Laki veronlisäyksestä ja viivekorosta annetun lain muuttamisesta](344.md) `344/2019`
+- [Laki arvonlisäverolain 85 a §:n muuttamisesta](345.md) `345/2019`
+- [Laki vuosilomalain muuttamisesta](346.md) `346/2019`
+- [Laki yksityisyyden suojasta työelämässä annetun lain muuttamisesta](347.md) `347/2019`
+- [Laki lasten kanssa työskentelevien rikostaustan selvittämisestä annetun lain 10 §:n muuttamisesta](348.md) `348/2019`
+- [Laki eläintautilain muuttamisesta](349.md) `349/2019`
+- [Laki sähköisen viestinnän palveluista annetun lain 304 §:n muuttamisesta](350.md) `350/2019`
+- [Laki avioliittolain 4 ja 109 §:n muuttamisesta](351.md) `351/2019`
+- [Laki lapsen huollosta ja tapaamisoikeudesta annetun lain 3 §:n muuttamisesta](352.md) `352/2019`
+- [Valtioneuvoston asetus valtion virkamieseettisestä neuvottelukunnasta](353.md) `353/2019`
+- [Valtioneuvoston asetus käräjäoikeuksien tuomiopiireistä summaarisissa riita\-asioissa annetun asetuksen 1 §:n muuttamisesta](354.md) `354/2019`
+- [Valtioneuvoston asetus Veikkaus Oy:n rahapelien toimeenpanosta annetun valtioneuvoston asetuksen 5 ja 19 §:n muuttamisesta](355.md) `355/2019`
+- [Valtioneuvoston asetus metsätuhojen torjunnasta annetun lain 10 §:n voimaantulosta](356.md) `356/2019`
+- [Valtioneuvoston asetus päivittäistavarakauppapalveluiden tukemisesta monipalvelukeskuksina harvaan asutuilla maaseutualueilla vuosina 2019–2021](357.md) `357/2019`
+- [Valtioneuvoston asetus vuodelta 2018 maksettavasta Etelä\-Suomen rehunurmen, rehuohran ja kevätvehnän väliaikaisesta kansallisesta erityistuesta annetun valtioneuvoston asetuksen liitteen 1 ja liitteen 2 muuttamisesta](358.md) `358/2019`
+- [Valtioneuvoston asetus päästökaupan vakiintuneille laitoksille maksutta jaettavien päästöoikeuksien hakemisesta päästökauppakaudelle 2021–2030](359.md) `359/2019`
+- [Ympäristöministeriön asetus rakennuksen ääniympäristöstä annetun ympäristöministeriön asetuksen 5 ja 6 §:n muuttamisesta](360.md) `360/2019`
+- [Verohallinnon päätös veroilmoituksessa annettavista tiedoista annetun päätöksen 11 ja 16 §:n muuttamisesta](361.md) `361/2019`
+- [Sisäministeriön ilmoitus sisäministeriön asetuksesta Veikkaus Oy:n rahapelien pelisäännöistä](362.md) `362/2019`
+- [Valtioneuvoston asetus diplomaattisen tai konsuliedustuston jäsenten perheenjäsenten ansiotyöstä Intian kanssa tehdystä sopimuksesta](363.md) `363/2019`
+- [Sisäministeriön asetus rajavartiolaitoksen menetelmistä kulkuneuvon pysäyttämisessä ja voimakeinojen käyttämisessä annetun sisäasiainministeriön asetuksen 1 ja 4 §:n muuttamisesta](364.md) `364/2019`
+- [Sisäministeriön asetus Rajavartiolaitoksen hallitsemaa tilaa ja aluetta koskevista liikkumisrajoituksista ja \-kielloista annetun sisäasiainministeriön asetuksen 1 ja 7 §:n muuttamisesta](365.md) `365/2019`
+- [Työ\- ja elinkeinoministeriön asetus Energiaviraston maksullisista suoritteista annetun työ\- ja elinkeinoministeriön asetuksen muuttamisesta](366.md) `366/2019`
+- [Valtiovarainministeriön asetus valtiovarainministeriön työjärjestyksestä annetun valtiovarainministeriön asetuksen muuttamisesta](367.md) `367/2019`
+- [Laki rikoslain muuttamisesta](368.md) `368/2019`
+- [Laki valtiontalouden tarkastusvirastosta annetun lain 17 §:n muuttamisesta](369.md) `369/2019`
+- [Laki Suomessa oleskelunsa rekisteröineiden Yhdistyneen kuningaskunnan kansalaisten ja heidän perheenjäsentensä oikeudesta oleskella Suomessa vuoden 2020 loppuun](370.md) `370/2019`
+- [Laki liikenteen palveluista annetun lain muuttamisesta](371.md) `371/2019`
+- [Laki ajokorttilain muuttamisesta](372.md) `372/2019`
+- [Laki ajoneuvolain 3 §:n muuttamisesta](373.md) `373/2019`
+- [Laki ajoneuvoverolain 63 §:n muuttamisesta](374.md) `374/2019`
+- [Laki aluskiinnityslain 44 §:n muuttamisesta](375.md) `375/2019`
+- [Laki alusrekisterilain muuttamisesta](376.md) `376/2019`
+- [Laki autoverolain 28 §:n muuttamisesta](377.md) `377/2019`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain 19 §:n muuttamisesta](378.md) `378/2019`
+- [Laki henkilötietojen käsittelystä rajavartiolaitoksessa annetun lain 28 §:n muuttamisesta](379.md) `379/2019`
+- [Laki henkilötietojen käsittelystä Tullissa annetun lain 17 §:n muuttamisesta](380.md) `380/2019`
+- [Laki ilmailulain muuttamisesta](381.md) `381/2019`
+- [Laki kalastuksesta Tenojoen vesistössä Norjan kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja soveltamisesta annetun lain 14 ja 15 §:n muuttamisesta](382.md) `382/2019`
+- [Laki laiva\-apteekista annetun lain 2 §:n muuttamisesta](383.md) `383/2019`
+- [Laki laivaväestä ja aluksen turvallisuusjohtamisesta annetun lain muuttamisesta](384.md) `384/2019`
+- [Laki laivaväen lääkärintarkastuksista annetun lain 2 ja 3 §:n muuttamisesta](385.md) `385/2019`
+- [Laki koulumatkatukilain 4 §:n muuttamisesta](386.md) `386/2019`
+- [Laki pelastuslain 89 §:n muuttamisesta](387.md) `387/2019`
+- [Laki polttoainemaksusta annetun lain 2 ja 18 §:n muuttamisesta](388.md) `388/2019`
+- [Laki rikesakkorikkomuksista annetun lain 4 §:n muuttamisesta](389.md) `389/2019`
+- [Laki terveydenhuollon ammattihenkilöistä annetun lain 24 a §:n 2 momentin 4 kohdan kumoamisesta](390.md) `390/2019`
+- [Laki verotusmenettelystä annetun lain 18 §:n muuttamisesta](391.md) `391/2019`
+- [Laki vesikulkuneuvojen rekisteröinnistä annetun lain 1 §:n muuttamisesta](392.md) `392/2019`
+- [Laki ajokorttilain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](393.md) `393/2019`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](394.md) `394/2019`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](395.md) `395/2019`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](396.md) `396/2019`
+- [Laki sijoituspalvelulain muuttamisesta](397.md) `397/2019`
+- [Laki maksulaitoslain muuttamisesta](398.md) `398/2019`
+- [Laki kaupankäynnistä rahoitusvälineillä annetun lain 3 luvun 3 §:n muuttamisesta](399.md) `399/2019`
+- [Laki vaihtoehtorahastojen hoitajista annetun lain muuttamisesta](400.md) `400/2019`
+- [Laki arvopaperimarkkinalain 12 luvun 3 §:n muuttamisesta](401.md) `401/2019`
+- [Laki arvo\-osuusjärjestelmästä ja selvitystoiminnasta annetun lain 2 luvun 22 §:n ja 8 luvun 2 §:n muuttamisesta](402.md) `402/2019`
+- [Laki sijoitusrahastolain 26 luvun 2 §:n ja 27 luvun 7 §:n muuttamisesta](403.md) `403/2019`
+- [Laki liikepankeista ja muista osakeyhtiömuotoisista luottolaitoksista annetun lain muuttamisesta](404.md) `404/2019`
+- [Laki rahoitus\- ja vakuutusryhmittymien valvonnasta annetun lain 31 ja 33 §:n muuttamisesta](405.md) `405/2019`
+- [Laki luottolaitosten ja sijoituspalveluyritysten kriisinratkaisusta annetun lain muuttamisesta](406.md) `406/2019`
+- [Laki rahoitusvakausviranomaisesta annetun lain muuttamisesta](407.md) `407/2019`
+- [Laki osuuspankeista ja muista osuuskuntamuotoisista luottolaitoksista annetun lain 4 ja 16 §:n muuttamisesta](408.md) `408/2019`
+- [Laki säästöpankkilain muuttamisesta](409.md) `409/2019`
+- [Laki ulkomaisen maksulaitoksen toiminnasta Suomessa annetun lain 12 §:n muuttamisesta](410.md) `410/2019`
+- [Laki kirkkolain muuttamisesta](411.md) `411/2019`
+- [Laki vahvasta sähköisestä tunnistamisesta ja sähköisistä luottamuspalveluista annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](412.md) `412/2019`
+- [Valtioneuvoston asetus yritysten yhteishankkeisiin myönnettävästä kansainvälistymisavustuksesta vuosina 2016–2020 annetun valtioneuvoston asetuksen muuttamisesta](413.md) `413/2019`
+- [Valtioneuvoston asetus valtiovarainministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](414.md) `414/2019`
+- [Lääkealan turvallisuus\- ja kehittämiskeskuksen päätös lääkeluettelosta](415.md) `415/2019`
+- [Laki hiilen energiakäytön kieltämisestä](416.md) `416/2019`
+- [Laki oikeudenkäynnistä markkinaoikeudessa annetun lain 1 luvun 2 §:n muuttamisesta](417.md) `417/2019`
+- [Laki biopolttoöljyn käytön edistämisestä](418.md) `418/2019`
+- [Laki biopolttoaineiden käytön edistämisestä liikenteessä annetun lain muuttamisesta](419.md) `419/2019`
+- [Laki biopolttoaineista ja bionesteistä annetun lain 2 §:n muuttamisesta](420.md) `420/2019`
+- [Laki rintamasotilaseläkelain 9 ja 9 a §:n muuttamisesta](421.md) `421/2019`
+- [Laki ulkomaille maksettavasta rintamalisästä annetun lain 3 §:n muuttamisesta](422.md) `422/2019`
+- [Laki vammaisetuuksista annetun lain 9 a §:n muuttamisesta](423.md) `423/2019`
+- [Laki kansanedustajain eläkelain muuttamisesta annetun lain voimaantulosäännöksen 2 momentin kumoamisesta](424.md) `424/2019`
+- [Laki kansanedustajan eläkkeestä ja sopeutumisrahasta annetun lain muuttamisesta](425.md) `425/2019`
+- [Laki työttömyysturvalain muuttamisesta](426.md) `426/2019`
+- [Laki kalastuslain muuttamisesta](427.md) `427/2019`
+- [Laki muinaismuistolain muuttamisesta](428.md) `428/2019`
+- [Valtioneuvoston asetus vuonna 2019 toimitettavissa eduskuntavaaleissa ja europarlamenttivaaleissa ennakkoäänestyspaikkoina olevista Suomen edustustoista ja niiden toimipaikoista annetun valtioneuvoston asetuksen liitteen I muuttamisesta](429.md) `429/2019`
+- [Työ\- ja elinkeinoministeriön asetus päästökaupan vakiintuneille laitoksille kaudelle 2021–2025 maksutta jaettavien päästöoikeuksien hakemisen määräajan pidentämisestä](430.md) `430/2019`
+- [Sisäministeriön asetus Rajavartiolaitoksen hallitsemaa tilaa ja aluetta koskevista liikkumisrajoituksista ja \-kielloista annetun sisäasiainministeriön asetuksen muuttamisesta](431.md) `431/2019`
+- [Laki hallintolain muuttamisesta](432.md) `432/2019`
+- [Laki julkisista kuulutuksista annetun lain kumoamisesta](433.md) `433/2019`
+- [Laki maakaaren 12 luvun 3 §:n muuttamisesta](434.md) `434/2019`
+- [Laki kokoontumislain 7 §:n muuttamisesta](435.md) `435/2019`
+- [Laki kansalaisaloitelain muuttamisesta](436.md) `436/2019`
+- [Laki ulkomaalaislain muuttamisesta](437.md) `437/2019`
+- [Laki jätelain muuttamisesta](438.md) `438/2019`
+- [Oikeusministeriön päätös yleisen asianajajayhdistyksen sääntöjen vahvistamisesta annetun oikeusministeriön päätöksen muuttamisesta](439.md) `439/2019`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta viljelystarkastusten suorittamisesta](440.md) `440/2019`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvilajikkeiden lajikeluettelosta annetun maa\- ja metsätalousministeriön asetuksen liitteen 2 ja 3 muuttamisesta](441.md) `441/2019`
+- [Laki puolustusvoimista annetun lain 37 §:n muuttamisesta](442.md) `442/2019`
+- [Laki Maanpuolustuskorkeakoulusta annetun lain 16 §:n muuttamisesta](443.md) `443/2019`
+- [Laki rajavartiolaitoksen hallinnosta annetun lain 10 ja 26 §:n muuttamisesta](444.md) `444/2019`
+- [Laki muuntogeenisen organismin viljelyn rajoittamisesta](445.md) `445/2019`
+- [Laki geenitekniikkalain 24 a §:n muuttamisesta](446.md) `446/2019`
+- [Liikenne\- ja viestintäministeriön asetus liikenne\- ja viestintäministeriön työjärjestyksen 7 §:n muuttamisesta](447.md) `447/2019`
+- [Valtioneuvoston asetus vuodelta 2019 maksettavasta mehiläistalouden kansallisesta pesäkohtaisesta tuesta](448.md) `448/2019`
+- [Valtioneuvoston asetus vuodelta 2018 maksettavasta sokerijuurikkaan kuljetustuesta](449.md) `449/2019`
+- [Valtioneuvoston asetus maataloustukihakemuksen siirtämisessä vuonna 2019 noudatettavasta menettelystä](450.md) `450/2019`
+- [Valtioneuvoston asetus ympäristökorvauksesta annetun valtioneuvoston asetuksen muuttamisesta](451.md) `451/2019`
+- [Valtioneuvoston asetus luonnonmukaisen tuotannon korvauksesta annetun valtioneuvoston asetuksen muuttamisesta](452.md) `452/2019`
+- [Valtioneuvoston asetus luonnonhaittakorvauksesta annetun valtioneuvoston asetuksen 8 ja 15 §:n muuttamisesta](453.md) `453/2019`
+- [Valtioneuvoston asetus ympäristökorvauksen, luonnonhaittakorvauksen, luonnonmukaisen tuotannon korvauksen ja ei\-tuotannollisia investointeja koskevan korvauksen hakemisesta vuonna 2019](454.md) `454/2019`
+- [Ympäristöministeriön asetus rakennusten vesilaitteistoihin tarkoitettujen kupariputkien olennaisista teknisistä vaatimuksista](455.md) `455/2019`
+- [Valtioneuvoston asetus kalastuksesta Tenojoen vesistössä Norjan kanssa tehdyn sopimuksen 6 ja 7 artiklassa tarkoitetusta pöytäkirjasta](456.md) `456/2019`
+- [Maa\- ja metsätalousministeriön asetus kalastuksesta Tenojoen vesistössä Norjan kanssa tehtyyn sopimukseen perustuvista kalastusluvista vuonna 2019](457.md) `457/2019`
+- [Laki vastavuoroisista puolustushankinnoista Amerikan Yhdysvaltojen kanssa tehdystä sopimuksesta](458.md) `458/2019`
+- [Laki Suomen ja Amerikan Yhdysvaltojen välillä vastavuoroisista puolustushankinnoista tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain kumoamisesta](459.md) `459/2019`
+- [Valtioneuvoston asetus Neuvostoliiton kanssa tehdyn yhteistyöstä torjuttaessa öljyn ja muiden vahingollisten aineiden vahinkotapauksissa aiheuttamaa Itämeren pilaantumista koskevan sopimuksen voimaansaattamisesta annetun asetuksen 2 §:n kumoamisesta](460.md) `460/2019`
+- [Valtioneuvoston asetus Viron kanssa yhteistyöstä torjuttaessa pilaantumisvahinkoja merellä tehdyn sopimuksen ja siihen liittyvän pöytäkirjan voimaansaattamisesta annetun asetuksen 2 §:n kumoamisesta](461.md) `461/2019`
+- [Valtioneuvoston asetus vaarallisten kemikaalien teollisen käsittelyn ja varastoinnin turvallisuusvaatimuksista annetun valtioneuvoston asetuksen muuttamisesta](462.md) `462/2019`
+- [Valtioneuvoston asetus vaarallisten kemikaalien käsittelyn ja varastoinnin valvonnasta annetun valtioneuvoston asetuksen liitteen I osan 2 muuttamisesta](463.md) `463/2019`
+- [Valtioneuvoston asetus tulenaran selluloidin varastossapidosta, käsittelystä ja kuljetuksesta annetun asetuksen kumoamisesta](464.md) `464/2019`
+- [Opetus\- ja kulttuuriministeriön asetus eräiden koulumatkakustannusten laskentaperusteista](465.md) `465/2019`
+- [Työ\- ja elinkeinoministeriön asetus päästökaupan todentajien hyväksymisestä ja todentamistehtävän suorittamisesta](466.md) `466/2019`
+- [Laki maankäyttö\- ja rakennuslain muuttamisesta](467.md) `467/2019`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta kansallisen turvallisuuden varmistamiseksi](468.md) `468/2019`
+- [Laki valtion etuosto\-oikeudesta eräillä alueilla](469.md) `469/2019`
+- [Laki eräiden kiinteistönhankintojen luvanvaraisuudesta](470.md) `470/2019`
+- [Laki maakaaren 12 luvun 2 §:n muuttamisesta](471.md) `471/2019`
+- [Laki kaupanvahvistajista annetun lain 6 §:n muuttamisesta](472.md) `472/2019`
+- [Laki kiinteistötietojärjestelmästä ja siitä tuotettavasta tietopalvelusta annetun lain 6 §:n muuttamisesta](473.md) `473/2019`
+- [Laki kiinteistöjen kauppahintarekisteristä annetun lain muuttamisesta](474.md) `474/2019`
+- [Valtioneuvoston asetus diplomaattisen, konsuli\-, sotilas\-, hallinnollisen ja teknillisen henkilökunnan perheenjäsenten ansiotyön tekemisestä Brasilian kanssa tehdystä sopimuksesta](475.md) `475/2019`
+- [Ulkoministeriön asetus ulkoasiainhallinnon suoritteiden maksuista annetun ulkoministeriön asetuksen muuttamisesta](476.md) `476/2019`
+- [Ympäristöministeriön asetus rakennusten vesilaitteistoihin tarkoitettujen sulkuventtiilien olennaisista teknisistä vaatimuksista](477.md) `477/2019`
+- [Ympäristöministeriön asetus rakennusten jätevesilaitteistoihin tarkoitettujen vesilukkojen olennaisista teknisistä vaatimuksista](478.md) `478/2019`
+- [Valtioneuvoston asetus liikenne\- ja viestintäministeriöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](479.md) `479/2019`
+- [Ympäristöministeriön asetus rakennusten vesilaitteistoihin tarkoitettujen messinkisten ja kuparisten putkiyhteidenolennaisista teknisistä vaatimuksista](480.md) `480/2019`
+- [Ympäristöministeriön asetus rakennusten vesilaitteistoihin tarkoitettujen kupariputkien mekaanisten liittimien olennaisista teknisistä vaatimuksista](481.md) `481/2019`
+- [Ympäristöministeriön asetus rakennusten vesilaitteistoihin tarkoitettujen yksisuuntaventtiilien olennaisista teknisistä vaatimuksista](482.md) `482/2019`
+- [Ympäristöministeriön asetus rakennusten jätevesilaitteistoihin tarkoitettujen lattiakaivojen olennaisista teknisistä vaatimuksista](483.md) `483/2019`
+- [Laki liikenteen palveluista annetun lain muuttamisesta](484.md) `484/2019`
+- [Valtioneuvoston asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan liitteeseen VI tehtyjen muutosten voimaansaattamisesta ja väliaikaisesta soveltamisesta](485.md) `485/2019`
+- [Laki rikoslain muuttamisesta](486.md) `486/2019`
+- [Laki esitutkintalain 4 luvun 19 §:n ja 9 luvun 4 §:n muuttamisesta](487.md) `487/2019`
+- [Laki pakkokeinolain 10 luvun 3 ja 17 §:n muuttamisesta](488.md) `488/2019`
+- [Laki oikeudenkäymiskaaren 17 luvun 24 §:n muuttamisesta](489.md) `489/2019`
+- [Laki poliisin säilyttämien henkilöiden kohtelusta annetun lain 16 luvun 2 §:n muuttamisesta](490.md) `490/2019`
+- [Laki vankeuslain 19 luvun 4 ja 5 §:n muuttamisesta](491.md) `491/2019`
+- [Laki panostajalain 7 §:n muuttamisesta](492.md) `492/2019`
+- [Laki raskauden keskeyttämisestä annetun lain 1 ja 3 §:n muuttamisesta](493.md) `493/2019`
+- [Valtioneuvoston asetus vuodelta 2019 maksettavien kansallisten kasvintuotannon tukien ja kotieläintukien valvonnasta](494.md) `494/2019`
+- [Valtioneuvoston asetus maatilojen neuvontajärjestelmästä annetun valtioneuvoston asetuksen 7 §:n muuttamisesta](495.md) `495/2019`
+- [Ympäristöministeriön ilmoitus asetuksista koskien rakennusten vesilaitteistoihin ja jätevesilaitteistoihin tarkoitettujen rakennustuotteiden tyyppihyväksyntöjä](496.md) `496/2019`
+- [Ympäristöministeriön asetus rakennusten vesilaitteistoihin tarkoitettujen vesikalusteiden olennaisista teknisistävaatimuksista](497.md) `497/2019`
+- [Ympäristöministeriön asetus rakennusten jätevesilaitteistoihin tarkoitettujen polypropeenista valmistettujenviemäriputkien ja putkiyhteiden olennaisista teknisistä vaatimuksista](498.md) `498/2019`
+- [Ympäristöministeriön asetus rakennusten vesilaitteistoihin tarkoitettujen PEX\-putkien liittimien olennaisista teknisistä vaatimuksista](499.md) `499/2019`
+- [Ympäristöministeriön asetus rakennusten vesilaitteistoihin tarkoitettujen monikerrosputkien ja niiden liittimienolennaisista teknisistä vaatimuksista](500.md) `500/2019`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisten tukien hallinnosta vuonna 2019](501.md) `501/2019`
+- [Laki ylioppilastutkinnosta](502.md) `502/2019`
+- [Laki lukiolain 1 ja 6 §:n muuttamisesta](503.md) `503/2019`
+- [Laki ympäristönsuojelulain muuttamisesta](504.md) `504/2019`
+- [Laki vesilain muuttamisesta](505.md) `505/2019`
+- [Valtioneuvoston asetus kansainvälisestä tieliikenteestä Venäjän kanssa tehdyn sopimuksen ja sen soveltamisesta tehdyn pöytäkirjan muuttamisesta tehdystä sopimuksesta](506.md) `506/2019`
+- [Laki vankeuslain muuttamisesta](507.md) `507/2019`
+- [Laki tutkintavankeuslain muuttamisesta](508.md) `508/2019`
+- [Laki pakkokeinolain muuttamisesta](509.md) `509/2019`
+- [Laki rikoslain 6 luvun 13 §:n muuttamisesta](510.md) `510/2019`
+- [Laki arvopaperimarkkinalain muuttamisesta](511.md) `511/2019`
+- [Laki osakeyhtiölain muuttamisesta](512.md) `512/2019`
+- [Laki sijoituspalvelulain muuttamisesta](513.md) `513/2019`
+- [Laki arvo\-osuusjärjestelmästä ja selvitystoiminnasta annetun lain muuttamisesta](514.md) `514/2019`
+- [Laki sijoitusrahastolain muuttamisesta](515.md) `515/2019`
+- [Laki vaihtoehtorahastojen hoitajista annetun lain muuttamisesta](516.md) `516/2019`
+- [Laki Finanssivalvonnasta annetun lain 5 §:n muuttamisesta](517.md) `517/2019`
+- [Laki vakuutusyhtiölain muuttamisesta](518.md) `518/2019`
+- [Laki eläkesäätiölain muuttamisesta](519.md) `519/2019`
+- [Laki vakuutuskassalain muuttamisesta](520.md) `520/2019`
+- [Laki rikoslain 2 c luvun muuttamisesta](521.md) `521/2019`
+- [Laki rajoitetusti verovelvollisen tulon verottamisesta annetun lain muuttamisesta](522.md) `522/2019`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](523.md) `523/2019`
+- [Laki ennakkoperintälain muuttamisesta](524.md) `524/2019`
+- [Laki oma\-aloitteisten verojen verotusmenettelystä annetun lain muuttamisesta](525.md) `525/2019`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 9 §:n muuttamisesta](526.md) `526/2019`
+- [Valtioneuvoston asetus Suomen ja Ruotsin välillä tehdyn rajajokisopimuksen Tornionjoen kalastusalueen kalastussäännön 16 §:ssä tarkoitetusta pöytäkirjasta](527.md) `527/2019`
+- [Laki tuloverolain muuttamisesta](528.md) `528/2019`
+- [Laki rajoitetusti verovelvollisen tulon verottamisesta annetun lain 3 §:n muuttamisesta](529.md) `529/2019`
+- [Laki kansainvälisten veroriitojen ratkaisumenettelystä](530.md) `530/2019`
+- [Laki verotusmenettelystä annetun lain 89 §:n 3–5 momentin kumoamisesta](531.md) `531/2019`
+- [Laki rajoitetusti verovelvollisen tulon verottamisesta annetun lain 22 §:n muuttamisesta](532.md) `532/2019`
+- [Laki terveydenhuollon ammattihenkilöistä annetun lain 23 b §:n muuttamisesta](533.md) `533/2019`
+- [Laki terveydenhuoltolain 60 a §:n muuttamisesta](534.md) `534/2019`
+- [Laki sairausvakuutuslain muuttamisesta](535.md) `535/2019`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain muuttamisesta](536.md) `536/2019`
+- [Laki työnantajan sairausvakuutusmaksusta annetun lain 4 ja 5 §:n muuttamisesta](537.md) `537/2019`
+- [Valtioneuvoston asetus polttomoottoreiden pakokaasu\- ja hiukkaspäästöjen rajoittamisesta annetun valtioneuvoston asetuksen 20 §:n muuttamisesta](538.md) `538/2019`
+- [Valtioneuvoston asetus romuajoneuvoista sekä vaarallisten aineiden käytön rajoittamisesta ajoneuvoissa annetun valtioneuvoston asetuksen 10 ja 11 §:n muuttamisesta](539.md) `539/2019`
+- [Valtioneuvoston asetus merenhoidon järjestämisestä annetun valtioneuvoston asetuksen 3 ja 15 §:n muuttamisesta](540.md) `540/2019`
+- [Laki Kevasta annetun lain muuttamisesta](541.md) `541/2019`
+- [Laki lastensuojelulain muuttamisesta](542.md) `542/2019`
+- [Sosiaali\- ja terveysministeriön asetus Lääkealan turvallisuus\- ja kehittämiskeskuksen maksullisista suoritteista](543.md) `543/2019`
+- [Tavaramerkkilaki](544.md) `544/2019`
+- [Laki tavaramerkkioikeudesta tehdystä Singaporen sopimuksesta ja sen soveltamissäännöistä](545.md) `545/2019`
+- [Laki toiminimilain muuttamisesta](546.md) `546/2019`
+- [Laki rikoslain 49 luvun 2 §:n muuttamisesta](547.md) `547/2019`
+- [Laki Patentti\- ja rekisterihallituksesta annetun lain 6 §:n muuttamisesta](548.md) `548/2019`
+- [Laki oikeudenkäynnistä markkinaoikeudessa annetun lain muuttamisesta](549.md) `549/2019`
+- [Laki todistelun turvaamisesta teollis\- ja tekijänoikeuksia koskevissa riita\-asioissa annetun lain 1 §:n muuttamisesta](550.md) `550/2019`
+- [Laki mallioikeuslain muuttamisesta](551.md) `551/2019`
+- [Laki sosiaali\- ja terveystietojen toissijaisesta käytöstä](552.md) `552/2019`
+- [Laki Terveyden ja hyvinvoinnin laitoksesta annetun lain muuttamisesta](553.md) `553/2019`
+- [Laki lääkelain 30 e §:n muuttamisesta](554.md) `554/2019`
+- [Laki sosiaalihuollon asiakkaan asemasta ja oikeuksista annetun lain 18 §:n 5 momentin kumoamisesta](555.md) `555/2019`
+- [Laki potilaan asemasta ja oikeuksista annetun lain 13 §:n 5 momentin kumoamisesta](556.md) `556/2019`
+- [Laki sähköisestä lääkemääräyksestä annetun lain 15 §:n muuttamisesta](557.md) `557/2019`
+- [Laki sosiaali\- ja terveydenhuollon asiakastietojen sähköisestä käsittelystä annetun lain 10 §:n 3 momentin kumoamisesta](558.md) `558/2019`
+- [Laki kuolemansyyn selvittämisestä annetun lain 15 §:n 3 momentin kumoamisesta](559.md) `559/2019`
+- [Laki tartuntatautilain muuttamisesta](560.md) `560/2019`
+- [Laki terveydenhuollon valtakunnallisista henkilörekistereistä annetun lain kumoamisesta](561.md) `561/2019`
+- [Laki sosiaali\- ja terveysalan tutkimus\- ja kehittämiskeskuksen tilastotoimesta annetun lain kumoamisesta](562.md) `562/2019`
+- [Laki toimeentulotuesta annetun lain 14 g §:n 3 momentin kumoamisesta](563.md) `563/2019`
+- [Laki kansalaisuuslain muuttamisesta](564.md) `564/2019`
+- [Laki ulkomaalaislain muuttamisesta](565.md) `565/2019`
+- [Laki ulkomaalaisrekisteristä annetun lain muuttamisesta](566.md) `566/2019`
+- [Laki tuomioistuimen velvollisuudesta ilmoittaa eräistä ratkaisuistaan annetun lain muuttamisesta](567.md) `567/2019`
+- [Laki valtakunnallisista opinto\- ja tutkintorekistereistä annetun lain muuttamisesta](568.md) `568/2019`
+- [Laki ammatillisesta koulutuksesta annetun lain muuttamisesta](569.md) `569/2019`
+- [Valtioneuvoston asetus siviilipalveluksesta annetun valtioneuvoston asetuksen 2 a §:n muuttamisesta](570.md) `570/2019`
+- [Laki pankki\- ja maksutilien valvontajärjestelmästä](571.md) `571/2019`
+- [Laki virtuaalivaluutan tarjoajista](572.md) `572/2019`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä annetun lain muuttamisesta](573.md) `573/2019`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](574.md) `574/2019`
+- [Laki Finanssivalvonnan valvontamaksusta annetun lain 1 ja 6 §:n muuttamisesta](575.md) `575/2019`
+- [Laki rahanpesun selvittelykeskuksesta annetun lain muuttamisesta](576.md) `576/2019`
+- [Valtioneuvoston asetus veropohjan rapautumisen ja voitonsiirron estämiseksi verosopimuksiin toteuttavista toimenpiteistä tehdystä monenvälisestä yleissopimuksesta](577.md) `577/2019`
+- [Laki kaivoslain 32 ja 34 §:n muuttamisesta](578.md) `578/2019`
+- [Laki siviilipalveluslain muuttamisesta](579.md) `579/2019`
+- [Sosiaali\- ja terveysministeriön asetus Sosiaali\- ja terveysalan lupa\- ja valvontaviraston maksullisista suoritteista annetun sosiaali\- ja terveysministeriön asetuksen 2 §:n ja liitteen 1 muuttamisesta](580.md) `580/2019`
+- [Laki poliisilain muuttamisesta](581.md) `581/2019`
+- [Laki tietoliikennetiedustelusta siviilitiedustelussa](582.md) `582/2019`
+- [Laki poliisin hallinnosta annetun lain 10 ja 15 a §:n muuttamisesta](583.md) `583/2019`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain muuttamisesta](584.md) `584/2019`
+- [Laki esitutkintalain 2 luvun 1 §:n ja 9 luvun 6 §:n muuttamisesta](585.md) `585/2019`
+- [Laki rikoslain muuttamisesta](586.md) `586/2019`
+- [Laki pakkokeinolain 2 ja 10 luvun muuttamisesta](587.md) `587/2019`
+- [Laki oikeudenkäynnin julkisuudesta yleisissä tuomioistuimissa annetun lain muuttamisesta](588.md) `588/2019`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain 5 luvun 3 §:n muuttamisesta](589.md) `589/2019`
+- [Laki sotilastiedustelusta](590.md) `590/2019`
+- [Laki puolustusvoimista annetun lain muuttamisesta](591.md) `591/2019`
+- [Laki sotilaskurinpidosta ja rikostorjunnasta puolustusvoimissa annetun lain muuttamisesta](592.md) `592/2019`
+- [Laki tuloverolain 92 b §:n muuttamisesta](593.md) `593/2019`
+- [Laki kokonaisvaltaisesta ja tehostetusta kumppanuudesta Euroopan unionin ja Euroopan atomienergiayhteisön ja niiden jäsenvaltioiden sekä Armenian tasavallan välillä tehdystä sopimuksesta](594.md) `594/2019`
+- [Oikeusministeriön asetus oikeusministeriön työjärjestyksestä](595.md) `595/2019`
+- [Laki kuluttajansuojalain muuttamisesta](596.md) `596/2019`
+- [Laki korkolain 2 §:n muuttamisesta](597.md) `597/2019`
+- [Laki saatavien perinnästä annetun lain 3 §:n muuttamisesta](598.md) `598/2019`
+- [Laki oikeudenkäymiskaaren 5 luvun 3 §:n muuttamisesta](599.md) `599/2019`
+- [Siemenlaki](600.md) `600/2019`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](601.md) `601/2019`
+- [Laki sakon ja rikesakon määräämisestä annetun lain 1 §:n muuttamisesta](602.md) `602/2019`
+- [Laki rikoslain 2 a luvun muuttamisesta](603.md) `603/2019`
+- [Laki sakon täytäntöönpanosta annetun lain 28 ja 37 §:n muuttamisesta](604.md) `604/2019`
+- [Laki vankeuslain 2 luvun 9 §:n kumoamisesta](605.md) `605/2019`
+- [Valtioneuvoston asetus turvakotipalvelujen tuottamiselle asetettavista edellytyksistä annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](606.md) `606/2019`
+- [Valtioneuvoston asetus Euroopan unionin ja Latinalaisen Amerikan sekä Karibian alueen kansainvälisen säätiön perustamisesta tehdystä sopimuksesta](607.md) `607/2019`
+- [Valtiovarainministeriön asetus osakkeen liikkeeseenlaskijan palkitsemispolitiikasta ja palkitsemisraportista](608.md) `608/2019`
+- [Valtioneuvoston asetus vuonna 2019 toimitettavissa eduskuntavaaleissa ja europarlamenttivaaleissa ennakkoäänestyspaikkoina olevista Suomen edustustoista ja niiden toimipaikoista annetun valtioneuvoston asetuksen liitteen II muuttamisesta](609.md) `609/2019`
+- [Valtioneuvoston asetus rahanpesun ja terrorismin rahoittamisen estämisestä annetussa laissa tarkoitetuista merkittävistä julkisista tehtävistä](610.md) `610/2019`
+- [Sisäministeriön ilmoitus sisäministeriön asetuksesta Veikkaus Oy:n rahapelien pelisäännöistä](611.md) `611/2019`
+- [Valtioneuvoston asetus ylioppilastutkinnosta](612.md) `612/2019`
+- [Maa\- ja metsätalousministeriön asetus haahkan metsästyksen rajoittamisesta](613.md) `613/2019`
+- [Maa\- ja metsätalousministeriön asetus uhanalaisten ja taantuneiden kalojen arvoista](614.md) `614/2019`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta härkäpavun kylvösiemenen sertifiointia koskevasta väliaikaisesta poikkeuksesta](615.md) `615/2019`
+- [Laki henkilötietojen käsittelystä poliisitoimessa](616.md) `616/2019`
+- [Laki arpajaislain 42 b §:n muuttamisesta](617.md) `617/2019`
+- [Laki Euroopan unionin jäsenvaltioiden lainvalvontaviranomaisten välisen tietojen ja tiedustelutietojen vaihdon yksinkertaistamisesta tehdyn neuvoston puitepäätöksen lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja puitepäätöksen soveltamisesta annetun lain muuttamisesta](618.md) `618/2019`
+- [Laki Eurojustia koskevan päätöksen eräiden määräysten täytäntöönpanosta annetun lain 10 §:n muuttamisesta](619.md) `619/2019`
+- [Laki henkilökorttilain 17 ja 31 §:n muuttamisesta](620.md) `620/2019`
+- [Laki hätäkeskustoiminnasta annetun lain 17 ja 19 §:n muuttamisesta](621.md) `621/2019`
+- [Laki joukkoliikenteen tarkastusmaksusta annetun lain 6 §:n muuttamisesta](622.md) `622/2019`
+- [Laki lähestymiskiellosta annetun lain 15 §:n muuttamisesta](623.md) `623/2019`
+- [Laki pakkokeinolain muuttamisesta](624.md) `624/2019`
+- [Laki Poliisiammattikorkeakoulusta annetun lain 49 §:n muuttamisesta](625.md) `625/2019`
+- [Laki poliisilain muuttamisesta](626.md) `626/2019`
+- [Laki poliisin säilyttämien henkilöiden kohtelusta annetun lain muuttamisesta](627.md) `627/2019`
+- [Laki poliisin, Tullin ja Rajavartiolaitoksen yhteistoiminnasta annetun lain 6 §:n muuttamisesta](628.md) `628/2019`
+- [Laki passilain 29 §:n muuttamisesta](629.md) `629/2019`
+- [Laki rahankeräyslain 27 §:n muuttamisesta](630.md) `630/2019`
+- [Laki rahanpesun selvittelykeskuksesta annetun lain 3 §:n muuttamisesta](631.md) `631/2019`
+- [Laki sakon täytäntöönpanosta annetun lain 19 §:n muuttamisesta](632.md) `632/2019`
+- [Laki todistajansuojeluohjelmasta annetun lain 13 §:n muuttamisesta](633.md) `633/2019`
+- [Laki turvallisuusselvityslain 25 ja 32 §:n muuttamisesta](634.md) `634/2019`
+- [Laki ulkomaalaislain 131 §:n muuttamisesta](635.md) `635/2019`
+- [Laki ulkomaalaisrekisteristä annetun lain muuttamisesta](636.md) `636/2019`
+- [Laki yksityisoikeuden alalla määrättyjen suojelutoimenpiteiden vastavuoroisesta tunnustamisesta annetun Euroopan parlamentin ja neuvoston asetuksen soveltamisesta annetun lain 9 §:n muuttamisesta](637.md) `637/2019`
+- [Laki yksityisistä turvallisuuspalveluista annetun lain 86 §:n muuttamisesta](638.md) `638/2019`
+- [Laki henkilötietojen käsittelystä Rajavartiolaitoksessa](639.md) `639/2019`
+- [Laki meripelastuslain muuttamisesta](640.md) `640/2019`
+- [Laki rajavartiolaitoksen hallinnosta annetun lain muuttamisesta](641.md) `641/2019`
+- [Laki rajavartiolain muuttamisesta](642.md) `642/2019`
+- [Laki rikostorjunnasta Rajavartiolaitoksessa annetun lain muuttamisesta](643.md) `643/2019`
+- [Laki ulkomaalaislain muuttamisesta](644.md) `644/2019`
+- [Laki esitutkintalain 11 luvun 8 §:n muuttamisesta](645.md) `645/2019`
+- [Laki hätäkeskustoiminnasta annetun lain 19 ja 20 §:n muuttamisesta](646.md) `646/2019`
+- [Laki poliisilain 2 luvun 21 §:n muuttamisesta](647.md) `647/2019`
+- [Laki tullilain 31 §:n muuttamisesta](648.md) `648/2019`
+- [Laki turvallisuusselvityslain 25 §:n muuttamisesta](649.md) `649/2019`
+- [Laki henkilötietojen käsittelystä Tullissa](650.md) `650/2019`
+- [Laki rikostorjunnasta Tullissa annetun lain muuttamisesta](651.md) `651/2019`
+- [Laki Harmaan talouden selvitysyksiköstä annetun lain 12 §:n muuttamisesta](652.md) `652/2019`
+- [Laki autoverolain 87 a §:n muuttamisesta](653.md) `653/2019`
+- [Laki valmisteverotuslain 4 a §:n muuttamisesta](654.md) `654/2019`
+- [Laki sähköisen viestinnän palveluista annetun lain 322 §:n muuttamisesta](655.md) `655/2019`
+- [Laki turvallisuusselvityslain 25 §:n muuttamisesta](656.md) `656/2019`
+- [Laki lentoliikenteen matkustajarekisteritietojen käytöstä terrorismirikosten ja vakavan rikollisuuden torjunnassa](657.md) `657/2019`
+- [Laki poliisin, Tullin ja Rajavartiolaitoksen yhteistoiminnasta annetun lain 5 §:n muuttamisesta](658.md) `658/2019`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](659.md) `659/2019`
+- [Maa\- ja metsätalousministeriön asetus eräiden Metsähallituksen julkisten hallintotehtävien suoritteiden maksuista annetun maa\- ja metsätalousministeriön asetuksen 2 ja 4 §:n muuttamisesta](660.md) `660/2019`
+- [Valtioneuvoston asetus kansainvälisten veroriitojen ratkaisumenettelystä](661.md) `661/2019`
+- [Valtioneuvoston asetus ihmisen elimien, kudoksien ja solujen lääketieteellisestä käytöstä annetun valtioneuvoston asetuksen 2 ja 3 §:n muuttamisesta](662.md) `662/2019`
+- [Valtioneuvoston asetus Kanadan sekä Euroopan yhteisön ja sen jäsenvaltioiden välisestä lentoliikennesopimuksesta](663.md) `663/2019`
+- [Laki konkurssilain muuttamisesta](664.md) `664/2019`
+- [Laki yrityksen saneerauksesta annetun lain muuttamisesta](665.md) `665/2019`
+- [Laki konkurssipesien hallinnon valvonnasta annetun lain muuttamisesta](666.md) `666/2019`
+- [Laki konkurssi\- ja yrityssaneerausasioiden asianhallintajärjestelmästä](667.md) `667/2019`
+- [Laki konkurssi\- ja yrityssaneerausrekisteristä annetun lain 9 §:n muuttamisesta](668.md) `668/2019`
+- [Laki velkajärjestelyrekisteristä annetun lain 8 §:n muuttamisesta](669.md) `669/2019`
+- [Laki maanvuokralain 19 §:n muuttamisesta](670.md) `670/2019`
+- [Laki liikehuoneiston vuokrauksesta annetun lain 39 §:n muuttamisesta](671.md) `671/2019`
+- [Laki asuinhuoneiston vuokrauksesta annetun lain 49 §:n muuttamisesta](672.md) `672/2019`
+- [Laki ulosottokaaren 3 luvun 44 §:n muuttamisesta](673.md) `673/2019`
+- [Laki verojen ja maksujen täytäntöönpanosta annetun lain 21 §:n muuttamisesta](674.md) `674/2019`
+- [Laki palkkaturvalain 20 §:n muuttamisesta](675.md) `675/2019`
+- [Laki merimiesten palkkaturvalain 18 §:n muuttamisesta](676.md) `676/2019`
+- [Laki arpajaislain muuttamisesta](677.md) `677/2019`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä annetun lain 1 luvun 3 §:n muuttamisesta](678.md) `678/2019`
+- [Laki lentoliikenteen päästökaupasta annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](679.md) `679/2019`
+- [Laki osakesäästötilistä](680.md) `680/2019`
+- [Laki Finanssivalvonnasta annetun lain 40 §:n muuttamisesta](681.md) `681/2019`
+- [Laki vieraslajeista aiheutuvien riskien hallinnasta annetun lain muuttamisesta](682.md) `682/2019`
+- [Laki metsästyslain muuttamisesta](683.md) `683/2019`
+- [Laki luonnonsuojelulain 37 §:n muuttamisesta](684.md) `684/2019`
+- [Maa\- ja metsätalousministeriön asetus eräiden elintarvikkeiden alkuperämaan ilmoittamisesta annetun maa ja metsäta\-lousministeriön asetuksen 8 §:n muuttamisesta](685.md) `685/2019`
+- [Laki työeläkevakuutusyhtiöistä annetun lain muuttamisesta](686.md) `686/2019`
+- [Laki työeläkevakuutusyhtiöistä annetun lain 9 b ja 9 e §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](687.md) `687/2019`
+- [Laki eläkesäätiölain muuttamisesta](688.md) `688/2019`
+- [Laki vakuutuskassalain muuttamisesta](689.md) `689/2019`
+- [Laki merimieseläkelain muuttamisesta](690.md) `690/2019`
+- [Laki maatalousyrittäjän eläkelain muuttamisesta](691.md) `691/2019`
+- [Laki Kevasta annetun lain 10 §:n muuttamisesta](692.md) `692/2019`
+- [Laki valtion eläkerahastosta annetun lain muuttamisesta](693.md) `693/2019`
+- [Laki työntekijän eläkelain 168 §:n muuttamisesta](694.md) `694/2019`
+- [Laki korkeakouluopiskelijoiden opiskeluterveydenhuollosta](695.md) `695/2019`
+- [Laki terveydenhuoltolain 17 §:n muuttamisesta](696.md) `696/2019`
+- [Laki sairausvakuutuslain muuttamisesta](697.md) `697/2019`
+- [Laki yliopistolain 46 §:n muuttamisesta](698.md) `698/2019`
+- [Laki ammattikorkeakoululain 41 §:n muuttamisesta](699.md) `699/2019`
+- [Valtioneuvoston asetus konkurssipesien hallinnon valvonnasta annetun asetuksen eräiden säännösten kumoamisesta](700.md) `700/2019`
+- [Valtioneuvoston asetus aluehallintovirastoista annetun valtioneuvoston asetuksen muuttamisesta](701.md) `701/2019`
+- [Päätös Tullin työjärjestyksen 2 §:n muuttamisesta](702.md) `702/2019`
+- [Valtioneuvoston asetus metsästysasetuksen muuttamisesta](703.md) `703/2019`
+- [Valtioneuvoston asetus vieraslajeista aiheutuvien riskien hallinnasta](704.md) `704/2019`
+- [Sosiaali\- ja terveysministeriön asetus lääkäri\- ja hammaslääkärikoulutuksen korvauksen perusteista vuonna 2019](705.md) `705/2019`
+- [Valtioneuvoston asetus kokonaisvaltaisesta kumppanuudesta ja yhteistyöstä Euroopan yhteisön ja sen jäsenvaltioiden sekä Indonesian tasavallan välillä tehdystä puitesopimuksesta](706.md) `706/2019`
+- [Oikeusministeriön asetus konkurssi\- ja yrityssaneerausasioiden asianhallintajärjestelmästä](707.md) `707/2019`
+- [Valtioneuvoston asetus esitutkinnasta, pakkokeinoista ja salaisesta tiedonhankinnasta annetun valtioneuvoston asetuksen muuttamisesta](708.md) `708/2019`
+- [Valtioneuvoston asetus siviilitiedustelusta](709.md) `709/2019`
+- [Ulkoministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta \(EU\) 2019/796 unionia tai sen jäsenvaltioita uhkaavien kyberhyökkäysten vastaisista rajoittavista toimenpiteistä](710.md) `710/2019`
+- [Valtioneuvoston asetus sotilastiedustelun tiedustelumenetelmistä](711.md) `711/2019`
+- [Puolustusministeriön asetus sotilastiedustelun valvonnasta puolustushallinnossa ja valvonnasta annettavista kertomuksista](712.md) `712/2019`
+- [Valtioneuvoston asetus päiväsakon rahamäärästä annetun asetuksen muuttamisesta](713.md) `713/2019`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](714.md) `714/2019`
+- [Helsingin vaalipiirilautakunnan kuulutus Suomesta valittavien Euroopan parlamentin jäsenten vaalien tuloksesta](715.md) `715/2019`
+- [Opetus\- ja kulttuuriministeriön asetus Opetushallituksen suoritteiden maksullisuudesta annetun opetus\- ja kulttuuriministeriön asetuksen 3 §:n muuttamisesta](716.md) `716/2019`
+- [Ympäristöministeriön asetus luonnonsuojelualueiden perustamisesta Varsinais\-Suomen maakuntaan annetun ympäristöministeriön asetuksen 2 §:n ja liitteen 51 muuttamisesta](717.md) `717/2019`
+- [Ympäristöministeriön asetus vaarallisten aineiden käytön rajoituksista sähkö\- ja elektroniikkalaitteissa annetun ympäristöministeriön asetuksen liitteen I muuttamisesta](718.md) `718/2019`
+- [Valtioneuvoston asetus eräistä kalansaaliiden sallituista purkamissatamista](719.md) `719/2019`
+- [Tasavallan Presidentin avoin kirje valtioneuvoston vaihdoksesta](720.md) `720/2019`
+- [Laki kilpailulain muuttamisesta](721.md) `721/2019`
+- [Laki Harmaan talouden selvitysyksiköstä annetun lain 6 §:n muuttamisesta](722.md) `722/2019`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 18 §:n muuttamisesta](723.md) `723/2019`
+- [Laki ampuma\-aselain muuttamisesta](724.md) `724/2019`
+- [Laki vapaaehtoisesta maanpuolustuksesta annetun lain muuttamisesta](725.md) `725/2019`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](726.md) `726/2019`
+- [Laki tuloverolain 119 ja 120 §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](727.md) `727/2019`
+- [Laki konserniavustuksesta verotuksessa annetun lain 2 §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](728.md) `728/2019`
+- [Laki varojen arvostamisesta verotuksessa annetun lain 3 §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](729.md) `729/2019`
+- [Laki asuintalovarauksesta verotuksessa annetun lain 1 §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](730.md) `730/2019`
+- [Laki kansainvälisen kaksinkertaisen verotuksen poistamisesta annetun lain 5 §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](731.md) `731/2019`
+- [Laki tuloverolain muuttamisesta](732.md) `732/2019`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](733.md) `733/2019`
+- [Laki rajoitetusti verovelvollisen tulon verottamisesta annetun lain 3 §:n muuttamisesta](734.md) `734/2019`
+- [Laki korkotulon lähdeverosta annetun lain 4 §:n muuttamisesta](735.md) `735/2019`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](736.md) `736/2019`
+- [Laki tulotietojärjestelmästä annetun lain 6 §:n muuttamisesta](737.md) `737/2019`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](738.md) `738/2019`
+- [Valtioneuvoston asetus avaruusasiain neuvottelukunnasta](739.md) `739/2019`
+- [Valtioneuvoston asetus Innovaatiorahoituskeskus Business Finlandista ja Business Finland \-nimisestä osakeyhtiöstä annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](740.md) `740/2019`
+- [Puolustusministeriön asetus puolustusministeriön työjärjestyksestä annetun puolustusministeriön asetuksen muuttamisesta](741.md) `741/2019`
+- [Valtiovarainministeriön asetus Suomen Hallitusmuoto 1919 \-juhlarahasta](742.md) `742/2019`
+- [Valtioneuvoston asetus vuodelta 2018 maksettavista lypsylehmä\-, nauta\-, lammas\- ja vuohipalkkioista sekä peltokasvipalkkiosta annetun valtioneuvoston asetuksen muuttamisesta](743.md) `743/2019`
+- [Valtioneuvoston asetus pinta\-alojen ja pinta\-alaperusteisten Euroopan unionin rahoittamien tukien valvonnasta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](744.md) `744/2019`
+- [Valtioneuvoston asetus Tullin hallinnosta annetun valtioneuvoston asetuksen 3 ja 6 §:n muuttamisesta](745.md) `745/2019`
+- [Sosiaali\- ja terveysministeriön asetus osakesijoitusten vuosituottoprosentin laskennassa käytettävästä eläkelaitoksen tai Merimieseläkekassan enimmäispaino\-osuudesta](746.md) `746/2019`
+- [Sosiaali\- ja terveysministeriön asetus eläkesäätiön eläkevastuun laskuperusteista](747.md) `747/2019`
+- [Sosiaali\- ja terveysministeriön asetus eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten](748.md) `748/2019`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](749.md) `749/2019`
+- [Valtioneuvoston asetus perustuesta, viherryttämistuesta ja nuoren viljelijän tuesta annetun valtioneuvoston asetuksen muuttamisesta](750.md) `750/2019`
+- [Valtioneuvoston päätös Nurmeksen kaupungin ja Valtimon kunnan yhdistymisestä](751.md) `751/2019`
+- [Valtioneuvoston asetus saaristoasiain neuvottelukunnasta](752.md) `752/2019`
+- [Valtioneuvoston asetus maitotuotteiden, hedelmien ja vihannesten koulujakelutuesta lukuvuonna 2019–2020](753.md) `753/2019`
+- [Valtioneuvoston asetus mehiläishoitotuesta](754.md) `754/2019`
+- [Valtioneuvoston asetus vankeudesta annetun valtioneuvoston asetuksen muuttamisesta](755.md) `755/2019`
+- [Valtioneuvoston asetus tutkintavankeudesta annetun valtioneuvoston asetuksen 30 §:n muuttamisesta](756.md) `756/2019`
+- [Sisäministeriön asetus sisäministeriön työjärjestyksestä annetun asetuksen muuttamisesta](757.md) `757/2019`
+- [Valtioneuvoston kanslian asetus valtioneuvoston kanslian työjärjestyksestä annetun valtioneuvoston kanslian asetuksen 6 §:n muuttamisesta](758.md) `758/2019`
+- [Sisäministeriön asetus Palosuojelurahaston työjärjestyksestä annetun sisäasiainministeriön asetuksen muuttamisesta](759.md) `759/2019`
+- [Liikenne\- ja viestintäministeriön ilmoitus kansainvälisiä rautatiekuljetuksia koskevan yleissopimuksen \(COTIF\), sellaisena kuin se on muutettuna Vilnassa 3 päivänä kesäkuuta 1999 tehdyllä pöytäkirjalla, liitteeseen F \(APTU\) ja liitteeseen G \(ATMF\) nojalla annettujen määräysten voimaantulosta](760.md) `760/2019`
+- [Valtioneuvoston asetus poronhoitovuodelta 2019/2020 maksettavasta eläinkohtaisesta tuesta](761.md) `761/2019`
+- [Valtioneuvoston asetus vuodelta 2018 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](762.md) `762/2019`
+- [Valtioneuvoston asetus yhteistoiminnasta yrityksissä annetussa laissa säädetyn hyvityksen enimmäismäärän tarkistamisesta](763.md) `763/2019`
+- [Laki eräiden ympäristöllisten lupamenettelyjen yhteensovittamisesta](764.md) `764/2019`
+- [Laki ympäristönsuojelulain muuttamisesta](765.md) `765/2019`
+- [Laki vesilain 11 luvun muuttamisesta](766.md) `766/2019`
+- [Laki luonnonsuojelulain muuttamisesta](767.md) `767/2019`
+- [Laki ympäristövaikutusten arviointimenettelystä annetun lain muuttamisesta](768.md) `768/2019`
+- [Laki maa\-aineslain muuttamisesta](769.md) `769/2019`
+- [Laki maankäyttö\- ja rakennuslain muuttamisesta](770.md) `770/2019`
+- [Laki kaivoslain muuttamisesta](771.md) `771/2019`
+- [Laki vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetun lain muuttamisesta](772.md) `772/2019`
+- [Laki korkeimmasta hallinto\-oikeudesta annetun lain 11 §:n muuttamisesta](773.md) `773/2019`
+- [Laki tuomioistuinlain 10 luvun 6 §:n muuttamisesta](774.md) `774/2019`
+- [Laki hallinto\-oikeuslain 12 §:n muuttamisesta](775.md) `775/2019`
+- [Maa\- ja metsätalousministeriön asetus Euroopan unionin ulkopuolisista maista tuotavista eräistä eläintautien leviämisen vaaraa aiheuttavista mikrobeista, loisista sekä tavaroista](776.md) `776/2019`
+- [Maa\- ja metsätalousministeriön asetus Euroopan unionin ulkopuolisista maista tuotavista eläimistä saatavista sivutuotteista, niistä johdetuista tuotteista sekä eläintautien leviämisen vaaraa aiheuttavista muista tavaroista annetun maa\- ja metsätalousministeriön asetuksen 17 ja 18 §:n kumoamisesta](777.md) `777/2019`
+- [Laki ulosottokaaren muuttamisesta](778.md) `778/2019`
+- [Laki haastemieslain muuttamisesta](779.md) `779/2019`
+- [Laki saamen kielilain 2 §:n muuttamisesta](780.md) `780/2019`
+- [Laki eurooppalaisesta tilivarojen turvaamismääräysmenettelystä annetun lain muuttamisesta](781.md) `781/2019`
+- [Vesiliikennelaki](782.md) `782/2019`
+- [Laki aluksen teknisestä turvallisuudesta ja turvallisesta käytöstä annetun lain muuttamisesta](783.md) `783/2019`
+- [Laki laivavarustelain 3 §:n muuttamisesta](784.md) `784/2019`
+- [Laki laivaväestä ja aluksen turvallisuusjohtamisesta annetun lain muuttamisesta](785.md) `785/2019`
+- [Laki liikenteen palveluista annetun lain muuttamisesta](786.md) `786/2019`
+- [Laki liikennejärjestelmästä ja maanteistä annetun lain 6 §:n muuttamisesta](787.md) `787/2019`
+- [Laki rikesakkorikkomuksista annetun lain 12 §:n kumoamisesta](788.md) `788/2019`
+- [Laki rikoslain 23 ja 48 luvun muuttamisesta](789.md) `789/2019`
+- [Laki rikostorjunnasta Rajavartiolaitoksessa annetun lain 4 §:n muuttamisesta](790.md) `790/2019`
+- [Laki sakon ja rikesakon määräämisestä annetun lain muuttamisesta](791.md) `791/2019`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskoroista](792.md) `792/2019`
+- [Sosiaali\- ja terveysministeriön asetus sairaanhoitajan rajatun lääkkeenmääräämisoikeuden edellytyksenä olevan koulutuksen korvauksen suuruudesta vuonna 2019](793.md) `793/2019`
+- [Sisäministeriön asetus kriisinhallintaan osallistuvan siviilihenkilön palvelussuhteen ehdoista annetun sisäministeriön asetuksen liitteen muuttamisesta](794.md) `794/2019`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta rautatiellä annetun valtioneuvoston asetuksen muuttamisesta](795.md) `795/2019`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta tiellä annetun valtioneuvoston asetuksen muuttamisesta](796.md) `796/2019`
+- [Valtioneuvoston asetus vaarallisten aineiden maakuljetusten turvallisuusneuvonantajasta annetun valtioneuvoston asetuksen muuttamisesta](797.md) `797/2019`
+- [Valtioneuvoston asetus Syyttäjälaitoksesta](798.md) `798/2019`
+- [Valtioneuvoston asetus tavaramerkeistä](799.md) `799/2019`
+- [Valtioneuvoston asetus tavaramerkkioikeudesta tehdystä Singaporen sopimuksesta ja sen soveltamissäännöistä](800.md) `800/2019`
+- [Opetus\- ja kulttuuriministeriön asetus Kansallisarkiston suoritteiden maksullisuudesta](801.md) `801/2019`
+- [Vuoden 2019 II lisätalousarvio](802.md) `802/2019`
+- [Maa ja metsätalousministeriön asetus kanojen ja kalkkunoiden salmonellavalvonnasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](803.md) `803/2019`
+- [Valtioneuvoston asetus sähkötyöstä ja käyttötyöstä annetun valtioneuvoston asetuksen muuttamisesta](804.md) `804/2019`
+- [Valtioneuvoston asetus sähkölaitteistoista annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](805.md) `805/2019`
+- [Valtioneuvoston asetus huumausaineina pidettävistä aineista, valmisteista ja kasveista annetun valtioneuvoston asetuksen muuttamisesta](806.md) `806/2019`
+- [Valtioneuvoston asetus kuluttajamarkkinoilta kielletyistä psykoaktiivisista aineista annetun valtioneuvoston asetuksen liitteen muuttamisesta](807.md) `807/2019`
+- [Laki oikeudenkäynnistä hallintoasioissa](808.md) `808/2019`
+- [Laki hallintolain muuttamisesta](809.md) `809/2019`
+- [Laki korkeimmasta hallinto\-oikeudesta annetun lain 6 §:n muuttamisesta](810.md) `810/2019`
+- [Laki hallinto\-oikeuslain muuttamisesta](811.md) `811/2019`
+- [Laki oikeudenkäymiskaaren muuttamisesta](812.md) `812/2019`
+- [Laki ulosottokaaren 2 luvun 21 §:n muuttamisesta](813.md) `813/2019`
+- [Laki oikeudenkäynnistä vakuutusoikeudessa annetun lain muuttamisesta](814.md) `814/2019`
+- [Laki oikeudenkäynnistä markkinaoikeudessa annetun lain muuttamisesta](815.md) `815/2019`
+- [Laki oikeudenkäynnin julkisuudesta hallintotuomioistuimissa annetun lain muuttamisesta](816.md) `816/2019`
+- [Laki oikeudenkäynnin viivästymisen hyvittämisestä annetun lain 2 §:n muuttamisesta](817.md) `817/2019`
+- [Laki oikeusapulain muuttamisesta](818.md) `818/2019`
+- [Laki vankeuslain 20 luvun 1 ja 4 §:n muuttamisesta](819.md) `819/2019`
+- [Laki tutkintavankeuslain 15 luvun 1 §:n muuttamisesta](820.md) `820/2019`
+- [Laki säätiölain 14 luvun 16 §:n muuttamisesta](821.md) `821/2019`
+- [Laki vesilain muuttamisesta](822.md) `822/2019`
+- [Laki ympäristönsuojelulain 190 ja 197 §:n muuttamisesta](823.md) `823/2019`
+- [Laki ympäristönsuojelu\- ja vesiasioiden käsittelystä aluehallintovirastossa annetun lain 4 §:n muuttamisesta](824.md) `824/2019`
+- [Laki vesienhoidon ja merenhoidon järjestämisestä annetun lain 18 §:n muuttamisesta](825.md) `825/2019`
+- [Laki Etelämantereen ympäristönsuojelusta annetun lain 35 f ja 37 §:n muuttamisesta](826.md) `826/2019`
+- [Laki vesihuoltolain 16 ja 32 §:n muuttamisesta](827.md) `827/2019`
+- [Laki kalastuslain 124 ja 125 §:n muuttamisesta](828.md) `828/2019`
+- [Laki eräiden maa\- ja metsätalousministeriön hallinnonalan lainojen ja saamisten siirtämisestä Valtiokonttorin hoidettavaksi annetun lain 25 §:n muuttamisesta](829.md) `829/2019`
+- [Laki erikoiskasvien markkinoimismaksuista annetun lain kumoamisesta](830.md) `830/2019`
+- [Laki perusopetuslain 36 a ja 42 a §:n muuttamisesta](831.md) `831/2019`
+- [Laki Helsingin eurooppalaisesta koulusta annetun lain 26 ja 43 §:n muuttamisesta](832.md) `832/2019`
+- [Laki opiskelijoiden oikeusturvalautakunnasta annetun lain muuttamisesta](833.md) `833/2019`
+- [Laki työtapaturma\- ja ammattitautilain 238 §:n muuttamisesta](834.md) `834/2019`
+- [Laki maatalousyrittäjän työtapaturma\- ja ammattitautilain 136 §:n muuttamisesta](835.md) `835/2019`
+- [Laki sairausvakuutuslain muuttamisesta](836.md) `836/2019`
+- [Laki sosiaaliturva\-asioiden muutoksenhakulautakunnasta annetun lain 10 a ja 14 §:n muuttamisesta](837.md) `837/2019`
+- [Laki työeläkeasioiden muutoksenhakulautakunnasta annetun lain 8 a ja 12 §:n muuttamisesta](838.md) `838/2019`
+- [Laki tapaturma\-asioiden muutoksenhakulautakunnasta annetun lain 10 ja 14 §:n muuttamisesta](839.md) `839/2019`
+- [Laki opintotuen muutoksenhakulautakunnasta annetun lain 10 ja 12 §:n muuttamisesta](840.md) `840/2019`
+- [Laki palkkaturvalain 26 §:n muuttamisesta](841.md) `841/2019`
+- [Laki merimiesten palkkaturvalain 24 §:n muuttamisesta](842.md) `842/2019`
+- [Laki vesi\- ja energiahuollon, liikenteen ja postipalvelujen alalla toimivien yksiköiden hankinnoista ja käyttöoikeussopimuksista annetun lain 117 §:n muuttamisesta](843.md) `843/2019`
+- [Laki julkisista hankinnoista ja käyttöoikeussopimuksista annetun lain muuttamisesta](844.md) `844/2019`
+- [Laki julkisista puolustus\- ja turvallisuushankinnoista annetun lain muuttamisesta](845.md) `845/2019`
+- [Laki sosiaalisista yrityksistä annetun lain 9 §:n muuttamisesta](846.md) `846/2019`
+- [Laki maakaasumarkkinalain 96 §:n muuttamisesta](847.md) `847/2019`
+- [Laki sähkö\- ja maakaasumarkkinoiden valvonnasta annetun lain 37 §:n muuttamisesta](848.md) `848/2019`
+- [Laki sähkömarkkinalain 114 §:n muuttamisesta](849.md) `849/2019`
+- [Laki ulkomaalaislain muuttamisesta](850.md) `850/2019`
+- [Laki kansainvälistä suojelua hakevan vastaanotosta sekä ihmiskaupan uhrin tunnistamisesta ja auttamisesta annetun lain muuttamisesta](851.md) `851/2019`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](852.md) `852/2019`
+- [Laki oma\-aloitteisten verojen verotusmenettelystä annetun lain 66 ja 72 §:n muuttamisesta](853.md) `853/2019`
+- [Laki tullilain 92 ja 94 §:n muuttamisesta](854.md) `854/2019`
+- [Laki autoverolain 70 a ja 72 §:n muuttamisesta](855.md) `855/2019`
+- [Laki polttoainemaksusta annetun lain 19 ja 23 a §:n muuttamisesta](856.md) `856/2019`
+- [Laki ajoneuvoverolain 48 ja 50 a §:n muuttamisesta](857.md) `857/2019`
+- [Laki maataloudessa käytettyjen eräiden energiatuotteiden valmisteveron palautuksesta annetun lain 12 §:n muuttamisesta](858.md) `858/2019`
+- [Laki veronkantolain 35 §:n muuttamisesta](859.md) `859/2019`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvan ja alueellisen kiintiön nojalla sallittavasta karhun metsästyksestä metsästysvuonna 2019–2020](860.md) `860/2019`
+- [Laki opintotukilain muuttamisesta](861.md) `861/2019`
+- [Valtioneuvoston asetus lentoliikenteestä Vietnamin kanssa tehdystä sopimuksesta](862.md) `862/2019`
+- [Rahankeräyslaki](863.md) `863/2019`
+- [Laki rikoslain 17 luvun 16 c §:n muuttamisesta](864.md) `864/2019`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 18 §:n muuttamisesta](865.md) `865/2019`
+- [Laki joukkorahoituslain 1 §:n muuttamisesta](866.md) `866/2019`
+- [Laki ampuma\-aselain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](867.md) `867/2019`
+- [Laki vapaaehtoisesta maanpuolustuksesta annetun lain muuttamisesta](868.md) `868/2019`
+- [Laki ampuma\-aselain 17 §:n muuttamisesta](869.md) `869/2019`
+- [Laki työturvallisuuslain 6 §:n muuttamisesta](870.md) `870/2019`
+- [Laki rikoslain 45 luvun 27 §:n muuttamisesta](871.md) `871/2019`
+- [Työaikalaki](872.md) `872/2019`
+- [Laki puolustuslaitoksen virkamiesten työajasta annetun lain muuttamisesta](873.md) `873/2019`
+- [Laki työsopimuslain 11 a luvun 9 §:n muuttamisesta](874.md) `874/2019`
+- [Laki vuosilomalain 2 §:n muuttamisesta](875.md) `875/2019`
+- [Laki työntekijöiden lähettämisestä annetun lain muuttamisesta](876.md) `876/2019`
+- [Laki työneuvostosta ja eräistä työsuojelun poikkeusluvista annetun lain 7 ja 9 §:n muuttamisesta](877.md) `877/2019`
+- [Laki nuorista työntekijöistä annetun lain muuttamisesta](878.md) `878/2019`
+- [Laki työttömyysturvalain 4 luvun 3 §:n muuttamisesta](879.md) `879/2019`
+- [Laki julkisesta työvoima\- ja yrityspalvelusta annetun lain 4 luvun 8 §:n muuttamisesta](880.md) `880/2019`
+- [Laki kuntouttavasta työtoiminnasta annetun lain 14 §:n muuttamisesta](881.md) `881/2019`
+- [Laki sairausvakuutuslain 8 luvun 11 §:n ja 14 luvun 4 §:n muuttamisesta](882.md) `882/2019`
+- [Laki puolustusvoimista annetun lain 44 §:n muuttamisesta](883.md) `883/2019`
+- [Laki valmiuslain 93 §:n muuttamisesta](884.md) `884/2019`
+- [Laki ammatillisesta koulutuksesta annetun lain 77 §:n muuttamisesta](885.md) `885/2019`
+- [Laki eläintautilain 88 §:n muuttamisesta](886.md) `886/2019`
+- [Laki julkisesta työvoima\- ja yrityspalvelusta annetun lain 6 luvun 7 §:n ja 14 luvun 1 §:n muuttamisesta](887.md) `887/2019`
+- [Sosiaali\- ja terveysministeriön asetus yliopistotasoisen terveyden tutkimuksen rahoituksesta](888.md) `888/2019`
+- [Ulkoministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoministeriön asetuksen muuttamisesta](889.md) `889/2019`
+- [Sisäministeriön asetus teknisistä vaatimuksista ampuma\-aseeksi muuttamisen estämiseksi sekä latauslaitteen kapasiteetin pysyvästä rajoittamisesta ja sen toiminnan pysyvästä estämisestä](890.md) `890/2019`
+- [Valtioneuvoston päätös turvapaikanhakijoiden ottamisesta Suomeen Italiasta](891.md) `891/2019`
+- [Valtioneuvoston asetus ampuma\-aseasetuksen muuttamisesta](892.md) `892/2019`
+- [Valtioneuvoston asetus kuntien digitalisaation kannustinjärjestelmästä](893.md) `893/2019`
+- [Valtioneuvoston asetus Maailman postiliiton yleissopimuksesta](894.md) `894/2019`
+- [Valtioneuvoston asetus Maailman postiliiton yleissopimuksen päättöpöytäkirjasta, Maailman postiliiton perussopimuksen yhdeksännestä lisäpöytäkirjasta ja Maailman postiliiton yleisohjesäännön ensimmäisestä lisäpöytäkirjasta](895.md) `895/2019`
+- [Opetus\- ja kulttuuriministeriön asetus yliopistojen koulutusvastuun täsmentämisestä annetun opetus\- ja kulttuuriministeriön asetuksen liitteen muuttamisesta](896.md) `896/2019`
+- [Maa\- ja metsätalousministeriön asetus hallin metsästyksestä alueellisen kiintiön nojalla metsästysvuosina 2019–2022](897.md) `897/2019`
+- [Maa\- ja metsätalousministeriön asetus pyyntiluvalla sallittavasta itämeren norpan metsästyksestä metsästysvuonna 2019–2020](898.md) `898/2019`
+- [Ruokaviraston päätös kalojen tarttuvan verta muodostavan kudoksen kuolion \(IHN\) vuoksi perustetun rajoitusvyöhykkeen lakkauttamisesta](899.md) `899/2019`
+- [Oikeusministeriön asetus Rikosseuraamuslaitoksen virkamiesten virkapuvusta sekä suoja\- ja erityisvaatetuksesta annetun oikeusministeriön asetuksen 4 ja 6 §:n muuttamisesta](900.md) `900/2019`
+- [Maa\- ja metsätalousministeriön asetus pyyntiluvalla sallittavasta euroopanmajavan metsästyksestä metsästysvuonna 2019–2020](901.md) `901/2019`
+- [Maa\- ja metsätalousministeriön asetus merihanhen metsästyksen kieltämisestä metsästysvuonna 2019–2020](902.md) `902/2019`
+- [Valtioneuvoston päätös turvapaikanhakijoiden ottamisesta Suomeen Maltalta](903.md) `903/2019`
+- [Valtioneuvoston asetus tutkimus\- ja innovaationeuvostosta annetun valtioneuvoston asetuksen 3 ja 4 §:n muuttamisesta](904.md) `904/2019`
+- [Ulkoministeriön asetus Tansanian osallistavan istutusmetsäohjelman toisen vaiheen tukemisesta Tansanian kanssa tehdystä sopimuksesta](905.md) `905/2019`
+- [Laki julkisen hallinnon tiedonhallinnasta](906.md) `906/2019`
+- [Laki viranomaisten toiminnan julkisuudesta annetun lain muuttamisesta](907.md) `907/2019`
+- [Laki sähköisestä asioinnista viranomaistoiminnassa annetun lain muuttamisesta](908.md) `908/2019`
+- [Laki kansainvälisistä tietoturvallisuusvelvoitteista annetun lain 3 ja 8 §:n muuttamisesta](909.md) `909/2019`
+- [Laki turvallisuusselvityslain muuttamisesta](910.md) `910/2019`
+- [Laki julkisista puolustus\- ja turvallisuushankinnoista annetun lain 3 §:n muuttamisesta](911.md) `911/2019`
+- [Laki valtion talousarviosta annetun lain 12 b §:n muuttamisesta](912.md) `912/2019`
+- [Laki valtion virkamieslain 7 ja 8 c §:n muuttamisesta](913.md) `913/2019`
+- [Laki autoverolain 87 a §:n 4 momentin kumoamisesta](914.md) `914/2019`
+- [Laki Suomen Pankin virkamiehistä annetun lain 58 a §:n muuttamisesta](915.md) `915/2019`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain muuttamisesta](916.md) `916/2019`
+- [Laki yksityisestä huvialuksesta suoritettavasta polttoainemaksusta annetun lain 15 §:n muuttamisesta](917.md) `917/2019`
+- [Laki Finanssivalvonnasta annetun lain 20 b §:n muuttamisesta](918.md) `918/2019`
+- [Laki väestötietojärjestelmästä ja Väestörekisterikeskuksen varmennepalveluista annetun lain muuttamisesta](919.md) `919/2019`
+- [Laki valmisteverotuslain 4 a §:n 4 momentin kumoamisesta](920.md) `920/2019`
+- [Laki Harmaan talouden selvitysyksiköstä annetun lain 8 §:n muuttamisesta](921.md) `921/2019`
+- [Laki sijoituspalvelulain 7 luvun 6 §:n muuttamisesta](922.md) `922/2019`
+- [Laki valtion yhteisten tieto\- ja viestintäteknisten palvelujen järjestämisestä annetun lain 1 ja 4 §:n muuttamisesta](923.md) `923/2019`
+- [Laki julkisen hallinnon turvallisuusverkkotoiminnasta annetun lain 1 §:n muuttamisesta](924.md) `924/2019`
+- [Laki rikostorjunnasta Tullissa annetun lain 4 luvun 6 §:n kumoamisesta](925.md) `925/2019`
+- [Laki hallinnon yhteisistä sähköisen asioinnin tukipalveluista annetun lain muuttamisesta](926.md) `926/2019`
+- [Laki joukkolainanhaltijoiden edustajasta annetun lain 21 §:n muuttamisesta](927.md) `927/2019`
+- [Laki meriliikenteessä käytettävien alusten kilpailukyvyn parantamisesta annetun lain muuttamisesta](928.md) `928/2019`
+- [Laki ajoneuvojen katsastustoiminnasta annetun lain 27 §:n muuttamisesta](929.md) `929/2019`
+- [Laki ajoneuvojen yksittäishyväksynnän järjestämisestä annetun lain 20 ja 28 §:n muuttamisesta](930.md) `930/2019`
+- [Laki kansanterveyslain 13 h §:n kumoamisesta](931.md) `931/2019`
+- [Laki lääkelain 30 e ja 89 b §:n muuttamisesta](932.md) `932/2019`
+- [Laki yksityisestä terveydenhuollosta annetun lain 14 b §:n muuttamisesta](933.md) `933/2019`
+- [Laki toimeentulotuesta annetun lain muuttamisesta](934.md) `934/2019`
+- [Laki sosiaalihuollon asiakkaan asemasta ja oikeuksista annetun lain 14 ja 21 §:n muuttamisesta](935.md) `935/2019`
+- [Laki kuntouttavasta työtoiminnasta annetun lain muuttamisesta](936.md) `936/2019`
+- [Laki sähköisestä lääkemääräyksestä annetun lain 15 §:n muuttamisesta](937.md) `937/2019`
+- [Laki sosiaali\- ja terveydenhuollon asiakastietojen sähköisestä käsittelystä annetun lain 14 §:n muuttamisesta](938.md) `938/2019`
+- [Laki yksityisistä sosiaalipalveluista annetun lain 31 §:n muuttamisesta](939.md) `939/2019`
+- [Laki eräistä asbestipurkutyötä koskevista vaatimuksista annetun lain 13 §:n kumoamisesta](940.md) `940/2019`
+- [Laki Vankiterveydenhuollon yksiköstä annetun lain 7 §:n muuttamisesta](941.md) `941/2019`
+- [Laki panostajalain 23 §:n muuttamisesta](942.md) `942/2019`
+- [Laki tartuntatautilain eräiden säännösten kumoamisesta](943.md) `943/2019`
+- [Laki ympäristönsuojelulain 222 §:n muuttamisesta](944.md) `944/2019`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](945.md) `945/2019`
+- [Maa\- ja metsätalousministeriön asetus metsähanhen metsästyksen kieltämisestä metsästysvuonna 2019–2020](946.md) `946/2019`
+- [Verohallinnon päätös vuoden 2019 kiinteistöverotuksen päättymisestä](947.md) `947/2019`
+- [Potilasvakuutuslaki](948.md) `948/2019`
+- [Laki Potilasvakuutuskeskuksesta](949.md) `949/2019`
+- [Laki vakuutussopimuslain 1 §:n muuttamisesta](950.md) `950/2019`
+- [Laki liikennevakuutuslain muuttamisesta](951.md) `951/2019`
+- [Laki työntekijän eläkelain muuttamisesta](952.md) `952/2019`
+- [Laki yrittäjän eläkelain muuttamisesta](953.md) `953/2019`
+- [Laki merimieseläkelain muuttamisesta](954.md) `954/2019`
+- [Laki maatalousyrittäjän eläkelain 42 §:n muuttamisesta](955.md) `955/2019`
+- [Laki julkisten alojen eläkelain muuttamisesta](956.md) `956/2019`
+- [Laki vakuutusyhtiölain 23 luvun 18 ja 21 §:n muuttamisesta](957.md) `957/2019`
+- [Laki vammaisuuden perusteella järjestettävistä palveluista ja tukitoimista annetun lain 15 §:n muuttamisesta](958.md) `958/2019`
+- [Laki liikenne\- ja potilasvahinkolautakunnasta](959.md) `959/2019`
+- [Laki liikennevakuutuslain muuttamisesta](960.md) `960/2019`
+- [Laki Liikennevakuutuskeskuksesta annetun lain muuttamisesta](961.md) `961/2019`
+- [Laki henkilövahinkoasiain neuvottelukunnasta annetun lain 2 ja 3 §:n muuttamisesta](962.md) `962/2019`
+- [Laki Finanssivalvonnasta annetun lain 5 §:n muuttamisesta](963.md) `963/2019`
+- [Laki Finanssivalvonnan valvontamaksusta annetun lain 1 §:n muuttamisesta](964.md) `964/2019`
+- [Laki liikennevakuutuslain perusteella korvattavasta kuntoutuksesta annetun lain muuttamisesta](965.md) `965/2019`
+- [Valtioneuvoston asetus alusryhmäkohtaisten rekisteritilojen enimmäiskoosta annetun valtioneuvoston asetuksen 2 ja 3 §:n muuttamisesta](966.md) `966/2019`
+- [Valtioneuvoston asetus metsästyslaissa säädetyistä poikkeusluvista annetun valtioneuvoston asetuksen 1 ja 5 §:n muuttamisesta](967.md) `967/2019`
+- [Valtioneuvoston asetus alle 18\-vuotiaana vahinkoa kärsineen ansiotulon määrän vahvistamisesta](968.md) `968/2019`
+- [Valtioneuvoston asetus Maanpuolustuskoulutusyhdistyksen ampumakoulutuksesta](969.md) `969/2019`
+- [Tasavallan presidentin asetus maakuntapäivä\- ja kunnallisvaaleja sekä neuvoa\-antavia kunnallisia kansanäänestyksiä koskevien tehtävien hoitamisesta Ahvenanmaalla](970.md) `970/2019`
+- [Sisäministeriön asetus rajavartiolaitokseen palvelussuhteessa olevan virkamiehen ulkomaanedustuksen korvauksista annetun sisäasiainministeriön asetuksen muuttamisesta](971.md) `971/2019`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinterveyden suojelemisesta annetun maa\- ja metsätalousministeriön asetuksen liitteiden muuttamisesta](972.md) `972/2019`
+- [Ulkoministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoministeriön asetuksen muuttamisesta](973.md) `973/2019`
+- [Maa\- ja metsätalousministeriön asetus metson, teeren, pyyn ja riekon metsästyksen kieltämisestä metsästysvuonna 2019–2020](974.md) `974/2019`
+- [Sosiaali\- ja terveysministeriön asetus sosiaalihuollon ammattihenkilöiden yliopistollisen erikoistumiskoulutuksen korvauksen perusteista vuonna 2019](975.md) `975/2019`
+- [Opetus\- ja kulttuuriministeriön asetus yleisistä kielitutkinnoista perittävistä maksuista annetun opetus\- ja kulttuuriministeriön asetuksen 2 §:n muuttamisesta](976.md) `976/2019`
+- [Valtioneuvoston asetus yhdistysrekisteriä ja uskonnollisten yhdyskuntien rekisteriä koskevan lainsäädännön voimaantulosta](977.md) `977/2019`
+- [Valtioneuvoston päätös maakunnista](978.md) `978/2019`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveysministeriön työjärjestyksen muuttamisesta](979.md) `979/2019`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](980.md) `980/2019`
+- [Valtioneuvoston asetus työnantajan ja henkilöstön välisestä yhteistoiminnasta kunnissa annetussa laissa säädetyn hyvityksen enimmäismäärän tarkistamisesta](981.md) `981/2019`
+- [Maa\- ja metsätalousministeriön asetus puutarhatuotteiden varastointituesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](982.md) `982/2019`
+- [Valtioneuvoston asetus radiotaajuuksien käytöstä ja taajuussuunnitelmasta annetun valtioneuvoston asetuksen liitteen muuttamisesta](983.md) `983/2019`
+- [Sosiaali\- ja terveysministeriön asetus eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](984.md) `984/2019`
+- [Sosiaali\- ja terveysministeriön asetus eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](985.md) `985/2019`
+- [Maa\- ja metsätalousministeriön asetus Ruokaviraston maksullisista suoritteista annetun maa\- ja metsätalousministeriön asetuksen liitteen muuttamisesta](986.md) `986/2019`
+- [Valtioneuvoston asetus yrittäjän eläkelain täytäntöönpanosta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](987.md) `987/2019`
+- [Verohallinnon päätös ennakonpidätysvelvollisuudesta vapauttamisesta](988.md) `988/2019`
+- [Verohallinnon päätös rakentamiseen liittyvästä tiedonantovelvollisuudesta](989.md) `989/2019`
+- [Valtioneuvoston asetus eräistä vakuutusmaksuista suoritettavasta verosta annetun lain väliaikaisesta muuttamisesta annetun lain 5 §:n 2 momentin voimaantulosta](990.md) `990/2019`
+- [Puolustusministeriön asetus puolustusministeriön työjärjestyksestä annetun puolustusministeriön asetuksen 60 §:n muuttamisesta](991.md) `991/2019`
+- [Sosiaali\- ja terveysministeriön asetus lääkkeen määräämisestä annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](992.md) `992/2019`
+- [Valtioneuvoston asetus vastavuoroisista puolustushankinnoista Amerikan Yhdysvaltojen kanssa tehdystä sopimuksesta](993.md) `993/2019`
+- [Verohallinnon päätös varainsiirtoveron maksamisesta ja ilmoittamisesta](994.md) `994/2019`
+- [Valtioneuvoston asetus terveydenhuollon palveluvalikoimaneuvostosta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](995.md) `995/2019`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvalla sallittavasta ilveksen metsästyksestä metsästysvuonna 2019–2020](996.md) `996/2019`
+- [Valtioneuvoston asetus maakotkien porotaloudelle aiheuttamien vahinkojen korvaamisesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](997.md) `997/2019`
+- [Sisäministeriön asetus poliisin virkapuvusta annetun sisäministeriön asetuksen 15 §:n muuttamisesta](998.md) `998/2019`
+- [Puolustusministeriön asetus Puolustusvoimien avaruustoiminnan valvonnasta](999.md) `999/2019`
+- [Puolustusministeriön asetus sotilastiedustelun valvonnasta puolustushallinnossa ja valvonnasta annettavista kertomuksista](1000.md) `1000/2019`
+- [Valtioneuvoston asetus valtiosta toiseen tapahtuvaa ilman epäpuhtauksien kaukokulkeutumista koskevaan vuoden 1979 yleissopimukseen liittyvän happamoitumisen, rehevöitymisen ja alailmakehän otsonin vähentämistä koskevan vuoden 1999 pöytäkirjan muutoksesta](1001.md) `1001/2019`
+- [Valtioneuvoston asetus maatilan investointituen kohdentamisesta annetun valtioneuvoston asetuksen 19 §:n väliaikaisesta muuttamisesta](1002.md) `1002/2019`
+- [Ulkoministeriön asetus Palestiinalaishallinnon kanssa Suomen tuesta Palestiinalaishallinnon opetussektorille tehdystä sopimuksesta](1003.md) `1003/2019`
+- [Valtioneuvoston asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan II liitteeseen liittyvään nestemäisten vaarallisten kemikaalien merikuljetussäännöstöön sekä kemikaalien irtokuljetussäännöstöön tehtyjen muutosten voimaansaattamisesta](1004.md) `1004/2019`
+- [Valtioneuvoston asetus alusten painolastivesien ja sedimenttien valvonnasta ja käsittelystä vuonna 2004 tehdyn kansainvälisen yleissopimuksen liitteen sääntöihin tehtyjen muutosten ja mainittuun yleissopimukseen liittyvän painolastivesien käsittelyjärjestelmien tyyppihyväksyntää koskevan säännöstön voimaansaattamisesta](1005.md) `1005/2019`
+- [Valtioneuvoston asetus vuodelta 2019 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](1006.md) `1006/2019`
+- [Valtioneuvoston asetus vuodelta 2019 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 20 §:n muuttamisesta](1007.md) `1007/2019`
+- [Valtioneuvoston asetus maakaasun toimitusten selvityksestä ja mittauksesta](1008.md) `1008/2019`
+- [Opetus\- ja kulttuuriministeriön asetus yleisistä kielitutkinnoista perittävistä maksuista](1009.md) `1009/2019`
+- [Valtiovarainministeriön asetus veronkannosta](1010.md) `1010/2019`
+- [Verohallinnon päätös korkoajan laskemisesta](1011.md) `1011/2019`
+- [Verohallinnon päätös palautuksen maksamisesta maksuosoituksena](1012.md) `1012/2019`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1013.md) `1013/2019`
+- [Valtioneuvoston asetus ammatillisesta koulutuksesta annetun valtioneuvoston asetuksen muuttamisesta](1014.md) `1014/2019`
+- [Valtioneuvoston asetus ympäristöministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](1015.md) `1015/2019`
+- [Valtioneuvoston asetus Etelämannerta koskevaan sopimukseen liittyvän ympäristönsuojelupöytäkirjan liitteen V alaisista toimenpiteistä](1016.md) `1016/2019`
+- [Verohallinnon päätös maksujärjestelyssä noudatettavasta menettelystä](1017.md) `1017/2019`
+- [Verohallinnon päätös palautusten säilyttämisestä](1018.md) `1018/2019`
+- [Laki kansaneläkelain väliaikaisesta muuttamisesta](1019.md) `1019/2019`
+- [Verohallinnon päätös veroilmoituksen ja kiinteistötietojen ilmoituksen antamisesta](1020.md) `1020/2019`
+- [Laki varhaiskasvatuslain 70 ja 76 §:n muuttamisesta](1021.md) `1021/2019`
+- [Laki avustuksista erityisryhmien asunto\-olojen parantamiseksi annetun lain 8 §:n muuttamisesta](1022.md) `1022/2019`
+- [Valtioneuvoston kanslian asetus valtioneuvoston kanslian työjärjestyksestä annetun valtioneuvoston kanslian asetuksen muuttamisesta](1023.md) `1023/2019`
+- [Sisäministeriön asetus liikkumis\- ja oleskelurajoituksista annetun sisäministeriön asetuksen liitteen 1 muuttamisesta](1024.md) `1024/2019`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 20 §:n muuttamisesta](1025.md) `1025/2019`
+- [Laki varainsiirtoverolain 29 §:n muuttamisesta](1026.md) `1026/2019`
+- [Valtioneuvoston asetus opetus\- ja kulttuuriministeriöstä annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](1027.md) `1027/2019`
+- [Opetus\- ja kulttuuriministeriön asetus opetus\- ja kulttuuriministeriön työjärjestyksestä annetun opetus\- ja kulttuuriministeriön asetuksen muuttamisesta](1028.md) `1028/2019`
+- [Valtioneuvoston asetus taidenäyttelyiden valtiontakuusta annetun asetuksen 1 §:n muuttamisesta](1029.md) `1029/2019`
+- [Sosiaali\- ja terveysministeriön asetus palkkakertoimesta vuodelle 2020](1030.md) `1030/2019`
+- [Sosiaali\- ja terveysministeriön asetus työeläkeindeksistä vuodelle 2020](1031.md) `1031/2019`
+- [Verohallinnon päätös maksujen ja palautusten käyttämisestä verojen suoritukseksi](1032.md) `1032/2019`
+- [Verohallinnon päätös takaisin perittyjen etuustulojen takaisinmaksun määräpäivästä etuudensaajan verotuksessa](1033.md) `1033/2019`
+- [Vuoden 2019 III lisätalousarvio](1034.md) `1034/2019`
+- [Laki ajoneuvolain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1035.md) `1035/2019`
+- [Laki ajokorttilain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1036.md) `1036/2019`
+- [Laki ajoneuvoverolain 4 §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1037.md) `1037/2019`
+- [Laki autoverolain 1 §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1038.md) `1038/2019`
+- [Laki polttoainemaksusta annetun lain 1 §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1039.md) `1039/2019`
+- [Laki arvonlisäverolain 114 §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1040.md) `1040/2019`
+- [Laki rikoslain 23 luvun 12 §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1041.md) `1041/2019`
+- [Laki tieliikennelain muuttamisesta annetun lain kumoamisesta](1042.md) `1042/2019`
+- [Maa\- ja metsätalousministeriön asetus metsätalouden ympäristötuen laskennassa käytettävästä puukuutiometrin keskikantohinnasta](1043.md) `1043/2019`
+- [Maa\- ja metsätalousministeriön asetus rajatarkastusasemalla suoritettavan virallisen valvonnan kohteena olevista elintarvikesekoituksista](1044.md) `1044/2019`
+- [Maa\- ja metsätalousministeriön asetus eläimistä saatavien elintarvikkeiden ja muiden tuotteiden eläinlääkinnällisistä rajatarkastuksista annetun maa\- ja metsätalousministeriön asetuksen liitteen 3 muuttamisesta](1045.md) `1045/2019`
+- [Valtioneuvoston asetus ulkoasiainhallinnosta annetun valtioneuvoston asetuksen muuttamisesta](1046.md) `1046/2019`
+- [Valtioneuvoston asetus yhteistoiminnasta valtion virastoissa ja laitoksissa annetussa laissa säädetyn hyvityksen enimmäismäärän tarkistamisesta](1047.md) `1047/2019`
+- [Valtioneuvoston asetus vuodelta 2019 maksettavasta lihan ja vuodelta 2018 maksettavasta maidon kuljetusavustuksesta sekä vuodelta 2019 maksettavasta eräiden kotieläintalouden palvelujen tuesta](1048.md) `1048/2019`
+- [Verohallinnon päätös vuonna 2020 sovellettavien ennakonpidätysperusteiden voimaantulosta](1049.md) `1049/2019`
+- [Verohallinnon päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](1050.md) `1050/2019`
+- [Verohallinnon päätös metsän keskimääräisestä vuotuisesta tuotosta](1051.md) `1051/2019`
+- [Ulkoministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta \(EU\) 2019/1716 Nicaraguan tilanteen johdosta määrättävistä rajoittavista toimenpiteistä](1052.md) `1052/2019`
+- [Valtioneuvoston asetus Algerian diplomaattipassin haltijoiden vapauttamisesta viisumivelvollisuudesta](1053.md) `1053/2019`
+- [Sosiaali\- ja terveysministeriön asetus terveydenhuollon valtakunnallisten tietojärjestelmäpalvelujen käyttömaksuista](1054.md) `1054/2019`
+- [Verohallinnon päätös matkakuluvähennyksen määrästä vuodelta 2019 toimitettavassa verotuksessa](1055.md) `1055/2019`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen 3 ja 33 §:n muuttamisesta](1056.md) `1056/2019`
+- [Sosiaali\- ja terveysministeriön ilmoitus eräistä indeksillä tarkistetuista sosiaali\- ja terveydenhuollon asiakasmaksuista](1057.md) `1057/2019`
+- [Valtioneuvoston asetus Pohjoismaiden välillä tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen muuttamisesta tehdystä pöytäkirjasta](1058.md) `1058/2019`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain 36 §:n muuttamisesta](1059.md) `1059/2019`
+- [Laki postilain muuttamisesta](1060.md) `1060/2019`
+- [Maa\- ja metsätalousministeriön asetus eläimistä saatavien elintarvikkeiden ja muiden tuotteiden eläinlääkinnällisistä rajatarkastuksista annetun maa\- ja metsätalousministeriön asetuksen liitteen 1 muuttamisesta](1061.md) `1061/2019`
+- [Laki lentoliikenteestä Chilen kanssa tehdystä sopimuksesta](1062.md) `1062/2019`
+- [Laki lentoliikenteestä Kenian kanssa tehdystä sopimuksesta](1063.md) `1063/2019`
+- [Laki lentoliikenteestä Meksikon kanssa tehdystä sopimuksesta](1064.md) `1064/2019`
+- [Laki Ahvenanmaan itsehallintolain 30 §:n muuttamisesta](1065.md) `1065/2019`
+- [Opetus\- ja kulttuuriministeriön asetus näkövammaisten kirjaston suoritteiden maksullisuudesta vuonna 2020](1066.md) `1066/2019`
+- [Liikenne\- ja viestintäministeriön asetus liikenne\- ja viestintäministeriön työjärjestyksen muuttamisesta](1067.md) `1067/2019`
+- [Valtioneuvoston asetus sairausvakuutusmaksujen maksuprosenteista vuonna 2020](1068.md) `1068/2019`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 82 §:ssä tarkoitetun elinaikakertoimen antamisesta](1069.md) `1069/2019`
+- [Valtioneuvoston asetus valtion rahoituksen perusteena käytettävistä lukiokoulutuksen, taiteen perusopetuksen ja kansalaisopistojen keskimääräisistä yksikköhinnoista vuonna 2020](1070.md) `1070/2019`
+- [Valtioneuvoston asetus kehityspoliittisesta toimikunnasta](1071.md) `1071/2019`
+- [Valtioneuvoston asetus ilmailulta rajoitetuista alueista annetun valtioneuvoston asetuksen liitteen 3 muuttamisesta](1072.md) `1072/2019`
+- [Valtioneuvoston asetus sähkökaupan keskitetyn tiedonvaihdon palvelujen käyttöönotosta](1073.md) `1073/2019`
+- [Maa\- ja metsätalousministeriön asetus kasvilajikelautakunnasta annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](1074.md) `1074/2019`
+- [Puolustusministeriön asetus asevelvollisuuslaissa ja terveydenhuollon järjestämisestä puolustusvoimissa annetussa laissa tarkoitetuista etuuksista annetun puolustusministeriön asetuksen 2 §:n muuttamisesta](1075.md) `1075/2019`
+- [Valtioneuvoston asetus Etelä\-Karjalan maakunnan luonnonsuojelualueista](1076.md) `1076/2019`
+- [Ympäristöministeriön asetus Etelä\-Karjalan maakunnan luonnonsuojelualueista](1077.md) `1077/2019`
+- [Opetus\- ja kulttuuriministeriön asetus Museoviraston suoritteiden maksullisuudesta](1078.md) `1078/2019`
+- [Työ\- ja elinkeinoministeriön asetus päästökauppakaudelle 2021–2030 maksutta jaettaviin päästöoikeuksiin liittyvien tietojen tarkkailusta](1079.md) `1079/2019`
+- [Valtiovarainministeriön asetus eräiden hallinnon yhteisten sähköisen asioinnin tukipalveluiden tuottamisesta annetun valtiovarainministeriön asetuksen 1 §:n muuttamisesta](1080.md) `1080/2019`
+- [Verohallinnon päätös yksityisten apteekkien liikevaihdon keskiarvosta vuonna 2018](1081.md) `1081/2019`
+- [Verohallinnon päätös rakennusmaan verotusarvon laskentaperusteista](1082.md) `1082/2019`
+- [Sosiaali\- ja terveysministeriön asetus yrittäjän työeläkevakuutusmaksuprosenteista ja maatalousyrittäjän työeläkevakuutusmaksun perusprosenteista vuonna 2020](1083.md) `1083/2019`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän työeläkevakuutusmaksuprosenteista vuonna 2020](1084.md) `1084/2019`
+- [Ulkoministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta \(EU\) 2019/1890 Turkin itäisellä Välimerellä ilman lupaa harjoittaman poraustoiminnan johdosta määrättävistä rajoittavista toimenpiteistä](1085.md) `1085/2019`
+- [Valtioneuvoston asetus lapsen huollosta ja tapaamisoikeudesta annetun asetuksen muuttamisesta](1086.md) `1086/2019`
+- [Valtioneuvoston asetus kunnalle maksettavasta korvauksesta asiantuntija\-avustajan käyttämisestä huoltoriitojen tuomioistuinsovittelussa annetun valtioneuvoston asetuksen muuttamisesta](1087.md) `1087/2019`
+- [Valtioneuvoston asetus yhdyskuntaseuraamusten täytäntöönpanosta annetun asetuksen muuttamisesta](1088.md) `1088/2019`
+- [Valtioneuvoston asetus eurooppalaisesta ajoneuvo\- ja ajokorttitietojärjestelmästä tehdystä sopimuksesta](1089.md) `1089/2019`
+- [Vuoden 2019 IV lisätalousarvio](1090.md) `1090/2019`
+- [Verohallinnon päätös varainsiirtoveron maksamisesta ja ilmoittamisesta](1091.md) `1091/2019`
+- [Valtioneuvoston asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainvälisen yleissopimuksen liitteen II\-1 ja IV lukuun, eräisiin edellä mainittuun yleissopimukseen liittyviin säännöstöihin sekä mainittuun yleissopimukseen ja vuoden 1966 kansainväliseen lastiviivayleissopimukseen liittyvään vuoden 1988 pöytäkirjaan liittyvään IS\-säännöstöön tehdyistä muutoksista](1092.md) `1092/2019`
+- [Valtioneuvoston asetus ulkomaisten alusten tarkastuksesta Suomessa annetun valtioneuvoston asetuksen muuttamisesta](1093.md) `1093/2019`
+- [Valtioneuvoston asetus säännöllisen ro\-ro\-matkustaja\-alusliikenteen ja suurnopeusmatkustaja\-alusliikenteen turvallisuuden varmistamisesta annetun valtioneuvoston asetuksen kumoamisesta](1094.md) `1094/2019`
+- [Valtioneuvoston asetus työvälineiden turvallisesta käytöstä ja tarkastamisesta annetun valtioneuvoston asetuksen muuttamisesta](1095.md) `1095/2019`
+- [Valtioneuvoston asetus jätteistä annetun valtioneuvoston asetuksen muuttamisesta](1096.md) `1096/2019`
+- [Työ\- ja elinkeinoministeriön asetus Patentti\- ja rekisterihallituksen maksullisista suoritteista](1097.md) `1097/2019`
+- [Verohallinnon päätös pientyönantajan maksu\- ja ilmoituspalvelujärjestelmässä hoidettavista tehtävistä](1098.md) `1098/2019`
+- [Verohallinnon päätös verovapaista matkakustannusten korvauksista vuonna 2020](1099.md) `1099/2019`
+- [Tasavallan presidentin asetus kuluttajaneuvontaa koskevien tehtävien hoitamisesta Ahvenanmaalla](1100.md) `1100/2019`
+- [Valtioneuvoston asetus asiakirjojen turvallisuusluokittelusta valtionhallinnossa](1101.md) `1101/2019`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta kappaletavarana aluksessa annetun asetuksen muuttamisesta](1102.md) `1102/2019`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta ja tilapäisestä säilytyksestä satama\-alueella annetun valtioneuvoston asetuksen 2 ja 4 §:n muuttamisesta](1103.md) `1103/2019`
+- [Valtioneuvoston asetus eläkkeensaajan asumistuen määräytymisperusteista vuonna 2020](1104.md) `1104/2019`
+- [Sosiaali\- ja terveysministeriön asetus muuntogeenisten organismien tarkoituksellisesta levittämisestä](1105.md) `1105/2019`
+- [LUETTELO kuntien ja seurakuntien tuloveroprosenteista vuonna 2020](1106.md) `1106/2019`
+- [Oikeusministeriön asetus velallisen maksukyvyn arvioinnin perusteista yksityishenkilön velkajärjestelyssä annetun oikeusministeriön asetuksen 4 ja 6 a §:n muuttamisesta](1107.md) `1107/2019`
+- [Laki lentoliikenteen valvontamaksusta annetun lain 4 §:n muuttamisesta](1108.md) `1108/2019`
+- [Laki työterveyslaitoksen toiminnasta ja rahoituksesta annetun lain muuttamisesta](1109.md) `1109/2019`
+- [Kasvinterveyslaki](1110.md) `1110/2019`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](1111.md) `1111/2019`
+- [Laki eläinlääkärinammatin harjoittamisesta annetun lain 7 §:n muuttamisesta](1112.md) `1112/2019`
+- [Laki arvonlisäverolain muuttamisesta](1113.md) `1113/2019`
+- [Laki Ahvenanmaan maakuntaa koskevista poikkeuksista arvonlisävero\- ja valmisteverolainsäädäntöön annetun lain muuttamisesta](1114.md) `1114/2019`
+- [Opetus\- ja kulttuuriministeriön ilmoitus indeksillä tarkistetuista varhaiskasvatuksen asiakasmaksuista](1115.md) `1115/2019`
+- [Verohallinnon päätös vuodelta 2020 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](1116.md) `1116/2019`
+- [Liikenne\- ja viestintäministeriön asetus maantielautoista annetun liikenne\- ja viestintäministeriön asetuksen 18 §:n muuttamisesta](1117.md) `1117/2019`
+- [Laki tupakkaverosta annetun lain liitteen muuttamisesta](1118.md) `1118/2019`
+- [Laki öljyjätemaksusta annetun lain kumoamisesta](1119.md) `1119/2019`
+- [Valtiovarainministeriön asetus Valtion taloudellisen tutkimuskeskuksen maksullisista suoritteista](1120.md) `1120/2019`
+- [Valtiovarainministeriön asetus vesivoimalaitoksen ja sen rakenteiden jälleenhankinta\-arvon perusteista](1121.md) `1121/2019`
+- [Valtiovarainministeriön asetus rakennusten jälleenhankinta\-arvon perusteista](1122.md) `1122/2019`
+- [Oikeusministeriön asetus suojaosuuden määrästä määräajoin maksettavan palkan ulosmittauksessa](1123.md) `1123/2019`
+- [Verohallinnon päätös yleisestä tiedonantovelvollisuudesta](1124.md) `1124/2019`
+- [Laki avioliittolain muuttamisesta](1125.md) `1125/2019`
+- [Laki vekselilain 88 §:n muuttamisesta](1126.md) `1126/2019`
+- [Laki shekkilain 66 §:n muuttamisesta](1127.md) `1127/2019`
+- [Laki lahjanlupauslain 6 §:n muuttamisesta](1128.md) `1128/2019`
+- [Laki perintökaaren 20 luvun muuttamisesta](1129.md) `1129/2019`
+- [Laki neuvoa\-antavissa kunnallisissa kansanäänestyksissä noudatettavasta menettelystä annetun lain 8 §:n muuttamisesta](1130.md) `1130/2019`
+- [Laki takaisinsaannista konkurssipesään annetun lain 9 ja 9 a §:n muuttamisesta](1131.md) `1131/2019`
+- [Laki vaalilain muuttamisesta](1132.md) `1132/2019`
+- [Laki takauksesta ja vierasvelkapanttauksesta annetun lain 35 §:n muuttamisesta](1133.md) `1133/2019`
+- [Laki hallinto\-oikeuslain 12 a §:n muuttamisesta](1134.md) `1134/2019`
+- [Laki holhoustoimesta annetun lain muuttamisesta](1135.md) `1135/2019`
+- [Laki rekisteröidystä parisuhteesta annetun lain 8 §:n muuttamisesta](1136.md) `1136/2019`
+- [Laki saamen kielilain 2 ja 27 §:n muuttamisesta](1137.md) `1137/2019`
+- [Laki kuolleeksi julistamisesta annetun lain muuttamisesta](1138.md) `1138/2019`
+- [Laki osakeyhtiölain 3 luvun 17 §:n muuttamisesta](1139.md) `1139/2019`
+- [Laki edunvalvontavaltuutuksesta annetun lain muuttamisesta](1140.md) `1140/2019`
+- [Laki ulosottokaaren 3 ja 4 luvun muuttamisesta](1141.md) `1141/2019`
+- [Laki toimivallasta, sovellettavasta laista, toimenpiteiden tunnustamisesta ja täytäntöönpanosta sekä yhteistyöstä vanhempainvastuuseen ja lasten suojeluun liittyvissä asioissa tehdyn yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta annetun lain 12 §:n muuttamisesta](1142.md) `1142/2019`
+- [Laki kaupanvahvistajista annetun lain 1 §:n muuttamisesta](1143.md) `1143/2019`
+- [Laki asunto\-osakeyhtiölain 2 luvun 15 §:n muuttamisesta](1144.md) `1144/2019`
+- [Laki tuomioistuimen velvollisuudesta ilmoittaa eräistä ratkaisuistaan annetun lain 3 §:n muuttamisesta](1145.md) `1145/2019`
+- [Laki aikuisten kansainvälisestä suojelusta tehdyn yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta annetun lain 5 ja 10 §:n muuttamisesta](1146.md) `1146/2019`
+- [Laki avopuolisoiden yhteistalouden purkamisesta annetun lain 11 §:n muuttamisesta](1147.md) `1147/2019`
+- [Laki esitutkintalain 4 luvun 8 §:n muuttamisesta](1148.md) `1148/2019`
+- [Laki osuuskuntalain 4 luvun 16 §:n muuttamisesta](1149.md) `1149/2019`
+- [Laki julkisesta notaarista annetun lain 1 §:n muuttamisesta](1150.md) `1150/2019`
+- [Laki isyyslain muuttamisesta](1151.md) `1151/2019`
+- [Laki perintöasioista annetun Euroopan parlamentin ja neuvoston asetuksen soveltamisesta annetun lain 3 §:n muuttamisesta](1152.md) `1152/2019`
+- [Laki tuomioistuinmaksulain 8 §:n muuttamisesta](1153.md) `1153/2019`
+- [Laki etu\- ja sukunimilain muuttamisesta](1154.md) `1154/2019`
+- [Laki äitiyslain muuttamisesta](1155.md) `1155/2019`
+- [Laki Digi\- ja väestötietoviraston eräistä henkilörekistereistä](1156.md) `1156/2019`
+- [Laki vihkimisoikeudesta](1157.md) `1157/2019`
+- [Laki tiettyjen yleisten asiakirjojen esittämistä koskevan Euroopan parlamentin ja neuvoston asetuksen soveltamisesta annetun lain 2 ja 3 §:n muuttamisesta](1158.md) `1158/2019`
+- [Laki kansainvälisten parien varallisuussuhteita koskevien neuvoston asetusten soveltamisesta annetun lain 2 §:n muuttamisesta](1159.md) `1159/2019`
+- [Laki pohjoismaiden välillä tehdyn avioliittoa, lapseksiottamista ja holhousta koskevia kansainvälisyksityisoikeudellisia määräyksiä sisältävän sopimuksen muuttamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain 2 ja 3 §:n muuttamisesta](1160.md) `1160/2019`
+- [Laki kansalaisuuslain muuttamisesta](1161.md) `1161/2019`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain 16 ja 22 §:n muuttamisesta](1162.md) `1162/2019`
+- [Laki ulkomaalaislain 138 §:n muuttamisesta](1163.md) `1163/2019`
+- [Laki passilain 5 c ja 21 §:n muuttamisesta](1164.md) `1164/2019`
+- [Laki hätäkeskustoiminnasta annetun lain 19 §:n muuttamisesta](1165.md) `1165/2019`
+- [Laki pelastuslain 89 ja 90 §:n muuttamisesta](1166.md) `1166/2019`
+- [Laki henkilökorttilain 3 ja 8 §:n muuttamisesta](1167.md) `1167/2019`
+- [Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain muuttamisesta](1168.md) `1168/2019`
+- [Laki valtion paikallishallinnon kehittämisen perusteista annetun lain 1 §:n muuttamisesta](1169.md) `1169/2019`
+- [Laki kotikuntalain muuttamisesta](1170.md) `1170/2019`
+- [Laki valtion virkamieslain 7 §:n muuttamisesta](1171.md) `1171/2019`
+- [Laki verotusmenettelystä annetun lain 18 §:n muuttamisesta](1172.md) `1172/2019`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 20 §:n muuttamisesta](1173.md) `1173/2019`
+- [Laki hallinnon yhteisistä sähköisen asioinnin tukipalveluista annetun lain muuttamisesta](1174.md) `1174/2019`
+- [Laki väestötietojärjestelmästä ja Väestörekisterikeskuksen varmennepalveluista annetun lain muuttamisesta](1175.md) `1175/2019`
+- [Laki kuntarakennelain muuttamisesta](1176.md) `1176/2019`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain 4 §:n muuttamisesta](1177.md) `1177/2019`
+- [Laki kuntalain 16 ja 20 §:n muuttamisesta](1178.md) `1178/2019`
+- [Laki tulotietojärjestelmästä annetun lain 9 §:n muuttamisesta](1179.md) `1179/2019`
+- [Laki tullilain 76 §:n muuttamisesta](1180.md) `1180/2019`
+- [Laki henkilötietojen käsittelystä Tullissa annetun lain 16 §:n muuttamisesta](1181.md) `1181/2019`
+- [Laki uskonnonvapauslain 4 §:n muuttamisesta](1182.md) `1182/2019`
+- [Laki ortodoksisesta kirkosta annetun lain 74 §:n muuttamisesta](1183.md) `1183/2019`
+- [Laki valtakunnallisista opinto\- ja tutkintorekistereistä annetun lain 20 §:n muuttamisesta](1184.md) `1184/2019`
+- [Laki lukiolain 21 §:n muuttamisesta](1185.md) `1185/2019`
+- [Laki kolttalain 48 §:n muuttamisesta](1186.md) `1186/2019`
+- [Laki kiinteistötietojärjestelmästä ja siitä tuotettavasta tietopalvelusta annetun lain 6 §:n muuttamisesta](1187.md) `1187/2019`
+- [Laki vahvasta sähköisestä tunnistamisesta ja sähköisistä luottamuspalveluista annetun lain 31 ja 42 c §:n muuttamisesta](1188.md) `1188/2019`
+- [Laki postilain 38 §:n muuttamisesta](1189.md) `1189/2019`
+- [Laki liikenteen palveluista annetun lain 231 §:n muuttamisesta](1190.md) `1190/2019`
+- [Laki siviilipalveluslain 93 §:n muuttamisesta](1191.md) `1191/2019`
+- [Laki kotoutumisen edistämisestä annetun lain 87 §:n muuttamisesta](1192.md) `1192/2019`
+- [Laki Kansaneläkelaitoksesta annetun lain 12 e §:n muuttamisesta](1193.md) `1193/2019`
+- [Laki transseksuaalin sukupuolen vahvistamisesta annetun lain muuttamisesta](1194.md) `1194/2019`
+- [Laki työttömyysturvalain 14 luvun 3 c §:n muuttamisesta](1195.md) `1195/2019`
+- [Laki sähköisestä lääkemääräyksestä annetun lain muuttamisesta](1196.md) `1196/2019`
+- [Laki sosiaali\- ja terveydenhuollon asiakastietojen sähköisestä käsittelystä annetun lain muuttamisesta](1197.md) `1197/2019`
+- [Laki lastensuojelulain 22 §:n muuttamisesta](1198.md) `1198/2019`
+- [Laki kansaneläkelain 85 §:n muuttamisesta](1199.md) `1199/2019`
+- [Laki sosiaaliturvajärjestelmien yhteensovittamista koskevan Euroopan unionin lainsäädännön soveltamisesta annetun lain 22 §:n muuttamisesta](1200.md) `1200/2019`
+- [Laki poronhoitajien sijaisavusta annetun lain 21 §:n muuttamisesta](1201.md) `1201/2019`
+- [Laki sosiaalihuollon asiakasasiakirjoista annetun lain 2 §:n muuttamisesta](1202.md) `1202/2019`
+- [Laki maankäyttö\- ja rakennuslain 147 §:n muuttamisesta](1203.md) `1203/2019`
+- [Laki saamen kielilain 2 §:n muuttamisesta annetun lain kumoamisesta](1204.md) `1204/2019`
+- [Laki saamen kielilain 2 §:n muuttamisesta](1205.md) `1205/2019`
+- [Valtioneuvoston asetus porotaloudesta saatujen tulojen vuoden 2019 verotuksessa noudatettavista tuottoperusteista](1206.md) `1206/2019`
+- [Valtioneuvoston asetus perustuesta, viherryttämistuesta ja nuoren viljelijän tuesta annetun valtioneuvoston asetuksen muuttamisesta](1207.md) `1207/2019`
+- [Valtioneuvoston asetus vuodelta 2019 maksettavista lypsylehmä\-, nauta\-, uuhi\- ja kuttupalkkioista, teuraskaritsa\- ja teuraskilipalkkiosta sekä peltokasvipalkkiosta annetun valtioneuvoston asetuksen muuttamisesta](1208.md) `1208/2019`
+- [Valtioneuvoston asetus rakennustyötä tekevän sukeltajan pätevyydestä ja turvallisuussuunnitelmasta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1209.md) `1209/2019`
+- [Laki virvoitusjuomaverosta annetun lain 1 §:n ja liitteen muuttamisesta](1210.md) `1210/2019`
+- [Laki alkoholi\- ja alkoholijuomaverosta annetun lain liitteen muuttamisesta](1211.md) `1211/2019`
+- [Laki eräiden juomapakkausten valmisteverosta annetun lain 1 §:n muuttamisesta](1212.md) `1212/2019`
+- [Laki opintotukilain muuttamisesta](1213.md) `1213/2019`
+- [Laki terveydenhuoltolain muuttamisesta](1214.md) `1214/2019`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain 2 §:n muuttamisesta](1215.md) `1215/2019`
+- [Laki sairausvakuutuslain 11 luvun 10 §:n muuttamisesta](1216.md) `1216/2019`
+- [Laki työttömyysturvalain 6 ja 14 luvun muuttamisesta](1217.md) `1217/2019`
+- [Laki lapsilisälain 7 §:n muuttamisesta](1218.md) `1218/2019`
+- [Laki elatustukilain 9 ja 39 §:n muuttamisesta](1219.md) `1219/2019`
+- [Laki toimeentulotuesta annetun lain 9 §:n muuttamisesta](1220.md) `1220/2019`
+- [Laki sairausvakuutuslain muuttamisesta ja väliaikaisesta muuttamisesta](1221.md) `1221/2019`
+- [Laki laivaväen työ\- ja asuinympäristöstä sekä ruokahuollosta aluksella annetun lain 2 ja 11 §:n muuttamisesta](1222.md) `1222/2019`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain muuttamisesta](1223.md) `1223/2019`
+- [Laki työttömyysturvalain 14 luvun 1 a §:n muuttamisesta](1224.md) `1224/2019`
+- [Laki maatalousyrittäjän työtapaturma\- ja ammattitautilain 148 §:n muuttamisesta](1225.md) `1225/2019`
+- [Laki kansaneläkelain 19 §:n muuttamisesta](1226.md) `1226/2019`
+- [Laki takuueläkkeestä annetun lain 8 §:n muuttamisesta](1227.md) `1227/2019`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 35 §:n muuttamisesta](1228.md) `1228/2019`
+- [Laki eläkkeensaajan asumistuesta annetun lain 11 §:n muuttamisesta](1229.md) `1229/2019`
+- [Laki maatalouden harjoittamisesta luopumisen tukemisesta annetun lain 31 §:n muuttamisesta](1230.md) `1230/2019`
+- [Laki maatalousyrittäjien luopumistuesta annetun lain 19 §:n muuttamisesta](1231.md) `1231/2019`
+- [Laki Suomen osallistumisesta Euroopan unionin rikosoikeudellisen yhteistyön viraston \(Eurojust\) toimintaan](1232.md) `1232/2019`
+- [Laki Syyttäjälaitoksesta annetun lain 7 §:n muuttamisesta](1233.md) `1233/2019`
+- [Laki yhteisistä tutkintaryhmistä annetun lain 2 §:n muuttamisesta](1234.md) `1234/2019`
+- [Laki julkisista hankinnoista ja käyttöoikeussopimuksista annetun lain 143 §:n muuttamisesta](1235.md) `1235/2019`
+- [Laki kilpailulain 39 §:n muuttamisesta](1236.md) `1236/2019`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden Euroopan unionin jäsenvaltioiden välillä annetun lain 35 §:n muuttamisesta](1237.md) `1237/2019`
+- [Laki rikosoikeudellisia menettelyjä koskevien toimivaltaristiriitojen ehkäisemisestä ja ratkaisemisesta sekä esitutkinnan ja syytetoimien siirtämisestä Suomen ja muiden Euroopan unionin jäsenvaltioiden välillä annetun lain 9 §:n muuttamisesta](1238.md) `1238/2019`
+- [Valtioneuvoston asetus pilaantuneiden alueiden puhdistamisen tukemisesta vuosina 2020–2022](1239.md) `1239/2019`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvalla sallittavasta ahman metsästyksestä metsästysvuonna 2019–2020](1240.md) `1240/2019`
+- [Työ\- ja elinkeinoministeriön asetus Energiaviraston maksullisista suoritteista](1241.md) `1241/2019`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](1242.md) `1242/2019`
+- [Ympäristöministeriön asetus Suomen ympäristökeskuksen maksullisista suoritteista](1243.md) `1243/2019`
+- [Opetus\- ja kulttuuriministeriön asetus Kansallisen audiovisuaalisen instituutin ja kuvaohjelmalautakunnan suoritteiden maksullisuudesta vuonna 2020](1244.md) `1244/2019`
+- [Maa\- ja metsätalousministeriön asetus Euroopan unionin ulkopuolisista maista tuotavista kalastustuotteista ja niistä saaduista raakavalmisteista ja jalosteista, elävistä simpukoista, piikkinahkaisista, vaippaeläimistä ja merikotiloista sekä jalostettuja kalastustuotteita sisältävistä yhdistelmätuotteista annetun maa\- ja metsätalousministeriön asetuksen 15 §:n kumoamisesta](1245.md) `1245/2019`
+- [Maa\- ja metsätalousministeriön asetus Euroopan unionin ulkopuolisista maista tuotavista eräistä elävistä eläimistä sekä niiden alkioista ja sukusoluista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1246.md) `1246/2019`
+- [Valtioneuvoston asetus eräistä elintarviketurvallisuusriskeiltään vähäisistä toiminnoista annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](1247.md) `1247/2019`
+- [Tasavallan Presidentin avoin kirje valtioneuvoston vaihdoksesta](1248.md) `1248/2019`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](1249.md) `1249/2019`
+- [Valtiovarainministeriön asetus yksittäisten kuntien verovuoden 2020 yhteisöveron jako\-osuuksien laskentaperusteista](1250.md) `1250/2019`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2019 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista ja työnantajasuoritusten vähimmäismäärästä](1251.md) `1251/2019`
+- [Maa\- ja metsätalousministeriön asetus Luonnonvarakeskuksen maksullisista suoritteista](1252.md) `1252/2019`
+- [Maa\- ja metsätalousministeriön asetus puutavaran virallisesta mittauksesta, valvontamittauksesta ja mittauslautakunnan käsittelystä perittävästä maksusta vuosina 2020 ja 2021](1253.md) `1253/2019`
+- [Maa\- ja metsätalousministeriön asetus Suomen metsäkeskuksen suoritteiden maksullisuudesta vuonna 2020](1254.md) `1254/2019`
+- [Verohallinnon päätös ennakonpidätyksen toimittamistavoista ja määrästä annetun päätöksen muuttamisesta](1255.md) `1255/2019`
+- [Valtioneuvoston asetus maatalouden tukien tukialueista ja niiden saaristoksi luettavista osa\-alueista annetun valtioneuvoston asetuksen liitteen 1 ja 2 muuttamisesta](1256.md) `1256/2019`
+- [Valtioneuvoston asetus asuinympäristöstä ja ruokahuollosta kalastusaluksella](1257.md) `1257/2019`
+- [Valtioneuvoston asetus laivaväen asuinympäristöstä aluksella annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](1258.md) `1258/2019`
+- [Valtioneuvoston asetus laivaväen ruokahuollosta aluksella annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](1259.md) `1259/2019`
+- [Sosiaali\- ja terveysministeriön asetus turkistuottajille järjestettävien lomituspalvelujen enimmäismääristä vuonna 2020](1260.md) `1260/2019`
+- [Puolustusministeriön asetus Puolustusvoimien maksullisista suoritteista vuosina 2020–2022](1261.md) `1261/2019`
+- [Puolustusministeriön asetus puolustushallinnon rakennuslaitoksen maksullisista suoritteista vuosina 2020–2022](1262.md) `1262/2019`
+- [Puolustusministeriön asetus puolustusministeriön maksullisista suoritteista vuosina 2020–2022](1263.md) `1263/2019`
+- [Sosiaali\- ja terveysministeriön asetus eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1264.md) `1264/2019`
+- [Sosiaali\- ja terveysministeriön asetus eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1265.md) `1265/2019`
+- [Valtiovarainministeriön asetus valtiovarainministeriön maksullisista suoritteista](1266.md) `1266/2019`
+- [Valtioneuvoston asetus työhön liittyvän syöpävaaran torjunnasta](1267.md) `1267/2019`
+- [Valtioneuvoston asetus sotainvalidien puolisoiden ja leskien sekä sotaleskien kuntoutuksesta vuonna 2020](1268.md) `1268/2019`
+- [Valtioneuvoston asetus eräille ulkomaalaisille vapaaehtoisille rintamasotilaille vuonna 2020 maksettavasta rintama\-avustuksesta](1269.md) `1269/2019`
+- [Ulkoministeriön asetus Suomen tuesta Etiopian vesisektorin yhteisöpohjaisen ohjelman kolmatta vaihetta koskevan sopimuksen muuttamisesta](1270.md) `1270/2019`
+- [Valtiovarainministeriön asetus Tilastokeskuksen suoritteiden maksullisuudesta vuosina 2020 ja 2021](1271.md) `1271/2019`
+- [Sosiaali\- ja terveysministeriön asetus työterveyshuollon erikoislääkärikoulutuksen kustannuksiin valtion varoista vuonna 2020 myönnettävästä avustuksesta](1272.md) `1272/2019`
+- [Sosiaali\- ja terveysministeriön asetus syöpäsairauden vaaraa aiheuttavista tekijöistä](1273.md) `1273/2019`
+- [Verohallinnon työjärjestys](1274.md) `1274/2019`
+- [Verohallinnon päätös sääntöjen vastaisesti tai muuta kuin kaupallista myyntiä varten maahantuodun muun tupakkaa sisältävän tuotteen verotusarvosta](1275.md) `1275/2019`
+- [Laki kansalaisaloitelain muuttamisesta](1276.md) `1276/2019`
+- [Laki eläinten sekä eräiden tavaroiden tuontivalvonnasta](1277.md) `1277/2019`
+- [Laki elintarvikelain muuttamisesta](1278.md) `1278/2019`
+- [Laki eläinsuojelulain muuttamisesta](1279.md) `1279/2019`
+- [Laki eläinten kuljetuksesta annetun lain muuttamisesta](1280.md) `1280/2019`
+- [Laki eläintautilain muuttamisesta](1281.md) `1281/2019`
+- [Laki rehulain 4 ja 23 §:n muuttamisesta](1282.md) `1282/2019`
+- [Laki eläimistä saatavista sivutuotteista annetun lain muuttamisesta](1283.md) `1283/2019`
+- [Laki rikoslain 46 luvun 4 §:n muuttamisesta](1284.md) `1284/2019`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](1285.md) `1285/2019`
+- [Sisäministeriön asetus ulkoisista pelastussuunnitelmista](1286.md) `1286/2019`
+- [Sisäministeriön asetus Hätäkeskuslaitoksen maksullisista suoritteista](1287.md) `1287/2019`
+- [Sisäministeriön asetus Pelastusopiston maksullisista suoritteista](1288.md) `1288/2019`
+- [Verohallinnon päätös oma\-aloitteista veroa koskevan tiedon muodostamisesta Tulorekisteriyksikölle annetuista tiedoista](1289.md) `1289/2019`
+- [Maanmittauslaitoksen työjärjestys](1290.md) `1290/2019`
+- [Sisäministeriön asetus kriisinhallintaan osallistuvan siviilihenkilön palvelussuhteen ehdoista annetun sisäministeriön asetuksen 4 §:n ja liitteen kohdan 2 muuttamisesta](1291.md) `1291/2019`
+- [Laki Eurooppalaisen biologisen ja lääketieteellisen kuvantamisen tutkimusinfrastruktuurin oikeushenkilöydestä ja osittaisesta verovapaudesta Suomessa](1292.md) `1292/2019`
+- [Verohallinnon päätös veroilmoituksessa annettavista tiedoista](1293.md) `1293/2019`
+- [Valtioneuvoston asetus ammattikorkeakouluista annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](1294.md) `1294/2019`
+- [Valtioneuvoston asetus yliopistojen tutkinnoista ja erikoistumiskoulutuksista annetun valtioneuvoston asetuksen muuttamisesta](1295.md) `1295/2019`
+- [Opetus\- ja kulttuuriministeriön asetus Opetushallituksen suoritteiden maksullisuudesta](1296.md) `1296/2019`
+- [Valtioneuvoston asetus eräiden kiinteistönhankintojen luvanvaraisuudesta](1297.md) `1297/2019`
+- [Laki eräiden kunta\- ja palvelurakenneuudistuksesta annetussa laissa säädettyjen velvoitteiden soveltamisesta annetun lain 1 ja 2 §:n muuttamisesta](1298.md) `1298/2019`
+- [Laki kuntien ja kuntayhtymien eräiden oikeustoimien väliaikaisesta rajoittamisesta sosiaali\- ja terveydenhuollossa annetun lain 3 ja 7 §:n muuttamisesta](1299.md) `1299/2019`
+- [Maa\- ja metsätalousministeriön asetus biologisessa torjunnassa ja pölytyksessä käytettävien makroeliöiden markkinoinnista, käytöstä ja maahantuonnista](1300.md) `1300/2019`
+- [Valtioneuvoston asetus lausuntomenettelystä tiedonhallinnan muutosta koskevissa asioissa](1301.md) `1301/2019`
+- [Valtioneuvoston asetus Euroopan unionin sotilasesikunnan jäsenvaltioiden Euroopan unionin käyttöön mahdollisesti asetettujen esikuntien ja joukkojen sotilas\- ja siviilihenkilöiden asemasta tehdystä sopimuksesta \(EU SOFA\)](1302.md) `1302/2019`
+- [Valtiovarainministeriön asetus Valtiokonttorin maksullisista suoritteista](1303.md) `1303/2019`
+- [Valtiovarainministeriön asetus Digi\- ja väestötietoviraston suoritteiden maksuista vuonna 2020](1304.md) `1304/2019`
+- [Työ\- ja elinkeinoministeriön asetus sähköliiketoimintojen eriyttämisestä](1305.md) `1305/2019`
+- [Työ\- ja elinkeinoministeriön asetus maakaasuliiketoimintojen eriyttämisestä](1306.md) `1306/2019`
+- [Oikeusministeriön asetus oikeudenkäyntiavustajalautakunnan maksullisista suoritteista vuodelle 2020](1307.md) `1307/2019`
+- [Sosiaali\- ja terveysministeriön asetus merimieseläkekassan vakuutusteknisen vastuuvelan laskuperusteista ja perusteista merimieseläkelain 153 §:n mukaista vastuunjakoa varten annetun sosiaali\- ja terveysministeriön asetuksen liitteiden muuttamisesta](1308.md) `1308/2019`
+- [Valtioneuvoston asetus opintotuesta annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](1309.md) `1309/2019`
+- [Tasavallan presidentin asetus maakuntapäivä\- ja kunnallisvaaleja sekä neuvoa\-antavia kunnallisia kansanäänestyksiä koskevien tehtävien hoitamisesta Ahvenanmaalla](1310.md) `1310/2019`
+- [Laki työttömyysturvalain 6 luvun 3 a §:n ja 7 luvun 5 a §:n kumoamisesta](1311.md) `1311/2019`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain 4 §:n muuttamisesta](1312.md) `1312/2019`
+- [Laki työttömyyskassalain 25 §:n muuttamisesta](1313.md) `1313/2019`
+- [Laki hallinnon yhteisistä sähköisen asioinnin tukipalveluista annetun lain muuttamisesta](1314.md) `1314/2019`
+- [Laki väestötietojärjestelmästä ja Digi\- ja väestötietoviraston varmennepalveluista annetun lain muuttamisesta](1315.md) `1315/2019`
+- [Laki julkisen hallinnon yhteispalvelusta annetun lain 6 §:n muuttamisesta](1316.md) `1316/2019`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 23 b ja 60 §:n muuttamisesta](1317.md) `1317/2019`
+- [Ulkoministeriön asetus ulkoministeriön työjärjestyksen muuttamisesta](1318.md) `1318/2019`
+- [Maa\- ja metsätalousministeriön asetus Suomen riistakeskuksen ja riistanhoitoyhdistysten julkisten hallintotehtävien maksuista vuosina 2020 ja 2021](1319.md) `1319/2019`
+- [Ympäristöministeriön asetus Metsähallituksen eräiden julkisten hallintotehtävien suoritteiden maksuista vuosina 2020 ja 2021](1320.md) `1320/2019`
+- [Valtioneuvoston asetus holhousasioiden rekisteristä](1321.md) `1321/2019`
+- [Valtioneuvoston asetus avioliittoasetuksen muuttamisesta](1322.md) `1322/2019`
+- [Valtioneuvoston asetus etu\- ja sukunimistä annetun valtioneuvoston asetuksen muuttamisesta](1323.md) `1323/2019`
+- [Valtioneuvoston asetus eräistä toimenpiteistä ja asiakirjoista isyysasioissa annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1324.md) `1324/2019`
+- [Valtioneuvoston asetus ulkomaisten yleisten asiakirjojen laillistamisvaatimuksen poistamisesta tehdyn yleissopimuksen eräiden määräysten hyväksymisestä annetun lain täytäntöönpanosta ja soveltamisesta annetun asetuksen 1 §:n muuttamisesta](1325.md) `1325/2019`
+- [Valtioneuvoston asetus kuulutusrekisteristä annetun valtioneuvoston asetuksen 7 §:n muuttamisesta](1326.md) `1326/2019`
+- [Valtioneuvoston asetus rikosrekisteriasetuksen 16 §:n muuttamisesta](1327.md) `1327/2019`
+- [Valtioneuvoston asetus oikeusgeneettisestä isyystutkimuksesta annetun valtioneuvoston asetuksen kumoamisesta](1328.md) `1328/2019`
+- [Valtioneuvoston asetus sisäministeriöstä annetun valtioneuvoston asetuksen 1 ja 2 §:n muuttamisesta](1329.md) `1329/2019`
+- [Valtioneuvoston asetus väestötietojärjestelmästä annetun valtioneuvoston asetuksen muuttamisesta](1330.md) `1330/2019`
+- [Valtioneuvoston asetus valtion virkamiesasetuksen 3 §:n 2 momentin 7 kohdan kumoamisesta](1331.md) `1331/2019`
+- [Valtioneuvoston asetus valtion virkaehtosopimusasetuksen 9 ja 10 §:n muuttamisesta](1332.md) `1332/2019`
+- [Valtioneuvoston asetus aluehallintovirastoista annetun valtioneuvoston asetuksen muuttamisesta](1333.md) `1333/2019`
+- [Valtioneuvoston asetus kuolemansyyn selvittämisestä annetun asetuksen muuttamisesta](1334.md) `1334/2019`
+- [Valtioneuvoston asetus tupakointitiloista ja tupakointikiellon hakemisesta asuntoyhteisöön annetun valtioneuvoston asetuksen 4 a §:n muuttamisesta](1335.md) `1335/2019`
+- [Valtioneuvoston asetus kansalaisuudesta annetun valtioneuvoston asetuksen muuttamisesta](1336.md) `1336/2019`
+- [Valtioneuvoston asetus valtiovarainministeriöstä annetun valtioneuvoston asetuksen 1 ja 2 §:n muuttamisesta](1337.md) `1337/2019`
+- [Valtioneuvoston asetus julkisen hallinnon tiedonhallintalautakunnasta](1338.md) `1338/2019`
+- [Valtioneuvoston asetus vakavaa eläintautivaaraa koskevasta tiedottamisesta Euroopan unionin sisäisessä matkustajaliikenteessä](1339.md) `1339/2019`
+- [Valtioneuvoston asetus Maailman postiliiton yleissopimuksen lisäpöytäkirjasta, yleissopimuksen lisäpöytäkirjan päättöpöytäkirjasta, perussopimuksen kymmenennestä lisäpöytäkirjasta ja yleisohjesäännön toisesta lisäpöytäkirjasta](1340.md) `1340/2019`
+- [Valtioneuvoston asetus asuinrakennusten energia\-avustuksista vuosina 2020–2022](1341.md) `1341/2019`
+- [Valtioneuvoston asetus avustuksista arava\- ja korkotukivuokra\-asuntojen korjaamiseen ikääntyneille soveltuviksi vuosina 2020–2022](1342.md) `1342/2019`
+- [Valtioneuvoston asetus vuokra\-asuntolainojen ja asumisoikeustalolainojen korkotuesta annetun valtioneuvoston asetuksen väliaikaisesta muuttamisesta](1343.md) `1343/2019`
+- [Valtioneuvoston asetus aluehallintovirastoista annetun valtioneuvoston asetuksen 11 §:n muuttamisesta](1344.md) `1344/2019`
+- [Valtioneuvoston asetus työ\- ja elinkeinoministeriöstä annetun valtioneuvoston asetuksen 1 ja 4 §:n muuttamisesta](1345.md) `1345/2019`
+- [Verohallinnon päätös ennakonpidätysvelvollisuudesta vapauttamisesta annetun päätöksen muuttamisesta](1346.md) `1346/2019`
+- [Laki Yhdistyneiden kansakuntien hankepalveluiden toimiston Suomen\-toimistosta Yhdistyneiden kansakuntien kanssa tehdystä sopimuksesta](1347.md) `1347/2019`
+- [Laki Pelastusopistosta annetun lain 28 ja 29 §:n muuttamisesta](1348.md) `1348/2019`
+- [Laki rajavartiolaitoksen hallinnosta annetun lain muuttamisesta](1349.md) `1349/2019`
+- [Laki rajavartiolain 60 §:n muuttamisesta](1350.md) `1350/2019`
+- [Laki rikostorjunnasta Rajavartiolaitoksessa annetun lain 56 §:n muuttamisesta](1351.md) `1351/2019`
+- [Laki meripelastuslain 25 a §:n kumoamisesta](1352.md) `1352/2019`
+- [Laki poliisilain 5 luvun 62 §:n ja 8 luvun 7 §:n muuttamisesta](1353.md) `1353/2019`
+- [Laki Poliisiammattikorkeakoulusta annetun lain 46 §:n muuttamisesta](1354.md) `1354/2019`
+- [Laki poliisin säilyttämien henkilöiden kohtelusta annetun lain 17 luvun 6 §:n muuttamisesta](1355.md) `1355/2019`
+- [Laki passilain 37 §:n muuttamisesta](1356.md) `1356/2019`
+- [Laki henkilökorttilain 37 §:n muuttamisesta](1357.md) `1357/2019`
+- [Laki arpajaislain 66 §:n muuttamisesta](1358.md) `1358/2019`
+- [Laki rahankeräyslain 35 §:n muuttamisesta](1359.md) `1359/2019`
+- [Laki viihdelaitelain 16 §:n muuttamisesta](1360.md) `1360/2019`
+- [Laki ampuma\-aselain 118 §:n muuttamisesta](1361.md) `1361/2019`
+- [Laki ampumaratalain 15 §:n muuttamisesta](1362.md) `1362/2019`
+- [Laki tietoliikennetiedustelusta siviilitiedustelussa annetun lain 23 §:n muuttamisesta](1363.md) `1363/2019`
+- [Laki järjestyslain 24 §:n muuttamisesta](1364.md) `1364/2019`
+- [Laki yksityisistä turvallisuuspalveluista annetun lain 110 §:n muuttamisesta](1365.md) `1365/2019`
+- [Laki lentoliikenteen matkustajarekisteritietojen käytöstä terrorismirikosten ja vakavan rikollisuuden torjunnassa annetun lain 17 §:n muuttamisesta](1366.md) `1366/2019`
+- [Laki räjähteiden lähtöaineiden markkinoille saattamisesta ja käytöstä annetun lain 11 §:n muuttamisesta](1367.md) `1367/2019`
+- [Laki kuntalain muuttamisesta](1368.md) `1368/2019`
+- [Laki valtiokonttorista annetun lain muuttamisesta](1369.md) `1369/2019`
+- [Laki Terveyden ja hyvinvoinnin laitoksesta annetun lain 2 §:n muuttamisesta](1370.md) `1370/2019`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 58 §:n muuttamisesta](1371.md) `1371/2019`
+- [Laki perusopetuslain 41 §:n muuttamisesta](1372.md) `1372/2019`
+- [Laki lukiolain 59 §:n muuttamisesta](1373.md) `1373/2019`
+- [Laki ammatillisesta koulutuksesta annetun lain 108 §:n muuttamisesta](1374.md) `1374/2019`
+- [Laki vapaasta sivistystyöstä annetun lain 21 §:n muuttamisesta](1375.md) `1375/2019`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain muuttamisesta](1376.md) `1376/2019`
+- [Valtioneuvoston kanslian asetus valtioneuvoston kanslian suoritteiden maksullisuudesta](1377.md) `1377/2019`
+- [Oikeusministeriön asetus isyys\- ja elatusasioissa käytettävistä lomakkeista annetun oikeusministeriön asetuksen 1 §:n muuttamisesta](1378.md) `1378/2019`
+- [Oikeusministeriön asetus äitiysasioissa käytettävistä lomakkeista annetun oikeusministeriön asetuksen 1 §:n muuttamisesta](1379.md) `1379/2019`
+- [Oikeusministeriön asetus tietojen merkitsemisestä oikeushallinnon valtakunnallisen tietojärjestelmän ratkaisu\- ja päätösilmoitusjärjestelmään annetun oikeusministeriön asetuksen 3 §:n muuttamisesta](1380.md) `1380/2019`
+- [Oikeusministeriön asetus oikeusministeriön työjärjestyksestä annetun oikeusministeriön asetuksen muuttamisesta](1381.md) `1381/2019`
+- [Sisäministeriön asetus vapaaehtoisen paluun avustuksesta](1382.md) `1382/2019`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötoimitusmaksusta vuonna 2020](1383.md) `1383/2019`
+- [Työ\- ja elinkeinoministeriön asetus työ\- ja elinkeinoministeriön maksullisista suoritteista](1384.md) `1384/2019`
+- [Työ\- ja elinkeinoministeriön asetus Geologian tutkimuskeskuksen suoritteiden maksullisuudesta](1385.md) `1385/2019`
+- [Sisäministeriön asetus poliisin suoritteiden maksullisuudesta vuonna 2020](1386.md) `1386/2019`
+- [Laki pelastuslain muuttamisesta](1387.md) `1387/2019`
+- [Laki Pelastusopistosta annetun lain muuttamisesta](1388.md) `1388/2019`
+- [Laki palosuojelurahastolain 7 §:n muuttamisesta](1389.md) `1389/2019`
+- [Laki hätäkeskustoiminnasta annetun lain 16 §:n 4 momentin kumoamisesta](1390.md) `1390/2019`
+- [Laki oikeudesta luovuttaa valtion kiinteistövarallisuutta annetun lain muuttamisesta](1391.md) `1391/2019`
+- [Laki tulotietojärjestelmästä annetun lain muuttamisesta](1392.md) `1392/2019`
+- [Laki tuloverolain muuttamisesta](1393.md) `1393/2019`
+- [Laki verotusmenettelystä annetun lain 15 §:n muuttamisesta](1394.md) `1394/2019`
+- [Laki varhaiskasvatuslain muuttamisesta](1395.md) `1395/2019`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta annetun lain muuttamisesta](1396.md) `1396/2019`
+- [Laki elintarvikelain muuttamisesta](1397.md) `1397/2019`
+- [Laki kasvinsuojeluaineista annetun lain muuttamisesta](1398.md) `1398/2019`
+- [Laki Harmaan talouden selvitysyksiköstä annetun lain 6 §:n muuttamisesta](1399.md) `1399/2019`
+- [Laki vastuusta ja vahingonkorvauksesta vaarallisten ja haitallisten aineiden merikuljetusten yhteydessä vuonna 1996 tehdyn kansainvälisen yleissopimuksen vuoden 2010 pöytäkirjasta](1400.md) `1400/2019`
+- [Laki merilain muuttamisesta](1401.md) `1401/2019`
+- [Laki meritse kuljetettavien vaarallisten ja haitallisten aineiden vastaanottamista koskevasta raportointivelvollisuudesta](1402.md) `1402/2019`
+- [Laki alusturvallisuuden valvonnasta annetun lain 2 §:n muuttamisesta](1403.md) `1403/2019`
+- [Laki eräiden ympäristölle aiheutuneiden vahinkojen korjaamisesta annetun lain 1 §:n muuttamisesta](1404.md) `1404/2019`
+- [Laki työaikalain muuttamisesta](1405.md) `1405/2019`
+- [Laki luonnonsuojelulain muuttamisesta](1406.md) `1406/2019`
+- [Laki maa\-aineslain muuttamisesta](1407.md) `1407/2019`
+- [Laki ympäristövaikutusten arviointimenettelystä annetun lain muuttamisesta](1408.md) `1408/2019`
+- [Laki viranomaisten suunnitelmien ja ohjelmien ympäristövaikutusten arvioinnista annetun lain muuttamisesta](1409.md) `1409/2019`
+- [Laki vesienhoidon ja merenhoidon järjestämisestä annetun lain muuttamisesta](1410.md) `1410/2019`
+- [Laki kadun ja eräiden yleisten alueiden kunnossa\- ja puhtaanapidosta annetun lain 8 a §:n muuttamisesta](1411.md) `1411/2019`
+- [Laki Etelämantereen ympäristönsuojelusta annetun lain 18 §:n muuttamisesta](1412.md) `1412/2019`
+- [Laki ulkoilulain 29 §:n muuttamisesta](1413.md) `1413/2019`
+- [Laki eräiden terveyden\- ja sairaanhoidon henkilöstöryhmien sekä eläinlääkäreiden yhteisistä pohjoismaisista työmarkkinoista Pohjoismaiden välillä tehdyn sopimuksen muuttamisesta tehdystä sopimuksesta](1414.md) `1414/2019`
+- [Laki terveydenhuollon ammattihenkilöistä annetun lain 3 §:n muuttamisesta](1415.md) `1415/2019`
+- [Laki eläinlääkärinammatin harjoittamisesta annetun lain 4 §:n muuttamisesta](1416.md) `1416/2019`
+- [Laki työsuojelurahastolain 1 ja 2 §:n muuttamisesta](1417.md) `1417/2019`
+- [Laki työttömyysturvalain 3 luvun 1 §:n ja 6 luvun 9 §:n muuttamisesta](1418.md) `1418/2019`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain muuttamisesta](1419.md) `1419/2019`
+- [Laki ympäristönsuojelulain muuttamisesta](1420.md) `1420/2019`
+- [Laki jätelain 137 §:n muuttamisesta](1421.md) `1421/2019`
+- [Laki vaarallisten aineiden käytön rajoittamisesta sähkö\- ja elektroniikkalaitteissa annetun lain 28 §:n muuttamisesta](1422.md) `1422/2019`
+- [Laki eräiden polttoaineiden elinkaarenaikaisten kasvihuonekaasupäästöjen vähentämisestä annetun lain 17 §:n muuttamisesta](1423.md) `1423/2019`
+- [Laki vapaaehtoisesta osallistumisesta ympäristöasioiden hallinta\- ja auditointijärjestelmään annetun lain 13 §:n muuttamisesta](1424.md) `1424/2019`
+- [Laki pilaantuneiden alueiden puhdistamisen tukemisesta annetun lain 13 §:n muuttamisesta](1425.md) `1425/2019`
+- [Laki hiilidioksidin talteenottamisesta ja varastoinnista annetun lain muuttamisesta](1426.md) `1426/2019`
+- [Laki luonnonsuojelulain 61 ja 62 §:n muuttamisesta](1427.md) `1427/2019`
+- [Laki ympäristövaikutusten arviointimenettelystä annetun lain 37 §:n muuttamisesta](1428.md) `1428/2019`
+- [Laki maastoliikennelain muuttamisesta](1429.md) `1429/2019`
+- [Laki ulkoilulain 30 a §:n muuttamisesta](1430.md) `1430/2019`
+- [Laki etuostolain 22 §:n muuttamisesta](1431.md) `1431/2019`
+- [Laki kadun ja eräiden yleisten alueiden kunnossa\- ja puhtaanapidosta annetun lain 18 §:n muuttamisesta](1432.md) `1432/2019`
+- [Laki eräiden rakennustuotteiden tuotehyväksynnästä annetun lain 36 §:n muuttamisesta](1433.md) `1433/2019`
+- [Laki rakennuksen energiatodistuksesta annetun lain 26 §:n muuttamisesta](1434.md) `1434/2019`
+- [Laki rakennusperinnön suojelemisesta annetun lain 21 §:n muuttamisesta](1435.md) `1435/2019`
+- [Laki aravalain 39 §:n muuttamisesta](1436.md) `1436/2019`
+- [Laki aravalainojen lainaehtojen muuttamisesta eräissä tapauksissa annetun lain 12 §:n muuttamisesta](1437.md) `1437/2019`
+- [Laki aravarajoituslain 21 §:n muuttamisesta](1438.md) `1438/2019`
+- [Laki asumisoikeusasunnoista annetun lain 54 §:n muuttamisesta](1439.md) `1439/2019`
+- [Laki eräiden vuokratalolainojen lainaehtojen ilmoitusperusteisesta muuttamisesta annetun lain 6 §:n muuttamisesta](1440.md) `1440/2019`
+- [Laki oman asunnon hankintaan myönnettävien lainojen korkotuesta annetun lain 11 a §:n muuttamisesta](1441.md) `1441/2019`
+- [Laki omistusasuntolainojen korkotuesta annetun lain 14 §:n muuttamisesta](1442.md) `1442/2019`
+- [Laki omistusasuntolainojen valtiontakauksesta annetun lain 16 §:n muuttamisesta](1443.md) `1443/2019`
+- [Laki valtiontakauksesta aravalainojen takaisinmaksamiseksi annetun lain 16 §:n muuttamisesta](1444.md) `1444/2019`
+- [Laki vuokra\-asuntojen korkotukilainalla rahoitettujen asuntojen vapautumisesta käyttörajoituksista annetun lain 6 §:n muuttamisesta](1445.md) `1445/2019`
+- [Laki vuokra\-asuntojen rakentamislainojen valtiontakauksesta annetun lain 17 §:n muuttamisesta](1446.md) `1446/2019`
+- [Laki vuokra\-asuntolainojen ja asumisoikeustalolainojen korkotuesta annetun lain 41 §:n muuttamisesta](1447.md) `1447/2019`
+- [Laki vuokratalojen rakentamislainojen lyhytaikaisesta korkotuesta annetun lain 30 §:n muuttamisesta](1448.md) `1448/2019`
+- [Laki tiettyjen uusiutuvaa energiaa käyttävien energiajärjestelmien asentajien kouluttajan hyväksymisestä annetun lain 8 §:n muuttamisesta](1449.md) `1449/2019`
+- [Laki asuinrakennusten ja asuntojen korjausavustuksista annetun lain muuttamisesta](1450.md) `1450/2019`
+- [Laki pilaantuneiden alueiden puhdistamisen tukemisesta annetun lain muuttamisesta](1451.md) `1451/2019`
+- [Liikenne\- ja viestintäministeriön asetus Liikenne\- ja viestintäviraston liikennettä koskevista maksullisista suoritteista](1452.md) `1452/2019`
+- [Liikenne\- ja viestintäministeriön asetus Liikenne\- ja viestintäviraston sähköiseen viestintään liittyvistä suoritteista perittävistä maksuista](1453.md) `1453/2019`
+- [Liikenne\- ja viestintäministeriön asetus hallinnollisista taajuusmaksuista ja Liikenne\- ja viestintäviraston taajuushallinnollisista suoritteista perittävistä muista maksuista](1454.md) `1454/2019`
+- [Valtioneuvoston asetus ajoneuvojen liikennekelpoisuuden valvonnasta](1455.md) `1455/2019`
+- [Sisäministeriön asetus sisäministeriön työjärjestyksestä annetun sisäasiainministeriön asetuksen muuttamisesta](1456.md) `1456/2019`
+- [Sisäministeriön asetus Maahanmuuttoviraston suoritteiden maksullisuudesta vuonna 2020](1457.md) `1457/2019`
+- [Sisäministeriön asetus Rajavartiolaitoksen suoritteiden maksuista annetun sisäministeriön asetuksen muuttamisesta](1458.md) `1458/2019`
+- [Valtiovarainministeriön asetus valtiovarainministeriön työjärjestyksestä annetun valtiovarainministeriön asetuksen muuttamisesta](1459.md) `1459/2019`
+- [Valtiovarainministeriön asetus vuoden 2020 taidekilpailupalkintojen verovapaudesta](1460.md) `1460/2019`
+- [Maa\- ja metsätalousministeriön asetus Maanmittauslaitoksen maksuista sekä kaupanvahvistuksesta perittävistä maksuista ja korvauksista](1461.md) `1461/2019`
+- [Maa\- ja metsätalousministeriön asetus eräiden Metsähallituksen julkisten hallintotehtävien suoritteiden maksuista](1462.md) `1462/2019`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön työjärjestyksestä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1463.md) `1463/2019`
+- [Liikenne\- ja viestintäministeriön asetus Ilmatieteen laitoksen maksullisista suoritteista](1464.md) `1464/2019`
+- [Liikenne\- ja viestintäministeriön asetus Väyläviraston maksullisista suoritteista](1465.md) `1465/2019`
+- [Sosiaali\- ja terveysministeriön asetus lääkkeiden hintalautakunnalle tehtävästä hakemuksesta ja hintailmoituksesta annetun sosiaali\- ja terveysministeriön asetuksen 3 ja 7 §:n muuttamisesta](1466.md) `1466/2019`
+- [Valtioneuvoston asetus valtioneuvoston ohjesäännön muuttamisesta](1467.md) `1467/2019`
+- [Laki työntekijän eläkelain muuttamisesta](1468.md) `1468/2019`
+- [Laki yrittäjän eläkelain muuttamisesta](1469.md) `1469/2019`
+- [Laki maatalousyrittäjän eläkelain muuttamisesta](1470.md) `1470/2019`
+- [Laki merimieseläkelain muuttamisesta](1471.md) `1471/2019`
+- [Laki julkisten alojen eläkelain muuttamisesta](1472.md) `1472/2019`
+- [Laki Eläketurvakeskuksesta annetun lain 5 §:n muuttamisesta](1473.md) `1473/2019`
+- [Laki työeläkeasioiden muutoksenhakulautakunnasta annetun lain 3 §:n muuttamisesta](1474.md) `1474/2019`
+- [Laki sairausvakuutuslain 11 luvun 3 §:n muuttamisesta](1475.md) `1475/2019`
+- [Laki työntekijän eläkelain muuttamisesta annetun lain 94 §:n muuttamisesta](1476.md) `1476/2019`
+- [Laki yrittäjän eläkelain muuttamisesta annetun lain 87 §:n muuttamisesta](1477.md) `1477/2019`
+- [Laki merimieseläkelain muuttamisesta annetun lain 99 §:n muuttamisesta](1478.md) `1478/2019`
+- [Laki julkisten alojen eläkelain muuttamisesta annetun lain 98 §:n muuttamisesta](1479.md) `1479/2019`
+- [Laki Lääkealan turvallisuus\- ja kehittämiskeskuksesta annetun lain muuttamisesta](1480.md) `1480/2019`
+- [Laki Sosiaali\- ja terveysalan lupa\- ja valvontavirastosta annetun lain 2 §:n muuttamisesta](1481.md) `1481/2019`
+- [Laki terveydenhuollon laitteista ja tarvikkeista annetun lain muuttamisesta](1482.md) `1482/2019`
+- [Laki vaarallisten aineiden käytön rajoittamisesta sähkö\- ja elektroniikkalaitteissa annetun lain 17 §:n muuttamisesta](1483.md) `1483/2019`
+- [Laki ihmisen elimien, kudoksien ja solujen lääketieteellisestä käytöstä annetun lain muuttamisesta](1484.md) `1484/2019`
+- [Laki biopankkilain muuttamisesta](1485.md) `1485/2019`
+- [Laki lääketieteellisestä tutkimuksesta annetun lain muuttamisesta](1486.md) `1486/2019`
+- [Laki veripalvelulain 18 ja 23 §:n muuttamisesta](1487.md) `1487/2019`
+- [Laki geenitekniikkalain muuttamisesta](1488.md) `1488/2019`
+- [Laki lastensuojelulain muuttamisesta](1489.md) `1489/2019`
+- [Laki lastensuojelulain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1490.md) `1490/2019`
+- [Laki sosiaali\- ja terveystietojen toissijaisesta käytöstä annetun lain 50 §:n muuttamisesta](1491.md) `1491/2019`
+- [Laki potilaan asemasta ja oikeuksista annetun lain 13 §:n 5 momentin kumoamisesta annetun lain 2 §:n muuttamisesta](1492.md) `1492/2019`
+- [Valtioneuvoston asetus geenitekniikkalain mukaisten suoritteiden maksullisuudesta annetun valtioneuvoston asetuksen 2 ja 3 §:n muuttamisesta](1493.md) `1493/2019`
+- [Valtioneuvoston asetus oikeusministeriöstä annetun valtioneuvoston asetuksen 1 ja 2 §:n muuttamisesta](1494.md) `1494/2019`
+- [Työ\- ja elinkeinoministeriön asetus työ\- ja elinkeinoministeriön työjärjestyksestä annetun työ\- ja elinkeinoministeriön asetuksen muuttamisesta](1495.md) `1495/2019`
+- [Työ\- ja elinkeinoministeriön asetus työvoimapoliittisen lausunnon antamisesta ja lausuntoon merkittävistä tiedoista annetun työ\- ja elinkeinoministeriön asetuksen 5 §:n muuttamisesta](1496.md) `1496/2019`
+- [Sosiaali\- ja terveysministeriön asetus poronhoitajien sijaisavun enimmäismäärästä vuonna 2020](1497.md) `1497/2019`
+- [Sosiaali\- ja terveysministeriön asetus Sosiaali\- ja terveysalan lupa\- ja valvontaviraston maksullisista suoritteista](1498.md) `1498/2019`
+- [Sosiaali\- ja terveysministeriön asetus Lääkealan turvallisuus\- ja kehittämiskeskuksen maksullisista suoritteista](1499.md) `1499/2019`
+- [Sosiaali\- ja terveysministeriön asetus Sosiaali\- ja terveysalan tietolupaviranomaisen suoritteiden maksullisuudesta](1500.md) `1500/2019`
+- [Laki liikennejärjestelmästä ja maanteistä annetun lain muuttamisesta](1501.md) `1501/2019`
+- [Laki ratalain muuttamisesta](1502.md) `1502/2019`
+- [Laki yksityistielain muuttamisesta](1503.md) `1503/2019`
+- [Laki Liikenne\- ja viestintävirastosta annetun lain 2 §:n muuttamisesta](1504.md) `1504/2019`
+- [Laki liikenteen palveluista annetun lain muuttamisesta](1505.md) `1505/2019`
+- [Laki Liikenneturvasta annetun lain 6 §:n muuttamisesta](1506.md) `1506/2019`
+- [Laki raideliikennelain muuttamisesta](1507.md) `1507/2019`
+- [Laki ajoneuvojen siirtämisestä](1508.md) `1508/2019`
+- [Laki tuomioistuinlain 14 luvun 3 §:n muuttamisesta](1509.md) `1509/2019`
+- [Laki ajokorttilain 95 ja 95 a §:n muuttamisesta](1510.md) `1510/2019`
+- [Laki ajoneuvojen katsastustoiminnasta annetun lain 53 §:n muuttamisesta](1511.md) `1511/2019`
+- [Laki ajoneuvojen yksittäishyväksynnän järjestämisestä annetun lain 31 §:n muuttamisesta](1512.md) `1512/2019`
+- [Laki alkolukkolain 15 §:n muuttamisesta](1513.md) `1513/2019`
+- [Laki aluksen teknisestä turvallisuudesta ja turvallisesta käytöstä annetun lain 22 a ja 93 §:n muuttamisesta](1514.md) `1514/2019`
+- [Laki alusliikennepalvelulain 31 §:n muuttamisesta](1515.md) `1515/2019`
+- [Laki alusrekisterilain 13 f §:n muuttamisesta](1516.md) `1516/2019`
+- [Laki alusten jääluokista ja jäänmurtaja\-avustuksesta annetun lain 12 §:n muuttamisesta](1517.md) `1517/2019`
+- [Laki alusturvallisuuden valvonnasta annetun lain 18 §:n muuttamisesta](1518.md) `1518/2019`
+- [Laki eräiden alusten ja niitä palvelevien satamien turvatoimista ja turvatoimien valvonnasta annetun lain 25 §:n muuttamisesta](1519.md) `1519/2019`
+- [Laki eräiden irtolastialusten turvallisesta lastaamisesta ja lastin purkamisesta annetun lain 25 §:n muuttamisesta](1520.md) `1520/2019`
+- [Laki henkilöautojen romutuspalkkiosta ja sähkökäyttöisten henkilöautojen hankintatuesta sekä henkilöautojen kaasu\- tai etanolikäyttöisiksi muuntamisen tuesta annetun lain 12 §:n muuttamisesta](1521.md) `1521/2019`
+- [Laki huviveneiden turvallisuudesta ja päästövaatimuksista annetun lain 55 §:n muuttamisesta](1522.md) `1522/2019`
+- [Laki katsastustoiminnan valvontamaksusta annetun lain 13 §:n muuttamisesta](1523.md) `1523/2019`
+- [Laki kuljettajantutkintotoiminnan järjestämisestä annetun lain 14 §:n muuttamisesta](1524.md) `1524/2019`
+- [Laki laivavarustelain 28 ja 29 §:n muuttamisesta](1525.md) `1525/2019`
+- [Laki ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteeseen tehtyjen muutosten sekä yleissopimukseen liittyvän kiinteiden irtolastien aluskuljetuksia koskevan kansainvälisen säännöstön \(IMSBC\-säännöstö\) pakottavan osan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja IMSBC\-säännöstön soveltamisesta annetun lain 5 §:n muuttamisesta](1526.md) `1526/2019`
+- [Laki laiva\-apteekista annetun lain 13 §:n muuttamisesta](1527.md) `1527/2019`
+- [Laki laivaväestä ja aluksen turvallisuusjohtamisesta annetun lain 41 §:n muuttamisesta](1528.md) `1528/2019`
+- [Laki lentoasemaverkosta ja \-maksuista annetun lain 13 §:n muuttamisesta](1529.md) `1529/2019`
+- [Laki lentoliikenteen päästökaupasta annetun lain 27 §:n muuttamisesta](1530.md) `1530/2019`
+- [Laki lentoliikenteen valvontamaksusta annetun lain 15 §:n muuttamisesta](1531.md) `1531/2019`
+- [Laki liikenneturvallisuusmaksusta annetun lain 15 §:n muuttamisesta](1532.md) `1532/2019`
+- [Laki liikenteessä käytettävien vaihtoehtoisten polttoaineiden jakelusta annetun lain 14 §:n muuttamisesta](1533.md) `1533/2019`
+- [Laki luotsauslain 20 a §:n muuttamisesta](1534.md) `1534/2019`
+- [Laki maantieliikenteen liikenneyrittäjäkoulutuksesta annetun lain 8 §:n muuttamisesta](1535.md) `1535/2019`
+- [Laki matkustaja\-aluksen henkilöluetteloista annetun lain 24 §:n muuttamisesta](1536.md) `1536/2019`
+- [Laki merenkulun ympäristönsuojelulain muuttamisesta](1537.md) `1537/2019`
+- [Laki postilain 80 §:n muuttamisesta](1538.md) `1538/2019`
+- [Laki tieliikennelain 106 a §:n muuttamisesta](1539.md) `1539/2019`
+- [Laki sähköisten tietullijärjestelmien yhteentoimivuudesta annetun lain 24 §:n muuttamisesta](1540.md) `1540/2019`
+- [Laki vaarallisten aineiden kuljetuksesta annetun lain 21 §:n muuttamisesta](1541.md) `1541/2019`
+- [Laki vahvasta sähköisestä tunnistamisesta ja sähköisistä luottamuspalveluista annetun lain 49 ja 49 a §:n muuttamisesta](1542.md) `1542/2019`
+- [Laki verkkoinfrastruktuurin yhteisrakentamisesta ja \-käytöstä annetun lain 14 §:n muuttamisesta](1543.md) `1543/2019`
+- [Laki vesikulkuneuvojen rekisteröinnistä annetun lain 42 §:n muuttamisesta](1544.md) `1544/2019`
+- [Laki väylämaksulain 25 §:n muuttamisesta](1545.md) `1545/2019`
+- [Valtion talousarvio vuodelle 2020](1546.md) `1546/2019`
+- [Eduskunnan päätös eduskunnan työjärjestyksen 17 a §:n muuttamisesta](1547.md) `1547/2019`
+- [Laki rehulain muuttamisesta](1548.md) `1548/2019`
+- [Sosiaali\- ja terveysministeriön asetus Terveyden ja hyvinvoinnin laitoksen maksullisista suoritteista](1549.md) `1549/2019`
+- [Laki alueiden kehittämisen ja rakennerahastohankkeiden rahoittamisesta annetun lain muuttamisesta](1550.md) `1550/2019`
+- [Valtioneuvoston asetus toimivaltaisesta eläkelaitoksesta](1551.md) `1551/2019`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskoroista](1552.md) `1552/2019`
+- [Laki Suomen itsenäisyyden juhlarahastosta annetun lain muuttamisesta](1553.md) `1553/2019`
+- [Laki nestemäisten polttoaineiden valmisteverosta annetun lain liitteen muuttamisesta](1554.md) `1554/2019`
+- [Laki valmisteverotuslain 5 §:n muuttamisesta](1555.md) `1555/2019`
+- [Laki vuoden 2020 tuloveroasteikosta](1556.md) `1556/2019`
+- [Laki tuloverolain muuttamisesta ja väliaikaisesta muuttamisesta](1557.md) `1557/2019`
+- [Laki ulkomailta tulevan palkansaajan lähdeverosta annetun lain 3 ja 12 §:n muuttamisesta](1558.md) `1558/2019`
+- [Laki raportoitavista järjestelyistä verotuksen alalla](1559.md) `1559/2019`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](1560.md) `1560/2019`
+- [Laki hallinnollisesta yhteistyöstä verotuksen alalla ja direktiivin 77/799/ETY kumoamisesta annetun neuvoston direktiivin lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja direktiivin soveltamisesta annetun lain muuttamisesta](1561.md) `1561/2019`
+- [Laki tulotietojärjestelmästä annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1562.md) `1562/2019`
+- [Laki perintö\- ja lahjaverolain 28 a §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1563.md) `1563/2019`
+- [Laki tulotietojärjestelmästä annetun lain 6 §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1564.md) `1564/2019`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](1565.md) `1565/2019`
+- [Laki oma\-aloitteisten verojen verotusmenettelystä annetun lain muuttamisesta](1566.md) `1566/2019`
+- [Laki eräiden rajat ylittävien hybridijärjestelyjen verotuksesta](1567.md) `1567/2019`
+- [Laki kansainvälisen kaksinkertaisen verotuksen poistamisesta annetun lain 4 ja 5 §:n muuttamisesta](1568.md) `1568/2019`
+- [Laki elinkeinotulon verottamisesta annetun lain 4 ja 7 §:n muuttamisesta](1569.md) `1569/2019`
+- [Laki tuloverolain 29 §:n muuttamisesta](1570.md) `1570/2019`
+- [Laki maatilatalouden tuloverolain 4 §:n muuttamisesta](1571.md) `1571/2019`
+- [Laki koneiden, kaluston ja muun niihin verrattavan irtaimen käyttöomaisuuden korotetuista poistoista verovuosina 2020–2023](1572.md) `1572/2019`
+- [Laki verontilityslain väliaikaisesta muuttamisesta](1573.md) `1573/2019`
+- [Laki tuloverolain väliaikaisesta muuttamisesta](1574.md) `1574/2019`
+- [Laki kuntalain 142 ja 144 §:n muuttamisesta](1575.md) `1575/2019`
+- [Laki pienten erillisten alueiden siirtämisestä kunnasta toiseen kuntaan annetun lain muuttamisesta](1576.md) `1576/2019`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](1577.md) `1577/2019`
+- [Laki maatilatalouden tuloverolain 3 §:n muuttamisesta](1578.md) `1578/2019`
+- [Laki tuloverolain muuttamisesta](1579.md) `1579/2019`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](1580.md) `1580/2019`
+- [Laki veronlisäyksestä ja viivekorosta annetun lain 5 a ja 5 c §:n muuttamisesta](1581.md) `1581/2019`
+- [Laki varojen arvostamisesta verotuksessa annetun lain 3 §:n muuttamisesta](1582.md) `1582/2019`
+- [Laki veronkantolain 50 §:n muuttamisesta](1583.md) `1583/2019`
+- [Valtioneuvoston asetus kunnan peruspalvelujen valtionosuudesta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](1584.md) `1584/2019`
+- [Valtiovarainministeriön asetus veronkannosta annetun valtiovarainministeriön asetuksen muuttamisesta](1585.md) `1585/2019`
+- [Valtioneuvoston asetus varhaiskasvatuksesta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](1586.md) `1586/2019`
+- [Valtioneuvoston asetus eläinten hyvinvointikorvausta koskevan sitoumuksen antamisesta vuonna 2020](1587.md) `1587/2019`
+- [Valtioneuvoston asetus eläinten hyvinvointikorvauksesta annetun valtioneuvoston asetuksen muuttamisesta](1588.md) `1588/2019`
+- [Valtioneuvoston asetus saaristokunnista ja muiden kuntien saaristo\-osista, joihin sovelletaan saaristokuntaa koskevia säännöksiä annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](1589.md) `1589/2019`
+- [Laki julkisesti tuetuista vienti\- ja alusluotoista sekä korontasauksesta annetun lain 4 ja 8 §:n muuttamisesta](1590.md) `1590/2019`
+- [Laki valtion erityisrahoitusyhtiöstä annetun lain 8 a §:n muuttamisesta](1591.md) `1591/2019`
+- [Laki valtion vientitakuista annetun lain 10 §:n muuttamisesta](1592.md) `1592/2019`
+- [Valtioneuvoston asetus asuinrakennusten ja asuntojen korjausavustuksista annetun valtioneuvoston asetuksen muuttamisesta](1593.md) `1593/2019`
+- [Verohallinnon päätös Tulorekisteriyksikölle annettavien tietojen antamisen määräaikojen pidentämisestä](1594.md) `1594/2019`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveysministeriön työjärjestyksen muuttamisesta](1595.md) `1595/2019`
+- [Verohallinnon päätös takaisin perittyjen tulojen takaisinmaksun määräpäivästä suorituksen maksajan verotuksessa](1596.md) `1596/2019`

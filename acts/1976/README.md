@@ -1,0 +1,87 @@
+# 1976 Statutes
+
+## Statutes
+
+- [Laki Suomen Pankin ohjesäännön muuttamisesta\.](18.md) `18/1976`
+- [Laki leimaverolain väliaikaisesta muuttamisesta\.](37.md) `37/1976`
+- [Laki kotimaisten kielten tutkimuskeskuksesta](48.md) `48/1976`
+- [Asetus jakoasetuksen muuttamisesta](134.md) `134/1976`
+- [Laki ehdollisesta rangaistuksesta](135.md) `135/1976`
+- [Laki nuorista rikoksentekijöistä annetun lain muuttamisesta](137.md) `137/1976`
+- [Laki Suomen ja muiden pohjoismaiden välisestä yhteistoiminnasta rikosasioissa annettujen tuomioiden täytäntöönpanossa annetun lain muuttamisesta](138.md) `138/1976`
+- [Laki veron viivästyskorosta ja jäämämaksusta](145.md) `145/1976`
+- [Laki metsänhoitoyhdistyksistä annetun lain 11 ja 13 §:n muuttamisesta](148.md) `148/1976`
+- [Laki verotuslain muuttamisesta](155.md) `155/1976`
+- [Laki tavaramerkkilain muuttamisesta](176.md) `176/1976`
+- [Laki työaikalain muuttamisesta](189.md) `189/1976`
+- [Asetus kiinteistön rasitustodistuksista annetun asetuksen 5 §:n muuttamisesta](247.md) `247/1976`
+- [Asetus sakon ja sen muuntorangaistuksen sekä eräiden muiden rikosoikeudellisten seuraamusten ja valtiolle maksettavaksi tuomittujen korvausta täytäntöönpanosta annetun asetuksen muuttamisesta](258.md) `258/1976`
+- [Asetus tavaramerkkiasetuksen muuttamisesta](271.md) `271/1976`
+- [Laki edustajanpalkkiosta annetun lain muuttamisesta](330.md) `330/1976`
+- [Laki kunnallisvaalilain muuttamisesta](332.md) `332/1976`
+- [Laki Suomen hallitusmuodon 51 §:n muuttamisesta\.](334.md) `334/1976`
+- [Laki evankelis\-luterilaisen kirkon eläkelain muuttamisesta](337.md) `337/1976`
+- [Laki oikeudenkäymiskaaren 1 ja 6 luvun muuttamisesta\.](350.md) `350/1976`
+- [Laki kaupunginviskaaleista](352.md) `352/1976`
+- [Laki luopumiseläkelain muuttamisesta](356.md) `356/1976`
+- [Laki työntekijäin eläkelain muuttamisesta](389.md) `389/1976`
+- [Laki maatalousyrittäjien eläkelain 12 §:n muuttamisesta](391.md) `391/1976`
+- [Laki yrittäjien eläkelain 12 §:n muuttamisesta](392.md) `392/1976`
+- [Asetus luopumiseläkeasetuksen muuttamisesta](416.md) `416/1976`
+- [Laki asumistukilain muuttamisesta](421.md) `421/1976`
+- [Laki valtiopäiväjärjestyksen 7 §:n muuttamisesta](455.md) `455/1976`
+- [Laki perintökaaren 9 luvun 1 § muuttamisesta](458.md) `458/1976`
+- [Laki oikeudenkäymiskaaren 12 luvun 1 ja 2 §:n muuttamisesta\.](460.md) `460/1976`
+- [Laki rikoslain voimaanpanemisesta annetun asetuksen 17 §:n muuttamisesta\.](461.md) `461/1976`
+- [Laki rikoslain muuttamisesta](466.md) `466/1976`
+- [Laki sotilasvammalain 18 ja 27 §:n muuttamisesta](470.md) `470/1976`
+- [Laki kansaneläkelain 5 §:n muuttamisesta](506.md) `506/1976`
+- [Laki sairausvakuutuslain 34 §:n muuttamisesta](507.md) `507/1976`
+- [Laki rajavyöhykelain 10 §:n muuttamisesta](533.md) `533/1976`
+- [Laki leimaverolain muuttamisesta](547.md) `547/1976`
+- [Laki leimaverolain muuttamisesta\.](561.md) `561/1976`
+- [Laki Pohjoismaiden Investointipankin palveluksessa olevan henkilön verottamisesta\.](562.md) `562/1976`
+- [Laki oikeudenkäymiskaaren 12 luvun muuttamisesta\.](603.md) `603/1976`
+- [Laki velvollisuudesta saapua toisen pohjoismaan tuomioistuimeen eräissä tapauksissa annetun lain 6 ja 9 §:n muuttamisesta](604.md) `604/1976`
+- [Laki työaikalain muuttamisesta\.](620.md) `620/1976`
+- [Laki vesilain muuttamisesta](649.md) `649/1976`
+- [Laki metsäntutkimuslaitoksesta](653.md) `653/1976`
+- [Laki työntekijäin eläkelain 5 a ja 9 §:n muuttamisesta](659.md) `659/1976`
+- [Laki maatalousyrittäjien eläkelain 14 ja 22 §:n muuttamisesta](661.md) `661/1976`
+- [Laki yrittäjien eläkelain 13 ja 19 §:n muuttamisesta](662.md) `662/1976`
+- [Laki luopumiseläkelain 13 ja 24 §:n muuttamisesta](663.md) `663/1976`
+- [Laki valtion eläkelain muuttamisesta](664.md) `664/1976`
+- [Laki valtion perhe\-eläkelain 5 ja 11 §:n muuttamisesta](665.md) `665/1976`
+- [Asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkeasetuksen 9 §:n kumoamisesta](667.md) `667/1976`
+- [Asetus luopumiseläkeasetuksen 15 §:n kumoamisesta](668.md) `668/1976`
+- [Laki ennakkoperintälain muuttamisesta](670.md) `670/1976`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain muuttamisesta](671.md) `671/1976`
+- [Laki verotuslain muuttamisesta](672.md) `672/1976`
+- [Asetus isyyden vahvistamisesta ja kumoamisesta sekä lapsen elatuksesta](673.md) `673/1976`
+- [Asetus eräistä veri\- ja muita periytyviä ominaisuuksia koskevista tutkimuksista](674.md) `674/1976`
+- [Laki yhteiskunnallisesti merkittävää toimintaa harjoittavien yleishyödyllisten yhteisöjen veronhuojennuksista](680.md) `680/1976`
+- [Laki toimenpiteistä tupakoinnin vähentämiseksi](693.md) `693/1976`
+- [Laki kansanterveyslain voimaanpanosta annetun lain 10 §:n muuttamisesta](739.md) `739/1976`
+- [Laki kansanterveyslain muuttamisesta](788.md) `788/1976`
+- [Laki työturvallisuuslain muuttamisesta](789.md) `789/1976`
+- [Asetus rakennusasetuksen muuttamisesta](877.md) `877/1976`
+- [Asetus raha\-automaattiasetuksen muuttamisesta](884.md) `884/1976`
+- [Asetus asevelvollisuuslain soveltamisesta annetun asetuksen muuttamisesta](915.md) `915/1976`
+- [Asetus eräistä patentti\- ja rekisterihallituksen perimistä maksuista\.](943.md) `943/1976`
+- [Asetus vankeusrangaistuksen täytäntöönpanosta annetun asetuksen muuttamisesta](946.md) `946/1976`
+- [Laki julkisista kuulutuksista annetun lain muuttamisesta](954.md) `954/1976`
+- [Laki yleisestä oikeusaputoiminnasta annetun lain 5 §:n muuttamisesta](959.md) `959/1976`
+- [Laki rakennuslain muuttamisesta](985.md) `985/1976`
+- [Laki rajakuntien tilusjärjestelylain muuttamisesta\.](987.md) `987/1976`
+- [Laki kirjanpitolain muuttamisesta](994.md) `994/1976`
+- [Laki Suomen Pankin ohjesäännön 6 §:n muuttamisesta](1014.md) `1014/1976`
+- [Laki ennakkoperintälain muuttamisesta](1018.md) `1018/1976`
+- [Laki leimaverolain väliaikaisesta muuttamisesta\.](1028.md) `1028/1976`
+- [Laki yksityisistä teistä annetun lain muuttamisesta](1064.md) `1064/1976`
+- [Laki kalastuslain 108 §:n muuttamisesta](1066.md) `1066/1976`
+- [Laki Suomen kalastusvyöhykkeestä annetun lain muuttamisesta](1074.md) `1074/1976`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](1094.md) `1094/1976`
+- [Laki tapaturmavakuutualain 60 §:n muuttamisesta\.](1105.md) `1105/1976`
+- [Laki sotilasvammalain 43 a §:n muuttamisesta\.](1107.md) `1107/1976`
+- [Laki palo\- ja pelastustoimesta annetun lain muuttamisesta](1130.md) `1130/1976`
+- [Laki toimenpiteistä tupakoinnin vähentämiseksi annetun lain 38 §:n muuttamisesta](1147.md) `1147/1976`

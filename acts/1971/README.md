@@ -1,0 +1,72 @@
+# 1971 Statutes
+
+## Statutes
+
+- [Laki holhouksen järjestämisestä eräissä tapauksissa](14.md) `14/1971`
+- [Laki ottolapsista annetun lain muuttamisesta\.](17.md) `17/1971`
+- [Laki raskauden keskeyttämisestä annetun lain muuttamisesta](18.md) `18/1971`
+- [Laki hallitusmuodon muuttamisesta\.](19.md) `19/1971`
+- [Laki avioliittolain voimaanpanosta annetun lain 6 §:n muuttamisesta](21.md) `21/1971`
+- [Laki valtioneuvoston ministeriöiden lukumäärästä ja yleisestä toimialasta annetun lain muuttamisesta](43.md) `43/1971`
+- [Laki yleisistä teistä annetun lain muuttamisesta](44.md) `44/1971`
+- [Laki Korkeimmasta hallinto\-oikeudesta annetun lain muuttamisesta\.](55.md) `55/1971`
+- [Eläinsuojelulaki](91.md) `91/1971`
+- [Laki sotilasvammalain muuttamisesta](180.md) `180/1971`
+- [Laki sotilasvammalain soveltamisalan laajentamisesta annetun lain muuttamisesta](181.md) `181/1971`
+- [Laki sotilasvammalain mukaisten korvausten korottamisesta annettujen eräiden lakien kumoamisesta\.](184.md) `184/1971`
+- [Radiovastuulaki](219.md) `219/1971`
+- [Laki oikeudenkäymiskaaren 17 luvun muuttamisesta\.](220.md) `220/1971`
+- [Mallioikeuslaki](221.md) `221/1971`
+- [Asetus kioski\- ja siihen verrattavasta kaupasta sekä automaattikaupasta annetun asetuksen muuttamisesta](230.md) `230/1971`
+- [Laki säännöllisen, yleisen väestölaskennan toimittamisesta annetun lain muuttamisesta](234.md) `234/1971`
+- [Laki leimaverolain muuttamisesta](235.md) `235/1971`
+- [Mallioikeusasetus](252.md) `252/1971`
+- [Laki valtion eläkelain muuttamisesta](266.md) `266/1971`
+- [Laki valtion perhe\-eläkelain muuttamisesta](267.md) `267/1971`
+- [Laki ennakkotiedosta, oikaisuvaatimuksesta ja muutoksenhausta eräissä eläkeasioissa](272.md) `272/1971`
+- [Asetus väestönsuojeluasetuksen muuttamisesta](282.md) `282/1971`
+- [Asetus yleisistä teistä annetun asetuksen muuttamisesta](284.md) `284/1971`
+- [Laki vaarallisten rikoksenuusijain eristämisestä annetun lain muuttamisesta](303.md) `303/1971`
+- [Laki shekkilain 54 §:n muuttamisesta](304.md) `304/1971`
+- [Asetus kaavoitusalueiden jakoasetuksen muuttamisesta](324.md) `324/1971`
+- [Eläinsuojeluasetus](333.md) `333/1971`
+- [Laki asevelvollisuuslain muuttamisesta](387.md) `387/1971`
+- [Asetus vaarallisten rikoksenuusijain eristämisestä annetun lain täytäntöönpanosta ja soveltamisesta annetun asetuksen muuttamisesta](447.md) `447/1971`
+- [Asetus pakkolaitoksesta](448.md) `448/1971`
+- [Asetus asevelvollisuuslain soveltamisesta annetun asetuksen muuttamisesta](479.md) `479/1971`
+- [Laki edustajanpalkkiosta annetun lain muuttamisesta\.](488.md) `488/1971`
+- [Laki nuotista rikoksentekijöistä annetun lain muuttamisesta\.](489.md) `489/1971`
+- [Laki kansanedustajain vaaleista annetun lain 107 §:n muuttamisesta](490.md) `490/1971`
+- [Laki vaarallisten rikoksenuusijain eristämisestä annetun lain 1 §:n muuttamisesta](491.md) `491/1971`
+- [Laki leimaverolain muuttamisesta](492.md) `492/1971`
+- [Laki kansaneläkelain muuttamisesta](499.md) `499/1971`
+- [Laki työntekijäin eläkelain muuttamisesta](500.md) `500/1971`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](501.md) `501/1971`
+- [Laki merimieseläkelain muuttamisesta](504.md) `504/1971`
+- [Laki sairausvakuutuslain muuttamisesta](505.md) `505/1971`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain 3 §:n muuttamisesta](508.md) `508/1971`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](511.md) `511/1971`
+- [Laki tapaturmavakuutuslain muuttamisesta](512.md) `512/1971`
+- [Asetus Työntekijäin eläkeasetuksen muuttamisesta](514.md) `514/1971`
+- [Asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkeasetuksen muuttamisesta](515.md) `515/1971`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](525.md) `525/1971`
+- [Laki pellon käytön rajoittamisesta annetun lain muuttamisesta](548.md) `548/1971`
+- [Asetus väestönsuojeluasetuksen muuttamisesta](560.md) `560/1971`
+- [Laki patenttilain muuttamisesta](575.md) `575/1971`
+- [Radiovastuuasetus](621.md) `621/1971`
+- [Asetus ortodoksisesta kirkkokunnasta annetun asetuksen muuttamisesta](647.md) `647/1971`
+- [Laki tekijänoikeudesta kirjallisiin ja taiteellisiin teoksiin annetun lain muuttamisesta](669.md) `669/1971`
+- [Laki valtiopäiväjärjestyksen muuttamisesta](744.md) `744/1971`
+- [Valtioneuvoston päätös tapaturmavakuutuslain 58 §:ssä säädetyn maksun suuruudesta vuonna 1971\.](749.md) `749/1971`
+- [Laki leimaverolain muuttamisesta](776.md) `776/1971`
+- [Laki verojen ja maksujen perimisestä ulosottotoimin annetun lain 12 §:n muuttamisesta](839.md) `839/1971`
+- [Opettajankoulutuslaki](844.md) `844/1971`
+- [Laki valtion eläkelain muuttamisesta](851.md) `851/1971`
+- [Laki Suomen Pankin ohjesäännön muuttamisesta](863.md) `863/1971`
+- [Laki yrittäjien eläkelain 9 ja 13 §:n muuttamisesta](872.md) `872/1971`
+- [Laki eräiden liikennevahingonkorvausten sitomisesta palkkatasoon](875.md) `875/1971`
+- [Laki kadonneen henkilön julistamisesta kuolleeksi annetun lain muuttamisesta\.](883.md) `883/1971`
+- [Laki vähittäiskaupan liikeajasta annetun lain muuttamisesta](919.md) `919/1971`
+- [Laki tapaturmavakuutuslain muuttamisesta](956.md) `956/1971`
+- [Laki tapaturmavakuutuslaissa säädettyjen markkamäärä en korottamisesta annetun lain kumoamisesta\.](958.md) `958/1971`
+- [Asetus valtion eläkeasetuksen muuttamisesta](987.md) `987/1971`

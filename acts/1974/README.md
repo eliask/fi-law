@@ -1,0 +1,82 @@
+# 1974 Statutes
+
+## Statutes
+
+- [Laki lapsen hoitotuesta annetun lain muuttamisesta](10.md) `10/1974`
+- [Laki valtion eläkelain 12 ja 13 §:n muuttamisesta](12.md) `12/1974`
+- [Luopumiseläkelaki](16.md) `16/1974`
+- [Laki vientitakuulain muuttamisesta](22.md) `22/1974`
+- [Valtioneuvoston päätös yleismääräyksiksi lahjoitus\- ja testamenttivarojen vastaanottamisesta ja käytöstä valtion virastoissa ja laitoksissa\.](35.md) `35/1974`
+- [Laki oikeuspoliittisesta tutkimuslaitoksesta](51.md) `51/1974`
+- [Valtioneuvoston päätös ylimääräisistä taiteilijaeläkkeistä\.](75.md) `75/1974`
+- [Asetus lapsen hoitotuesta annetun asetuksen muuttamisesta](114.md) `114/1974`
+- [Asetus rikosvahinkojen korvaamisesta valtion varoista](198.md) `198/1974`
+- [Laki vähittäiskaupan ja eräiden työliikkeiden liikeajasta annetun lain muuttamisesta](214.md) `214/1974`
+- [Asetus kaavoitusalueiden jakoasetuksen muuttamisesta](225.md) `225/1974`
+- [Asetus sotilasvalasta annetun asetuksen muuttamisesta](243.md) `243/1974`
+- [Luopumiseläkeasetus](258.md) `258/1974`
+- [Laki leimaverolain 12 §:n muuttamisesta](270.md) `270/1974`
+- [Laki maanvuokralain muuttamisesta](303.md) `303/1974`
+- [Asetus verojen ja maksujen perimisestä ulosottotoimin annetun asetuksen muuttamisesta](304.md) `304/1974`
+- [Asetus liikennevakuutusasetuksen muuttamisesta](356.md) `356/1974`
+- [Laki maa\-alueilla tapahtuvien öljyvahinkojen torjumisesta\.](378.md) `378/1974`
+- [Laki öljysuojarahastosta](379.md) `379/1974`
+- [Asetus työsuojelun valvonnasta annetun asetuksen muuttamisesta](382.md) `382/1974`
+- [Laki puolustusvoimista](402.md) `402/1974`
+- [Vahingonkorvauslaki](412.md) `412/1974`
+- [Laki työsopimuslain 51 §:n muuttamisesta](414.md) `414/1974`
+- [Laki liikennevakuutuslain muuttamisesta](421.md) `421/1974`
+- [Laki syyttömästi vangitulle tai tuomitulle valtion varoista maksettavasta korvauksesta](422.md) `422/1974`
+- [Laki leimaverolain 12 §:n muuttamisesta](425.md) `425/1974`
+- [Laki kansaneläkelain muuttamisesta](451.md) `451/1974`
+- [Laki sairausvakuutuslain muuttamisesta](452.md) `452/1974`
+- [Laki työntekijäin eläkelain muuttamisesta](454.md) `454/1974`
+- [Asetus valtion virkamiesten vuosilomasta annetun asetuksen muuttamisesta](472.md) `472/1974`
+- [Laki perintö\- ja lahjaverolain muuttamisesta\.](503.md) `503/1974`
+- [Laki moottoriajoneuvoverosta annetun lain muuttamisesta](506.md) `506/1974`
+- [Laki leimaverolain muuttamisesta\.](507.md) `507/1974`
+- [Laki edustajanpalkkiosta annetun lain muuttamisesta\.](511.md) `511/1974`
+- [Laki rakennuslain muuttamisesta](530.md) `530/1974`
+- [Asetus maatalousyrittäjien eläkeasetuksen muuttamisesta](548.md) `548/1974`
+- [Laki rikoslain voimaanpanemisesta annetun asetuksen muuttamisesta\.](614.md) `614/1974`
+- [Laki tutkintavankeudesta](615.md) `615/1974`
+- [Laki nuorista rikoksentekijöistä annetun lain muuttamisesta](618.md) `618/1974`
+- [Laki Suomen ja muiden pohjoismaiden välisestä yhteistoiminnasta rikosasioissa annettujen tuomioiden täytäntöönpanossa annetun lain muuttamisesta](621.md) `621/1974`
+- [Laki oikeudenkäymiskaaren muuttamisesta\.](622.md) `622/1974`
+- [Laki työtuomioistuimesta](646.md) `646/1974`
+- [Laki tekijänoikeudesta kirjallisiin ja taiteellisiin teoksiin annetun lain muuttamisesta](648.md) `648/1974`
+- [Asetus kansaneläkeasetuksen muuttamisesta](654.md) `654/1974`
+- [Laki työntekijäin eläkelain muuttamisesta](749.md) `749/1974`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](750.md) `750/1974`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](751.md) `751/1974`
+- [Laki yrittäjien eläkelain muuttamisesta](752.md) `752/1974`
+- [Laki valtion virkamiehiltä vaadittavasta kielitaidosta annetun lain muuttamisesta](817.md) `817/1974`
+- [Laki Suomen kalastusvyöhykkeestä](839.md) `839/1974`
+- [Laki liikennevakuutuslain muuttamisesta](898.md) `898/1974`
+- [Laki painovapauslain 18 ja 39 §:n muuttamisesta\.](909.md) `909/1974`
+- [Laki kuntien yhdistymiskorvauksista ja \-avustuksista annetun lain muuttamisesta](911.md) `911/1974`
+- [Asetus kansaneläkeasetuksen muuttamisesta](915.md) `915/1974`
+- [Asetus sairausvakuutusasetuksen 5―8 luvun osittaisesta kumoamisesta](916.md) `916/1974`
+- [Asetus lapsen hoitotuesta annetun asetuksen 1 §:n momentin kumoamisesta](919.md) `919/1974`
+- [Laki moottoriajoneuvoverosta annetun lain muuttamisesta](957.md) `957/1974`
+- [Laki evankelis\-luterilaisen kirkon virkaehtosopimuksista](968.md) `968/1974`
+- [Laki evankelis\-luterilaisen kirkon työehtosopimuksista](969.md) `969/1974`
+- [Laki evankelis\-luterilaisen kirkon sopimusvaltuuskunnasta](970.md) `970/1974`
+- [Laki työaikalain 3 ja 19 a §:n muuttamisesta](971.md) `971/1974`
+- [Asetus maa\-alueilla tapahtuvien öljyvahinkojen torjumisesta](977.md) `977/1974`
+- [Laki yksityisluontoisten arkistojen valtionavusta](998.md) `998/1974`
+- [Laki Suomen Pankin ohjesäännön 6 §:n muuttamisesta](1000.md) `1000/1974`
+- [Asetus ulosottoasetuksen muuttamisesta\.](1005.md) `1005/1974`
+- [Lääninoikeuslaki](1021.md) `1021/1974`
+- [Laki verotuslain muuttamisesta](1023.md) `1023/1974`
+- [Laki verotuslain muuttamisesta](1024.md) `1024/1974`
+- [Laki verotuslain muuttamisesta](1025.md) `1025/1974`
+- [Laki ennakkoperintälain muuttamisesta](1026.md) `1026/1974`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain muuttamisesta](1027.md) `1027/1974`
+- [Laki perintö ja lahjaverolain muuttamisesta](1028.md) `1028/1974`
+- [Laki leimaverolain muuttamisesta](1029.md) `1029/1974`
+- [Tulo\- ja varallisuusverolaki](1043.md) `1043/1974`
+- [Laki leimaverolain väliaikaisesta muuttamisesta](1050.md) `1050/1974`
+- [Laki ennakkoperintälain muuttamisesta](1063.md) `1063/1974`
+- [Laki haja\-asutusalueiden vähittäiskaupan rahoitustuesta\.](1086.md) `1086/1974`
+- [Asetus kunnille asuntoalueiden hankkimiseksi myönnettävästä korkotuesta annetun asetuksen muuttamisesta](1115.md) `1115/1974`

@@ -1,0 +1,80 @@
+# 1975 Statutes
+
+## Statutes
+
+- [Laki kunnallisista työehtosopimuksista annetun lain muuttamisesta](1.md) `1/1975`
+- [Laki Ahvenanmaan maakunnassa olevan kiinteän omaisuuden hankkimista ja hallintaa koskevan oikeuden rajoittamisesta](3.md) `3/1975`
+- [Laki rajavartiolaitoksesta](5.md) `5/1975`
+- [Laki sotilasvammalain 29 a §:n muuttamisesta](6.md) `6/1975`
+- [Laki kielilain muuttamisesta](10.md) `10/1975`
+- [Asetus maanmittausmaksusta annetun asetuksen 4 §:n muuttamisesta](26.md) `26/1975`
+- [Asetus kansaneläkeasetuksen 14 a §:n muuttamisesta](27.md) `27/1975`
+- [Laki kriminaalihuoltotyön valtionavusta](31.md) `31/1975`
+- [Asetus asevelvollisuuslain soveltamisesta annetun asetuksen muuttamisesta](62.md) `62/1975`
+- [Asetus rakennusasetuksen muuttamisesta](116.md) `116/1975`
+- [Laki ajoneuvojen siirtämisestä ja romuajoneuvojen hävittämisestä](151.md) `151/1975`
+- [Laki pellon käytön rajoittamisesta annetun lain muuttamisesta](201.md) `201/1975`
+- [Asetus pysäköintivirhemaksusta annetun asetuksen muuttamisesta](263.md) `263/1975`
+- [Asetus sairausvakuutusasetuksen 35 §:n kumoamisesta](266.md) `266/1975`
+- [Asetus kansaneläkeasetuksen 9 §:n muuttamisesta](267.md) `267/1975`
+- [Laki sotilasvammalain muuttamisesta\.](304.md) `304/1975`
+- [Laki kansanedustajain vaaleista annetun lain muuttamisesta](319.md) `319/1975`
+- [Asetus verojen ja maksujen perimisestä ulosottotoimin annetun asetuksen muuttamisesta](327.md) `327/1975`
+- [Asetus työsuojelun valvonnasta annetun asetuksen muuttamisesta](342.md) `342/1975`
+- [Laki velvollisuudesta saapua toisen pohjoismaan tuomioistuimeen eräissä tapauksissa](349.md) `349/1975`
+- [Laki kadonneen henkilön julistamisesta kuolleeksi annetun lain muuttamisesta\.](351.md) `351/1975`
+- [Laki moottoriajoneuvoverosta annetun lain muuttamisesta](356.md) `356/1975`
+- [Asumistukilaki](408.md) `408/1975`
+- [Asetus korvauksen suorittamisesta toisesta pohjoismaasta Suomen tuomioistuimeen kutsutulle henkilölle](446.md) `446/1975`
+- [Asetus vankeusrangaistuksen täytäntöönpanosta](447.md) `447/1975`
+- [Asetus pakkolaitoksesta annetun asetuksen muuttamisesta](449.md) `449/1975`
+- [Asetus pohjoismaiden keskeisestä oikeusavusta tiedoksiannon toimittamisessa ja todistelussa](470.md) `470/1975`
+- [Laki leimaverolain muuttamisesta\.](482.md) `482/1975`
+- [Laki merimieseläkelain muuttamisesta](493.md) `493/1975`
+- [Laki oikeudenkäymiskaaren 11 ja 17 lukujen muuttamisesta\.](520.md) `520/1975`
+- [Laki yksityisistä teistä annetun lain muuttamisesta](521.md) `521/1975`
+- [Laki lapsen huoltoa tai tapaamisoikeutta koskevan tuomion täytäntöönpanosta](523.md) `523/1975`
+- [Laki vientitavaran alkuperää koskevan väärän tiedon antamisen rankaisemisesta](524.md) `524/1975`
+- [Laki verotuslain muuttamisesta\.](527.md) `527/1975`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain muuttamisesta\.](529.md) `529/1975`
+- [Laki satovahinkojen korvaamisesta](530.md) `530/1975`
+- [Laki leimaverolain 12 §:n muuttamisesta](533.md) `533/1975`
+- [Laki palo\- ja pelastustoimesta](559.md) `559/1975`
+- [Laki valtion eläkelain muuttamisesta](568.md) `568/1975`
+- [Laki valtion perhe\-eläkelain muuttamisesta](569.md) `569/1975`
+- [Laki eläkeoikeuden valintaa koskevan ilmoituksen tekemisestä eräissä tapauksissa](570.md) `570/1975`
+- [Laki lasten päivähoidosta annetun lain muuttamisesta](588.md) `588/1975`
+- [Laki kansanterveyslain muuttamisesta](592.md) `592/1975`
+- [Laki kansanterveyslain voimaanpanosta annetun lain muuttamisesta](593.md) `593/1975`
+- [Laki verotuslain muuttamisesta](611.md) `611/1975`
+- [Laki rakennuslain muuttamisesta](674.md) `674/1975`
+- [Laki maatilatilastosta](675.md) `675/1975`
+- [Asetus tuomioistuimen eräistä perhe\- ja henkilöoikeudellisista ratkaisuista tehtävistä ilmoituksista](676.md) `676/1975`
+- [Laki leimaverolain 30 §:n muuttamisesta](694.md) `694/1975`
+- [Isyyslaki](700.md) `700/1975`
+- [Laki isyyslain voimaanpanosta](701.md) `701/1975`
+- [Laki lapsen elatuksesta](704.md) `704/1975`
+- [Laki avioliittolain muuttamisesta](705.md) `705/1975`
+- [Laki ottolapsista annetun lain 9 §:n 2 momentin kumoamisesta\.](706.md) `706/1975`
+- [Laki oikeudenkäymiskaaren muuttamisesta\.](707.md) `707/1975`
+- [Laki perintökaaren muuttamisesta](710.md) `710/1975`
+- [Rautatiekuljetusasetus](714.md) `714/1975`
+- [Asetus mallioikeusasetuksen muuttamisesta](739.md) `739/1975`
+- [Asetus sairausvakuutusasetuksen 7 §:n muuttamisesta](743.md) `743/1975`
+- [Asetus rakennusasetuksen muuttamisesta](745.md) `745/1975`
+- [Asetus jakoasetuksen muuttamisesta](746.md) `746/1975`
+- [Asetus kaavoitusalueiden jakoasetuksen muuttamisesta](748.md) `748/1975`
+- [Asetus jakoasetuksen muuttamisesta](771.md) `771/1975`
+- [Asetus työaikalain soveltamisesta kunnallisiin viranhaltijoihin&](782.md) `782/1975`
+- [Asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkeasetuksen muuttamisesta](845.md) `845/1975`
+- [Asetus jakoasetuksen muuttamisesta](860.md) `860/1975`
+- [Asetus tavara\-arpajaisasetuksen muuttamisesta](874.md) `874/1975`
+- [Laki valtioneuvoston ministeriöiden lukumäärästä ja yleisestä toimialasta annetun lain muuttamisesta](923.md) `923/1975`
+- [Laki kunnallisvaalilain muuttamisesta](935.md) `935/1975`
+- [Asetus vankeusrangaistuksen täytäntöönpanosta annetun asetuksen muuttamisesta](937.md) `937/1975`
+- [Asetus sakon ja sen muuntorangaistuksen sekä eräiden muiden rikosoikeudellisten seuraamusten ja valtiolle maksettaviksi tuomittujen korvausten täytäntöönpanosta annetun asetuksen muuttamisesta](939.md) `939/1975`
+- [Asetus väestönsuojeluasetuksen muuttamisesta](971.md) `971/1975`
+- [Laki leimaverolain muuttamisesta](1004.md) `1004/1975`
+- [Asetus sairausvakuutusasetuksen muuttamisesta](1067.md) `1067/1975`
+- [Laki rakennuslain muuttamisesta](1081.md) `1081/1975`
+- [Asetus palo\- ja pelastustoimesta\.](1089.md) `1089/1975`

@@ -1,0 +1,1739 @@
+# 1995 Statutes
+
+## Statutes
+
+- [Maa\- ja metsätalousministeriön päätös maaseutuelinkeinojen valituslautakunnan suoritteista perittävistä maksuista](1.md) `1/1995`
+- [Maa\- ja metsätalousministeriön päätös maa\- ja metsätalousministeriön tietopalvelukeskuksen suoritteista perittävistä maksuista](2.md) `2/1995`
+- [Sosiaali\- ja terveysministeriön päätös  alkoholijuomien tuonnin rajoittamisesta eräissä tapauksissa](3.md) `3/1995`
+- [Sosiaali\- ja terveysministeriön päätös  sosiaali\- ja terveydenhuollon tuotevalvontakeskuksen maksullisista suoritteista](4.md) `4/1995`
+- [Liikenneministeriön päätös luvanvaraisen tavaraliikenteen harjoittajalta vaadittavasta ammattitaidosta ja vakuuksista annetun liikenneministeriön päätöksen 2 §:n muuttamisesta](5.md) `5/1995`
+- [Sisäasiainministeriön päätös poliisin suoritteiden maksullisuudesta annetun sisäasiainministeriön päätöksen liitteen muuttamisesta](6.md) `6/1995`
+- [Sosiaali\- ja terveysministeriön ilmoitus terveydenhuollon laitteita ja tarvikkeita sekä aktiivisia implantoitavia laitteita koskevista sosiaali\- ja terveysministeriön päätöksistä](7.md) `7/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](8.md) `8/1995`
+- [Asetus Itämeren alueen merellisen ympäristön suojelua koskevan yleissopimuksen IV liitteen muutosten voimaansaattamisesta](9.md) `9/1995`
+- [Asetus Suomen liittymisestä Euroopan avaruusjärjestöä koskevaan yleissopimukseen ja sen liitännäisehtoihin tehdyn sopimuksen voimaansaattamisesta](10.md) `10/1995`
+- [Asetus ihmisestä peräisin olevien terapeuttisten aineiden vaihtoa koskevan eurooppalaisen sopimuksen voimaansaattamisesta](11.md) `11/1995`
+- [Asetus eräistä valtion omistamille alueille perustetuista kansallispuistoista ja luonnonpuistoista annetun asetuksen 6 §:n muuttamisesta](12.md) `12/1995`
+- [Kauppa\- ja teollisuusministeriön päätös eräiden elintarvikerasvojen pakkausmerkinnöistä](13.md) `13/1995`
+- [Maa\- ja metsätalousministeriön päätös maaseutuelinkeinopiirien suoritteista perittävistä maksuista](14.md) `14/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](15.md) `15/1995`
+- [Laki  Maailman kauppajärjestön perustamissopimuksen ja sen liitesopimusten eräiden määräysten hyväksymisestä](16.md) `16/1995`
+- [Asetus  Maailman kauppajärjestön perustamissopimuksen ja sen liitesopimusten voimaansaattamisesta sekä näiden eräiden määräysten hyväksymisestä annetun lain voimaantulosta](17.md) `17/1995`
+- [Valtioneuvoston päätös  valtion tukien ilmoittamisessa komissiolle noudatettavista menettelytavoista](18.md) `18/1995`
+- [Maa\- ja metsätalousministeriön päätös  kolmansista maista tuotavien lihan ja lihatuotteiden elintarvikehygieenisesta laadusta ja eläintautivaatimuksista](19.md) `19/1995`
+- [Laki Valtionrautateiden muuttamisesta osakeyhtiöksi](20.md) `20/1995`
+- [Laki valtion rataverkosta, radanpidosta ja rataverkon käytöstä](21.md) `21/1995`
+- [Kauppa\- ja teollisuusministeriön päätös kauppasienistä annetun kauppa\- ja teollisuusministeriön päätöksen 11 §:n muuttamisesta](22.md) `22/1995`
+- [Työministeriön päätös eräiden työsuojelun valvontaa koskevien päätösten kumoamisesta](23.md) `23/1995`
+- [Sosiaali\- ja terveysministeriön päätös  toimeentulotukitehtävien siirtoa koskevaan kokeiluun 1995 \- 1996 osallistuvista kunnista](24.md) `24/1995`
+- [Verohallituksen päätös liikkeen\- ja ammatinharjoittajan työmatkasta aiheutuneen elantokustannusten lisäyksen vähentämisestä vuodelta 1995 toimitettavassa verotuksessa](25.md) `25/1995`
+- [Maa\- ja metsätalousministeriön päätös eläintautien leviämisen ehkäisemiseksi ja elintarvikehygieenisen laadun turvaamiseksi Euroopan yhteisön ulkopuolelta tuotaville eläville eläimille, eläimistä saataville elintarvikkeille sekä eräille muille tuotteille suoritettavista tuontitarkastuksista](26.md) `26/1995`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös eräiden eläinten ja tavaroiden eläintautivaatimuksista Euroopan yhteisön sisämarkkinoilla](27.md) `27/1995`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös eläintautien leviämisen ehkäisemisestä maahantuonnin yhteydessä annetun maa\- ja metsätalousministeriön eläinlääkintöosaston päätöksen muuttamisesta](28.md) `28/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](29.md) `29/1995`
+- [Laki  valtion kiinteistölaitoksesta](30.md) `30/1995`
+- [Asetus  valtion kiinteistölaitoksesta](31.md) `31/1995`
+- [Valtioneuvoston päätös  yritystuesta annetun valtioneuvoston päätöksen muuttamisesta](32.md) `32/1995`
+- [Liikenneministeriön päätös  kunnista, joiden alueella peritään korkeampaa televisiolupamaksua](33.md) `33/1995`
+- [Laki ulosottomaksuista](34.md) `34/1995`
+- [Asetus ulosottomaksuista](35.md) `35/1995`
+- [Laki maaseutuelinkeinojen valituslautakunnasta annetun lain muuttamisesta](36.md) `36/1995`
+- [Laki kuluttajansuojalain 2 luvun muuttamisesta](37.md) `37/1995`
+- [Laki markkinatuomioistuimesta annetun lain muuttamisesta](38.md) `38/1995`
+- [Asetus Suomen, Norjan ja Ruotsin välisen Pohjoiskalotin koulutussäätiötä koskevan sopimuksen voimaansaattamisesta](39.md) `39/1995`
+- [Asetus kansainvälisistä pääliikenneväylistä tehdyn eurooppalaisen sopimuksen \(AGR\) I liitteen muutosten voimaansaattamisesta](40.md) `40/1995`
+- [Asetus kansainvälisistä pääliikenneväylistä tehdyn eurooppalaisen sopimuksen \(AGR\) liitteiden I ja II muutosten voimaansaattamisesta](41.md) `41/1995`
+- [Asetus veriryhmämääritykseen käytettävien reagenssien vaihtoa koskevan eurooppalaisen sopimuksen voimaansaattamisesta](42.md) `42/1995`
+- [Asetus kudostyypitykseen käytettävien reagenssien vaihtoa koskevan eurooppalaisen sopimuksen voimaansaattamisesta](43.md) `43/1995`
+- [Asetus  terveydenhuollon valtakunnallisista henkilörekistereistä annetun asetuksen 10 §:n muuttamisesta](44.md) `44/1995`
+- [Laki Puolan kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen muuttamista koskevan pöytäkirjan eräiden määräysten hyväksymisestä](45.md) `45/1995`
+- [Asetus Puolan kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen muuttamista koskevan pöytäkirjan voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](46.md) `46/1995`
+- [Asetus arava\-asetuksen muuttamisesta](47.md) `47/1995`
+- [Valtioneuvoston päätös alioikeuksien velvollisuudesta antaa konkurssiasioista erinäisiä tietoja Tilastolliselle Päätoimistolle annetun valtioneuvoston päätöksen kumoamisesta](48.md) `48/1995`
+- [Valtioneuvoston päätös räjäytys\- ja louhintatyön järjestysohjeista annetun valtioneuvoston päätöksen muuttamisesta](49.md) `49/1995`
+- [Sisäasiainministeriön päätös pysäköintivirhemaksun korottamisesta](50.md) `50/1995`
+- [Opetusministeriön päätös ylioppilastutkintolautakunnan suoritteiden maksullisuudesta](51.md) `51/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](52.md) `52/1995`
+- [Kirkolliskokouksen päätös kirkon vaalijärjestyksen muuttamisesta](53.md) `53/1995`
+- [Asetus ympäristöministeriöstä](54.md) `54/1995`
+- [Laki ympäristöhallinnosta](55.md) `55/1995`
+- [Asetus Suomen ympäristökeskuksesta](56.md) `56/1995`
+- [Asetus alueellisista ympäristökeskuksista](57.md) `57/1995`
+- [Laki kuntien ympäristönsuojelun hallinnosta annetun lain 2 §:n muuttamisesta](58.md) `58/1995`
+- [Laki ympäristövaikutusten arviointimenettelystä annetun lain muuttamisesta](59.md) `59/1995`
+- [Asetus ympäristövaikutusten arviointimenettelystä annetun asetuksen muuttamisesta](60.md) `60/1995`
+- [Laki ympäristölupamenettelylain muuttamisesta](61.md) `61/1995`
+- [Asetus ympäristölupamenettelyasetuksen muuttamisesta](62.md) `62/1995`
+- [Laki jätelain muuttamisesta](63.md) `63/1995`
+- [Asetus jäteasetuksen muuttamisesta](64.md) `64/1995`
+- [Laki meluntorjuntalain muuttamisesta](65.md) `65/1995`
+- [Laki ilmansuojelulain muuttamisesta](66.md) `66/1995`
+- [Laki luonnonsuojelulain muuttamisesta](67.md) `67/1995`
+- [Laki muinaismuistolain muuttamisesta](68.md) `68/1995`
+- [Laki ulkoilulain muuttamisesta](69.md) `69/1995`
+- [Laki maastoliikennelain muuttamisesta](70.md) `70/1995`
+- [Laki rakennuslain 137 d §:n muuttamisesta](71.md) `71/1995`
+- [Laki maa\-aineslain muuttamisesta](72.md) `72/1995`
+- [Laki rakennussuojelulain muuttamisesta](73.md) `73/1995`
+- [Laki ulkomailla asuvien ja ulkomaisten yhteisöjen kiinteistönhankintojen valvonnasta annetun lain muuttamisesta](74.md) `74/1995`
+- [Laki kadun ja eräiden yleisten alueiden kunnossa\- ja puhtaanapidosta annetun lain 16 §:n muuttamisesta](75.md) `75/1995`
+- [Laki yleisistä vesi\- ja viemärilaitoksista annetun lain 17 §:n muuttamisesta](76.md) `76/1995`
+- [Laki ympäristönsuojelua edistäviin investointeihin myönnettävistä valtiontakauksista ja vientitakuista annetun lain 3 ja 4 §:n muuttamisesta](77.md) `77/1995`
+- [Laki Neuvostoliiton kanssa Saimaan ja Vuoksen juoksutussäännöstä tehdyn sopimuksen eräiden määräysten hyväksymisestä sekä sopimuksen soveltamisesta annetun lain muuttamisesta](78.md) `78/1995`
+- [Laki vesilain muuttamisesta](79.md) `79/1995`
+- [Asetus vesiasetuksen muuttamisesta](80.md) `80/1995`
+- [Asetus vesien suojelua koskevista ennakkotoimenpiteistä annetun asetuksen muuttamisesta](81.md) `81/1995`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain 8 §:n muuttamisesta](82.md) `82/1995`
+- [Laki terveydensuojelulain 18 ja 25 §:n muuttamisesta](83.md) `83/1995`
+- [Asetus terveydensuojeluasetuksen 7 §:n muuttamisesta](84.md) `84/1995`
+- [Laki torjunta\-ainelain 5 b §:n muuttamisesta](85.md) `85/1995`
+- [Asetus suojauskemikaaliasetuksen muuttamisesta](86.md) `86/1995`
+- [Asetus vaarallisten kemikaalien teollisesta käsittelystä ja varastoinnista annetun asetuksen muuttamisesta](87.md) `87/1995`
+- [Asetus vaarallisten jätteiden maan rajan ylittävien siirtojen ja käsittelyn valvontaa koskevan Baselin yleissopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta annetun asetuksen 2 §:n muuttamisesta](88.md) `88/1995`
+- [Laki saariston kehityksen edistämisestä annetun lain 12 §:n muuttamisesta](89.md) `89/1995`
+- [Laki patoturvallisuuslain muuttamisesta](90.md) `90/1995`
+- [Asetus patoturvallisuusasetuksen muuttamisesta](91.md) `91/1995`
+- [Laki poikkeuksellisten tulvien aiheuttamien vahinkojen korvaamisesta annetun lain 4 ja 5 §:n muuttamisesta](92.md) `92/1995`
+- [Asetus poikkeuksellisten tulvien aiheuttamien vahinkojen korvaamisesta](93.md) `93/1995`
+- [Laki veneliikennelain 3 a ja 3 b §:n muuttamisesta](94.md) `94/1995`
+- [Laki yksityisistä teistä annetun lain 3 ja 44 §:n muuttamisesta](95.md) `95/1995`
+- [Laki yhdyskuntien vesihuoltotoimenpiteiden avustamisesta annetun lain muuttamisesta](96.md) `96/1995`
+- [Asetus yhdyskuntien vesihuoltotoimenpiteiden avustamisesta](97.md) `97/1995`
+- [Laki oikeudesta yleisiin vesialueisiin annetun lain 4 §:n muuttamisesta](98.md) `98/1995`
+- [Laki ajoneuvojen siirtämisestä ja romuajoneuvojen hävittämisestä annetun lain 17 §:n muuttamisesta](99.md) `99/1995`
+- [Liikenneministeriön päätös  vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](100.md) `100/1995`
+- [Laki vammaisuuden perusteella järjestettävistä palveluista ja tukitoimista annetun lain muuttamisesta](101.md) `101/1995`
+- [Asetus  vammaisuuden perusteella järjestettävistä palveluista ja tukitoimista annetun asetuksen 4 ja 5 §:n muuttamisesta](102.md) `102/1995`
+- [Asetus pakolais\- ja siirtolaisuusasiain neuvottelukunnasta annetun asetuksen muuttamisesta](103.md) `103/1995`
+- [Valtioneuvoston päätös turvavarastointiohjelmasta vuonna 1995](104.md) `104/1995`
+- [Valtioneuvoston päätös eräitä vaarallisia aineita sisältävistä paristoista ja akuista](105.md) `105/1995`
+- [Opetusministeriön päätös eräistä maahanmuuttajien opetuksen erityisjärjestelyistä](106.md) `106/1995`
+- [Valtiovarainministeriön päätös valtiovarainministeriön hallinnonalan eräiden virkojen perustamisesta ja lakkauttamisesta](107.md) `107/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](108.md) `108/1995`
+- [Laki konkurssipesien hallinnon valvonnasta](109.md) `109/1995`
+- [Laki konkurssisäännön muuttamisesta](110.md) `110/1995`
+- [Asetus konkurssipesien hallinnon valvonnasta](111.md) `111/1995`
+- [Asetus siitä minkälaisia tietoja toimitsijamiesten on oikeudelle toimitettava konkurssipesän lopullisesta selvityksestä annetun asetuksen kumoamisesta](112.md) `112/1995`
+- [Laki yksityishenkilön velkajärjestelystä annetun lain muuttamisesta](113.md) `113/1995`
+- [Laki yrityksen saneerauksesta annetun lain muuttamisesta](114.md) `114/1995`
+- [Asetus yksityishenkilön velkajärjestelystä annetun asetuksen muuttamisesta](115.md) `115/1995`
+- [Laki kansaneläkelain 42 a ja 83 §:n muuttamisesta](116.md) `116/1995`
+- [Laki lapsen hoitotuesta annetun lain 4 §:n muuttamisesta](117.md) `117/1995`
+- [Laki vammaistukilain 4 §:n muuttamisesta](118.md) `118/1995`
+- [Laki eläkkeensaajien asumistukilain 7 §:n muuttamisesta](119.md) `119/1995`
+- [Laki sairausvakuutuslain 24 ja 68 §:n muuttamisesta](120.md) `120/1995`
+- [Laki kansaneläkelaitoksen järjestämästä kuntoutuksesta annetun lain muuttamisesta](121.md) `121/1995`
+- [Laki sosiaalihuoltolain muuttamisesta](122.md) `122/1995`
+- [Laki lastensuojelulain muuttamisesta](123.md) `123/1995`
+- [Laki kansanterveyslain muuttamisesta](124.md) `124/1995`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 18 §:n muuttamisesta](125.md) `125/1995`
+- [Laki erikoissairaanhoitolain muuttamisesta](126.md) `126/1995`
+- [Asetus  vuonna 1995 kertyvien sosiaaliturvamaksujen jakautumasta](127.md) `127/1995`
+- [Laki rangaistusten täytäntöönpanosta annetun asetuksen muuttamisesta](128.md) `128/1995`
+- [Laki tutkintavankeudesta annetun lain muuttamisesta](129.md) `129/1995`
+- [Asetus Suomen ulkomaanedustustojen sijainnista annetun asetuksen muuttamisesta](130.md) `130/1995`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Irakia ja Kuwaitia koskevaan päätökseen perustuvien velvoitusten täyttämisestä annetun asetuksen muuttamisesta](131.md) `131/1995`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Jugoslavian liittotasavaltaa \(Serbia ja Montenegro\) ja eräitä Kroatian tasavallan ja Bosnian ja Herzegovinan tasavallan alueita koskeviin päätöksiin perustuvien velvoitusten täyttämisestä annetun asetuksen muuttamisesta](132.md) `132/1995`
+- [Asetus ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta](133.md) `133/1995`
+- [Asetus teknologian kehittämiskeskuksesta annetun asetuksen muuttamisesta](134.md) `134/1995`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Savitaipaleen ja Suomenniemen kuntien välillä](135.md) `135/1995`
+- [Sosiaali\- ja terveysministeriön päätös  käymisteitse valmistetun enintään 4,7 tilavuusprosenttia etyylialkoholia sisältävän alkoholijuoman myyntipaikasta ja myyntitoiminnasta](136.md) `136/1995`
+- [Laki yleisistä teistä annetun lain muuttamisesta](137.md) `137/1995`
+- [Asetus raha\-arpa\- ja veikkauspelien ylijäämän käyttämisestä annetun asetuksen 2 §:n väliaikaisesta muuttamisesta](138.md) `138/1995`
+- [Asetus kauppatieteellisistä tutkinnoista](139.md) `139/1995`
+- [Asetus opintotukiasetuksen 3 §:n muuttamisesta](140.md) `140/1995`
+- [Asetus maaseutuelinkeinojen valituslautakunnasta](141.md) `141/1995`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Salon kaupungin ja Muurlan kunnan välillä](142.md) `142/1995`
+- [Laki taiteilijaprofessorin viroista ja valtion taiteilija\-apurahoista annetun lain muuttamisesta](143.md) `143/1995`
+- [Laki liikkuvasta kaupasta annetun lain kumoamisesta](144.md) `144/1995`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain 3 §:n 22 kohdan kumoamisesta](145.md) `145/1995`
+- [Laki arpajaislain 3 §:n muuttamisesta](146.md) `146/1995`
+- [Laki arpajaisverolain 2 §:n muuttamisesta](147.md) `147/1995`
+- [Asetus Sibelius\-Akatemian tutkinnoista](148.md) `148/1995`
+- [Asetus Tampereen yliopistosta annetun asetuksen 39 ja 41 §:n muuttamisesta](149.md) `149/1995`
+- [Asetus maatalousyrittäjien luopumistuesta annetun asetuksen muuttamisesta](150.md) `150/1995`
+- [Asetus oikeudesta hankkia maa\- ja metsätalousmaata annetun asetuksen muuttamisesta](151.md) `151/1995`
+- [Valtioneuvoston päätös oikeudesta hankkia maa\- ja metsätalousmaata annetun lain soveltamisesta](152.md) `152/1995`
+- [Valtioneuvoston päätös  apteekkimaksusta annettiin lain 2 §:n 1 momentissa mainittujen liikevaihtoryhmien sekä liikevaihdon alarajojen kohdilla olevien apteekkimaksun markkamäärien tarkistamisesta](153.md) `153/1995`
+- [Laki ulkomaalaislain muuttamisesta](154.md) `154/1995`
+- [Laki kansalaisuuslain muuttamisesta](155.md) `155/1995`
+- [Laki ulkomaalaisvirastosta](156.md) `156/1995`
+- [Asetus ulkomaalaisvirastosta](157.md) `157/1995`
+- [Asetus lääninhallitusasetuksen muuttamisesta](158.md) `158/1995`
+- [Asetus valtion kiinteistövarallisuuden hallinnosta](159.md) `159/1995`
+- [Asetus oikeudesta luovuttaa valtion maaomaisuutta ja tuloatuottavia oikeuksia annetun asetuksen muuttamisesta](160.md) `160/1995`
+- [Asetus teollisuusneuvostosta](161.md) `161/1995`
+- [Tasavallan Presidentin avoin kirje  valtioneuvostossa toimeenpannusta muutoksesta](162.md) `162/1995`
+- [Opetusministeriön päätös Helsingin juutalainen seurakunta \-nimisen uskonnollisen yhdyskunnan yhdyskuntajärjestyksen muutoksen merkitsemisestä uskonnollisten yhdyskuntien rekisteriin](163.md) `163/1995`
+- [Viihdelaitelaki](164.md) `164/1995`
+- [Asetus bingoasetuksen 4 §:n muuttamisesta](165.md) `165/1995`
+- [Ulkoasiainhallintoasetus](166.md) `166/1995`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- eläinproteiinin käytöstä märehtijöiden rehuna](167.md) `167/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](168.md) `168/1995`
+- [Laki maaseutuelinkeinolain muuttamisesta](169.md) `169/1995`
+- [Laki porotalouslain muuttamisesta](170.md) `170/1995`
+- [Laki luontaiselinkeinolain muuttamisesta](171.md) `171/1995`
+- [Asetus vuonna 1995 toimitettavissa kansanedustajain vaaleissa ennakkoäänestyspaikkoina olevista Suomen edustustoista annetun asetuksen muuttamisesta](172.md) `172/1995`
+- [Asetus ajoneuvojen katsastuksesta annetun asetuksen muuttamisesta](173.md) `173/1995`
+- [Asetus  toimenpiteistä tupakoinnin vähentämiseksi annetun asetuksen muuttamisesta](174.md) `174/1995`
+- [Asetus työllisyysasetuksen väliaikaisesta muuttamisesta](175.md) `175/1995`
+- [Liikenneministeriön päätös vesikuljetuskalustolainojen yleisistä ehdoista annetun liikenneministeriön päätöksen muuttamisesta](176.md) `176/1995`
+- [Liikenneministeriön päätös telemaksujen yleisistä perusteista annetun liikenneministeriön päätöksen muuttamisesta](177.md) `177/1995`
+- [Sosiaali\- ja terveysministeriön päätös  alkoholijuomien tuonnin rajoittamisesta eräissä tapauksissa annetun sosiaali\- ja terveysministeriön päätöksen kumoamisesta](178.md) `178/1995`
+- [Puolustusministeriön päätös puolustusvoimien valvonnassa tapahtuvassa vaarallisten aineiden kuljetuksissa vaadittavista ajoluvista](179.md) `179/1995`
+- [Puolustusministeriön päätös ohjusteknologian valvontajärjestelyn piiriin kuuluvan laitteiston ja teknologian rinnastamisesta puolustustarvikkeisiin annetun puolustusministeriön päätöksen 1 §:n muuttamisesta](180.md) `180/1995`
+- [Sosiaali\- ja terveysministeriön päätös  lääkärin perusterveydenhuollon lisäkoulutuksesta johtuviin kustannuksiin suoritettavan erityiskorvauksen perusteista vuonna 1995](181.md) `181/1995`
+- [Asetus asumistukiasetuksen 1 ja 2 §:n muuttamisesta](182.md) `182/1995`
+- [Eduskunnan päätös  kansaneläkelaitoksen valtuutettujen johtosäännön muuttamisesta](183.md) `183/1995`
+- [Valtiovarainministeriön päätös eräiden verojen kantoajoista ja kantoeristä](184.md) `184/1995`
+- [Korkeimman hallinto\-oikeuden päätös korkeimman hallinto\-oikeuden työjärjestyksen muuttamisesta](185.md) `185/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus  eräistä ministeriön päätöksistä](186.md) `186/1995`
+- [Asetus raha\-automaattiasetuksen muuttamisesta](187.md) `187/1995`
+- [Asetus luvan hankkimisesta eräiden huvitusten järjestämiseen ja peliautomaattien pitämiseen annetun asetuksen 5 §:n muuttamisesta](188.md) `188/1995`
+- [Asetus valtion virkojen muuttamisesta](189.md) `189/1995`
+- [Asetus ajoneuvojen katsastuksesta annetun asetuksen 38 §:n muuttamisesta](190.md) `190/1995`
+- [Valtioneuvoston päätös opetus\- ja kirjastotoimen perustamishankkeiden yksikköhinnoista annetun valtioneuvoston päätöksen muuttamisesta](191.md) `191/1995`
+- [Valtioneuvoston päätös ulkomaalaisen kelpoisuudesta valtion virkaan](192.md) `192/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](193.md) `193/1995`
+- [Laki naisten vapaaehtoisesta asepalveluksesta](194.md) `194/1995`
+- [Laki rikoslain 45 luvun 1 §:n muuttamisesta](195.md) `195/1995`
+- [Laki naisten ja miesten välisestä tasa\-arvosta annetun lain 2 §:n 3 momentin kumoamisesta](196.md) `196/1995`
+- [Laki puolustustarvikkeiden maastaviennistä ja kauttakuljetuksesta annetun lain muuttamisesta](197.md) `197/1995`
+- [Laki rehulain muuttamisesta](198.md) `198/1995`
+- [Asetus yleisistä teistä annetun asetuksen muuttamisesta](199.md) `199/1995`
+- [Asetus  sosiaali\- ja terveydenhuollon asiakasmaksuista annetunasetuksen väliaikaisesta muuttamisesta](200.md) `200/1995`
+- [Opetusministeriön päätös ulkomailla toimivien peruskoulua vastaavien yksityiskoulujen yksikköhintojen määräämisperusteista](201.md) `201/1995`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös nautojen ja sikojen maastaviennissä Suomesta Norjaan noudatettavista terveysvaatimuksista](202.md) `202/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](203.md) `203/1995`
+- [Laki Valtion Korjaamon nimen muuttamisesta nimeksi RASKONE](204.md) `204/1995`
+- [Laki eräiden elinkeinoalojen valtiontakauksista annetun lain muuttamisesta](205.md) `205/1995`
+- [Laki naisten ja miesten välisestä tasa\-arvosta annetun lain muuttamisesta](206.md) `206/1995`
+- [Laki eräitä julkisia yrityksiä koskevasta tiedonantovelvollisuudesta annetun lain muuttamisesta](207.md) `207/1995`
+- [Laki kaivoslain muuttamisesta](208.md) `208/1995`
+- [Asetus valtion teknillisestä tutkimuskeskuksesta annetun asetuksen muuttamisesta](209.md) `209/1995`
+- [Asetus ylioppilastutkintoasetuksen muuttamisesta](210.md) `210/1995`
+- [Asetus Lapin vajaatuottoisten metsien kunnostamisesta](211.md) `211/1995`
+- [Asetus ilmatieteen laitoksesta](212.md) `212/1995`
+- [Laki pakkokeinolain muuttamisesta](213.md) `213/1995`
+- [Asetus maatalous\-metsätieteellisistä tutkinnoista](214.md) `214/1995`
+- [Asetus teknillistieteellisistä tutkinnoista](215.md) `215/1995`
+- [Asetus teatteri\- ja tanssialan yliopistollisista tutkinnoista](216.md) `216/1995`
+- [Laki yksityisistä teistä annetun lain muuttamisesta](217.md) `217/1995`
+- [Laki öljysuojarahastosta annetun lain muuttamisesta](218.md) `218/1995`
+- [Laki jätelain muuttamisesta annetun lain 60 §:n 1 momentin kumoamisesta](219.md) `219/1995`
+- [Laki kemikaalilain muuttamisesta](220.md) `220/1995`
+- [Laki merensuojelulain muuttamisesta](221.md) `221/1995`
+- [Asetus ulkomaalaisasetuksen \(142/94\) muuttamisesta](222.md) `222/1995`
+- [Asetus kansalaisuusasetuksen \(699/85\) muuttamisesta](223.md) `223/1995`
+- [Asetus poliisin hallinnosta annetun asetuksen 18 §:n muuttamisesta](224.md) `224/1995`
+- [Asetus poliisiasetuksen muuttamisesta](225.md) `225/1995`
+- [Asetus lääninsyyttäjäasetuksen 1 §:n muuttamisesta](226.md) `226/1995`
+- [Laki tuloverolain muuttamisesta](227.md) `227/1995`
+- [Asetus eräiden EFTA\-valtioiden Euroopan unioniin liittymistä seuraavan kauden siirtymäjärjestelyistä tehdyn sopimuksen voimaansaattamisesta](228.md) `228/1995`
+- [Asetus vuonna 1995 toimitettavissa kansanedustajain vaaleissa ennakkoäänestyspaikkoina olevista Suomen Posti Oy:n toimipaikoista ja sen tilapäisistä ennakkoäänestyspaikoista sekä Ahvenanmaan postin toimipaikoista annetun asetuksen muuttamisesta](229.md) `229/1995`
+- [Valtioneuvoston päätös ympäristönsuojelua edistävien kehittämis\- ja kokeiluavustusten ehdoista](230.md) `230/1995`
+- [Sisäasiainministeriön päätös sisäasiainministeriön maksullisista suoritteista](231.md) `231/1995`
+- [Sisäasiainministeriön päätös ulkomaalaisviraston maksullisista suoritteista](232.md) `232/1995`
+- [Maa\- ja metsätalousministeriön päätös maanmittaustoimituksista perittävistä työaikakorvauksista sekä lohkomisista perittävistä pinta\- alakorvauksista 22 päivänä huhtikuuta 1994 annetun maa\- ja metsätalousministeriön päätöksen \(290/94\) muuttamisesta](233.md) `233/1995`
+- [Kauppa\- ja teollisuusministeriön päätös patentti\- ja rekisterihallituksen maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön päätöksen liitteenä olevan maksutaulukon 9 §:n muuttamisesta](234.md) `234/1995`
+- [Nuorisotyölaki](235.md) `235/1995`
+- [Totopeliasetus](236.md) `236/1995`
+- [Asetus valtion virkamiesasetuksen 1 ja 3 §:n muuttamisesta](237.md) `237/1995`
+- [Eduskunnan päätös  eduskunnan työjärjestyksen väliaikaisesta muuttamisesta](238.md) `238/1995`
+- [Eduskunnan päätös  valtiontilintarkastajain johtosäännön 2 §:n muuttamisesta](239.md) `239/1995`
+- [Ympäristöministeriön päätös alueellisen ympäristökeskuksen maksullisista suoritteista](240.md) `240/1995`
+- [Ympäristöministeriön päätös Suomen ympäristökeskuksen maksullisista suoritteista](241.md) `241/1995`
+- [Asetus valtiovarainministeriöstä annetun asetuksen 8 §:n muuttamisesta](242.md) `242/1995`
+- [Asetus kynnysarvot ylittävistä tavara\- ja palveluhankinnoista sekä rakennusurakoista](243.md) `243/1995`
+- [Asetus Euroopan talousalueesta tehdyssä sopimuksessa tarkoitetuista vesi\- ja energiahuollon, liikenteen ja teletoiminnan alalla toimivien yksiköiden hankinnoista annetun asetuksen muuttamisesta](244.md) `244/1995`
+- [Valtiovarainministeriön päätös tullilaitoksen suoritteiden maksullisuudesta ja maksuperusteista sekä suoritteista perittävistä maksuista annetun valtiovarainministeriön päätöksen muuttamisesta](245.md) `245/1995`
+- [Valtioneuvoston päätös alueellisten ympäristökeskusten toimialueiden rajoista ja toimipaikoista](246.md) `246/1995`
+- [SISÄASIAINMINISTERIÖN PÄÄTÖS SUOJELUPOLIISIN ENNALTA ESTÄVÄSSÄ TURVALLISUUSTYÖSSÄ NOUDATETTAVISTA YLEISISTÄ PERUSTEISTA](247.md) `247/1995`
+- [Opetusministeriön päätös maahanmuuttajien sekä saamenkielisten, romanikielisten ja vieraskielisten oppilaiden täydentävään opetukseen peruskoulussa ja lukiossa myönnettävän valtionavustuksen perusteista](248.md) `248/1995`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Halikon kunnan ja Salon kaupungin välillä](249.md) `249/1995`
+- [Puolustusministeriön päätös ohjusteknologian valvontajärjestelmän piiriin kuuluvan laitteiston ja teknologian rinnastamisesta puolustustarvikkeisiin annetun puolustusministeriön päätöksen 1 §:n muuttamisesta annetun puolustusministeriön päätöksen kumoamisesta](250.md) `250/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](251.md) `251/1995`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä annetun päätöksen muuttamisesta](252.md) `252/1995`
+- [Kolttalaki](253.md) `253/1995`
+- [Laki leimaverolain 30 §:n muuttamisesta](254.md) `254/1995`
+- [Laki ammattikorkeakouluopinnoista](255.md) `255/1995`
+- [Asetus ammattikorkeakouluopinnoista](256.md) `256/1995`
+- [Asetus ammattikorkeakoulujen yhteishakujärjestelmästä](257.md) `257/1995`
+- [Laki eräistä ammattikorkeakouluopinnoista annetun lain toimeenpanon edellyttämistä järjestelyistä](258.md) `258/1995`
+- [Asetus eräistä ammattikorkeakouluopintoja koskevan lainsäädännön toimeenpanoon liittyvistä järjestelyistä](259.md) `259/1995`
+- [Laki opintotukilain 3 §:n muuttamisesta](260.md) `260/1995`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](261.md) `261/1995`
+- [Asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen muuttamisesta](262.md) `262/1995`
+- [Laki nuorisoasteen koulutuksen ja ammattikorkeakoulujen kokeiluista annetun lain 28 §:n muuttamisesta](263.md) `263/1995`
+- [Asetus nuorisoasteen koulutuksen ja ammattikorkeakoulujen kokeiluista annetun asetuksen 31 §:n muuttamisesta](264.md) `264/1995`
+- [Asetus opetusministeriöstä annetun asetuksen 3 §:n muuttamisesta](265.md) `265/1995`
+- [Asetus naisten vapaaehtoisesta asepalveluksesta](266.md) `266/1995`
+- [Laki Suomen Hallitusmuodon 54 §:n muuttamisesta](267.md) `267/1995`
+- [Laki Korkeimmasta oikeudesta annetun lain 7 a §:n muuttamisesta](268.md) `268/1995`
+- [Laki sotilasoikeudenkäyntilain 3 §:n muuttamisesta](269.md) `269/1995`
+- [Laki Suomen Hallitusmuodon muuttamisesta](270.md) `270/1995`
+- [Laki valtiopäiväjärjestyksen muuttamisesta](271.md) `271/1995`
+- [Laki Suomesta Euroopan parlamenttiin valittavien edustajien vaaleista](272.md) `272/1995`
+- [Asetus työllisyysasetuksen muuttamisesta](273.md) `273/1995`
+- [Laki emolehmä\- ja uuhipalkkioiden kiintiöistä](274.md) `274/1995`
+- [Asetus taiteilijaprofessorin viroista ja valtion taiteilija\-apurahoista annetun asetuksen muuttamisesta](275.md) `275/1995`
+- [Asetus Suomenlinnan hoitokunnasta annetun asetuksen 5 §:n muuttamisesta](276.md) `276/1995`
+- [Sisäasiainministeriön päätös rajan määräämisestä eräiltä osin Vesilahden ja Viialan kuntien välillä sekä kuntajaon muuttamisesta Lempäälän, Vesilahden ja Viialan kuntien välillä](277.md) `277/1995`
+- [Valtiovarainministeriön päätös eräiden ulkomailla rekisteröityjen ajoneuvojen vapauttamisesta moottoriajoneuvoverosta tai veron alentamisesta](278.md) `278/1995`
+- [Maa\- ja metsätalousministeriön päätös nautaeläinten rekisteröinnistä ja merkitsemisestä](279.md) `279/1995`
+- [Laki kiinteistöverolain muuttamisesta](280.md) `280/1995`
+- [Ilmailulaki](281.md) `281/1995`
+- [Laki suuronnettomuuksien tutkinnasta annetun lain muuttamisesta](282.md) `282/1995`
+- [Asetus Ratahallintokeskuksesta](283.md) `283/1995`
+- [Laki korkolain muuttamisesta](284.md) `284/1995`
+- [Laki oikeudenkäymiskaaren 21 luvun 8 §:n muuttamisesta](285.md) `285/1995`
+- [Laki rahoitustarkastuslain 20 §:n muuttamisesta](286.md) `286/1995`
+- [Laki lukiolain 26 e §:n muuttamisesta](287.md) `287/1995`
+- [Laki aikuislukiolain 19 §:n muuttamisesta](288.md) `288/1995`
+- [Laki ammatillisten oppilaitosten oppilaiden opintososiaalisista eduista annetun lain 8 a §:n muuttamisesta](289.md) `289/1995`
+- [Laki maanmittausmaksusta annetun lain 11 §:n muuttamisesta](290.md) `290/1995`
+- [Laki uusjakojen tukemisesta annetun lain 7 ja 8 §:n muuttamisesta](291.md) `291/1995`
+- [Laki puutavaranmittauslain 42 §:n muuttamisesta](292.md) `292/1995`
+- [Laki luvanvaraisesta henkilöliikenteestä tiellä annetun lain 24 §:n muuttamisesta](293.md) `293/1995`
+- [Laki kuljetusten alueellisesta tukemisesta annetun lain 16 §:n muuttamisesta](294.md) `294/1995`
+- [Laki ulkomaanliikenteen kauppa\-alusluettelosta annetun lain 12 §:n muuttamisesta](295.md) `295/1995`
+- [Laki energia\-avustuksista annetun lain 7 §:n muuttamisesta](296.md) `296/1995`
+- [Laki yritystuesta annetun lain 28 ja 30 §:n muuttamisesta](297.md) `297/1995`
+- [Laki jätelain 33 §:n muuttamisesta](298.md) `298/1995`
+- [Laki asumisoikeustalolainojen korkotuesta annetun lain 13 §:n muuttamisesta](299.md) `299/1995`
+- [Laki vuokra\-asuntolainojen korkotuesta annetun lain 9 a ja 12 §:n muuttamisesta](300.md) `300/1995`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 16 §:n muuttamisesta](301.md) `301/1995`
+- [Laki erikoissairaanhoitolain 44 a §:n muuttamisesta](302.md) `302/1995`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain 47 §:n muuttamisesta](303.md) `303/1995`
+- [Laki kansalaisopistolain 16 §:n muuttamisesta](304.md) `304/1995`
+- [Laki valtionosuutta saavista liikunnan koulutuskeskuksista annetun lain 32 §:n muuttamisesta](305.md) `305/1995`
+- [Laki maaseutuelinkeinolain 27 §:n muuttamisesta](306.md) `306/1995`
+- [Laki turvavarastolain 9 §:n muuttamisesta](307.md) `307/1995`
+- [Laki kuntien suhdannetalletuksista annetun lain 8 §:n muuttamisesta](308.md) `308/1995`
+- [Laki kunnan talouden vakauttamisesta ja kuntaselvityksestä annetun lain 10 §:n muuttamisesta](309.md) `309/1995`
+- [Laki valtion lainanannosta ja valtiontakauksesta annetun lain 8 §:n muuttamisesta](310.md) `310/1995`
+- [Laki kansaneläkelain 39 b §:n muuttamisesta](311.md) `311/1995`
+- [Laki eläkkeensaajien asumistukilain 11 §:n muuttamisesta](312.md) `312/1995`
+- [Laki työntekijäin eläkelain 19 ja 19 d §:n muuttamisesta](313.md) `313/1995`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 10 §:n muuttamisesta](314.md) `314/1995`
+- [Laki valtion eläkelain 14 §:n muuttamisesta](315.md) `315/1995`
+- [Laki merimieseläkelain 8 ja 63 a §:n muuttamisesta](316.md) `316/1995`
+- [Laki yrittäjien eläkelain 12 §:n muuttamisesta](317.md) `317/1995`
+- [Laki maatalousyrittäjien eläkelain 12 §:n muuttamisesta](318.md) `318/1995`
+- [Laki eräiden työsuhteessa olevien taiteilijoiden ja toimittajien eläkelain 8 §:n muuttamisesta](319.md) `319/1995`
+- [Laki vakuutuskassalain 91 §:n muuttamisesta](320.md) `320/1995`
+- [Laki tapaturmavakuutuslain 60 a §:n muuttamisesta](321.md) `321/1995`
+- [Laki sotilasvammalain 6 c §:n muuttamisesta](322.md) `322/1995`
+- [Laki työttömyyskassalain 33 §:n muuttamisesta](323.md) `323/1995`
+- [Laki liikennevakuutuslain 12 a §:n muuttamisesta](324.md) `324/1995`
+- [Laki valtion perhe\-eläkelain 9 §:n muuttamisesta](325.md) `325/1995`
+- [Laki potilasvahinkolain 10 a §:n muuttamisesta](326.md) `326/1995`
+- [Laki vakuutustarkastuksen kustantamisesta annetun lain 3 §:n muuttamisesta](327.md) `327/1995`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 44 §:n muuttamisesta](328.md) `328/1995`
+- [Liikenneministeriön päätös lääninhallitusten kautta suunnattavasta joukkoliikennepalvelujen valtion rahoituksesta](329.md) `329/1995`
+- [Liikenneministeriön päätös  vaarallisten aineiden kuljettamisesta rautatielläannetun liikenneministeriön päätöksen muuttamisesta](330.md) `330/1995`
+- [Työministeriön päätös työhallinnon maksullisista suoritteista](331.md) `331/1995`
+- [Maa\- ja metsätalousministeriön päätös emolehmä\- ja uuhipalkkioiden kiintiöistä](332.md) `332/1995`
+- [Ympäristöministeriön päätös alueellisen ympäristökeskuksen maksullisista suoritteista annetun ympäristöministeriön päätöksen muuttamisesta](333.md) `333/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](334.md) `334/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](335.md) `335/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](336.md) `336/1995`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](337.md) `337/1995`
+- [Laki  valtiopäiväjärjestyksen muuttamisesta](338.md) `338/1995`
+- [Laki  valtakunnanoikeudesta annetun lain 1 §:n muuttamisesta](339.md) `339/1995`
+- [Laki  Yleisradio Oy:stä annetun lain 5 §:n muuttamisesta](340.md) `340/1995`
+- [Laki  Eduskunnan kirjastosta annetun lain 3 §:n muuttamisesta](341.md) `341/1995`
+- [Eduskunnan päätös  eduskunnan työjärjestyksen muuttamisesta](342.md) `342/1995`
+- [Eduskunnan päätös  eduskunnan vaalisäännön muuttamisesta](343.md) `343/1995`
+- [Eduskunnan päätös  eduskunnan tilisäännön 19 §:n muuttamisesta](344.md) `344/1995`
+- [Valtioneuvoston päätös lukion tuntijaosta annetun valtioneuvoston päätöksen muuttamisesta](345.md) `345/1995`
+- [Valtioneuvoston päätös peruskoulun tuntijaosta annetun valtioneuvoston päätöksen muuttamisesta](346.md) `346/1995`
+- [Laki arvonlisäverolain 46 a §:n kumoamisesta](347.md) `347/1995`
+- [Laki verotuslain muuttamisesta](348.md) `348/1995`
+- [Laki ennakkoperintälain muuttamisesta](349.md) `349/1995`
+- [Laki arvonlisäverolain muuttamisesta](350.md) `350/1995`
+- [Laki verohallintolain muuttamisesta](351.md) `351/1995`
+- [Laki tuloverolain 82 §:n muuttamisesta](352.md) `352/1995`
+- [Laki valtiontilintarkastajien ja valtiontalouden tarkastusviraston oikeudesta tarkastaa eräitä Suomen ja Euroopan yhteisöjen välisiä varainsiirtoja](353.md) `353/1995`
+- [Asetus valtiontilintarkastajien ja valtiontalouden tarkastusviraston oikeudesta tarkastaa eräitä Suomen ja Euroopan yhteisöjen välisiä varainsiirtoja annetun lain voimaantulosta](354.md) `354/1995`
+- [Laki Euroopan yhteisön maidon ja maitotuotteiden kiintiöjärjestelmän täytäntöönpanosta](355.md) `355/1995`
+- [Laki Siemenperunakeskuksen tuotantoalueella noudatettavista perunanviljelyn vaatimuksista](356.md) `356/1995`
+- [Laki työttömyysturvalain 27 a §:n muuttamisesta](357.md) `357/1995`
+- [Laki veroasioissa annettavaa keskinäistä virka\-apua koskevan yleissopimuksen eräiden määräysten hyväksymisestä](358.md) `358/1995`
+- [Asetus veroasioissa annettavaa keskinäistä virka\-apua koskevan yleissopimuksen voimaansaattamisesta ja yleissopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](359.md) `359/1995`
+- [Asetus Venäjän kanssa yhteistyöstä posti\- ja teleliikenteen alalla tehdyn sopimuksen voimaansaattamisesta](360.md) `360/1995`
+- [Elintarvikelaki](361.md) `361/1995`
+- [Laki elintarvikevirastosta annetun lain 3 §:n kumoamisesta](362.md) `362/1995`
+- [Laki potilasvahinkolain muuttamisesta](363.md) `363/1995`
+- [Laki eräiden potilasvahinkokorvausten sitomisesta palkkatasoon annetun lain 3 §:n muuttamisesta](364.md) `364/1995`
+- [Kuntalaki](365.md) `365/1995`
+- [Asetus valmismatkaliikkeistä](366.md) `366/1995`
+- [Asetus kuluttajavirastosta annetun asetuksen muuttamisesta](367.md) `367/1995`
+- [Laki kielilain muuttamisesta](368.md) `368/1995`
+- [Laki merilain muuttamisesta](369.md) `369/1995`
+- [Laki alusturvallisuuden valvonnasta](370.md) `370/1995`
+- [Laki aluksista aiheutuvan vesien pilaantumisen ehkäisemisestä annetun lain 5 §:n muuttamisesta](371.md) `371/1995`
+- [Laki työntekijäin eläkelain 1 §:n muuttamisesta](372.md) `372/1995`
+- [Laki yrittäjien eläkelain 1 §:n muuttamisesta](373.md) `373/1995`
+- [Laki tapaturmavakuutuslain 2 §:n muuttamisesta](374.md) `374/1995`
+- [Laki työnantajan sosiaaliturvamaksun suorittamisesta urheilemisesta saaduista palkkioista](375.md) `375/1995`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](376.md) `376/1995`
+- [Geenitekniikkalaki](377.md) `377/1995`
+- [Laki yksityisistä teistä annetun lain muuttamisesta](378.md) `378/1995`
+- [Asetus Porkkalan saariston luonnonsuojelualueesta](379.md) `379/1995`
+- [Asetus Espoonlahden luonnonsuojelualueesta](380.md) `380/1995`
+- [Asetus Paippisten luonnonsuojelualueesta](381.md) `381/1995`
+- [Asetus Langinkosken luonnonsuojelualueesta](382.md) `382/1995`
+- [Asetus Komion luonnonsuojelualueesta](383.md) `383/1995`
+- [Ympäristöministeriön päätös alueiden liittämisestä Helvetinjärven kansallispuistoon](384.md) `384/1995`
+- [Ympäristöministeriön päätös alueiden liittämisestä Tammisaaren saariston kansallispuistoon](385.md) `385/1995`
+- [Sähkömarkkinalaki](386.md) `386/1995`
+- [Laki sähkömarkkinakeskuksesta](387.md) `387/1995`
+- [Asetus kauppakamariasetuksen muuttamisesta](388.md) `388/1995`
+- [Laki vakuutusyhtiölain muuttamisesta](389.md) `389/1995`
+- [Laki työntekijäin eläkelain muuttamisesta](390.md) `390/1995`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](391.md) `391/1995`
+- [Laki eräiden työsuhteessa olevien taiteilijoiden ja toimittajien eläkelain muuttamisesta](392.md) `392/1995`
+- [Laki yrittäjien eläkelain muuttamisesta](393.md) `393/1995`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](394.md) `394/1995`
+- [Laki merimieseläkelain muuttamisesta](395.md) `395/1995`
+- [Laki tapaturmavakuutuslain 29 §:n muuttamisesta](396.md) `396/1995`
+- [Laki vakuutuksenvälittäjistä annetun lain muuttamisesta](397.md) `397/1995`
+- [Laki ulkomaisista vakuutusyhtiöistä](398.md) `398/1995`
+- [Laki eräistä vakuutusmaksuista suoritettavasta verosta annetun lain 2 §:n muuttamisesta](399.md) `399/1995`
+- [Laki palosuojelumaksusta annetun lain 1 §:n muuttamisesta](400.md) `400/1995`
+- [Laki vakuutustarkastuksen kustantamisesta annetun lain 1 §:n muuttamisesta](401.md) `401/1995`
+- [Laki pakkokeinolain muuttamisesta](402.md) `402/1995`
+- [Laki esitutkintalain 43 §:n muuttamisesta](403.md) `403/1995`
+- [Laki oikeudenkäynnin julkisuudesta annetun lain 2 ja 5 a §:n muuttamisesta](404.md) `404/1995`
+- [Laki teletoimintalain 29 §:n muuttamisesta](405.md) `405/1995`
+- [Laki kansainvälisestä oikeusavusta rikosasioissa annetun lain 23 §:n muuttamisesta](406.md) `406/1995`
+- [Asetus esitutkinnasta ja pakkokeinoista annetun asetuksen muuttamisesta](407.md) `407/1995`
+- [Asetus hovioikeusasetuksen 14 §:n muuttamisesta](408.md) `408/1995`
+- [Asetus puolustustarvikkeiden maastaviennistä ja kauttakuljetuksesta](409.md) `409/1995`
+- [Nuorisotyöasetus](410.md) `410/1995`
+- [Asetus Pohjoismaiden välillä pääsystä korkeampaan koulutukseen tehdyn sopimuksen voimaansaattamisesta](411.md) `411/1995`
+- [Valtioneuvoston päätös eräistä maa\- ja puutarhataloustuottajille vuodelta 1995 maksettavista tuista annetun valtioneuvoston päätöksen muuttamisesta](412.md) `412/1995`
+- [Valtioneuvoston päätös maa\- ja puutarhatalouden harjoittajille maksettavasta pohjoisesta tuesta](413.md) `413/1995`
+- [Valtioneuvoston päätös maidon tuotantokiintiöiden vähentämisestä maksettavista korvauksista](414.md) `414/1995`
+- [Ympäristöministeriön päätös ympäristöministeriön maksullisista suoritteista annetun ympäristöministeriön päätöksen muuttamisesta](415.md) `415/1995`
+- [Laki lääkelain muuttamisesta](416.md) `416/1995`
+- [Asetus  naisten ja miesten välisestä tasa\-arvosta annetussa laissa säädettyjen hyvityksen markkamäärien tarkistamisesta annetun asetuksen kumoamisesta](417.md) `417/1995`
+- [Asetus  kansaneläkeasetuksen 62 a §:n muuttamisesta](418.md) `418/1995`
+- [Asetus  kansaneläkelain 42 a §:ssä tarkoitetuista hoitolaitoksista annetun asetuksen kumoamisesta](419.md) `419/1995`
+- [Asetus  sairausvakuutusasetuksen muuttamisesta](420.md) `420/1995`
+- [Asetus  eläkkeensaajien asumistuki asetuksen muuttamisesta](421.md) `421/1995`
+- [Asetus  kansaneläkelaitoksen järjestämästä kuntoutuksesta annetun asetuksen 3§:n muuttamisesta](422.md) `422/1995`
+- [Asetus  lääkekorvauslautakunnasta annetun asetuksen 6 §:n muuttamisesta](423.md) `423/1995`
+- [Valtioneuvoston päätös  vaikeista ja pitkäaikaisista sairauksista ja niiden hoitoon käytettävistä lääkkeistä, joista sairausvakuutuslain mukaan korvataan100 tai 75 prosenttia säädetyn kiinteän omavastuun ylittävältä osalta annetun valtioneuvoston päätöksen 1 ja 2 §:n muuttamisesta](424.md) `424/1995`
+- [Valtioneuvoston päätös  vaikeista sairauksista ja niiden hoitoon käytettävistä kliinisistä ravintovalmisteista, joihin suoritetaan sairausvakuutuslain mukaista korvausta annetun valtioneuvoston päätöksen 1 ja 2 §:n muuttamisesta](425.md) `425/1995`
+- [Asetus  lääkeasetuksen muuttamisesta](426.md) `426/1995`
+- [Laki peruskoululain muuttamisesta](427.md) `427/1995`
+- [Laki lukiolain muuttamisesta](428.md) `428/1995`
+- [Laki aikuislukiolain muuttamisesta](429.md) `429/1995`
+- [Laki Steiner\-koulusta annetun lain 6 b ja 8 §:n muuttamisesta](430.md) `430/1995`
+- [Laki steinerpedagogisista erityiskouluista annetun lain 5 c ja 5 d §:n muuttamisesta](431.md) `431/1995`
+- [Laki ammatillisista oppilaitoksista annetun lain 24 ja 28 §:n muuttamisesta](432.md) `432/1995`
+- [Asetus opetushallituksesta annetun asetuksen muuttamisesta](433.md) `433/1995`
+- [Asetus ammattikasvatushallinnon koulutuskeskuksesta annetun asetuksen muuttamisesta](434.md) `434/1995`
+- [Asetus Heinolan kurssikeskuksesta annetun asetuksen 3 §:n muuttamisesta](435.md) `435/1995`
+- [Asetus peruskouluasetuksen 124 a §:n muuttamisesta](436.md) `436/1995`
+- [Asetus lukioasetuksen 97 a §:n muuttamisesta](437.md) `437/1995`
+- [Asetus kuulovammaisten ja näkövammaisten sekä liikuntavammaisten kouluista annetun asetuksen muuttamisesta](438.md) `438/1995`
+- [Asetus Steiner\-koulusta annetun asetuksen 21 §:n muuttamisesta](439.md) `439/1995`
+- [Asetus ammatillisista opettajankoulutuslaitoksista annetun asetuksen 19 ja 24 §:n muuttamisesta](440.md) `440/1995`
+- [Asetus saamelaisalueen ammatillisesta koulutuskeskuksesta annetun asetuksen 12 ja 14 a §:n muuttamisesta](441.md) `441/1995`
+- [Asetus museovirastosta annetun asetuksen muuttamisesta](442.md) `442/1995`
+- [Asetus sähkömarkkinakeskuksesta annetun lain voimaanpanosta](443.md) `443/1995`
+- [Asetus sähkömarkkinakeskuksesta](444.md) `444/1995`
+- [Asetus valtion virkamiesasetuksen 1 §:n muuttamisesta](445.md) `445/1995`
+- [Laki tekijänoikeuslain muuttamisesta](446.md) `446/1995`
+- [Laki oikeudesta valokuvaan annetun lain kumoamisesta](447.md) `447/1995`
+- [Asetus Matkailun edistämiskeskuksesta annetun asetuksen muuttamisesta](448.md) `448/1995`
+- [Valtioneuvoston päätös alusten lastauksessa ja purkamisessa noudatettavista järjestysohjeista annetun valtioneuvoston päätöksen muuttamisesta](449.md) `449/1995`
+- [Opetusministeriön päätös ortodoksisen kirkkokunnan kirkollishallituksen suoritteiden maksullisuudesta](450.md) `450/1995`
+- [Laki vakuutusyhdistyslain muuttamisesta](451.md) `451/1995`
+- [Asetus  vakuutusyhdistyksen toimintapääomaan luettavista eristä](452.md) `452/1995`
+- [Asetus  vakuutusyhdistyksen vastuuvelan laskentaperiaatteista](453.md) `453/1995`
+- [Asetus  liikennevakuutusasetuksen muuttamisesta](454.md) `454/1995`
+- [Asetus  asetuksen, joka sisältää liikennevakuutuskeskuksen säännöt, muuttamisesta](455.md) `455/1995`
+- [Asetus  maahan tilapäistä käyttöä varten tuotujen moottoriajoneuvojen liikennevakuutukseen liittyvistä tullilaitoksen tehtävistä](456.md) `456/1995`
+- [Asetus oikeusministeriöstä](457.md) `457/1995`
+- [Asetus vankeinhoitolaitoksesta annetun asetuksen muuttamisesta](458.md) `458/1995`
+- [Asetus  raittiustyöasetuksen 6 §:n muuttamisesta](459.md) `459/1995`
+- [Asetus alkoholijuomista ja väkiviinasta annetun asetuksen muuttamisesta](460.md) `460/1995`
+- [Asetus  ensivakuutusliikettä harjoittavan vakuutusyhtiön vastuuvelan katteesta](461.md) `461/1995`
+- [Asetus vakuutusyhtiön toimintapääomaan luettavista eristä](462.md) `462/1995`
+- [Asetus vakuutusyhtiön vastuuvelan laskentaperiaatteista](463.md) `463/1995`
+- [Asetus vakuutusyhtiön vakuutusmatemaatikosta](464.md) `464/1995`
+- [Asetus palosuojelumaksusta annetun lain toimeenpanosta annetun asetuksen muuttamisesta](465.md) `465/1995`
+- [Asetus kirjanpitoasetuksen 11 §:n muuttamisesta](466.md) `466/1995`
+- [Asetus vakuutuskannan luovuttamisesta ja vastaanottamisesta annetun asetuksen kumoamisesta](467.md) `467/1995`
+- [Asetus ajokorttiasetuksen muuttamisesta](468.md) `468/1995`
+- [Asetus eräiden kasvien rauhoittamisesta annetun asetuksen 5 §:n muuttamisesta](469.md) `469/1995`
+- [Puolustusministeriön päätös puolustustarvikkeiden maastaviennistä ja kauttakuljetuksesta annetun asetuksen täytäntöönpanosta](470.md) `470/1995`
+- [Laki vesilain muuttamisesta](471.md) `471/1995`
+- [Asetus Amerikan Yhdysvaltain kanssa tehdyn lentoliikennettä koskevan pöytäkirjan muuttamisesta tehdyn sopimuksen voimaansaattamisesta](472.md) `472/1995`
+- [Asetus majoitus\- ja ravitsemisliikkeistä annetun asetuksen muuttamisesta](473.md) `473/1995`
+- [Valtioneuvoston päätös puolustustarvikkeiden maastavientiä ja kauttakuljetusta koskevista yleisistä suuntaviivoista](474.md) `474/1995`
+- [Valtioneuvoston päätös MAATALOUSPERÄISTEN RAAKA\-AINEIDEN JA JALOSTEIDEN VARASTOJEN ARVONALENTUMISEN AIHEUTTAMAN TAPPION KORVAAMISESTA ELINKEINONHARJOITTAJILLE](475.md) `475/1995`
+- [Valtioneuvoston päätös muussa kuin työssä käytettäväksi tarkoitettuja koneita ja henkilösuojaimia koskevista vaatimuksista](476.md) `476/1995`
+- [Kauppa\- ja teollisuusministeriön päätös ravitsemisliikkeiden aukioloaikojen poikkeuksista annetun kauppa\- ja teollisuusministeriön päätöksen kumoamisesta](477.md) `477/1995`
+- [Kauppa\- ja teollisuusministeriön päätös ylläpidettävistä kansallisista mittanormaaleista](478.md) `478/1995`
+- [Sosiaali\- ja terveysministeriön päätös yliopistollista sairaalaa ylläpitävien kuntayhtymien erityiskorvauksen perusteista vuonna 1995](479.md) `479/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](480.md) `480/1995`
+- [Laki asuinhuoneiston vuokrauksesta](481.md) `481/1995`
+- [Laki liikehuoneiston vuokrauksesta](482.md) `482/1995`
+- [Laki asunto\-osakeyhtiölain muuttamisesta](483.md) `483/1995`
+- [Laki avioliittolain 24 §:n 2 momentin kumoamisesta](484.md) `484/1995`
+- [Laki indeksiehdon käytön rajoittamisesta annetun lain 2 §:n muuttamisesta](485.md) `485/1995`
+- [Asetus arkeologisen perinnön suojelua koskevan tarkistetun eurooppalaisen yleissopimuksen voimaansaattamisesta](486.md) `486/1995`
+- [Asetus Vietnamin kanssa taloudellisesta, tieteellisestä, teollisesta, teknologisesta ja kaupallisesta yhteistyöstä tehdyn sopimuksen voimaansaattamisesta](487.md) `487/1995`
+- [Valtioneuvoston päätös eräiden poliisipiirien uudelleen järjestämisestä](488.md) `488/1995`
+- [Valtioneuvoston päätös laserlaitteista ja niiden tarkastuksesta annetun valtioneuvoston päätöksen muuttamisesta](489.md) `489/1995`
+- [Maa\- ja metsätalousministeriön päätös Suomen ja Ruotsin vastavuoroisista kalastusoikeuksista Itämerellä vuonna 1995](490.md) `490/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](491.md) `491/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](492.md) `492/1995`
+- [Poliisilaki](493.md) `493/1995`
+- [Laki eläinsuojelulain 5 ja 13 §:n muuttamisesta](494.md) `494/1995`
+- [Laki tapaturmavakuutuslain 39 §:n muuttamisesta](495.md) `495/1995`
+- [Laki rikoslain muuttamisesta](496.md) `496/1995`
+- [Laki pakkokeinolain 7 luvun 1 §:n muuttamisesta](497.md) `497/1995`
+- [Laki esitutkintalain muuttamisesta](498.md) `498/1995`
+- [Laki järjestyksen pitämisestä joukkoliikenteessä annetun lain 3 §:n muuttamisesta](499.md) `499/1995`
+- [Laki joukkoliikenteen tarkastusmaksusta annetun lain 11 §:n muuttamisesta](500.md) `500/1995`
+- [Laki julkisista huvitilaisuuksista annetun lain 11 §:n muuttamisesta](501.md) `501/1995`
+- [Laki päihtyneiden käsittelystä annetun lain 1 ja 4 §:n muuttamisesta](502.md) `502/1995`
+- [Laki rajavartiolaitoksesta annetun lain muuttamisesta](503.md) `503/1995`
+- [Laki puolustusvoimien virka\-avusta poliisille annetun lain 6 §:n muuttamisesta](504.md) `504/1995`
+- [Laki tullilain 17 §:n muuttamisesta](505.md) `505/1995`
+- [Laki hallintomenettelylain 1 §:n muuttamisesta](506.md) `506/1995`
+- [Laki yleisistä kokouksista annetun lain 8 ja 9 §:n muuttamisesta](507.md) `507/1995`
+- [Laki poliisin hallinnosta annetun lain 2 §:n muuttamisesta](508.md) `508/1995`
+- [Laki poliisin henkilörekistereistä](509.md) `509/1995`
+- [Laki passilain 19 a §:n muuttamisesta](510.md) `510/1995`
+- [Valtioneuvoston päätös eräiden maatilatalouden luottojen kohdennetusta vakauttamisesta annetun valtioneuvoston päätöksen 9 §:n muuttamisesta](511.md) `511/1995`
+- [Sosiaali\- ja terveysministeriön päätös  lääkelaitoksen maksullisista suoritteista annetun päätöksen muuttamisesta](512.md) `512/1995`
+- [Liikenneministeriön päätös teletoiminnan yhdysliikenteestä annetun päätöksen muuttamisesta](513.md) `513/1995`
+- [Maa\- ja metsätalousministeriön päätös elintarvikehygieenisen laadun turvaamisesta ja eläintautien leviämisen ehkäisemisestä Suomen ja muiden Euroopan talousalueeseen kuuluvien valtioiden välillä tapahtuvan lihan ja lihatuotteiden maahantuonnin ja maastaviennin yhteydessä annetun maa\- ja metsätalousministeriön päätöksen 13 §:n muuttamisesta](514.md) `514/1995`
+- [Suomen Pankin ilmoitus vahvistetusta viitekorosta ja viivästyskorosta](515.md) `515/1995`
+- [Laki musiikkioppilaitoksista](516.md) `516/1995`
+- [Asetus teologisista tutkinnoista](517.md) `517/1995`
+- [Sähkömarkkina\-asetus](518.md) `518/1995`
+- [Kauppa\- ja teollisuusministeriön päätös KHT\- ja HTM\-tutkintoihin vaadittavasta käytännön kokemuksesta](519.md) `519/1995`
+- [Sosiaali\- ja terveysministeriön päätös  eräille ulkomaalaisille vapaaehtoisille rintamasotilaille maksettavasta rintama\-avustuksesta](520.md) `520/1995`
+- [Laki tieliikennelain muuttamisesta](521.md) `521/1995`
+- [Asetus valtiokonttorin varhaiseläkelautakunnasta annetun asetuksen muuttamisesta](522.md) `522/1995`
+- [Asetus valtion virkamiesten eroraha\-asetuksen muuttamisesta](523.md) `523/1995`
+- [Asetus kansainvälisen henkilövaihdon keskuksesta annetun asetuksen muuttamisesta](524.md) `524/1995`
+- [Asetus työllisyysasetuksen muuttamisesta](525.md) `525/1995`
+- [Valtioneuvoston päätös asuinrakennusten ja asuntojen korjaustoimintaan myönnettävien avustusten jakoperusteista](526.md) `526/1995`
+- [Valtioneuvoston päätös valtion virkamiesten erorahan suuruudesta annetun valtioneuvoston päätöksen muuttamisesta](527.md) `527/1995`
+- [Valtioneuvoston päätös työllisyyspoliittisesta rakennetuesta annetun valtioneuvoston päätöksen kumoamisesta](528.md) `528/1995`
+- [Valtioneuvoston päätös avustuksista taloudellisissa vaikeuksissa oleville vuokrataloille](529.md) `529/1995`
+- [Valtioneuvoston päätös perunanviljelijälle maksettavasta kansallisesta tuesta](530.md) `530/1995`
+- [Valtioneuvoston päätös nurmikasvien siementuotannon kansallisesta tuesta](531.md) `531/1995`
+- [Maa\- ja metsätalousministeriön päätös erityisviitemäärän myöntämisestä eräille maidon ja maitotuotteiden tuottajille](532.md) `532/1995`
+- [Maa\- ja metsätalousministeriön päätös meijerimaidon viitemäärien siirtämisestä](533.md) `533/1995`
+- [Laki Turkin kanssa tehdyn sijoitusten molemminpuolista edistämistä ja suojelua koskevan sopimuksen eräiden määräysten hyväksymisestä](534.md) `534/1995`
+- [Asetus Turkin kanssa tehdyn sijoitusten molemminpuolista edistämistä ja suojelua koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](535.md) `535/1995`
+- [Asetus sovittelua ja välitystä ETYKin yhteydessä koskevan yleissopimuksen voimaansaattamisesta](536.md) `536/1995`
+- [Asetus urheilijoiden eläketurvan ja tapaturmaturvan järjestämisestä](537.md) `537/1995`
+- [Asetus työttömyysturvalain täytäntöönpanosta annetun asetuksen muuttamisesta](538.md) `538/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](539.md) `539/1995`
+- [Maakaari](540.md) `540/1995`
+- [Laki maakaaren voimaanpanosta](541.md) `541/1995`
+- [Laki avioliittolain 38 ja 39 §:n muuttamisesta](542.md) `542/1995`
+- [Laki määräajasta velkomisasioissa sekä julkisesta haasteesta velkojille annetun asetuksen 6 ja 13 §:n muuttamisesta](543.md) `543/1995`
+- [Laki asiakirjain kuolettamisesta annetun lain muuttamisesta](544.md) `544/1995`
+- [Laki etuostolain 2 ja 19 §:n muuttamisesta](545.md) `545/1995`
+- [Laki oikeudesta hankkia maa\- ja metsätalousmaata annetun lain 8 §:n muuttamisesta](546.md) `546/1995`
+- [Laki lainhuuto\- ja kiinnitysrekisteristä annetun lain muuttamisesta](547.md) `547/1995`
+- [Laki maanvuokralain muuttamisesta](548.md) `548/1995`
+- [Laki kuluttajavalituslautakunnasta annetun lain muuttamisesta](549.md) `549/1995`
+- [Laki määräyksiä välirajasta vedessä ja vesialueen jaosta sisältävän lain muuttamisesta](550.md) `550/1995`
+- [Laki ulosottolain muuttamisesta](551.md) `551/1995`
+- [Laki konkurssisäännön 10 §:n muuttamisesta](552.md) `552/1995`
+- [Laki kiinteistötoimituksessa tapahtuvasta lunastamisesta](553.md) `553/1995`
+- [Kiinteistönmuodostamislaki](554.md) `554/1995`
+- [Laki yksityisistä teistä annetun lain muuttamisesta](555.md) `555/1995`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain muuttamisesta](556.md) `556/1995`
+- [Laki kunnan kiinteistöinsinööristä](557.md) `557/1995`
+- [Laki kiinteistötoimitusmaksusta](558.md) `558/1995`
+- [Laki kiinteistörekisterilain muuttamisesta](559.md) `559/1995`
+- [Laki maaseutuelinkeinolain 38 ja 43 §:n muuttamisesta](560.md) `560/1995`
+- [Laki kaivoslain muuttamisesta](561.md) `561/1995`
+- [Laki kalastuslain muuttamisesta](562.md) `562/1995`
+- [Laki muinaismuistolain 5 §:n muuttamisesta](563.md) `563/1995`
+- [Laki uusjakojen tukemisesta annetun lain 4 ja 6 §:n muuttamisesta](564.md) `564/1995`
+- [Laki valtion osanotosta eräiden maa\- ja vesirakennustöiden kustannuksiin annetun lain 4 §:n muuttamisesta](565.md) `565/1995`
+- [Laki yhteisaluelain 8 ja 10 §:n muuttamisesta](566.md) `566/1995`
+- [Laki vesistöhankkeiden johdosta suoritettavista tilusjärjestelyistä annetun lain muuttamisesta](567.md) `567/1995`
+- [Laki eräistä vesitilusjärjestelyistä annetun lain muuttamisesta](568.md) `568/1995`
+- [Asetus opintotukiasetuksen 12 §:n muuttamisesta](569.md) `569/1995`
+- [Tasavallan Presidentin avoin kirje  valtioneuvoston vaihdoksesta](570.md) `570/1995`
+- [Valtiovarainministeriön päätös vuoden 1995 kiinteistöveron eräpäivistä](571.md) `571/1995`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös eläintautien vastustamiseksi suoritettavista tarkastuksista Euroopan yhteisön sisämarkkinoilla](572.md) `572/1995`
+- [Asetus ajoneuvoveroasetuksen muuttamisesta](573.md) `573/1995`
+- [Tekijänoikeusasetus](574.md) `574/1995`
+- [Asetus tekijänoikeuslain soveltamisesta eräissä tapauksissa Euroopan talousalueeseen kuuluvista valtioista peräisin oleviin suojan kohteisiin](575.md) `575/1995`
+- [Asetus kasvatustieteellisen alan tutkinnoista ja opettajankoulutuksesta](576.md) `576/1995`
+- [Asetus Saaristomeren kansallispuistosta annetun asetuksen 7 §:n 2 momentin muuttamisesta](577.md) `577/1995`
+- [Laki rikoslain muuttamisesta](578.md) `578/1995`
+- [Laki Suomen Hallitusmuodon 47 §:n muuttamisesta](579.md) `579/1995`
+- [Laki valtiopäiväjärjestyksen muuttamisesta](580.md) `580/1995`
+- [Laki tasavallan presidentin vaalista annetun lain 31 §:n muuttamisesta](581.md) `581/1995`
+- [Laki pakkokeinolain 1 luvun 9 §:n muuttamisesta](582.md) `582/1995`
+- [Laki rangaistusten täytäntöönpanosta annetun lain 2 luvun 11 a §:n muuttamisesta](583.md) `583/1995`
+- [Laki nuorista rikoksentekijöistä annetun lain 27 §:n muuttamisesta](584.md) `584/1995`
+- [Laki oikeudenkäymiskaaren muuttamisesta](585.md) `585/1995`
+- [Laki hallintomenettelylain muuttamisesta](586.md) `586/1995`
+- [Laki painovapauslain 37 §:n muuttamisesta](587.md) `587/1995`
+- [Laki Suomen lipusta annetun lain muuttamisesta](588.md) `588/1995`
+- [Laki ortodoksisesta kirkkokunnasta annetun lain 43 §:n muuttamisesta](589.md) `589/1995`
+- [Laki asevelvollisuuslain 35 §:n muuttamisesta](590.md) `590/1995`
+- [Laki vaarallisten rikoksenuusijain eristämisestä annetun lain 1 §:n muuttamisesta](591.md) `591/1995`
+- [Laki sotilasoikeudenkäyntilain 2 §:n muuttamisesta](592.md) `592/1995`
+- [Laki ydinenergialain muuttamisesta](593.md) `593/1995`
+- [Laki säteilylain 60 ja 62 §:n muuttamisesta](594.md) `594/1995`
+- [Laki sähkölain 63 §:n muuttamisesta](595.md) `595/1995`
+- [Laki patoturvallisuuslain 12 ja 13 §:n muuttamisesta](596.md) `596/1995`
+- [Laki eräiden vedenalaisten johtojen suojelemisesta annetun lain 2 §:n muuttamisesta](597.md) `597/1995`
+- [Laki potilasvahinkolain 13 §:n muuttamisesta](598.md) `598/1995`
+- [Laki maanpuolustukselle merkityksellisistä keksinnöistä annetun lain 8 §:n muuttamisesta](599.md) `599/1995`
+- [Laki kilpailunrajoituksista annetun lain 28 §:n muuttamisesta](600.md) `600/1995`
+- [Laki säästöpankkilain 135 §:n muuttamisesta](601.md) `601/1995`
+- [Laki osuuspankkilain 92 §:n muuttamisesta](602.md) `602/1995`
+- [Laki sijoitusrahastolain 70 §:n muuttamisesta](603.md) `603/1995`
+- [Laki kaupankäynnistä vakioiduilla optioilla ja termiineillä annetun lain 5 luvun 5 §:n muuttamisesta](604.md) `604/1995`
+- [Laki arvopaperimarkkinalain muuttamisesta](605.md) `605/1995`
+- [Laki arvopaperinvälitysliikkeistä annetun lain 34 §:n muuttamisesta](606.md) `606/1995`
+- [Laki arvo\-osuusjärjestelmästä annetun lain 30 §:n muuttamisesta](607.md) `607/1995`
+- [Laki valtion vakuusrahastosta annetun lain 19 §:n muuttamisesta](608.md) `608/1995`
+- [Laki panttilainauslaitoksista annetun lain 37 §:n muuttamisesta](609.md) `609/1995`
+- [Laki vakuutuskassalain 165 §:n muuttamisesta](610.md) `610/1995`
+- [Laki tuoteturvallisuuslain 18 §:n muuttamisesta](611.md) `611/1995`
+- [Laki vuoden 1985 ammatti\- ja elinkeinotutkimuksesta annetun lain 5 §:n muuttamisesta](612.md) `612/1995`
+- [Laki toimenpiteistä tupakoinnin vähentämiseksi annetun lain 33 §:n muuttamisesta](613.md) `613/1995`
+- [Laki työttömyysturvalain 36 §:n muuttamisesta](614.md) `614/1995`
+- [Laki koulutus\- ja erorahastosta annetun lain 6 §:n muuttamisesta](615.md) `615/1995`
+- [Laki henkilöstörahastolain 61 §:n muuttamisesta](616.md) `616/1995`
+- [Laki merimieskatselmuslain 17 §:n muuttamisesta](617.md) `617/1995`
+- [Laki merimiesten palvelu\- ja opintotoiminnasta annetun lain 18 §:n muuttamisesta](618.md) `618/1995`
+- [Laki pienyrittäjän vuosilomarahasta annetun lain 23 §:n muuttamisesta](619.md) `619/1995`
+- [Laki maatalousyrittäjän lomituspalveluista annetun lain 41 §:n muuttamisesta](620.md) `620/1995`
+- [Laki työntekijäin eläkelain 18 §:n muuttamisesta](621.md) `621/1995`
+- [Laki eläkesäätiölain 32 §:n muuttamisesta](622.md) `622/1995`
+- [Laki merimieseläkelain 62 §:n muuttamisesta](623.md) `623/1995`
+- [Laki esitutkintalain 48 §:n muuttamisesta](624.md) `624/1995`
+- [Laki suuronnettomuuksien tutkinnasta annetun lain 18 §:n muuttamisesta](625.md) `625/1995`
+- [Laki asianajajista annetun lain muuttamisesta](626.md) `626/1995`
+- [Laki yksityishenkilön velkajärjestelystä annetun lain 82 §:n muuttamisesta](627.md) `627/1995`
+- [Laki yleisten asiakirjain julkisuudesta annetun lain 27 §:n muuttamisesta](628.md) `628/1995`
+- [Laki tasa\-arvovaltuutetusta ja tasa\-arvolautakunnasta annetun lain 16 §:n muuttamisesta](629.md) `629/1995`
+- [Laki henkilörekisterilain muuttamisesta](630.md) `630/1995`
+- [Laki tietosuojalautakunnasta ja tietosuojavaltuutetusta annetun lain 10 §:n muuttamisesta](631.md) `631/1995`
+- [Laki virallisista kääntäjistä annetun lain 10 §:n muuttamisesta](632.md) `632/1995`
+- [Laki nimikirjalain 11 §:n muuttamisesta](633.md) `633/1995`
+- [Laki väestölaskentalain 7 §:n muuttamisesta](634.md) `634/1995`
+- [Laki väestötietolain 37 §:n muuttamisesta](635.md) `635/1995`
+- [Laki potilaan asemasta ja oikeuksista annetun lain 14 §:n muuttamisesta](636.md) `636/1995`
+- [Laki erikoissairaanhoitolain 57 §:n muuttamisesta](637.md) `637/1995`
+- [Laki yksityisestä terveydenhuollosta annetun lain 23 §:n muuttamisesta](638.md) `638/1995`
+- [Laki kansanterveyslain 42 §:n muuttamisesta](639.md) `639/1995`
+- [Laki kuntoutuksen asiakaspalveluyhteistyöstä annetun lain 12 §:n muuttamisesta](640.md) `640/1995`
+- [Laki kansaneläkelaitoksen järjestämästä kuntoutuksesta annetun lain 10 §:n muuttamisesta](641.md) `641/1995`
+- [Laki kuntoutusrahalain 29 §:n muuttamisesta](642.md) `642/1995`
+- [Laki lääkelain 90 ja 97 §:n muuttamisesta](643.md) `643/1995`
+- [Laki steriloimislain 9 §:n muuttamisesta](644.md) `644/1995`
+- [Laki kastroimislain 9 §:n muuttamisesta](645.md) `645/1995`
+- [Laki raskauden keskeyttämisestä annetun lain 12 §:n muuttamisesta](646.md) `646/1995`
+- [Laki Suomen itsenäisyyden juhlarahastosta annetun lain muuttamisesta](647.md) `647/1995`
+- [Laki verotuslain 124 a §:n muuttamisesta](648.md) `648/1995`
+- [Laki arvonlisäverolain muuttamisesta](649.md) `649/1995`
+- [Laki leimaverolain 101 b §:n muuttamisesta](650.md) `650/1995`
+- [Laki luottoverolain 28 §:n muuttamisesta](651.md) `651/1995`
+- [Laki arpajaisverolain 21 §:n muuttamisesta](652.md) `652/1995`
+- [Laki maatilatilastosta annetun lain 5 ja 7 §:n muuttamisesta](653.md) `653/1995`
+- [Laki vuoden 1990 maatalouslaskennasta annetun lain 10 §:n muuttamisesta](654.md) `654/1995`
+- [Laki maataloushallinnon maatilarekisteristä annetun lain 12 §:n muuttamisesta](655.md) `655/1995`
+- [Laki eläinlääkärintoimen harjoittamisesta annetun lain muuttamisesta](656.md) `656/1995`
+- [Laki tieliikenteen tietojärjestelmästä annetun lain 18 §:n muuttamisesta](657.md) `657/1995`
+- [Laki teletoimintalain 26 a §:n muuttamisesta](658.md) `658/1995`
+- [Laki radiolain 20 ja 22 §:n muuttamisesta](659.md) `659/1995`
+- [Laki radiolaitteista annetun lain 6 §:n kumoamisesta](660.md) `660/1995`
+- [Laki Valtiontakuukeskuksesta annetun lain 13 §:n muuttamisesta](661.md) `661/1995`
+- [Laki työterveyslaitoksen toiminnasta ja rahoituksesta annetun lain 11 §:n muuttamisesta](662.md) `662/1995`
+- [Laki kansaneläkelain 75 §:n muuttamisesta](663.md) `663/1995`
+- [Laki sairausvakuutuslain 67 §:n muuttamisesta](664.md) `664/1995`
+- [Laki sosiaalihuoltolain 58 §:n muuttamisesta](665.md) `665/1995`
+- [Laki lapsilisälain 19 §:n muuttamisesta](666.md) `666/1995`
+- [Laki lasten kotihoidon tuesta annetun lain 24 §:n muuttamisesta](667.md) `667/1995`
+- [Laki valmiuslain 51 §:n muuttamisesta](668.md) `668/1995`
+- [Laki puolustustilalain muuttamisesta](669.md) `669/1995`
+- [Laki kansainvälisestä energiaohjelmasta tehdyn sopimuksen eräiden määräysten hyväksymisestä ja sopimuksen soveltamisesta annetun lain 14 §:n muuttamisesta](670.md) `670/1995`
+- [Laki työsopimuslain 54 §:n muuttamisesta](671.md) `671/1995`
+- [Laki kotitaloustyöntekijän työsuhteesta annetun lain 33 §:n muuttamisesta](672.md) `672/1995`
+- [Laki metsä\- ja uittotyöntekijäin yhteisasunnoista annetun lain 16 §:n muuttamisesta](673.md) `673/1995`
+- [Laki merimieslain 83 ja 84 §:n muuttamisesta](674.md) `674/1995`
+- [Laki yhteistoiminnasta yrityksissä annetun lain 16 §:n muuttamisesta](675.md) `675/1995`
+- [Laki henkilöstön edustuksesta yritysten hallinnossa annetun lain 15 §:n muuttamisesta](676.md) `676/1995`
+- [Laki työaikalain muuttamisesta](677.md) `677/1995`
+- [Laki talonmiesten työaikalain muuttamisesta](678.md) `678/1995`
+- [Laki maatalouden työaikalain muuttamisesta](679.md) `679/1995`
+- [Laki kauppaliikkeiden ja toimistojen työaikalain muuttamisesta](680.md) `680/1995`
+- [Laki merityöaikalain muuttamisesta](681.md) `681/1995`
+- [Laki työajasta kotimaanliikenteen aluksissa annetun lain muuttamisesta](682.md) `682/1995`
+- [Laki leipomotyölain muuttamisesta](683.md) `683/1995`
+- [Laki vuosilomalain muuttamisesta](684.md) `684/1995`
+- [Laki merimiesten vuosilomalain muuttamisesta](685.md) `685/1995`
+- [Laki työturvallisuuslain 49 ja 51 §:n muuttamisesta](686.md) `686/1995`
+- [Laki nuorista työntekijöistä annetun lain 18 §:n muuttamisesta](687.md) `687/1995`
+- [Laki lyijyvalkoisen ja lyijysulfaatin käytön kieltämisestä eräissä maalaustöissä annetun lain 6 §:n muuttamisesta](688.md) `688/1995`
+- [Laki työsuojelun valvonnasta ja muutoksenhausta työsuojeluasioissa annetun lain muuttamisesta](689.md) `689/1995`
+- [Laki työvoimapalvelulain 21 §:n muuttamisesta](690.md) `690/1995`
+- [Laki naisten ja miesten välisestä tasa\-arvosta annetun lain 14 a §:n muuttamisesta](691.md) `691/1995`
+- [Laki valtion virkamieslain muuttamisesta](692.md) `692/1995`
+- [Laki yhteistoiminnasta valtion virastoissa ja laitoksissa annetun lain 16 §:n muuttamisesta](693.md) `693/1995`
+- [Laki työterveyshuoltolain 9 §:n muuttamisesta](694.md) `694/1995`
+- [Laki palvelukseen kutsutun asevelvollisen työ\- tai virkasuhteen jatkumisesta annetun lain 7 §:n muuttamisesta](695.md) `695/1995`
+- [Laki aluksista aiheutuvan vesien pilaantumisen ehkäisemisestä annetun lain 28 §:n muuttamisesta](696.md) `696/1995`
+- [Laki vesilain muuttamisesta](697.md) `697/1995`
+- [Laki merensuojelulain 15 §:n muuttamisesta](698.md) `698/1995`
+- [Laki luonnonsuojelulain 23 §:n muuttamisesta](699.md) `699/1995`
+- [Laki valaiden suojelusta annetun lain 4 §:n muuttamisesta](700.md) `700/1995`
+- [Laki maa\-alueilla tapahtuvien öljyvahinkojen torjumisesta annetun lain 9 §:n muuttamisesta](701.md) `701/1995`
+- [Laki muinaismuistolain 25 §:n muuttamisesta](702.md) `702/1995`
+- [Laki rakennussuojelulain 25 §:n muuttamisesta](703.md) `703/1995`
+- [Laki suojametsistä annetun lain 10 §:n muuttamisesta](704.md) `704/1995`
+- [Laki maa\-aineslain 17 §:n muuttamisesta](705.md) `705/1995`
+- [Laki kemikaalilain muuttamisesta](706.md) `706/1995`
+- [Laki torjunta\-ainelain 10 §:n muuttamisesta](707.md) `707/1995`
+- [Laki ajoneuvojen siirtämisestä ja romuajoneuvojen hävittämisestä annetun lain 18 §:n muuttamisesta](708.md) `708/1995`
+- [Laki terveydensuojelulain 54 ja 55 §:n muuttamisesta](709.md) `709/1995`
+- [Laki ilmansuojelulain 23 §:n muuttamisesta](710.md) `710/1995`
+- [Laki meluntorjuntalain 23 §:n muuttamisesta](711.md) `711/1995`
+- [Laki jätelain muuttamisesta](712.md) `712/1995`
+- [Laki ympäristölupamenettelylain 13 §:n muuttamisesta](713.md) `713/1995`
+- [Laki rakennuslain 146 §:n muuttamisesta](714.md) `714/1995`
+- [Laki tekijänoikeuslain muuttamisesta](715.md) `715/1995`
+- [Laki tavaramerkkilain 39 ja 43 §:n muuttamisesta](716.md) `716/1995`
+- [Laki patenttilain muuttamisesta](717.md) `717/1995`
+- [Laki mallioikeuslain muuttamisesta](718.md) `718/1995`
+- [Laki yksinoikeudesta integroidun piirin piirimalliin annetun lain muuttamisesta](719.md) `719/1995`
+- [Laki hyödyllisyysmallioikeudesta annetun lain 39 ja 41 §:n muuttamisesta](720.md) `720/1995`
+- [Laki kasvinjalostajanoikeudesta annetun lain 33 ja 34 §:n muuttamisesta](721.md) `721/1995`
+- [Laki hovioikeuslain 2 §:n muuttamisesta](722.md) `722/1995`
+- [Laki luottolaitostoiminnasta annetun lain 100 §:n muuttamisesta](723.md) `723/1995`
+- [Laki terveydenhuollon ammattihenkilöistä annetun lain 36 §:n muuttamisesta](724.md) `724/1995`
+- [Laki julkisista hankinnoista annetun lain 15 §:n muuttamisesta](725.md) `725/1995`
+- [Laki äitiysavustuslain 17 §:n muuttamisesta](726.md) `726/1995`
+- [Laki asumistukilain 25 a §:n muuttamisesta](727.md) `727/1995`
+- [Laki sotilasavustuslain 26 §:n muuttamisesta](728.md) `728/1995`
+- [Laki kotieläinjalostuslain 15 §:n muuttamisesta](729.md) `729/1995`
+- [Laki hevostalouslain 15 §:n muuttamisesta](730.md) `730/1995`
+- [Laki postitoimintalain 21 §:n muuttamisesta](731.md) `731/1995`
+- [Laki yritystuesta annetun lain 33 §:n muuttamisesta](732.md) `732/1995`
+- [Laki ajoneuvojen katsastustehtävien toimiluvista annetun lain 18 §:n muuttamisesta](733.md) `733/1995`
+- [Laki tilastolain 23 §:n muuttamisesta](734.md) `734/1995`
+- [Laki opintotukilain 43 §:n muuttamisesta](735.md) `735/1995`
+- [Laki kalahygienialain 37 §:n muuttamisesta](736.md) `736/1995`
+- [Laki lihahygienialain 48 §:n muuttamisesta](737.md) `737/1995`
+- [Laki munavalmistehygienialain 37 §:n muuttamisesta](738.md) `738/1995`
+- [Laki maitohygienialain 43 §:n muuttamisesta](739.md) `739/1995`
+- [Laki tilintarkastuslain 43 §:n muuttamisesta](740.md) `740/1995`
+- [Laki ennakkoperintälain 61 §:n muuttamisesta](741.md) `741/1995`
+- [Laki autoverolain 90 §:n muuttamisesta](742.md) `742/1995`
+- [Laki rikoslain muuttamisesta](743.md) `743/1995`
+- [Laki rangaistusten täytäntöönpanosta annetun lain 6 luvun muuttamisesta](744.md) `744/1995`
+- [Laki pakkokeinolain 3 luvun 1 §:n ja 5 luvun 1 §:n muuttamisesta](745.md) `745/1995`
+- [Laki oikeudenkäymiskaaren muuttamisesta](746.md) `746/1995`
+- [Laki esitutkintalain muuttamisesta](747.md) `747/1995`
+- [Asetus alusten katsastuksista annetun asetuksen muuttamisesta](748.md) `748/1995`
+- [Asetus maa\- ja metsätalouden rakennepoliittisista toimenpiteistä](749.md) `749/1995`
+- [Asetus valtioneuvoston ohjesäännön 48 a ja 49 a §:n muuttamisesta](750.md) `750/1995`
+- [Valtioneuvoston päätös  investointien ohjaamista koskevien asioiden käsittelysta talouspoliittisessa ministerivaliokunnassa annetun valtioneuvoston päätöksen kumoamisesta](751.md) `751/1995`
+- [Valtiovarainministeriön päätös 50 rauhan vuotta juhlarahan lyömisestä](752.md) `752/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](753.md) `753/1995`
+- [Laki tieliikennelain muuttamisesta](754.md) `754/1995`
+- [Asetus ajokorttiasetuksen muuttamisesta](755.md) `755/1995`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](756.md) `756/1995`
+- [Liikenneministeriön päätös ajokorttiasetuksen soveltamisesta annetun liikenneministeriön päätöksen muuttamisesta](757.md) `757/1995`
+- [Maa\- ja metsätalousministeriön päätös metsänviljelyaineiston kaupasta annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](758.md) `758/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](759.md) `759/1995`
+- [Valtioneuvoston päätös maatalouden ympäristötuesta](760.md) `760/1995`
+- [Sosiaali\- ja terveysministeriön päätös  alkoholijuomien anniskeluajan jatkamisesta](761.md) `761/1995`
+- [Opetusministeriön päätös ylioppilastutkintolautakunnan suoritteiden maksullisuudesta annetun päätöksen 2 §:n muuttamisesta](762.md) `762/1995`
+- [Puolustusministeriön ilmoitus eräistä ministeriön päätöksistä](763.md) `763/1995`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös eläintautien leviämisen ehkäisemisestä hevosten maahantuonnissa kolmansista maista](764.md) `764/1995`
+- [Puolustusministeriön päätös sotilasajoneuvojen vuosikatsastuksissa suoritettavasta pakokaasupäästöjen tarkastuksesta](765.md) `765/1995`
+- [Puolustusministeriön päätös ohjusteknologian valvontajärjestelyn piiriin kuuluvan laitteiston ja teknologian rinnastamisesta puolustustarvikkeisiin annetun puolustusministeriön päätöksen 1 §:n muuttamisesta](766.md) `766/1995`
+- [Maa\- ja metsätalousministeriön päätös peltokasvien tukijärjestelmän soveltamisesta ja siihen liittyvästä kesannoimisesta vuonna 1995](767.md) `767/1995`
+- [Maa\- ja metsätalousministeriön päätös maatalouden ympäristötuen perustuesta](768.md) `768/1995`
+- [Asetus erään kiinteistön luovuttamisesta Ahvenanmaan maakunnalle](769.md) `769/1995`
+- [Asetus puolustusministeriöstä annetun asetuksen 4 ja 5 §:n muuttamisesta](770.md) `770/1995`
+- [Asetus sotilas\- ja palvelusarvoista annetun asetuksen 18 §:n muuttamisesta](771.md) `771/1995`
+- [Asetus maanpuolustuskorkeakoulusta annetun asetuksen muuttamisesta](772.md) `772/1995`
+- [Asetus talousneuvostosta annetun asetuksen 1 §:n muuttamisesta](773.md) `773/1995`
+- [Asetus valtionavusta hevoskasvatuksen edistämiseen ja hevosurheilun tukemiseen annetun asetuksen 14 §:n kumoamisesta](774.md) `774/1995`
+- [Asetus ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta](775.md) `775/1995`
+- [Valtioneuvoston päätös riistanhoitomaksusta ja pyyntilupamaksusta annetun valtioneuvoston päätöksen muuttamisesta](776.md) `776/1995`
+- [Kauppa\- ja teollisuusministeriön päätös  kuluttajaviraston maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](777.md) `777/1995`
+- [Sosiaali\- ja terveysministeriön päätös  maatalousyrittäjien eläkelain 11 §:ssä ja yrittäjien eläkelain 11 §:ssä tarkoitetun eläketurvan rekisteröimisehdoista annetun sosiaali\- ja terveysministeriön päätöksen muuttamisesta](778.md) `778/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](779.md) `779/1995`
+- [Maa\-\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös eräiden eläinten ja tavaroiden eläintautivaatimuksista Euroopan yhteisön sisämarkkinoilla annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen muuttamisesta](780.md) `780/1995`
+- [Kauppa\- ja teollisuusministeriön päätös liittymisehdoista ja sähkönmyyntiehdoista](781.md) `781/1995`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](782.md) `782/1995`
+- [Asetus merimieslaissa tarkoitetun työsopimuksen tekemisestä](783.md) `783/1995`
+- [Liikenneministeriön päätös  vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](784.md) `784/1995`
+- [Kauppa\- ja teollisuusministeriön päätös eräiden mittauslaitteita koskevien Euroopan yhteisöjen neuvoston direktiivien voimaansaattamisesta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](785.md) `785/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](786.md) `786/1995`
+- [Laki teurasruhojen punnituksesta annetun lain kumoamisesta](787.md) `787/1995`
+- [Asetus Viron kanssa yhteistyöstä torjuttaessa pilaantumisvahinkoja merellä tehdyn sopimuksen ja siihen liittyvän pöytäkirjan voimaansaattamisesta](788.md) `788/1995`
+- [Asetus öljyvahinkojen torjuntavalmiutta, torjumista ja torjuntayhteistyötä koskevan vuoden 1990 kansainvälisen yleissopimuksen voimaansaattamisesta](789.md) `789/1995`
+- [Asetus kansalaisopistoasetuksen 6 §:n muuttamisesta](790.md) `790/1995`
+- [Asetus valtionosuutta saavista kansanopistoista annetun asetuksen 2 §:n muuttamisesta](791.md) `791/1995`
+- [Torjunta\-aineasetus](792.md) `792/1995`
+- [Valtioneuvoston päätös vuokra\-asuntojen korkotukilainojen yleisistä ehdoista annetun valtioneuvoston päätöksen muuttamisesta](793.md) `793/1995`
+- [Valtioneuvoston päätös asumisoikeustalojen korkotukilainojen yleisistä ehdoista annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](794.md) `794/1995`
+- [Asetus ammattioppilaitoksista annetun asetuksen muuttamisesta](795.md) `795/1995`
+- [Asetus hotelli\- ja ravintolaoppilaitoksista annetun asetuksen muuttamisesta](796.md) `796/1995`
+- [Asetus kauppaoppilaitoksista annetun asetuksen 23 ja 24 §:n muuttamisesta](797.md) `797/1995`
+- [Asetus koti\- ja laitostalousoppilaitoksista annetun asetuksen muuttamisesta](798.md) `798/1995`
+- [Asetus käsi\- ja taideteollisuusoppilaitoksista annetun asetuksen muuttamisesta](799.md) `799/1995`
+- [Asetus maatalousalan oppilaitoksista annetun asetuksen muuttamisesta](800.md) `800/1995`
+- [Asetus merenkulkuoppilaitoksista annetun asetuksen muuttamisesta](801.md) `801/1995`
+- [Asetus metsä\- ja puutalousoppilaitoksista annetun asetuksen muuttamisesta](802.md) `802/1995`
+- [Asetus sosiaalialan oppilaitoksista annetun asetuksen muuttamisesta](803.md) `803/1995`
+- [Asetus taide\- ja viestintäkulttuurioppilaitoksista annetun asetuksen muuttamisesta](804.md) `804/1995`
+- [Asetus teknillisistä oppilaitoksista annetun asetuksen muuttamisesta](805.md) `805/1995`
+- [Asetus terveydenhuolto\-oppilaitoksista annetun asetuksen muuttamisesta](806.md) `806/1995`
+- [Asetus ammatillisten oppilaitosten ja lukioiden yhteishakujärjestelmästä](807.md) `807/1995`
+- [Asetus tuomioistuimen ilmoituksista väestötietojärjestelmään](808.md) `808/1995`
+- [Asetus ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta](809.md) `809/1995`
+- [Asetus kirjanpitolautakunnasta annetun asetuksen muuttamisesta](810.md) `810/1995`
+- [Asetus ensivakuutusliikettä harjoittavan vakuutusyhtiön vastuuvelan katteesta annetun asetuksen 4 ja 9 §:n muuttamisesta](811.md) `811/1995`
+- [Asetus vakuutusyhtiön toimintapääomaan luettavista eristä annetun asetuksen 2§:n muuttamisesta](812.md) `812/1995`
+- [Asetus viranomaisten tehtävistä ja yhteistyöstä olemassa olevien aineiden vaarojen arvioinnissa ja valvonnassa](813.md) `813/1995`
+- [Valtioneuvoston päätös työvälineiden turvallisesta käytöstä annetun valtioneuvoston päätöksen muuttamisesta](814.md) `814/1995`
+- [Valtioneuvoston päätös ETY\-tyyppihyväksyttyjen traktoreiden käytöstä vaarallisissa olosuhteissa](815.md) `815/1995`
+- [Liikenneministeriön päätös linja\-autoliikenteen henkilötaksoista](816.md) `816/1995`
+- [Asetus rikosvahinkojen korvaamisesta valtion varoista annetussa laissa säädettyjen korvausten enimmäismäärien tarkistamisesta](817.md) `817/1995`
+- [Asetus valtion maksuperusteasetuksen 3 ja 5 §:n muuttamisesta](818.md) `818/1995`
+- [Asetus ortodoksisesta kirkkokunnasta annetun asetuksen muuttamisesta](819.md) `819/1995`
+- [Asetus ortodoksisesta seminaarista annetun asetuksen 2 ja 3 §:n muuttamisesta](820.md) `820/1995`
+- [Geenitekniikka\-asetus](821.md) `821/1995`
+- [Valtioneuvoston päätös  sairaanhoitopiirien alueista annetun valtioneuvoston päätöksen 1 ja 7 kohdan muuttamisesta](822.md) `822/1995`
+- [Valtiovarainministeriön päätös  verohallituksen ja tullihallituksen määräämisestä toimivaltaisena viranomaisena ratkaisemaan eräitä Euroopan unionin jäsenvaltioiden välisiä virka\-apua verotuksen alalla koskevia asioita](823.md) `823/1995`
+- [Valtiovarainministeriön päätös  verohallituksen määräämisestä toimivaltaisena viranomaisena ratkaisemaan eräitä verotusta koskevissa kansainvälisissä sopimuksissa tarkoitettuja asioita](824.md) `824/1995`
+- [Opetusministeriön päätös Vörå Frikyrka \-nimisen uskonnollisen yhdyskunnan merkitsemisestä uskonnollisten yhdyskuntien rekisteriin](825.md) `825/1995`
+- [Opetusministeriön päätös  Helsinki Islam Keskus \-nimisen uskonnollisen yhdyskunnan merkitsemisestä uskonnollisten yhdyskuntien rekisteriin](826.md) `826/1995`
+- [Kauppa\- ja teollisuusministeriön päätös  vastuualueiden muutoksista ilmoittamisesta](827.md) `827/1995`
+- [Kauppa\- ja teollisuusministeriön päätös  kotitalouksien sähkökäyttöisten jääkaappien, pakastimien ja näiden yhdistelmien energiamerkinnässä annettavista tiedoista](828.md) `828/1995`
+- [Sosiaali\- ja terveysministeriön päätös  Suomen Liikunta ja Urheilu ry:n \(SLU\) valtuuttamisesta hoitamaan eräitä urheilijoiden sosiaaliturvaan liittyviä asioita](829.md) `829/1995`
+- [Työministeriön päätös merimieslaissa tarkoitetun työsopimuksen tekemisestä annetussa asetuksessa tarkoitetun työsopimuslomakekaavan vahvistamisesta](830.md) `830/1995`
+- [Asetus eläinlääketieteellisistä tutkinnoista annetun asetuksen muuttamisesta](831.md) `831/1995`
+- [Asetus erikoiseläinlääkärin tutkinnosta annetun asetuksen muuttamisesta](832.md) `832/1995`
+- [Asetus taideteollisesta korkeakoulusta](833.md) `833/1995`
+- [Asetus eläinten lääkitsemisestä annetun asetuksen muuttamisesta](834.md) `834/1995`
+- [Asetus rautatiehenkilökunnan oikeudesta saada maksutonta lääkärin\- ja sairashuonehoitoa annetun asetuksen kumoamisesta](835.md) `835/1995`
+- [Asetus viransijaisuuspalkkioista valtionrautateillä annetun asetuksen kumoamisesta](836.md) `836/1995`
+- [Asetus rautatiekuljetusasetuksen 1 §:n muuttamisesta](837.md) `837/1995`
+- [Asetus liikennevakuutusasetuksen muuttamisesta](838.md) `838/1995`
+- [Asetus merimiehen lääkärintarkastuksista annetun asetuksen muuttamisesta](839.md) `839/1995`
+- [Sosiaali\- ja terveysministeriön päätös  sosiaali\- ja terveydenhuollon tuotevalvontakeskuksen maksullisista suoritteista annetun sosiaali\- ja terveysministeriön päätöksen muuttamisesta](840.md) `840/1995`
+- [Sosiaali\- ja terveysministeriön päätös  väkevien alkoholijuomien mainonnasta ja muusta myynninedistämistoiminnasta sekä niitä koskevan tuotetiedon antamisesta](841.md) `841/1995`
+- [Maa\- ja metsätalousministeriön päätös peltokasvien tukijärjestelmän soveltamisesta ja siihen liittyvästä kesannoimisesta vuonna 1995 annetun maa\- ja metsätalousministeriön päätöksen 1 §:n muuttamisesta](842.md) `842/1995`
+- [Maa\- ja metsätalousministeriön päätös teurasruhojen luokituksesta](843.md) `843/1995`
+- [Kauppa\- ja teollisuusministeriön päätös valtiontukien myöntämistä koskevien päätösten ilmoittamisesta kauppa\- ja teollisuusministeriön yrityspalvelun piiritoimistoille](844.md) `844/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](845.md) `845/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](846.md) `846/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](847.md) `847/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](848.md) `848/1995`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta](849.md) `849/1995`
+- [Valtioneuvoston päätös puutarhatuottajien markkinointiorganisaatioiden tunnustamisesta](850.md) `850/1995`
+- [Sosiaali\- ja terveysministeriön päätös  tilaviini\-nimityksen käyttämisestä](851.md) `851/1995`
+- [Sosiaali\- ja terveysministeriön päätös  käymisteitse valmistetun enintään 13 tilavuusprosenttia etyylialkoholia sisältävän alkoholijuoman myyntipaikasta ja myyntitoiminnasta](852.md) `852/1995`
+- [Viihdelaiteasetus](853.md) `853/1995`
+- [Asuntokauppa\-asetus](854.md) `854/1995`
+- [Asetus palokoulutuskeskuksesta annetun asetuksen muuttamisesta](855.md) `855/1995`
+- [Asetus laivasimulaattorikeskuksesta annetun asetuksen muuttamisesta](856.md) `856/1995`
+- [Valtioneuvoston päätös  Euroopan unionin palveluksen vuoksi myönnettävästä virkavapaudesta](857.md) `857/1995`
+- [Sosiaali\- ja terveysministeriön päätös  suomalaisten vakuutusyhtiöiden ja vakuutusyhdistysten sekä Suomessa toimivien ulkomaisten vakuutusyhtiöiden vakuutusluokista](858.md) `858/1995`
+- [Maa\- ja metsätalousministeriön päätös kasvihuonetuotannon lopettamistuesta](859.md) `859/1995`
+- [Kauppa\- ja teollisuusministeriön päätös  sähkömarkkinakeskuksen maksullisista suoritteista](860.md) `860/1995`
+- [Valtioneuvoston päätös pysyvän luonnonhaitan korvaamisesta](861.md) `861/1995`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavista munavalmisteista](862.md) `862/1995`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavasta maidosta ja maitopohjaisista tuotteista](863.md) `863/1995`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](864.md) `864/1995`
+- [Kirkolliskokouksen päätös kirkon vaalijärjestyksen muuttamisesta](865.md) `865/1995`
+- [Laki yhdyskuntien vesihuoltotoimenpiteiden avustamisesta annetun lain 9 §:n muuttamisesta](866.md) `866/1995`
+- [Asetus saamelaisalueen koulutuskeskuksesta annetun asetuksen 11 §:n muuttamisesta](867.md) `867/1995`
+- [Asetus luonnonvarainneuvostosta annetun asetuksen kumoamisesta](868.md) `868/1995`
+- [Asetus teknologian kehittämiskeskuksesta annetun asetuksen 7 §:n muuttamisesta](869.md) `869/1995`
+- [Asetus eräiden tavaroiden vientivalvonnasta](870.md) `870/1995`
+- [Asetus työvoima\-asiain piiri\- ja paikallishallinnosta annetun asetuksen muuttamisesta](871.md) `871/1995`
+- [Valtioneuvoston päätös käräjäoikeuksien tuomiopiireistä annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](872.md) `872/1995`
+- [Valtioneuvoston päätös nuorisojärjestöjen valtionavustusta valmistelevasta avustustoimikunnasta](873.md) `873/1995`
+- [Valtiovarainministeriön päätös  eräiden ulkomailla rekisteröityjen ajoneuvojen vapauttamisesta moottoriajoneuvoverosta tai veron alentamisesta annetun valtiovarainministeriön päätöksen muuttamisesta](874.md) `874/1995`
+- [Liikenneministeriön päätös maanteiden tavara\- ja henkilöliikenteen harjoittajien muodollista kelpoisuutta osoittavien asiakirjojen vastavuoroisesta tunnustamisesta](875.md) `875/1995`
+- [Kauppa\- ja teollisuusministeriön päätös  elintarvikkeiden pakkausmerkinnöistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](876.md) `876/1995`
+- [Asetus Helsingin yliopistosta annetun asetuksen muuttamisesta](877.md) `877/1995`
+- [Vankeinhoitoasetus](878.md) `878/1995`
+- [Valtiovarainministeriön päätös  arvopaperin liikkeeseenlaskijan säännöllisestä tiedonantovelvollisuudesta](879.md) `879/1995`
+- [Asetus musiikkioppilaitoksista](880.md) `880/1995`
+- [Asetus ydinenergia\-asetuksen muuttamisesta](881.md) `881/1995`
+- [Asetus lasten päivähoidosta annetun asetuksen 2 §:n muuttamisesta](882.md) `882/1995`
+- [Valtioneuvoston päätös maatalousperäisiä raaka\-aineita jalostaville elinkeinonharjoittajille myönnettävästä investointituesta](883.md) `883/1995`
+- [Valtioneuvoston päätös teknisiä määräyksiä koskevien tietojen toimittamisessa noudatettavasta menettelystä](884.md) `884/1995`
+- [Kauppa\- ja teollisuusministeriön päätös  sähköliiketoimintojen eriyttämisestä](885.md) `885/1995`
+- [Merenkulkuhallituksen ilmoitus eräistä merenkulkuhallituksen päätöksistä](886.md) `886/1995`
+- [Liikenneministeriön päätös eräiden vaarallisten aineiden kuljettamisesta tiellä ja rautatiellä annettujen päätösten voimaantulosta](887.md) `887/1995`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](888.md) `888/1995`
+- [Valtioneuvoston päätös valtion vesihuoltotöistä annetun päätöksen 5 ja 6 §:n muuttamisesta](889.md) `889/1995`
+- [Valtioneuvoston päätös siemenperunakeskuksen tuotantoalueen perunanviljelyn lisäkustannusten korvaamisesta vuonna 1995](890.md) `890/1995`
+- [Kauppa\- ja teollisuusministeriön päätös  räjähdysvaarallisissa tiloissa käytettävien sähkölaitteiden turvallisuusvaatimuksista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](891.md) `891/1995`
+- [Sosiaali\- ja terveysministeriön päätös  lievästi denaturoidun etanolin valmistamisessa käytettävistä denaturoimisaineista](892.md) `892/1995`
+- [Sosiaali\- ja terveysministeriön päätös vahvasti  denaturoidun etanolin valmistamisessa käytettävistä denaturoimisaineista](893.md) `893/1995`
+- [Maa\- ja metsätalousministeriön päätös maidon ja maitotuotteiden suoramyynnin viitemääristä](894.md) `894/1995`
+- [Laki kuljetusten alueellisesta tukemisesta annetun lain 8 ja 12 a §:n muuttamisesta](895.md) `895/1995`
+- [Laki valtion vakuusrahastosta annetun lain 1 §:n muuttamisesta](896.md) `896/1995`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](897.md) `897/1995`
+- [Laki ulkomaisen luotto\- ja rahoituslaitoksen toiminnasta Suomessa annetun lain muuttamisesta](898.md) `898/1995`
+- [Laki valtion vakuusrahastosta annetun lain 1 §:n muuttamisesta](899.md) `899/1995`
+- [Laki valmisteverotuslain muuttamisesta](900.md) `900/1995`
+- [Laki nestemäisten polttoaineiden valmisteverosta annetun lain muuttamisesta](901.md) `901/1995`
+- [Asetus valmisteverotusasetuksen muuttamisesta](902.md) `902/1995`
+- [Laki matkustaja\-alus Estonian hylyn rauhoittamisesta](903.md) `903/1995`
+- [Laki joukkoliikenteen tarkastusmaksusta annetun lain muuttamisesta](904.md) `904/1995`
+- [Laki valtion rataverkosta, radanpidosta ja rataverkon käytöstä annetun lain muuttamisesta](905.md) `905/1995`
+- [Asetus joukkoliikenteen tarkastusmaksusta annetun asetuksen 9 §:n muuttamisesta](906.md) `906/1995`
+- [Laki lapsilisälain 7 §:n muuttamisesta](907.md) `907/1995`
+- [Laki kilpailunrajoituksista annetun lain 2 ja 20 §:n muuttamisesta](908.md) `908/1995`
+- [Laki kuluttajavalituslautakunnasta annetun lain muuttamisesta](909.md) `909/1995`
+- [Laki kuluttajavalituslautakunnasta annetun lain 2 §:n väliaikaisesta muuttamisesta](910.md) `910/1995`
+- [Asetus kuluttajavalituslautakunnasta annetun asetuksen muuttamisesta](911.md) `911/1995`
+- [Asetus yksinoikeudesta integroidun piirin piirimalliin annetun lain väliaikaisesta soveltamisesta eräisiin piirimalleihin annetun asetuksen 3 §:n muuttamisesta](912.md) `912/1995`
+- [Liikenneministeriön päätös  joukkoliikenteen tarkastusmaksun perimisoikeudesta rautateiden joukkoliikenteessä](913.md) `913/1995`
+- [Liikenneministeriön päätös  joukkoliikenteen tarkastusmaksun suuruudesta](914.md) `914/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](915.md) `915/1995`
+- [Laki tallettajien saamisten turvaamisesta säästökassatoimintaa harjoittavassa osuuskunnassa annetun lain 13 §:n muuttamisesta](916.md) `916/1995`
+- [Laki eräiden valtion ammatillisten oppilaitosten kiinteistöjen luovuttamisesta kunnalle tai kuntayhtymälle](917.md) `917/1995`
+- [Laki ammatillisista opettajankoulutuslaitoksista annetun lain 5 §:n muuttamisesta](918.md) `918/1995`
+- [Asetus Euroopan talousalueella hyväksyttyjen listalleotto\- ja tarjousesitteiden vastavuoroisesta tunnustamisesta](919.md) `919/1995`
+- [Asetus eräiden maataloustuotteiden tuonnin tarkkailusta annetun asetuksen muuttamisesta](920.md) `920/1995`
+- [Maa\- ja metsätalousministeriön päätös maa\- ja metsätalousministeriön suoritteista perittävistä maksuista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](921.md) `921/1995`
+- [Maa\- ja metsätalousministeriön päätös eräiden puutarhatuotteiden tarkkailuajoista](922.md) `922/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](923.md) `923/1995`
+- [Asetus eläinlääketieteellisen korkeakoulun ylioppilaskunnasta annetun asetuksen kumoamisesta](924.md) `924/1995`
+- [Asetus Tampereen yliopiston ylioppilaskunnasta annetun asetuksen 7 §:n muuttamisesta](925.md) `925/1995`
+- [Asetus Turun yliopiston ylioppilaskunnasta annetun asetuksen 7 §:n muuttamisesta](926.md) `926/1995`
+- [Asetus ympäristö\- ja luonnonvarainneuvostosta](927.md) `927/1995`
+- [Valtioneuvoston päätös pellon metsittämistä koskevasta tuesta](928.md) `928/1995`
+- [Valtioneuvoston päätös asuinrakennusten ja asuntojen korjaustoimintaan myönnettävien avustusten jakoperusteista annetun valtioneuvoston päätöksen muuttamisesta](929.md) `929/1995`
+- [Sosiaali\- ja terveysministeriön päätös  sosiaali\- ja terveydenhuollon tuotevalvontakeskuksen maksullisista suoritteista annetun sosiaali\- ja terveysministeriön päätöksen muuttamisesta](930.md) `930/1995`
+- [Laki rikosvahinkojen korvaamisesta valtion varoista annetun lain 15 §:n muuttamisesta](931.md) `931/1995`
+- [Maa\- ja metsätalousministeriön päätös maatalouden kirjanpidon tietoverkoston hallinnosta](932.md) `932/1995`
+- [Maa\- ja metsätalousministeriön päätös maataloustuotteiden ja elintarvikkeiden nimisuojasta](933.md) `933/1995`
+- [Maa\- ja metsätalousministeriön päätös maataloustuotteiden ja elintarvikkeiden erityisluonnetta koskevista todistuksista](934.md) `934/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](935.md) `935/1995`
+- [Liikenneministeriön päätös autokouluyrittäjän ja autokoulun opetustoiminnasta vastaavan johtajan koulutuksesta annetun liikenneministeriön päätöksen muuttamisesta](936.md) `936/1995`
+- [Kauppa\- ja teollisuusministeriön päätös  erityisruokavaliovalmisteista](937.md) `937/1995`
+- [Kauppa\- ja teollisuusministeriön päätös  vitamiinien ja eräiden muiden aineiden lisäämisestä elintarvikkeisiin](938.md) `938/1995`
+- [Sosiaali\- ja terveysministeriön päätös  lääkelaitoksen maksullista suoritteista annetun päätöksen muuttamisesta](939.md) `939/1995`
+- [Laki opintotukilain muuttamisesta](940.md) `940/1995`
+- [Asetus opintotukiasetuksen muuttamisesta](941.md) `941/1995`
+- [Laki ammatillisista aikuiskoulutuskeskuksista annetun lain muuttamisesta](942.md) `942/1995`
+- [Laki ammatillisten kurssikeskusten muuttumisesta ammatillisiksi aikuiskoulutuskeskuksiksi annetun lain 11 §:n muuttamisesta](943.md) `943/1995`
+- [Asetus ammattitutkintoasetuksen 3 §:n muuttamisesta](944.md) `944/1995`
+- [Asetus sosiaali\- ja terveysministeriöstä annetun asetuksen 3 §:n muuttamisesta](945.md) `945/1995`
+- [Asetus eläketurvakeskuksen ohjesäännön sisältävän asetuksen muuttamisesta](946.md) `946/1995`
+- [Asetus työeläkekassan ohjesäännön sisältävän asetuksen muuttamisesta](947.md) `947/1995`
+- [Asetus esiintyvien taiteilijoiden eläkekassan ohjesäännön sisältävän asetuksen muuttamisesta](948.md) `948/1995`
+- [Asetus maatalousyrittäjien eläkelaitoksen ohjesäännön sisältävän asetuksen muuttamisesta](949.md) `949/1995`
+- [Asetus terveydenhuollon oikeusturvakeskuksesta annetun asetuksen muuttamisesta](950.md) `950/1995`
+- [Asetus alkoholijuomista ja väkiviinasta annetun asetuksen 23 §:n muuttamisesta](951.md) `951/1995`
+- [Asetus huumausaineasetuksen muuttamisesta](952.md) `952/1995`
+- [Sosiaali\- ja terveysministeriön päätös huumausaineita ja huumausaineen valmistuksessa käytettäviä aineita koskevasta kirjanpito\- ja tietojenantovelvollisuudesta sekä huumausaineiden käsittelystä ja hävittämisestä annetun sosiaali\- ja terveysministeriön päätöksen 7 §:n muuttamisesta](953.md) `953/1995`
+- [Valtioneuvoston päätös Osuusliike Elannon säästökassaan tehtyjen talletusten lunastamisesta valtiolle](954.md) `954/1995`
+- [Valtioneuvoston päätös saaristokuljetusten tukemisesta annetun valtioneuvoston päätöksen muuttamisesta](955.md) `955/1995`
+- [Kauppa\- ja teollisuusministeriön päätös  kuluttajavalituslautakunnan jaostoissa käsiteltävien asioiden jakoperusteista](956.md) `956/1995`
+- [Laki peruskoululain muuttamisesta](957.md) `957/1995`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 12 §:n muuttamisesta](958.md) `958/1995`
+- [Asetus peruskouluasetuksen 45 ja 82 §:n kumoamisesta](959.md) `959/1995`
+- [Asetus Yhdistyneiden Kansakuntien yliopiston kanssa Taloudellisen kehitystutkimuksen kansainvälisestä instituutista tehtyyn sopimukseen liittyvän pöytäkirjan muuttamista koskevan sopimuksen voimaansaattamisesta](960.md) `960/1995`
+- [Asetus Amerikan yhdysvaltain kanssa tehdyn lentoliikennesopimuksen ja siihen liittyvän pöytäkirjan muuttamisesta tehdyn sopimuksen voimaansaattamisesta](961.md) `961/1995`
+- [Asetus kasvinjalostajanoikeudesta annetussa laissa tarkoitetuista kasvisuvuista ja \-lajeista annetun asetuksen liitteen muuttamisesta](962.md) `962/1995`
+- [Asetus eläinlääkäreiden toimituspalkkioista annetun asetuksen muuttamisesta](963.md) `963/1995`
+- [Ympäristöministeriön päätös asuntokauppalaissa tarkoitetusta kauppasopimuksen kaavasta](964.md) `964/1995`
+- [Kauppa\- ja teollisuusministeriön päätös kauppa\- ja teollisuusministeriön sekä kauppa\- ja teollisuusministeriön yrityspalvelun piiritoimistojen maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](965.md) `965/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](966.md) `966/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](967.md) `967/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](968.md) `968/1995`
+- [Laki Suomen Hallitusmuodon muuttamisesta](969.md) `969/1995`
+- [Laki valtiopäiväjärjestyksen muuttamisesta](970.md) `970/1995`
+- [Laki säätyjen erioikeuksien lakkauttamisesta](971.md) `971/1995`
+- [Laki lausunto\-, kokoontumis\- ja yhdistymisvapaudesta annetun lain kumoamisesta](972.md) `972/1995`
+- [Laki Suomen Hallitusmuodon muuttamisesta](973.md) `973/1995`
+- [Laki saamelaiskäräjistä](974.md) `974/1995`
+- [Laki saamen kielen käyttämisestä viranomaisissa annetun lain muuttamisesta](975.md) `975/1995`
+- [Laki Suomen Hallitusmuodon 38 §:n muuttamisesta](976.md) `976/1995`
+- [Laki valtioneuvostosta annetun lain muuttamisesta](977.md) `977/1995`
+- [Laki valtion talousarviosta annetun lain muuttamisesta](978.md) `978/1995`
+- [Laki asuntokauppalain 8 luvun 1 §:n muuttamisesta](979.md) `979/1995`
+- [Laki kiinteistön luovutuksesta Latvian tasavallalle](980.md) `980/1995`
+- [Laki Suomen aluevesien rajoista annetun lain muuttamisesta](981.md) `981/1995`
+- [Asetus Suomen aluevesien rajoista annetun lain muuttamisesta annetun lain voimaantulosta](982.md) `982/1995`
+- [Asetus Ruotsin kanssa Suomen mannermaajalustan ja kalastusvyöhykkeen sekä Ruotsin talousvyöhykkeen välisen rajan määrittämisestä Ahvenanmerellä ja pohjoisella Itämerellä tehdyn sopimuksen voimaansaattamisesta](983.md) `983/1995`
+- [Asetus Viron kanssa Suomenlahden aluevesirajojen muuttamisessa käytettävästä menettelystä tehdyn sopimuksen voimaansaattamisesta](984.md) `984/1995`
+- [Asetus Suomen ja Ruotsin välillä vastuualueiden jakamisesta Itämeren alueen merellisen ympäristön suojelua koskevan yleissopimuksen mukaisesti tehdyn sopimuksen voimaansaattamisesta](985.md) `985/1995`
+- [Asetus Suomen ja Luxemburgin välisen kulttuurisopimuksen voimaansaattamisesta](986.md) `986/1995`
+- [Laki maitohygienialain 23 §:n muuttamisesta](987.md) `987/1995`
+- [Laki maa\- ja puutarhatalouden kansallisista tuista annetun lain muuttamisesta](988.md) `988/1995`
+- [Laki maatalouden interventiorahastosta annetun lain muuttamisesta](989.md) `989/1995`
+- [Kauppa\- ja teollisuusministeriön ilmoitus päätöksestä](990.md) `990/1995`
+- [Valtiovarainministeriön päätös  veron ja metsänhoitomaksun eräpäivistä vuodelta 1994](991.md) `991/1995`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](992.md) `992/1995`
+- [Asetus Suomen aluevesien rajoista annetun lain soveltamisesta](993.md) `993/1995`
+- [Asetus eräiden valtioneuvoston yleisistunnossaan tekemien, opetusministeriön hallinnonalaan kuuluvien päätösten maksullisuudesta ja maksujen suuruudesta](994.md) `994/1995`
+- [Valtioneuvoston päätös vuodelta 1995 maksettavasta pinta\-alalisästä](995.md) `995/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](996.md) `996/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](997.md) `997/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](998.md) `998/1995`
+- [Laki kirkkolain 20 luvun 1 §:n muuttamisesta](999.md) `999/1995`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavasta lihasta ja lihatuotteista](1000.md) `1000/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1001.md) `1001/1995`
+- [Asetus elokuvien yhteistuotantoa koskevan eurooppalaisen yleissopimuksen voimaansaattamisesta](1002.md) `1002/1995`
+- [Asetus puolustusvoimista annetun asetuksen 52 ja 53 §:n muuttamisesta](1003.md) `1003/1995`
+- [Asetus ylioppilastutkinnosta annetun asetuksen 13 a §:n muuttamisesta](1004.md) `1004/1995`
+- [Asetus oikeuslääkeopillisten tutkimusten toimittamisesta lääkärille ja hammaslääkärille tulevasta korvauksesta annetun asetuksen muuttamisesta](1005.md) `1005/1995`
+- [Valtioneuvoston päätös maa\- ja puutarhatalouden harjoittajille maksettavasta pohjoisesta tuesta annetun valtioneuvoston päätöksen muuttamisesta](1006.md) `1006/1995`
+- [Maa\- ja metsätalousministeriön päätös elintarvikehygieenisen laadun turvaamisesta kolmansista maista tapahtuvan kalastustuotteiden ja niistä saatujen valmisteiden ja jalosteiden maahantuonnin yhteydessä](1007.md) `1007/1995`
+- [Maa\- ja metsätalousministeriön päätös lannoitteista annetun maa\- ja metsätalousministeriön päätöksen liitteen 3 muuttamisesta](1008.md) `1008/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](1009.md) `1009/1995`
+- [Laki rikoslain muuttamisesta](1010.md) `1010/1995`
+- [Laki pakkokeinolain 5 luvun 1 §:n muuttamisesta](1011.md) `1011/1995`
+- [Laki sotilasoikeudenkäyntilain 2 §:n muuttamisesta](1012.md) `1012/1995`
+- [Laki vakuutusyhtiölain 18 luvun 6 a §:n muuttamisesta](1013.md) `1013/1995`
+- [Laki ulkomaisista vakuutusyhtiöistä annetun lain 80 §:n muuttamisesta](1014.md) `1014/1995`
+- [Laki vakuutusyhdistyslain 16 luvun 10 a §:n muuttamisesta](1015.md) `1015/1995`
+- [Laki konkurssipesien hallinnon valvonnasta annetun lain 16 §:n muuttamisesta](1016.md) `1016/1995`
+- [Laki elintarvikelain 40 §:n muuttamisesta](1017.md) `1017/1995`
+- [Laki sähkömarkkinalain 47 §:n muuttamisesta](1018.md) `1018/1995`
+- [Laki geenitekniikkalain muuttamisesta](1019.md) `1019/1995`
+- [Laki yleisistä vesi\- ja viemärilaitoksista annetun lain 17 §:n muuttamisesta](1020.md) `1020/1995`
+- [Laki Neuvostoliiton kanssa Saimaan ja Vuoksen juoksutussäännöstä tehdyn sopimuksen eräiden määräysten hyväksymisestä sekä sopimuksen soveltamisesta annetun lain 4 ja 4 a §:n muuttamisesta](1021.md) `1021/1995`
+- [Laki alusturvallisuuden valvonnasta annetun lain 17 §:n muuttamisesta](1022.md) `1022/1995`
+- [Laki teknologian kehittämiskeskuksesta annetun lain 7 §:n muuttamisesta](1023.md) `1023/1995`
+- [Laki tekijänoikeuslain 56 a ja 56 b §:n muuttamisesta](1024.md) `1024/1995`
+- [Laki maaseutuelinkeinorekisteristä annetun lain muuttamisesta](1025.md) `1025/1995`
+- [Laki pakkokeinolain 5 a luvun 2 §:n muuttamisesta](1026.md) `1026/1995`
+- [Kauppa\- ja teollisuusministeriön päätös  elintarvikkeiden pakkausmerkinnöistä annetun kauppa\- ja teollisuusministeriön päätöksen voimaantulosäännöksen muuttamisesta](1027.md) `1027/1995`
+- [Laki peruskoululain 42 ja 74 §:n muuttamisesta](1028.md) `1028/1995`
+- [Laki lukiolain 47 ja 48 §:n muuttamisesta](1029.md) `1029/1995`
+- [Laki aikuislukiolain 29 ja 30 §:n muuttamisesta](1030.md) `1030/1995`
+- [Laki kuulovammaisten ja näkövammaisten sekä liikuntavammaisten kouluista annetun lain 11 §:n muuttamisesta](1031.md) `1031/1995`
+- [Laki musiikkioppilaitoksista annetun lain 16 §:n muuttamisesta](1032.md) `1032/1995`
+- [Laki Suomalais\-venäläisestä koulusta annetun lain 11 b §:n muuttamisesta](1033.md) `1033/1995`
+- [Laki Helsingin ranskalais\-suomalaisesta koulusta annetun lain 11 b §:n muuttamisesta](1034.md) `1034/1995`
+- [Laki Steiner\-koulusta annetun lain 6 a §:n muuttamisesta](1035.md) `1035/1995`
+- [Laki steinerpedagogisista erityiskouluista annetun lain 5 b §:n muuttamisesta](1036.md) `1036/1995`
+- [Laki Anna Tapion koulusta annetun lain 7 ja 10 §:n muuttamisesta](1037.md) `1037/1995`
+- [Laki ammatillisista oppilaitoksista annetun lain 40 §:n muuttamisesta](1038.md) `1038/1995`
+- [Asetus peruskouluasetuksen 134 §:n muuttamisesta](1039.md) `1039/1995`
+- [Asetus lukioasetuksen 106 §:n muuttamisesta](1040.md) `1040/1995`
+- [Asetus aikuislukioasetuksen 24 §:n muuttamisesta](1041.md) `1041/1995`
+- [Asetus peruskoulua korvaavasta koulusta ja yksityisesta lukiosta annetun asetuksen 30 §:n muuttamisesta](1042.md) `1042/1995`
+- [Asetus kuulovammaisten ja näkövammaisten sekä liikuntavammaisten kouluista annetun asetuksen 37 §:n muuttamisesta](1043.md) `1043/1995`
+- [Asetus Suomalais\-venäläisestä koulusta annetun asetuksen 10 b ja 20 §:n muuttamisesta](1044.md) `1044/1995`
+- [Asetus Helsingin ranskalais\-suomalaisesta koulusta annetun asetuksen 11 b ja 21 §:n muuttamisesta](1045.md) `1045/1995`
+- [Asetus ulkomailla toimivasta peruskoulua vastaavasta yksityiskoulusta annetun asetuksen 14 §:n muuttamisesta](1046.md) `1046/1995`
+- [Asetus ammatillisista opettajankoulutuslaitoksista annetun asetuksen 28 §:n muuttamisesta](1047.md) `1047/1995`
+- [Asetus ammattioppilaitoksista annetun asetuksen 52 §:n muuttamisesta](1048.md) `1048/1995`
+- [Asetus teknillisistä oppilaitoksista annetun asetuksen 49 §:n muuttamisesta](1049.md) `1049/1995`
+- [Asetus hotelli\- ja ravintolaoppilaitoksista annetun asetuksen 50 §:n muuttamisesta](1050.md) `1050/1995`
+- [Asetus kauppaoppilaitoksista annetun asetuksen 49 §:n muuttamisesta](1051.md) `1051/1995`
+- [Asetus merenkulkuoppilaitoksista annetun asetuksen 49 §:n muuttamisesta](1052.md) `1052/1995`
+- [Asetus koti\- ja laitostalousoppilaitoksista annetun asetuksen 52 §:n muuttamisesta](1053.md) `1053/1995`
+- [Asetus käsi\- ja taideteollisuusoppilaitoksista annetun asetuksen 51 §:n muuttamisesta](1054.md) `1054/1995`
+- [Asetus taide\- ja viestintäkulttuurioppilaitoksista annetun asetuksen 48 §:n muuttamisesta](1055.md) `1055/1995`
+- [Asetus maatalousalan oppilaitoksista annetun asetuksen 52 §:n muuttamisesta](1056.md) `1056/1995`
+- [Asetus metsä\- ja puutalousoppilaitoksista annetun asetuksen 52 §:n muuttamisesta](1057.md) `1057/1995`
+- [Asetus sosiaalialan oppilaitoksista annetun asetuksen 48 §:n muuttamisesta](1058.md) `1058/1995`
+- [Asetus terveydenhuolto\-oppilaitoksista annetun asetuksen 52 §:n muuttamisesta](1059.md) `1059/1995`
+- [Laki työttömyysturvalain 25 §:n poikkeuksellisesta soveltamisesta](1060.md) `1060/1995`
+- [Laki työttömyysturvalain 22 ja 24 §:n muuttamisesta](1061.md) `1061/1995`
+- [Laki rakennuslain muuttamisesta](1062.md) `1062/1995`
+- [Asetus Suomen, Viron ja Ruotsin välillä M/S Estoniasta tehdyn sopimuksen voimaansaattamisesta](1063.md) `1063/1995`
+- [Asetus Amerikan yhdysvaltain kanssa tieteellis\-teknisestä yhteistyöstä tehdyn sopimuksen voimaansaattamisesta](1064.md) `1064/1995`
+- [Asetus Turun kauppakorkeakoulusta](1065.md) `1065/1995`
+- [Asetus eräiden korkeakoulujen opetuksesta ja opiskelijoista annetun asetuksen 1 §:n muuttamisesta](1066.md) `1066/1995`
+- [Maa\- ja metsätalousministeriön päätös eräiden lääkeaineiden käytön kieltämisestä eläimille annetun päätöksen muuttamisesta](1067.md) `1067/1995`
+- [Sosiaali\- ja terveysministeriön päätös  toimeentulotukitehtävien siirtoa koskevaan kokeiluun 1995\-1996 osallistuvista kunnista annetun päätöksen muuttamisesta](1068.md) `1068/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1069.md) `1069/1995`
+- [Laki Teknillisestä tarkastuskeskuksesta](1070.md) `1070/1995`
+- [Laki turvatekniikan keskuksesta](1071.md) `1071/1995`
+- [Laki paineastialain muuttamisesta](1072.md) `1072/1995`
+- [Laki kemikaalilain muuttamisesta](1073.md) `1073/1995`
+- [Laki räjähdysvaarallisista aineista annetun lain muuttamisesta](1074.md) `1074/1995`
+- [Laki vaarallisten aineiden kuljetuksesta annetun lain muuttamisesta](1075.md) `1075/1995`
+- [Laki kaivoslain muuttamisesta](1076.md) `1076/1995`
+- [Laki vakauslain muuttamisesta](1077.md) `1077/1995`
+- [Asetus valtion teknillisestä tutkimuskeskuksesta annetun asetuksen muuttamisesta](1078.md) `1078/1995`
+- [Sisäasiainministeriön päätös julkisen notaarin suoritteiden maksuista](1079.md) `1079/1995`
+- [Asetus vartioimisliikeasetuksen muuttamisesta](1080.md) `1080/1995`
+- [Asetus vartioimisliikelautakunnasta annetun asetuksen muuttamisesta](1081.md) `1081/1995`
+- [Asetus opettajankoulutusasetuksen eräiden säännösten kumoamisesta](1082.md) `1082/1995`
+- [Asetus korkeakoulujen henkilöstön kelpoisuusvaatimuksista ja tehtävistä annetun asetuksen 3 ja 4 §:n muuttamisesta](1083.md) `1083/1995`
+- [Asetus harjoittelukouluasetuksen muuttamisesta](1084.md) `1084/1995`
+- [Asetus Tampereen yliopistosta](1085.md) `1085/1995`
+- [Asetus eläinsuojeluasetuksen muuttamisesta](1086.md) `1086/1995`
+- [Asetus kalastus\- ja pyyntialusten rekisteröimisestä ja tunnuksista annetun asetuksen kumoamisesta](1087.md) `1087/1995`
+- [Valtioneuvoston päätös  neljän poliisipiirin uudelleen järjestämisestä](1088.md) `1088/1995`
+- [Valtiovarainministeriön päätös eräiden ulkomailla rekisteröityjen ajoneuvojen vapauttamisesta moottoriajoneuvoverosta tai veron alentamisesta annetun valtiovarainministeriön päätöksen muuttamisesta annetun valtiovarain\- ministeriön päätöksen voimaantulosäännöksen muuttamisesta](1089.md) `1089/1995`
+- [Maa\- ja metsätalousministeriön päätös eräiden kasvinviljelytuotteiden kansallisen tuotantotuen maksamiselle asetettavista laatuvaatimuksista](1090.md) `1090/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](1091.md) `1091/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1092.md) `1092/1995`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Ruandaa koskevaan päätökseen perustuvien velvoitusten täyttämisestä annetun asetuksen muuttamisesta](1093.md) `1093/1995`
+- [Asetus Unkarin kanssa yhteistyöstä kulttuurin, opetuksen ja tutkimuksen alalla tehdyn sopimuksen voimaansaattamisesta](1094.md) `1094/1995`
+- [Asetus Eurooppa\-koulun perussäännön ja siihen liittyvien pöytäkirjojen voimaansaattamisesta](1095.md) `1095/1995`
+- [Valtioneuvoston päätös  eräistä maa\- ja puutarhataloustuottajille vuodelta 1995 maksettavista tuista annetun valtioneuvoston päätöksen muuttamisesta](1096.md) `1096/1995`
+- [Valtioneuvoston päätös pysyvän luonnonhaitan korvaamisesta annetun valtioneuvoston päätöksen 5 §:n 3 kohdan kumoamisesta](1097.md) `1097/1995`
+- [Valtioneuvoston päätös työturvallisuuslain soveltamisesta riipputelineisiin ja niiden tarkastukseen annetun valtioneuvoston päätöksen muuttamisesta](1098.md) `1098/1995`
+- [Valtioneuvoston päätös henkilönostoista nosturilla annetun valtioneuvoston päätöksen muuttamisesta](1099.md) `1099/1995`
+- [Sisäasiainministeriön päätös vartijan  asusta annetun sisäasiainministeriön päätöksen kumoamisesta](1100.md) `1100/1995`
+- [Liikenneministeriön päätös telemaksujen yleisistä perusteista annetun liikenneministeriön päätöksen muuttamisesta](1101.md) `1101/1995`
+- [Liikenneministeriön päätös vähäisestä teletoiminnasta annetun liikenneministeriön päätöksen muuttamisesta](1102.md) `1102/1995`
+- [Valtiovarainministeriön päätös  verovuoden 1994 verotuksen toimittamisesta](1103.md) `1103/1995`
+- [Laki Euroopan talousalueesta tehdyn sopimuksen eräiden määräysten hyväksymisestä ja sopimuksen soveltamisesta annetun lain muuttamisesta](1104.md) `1104/1995`
+- [Laki ETA\-sopimuksen pöytäkirjan 47 ja tiettyjen liitteiden muuttamista koskevan ETA:n sekakomitean päätöksen n:o 7/94 eräiden määräysten hyväksymisestä ja päätöksen soveltamisesta annetun lain eräiden säännösten kumoamisesta](1105.md) `1105/1995`
+- [Asetus kansaneläkelaitoksen tehtävistä toimeenpantaessa neuvoston asetuksen \(ETY\) N:o 1408/71 eräitä säännöksiä](1106.md) `1106/1995`
+- [Asetus eläketurvakeskuksen ohjesäännön sisältävän asetuksen 1 §:n muuttamisesta](1107.md) `1107/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](1108.md) `1108/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](1109.md) `1109/1995`
+- [Asetus luvanvaraisesta tavaraliikenteestä tiellä annetun asetuksen muuttamisesta](1110.md) `1110/1995`
+- [Asetus luvanvaraisesta henkilöliikenteestä tiellä annetun asetuksen 7 §:n muuttamisesta](1111.md) `1111/1995`
+- [Poliisiasetus](1112.md) `1112/1995`
+- [Asetus merimiesasiain neuvottelukunnasta annetun asetuksen muuttamisesta](1113.md) `1113/1995`
+- [Kauppa\- ja teollisuusministeriön päätös sähköllä toimivien hissien sekä eräiden muiden nosto\- ja siirtolaitteiden tarkastamisesta ja huoltamisesta](1114.md) `1114/1995`
+- [Liikenneministeriön päätös  luvanvaraisen tavaraliikenteen harjoittajalta vaadittavasta ammattitaidosta ja vakuuksista annetun liikenneministeriön päätöksen muuttamisesta](1115.md) `1115/1995`
+- [Asetus poliisin henkilörekistereistä](1116.md) `1116/1995`
+- [Asetus valtioneuvoston oikeuskanslerin ohjesäännön 6 §:n muuttamisesta](1117.md) `1117/1995`
+- [Asetus puolustusvoimien ajokorteista annetun asetuksen 5 ja 31 §:n muuttamisesta](1118.md) `1118/1995`
+- [Asetus Valtiontakuukeskuksesta annetun asetuksen muuttamisesta](1119.md) `1119/1995`
+- [Asetus sosiaaliturvan tutkimus\- ja kehittämistoiminnan neuvottelukunnasta annetun asetuksen muuttamisesta](1120.md) `1120/1995`
+- [Asetus tarkastuslautakunnasta annetun asetuksen 2 ja 7 §:n muuttamisesta](1121.md) `1121/1995`
+- [Valtioneuvoston päätös valtionavustuksia koskevien yleismääräysten muuttamisesta](1122.md) `1122/1995`
+- [Kauppa\- ja teollisuusministeriön päätös  yleisestä poikkeuksesta kananmuna\-asetukseen](1123.md) `1123/1995`
+- [Asetus tieliikennelain muuttamisesta annetun lain voimaantulosta](1124.md) `1124/1995`
+- [Asetus ensivakuutusliikettä harjoittavan vakuutusyhdistyksen vastuuvelan katteesta](1125.md) `1125/1995`
+- [Asetus liikennevakuutusasetuksen muuttamisesta](1126.md) `1126/1995`
+- [Ympäristöministeriön päätös jätteiden siirtoja koskevasta väliaikaisesta valtakunnallisesta jätesuunnitelmasta](1127.md) `1127/1995`
+- [Sisäasiainministeriön päätös poliisin virkapuvusta ja aseistuksesta annetun sisäasiainministeriön päätöksen kumoamisesta](1128.md) `1128/1995`
+- [Maa\- ja metsätalousministeriön päätös villan tuotantopalkkiosta annetun maa\- ja metsätalousministeriön päätöksen kumoamisesta](1129.md) `1129/1995`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä](1130.md) `1130/1995`
+- [Verohallituksen päätös ennakonpidätyksen toimittamisvelvollisuudesta](1131.md) `1131/1995`
+- [Asetus puolustusvoimista annetun asetuksen muuttamisesta](1132.md) `1132/1995`
+- [Asetus sotilas\- ja palvelusarvoista annetun asetuksen 11 §:n muuttamisesta](1133.md) `1133/1995`
+- [Valtioneuvoston päätös  valtionosuuden perusteena olevien opetus\- ja kirjastotoimen yksikköhintojen keskimääräisistä markkamääristä vuonna 1996](1134.md) `1134/1995`
+- [Valtioneuvoston päätös omistusaravalainan myöntämisessä, omistusasuntokorkotukilainaksi hyväksymisessä sekä asukkaaksi valitsemisessa sovellettavista perusteista](1135.md) `1135/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1136.md) `1136/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1137.md) `1137/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](1138.md) `1138/1995`
+- [Asetus tuotevastuulain 5 §:n soveltamisesta Liechtensteinin ruhtinaskuntaan](1139.md) `1139/1995`
+- [Asetus Euroopan unionin ydinaseettomien jäsenvaltioiden, Euroopan atomienergiayhteisön ja Kansainvälisen atomienergiajärjestön välillä ydinsulkusopimuksen III artiklan 1 ja 4 kohdan täytäntöönpanosta tehdyn sopimuksen voimaansaattamisesta](1140.md) `1140/1995`
+- [Asetus Latinalaisen Amerikan kehityspankin perustamissopimuksen ja alueen ulkopuolisten maiden liittymistä koskevien yleisten sääntöjen muutosten voimaansaattamisesta](1141.md) `1141/1995`
+- [Asetus Teknillisestä tarkastuskeskuksesta](1142.md) `1142/1995`
+- [Asetus turvatekniikan keskuksesta](1143.md) `1143/1995`
+- [Valtioneuvoston päätös mehiläistaloudelle vuodelta 1995 maksettavasta kansallisesta tuesta](1144.md) `1144/1995`
+- [Oikeusministeriön päätös käräjäoikeuksien kanslioiden ja istuntopaikkojen sijainnista annetun oikeusministeriön päätöksen 1 §:n muuttamisesta](1145.md) `1145/1995`
+- [Valtiovarainministeriön päätös Yhdistyneiden Kansakuntien 50\-vuotisjuhlan johdosta lyötävästä juhlarahasta](1146.md) `1146/1995`
+- [Asetus kuluttajalle myytäväksi tarkoitettujen jalkineiden pääasiallisissa ainesosissa käytettäviä materiaaleja koskevista merkinnöistä](1147.md) `1147/1995`
+- [Asetus Viron kanssa yhteistyöstä rikosten torjunnassa tehdyn sopimuksen voimaansaattamisesta](1148.md) `1148/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1149.md) `1149/1995`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös eräiden tuotantoeläinten sekä niiden alkioiden ja sukusolujen eläintautivaatimuksista Euroopan yhteisön sisämarkkinoilla annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen muuttamisesta](1150.md) `1150/1995`
+- [Laki holhouslain muuttamisesta](1151.md) `1151/1995`
+- [Laki avioliittolain 86 §:n muuttamisesta](1152.md) `1152/1995`
+- [Laki perintökaaren 23 luvun 3 ja 7 §:n muuttamisesta](1153.md) `1153/1995`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain muuttamisesta](1154.md) `1154/1995`
+- [Asetus oikeusministeriöstä annetun asetuksen muuttamisesta](1155.md) `1155/1995`
+- [Asetus vankeinhoitolaitoksesta annetun asetuksen muuttamisesta](1156.md) `1156/1995`
+- [Asetus työntekijäin eläkeasetuksen 9 §:n ja 9 a §:n soveltamisesta vuonna 1995](1157.md) `1157/1995`
+- [Valtioneuvoston päätös vuokratalolainojen ja asumisoikeustalojen lainojen vuosimaksun tarkistuksen alentamisesta](1158.md) `1158/1995`
+- [Maa\- ja metsätalousministeriön päätös Suomen lipun alla purjehtivien alusten turskan pyynnin keskeyttämisestä Viron vesialueella](1159.md) `1159/1995`
+- [Maa\- ja metsätalousministeriön päätös pohjoiseen tukeen sisältyvän porotaloudelle poronhoitovuodelta 1995/96 maksettavan eläinkohtaisen tuen täytäntöönpanosta](1160.md) `1160/1995`
+- [Suomen Pankin ilmoitus  
+                    
+                         Suomen Pankin peruskorosta](1161.md) `1161/1995`
+- [Asetus paineastia\-asetuksen muuttamisesta](1162.md) `1162/1995`
+- [Asetus vakausasetuksen muuttamisesta](1163.md) `1163/1995`
+- [Asetus jalometallituotteista annetun asetuksen muuttamisesta](1164.md) `1164/1995`
+- [Asetus kattilalaitosten käytön valvojien pätevyyskirjoista annetun asetuksen muuttamisesta](1165.md) `1165/1995`
+- [Asetus metrologian neuvottelukunnasta annetun asetuksen 1 §:n muuttamisesta](1166.md) `1166/1995`
+- [Asetus kaivosasetuksen 21 §:n muuttamisesta](1167.md) `1167/1995`
+- [Asetus aerosoliasetuksen muuttamisesta](1168.md) `1168/1995`
+- [Asetus kaasulaiteasetuksen muuttamisesta](1169.md) `1169/1995`
+- [Asetus nestekaasuasetuksen muuttamisesta](1170.md) `1170/1995`
+- [Asetus maakaasuasetuksen muuttamisesta](1171.md) `1171/1995`
+- [Asetus räjähdeasetuksen muuttamisesta](1172.md) `1172/1995`
+- [Asetus vaarallisten kemikaalien teollisesta käsittelystä ja varastoinnista annetun asetuksen muuttamisesta](1173.md) `1173/1995`
+- [Asetus ammoniumnitraattiasetuksen muuttamisesta](1174.md) `1174/1995`
+- [Laki ulosottolain 3 luvun 20 §:n muuttamisesta](1175.md) `1175/1995`
+- [Asetus ulosottoasetuksen 7 §:n muuttamisesta](1176.md) `1176/1995`
+- [Asetus ulosottomaksuista annetun asetuksen 6 §:n muuttamisesta](1177.md) `1177/1995`
+- [Asetus oppisopimuskoulutuksesta annetun asetuksen 7 §:n muuttamisesta](1178.md) `1178/1995`
+- [Asetus Suomen ulkomaanedustustojen sijainnista annetun asetuksen muuttamisesta](1179.md) `1179/1995`
+- [Asetus huoltovarmuuskeskuksesta annetun asetuksen muuttamisesta](1180.md) `1180/1995`
+- [Puolustusministeriön päätös asevelvollisten yleisistä varusmiespalvelukseen astumispäivistä vuonna 1998](1181.md) `1181/1995`
+- [Valtioneuvoston päätös perunanviljelijälle maksettavasta kansallisesta tuesta annetun valtioneuvoston päätöksen muuttamisesta](1182.md) `1182/1995`
+- [Valtioneuvoston päätös nurmikasvien siementuotannon kansallisesta tuesta annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](1183.md) `1183/1995`
+- [Valtioneuvoston päätös maatalouden ympäristötuesta annetun valtioneuvoston päätöksen muuttamisesta](1184.md) `1184/1995`
+- [Työministeriön päätös ETY\-tyyppihyväksyttyjen traktoreiden käytöstä vaarallisissa olosuhteissa annetun valtioneuvoston päätöksen soveltamisesta](1185.md) `1185/1995`
+- [Verohallituksen päätös pidätystodistuksen antamisvelvollisuuden rajoittamisesta ja ennakonpidätyksen sekä yhtiöveron hyvityksen hyväksi lukemisesta](1186.md) `1186/1995`
+- [Kauppa\- ja teollisuusministeriön päätös kaivosten turvallisuusmääräyksistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1187.md) `1187/1995`
+- [Kauppa\- ja teollisuusministeriön päätös nostolaitoksista kaivoksissa annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1188.md) `1188/1995`
+- [Kauppa\- ja teollisuusministeriön päätös paineastia\-asetuksen soveltamisesta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1189.md) `1189/1995`
+- [Kauppa\- ja teollisuusministeriön päätös paineastiain suunnittelusta ja valmistuksesta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1190.md) `1190/1995`
+- [Kauppa\- ja teollisuusministeriön päätös paineastia\-asetuksen 4 §:ssä mainituista paineastioista annetun kauppa\- ja teollisuus\- ministeriön päätöksen muuttamisesta](1191.md) `1191/1995`
+- [Kauppa\- ja teollisuusministeriön päätös höyrykattilaan ja painesäiliöön liitetyistä putkistoista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1192.md) `1192/1995`
+- [Kauppa\- ja teollisuusministeriön päätös kuljetettavista kaasusäiliöistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1193.md) `1193/1995`
+- [Kauppa\- ja teollisuusministeriön päätös jalometallituotteista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1194.md) `1194/1995`
+- [Kauppa\- ja teollisuusministeriön päätös vaarallisten kemikaalien teollisesta käsittelystä ja varastoinnista annetun asetuksen soveltamisesta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1195.md) `1195/1995`
+- [Kauppa\- ja teollisuusministeriön päätös ammoniumnitraatista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1196.md) `1196/1995`
+- [Kauppa\- ja teollisuusministeriön päätös räjähdystarvikkeista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1197.md) `1197/1995`
+- [Kauppa\- ja teollisuusministeriön päätös palavista nesteistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1198.md) `1198/1995`
+- [Kauppa\- ja teollisuusministeriön päätös maanalaisten öljysäiliöiden määräaikaistarkastuksista annetun kauppa\- ja teollisuus\- ministeriön päätöksen muuttamisesta](1199.md) `1199/1995`
+- [Kauppa\- ja teollisuusministeriön päätös kaasuasennuksista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1200.md) `1200/1995`
+- [Kauppa\- ja teollisuusministeriön päätös nestekaasuasetuksen soveltamisesta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1201.md) `1201/1995`
+- [Kauppa\- ja teollisuusministeriön päätös turvatekniikan keskuksen suoritteiden maksullisuudesta ja maksuperusteista](1202.md) `1202/1995`
+- [Laki tupakkaverosta annetun lain muuttamisesta](1203.md) `1203/1995`
+- [Laki maatilatalouden tuloverolain 13 §:n muuttamisesta](1204.md) `1204/1995`
+- [Laki luottoverolain kumoamisesta](1205.md) `1205/1995`
+- [Laki asumisoikeustalolainojen korkotuesta annetun lain 10 ja 15 §:n muuttamisesta](1206.md) `1206/1995`
+- [Asetus vuoden 1972 yleissopimukseen kansainvälisistä säännöistä yhteentörmäämisen ehkäisemiseksi merellä liittyvien sääntöjen muutosten voimaansaattamisesta](1207.md) `1207/1995`
+- [Asetus vaarallisten aineiden kuljetukseen käytettävien säiliöiden ja pakkausten tarkastuksia suorittavasta tarkastuslaitoksesta](1208.md) `1208/1995`
+- [Ympäristöministeriön päätös rauhoitettujen eläinten ja kasvien ohjeellisista arvoista](1209.md) `1209/1995`
+- [Laki sähkölain muuttamisesta](1210.md) `1210/1995`
+- [Asetus öljylämmityslaitteistoista](1211.md) `1211/1995`
+- [Asetus kemikaaliasetuksen muuttamisesta](1212.md) `1212/1995`
+- [Asetus ampuma\-aseiden ja \-tarvikkeiden tarkastuksesta annetun asetuksen muuttamisesta](1213.md) `1213/1995`
+- [Valtioneuvoston päätös Teknillisen tarkastuskeskuksen suoritteiden maksuperusteista](1214.md) `1214/1995`
+- [Kauppa\- ja teollisuusministeriön päätös vähittäiskaupan ja eräiden työliikkeiden liikeajasta annetun lain mukaisista sunnuntaiaukiolopäivistä](1215.md) `1215/1995`
+- [Kauppa\- ja teollisuusministeriön päätös sähkölaitteiden turvallisuudesta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1216.md) `1216/1995`
+- [Kauppa\- ja teollisuusministeriön päätös sähkölaitteiden valvonnasta ja eräiltä sähkölaitteilta vaadittavasta hyväksynnästä annetun kauppa\- ja teollisuusministeriön päätöksen 7 §:n 1 momentin 1 kohdan ja liitteen 1 kumoamisesta](1217.md) `1217/1995`
+- [Kauppa\- ja teollisuusministeriön päätös kaivoskartoista](1218.md) `1218/1995`
+- [Kauppa\- ja teollisuusministeriön päätös öljylämmityslaitteistoista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1219.md) `1219/1995`
+- [Kauppa\- ja teollisuusministeriön päätös ampuma\-aseiden ja \-tarvikkeiden tarkastuksesta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1220.md) `1220/1995`
+- [Asetus kriminaalihuoltotyön valtionavusta annetun asetuksen 2 §:n kumoamisesta](1221.md) `1221/1995`
+- [Asetus maksuttomasta oikeudenkäynnistä annetun asetuksen 1 ja 9 a §:n muuttamisesta](1222.md) `1222/1995`
+- [Asetus sotilas\- ja palvelusarvoista annetun asetuksen muuttamisesta](1223.md) `1223/1995`
+- [Asetus puolustusvoimista annetun asetuksen muuttamisesta](1224.md) `1224/1995`
+- [Asetus valtiovarainministeriöstä annetun asetuksen muuttamisesta](1225.md) `1225/1995`
+- [Asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen 1 §:n muuttamisesta](1226.md) `1226/1995`
+- [Asetus ilmailulta rajoitetuista alueista](1227.md) `1227/1995`
+- [Maa\- ja metsätalousministeriön päätös Suomen ja Ruotsin välisestä kalastuskiintiön vaihtamisesta](1228.md) `1228/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1229.md) `1229/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1230.md) `1230/1995`
+- [Laki valtion eläkelain muuttamisesta](1231.md) `1231/1995`
+- [Laki valtion eläkelain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1232.md) `1232/1995`
+- [Laki valtion perhe\-eläkelain muuttamisesta](1233.md) `1233/1995`
+- [Laki valtion eläkerahastosta annetun lain muuttamisesta](1234.md) `1234/1995`
+- [Laki musiikkioppilaitoksista annetun lain 24 §:n muuttamisesta](1235.md) `1235/1995`
+- [Laki ammatillisista oppilaitoksista annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1236.md) `1236/1995`
+- [Laki ammatillisista opettajankoulutuslaitoksista annetun lain 19 §:n kumoamisesta annetun lain 2 §:n muuttamisesta](1237.md) `1237/1995`
+- [Laki kansanterveyskertomuksen antamisesta eduskunnalle](1238.md) `1238/1995`
+- [Asetus nimikirja\-asetuksen muuttamisesta](1239.md) `1239/1995`
+- [Asetus eläinlääkintähuoltoasetuksen muuttamisesta](1240.md) `1240/1995`
+- [Asetus palkkaturva\-asetuksen 1 §:n muuttamisesta](1241.md) `1241/1995`
+- [Valtiovarainministeriön päätös eräiden ulkomailla rekisteröityjen ajoneuvojen vapauttamisesta moottoriajoneuvoverosta tai veron alentamisesta annetun valtiovarainministeriön päätöksen muuttamisesta annetun valtiovarainministeriön päätöksen voimaantulosäännöksen muuttamisesta](1242.md) `1242/1995`
+- [Laki leimaverolain muuttamisesta](1243.md) `1243/1995`
+- [Laki kansaneläkelaitoksen rahoituksen väliaikaisesta muuttamisesta vuonna 1996](1244.md) `1244/1995`
+- [Asetus Kyproksen tasavallan kanssa tehdyn lentoliikennesopimuksen voimaansaattamisesta](1245.md) `1245/1995`
+- [Valtioneuvoston päätös käytöstä poistettujen renkaiden hyödyntämisestä ja käsittelystä](1246.md) `1246/1995`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavasta lihasta ja lihatuotteista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](1247.md) `1247/1995`
+- [Opetusministeriön päätös ylioppilastutkintolautakunnan suoritteiden maksullisuudesta](1248.md) `1248/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1249.md) `1249/1995`
+- [Laki laintarkastuskunnasta annetun lain väliaikaisesta muuttamisesta](1250.md) `1250/1995`
+- [Laki poliisin tehtävien suorittamisesta puolustusvoimissa](1251.md) `1251/1995`
+- [Laki työntekijäin eläkelain 4 d §:n muuttamisesta](1252.md) `1252/1995`
+- [Laki merimieseläkelain muuttamisesta](1253.md) `1253/1995`
+- [Asetus työntekijäin eläkeasetuksen 8 §:n muuttamisesta](1254.md) `1254/1995`
+- [Asetus yleisistä teistä annetun asetuksen muuttamisesta](1255.md) `1255/1995`
+- [Kauppa\- ja teollisuusministeriön päätös verkkopalveluiden myyntiehtojen ja \-hintojen ilmoittamisesta sähkömarkkinaviranomaiselle](1256.md) `1256/1995`
+- [Kauppa\- ja teollisuusministeriön päätös sähkön myyntihintojen erittelystä laskutuksessa](1257.md) `1257/1995`
+- [Asetus maa\- ja metsätalousministeriöstä annetun asetuksen muuttamisesta](1258.md) `1258/1995`
+- [Asetus maa\- ja metsätalouden rakennepoliittisista toimenpiteistä](1259.md) `1259/1995`
+- [Asetus teknologian kehittämiskeskuksesta annetun asetuksen muuttamisesta](1260.md) `1260/1995`
+- [Valtioneuvoston päätös puutarhatalouden korkotukilainojen yleisistä ehdoista](1261.md) `1261/1995`
+- [Valtioneuvoston päätös eräiden rahoituslaitosten myöntämien puutarhatalouden luottojen korkotuesta](1262.md) `1262/1995`
+- [Verohallituksen päätös matkakuluvähennyksen määrästä vuodelta 1995 toimitettavassa verotuksessa](1263.md) `1263/1995`
+- [Maa\- ja metsätalousministeriön päätös Suomen lipun alla purjehtivien alusten harjoittaman lohen pyynnin keskeyttämisestä](1264.md) `1264/1995`
+- [Valtiovarainministeriön päätös EU\-juhlarahan lyömisestä](1265.md) `1265/1995`
+- [Laki sotilasavustuslain muuttamisesta](1266.md) `1266/1995`
+- [Laki tapaturma\- ja liikennevakuutuslaitoksilta vuodelta 1996 perittävästä maksusta](1267.md) `1267/1995`
+- [Laki valtiokonttorista annetun lain 2 §:n muuttamisesta](1268.md) `1268/1995`
+- [Asetus vieraskielisistä yksityisistä kouluista annetun asetuksen muuttamisesta](1269.md) `1269/1995`
+- [Asetus kauppakamariasetuksen muuttamisesta](1270.md) `1270/1995`
+- [Asetus oman asunnon hankintaan myönnettävien lainojen korkotuesta annetun asetuksen muuttamisesta](1271.md) `1271/1995`
+- [Valtioneuvoston päätös varautumisesta ydinjätehuollon kustannuksiin annetun valtioneuvoston päätöksen muuttamisesta](1272.md) `1272/1995`
+- [Valtioneuvoston päätös valtion ydinjätehuoltorahaston varoista annettavien lainojen yleisistä ehdoista annetun valtioneuvoston päätöksen muuttamisesta](1273.md) `1273/1995`
+- [Valtioneuvoston päätös yritystuesta annetun valtioneuvoston päätöksen 9 §:n muuttamisesta](1274.md) `1274/1995`
+- [Sosiaali\- ja terveysministeriön päätös lapsilisän maksupäivästä](1275.md) `1275/1995`
+- [Maa\- ja metsätalousministeriön päätös siirtymäkauden tuen maksamisesta kalanviljelyelinkeinolle](1276.md) `1276/1995`
+- [Maa\- ja metsätalousministeriön päätös perunanviljelijälle maksettavan kansallisen tuen suuruudesta](1277.md) `1277/1995`
+- [Laki Latvian kanssa keskinäisestä avunannosta tulliasioissa tehdyn sopimuksen eräiden määräysten hyväksymisestä](1278.md) `1278/1995`
+- [Asetus Latvian kanssa keskinäisestä avunannosta tulliasioissa tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1279.md) `1279/1995`
+- [Laki Euroopan yhteisön yhteisen kalastuspolitiikan täytäntöönpanosta annetun lain 4 ja 7 §:n muuttami\- sesta](1280.md) `1280/1995`
+- [Laki alkoholilain 36 ja 40 §:n muuttamisesta](1281.md) `1281/1995`
+- [Asetus metsäveroasetuksen muuttamisesta](1282.md) `1282/1995`
+- [Valtiovarainministeriön päätös valtiokonttorin maksullisista suoritteista annetun valtiovarainministeriön päätöksen 2 §:n muuttamisesta](1283.md) `1283/1995`
+- [Maa\- ja metsätalousministeriön päätös eräistä kasvintuotannon tarkastuskeskuksen suoritteista perittävistä maksuista](1284.md) `1284/1995`
+- [Verohallituksen päätös niistä perusteista, joiden mukaan muun kiinteistön kuin maatilan maapohjan verotusarvo lasketaan vuodelta 1995 toimitettavassa verotuksessa](1285.md) `1285/1995`
+- [Verohallituksen päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](1286.md) `1286/1995`
+- [Laki oikeusrekisterikeskuksesta](1287.md) `1287/1995`
+- [Laki hovioikeuden päätösvaltaisen kokoonpanon väliaikaisesta muuttamisesta annetun lain 1 ja 4 §:n muuttamisesta](1288.md) `1288/1995`
+- [Asetus metsästysasetuksen muuttamisesta](1289.md) `1289/1995`
+- [Valtioneuvoston päätös eräiden eläkesäätiöiden valvontaa koskevien tehtävien siirtämisestä eläketurvakeskukselle](1290.md) `1290/1995`
+- [Liikenneministeriön päätös vaarallisten tavaroiden kansainvälisissä tiekuljetuksissa vaadittavien pakkausten tyyppihyväksymisten toimivaltaisista viranomaisista annetun liikenneministeriön päätöksen muuttamisesta](1291.md) `1291/1995`
+- [Oikeusministeriön päätös käräjäoikeuksien kanslioiden ja istuntopaikkojen sijainnista annetun oikeusministeriön päätöksen 1 §:n muuttamisesta](1292.md) `1292/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](1293.md) `1293/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](1294.md) `1294/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1295.md) `1295/1995`
+- [Asetus Venäjän kanssa Niiralan rajanylityspaikan avaamisesta kansainväliselle auto\- ja rautatieliikenteelle tehdyn sopimuksen voimaansaattamisesta](1296.md) `1296/1995`
+- [Asetus liikennemerkkejä ja \-opasteita koskevan yleissopimuksen ja sen liitteiden 1―9 muutosten voimaansaattamisesta](1297.md) `1297/1995`
+- [Asetus liikennemerkkejä ja \-opasteita koskevan yleissopimuksen voimaansaattamisesta annetun asetuksen 2 §:n 3 kohdan kumoamisesta](1298.md) `1298/1995`
+- [Asetus liikennemerkkejä ja \-opasteita koskevaa yleissopimusta täydentävän eurooppalaisen sopimuksen liitteeseen tehtyjen muutosten voimaansaattamisesta](1299.md) `1299/1995`
+- [Asetus liikennemerkkejä ja \-opasteita koskevaa yleissopimusta täydentävän eurooppalaisen sopimuksen voimaansaattamisesta annetun asetuksen 2 §:n 2 kohdan muuttamisesta](1300.md) `1300/1995`
+- [Asetus liikennemerkkejä ja \-opasteita koskevaa yleissopimusta täydentävään eurooppalaiseen sopimukseen liitettävän tiemerkintöjä käsittelevään pöytäkirjaan tehtyjen muutosten voimaansaattamisesta](1301.md) `1301/1995`
+- [Asetus liikennemerkkejä ja \-opasteita koskevaa yleissopimusta täydentävään eurooppalaiseen sopimukseen liitettävän tiemerkintöjä käsittelevän pöytäkirjan voimaansaattamisesta annetun asetuksen 2 §:n 2 momentin muuttamisesta](1302.md) `1302/1995`
+- [Valtioneuvoston päätös asuinrakennusten ja asuntojen korjaustoimintaan myönnettävien avustusten jakoperusteista annetun valtioneuvoston päätöksen muuttamisesta](1303.md) `1303/1995`
+- [Sosiaali\- ja terveysministeriön päätös eräiden eläkekassojen valvontaa koskevien tehtävien siirtämisestä eläketurvakeskukselle](1304.md) `1304/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1305.md) `1305/1995`
+- [Laki lääninoikeuslain muuttamisesta ja 10 §:n väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1306.md) `1306/1995`
+- [Laki vartioimisliikelain 2 §:n muuttamisesta](1307.md) `1307/1995`
+- [Laki väestötietolain 18 §:n muuttamisesta](1308.md) `1308/1995`
+- [Laki indeksiehdon käytöstä vuosia 1996 ja 1997 koskevissa työ\- ja virkaehtosopimuksissa](1309.md) `1309/1995`
+- [Laki merimiesten palkkaturvalain muuttamisesta](1310.md) `1310/1995`
+- [Laki työaikalain muuttamisesta](1311.md) `1311/1995`
+- [Laki kauppaliikkeiden ja toimistojen työaikalain muuttamisesta](1312.md) `1312/1995`
+- [Asetus vartioimisliikeasetuksen muuttamisesta](1313.md) `1313/1995`
+- [Asetus sähköisen viestinnän varautumisesta](1314.md) `1314/1995`
+- [Valtioneuvoston päätös meijerimaidon viitemäärien vähentämisestä maksettavista korvauksista](1315.md) `1315/1995`
+- [Laki evankelis\-luterilaisen kirkon eläkelain 1 §:n muuttamisesta](1316.md) `1316/1995`
+- [Laki evankelis\-luterilaisen kirkon perhe\-eläkelain 1 §:n muuttamisesta](1317.md) `1317/1995`
+- [Laki opintotukilain muuttamisesta](1318.md) `1318/1995`
+- [Laki maatalousyrittäjien eläkelain 10 §:n muuttamisesta](1319.md) `1319/1995`
+- [Asetus korkeakoulujen arviointineuvostosta](1320.md) `1320/1995`
+- [Asetus hunajasta annetun asetuksen kumoamisesta](1321.md) `1321/1995`
+- [Asetus maitojauheesta annetun asetuksen kumoamisesta](1322.md) `1322/1995`
+- [Asetus voiasetuksen kumoamisesta](1323.md) `1323/1995`
+- [Asetus kananmuna\-asetuksen kumoamisesta](1324.md) `1324/1995`
+- [Asetus eräistä marja\-, hedelmä\- ja kasvisvalmisteista sekä eräistä juomista annetun asetuksen kumoamisesta](1325.md) `1325/1995`
+- [Asetus sähkölain säännösten soveltamatta jättämisestä terveydenhuollon laitteisiin ja tarvikkeisiin](1326.md) `1326/1995`
+- [Kauppa\- ja teollisuusministeriön päätös lääketieteessä ja eläinlääketieteessä käytettävien sähkökäyttöisten lääkintälaitteiden sähköturvallisuusvaatimuksista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1327.md) `1327/1995`
+- [Valtioneuvoston päätös työympäristöstä aluksessa annetun valtioneuvoston päätöksen 8 ja 18 §:n muuttamisesta](1328.md) `1328/1995`
+- [Valtioneuvoston päätös laivatyössä noudatettavista järjestysohjeista annetun valtioneuvoston päätöksen muuttamisesta](1329.md) `1329/1995`
+- [Liikenneministeriön päätös palveluoperaattorien yhdysliikenteestä](1330.md) `1330/1995`
+- [Kauppa\- ja teollisuusministeriön päätös kananmunista ja muista linnunmunista](1331.md) `1331/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1332.md) `1332/1995`
+- [Laki tuloverolain muuttamisesta](1333.md) `1333/1995`
+- [Laki eräiden valtion ammatillisten oppilaitosten kiinteistöjen luovuttamisesta kunnalle tai kuntayhtymälle](1334.md) `1334/1995`
+- [Asetus kansainvälisistä pääliikenneväylistä tehdyn eurooppalaisen sopimuksen \(AGR\) liitteiden I ja II muutosten voimaansaattamisesta](1335.md) `1335/1995`
+- [Asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteeseen tehtyjen muutosten voimaansaattamisesta](1336.md) `1336/1995`
+- [Asetus vuoden 1978 kansainvälisen merenkulkijoiden koulutusta, pätevyyskirjoja ja vahdinpitoa koskevan yleissopimuksen liitteen muutosten voimaansaattamisesta](1337.md) `1337/1995`
+- [Asetus eräistä väliaikaisista poikkeuksista Yhdistyneiden Kansakuntien turvallisuusneuvoston Jugoslavian liittotasavaltaa \(Serbia ja Montenegro\) ja eräitä Kroatian tasavallan ja Bosnian ja Herzegovinan tasavallan alueita koskeviin päätöksiin perustuvien velvoitusten täyttämisestä annetun asetuksen soveltamiseen](1338.md) `1338/1995`
+- [Maa\- ja metsätalousministeriön päätös luonnonmukaisesta maataloustuotannosta sekä luonnonmukaisesti tuotettujen maataloustuotteiden ja elintarvikkeiden valvonnan järjestämisestä](1339.md) `1339/1995`
+- [Maa\- ja metsätalousministeriön päätös metsämarjojen ja \-sienten alkutuotevähennyksen poistumista korvaavasta poimintatuesta](1340.md) `1340/1995`
+- [Laki kuntien yleisestä kalleusluokituksesta annetun lain 6 §:n muuttamisesta](1341.md) `1341/1995`
+- [Laki nestemäisten polttoaineiden valmisteverosta annetun lain liitteenä olevan verotaulukon muuttamisesta](1342.md) `1342/1995`
+- [Asetus ulkomaalaisten yritysostojen seurannasta annetun lain 12 §:n mukaisesta seurannan lakkauttamisesta eräiden valtioiden osalta](1343.md) `1343/1995`
+- [Asetus poliisin tehtävien suorittamisesta puolustusvoimissa](1344.md) `1344/1995`
+- [Asetus väylämaksuasetuksen muuttamisesta](1345.md) `1345/1995`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös vastustettavista eläintaudeista ja eläintautien ilmoittamisesta](1346.md) `1346/1995`
+- [Laki vesilain muuttamisesta](1347.md) `1347/1995`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](1348.md) `1348/1995`
+- [Asetus eräisiin lämmityslaitoshankkeisiin myönnettävistä lainoista ja korkotuesta annetun asetuksen 9 §:n muuttamisesta](1349.md) `1349/1995`
+- [Asetus mustalaisväestön asunto\-olojen parantamisesta annetun asetuksen 14 §:n muuttamisesta](1350.md) `1350/1995`
+- [Valtioneuvoston päätös lainaehdoiltaan muutettujen vuokratalolainojen koroista annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](1351.md) `1351/1995`
+- [Valtioneuvoston  päätös metsätaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](1352.md) `1352/1995`
+- [Valtioneuvoston päätös porotaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](1353.md) `1353/1995`
+- [Laki oppisopimuskoulutuksesta annetun lain 16 §:n muuttamisesta](1354.md) `1354/1995`
+- [Laki oppisopimuskoulutuksesta annetun lain 16 §:n soveltamisesta vuosina 1995 ja 1996 annetun lain kumoamisesta](1355.md) `1355/1995`
+- [Laki kuntien kulttuuritoiminnasta annetun lain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1356.md) `1356/1995`
+- [Laki taiteilijaprofessorin viroista ja valtion taiteilija\-apurahoista annetun lain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1357.md) `1357/1995`
+- [Laki eräistä kirjailijoille ja kääntäjille suoritettavista apurahoista ja avustuksista annetun lain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1358.md) `1358/1995`
+- [Laki kirjastolain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1359.md) `1359/1995`
+- [Laki kansaneläkelain 3 ja 59 §:n väliaikaisesta muuttamisesta](1360.md) `1360/1995`
+- [Laki vuodelta 1996 suoritettavasta sairausvakuutusmaksusta](1361.md) `1361/1995`
+- [Laki työnantajan lapsilisämaksun ja vakuutetun kansaneläkevakuutusmaksun perimättä jättämisestä vuodelta 1996](1362.md) `1362/1995`
+- [Laki sairausvakuutuslain 59 §:n väliaikaisesta muuttamisesta](1363.md) `1363/1995`
+- [Laki pienyrittäjän vuosilomarahasta annetun lain soveltamatta jättämisestä annetun lain 1 ja 2 §:n muuttamisesta](1364.md) `1364/1995`
+- [Asetus työnantajan sosiaaliturvamaksusta annetun asetuksen 1 §:n muuttamisesta](1365.md) `1365/1995`
+- [Valtioneuvoston päätös nuorille viljelijöille myönnettävästä käynnistystuesta](1366.md) `1366/1995`
+- [Sisäasiainministeriön poliisimääräys eräistä liikkumis\- ja oleskelukielloista](1367.md) `1367/1995`
+- [Valtiovarainministeriön päätös  vesivoimalaitoksen ja sen rakenteiden jälleenhankinta\-arvon perusteista](1368.md) `1368/1995`
+- [Valtiovarainministeriön päätös rakennusten jälleenhankinta\-arvon perusteista](1369.md) `1369/1995`
+- [Maa\- ja metsätalousministeriön päätös pysyvän luonnonhaitan korvaamista koskevan tuen myöntämisen perusteena olevan yksikkömäärän rajoittamisesta](1370.md) `1370/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1371.md) `1371/1995`
+- [Laki eräistä elintarvikerasvoista annetun lain kumoamisesta](1372.md) `1372/1995`
+- [Valtioneuvoston päätös maidon kuljetusavustuksista](1373.md) `1373/1995`
+- [Valtioneuvoston päätös lihan kuljetusavustuksista](1374.md) `1374/1995`
+- [Valtioneuvoston päätös  syöpää aiheuttavia, perimää vaurioittavia ja lisääntymiselle vaarallisia aineita sekä tiettyjä kloorattuja liuottimia koskevista kielloista ja rajoituksista](1375.md) `1375/1995`
+- [Valtiovarainministeriön päätös eräiden yhteisöjen Ahvenanmaan kunnallisveron eräpäivästä verovuodelta 1994](1376.md) `1376/1995`
+- [Maa\- ja metsätalousministeriön päätös lohen pyynnin keskeyttämisestä Viron vesialueella](1377.md) `1377/1995`
+- [Suomen Pankin ilmoitus voimassa olevasta Suomen Pankin peruskorosta](1378.md) `1378/1995`
+- [Suomen Pankin ilmoitus vahvistetusta viitekorosta ja viivästyskorosta](1379.md) `1379/1995`
+- [Laki yhdistyslain 49 §:n muuttamisesta](1380.md) `1380/1995`
+- [Laki patentti\- ja rekisterihallituksen suoritteista perittävistä maksuista annetun lain 3 §:n muuttamisesta](1381.md) `1381/1995`
+- [Laki tasavallan presidentin kansliasta](1382.md) `1382/1995`
+- [Laki valtion virkamieslain eräiden säännösten kumoamisesta](1383.md) `1383/1995`
+- [Asetus yhdistysrekisteriasetuksen muuttamisesta](1384.md) `1384/1995`
+- [Julistus neljästä kiitos\-, katumus\- ja rukouspäivästä, jotka on koko maassa juhlallisesti vietettävä vuonna 1996](1385.md) `1385/1995`
+- [Laki arvo\-osuusjärjestelmästä annetun lain muuttamisesta](1386.md) `1386/1995`
+- [Laki arvo\-osuustileistä annetun lain muuttamisesta](1387.md) `1387/1995`
+- [Vuoden 1996 veroasteikkolaki](1388.md) `1388/1995`
+- [Laki tuloverolain muuttamisesta](1389.md) `1389/1995`
+- [Laki korkotulon lähdeverosta annetun lain 6 §:n muuttamisesta](1390.md) `1390/1995`
+- [Laki yhtiöveron hyvityksestä annetun lain muuttamisesta](1391.md) `1391/1995`
+- [Laki perintö\- ja lahjaverolain muuttamisesta](1392.md) `1392/1995`
+- [Laki vaikeavammaisille yrittäjille myönnettävistä veronhuojennuksista](1393.md) `1393/1995`
+- [Laki maatilatalouden tuloverolain 13 §:n 7 momentin soveltamatta jättämisestä vuosina 1996―1998](1394.md) `1394/1995`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain 3 §:n muuttamisesta](1395.md) `1395/1995`
+- [Laki hyödyllisyysmallioikeudesta annetun lain muuttamisesta](1396.md) `1396/1995`
+- [Laki maanpuolustukselle merkityksellisistä keksinnöistä annetun lain 1 §:n muuttamisesta](1397.md) `1397/1995`
+- [Laki riistanhoitomaksusta ja pyyntilupamaksusta annetun lain 3 §:n muuttamisesta](1398.md) `1398/1995`
+- [Laki metsästyslain 56 §:n muuttamisesta](1399.md) `1399/1995`
+- [Asetus metsästysasetuksen 24 §:n muuttamisesta](1400.md) `1400/1995`
+- [Asetus poron lihan tarkastamisesta annetun asetuksen 12 §:n muuttamisesta](1401.md) `1401/1995`
+- [Asetus asuntoneuvostosta annetun asetuksen 5 §:n 2 momentin muuttamisesta](1402.md) `1402/1995`
+- [Asetus arava\-asetuksen muuttamisesta](1403.md) `1403/1995`
+- [Valtioneuvoston päätös rakennussementeistä](1404.md) `1404/1995`
+- [Valtioneuvoston päätös kreosootin ja sillä käsitellyn puun käytön sekä markkinoille luovuttamisen rajoittamisesta](1405.md) `1405/1995`
+- [Laki Siemenperunakeskuksesta](1406.md) `1406/1995`
+- [Asetus Siemenperunakeskuksesta](1407.md) `1407/1995`
+- [Laki Suomen Vientiluotto Oy:n korkotuesta, valuuttakurssitappioiden korvaamisesta ja antolainauksen valtion takauksista annetun lain 1 ja 2 §:n muuttamisesta](1408.md) `1408/1995`
+- [Laki sairausvakuutuslain 7 §:n muuttamisesta](1409.md) `1409/1995`
+- [Laki aikuisten järjestelmällisen hammashuollon toimeenpanon siirtämisestä](1410.md) `1410/1995`
+- [Asetus julkisia hankintoja koskevan sopimuksen voimaansaattamisesta](1411.md) `1411/1995`
+- [Asetus Kansainvälisen demokratia\- ja vaaliapuinstituutin perustamista koskevan sopimuksen voimaansaattamisesta](1412.md) `1412/1995`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta](1413.md) `1413/1995`
+- [Asetus ajoneuvojen käytöstä tiellä annetun asetuksen 25 §:n muuttamisesta](1414.md) `1414/1995`
+- [Opetusministeriön päätös tallentamattomien ääni\- ja kuvanauhojen maahantuonnista ja valmistuksesta suoritettavan tekijänoikeudellisen maksun suuruudesta](1415.md) `1415/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](1416.md) `1416/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](1417.md) `1417/1995`
+- [\}Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös eräiden tuotantoeläinten sekä niiden alkioiden ja sukusolujen eläintautivaatimuksista Euroopan yhteisön sisämarkkinoilla annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen muuttamisesta](1418.md) `1418/1995`
+- [Asetus Tampereen teknillisestä korkeakoulusta annetun asetuksen 14 §:n muuttamisesta](1419.md) `1419/1995`
+- [Asetus Teknillisestä korkeakoulusta](1420.md) `1420/1995`
+- [Asetus eräiden korkeakoulujen opetuksesta ja opiskelijoista annetun asetuksen 1 §:n muuttamisesta](1421.md) `1421/1995`
+- [Valtioneuvoston päätös kuntien yleisen kalleusluokituksen vahvistamisesta](1422.md) `1422/1995`
+- [Maa\- ja metsätalousministeriön päätös siirtymäkauden tuen maksamisesta kalanviljelyelinkeinolle annetun maa\- ja metsätalousministeriön päätöksen 7 §:n muuttamisesta](1423.md) `1423/1995`
+- [Kauppa\- ja teollisuusministeriön päätös sähkön vähittäismyyjän myyntiehtojen ja \-hintojen julkaisemisesta ja ilmoittamisesta sähkömarkkinaviranomaiselle](1424.md) `1424/1995`
+- [Valtioneuvoston päätös eräiden opintotukilaissa \(28/72\) tarkoitettujen määrien vahvistamisesta](1425.md) `1425/1995`
+- [Valtioneuvoston päätös neljän poliisipiirin uudelleen järjestämisestä annetun valtioneuvoston päätöksen 4 §:n muuttamisesta](1426.md) `1426/1995`
+- [Valtioneuvoston päätös kahden poliisipiirin uudelleen järjestämisestä annetun valtioneuvoston päätöksen 3 §:n muuttamisesta](1427.md) `1427/1995`
+- [Valtioneuvoston päätös kahden poliisipiirin uudelleen järjestämisestä annetun valtioneuvoston päätöksen 3 §:n muuttamisesta](1428.md) `1428/1995`
+- [Valtioneuvoston päätös neljän poliisipiirin uudelleen järjestämisestä annetun valtioneuvoston päätöksen 4 §:n muuttamisesta](1429.md) `1429/1995`
+- [Valtioneuvoston päätös eräiden poliisipiirien uudelleen järjestämisestä annetun valtioneuvoston päätöksen 5 §:n muuttamisesta](1430.md) `1430/1995`
+- [Valtioneuvoston päätös eräiden poliisipiirien uudelleen järjestämisestä annetun valtioneuvoston päätöksen 4 §:n muuttamisesta](1431.md) `1431/1995`
+- [Valtioneuvoston päätös neljän poliisipiirin uudelleen järjestämisestä annetun valtioneuvoston päätöksen 4 §:n muuttamisesta](1432.md) `1432/1995`
+- [Valtioneuvoston päätös maaseudun rakennepoliittisesta ohjelmaperusteisesta tuesta metsänparannustöiden osalta](1433.md) `1433/1995`
+- [Valtioneuvoston päätös eräistä maa\- ja puutarhataloustuottajille vuodelta 1995 maksettavista tuista annetun valtioneuvoston päätöksen muuttamisesta](1434.md) `1434/1995`
+- [Valtioneuvoston päätös maa\- ja puutarhatalouden harjoittajille maksettavasta pohjoisesta tuesta annetun valtioneuvoston päätöksen muuttamisesta](1435.md) `1435/1995`
+- [Valtioneuvoston päätös perunanviljelijälle maksettavasta kansallisesta tuesta annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](1436.md) `1436/1995`
+- [Valtioneuvoston päätös kihlakuntajaosta annetun valtioneuvoston päätöksen 5 §:n muuttamisesta](1437.md) `1437/1995`
+- [Valtioneuvoston päätös kihlakuntien virastotyypistä ja kielellisestä jaotuksesta annetun valtioneuvoston päätöksen 1 ja 3 §:n muuttamisesta](1438.md) `1438/1995`
+- [Valtioneuvoston päätös kihlakunnista annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](1439.md) `1439/1995`
+- [Valtioneuvoston päätös huoltovarmuuden tavoitteista](1440.md) `1440/1995`
+- [Verohallituksen päätös vuodelta 1995 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](1441.md) `1441/1995`
+- [Verohallituksen päätös vuodelta 1996 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](1442.md) `1442/1995`
+- [Laki eräistä kuntien valtionosuuksien järjestelyistä vuonna 1996](1443.md) `1443/1995`
+- [Laki kuntien valtionosuuslain muuttamisesta](1444.md) `1444/1995`
+- [Laki kuntien kantokykyluokituksesta annetun lain kumoamisesta](1445.md) `1445/1995`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain muuttamisesta](1446.md) `1446/1995`
+- [Laki kansaneläkelain 62 §:n muuttamisesta](1447.md) `1447/1995`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](1448.md) `1448/1995`
+- [Laki kuulovammaisten ja näkövammaisten sekä liikuntavammaisten kouluista annetun lain 17 a §:n muuttamisesta](1449.md) `1449/1995`
+- [Laki vieraskielisistä yksityisistä kouluista annetun lain 3 a ja 3 b §:n muuttamisesta](1450.md) `1450/1995`
+- [Laki harjoittelukoululain 18 §:n muuttamisesta](1451.md) `1451/1995`
+- [Laki Suomalais\-venäläisestä koulusta annetun lain 10 §:n muuttamisesta](1452.md) `1452/1995`
+- [Laki Helsingin ranskalais\-suomalaisesta koulusta annetun lain 10 §:n muuttamisesta](1453.md) `1453/1995`
+- [Laki Steiner\-koulusta annetun lain 5 §:n muuttamisesta](1454.md) `1454/1995`
+- [Laki steinerpedagogisista erityiskouluista annetun lain 3 ja 4 §:n muuttamisesta](1455.md) `1455/1995`
+- [Laki oppisopimuskoulutuksesta annetun lain 15 §:n muuttamisesta](1456.md) `1456/1995`
+- [Laki Anna Tapion koulusta annetun lain 4 ja 5 §:n muuttamisesta](1457.md) `1457/1995`
+- [Laki valtionosuutta saavista liikunnan koulutuskeskuksista annetun lain 31 §:n muuttamisesta](1458.md) `1458/1995`
+- [Laki museolain 3 §:n muuttamisesta](1459.md) `1459/1995`
+- [Laki teatteri\- ja orkesterilain 5 §:n muuttamisesta](1460.md) `1460/1995`
+- [Laki nuorisotyölain 15 §:n muuttamisesta](1461.md) `1461/1995`
+- [Laki kunnille palo\- ja pelastustoimen kustannuksiin suoritettavista valtionosuuksista ja \-avustuksista annetun lain muuttamisesta](1462.md) `1462/1995`
+- [Valtioneuvoston päätös rakennuskoneiden ja \-laitteiden melupäästöjen rajoittamisesta ja määrittämisestä annetun valtioneuvoston päätöksen muuttamisesta](1463.md) `1463/1995`
+- [Valtiovarainministeriön päätös julkishallinnon ja \-talouden tilintarkastajan tutkinnon sisällöstä annetun valtiovarainministeriön päätöksen 2 §:n muuttamisesta](1464.md) `1464/1995`
+- [Laki Suomen osallistumisesta Yhdistyneiden Kansakuntien ja Euroopan turvallisuus\- ja yhteistyökonferenssin rauhanturvaamistoimintaan annetun lain muuttamisesta](1465.md) `1465/1995`
+- [Laki puolustusvoimista annetun lain 2 §:n muuttamisesta](1466.md) `1466/1995`
+- [Laki rikoslain 45 luvun 1 §:n muuttamisesta](1467.md) `1467/1995`
+- [Laki sotilasoikeudenkäyntilain 2 §:n muuttamisesta](1468.md) `1468/1995`
+- [Laki valtioneuvoston oikeuskanslerin ja eduskunnan oikeusasiamiehen tehtävien jaosta annetun lain 1 §:n muuttamisesta](1469.md) `1469/1995`
+- [Sosiaali\- ja terveysministeriön päätös lääkelaitoksen maksullisista suoritteista](1470.md) `1470/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1471.md) `1471/1995`
+- [Valtioneuvoston päätös  asumistuen määräytymisperusteista](1472.md) `1472/1995`
+- [Laki yritystuesta annetun lain muuttamisesta](1473.md) `1473/1995`
+- [Laki metsäkeskuksista ja metsätalouden kehittämiskeskuksesta](1474.md) `1474/1995`
+- [Asetus valtion virkamiesasetuksen muuttamisesta](1475.md) `1475/1995`
+- [Asetus merimiesten palkkaturva\-asetuksen muuttamisesta](1476.md) `1476/1995`
+- [Kauppa\- ja teollisuusministeriön päätös KHT\- ja HTM\-tutkintojen sisällöstä](1477.md) `1477/1995`
+- [Maa\- ja metsätalousministeriön päätös mehiläisyhteiskuntien lukumäärään perustuvan tuen suuruudesta vuonna 1995](1478.md) `1478/1995`
+- [Kauppa\- ja teollisuusministeriön päätös sähkömarkkinakeskuksen maksullisista suoritteista](1479.md) `1479/1995`
+- [Työministeriön päätös merionnettomuudessa menetetystä henkilökohtaisesta omaisuudesta työntekijälle tulevan korvauksen perusteista annetun valtioneuvoston päätöksen 1 ja 2 §:ssä tarkoitetuista markkamääristä vuonna 1996](1480.md) `1480/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä määräyksistä](1481.md) `1481/1995`
+- [Laki työntekijäin eläkelain muuttamisesta](1482.md) `1482/1995`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](1483.md) `1483/1995`
+- [Laki eräiden työsuhteessa olevien taiteilijoiden ja toimittajien eläkelain muuttamisesta](1484.md) `1484/1995`
+- [Laki yrittäjien eläkelain muuttamisesta](1485.md) `1485/1995`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](1486.md) `1486/1995`
+- [Laki kansaneläkelain muuttamisesta](1487.md) `1487/1995`
+- [Laki eläkkeensaajien asumistukilain 6 §:n muuttamisesta](1488.md) `1488/1995`
+- [Laki perhe\-eläkelain 15 b §:n muuttamisesta](1489.md) `1489/1995`
+- [Laki työntekijäin eläkelain 9 §:n soveltamisesta](1490.md) `1490/1995`
+- [Laki kansaneläkelain muuttamisesta](1491.md) `1491/1995`
+- [Laki eläkkeensaajien asumistukilain 3 §:n muuttamisesta](1492.md) `1492/1995`
+- [Laki perhe\-eläkelain 15 b §:n muuttamisesta](1493.md) `1493/1995`
+- [Laki rintamasotilaseläkelain 9 a §:n muuttamisesta](1494.md) `1494/1995`
+- [Laki työntekijäin eläkelain 8 §:n muuttamisesta](1495.md) `1495/1995`
+- [Laki kansaneläkelaissa säädettyjen eläkkeiden ja avustusten sitomisesta elinkustannuksiin annetun lain muuttamisesta](1496.md) `1496/1995`
+- [Laki asumistukilain 2 §:n muuttamisesta](1497.md) `1497/1995`
+- [Laki maatalousyrittäjien luopumistuesta annetun lain 19 §:n muuttamisesta](1498.md) `1498/1995`
+- [Laki maatalousyrittäjien sukupolvenvaihdoseläkkeestä annetun lain 16 §:n muuttamisesta](1499.md) `1499/1995`
+- [Laki sairausvakuutuslain muuttamisesta](1500.md) `1500/1995`
+- [Laki työntekijäin työeläkemaksun ja työttömyysvakuutusmaksun huomioon ottamisesta eräissä päivärahoissa](1501.md) `1501/1995`
+- [Laki kansaneläkelain 39 §:n muuttamisesta](1502.md) `1502/1995`
+- [Laki kuntoutusrahalain muuttamisesta](1503.md) `1503/1995`
+- [Laki kansaneläkelaitoksen järjestämästä kuntoutuksesta annetun lain muuttamisesta](1504.md) `1504/1995`
+- [Laki terveydenhuollosta puolustusvoimissa annetun lain muuttamisesta](1505.md) `1505/1995`
+- [Asetus työntekijäin eläkeasetuksen muuttamisesta](1506.md) `1506/1995`
+- [Asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkeasetuksen muuttamisesta](1507.md) `1507/1995`
+- [Asetus yrittäjien eläkeasetuksen muuttamisesta](1508.md) `1508/1995`
+- [Asetus maatalousyrittäjien eläkeasetuksen muuttamisesta](1509.md) `1509/1995`
+- [Asetus eräiden työsuhteessa olevien taiteilijoiden ja toimittajien eläkeasetuksen 4 §:n muuttamisesta](1510.md) `1510/1995`
+- [Asetus sairausvakuutusasetuksen muuttamisesta](1511.md) `1511/1995`
+- [Asetus kansaneläkelaitoksen järjestämästä kuntoutuksesta annetun asetuksen muuttamisesta](1512.md) `1512/1995`
+- [Asetus kuntoutusraha\-asetuksen muuttamisesta](1513.md) `1513/1995`
+- [Valtioneuvoston päätös kansaneläkkeiden sitomisesta elinkustannuksiin annetun valtioneuvoston päätöksen muuttamisesta](1514.md) `1514/1995`
+- [Valtioneuvoston päätös kuntien ryhmityksestä kansaneläkkeen maksamista varten](1515.md) `1515/1995`
+- [Valtioneuvoston päätös kuntien ryhmityksestä perhe\-eläkkeen maksamista varten](1516.md) `1516/1995`
+- [Valtioneuvoston päätös kuntien ryhmityksestä rintamasotilaseläkkeen maksamista varten](1517.md) `1517/1995`
+- [Valtioneuvoston päätös eläkkeensaajien asumistukilain mukaisista hoitomenoina hyväksyttävistä keskimääräisistä kustannuksista ja asumiskustannusten enimmäismääristä](1518.md) `1518/1995`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkelain 9 §:ssä tarkoitettujen indeksilukujen vahvistamisesta](1519.md) `1519/1995`
+- [Asetus tasavallan presidentin kanslian kansliasäännöstä](1520.md) `1520/1995`
+- [Asetus tasavallan presidentin arkistosta](1521.md) `1521/1995`
+- [Valtioneuvoston ohjesääntö](1522.md) `1522/1995`
+- [Asetus eräiden maataloustuotteiden tuonnin tarkkailusta annetun asetuksen muuttamisesta](1523.md) `1523/1995`
+- [Asetus asetuksen, joka sisältää liikennevakuutuskeskuksen säännöt, 21 §:n muuttamisesta](1524.md) `1524/1995`
+- [Laki lasten kotihoidon tuesta annetun lain muuttamisesta](1525.md) `1525/1995`
+- [Laki lasten kotihoidon tuesta annetun lain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1526.md) `1526/1995`
+- [Laki lasten päivähoidosta annetun lain 11 a §:n väliaikaisesta muuttamisesta](1527.md) `1527/1995`
+- [Laki tapaturmavirastosta annetun lain kumoamisesta](1528.md) `1528/1995`
+- [Laki rintamaveteraanien kuntoutuksesta annetun lain 5 §:n väliaikaisesta muuttamisesta](1529.md) `1529/1995`
+- [Asetus passintarkastuspaikoista annetun asetuksen muuttamisesta](1530.md) `1530/1995`
+- [Asetus kihlakunnanvirastosta annetun asetuksen muuttamisesta](1531.md) `1531/1995`
+- [Asetus hätäkeskuksia koskevasta kokeilusta](1532.md) `1532/1995`
+- [Asetus väestönsuojeluasetuksen muuttamisesta](1533.md) `1533/1995`
+- [Valtioneuvoston päätös saaristokunnista ja muiden kuntien saaristo\-osista, joihin sovelletaan saaristokuntaa koskevia säännöksiä](1534.md) `1534/1995`
+- [Sisäasiainministeriön päätös rekisteritoimistojen virka\-alueista](1535.md) `1535/1995`
+- [Laki leimaverolain muuttamisesta](1536.md) `1536/1995`
+- [Laki arvopaperimarkkinalain muuttamisesta](1537.md) `1537/1995`
+- [Laki moottoriajoneuvoverosta annetun lain muuttamisesta](1538.md) `1538/1995`
+- [Laki polttoainemaksusta annetun lain muuttamisesta](1539.md) `1539/1995`
+- [Laki alkoholi\- ja alkoholijuomaverosta annetun lain 9 §:n muuttamisesta](1540.md) `1540/1995`
+- [Laki alkoholi\- ja alkoholijuomaverosta annetun lain 8 §:n muuttamisesta](1541.md) `1541/1995`
+- [Laki alkoholilain 17 §:n muuttamisesta](1542.md) `1542/1995`
+- [Laki veronkantolain muuttamisesta](1543.md) `1543/1995`
+- [Asetus veronkantoasetuksen muuttamisesta](1544.md) `1544/1995`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Kiihtelysvaaran ja Kontiolahden kuntien välillä](1545.md) `1545/1995`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Kiteen kaupungin ja Rääkkylän kunnan välillä](1546.md) `1546/1995`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Nurmeksen kaupungin ja Valtimon kunnan välillä](1547.md) `1547/1995`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Lieksan ja Nurmeksen kaupunkien välillä](1548.md) `1548/1995`
+- [Laki tuloverolain muuttamisesta](1549.md) `1549/1995`
+- [Laki rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun lain muuttamisesta](1550.md) `1550/1995`
+- [Laki ulkomailta tulevan palkansaajan lähdeverosta](1551.md) `1551/1995`
+- [Laki kansainvälisen kaksinkertaisen verotuksen poistamisesta](1552.md) `1552/1995`
+- [Laki ennakkoperintälain muuttamisesta](1553.md) `1553/1995`
+- [Laki verotuslain 60 §:n kumoamisesta](1554.md) `1554/1995`
+- [Laki eräistä ajoneuvoista suoritettavasta ajoneuvoverosta annetun lain muuttamisesta](1555.md) `1555/1995`
+- [Laki veronlisäyksestä ja viivekorosta](1556.md) `1556/1995`
+- [Verohallintolaki](1557.md) `1557/1995`
+- [Laki verotusmenettelystä](1558.md) `1558/1995`
+- [Laki ennakkoperintälain muuttamisesta](1559.md) `1559/1995`
+- [Laki kiinteistöverolain muuttamisesta](1560.md) `1560/1995`
+- [Laki perintö\- ja lahjaverolain muuttamisesta](1561.md) `1561/1995`
+- [Laki perintökaaren 20 luvun muuttamisesta](1562.md) `1562/1995`
+- [Laki rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun lain muuttamisesta](1563.md) `1563/1995`
+- [Laki leimaverolain muuttamisesta](1564.md) `1564/1995`
+- [Laki tuloverolain muuttamisesta](1565.md) `1565/1995`
+- [Laki veronkantolain muuttamisesta](1566.md) `1566/1995`
+- [Laki verojen ja maksujen perimisestä ulosottotoimin annetun lain muuttamisesta](1567.md) `1567/1995`
+- [Laki arpajaisverolain muuttamisesta](1568.md) `1568/1995`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain muuttamisesta](1569.md) `1569/1995`
+- [Laki koiraverosta annetun lain 8 ja 12 §:n muuttamisesta](1570.md) `1570/1995`
+- [Laki korkotulon lähdeverosta annetun lain muuttamisesta](1571.md) `1571/1995`
+- [Laki ulkomaisten väliyhteisöjen osakkaiden verotuksesta annetun lain 7 §:n muuttamisesta](1572.md) `1572/1995`
+- [Laki yhtiöveron hyvityksestä annetun lain muuttamisesta](1573.md) `1573/1995`
+- [Laki merenkulun veronhuojennuksista annetun lain 8 ja 8 a §:n muuttamisesta](1574.md) `1574/1995`
+- [Laki eräiden yleishyödyllisten yhteisöjen veronhuojennuksista annetun lain 8 ja 10 §:n muuttamisesta](1575.md) `1575/1995`
+- [Laki sairausvakuutuslain muuttamisesta](1576.md) `1576/1995`
+- [Laki kansaneläkelain 18 ja 19 §:n muuttamisesta](1577.md) `1577/1995`
+- [Laki suhdannetalletuslain muuttamisesta](1578.md) `1578/1995`
+- [Asetus verotusmenettelystä](1579.md) `1579/1995`
+- [Asetus ennakkoperintäasetuksen 38 §:n muuttamisesta](1580.md) `1580/1995`
+- [Laki lomautuksen johdosta maksettavasta ylimääräisestä työttömyysvakuutusmaksusta vuonna 1996](1581.md) `1581/1995`
+- [Laki työttömyysturvalain väliaikaisesta muuttamisesta](1582.md) `1582/1995`
+- [Laki työttömyysturvalain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1583.md) `1583/1995`
+- [Laki työttömyysvakuutusmaksusta vuonna 1996](1584.md) `1584/1995`
+- [Laki vuodelta 1996 perittävästä palkansaajan työttömyysvakuutusmaksusta](1585.md) `1585/1995`
+- [Laki työttömyyskassalain 25 ja 30 §:n väliaikaisesta muuttamisesta](1586.md) `1586/1995`
+- [Asetus valtion talousarviosta annetun asetuksen 18 §:n muuttamisesta](1587.md) `1587/1995`
+- [Sosiaali\- ja terveysministeriön päätös alkoholijuomien ja väkiviinan opetus\- tai tutkimustarkoituksessa tapahtuvasta valmistuksesta](1588.md) `1588/1995`
+- [Sosiaali\- ja terveysministeriön päätös lomautuksen johdosta maksettavasta ylimääräisestä työttömyysvakuutusmaksusta vuonna 1996 annetun lain soveltamisesta](1589.md) `1589/1995`
+- [Sosiaali\- ja terveysministeriön päätös vuodelta 1996 perittävästä palkansaajan työttömyysvakuutusmaksusta annetun lain soveltamisesta](1590.md) `1590/1995`
+- [Laki Autorekisterikeskuksen muuttamisesta osakeyhtiöksi ja yhtiön eräistä tehtävistä](1591.md) `1591/1995`
+- [Laki ajoneuvohallintokeskuksesta](1592.md) `1592/1995`
+- [Laki ajoneuvojen katsastus\- ja rekisteröintitehtävien toimiluvista](1593.md) `1593/1995`
+- [Laki tieliikennelain 84 ja 106 b §:n muuttamisesta](1594.md) `1594/1995`
+- [Laki tieliikenteen tietojärjestelmästä annetun lain muuttamisesta](1595.md) `1595/1995`
+- [Laki vaarallisten aineiden kuljetuksesta annetun lain 20 §:n muuttamisesta](1596.md) `1596/1995`
+- [Asetus ajoneuvohallintokeskuksesta](1597.md) `1597/1995`
+- [Asetus ajoneuvojen rekisteröinnistä](1598.md) `1598/1995`
+- [Asetus ajoneuvojen katsastuksesta annetun asetuksen muuttamisesta](1599.md) `1599/1995`
+- [Asetus ajokorttiasetuksen muuttamisesta](1600.md) `1600/1995`
+- [Asetus vaarallisten aineiden kuljettajien ajoluvasta annetun asetuksen muuttamisesta](1601.md) `1601/1995`
+- [Asetus liikennetarvikkeiden kaupasta, asennuksesta ja korjauksesta annetun asetuksen 5 ja 8 §:n kumoamisesta](1602.md) `1602/1995`
+- [Asetus liikennevakuutusasetuksen 3 a ja 7 §:n muuttamisesta](1603.md) `1603/1995`
+- [Liikenneministeriön päätös ajoneuvojen katsastus\- ja rekisteröintitehtävien toimiluvista](1604.md) `1604/1995`
+- [Liikenneministeriön päätös ajoneuvohallintokeskuksen maksuista](1605.md) `1605/1995`
+- [Laki yksityisistä teistä annetun lain muuttamisesta](1606.md) `1606/1995`
+- [Sosiaali\- ja terveysministeriön päätös työeläkelakien ja luopumisjärjestelmiä koskevien lakien mukaisten etuuksien sitomisesta palkka\- ja hintatason muutokseen](1607.md) `1607/1995`
+- [Sosiaali\- ja terveysministeriön päätös tapaturmavakuutuslain mukaisten etuuksien ja muiden markkamäärien sitomisesta palkka\- ja hintatason muutokseen](1608.md) `1608/1995`
+- [Sosiaali\- ja terveysministeriön päätös sotilasvammalain mukaisten korvausten sitomisesta palkka\- ja hintatason muutokseen](1609.md) `1609/1995`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin työeläkemaksun ja työttömyysvakuutusmaksun huomioon ottamisesta sairausvakuutusjärjestelmän mukaisissa päivärahoissa ja kuntoutusrahalain mukaisissa kuntoutusrahoissa](1610.md) `1610/1995`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin työeläkemaksun ja työttömyysvakuutusmaksun huomioon ottamisesta tapaturmavakuutuslain perusteella maksettavissa päivärahoissa](1611.md) `1611/1995`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin työeläkemaksun ja työttömyysvakuutusmaksun huomioon ottamisesta työttömyysturvalain perusteella maksettavissa päivärahoissa](1612.md) `1612/1995`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkemaksusta annetun sosiaali\- ja terveysministeriön päätöksen 3 §:n muuttamisesta](1613.md) `1613/1995`
+- [Sosiaali\- ja terveysministeriön päätös lääkekorvauslautakunnan maksullisista suoritteista](1614.md) `1614/1995`
+- [Laki Etelä\-Afrikan kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](1615.md) `1615/1995`
+- [Asetus Etelä\-Afrikan kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1616.md) `1616/1995`
+- [Laki Tsekin kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](1617.md) `1617/1995`
+- [Asetus Tsekin kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1618.md) `1618/1995`
+- [Laki Ukrainan kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](1619.md) `1619/1995`
+- [Asetus Ukrainan kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1620.md) `1620/1995`
+- [Laki merenkulkulaitoksesta annetun lain 2 §:n muuttamisesta](1621.md) `1621/1995`
+- [Asetus sosiaali\- ja terveysalan koulutuksesta Ahvenanmaan maakunnassa](1622.md) `1622/1995`
+- [Asetus Kastelholman linnan, Vita Björnin, Prästön luotsimökin ja Lemböten kappelin siirtämisestä Ahvenanmaan maakunnalle](1623.md) `1623/1995`
+- [Valtiovarainministeriön päätös tilastokeskuksen suoritteiden maksullisuudesta](1624.md) `1624/1995`
+- [Liikenneministeriön päätös  Telehallintokeskuksen maksuista annetun liikenneministeriön päätöksen muuttamisesta](1625.md) `1625/1995`
+- [Sosiaali\- ja terveysministeriön päätös sosiaali\- ja terveysministeriön maksullisista suoritteista](1626.md) `1626/1995`
+- [Sosiaali\- ja terveysministeriön päätös terveydenhuollon oikeusturvakeskuksen maksullisista suoritteista](1627.md) `1627/1995`
+- [Sosiaali\- ja terveysministeriön päätös sosiaali\- ja terveysalan tutkimus\- ja kehittämiskeskuksen maksullisista suoritteista](1628.md) `1628/1995`
+- [Sosiaali\- ja terveysministeriön päätös valtion mielisairaaloiden maksullisista suoritteista](1629.md) `1629/1995`
+- [Sosiaali\- ja terveysministeriön päätös valtion koulukotien maksullisista suoritteista](1630.md) `1630/1995`
+- [Puolustusministeriön päätös puolustusvoimien terveydenhuoltovastuulla oleville kotihoidon ajalta maksettavan ruokarahan suuruudesta](1631.md) `1631/1995`
+- [Laki huoltovarmuuden turvaamisesta annetun lain 11 §:n muuttamisesta](1632.md) `1632/1995`
+- [Asetus sähkölaitteistojen tarkastuksista perittävistä maksuista annetun asetuksen 2 ja 3 §:n muuttamisesta](1633.md) `1633/1995`
+- [Asetus sähkötöiden valvonnasta perittävistä maksuista annetun asetuksen 2 §:n muuttamisesta](1634.md) `1634/1995`
+- [Asetus sähkölaitteiden hyväksynnästä ja valvonnasta perittävistä maksuista annetun asetuksen eräiden säännösten kumoamisesta](1635.md) `1635/1995`
+- [Valtioneuvoston päätös valtion liikelaitoksen työttömyysvakuutusmaksusta vuonna 1996](1636.md) `1636/1995`
+- [Kauppa\- ja teollisuusministeriön päätös sähköverkkotoiminnan tunnuslukujen julkaisemisesta ja ilmoittamisesta sähkömarkkinaviranomaiselle](1637.md) `1637/1995`
+- [Sosiaali\- ja terveysministeriön päätös vakuutusmatemaatikon kelpoisuudesta](1638.md) `1638/1995`
+- [Laki rikosrekisterilain muuttamisesta](1639.md) `1639/1995`
+- [Laki rikoslain 48 luvun 4 §:n muuttamisesta](1640.md) `1640/1995`
+- [Laki Suomen Hallitusmuodon 11 §:n muuttamisesta](1641.md) `1641/1995`
+- [Laki valtiopäiväjärjestyksen 6 §:n muuttamisesta](1642.md) `1642/1995`
+- [Laki kansanedustajain vaaleista annetun lain muuttamisesta](1643.md) `1643/1995`
+- [Laki tasavallan presidentin vaalista annetun lain muuttamisesta](1644.md) `1644/1995`
+- [Laki Suomesta Euroopan parlamenttiin valittavien edustajien vaaleista annetun lain muuttamisesta](1645.md) `1645/1995`
+- [Laki menettelystä neuvoa\-antavissa kansanäänestyksissä annetun lain 4 §:n muuttamisesta](1646.md) `1646/1995`
+- [Laki kuntalain 10 ja 26 §:n muuttamisesta](1647.md) `1647/1995`
+- [Laki kunnallisvaalilain muuttamisesta](1648.md) `1648/1995`
+- [Laki neuvoa\-antavissa kunnallisissa kansanäänestyksissä noudatettavasta menettelystä annetun lain muuttamisesta](1649.md) `1649/1995`
+- [Laki kotikuntalain muuttamisesta](1650.md) `1650/1995`
+- [Laki tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista annetun lain muuttamisesta](1651.md) `1651/1995`
+- [Laki oikeudenkäynnistä huoneenvuokra\-asioissa annetun lain muuttamisesta](1652.md) `1652/1995`
+- [Laki maksuttomasta oikeudenkäynnistä annetun lain 27 §:n 2 momentin kumoamisesta](1653.md) `1653/1995`
+- [Laki tekijänoikeuslain muuttamisesta](1654.md) `1654/1995`
+- [Asetus sisäpiirin kaupankäynnistä tehdyn yleissopimuksen ja sen pöytäkirjan voimaansaattamisesta](1655.md) `1655/1995`
+- [Asetus merenkulkijoiden terveyden\- ja sairaanhoitoa koskevan yleissopimuksen voimaansaattamisesta](1656.md) `1656/1995`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeissa käytettävistä makeutusaineista](1657.md) `1657/1995`
+- [Kauppa\- ja teollisuusministeriön päätös pakatusta vedestä](1658.md) `1658/1995`
+- [Kauppa\- ja teollisuusministeriön päätös marja\- ja hedelmävalmisteiden pakkausmerkinnöistä](1659.md) `1659/1995`
+- [Laki henkilöstörahastolain muuttamisesta](1660.md) `1660/1995`
+- [Laki palkkaturvalain 2 ja 5 §:n muuttamisesta](1661.md) `1661/1995`
+- [Laki merimiesten palkkaturvalain 2 ja 5 §:n muuttamisesta](1662.md) `1662/1995`
+- [Laki vuorotteluvapaakokeilusta](1663.md) `1663/1995`
+- [Laki työttömyysturvalain 16 §:n muuttamisesta](1664.md) `1664/1995`
+- [Laki opintotukilain 6 §:n muuttamisesta](1665.md) `1665/1995`
+- [Sosiaali\- ja terveysministeriön päätös hakemukseen, joka koskee Koulutus\- ja erorahaston uusien sääntöjen vahvistamista](1666.md) `1666/1995`
+- [Opetusministeriön päätös ammattitutkintolaissa \(306/94\) tarkoitetusta tutkintomaksusta](1667.md) `1667/1995`
+- [Sosiaali\- ja terveysministeriön päätös tapaturmavakuutuslain 58 §:ssä säädetyn maksun suuruudesta](1668.md) `1668/1995`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkelain 7 a §:n 3 momentissa tarkoitetun kertoimen vahvistamisesta](1669.md) `1669/1995`
+- [Laki valtion virkaehtosopimuslain 3 a ja 5 §:n muuttamisesta](1670.md) `1670/1995`
+- [Laki valtion eläkelain muuttamisesta](1671.md) `1671/1995`
+- [Laki valtion perhe\-eläkelain 9 ja 11 §:n muuttamisesta](1672.md) `1672/1995`
+- [Asetus valtion eläkeasetuksen muuttamisesta](1673.md) `1673/1995`
+- [Asetus valtion virkamiesten eroraha\-asetuksen 10 §:n muuttamisesta](1674.md) `1674/1995`
+- [Valtioneuvoston päätös valtion virkamiesten erorahan suuruudesta annetun valtioneuvoston päätöksen 6 §:n muuttamisesta](1675.md) `1675/1995`
+- [Valtioneuvoston päätös toimeentulotuen yleisistä perusteista annetun valtioneuvoston päätöksen muuttamisesta](1676.md) `1676/1995`
+- [Laki maatalousyrittäjän lomituspalveluista annetun lain muuttamisesta](1677.md) `1677/1995`
+- [Laki kuntien valtionosuuslain 32 §:n muuttamisesta](1678.md) `1678/1995`
+- [Asetus maatalousyrittäjän lomituspalveluista](1679.md) `1679/1995`
+- [Asetus maatalousyrittäjien eläkelaitoksen ohjesäännön sisältävän asetuksen muuttamisesta](1680.md) `1680/1995`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Enon ja Tuupovaaran kuntien välillä](1681.md) `1681/1995`
+- [Laki terveydenhuollon järjestämisestä puolustusvoimissa annetun lain muuttamisesta](1682.md) `1682/1995`
+- [Laki luottolaitostoiminnasta annetun lain 67 §:n muuttamisesta](1683.md) `1683/1995`
+- [Laki liikepankkilain 5 ja 13 §:n muuttamisesta](1684.md) `1684/1995`
+- [Laki säästöpankkilain 57 §:n muuttamisesta](1685.md) `1685/1995`
+- [Laki säästöpankin muuttamisesta osakeyhtiömuotoiseksi pankiksi annetun lain 2 §:n muuttamisesta](1686.md) `1686/1995`
+- [Laki väliaikaisesta poikkeuksesta luottolaitostoiminnasta annetun lain 55 §:ään](1687.md) `1687/1995`
+- [Laki valuuttalain 13 §:n muuttamisesta](1688.md) `1688/1995`
+- [Laki luottolaitostoiminnasta annetun lain 68 §:n muuttamisesta](1689.md) `1689/1995`
+- [Laki energia\-avustuksista annetun lain kumoamisesta](1690.md) `1690/1995`
+- [Laki kirkkolain muuttamisesta](1691.md) `1691/1995`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](1692.md) `1692/1995`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](1693.md) `1693/1995`
+- [Asetus ortodoksisesta kirkkokunnasta annetun asetuksen 54 §:n muuttamisesta](1694.md) `1694/1995`
+- [Laki patenttilain muuttamisesta](1695.md) `1695/1995`
+- [Laki hyödyllisyysmallioikeudesta annetun lain muuttamisesta](1696.md) `1696/1995`
+- [Laki maanpuolustukselle merkityksellisistä keksinnöistä annetun lain 2 ja 3 §:n muuttamisesta](1697.md) `1697/1995`
+- [Laki oikeudesta työntekijän tekemiin keksintöihin annetun lain 12 §:n muuttamisesta](1698.md) `1698/1995`
+- [Laki tavaramerkkilain 6 a luvun kumoamisesta](1699.md) `1699/1995`
+- [Laki tullilain 25 §:n muuttamisesta](1700.md) `1700/1995`
+- [Asetus hyödyllisyysmallioikeudesta annetun asetuksen muuttamisesta](1701.md) `1701/1995`
+- [Asetus tavaramerkkiasetuksen 17 §:n muuttamisesta](1702.md) `1702/1995`
+- [Asetus mallioikeusasetuksen 8 §:n muuttamisesta](1703.md) `1703/1995`
+- [Laki kiinteistövaihdosta valtion ja Helsingin kaupungin välillä](1704.md) `1704/1995`
+- [Laki työmarkkinatuesta annetun lain muuttamisesta](1705.md) `1705/1995`
+- [Asetus sisäasiainministeriöstä](1706.md) `1706/1995`
+- [Verohallintoasetus](1707.md) `1707/1995`
+- [Ulkoasiainministeriön päätös ulkoasiainhallinnon suoritteiden maksullisuudesta ja maksuperusteista](1708.md) `1708/1995`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](1709.md) `1709/1995`
+- [Maastoliikennelaki](1710.md) `1710/1995`
+- [Laki ilmansuojelulain muuttamisesta](1711.md) `1711/1995`
+- [Laki ympäristölupamenettelylain muuttamisesta](1712.md) `1712/1995`
+- [Laki rikoslain 48 luvun 1 §:n muuttamisesta](1713.md) `1713/1995`
+- [Sosiaali\- ja terveysministeriön päätös maatalousyrittäjien eläkelain 10 §:ssä tarkoitetun perusprosentin ja yrittäjien eläkelain 9 §:ssä tarkoitetun maksuprosentin vahvistamiseksi](1714.md) `1714/1995`
+- [Laki tavaramerkkilain muuttamisesta](1715.md) `1715/1995`
+- [Laki kaupparekisterilain muuttamisesta](1716.md) `1716/1995`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain muuttamisesta](1717.md) `1717/1995`
+- [Laki kirjanpitolain 33 §:n muuttamisesta](1718.md) `1718/1995`
+- [Laki tilintarkastuslain 1 §:n muuttamisesta](1719.md) `1719/1995`
+- [Asetus raha\-automaattiasetuksen muuttamisesta](1720.md) `1720/1995`
+- [Asetus Kuopion yliopistosta annetun asetuksen 5 ja 36 §:n muuttamisesta](1721.md) `1721/1995`
+- [Valtiovarainministeriön päätös valtion palvelussuhdeasuntojen vuokrien määräämisessä käytettävistä vuokratasoista](1722.md) `1722/1995`
+- [Valtiovarainministeriön päätös eräiden kulkuneuvojen muonituksesta sekä eräistä yksityisten henkilöiden maahan tuomien tavaroiden tulleista](1723.md) `1723/1995`
+- [Puolustusministeriön päätös sota\-alusten ja eräiden muiden alusten valoista ja merkkikuvioista annetun asetuksen täytäntöönpanosta ja soveltamisesta annetun puolustusministeriön päätöksen muuttamisesta](1724.md) `1724/1995`
+- [Laki saamelaiskäräjistä annetun lain muuttamisesta](1725.md) `1725/1995`
+- [Laki saamen kielen käyttämisestä viranomaisissa annetun lain muuttamisesta](1726.md) `1726/1995`
+- [Asetus saamelaiskäräjistä](1727.md) `1727/1995`
+- [Asetus saamen kielen käyttämisestä viranomaisissa annetun asetuksen 1 §:n muuttamisesta](1728.md) `1728/1995`
+- [Valtioneuvoston päätös saamelaisasiain neuvottelukunnasta annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](1729.md) `1729/1995`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Liperin ja Polvijärven kuntien välillä](1730.md) `1730/1995`
+- [Maa\- ja metsätalousministeriön päätös elintarvikehygieenisen laadun turvaamisesta kolmansista maista tapahtuvan kalastustuotteiden ja niistä saatujen valmisteiden ja jalosteiden maahantuonnin yhteydessä annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](1731.md) `1731/1995`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1732.md) `1732/1995`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](1733.md) `1733/1995`

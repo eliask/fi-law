@@ -1,0 +1,1382 @@
+# 1999 Statutes
+
+## Statutes
+
+- [Laki alkoholilain muuttamisesta](1.md) `1/1999`
+- [Asetus maaseutuelinkeinoasetuksen 45 e §:n muuttamisesta](2.md) `2/1999`
+- [Kauppa\- ja teollisuusministeriön päätös eräiden tavallisimpien kontaminanttien enimmäismääristä elintarvikkeissa annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](3.md) `3/1999`
+- [Kauppa\- ja teollisuusministeriön päätös jäätelöstä](4.md) `4/1999`
+- [Opetusministeriön päätös ulkomailla järjestettävän yksityisen perusopetuksen yksikköhinnan määräämisestä](5.md) `5/1999`
+- [Asetus Unkarin tasavallan kanssa keskinäisestä avunannosta tulliasioissa tehdyn sopimuksen voimaansaattamisesta](6.md) `6/1999`
+- [Maa\- ja metsätalousministeriön päätös nautaeläinten merkitsemisestä ja rekisteröinnistä](7.md) `7/1999`
+- [Kauppa\- ja teollisuusministeriön päätös telakkateollisuuden kilpailuedellytysten turvaamiseen myönnettävästä valtion avustuksesta](8.md) `8/1999`
+- [Laki evankelis\-luterilaisen kirkon virkaehtosopimuksista annetun lain 3 ja 6 §:n muuttamisesta](9.md) `9/1999`
+- [Laki kuntalain muuttamisesta](10.md) `10/1999`
+- [Asetus puolustusvoimista annetun asetuksen 61 ja 62 §:n kumoamisesta](11.md) `11/1999`
+- [Asetus aina määräajaksi täytettävistä viroista annetun asetuksen 1 §:n muuttamisesta](12.md) `12/1999`
+- [Asetus raha\-arpa\- ja veikkauspelien ylijäämän käyttämisestä annetun asetuksen 2 §:n väliaikaisesta muuttamisesta](13.md) `13/1999`
+- [Asetus televisio\- ja radiotoiminnasta](14.md) `14/1999`
+- [Asetus helposti pilaantuvien elintarvikkeiden kansainvälisiä kuljetuksia ja tällaisissa kuljetuksissa käytettävää erityiskalustoa koskevan sopimuksen valvonnasta annetun asetuksen 5 §:n muuttamisesta](15.md) `15/1999`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](16.md) `16/1999`
+- [Valtioneuvoston päätös eräitä vaarallisia aineita sisältävistä paristoista ja akuista annetun valtioneuvoston päätöksen 2 ja 3 §:n muuttamisesta](17.md) `17/1999`
+- [Opetusministeriön päätös valtionapuviranomaisesta myönnettäessä avustusta liikuntapaikkojen perustamishankkeisiin](18.md) `18/1999`
+- [Valtiovarainministeriön päätös verontilityslain 5 §:ssä tarkoitettujen verovuodelta 1998 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista](19.md) `19/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](20.md) `20/1999`
+- [Verohallituksen päätös yleisestä tiedonantovelvollisuudesta](21.md) `21/1999`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljetuksesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](22.md) `22/1999`
+- [Laki Euroopan ihmisoikeustuomioistuimen käsittelyyn osallistuvia henkilöitä koskevan eurooppalaisen sopimuksen eräiden määräysten hyväksymisestä](23.md) `23/1999`
+- [Asetus Euroopan ihmisoikeustuomioistuimen käsittelyyn osallistuvia henkilöitä koskevan eurooppalaisen sopimuksen voimaansaattamisesta sekä sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](24.md) `24/1999`
+- [Laki merimiehen lääkärintarkastuksista pidettävästä rekisteristä](25.md) `25/1999`
+- [Laki merimieslain muuttamisesta](26.md) `26/1999`
+- [Asetus vuonna 1999 kertyvien työnantajan sosiaaliturvamaksujen jakautumasta](27.md) `27/1999`
+- [Valtioneuvoston päätös vuoden 1998 puutarhatuotannon tuen jakoperusteista annetun valtioneuvoston päätöksen muuttamisesta](28.md) `28/1999`
+- [Valtioneuvoston päätös energiatuen myöntämisen yleisistä ehdoista](29.md) `29/1999`
+- [Maa\- ja metsätalousministeriön päätös yhteisöaloite PESCA:n täytäntöönpanosta annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](30.md) `30/1999`
+- [Maa\- ja metsätalousministeriön päätös peltolohkorekisteristä](31.md) `31/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](32.md) `32/1999`
+- [Laki työsopimuslain 28 ja 47 j §:n muuttamisesta](33.md) `33/1999`
+- [Laki vuosilomalain 16 §:n muuttamisesta](34.md) `34/1999`
+- [Laki opintovapaalain 13 §:n muuttamisesta](35.md) `35/1999`
+- [Asetus kasvatustieteellisen alan tutkinnoista ja opettajankoulutuksesta annetun asetuksen liitteen muuttamisesta](36.md) `36/1999`
+- [Asetus eläintautien vastustamisesta Euroopan yhteisön sisämarkkinoilla sekä viennissä kolmansiin maihin annetun asetuksen muuttamisesta](37.md) `37/1999`
+- [Valtioneuvoston päätös apteekkimaksusta annetun lain 2 §:n 1 momentissa mainittujen liikevaihtoryhmien sekä liikevaihdon alarajojen kohdilla olevien apteekkimaksun markkamäärien tarkistamisesta](38.md) `38/1999`
+- [Maa\- ja metsätalousministeriön päätös eläinjätteen käsittelystä annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](39.md) `39/1999`
+- [Sosiaali\- ja terveysministeriön päätös lääkärikoulutuksen ja tieteellisen tutkimustoiminnan korvauksen perusteista vuonna 1999](40.md) `40/1999`
+- [Sosiaali\- ja terveysministeriön päätös  yleisten uimarantojen veden laatuvaatimuksista ja valvontatutkimuksista annetun sosiaali\- ja terveysministeriön päätöksen muuttamisesta](41.md) `41/1999`
+- [Sosiaali\- ja terveysministeriön päätös eräille ulkomaalaisille vapaaehtoisille rintamasotilaille maksettavasta rintama\-avustuksesta](42.md) `42/1999`
+- [Liikenneministeriön päätös radiolain ja radioasetuksen soveltamisesta Suomen alueella liikkuvassa ulkomaisessa aluksessa tai ilma\-aluksessa olevan radiolähettimen hallussapitoon ja käyttöön](43.md) `43/1999`
+- [Verohallituksen päätös verovapaista matkakustannusten korvauksista vuonna 1998 annetun Verohallituksen päätöksen muuttamisesta](44.md) `44/1999`
+- [Verohallituksen päätös verovapaista matkakustannusten korvauksista vuonna 1999 annetun Verohallituksen päätöksen muuttamisesta](45.md) `45/1999`
+- [Laki Slovenian kanssa tehdyn Eurooppa\-sopimuksen eräiden määräysten hyväksymisestä](46.md) `46/1999`
+- [Asetus Slovenian kanssa tehdyn Eurooppa\-sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](47.md) `47/1999`
+- [Sijoitusrahastolaki](48.md) `48/1999`
+- [Laki sijoituspalveluyrityksistä annetun lain 13 §:n muuttamisesta](49.md) `49/1999`
+- [Laki rahoitustarkastuslain 2 §:n muuttamisesta](50.md) `50/1999`
+- [Laki arvopaperimarkkinalain 1 luvun 2 §:n muuttamisesta](51.md) `51/1999`
+- [Laki arvo\-osuusjärjestelmästä annetun lain muuttamisesta](52.md) `52/1999`
+- [Laki arvo\-osuustileistä annetun lain 29 §:n muuttamisesta](53.md) `53/1999`
+- [Laki rahanpesun estämisestä ja selvittämisestä annetun lain 3 §:n muuttamisesta](54.md) `54/1999`
+- [Laki kaupparekisterilain 14 §:n muuttamisesta](55.md) `55/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](56.md) `56/1999`
+- [Laki kemikaalilain muuttamisesta](57.md) `57/1999`
+- [Laki räjähdysvaarallisista aineista annetun lain muuttamisesta](58.md) `58/1999`
+- [Asetus vaarallisten kemikaalien teollisesta käsittelystä ja varastoinnista](59.md) `59/1999`
+- [Laki hätäkeskuksia koskevasta kokeilusta annetun lain muuttamisesta](60.md) `60/1999`
+- [Laki vahingonkorvauslain muuttamisesta](61.md) `61/1999`
+- [Laki rikosvahinkojen korvaamisesta valtion varoista annetun lain muuttamisesta](62.md) `62/1999`
+- [Rikosvahinkoasetus](63.md) `63/1999`
+- [Asetus Ahvenanmaan maakunnassa olevista yleisistä ennakkoäänestyspaikoista vuoden 1999 eduskuntavaaleissa ja europarlamenttivaaleissa](64.md) `64/1999`
+- [Valtioneuvoston päätös turvavarastointiohjelmasta vuonna 1999](65.md) `65/1999`
+- [Valtioneuvoston päätös hankevientiin liittyvään tarjoustoimintaan myönnettävien avustusten yleisistä ehdoista annetun valtioneuvoston päätöksen kumoamisesta](66.md) `66/1999`
+- [Opetusministeriön päätös lukion opiskelijaksi ottamisen perusteista annetun opetusministeriön päätöksen 4 §:n muuttamisesta](67.md) `67/1999`
+- [Puolustusministeriön päätös asevelvollisten yleisistä varusmiespalvelukseen astumispäivistä vuosina 2001―2002](68.md) `68/1999`
+- [Laki nimilain muuttamisesta](69.md) `69/1999`
+- [Laki tartuntatautilain muuttamisesta](70.md) `70/1999`
+- [Asetus Latvian tasavallan, Liettuan tasavallan, Puolan tasavallan, Ruotsin kuningaskunnan, Saksan liittotasavallan, Suomen tasavallan, Tanskan kuningaskunnan, Venäjän federaation ja Viron tasavallan hallitusten välillä Itämeren merellisen ympäristön suojelukomission erioikeuksista ja vapauksista tehdyn sopimuksen voimaansaattamisesta](71.md) `71/1999`
+- [Asetus Alankomaiden kanssa Suomen Euroopan poliisivirastoon lähettämien yhteyshenkilöiden ja heidän perheenjäsentensä erioikeuksista ja vapauksista tehdyn sopimuksen voimaansaattamisesta](72.md) `72/1999`
+- [Asetus Suomen ulkomaanedustustojen sijainnista annetun asetuksen muuttamisesta](73.md) `73/1999`
+- [Asetus kotimaan yleisistä ennakkoäänestyspaikoista vuoden 1999 eduskuntavaaleissa ja europarlamenttivaaleissa annetun asetuksen 3 §:n muuttamisesta](74.md) `74/1999`
+- [Asetus yliopistoasetuksen muuttamisesta](75.md) `75/1999`
+- [Asetus postitoiminta\-asetuksen muuttamisesta](76.md) `76/1999`
+- [Oikeusministeriön päätös valtion oikeusaputoimistojen ja niiden sivutoimistojen sijainnista annetun oikeusministeriön päätöksen 1 §:n muuttamisesta](77.md) `77/1999`
+- [Laki Vakuutusvalvontavirastosta](78.md) `78/1999`
+- [Laki vakuutusyhtiölain muuttamisesta](79.md) `79/1999`
+- [Laki ulkomaisista vakuutusyhtiöistä annetun lain muuttamisesta](80.md) `80/1999`
+- [Laki vakuutusyhdistyslain muuttamisesta](81.md) `81/1999`
+- [Laki kalastusvakuutusyhdistyksistä annetun lain 8 §:n muuttamisesta](82.md) `82/1999`
+- [Laki työeläkevakuutusyhtiöistä annetun lain muuttamisesta](83.md) `83/1999`
+- [Laki vakuutuskassalain muuttamisesta](84.md) `84/1999`
+- [Laki eläkesäätiölain muuttamisesta](85.md) `85/1999`
+- [Laki vakuutuksenvälittäjistä annetun lain muuttamisesta](86.md) `86/1999`
+- [Laki potilasvahinkolain muuttamisesta](87.md) `87/1999`
+- [Laki liikennevakuutuslain muuttamisesta](88.md) `88/1999`
+- [Laki ydinvastuulain muuttamisesta](89.md) `89/1999`
+- [Laki ympäristövahinkovakuutuksesta annetun lain muuttamisesta](90.md) `90/1999`
+- [Laki kilpailunrajoituksista annetun lain 11 c ja 12 §:n muuttamisesta](91.md) `91/1999`
+- [Laki rahanpesun estämisestä ja selvittämisestä annetun lain 14 §:n muuttamisesta](92.md) `92/1999`
+- [Laki vakuutussopimuslain 13 §:n muuttamisesta](93.md) `93/1999`
+- [Laki vakuutustarkastuksen kustantamisesta annetun lain muuttamisesta](94.md) `94/1999`
+- [Laki rahoitustarkastuslain muuttamisesta](95.md) `95/1999`
+- [Laki työntekijäin eläkelain 10 ja 13 §:n muuttamisesta](96.md) `96/1999`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 11 ja 11 a §:n muuttamisesta](97.md) `97/1999`
+- [Laki taiteilijoiden ja eräiden erityisryhmiin kuuluvien työntekijäin eläkelain 9 ja 9 a §:n muuttamisesta](98.md) `98/1999`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](99.md) `99/1999`
+- [Laki merimieseläkelain muuttamisesta](100.md) `100/1999`
+- [Laki sairausvakuutuslain 61 ja 64 §:n muuttamisesta](101.md) `101/1999`
+- [Asetus Vakuutusvalvontavirastosta](102.md) `102/1999`
+- [Laki Uzbekistanin kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](103.md) `103/1999`
+- [Asetus Uzbekistanin kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](104.md) `104/1999`
+- [Laki arvopaperimarkkinalain muuttamisesta](105.md) `105/1999`
+- [Laki sijoituspalveluyrityksistä annetun lain 14 ja 21 §:n muuttamisesta](106.md) `106/1999`
+- [Laki kiinteistörahastolain 22 §:n muuttamisesta](107.md) `107/1999`
+- [Laki luottolaitostoiminnasta annetun lain 18 ja 41 §:n muuttamisesta](108.md) `108/1999`
+- [Laki vakuutusyhtiölain 10 luvun 13 §:n muuttamisesta](109.md) `109/1999`
+- [Laki osakeyhtiölain 11 luvun 12 §:n muuttamisesta](110.md) `110/1999`
+- [Liikenneministeriön päätös postipalveluista](111.md) `111/1999`
+- [Liikenneministeriön päätös postilaitoksen toimitusehtojen yleisistä perusteista annetun päätöksen muuttamisesta](112.md) `112/1999`
+- [Raideliikennevastuulaki](113.md) `113/1999`
+- [Laki liikennevakuutuslain muuttamisesta](114.md) `114/1999`
+- [Laki kulttuuriesineiden maastaviennin rajoittamisesta](115.md) `115/1999`
+- [Asetus yleisistä kielitutkinnoista annetun asetuksen muuttamisesta](116.md) `116/1999`
+- [Asetus merenkulun turvallisuuteen kohdistuvien laittomien tekojen ehkäisemistä koskevan yleissopimuksen voimaansaattamisesta](117.md) `117/1999`
+- [Asetus rikoslain 1 luvun 7 §:n soveltamisesta annetun asetuksen 1 §:n muuttamisesta](118.md) `118/1999`
+- [Asetus TIR\-tullitarkastusvihkoon merkittyjen tavarain kansainvälistä kuljetusta koskevaan tulliyleissopimukseen \(TIR\-yleissopimus\) ja sen liitteisiin 6 ja 8 tehtyjen muutosten sekä uuden liitteen 9 voimaansaattamisesta](119.md) `119/1999`
+- [Asetus merimiehen lääkärintarkastuksista annetun asetuksen muuttamisesta](120.md) `120/1999`
+- [Asetus terveydensuojeluasetuksen muuttamisesta](121.md) `121/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](122.md) `122/1999`
+- [Laki lastensuojelulain muuttamisesta](123.md) `123/1999`
+- [Laki kehitysvammaisten erityishuollosta annetun lain muuttamisesta](124.md) `124/1999`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain muuttamisesta](125.md) `125/1999`
+- [Asetus kansainvälisissä liikesuhteissa tapahtuvan ulkomaisiin virkamiehiin kohdistuvan lahjonnan torjuntaa koskevan yleissopimuksen voimaansaattamisesta](126.md) `126/1999`
+- [Asetus vaarallisten aineiden maakuljetusten turvallisuusneuvonantajasta](127.md) `127/1999`
+- [Asetus maakaasuasetuksen muuttamisesta](128.md) `128/1999`
+- [Asetus nestekaasuasetuksen muuttamisesta](129.md) `129/1999`
+- [Asetus öljylämmityslaitteistoista annetun asetuksen muuttamisesta](130.md) `130/1999`
+- [Asetus räjähdeasetuksen muuttamisesta](131.md) `131/1999`
+- [Maankäyttö\- ja rakennuslaki](132.md) `132/1999`
+- [Laki yleisistä teistä annetun lain 10 §:n muuttamisesta](133.md) `133/1999`
+- [Laki maa\-aineslain muuttamisesta](134.md) `134/1999`
+- [Laki kemikaalilain 31 §:n muuttamisesta](135.md) `135/1999`
+- [Laki vesilain muuttamisesta](136.md) `136/1999`
+- [Laki metsälain 2 ja 25 §:n muuttamisesta](137.md) `137/1999`
+- [Laki sähkömarkkinalain 20 §:n muuttamisesta](138.md) `138/1999`
+- [Laki telemarkkinalain 31 ja 33 §:n muuttamisesta](139.md) `139/1999`
+- [Laki etuostolain 5 §:n muuttamisesta](140.md) `140/1999`
+- [Laki terveydensuojelulain muuttamisesta](141.md) `141/1999`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain 31 ja 97 §:n muuttamisesta](142.md) `142/1999`
+- [Laki yksityisistä teistä annetun lain muuttamisesta](143.md) `143/1999`
+- [Laki luonnonsuojelulain 34 ja 36 §:n muuttamisesta](144.md) `144/1999`
+- [Laki saariston kehityksen edistämisestä annetun lain 8 §:n muuttamisesta](145.md) `145/1999`
+- [Laki yleisistä vesi\- ja viemärilaitoksista annetun lain 7 ja 9 §:n muuttamisesta](146.md) `146/1999`
+- [Laki jätelain 20 §:n muuttamisesta](147.md) `147/1999`
+- [Laki eräistä vesitilusjärjestelyistä annetun lain 10 §:n muuttamisesta](148.md) `148/1999`
+- [Laki oikeudesta entiseen tiealueeseen annetun lain 1 §:n muuttamisesta](149.md) `149/1999`
+- [Laki kadun ja eräiden yleisten alueiden kunnossa\- ja puhtaanapidosta annetun lain 1 §:n 2 ja 4 momentin kumoamisesta](150.md) `150/1999`
+- [Laki rakennussuojelulain 3 §:n muuttamisesta](151.md) `151/1999`
+- [Laki ulkoilulain 13 §:n muuttamisesta](152.md) `152/1999`
+- [Laki tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista annetun lain 7 §:n muuttamisesta](153.md) `153/1999`
+- [Laki rikoslain 48 luvun 1 ja 6 §:n muuttamisesta](154.md) `154/1999`
+- [Laki pienten erillisten alueiden siirtämisestä kunnasta toiseen kuntaan annetun lain 2 §:n muuttamisesta](155.md) `155/1999`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljetuksesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](156.md) `156/1999`
+- [Asetus lääninhallitusasetuksen muuttamisesta](157.md) `157/1999`
+- [Valtioneuvoston päätös asuntojen korjausavustusten jakoperusteista](158.md) `158/1999`
+- [Valtioneuvoston päätös maaseudun kehittämistoimenpiteiden tukemisesta Etelä\-Suomen rannikkoseudun, Kaakkois\-Suomen ja Karjalan INTERREG\-yhteisöaloiteohjelmissa annetun valtioneuvoston päätöksen 10 §:n muuttamisesta](159.md) `159/1999`
+- [Valtioneuvoston päätös maaseudun kehittämistoimenpiteiden tukemisesta Merenkurkku\-MittSkandian, Pohjois\-Kalotin sekä Suomen ja Ruotsin saariston INTERREG\-yhteisöaloiteohjelmissa annetun valtioneuvoston päätöksen 10 §:n muuttamisesta](160.md) `160/1999`
+- [Opetusministeriön päätös opetus\- ja kirjastotoimen perustamishankkeiden yksikköhinnoista](161.md) `161/1999`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä joita sovelletaan rikottaessa neuvoston asetusta jugoslavialaisia liikenteenharjoittajia koskevasta lentokiellosta Jugoslavian liittotasavallan ja Euroopan yhteisön välillä annetun asetuksen \(EY\) N:o 1901/98 muuttamisesta](162.md) `162/1999`
+- [Valtiovarainministeriön päätös verontilityslain 5 §:ssä tarkoitettujen verovuodelta 1999 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista](163.md) `163/1999`
+- [Valtiovarainministeriön päätös yksittäisten kuntien ja evankelis\-luterilaisten seurakuntien verovuoden 1999 alustavien yhteisöveron jako\-osuuksien laskentaperusteista](164.md) `164/1999`
+- [Laki eläkeoikeuden siirtämisestä Suomen työeläkejärjestelmän ja Euroopan yhteisöjen eläkejärjestelmän välillä](165.md) `165/1999`
+- [Laki työntekijäin eläkelain muuttamisesta](166.md) `166/1999`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](167.md) `167/1999`
+- [Laki taiteilijoiden ja eräiden erityisryhmiin kuuluvien työntekijäin eläkelain muuttamisesta](168.md) `168/1999`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](169.md) `169/1999`
+- [Laki yrittäjien eläkelain muuttamisesta](170.md) `170/1999`
+- [Laki merimieseläkelain muuttamisesta](171.md) `171/1999`
+- [Laki valtion eläkelain muuttamisesta](172.md) `172/1999`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain muuttamisesta](173.md) `173/1999`
+- [Asetus ro\-ro\-aluksen keula\-ajorampin rakenteesta ja järjestelyistä](174.md) `174/1999`
+- [Asetus kilpailuvirastosta annetun asetuksen 1 ja 4 §:n muuttamisesta](175.md) `175/1999`
+- [Asetus siviilipalvelusasetuksen 6 §:n muuttamisesta](176.md) `176/1999`
+- [Oikeusministeriön päätös käräjäoikeuksien kanslioiden ja istuntopaikkojen sijainnista annetun oikeusministeriön päätöksen 1 §:n muuttamisesta](177.md) `177/1999`
+- [Laki Albanian kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen eräiden määräysten hyväksymisestä](178.md) `178/1999`
+- [Asetus Albanian kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](179.md) `179/1999`
+- [Laki Omanin kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen eräiden määräysten hyväksymisestä](180.md) `180/1999`
+- [Asetus Omanin kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](181.md) `181/1999`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta annetun lain muuttamisesta](182.md) `182/1999`
+- [Asetus vaarallisten aineiden kuljetuksesta tiellä annetun asetuksen 15 §:n muuttamisesta](183.md) `183/1999`
+- [Asetus katsastustoiminnan koulutustoimikunnasta](184.md) `184/1999`
+- [Asetus liikennevakuutusasetuksen 3 a ja 7 §:n muuttamisesta](185.md) `185/1999`
+- [Asetus ajoneuvojen rekisteröinnistä annetun asetuksen muuttamisesta](186.md) `186/1999`
+- [Asetus ajoneuvojen katsastuksesta annetun asetuksen muuttamisesta](187.md) `187/1999`
+- [Liikenneministeriön päätös vaarallisten aineiden maakuljetusten turvallisuusneuvonantajasta](188.md) `188/1999`
+- [Asetus kulttuuriesineiden maastaviennin rajoittamisesta](189.md) `189/1999`
+- [Asetus museovirastosta annetun asetuksen 1 §:n 9 kohdan kumoamisesta](190.md) `190/1999`
+- [Valtioneuvoston päätös saamenkieliseen ja saamen kielen opetukseen perusopetuksessa, lukiossa ja ammatillisessa koulutuksessa myönnettävän valtionavustuksen perusteista](191.md) `191/1999`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös mehiläisten esikotelomädän vuoksi Ylistaron kuntaan perustettavasta rajoitusalueesta](192.md) `192/1999`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös mehiläisten esikotelomädän vuoksi Peräseinäjoen kuntaan perustettavasta rajoitusalueesta](193.md) `193/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](194.md) `194/1999`
+- [Laki asumistukilain muuttamisesta](195.md) `195/1999`
+- [Asetus matkustusoikeuden osoittamisesta eräissä tapauksissa](196.md) `196/1999`
+- [Asetus puolustusvoimien virka\-avusta poliisille annetun asetuksen muuttamisesta](197.md) `197/1999`
+- [Asetus luotsausasetuksen 11 §:n muuttamisesta](198.md) `198/1999`
+- [Maa\- ja metsätalousministeriön päätös eräistä maa\- ja puutarhatalouden kansallisten tukien hakuajoista sekä eläinmäärien ilmoittamisesta vuonna 1999 annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](199.md) `199/1999`
+- [Liikenneministeriön päätös ajoneuvohallintokeskuksen maksuista annetun liikenneministeriön päätöksen 2 §:n ja liitteen muuttamisesta](200.md) `200/1999`
+- [Liikenneministeriön päätös ajoneuvojen katsastushenkilöstön lisäkoulutuksesta](201.md) `201/1999`
+- [Liikenneministeriön päätös ajoneuvojen katsastusluvista](202.md) `202/1999`
+- [Laki työturvallisuuslain 49 §:n muuttamisesta](203.md) `203/1999`
+- [Laki työterveyshuoltolain 9 §:n muuttamisesta](204.md) `204/1999`
+- [Laki rikoslain 47 luvun 1 §:n muuttamisesta](205.md) `205/1999`
+- [Asetus ennakkoäänestyspaikkoina olevista Suomen edustustoista vuoden 1999 eduskuntavaaleissa ja europarlamenttivaaleissa annetun asetuksen liitteen muuttamisesta](206.md) `206/1999`
+- [Valtioneuvoston päätös yleisradiotoiminnassa noudatettavasta taajuuksien käyttösuunnitelmasta](207.md) `207/1999`
+- [Valtioneuvoston päätös avustuksista taloudellisissa vaikeuksissa oleville vuokrataloille](208.md) `208/1999`
+- [Valtioneuvoston päätös asuntolainoitettujen ja korkotuettujen opiskelija\-asuntojen omapääomaosuuteen myönnettävistä avustuksista](209.md) `209/1999`
+- [Kauppa\- ja teollisuusministeriön päätös energiatuen myöntämisen ehdoista](210.md) `210/1999`
+- [Opetusministeriön päätös opetushallituksen suoritteiden maksullisuudesta](211.md) `211/1999`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös mehiläisten esikotelomädän vuoksi perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen kumoamisesta](212.md) `212/1999`
+- [Valtioneuvoston päätös tutkintojen rakenteesta ja yhteisistä opinnoista ammatillisessa peruskoulutuksessa](213.md) `213/1999`
+- [Maa\- ja metsätalousministeriön päätös eräistä kalastusrajoituksista Saimaalla](214.md) `214/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](215.md) `215/1999`
+- [Valtioneuvoston päätös maa\- ja puutarhataloustuottajille vuodelta 1999 maksettavasta pohjoisesta tuesta annetun valtioneuvoston päätöksen muuttamisesta](216.md) `216/1999`
+- [Valtioneuvoston päätös eräistä maa\- ja puutarhataloustuottajille vuodelta 1999 maksettavista siirtymäkauden tuista annetun valtioneuvoston päätöksen muuttamisesta](217.md) `217/1999`
+- [Valtioneuvoston päätös kasvinviljelyn kansallisesta tuesta vuodelta 1999 annetun valtioneuvoston päätöksen 8 §:n muuttamisesta](218.md) `218/1999`
+- [Sosiaali\- ja terveysministeriön päätös vakuutusmatemaatikon kelpoisuudesta](219.md) `219/1999`
+- [Liikenneministeriön päätös teleyritysten televerkkojen ja \-palvelujen yhteenliittämisestä annetun liikenneministeriön päätöksen muuttamisesta](220.md) `220/1999`
+- [Liikenneministeriön päätös eräistä Euroopan yhteisöjen lainsäädännössä tarkoitetuista telemaksuista annetun päätöksen 4 §:n väliaikaisesta muuttamisesta](221.md) `221/1999`
+- [Sosiaali\- ja terveysministeriön päätös eräiden eläkesäätiöiden valvontaa koskevien tehtävien siirtämisestä eläketurvakeskukselle annetun päätöksen 3 ja 4 §:n muuttamisesta](222.md) `222/1999`
+- [Sosiaali\- ja terveysministeriön päätös eräiden eläkekassojen valvontaa koskevien tehtävien siirtämisestä eläketurvakeskukselle annetun päätöksen 3 ja 4 §:n muuttamisesta](223.md) `223/1999`
+- [Sosiaali\- ja terveysministeriön päätös työpaikkakassojen valvontaa koskevien tehtävien siirtämisestä kansaneläkelaitokselle annetun päätöksen 2 ja 3 §:n muuttamisesta](224.md) `224/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](225.md) `225/1999`
+- [Laki alkoholilain 17 §:n muuttamisesta](226.md) `226/1999`
+- [Laki tuloverolain 76 §:n muuttamisesta](227.md) `227/1999`
+- [Laki verohallintolain 13 §:n muuttamisesta](228.md) `228/1999`
+- [Laki tuloverolain muuttamisesta](229.md) `229/1999`
+- [Laki varallisuusverolain 10 §:n muuttamisesta](230.md) `230/1999`
+- [Asetus Maailman kauppajärjestön palvelukaupan yleissopimuksen viidennen pöytäkirjan voimaansaattamisesta](231.md) `231/1999`
+- [Asetus Tanskan, Suomen, Islannin, Norjan ja Ruotsin välillä eräiden kansalaisuutta koskevien määräysten voimaansaattamisesta tehdyn sopimuksen voimaansaattamisesta](232.md) `232/1999`
+- [Asetus kameraalisen jaotuksen muuttamisesta](233.md) `233/1999`
+- [Valtiovarainministeriön päätös vuoden 1999 kiinteistöveron eräpäivistä](234.md) `234/1999`
+- [Valtiovarainministeriön päätös veron ja metsänhoitomaksun eräpäivistä vuodelta 1998](235.md) `235/1999`
+- [Maa\- ja metsätalousministeriön päätös Euroopan yhteisön kokonaan tai osittain rahoittamien peltoalatukien ja eläimiin perustuvan luonnonhaittakorvauksen hakuajoista vuonna 1999](236.md) `236/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](237.md) `237/1999`
+- [Laki kasvinjalostajanoikeudesta annetun lain muuttamisesta](238.md) `238/1999`
+- [Laki Euroopan yhteisön myöntämän kasvinjalostajanoikeuden yksityisoikeudellisesta ja julkisoikeudellisesta suojasta Suomessa](239.md) `239/1999`
+- [Laki kasvinjalostustoiminnan edistämisestä annetun lain 7 §:n muuttamisesta](240.md) `240/1999`
+- [Laki erikoissairaanhoitolain muuttamisesta](241.md) `241/1999`
+- [Laki Helsingin yliopistollisesta keskussairaalasta annetun lain kumoamisesta](242.md) `242/1999`
+- [Valtioneuvoston päätös vaikeista sairauksista ja niiden hoitoon käytettävistä kliinisistä ravintovalmisteista, joihin suoritetaan sairausvakuutuslain mukaista korvausta, annetun valtioneuvoston päätöksen 1 ja 2 §:n muuttamisesta](243.md) `243/1999`
+- [Asetus sveitsiläisten vahinkovakuutusyhtiöiden toiminnasta Suomessa annetun asetuksen 5 ja 6 §:n muuttamisesta](244.md) `244/1999`
+- [Asetus suomalaisten vahinkovakuutusyhtiöiden toiminnasta Sveitsissä annetun asetuksen muuttamisesta](245.md) `245/1999`
+- [Asetus vakuutusyhtiön vakuutusmatemaatikosta annetun asetuksen 1 §:n muuttamisesta](246.md) `246/1999`
+- [Asetus vakuutusyhtiön toimintapääomaan luettavista eristä annetun asetuksen muuttamisesta](247.md) `247/1999`
+- [Asetus vakuutusyhtiön vastuuvelan laskentaperiaatteista](248.md) `248/1999`
+- [Asetus ensivakuutusliikettä harjoittavan vakuutusyhtiön vastuuvelan katteesta annetun asetuksen muuttamisesta](249.md) `249/1999`
+- [Vakuutusyhtiöasetus](250.md) `250/1999`
+- [Asetus palosuojelumaksusta annetun lain toimeenpanosta annetun asetuksen 4 ja 5 §:n muuttamisesta](251.md) `251/1999`
+- [Asetus vaarallisten tai merta pilaavien aineiden aluskuljetuksiin liittyvistä ilmoitusvelvollisuuksista annetun asetuksen muuttamisesta](252.md) `252/1999`
+- [Asetus maatalousyrittäjien eläkelaitoksen ohjesäännön sisältävän asetuksen muuttamisesta](253.md) `253/1999`
+- [Asetus esiintyvien taiteilijoiden ja eräiden erityisryhmien eläkekassan ohjesäännöstä annetun asetuksen muuttamisesta](254.md) `254/1999`
+- [Asetus työeläkekassan ohjesäännön sisältävän asetuksen muuttamisesta](255.md) `255/1999`
+- [Asetus eläketurvakeskuksen ohjesäännön sisältävän asetuksen muuttamisesta](256.md) `256/1999`
+- [Asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkekassan vakavaraisuusrajan laskemisesta annetun asetuksen muuttamisesta](257.md) `257/1999`
+- [Asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkekassan toimintapääomaan luettavista eristä annetun asetuksen muuttamisesta](258.md) `258/1999`
+- [Asetus vakuutuskassan vastuuvelan katteesta annetun asetuksen muuttamisesta](259.md) `259/1999`
+- [Asetus vakuutuskassa\-asetuksen muuttamisesta](260.md) `260/1999`
+- [Asetus eläkesäätiön eläkevastuun katteesta annetun asetuksen muuttamisesta](261.md) `261/1999`
+- [Asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkesäätiön vakavaraisuusrajan laskemisesta annetun asetuksen muuttamisesta](262.md) `262/1999`
+- [Asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkesäätiön toimintapääomaan luettavista eristä annetun asetuksen muuttamisesta](263.md) `263/1999`
+- [Asetus eläkesäätiöasetuksen muuttamisesta](264.md) `264/1999`
+- [Asetus lakisääteistä eläkevakuutusliikettä harjoittavan vakuutusyhtiön vakavaraisuusrajan laskemisesta annetun asetuksen muuttamisesta](265.md) `265/1999`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös mehiläisten esikotelomädän vuoksi Teuvan kuntaan perustettavasta rajoitusalueesta](266.md) `266/1999`
+- [Laki ympäristövaikutusten arviointimenettelystä annetun lain muuttamisesta](267.md) `267/1999`
+- [Asetus ympäristövaikutusten arviointimenettelystä](268.md) `268/1999`
+- [Laki aravalain 39 §:n muuttamisesta](269.md) `269/1999`
+- [Laki aravavuokra\-asuntojen ja aravavuokratalojen käytöstä, luovutuksesta ja omaksilunastamisesta annetun lain 3 ja 21 §:n muuttamisesta](270.md) `270/1999`
+- [Laki vuokra\-asuntolainojen korkotuesta annetun lain 15 §:n muuttamisesta](271.md) `271/1999`
+- [Laki omistusasuntolainojen korkotuesta annetun lain 14 §:n muuttamisesta](272.md) `272/1999`
+- [Laki asumisoikeustalolainojen korkotuesta annetun lain 15 §:n muuttamisesta](273.md) `273/1999`
+- [Laki asunto\-osakeyhtiötalolainojen korkotuesta annetun lain 12 §:n muuttamisesta](274.md) `274/1999`
+- [Laki omistusasuntolainojen valtiontakauksesta annetun lain 16 §:n muuttamisesta](275.md) `275/1999`
+- [Laki asumisoikeusasunnoista annetun lain 54 §:n muuttamisesta](276.md) `276/1999`
+- [Laki vuokratalolainojen lainaehtojen muuttamisesta annetun lain 9 §:n muuttamisesta](277.md) `277/1999`
+- [Laki vakuutusoikeudesta annetun lain muuttamisesta](278.md) `278/1999`
+- [Laki sairausvakuutuslain muuttamisesta](279.md) `279/1999`
+- [Laki kansaneläkelain muuttamisesta](280.md) `280/1999`
+- [Laki rintamasotilaseläkelain 17 §:n muuttamisesta](281.md) `281/1999`
+- [Laki ulkomaille maksettavasta rintamalisästä annetun lain 10 §:n muuttamisesta](282.md) `282/1999`
+- [Laki työntekijäin eläkelain muuttamisesta](283.md) `283/1999`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 13 a §:n muuttamisesta](284.md) `284/1999`
+- [Laki merimieseläkelain 60 a §:n 3 momentin ja 61 b §:n kumoamisesta](285.md) `285/1999`
+- [Laki yrittäjien eläkelain 15 §:n 2 momentin kumoamisesta](286.md) `286/1999`
+- [Laki maatalousyrittäjien eläkelain 18 §:n 2 momentin kumoamisesta](287.md) `287/1999`
+- [Laki maatalousyrittäjien sukupolvenvaihdoseläkkeestä annetun lain 40 §:n muuttamisesta](288.md) `288/1999`
+- [Laki maatalousyrittäjien luopumiskorvauksesta annetun lain 32 §:n muuttamisesta](289.md) `289/1999`
+- [Laki maatalousyrittäjien luopumistuesta annetun lain 37 §:n muuttamisesta](290.md) `290/1999`
+- [Laki kasvihuonetuotannon ja omenanviljelyn lopettamistuesta annetun lain 12 §:n muuttamisesta](291.md) `291/1999`
+- [Laki maataloustuotannon lopettamistuesta annetun lain 19 §:n muuttamisesta](292.md) `292/1999`
+- [Laki valtion eläkelain muuttamisesta](293.md) `293/1999`
+- [Laki valtion perhe\-eläkelain 20 §:n 3 momentin ja 21 a §:n kumoamisesta](294.md) `294/1999`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain muuttamisesta](295.md) `295/1999`
+- [Laki evankelis\-luterilaisen kirkon eläkelain 7 e §:n kumoamisesta](296.md) `296/1999`
+- [Laki tapaturmavakuutuslain muuttamisesta](297.md) `297/1999`
+- [Laki maatalousyrittäjien tapaturmavakuutuslain 10 §:n 2 momentin kumoamisesta](298.md) `298/1999`
+- [Laki sotilasvammalain 29 a §:n kumoamisesta](299.md) `299/1999`
+- [Laki asevelvollisen kuoltua suoritettavasta taloudellisesta tuesta annetun lain 7 §:n 3 momentin kumoamisesta](300.md) `300/1999`
+- [Laki työttömyysturvalain muuttamisesta](301.md) `301/1999`
+- [Laki työmarkkinatuesta annetun lain 39 §:n muuttamisesta](302.md) `302/1999`
+- [Laki työvoimapoliittisesta aikuiskoulutuksesta annetun lain 32 §:n muuttamisesta](303.md) `303/1999`
+- [Laki vuorotteluvapaakokeilusta annetun lain 13 §:n muuttamisesta](304.md) `304/1999`
+- [Laki opintotukilain muuttamisesta](305.md) `305/1999`
+- [Laki rikosvahinkojen korvaamisesta valtion varoista annetun lain 26 §:n muuttamisesta](306.md) `306/1999`
+- [Laki nuorisorangaistuksen kokeilemisesta annetun lain 3 ja 10 §:n muuttamisesta](307.md) `307/1999`
+- [Asetus pohjoismaiden välisestä pikatiedotussopimuksesta annetun asetuksen kumoamisesta](308.md) `308/1999`
+- [Asetus kansainvälisessä posti\- ja teleliikenteessä sovellettavan kultafrangin vasta\-arvon ja eräiden maksujen määräämisestä annetun asetuksen kumoamisesta](309.md) `309/1999`
+- [Asetus liikennevakuutusasetuksen muuttamisesta](310.md) `310/1999`
+- [Asetus asetuksen, joka sisältää liikennevakuutuskeskuksen säännöt, muuttamisesta](311.md) `311/1999`
+- [Vakuutusyhdistysasetus](312.md) `312/1999`
+- [Asetus ensivakuutusliikettä harjoittavan vakuutusyhdistyksen vastuuvelan katteesta annetun asetuksen muuttamisesta](313.md) `313/1999`
+- [Asetus vakuutusyhdistyksen toimintapääomaan luettavista eristä](314.md) `314/1999`
+- [Asetus vakuutusyhdistyksen vastuuvelan laskentaperiaatteista annetun asetuksen 1 §:n muuttamisesta](315.md) `315/1999`
+- [Asetus öljyvahinkovastuuasetuksen muuttamisesta](316.md) `316/1999`
+- [Asetus Tapaturmavakuutuslaitosten liiton säännöistä annetun asetuksen 17 §:n muuttamisesta](317.md) `317/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](318.md) `318/1999`
+- [Laki televiestinnän voimavarojen antamista suuronnettomuuksien lievittämiseen ja pelastustoimiin koskevan yleissopimuksen eräiden määräysten hyväksymisestä](319.md) `319/1999`
+- [Laki rajavartiolaitoksesta](320.md) `320/1999`
+- [Asetus rajavartiolaitoksesta](321.md) `321/1999`
+- [Laki kiinteistönmuodostamislain muuttamisesta](322.md) `322/1999`
+- [Laki kiinteistörekisterilain 5 ja 14 b §:n muuttamisesta](323.md) `323/1999`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain 49 a §:n muuttamisesta](324.md) `324/1999`
+- [Asetus ydinenergialain 52 §:n muuttamisesta annetun lain voimaantulosta](325.md) `325/1999`
+- [Valtioneuvoston päätös valtion ydinjätehuoltorahaston varoista annettavien lainojen yleisistä ehdoista annetun valtioneuvoston päätöksen muuttamisesta](326.md) `326/1999`
+- [Asetus liiketunnuksesta annetun asetuksen kumoamisesta](327.md) `327/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](328.md) `328/1999`
+- [Maaseutuelinkeinojen rahoituslaki](329.md) `329/1999`
+- [Laki maatilatalouden kehittämisrahastosta annetun lain muuttamisesta](330.md) `330/1999`
+- [Laki pakkohuutokaupalla myytävien kiinteistöjen lunastamisesta valtiolle annetun lain 1 ja 7 §:n muuttamisesta](331.md) `331/1999`
+- [Laki kestävän metsätalouden rahoituksesta annetun lain 25 §:n muuttamisesta](332.md) `332/1999`
+- [Laki kiinteistönmuodostamislain 67 §:n muuttamisesta](333.md) `333/1999`
+- [Laki yhdyskuntien vesihuoltotoimenpiteiden avustamisesta annetun lain 1 §:n muuttamisesta](334.md) `334/1999`
+- [Laki kalatalouden korkotukilainoista annetun lain 2 §:n muuttamisesta](335.md) `335/1999`
+- [Laki maaseutuelinkeinojen hallinnosta kunnissa annetun lain 1 §:n muuttamisesta](336.md) `336/1999`
+- [Laki yritystuesta annetun lain 2 §:n muuttamisesta](337.md) `337/1999`
+- [Laki aravalain 1 §:n muuttamisesta](338.md) `338/1999`
+- [Laki omistusasuntolainojen korkotuesta annetun lain 1 §:n muuttamisesta](339.md) `339/1999`
+- [Laki perintökaaren 25 luvun 4 §:n muuttamisesta](340.md) `340/1999`
+- [Laki luopumiseläkelain muuttamisesta](341.md) `341/1999`
+- [Laki maatalousyrittäjien luopumistuesta annetun lain 13 ja 40 §:n muuttamisesta](342.md) `342/1999`
+- [Laki varainsiirtoverolain 14 §:n muuttamisesta](343.md) `343/1999`
+- [Laki henkilöstörahastolain muuttamisesta](344.md) `344/1999`
+- [Laki valtion liikelaitoksista annetun lain 13 §:n muuttamisesta](345.md) `345/1999`
+- [Asetus ihmisoikeuksien ja perusvapauksien suojaamiseksi tehdyn yleissopimuksen ja siihen liittyvien lisäpöytäkirjojen voimaansaattamisesta sekä yleissopimuksen ja lisäpöytäkirjojen eräiden määräysten hyväksymisestä annetun lain voimaantulosta annetun asetuksen 2 §:n muuttamisesta](346.md) `346/1999`
+- [Asetus  kansainvälisen merenkulkijoiden koulutusta, pätevyyskirjoja ja vahdinpitoa koskevan vuoden 1978 yleissopimuksen liitteeseen tehtyjen muutosten sekä merenkulkijoiden koulutusta, pätevyyskirjoja ja vahdinpitoa koskevan säännöstön voimaansaattamisesta](347.md) `347/1999`
+- [Valtioneuvoston päätös perunantuotannolle maksettavasta kansallisesta tuesta annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](348.md) `348/1999`
+- [Valtioneuvoston päätös vuoden 1998 viljellyn nurmialan perusteella maksettavasta satovahinkoyleiskorvauksesta](349.md) `349/1999`
+- [Sosiaali\- ja terveysministeriön päätös sairausvakuutuslain 5 a §:ssä tarkoitettujen eräiden reseptittä myytävien lääkkeiden korvaamisesta](350.md) `350/1999`
+- [Valtiovarainministeriön päätös liikeosakkeen verotusarvon perusteista annetun valtiovarainministeriön päätöksen muuttamisesta](351.md) `351/1999`
+- [Laki korkeimman oikeuden ja korkeimman hallinto\-oikeuden presidenttien ja jäsenten palvelussuhteen ehdoista annetun lain muuttamisesta](352.md) `352/1999`
+- [Asetus korkeimman oikeuden ja korkeimman hallinto\-oikeuden presidenttien ja jäsenten palvelussuhteen ehdoista](353.md) `353/1999`
+- [Asetus Suomen vuoden 1999 Euroopan unionin puheenjohtajuustehtävissä toimivien valtion virkamiesten työaikasääntelystä](354.md) `354/1999`
+- [Asetus poliisin hallinnosta annetun asetuksen muuttamisesta](355.md) `355/1999`
+- [Asetus poliisiasetuksen muuttamisesta](356.md) `356/1999`
+- [Asetus tartuntatautiasetuksen 7 ja 16 a §:n muuttamisesta](357.md) `357/1999`
+- [Asetus henkilöstörahastoasetuksen muuttamisesta](358.md) `358/1999`
+- [Maa\- ja metsätalousministeriön päätös metsäkeskusten ja Metsätalouden kehittämiskeskus Tapion maksullisista suoritteista annetun maa\- ja metsätalousministeriön päätöksen 2 §:n ja liitteen muuttamisesta](359.md) `359/1999`
+- [Verohallituksen päätös toimivaltaisesta verovirastosta ja verotuksen oikaisulautakunnasta kunnan tai sen osan siirtyessä toisen veroviraston virka\-alueelle](360.md) `360/1999`
+- [Laki takauksesta ja vierasvelkapanttauksesta](361.md) `361/1999`
+- [Laki kauppakaaren 10 luvun muuttamisesta](362.md) `362/1999`
+- [Laki kuluttajavalituslautakunnasta annetun lain 1 §:n muuttamisesta](363.md) `363/1999`
+- [Laki rangaistusten täytäntöönpanosta annetun lain muuttamisesta](364.md) `364/1999`
+- [Laki tutkintavankeudesta annetun lain muuttamisesta](365.md) `365/1999`
+- [Laki pakkokeinolain 5 a luvun muuttamisesta](366.md) `366/1999`
+- [Laki kansanterveyslain 14 §:n muuttamisesta](367.md) `367/1999`
+- [Laki oikeudenkäymiskaaren 21 luvun muuttamisesta](368.md) `368/1999`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain 9 luvun 8 ja 9 §:n muuttamisesta](369.md) `369/1999`
+- [Laki käräjäoikeuslain 19 §:n muuttamisesta](370.md) `370/1999`
+- [Laki luonnonsuojelulain muuttamisesta](371.md) `371/1999`
+- [Laki yksityisistä teistä annetun lain muuttamisesta](372.md) `372/1999`
+- [Valtioneuvoston päätös maakotkien porotaloudelle aiheuttamien vahinkojen korvaamisesta](373.md) `373/1999`
+- [Ympäristöministeriön päätös maakotkien porotaloudelle aiheuttamien vahinkojen korvaamisesta](374.md) `374/1999`
+- [Asetus maakuntapäivä\- ja kunnallisvaaleja sekä neuvoa\-antavia kunnallisia kansanäänestyksiä koskevien tehtävien hoitamisesta Ahvenanmaan maakunnassa](375.md) `375/1999`
+- [Asetus opintotuen muutoksenhakulautakunnasta annetun asetuksen muuttamisesta](376.md) `376/1999`
+- [Asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen 8 §:n muuttamisesta](377.md) `377/1999`
+- [Asetus tapaturmalautakunnasta annetun asetuksen muuttamisesta](378.md) `378/1999`
+- [Asetus työttömyysturvalain täytäntöönpanosta annetun asetuksen muuttamisesta](379.md) `379/1999`
+- [Asetus tarkastuslautakunnasta annetun asetuksen muuttamisesta](380.md) `380/1999`
+- [Asetus työntekijäin eläkeasetuksen muuttamisesta](381.md) `381/1999`
+- [Valtioneuvoston päätös emolehmistä vuodelta 1998 maksettavasta kansallisesta lisäpalkkiosta](382.md) `382/1999`
+- [Valtioneuvoston päätös eräiden maatilatalouden luottojen kohdennetusta vakauttamisesta annetun valtioneuvoston päätöksen 8 a §:n muuttamisesta](383.md) `383/1999`
+- [Opetusministeriön päätös eräiden valtion oppilaitosten johtokunnista](384.md) `384/1999`
+- [Maa\- ja metsätalousministeriön päätös maatalouden ympäristötuen erityistukea koskevien sopimusten hakuajasta ja näiden sopimusten tekemisestä](385.md) `385/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](386.md) `386/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](387.md) `387/1999`
+- [Asetus Suomen hallituksen ja Kanadan hallituksen välisen elokuva\- ja televisioalan yhteistuotantosopimuksen voimaansaattamisesta](388.md) `388/1999`
+- [Valtiovarainministeriön päätös Euroopan talousalueella hyväksyttyjen listalleotto\- ja tarjousesitteiden vastavuoroisesta tunnustamisesta](389.md) `389/1999`
+- [Valtiovarainministeriön päätös arvopaperin liikkeeseenlaskijan säännöllisestä tiedonantovelvollisuudesta](390.md) `390/1999`
+- [Valtiovarainministeriön päätös omistusosuuksien ilmoittamisen ja julkistamisen yhteydessä annettavista tiedoista](391.md) `391/1999`
+- [Sosiaali\- ja terveysministeriön päätös sosiaali\- ja terveysministeriön ja työsuojelun piirihallinnon maksullisista suoritteista](392.md) `392/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](393.md) `393/1999`
+- [Laki Itävallan, Suomen ja Ruotsin liittymisestä tuomioistuimen toimivaltaa sekä tuomioiden täytäntöönpanoa yksityisoikeuden alalla koskevaan yleissopimukseen sekä yleissopimuksen tulkintaa Euroopan yhteisöjen tuomioistuimessa koskevaan pöytäkirjaan tehdyn yleissopimuksen eräiden määräysten hyväksymisestä](394.md) `394/1999`
+- [Asetus Itävallan, Suomen ja Ruotsin liittymisestä tuomioistuimen toimivaltaa sekä tuomioiden täytäntöönpanoa yksityisoikeuden alalla koskevaan yleissopimukseen sekä yleissopimuksen tulkintaa Euroopan yhteisöjen tuomioistuimessa koskevaan pöytäkirjaan tehdyn yleissopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](395.md) `395/1999`
+- [Laki merilain muuttamisesta](396.md) `396/1999`
+- [Asetus merilain muuttamisesta annetun lain voimaantulosta](397.md) `397/1999`
+- [Laki Itävallan, Suomen ja Ruotsin liittymisestä sopimusvelvoitteisiin sovellettavaa lakia koskevaan yleissopimukseen sekä sen tulkintaa Euroopan yhteisöjen tuomioistuimessa koskevaan ensimmäiseen ja toiseen pöytäkirjaan tehdyn yleissopimuksen eräiden määräysten hyväksymisestä](398.md) `398/1999`
+- [Asetus Itävallan, Suomen ja Ruotsin liittymisestä sopimusvelvoitteisiin sovellettavaa lakia koskevaan yleissopimukseen sekä sen tulkintaa Euroopan yhteisöjen tuomioistuimessa koskevaan ensimmäiseen ja toiseen pöytäkirjaan tehdyn yleissopimuksen osittaisesta voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain osittaisesta voimaantulosta](399.md) `399/1999`
+- [Laki kansainvälisluonteisiin sopimuksiin sovellettavasta laista annetun lain kumoamisesta](400.md) `400/1999`
+- [Asetus kansainvälisluonteisiin sopimuksiin sovellettavasta laista annetun lain kumoamisesta annetun lain voimaantulosta](401.md) `401/1999`
+- [Laki työsopimuslain muuttamisesta](402.md) `402/1999`
+- [Asetus työsopimuslain muuttamisesta annetun lain voimaantulosta](403.md) `403/1999`
+- [Laki merimieslain 87 §:n kumoamisesta](404.md) `404/1999`
+- [Asetus merimieslain 87 §:n kumoamisesta annetun lain voimaantulosta](405.md) `405/1999`
+- [Laki merityöaikalain 16 c §:n kumoamisesta](406.md) `406/1999`
+- [Asetus merityöaikalain 16 c §:n kumoamisesta annetun lain voimaantulosta](407.md) `407/1999`
+- [Laki merimiesten vuosilomalain 28 §:n kumoamisesta](408.md) `408/1999`
+- [Asetus merimiesten vuosilomalain 28 §:n kumoamisesta annetun lain voimaantulosta](409.md) `409/1999`
+- [Laki eräisiin kansainvälisluonteisiin vakuutussopimuksiin sovellettavasta laista annetun lain 1 ja 13 §:n muuttamisesta](410.md) `410/1999`
+- [Asetus eräisiin kansainvälisluonteisiin vakuutussopimuksiin sovellettavasta laista annetun lain 1 ja 13 §:n muuttamisesta annetun lain voimaantulosta](411.md) `411/1999`
+- [Laki ulkomaisista vakuutusyhtiöistä annetun lain 58 §:n kumoamisesta](412.md) `412/1999`
+- [Asetus ulkomaisista vakuutusyhtiöistä annetun lain 58 §:n kumoamisesta annetun lain voimaantulosta](413.md) `413/1999`
+- [Laki ulkomaisen luotto\- ja rahoituslaitoksen toiminnasta Suomessa annetun lain 22 §:n kumoamisesta](414.md) `414/1999`
+- [Asetus ulkomaisen luotto\- ja rahoituslaitoksen toiminnasta Suomessa annetun lain 22 §:n kumoamisesta annetun lain voimaantulosta](415.md) `415/1999`
+- [Laki kuluttajansuojalain 4 ja 12 luvun muuttamisesta](416.md) `416/1999`
+- [Asetus kuluttajansuojalain 4 ja 12 luvun muuttamisesta annetun lain voimaantulosta](417.md) `417/1999`
+- [Laki työvoimapalvelulain muuttamisesta](418.md) `418/1999`
+- [Laki työsuojelun valvonnasta ja muutoksenhausta työsuojeluasioissa annetun lain 21 a ja 25 §:n muuttamisesta](419.md) `419/1999`
+- [Laki lääkelain 42 ja 52 §:n muuttamisesta](420.md) `420/1999`
+- [Laki apteekkimaksusta annetun lain 6 §:n muuttamisesta](421.md) `421/1999`
+- [Asetus valtioneuvoston ohjesäännön muuttamisesta](422.md) `422/1999`
+- [Asetus ulkomaanedustuksen virkamiesten vuosilomista annetun asetuksen väliaikaisesta muuttamisesta](423.md) `423/1999`
+- [Asetus rikoksentorjuntaneuvostosta](424.md) `424/1999`
+- [Asetus ajoneuvojen käytöstä tiellä annetun asetuksen 25 §:n muuttamisesta](425.md) `425/1999`
+- [Asetus valtion takuista perusraaka\-ainehuollon turvaamiseksi](426.md) `426/1999`
+- [Valtioneuvoston päätös rakennustyön turvallisuudesta annetun valtioneuvoston päätöksen muuttamisesta](427.md) `427/1999`
+- [Sosiaali\- ja terveysministeriön päätös vakuutuksenvälitystoiminnan valvontamaksusta annetun sosiaali\- ja terveysministeriön päätöksen 1 ja 4 §:n muuttamisesta](428.md) `428/1999`
+- [Sosiaali\- ja terveysministeriön päätös Vakuutusvalvontaviraston maksullisista suoritteista](429.md) `429/1999`
+- [Hallinto\-oikeuslaki](430.md) `430/1999`
+- [Laki Korkeimmasta hallinto\-oikeudesta annetun lain 3 §:n muuttamisesta](431.md) `431/1999`
+- [Laki Ahvenanmaan hallintotuomioistuimesta annetun lain muuttamisesta](432.md) `432/1999`
+- [Laki hallintolainkäyttölain muuttamisesta](433.md) `433/1999`
+- [Laki hallintomenettelylain 19 §:n muuttamisesta](434.md) `434/1999`
+- [Laki kuntalain muuttamisesta](435.md) `435/1999`
+- [Laki oikeudenkäynnin julkisuudesta annetun lain 1 §:n muuttamisesta](436.md) `436/1999`
+- [Laki asiakirjain lähettämisestä annetun lain 5 §:n muuttamisesta](437.md) `437/1999`
+- [Hallinto\-oikeusasetus](438.md) `438/1999`
+- [Asetus vesiasetuksen muuttamisesta](439.md) `439/1999`
+- [Sisäasiainministeriön poliisimääräys eräistä liikkumis\- ja oleskelukielloista](440.md) `440/1999`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös mehiläisten esikotelomädän vuoksi Jämsän kaupunkiin perustettavasta rajoitusalueesta](441.md) `441/1999`
+- [Laki holhoustoimesta](442.md) `442/1999`
+- [Laki holhoustoimen edunvalvontapalveluiden järjestämisestä](443.md) `443/1999`
+- [Laki oikeudenkäymiskaaren muuttamisesta](444.md) `444/1999`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain muuttamisesta](445.md) `445/1999`
+- [Laki hallintolainkäyttölain muuttamisesta](446.md) `446/1999`
+- [Laki hallintomenettelylain muuttamisesta](447.md) `447/1999`
+- [Laki avioliittolain muuttamisesta](448.md) `448/1999`
+- [Laki varallisuusoikeudellisista oikeustoimista annetun lain 22 ja 24 §:n muuttamisesta](449.md) `449/1999`
+- [Laki lapsen elatuksesta annetun lain 7 §:n muuttamisesta](450.md) `450/1999`
+- [Laki oikeudenkäynnin julkisuudesta annetun lain 5 §:n muuttamisesta](451.md) `451/1999`
+- [Laki esitutkintalain 33 §:n muuttamisesta](452.md) `452/1999`
+- [Laki eräistä yhteisomistussuhteista annetun lain 10 §:n muuttamisesta](453.md) `453/1999`
+- [Laki kestävän metsätalouden rahoituksesta annetun lain 2 §:n muuttamisesta](454.md) `454/1999`
+- [Laki peruskuivatustoiminnan tukemisesta annetun lain 22 §:n muuttamisesta](455.md) `455/1999`
+- [Laki oikeudenkäynnistä huoneenvuokra\-asioissa annetun lain 29 §:n muuttamisesta](456.md) `456/1999`
+- [Laki työtuomioistuimesta annetun lain 6 §:n muuttamisesta](457.md) `457/1999`
+- [Laki asianajajista annetun lain 3 ja 9 §:n muuttamisesta](458.md) `458/1999`
+- [Laki käräjäoikeuslain 6 §:n muuttamisesta](459.md) `459/1999`
+- [Laki välimiesmenettelystä annetun lain 8 §:n muuttamisesta](460.md) `460/1999`
+- [Laki yrityksen saneerauksesta annetun lain 8 §:n muuttamisesta](461.md) `461/1999`
+- [Laki yksityishenkilön velkajärjestelystä annetun lain 65 §:n muuttamisesta](462.md) `462/1999`
+- [Laki perintökaaren muuttamisesta](463.md) `463/1999`
+- [Laki Bulgarian kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen eräiden määräysten hyväksymisestä](464.md) `464/1999`
+- [Asetus Bulgarian kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](465.md) `465/1999`
+- [Laki sähkömarkkinalain muuttamisesta](466.md) `466/1999`
+- [Laki julkishallinnon ja \-talouden tilintarkastajista](467.md) `467/1999`
+- [Asetus julkishallinnon ja \-talouden tilintarkastajista](468.md) `468/1999`
+- [Asetus taideteollisen alan yliopistollisista tutkinnoista annetun asetuksen muuttamisesta](469.md) `469/1999`
+- [Asetus alkoholijuomista ja väkiviinasta annetun asetuksen 15 §:n muuttamisesta](470.md) `470/1999`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös mehiläisten esikotelomädän vuoksi Jämsänkosken kuntaan perustettavasta rajoitusalueesta](471.md) `471/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](472.md) `472/1999`
+- [Laki Filippiinien kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen eräiden määräysten hyväksymisestä](473.md) `473/1999`
+- [Asetus Filippiinien kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](474.md) `474/1999`
+- [Laki rikoslain muuttamisesta](475.md) `475/1999`
+- [Laki arvopaperimarkkinalain muuttamisesta](476.md) `476/1999`
+- [Laki kaupankäynnistä vakioiduilla optioilla ja termiineillä annetun lain 3 ja 5 luvun muuttamisesta](477.md) `477/1999`
+- [Valtioneuvoston päätös käytetyn ydinpolttoaineen loppusijoituksen turvallisuudesta](478.md) `478/1999`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljetuksesta rautatiellä annetun liikenneministeriön päätöksen muuttamisesta](479.md) `479/1999`
+- [Laki valtion virkamieslain muuttamisesta](480.md) `480/1999`
+- [Laki ulosottolain muuttamisesta](481.md) `481/1999`
+- [Sosiaali\- ja terveysministeriön päätös käymisteitse valmistetun enintään 13 tilavuusprosenttia etyylialkoholia sisältävän alkoholijuoman myyntipaikasta ja myyntitoiminnasta annetun sosiaali\- ja terveysministeriön päätöksen 2 §:n muuttamisesta](482.md) `482/1999`
+- [Liikenneministeriön päätös maanteiden tavara\- ja henkilöliikenteen harjoittajien muodollista kelpoisuutta osoittavien asiakirjojen vastavuoroisesta tunnustamisesta](483.md) `483/1999`
+- [Maa\- ja metsätalousministeriön päätös peltokasvien tukijärjestelmästä ja siihen liittyvästä kesannoimisesta yhdennetyn hallinto\- ja valvontajärjestelmän mukaisesti vuonna 1999](484.md) `484/1999`
+- [Maa\- ja metsätalousministeriön päätös peltokasvien tukijärjestelmän soveltamisesta ja siihen liittyvästä kesannoimisesta vuonna 1999](485.md) `485/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](486.md) `486/1999`
+- [Laki toimenpiteistä tupakoinnin vähentämiseksi annetun lain muuttamisesta](487.md) `487/1999`
+- [Laki lääketieteellisestä tutkimuksesta](488.md) `488/1999`
+- [Laki potilaan asemasta ja oikeuksista annetun lain 6 ja 9 §:n muuttamisesta](489.md) `489/1999`
+- [Valtioneuvoston päätös hallinto\-oikeuksien tuomiopiireistä](490.md) `490/1999`
+- [Maa\- ja metsätalousministeriön päätös metsänviljelyaineiston kaupasta annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](491.md) `491/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](492.md) `492/1999`
+- [Laki maahanmuuttajien kotouttamisesta ja turvapaikanhakijoiden vastaanotosta](493.md) `493/1999`
+- [Tasavallan Presidentin avoin kirje valtioneuvoston vaihdoksesta](494.md) `494/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](495.md) `495/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](496.md) `496/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](497.md) `497/1999`
+- [Konsulipalvelulaki](498.md) `498/1999`
+- [Laki ulkoasiainhallinnosta annetun lain 6 ja 8 §:n kumoamisesta](499.md) `499/1999`
+- [Asetus valtioneuvoston ohjesäännön 48 §:n muuttamisesta](500.md) `500/1999`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Libyaa koskeviin päätöksiin perustuvien velvoitusten täyttämisestä annetun asetuksen soveltamisen väliaikaisesta keskeyttämisestä](501.md) `501/1999`
+- [Asetus Viron kanssa merellä ja ilmassa tapahtuvasta yhteistyöstä etsintä\- ja pelastuspalvelussa tehdyn sopimuksen voimaansaattamisesta](502.md) `502/1999`
+- [Valtioneuvoston päätös mehiläistaloudelle vuodelta 1999 maksettavasta kansallisesta tuesta](503.md) `503/1999`
+- [Ilmailulaitoksen ilmoitus ilmailumääräyksestä](504.md) `504/1999`
+- [Laki Euroopan unionista tehdyn sopimuksen, Euroopan yhteisöjen perustamissopimusten ja niihin liittyvien tiettyjen asiakirjojen muuttamisesta tehdyn Amsterdamin sopimuksen eräiden määräysten hyväksymisestä](505.md) `505/1999`
+- [Asetus Euroopan unionista tehdyn sopimuksen, Euroopan yhteisöjen perustamissopimusten ja niihin liittyvien tiettyjen asiakirjojen muuttamisesta tehdyn Amsterdamin sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](506.md) `506/1999`
+- [Asetus vakuutusoikeudesta annetun asetuksen muuttamisesta](507.md) `507/1999`
+- [Asetus maahantuonnin yhteydessä suoritettavien kasvintarkastusmaksujen kantamisesta](508.md) `508/1999`
+- [Asetus luotsausasetuksen muuttamisesta](509.md) `509/1999`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta](510.md) `510/1999`
+- [Asetus maahanmuuttajien kotouttamisesta ja turvapaikanhakijoiden vastaanotosta](511.md) `511/1999`
+- [Valtioneuvoston päätös pakolaisista ja eräistä muista maahanmuuttajista sekä turvapaikanhakijoiden vastaanoton järjestämisestä aiheutuvien kustannusten korvaamisesta](512.md) `512/1999`
+- [Laki saatavien perinnästä](513.md) `513/1999`
+- [Laki kuluttajansuojalain muuttamisesta](514.md) `514/1999`
+- [Laki rikoslain 30 luvun 3 §:n muuttamisesta](515.md) `515/1999`
+- [Laki markkinatuomioistuimesta annetun lain muuttamisesta](516.md) `516/1999`
+- [Laki perintätoiminnan luvanvaraisuudesta](517.md) `517/1999`
+- [Asetus ulosottomaksuista annetun asetuksen 2 ja 3 §:n muuttamisesta](518.md) `518/1999`
+- [Valtioneuvoston päätös valtion työmaiden huollosta annetun valtioneuvoston päätöksen kumoamisesta](519.md) `519/1999`
+- [Valtioneuvoston päätös valtion rakennustyömailla käytettävien siirrettävien työmaarakennusten hankinnoista annetun valtioneuvoston päätöksen kumoamisesta](520.md) `520/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](521.md) `521/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä määräyksistä](522.md) `522/1999`
+- [Henkilötietolaki](523.md) `523/1999`
+- [Laki tietosuojalautakunnasta ja tietosuojavaltuutetusta annetun lain muuttamisesta](524.md) `524/1999`
+- [Laki rikoslain 38 luvun 9 §:n muuttamisesta](525.md) `525/1999`
+- [Laki yleisten asiakirjain julkisuudesta annetun lain 18 a §:n muuttamisesta](526.md) `526/1999`
+- [Laki väestötietolain muuttamisesta](527.md) `527/1999`
+- [Laki rekisterihallintolain 2 §:n muuttamisesta](528.md) `528/1999`
+- [Asetus tietosuojalautakunnasta ja tietosuojavaltuutetusta annetun asetuksen muuttamisesta](529.md) `529/1999`
+- [Kokoontumislaki](530.md) `530/1999`
+- [Laki poliisilain 18 ja 19 §:n muuttamisesta](531.md) `531/1999`
+- [Laki uskonnonvapauslain 3 §:n muuttamisesta](532.md) `532/1999`
+- [Laki järjestyksenvalvojista](533.md) `533/1999`
+- [Laki ulkoilulain 22 §:n muuttamisesta](534.md) `534/1999`
+- [Laki merimieslain 74 §:n muuttamisesta](535.md) `535/1999`
+- [Laki rikoslain muuttamisesta](536.md) `536/1999`
+- [Laki ulkomaalaislain muuttamisesta](537.md) `537/1999`
+- [Asetus ulkomaalaisasetuksen muuttamisesta](538.md) `538/1999`
+- [Asetus työvoimatoimikunnasta annetun asetuksen 3 §:n muuttamisesta](539.md) `539/1999`
+- [Valtioneuvoston päätös tullipiireistä ja eräistä tullitoimipaikoista](540.md) `540/1999`
+- [Valtioneuvoston päätös poronhoitovuodelta 1999/2000 maksettavasta eläinkohtaisesta tuesta](541.md) `541/1999`
+- [Ulkoasiainministeriön ilmoitus ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](542.md) `542/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](543.md) `543/1999`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös eräiden eläinten ja tavaroiden eläintautivaatimuksista Euroopan yhteisön sisämarkkinoilla annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen 6 §:n muuttamisesta](544.md) `544/1999`
+- [Laki rikoslain muuttamisesta](545.md) `545/1999`
+- [Laki tieliikennelain muuttamisesta](546.md) `546/1999`
+- [Laki vesiliikennelain 24 §:n muuttamisesta](547.md) `547/1999`
+- [Laki ilmailulain muuttamisesta](548.md) `548/1999`
+- [Laki merilain 20 luvun 12 §:n muuttamisesta](549.md) `549/1999`
+- [Laki rikoslain muuttamisesta](550.md) `550/1999`
+- [Laki rikesakosta tieliikenteessä annetun lain kumoamisesta](551.md) `551/1999`
+- [Laki rikesakkolain muuttamisesta](552.md) `552/1999`
+- [Laki rangaistusmääräysmenettelystä annetun lain 11 §:n muuttamisesta](553.md) `553/1999`
+- [Laki jätelain 62 §:n muuttamisesta](554.md) `554/1999`
+- [Laki rangaistusten täytäntöönpanosta annetun lain 6 luvun muuttamisesta](555.md) `555/1999`
+- [Laki oikeudenkäymiskaaren 32 luvun muuttamisesta](556.md) `556/1999`
+- [Laki uhkasakkolain 2 §:n muuttamisesta](557.md) `557/1999`
+- [Laki verotustietojen luovuttamisesta sakotusta varten](558.md) `558/1999`
+- [Laki tieliikenteen tietojärjestelmästä annetun lain muuttamisesta](559.md) `559/1999`
+- [Asetus ajoneuvojen käytöstä tiellä annetun asetuksen 31 §:n muuttamisesta](560.md) `560/1999`
+- [Pelastustoimilaki](561.md) `561/1999`
+- [Laki pelastustoimen laitteiden teknisistä vaatimuksista ja tuotteiden paloturvallisuudesta](562.md) `562/1999`
+- [Laki Venäjän federaation kanssa sijoitusten edistämistä ja molemminpuolista suojelua koskevan sopimuksen muuttamisesta tehdyn pöytäkirjan eräiden määräysten hyväksymisestä](563.md) `563/1999`
+- [Asetus Venäjän federaation kanssa sijoitusten edistämistä ja molemminpuolista suojelua koskevan sopimuksen muuttamisesta tehdyn pöytäkirjan voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](564.md) `564/1999`
+- [Laki yksityisyyden suojasta televiestinnässä ja teletoiminnan tietoturvasta](565.md) `565/1999`
+- [Laki telemarkkinalain muuttamisesta](566.md) `566/1999`
+- [Laki rikoslain 38 luvun 4 §:n muuttamisesta](567.md) `567/1999`
+- [Laki telehallinnosta annetun lain 2 §:n muuttamisesta](568.md) `568/1999`
+- [Asetus Viron kanssa sosiaaliturvasta tehdyssä sopimuksessa tarkoitetusta sairaanhoitoetuuksien kustannusten korvaamisesta](569.md) `569/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](570.md) `570/1999`
+- [Laki aravalain muuttamisesta](571.md) `571/1999`
+- [Laki vuokra\-asuntolainojen korkotuesta annetun lain muuttamisesta](572.md) `572/1999`
+- [Laki asumisoikeustalolainojen korkotuesta annetun lain muuttamisesta](573.md) `573/1999`
+- [Valtioneuvoston päätös asuntolainoitettujen vuokra\-asuntojen omapääomaosuuteen eräissä tapauksissa myönnettävistä avustuksista](574.md) `574/1999`
+- [Sisäasiainministeriön päätös poliisin virkapuvusta](575.md) `575/1999`
+- [Ulkoasiainministeriön ilmoitus Libyaa koskevan Euroopan unionin neuvoston asetuksen \(EY\) N:o 3274/93 soveltamisen keskeyttämisestä johtuvasta asianomaisten rangaistussääntöjen soveltamisen lakkaamisesta](576.md) `576/1999`
+- [Laki Itävallan, Suomen ja Ruotsin liittymisestä yleissopimukseen kaksinkertaisen verotuksen poistamisesta etuyhteydessä keskenään olevien yritysten tulonoikaisun yhteydessä tehdyn sopimuksen eräiden määräysten hyväksymisestä](577.md) `577/1999`
+- [Asetus Itävallan, Suomen ja Ruotsin liittymisestä yleissopimukseen kaksinkertaisen verotuksen poistamisesta etuyhteydessä keskenään olevien yritysten tulonoikaisun yhteydessä tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](578.md) `578/1999`
+- [Asetus Bulgarian kanssa tehdyn diplomaattipassin haltijoiden viisumivapaussopimuksen voimaansaattamisesta](579.md) `579/1999`
+- [Asetus ennakkoäänestyspaikkoina olevista Suomen edustustoista vuoden 1999 eduskuntavaaleissa ja europarlamenttivaaleissa annetun asetuksen liitteen muuttamisesta](580.md) `580/1999`
+- [Asetus potilasvahinkolautakunnasta annetun asetuksen muuttamisesta](581.md) `581/1999`
+- [Valtiovarainministeriön päätös eräiden verojen ja palautusten maksamisesta](582.md) `582/1999`
+- [Maa\- ja metsätalousministeriön päätös munivaa kanaa kohti vuodelta 1998 maksettavasta tuesta](583.md) `583/1999`
+- [Maa\- ja metsätalousministeriön päätös maataloustuotteiden ja elintarvikkeiden nimisuojasta annetun päätöksen muuttamisesta](584.md) `584/1999`
+- [Maa\- ja metsätalousministeriön päätös maataloustuotteiden ja elintarvikkeiden erityisluonnetta koskevista todistuksista annetun päätöksen muuttamisesta](585.md) `585/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](586.md) `586/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](587.md) `587/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräästä määräyksestä](588.md) `588/1999`
+- [Valtiovarainministeriön päätös rahastoyhtiön, säilytysyhteisön ja sijoitusrahaston tilinpäätöksestä sekä sijoitusrahaston vuosikertomuksesta ja puolivuotiskatsauksesta](589.md) `589/1999`
+- [Ulkoasiainministeriön ilmoitus ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](590.md) `590/1999`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä joita sovelletaan rikottaessa neuvoston asetusta Jugoslavian liittotasavaltaa koskevasta öljyn ja tiettyjen öljytuotteiden myynti\- ja toimituskiellosta](591.md) `591/1999`
+- [Valtioneuvoston päätös kuntajaon muuttamisesta Janakkalan ja Lopen kuntien välillä](592.md) `592/1999`
+- [Valtioneuvoston päätös maidon kuljetusavustuksista vuonna 1999](593.md) `593/1999`
+- [Valtioneuvoston päätös maa\- ja puutarhataloustuottajille vuodelta 1999 maksettavasta väliaikaisesta tulotuesta](594.md) `594/1999`
+- [Maa\- ja metsätalousministeriön päätös rajaeläinlääkärin suorittamista tarkastuksista perittävistä maksuista](595.md) `595/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](596.md) `596/1999`
+- [Asetus nimiasetuksen muuttamisesta](597.md) `597/1999`
+- [Asetus nimilautakunnasta annetun asetuksen 1 §:n muuttamisesta](598.md) `598/1999`
+- [Asetus maanpuolustuskorkeakoulusta annetun asetuksen muuttamisesta](599.md) `599/1999`
+- [Asetus eräistä alusten katsastuksiin ja tarkastuksiin sekä jäämaksuluokan määräämiseen liittyvistä palkkioista ja korvauksista annetun asetuksen muuttamisesta](600.md) `600/1999`
+- [Asetus aluksenmittaukseen liittyvistä palkkioista, korvauksista ja maksuista annetun asetuksen muuttamisesta](601.md) `601/1999`
+- [Asetus aluksen lastiviivojen määräämisestä ja merkitsemisestä suoritettavasta maksusta](602.md) `602/1999`
+- [Asetus alusten paineastioiden tarkastuksiin liittyvistä palkkioista ja korvauksista annetun asetuksen muuttamisesta](603.md) `603/1999`
+- [Asetus merimieskatselmusmiehille maksettavista palkkioista ja lunastuksista annetun asetuksen muuttamisesta](604.md) `604/1999`
+- [Asetus omistusasuntolainojen takausmaksun suuruudesta](605.md) `605/1999`
+- [Valtioneuvoston päätös kuntajaon muuttamisesta Siuntion ja Inkoon kuntien välillä](606.md) `606/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](607.md) `607/1999`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös mehiläisten esikotelomädän vuoksi perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen kumoamisesta](608.md) `608/1999`
+- [Asetus päiväsakon rahamäärästä](609.md) `609/1999`
+- [Asetus rikesakkorikkomuksista](610.md) `610/1999`
+- [Asetus sakkorangaistuksen täytäntöönpanosta annetun asetuksen muuttamisesta](611.md) `611/1999`
+- [Asetus rangaistusmääräysmenettelystä annetun asetuksen muuttamisesta](612.md) `612/1999`
+- [Asetus yhteentörmäämisen ehkäisemisestä sisäisillä kulkuvesillä annetun asetuksen \(Sisävesisäännöt 1978\) 16 §:n muuttamisesta](613.md) `613/1999`
+- [Asetus jäteasetuksen 24 §:n kumoamisesta](614.md) `614/1999`
+- [Asetus yhteiskuntatieteellisistä tutkinnoista annetun asetuksen muuttamisesta](615.md) `615/1999`
+- [Asetus ulkomaalaisvaltuutetusta annetun asetuksen muuttamisesta](616.md) `616/1999`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Karjalohjan ja Sammatin kuntien välillä](617.md) `617/1999`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Lohjan kaupungin ja Nummi\-Pusulan kunnan välillä](618.md) `618/1999`
+- [Oikeusministeriön päätös oikeusministeriön ja eräiden hallinnonalalla toimivien viranomaisten suoritteista perittävistä maksuista annetun oikeusministeriön päätöksen 1 ja 3 §:n muuttamisesta](619.md) `619/1999`
+- [Sosiaali\- ja terveysministeriön päätös traktoreiden ETY\-tyyppihyväksyntävaatimuksista annetun sosiaali\- ja terveysministeriön päätöksen 1 §:n muuttamisesta](620.md) `620/1999`
+- [Laki viranomaisten toiminnan julkisuudesta](621.md) `621/1999`
+- [Laki kuntalain 57 ja 74 §:n muuttamisesta](622.md) `622/1999`
+- [Laki eräiden salassapitosäännösten kumoamisesta](623.md) `623/1999`
+- [Laki oikeudenkäynnin julkisuudesta annetun lain muuttamisesta](624.md) `624/1999`
+- [Laki rikoslain 40 luvun muuttamisesta](625.md) `625/1999`
+- [Laki valtion virkamieslain 17 §:n muuttamisesta](626.md) `626/1999`
+- [Laki nimikirjalain muuttamisesta](627.md) `627/1999`
+- [Laki tietosuojalautakunnasta ja tietosuojavaltuutetusta annetun lain muuttamisesta](628.md) `628/1999`
+- [Laki julkisesta notaarista annetun lain 3 ja 4 §:n muuttamisesta](629.md) `629/1999`
+- [Laki kirjanpitolain 8 luvun 3 §:n muuttamisesta](630.md) `630/1999`
+- [Laki yksinoikeudesta integroidun piirin piirimalliin annetun lain muuttamisesta](631.md) `631/1999`
+- [Laki tuoteturvallisuuslain muuttamisesta](632.md) `632/1999`
+- [Laki julkisista hankinnoista annetun lain 14 §:n muuttamisesta](633.md) `633/1999`
+- [Laki sähköturvallisuuslain 36 ja 37 §:n muuttamisesta](634.md) `634/1999`
+- [Laki ydinenergialain 78 §:n muuttamisesta](635.md) `635/1999`
+- [Laki vakauslain 14 h §:n muuttamisesta](636.md) `636/1999`
+- [Laki laitteiden energiatehokkuudesta annetun lain muuttamisesta](637.md) `637/1999`
+- [Laki yritystuen yleisistä ehdoista annetun lain 9 ja 10 §:n muuttamisesta](638.md) `638/1999`
+- [Laki rahoitustarkastuslain muuttamisesta](639.md) `639/1999`
+- [Laki valtion vakuusrahastosta annetun lain muuttamisesta](640.md) `640/1999`
+- [Laki elokuvien tarkastuksen toimittamisesta annetun lain 14 a §:n muuttamisesta](641.md) `641/1999`
+- [Laki vaarallisten aineiden kuljetuksesta annetun lain 17 ja 23 §:n muuttamisesta](642.md) `642/1999`
+- [Laki alusturvallisuuden valvonnasta annetun lain 17 ja 21 §:n muuttamisesta](643.md) `643/1999`
+- [Laki merimieskatselmuslain 15 ja 17 §:n muuttamisesta](644.md) `644/1999`
+- [Laki työttömyysturvalain muuttamisesta](645.md) `645/1999`
+- [Laki valtion virkaehtosopimuslain muuttamisesta](646.md) `646/1999`
+- [Laki säteilylain muuttamisesta](647.md) `647/1999`
+- [Laki yksityishenkilön velkajärjestelystä annetun lain 87 §:n muuttamisesta](648.md) `648/1999`
+- [Laki ulosottolain 3 luvun 34 f ja 34 g §:n muuttamisesta](649.md) `649/1999`
+- [Laki konkurssipesien hallinnon valvonnasta annetun lain 16 §:n muuttamisesta](650.md) `650/1999`
+- [Laki eduskunnan virkamiehistä annetun lain 17 §:n muuttamisesta](651.md) `651/1999`
+- [Laki tasavallan presidentin kansliasta annetun lain 60 §:n muuttamisesta](652.md) `652/1999`
+- [Laki valtiontilintarkastajien ja valtiontalouden tarkastusviraston oikeudesta tarkastaa eräitä Suomen ja Euroopan yhteisöjen välisiä varainsiirtoja annetun lain 4 §:n muuttamisesta](653.md) `653/1999`
+- [Laki kunnallisesta työmarkkinalaitoksesta annetun lain 9 §:n muuttamisesta](654.md) `654/1999`
+- [Laki ammattikorkeakouluopinnoista annetun lain 28 §:n muuttamisesta](655.md) `655/1999`
+- [Laki ilmansuojelulain 23 ja 31 §:n muuttamisesta](656.md) `656/1999`
+- [Laki meluntorjuntalain 27 §:n muuttamisesta](657.md) `657/1999`
+- [Laki terveydensuojelulain muuttamisesta](658.md) `658/1999`
+- [Laki kemikaalilain muuttamisesta](659.md) `659/1999`
+- [Laki torjunta\-ainelain muuttamisesta](660.md) `660/1999`
+- [Laki jätelain muuttamisesta](661.md) `661/1999`
+- [Laki eläinsuojelulain muuttamisesta](662.md) `662/1999`
+- [Laki elintarvikelain muuttamisesta](663.md) `663/1999`
+- [Laki eläimistä saatavien elintarvikkeiden elintarvikehygieniasta annetun lain muuttamisesta](664.md) `664/1999`
+- [Laki siemenkauppalain muuttamisesta](665.md) `665/1999`
+- [Laki taimiaineistolain 9 ja 14 §:n muuttamisesta](666.md) `666/1999`
+- [Laki kasvinsuojelulain 15 §:n muuttamisesta](667.md) `667/1999`
+- [Laki lannoitelain 16 ja 21 §:n muuttamisesta](668.md) `668/1999`
+- [Laki kotieläinjalostuslain 14 ja 15 §:n muuttamisesta](669.md) `669/1999`
+- [Laki hevostalouslain 14 ja 15 §:n muuttamisesta](670.md) `670/1999`
+- [Laki eläinten lääkitsemisestä annetun lain muuttamisesta](671.md) `671/1999`
+- [Laki eläinlääkinnällisestä rajatarkastuksesta annetun lain 24 ja 27 §:n muuttamisesta](672.md) `672/1999`
+- [Laki Euroopan yhteisön yhteisen maatalouspolitiikan täytäntöönpanosta annetun lain 6 §:n muuttamisesta](673.md) `673/1999`
+- [Laki maaseutuelinkeinojen tukitehtäviä hoidettaessa noudatettavasta menettelystä annetun lain 9 §:n muuttamisesta](674.md) `674/1999`
+- [Laki metsäkeskuksista ja metsätalouden kehittämiskeskuksesta annetun lain 8 ja 16 §:n muuttamisesta](675.md) `675/1999`
+- [Laki erikoiskasvien markkinoimismaksuista annetun lain muuttamisesta](676.md) `676/1999`
+- [Laki kuntoutuksen asiakaspalveluyhteistyöstä annetun lain 12 §:n muuttamisesta](677.md) `677/1999`
+- [Laki yksityisestä terveydenhuollosta annetun lain 15 ja 23 §:n muuttamisesta](678.md) `678/1999`
+- [Laki lääkelain 90 §:n muuttamisesta](679.md) `679/1999`
+- [Laki terveydenhuollon laitteista ja tarvikkeista annetun lain muuttamisesta](680.md) `680/1999`
+- [Laki toimenpiteistä tupakoinnin vähentämiseksi annetun lain muuttamisesta](681.md) `681/1999`
+- [Laki terveydenhuollon ammattihenkilöistä annetun lain muuttamisesta](682.md) `682/1999`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain muuttamisesta](683.md) `683/1999`
+- [Laki kuolemansyyn selvittämisestä annetun lain 15 §:n muuttamisesta](684.md) `684/1999`
+- [Laki yhdistyslain 47 §:n muuttamisesta](685.md) `685/1999`
+- [Laki eräitä julkisia yrityksiä koskevasta tiedonantovelvollisuudesta annetun lain 7 §:n muuttamisesta](686.md) `686/1999`
+- [Laki vapaakappalelain 10 §:n muuttamisesta](687.md) `687/1999`
+- [Laki hallintomenettelylain 5 ja 15 §:n muuttamisesta](688.md) `688/1999`
+- [Laki arkistolain muuttamisesta](689.md) `689/1999`
+- [Laki yksityisluontoisten arkistojen valtionavusta annetun lain 13 §:n muuttamisesta](690.md) `690/1999`
+- [Laki Euroopan yhteisön yhteisen maatalouspolitiikan tunnistamis\- ja tiedonantojärjestelmän täytäntöönpanosta annetun lain 9 §:n muuttamisesta](691.md) `691/1999`
+- [Laki metsästyslain 89 §:n muuttamisesta](692.md) `692/1999`
+- [Laki kalastuslain 77 a §:n muuttamisesta](693.md) `693/1999`
+- [Asetus eräiden salassapitosäännösten kumoamisesta](694.md) `694/1999`
+- [Asetus rautatiekuljetusasetuksen 7 §:n muuttamisesta](695.md) `695/1999`
+- [Asetus korkeimmasta hallinto\-oikeudesta annetun asetuksen 7 §:n muuttamisesta](696.md) `696/1999`
+- [Asetus kemikaaliasetuksen muuttamisesta](697.md) `697/1999`
+- [Asetus torjunta\-aineasetuksen muuttamisesta](698.md) `698/1999`
+- [Asetus metsäkeskuksista ja metsätalouden kehittämiskeskuksesta annetun asetuksen 31 §:n muuttamisesta](699.md) `699/1999`
+- [Asetus vankeinhoitoasetuksen muuttamisesta](700.md) `700/1999`
+- [Asetus tutkintavankeudesta](701.md) `701/1999`
+- [Asetus valtion tiede\- ja teknologianeuvostosta annetun asetuksen 3 §:n muuttamisesta](702.md) `702/1999`
+- [Liikenneministeriön päätös linja\-autoliikenteen henkilötaksoista](703.md) `703/1999`
+- [Sisäasiainministeriön päätös rekisterihallinnon suoritteiden maksuista annetun päätöksen muuttamisesta](704.md) `704/1999`
+- [Valtiovarainministeriön päätös Suomen EU\-puheenjohtajuuden johdosta lyötävistä juhlarahoista](705.md) `705/1999`
+- [Laki kirkkolain muuttamisesta](706.md) `706/1999`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Liljendalin ja Pernajan kuntien välillä](707.md) `707/1999`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Kirkkonummen ja Siuntion kuntien välillä](708.md) `708/1999`
+- [Sosiaali\- ja terveysministeriön päätös Lääkelaitoksen maksullisista suoritteista](709.md) `709/1999`
+- [Ulkoasiainministeriön ilmoitus ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](710.md) `710/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](711.md) `711/1999`
+- [Maa\- ja metsätalousministeriön päätös nurmikasvien siementuotannon kansallisen tuen suuruudesta vuodelta 1998](712.md) `712/1999`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta lentokiellon käyttöönottamisesta Euroopan yhteisön ja Jugoslavian liittotasavallan alueiden välillä ja asetuksen \(EY\) N:o 1901/98 kumoamisesta](713.md) `713/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](714.md) `714/1999`
+- [Maa\- ja metsätalousministeriön päätös eräiden kalastustuotteiden ja kalalaitosten valvonnasta perittävistä maksuista](715.md) `715/1999`
+- [Kauppa\- ja teollisuusministeriön päätös kosmeettisista valmisteista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](716.md) `716/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](717.md) `717/1999`
+- [Laki kestävän metsätalouden rahoituksesta annetun lain muuttamisesta](718.md) `718/1999`
+- [Asetus otsonikerrosta heikentäviä aineita koskevan Montrealin pöytäkirjan tarkistusten voimaansaattamisesta](719.md) `719/1999`
+- [Asetus luvanvaraisesta henkilöliikenteestä tiellä annetun asetuksen muuttamisesta](720.md) `720/1999`
+- [Asetus valtion teknillisestä tutkimuskeskuksesta annetun asetuksen 11 ja 12 §:n muuttamisesta](721.md) `721/1999`
+- [Valtiovarainministeriön päätös peruskoron vahvistamisesta](722.md) `722/1999`
+- [Asetus yksityisyyden suojasta televiestinnässä ja teletoiminnan tietoturvasta](723.md) `723/1999`
+- [Asetus telemarkkina\-asetuksen 9 ja 10 §:n kumoamisesta](724.md) `724/1999`
+- [Asetus telehallinnosta annetun asetuksen 13 §:n muuttamisesta](725.md) `725/1999`
+- [Asetus kuntoutusraha\-asetuksen muuttamisesta](726.md) `726/1999`
+- [Asetus maahan tilapäistä käyttöä varten tuotujen moottoriajoneuvojen liikennevakuutukseen liittyvistä tullilaitoksen tehtävistä annetun asetuksen 1 §:n muuttamisesta](727.md) `727/1999`
+- [Valtioneuvoston päätös työpaikkojen terveys\- ja turvallisuusvaatimuksista](728.md) `728/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](729.md) `729/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](730.md) `730/1999`
+- [Suomen perustuslaki](731.md) `731/1999`
+- [Laki Suomen perustuslain voimaantulojärjestelyistä](732.md) `732/1999`
+- [Laki kansainvälisessä maantieliikenteessä toimivien ajoneuvojen miehistöjen työstä tehdyn eurooppalaisen sopimuksen eräiden määräysten hyväksymisestä](733.md) `733/1999`
+- [Asetus kansainvälisessä maantieliikenteessä toimivien ajoneuvojen miehistöjen työstä tehdyn eurooppalaisen sopimuksen voimaansaattamisesta ja eräiden määräysten hyväksymisestä annetun lain voimaantulosta](734.md) `734/1999`
+- [Laki tieliikennelain muuttamisesta](735.md) `735/1999`
+- [Asetus tieliikennelain muuttamisesta annetun lain voimaantulosta](736.md) `736/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](737.md) `737/1999`
+- [Asetus teknologian kehittämiskeskuksesta annetun asetuksen muuttamisesta](738.md) `738/1999`
+- [Asetus porotalousasetuksen 18 §:n muuttamisesta](739.md) `739/1999`
+- [Asetus luontaiselinkeinoasetuksen 51 §:n kumoamisesta](740.md) `740/1999`
+- [Asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen tehtyjen muutosten voimaansaattamisesta](741.md) `741/1999`
+- [Asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyviin kiinteää irtolastia kuljettavien alusten ja öljysäiliöalusten tehostettua tarkastusohjelmaa koskeviin suuntaviivoihin tehtyjen muutosten voimaansaattamisesta](742.md) `742/1999`
+- [Asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteeseen tehtyjen muutosten voimaansaattamisesta](743.md) `743/1999`
+- [Valtioneuvoston päätös energiapolitiikan neuvostosta annetun valtioneuvoston päätöksen kumoamisesta](744.md) `744/1999`
+- [Kauppa\- ja teollisuusministeriön päätös julkisesti tuettujen alusluottojen yleisistä ehdoista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](745.md) `745/1999`
+- [Maa\- ja metsätalousministeriön päätös perunanviljelijälle maksettavan kansallisen tuen ehdoista](746.md) `746/1999`
+- [Helsingin vaalipiirilautakunnan kuulutus Suomesta valittavien Euroopan parlamentin jäsenten vaalien tuloksesta](747.md) `747/1999`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Euroopan unionin jäsenvaltioiden välillä tehdyn yleissopimuksen eräiden määräysten hyväksymisestä](748.md) `748/1999`
+- [Asetus rikoksen johdosta tapahtuvasta luovuttamisesta Euroopan unionin jäsenvaltioiden välillä tehdyn yleissopimuksen eräiden määräysten hyväksymisestä annetun lain soveltamisesta ennen yleissopimuksen kansainvälistä voimaantuloa](749.md) `749/1999`
+- [Laki yksinkertaistetusta menettelystä Euroopan unionin jäsenvaltioiden välillä rikoksen johdosta tapahtuvassa luovuttamisessa tehdyn yleissopimuksen eräiden määräysten hyväksymisestä](750.md) `750/1999`
+- [Asetus yksinkertaistetusta menettelystä Euroopan unionin jäsenvaltioiden välillä rikoksen johdosta tapahtuvassa luovuttamisessa tehdyn yleissopimuksen eräiden määräysten hyväksymisestä annetun lain soveltamisesta ennen yleissopimuksen kansainvälistä voimaantuloa](751.md) `751/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](752.md) `752/1999`
+- [Laki kunnallisen viranhaltijan palvelussuhdeturvasta annetun lain muuttamisesta](753.md) `753/1999`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta](754.md) `754/1999`
+- [Asetus ajoneuvojen käytöstä tiellä annetun asetuksen 32 a §:n muuttamisesta](755.md) `755/1999`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta annetun asetuksen voimaantulosäännöksen kumoamisesta](756.md) `756/1999`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen 65 §:n muuttamisesta](757.md) `757/1999`
+- [Valtioneuvoston päätös Anttolan kunnan, Mikkelin kaupungin ja Mikkelin maalaiskunnan lakkauttamisesta ja uuden Mikkelin kunnan perustamisesta](758.md) `758/1999`
+- [Liikenneministeriön päätös tilaajaluettelotietojen luovuttamisesta](759.md) `759/1999`
+- [Liikenneministeriön päätös yksityisyyden suojasta televiestinnässä ja teletoiminnan tietoturvasta](760.md) `760/1999`
+- [Liikenneministeriön päätös Telehallintokeskuksen maksuista annetun liikenneministeriön päätöksen muuttamisesta](761.md) `761/1999`
+- [Laki valmisteverotuslain muuttamisesta](762.md) `762/1999`
+- [Laki arvonlisäverolain muuttamisesta](763.md) `763/1999`
+- [Laki tullilain 9 §:n muuttamisesta](764.md) `764/1999`
+- [Laki Ahvenanmaan maakuntaa koskevista poikkeuksista arvonlisävero\- ja valmisteverolainsäädäntöön annetun lain muuttamisesta](765.md) `765/1999`
+- [Laki yhteismetsälain 4 §:n muuttamisesta](766.md) `766/1999`
+- [Asetus yhteismetsäasetuksen 4 §:n muuttamisesta](767.md) `767/1999`
+- [Asetus laivavarusteista annetun asetuksen 2 §:n muuttamisesta](768.md) `768/1999`
+- [Asetus ampuma\-aseiden ja \-tarvikkeiden tarkastuksesta annetun asetuksen muuttamisesta](769.md) `769/1999`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Joutsenon ja Taipalsaaren kuntien sekä Lappeenrannan kaupungin ja Joutsenon kunnan välillä](770.md) `770/1999`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Siuntion ja Kirkkonummen kuntien välillä](771.md) `771/1999`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikelisäaineiden puhtausvaatimuksista ja eräistä määritysmenetelmistä](772.md) `772/1999`
+- [Asetus Euroopan yhteisöjen ja niiden jäsenvaltioiden sekä Armenian tasavallan välisen kumppanuus\- ja yhteistyösopimuksen voimaantulosta](773.md) `773/1999`
+- [Asetus Euroopan yhteisöjen ja niiden jäsenvaltioiden sekä Azerbaidzhanin tasavallan välisen kumppanuus\- ja yhteistyösopimuksen voimaantulosta](774.md) `774/1999`
+- [Asetus Euroopan yhteisöjen ja niiden jäsenvaltioiden sekä Georgian välisen kumppanuus\- ja yhteistyösopimuksen voimaantulosta](775.md) `775/1999`
+- [Asetus Euroopan yhteisöjen ja niiden jäsenvaltioiden sekä Kazakstanin tasavallan välisen kumppanuus\- ja yhteistyösopimuksen voimaantulosta](776.md) `776/1999`
+- [Asetus Euroopan yhteisöjen ja niiden jäsenvaltioiden sekä Kirgisian tasavallan välisen kumppanuus\- ja yhteistyösopimuksen voimaantulosta](777.md) `777/1999`
+- [Asetus Euroopan yhteisöjen ja niiden jäsenvaltioiden sekä Uzbekistanin tasavallan välisen kumppanuus\- ja yhteistyösopimuksen voimaantulosta](778.md) `778/1999`
+- [Sosiaali\- ja terveysministeriön päätös hakemukseen, joka koskee Koulutus\- ja erorahaston uusien sääntöjen vahvistamista](779.md) `779/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](780.md) `780/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](781.md) `781/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](782.md) `782/1999`
+- [Sisäasiainministeriön päätös pysäköintivirhemaksun korottamisesta](783.md) `783/1999`
+- [Liikenneministeriön päätös eräistä Euroopan yhteisöjen lainsäädännössä tarkoitetuista telemaksuista annetun päätöksen 2 §:n muuttamisesta](784.md) `784/1999`
+- [Maa\- ja metsätalousministeriön päätös eläimistä saatavien elintarvikkeiden ja muiden tuotteiden eläinlääkinnällisistä rajatarkastuksista](785.md) `785/1999`
+- [Valtioneuvoston päätös dieselöljyn ja moottoribensiinin laatuvaatimuksista](786.md) `786/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](787.md) `787/1999`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä joita sovelletaan rikottaessa neuvoston asetusta Jugoslavian liittotasavaltaan liittyvien varojen jäädyttämisestä ja sijoitusten kieltämisestä sekä asetusten \(EY\) N:o 1295/98 ja \(EY\) N:o 1607/98 kumoamisesta](788.md) `788/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](789.md) `789/1999`
+- [Ulkoasiainministeriön ilmoitus ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](790.md) `790/1999`
+- [Ulkoasiainministeriön ilmoitus ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](791.md) `791/1999`
+- [Ulkoasiainministeriön ilmoitus Tsekkoslovakian kanssa tehdyn viisumivapaussopimuksen soveltamisen väliaikaisesta keskeyttämisestä Slovakian osalta](792.md) `792/1999`
+- [Valtioneuvoston päätös henkilönostoista nosturilla ja haarukkatrukilla](793.md) `793/1999`
+- [Valtiovarainministeriön päätös Suomen EU\-puheenjohtajuuden johdosta lyötävistä juhlarahoista annetun päätöksen 3 ja 4 §:n muuttamisesta](794.md) `794/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](795.md) `795/1999`
+- [Verohallituksen päätös yleisestä tiedonantovelvollisuudesta annetun päätöksen muuttamisesta](796.md) `796/1999`
+- [Laki Pohjoismaiden investointipankkia koskevan sopimuksen eräiden määräysten hyväksymisestä](797.md) `797/1999`
+- [Asetus Pohjoismaiden investointipankkia koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](798.md) `798/1999`
+- [Asetus Suomen hallituksen ja Pohjoismaiden investointipankin välisen isäntämaasopimuksen voimaansaattamisesta](799.md) `799/1999`
+- [Asetus Liettuan kanssa yhteistyöstä kulttuurin, opetuksen ja tieteen alalla tehdyn sopimuksen voimaansaattamisesta](800.md) `800/1999`
+- [Asetus Euroopan unionista tehdyn sopimuksen K\.3 artiklan ja Europol\-yleissopimuksen 41 artiklan 3 kohdan perusteella tehdyn Europolin, sen elinten jäsenten sekä Europolin apulaisjohtajien ja työntekijöiden erioikeuksia ja vapauksia koskevan pöytäkirjan voimaansaattamisesta](801.md) `801/1999`
+- [Valtioneuvoston päätös teknisiä määräyksiä koskevien tietojen toimittamisessa noudatettavasta menettelystä](802.md) `802/1999`
+- [Laki eläimistä saatavien elintarvikkeiden elintarvikehygieniasta annetun lain muuttamisesta](803.md) `803/1999`
+- [Laki eläintautilain 13 §:n muuttamisesta](804.md) `804/1999`
+- [Asetus Sibelius\-Akatemian tutkinnoista annetun asetuksen muuttamisesta](805.md) `805/1999`
+- [Asetus korkeakoulututkintojen järjestelmästä annetun asetuksen muuttamisesta](806.md) `806/1999`
+- [Asetus humanistisista ja luonnontieteellisistä tutkinnoista annetun asetuksen liitteen muuttamisesta](807.md) `807/1999`
+- [Asetus uskonnonvapauslain täytäntöönpanosta annetun asetuksen muuttamisesta](808.md) `808/1999`
+- [Asetus ortodoksisesta kirkkokunnasta annetun asetuksen muuttamisesta](809.md) `809/1999`
+- [Asetus luonnonvarainneuvostosta](810.md) `810/1999`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeissa ja alkoholijuomissa käytettävistä muista lisäaineista kuin makeutusaineista ja väreistä](811.md) `811/1999`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavasta lihasta ja lihatuotteista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](812.md) `812/1999`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavista kalastustuotteista ja niistä saaduista raakavalmisteista ja jalosteista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](813.md) `813/1999`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavasta maidosta ja maitopohjaisista tuotteista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](814.md) `814/1999`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavista munavalmisteista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](815.md) `815/1999`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavista linnunmunista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](816.md) `816/1999`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavasta hunajasta annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](817.md) `817/1999`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavista sammakonreisistä ja etanoista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](818.md) `818/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](819.md) `819/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](820.md) `820/1999`
+- [Tilisiirtolaki](821.md) `821/1999`
+- [Asetus kemiallisten aseiden kehittämisen, tuotannon, varastoinnin ja käytön kieltämistä sekä niiden hävittämistä koskevan yleissopimuksen muutoksen voimaansaattamisesta](822.md) `822/1999`
+- [Asetus Qatarin kanssa tehdyn lentoliikennesopimuksen voimaansaattamisesta](823.md) `823/1999`
+- [Asetus terveydenhuollon ammattihenkilöistä annetun asetuksen muuttamisesta](824.md) `824/1999`
+- [Kauppa\- ja teollisuusministeriön päätös sähkökauppojen selvittämiseen liittyvien sanomien muodosta](825.md) `825/1999`
+- [Kauppa\- ja teollisuusministeriön päätös sähkökauppojen selvittämiseen liittyvässä tiedonvaihdossa noudatettavasta menettelystä annetun kauppa\- ja teollisuusministeriön päätöksen 4 ja 7 §:n muuttamisesta](826.md) `826/1999`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeen nimestä ja ainesosien ilmoittamisesta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](827.md) `827/1999`
+- [Sisäasiainministeriön päätös ulkomaalaisviraston maksullisista suoritteista](828.md) `828/1999`
+- [Henkilökorttilaki](829.md) `829/1999`
+- [Laki väestötietolain 23 §:n muuttamisesta](830.md) `830/1999`
+- [Asetus väestötietoasetuksen muuttamisesta](831.md) `831/1999`
+- [Asetus avioliittoasetuksen muuttamisesta](832.md) `832/1999`
+- [Asetus matkailun edistämiskeskuksesta annetun asetuksen muuttamisesta](833.md) `833/1999`
+- [Maa\- ja metsätalousministeriön päätös kansallisen maidon tuotantotuen hallinnoinnista Mouhijärven Osuusmeijerin konkurssiin liittyen](834.md) `834/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](835.md) `835/1999`
+- [Valtioneuvoston päätös vaikeista sairauksista ja niiden hoitoon käytettävistä kliinisistä ravintovalmisteista, joihin suoritetaan sairausvakuutuslain mukaista korvausta, annetun valtioneuvoston päätöksen 1 ja 2 §:n muuttamisesta](836.md) `836/1999`
+- [Kauppa\- ja teollisuusministeriön päätös patentti\- ja rekisterihallituksen maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](837.md) `837/1999`
+- [Maa\- ja metsätalousministeriön päätös poronhoitovuodelta 1999/2000 maksettavasta eläinkohtaisesta tuesta](838.md) `838/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](839.md) `839/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](840.md) `840/1999`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös mehiläisten esikotelomädän vuoksi Raision kaupunkiin perustettavasta rajoitusalueesta](841.md) `841/1999`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös mehiläisten esikotelomädän vuoksi Kuusjoen kuntaan perustettavasta rajoitusalueesta](842.md) `842/1999`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös mehiläisten esikotelomädän vuoksi Lapinlahden kuntaan perustettavasta rajoitusalueesta](843.md) `843/1999`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös mehiläisten esikotelomädän vuoksi Perniön kuntaan perustettavasta rajoitusalueesta](844.md) `844/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](845.md) `845/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](846.md) `846/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](847.md) `847/1999`
+- [Asetus entisen Jugoslavian alueella tehtyjä rikoksia käsittelevän kansainvälisen sotarikostuomioistuimen kanssa todistajien sijoittamisesta tehdyn sopimuksen voimaansaattamisesta](848.md) `848/1999`
+- [Asetus luvan hankkimisesta eräiden huvitusten järjestämiseen ja peliautomaattien pitämiseen annetun asetuksen eräiden säännösten kumoamisesta](849.md) `849/1999`
+- [Asetus poikkeussäännöksiä eräänlaatuisista huvitilaisuuksista sisältävän asetuksen kumoamisesta](850.md) `850/1999`
+- [Kauppa\- ja teollisuusministeriön päätös kuluttajavalituslautakunnan jaostoissa käsiteltävien asioiden jakoperusteista](851.md) `851/1999`
+- [Verohallituksen päätös vuoden 1999 kiinteistöverotuksen päättymisestä](852.md) `852/1999`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](853.md) `853/1999`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](854.md) `854/1999`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](855.md) `855/1999`
+- [Asetus valtioneuvoston ohjesäännön muuttamisesta](856.md) `856/1999`
+- [Pelastustoimiasetus](857.md) `857/1999`
+- [Maa\- ja metsätalousministeriön päätös eläimistä saatavien elintarvikkeiden tutkimuksia tekevistä laboratorioista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](858.md) `858/1999`
+- [Laki Israelin kanssa sosiaaliturvasta tehdyn sopimuksen eräiden määräysten hyväksymisestä](859.md) `859/1999`
+- [Asetus Israelin kanssa sosiaaliturvasta tehdyn sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](860.md) `860/1999`
+- [Laki työntekijäin eläkelain muuttamisesta](861.md) `861/1999`
+- [Asetus eläketurvakeskuksen ohjesäännön sisältävän asetuksen muuttamisesta](862.md) `862/1999`
+- [Sosiaali\- ja terveysministeriön päätös sairausvakuutuslain 5 a §:ssä tarkoitettujen eräiden reseptittä myytävien lääkkeiden korvaamisesta](863.md) `863/1999`
+- [Sisäasiainministeriön päätös poliisin suoritteiden maksullisuudesta annetun päätöksen 2 §:n ja liitteen muuttamisesta](864.md) `864/1999`
+- [Valtiovarainministeriön päätös JHTT\-tutkintoon vaadittavasta käytännön kokemuksesta](865.md) `865/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](866.md) `866/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](867.md) `867/1999`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös mehiläisten esikotelomädän vuoksi Juuan kuntaan perustettavasta rajoitusalueesta](868.md) `868/1999`
+- [Painelaitelaki](869.md) `869/1999`
+- [Laki ydinenergialain muuttamisesta](870.md) `870/1999`
+- [Laki luvanvaraisesta henkilöliikenteestä tiellä annetun lain muuttamisesta](871.md) `871/1999`
+- [Asetus kiinteistönmuodostamisasetuksen muuttamisesta](872.md) `872/1999`
+- [Asetus kiinteistörekisteriasetuksen muuttamisesta](873.md) `873/1999`
+- [Asetus kuolemansyyn selvittämisestä annetun asetuksen 19 ja 22 a §:n muuttamisesta](874.md) `874/1999`
+- [Laki kulttuuriomaisuuden luvattoman tuonnin, viennin ja omistusoikeuden siirron kieltämiseksi ja ehkäisemiseksi tehdyn yleissopimuksen eräiden määräysten hyväksymisestä](875.md) `875/1999`
+- [Asetus kulttuuriomaisuuden luvattoman tuonnin, viennin ja omistusoikeuden siirron kieltämiseksi ja ehkäisemiseksi tehdyn yleissopimuksen voimaansaattamisesta sekä yleissopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](876.md) `876/1999`
+- [Laki varastetuista tai laittomasti maastaviedyistä kulttuuriesineistä tehdyn Unidroit'n yleissopimuksen eräiden määräysten hyväksymisestä ja yleissopimuksen soveltamisesta](877.md) `877/1999`
+- [Asetus varastetuista tai laittomasti maasta viedyistä kulttuuriesineistä tehdyn Unidroit'n yleissopimuksen voimaansaattamisesta sekä yleissopimuksen eräiden määräysten hyväksymisestä ja yleissopimuksen soveltamisesta annetun lain voimaantulosta](878.md) `878/1999`
+- [Asetus Euroopan yhteisön ja sen jäsenvaltioiden sekä eteläisten yhteismarkkinoiden ja sen osapuolina olevien valtioiden yhteistyötä koskevan alueidenvälisen puitesopimuksen voimaantulosta](879.md) `879/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](880.md) `880/1999`
+- [Asetus yleisten kokouksien järjestysmiehistä annetun asetuksen kumoamisesta](881.md) `881/1999`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen 60 §:n muuttamisesta](882.md) `882/1999`
+- [Maa\- ja metsätalousministeriön päätös maatalouden kirjanpidon tietoverkoston hallinnosta annetun maa\- ja metsätalous\-ministeriön päätöksen muuttamisesta](883.md) `883/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](884.md) `884/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](885.md) `885/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](886.md) `886/1999`
+- [Verohallituksen päätös metsätalouden tulojen verotuksessa noudatettavista kantohinta\-alueista](887.md) `887/1999`
+- [Asetus väliaikaisesta maahantuonnista tehdyn yleissopimuksen voimaansaattamisesta](888.md) `888/1999`
+- [Asetus holhoustoimesta](889.md) `889/1999`
+- [Asetus painelaitelaissa tarkoitetuista tarkastuslaitoksista](890.md) `890/1999`
+- [Asetus kattilalaitosten käytön valvojien pätevyyskirjoista](891.md) `891/1999`
+- [Ympäristöministeriön päätös Suomen ympäristökeskuksen maksullisista suoritteista annetun ympäristöministeriön päätöksen 2 §:n muuttamisesta](892.md) `892/1999`
+- [Ympäristöministeriön päätös eräiden kasvilajien rauhoitusta koskevista poikkeuksista](893.md) `893/1999`
+- [Verohallituksen päätös muiden verovelvollisten kuin yhteisöjen ja yhteisetuuksien verovuoden 1998 verotuksen päättymisestä](894.md) `894/1999`
+- [Maankäyttö\- ja rakennusasetus](895.md) `895/1999`
+- [Kauppa\- ja teollisuusministeriön päätös eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](896.md) `896/1999`
+- [Laki Pohjoismaiden kehitysrahastoa koskevan sopimuksen eräiden määräysten hyväksymisestä](897.md) `897/1999`
+- [Asetus Pohjoismaiden kehitysrahastoa koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](898.md) `898/1999`
+- [Liikenneministeriön päätös henkilövuokra\-autojen kuljetusmaksuista](899.md) `899/1999`
+- [Liikenneministeriön päätös henkilövuokra\-autojen reittitaksoista](900.md) `900/1999`
+- [Laki Pohjoismaiden ympäristörahoitusyhtiötä koskevan sopimuksen eräiden määräysten hyväksymisestä](901.md) `901/1999`
+- [Asetus Pohjoismaiden ympäristörahoitusyhtiötä koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](902.md) `902/1999`
+- [Asetus vuoden 1995 kansainväliseen viljasopimukseen sisältyvän elintarvikeapua koskevan vuoden 1999 yleissopimuksen väliaikaisesta soveltamisesta](903.md) `903/1999`
+- [Asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen 15 §:n muuttamisesta](904.md) `904/1999`
+- [Asetus työsuojelun valvonnasta annetun asetuksen 36 a §:n muuttamisesta](905.md) `905/1999`
+- [Asetus siviilipalvelusasetuksen 6 §:n muuttamisesta](906.md) `906/1999`
+- [Valtioneuvoston päätös maataloudesta peräisin olevien nitraattien vesiin pääsyn rajoittamisesta annetun valtioneuvoston päätöksen muuttamisesta](907.md) `907/1999`
+- [Maa\- ja metsätalousministeriön päätös maaseutuelinkeinojen valituslautakunnan suoritteista perittävistä maksuista annetun maa\- ja metsätalousministeriön päätöksen 3 §:n 1 momentin muuttamisesta](908.md) `908/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](909.md) `909/1999`
+- [Laki Espoon Keilaniemessä ja Lintuvaarassa sijaitsevien maa\-alueiden myymisestä Espoon kaupungille](910.md) `910/1999`
+- [Asetus ulkomaanedustuksesta annetun asetuksen kumoamisesta](911.md) `911/1999`
+- [Asetus ulkomailla hädänalaiseen asemaan joutuneelle Suomen kansalaiselle myönnettävästä taloudellisesta avustuksesta annetun asetuksen kumoamisesta](912.md) `912/1999`
+- [Asetus ulkoasiainhallintoasetuksen 33 §:n kumoamisesta](913.md) `913/1999`
+- [Valtioneuvoston päätös maakotkien porotaloudelle aiheuttamien vahinkojen korvaamisesta annetun valtioneuvoston päätöksen 5 §:n muuttamisesta](914.md) `914/1999`
+- [Asetus Kanadan kanssa kummankin maan alueiden välisestä ja niiden kautta edelleen tapahtuvasta lentoliikenteestä tehdyn sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](915.md) `915/1999`
+- [Sisäasiainministeriön päätös rekisterihallinnon suoritteiden maksuista](916.md) `916/1999`
+- [Kauppa\- ja teollisuusministeriön päätös yksinkertaisista painesäiliöistä](917.md) `917/1999`
+- [Maa\- ja metsätalousministeriön päätös eräiden kasvinviljelytuotteiden kansallisen tuotantotuen maksamiselle satovuodelta 1999/2000 asetettavista laatuvaatimuksista](918.md) `918/1999`
+- [Valtioneuvoston päätös eräitä ftalaatteja koskevista rajoituksista alle kolmivuotiaille lapsille tarkoitetuissa suuhunpantavissa lastenhoitotarvikkeissa ja leluissa](919.md) `919/1999`
+- [Valtioneuvoston päätös vaikeista ja pitkäaikaisista sairauksista ja niiden hoitoon käytettävistä lääkkeistä, joista sairausvakuutuslain mukaan korvataan 100 tai 75 prosenttia säädetyn kiinteän omavastuun ylittävältä osalta, annetun valtioneuvoston päätöksen muuttamisesta](920.md) `920/1999`
+- [Valtioneuvoston päätös vaikeista ja pitkäaikaisista sairauksista ja niiden hoitoon käytettävistä lääkkeistä, joista sairausvakuutuslain mukaan korvataan 100 tai 75 prosenttia säädetyn kiinteän omavastuun ylittävältä osalta, annetun valtioneuvoston päätöksen 1 ja 2 §:n muuttamisesta](921.md) `921/1999`
+- [Valtioneuvoston päätös työntekijöille aiheutuvan suuronnettomuusvaaran torjunnasta](922.md) `922/1999`
+- [Valtiovarainministeriön päätös Jean Sibeliuksen ja säveltaiteen juhlarahoista](923.md) `923/1999`
+- [Asetus luvanvaraisesta tavaraliikenteestä tiellä](924.md) `924/1999`
+- [Valtioneuvoston päätös valtionosuuden perusteena käytettävien opetus\- ja kirjastotoimen yksikköhintojen keskimääräisistä markkamääristä vuonna 2000](925.md) `925/1999`
+- [Valtioneuvoston päätös yleisradiotoiminnassa noudatettavasta taajuuksien käyttösuunnitelmasta](926.md) `926/1999`
+- [Maa\- ja metsätalousministeriön päätös kolmansista maista tuotavista kalastustuotteista ja niistä saaduista raakavalmisteista ja jalosteista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](927.md) `927/1999`
+- [Puolustusministeriön ilmoitus palvelusalueita Yhdistyneiden Kansakuntien ja Euroopan turvallisuus\- ja yhteistyöjärjestön päätökseen perustuvissa rauhanturvaamisoperaatioissa koskevasta puolustusministeriön päätöksestä](928.md) `928/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](929.md) `929/1999`
+- [Laki tasavallan presidentin eläkeoikeudesta annetun lain 1 §:n muuttamisesta](930.md) `930/1999`
+- [Laki tasavallan presidentin kansliasta annetun lain 2 §:n muuttamisesta](931.md) `931/1999`
+- [Laki perusopetuslain 49 §:n muuttamisesta](932.md) `932/1999`
+- [Laki eräistä opetusalan eläkejärjestelyistä annetun lain 15 §:n muuttamisesta](933.md) `933/1999`
+- [Asetus Ajoneuvohallintokeskuksesta annetun asetuksen 6 §:n muuttamisesta](934.md) `934/1999`
+- [Sisäasiainministeriön päätös eräiden tietojen tallettamisesta väestötietojärjestelmään](935.md) `935/1999`
+- [Valtiovarainministeriön päätös verovuoden 1998 ennakkopalautusten maksamisesta](936.md) `936/1999`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätös mehiläisten esikotelomädän vuoksi perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen kumoamisesta](937.md) `937/1999`
+- [Kauppa\- ja teollisuusministeriön päätös painelaitteista](938.md) `938/1999`
+- [Laki valtion eläkelain muuttamisesta](939.md) `939/1999`
+- [Laki arvonlisäverolain muuttamisesta](940.md) `940/1999`
+- [Laki alkoholilain 85 §:n muuttamisesta](941.md) `941/1999`
+- [Asetus Itämeren ja Pohjanmeren pikkuvalaiden suojelusta tehdyn sopimuksen voimaansaattamisesta](942.md) `942/1999`
+- [Asetus Euroopan lepakoiden suojelusta tehdyn sopimuksen voimaansaattamisesta](943.md) `943/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](944.md) `944/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön päätöksestä eläimistä saatavien elintarvikkeiden tuonnista Belgiasta](945.md) `945/1999`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta Jugoslavian liittotasavallan tiettyjä osia koskevasta öljyn ja tiettyjen öljytuotteiden myynti\- ja toimituskiellosta ja asetuksen \(EY\) N:o 900/1999 kumoamisesta](946.md) `946/1999`
+- [Laki valtioneuvoston oikeudesta luovuttaa Valtion painatuskeskuksen hallinnassa oleva omaisuus perustettavalle valtionyhtiölle sekä yhtiön eräistä tehtävistä annetun lain kumoamisesta](947.md) `947/1999`
+- [Asetus teollisuusneuvostosta annetun asetuksen kumoamisesta](948.md) `948/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](949.md) `949/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön päätöksestä rekisteröityjen hevosten tuonnista Malesiasta](950.md) `950/1999`
+- [Laki rikoslain muuttamisesta](951.md) `951/1999`
+- [Asetus yleisen oikeusavun ja maksuttoman oikeudenkäynnin palkkioperusteista annetun asetuksen muuttamisesta](952.md) `952/1999`
+- [Kauppa\- ja teollisuusministeriön päätös painelaiteturvallisuudesta](953.md) `953/1999`
+- [Maa\- ja metsätalousministeriön päätös perunanviljelijälle maksettavan kansallisen tuen suuruudesta](954.md) `954/1999`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta lentokiellon käyttöönottamisesta Euroopan yhteisön ja Jugoslavian liittotasavallan alueiden välillä Montenegron tasavaltaa ja Kosovon maakuntaa lukuun ottamatta sekä asetuksen \(EY\) N:o 1064/1999 kumoamisesta](955.md) `955/1999`
+- [Laki Intian kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen muuttamista koskevan pöytäkirjan eräiden määräysten hyväksymisestä](956.md) `956/1999`
+- [Asetus Intian kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen muuttamista koskevan pöytäkirjan voimaansaattamisesta ja pöytäkirjan eräiden määräysten hyväksymisestä annetun lain voimaantulosta](957.md) `957/1999`
+- [Laki velkakirjalain 5 §:n muuttamisesta](958.md) `958/1999`
+- [Laki työsopimuslain 23 §:n muuttamisesta](959.md) `959/1999`
+- [Laki merimieslain 19 §:n muuttamisesta](960.md) `960/1999`
+- [Laki arvonlisäveron palautusten takaisinperinnästä kunnilta annetun lain 5 §:n muuttamisesta](961.md) `961/1999`
+- [Asetus Euroopan yhteisön ja sen jäsenvaltioiden sekä Chilen tasavallan poliittisen ja taloudellisen liiton perustamiseen tähtäävän yhteistyötä koskevan puitesopimuksen voimaantulosta](962.md) `962/1999`
+- [Liikenneministeriön päätös henkilövuokra\-autojen kuljetusmaksuista annetun liikenneministeriön päätöksen 6 ja 9 §:n muuttamisesta](963.md) `963/1999`
+- [Laki tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista annetun lain 7 §:n muuttamisesta](964.md) `964/1999`
+- [Asetus kotimaan yleisistä ennakkoäänestyspaikoista vuoden 2000 tasavallan presidentin vaalissa](965.md) `965/1999`
+- [Asetus vuonna 2000 toimitettavassa tasavallan presidentin vaalissa ennakkoäänestyspaikkoina olevista Suomen edustustoista](966.md) `966/1999`
+- [Asetus valtion virkamiesasetuksen 3 §:n muuttamisesta](967.md) `967/1999`
+- [Liikenneministeriön päätös ajoneuvojen katsastusluvista annetun liikenneministeriön päätöksen 8 §:n muuttamisesta](968.md) `968/1999`
+- [Laki kaupankäynnistä vakioiduilla optioilla ja termiineillä annetun lain muuttamisesta](969.md) `969/1999`
+- [Laki arvopaperimarkkinalain muuttamisesta](970.md) `970/1999`
+- [Laki arvo\-osuusjärjestelmästä annetun lain muuttamisesta](971.md) `971/1999`
+- [Laki rahoitustarkastuslain 2 §:n muuttamisesta](972.md) `972/1999`
+- [Laki rikoslain 51 luvun 6 §:n muuttamisesta](973.md) `973/1999`
+- [Asetus formaldehydin enimmäismääristä eräissä tekstiilituotteissa annetun asetuksen 2 ja 4 §:n muuttamisesta](974.md) `974/1999`
+- [Verohallituksen päätös Konserniverokeskuksen toimivallasta ja Konserniverokeskuksessa verotettavista verovelvollisista](975.md) `975/1999`
+- [Kauppa\- ja teollisuusministeriön päätös vähittäiskaupan ja eräiden työliikkeiden liikeajasta annetun lain mukaisista sunnuntaiaukiolopäivistä](976.md) `976/1999`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkelain 9 §:ssä tarkoitettujen indeksilukujen vahvistamisesta](977.md) `977/1999`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta kansallisiin tukahduttamistoimiin tai terrorismiin mahdollisesti käytettävien tarvikkeiden Indonesiaan toimittamisen kieltämisestä](978.md) `978/1999`
+- [Laki varainsiirtoverolain 15 ja 22 §:n muuttamisesta](979.md) `979/1999`
+- [Laki tuloverolain 45 ja 50 §:n muuttamisesta](980.md) `980/1999`
+- [Laki verotusmenettelystä annetun lain 15 §:n muuttamisesta](981.md) `981/1999`
+- [Laki maatilatalouden tuloverolain 13 §:n muuttamisesta](982.md) `982/1999`
+- [Laki Kansaneläkelaitoksen rahoituksen väliaikaisesta muuttamisesta vuonna 2000](983.md) `983/1999`
+- [Asetus kihlakunnanvirastosta annetun asetuksen muuttamisesta](984.md) `984/1999`
+- [Asetus maatilatalouden kehittämisrahastosta annetun asetuksen 2 §:n muuttamisesta](985.md) `985/1999`
+- [Asetus lääketieteellisestä tutkimuksesta](986.md) `986/1999`
+- [Ulkoasiainministeriön ilmoitus ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](987.md) `987/1999`
+- [Laki eräistä henkilöstön asemaa koskevista järjestelyistä kunnallistettaessa yliopistojen hammaslääketieteen kliinisen koulutuksen toimintoja](988.md) `988/1999`
+- [Laki vakuutusyhtiölain muuttamisesta](989.md) `989/1999`
+- [Laki liikennevakuutuslain muuttamisesta](990.md) `990/1999`
+- [Laki potilasvahinkolain 13 §:n muuttamisesta](991.md) `991/1999`
+- [Laki ympäristövahinkovakuutuksesta annetun lain 25 §:n muuttamisesta](992.md) `992/1999`
+- [Asetus Suomen hallituksen ja Pohjoismaiden ympäristörahoitusyhtiön välisen isäntämaasopimuksen voimaansaattamisesta](993.md) `993/1999`
+- [Asetus yksityisten ajoneuvojen väliaikaista maahantuontia koskevan tulliyleissopimuksen muutoksen voimaansaattamisesta](994.md) `994/1999`
+- [Asetus Suomen hallituksen ja Pohjoismaiden kehitysrahaston välisen isäntämaasopimuksen voimaansaattamisesta](995.md) `995/1999`
+- [Asetus ulosottoasetuksen 35 §:n muuttamisesta](996.md) `996/1999`
+- [Sosiaali\- ja terveysministeriön päätös sairausvakuutuslain 5 §:ssä tarkoitettujen eräiden reseptittä myytävien lääkkeiden korvaamisesta](997.md) `997/1999`
+- [Suomen Pankin ilmoitus pankkien maksujärjestelmien suljettuina pitämisestä 31\.12\.1999](998.md) `998/1999`
+- [Laki kuntien yleisestä kalleusluokituksesta annetun lain 6 §:n muuttamisesta](999.md) `999/1999`
+- [Laki eläintautilain 15 §:n muuttamisesta](1000.md) `1000/1999`
+- [Laki työturvallisuuslain muuttamisesta](1001.md) `1001/1999`
+- [Laki työsuojelun valvonnasta ja muutoksenhausta työsuojeluasioissa annetun lain muuttamisesta](1002.md) `1002/1999`
+- [Asetus virkamiesten maksuttoman sairaanhoidon järjestämisestä puolustusministeriön hallinnonalalla annetun asetuksen kumoamisesta](1003.md) `1003/1999`
+- [Asetus turvallisista konteista vuonna 1972 tehdyn kansainvälisen yleissopimuksen voimaansaattamisesta](1004.md) `1004/1999`
+- [Asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen muuttamisesta](1005.md) `1005/1999`
+- [Valtioneuvoston päätös maa\- ja puutarhataloustuottajille vuodelta 1999 maksettavasta pohjoisesta tuesta annetun valtioneuvoston päätöksen 12 §:n muuttamisesta](1006.md) `1006/1999`
+- [Valtioneuvoston päätös lihan kuljetusavustuksista vuonna 1999](1007.md) `1007/1999`
+- [Sisäasiainministeriön päätös holhoustoimessa tarvittavan edunvalvontapalvelun tuottajalle maksettavasta korvauksesta](1008.md) `1008/1999`
+- [Maa\- ja metsätalousministeriön päätös mehiläisyhteiskuntien lukumäärään perustuvan tuen suuruudesta vuonna 1999](1009.md) `1009/1999`
+- [Laki kirjastolain 12 §:n muuttamisesta](1010.md) `1010/1999`
+- [Laki taiteilijaprofessorin viroista ja valtion taiteilija\-apurahoista annetun lain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1011.md) `1011/1999`
+- [Laki eräistä kirjailijoille ja kääntäjille suoritettavista apurahoista ja avustuksista annetun lain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1012.md) `1012/1999`
+- [Laki kuntien kulttuuritoiminnasta annetun lain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1013.md) `1013/1999`
+- [Laki vakuutustarkastuksen kustantamisesta annetun lain muuttamisesta](1014.md) `1014/1999`
+- [Laki vakuutuksenvälittäjistä annetun lain 18 §:n muuttamisesta](1015.md) `1015/1999`
+- [Laki tapaturma\- ja liikennevakuutuslaitoksilta vuodelta 2000 perittävästä maksusta](1016.md) `1016/1999`
+- [Asetus Ahvenanmaan maakunnassa olevista yleisistä ennakkoäänestyspaikoista vuoden 2000 tasavallan presidentin vaalissa](1017.md) `1017/1999`
+- [Asetus aluksen miehityksestä, laivaväen pätevyydestä ja vahdinpidosta annetun asetuksen muuttamisesta](1018.md) `1018/1999`
+- [Liikenneministeriön päätös aluksen laivaväen pätevyydestä](1019.md) `1019/1999`
+- [Laki sairausvakuutuslain 5 ja 5 b §:n väliaikaisesta muuttamisesta](1020.md) `1020/1999`
+- [Laki rintamaveteraanien hammashuollon järjestämisestä ja korvaamisesta annetun lain 1 §:n muuttamisesta](1021.md) `1021/1999`
+- [Laki rintamasotilaseläkelain 9 §:n muuttamisesta](1022.md) `1022/1999`
+- [Laki ulkomaille maksettavasta rintamalisästä annetun lain 1 §:n muuttamisesta](1023.md) `1023/1999`
+- [Laki rintamaveteraanien kuntoutuksesta annetun lain 5 §:n muuttamisesta](1024.md) `1024/1999`
+- [Laki eräissä Suomen sotiin liittyneissä tehtävissä palvelleiden kuntoutuksesta annetun lain 2 §:n muuttamisesta](1025.md) `1025/1999`
+- [Laki kiinteistöverolain muuttamisesta](1026.md) `1026/1999`
+- [Laki tuloverolain muuttamisesta](1027.md) `1027/1999`
+- [Laki tuloverolain väliaikaisesta muuttamisesta](1028.md) `1028/1999`
+- [Laki tuloverolain 77 §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1029.md) `1029/1999`
+- [Asetus viranomaisten toiminnan julkisuudesta ja hyvästä tiedonhallintatavasta](1030.md) `1030/1999`
+- [Verohallituksen päätös matkakuluvähennyksen määrästä vuodelta 1999 toimitettavassa verotuksessa](1031.md) `1031/1999`
+- [Laki tasavallan presidentin palkkiosta](1032.md) `1032/1999`
+- [Laki tasavallan presidentin eläkeoikeudesta annetun lain 1 §:n muuttamisesta](1033.md) `1033/1999`
+- [Laki pienyrittäjän vuosilomarahasta annetun lain kumoamisesta](1034.md) `1034/1999`
+- [Laki sotilasvammalain 6 §:n muuttamisesta](1035.md) `1035/1999`
+- [Asetus kotimaan yleisistä ennakkoäänestyspaikoista vuoden 2000 tasavallan presidentin vaalissa annetun asetuksen liitteen muuttamisesta](1036.md) `1036/1999`
+- [Asetus metsäveroasetuksen 15 §:n muuttamisesta](1037.md) `1037/1999`
+- [Asetus eräiden korkeakouluissa suoritettujen tutkintojen tuottamasta kelpoisuudesta annettujen asetusten kumoamisesta](1038.md) `1038/1999`
+- [Asetus terveydenhuollon oikeusturvakeskuksesta annetun asetuksen muuttamisesta](1039.md) `1039/1999`
+- [Valtioneuvoston päätös virastojen sineteistä annetun valtioneuvoston päätöksen 15 ja 17 §:n muuttamisesta](1040.md) `1040/1999`
+- [Maa\- ja metsätalousministeriön päätös pysyvän luonnonhaitan korvaamista koskevan tuen myöntämisen perusteena olevan yksikkömäärän rajoittamisesta](1041.md) `1041/1999`
+- [Sosiaali\- ja terveysministeriön päätös vuoden 2000 työttömyysvakuutusmaksuista](1042.md) `1042/1999`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](1043.md) `1043/1999`
+- [Laki taiteilijoiden ja eräiden erityisryhmiin kuuluvien työntekijäin eläkelain muuttamisesta](1044.md) `1044/1999`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](1045.md) `1045/1999`
+- [Laki merimieseläkelain muuttamisesta](1046.md) `1046/1999`
+- [Asetus kemiallisten aseiden kehittämisen, tuotannon, varastoinnin ja käytön kieltämistä sekä niiden hävittämistä koskevan yleissopimuksen voimaansaattamisesta sekä yleissopimuksen eräiden määräysten hyväksymisestä ja sen soveltamisesta annetun lain voimaantulosta annetun asetuksen 5 §:n muuttamisesta](1047.md) `1047/1999`
+- [Asetus työturvallisuuslain ja työterveyshuoltolain soveltamisesta työturvallisuuslain 2 §:ssä tarkoitettuun työhön annetun asetuksen 2 ja 3 §:n muuttamisesta](1048.md) `1048/1999`
+- [Valtioneuvoston päätös kaatopaikoista annetun valtioneuvoston päätöksen muuttamisesta](1049.md) `1049/1999`
+- [Valtioneuvoston päätös vuokra\-asuntojen korkotukilainojen yleisistä ehdoista annetun valtioneuvoston päätöksen 18 §:n muuttamisesta](1050.md) `1050/1999`
+- [Valtioneuvoston päätös asumisoikeustalojen korkotukilainojen yleisistä ehdoista annetun valtioneuvoston päätöksen 14 §:n muuttamisesta](1051.md) `1051/1999`
+- [Kauppa\- ja teollisuusministeriön päätös patentti\- ja rekisterihallituksen maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön päätöksen liitteenä olevan maksutaulukon muuttamisesta](1052.md) `1052/1999`
+- [Sosiaali\- ja terveysministeriön päätös traktoreiden ETY\-tyyppihyväksyntävaatimuksista annetun sosiaali\- ja terveysministeriön päätöksen 1 §:n muuttamisesta](1053.md) `1053/1999`
+- [Maa\- ja metsätalousministeriön päätös perunantuotannon lisäkustannusten korvaamisesta vuonna 1999 Siemenperunakeskuksen tuotantoalueella](1054.md) `1054/1999`
+- [Sisäasiainministeriön päätös rekisterihallinnon suoritteiden maksuista annetun päätöksen muuttamisesta](1055.md) `1055/1999`
+- [Maa\- ja metsätalousministeriön päätös lihantarkastuksesta ja eräiden liha\-alan laitosten valvonnasta perittävistä maksuista](1056.md) `1056/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön päätöksestä vieraista aineista eläimistä saatavissa elintarvikkeissa annetun päätöksen muuttamisesta](1057.md) `1057/1999`
+- [Sosiaali\- ja terveysministeriön päätös kemikaalien luokitusperusteista ja merkintöjen tekemisestä annetun sosiaali\- ja terveysministeriön päätöksen muuttamisesta](1058.md) `1058/1999`
+- [Sosiaali\- ja terveysministeriön päätös vaarallisten aineiden luettelosta](1059.md) `1059/1999`
+- [Laki merenkulun veronhuojennuksista annetun lain 6 ja 14 §:n muuttamisesta](1060.md) `1060/1999`
+- [Laki kotitaloustyön väliaikaisesta verotuesta annetun lain 10 ja 12 §:n muuttamisesta](1061.md) `1061/1999`
+- [Laki kestävän metsätalouden rahoituksesta annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1062.md) `1062/1999`
+- [Laki vesilain 1 luvun muuttamisesta](1063.md) `1063/1999`
+- [Asetus väestötietoasetuksen muuttamisesta](1064.md) `1064/1999`
+- [Asetus rekisterihallintoasetuksen 3 ja 4 §:n muuttamisesta](1065.md) `1065/1999`
+- [Asetus henkilökorttiasetuksen kumoamisesta](1066.md) `1066/1999`
+- [Asetus asetuksen, jolla kielletään painotuotteiden kaupaksi tarjoaminen häiriötä tuottavalla tavalla, kumoamisesta](1067.md) `1067/1999`
+- [Asetus matkustamisoikeuden osoittamisesta eräissä tapauksissa annetun asetuksen 1 §:n muuttamisesta](1068.md) `1068/1999`
+- [Asetus ydinenergia\-asetuksen muuttamisesta](1069.md) `1069/1999`
+- [Sosiaali\- ja terveysministeriön päätös eräiden elatusapujen ja elatustukien korottamisesta elinkustannusindeksin nousun johdosta](1070.md) `1070/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus toimenpiteistä kasvintuhoojien leviämisen estämiseksi ja hävittämiseksi annetun maa\- ja metsätalousministeriön päätöksen 21 §:n väliaikaisesta muuttamisesta](1071.md) `1071/1999`
+- [Asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen 2 ja 3 §:n muuttamisesta](1072.md) `1072/1999`
+- [Asetus kaksikäyttötuotteiden vientivalvonnasta annetun asetuksen 8 §:n muuttamisesta](1073.md) `1073/1999`
+- [Asetus alkoholijuomista ja väkiviinasta annetun asetuksen väliaikaisesta muuttamisesta](1074.md) `1074/1999`
+- [Asetus arava\-asetuksen muuttamisesta](1075.md) `1075/1999`
+- [Asetus asuntotuotantoasetuksen 28 §:n mukaisten korkojen muuttamisesta annetun asetuksen 2 §:n muuttamisesta](1076.md) `1076/1999`
+- [Asetus asuntotuotantoasetuksen 29 §:n mukaisten korkojen muuttamisesta annetun asetuksen 2 §:n muuttamisesta](1077.md) `1077/1999`
+- [Asetus vuokra\-asuntojen omaksilunastamisesta annetun asetuksen 5 §:n mukaisten korkojen muuttamisesta annetun asetuksen 2 §:n muuttamisesta](1078.md) `1078/1999`
+- [Asetus arava\-asetuksen muuttamisesta](1079.md) `1079/1999`
+- [Asetus asuntotuotantoasetuksen 31 §:n mukaisten korkojen muuttamisesta](1080.md) `1080/1999`
+- [Valtioneuvoston päätös eräiden asuntolainojen ja perusparannuslainojen koroista](1081.md) `1081/1999`
+- [Sisäasiainminiseriön päätös poliisin suoritteiden maksullisuudesta annetun päätöksen liitten muuttamisesta](1082.md) `1082/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräästä määräyksestä](1083.md) `1083/1999`
+- [Laki eräistä arvopaperi\- ja valuuttakaupan sekä selvitysjärjestelmän ehdoista](1084.md) `1084/1999`
+- [Laki arvo\-osuustileistä annetun lain 5 a §:n muuttamisesta](1085.md) `1085/1999`
+- [Asetus Kestilän varavankilan yhdistämisestä Pelson keskusvankilaan](1086.md) `1086/1999`
+- [Asetus tielaitoksesta annetun asetuksen 13 §:n muuttamisesta](1087.md) `1087/1999`
+- [Asetus Ratahallintokeskuksesta annetun asetuksen 6 §:n 1 momentin muuttamisesta](1088.md) `1088/1999`
+- [Asetus ilmatieteen laitoksesta annetun asetuksen 12 §:n 1 momentin muuttamisesta](1089.md) `1089/1999`
+- [Valtioneuvoston päätös kuntien yleisen kalleusluokituksen vahvistamisesta](1090.md) `1090/1999`
+- [Valtioneuvoston päätös televisiomaksuista](1091.md) `1091/1999`
+- [Laki nuorisorangaistuksen kokeilemisesta annetun lain 14 §:n muuttamisesta](1092.md) `1092/1999`
+- [Laki rikosrekisterilain muuttamisesta](1093.md) `1093/1999`
+- [Asetus rikosrekisteriasetuksen muuttamisesta](1094.md) `1094/1999`
+- [Asetus Suomen ympäristökeskuksesta annetun asetuksen 1 ja 2 §:n muuttamisesta](1095.md) `1095/1999`
+- [Valtiovarainministeriön päätös rakennusten jälleenhankinta\-arvon perusteista](1096.md) `1096/1999`
+- [Valtiovarainministeriön päätös vesivoimalaitoksen ja sen rakenteiden jälleenhankinta\-arvon perusteista](1097.md) `1097/1999`
+- [Sosiaali\- ja terveysministeriön päätös huumausaineista ja huumausaineen valmistuksessa käytettävistä aineista annetun sosiaali\- ja terveysministeriön päätöksen muuttamisesta](1098.md) `1098/1999`
+- [Laki julkisesti tuettujen vienti\- ja alusluottojen korontasauksesta annetun lain muuttamisesta](1099.md) `1099/1999`
+- [Laki julkisesti tuettujen vienti\- ja alusluottojen korontasausyhtiöstä annetun lain muuttamisesta](1100.md) `1100/1999`
+- [Laki maatalousyrittäjien lomituspalvelulain 17 §:n muuttamisesta](1101.md) `1101/1999`
+- [Valtioneuvoston päätös porotaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](1102.md) `1102/1999`
+- [Valtioneuvoston päätös metsätaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](1103.md) `1103/1999`
+- [Valtioneuvoston päätös koneiden turvallisuudesta annetun valtioneuvoston päätöksen muuttamisesta](1104.md) `1104/1999`
+- [Valtioneuvoston päätös työturvallisuuslain soveltamisesta pulttipistooleihin ja niiden tarkastukseen annetun valtioneuvoston päätöksen muuttamisesta](1105.md) `1105/1999`
+- [Maa\- ja metsätalousministeriön päätös Suomen lipun alla purjehtivien kalastusalusten satelliittiseurantajärjestelmästä annetun maa\- ja metsätalousministeriön päätöksen 2 §:n muuttamisesta](1106.md) `1106/1999`
+- [Asetus tapaturmavakuutusmaksun perusteena olevaan palkkasummaan luettavista työansioista](1107.md) `1107/1999`
+- [Valtioneuvoston päätös pakolaisista ja eräistä muista maahanmuuttajista sekä turvapaikanhakijoiden vastaanoton järjestämisestä aiheutuvien kustannusten korvaamisesta annetun valtioneuvoston päätöksen 11 §:n muuttamisesta](1108.md) `1108/1999`
+- [Opetusministeriön päätös Suomen Adventtikirkko \-nimisen uskonnollisen yhdyskunnan uuden yhdyskuntajärjestyksen merkitsemisestä uskonnollisten yhdyskuntien rekisteriin](1109.md) `1109/1999`
+- [Opetusministeriön päätös Kimbangun kirkkokunta \-nimisen uskonnollisen yhdyskunnan merkitsemisestä uskonnollisten yhdyskuntien rekisteriin](1110.md) `1110/1999`
+- [Opetusministeriön päätös taiteen keskustoimikunnan suoritteiden maksullisuudesta](1111.md) `1111/1999`
+- [Laki vaikeavammaisille yrittäjille myönnettävistä veronhuojennuksista annetun lain 3 §:n muuttamisesta](1112.md) `1112/1999`
+- [Laki Ahvenanmaan maakuntaa koskevista poikkeuksista arvonlisävero\- ja valmisteverolainsäädäntöön annetun lain muuttamisesta](1113.md) `1113/1999`
+- [Laki Metsäntutkimuslaitoksesta](1114.md) `1114/1999`
+- [Laki erikoissairaanhoitolain muuttamisesta](1115.md) `1115/1999`
+- [Laki kansanterveyslain 40 §:n muuttamisesta](1116.md) `1116/1999`
+- [Asetus arvonlisäveroasetuksen muuttamisesta](1117.md) `1117/1999`
+- [Asetus työeläkekassan ohjesäännön sisältävän asetuksen muuttamisesta](1118.md) `1118/1999`
+- [Asetus esiintyvien taiteilijoiden ja eräiden erityisryhmien eläkekassan ohjesäännöstä annetun asetuksen muuttamisesta](1119.md) `1119/1999`
+- [Asetus maatalousyrittäjien eläkelaitoksen ohjesäännön sisältävän asetuksen muuttamisesta](1120.md) `1120/1999`
+- [Laki turvatarkastuksista tuomioistuimissa](1121.md) `1121/1999`
+- [Laki opettajankoulutuslain kumoamisesta](1122.md) `1122/1999`
+- [Asetus alusten katsastuksista](1123.md) `1123/1999`
+- [Opetusministeriön päätös Suomen elokuva\-arkiston suoritteiden maksullisuudesta](1124.md) `1124/1999`
+- [Laki Kasvinjalostuslaitoksen muuttamisesta osakeyhtiöksi](1125.md) `1125/1999`
+- [Laki kasvinjalostustoiminnan edistämisestä annetun lain muuttamisesta](1126.md) `1126/1999`
+- [Laki tieliikennelain 84 §:n muuttamisesta](1127.md) `1127/1999`
+- [Laki ajoneuvojen rekisteröintitoiminnasta annetun lain 2 §:n muuttamisesta](1128.md) `1128/1999`
+- [Laki tieliikenteen tietojärjestelmästä annetun lain muuttamisesta](1129.md) `1129/1999`
+- [Laki liikennevakuutuslain 10 ja 15 §:n muuttamisesta](1130.md) `1130/1999`
+- [Laki työmarkkinatuesta annetun lain 24 §:n muuttamisesta](1131.md) `1131/1999`
+- [Laki kotitaloustyön väliaikaisesta tukijärjestelmästä annetun lain 4 ja 13 §:n muuttamisesta](1132.md) `1132/1999`
+- [Asetus ajoneuvojen katsastuksesta annetun asetuksen 32 ja 34 §:n muuttamisesta](1133.md) `1133/1999`
+- [Valtiovarainministeriön päätös peruskoron vahvistamisesta](1134.md) `1134/1999`
+- [Valtiovarainministeriön ilmoitus vahvistetusta viitekorosta ja viivästyskorosta](1135.md) `1135/1999`
+- [Verohallituksen päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](1136.md) `1136/1999`
+- [Laki yhtiöveron hyvityksestä annetun lain muuttamisesta](1137.md) `1137/1999`
+- [Laki yhteistoiminnasta yrityksissä annetun lain 2 ja 11 f §:n muuttamisesta](1138.md) `1138/1999`
+- [Asetus ammatillisesta koulutuksesta annetun asetuksen muuttamisesta](1139.md) `1139/1999`
+- [Asetus Metsäntutkimuslaitoksesta](1140.md) `1140/1999`
+- [Valtioneuvoston päätös vaikeista sairauksista ja niiden hoitoon käytettävistä kliinisistä ravintovalmisteista, joihin suoritetaan sairausvakuutuslain mukaista korvausta, annetun valtioneuvoston päätöksen 1 ja 2 §:n muuttamisesta](1141.md) `1141/1999`
+- [Opetusministeriön päätös valtion elokuvatarkastamon ja elokuvalautakunnan suoritteiden maksullisuudesta](1142.md) `1142/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](1143.md) `1143/1999`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain muuttamisesta](1144.md) `1144/1999`
+- [Laki henkilöstörahastolain muuttamisesta](1145.md) `1145/1999`
+- [Laki lähetetyistä työntekijöistä](1146.md) `1146/1999`
+- [Laki työsopimuslain 17 ja 51 a §:n muuttamisesta](1147.md) `1147/1999`
+- [Laki ulkomaalaislain 29 §:n muuttamisesta](1148.md) `1148/1999`
+- [Asetus kiinteistörekisteriasetuksen muuttamisesta](1149.md) `1149/1999`
+- [Julistus neljästä kiitos\-, katumus\- ja rukouspäivästä, jotka on koko maassa juhlallisesti vietettävä vuonna 2000](1150.md) `1150/1999`
+- [Maa\- ja metsätalousministeriön päätös eläimiä ja eläimistä saatavia tuotteita koskevien viranomaisten todistusten antamisesta Euroopan yhteisön sisämarkkinoilla annetun maa\- ja metsätalousministeriön päätöksen 1 §:n muuttamisesta](1151.md) `1151/1999`
+- [Asetus toimenpiteistä tupakoinnin vähentämiseksi annetun asetuksen muuttamisesta](1152.md) `1152/1999`
+- [Valtioneuvoston päätös ympäristön tupakansavusta ja siihen liittyvän syöpävaaran torjunnasta työssä](1153.md) `1153/1999`
+- [Valtioneuvoston päätös terveystarkastuksista erityistä sairastumisen vaaraa aiheuttavissa töissä annetun valtioneuvoston päätöksen liitteen muuttamisesta](1154.md) `1154/1999`
+- [Sosiaali\- ja terveysministeriön päätös sikiön kehitykselle ja raskaudelle vaaraa aiheuttavista tekijöistä ja vaaran arvioimisesta annetun sosiaali\- ja terveysministeriön päätöksen 2 §:n muuttamisesta](1155.md) `1155/1999`
+- [Sosiaali\- ja terveysministeriön päätös nuorille työntekijöille vaarallisista töistä annetun työministeriön päätöksen muuttamisesta](1156.md) `1156/1999`
+- [Sosiaali\- ja terveysministeriön päätös tupakkatuotteiden vähittäismyyntipakkausten merkinnöistä sekä tervan ja nikotiinin mittausmenetelmistä annetun sosiaali\- ja terveysministeriön päätöksen muuttamisesta](1157.md) `1157/1999`
+- [Sosiaali\- ja terveysministeriön päätös tupakointivälineistä](1158.md) `1158/1999`
+- [Maa\- ja metsätalousministeriön päätös Euroopan yhteisön kokonaan rahoittamasta teurastuspalkkiosta ja lisätuesta](1159.md) `1159/1999`
+- [Maa\- ja metsätalousministeriön päätös Euroopan yhteisön kokonaan rahoittamien eläinpalkkioiden hakuajoista vuonna 2000](1160.md) `1160/1999`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkelain vähimmäisehtojen mukaisen vakuutuksen maksun ja lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain sekä taiteilijoiden ja eräiden erityisryhmiin kuuluvien työntekijäin eläkelain mukaisen vakuutusmaksun alentamisesta vuonna 1994 aiheutuneen vastuuvajauksen kuolettamisesta vuonna 2000](1161.md) `1161/1999`
+- [Laki työsuojelun valvonnasta ja muutoksenhausta työsuojeluasioissa annetun lain muuttamisesta](1162.md) `1162/1999`
+- [Laki maatalousyrittäjien luopumistuesta annetun lain muuttamisesta](1163.md) `1163/1999`
+- [Laki kirkkolain muuttamisesta](1164.md) `1164/1999`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](1165.md) `1165/1999`
+- [Kirkolliskokouksen päätös kirkon vaalijärjestyksen muuttamisesta](1166.md) `1166/1999`
+- [Laki tieliikennelain 64 §:n muuttamisesta](1167.md) `1167/1999`
+- [Asetus ajokorttiasetuksen muuttamisesta](1168.md) `1168/1999`
+- [Valtioneuvoston päätös eräiden opintotukilaissa \(28/1972\) tarkoitettujen määrien vahvistamisesta](1169.md) `1169/1999`
+- [Opetusministeriön päätös valtion taidemuseon suoritteiden maksullisuudesta](1170.md) `1170/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1171.md) `1171/1999`
+- [Valtioneuvoston päätös suojelua ja parantamista edellyttävien sisävesien laadusta kalojen elinolojen turvaamiseksi](1172.md) `1172/1999`
+- [Tiedonanto presidenttiehdokkaista](1173.md) `1173/1999`
+- [Verohallituksen päätös vuodelta 2000 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](1174.md) `1174/1999`
+- [Valtioneuvoston päätös saaristokunnista ja muiden kuntien saaristo\-osista, joihin sovelletaan saaristokuntaa koskevia säännöksiä](1175.md) `1175/1999`
+- [Suomen Pankin päätös eräiden setelien lakkauttamisesta laillisina maksuvälineinä](1176.md) `1176/1999`
+- [Valtiovarainministeriön päätös eräiden metallirahojen lakkauttamisesta laillisina maksuvälineinä](1177.md) `1177/1999`
+- [Valtiovarainministeriön päätös tullilaitoksen suoritteiden maksullisuudesta annetun valtiovarainministeriön päätöksen muuttamisesta](1178.md) `1178/1999`
+- [Opetusministeriön päätös museoviraston suoritteiden maksullisuudesta](1179.md) `1179/1999`
+- [Liikenneministeriön päätös Ajoneuvohallintokeskuksen maksuista annetun liikenneministeriön päätöksen liitteen muuttamisesta](1180.md) `1180/1999`
+- [Valtioneuvoston päätös eläkkeensaajien asumistukilain mukaisista hoitomenoina hyväksyttävistä keskimääräisistä kustannuksista ja asumiskustannusten enimmäismääristä vuodelle 2000](1181.md) `1181/1999`
+- [Valtioneuvoston päätös kuntien ryhmityksestä kansaneläkkeen maksamista varten](1182.md) `1182/1999`
+- [Valtioneuvoston päätös kuntien ryhmityksestä perhe\-eläkkeen maksamista varten](1183.md) `1183/1999`
+- [Valtioneuvoston päätös omistusasuntojen korkotukilainojen yleisistä ehdoista annetun valtioneuvoston päätöksen 14 §:n muuttamisesta](1184.md) `1184/1999`
+- [Sisäasiainministeriön päätös julkisen notaarin suoritteiden maksuista](1185.md) `1185/1999`
+- [Liikenneministeriön päätös Telehallintokeskuksen maksuista annetun liikenneministeriön päätöksen muuttamisesta](1186.md) `1186/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus viljan siementuotannon kansallisesta tuesta](1187.md) `1187/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus hyväksytyistä kasvinsuojeluaineiden tehoaineista annetun maa\- ja metsätalousministeriön päätöksen liitteen muuttamisesta](1188.md) `1188/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus koristekasvien taimiaineiston tuottamisesta ja markkinoimisesta](1189.md) `1189/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](1190.md) `1190/1999`
+- [Verohallituksen päätös ennakon alarajasta ja kantoeristä](1191.md) `1191/1999`
+- [Opetusministeriön päätös Suomen Bosnialainen Islam\-yhdyskunta \-nimisen uskonnollisen yhdyskunnan merkitsemisestä uskonnollisten yhdyskuntien rekisteriin](1192.md) `1192/1999`
+- [Kauppa\- ja teollisuusministeriön päätös sähkölaitteistojen turvallisuudesta](1193.md) `1193/1999`
+- [Kauppa\- ja teollisuusministeriön päätös sähköalan töistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1194.md) `1194/1999`
+- [Sosiaali\- ja terveysministeriön päätös sosiaali\- ja terveydenhuollon tuotevalvontakeskuksen maksullisista suoritteista annetun sosiaali\- ja terveysministeriön päätöksen muuttamisesta](1195.md) `1195/1999`
+- [Verohallituksen päätös kotieläinten arvon määräämisessä noudatettavista perusteista](1196.md) `1196/1999`
+- [Laki eräiden kirkollisten kiinteistöjen luovuttamisesta Suomen evankelis\-luterilaiselle kirkolle, Suomen ortodoksiselle kirkkokunnalle sekä näiden seurakunnille](1197.md) `1197/1999`
+- [Laki kemikaalilain muuttamisesta](1198.md) `1198/1999`
+- [Laki torjunta\-ainelain muuttamisesta](1199.md) `1199/1999`
+- [Laki terveydensuojelulain 21 §:n muuttamisesta](1200.md) `1200/1999`
+- [Asetus eräiden rikosvahinkolaissa säädettyjen korvausten enimmäismäärien tarkistamisesta](1201.md) `1201/1999`
+- [Asetus kaupanvahvistaja\-asetuksen muuttamisesta](1202.md) `1202/1999`
+- [Valtioneuvoston päätös yleishyödyllisten asuntoyhteisöjen tuoton tuloutuksesta](1203.md) `1203/1999`
+- [Kauppa\- ja teollisuusministeriön päätös sähkömarkkinakeskuksen maksullisista suoritteista](1204.md) `1204/1999`
+- [Opetusministeriön päätös tallentamattomien ääni\- ja kuvanauhojen ja muiden tallennuslaitteiden maahantuonnista ja valmistuksesta suoritettavan tekijänoikeudellisen maksun suuruudesta](1205.md) `1205/1999`
+- [Asetus lääkäri\- ja hammaslääkärikoulutuksen sekä yliopistotasoisen terveystieteellisen tutkimustoiminnan kustannuksiin suoritettavaan korvaukseen oikeutetuista palvelujen tuottajista](1206.md) `1206/1999`
+- [Puolustusministeriön päätös puolustustarvikkeiden maastaviennissä ja kauttakuljetuksessa Euroopan unionin alueella vaadittavasta ilmoituksesta annetun puolustusministeriön päätöksen kumoamisesta](1207.md) `1207/1999`
+- [Valtiovarainministeriön päätös vuoden 2000 taidekilpailupalkintojen verovapaudesta](1208.md) `1208/1999`
+- [Valtiovarainministeriön päätös JHTT\-tutkintoon vaadittavista opinnoista](1209.md) `1209/1999`
+- [Valtiovarainministeriön päätös julkishallinnon ja \-talouden tilintarkastajan tutkinnosta](1210.md) `1210/1999`
+- [Valtiovarainministeriön päätös Tilastokeskuksen suoritteiden maksullisuudesta](1211.md) `1211/1999`
+- [Sosiaali\- ja terveysministeriön päätös Vakuutusvalvontaviraston maksullisista suoritteista](1212.md) `1212/1999`
+- [Sosiaali\- ja terveysministeriön päätös Terveydenhuollon oikeusturvakeskuksen maksullisista suoritteista](1213.md) `1213/1999`
+- [Sosiaali\- ja terveysministeriön päätös paikkakuntien kalleusluokituksesta sotilasvammalain mukaisen huoltoeläkkeen ja täydennyskoron maksamista varten](1214.md) `1214/1999`
+- [Laki julkisen arvonannon osoituksista](1215.md) `1215/1999`
+- [Laki tasavallan presidentin kansliasta annetun lain muuttamisesta](1216.md) `1216/1999`
+- [Vuoden 2000 veroasteikkolaki](1217.md) `1217/1999`
+- [Laki tuloverolain muuttamisesta](1218.md) `1218/1999`
+- [Laki varallisuusverolain 10 §:n muuttamisesta](1219.md) `1219/1999`
+- [Laki tuloverolain muuttamisesta](1220.md) `1220/1999`
+- [Laki tuloverolain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1221.md) `1221/1999`
+- [Laki tuloverolain 124 ja 131 §:n muuttamisesta](1222.md) `1222/1999`
+- [Laki korkotulon lähdeverosta annetun lain 3 ja 6 §:n muuttamisesta](1223.md) `1223/1999`
+- [Laki yhtiöveron hyvityksestä annetun lain muuttamisesta](1224.md) `1224/1999`
+- [Laki rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun lain 7 ja 13 §:n muuttamisesta](1225.md) `1225/1999`
+- [Laki tupakkaverosta annetun lain liitteenä olevan verotaulukon muuttamisesta](1226.md) `1226/1999`
+- [Valtioneuvoston päätös hyvityssakkojen enimmäismäärien tarkistamisesta](1227.md) `1227/1999`
+- [Valtiovarainministeriön päätös ajoneuvoveron kannosta annetun valtiovarainministeriön päätöksen 1 §:n muuttamisesta](1228.md) `1228/1999`
+- [Laki valtion eläkelain muuttamisesta](1229.md) `1229/1999`
+- [Laki valtion perhe\-eläkelain 5 §:n muuttamisesta](1230.md) `1230/1999`
+- [Laki valtion eläkerahastosta annetun lain muuttamisesta](1231.md) `1231/1999`
+- [Laki kirkkolain 24 luvun 5 a ja 10 §:n muuttamisesta](1232.md) `1232/1999`
+- [Laki evankelis\-luterilaisen kirkon eläkelain muuttamisesta](1233.md) `1233/1999`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](1234.md) `1234/1999`
+- [Laki siemenkauppalain 3 ja 4 §:n väliaikaisesta muuttamisesta](1235.md) `1235/1999`
+- [Laki metsästyslain 87 §:n muuttamisesta](1236.md) `1236/1999`
+- [Laki riistanhoitomaksusta ja pyyntilupamaksusta annetun lain muuttamisesta](1237.md) `1237/1999`
+- [Asetus metsästysasetuksen muuttamisesta](1238.md) `1238/1999`
+- [Asetus Venäjän kanssa Suomen ja Neuvostoliiton välisen yhteistyöstä atomienergian rauhanomaisen käytön alalla tehdyn sopimuksen voimassaolon pidentämisestä viidellä vuodella tehdyn sopimuksen väliaikaisesta soveltamisesta](1239.md) `1239/1999`
+- [Kiinnitysluottopankkilaki](1240.md) `1240/1999`
+- [Laki luottolaitostoiminnasta annetun lain 97 c §:n muuttamisesta](1241.md) `1241/1999`
+- [Asetus ajoneuvojen rekisteröinnistä annetun asetuksen muuttamisesta](1242.md) `1242/1999`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta](1243.md) `1243/1999`
+- [Valtioneuvoston päätös kehitysalueesta ja sen tukialueista](1244.md) `1244/1999`
+- [Laki valtion erityisrahoitusyhtiön luotto\- ja takaustoiminnasta annetun lain 2 §:n väliaikaisesta muuttamisesta](1245.md) `1245/1999`
+- [Asetus työehtosopimuslaissa tarkoitettujen hyvityssakkojen enimmäismäärien tarkistamisesta](1246.md) `1246/1999`
+- [Valtioneuvoston päätös asumistuen määräytymisperusteista](1247.md) `1247/1999`
+- [Verohallituksen päätös verovapaista matkakustannusten korvauksista vuonna 2000](1248.md) `1248/1999`
+- [Laki asianajajista annetun lain muuttamisesta](1249.md) `1249/1999`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain 1 luvun 14 §:n muuttamisesta](1250.md) `1250/1999`
+- [Laki yliopistolain 2 ja 21 §:n muuttamisesta](1251.md) `1251/1999`
+- [Laki Suomen itsenäisyyden juhlarahastosta annetun lain muuttamisesta](1252.md) `1252/1999`
+- [Laki ulkomaankaupan hallinnosta sekä tarkkailu\- ja suojatoimenpiteistä eräissä tapauksissa annetun lain 7 §:n muuttamisesta](1253.md) `1253/1999`
+- [Laki maaseutuelinkeinojen valituslautakunnasta annetun lain 3 ja 5 §:n muuttamisesta](1254.md) `1254/1999`
+- [Laki eduskunnan virkamiehistä annetun lain 6 §:n muuttamisesta](1255.md) `1255/1999`
+- [Laki Suomen Pankin virkamiehistä annetun lain 4 §:n muuttamisesta](1256.md) `1256/1999`
+- [Laki kokoontumislain 1 §:n muuttamisesta](1257.md) `1257/1999`
+- [Laki vaalilain muuttamisesta](1258.md) `1258/1999`
+- [Laki haastemieslain muuttamisesta](1259.md) `1259/1999`
+- [Asetus eräistä sotilas\- ja siviiliviranomaisten välisistä suhteista rauhan aikana annetun asetuksen kumoamisesta](1260.md) `1260/1999`
+- [Asetus esitutkinnasta ja pakkokeinoista annetun asetuksen muuttamisesta](1261.md) `1261/1999`
+- [Asetus ylioppilastutkinnosta Ahvenanmaan maakunnassa](1262.md) `1262/1999`
+- [Laki työntekijäin eläkelain muuttamisesta](1263.md) `1263/1999`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](1264.md) `1264/1999`
+- [Laki taiteilijoiden ja eräiden erityisryhmiin kuuluvien työntekijäin eläkelain 4 §:n muuttamisesta](1265.md) `1265/1999`
+- [Laki maatalousyrittäjien eläkelain 6 a §:n muuttamisesta](1266.md) `1266/1999`
+- [Laki yrittäjien eläkelain 5 a §:n muuttamisesta](1267.md) `1267/1999`
+- [Laki merimieseläkelain muuttamisesta](1268.md) `1268/1999`
+- [Laki ikääntyvien työntekijöiden osa\-aikatyö\- ja osa\-aikaeläkejärjestelystä annetun lain 3 §:n muuttamisesta](1269.md) `1269/1999`
+- [Laki 55 vuotta täyttäneen työttömän työllistymisedellytysten parantamisesta annetun lain muuttamisesta](1270.md) `1270/1999`
+- [Laki kansaneläkelain muuttamisesta](1271.md) `1271/1999`
+- [Laki perhe\-eläkelain 15 b §:n muuttamisesta](1272.md) `1272/1999`
+- [Laki työntekijäin eläkemaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta eräissä päivärahoissa](1273.md) `1273/1999`
+- [Laki maatalousyrittäjien työterveyshuollon eräiden kustannusten korvaamisesta valtion varoista annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1274.md) `1274/1999`
+- [Asetus sairausvakuutusasetuksen 2 §:n väliaikaisesta muuttamisesta](1275.md) `1275/1999`
+- [Laki kansaneläkelain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1276.md) `1276/1999`
+- [Laki vuodelta 2000 suoritettavista sairausvakuutusmaksuista ja työnantajan kansaneläkemaksusta](1277.md) `1277/1999`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain 1 ja 16 §:n muuttamisesta](1278.md) `1278/1999`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain 27 §:n muuttamisesta](1279.md) `1279/1999`
+- [Laki työntekijäin eläkelain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1280.md) `1280/1999`
+- [Asetus työeläkevakuutusyhtiön vakavaraisuusrajan laskemisesta](1281.md) `1281/1999`
+- [Asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkesäätiön vakavaraisuusrajan laskemisesta](1282.md) `1282/1999`
+- [Asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkekassan vakavaraisuusrajan laskemisesta](1283.md) `1283/1999`
+- [Kaavoitusmittausasetus](1284.md) `1284/1999`
+- [Sosiaali\- ja terveysministeriön päätös maatalousyrittäjien eläkelain 10 §:ssä tarkoitetun perusprosentin ja yrittäjien eläkelain 9 §:ssä tarkoitetun maksuprosentin vahvistamisesta](1285.md) `1285/1999`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkelain 12 b §:ssä tarkoitetun työntekijäin eläkemaksun vahvistamisesta](1286.md) `1286/1999`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkelain 7 a §:n 3 momentissa tarkoitetun kertoimen vahvistamisesta](1287.md) `1287/1999`
+- [Laki perusopetuslain muuttamisesta](1288.md) `1288/1999`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 17 §:n muuttamisesta](1289.md) `1289/1999`
+- [Laki lasten päivähoidosta annetun lain muuttamisesta](1290.md) `1290/1999`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta annetun lain muuttamisesta](1291.md) `1291/1999`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 7 a §:n muuttamisesta](1292.md) `1292/1999`
+- [Laki harjoittelukoulukiinteistöjen vaihdosta valtion ja Helsingin kaupungin välillä](1293.md) `1293/1999`
+- [Laki vapaasta sivistystyöstä annetun lain 16 §:n muuttamisesta](1294.md) `1294/1999`
+- [Asetus vapaasta sivistystyöstä annetun asetuksen muuttamisesta](1295.md) `1295/1999`
+- [Valtioneuvoston päätös maksullisena palvelutoimintana järjestettävän koulutuksen valtionavustuksen perusteista vuonna 2000](1296.md) `1296/1999`
+- [Sisäasiainministeriön päätös pysäköintivirhemaksun korottamisesta](1297.md) `1297/1999`
+- [Opetusministeriön päätös näkövammaisten kirjaston suoritteiden maksullisuudesta](1298.md) `1298/1999`
+- [Laki ulkomailla asuvien ja ulkomaisten yhteisöjen kiinteistönhankintojen valvonnasta annetun lain kumoamisesta](1299.md) `1299/1999`
+- [Laki asuntosäästöpalkkiolain 7 §:n muuttamisesta](1300.md) `1300/1999`
+- [Laki ulkomaanliikenteen kauppa\-alusluettelosta annetun lain 4 §:n väliaikaisesta muuttamisesta](1301.md) `1301/1999`
+- [Laki merilain 1 luvun 1 §:n muuttamisesta](1302.md) `1302/1999`
+- [Laki alusrekisterilain 30 §:n muuttamisesta](1303.md) `1303/1999`
+- [Asetus merilain 1 luvun 1 §:n soveltamisesta](1304.md) `1304/1999`
+- [Asetus merenkulkulaitoksesta annetun asetuksen 16 §:n muuttamisesta](1305.md) `1305/1999`
+- [Asetus merentutkimuslaitoksesta annetun asetuksen muuttamisesta](1306.md) `1306/1999`
+- [Asetus eräiden kotimaan matkoilla liikennöivien matkustaja\-alusten turvallisuudesta](1307.md) `1307/1999`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain muuttamisesta](1308.md) `1308/1999`
+- [Asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen muuttamisesta](1309.md) `1309/1999`
+- [Asetus työvoima\- ja elinkeinokeskuksista annetun asetuksen 9 §:n 1 momentin ja 12 §:n 1 momentin muuttamisesta](1310.md) `1310/1999`
+- [Asetus liikennevakuutuskeskuksen säännöt sisältävän asetuksen muuttamisesta](1311.md) `1311/1999`
+- [Kauppa\- ja teollisuusministeriön päätös konsernitilinpäätöksen laatimisesta kansainvälisillä pääomamarkkinoilla yleisesti käytetyn säännöstön mukaisesti annetun päätöksen 2 §:n ja 3 §:n muuttamisesta](1312.md) `1312/1999`
+- [Sosiaali\- ja terveysministeriön päätös suomalaisten vakuutusyhtiöiden ja vakuutusyhdistysten sekä Suomessa toimivien ulkomaisten vakuutusyhtiöiden vakuutusluokista annetun päätöksen muuttamisesta](1313.md) `1313/1999`
+- [Verohallituksen päätös vuonna 2000 sovellettavien ennakonpidätysperusteiden voimaantulosta](1314.md) `1314/1999`
+- [Verohallituksen päätös veroilmoituksesta annetun Verohallituksen päätöksen muuttamisesta](1315.md) `1315/1999`
+- [Verohallituksen päätös niistä perusteista, joiden mukaan muun kiinteistön kuin maatilan maapohjan verotusarvo lasketaan vuodelta 1999 toimitettavassa verotuksessa](1316.md) `1316/1999`
+- [Laki kuljetusten alueellisesta tukemisesta annetun lain 20 §:n muuttamisesta](1317.md) `1317/1999`
+- [Laki sähköisestä asioinnista hallinnossa](1318.md) `1318/1999`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkemaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta sairausvakuutusjärjestelmän mukaisissa päivärahoissa ja kuntoutusrahalain mukaisissa kuntoutusrahoissa](1319.md) `1319/1999`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkemaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta työttömyysturvalain perusteella maksettavissa päivärahoissa](1320.md) `1320/1999`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkemaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta tapaturmavakuutuslain perusteella maksettavissa päivärahoissa](1321.md) `1321/1999`
+- [Luettelo kuntien tuloveroprosenteista ja kirkollisveroäyrien hinnoista vuonna 2000](1322.md) `1322/1999`
+- [Sosiaali\- ja terveysministeriön päätös vakuutusyhtiön tilinpäätöksestä ja konsernitilinpäätöksestä](1323.md) `1323/1999`
+- [Laki työttömyysturvalain muuttamisesta](1324.md) `1324/1999`
+- [Laki työmarkkinatuesta annetun lain muuttamisesta](1325.md) `1325/1999`
+- [Laki maatalousyrittäjien luopumistuesta annetun lain muuttamisesta](1326.md) `1326/1999`
+- [Asetus työttömyysturvalain täytäntöönpanosta annetun asetuksen muuttamisesta](1327.md) `1327/1999`
+- [Sosiaali\- ja terveysministeriön ilmoitus eräistä määräyksistä](1328.md) `1328/1999`
+- [Laki tapaturmavakuutuslain muuttamisesta](1329.md) `1329/1999`
+- [Asetus tapaturmavakuutuslain täytäntöönpanosta annetun asetuksen 16 §:n kumoamisesta](1330.md) `1330/1999`
+- [Laki työntekijäin eläkelain muuttamisesta](1331.md) `1331/1999`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 13 a §:n muuttamisesta](1332.md) `1332/1999`
+- [Laki merimieseläkelain muuttamisesta](1333.md) `1333/1999`
+- [Laki yrittäjien eläkelain muuttamisesta](1334.md) `1334/1999`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](1335.md) `1335/1999`
+- [Laki luopumiseläkelain 24 §:n muuttamisesta](1336.md) `1336/1999`
+- [Laki maatalousyrittäjien sukupolvenvaihdoseläkkeestä annetun lain 43 §:n muuttamisesta](1337.md) `1337/1999`
+- [Laki maatalousyrittäjien luopumiskorvauksesta annetun lain 37 §:n muuttamisesta](1338.md) `1338/1999`
+- [Laki maatalousyrittäjien luopumistuesta annetun lain 40 §:n muuttamisesta](1339.md) `1339/1999`
+- [Sosiaali\- ja terveysministeriön päätös työeläkkeen laskemisesta eräissä tapauksissa](1340.md) `1340/1999`
+- [Sosiaali\- ja terveysministeriön päätös perusteista, joiden mukaan työntekijäin eläkelain 19 b §:ssä säädetty kertasuoritus lasketaan](1341.md) `1341/1999`
+- [Laki verontilityslain 12 ja 29 §:n muuttamisesta](1342.md) `1342/1999`
+- [Laki tuloverolain 21 §:n muuttamisesta](1343.md) `1343/1999`
+- [Laki verontilityslain 12 §:n väliaikaisesta muuttamisesta](1344.md) `1344/1999`
+- [Laki tuloverolain 124 §:n väliaikaisesta muuttamisesta](1345.md) `1345/1999`
+- [Laki verotustietojen julkisuudesta ja salassapidosta](1346.md) `1346/1999`
+- [Laki arvonlisäverolain muuttamisesta](1347.md) `1347/1999`
+- [Laki kiinteistöverolain muuttamisesta](1348.md) `1348/1999`
+- [Laki rakennusverolain 24 §:n muuttamisesta](1349.md) `1349/1999`
+- [Laki korkotulon lähdeverosta annetun lain 18 §:n muuttamisesta](1350.md) `1350/1999`
+- [Asetus ennakkoperintäasetuksen 8 ja 15 §:n muuttamisesta](1351.md) `1351/1999`
+- [Laki Suomen Teollisuussijoitus Oy \-nimisestä valtionyhtiöstä](1352.md) `1352/1999`
+- [Laki rakennerahasto\-ohjelmien kansallisesta hallinnoinnista](1353.md) `1353/1999`
+- [Asetus rakennerahasto\-ohjelmien kansallisesta hallinnoinnista](1354.md) `1354/1999`
+- [Asetus maatalousyrittäjien luopumistuesta annetun lain muuttamisesta annetun lain voimaantulosta](1355.md) `1355/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä päätöksistä](1356.md) `1356/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus viljakasvien siementen sekä nurmi\- ja rehukasvien siementen markkinoinnista annettujen päätöksien väliaikaisesta muuttamisesta](1357.md) `1357/1999`
+- [Verohallituksen päätös liikkeen\- ja ammatinharjoittajan työmatkasta aiheutuneen elantokustannusten lisäyksen vähentämisestä vuodelta 2 000 toimitettavassa verotuksessa](1358.md) `1358/1999`
+- [Asetus kulutushyödykkeen hinnan ilmoittamisesta markkinoinnissa](1359.md) `1359/1999`
+- [Asetus yksityisiä työvoimapalveluja koskevasta tietojenantovelvollisuudesta](1360.md) `1360/1999`
+- [Asetus työvoimatoimikunnasta annetun asetuksen muuttamisesta](1361.md) `1361/1999`
+- [Valtioneuvoston päätös maa\- ja puutarhataloustuottajille vuodelta 1999 maksettavasta pohjoisesta tuesta annetun valtioneuvoston päätöksen 15 §:n muuttamisesta](1362.md) `1362/1999`
+- [Valtioneuvoston päätös vuoden 1999 puutarhatuotannon tuen jakoperusteista](1363.md) `1363/1999`
+- [Valtioneuvoston päätös vuoden 1999 satovahinkojen viljelmäkohtaisista korvausosuuksista](1364.md) `1364/1999`
+- [Maa\- ja metsätalousministeriön päätös Ahvenanmaan maakunnassa oleville kunnille maataloustuen jako\- ja valvontatehtävien hoitamisesta suoritettavista korvauksista](1365.md) `1365/1999`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön päätöksistä](1366.md) `1366/1999`
+- [Laki nimikirjalain 4 ja 9 §:n muuttamisesta](1367.md) `1367/1999`
+- [Laki kansaneläkelain muuttamisesta](1368.md) `1368/1999`
+- [Laki perhe\-eläkelain muuttamisesta](1369.md) `1369/1999`
+- [Laki eläkkeensaajien asumistukilain 14 §:n muuttamisesta](1370.md) `1370/1999`
+- [Laki rintamasotilaseläkelain 17 §:n muuttamisesta](1371.md) `1371/1999`
+- [Laki lapsen hoitotuesta annetun lain 8 ja 9 §:n muuttamisesta](1372.md) `1372/1999`
+- [Laki vammaistukilain 8 §:n muuttamisesta](1373.md) `1373/1999`
+- [Laki kansaneläkelaitoksen järjestämästä kuntoutuksesta annetun lain 14 §:n muuttamisesta](1374.md) `1374/1999`
+- [Asetus kansaneläkeasetuksen muuttamisesta](1375.md) `1375/1999`
+- [Asetus perhe\-eläkeasetuksen 3 §:n 2 momentin kumoamisesta](1376.md) `1376/1999`
+- [Asetus vammaistukiasetuksen 6 §:n muuttamisesta](1377.md) `1377/1999`
+- [Asetus kuntoutusraha\-asetuksen 2 ja 8 §:n muuttamisesta](1378.md) `1378/1999`

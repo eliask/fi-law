@@ -1,0 +1,1713 @@
+# 1993 Statutes
+
+## Statutes
+
+- [Asetus Ison\-Britannian ja Pohjois\-Irlannin yhdistyneen kuningaskunnan kanssa tehdyn sosiaaliturva\-sopimuksen muuttamista koskevan sopimuksen voimaansaattamisesta](1.md) `1/1993`
+- [Asetus Venäjän kanssa yhteistyöstä ympäristönsuojelun alalla tehdyn sopimuksen voimaansaattamisesta](2.md) `2/1993`
+- [Asetus varmuusvarastointimaksusta annetun asetuksen 3 ja 5 §:n muuttamisesta](3.md) `3/1993`
+- [Asetus kansaneläkeasetuksen 34 §:n kumoamisesta](4.md) `4/1993`
+- [Valtiovarainministeriön päätös valtion työntekijöiden matkakustannusten korvaamisesta annetun valtiovarainministeriön päätöksen muuttamisesta](5.md) `5/1993`
+- [Maa\- ja metsätalousministeriön päätös Suomen ja Viron välisten vastavuoroisten kalastuskysymysten järjestämisestä vuonna 1993](6.md) `6/1993`
+- [Laki tieliikenteen tietojärjestelmästä annetun lain muuttamisesta](7.md) `7/1993`
+- [Laki liikennetarvikkeiden kaupasta, asennuksesta ja korjauksesta annetun lain muuttamisesta](8.md) `8/1993`
+- [Asetus liikennetarvikkeiden kaupasta, asennuksesta ja korjauksesta annetun asetuksen muuttamisesta](9.md) `9/1993`
+- [Liikenneministeriön päätös liikennetarvikkeiden asennus\- ja korjausluvan ehdoista annetun liikenneministeriön päätöksen muuttamisesta](10.md) `10/1993`
+- [Laki vaarallisten aineiden kuljettamisesta tiellä annetun lain muuttamisesta](11.md) `11/1993`
+- [Asetus vaarallisten aineiden kuljettajien ajoluvasta annetun asetuksen muuttamisesta](12.md) `12/1993`
+- [Laki ulosottotoimesta annetun lain 5 §:n muuttamisesta](13.md) `13/1993`
+- [Laki eräiden entisen Jugoslavian kansalaisten tekemien turvapaikkahakemusten poikkeuskäsittelystä](14.md) `14/1993`
+- [Laki valtiokonttorista annetun lain muuttamisesta](15.md) `15/1993`
+- [Laki työsuojeluhallinnosta](16.md) `16/1993`
+- [Laki työsuojelun valvonnasta ja muutoksenhausta työsuojeluasioissa annetun lain muuttamisesta](17.md) `17/1993`
+- [Laki työaikalain 20 a §:n muuttamisesta](18.md) `18/1993`
+- [Laki kauppaliikkeiden ja toimistojen työaikalain 12 b §:n muuttamisesta](19.md) `19/1993`
+- [Laki työneuvostosta ja työsuojelun poikkeusluvista annetun lain 9 §:n muuttamisesta](20.md) `20/1993`
+- [Laki tapaturmavakuutuslain 64 §:n muuttamisesta](21.md) `21/1993`
+- [Laki metsä\- ja uittotyöntekijäin yhteisasunnoista annetun lain muuttamisesta](22.md) `22/1993`
+- [Laki työehtosopimuslain 2 §:n muuttamisesta](23.md) `23/1993`
+- [Laki kunnallisen virkaehtosopimuslain 28 §:n muuttamisesta](24.md) `24/1993`
+- [Laki evankelis\-luterilaisen kirkon virkaehtosopimuksista annetun lain 21 §:n muuttamisesta](25.md) `25/1993`
+- [Laki merityöaikalain 20 §:n muuttamisesta](26.md) `26/1993`
+- [Laki merimiesten vuosilomalain 30 §:n muuttamisesta](27.md) `27/1993`
+- [Valtiovarainministeriön päätös Euroopan vapaakauppaliiton jäsenvaltioiden välisessä kaupassa noudatettavien alkuperäsääntöjen eräiden muutosten soveltamisesta](28.md) `28/1993`
+- [Ympäristöministeriön päätös kansainvälisesti valvottavista jätteistä](29.md) `29/1993`
+- [Laki oikeudenkäymiskaaren 15 luvun 2 §:n muuttamisesta](30.md) `30/1993`
+- [Laki asianajajista annetun lain muuttamisesta](31.md) `31/1993`
+- [Valtioneuvoston päätös Uudenkaupungin kaupungin määräämisestä erityisalueeksi](32.md) `32/1993`
+- [Valtioneuvoston päätös eräiden tulli\- ja tuontimaksuetujen muuttamisesta](33.md) `33/1993`
+- [Maa\- ja metsätalousministeriön päätös kotimaisen rukiin ja vehnän jauhatusvelvollisuudesta](34.md) `34/1993`
+- [Laki lääkelaitoksesta](35.md) `35/1993`
+- [Laki apteekkimaksusta annetun lain muuttamisesta](36.md) `36/1993`
+- [Laki lääkkeiden velvoitevarastointilain muuttamisesta](37.md) `37/1993`
+- [Laki terveydenhuollon valtakunnallisista henkilörekistereistä annetun lain muuttamisesta](38.md) `38/1993`
+- [Laki tavaramerkkilain muuttamisesta](39.md) `39/1993`
+- [Laki yhteismerkkilain 1 §:n muuttamisesta](40.md) `40/1993`
+- [lääketaksasta annetun valtioneuvoston päätöksen muuttamisesta](41.md) `41/1993`
+- [Valtioneuvoston päätös maatalousyrittäjien hehtaari\- ja kotieläinyksikkökohtaisista luopumiskorvauksista vuonna 1993](42.md) `42/1993`
+- [Sosiaali\- ja terveysministeriön päätös sairausvakuutuslain 75 §:n 2 momentissa tarkoitetusta vähimmäismäärästä annetun sosiaali\- ja terveysministeriön päätöksen kumoamisesta](43.md) `43/1993`
+- [Opetusministeriön päätös ylioppilastutkintolautakunnan suoritteista perittävistä maksuista](44.md) `44/1993`
+- [Maa\- ja metsätalousministeriön päätös maaseutuelinkeinopiirien maksullisista suoritteista](45.md) `45/1993`
+- [Sosiaali\- ja terveysministeriön päätös toimeentulotukitehtävien siirtoa koskevaan kokeiluun osallistuvista kunnista](46.md) `46/1993`
+- [Laki yrityksen saneerauksesta](47.md) `47/1993`
+- [Laki osakeyhtiölain muuttamisesta](48.md) `48/1993`
+- [Laki osuuskuntalain 133 §:n muuttamisesta](49.md) `49/1993`
+- [Laki työsopimuslain muuttamisesta](50.md) `50/1993`
+- [Laki yhteistoiminnasta yrityksissä annetun lain 6 ja 8 §:n muuttamisesta](51.md) `51/1993`
+- [Laki takaisinsaannista konkurssipesään annetun lain 2 §:n muuttamisesta](52.md) `52/1993`
+- [Laki arvo\-osuustileistä annetun lain 13 ja 15 §:n muuttamisesta](53.md) `53/1993`
+- [Laki rikoslain muuttamisesta](54.md) `54/1993`
+- [Asetus yrityksen saneerauksesta](55.md) `55/1993`
+- [Asetus alioikeuksien tuomiopiireistä yrityksen saneerausta koskevissa asioissa](56.md) `56/1993`
+- [Laki yksityishenkilön velkajärjestelystä](57.md) `57/1993`
+- [Asetus yksityishenkilön velkajärjestelystä](58.md) `58/1993`
+- [Asetus henkilörekisteriasetuksen 5 §:n muuttamisesta](59.md) `59/1993`
+- [Asetus yleisen alioikeuden, maistraatin ja julkisen notaarin suoritteista perittävistä maksuista annetun asetuksen 3 §:n muuttamisesta](60.md) `60/1993`
+- [Laki Latvian kanssa sijoitusten edistämisestä ja suojelusta tehdyn sopimuksen eräiden määräysten hyväksymisestä](61.md) `61/1993`
+- [Asetus Latvian kanssa sijoitusten edistämisestä ja suojelusta tehdyn sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](62.md) `62/1993`
+- [Asetus Pohjoismaiden välillä lukioita ja ammatillisia oppilaitoksia koskevasta pohjoismaisesta koulutusyhteistyöstä tehdyn sopimuksen voimaansaattamisesta](63.md) `63/1993`
+- [Laki eräistä kirjailijoille ja kääntäjille suoritettavista apurahoista ja avustuksista annetun lain 1 §:n muuttamisesta](64.md) `64/1993`
+- [Asetus maan ulkomaankaupassa sovellettavista määrällisistä rajoituksista annetun asetuksen liitteen muuttamisesta](65.md) `65/1993`
+- [Asetus kilpailuvirastosta](66.md) `66/1993`
+- [Asetus kuluttaja\-asiamiehestä](67.md) `67/1993`
+- [Asetus kuluttajavirastosta annetun asetuksen muuttamisesta](68.md) `68/1993`
+- [Asetus kuluttajatutkimuskeskuksesta annetun asetuksen muuttamisesta](69.md) `69/1993`
+- [Laki ilmailulain muuttamisesta](70.md) `70/1993`
+- [Laki yleisistä teistä annetun lain 96 §:n muuttamisesta](71.md) `71/1993`
+- [Asetus yksityisistä teistä annetun asetuksen muuttamisesta](72.md) `72/1993`
+- [Asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen väliaikaisesta muuttamisesta](73.md) `73/1993`
+- [Asetus raha\-arpa\- ja veikkauspelien ylijäämän käyttämisestä annetun asetuksen 2 §:n väliaikaisesta muuttamisesta](74.md) `74/1993`
+- [Asetus maanmittausmaksusta annetun asetuksen muuttamisesta](75.md) `75/1993`
+- [Asetus maa\- ja metsätalousministeriön tietopalvelukeskuksesta annetun asetuksen 1 §:n muuttamisesta](76.md) `76/1993`
+- [Asetus Kansainvälisen Itämeren kalastuskomission suositusten mukaisten vuoden 1993 saaliskiintiöiden voimaansaattamisesta](77.md) `77/1993`
+- [Asetus korkeakouluilta tilatuista tutkimuksista ja muista palvelutehtävistä perittävistä maksuista annetun asetuksen kumoamisesta](78.md) `78/1993`
+- [Asetus Jyväskylän yliopistossa suoritettavista maksuista annetun asetuksen kumoamisesta](79.md) `79/1993`
+- [Asetus Oulun yliopistossa suoritettavista maksuista annetun asetuksen kumoamisesta](80.md) `80/1993`
+- [Opetusministeriön päätös korkeakoulujen eräistä suoritteista perittävistä maksuista](81.md) `81/1993`
+- [Opetusministeriön päätös kirjasto\- ja tietopalveluista perittävistä maksuista](82.md) `82/1993`
+- [Opetusministeriön päätös avoimesta korkeakouluopetuksesta korkeakouluissa perittävistä maksuista](83.md) `83/1993`
+- [Laki kuluttajansuojalain 6 luvun muuttamisesta](84.md) `84/1993`
+- [Laki kuluttajansuojalain 7 luvun muuttamisesta](85.md) `85/1993`
+- [Laki osamaksukaupasta annetun lain 1 a ja 9 §:n muuttamisesta](86.md) `86/1993`
+- [Laki vesilain muuttamisesta](87.md) `87/1993`
+- [Laki yleisistä vesi\- ja viemärilaitoksista annetun lain muuttamisesta](88.md) `88/1993`
+- [Laki vesi\- ja ympäristöhallinnosta annetun lain 2 §:n muuttamisesta](89.md) `89/1993`
+- [Laki terveydenhoitolain 52 §:n muuttamisesta](90.md) `90/1993`
+- [Laki eräisiin kansainvälisluonteisiin vakuutussopimuksiin sovellettavasta laista](91.md) `91/1993`
+- [Laki osakeyhtiölain muuttamisesta](92.md) `92/1993`
+- [Laki asunto\-osakeyhtiölain 53 ja 65 §:n muuttamisesta](93.md) `93/1993`
+- [Laki avoimesta yhtiöstä ja kommandiittiyhtiöstä annetun lain 10 luvun 2 §:n muuttamisesta](94.md) `94/1993`
+- [Laki osuuskuntalain muuttamisesta](95.md) `95/1993`
+- [Laki prokuralain 4 §:n muuttamisesta](96.md) `96/1993`
+- [Laki säätiölain muuttamisesta](97.md) `97/1993`
+- [Laki vesilain muuttamisesta](98.md) `98/1993`
+- [Laki tuotevastuulain muuttamisesta](99.md) `99/1993`
+- [Laki vakuutussopimuslain 25 §:n muuttamisesta](100.md) `100/1993`
+- [Laki potilasvahinkolain 9 §:n muuttamisesta](101.md) `101/1993`
+- [Laki tapaturmavakuutuslain 61 §:n muuttamisesta](102.md) `102/1993`
+- [Laki Posti\- ja telelaitoksesta annetun lain 9 §:n kumoamisesta](103.md) `103/1993`
+- [Asetus Valtionrautateiden ja Posti\- ja telelaitoksen vakinaisen virkamiehen oikeudesta erorahaan ja toistuvaan korvaukseen annetun asetuksen muuttamisesta](104.md) `104/1993`
+- [Asetus indeksilain soveltamislautakunnasta](105.md) `105/1993`
+- [Asetus valtioneuvoston kansliasta annetun asetuksen muuttamisesta](106.md) `106/1993`
+- [Asetus kauppa\- ja teollisuusministeriön yrityspalvelun piiritoimistoista annetun asetuksen muuttamisesta](107.md) `107/1993`
+- [Asetus kalasta ja kalavalmisteista](108.md) `108/1993`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikelisäaineista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](109.md) `109/1993`
+- [Valtioneuvoston päätös valtionosuuden perusteena olevien opetus\- ja kirjastotoimen yksikköhintojen keskimääräisistä markkamääristä ja valtion oppilaitoksen oppilaan kotikunnan maksuosuuden perusteista vuonna 1993 annetun valtioneuvoston päätöksen 5 ja 7 §:n muuttamisesta](110.md) `110/1993`
+- [Liikenneministeriön päätös paineilmajarruilla varustettujen autojen ja niihin kytkettävien perävaunujen jarrulaitteista annetun liikenneministeriön päätöksen muuttamisesta](111.md) `111/1993`
+- [Liikenneministeriön päätös linja\-autojen rakenteesta ja varusteista annetun liikenneministeriön päätöksen muuttamisesta](112.md) `112/1993`
+- [Sosiaali\- ja terveysministeriön päätös vuodelta 1993 perittävästä palkansaajan työttömyysvakuutusmaksusta annetun lain soveltamisesta](113.md) `113/1993`
+- [Asetus ammatillisten oppilaitosten oppilaiden opintososiaalisista eduista annetun asetuksen 2 ja 3 §:n kumoamisesta](114.md) `114/1993`
+- [Asetus opetushallituksen toimialaan kuuluvien eräiden valtion koulujen ja oppilaitosten suoritteista perittävistä maksuista annetun asetuksen kumoamisesta](115.md) `115/1993`
+- [Asetus vuonna 1993 kertyvien sosiaaliturvamaksujen jakautumasta](116.md) `116/1993`
+- [Asetus vuonna 1991 kertyvien sosiaaliturvamaksujen jakautumasta annetun asetuksen 2 §:n muuttamisesta](117.md) `117/1993`
+- [Asetus raha\-automaattiasetuksen muuttamisesta](118.md) `118/1993`
+- [Valtioneuvoston päätös lohenkalastusta koskevista rajoituksista vuonna 1992 annetun maa\- ja metsätalousministeriön päätöksen aiheuttamia taloudellisia menetyksiä koskevien avustusten maksamisperusteista](119.md) `119/1993`
+- [Valtioneuvoston päätös Autorekisterikeskuksen toimitusjohtajan ja ajoneuvohallinnon yksikön päällikön virkojen perustamisesta](120.md) `120/1993`
+- [Valtioneuvoston päätös erään viran perustamisesta työministeriössä ja lakkauttamisesta työsuojeluhallituksessa](121.md) `121/1993`
+- [Liikenneministeriön päätös auton nastarenkaan nastan pistovoiman mittauksesta](122.md) `122/1993`
+- [Opetusministeriön päätös eräiden valtion oppilaitosten maksullisista suoritteista](123.md) `123/1993`
+- [Opetusministeriön päätös opetushallituksen maksullisista suoritteista](124.md) `124/1993`
+- [Opetusministeriön päätös ammattikasvatushallinnon koulutuskeskuksen ja Heinolan kurssikeskuksen maksullisista suoritteista](125.md) `125/1993`
+- [Asetus Itämeren alueen merellisen ympäristön suojelua koskevan yleissopimuksen muutosten voimaansaattamisesta](126.md) `126/1993`
+- [Asetus Sri Lankan kanssa tehdyn tekstiilisopimuksen voimaansaattamisesta](127.md) `127/1993`
+- [Asetus Singaporen kanssa tehdyn tekstiilisopimuksen voimaansaattamisesta](128.md) `128/1993`
+- [Asetus Pakistanin kanssa tehdyn tekstiilisopimuksen voimaansaattamisesta](129.md) `129/1993`
+- [Työllisyysasetus](130.md) `130/1993`
+- [Laki siirtolaisvälityksestä annetun lain kumoamisesta](131.md) `131/1993`
+- [Asetus lääkelaitoksesta](132.md) `132/1993`
+- [Asetus kansanterveyslaitoksesta annetun asetuksen 2 §:n muuttamisesta](133.md) `133/1993`
+- [Asetus lääkkeiden velvoitevarastoinnista annetun asetuksen muuttamisesta](134.md) `134/1993`
+- [Asetus huumauaineasetuksen muuttamisesta](135.md) `135/1993`
+- [Asetus ehkäisimien laaduntarkkailusta annetun asetuksen muuttamisesta](136.md) `136/1993`
+- [Asetus terveydenhuollon valtakunnallisista henkilörekistereistä annetun asetuksen 4 §:n muuttamisesta](137.md) `137/1993`
+- [Asetus väkiviinasta ja alkoholivalmisteista annetun asetuksen 20 §:n muuttamisesta](138.md) `138/1993`
+- [Asetus denaturoiduista alkoholipitoisista aineista ja denaturoimisesta annetun asetuksen 18 §:n muuttamisesta](139.md) `139/1993`
+- [Valtioneuvoston päätös lääketaksasta annetun valtioneuvoston päätöksen muuttamisesta](140.md) `140/1993`
+- [Valtioneuvoston päätös eräiden virkojen perustamisesta ja lakkauttamisesta sosiaali\- ja terveysministeriön hallinnonalalla](141.md) `141/1993`
+- [Laki sähkölain muuttamisesta](142.md) `142/1993`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeen kanssa kosketukseen joutuvasta paperista ja kartongista](143.md) `143/1993`
+- [Laki työturvallisuuslain muuttamisesta](144.md) `144/1993`
+- [Laki työsuojelun valvonnasta ja muutoksenhausta työsuojeluasioissa annetun lain muuttamisesta](145.md) `145/1993`
+- [Valtioneuvoston päätös kahden poliisipiirin uudelleen järjestämisestä](146.md) `146/1993`
+- [Valtioneuvoston päätös sisäasiainministeriön erään viran perustamisesta ja lakkauttamisesta](147.md) `147/1993`
+- [Sisäasiainministeriön päätös pysäköintivirhemaksun korottamisesta](148.md) `148/1993`
+- [Maa\- ja metsätalousministeriön päätös maaseutuelinkeinojen valituslautakunnan suoritteista perittävistä maksuista](149.md) `149/1993`
+- [Ympäristöministeriön päätös asuinrakennusten ja asuntojen korjaustoimintaan myönnettävien avustusten jakoperusteista](150.md) `150/1993`
+- [Laki ilmansuojelulain 9 §:n muuttamisesta](151.md) `151/1993`
+- [Laki elinkeinotulon verottamisesta annetun lain 46 §:n muuttamisesta ja 19 §:n väliaikaisesta muuttamisesta](152.md) `152/1993`
+- [Laki merilain 29 §:n muuttamisesta](153.md) `153/1993`
+- [Asetus sotilasvalasta annetun asetuksen 4 §:n muuttamisesta](154.md) `154/1993`
+- [Asetus Suomen ILO\-neuvottelukunnasta annetun asetuksen 4 §:n muuttamisesta](155.md) `155/1993`
+- [Asetus teknilliselle tarkastuskeskukselle suoritettavista maksuista annetun asetuksen kumoamisesta](156.md) `156/1993`
+- [Kauppa\- ja teollisuusministeriön päätös teknillisen tarkastuskeskuksen suoritteiden maksullisuudesta ja maksuperusteista](157.md) `157/1993`
+- [Asetus mittatekniikan keskukselle suoritettavista maksuista annetun asetuksen kumoamisesta](158.md) `158/1993`
+- [Kauppa\- ja teollisuusministeriön päätös mittatekniikan keskuksen suoritteiden maksullisuudesta ja maksuperusteista](159.md) `159/1993`
+- [Valtioneuvoston päätös kuntien yleisen valtionosuuden tasauskerrointen vahvistamisesta vuosille 1993\-2000 ja sen jälkeiseksi ajaksi annetun valtioneuvoston päätöksen muuttamisesta](160.md) `160/1993`
+- [Valtioneuvoston päätös kauppa\- ja teollisuusministeriön eräiden virkojen nimien muuttamisesta sekä perustamisesta ja lakkauttamisesta](161.md) `161/1993`
+- [Suomen Pankin ilmoitus voimassa olevasta Suomen Pankin peruskorkoa vastaavasta korkokannasta](162.md) `162/1993`
+- [Asetus verotusasetuksen muuttamisesta](163.md) `163/1993`
+- [Valtioneuvoston päätös oikeusministeriön hallinnonalan eräiden virkojen perustamisesta ja lakkauttamisesta](164.md) `164/1993`
+- [Valtioneuvoston päätös opetus\- ja kirjastotoimen perustamishankkeiden yksikköhinnoista](165.md) `165/1993`
+- [Kauppa\- ja teollisuusministeriön päätös energia\-avustusten ehdoista](166.md) `166/1993`
+- [Valtiovarainministeriön päätös Suomen ja Viron välisessä kaupassa sovellettavien alkuperäsääntöjen muuttamisesta](167.md) `167/1993`
+- [Ympäristöministeriön päätös vuokra\-asuntojen korkotukilainojen yleisistä ehdoista annetun ympäristöministeriön päätöksen 5 §:n muuttamisesta](168.md) `168/1993`
+- [Kauppa\- ja teollisuusministeriön päätös eräistä elintarvikkeiden vieraista aineista annetun kauppa\- ja teollisuusministeriön päätöksen ja päätöksen liitteiden muuttamisesta](169.md) `169/1993`
+- [Asetus Suomen, Norjan ja Ruotsin välillä yhteistyöstä ulkomaanopetuksen alalla tehdyn sopimuksen muuttamista koskevan pöytäkirjan voimaansaattamisesta](170.md) `170/1993`
+- [Asetus Ukrainan kanssa kaupasta ja taloudellisesta yhteistyöstä tehdyn sopimuksen voimaansaattamisesta](171.md) `171/1993`
+- [Asetus rintamasotilastunnuksesta annetun asetuksen 2 §:n muuttamisesta](172.md) `172/1993`
+- [Asetus rintamapalvelustunnuksesta annetun asetuksen 2 §:n muuttamisesta](173.md) `173/1993`
+- [Asetus rintamatunnuksesta annetun asetuksen 4 §:n muuttamisesta](174.md) `174/1993`
+- [Asetus työministeriöstä annetun asetuksen muuttamisesta](175.md) `175/1993`
+- [Asetus työsuojeluhallinnosta](176.md) `176/1993`
+- [Valtioneuvoston päätös Raha\-automaattiyhdistyksen tuotosta myönnettävistä avustuksista](177.md) `177/1993`
+- [Valtioneuvoston päätös valtiovarainministeriön ja sen hallinnonalan eräiden virkojen lakkauttamisesta ja nimien muuttamisesta](178.md) `178/1993`
+- [Asetus kalastusasetuksen muuttamisesta](179.md) `179/1993`
+- [Asetus maan ulkomaankaupassa sovellettavista määrällisistä rajoituksista annetun asetuksen liitteen muuttamisesta](180.md) `180/1993`
+- [Kiinteistönvälittäjäasetus](181.md) `181/1993`
+- [Liikenneministeriön päätös linja\-autoliikenteelle myönnettävästä linjaliikenteen kilometrituesta](182.md) `182/1993`
+- [Laki eräitä julkisia yrityksiä koskevasta tiedonantovelvollisuudesta](183.md) `183/1993`
+- [Asetus Suomen kansainvälisten lapseksiottamisasioiden lautakunnasta annetun asetuksen 2 ja 3 §:n muuttamisesta](184.md) `184/1993`
+- [Asetus eräistä veri\- ja muita periytyviä ominaisuuksia koskevista tutkimuksista annetun asetuksen muuttamisesta](185.md) `185/1993`
+- [Asetus vankeinhoitolaitoksesta annetun asetuksen 44 §:n muuttamisesta](186.md) `186/1993`
+- [Asetus isyyden vahvistamisesta ja kumoamisesta sekä lapsen elatuksesta annetun asetuksen 2 ja 16 §:n muuttamisesta](187.md) `187/1993`
+- [Asetus vaarallisten rikoksenuusijain eristämisestä annetun lain täytäntöönpanosta ja soveltamisesta annetun asetuksen 2 §:n muuttamisesta](188.md) `188/1993`
+- [Asetus patentti\- ja rekisterihallituksen suoritteista perittävistä maksuista annetun asetuksen kumoamisesta](189.md) `189/1993`
+- [Kauppa\- ja teollisuusministeriön päätös Patentti\- ja rekisterihallituksen maksullisista suoritteista](190.md) `190/1993`
+- [Laki Euroopan yhteisöjen komission kanssa Euroopan yhteisöjen komission valtuuskunnan perustamisesta Suomeen ja sen erioikeuksista ja vapauksista Suomessa tehdyn sopimuksen eräiden määräysten hyväksymisestä](191.md) `191/1993`
+- [Asetus Euroopan yhteisöjen komission kanssa Euroopan yhteisöjen komission valtuuskunnan perustamisesta Suomeen ja sen erioikeuksista ja vapauksista Suomessa tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](192.md) `192/1993`
+- [Laki eläinlääkärintoimen harjoittamisesta annetun lain muuttamisesta](193.md) `193/1993`
+- [Laki eläinlääkintähuoltolain 3 ja 17 §:n muuttamisesta](194.md) `194/1993`
+- [Asetus sisäasiainministeriöstä annetun asetuksen muuttamisesta](195.md) `195/1993`
+- [Asetus valtiovarainministeriöstä](196.md) `196/1993`
+- [Asetus luontaiselinkeinoasetuksen 47 §:n muuttamisesta](197.md) `197/1993`
+- [Asetus työsuojelun valvonnasta annetun asetuksen muuttamisesta](198.md) `198/1993`
+- [Asetus työsuojeluneuvottelukunnasta](199.md) `199/1993`
+- [Asetus työsuojelulautakunnista ja työsuojelulautakuntien poikkeuslupajaostoista](200.md) `200/1993`
+- [Asetus metsäalan palkkatilastolautakunnasta annetun asetuksen 2 §:n muuttamisesta](201.md) `201/1993`
+- [Asetus palkkaturva\-asetuksen 8 ja 10 §:n muuttamisesta](202.md) `202/1993`
+- [Asetus merimiesasiain neuvottelukunnasta annetun asetuksen 3 §:n muuttamisesta](203.md) `203/1993`
+- [Asetus panostaja\-asetuksen muuttamisesta](204.md) `204/1993`
+- [Asetus metsä\- ja uittotyöntekijäin yhteisasunnoista annetun asetuksen muuttamisesta](205.md) `205/1993`
+- [Asetus laivaväen asuintiloista aluksella annetun asetuksen 4 ja 37 §:n muuttamisesta](206.md) `206/1993`
+- [Asetus laivaväen ruoanpidosta aluksissa annetun asetuksen muuttamisesta](207.md) `207/1993`
+- [Asetus eräiden viranomaisten tehtävistä aineiden ja tuotteiden syöpävaarallisuutta arvioitaessa annetun asetuksen kumoamisesta](208.md) `208/1993`
+- [Asetus virka\- tai työsopimussuhdetta vailla olevien työsuojelun valvonnasta annetun asetuksen 9 §:n muuttamisesta](209.md) `209/1993`
+- [Asetus valtion virkamiesasetuksen 28 §:n muuttamisesta](210.md) `210/1993`
+- [Asetus yhteistoimintasopimuksia tekevistä valtion virastoista ja laitoksista annetun asetuksen 1 §:n1 momentin 11 kohdan kumoamisesta](211.md) `211/1993`
+- [Valtioneuvoston päätös työsuojelupiireistä](212.md) `212/1993`
+- [Kauppa\- ja teollisuusministeriön päätös teknillisen tarkastuskeskuksen tarkastuspiireistä ja piiritoimistojen sijoituspaikoista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](213.md) `213/1993`
+- [Verohallituksen päätös liikkeen\- ja ammatinharjoittajan työmatkasta aiheutuneen elantokustannusten lisäyksen vähentämisestä vuodelta 1993 toimitettavassa verotuksessa](214.md) `214/1993`
+- [Asetus eräistä määräajaksi tai muutoin rajoitetuksi ajaksi täytettävistä viroista annetun asetuksen muuttamisesta](215.md) `215/1993`
+- [Valtioneuvoston päätös eräiden tilojen, tilanosien, muiden rekisteriyksiköiden ja alueiden siirtämisestä Halsuan, Ullavan ja Vetelin kunnista Kaustisen kuntaan](216.md) `216/1993`
+- [Valtioneuvoston päätös erään tilan ja eräiden tilanosien siirtämisestä Pertunmaan kunnasta Mäntyharjun kuntaan](217.md) `217/1993`
+- [Valtioneuvoston päätös äitiysavustuksen suuruuden määräämisestä](218.md) `218/1993`
+- [Valtioneuvoston päätös apteekkimaksusta annetun lain 2 §:n 1 momentissa mainittujen liikevaihtoryhmien sekä liikevaihdon alarajojen kohdilla olevien apteekkimaksun markkamäärien tarkistamisesta](219.md) `219/1993`
+- [Verohallituksen päätös vuonna 1993 verosta vapaaksi katsottavien matkakustannusten korvausten perusteista ja määristä annetun päätöksen muuttamisesta](220.md) `220/1993`
+- [Laki työllisyyslain 26 §:n muuttamisesta](221.md) `221/1993`
+- [Laki Suomen Kuntaliiton perustamiseen liittyvistä järjestelyistä](222.md) `222/1993`
+- [Asetus ulkoasiainhallinnosta annetun asetuksen muuttamisesta](223.md) `223/1993`
+- [Asetus veronkantoasetuksen muuttamisesta](224.md) `224/1993`
+- [Asetus kauppa\- ja teollisuusministeriöstä](225.md) `225/1993`
+- [Valtioneuvoston päätös elintarviketuotteiden hinnanerokorvauksista](226.md) `226/1993`
+- [Valtiovarainministeriön päätös valtion ja sen laitosten toimittamien ennakonpidätysten, työnantajien sosiaaliturvamaksun ja lähdeveron suorittamisesta](227.md) `227/1993`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain muuttamisesta](228.md) `228/1993`
+- [Laki kaupparekisterilain muuttamisesta](229.md) `229/1993`
+- [Laki verotuslain 44 §:n muuttamisesta](230.md) `230/1993`
+- [Laki liikevaihtoverolain 85 §:n muuttamisesta](231.md) `231/1993`
+- [Lannoitelaki](232.md) `232/1993`
+- [Siemenkauppalaki](233.md) `233/1993`
+- [Rehulaki](234.md) `234/1993`
+- [Laki työsopimuslain 7 ja 40 §:n muuttamisesta](235.md) `235/1993`
+- [Laki yhteistoiminnasta yrityksissä annetun lain muuttamisesta](236.md) `236/1993`
+- [Laki henkilöstörahastolain 44 ja 48 §:n muuttamisesta](237.md) `237/1993`
+- [Laki henkilöstön edustuksesta yritysten hallinnossa annetun lain muuttamisesta](238.md) `238/1993`
+- [Puolustusministeriön päätös asevelvolliselle suoritettavasta päivärahasta](239.md) `239/1993`
+- [Valtiovarainministeriön päätös valtiokonttorin maksullisista suoritteista annetun valtiovarainministeriön päätöksen2 §:n muuttamisesta](240.md) `240/1993`
+- [Veikkausasetus](241.md) `241/1993`
+- [Valtioneuvoston päätös luonnonmukaista maataloustuotantoa koskevista sopimuksista vuonna 1993](242.md) `242/1993`
+- [Valtioneuvoston päätös Ilmailulaitoksen viranomaissuoritteista perittävistä maksuista](243.md) `243/1993`
+- [Maa\- ja metsätalousministeriön päätös vientikustannusmaksun määräämisestä ja peltojen kesannoinnista vuonna 1993](244.md) `244/1993`
+- [Ympäristöministeriön päätös avustuksista taloudellisissa vaikeuksissa oleville vuokrataloille](245.md) `245/1993`
+- [Laki valtion vakuusrahastosta annetun lain muuttamisesta](246.md) `246/1993`
+- [Laki talletuspankkien toiminnasta annetun lain 55 §:n muuttamisesta](247.md) `247/1993`
+- [Laki lääkelain muuttamisesta](248.md) `248/1993`
+- [Asetus lääkeasetuksen muuttamisesta](249.md) `249/1993`
+- [Valtioneuvoston päätös veropiireistä annetun valtioneuvoston päätöksen muuttamisesta](250.md) `250/1993`
+- [Laki vakuutuksenvälittäjistä](251.md) `251/1993`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain 3 §:n muuttamisesta](252.md) `252/1993`
+- [Valtioneuvoston päätös valtion vakuusrahaston johtajan viran perustamisesta](253.md) `253/1993`
+- [Laki kunnallisesta työmarkkinalaitoksesta](254.md) `254/1993`
+- [Laki eräiden valtion ammatillisten oppilaitosten luovuttamisesta Keski\-Pohjanmaan ammatillisen koulutuksen kuntayhtymälle](255.md) `255/1993`
+- [Asetus Valko\-Venäjän kanssa kaupasta ja taloudellisesta yhteistyöstä tehdyn sopimuksen voimaansaattamisesta](256.md) `256/1993`
+- [Asetus pakistanilaista alkuperää olevien vuodeliinavaatteiden tuontilisensioinnista annetun asetuksen kumoamisesta](257.md) `257/1993`
+- [Asetus opintotukiasetuksen muuttamisesta](258.md) `258/1993`
+- [Valtioneuvoston päätös virka\- ja itsehallintoalueiden kielellisestä jaotuksesta vuosina 1993\-2002 annetun valtioneuvoston päätöksen muuttamisesta](259.md) `259/1993`
+- [Valtioneuvoston päätös vuonna 1993 tehtävistä herneen ja viherheinän tuotantosopimuksista](260.md) `260/1993`
+- [Valtioneuvoston päätös työllisyyspoliittisesta rakennetuesta](261.md) `261/1993`
+- [Maa\- ja metsätalousministeriön päätös metsäntutkimuslaitoksen maksullisista suoritteista](262.md) `262/1993`
+- [Asetus ulkoasiainhallinnosta annetun asetuksen muuttamisesta](263.md) `263/1993`
+- [Sisäasiainministeriön päätös poliisin virkapuvusta ja aseistuksesta annetun sisäasiainministeriön päätöksen muuttamisesta](264.md) `264/1993`
+- [Valtiovarainministeriön päätös kuntien ja seurakuntien vuoden 1993 yhteisövero\-osuuksista](265.md) `265/1993`
+- [Laki Scopulus Oy:lle, Solidium Oy:lle ja Sponda Oy:lle myönnettävistä veronhuojennuksista](266.md) `266/1993`
+- [Asetus valtiontalouden tarkastuksesta](267.md) `267/1993`
+- [Asetus kasvinsuojeluasetuksen 1 ja 22 §:n muuttamisesta](268.md) `268/1993`
+- [Asetus kasvintuhoojien maahan kulkeutumisen estämisestä annetun asetuksen muuttamisesta](269.md) `269/1993`
+- [Asetus ilmatieteen laitoksesta annetun asetuksen 13 ja 14 §:n muuttamisesta](270.md) `270/1993`
+- [Asetus aluksista aiheutuvan vesien pilaantumisen ehkäisemisestä annetun asetuksen muuttamisesta](271.md) `271/1993`
+- [Asetus maa\-ainesasetuksen 10 a §:n kumoamisesta](272.md) `272/1993`
+- [Asetus jätehuoltoasetuksen muuttamisesta](273.md) `273/1993`
+- [Valtioneuvoston päätös maaseudun kehittämishankkeiden tukemisesta vuonna 1993](274.md) `274/1993`
+- [Maa\- ja metsätalousministeriön päätös Ruotsin kanssa vastavuoroisista kalastusoikeuksista Itämerellä tehtyjen sopimusten täytäntöönpanosta vuonna 1993 annetun maa\- ja metsätalousministeriön päätöksen 2 §:n muuttamisesta](275.md) `275/1993`
+- [Liikenneministeriön päätös henkilövuokra\-autojen kuljetusmaksuja koskevasta kokeilusta](276.md) `276/1993`
+- [Valtiovarainministeriön päätös Suomen ja Viron välisessä kaupassa sovellettavien alkuperäsääntöjen muuttamisesta](277.md) `277/1993`
+- [Asetus ydinenergia\-asetuksen muuttamisesta](278.md) `278/1993`
+- [Valtioneuvoston päätös vaikeista ja pitkäaikaisista sairauksista ja niiden hoitoon käytettävistä sairausvakuutuslain mukaan kokonaan tai 90\-prosenttisesti korvattavista lääkkeistä annetun valtioneuvoston päätöksen muuttamisesta](279.md) `279/1993`
+- [Valtioneuvoston päätös vaikeista sairauksista ja niiden hoitoon käytettävistä kliinisistä ravintovalmisteista, joihin suoritetaan sairausvakuutuslain mukaista korvausta](280.md) `280/1993`
+- [Sosiaali\- ja terveysministeriön päätös lääkelaitoksen maksullisista suoritteista](281.md) `281/1993`
+- [Laki perintökaaren 5 luvun 2 §:n muuttamisesta](282.md) `282/1993`
+- [Laki perintökaaren voimaanpanosta annetun lain 6 §:n muuttamisesta](283.md) `283/1993`
+- [Laki valtion virkaehtosopimuslain muuttamisesta](284.md) `284/1993`
+- [Laki työtuomioistuimesta annetun lain 13 §:n muuttamisesta](285.md) `285/1993`
+- [Laki kuluttajavalituslautakunnasta annetun lain 5 ja 6 §:n muuttamisesta](286.md) `286/1993`
+- [Laki kuluttajaneuvonnan järjestämisestä kunnassa annetun lain 9 §:n muuttamisesta annetun lain kumoamisesta](287.md) `287/1993`
+- [Laki kuluttajaneuvonnan järjestämisestä kunnassa annetun lain 7 §:n muuttamisesta](288.md) `288/1993`
+- [Asetus valtion perintönä saaman omaisuuden luovuttamisesta annetun asetuksen 2 ja 3 §:n muuttamisesta](289.md) `289/1993`
+- [Asetus valtion virkaehtosopimusasetuksen muuttamisesta](290.md) `290/1993`
+- [Asetus valtion liikelaitosten työehtosopimuksista annetun asetuksen muuttamisesta](291.md) `291/1993`
+- [Asetus eräistä määräajaksi tai muutoin rajoitetuksi ajaksi täytettävistä viroista annetun asetuksen muuttamisesta](292.md) `292/1993`
+- [Asetus ylioppilastutkinnosta annetun asetuksen 3 §:n muuttamisesta](293.md) `293/1993`
+- [Asetus kuluttajavalituslautakunnasta annetun asetuksen muuttamisesta](294.md) `294/1993`
+- [Valtioneuvoston päätös veropiireistä annetun valtioneuvoston päätöksen muuttamisesta](295.md) `295/1993`
+- [Valtioneuvoston päätös eräiden opintotukilaissa tarkoitettujen määrien vahvistamisesta](296.md) `296/1993`
+- [Valtioneuvoston päätös pienyrittäjän vuosilomarahasta annetussa laissa tarkoitetun enimmäisvuositulon määrän ja vuosilomarahan suuruuden vahvistamisesta](297.md) `297/1993`
+- [Valtioneuvoston päätös ympäristöministeriön eräiden virkojen perustamisesta ja lakkauttamisesta](298.md) `298/1993`
+- [Ympäristöministeriön päätös nuorille osoitettavien asuntojen jälleenvuokraustoiminnasta aiheutuvien kustannusten kattamiseen myönnettävistä avustuksista](299.md) `299/1993`
+- [Laki Steiner\-koulusta annetun lain muuttamisesta](300.md) `300/1993`
+- [Laki steinerpedagogisista erityiskouluista annetun lain muuttamisesta](301.md) `301/1993`
+- [Asetus mielenterveysasetuksen 3 §:n muuttamisesta](302.md) `302/1993`
+- [Asetus oikeuslääkeopillisten tutkimusten toimittamisesta lääkärille ja hammaslääkärille tulevasta korvauksesta annetun asetuksen 6 §:n muuttamisesta](303.md) `303/1993`
+- [Asetus uusien kasvilajikkeiden suojaamista koskevan kansainvälisen yleissopimuksen voimaansaattamisesta](304.md) `304/1993`
+- [Asetus jakoasetuksen muuttamisesta](305.md) `305/1993`
+- [Kauppa\- ja teollisuusministeriön päätös kuluttajansuojasta kiinteistönvälityksessä annetussa laissa tarkoitetuista kaavoista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](306.md) `306/1993`
+- [Kauppa\- ja teollisuusministeriön päätös kiinteistönvälittäjäasetuksen täytäntöönpanosta](307.md) `307/1993`
+- [Laki painovapauslain muuttamisesta](308.md) `308/1993`
+- [Asetus korkeakoulujen henkilöstön kelpoisuusvaatimuksista ja tehtävistä](309.md) `309/1993`
+- [Asetus Suomen Akatemiasta](310.md) `310/1993`
+- [Asetus oman asunnon hankintaan myönnettävien lainojen korkotuesta annetun asetuksen 2 §:n muuttamisesta](311.md) `311/1993`
+- [Valtioneuvoston päätös korkeakouluopiskelijoiden opintotuen asumislisästä](312.md) `312/1993`
+- [Valtioneuvoston päätös kananmunien lisähinnasta annetun valtioneuvoston päätöksen 8 §:n muuttamisesta](313.md) `313/1993`
+- [Maa\- ja metsätalousministeriön päätös elävän kalan, maidin ja mädin kuljettamisen rajoittamisesta muualta Suomesta Kiteenjoen\-Tohmajoen vesistöalueelle sekä eräille muille vesistöalueille](314.md) `314/1993`
+- [Asetus ulkoasiainhallinnon palveluista perittävistä maksuista annetun asetuksen kumoamisesta](315.md) `315/1993`
+- [Asetus luvanvaraisesta tavaraliikenteestä tiellä annetun asetuksen 5 §:n muuttamisesta](316.md) `316/1993`
+- [Asetus sosiaali\- ja terveysministeriöstä](317.md) `317/1993`
+- [Asetus omaishoidon tuesta](318.md) `318/1993`
+- [Asetus omaishoitoa koskevasta kokeilusta](319.md) `319/1993`
+- [Asetus sosiaalihuoltoasetuksen 9 §:n 1 momentin 3 kohdan ja 2 momentin kumoamisesta](320.md) `320/1993`
+- [Valtioneuvoston päätös nuorten kesätyötuesta](321.md) `321/1993`
+- [Laki pysäköintivirhemaksusta annetun lain 22 §:n muuttamisesta](322.md) `322/1993`
+- [Laki kirkkolain muuttamisesta](323.md) `323/1993`
+- [Asetus väestörekisterikeskuksen maksuasetuksen kumoamisesta](324.md) `324/1993`
+- [Asetus väestökirjanpidon paikallishallinnon maksuasetuksen kumoamisesta](325.md) `325/1993`
+- [Asetus ympäristöministeriöstä](326.md) `326/1993`
+- [Sisäasiainministeriön päätös poliisivarikon maksullisista suoritteista](327.md) `327/1993`
+- [Sisäasiainministeriön päätös rekisterihallinnon suoritteiden maksullisuudesta, maksuperusteista ja julkisoikeudellisista suoritteista perittävistä kiinteistä maksuista](328.md) `328/1993`
+- [Laki Euroopan talousyhteisön kanssa tietyistä maatalouden järjestelyistä kirjeenvaihtona tehdyn sopimuksen eräiden määräysten hyväksymisestä](329.md) `329/1993`
+- [Laki Euroopan talousyhteisön kanssa kirjeenvaihtona tiettyjen maatalouden järjestelyjen väliaikaisesta soveltamisesta tehdyn sopimuksen eräiden määräysten hyväksymisestä](330.md) `330/1993`
+- [Asetus Euroopan talousyhteisön kanssa tietyistä maatalouden järjestelyistä sekä tiettyjen maatalouden järjestelyjen väliaikaisesta soveltamisesta kirjeenvaihtona tehtyjen sopimusten voimaansaattamisesta ja soveltamisesta sekä niiden määräysten hyväksymisestä annettujen lakien voimaantulosta](331.md) `331/1993`
+- [Laki valtion virkamieslain muuttamisesta](332.md) `332/1993`
+- [Asetus valtion virkamiesasetuksen muuttamisesta](333.md) `333/1993`
+- [Asetus työllisyysasetuksen 17 ja 31 §:n muuttamisesta](334.md) `334/1993`
+- [Valtiovarainministeriön päätös rakennusten jälleenhankinta\-arvon perusteista annetun valtiovarainministeriön päätöksen 21 §:n muuttamisesta](335.md) `335/1993`
+- [Laki Lapuan kaupungissa sijaitsevan tehdaskiinteistön ja eräiden alueiden luovuttamisesta apporttiomaisuutena Patruunatehdas Lapua Oy:lle](336.md) `336/1993`
+- [Laki polttoainemaksusta](337.md) `337/1993`
+- [Laki polttoaineverosta annetun lain 6 §:n muuttamisesta](338.md) `338/1993`
+- [Laki moottoriajoneuvoverosta annetun lain 16 §:n muuttamisesta](339.md) `339/1993`
+- [Asetus moottoriajoneuvoverosta annetun lain täytäntöönpanosta ja soveltamisesta annetun asetuksen väliaikaisesta muuttamisesta](340.md) `340/1993`
+- [Asetus Tanskan, Suomen, Norjan ja Ruotsin välisen maanteitse kuorma\-ajoneuvoilla tapahtuvan kabotaasiliikenteen harjoittamisen oikeutta koskevan sopimuksen voimaansaattamisesta](341.md) `341/1993`
+- [Asetus Tanskan, Suomen, Norjan ja Ruotsin välisen maanteitse tapahtuvasta henkilö\- ja tavarakuljetuksesta tehdyn sopimuksen lisäpöytäkirjan voimaansaattamisesta](342.md) `342/1993`
+- [Ulkoasiainministeriön päätös ulkoasiainhallinnon suoritteiden maksullisuudesta ja maksuperusteista](343.md) `343/1993`
+- [Laki auto\- ja moottoripyöräverosta annetun lain 5 ja 6 §:n muuttamisesta](344.md) `344/1993`
+- [Laki tullitariffilain liitteenä olevan teollisuustulliluettelon muuttamisesta](345.md) `345/1993`
+- [Laki tuontimaksulain liitteenä olevan teollisuusetuluettelon muuttamisesta](346.md) `346/1993`
+- [Laki tullitariffilain 4 §:n muuttamisesta](347.md) `347/1993`
+- [Laki tuontimaksulain 2 a §:n muuttamisesta](348.md) `348/1993`
+- [Asetus potilasvahinkolautakunnasta annetun asetuksen muuttamisesta](349.md) `349/1993`
+- [Valtioneuvoston päätös ulkomaanedustuksen virkamiesten paikalliskorotuksesta, varustautumiskorvauksesta ja asettautumiskustannusten korvauksesta annetun valtioneuvoston päätöksen muuttamisesta](350.md) `350/1993`
+- [Laki asunto\-olojen kehittämisrahastosta annetun lain muuttamisesta](351.md) `351/1993`
+- [Laki asuntohallituksesta annetun lain kumoamisesta](352.md) `352/1993`
+- [Laki asuntotuotantolain 20 b §:n muuttamisesta](353.md) `353/1993`
+- [Laki asuntojen perusparantamisesta annetun lain 25 §:n muuttamisesta](354.md) `354/1993`
+- [Laki vuokra\-asuntojen omaksilunastamisesta annetun lain 28 §:n muuttamisesta](355.md) `355/1993`
+- [Laki asumisoikeusasunnoista annetun lain 54 §:n muuttamisesta](356.md) `356/1993`
+- [Valtioneuvoston päätös asunto\-, omaksilunastamis\- ja perusparannuslainan myöntämisessä sekä asukkaaksi hyväksymisessä sovellettavista arvosteluperusteista](357.md) `357/1993`
+- [Rahalaki](358.md) `358/1993`
+- [Laki Suomen Pankin ohjesäännön 17 §:n muuttamisesta](359.md) `359/1993`
+- [Valtiovarainministeriön päätös maksujen pennimäärien pyöristämisestä](360.md) `360/1993`
+- [Laki liikennevakuutuslain muuttamisesta](361.md) `361/1993`
+- [Laki eräiden liikennevahingonkorvausten sitomisesta palkkatasoon annetun lain 3 §:n muuttamisesta](362.md) `362/1993`
+- [Laki liikennevakuutuslain perusteella korvattavasta kuntoutuksesta annetun lain 14 §:n kumoamisesta](363.md) `363/1993`
+- [Asetus luonnontieteellisistä tutkinnoista annetun asetuksen muuttamisesta](364.md) `364/1993`
+- [Asetus kasvatustieteellisistä tutkinnoista ja opinnoista annetun asetuksen muuttamisesta](365.md) `365/1993`
+- [Asetus kuvataideakatemiasta annetun asetuksen muuttamisesta](366.md) `366/1993`
+- [Asetus kuvataidealan alemmasta ja ylemmästä korkeakoulututkinnosta](367.md) `367/1993`
+- [Asetus taideteollisen alan korkeakoulututkinnoista annetun asetuksen muuttamisesta](368.md) `368/1993`
+- [Asetus luonnontieteellisen perustutkinnon järjestämisestä annetun asetuksen 4 ja 12 a §:n muuttamisesta](369.md) `369/1993`
+- [Asetus eräistä terveydenhuollon tutkinnoista annetun asetuksen 1 ja 13 §:n muuttamisesta](370.md) `370/1993`
+- [Asetus harjoittelukouluasetuksen eräiden säännösten kumoamisesta](371.md) `371/1993`
+- [Laki Latvian kanssa kauppaa ja taloudellista yhteistyötä koskevista väliaikaisista järjestelyistä tehdyn pöytäkirjan eräiden määräysten hyväksymisestä](372.md) `372/1993`
+- [Asetus Latvian kanssa kauppaa ja taloudellista yhteistyötä koskevista väliaikaisista järjestelyistä tehdyn pöytäkirjan voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](373.md) `373/1993`
+- [Laki kalatalouden korkotukilainoista annetun lain 14 §:n muuttamisesta](374.md) `374/1993`
+- [Laki vuokra\-asuntolainojen korkotuesta annetun lain 5 §:n 2 momentin kumoamisesta](375.md) `375/1993`
+- [Valtioneuvoston päätös eräiden tilojen, tilanosien ja alueiden siirtämisestä Kangasniemen kunnasta ja Mikkelin maalaiskunnasta Hirvensalmen kuntaan](376.md) `376/1993`
+- [Valtioneuvoston päätös eräiden tilojen, tilanosien ja alueiden siirtämisestä Punkalaitumen kunnasta Urjalan kuntaan](377.md) `377/1993`
+- [Valtioneuvoston päätös eräiden tilojen ja alueiden siirtämisestä Mietoisten kunnasta Mynämäen kuntaan](378.md) `378/1993`
+- [Valtioneuvoston päätös erään tilanosan siirtämisestä Mikkelin maalaiskunnasta Haukivuoren kuntaan ja erään tilan siirtämisestä Pieksämäen maalaiskunnasta Haukivuoren kuntaan](379.md) `379/1993`
+- [Asetus Unkarin kanssa tehdyn kunniakonsuleita koskevan sopimuksen voimaansaattamisesta](380.md) `380/1993`
+- [Asetus verohallintoasetuksen 8 §:n muuttamisesta](381.md) `381/1993`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä annetun päätöksen muuttamisesta](382.md) `382/1993`
+- [Verohallituksen päätös ennakonpidätyksen toimittamisajankohdasta](383.md) `383/1993`
+- [Verohallituksen päätös ennakonpidätyksen toimittamisvelvollisuudesta](384.md) `384/1993`
+- [Verohallituksen päätös koron ja voitto\-osuuden vapauttamista ennakonpidätyksestä eräissä tapauksissa koskevan päätöksen \(1344/90\) kumoamisesta](385.md) `385/1993`
+- [Valtioneuvoston päätös oikeusministeriön hallinnonalan eräiden virkojen perustamisesta ja lakkauttamisesta](386.md) `386/1993`
+- [Valtioneuvoston päätös auto\- ja moottoripyöräveron muuttamisesta](387.md) `387/1993`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeiden pakkausmerkinnöistä annetun kauppa\- ja teollisuusministeriön päätöksen14 §:n muuttamisesta](388.md) `388/1993`
+- [Opetusministeriön päätös korkeakouluopiskelijoiden opintorahan korotusperusteiden vahvistamisesta](389.md) `389/1993`
+- [Laki käräjäoikeuden tuomareiden nimitysmenettelystä siirryttäessä yhtenäiseen alioikeuteen](390.md) `390/1993`
+- [Laki tuloverolain 33 ja 143 §:n muuttamisesta](391.md) `391/1993`
+- [Laki tuontimaksulain 4 §:n muuttamisesta](392.md) `392/1993`
+- [Laki elintarviketuotteiden valmisteverosta annetun lain 5 ja 9 §:n muuttamisesta](393.md) `393/1993`
+- [Laki ravintorasvaverosta annetun lain 5 §:n muuttamisesta](394.md) `394/1993`
+- [Laki yksityisten valtionapulaitosten toimiehtosopimuslain 2 ja 3 §:n muuttamisesta](395.md) `395/1993`
+- [Asetus Kansainvälisen siirtolaisuusjärjestön \(IOM\) kanssa järjestön ja sen alueellisen toimiston oikeudellisesta asemasta, erioikeuksista ja vapauksista Suomessa tehdyn sopimuksen voimaansaattamisesta](396.md) `396/1993`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Jugoslavian liittotasavaltaa koskevaan päätökseen perustuvien velvoitusten täyttämisestä annetun asetuksen muuttamisesta](397.md) `397/1993`
+- [Asetus kiinteistörekisteriasetuksen muuttamisesta](398.md) `398/1993`
+- [Asetus maanmittausmaksusta annetun asetuksen 4 §:n muuttamisesta](399.md) `399/1993`
+- [Asetus yksityisistä teistä annetun asetuksen 43 §:n muuttamisesta](400.md) `400/1993`
+- [Asetus valtion asuntorahastosta](401.md) `401/1993`
+- [Laki opintotukilain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](402.md) `402/1993`
+- [Asetus passintarkastuspaikoista annetun asetuksen muuttamisesta](403.md) `403/1993`
+- [Valtioneuvoston päätös viljelijöille maksettavasta maataloustulolain mukaisesta tuesta](404.md) `404/1993`
+- [Valtioneuvoston päätös lihan tuotantotuesta annetun valtioneuvoston päätöksen 5 §:n muuttamisesta](405.md) `405/1993`
+- [Valtioneuvoston päätös teollisuusperunan tuotantopalkkiosta annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](406.md) `406/1993`
+- [Valtioneuvoston päätös sokerijuurikkaan tuotantopalkkiosta annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](407.md) `407/1993`
+- [Valtioneuvoston päätös maidon tuotantotuesta annetun valtioneuvoston päätöksen 5 §:n muuttamisesta](408.md) `408/1993`
+- [Valtioneuvoston päätös maidon kuljetusavustuksista annetun valtioneuvoston päätöksen 1 ja 2 §:n muuttamisesta](409.md) `409/1993`
+- [Asetus eräistä määräajaksi tai muutoin rajoitetuksi ajaksi täytettävistä viroista annetun asetuksen muuttamisesta](410.md) `410/1993`
+- [Asetus kalastuksesta ja metsästyksestä valtion HaapasaariÄVirolahden saaristoalueella annetun asetuksen kumoamisesta](411.md) `411/1993`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](412.md) `412/1993`
+- [Valtioneuvoston päätös aikuisopintotuesta](413.md) `413/1993`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Kauhavan ja Lapuan kaupunkien välillä](414.md) `414/1993`
+- [Laki eräistä Etelä\-Afrikkaan kohdistuvista toimenpiteistä annetun lain kumoamisesta](415.md) `415/1993`
+- [Laki eräistä kansainvälisluontoisista perheoikeudellisista suhteista annetun lain 3 ja 6 §:n muuttamisesta](416.md) `416/1993`
+- [Laki avioliittolain 14 §:n muuttamisesta](417.md) `417/1993`
+- [Laki tekijänoikeuslain muuttamisesta](418.md) `418/1993`
+- [Laki tekijänoikeuslain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](419.md) `419/1993`
+- [Laki kadun ja eräiden yleisten alueiden kunnossa\- ja puhtaanapidosta annetun lain muuttamisesta](420.md) `420/1993`
+- [Asetus vihkimisoikeusrekisteristä](421.md) `421/1993`
+- [Asetus avioliittoasetuksen muuttamisesta](422.md) `422/1993`
+- [Asetus eräistä kansainvälisluontoisista perheoikeudellisista suhteista annetun lain soveltamisesta annetun asetuksen muuttamisesta](423.md) `423/1993`
+- [Asetus kuluttajavalituslautakunnasta annetun asetuksen 18 §:n muuttamisesta](424.md) `424/1993`
+- [Sisäasiainministeriön päätös rajan määräämisestä ja kuntajaon muuttamisesta eräiltä osin Forssan kaupungin ja Urjalan kunnan välillä](425.md) `425/1993`
+- [Maa\- ja metsätalousministeriön eläinlääkintä\- jaelintarvikeosaston päätös vastustettavista eläintaudeista](426.md) `426/1993`
+- [Valtiovarainministeriön päätös valtion verotusyksiköistä](427.md) `427/1993`
+- [Suomen Pankin ilmoitus voimassa olevasta Suomen Pankin peruskorkoa vastaavasta korkokannasta](428.md) `428/1993`
+- [Laki teknologian kehittämiskeskuksesta](429.md) `429/1993`
+- [Laki Puurijärven ja Isonsuon kansallispuistosta](430.md) `430/1993`
+- [Asetus Puurijärven ja Isonsuon kansallispuistosta](431.md) `431/1993`
+- [Laki Päijänteen kansallispuistosta](432.md) `432/1993`
+- [Asetus Päijänteen kansallispuistosta](433.md) `433/1993`
+- [Kauppa\- ja teollisuusministeriön päätös yhteisantennilaitoksista annetun päätöksen kumoamisesta](434.md) `434/1993`
+- [Kauppa\- ja teollisuusministeriön päätös yritysten turvavarastointiin myönnettävien korkotukilainojen yleisistä ehdoista](435.md) `435/1993`
+- [Laki kunnallisen virkaehtosopimuslain 3 ja 6 §:n muuttamisesta](436.md) `436/1993`
+- [Laki kunnan viranhaltijain neuvotteluoikeudesta annetun lain muuttamisesta](437.md) `437/1993`
+- [Laki rajavyöhykelain 5 ja 6 §:n muuttamisesta](438.md) `438/1993`
+- [Asetus rajavyöhykeasetuksen muuttamisesta](439.md) `439/1993`
+- [Laki Pohjois\-Suomessa annettavista sähkön hinnanalennuksista](440.md) `440/1993`
+- [Asetus radiovastuuasetuksen 1 §:n muuttamisesta](441.md) `441/1993`
+- [Valtioneuvoston päätös eräiden täysin halogenoituja kloorifluorihiilivety\-yhdisteitä sekä bromifluorikloorihiilivety\- ja bromifluorihiilivety\-yhdisteitä sisältävien tuotteiden maahantuonnin rajoittamisesta](442.md) `442/1993`
+- [Asetus kansainvälistä tekstiilikauppaa koskevan sopimuksen voimassapitämistä koskevan pöytäkirjan voimaansaattamisesta](443.md) `443/1993`
+- [Asetus Thaimaan kanssa tehdyn tekstiilituotteiden kauppaa koskevan sopimuksen jatkamista koskevan sopimuksen voimaansaattamisesta](444.md) `444/1993`
+- [Asetus Malesian kanssa tehdyn tekstiilituotteiden kauppaa koskevan sopimuksen jatkamista koskevan sopimuksen voimaansaattamisesta](445.md) `445/1993`
+- [Asetus telehallinnosta](446.md) `446/1993`
+- [Asetus teletoiminta\-asetuksen 9 §:n muuttamisesta](447.md) `447/1993`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Oravaisten ja Vöyrin kuntien välillä](448.md) `448/1993`
+- [Sisäasiainministeriön päätös oikaisunluonteisesta korjauksesta valtioneuvoston 31 päivänä lokakuuta 1991 antamaan päätökseen eräiden tilojen, tilanosien ja alueiden siirtämisestä Vöyrin kunnasta Ylihärmän kuntaan](449.md) `449/1993`
+- [Maa\- ja metsätalousministeriön päätös maanmittaustoimituksista perittävistä työaikakorvauksista sekä lohkomisesta ja halkomisesta perittävistä pinta\-alakorvauksista](450.md) `450/1993`
+- [Liikenneministeriön päätös teletoiminnan aluejaosta ja yhdysliikenteestä](451.md) `451/1993`
+- [Liikenneministeriön päätös vähäisestä teletoiminnasta](452.md) `452/1993`
+- [Liikenneministeriön päätös Telehallintokeskuksen maksuista annetun liikenneministeriön päätöksen \(875/92\) muuttamisesta](453.md) `453/1993`
+- [Valtioneuvoston päätös eräiden tuontimaksujen ja valmisteverojen muuttamisesta](454.md) `454/1993`
+- [Valtioneuvoston päätös pientonniston korkomenojen alentamiseksi myönnettävistä avustuksista](455.md) `455/1993`
+- [Sisäasiainministeriön päätös eräistä sisäasiainministeriön maksullisista suoritteista](456.md) `456/1993`
+- [Maa\- ja metsätalousministeriön päätös vientikustannusmaksun määräämisestä ja peltojen kesannoinnista vuonna 1993 annetun maa\- ja metsätalousministeriön päätöksen 5 §:n muuttamisesta](457.md) `457/1993`
+- [Liikenneministeriön päätös luvanvaraisen linja\-autoliikenteen harjoittajan ammattitaidon ja vakavaraisuuden osoittamisesta](458.md) `458/1993`
+- [Liikenneministeriön päätös valtionavusta matalalattiaiselle linja\-autokalustolle](459.md) `459/1993`
+- [Laki vapaakauppasopimuksissa ja muissa tullietuusjärjestelyissä sovellettavien alkuperäsääntöjen muuttamismenettelystä ja sääntöihin liittyvistä määräyksistä](460.md) `460/1993`
+- [Laki korkoa vastaavasta korotuksesta verotuksessa annetun lain kumoamisesta](461.md) `461/1993`
+- [Laki tuotannollisten investointien väliaikaisesti korotetuista poistoista](462.md) `462/1993`
+- [Asetus ulkoasiainhallinnosta annetun asetuksen muuttamisesta](463.md) `463/1993`
+- [Asetus Saksan kanssa ydinonnettomuuksia kokevasta pikaisesta ilmoittamisesta sekä ydinteknistä turvallisuutta ja säteilysuojelua koskevasta tietojen ja kokemusten vaihdosta tehdyn sopimuksen voimaansaattamisesta](464.md) `464/1993`
+- [Asetus metsäntutkimuslaitoksen suoritteista perittävistä maksuista annetun asetuksen kumoamisesta](465.md) `465/1993`
+- [Asetus vaarallisten aineiden kuljetusasiain neuvottelukunnasta annetun asetuksen 2 §:n muuttamisesta](466.md) `466/1993`
+- [Asetus teknologian kehittämiskeskuksesta](467.md) `467/1993`
+- [Asetus eräiden tehtävien siirtämisestä asuntohallitukselta valtiokonttorille](468.md) `468/1993`
+- [Valtiovarainministeriön päätös eräistä valtion työnantajatoiminnan maksullisista suoritteista](469.md) `469/1993`
+- [Asetus merenkulkulaitoksesta annetun asetuksen muuttamisesta](470.md) `470/1993`
+- [Asetus opintotuen hallinnosta annetun asetuksen 3 §:n muuttamisesta](471.md) `471/1993`
+- [Asetus ulkomaisten investointien neuvottelukunnasta annetun asetuksen kumoamisesta](472.md) `472/1993`
+- [Räjähdeasetus](473.md) `473/1993`
+- [Laki eläkesäätiölain 8 ja 9 §:n muuttamisesta](474.md) `474/1993`
+- [Laki merimieseläkelain 35 ja 42 §:n muuttamisesta](475.md) `475/1993`
+- [Laki työttömyyskassalain muuttamisesta](476.md) `476/1993`
+- [Äitiysavustuslaki](477.md) `477/1993`
+- [Asetus lääkärintoimen harjoittamisesta annetun asetuksen 2 a §:n muuttamisesta](478.md) `478/1993`
+- [Asetus hammaslääkärintoimen harjoittamisesta annetun asetuksen 2 a §:n muuttamisesta](479.md) `479/1993`
+- [Kuluttajaviraston päätös kulutustavaran yksikköhinnan ilmoittamisesta markkinoinnissa](480.md) `480/1993`
+- [Valtiovarainministeriön päätös Suomen ja Liettuan välisessä kaupassa sovellettavien alkuperäsääntöjen muuttamisesta](481.md) `481/1993`
+- [Valtiovarainministeriön päätös teollisuusetujen myöntämisestä](482.md) `482/1993`
+- [Laki vakuutusyhdistyslain muuttamisesta](483.md) `483/1993`
+- [Laki ulkomaisten vakuutusyhtiöiden toiminnasta Suomessa annetun lain muuttamisesta](484.md) `484/1993`
+- [Laki nimilain muuttamisesta](485.md) `485/1993`
+- [Laki lainhuudatuksesta ja kiinteistönsaannon moittimisajasta annetun lain 15 §:n kumoamisesta](486.md) `486/1993`
+- [Laki Kansainvälisen Itämeren kalastuskomission suositusten voimaansaattamisesta annetun lain 1 §:n muuttamisesta](487.md) `487/1993`
+- [Laki kalastusvakuutusyhdistyksistä annetun lain 2 ja 5 §:n muuttamisesta](488.md) `488/1993`
+- [Laki kalastuslain 6 §:n muuttamisesta](489.md) `489/1993`
+- [Laki kansanterveyslain voimaanpanosta annetun lain 11 §:n 8 momentin kumoamisesta](490.md) `490/1993`
+- [Asetus kansainvälisistä pääliikenneväylistä tehdyn eurooppalaisen sopimuksen \(AGR\) II liitteen muutosten voimaansaattamisesta](491.md) `491/1993`
+- [Asetus vankeinhoitolaitoksesta annetun asetuksen muuttamisesta](492.md) `492/1993`
+- [Asetus yhteistoimintasopimuksia tekevistä valtion virastoista ja laitoksista annetun asetuksen 1 §:n muuttamisesta](493.md) `493/1993`
+- [Valtioneuvoston päätös kaupunginviskaalinvirastoista](494.md) `494/1993`
+- [Työministeriön päätös räjäytys\- ja louhintatyötä koskeviksi turvallisuusmääräyksiksi](495.md) `495/1993`
+- [Valtiovarainministeriön päätös yhden markan rahan painosta ja valmistusaineesta](496.md) `496/1993`
+- [Maa\- metsätalousministeriön päätös merilohisaaliin ilmoittamisesta](497.md) `497/1993`
+- [Laki kansanedustajain vaaleista annetun lain muuttamisesta](498.md) `498/1993`
+- [Laki tasavallan presidentin vaalista annetun lain muuttamisesta](499.md) `499/1993`
+- [Laki kunnallisvaalilain muuttamisesta](500.md) `500/1993`
+- [Laki neuvoa\-antavissa kunnallisissa kansanäänestyksissä noudatettavasta menettelystä annetun lain 17 §:n 2 momentin kumoamisesta](501.md) `501/1993`
+- [Laki kuntajaosta annetun lain 43 §:n muuttamisesta](502.md) `502/1993`
+- [Rahoitustarkastuslaki](503.md) `503/1993`
+- [Laki Suomen Pankin ohjesäännön muuttamisesta](504.md) `504/1993`
+- [Laki Suomen ja Ruotsin välillä tehdyn maataloustuotekauppaa koskevan sopimuksen eräiden määräysten hyväksymisestä](505.md) `505/1993`
+- [Asetus Ruotsin kanssa tehdyn maataloustuotekauppaa koskevan sopimuksen ja sen eräiden alkuperäsääntöjen väliaikaisesta muuttamisesta tehdyn sopimuksen voimaansaattamisesta sekä maataloustuotekauppaa koskevan sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](506.md) `506/1993`
+- [Väestötietolaki](507.md) `507/1993`
+- [Laki väestökirjahallinnosta annetun lain muuttamisesta](508.md) `508/1993`
+- [Laki työturvallisuuslain muuttamisesta](509.md) `509/1993`
+- [Laki työsuojelun valvonnasta ja muutoksenhausta työsuojeluasioissa annetun lain muuttamisesta](510.md) `510/1993`
+- [Valtiovarainministeriön päätös asunto\-osakkeen verotusarvon perusteista](511.md) `511/1993`
+- [Alusrekisterilaki](512.md) `512/1993`
+- [Laki alusrekisterilain muuttamisesta](513.md) `513/1993`
+- [Laki merioikeusjuttujen, meriselitysten ja eräiden muiden merilain mukaisten asioiden sekä alusrekisteri\- asioiden hoitamisesta Ahvenanmaan maakunnassa annetun lain 2 §:n muuttamisesta](514.md) `514/1993`
+- [Laki verotuslain 45 §:n 1 momentin 1 kohdan kumoamisesta](515.md) `515/1993`
+- [Laki osakeyhtiölain 16 luvun 2 §:n muuttamisesta](516.md) `516/1993`
+- [Laki valtiopäiväjärjestyksen 16 §:n 3 momentin kumoamisesta](517.md) `517/1993`
+- [Laki edustajanpalkkiosta annetun lain 4 §:n kumoamisesta](518.md) `518/1993`
+- [Laki väliaikaisesta poikkeuksesta edustajanpalkkiosta annettuun lakiin](519.md) `519/1993`
+- [Laki Suomen osallistumisesta Yhdistyneiden Kansakuntien rauhanturvaamistoimintaan annetun lain muuttamisesta](520.md) `520/1993`
+- [Laki puolustusvoimista annetun lain 2 §:n muuttamisesta](521.md) `521/1993`
+- [Laki rikoslain 45 luvun 1 §:n muuttamisesta](522.md) `522/1993`
+- [Laki sotilasoikeudenkäyntilain 2 §:n muuttamisesta](523.md) `523/1993`
+- [Laki valtioneuvoston oikeuskanslerin ja eduskunnan oikeusasiamiehen tehtävien jaosta annetun lain 1 §:n muuttamisesta](524.md) `524/1993`
+- [Laki tuontimaksulain muuttamisesta](525.md) `525/1993`
+- [Laki elintarviketuotteiden valmisteverosta annetun lain verotaulukon muuttamisesta](526.md) `526/1993`
+- [Asetus Suomen ulkomaanedustustojen sijainnista annetun asetuksen muuttamisesta](527.md) `527/1993`
+- [Valtioneuvoston päätös neljän poliisipiirin uudelleen järjestämisestä](528.md) `528/1993`
+- [Laki valtion vakauttamistakauksista](529.md) `529/1993`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta](530.md) `530/1993`
+- [Asetus ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta](531.md) `531/1993`
+- [Asetus ajoneuvojen rekisteröinnistä annetun asetuksen muuttamisesta](532.md) `532/1993`
+- [Asetus yhteisantennilaitosten tarkastuksista suoritettavista maksuista annetun asetuksen kumoamisesta](533.md) `533/1993`
+- [Valtiovarainministeriön päätös vuodelta 1992 maksuunpannun säännönmukaisen lopullisen veron ja metsänhoitomaksun kantoajoista ja kantoeristä](534.md) `534/1993`
+- [Puolustusministeriön päätös ohjusteknologian valvontajärjestelyn piiriin kuuluvan laitteiston ja teknologian rinnastamisesta puolustustarvikkeisiin annetun puolustusministeriön päätöksen liitteen muuttamisesta](535.md) `535/1993`
+- [Kauppa\- ja teollisuusministeriön päätös sähkötöiden johtamisesta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](536.md) `536/1993`
+- [Verohallituksen päätös ennakoiden siirrosta](537.md) `537/1993`
+- [Laki kiinteistön luovuttamisesta Ferenda Oy:lle](538.md) `538/1993`
+- [Laki tuoteturvallisuuslain muuttamisesta](539.md) `539/1993`
+- [Asetus turvallisuustekniikan neuvottelukunnasta](540.md) `540/1993`
+- [Valtioneuvoston päätös öljyjätehuollosta](541.md) `541/1993`
+- [Valtioneuvoston päätös ympäristönsuojelua edistävien investointiavustusten ehdoista](542.md) `542/1993`
+- [Valtiovarainministeriön päätös eräiden metallirahojen lakkauttamisesta laillisina maksuvälineinä](543.md) `543/1993`
+- [Suomen Pankin päätös eräiden setelien lakkauttamisesta laillisina maksuvälineinä](544.md) `544/1993`
+- [Laki saamelaisalueen koulutuskeskuksesta](545.md) `545/1993`
+- [Laki ammatillisista oppilaitoksista annetun lain 1 §:n muuttamisesta](546.md) `546/1993`
+- [Laki kansaneläkelain muuttamisesta](547.md) `547/1993`
+- [Laki perhe\-eläkelain muuttamisesta](548.md) `548/1993`
+- [Laki vammaistukilain 8 §:n muuttamisesta](549.md) `549/1993`
+- [Laki lapsen hoitotuesta annetun lain muuttamisesta](550.md) `550/1993`
+- [Laki rintamasotilaseläkelain muuttamisesta](551.md) `551/1993`
+- [Laki sairausvakuutuslain 1 §:n muuttamisesta](552.md) `552/1993`
+- [Laki työntekijäin eläkelain 8 c §:n muuttamisesta](553.md) `553/1993`
+- [Laki työttömyysturvalain 16 ja 29 §:n muuttamisesta](554.md) `554/1993`
+- [Asetus Uzbekistanin kanssa kaupasta, taloudellisesta ja teknologisesta yhteistyöstä tehdyn sopimuksen voimaansaattamisesta](555.md) `555/1993`
+- [Valtioneuvoston päätös kananmunien lisähinnasta annetun valtioneuvoston päätöksen 5 §:n muuttamisesta](556.md) `556/1993`
+- [Valtiovarainministeriön päätös kiinteistöveron kantoajoista ja kantoeristä](557.md) `557/1993`
+- [Laki kemikaalilain muuttamisesta annetun lain muuttamisesta](558.md) `558/1993`
+- [Laki työntekijäin eläkelain muuttamisesta](559.md) `559/1993`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](560.md) `560/1993`
+- [Laki eräiden työsuhteessa olevien taiteilijoiden ja toimittajien eläkelain muuttamisesta](561.md) `561/1993`
+- [Laki yrittäjien eläkelain muuttamisesta](562.md) `562/1993`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](563.md) `563/1993`
+- [Laki kansaneläkelain muuttamisesta](564.md) `564/1993`
+- [Laki työttömyysturvalain 4 ja 23 §:n muuttamisesta](565.md) `565/1993`
+- [Laki velvoitetyön poikkeuksellisesta huomioon ottamisesta työeläketurvassa annetun lain 2 §:n muuttamisesta](566.md) `566/1993`
+- [Laki kansaneläkelain 26 ja 43 §:n muuttamisesta](567.md) `567/1993`
+- [Laki perhe\-eläkelain 15 b ja 30 §:n muuttamisesta](568.md) `568/1993`
+- [Laki eläkkeensaajien asumistukilain 6 §:n muuttamisesta](569.md) `569/1993`
+- [Laki rintamasotilaseläkelain 8 §:n muuttamisesta](570.md) `570/1993`
+- [Laki työntekijäin eläkelain 8 §:n muuttamisesta](571.md) `571/1993`
+- [Laki työnantajan työttömyysvakuutusmaksusta vuonna 1993](572.md) `572/1993`
+- [Laki yksityisen työnantajan kansaneläkemaksun korottamisesta vuonna 1993](573.md) `573/1993`
+- [Laki työttömyyskassalain muuttamisesta](574.md) `574/1993`
+- [Asetus säteilyturvakeskuksen suoritteista perittävistä maksuista annetun asetuksen kumoamisesta](575.md) `575/1993`
+- [Asetus kansanterveyslaitoksessa suoritetuista tutkimuksista perittävistä maksuista annetun asetuksen kumoamisesta](576.md) `576/1993`
+- [Asetus työnantajan sosiaaliturvamaksusta annetun asetuksen 1 §:n muuttamisesta annetun asetuksen muuttamisesta](577.md) `577/1993`
+- [Asetus vuonna 1993 kertyvien sosiaaliturvamaksujen jakautumasta annetun asetuksen 1 §:n muuttamisesta](578.md) `578/1993`
+- [Sosiaali\- ja terveysministeriön päätös kansanterveyslaitoksen maksullisista suoritteista](579.md) `579/1993`
+- [Sosiaali\- ja terveysministeriön päätös säteilyturvakeskuksen suoritteiden maksullisuudesta ja maksuperusteista](580.md) `580/1993`
+- [Käräjäoikeuslaki](581.md) `581/1993`
+- [Käräjäoikeusasetus](582.md) `582/1993`
+- [Laki Suomen Pankin ohjesäännön muuttamisesta](583.md) `583/1993`
+- [Valtioneuvoston päätös sokerin tullin ja tuontimaksun väliaikaisesta muuttamisesta](584.md) `584/1993`
+- [Maa\- ja metsätalousministeriön päätös merilohisaaliin ilmoittamisesta annetun maa\- ja metsätalousministeriön päätöksen 2 §:n muuttamisesta](585.md) `585/1993`
+- [Verohallituksen päätös arvopaperinvälittäjän verotusta varten antamista tiedoista](586.md) `586/1993`
+- [Tullihallituksen päätös Suomen ja Latvian välisessä kaupassa noudatettavien alkuperäsääntöjen eräiden muutosten soveltamisesta](587.md) `587/1993`
+- [Tullihallituksen päätös eräistä vapaakauppasopimuksissa ja muissa tullietuusjärjestelyissä sovellettaviin alkuperäsääntöihin liittyvistä määräyksistä](588.md) `588/1993`
+- [Laki uskonnonvapauslain muuttamisesta](589.md) `589/1993`
+- [Asetus uskonnonvapauslain täytäntöönpanosta annetun asetuksen 12 §:n muuttamisesta](590.md) `590/1993`
+- [Laki alioikeusuudistuksen siirtymäsäännöksistä](591.md) `591/1993`
+- [Laki eräiden raastuvanoikeutta ja maistraattia koskevien lakien kumoamisesta](592.md) `592/1993`
+- [Laki maksamismääräyslain ja \-asetuksen kumoamisesta](593.md) `593/1993`
+- [Laki sähköisen viestinnän ja automaattisen tietojenkäsittelyn käyttämisestä yleisissä tuomioistuimissa](594.md) `594/1993`
+- [Laki oikeudenkäymiskaaren muuttamisesta](595.md) `595/1993`
+- [Laki oikeudenkäynnistä huoneenvuokra\-asioissa annetun lain muuttamisesta](596.md) `596/1993`
+- [Laki eräiden asunto\-oikeuksien perustamisesta annetun lain 1 §:n muuttamisesta](597.md) `597/1993`
+- [Laki hakemusasioiden käsittelystä yleisessä alioikeudessa annetun lain 4 ja 11 §:n muuttamisesta](598.md) `598/1993`
+- [Laki sotilasoikeudenkäyntiasioita käsittelevistä yleisistä alioikeuksista annetun lain 1 §:n muuttamisesta](599.md) `599/1993`
+- [Laki ulosottolain 4 luvun 30 §:n muuttamisesta](600.md) `600/1993`
+- [Laki välimiesmenettelystä annetun lain 17 §:n muuttamisesta](601.md) `601/1993`
+- [Laki merilain 251 §:n muuttamisesta](602.md) `602/1993`
+- [Laki vekselilain muuttamisesta](603.md) `603/1993`
+- [Laki shekkilain muuttamisesta](604.md) `604/1993`
+- [Laki painovapauslain 49 §:n muuttamisesta](605.md) `605/1993`
+- [Laki aluksista aiheutuvan vesien pilaantumisen ehkäisemisestä annetun lain 29 §:n muuttamisesta](606.md) `606/1993`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta annetun lain muuttamisesta](607.md) `607/1993`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden pohjoismaiden välillä annetun lain 12 ja 12 a §:n muuttamisesta](608.md) `608/1993`
+- [Laki yrityksen saneerauksesta annetun lain muuttamisesta](609.md) `609/1993`
+- [Laki rikoslain 39 luvun 2 §:n muuttamisesta](610.md) `610/1993`
+- [Laki velkojien maksunsaantijärjestyksestä annetun lain 4 §:n muuttamisesta](611.md) `611/1993`
+- [Laki tuomioistuimen toimivaltaa sekä tuomioiden täytäntöönpanoa yksityisoikeuden alalla koskevan yleissopimuksen ja siihen liittyvien pöytäkirjojen eräiden määräysten hyväksymisestä](612.md) `612/1993`
+- [Asetus tuomioistuimen toimivaltaa sekä tuomioiden täytäntöönpanoa yksityisoikeuden alalla koskevan yleissopimuksen ja siihen liittyvien pöytäkirjojen voimaansaattamisesta sekä näiden eräiden määräysten hyväksymisestä annetun lain voimaantulosta ja yleissopimuksen soveltamisesta](613.md) `613/1993`
+- [Laki poronhoitolain 4 §:n muuttamisesta](614.md) `614/1993`
+- [Metsästyslaki](615.md) `615/1993`
+- [Laki riistanhoitomaksusta ja pyyntilupamaksusta](616.md) `616/1993`
+- [Laki yksityismetsälain 2 §:n muuttamisesta](617.md) `617/1993`
+- [Laki ulkoilulain muuttamisesta](618.md) `618/1993`
+- [Laki luonnonsuojelulain 13 ja 14 §:n muuttamisesta](619.md) `619/1993`
+- [Laki leimaverolain muuttamisesta](620.md) `620/1993`
+- [Laki maksuvaikeuksissa oleville asuntovelallisille myönnettävästä korkotuesta](621.md) `621/1993`
+- [Laki leimaverolain väliaikaisesta muuttamisesta](622.md) `622/1993`
+- [Asetus kehitysmaista peräisin olevien tavaroiden tulli\- ja tuontimaksuetuuksista](623.md) `623/1993`
+- [Asetus psykologian tutkinnoista annetun asetuksen muuttamisesta](624.md) `624/1993`
+- [Valtiovarainministeriön päätös avustuksen myöntämisestä uusien kuorma\-autojen ja niiden perävaunujen hankintaan](625.md) `625/1993`
+- [Maa\- ja metsätalousministeriön päätös eläinlääkintä\- ja elintarvikelaitoksen suoritteista perittävistä maksuista](626.md) `626/1993`
+- [Maa\- ja metsätalousministeriön päätös maa\- ja metsätalousministeriön tietopalvelukeskuksen suoritteista perittävistä maksuista](627.md) `627/1993`
+- [Maa\- ja metsätalousministeriön päätös kasvintuotannon tarkastuskeskuksen suoritteiden maksullisuudesta, maksuperusteista ja julkisoikeudellisista suoritteista perittävistä kiinteistä maksuista](628.md) `628/1993`
+- [Laki opintotukilain 2 §:n muuttamisesta](629.md) `629/1993`
+- [Laki korkeakouluopiskelijoiden opintotuesta annetun lain muuttamisesta](630.md) `630/1993`
+- [Laki maanmittauslaitoksesta annetun lain 2 ja 4 §:n muuttamisesta](631.md) `631/1993`
+- [Laki kaavoitusalueiden jakolain 2 a §:n muuttamisesta](632.md) `632/1993`
+- [Laki maidon, sianlihan ja viljan vientikustannusmaksusta annetun lain muuttamisesta](633.md) `633/1993`
+- [Laki kuljetusten alueellisesta tukemisesta annetun lain muuttamisesta](634.md) `634/1993`
+- [Asetus aluksista aiheutuvan vesien pilaantumisen ehkäisemisestä](635.md) `635/1993`
+- [Asetus öljyvahinkojen torjunnasta](636.md) `636/1993`
+- [Valtioneuvoston päätös elintarviketuotteiden hinnanerokorvauksista](637.md) `637/1993`
+- [Opetusministeriön päätös korkeakoulujen eräistä suoritteista perittävistä maksuista annetun opetusministeriön päätöksen 2 §:n muuttamisesta](638.md) `638/1993`
+- [Laki ulkomaalaislain muuttamisesta](639.md) `639/1993`
+- [Laki ulkomaalaislain muuttamisesta](640.md) `640/1993`
+- [Asetus lääninhallitusten suoritteista perittävistä maksuista annetun asetuksen kumoamisesta](641.md) `641/1993`
+- [Sisäasiainministeriön päätös lääninhallituksen suoritteiden maksullisuudesta, maksuperusteista ja julkisoikeudellisista suoritteista perittävistä maksuista](642.md) `642/1993`
+- [Valtioneuvoston päätös ympäristöministeriön hallinnonalan eräiden virkojen perustamisesta ja lakkauttamisesta](643.md) `643/1993`
+- [Sisäasiainministeriön päätös rajojen määräämisestä eräiltä osin Alajärven kaupungin sekä Lappajärven ja Vimpelin kuntien välillä](644.md) `644/1993`
+- [Sisäasiainministeriön päätös eräiden tilojen siirtämisestä Vihdin kunnasta Espoon kaupunkiin](645.md) `645/1993`
+- [Sisäasiainministeriön päätös Uudenkaupungin kaupungin kantokykyluokan vahvistamisesta uudelleen vuodeksi 1993](646.md) `646/1993`
+- [Opetusministeriön päätös vihkimisoikeuden myöntämisestä Krishnaliike ISKCON Suomessa \-nimiselle uskonnolliselle yhdyskunnalle](647.md) `647/1993`
+- [Kauppa\- ja teollisuusministeriön päätös valtion vakauttamistakauksista perittävien maksujen perusteista](648.md) `648/1993`
+- [Asetus saamelaisalueen koulutuskeskuksesta](649.md) `649/1993`
+- [Asetus ammatillisten oppilaitosten oppilaiden opintososiaalisista eduista annetun asetuksen muuttamisesta](650.md) `650/1993`
+- [Laki ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella suoritettavista korvauksista sekä muista etuuksista](651.md) `651/1993`
+- [Asetus ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista](652.md) `652/1993`
+- [Laki vesilain muuttamisesta](653.md) `653/1993`
+- [Laki auto\- ja moottoripyöräverosta annetun lain muuttamisesta](654.md) `654/1993`
+- [Laki liikevaihtoverolain muuttamisesta](655.md) `655/1993`
+- [Asetus Norjan kanssa rajan ylittämistä koskevista helpotuksista tehdyn sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](656.md) `656/1993`
+- [Asetus Norjan kanssa Tenojoen yli johtavan sillan rakentamisesta tehdyn sopimuksen voimaansaattamisesta](657.md) `657/1993`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Haitia koskevaan päätökseen perustuvien velvoitusten täyttämisestä](658.md) `658/1993`
+- [Asetus vesien suojelua koskevista ennakkotoimenpiteistä annetun asetuksen 9 §:n kumoamisesta](659.md) `659/1993`
+- [Asetus passintarkastuspaikoista annetun asetuksen 1 ja 4 §:n muuttamisesta](660.md) `660/1993`
+- [Oikeusministeriön päätös käräjäoikeuden lautamiehen istuntopalkkiosta](661.md) `661/1993`
+- [Puolustusministeriön päätös asevelvollisten yleisistä varusmiespalvelukseen astumispäivistä vuosina 1995 ja 1996](662.md) `662/1993`
+- [Suomen Pankin ilmoitus voimassa olevasta Suomen Pankin peruskorkoa vastaavasta korkokannasta](663.md) `663/1993`
+- [Laki valtion audiovisuaalisesta keskuksesta annetun lain kumoamisesta](664.md) `664/1993`
+- [Laki työttömyysturvalain muuttamisesta](665.md) `665/1993`
+- [Metsästysasetus](666.md) `666/1993`
+- [Asetus puolustusvoimien ajokorteista](667.md) `667/1993`
+- [Asetus ajokorttiasetuksen muuttamisesta](668.md) `668/1993`
+- [Valtioneuvoston päätös riistanhoitomaksusta ja pyyntilupamaksusta](669.md) `669/1993`
+- [Laki Tanskan hallituksen ja Färsaarten maakuntahallituksen kanssa vapaakaupasta Suomen ja Färsaarten välillä tehdyn sopimuksen sekä siihen liittyvän maataloustuotteiden kauppaa koskevan kirjeenvaihdon eräiden määräysten hyväksymisestä](670.md) `670/1993`
+- [Asetus Tanskan hallituksen ja Färsaarten maakuntahallituksen kanssa vapaakaupasta Suomen ja Färsaarten välillä tehdyn sopimuksen sekä siihen liittyvän maataloustuotteiden kauppaa koskevan kirjeenvaihdon voimaansaattamisesta sekä niiden eräiden määräysten hyväksymisestä annetun lain voimaantulosta](671.md) `671/1993`
+- [Laki räjähdysvaarallisista aineista annetun lain muuttamisesta](672.md) `672/1993`
+- [Asetus vaarallisten kemikaalien teollisesta käsittelystä ja varastoinnista annetun asetuksen muuttamisesta](673.md) `673/1993`
+- [Asetus vaarallisten kemikaalien teollisesta käsittelystä ja varastoinnista annetun asetuksen muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](674.md) `674/1993`
+- [Kemikaaliasetus](675.md) `675/1993`
+- [Asetus vaarallisen kemikaalin vähittäismyynnistä](676.md) `676/1993`
+- [Valtioneuvoston päätös täysin halogenoitujen kloorifluorihiilivety\-yhdisteiden, 1,1,1\-trikloorietaanin sekä tetrakloorimetaanin käytön ja maahantuonnin rajoittamisesta](677.md) `677/1993`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Pattijoen ja Siikajoen kuntien välillä](678.md) `678/1993`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Pulkkilan ja Rantsilan kuntien välillä](679.md) `679/1993`
+- [Vesi\- ja ympäristöhallituksen päätös kielletyistä tai voimakkaasti rajoitetuisti kemikaaleista](680.md) `680/1993`
+- [Laki kuntien kantokykyluokituksen toimittamisesta vuosiksi 1994 ja 1995](681.md) `681/1993`
+- [Laki peruskoululain 8 ja 85 §:n muuttamisesta](682.md) `682/1993`
+- [Laki lukiolain muuttamisesta](683.md) `683/1993`
+- [Laki iltalukiolain 16 §:n muuttamisesta](684.md) `684/1993`
+- [Laki ammatillisten oppilaitosten oppilaiden opintososiaalisista eduista annetun lain muuttamisesta](685.md) `685/1993`
+- [Asetus Steiner\-koulusta annetun asetuksen muuttamisesta](686.md) `686/1993`
+- [Asetus steinerpedagogisista erityiskouluista annetun asetuksen muuttamisesta](687.md) `687/1993`
+- [Asetus peruskouluasetuksen muuttamisesta](688.md) `688/1993`
+- [Asetus lukioasetuksen muuttamisesta](689.md) `689/1993`
+- [Sosiaali\- ja terveysministeriön päätös vaarallisten aineiden luettelosta](690.md) `690/1993`
+- [Laki valtiopäiväjärjestyksen muuttamisesta](691.md) `691/1993`
+- [Laki rangaistusmääräysmenettelystä](692.md) `692/1993`
+- [Laki tieliikennelain 80 a §:n muuttamisesta](693.md) `693/1993`
+- [Laki rajavartiolaitoksesta annetun lain 14 §:n muuttamisesta](694.md) `694/1993`
+- [Laki tullilain 58 §:n muuttamisesta](695.md) `695/1993`
+- [Asetus Pohjoismaisesta kulttuurirahastosta tehdyn sopimuksen muuttamista koskevan sopimuksen voimaansaattamisesta](696.md) `696/1993`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](697.md) `697/1993`
+- [Eduskunnan päätös eduskunnan työjärjestyksen muuttamisesta](698.md) `698/1993`
+- [Maa\- ja metsätalousministeriön päätös Suomen ja Viron välisten vastavuoroisten kalastuskysymysten järjestämisestä vuonna 1993 annetun maa\- ja metsätalousministeriön päätöksen 11 §:n muuttamisesta](699.md) `699/1993`
+- [Maa\- ja metsätalousministeriön päätös elävän riistaeläimen ohjeellisista arvoista](700.md) `700/1993`
+- [Laki tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista](701.md) `701/1993`
+- [Laki oikeudenkäymiskaaren muuttamisesta](702.md) `702/1993`
+- [Laki maksuttomasta oikeudenkäynnistä annetun lain 7 §:n 2 momentin kumoamisesta](703.md) `703/1993`
+- [Laki jakolain muuttamisesta](704.md) `704/1993`
+- [Laki vesilain 21 luvun 9 §:n muuttamisesta](705.md) `705/1993`
+- [Laki työtuomioistuimesta annetun lain 45 §:n muuttamisesta](706.md) `706/1993`
+- [Laki markkinatuomioistuimesta annetun lain 15 §:n muuttamisesta](707.md) `707/1993`
+- [Laki eräiden asiakirjain lähettämisestä tuomioistuimille annetun lain 4 §:n 2 momentin kumoamisesta](708.md) `708/1993`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain muuttamisesta](709.md) `709/1993`
+- [Asetus maanmittauslaitoksesta annetun asetuksen muuttamisesta](710.md) `710/1993`
+- [Nestekaasuasetus](711.md) `711/1993`
+- [Kauppa\- ja teollisuusministeriön päätös palavista nesteistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](712.md) `712/1993`
+- [Kauppa\- ja teollisuusministeriön päätös vaarallisten kemikaalien teollisesta käsittelystä ja varastoinnista annetun asetuksen soveltamisesta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](713.md) `713/1993`
+- [Laki Joensuun yliopistosta annetun lain muuttamisesta](714.md) `714/1993`
+- [Laki Tampereen yliopistosta annetun lain muuttamisesta](715.md) `715/1993`
+- [Laki Turun yliopistosta annetun lain muuttamisesta](716.md) `716/1993`
+- [Laki Turun kauppakorkeakoulusta annetun lain muuttamisesta](717.md) `717/1993`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](718.md) `718/1993`
+- [Laki harjoittelukoululain 18 §:n muuttamisesta](719.md) `719/1993`
+- [Laki Suomalais\-venäläisestä koulusta annetun lain 10 §:n muuttamisesta](720.md) `720/1993`
+- [Laki Helsingin ranskalais\-suomalaisesta koulusta annetun lain 10 §:n muuttamisesta](721.md) `721/1993`
+- [Laki kuulovammaisten ja näkövammaisten sekä liikuntavammaisten kouluista annetun lain 17 a §:n muuttamisesta](722.md) `722/1993`
+- [Laki ammatillisista aikuiskoulutuskeskuksista annetun lain 16 §:n muuttamisesta](723.md) `723/1993`
+- [Laki lastentarhanopettajaopistoista annetun lain 4 a §:n muuttamisesta](724.md) `724/1993`
+- [Laki musiikkioppilaitoslain 4 §:n muuttamisesta](725.md) `725/1993`
+- [Valtioneuvoston päätös vaarallisten kemikaalien luokituksesta, varoitusmerkinnöistä ja käyttöturvallisuustiedotteista annetun valtioneuvoston päätöksen kumoamisesta](726.md) `726/1993`
+- [Valtioneuvoston päätös työntekijöiden suojelemisesta kemiallisille tekijöille altistumiseen liittyviltä vaaroilta annetun valtioneuvoston päätöksen muuttamisesta](727.md) `727/1993`
+- [Maa\- ja metsätalousministeriön päätös kotimaisen rukiin ja vehnän jauhatusvelvollisuudesta](728.md) `728/1993`
+- [Kauppa\- ja teollisuusministeriön päätös patentti\- ja rekisterihallituksen maksullisista suoritteista](729.md) `729/1993`
+- [Laki leimaverolain muuttamisesta](730.md) `730/1993`
+- [Laki maan ulkomaankaupan ja taloudellisen kasvun turvaamisesta annetun lain 3 a §:n muuttamisesta](731.md) `731/1993`
+- [Asetus Norjan kanssa erityisistä määräyksistä kaksinkertaisen verotuksen välttämiseksi rakennettaessa rajasiltoja ym\. tehdyn sopimuksen voimaansaattamisesta](732.md) `732/1993`
+- [Asetus siementavaran kaupasta annetun asetuksen muuttamisesta](733.md) `733/1993`
+- [Asetus lisenssivirastosta annetun asetuksen kumoamisesta](734.md) `734/1993`
+- [Asetus maan ulkomaankaupassa sovellettavista määrällisistä rajoituksista annetun asetuksen muuttamisesta](735.md) `735/1993`
+- [Asetus eräiden tavaroiden viennin edellyttämistä vientilisensseistä annetun asetuksen muuttamisesta](736.md) `736/1993`
+- [Kauppa\- ja teollisuusministeriön päätös lisensiointiin liittyvien suoritteiden maksullisuudesta](737.md) `737/1993`
+- [Kauppa\- ja teollisuusministeriön päätös valvontalisensioinnista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](738.md) `738/1993`
+- [Sosiaali\- ja terveysministeriön päätös kemikaalien luokitusperusteista ja merkintöjen tekemisestä](739.md) `739/1993`
+- [Laki arvopaperimarkkinalain muuttamisesta](740.md) `740/1993`
+- [Laki kaupankäynnistä vakioiduilla optioilla ja termiineillä annetun lain muuttamisesta](741.md) `741/1993`
+- [Laki obligaatio\- ja debentuurilainoista sekä muista joukkovelkakirjalainoista annetun lain kumoamisesta](742.md) `742/1993`
+- [Laki konkurssisäännön muuttamisesta](743.md) `743/1993`
+- [Laki arpajaislain 1 §:n muuttamisesta](744.md) `744/1993`
+- [Laki osakeyhtiölain 5 luvun 1 §:n 3 momentin kumoamisesta](745.md) `745/1993`
+- [Laki velkakirjalain muuttamisesta](746.md) `746/1993`
+- [Laki arvopaperinvälitysliikkeistä annetun lain 17 §:n 2 momentin kumoamisesta](747.md) `747/1993`
+- [Laki sijoitusrahastolain muuttamisesta](748.md) `748/1993`
+- [Laki markkinatuomioistuimesta annetun lain 6 b §:n muuttamisesta](749.md) `749/1993`
+- [Laki arvopaperinvälitysliikkeistä annetun lain 17 §:n muuttamisesta](750.md) `750/1993`
+- [Laki arvopaperimarkkinalain 1 §:n muuttamisesta](751.md) `751/1993`
+- [Laki vakuutusyhtiölain muuttamisesta](752.md) `752/1993`
+- [Laki työntekijäin eläkelain 3 §:n muuttamisesta](753.md) `753/1993`
+- [Laki potilasvahinkolain 5 §:n muuttamisesta](754.md) `754/1993`
+- [Laki asumistukilain muuttamisesta](755.md) `755/1993`
+- [Valtiovarainministeriön päätös verovuoden 1992 verotuksen toimittamisesta](756.md) `756/1993`
+- [Suomen Pankin ilmoitus voimassa olevasta Suomen Pankin peruskorkoa vastaavasta korkokannasta](757.md) `757/1993`
+- [Asetus poronlihan tarkastuksesta perittävistä maksuista annetun asetuksen kumoamisesta](758.md) `758/1993`
+- [Asetus liikevaihtoveroasetuksen muuttamisesta](759.md) `759/1993`
+- [Asetus kauppa\- ja teollisuusministeriöstä annetun asetuksen muuttamisesta](760.md) `760/1993`
+- [Asunnonvälittäjäasetus](761.md) `761/1993`
+- [Asetus maksuvaikeuksissa oleville asuntovelallisille myönnettävästä korkotuesta](762.md) `762/1993`
+- [Valtioneuvoston päätös maksuvaikeuksissa oleville asuntovelallisille myönnettävän korkotuen perusteista](763.md) `763/1993`
+- [Valtioneuvoston päätös kauppa\- ja teollisuusministeriön hallinnonalan erään viran lakkauttamisesta](764.md) `764/1993`
+- [Valtioneuvoston päätös rukiin vientikustannusmaksun muuttamisesta](765.md) `765/1993`
+- [Sisäasiainministeriön päätös lääninhallituksen suoritteiden maksullisuudesta, maksuperusteista ja julkisoikeudellisista suoritteista perittävistä maksuista annetun sisäasiainministeriön päätöksen muuttamisesta](766.md) `766/1993`
+- [Verohallituksen päätös diplomaattisten edustustojen liikevaihtoveron palautushakemukseen sisällytettävistä tiedoista](767.md) `767/1993`
+- [Asetus NORSAD\-rahaston ja NORSAD\-sihteeristön perustamista koskevan sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](768.md) `768/1993`
+- [Maa\- ja metsätalousministeriön päätös maanmittaustoimistojen lukumäärästä, toimialueista ja hallintopaikoista](769.md) `769/1993`
+- [Rikosrekisterilaki](770.md) `770/1993`
+- [Laki ehdollisesta rangaistuksesta annetun lain 2 §:n muuttamisesta](771.md) `771/1993`
+- [Rikosrekisteriasetus](772.md) `772/1993`
+- [Asetus Suomen ja muiden pohjoismaiden välisestä yhteistoiminnasta rikosrekisterin pitämisessä annetun asetuksen muuttamisesta](773.md) `773/1993`
+- [Asetus tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista](774.md) `774/1993`
+- [Asetus jakoasetuksen 181 ja 182 §:n kumoamisesta](775.md) `775/1993`
+- [Asetus tieliikennettä koskevan yleissopimuksen muutosten voimaansaattamisesta](776.md) `776/1993`
+- [Asetus Wienissä 8 päivänä marraskuuta 1968 allekirjoitettavaksi avattua tieliikennettä koskevaa yleissopimusta täydentävän eurooppalaisen sopimuksen liitteen muutosten voimaansaattamisesta](777.md) `777/1993`
+- [Asetus tieliikennettä koskevan yleissopimuksen voimaansaattamisesta annetun asetuksen muuttamisesta](778.md) `778/1993`
+- [Työministeriön päätös käyttöturvallisuustiedotteesta](779.md) `779/1993`
+- [Työministeriön päätös vaaraa aiheuttavia kemikaaleja koskevien tietojen toimittamisesta](780.md) `780/1993`
+- [Sotilasavustuslaki](781.md) `781/1993`
+- [Asetus yhteistä passitusmenettelyä koskevan yleissopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](782.md) `782/1993`
+- [Asetus oman asunnon hankintaan myönnettävien lainojen korkotuesta annetun asetuksen2 §:n muuttamisesta](783.md) `783/1993`
+- [Valtioneuvoston päätös korkeakouluopiskelijoille ulkomailla suoritettaviin opintoihin myönnettävän opintolainan valtiontakauksen enimmäismäärästä](784.md) `784/1993`
+- [Valtioneuvoston päätös kansallisista mittauspaikoista](785.md) `785/1993`
+- [Valtioneuvoston päätös pakolaisten ja turvapaikanhakijoiden vastaanotosta annetun valtioneuvoston päätöksen muuttamisesta](786.md) `786/1993`
+- [Maa\- ja metsätalousministeriön päätös lohen ja taimenen kalastuksesta eräillä vesistöalueilla vuonna 1993](787.md) `787/1993`
+- [Verohallituksen päätös leimaverokoneiden käytöstä](788.md) `788/1993`
+- [Laki Australian kanssa sairaanhoidon antamisesta tilapäisen oleskelun aikana tehdyn sopimuksen eräiden määräysten hyväksymisestä](789.md) `789/1993`
+- [Asetus Australian kanssa sairaanhoidon antamisesta tilapäisen oleskelun aikana tehdyn sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](790.md) `790/1993`
+- [Asetus otsonikerrosta heikentäviä aineita koskevan Montrealin pöytäkirjan muutosten voimaansaattamisesta](791.md) `791/1993`
+- [Valtioneuvoston päätös Autorekisterikeskuksen suoritteiden maksuista annetun valtioneuvoston päätöksen6 §:n muuttamisesta](792.md) `792/1993`
+- [Kauppa\- ja teollisuusministeriön päätös räjähdystarvikkeista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](793.md) `793/1993`
+- [Kotieläinjalostuslaki](794.md) `794/1993`
+- [Laki eräiden kotieläinten maahan tuonnista annetun lain 1 ja 2 §:n muuttamisesta](795.md) `795/1993`
+- [Hevostalouslaki](796.md) `796/1993`
+- [Asetus kansainvälisen meriliikenteen helpottamista koskevan yleissopimuksen liitteen muutosten voimaansaattamisesta](797.md) `797/1993`
+- [Asetus Pohjoismaiden ja Euroopan jälleenrakennus\- ja kehityspankin välillä Baltian teknisen avun erityisrahastosta tehdyn maksuosuussopimuksen voimaansaattamisesta](798.md) `798/1993`
+- [Asetus Pohjoismaiden ja Euroopan jälleenrakennus\- ja kehityspankin välillä Baltian erityisinvestointi\- rahastosta tehdyn maksuosuussopimuksen voimaansaattamisesta](799.md) `799/1993`
+- [Asetus Viron tasavallan kanssa taloudellisesta yhteistyöstä ja tuesta tehdyn sopimuksen voimaansaattamisesta](800.md) `800/1993`
+- [Opetusministeriön päätös pakolaisten harkinnanvaraisesta opintotuesta](801.md) `801/1993`
+- [Laki julkisen hallinnon asiakaspalvelujen järjestämisestä yhteisissä palveluyksiköissä](802.md) `802/1993`
+- [Asetus Kazakstanin kanssa kaupasta ja taloudellisesta yhteistyöstä tehdyn sopimuksen voimaansaattamisesta](803.md) `803/1993`
+- [Maa\- ja metsätalousministeriön päätös lohen kalastuksen rajoittamisesta Pohjanlahdella ja Itämeren pääaltaalla vuonna 1993](804.md) `804/1993`
+- [Laki maaseutuelinkeinolain muuttamisesta](805.md) `805/1993`
+- [Asetus maaseutuelinkeinoasetuksen muuttamisesta](806.md) `806/1993`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Haitia koskevaan päätökseen perustuvien velvoitusten täyttämisestä annetun asetuksen väliaikaisesta muuttamisesta](807.md) `807/1993`
+- [Sosiaali\- ja terveysministeriön päätös sosiaali\- ja terveysalan tutkimus\- ja kehittämiskeskuksen maksullisista suoritteista](808.md) `808/1993`
+- [Laki EFTA\-valtioiden ja Romanian välillä tehdyn sopimuksen sekä siihen liittyvän Suomen ja Romanian välillä maataloustuotteiden kaupasta tehdyn pöytäkirjan eräiden määräysten hyväksymisestä](809.md) `809/1993`
+- [Asetus EFTA\-valtioiden ja Romanian välillä tehdyn sopimuksen sekä siihen liittyvän Suomen ja Romanian välillä maataloustuotteiden kaupasta tehdyn pöytäkirjan voimaansaattamisesta sekä niiden eräiden määräysten hyväksymisestä annetun lain voimaantulosta](810.md) `810/1993`
+- [Liikenneministeriön päätös puhelinkeskusten etuoikeustoiminteesta](811.md) `811/1993`
+- [Asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen muuttamisesta](812.md) `812/1993`
+- [Asetus Suomalais\-venäläisestä koulusta annetun asetuksen 19 §:n muuttamisesta](813.md) `813/1993`
+- [Asetus Helsingin ranskalais\-suomalaisesta koulusta annetun asetuksen 20 §:n muuttamisesta](814.md) `814/1993`
+- [Asetus kuulovammaisten ja näkövammaisten sekä liikuntavammaisten kouluista annetun asetuksen 33 a §:n muuttamisesta](815.md) `815/1993`
+- [Asetus Steiner\-koulusta annetun asetuksen 28 §:n muuttamisesta](816.md) `816/1993`
+- [Asetus lastentarhanopettajaopistoista annetun asetuksen 40 a §:n muuttamisesta](817.md) `817/1993`
+- [Asetus ammatillisista aikuiskoulutuskeskuksista annetun asetuksen 17 a §:n muuttamisesta](818.md) `818/1993`
+- [Asetus harjoittelukouluasetuksen 62 §:n muuttamisesta](819.md) `819/1993`
+- [Asetus laivoissa sijaitsevien INMARSATin maa\-asemien käytöstä aluemerellä ja satamissa tehdyn kansainvälisen sopimuksen voimaansaattamisesta](820.md) `820/1993`
+- [Oikeusministeriön päätös käräjäoikeuksien kanslioiden ja istuntopaikkojen sijainnista](821.md) `821/1993`
+- [Asetus puolustusministeriöstä annetun asetuksen 10 ja 29 §:n muuttamisesta](822.md) `822/1993`
+- [Asetus miinanraivausmitalista](823.md) `823/1993`
+- [Asetus yksinoikeudesta integroidun piirin piirimalliin annetun lain pysyvästä soveltamisesta eräistä valtioista peräisin oleviin piirimalleihin](824.md) `824/1993`
+- [Asetus yksinoikeudesta integroidun piirin piirimalliin annetun lain väliaikaisesta soveltamisesta eräistä valtioista peräisin oleviin piirimalleihin](825.md) `825/1993`
+- [Asetus Valtion taloudellisesta tutkimuskeskuksesta annetun asetuksen 2 §:n muuttamisesta](826.md) `826/1993`
+- [Valtioneuvoston päätös Suomen lipun väreistä](827.md) `827/1993`
+- [Valtioneuvoston päätös tullipiireistä ja eräistä tullitoimipaikoista](828.md) `828/1993`
+- [Valtioneuvoston päätös eräiden asuntolainojen ja perusparannuslainojen korosta](829.md) `829/1993`
+- [Maa\- ja metsätalousministeriön päätös turkiseläintarhaukselle asetettavista eläinsuojeluvaatimuksista annetun maa\- ja metsätalous\- ministeriön päätöksen 3 §:n muuttamisesta](830.md) `830/1993`
+- [Rahoitustarkastuksen työjärjestys](831.md) `831/1993`
+- [Asetus diplomaattipassista, virkapassista ja virkamatkapassista](832.md) `832/1993`
+- [Valtioneuvoston päätös valtionosuuden perusteena olevien opetus\- ja kirjastotoimen yksikköhintojen keskimääräisistä markkamääristä vuonna 1994](833.md) `833/1993`
+- [Valtioneuvoston päätös peruskoulun tuntijaosta](834.md) `834/1993`
+- [Valtioneuvoston päätös lukion tuntijaosta](835.md) `835/1993`
+- [Valtioneuvoston päätös ammatillisen aikuiskoulutuskeskuksen toiminta\-avustuksen perusteista annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](836.md) `836/1993`
+- [Sosiaali\- ja terveysministeriön päätös sairausvakuutuslain 5 a §:ssä tarkoitettujen eräiden reseptittä myytävien lääkkeiden korvaamisesta](837.md) `837/1993`
+- [Työministeriön päätös syöpäsairauden vaaraa aiheuttavista tekijöistä](838.md) `838/1993`
+- [Asetus ajoneuvojen käytöstä tiellä annetun asetuksen 5 §:n muuttamisesta](839.md) `839/1993`
+- [Asetus geologian tutkimuskeskuksen suoritteista perittävistä maksuista annetun asetuksen kumoamisesta](840.md) `840/1993`
+- [Valtioneuvoston päätös tuotekehitysavustusten ja tuotekehityslainojen yleisistä ehdoista annetun valtioneuvoston päätöksen 2 §:n 1 momentin 1 kohdan ja 3 §:n muuttamisesta](841.md) `841/1993`
+- [Valtioneuvoston päätös alueellisen teknologiatoiminnan edistämiseen myönnettävien avustusten ehdoista annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](842.md) `842/1993`
+- [Sisäasiainministeriön päätös pysäköintivirhemaksun korottamisesta](843.md) `843/1993`
+- [Valtiovarainministeriön päätös eräiden ulkomailla rekisteröityjen ajoneuvojen vapauttamisesta moottoriajoneuvoverosta tai veron alentamisesta annetun valtiovarainministeriön päätöksen 1 §:n muuttamisesta](844.md) `844/1993`
+- [Kauppa\- ja teollisuusministeriön päätös geologian tutkimuskeskuksen suoritteiden maksullisuudesta ja maksuperusteista](845.md) `845/1993`
+- [Valtioneuvoston päätös pentakloorifenolin sekä monometyylitetraklooridifenyylimetaanin, monometyylidiklooridifenyyli\- metaanin ja monometyylidibromidifenyylimetaanin markkinoille luovuttamisen ja käytön rajoittamisesta](846.md) `846/1993`
+- [Valtioneuvoston päätös julkisen hallinnon asiakaspalvelujen järjestämisestä yhteisissä palveluyksiköissä](847.md) `847/1993`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Angolaa koskevaan päätökseen perustuvien velvoitusten täyttämisestä](848.md) `848/1993`
+- [Asetus ruumiiden kuljettamista koskevan sopimuksen voimaansaattamisesta annetun asetuksen 2 §:n muuttamisesta](849.md) `849/1993`
+- [Asetus ulosottotoimesta annetun asetuksen muuttamisesta](850.md) `850/1993`
+- [Asetus Helsingin ulosottovirastosta annetun asetuksen 1 ja 3 §:n muuttamisesta](851.md) `851/1993`
+- [Asetus ulosottoasetuksen muuttamisesta](852.md) `852/1993`
+- [Valtioneuvoston päätös viljelijöille maksettavasta maataloustulolain mukaisesta tuesta annetun valtioneuvoston päätöksen 12 §:n 2 momentin kumoamisesta](853.md) `853/1993`
+- [Ympäristöministeriön päätös asuinrakennusten ja asuntojen korjaustoimintaan myönnettävien avustusten jakoperusteista annetun ympäristöministeriön päätöksen muuttamisesta](854.md) `854/1993`
+- [Asetus vuonna 1994 toimitettavassa tasavallan presidentin vaalissa ennakkoäänestyspaikkoina olevista Posti\- ja telelaitoksen toimipaikoista ja sen tilapäisistä ennakkoäänestyspaikoista sekä Ahvenanmaan postin toimipaikoista](855.md) `855/1993`
+- [Asetus vuonna 1994 toimitettavassa tasavallan presidentin vaalissa ennakkoäänestyspaikkoina olevista Suomen edustustoista](856.md) `856/1993`
+- [Laki valtion vakuusrahastosta annetun lain muuttamisesta](857.md) `857/1993`
+- [Asetus eräiden alueiden ja kohteiden ilmakuvauksesta](858.md) `858/1993`
+- [Valtioneuvoston päätös täysin halogenoitujen kloorifluorihiilivety\-, bromifluorikloorihiilivety\- ja bromifluorihiilivety\- yhdisteiden sekä tetrakloorimetaanin ja 1,1,1\-trikloorietaanin maastaviennin rajoittamisesta](859.md) `859/1993`
+- [Työministeriön päätös työpaikan ilman haitallisiksi tunnetuista pitoisuuksista](860.md) `860/1993`
+- [Laki Uzbekistanin kanssa tehdyn sijoitusten edistämistä ja molemminpuolista suojelua koskevan sopimuksen eräiden määräysten hyväksymisestä](861.md) `861/1993`
+- [Asetus Uzbekistanin kanssa tehdyn sijoitusten edistämistä ja molemminpuolista suojelua koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](862.md) `862/1993`
+- [Verohallituksen päätös ilmoittamisvelvollisuuden rajoittamisesta](863.md) `863/1993`
+- [Verohallituksen päätös pidätystodistuksen antamisvelvollisuuden rajoittamisesta ja ennakonpidätyksen sekä yhtiöveron hyvityksen hyväksi lukemisesta](864.md) `864/1993`
+- [Verohallituksen päätös matkakuluvähennyksen määrästä vuodelta 1993 toimitettavassa verotuksessa](865.md) `865/1993`
+- [Laki talletuspankkien toiminnasta annetun lain muuttamisesta](866.md) `866/1993`
+- [Laki osuuskuntalain muuttamisesta](867.md) `867/1993`
+- [Laki valuuttalain muuttamisesta](868.md) `868/1993`
+- [Asetus valtion virkamiehiltä vaadittavasta kielitaidosta annetun lain täytäntöönpanosta annetun asetuksen muuttamisesta](869.md) `869/1993`
+- [Asetus kaivosasetuksen 2 ja 6 §:n muuttamisesta](870.md) `870/1993`
+- [Asetus ulkomaisten yleisten asiakirjojen laillistamisvaatimuksen poistamisesta tehdyn yleissopimuksen eräiden määräysten hyväksymisestä annetun lain täytäntöönpanosta ja soveltamisesta annetun asetuksen 1 §:n muuttamisesta](871.md) `871/1993`
+- [Asetus haastemiesasetuksen 1 §:n muuttamisesta](872.md) `872/1993`
+- [Asetus valtion työterveys\- ja työturvallisuusneuvottelukunnasta](873.md) `873/1993`
+- [Alusrekisteriasetus](874.md) `874/1993`
+- [Valtiovarainministeriön päätös verohallinnon maksullisista suoritteista](875.md) `875/1993`
+- [Valtiovarainministeriön päätös Valtion taloudellisen tutkimuskeskuksen maksullisista suoritteista](876.md) `876/1993`
+- [Laki yhdyskuntapalvelun kokeilemisesta annetun lain 1 ja 13 §:n muuttamisesta](877.md) `877/1993`
+- [Laki yhdyskuntapalvelun kokeilemisesta annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](878.md) `878/1993`
+- [Laki tuotevastuulain muuttamisesta annetun lain 5 §:n muuttamisesta](879.md) `879/1993`
+- [Asetus veronkantoasetuksen 3 ja 13 §:n muuttamisesta](880.md) `880/1993`
+- [Valtioneuvoston päätös virastojen sineteistä annetun valtioneuvoston päätöksen muuttamisesta](881.md) `881/1993`
+- [Valtioneuvoston päätös lohenkalastusta koskevista rajoituksista vuonna 1993 annettujen päätöksien aiheuttamia taloudellisia menetyksiä koskevien avustusten maksamisperusteista](882.md) `882/1993`
+- [Sisäasiainministeriön päätös rajavyöhykkeestä ja rajavyöhykkeen takarajasta](883.md) `883/1993`
+- [Ympäristöministeriön päätös toimivallan siirtämisestä eräille kunnille perusparannuslainan myöntämistä koskevissa asioissa annetun ympäristöministeriön päätöksen 1 §:n muuttamisesta](884.md) `884/1993`
+- [Laki Posti\- ja telelaitoksen muuttamisesta osakeyhtiöksi](885.md) `885/1993`
+- [Väestötietoasetus](886.md) `886/1993`
+- [Asetus väestökirjahallinnosta annetun asetuksen muuttamisesta](887.md) `887/1993`
+- [Asetus työntekijäin eläkeasetuksen muuttamisesta](888.md) `888/1993`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkeasetuksen 9 §:ssä tarkoitetun palkkaindeksiluvun vahvistamisesta](889.md) `889/1993`
+- [Liikenneministeriön päätös merenkulkulaitoksen maksullisista suoritteista annetun liikenneministeriön päätöksen 2 §:n muuttamisesta](890.md) `890/1993`
+- [Sisäasiainministeriön päätös rekisteritoimistojen virka\-alueista](891.md) `891/1993`
+- [Asetus Joensuun yliopistosta](892.md) `892/1993`
+- [Asetus Tampereen yliopistosta](893.md) `893/1993`
+- [Asetus Sibelius\-Akatemiasta](894.md) `894/1993`
+- [Asetus eräiden korkeakoulujen opetuksesta ja opiskelijoista annetun asetuksen 1 §:n muuttamisesta](895.md) `895/1993`
+- [Asetus Turun yliopistosta annetun asetuksen muuttamisesta](896.md) `896/1993`
+- [Asetus ulkomaanedustuksesta annetun asetuksen 32 ja 33 §:n kumoamisesta](897.md) `897/1993`
+- [Asetus kirjanpitoasetuksen muuttamisesta](898.md) `898/1993`
+- [Kauppa\- ja teollisuusministeriön päätös konsernitilinpäätöksen laatimisesta](899.md) `899/1993`
+- [Oikeusministeriön päätös vangitsemisasioiden käsittelystä käräjäoikeuksissa eräissä tapauksissa](900.md) `900/1993`
+- [Opetusministeriön päätös lunastuksesta, joka suoritetaan kirkonkirjoista ja seurakunnan muista asiakirjoista annettavista virkatodistuksista ja otteista](901.md) `901/1993`
+- [Liikenneministeriön päätös telemaksujen yleisistä perusteista](902.md) `902/1993`
+- [Laki luottoverolain väliaikaisesta soveltamatta jättämisestä](903.md) `903/1993`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Haitia koskevaan päätökseen perustuvien velvoitusten täyttämisestä annetun asetuksen muuttamisesta](904.md) `904/1993`
+- [Asetus Pohjoismaiden välillä tehdyn yhteistyösopimuksen muuttamista koskevan sopimuksen voimaansaattamisesta](905.md) `905/1993`
+- [Asetus peruskoulua korvaavasta koulusta ja yksityisestä lukiosta annetun asetuksen 21 §:n kumoamisesta](906.md) `906/1993`
+- [Postitoimintalaki](907.md) `907/1993`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain 3 §:n muuttamisesta](908.md) `908/1993`
+- [Asetus ajokorttiasetuksen muuttamisesta](909.md) `909/1993`
+- [Asetus liikenneturvallisuusasiain neuvottelukunnasta annetun asetuksen muuttamisesta](910.md) `910/1993`
+- [Puolustusministeriön päätös puolustusvoimien ajokorteista annetun asetuksen soveltamisesta](911.md) `911/1993`
+- [Laki EFTA\-valtioiden ja Puolan tasavallan välillä tehdyn sopimuksen sekä siihen liittyvän Suomen ja Puolan välillä maataloustuotteiden kaupasta tehdyn pöytäkirjan eräiden määräysten hyväksymisestä](912.md) `912/1993`
+- [Asetus EFTA\-valtioiden ja Puolan tasavallan välillä tehdyn sopimuksen sekä siihen liittyvän Suomen ja Puolan välillä maataloustuotteiden kaupasta tehdyn pöytäkirjan väliaikaisesta soveltamisesta sekä niiden eräiden määräysten hyväksymisestä annetun lain voimaantulosta](913.md) `913/1993`
+- [Asetus Puolan kanssa kaupan esteiden vastavuoroisesta poistamisesta tehdyn sopimuksen muuttamista koskevan kirjeenvaihdon väliaikaisesta soveltamisesta](914.md) `914/1993`
+- [Valtioneuvoston päätös elintarviketuotteiden hinnanerokorvauksista annetun valtioneuvoston päätöksen muuttamisesta](915.md) `915/1993`
+- [Laki leipomotyölain muuttamisesta](916.md) `916/1993`
+- [Sisäasiainministeriön päätös kalastuksesta ja hylkeenpyynnistä eräillä sopimusalueilla Suomenlahdella Venäjän aluevesillä](917.md) `917/1993`
+- [Verohallituksen päätös metsätalouden tulojen verotuksessa noudatettavista kantohinta\-alueista](918.md) `918/1993`
+- [Laki arvo\-osuustileistä annetun lain 6 ja 32 §:n muuttamisesta](919.md) `919/1993`
+- [Laki arvo\-osuusjärjestelmästä annetun lain sekä siihen liittyvän lainsäädännön voimaantulosta annetun lain 6 §:n 2 momentin kumoamisesta](920.md) `920/1993`
+- [Laki sotilasmajoituksesta annetun lain kumoamisesta](921.md) `921/1993`
+- [Laki sotilaskyydityksestä annetun lain kumoamisesta](922.md) `922/1993`
+- [Laki hevosten ja ajoneuvojen ottamisesta sotavoiman tarpeisiin annetun lain kumoamisesta](923.md) `923/1993`
+- [Laki sotaväen kunniatuomioistuimista annetun lain kumoamisesta](924.md) `924/1993`
+- [Laki verohallintolain muuttamisesta](925.md) `925/1993`
+- [Verohallintoasetus](926.md) `926/1993`
+- [Asetus hovioikeuksista annetun asetuksen 1 §:n muuttamisesta](927.md) `927/1993`
+- [Työministeriön päätös työsuojelun yhteistoimintahenkilöstön ilmoittamisesta](928.md) `928/1993`
+- [Suomen Pankin päätös Suomen Pankin vuoden 1993 kahdenkymmenen markan setelin selitelmästä](929.md) `929/1993`
+- [Ulkoasiainministeriön päätös ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella suoritettavista korvauksista](930.md) `930/1993`
+- [Laki eräistä vesitilusjärjestelyistä annetun lain muuttamisesta](931.md) `931/1993`
+- [Laki yhtiöveron hyvityksestä annetun lain muuttamisesta](932.md) `932/1993`
+- [Laki yhtiöveron hyvityksen käsittelystä veronsaajille verovuodelta 1992 tehtävissä tilityksissä](933.md) `933/1993`
+- [Laki varallisuusverolain muuttamisesta](934.md) `934/1993`
+- [Laki tuloverolain 33 §:n muuttamisesta](935.md) `935/1993`
+- [Laki maatilatalouden tuloverolain 13 §:n muuttamisesta](936.md) `936/1993`
+- [Laki maatilatalouden tuloverolain 9 ja 10 §:n muuttamisesta](937.md) `937/1993`
+- [Laki tilauslentoverosta annetun lain 6 ja 26 §:n muuttamisesta](938.md) `938/1993`
+- [Laki lääkelain muuttamisesta](939.md) `939/1993`
+- [Asetus valtion teknillisestä tutkimuskeskuksesta](940.md) `940/1993`
+- [Opetusministeriön päätös ylioppilastutkintolautakunnan suoritteista perittävistä maksuista annetun opetusministeriön päätöksen 2 §:n muuttamisesta](941.md) `941/1993`
+- [Laki valtion eläkerahastosta annetun lain muuttamisesta](942.md) `942/1993`
+- [Laki valtion liikelaitoksista annetun lain 25 §:n muuttamisesta](943.md) `943/1993`
+- [Laki maidon, sianlihan ja viljan vientikustannusmaksusta annetun lain 9 §:n muuttamisesta](944.md) `944/1993`
+- [Laki Lauhanvuoren kansallispuiston laajentamisesta](945.md) `945/1993`
+- [Laki Levanevan luonnonsuojelualueesta](946.md) `946/1993`
+- [Asetus Levanevan luonnonsuojelualueesta](947.md) `947/1993`
+- [Asetus Martinselkosen luonnonsuojelualueesta](948.md) `948/1993`
+- [Asumistukiasetus](949.md) `949/1993`
+- [Sosiaali\- ja terveysministeriön päätös lapsilisän maksupäivistä vuonna 1994](950.md) `950/1993`
+- [Laki työtuomioistuimesta annetun lain muuttamisesta](951.md) `951/1993`
+- [Laki asiakirjain lähettämisestä annetun lain 5 §:n muuttamisesta](952.md) `952/1993`
+- [Asetus virkavalasta ja virkavakuutuksesta sekä tuomarinvalasta ja tuomarinvakuutuksesta annetun asetuksen muuttamisesta](953.md) `953/1993`
+- [Asetus sähköisen viestinnän ja automaattisen tietojenkäsittelyn käyttämisestä yleisissä tuomioistuimissa](954.md) `954/1993`
+- [Asetus ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta](955.md) `955/1993`
+- [Liikenneministeriön päätös kaupunkiliikenteen valtionavusta](956.md) `956/1993`
+- [Liikenneministeriön päätös peruspalveluliikenteen rahoituksesta](957.md) `957/1993`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain muuttamisesta](958.md) `958/1993`
+- [Laki yleisistä teistä annetun lain 84 §:n muuttamisesta](959.md) `959/1993`
+- [Sosiaali\- ja terveysministeriön päätös lapsilisän poikkeuksellisesta maksupäivästä](960.md) `960/1993`
+- [Laki teleliikenteen verottamisesta](961.md) `961/1993`
+- [Laki kansaneläkelaitoksen rahoituksen väliaikaisesta muuttamisesta vuonna 1994](962.md) `962/1993`
+- [Laki verotuslain muuttamisesta](963.md) `963/1993`
+- [Laki perintö\- ja lahjaverotuksen toimittamisesta vuonna 1994](964.md) `964/1993`
+- [Verohallituksen päätös niistä perusteista, joiden mukaan muun kiinteistön kuin maatilan maapohjan verotusarvo lasketaan vuodelta 1993 toimitettavassa verotuksessa](965.md) `965/1993`
+- [Laki valtioneuvoston oikeudesta luovuttaa Karttakeskuksen hallinnassa oleva omaisuus perustettavalle valtionyhtiölle](966.md) `966/1993`
+- [Laki Karttakeskuksesta annetun lain kumoamisesta](967.md) `967/1993`
+- [Valtioneuvoston päätös maatalousyrittäjien hehtaari\- ja kotieläinyksikkökohtaisista luopumiskorvauksista vuonna 1994](968.md) `968/1993`
+- [Valtioneuvoston päätös vuokratalolainojen vuosimaksun tarkistuksen alentamisesta](969.md) `969/1993`
+- [Sisäasiainministeriön päätös julkisen notaarin suoritteiden maksuista](970.md) `970/1993`
+- [Tullihallituksen päätös EFTA\-valtioiden ja Tšekin tasavallan välisessä kaupassa noudatettavien alkuperäsääntöjen eräiden muutosten soveltamisesta](971.md) `971/1993`
+- [Tullihallituksen päätös EFTA\-valtioiden ja Slovakian tasavallan välisessä kaupassa noudatettavien alkuperäsääntöjen eräiden muutosten soveltamisesta](972.md) `972/1993`
+- [Laki potilasvahinkolain muuttamisesta](973.md) `973/1993`
+- [Laki korkolain 1 §:n muuttamisesta](974.md) `974/1993`
+- [Laki maatalousyrittäjien tapaturmavakuutuslain 15 §:n muuttamisesta](975.md) `975/1993`
+- [Laki maatalousyrittäjien eläkelain 1 §:n muuttamisesta](976.md) `976/1993`
+- [Laki maatalousyrittäjien tapaturmavakuutuslain muuttamisesta](977.md) `977/1993`
+- [Laki sairausvakuutuslain mukaisen omavastuuajan korvaamisesta maatalousyrittäjille annetun lain 5 §:n muuttamisesta](978.md) `978/1993`
+- [Laki työntekijäin eläkelain muuttamisesta](979.md) `979/1993`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](980.md) `980/1993`
+- [Laki eräiden työsuhteessa olevien taiteilijoiden ja toimittajien eläkelain 7 §:n muuttamisesta](981.md) `981/1993`
+- [Laki yrittäjien eläkelain 9 ja 17 §:n muuttamisesta](982.md) `982/1993`
+- [Laki maatalousyrittäjien eläkelain 10 ja 19 §:n muuttamisesta](983.md) `983/1993`
+- [Laki eläkesäätiölain muuttamisesta](984.md) `984/1993`
+- [Asetus kunnille palo\- ja pelastustoimen kustannuksiin suoritettavista valtionosuuksista ja \-avustuksista](985.md) `985/1993`
+- [Asetus palo\- ja pelastustoimesta annetun asetuksen muuttamisesta](986.md) `986/1993`
+- [Asetus väestönsuojeluasetuksen 25 §:n muuttamisesta](987.md) `987/1993`
+- [Valtioneuvoston päätös toimeentulotuen yleisistä perusteista](988.md) `988/1993`
+- [Patentti\- ja rekisterihallituksen päätös muutoksia ja lisäyksiä mallien rekisteröinnissä noudatettavaan luokitukseen](989.md) `989/1993`
+- [Laki merilain muuttamisesta](990.md) `990/1993`
+- [Asetus Venäjän kanssa vapausrangaistukseen tuomittujen keskinäisestä siirtämisestä rangaistuksen suorittamista varten tehdyn sopimuksen voimaansaattamisesta](991.md) `991/1993`
+- [Asetus yksityisoikeuden yhdenmukaistamiseksi toimivan kansainvälisen instituutin perussääntöön tehdyn muutoksen voimaansaattamisesta](992.md) `992/1993`
+- [Asetus eräiden radiolaitteista annetun asetuksen mukaisten tehtävien hoitamisestaAhvenanmaan maakunnassa](993.md) `993/1993`
+- [Asetus metsäveroasetuksen muuttamisesta](994.md) `994/1993`
+- [Asetus julkishallinnon ja \-talouden tilintarkastajan tutkinnosta annetun asetuksen muuttamisesta](995.md) `995/1993`
+- [Valtiovarainministeriön päätös asunto\-osakkeen verotusarvon perusteista](996.md) `996/1993`
+- [Laki evankelis\-luterilaisen kirkon eläkelain 6 §:n muuttamisesta](997.md) `997/1993`
+- [Laki nuorista työntekijöistä](998.md) `998/1993`
+- [Asetus opintotukiasetuksen 13 ja 14 §:n muuttamisesta](999.md) `999/1993`
+- [Sisäasiainministeriön päätös kuntien kantokykyluokituksen vahvistamisesta vuodeksi 1994](1000.md) `1000/1993`
+- [Valtiovarainministeriön päätös tullilaitoksen suoritteiden maksullisuudesta ja maksuperusteista sekä suoritteista perittävistä maksuista](1001.md) `1001/1993`
+- [Laki sokerilain 5 §:n muuttamisesta](1002.md) `1002/1993`
+- [Laki kotimaisesta tärkkelystuotannosta annetun lain 3 §:n muuttamisesta](1003.md) `1003/1993`
+- [Laki kotimaisesta öljykasvituotannosta annetun lain 4 §:n muuttamisesta](1004.md) `1004/1993`
+- [Työvoimapalvelulaki](1005.md) `1005/1993`
+- [Laki oman asunnon hankintaan myönnettävien lainojen korkotuesta annetun lain 10 §:n muuttamisesta](1006.md) `1006/1993`
+- [Asetus oman asunnon hankintaan myönnettävien lainojen korkotuesta annetun asetuksen4 §:n muuttamisesta](1007.md) `1007/1993`
+- [Valtioneuvoston päätös veropiireistä annetun valtioneuvoston päätöksen muuttamisesta](1008.md) `1008/1993`
+- [Valtiovarainministeriön päätös rakennushallinnon maksullisista suoritteista](1009.md) `1009/1993`
+- [Valtiovarainministeriön päätös verovuoden 1994 ennakon alarajasta ja kantoeristä](1010.md) `1010/1993`
+- [Ympäristöministeriön päätös avustuksista taloudellisissa vaikeuksissa oleville vuokrataloille annetun ympäristöministeriön päätöksen muuttamisesta](1011.md) `1011/1993`
+- [Suomen Pankin ilmoitus voimassa olevasta Suomen Pankin peruskorkoa vastaavasta korkokannasta](1012.md) `1012/1993`
+- [Laki oikeudenkäymiskaaren muuttamisesta](1013.md) `1013/1993`
+- [Laki yhdyskuntapalvelun kokeilemisesta annetun lain 1 §:n muuttamisesta](1014.md) `1014/1993`
+- [Laki vesilain muuttamisesta](1015.md) `1015/1993`
+- [Laki jakolain muuttamisesta](1016.md) `1016/1993`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain 89 ja 91 §:n muuttamisesta](1017.md) `1017/1993`
+- [Laki kaavoitusalueiden jakolain 69 §:n muuttamisesta](1018.md) `1018/1993`
+- [Laki yksityisistä teistä annetun lain muuttamisesta](1019.md) `1019/1993`
+- [Laki kaivoslain 66 §:n muuttamisesta](1020.md) `1020/1993`
+- [Laki maksuttomasta oikeudenkäynnistä annetun lain 26 §:n muuttamisesta](1021.md) `1021/1993`
+- [Laki yleisistä teistä annetun lain 103 a §:n muuttamisesta](1022.md) `1022/1993`
+- [Laki rajakuntien tilusjärjestelylain 14 §:n muuttamisesta](1023.md) `1023/1993`
+- [Asetus vesiasetuksen muuttamisesta](1024.md) `1024/1993`
+- [Asetus jakoasetuksen muuttamisesta](1025.md) `1025/1993`
+- [Asetus rangaistusmääräysmenettelystä](1026.md) `1026/1993`
+- [Laki konkurssisäännön muuttamisesta](1027.md) `1027/1993`
+- [Laki hakemusasioiden käsittelystä yleisessä alioikeudessa annetun lain 1 §:n muuttamisesta](1028.md) `1028/1993`
+- [Laki yrityksen saneerauksesta annetun lain muuttamisesta](1029.md) `1029/1993`
+- [Asetus tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](1030.md) `1030/1993`
+- [Asetus yrityksen saneerauksesta annetun asetuksen muuttamisesta](1031.md) `1031/1993`
+- [Asetus käräjäoikeuksien tuomiopiireistä yrityksen saneerausta koskevissa asioissa](1032.md) `1032/1993`
+- [Asetus palkkaturva\-asetuksen muuttamisesta](1033.md) `1033/1993`
+- [Asetus suojaosuudesta palkan ulosmittauksessa annetun asetuksen 1 ja 2 §:n muuttamisesta](1034.md) `1034/1993`
+- [Laki työsuojelun valvonnasta ja muutoksenhausta työsuojeluasioissa annetun lain muuttamisesta](1035.md) `1035/1993`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain 3 §:n muuttamisesta](1036.md) `1036/1993`
+- [Laki työsuojelun valvonnasta ja muutoksenhausta työsuojeluasioissa annetun lain 22 §:n muuttamisesta](1037.md) `1037/1993`
+- [Laki syöpäsairauden vaaraa aiheuttaville aineille ja menetelmille ammatissaan altistuvien rekisteristä](1038.md) `1038/1993`
+- [Asetus Afrikan kehitysrahaston perustamissopimuksen muutoksen voimaansaattamisesta](1039.md) `1039/1993`
+- [Asetus Kansainvälistä Rahoitusyhtiötä koskevan sopimuksen muutosten voimaansaattamisesta](1040.md) `1040/1993`
+- [Asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Libyaa koskevaan päätökseen perustuvien velvoitusten täyttämisesta annetun asetuksen muuttamisesta](1041.md) `1041/1993`
+- [Asetus ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta](1042.md) `1042/1993`
+- [Julistus neljästä kiitos\-, katumus\- ja rukouspäivästä, jotka on koko maassa juhlallisesti vietettävä vuonna 1994](1043.md) `1043/1993`
+- [Liikenneministeriön päätös luvanvaraisen tavaraliikenteen harjoittajalta vaadittavasta ammattitaidosta ja vakuuksista annetun liikenneministeriön päätöksen 10 §:n muuttamisesta](1044.md) `1044/1993`
+- [Laki lihantarkastuslain muuttamisesta](1045.md) `1045/1993`
+- [Laki lääkelain muuttamisesta](1046.md) `1046/1993`
+- [Laki sairausvakuutuslain 5 a ja 9 §:n muuttamisesta](1047.md) `1047/1993`
+- [Laki liikevaihtoverolain muuttamisesta](1048.md) `1048/1993`
+- [Laki erikoissairaanhoitolain 1 §:n muuttamisesta](1049.md) `1049/1993`
+- [Laki Helsingin yliopistollisesta keskussairaalasta annetun lain 8 §:n muuttamisesta](1050.md) `1050/1993`
+- [Laki kansanterveyslain 14 §:n muuttamisesta](1051.md) `1051/1993`
+- [Laki sairausvakuutuslain muuttamisesta](1052.md) `1052/1993`
+- [Laki eräistä poikkeuksista papiston erioikeuksiin](1053.md) `1053/1993`
+- [Kirkkolaki](1054.md) `1054/1993`
+- [Kirkkojärjestys](1055.md) `1055/1993`
+- [Kirkon vaalijärjestys](1056.md) `1056/1993`
+- [Sisäasiainministeriön päätös poliisin virkapuvusta ja aseistuksesta](1057.md) `1057/1993`
+- [Maakaasuasetus](1058.md) `1058/1993`
+- [Kauppa\- ja teollisuusministeriön päätös maakaasuasetuksen soveltamisesta](1059.md) `1059/1993`
+- [Laki oikeusturvavakuutuksen sopimusehdoista](1060.md) `1060/1993`
+- [Laki lääninoikeuslain muuttamisesta ja 10 §:n väliaikaisesta muuttamisesta](1061.md) `1061/1993`
+- [Laki elinkeinonharjoittajien välisten sopimusehtojen sääntelystä](1062.md) `1062/1993`
+- [Laki markkinatuomioistuimesta annetun lain muuttamisesta](1063.md) `1063/1993`
+- [Laki eräistä kirjailijoille ja kääntäjille suoritettavista apurahoista ja avustuksista annetun lain 2 §:n muuttamisesta](1064.md) `1064/1993`
+- [Laki kuntien kulttuuritoiminnasta annetun lain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1065.md) `1065/1993`
+- [Laki taiteilijaprofessorin viroista ja valtion taiteilija\-apurahoista annetun lain väliaikaisesta muuttamisesta](1066.md) `1066/1993`
+- [Laki eräistä kirjailijoille ja kääntäjille suoritettavista apurahoista ja avustuksista annetun lain väliaikaisesta muuttamisesta](1067.md) `1067/1993`
+- [Asetus kirjastoasetuksen 6 §:n muuttamisesta](1068.md) `1068/1993`
+- [Asetus Suomen ulkomaanedustustojen sijainnista annetun asetuksen muuttamisesta](1069.md) `1069/1993`
+- [Asetus riista\- ja kalatalouden tutkimuslaitoksesta](1070.md) `1070/1993`
+- [Opetusministeriön päätös Kotimaisten kielten tutkimuskeskuksen eräistä suoritteista perittävistä maksuista](1071.md) `1071/1993`
+- [Jätelaki](1072.md) `1072/1993`
+- [Laki ympäristölupamenettelylain muuttamisesta](1073.md) `1073/1993`
+- [Laki työntekijäin eläkelain 9 §:n poikkeuksellisesta soveltamisesta vuonna 1994](1074.md) `1074/1993`
+- [Laki työntekijäin työeläkemaksun ja työttömyysvakuutusmaksun huomioon ottamisesta eräissä päivärahoissa](1075.md) `1075/1993`
+- [Laki kansaneläkelaissa säädettyjen eläkkeiden ja avustusten sitomisesta elinkustannuksiin annetun lain poikkeuksellisesta soveltamisesta vuonna 1994](1076.md) `1076/1993`
+- [Laki työntekijäin eläkelain 12 §:n muuttamisesta](1077.md) `1077/1993`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 9 §:n muuttamisesta](1078.md) `1078/1993`
+- [Laki kuntien valtionosuuslain 18 §:n muuttamisesta](1079.md) `1079/1993`
+- [Laki leimaverolain muuttamisesta](1080.md) `1080/1993`
+- [Laki verotuslain 131 §:n kumoamisesta](1081.md) `1081/1993`
+- [Laki perintö\- ja lahjaverolain 65 §:n kumoamisesta](1082.md) `1082/1993`
+- [Laki liikevaihtoverolain 134 §:n 2 momentin kumoamisesta](1083.md) `1083/1993`
+- [Laki kiinteistöverolain muuttamisesta ja väliaikaisesta muuttamisesta](1084.md) `1084/1993`
+- [Laki sokeriverosta annetun lain 4 ja 12 §:n muuttamisesta](1085.md) `1085/1993`
+- [Laki energia\-avustuksista annetun lain 3 ja 8 §:n muuttamisesta](1086.md) `1086/1993`
+- [Laki erikoissairaanhoitolain 47 §:n muuttamisesta](1087.md) `1087/1993`
+- [Valtioneuvoston päätös valuuttalain täytäntöönpanosta annetun päätöksen muuttamisesta](1088.md) `1088/1993`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta](1089.md) `1089/1993`
+- [Laki valtionosuutta saavista liikunnan koulutuskeskuksista annetun lain muuttamisesta](1090.md) `1090/1993`
+- [Laki liikuntalain muuttamisesta](1091.md) `1091/1993`
+- [Laki maaseutuelinkeinolain 59 a ja 59 b §:n muuttamisesta](1092.md) `1092/1993`
+- [Laki maaseutuelinkeinolain muuttamisesta](1093.md) `1093/1993`
+- [Asetus EFTA\-valtioiden ja Turkin välillä tehdyn sopimuksen liitteiden ja pöytäkirjojen muuttamista koskevien päätösten voimaansaattamisesta](1094.md) `1094/1993`
+- [Valtioneuvoston päätös metsätaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](1095.md) `1095/1993`
+- [Valtioneuvoston päätös porotaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](1096.md) `1096/1993`
+- [Laki vuodelta 1994 perittävästä palkansaajan työttömyysvakuutusmaksusta](1097.md) `1097/1993`
+- [Laki työttömyyskassalain 25 ja 30 §:n väliaikaisesta muuttamisesta](1098.md) `1098/1993`
+- [Laki työttömyysvakuutusmaksusta vuonna 1994](1099.md) `1099/1993`
+- [Laki työttömyyskassalain 33 a §:n muuttamisesta](1100.md) `1100/1993`
+- [Laki tapaturma\- ja liikennevakuutuslaitoksilta vuodelta 1994 perittävästä maksusta](1101.md) `1101/1993`
+- [Laki alustoimitusten rahoitukseen myönnettävästä korkotuesta annetun lain 6 ja 9 §:n muuttamisesta](1102.md) `1102/1993`
+- [Laki pienten ja keskisuurten yritysten investointien korkotukilainoista annetun lain 2 ja 4 §:n muuttamisesta](1103.md) `1103/1993`
+- [Laki Valtiontakuukeskuksesta annetun lain muuttamisesta](1104.md) `1104/1993`
+- [Asetus Valtiontakuukeskuksesta annetun asetuksen 12 §:n kumoamisesta](1105.md) `1105/1993`
+- [Asetus työvoimapalvelulain, työsuojelun valvonnasta ja muutoksenhausta työsuojeluasioissa annetun lain sekä elinkeinon harjoittamisen oikeudesta annetun lain 3 §:n muuttamisesta annetun lain voimaanpanosta](1106.md) `1106/1993`
+- [Asetus liikennetarvikkeiden kaupasta, asennuksesta ja korjauksesta annetun asetuksen muuttamisesta](1107.md) `1107/1993`
+- [Liikenneministeriön päätös liikennetarvikkeiden asennus\- ja korjausluvan ehdoista annetun liikenneministeriön päätöksen muuttamisesta](1108.md) `1108/1993`
+- [Opetusministeriön päätös Suomen Akatemian eräistä suoritteista perittävistä maksuista](1109.md) `1109/1993`
+- [Liikenneministeriön päätös teletoiminnan yhdysliikenteestä](1110.md) `1110/1993`
+- [Liikenneministeriön päätös telemaksujen yleisistä perusteista annetun liikenneministeriön päätöksen muuttamisesta](1111.md) `1111/1993`
+- [Sosiaali\- ja terveysministeriön päätös lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 10 §:n 1 momentissa tarkoitetun maksuprosentin vahvistamisesta](1112.md) `1112/1993`
+- [Verohallituksen päätös vuodelta 1993 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](1113.md) `1113/1993`
+- [Verohallituksen päätös ennakonpidätyksessä vuonna 1994 noudatettavista luontoisetujen laskentaperusteista](1114.md) `1114/1993`
+- [Asetus vanhojen metsien suojelusta](1115.md) `1115/1993`
+- [Laki Suomen Hallitusmuodon muuttamisesta](1116.md) `1116/1993`
+- [Laki valtiopäiväjärjestyksen muuttamisesta](1117.md) `1117/1993`
+- [Laki valtioneuvoston ministeriöiden lukumäärästä ja yleisestä toimialasta annetun lain muuttamisesta](1118.md) `1118/1993`
+- [Laki Suomen Hallitusmuodon muuttamisesta](1119.md) `1119/1993`
+- [Laki valtioneuvoston ministeriöiden lukumäärästä ja yleisestä toimialasta annetun lain muuttamisesta](1120.md) `1120/1993`
+- [Laki asiain ratkaisemisesta valtioneuvostossa ja sen ministeriöissä annetun lain kumoamisesta](1121.md) `1121/1993`
+- [Laki kaupparekisterilain muuttamisesta](1122.md) `1122/1993`
+- [Laki toiminimilain 1 §:n muuttamisesta](1123.md) `1123/1993`
+- [Eduskunnan päätös eduskunnan työjärjestyksen muuttamisesta](1124.md) `1124/1993`
+- [Eduskunnan päätös eduskunnan vaalisäännön 1 §:n muuttamisesta](1125.md) `1125/1993`
+- [Laki osuuspankkilain muuttamisesta](1126.md) `1126/1993`
+- [Laki rahoitustarkastuslain 2 §:n muuttamisesta](1127.md) `1127/1993`
+- [Laki hovioikeuden päätösvaltaisen kokoonpanon väliaikaisesta muuttamisesta](1128.md) `1128/1993`
+- [Laki sairausvakuutuslain muuttamisesta](1129.md) `1129/1993`
+- [Laki työterveyshuoltopalvelujen lisäksi järjestettävien avosairaanhoidon lääkäripalvelujen väliaikaisesta vuosimaksusta](1130.md) `1130/1993`
+- [Laki sairausvakuutuslain 29 a §:n väliaikaisesta muuttamisesta](1131.md) `1131/1993`
+- [Valtioneuvoston päätös virka\- ja itsehallintoalueiden kielellisestä jaotuksesta vuosina 1993\-2002 annetun valtioneuvoston päätöksen muuttamisesta](1132.md) `1132/1993`
+- [Valtioneuvoston päätös asbestin ja asbestipitoisen tuotteen valmistuksen, maahantuonnin, myymisen ja käyttöön ottamisen kieltämisestä annetun valtioneuvoston päätöksen muuttamisesta](1133.md) `1133/1993`
+- [Tiedonanto presidenttiehdokkaista](1134.md) `1134/1993`
+- [Laki alueiden kehittämisestä](1135.md) `1135/1993`
+- [Laki yritystuesta](1136.md) `1136/1993`
+- [Laki kuljetusten alueellisesta tukemisesta annetun lain muuttamisesta](1137.md) `1137/1993`
+- [Laki saariston kehityksen edistämisestä annetun lain muuttamisesta](1138.md) `1138/1993`
+- [Laki väestönsuojelulain muuttamisesta](1139.md) `1139/1993`
+- [Laki ortodoksisesta kirkkokunnasta annetun lain 21 §:n muuttamisesta](1140.md) `1140/1993`
+- [Laki vientitakuulain 3 §:n muuttamisesta](1141.md) `1141/1993`
+- [Laki ympäristönsuojelua edistäviin investointeihin myönnettävistä valtiontakauksista ja vientitakuista annetun lain 1 a ja 5 §:n muuttamisesta](1142.md) `1142/1993`
+- [Laki laivanrakennus\- tai laivanvarustamotoimintaa harjoittaville yrityksille myönnettävistä valtiontakauksista annetun lain 5 §:n muuttamisesta](1143.md) `1143/1993`
+- [Asetus väylämaksuasetuksen 1 ja 2 §:n muuttamisesta](1144.md) `1144/1993`
+- [Asetus kauppa\- ja teollisuusministeriön yrityspalvelun piiritoimistoista annetun asetuksen 2 §:n muuttamisesta](1145.md) `1145/1993`
+- [Asetus palkkaturva\-asetuksen 10 §:n muuttamisesta](1146.md) `1146/1993`
+- [Valtioneuvoston päätös myytäväksi toimitetun silakan vähimmäishinnoista ja tavoitehinnoista](1147.md) `1147/1993`
+- [Opetusministeriön päätös ammattikasvatushallinnon koulutuskeskuksen ja Heinolan kurssikeskuksen maksullisista suoritteista](1148.md) `1148/1993`
+- [Opetusministeriön päätös opetushallituksen maksullisista suoritteista](1149.md) `1149/1993`
+- [Opetusministeriön päätös eräiden valtion oppilaitosten maksullisista suoritteista](1150.md) `1150/1993`
+- [Maa\- ja metsätalousministeriön päätös Ruotsin kanssa vastavuoroisista kalastusoikeuksista Itämerellä tehtyjen sopimusten täytäntöönpanosta vuonna 1994](1151.md) `1151/1993`
+- [Laki rakennussuojelulain muuttamisesta](1152.md) `1152/1993`
+- [Asetus rakennussuojeluasetuksen 2 §:n kumoamisesta](1153.md) `1153/1993`
+- [Valtioneuvoston päätös lyijytyöstä](1154.md) `1154/1993`
+- [Valtioneuvoston päätös työntekijöiden suojelemisesta työhön liittyvältä biologisten tekijöiden aiheuttamalta vaaralta](1155.md) `1155/1993`
+- [Laki mittayksiköistä ja mittanormaalijärjestelmästä](1156.md) `1156/1993`
+- [Laki mittayksiköistä ja mittaamisvälineiden vakaamisesta annetun lain muuttamisesta](1157.md) `1157/1993`
+- [Asetus rakennusasetuksen muuttamisesta](1158.md) `1158/1993`
+- [Verohallituksen päätös vuonna 1994 verosta vapaaksi katsottavien matkakustannusten korvausten perusteista ja määristä](1159.md) `1159/1993`
+- [Maa\- ja metsätalousministeriön päätös riista\- ja kalatalouden tutkimuslaitoksen suoritteiden maksullisuudesta ja maksuperusteista](1160.md) `1160/1993`
+- [Laki polttoaineverosta annetun lain muuttamisesta](1161.md) `1161/1993`
+- [Kauppa\- ja teollisuusministeriön päätös nettosähköenergian määrittelystä](1162.md) `1162/1993`
+- [Laki tullilain muuttamisesta](1163.md) `1163/1993`
+- [Asetus tulliasetuksen muuttamisesta](1164.md) `1164/1993`
+- [Asetus Huoltovarmuuskeskuksesta annetun asetuksen 1 §:n muuttamisesta](1165.md) `1165/1993`
+- [Valtioneuvoston päätös leimaverolain soveltamisesta annetun valtioneuvoston päätöksen muuttamisesta](1166.md) `1166/1993`
+- [Valtioneuvoston päätös veropiireistä annetun valtioneuvoston päätöksen muuttamisesta](1167.md) `1167/1993`
+- [Valtioneuvoston päätös valtiovarainministeriön hallinnonalan erään viran lakkauttamisesta](1168.md) `1168/1993`
+- [Laki Metsähallituksesta](1169.md) `1169/1993`
+- [Laki hukkakauran torjunnasta annetun lain 11 §:n muuttamisesta](1170.md) `1170/1993`
+- [Laki kotieläintuotannon ohjaamisesta annetun lain muuttamisesta](1171.md) `1171/1993`
+- [Laki maidon väliaikaisesta kiintiömaksusta annetun lain muuttamisesta](1172.md) `1172/1993`
+- [Laki maidon väliaikaisista tuotantokiintiöistä annetun lain muuttamisesta](1173.md) `1173/1993`
+- [Laki meijerikohtaisesta kiintiömaksusta annetun lain kumoamisesta](1174.md) `1174/1993`
+- [Laki yksityisten valtionapulaitosten toimiehtosopimuslain kumoamisesta](1175.md) `1175/1993`
+- [Laki yksityisten valtionapulaitosten sopimusvaltuuskunnasta annetun lain kumoamisesta](1176.md) `1176/1993`
+- [Laki toimiehtosopimuksen vaikutuksesta valtionapuun annetun lain kumoamisesta](1177.md) `1177/1993`
+- [Laki opintovapaalain muuttamisesta](1178.md) `1178/1993`
+- [Laki työriitojen sovittelusta annetun lain muuttamisesta](1179.md) `1179/1993`
+- [Laki työaikalain 19 a §:n muuttamisesta](1180.md) `1180/1993`
+- [Laki talonmiesten työaikalain 19 §:n muuttamisesta](1181.md) `1181/1993`
+- [Laki maatalouden työaikalain 25 §:n muuttamisesta](1182.md) `1182/1993`
+- [Laki kauppaliikkeiden ja toimistojen työaikalain 5 §:n muuttamisesta](1183.md) `1183/1993`
+- [Laki vuosilomalain 16 §:n muuttamisesta](1184.md) `1184/1993`
+- [Laki työsuojelun valvonnasta ja muutoksenhausta työsuojeluasioissa annetun lain 8 §:n muuttamisesta](1185.md) `1185/1993`
+- [Laki valtion virkamiehen ja työntekijän terveydenhuollosta ulkomailla annetun lain muuttamisesta](1186.md) `1186/1993`
+- [Valtioneuvoston päätös valtion eläkejärjestelmän piiriin kuuluvien työnantajien eläkemaksusta](1187.md) `1187/1993`
+- [Valtioneuvoston päätös valtion virkamiesten erorahan suuruudesta annetun valtioneuvoston päätöksen muuttamisesta](1188.md) `1188/1993`
+- [Aravalaki](1189.md) `1189/1993`
+- [Laki aravavuokra\-asuntojen ja aravavuokratalojen käytöstä, luovutuksesta ja omaksilunastamisesta](1190.md) `1190/1993`
+- [Laki asunto\-olojen kehittämisestä annetun lain 6 ja 8 §:n muuttamisesta](1191.md) `1191/1993`
+- [Laki vuokratalolainojen lainaehtojen muuttamisesta annetun lain muuttamisesta](1192.md) `1192/1993`
+- [Laki vuokra\-asuntolainojen korkotuesta annetun lain 2 §:n muuttamisesta](1193.md) `1193/1993`
+- [Laki valtion asuntorahastosta annetun lain muuttamisesta](1194.md) `1194/1993`
+- [Laki asumisoikeusasunnoista annetun lain muuttamisesta](1195.md) `1195/1993`
+- [Laki yhteishallinnosta vuokrataloissa annetun lain 2 §:n muuttamisesta](1196.md) `1196/1993`
+- [Laki yhtiöjärjestykseen perustuvasta kunnan lunastusoikeudesta ja osakkeiden enimmäishinnoista annetun lain 2 §:n muuttamisesta](1197.md) `1197/1993`
+- [Laki huoneenvuokralain muuttamisesta](1198.md) `1198/1993`
+- [Laki asumistukilain 6 §:n muuttamisesta](1199.md) `1199/1993`
+- [Laki asuntotuotantolain mukaisten hankintalainojen myöntämisestä eräissä tapauksissa annetun lain 4 ja 5 §:n muuttamisesta](1200.md) `1200/1993`
+- [Laki mustalaisväestön asunto\-olojen parantamisesta annetun lain muuttamisesta](1201.md) `1201/1993`
+- [Laki leimaverolain 57 §:n muuttamisesta](1202.md) `1202/1993`
+- [Laki vuokra\-asuntolainojen korkotuesta annetun lain muuttamisesta](1203.md) `1203/1993`
+- [Laki omistusasuntolainojen korkotuesta](1204.md) `1204/1993`
+- [Laki asumisoikeustalolainojen korkotuesta](1205.md) `1205/1993`
+- [Laki asumisoikeusasunnoista annetun lain muuttamisesta](1206.md) `1206/1993`
+- [Laki korkeakoululaitoksen kehittämisestä annetun lain 3 §:n väliaikaisesta muuttamisesta](1207.md) `1207/1993`
+- [Laki opettajankoulutuslain 11 §:n muuttamisesta](1208.md) `1208/1993`
+- [Laki rauhan\- ja konfliktintutkimuslaitoksesta annetun lain kumoamisesta](1209.md) `1209/1993`
+- [Asetus kasvatustieteellisen perustutkinnon ja erillisten erityisopettajan opintojen järjestämisestä Helsingin yliopistossa annetun asetuksen muuttamisesta](1210.md) `1210/1993`
+- [Asetus maatalous\-metsätieteellisten perustutkintojen järjestämisestä annetun asetuksen1 ja 5 §:n muuttamisesta](1211.md) `1211/1993`
+- [Asetus harjoittelukouluasetuksen eräiden säännösten kumoamisesta annetun asetuksen 1 §:n muuttamisesta](1212.md) `1212/1993`
+- [Asetus kotimaisten kielten tutkimuskeskuksesta](1213.md) `1213/1993`
+- [Asetus yhteiskuntatieteellisistä tutkinnoista annetun asetuksen muuttamisesta](1214.md) `1214/1993`
+- [Opintokeskuslaki](1215.md) `1215/1993`
+- [Opintokeskusasetus](1216.md) `1216/1993`
+- [Asetus kansalaisopistoasetuksen 5 ja 12 §:n muuttamisesta](1217.md) `1217/1993`
+- [Laki valtionosuutta saavista kansanopistoista](1218.md) `1218/1993`
+- [Asetus valtionosuutta saavista kansanopistoista](1219.md) `1219/1993`
+- [Laki nuorisoasteen koulutuksen ja ammattikorkeakoulujen kokeiluista annetun lain 6 §:n muuttamisesta](1220.md) `1220/1993`
+- [Asetus nuorisoasteen koulutuksen ja ammattikorkeakoulujen kokeiluista annetun asetuksen 25 ja 26 §:n kumoamisesta](1221.md) `1221/1993`
+- [Laki oppisopimuskoulutuksesta annetun lain muuttamisesta](1222.md) `1222/1993`
+- [Asetus oppisopimuskoulutuksesta annetun asetuksen muuttamisesta](1223.md) `1223/1993`
+- [Asetus valtion audiovisuaalisesta keskuksesta annetun asetuksen 2 §:n muuttamisesta](1224.md) `1224/1993`
+- [Laki sotilasvammalain muuttamisesta](1225.md) `1225/1993`
+- [Asetus sotilasvammalain eräiden säännösten soveltamisesta annetun asetuksen muuttamisesta](1226.md) `1226/1993`
+- [Laki rintamaveteraanien kuntoutuksesta annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](1227.md) `1227/1993`
+- [Asetus rintamaveteraanien kuntuutuksesta annetun asetuksen 3 ja 5 §:n muuttamisesta](1228.md) `1228/1993`
+- [Laki pienyrittäjän vuosilomarahasta annetun lain soveltamatta jättämisestä](1229.md) `1229/1993`
+- [Asetus maatalousyrittäjän lomituspalveluista annetun asetuksen muuttamisesta](1230.md) `1230/1993`
+- [Sosiaali\- ja terveysministeriön päätös maatalousyrittäjän viikkovapaasta perittävistä maksuista](1231.md) `1231/1993`
+- [Kauppa\- ja teollisuusministeriön päätös valtion teknillisen tutkimuskeskuksen eräistä suoritteista perittävistä maksuista](1232.md) `1232/1993`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikeviraston maksullisista suoritteista](1233.md) `1233/1993`
+- [Laki lapsilisälain muuttamisesta](1234.md) `1234/1993`
+- [Laki tuloverolain eräiden säännösten kumoamisesta](1235.md) `1235/1993`
+- [Laki asumistukilain 5 §:n muuttamisesta](1236.md) `1236/1993`
+- [Asetus tartuntatautiasetuksen muuttamisesta](1237.md) `1237/1993`
+- [Valtioneuvoston päätös valtion liikelaitoksen työttömyysvakuutusmaksusta vuonna 1994](1238.md) `1238/1993`
+- [Ympäristöministeriön päätös ympäristöministeriön maksullisista suoritteista](1239.md) `1239/1993`
+- [Ympäristöministeriön päätös valtion asuntorahaston maksullisista suoritteista](1240.md) `1240/1993`
+- [Sosiaali\- ja terveysministeriön päätös tapaturmavakuntuslain 58 §:ssä säädetyn maksun suuruudesta](1241.md) `1241/1993`
+- [Sosiaali\- ja terveysministeriön päätös Järvenpään sosiaalisairaalan maksullisista suoritteista](1242.md) `1242/1993`
+- [Sosiaali\- ja terveysministeriön päätös valtion koulukotien maksullisista suoritteista](1243.md) `1243/1993`
+- [Sosiaali\- ja terveysministeriön päätös terveydenhuollon oikeusturvakeskuksen maksullisista suoritteista](1244.md) `1244/1993`
+- [Sosiaali\- ja terveysministeriön päätös valtion mielisairaaloiden maksullisista suoritteista](1245.md) `1245/1993`
+- [Valtioneuvoston päätös hyvityssakkojen enimmäismäärien tarkistamisesta](1246.md) `1246/1993`
+- [Valtioneuvoston päätös valtion liikelaitosten ja liikelaitoskonsernien kirjanpidon perusteista ja tilintarkastuksesta](1247.md) `1247/1993`
+- [Valtiovarainministeriön päätös valtiontalouden tarkastusviraston maksullisista suoritteista](1248.md) `1248/1993`
+- [Valtiovarainministeriön päätös tilastokeskuksen suoritteiden maksullisuudesta annetun päätöksen muuttamisesta](1249.md) `1249/1993`
+- [Valtiovarainministeriön päätös valtiokonttorin maksullisista suoritteista](1250.md) `1250/1993`
+- [Työvoimapalveluasetus](1251.md) `1251/1993`
+- [Asetus työllisyysasetuksen muuttamisesta](1252.md) `1252/1993`
+- [Asetus työvoimapalveluihin liittyvistä etuuksista](1253.md) `1253/1993`
+- [Asetus työvoimapalvelujen tietojärjestelmästä](1254.md) `1254/1993`
+- [Asetus työvoimapalvelulain 5 §:n mukaisen ilmoitusvelvollisuuden toimeenpanosta valtion virastoissa ja laitoksissa](1255.md) `1255/1993`
+- [Asetus työsuojelun valvonnasta annetun asetuksen muuttamisesta](1256.md) `1256/1993`
+- [Laki hätäkeskuksia koskevasta kokeilusta](1257.md) `1257/1993`
+- [Laki elokuvaverolain kumoamisesta](1258.md) `1258/1993`
+- [Laki korkotulon lähdeverosta annetun lain 6 §:n muuttamisesta](1259.md) `1259/1993`
+- [Laki elinkeinotulon verottamisesta annetun lain 19 §:n väliaikaisesta muuttamisesta](1260.md) `1260/1993`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1261.md) `1261/1993`
+- [Laki kehitysalueelle tehtävien investointien korotetuista poistoista](1262.md) `1262/1993`
+- [Laki leimaverolain 97 a §:n muuttamisesta](1263.md) `1263/1993`
+- [Laki kehitysalueiden veronhuojennuksista annetun lain 3 §:n muuttamisesta](1264.md) `1264/1993`
+- [Laki merenkulun veronhuojennuksista annetun lain muuttamisesta](1265.md) `1265/1993`
+- [Verohallituksen päätös televerotusta koskevasta ilmoittamisvelvollisuudesta](1266.md) `1266/1993`
+- [Verohallituksen päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](1267.md) `1267/1993`
+- [Laki metsästyslain muuttamisesta](1268.md) `1268/1993`
+- [Laki kilpailuneuvostosta annetun lain muuttamisesta](1269.md) `1269/1993`
+- [Laki työttömyysturvalain 25 §:n poikkeuksellisesta soveltamisesta](1270.md) `1270/1993`
+- [Laki siviilipalveluslain muuttamisesta](1271.md) `1271/1993`
+- [Asetus lääninneuvottelukunnista annetun asetuksen muuttamisesta](1272.md) `1272/1993`
+- [Asetus lääninhallitusasetuksen muuttamisesta](1273.md) `1273/1993`
+- [Asetus työehtosopimuslaissa tarkoitettujen hyvityssakkojen enimmäismäärien tarkistamisesta](1274.md) `1274/1993`
+- [Valtioneuvoston päätös eräiden opintotukilaissa tarkoitettujen määrien vahvistamisesta annetun valtioneuvoston päätöksen 11 §:n muuttamisesta](1275.md) `1275/1993`
+- [Valtioneuvoston oikeuskanslerin päätös oikeuskanslerinviraston suoritteiden maksullisuudesta](1276.md) `1276/1993`
+- [Työministeriön päätös merionnettomuudessa menetetystä henkilökohtaisesta omaisuudesta työntekijälle tulevan korvauksen perusteista annetun valtioneuvoston päätöksen 1 ja 2 §:ssä tarkoitetuista markkamääristä vuonna 1994](1277.md) `1277/1993`
+- [Laki Kera Oy \-nimisestä osakeyhtiöstä annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](1278.md) `1278/1993`
+- [Laki matkailun edistämiskeskuksesta annetun lain 3 §:n kumoamisesta](1279.md) `1279/1993`
+- [Asetus matkailun edistämiskeskuksesta annetun asetuksen muuttamisesta](1280.md) `1280/1993`
+- [Valtioneuvoston päätös energiateknologisen tutkimuksen edistämiseen myönnettävien avustusten ehdoista](1281.md) `1281/1993`
+- [Valtioneuvoston päätös turvavarastointiohjelmasta vuonna 1994](1282.md) `1282/1993`
+- [Kauppa\- ja teollisuusministeriön päätös eräiden elintarvikelisäaineita koskevien Euroopan yhteisöjen direktiivien täytäntöönpanosta](1283.md) `1283/1993`
+- [Kauppa\- ja teollisuusministeriön päätös matkailun edistämiskeskuksen maksullisista suoritteista](1284.md) `1284/1993`
+- [Kauppa\- ja teollisuusministeriön päätös ydinturvallisuusvalvontaan kuuluvien Säteilyturvakeskuksen suoritteiden maksullisuudesta ja maksuperusteista](1285.md) `1285/1993`
+- [Kauppa\- ja teollisuusministeriön päätös kaasuasennuksista](1286.md) `1286/1993`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](1287.md) `1287/1993`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 11 §:n muuttamisesta](1288.md) `1288/1993`
+- [Huumausainelaki](1289.md) `1289/1993`
+- [Laki työterveyslaitoksen toiminnasta ja rahoituksesta annetun lain muuttamisesta](1290.md) `1290/1993`
+- [Liikenneministeriön päätös merenkulkulaitoksen maksullisista suoritteista](1291.md) `1291/1993`
+- [Opetusministeriön päätös tallentamattomien ääni\- ja kuvanauhojen maahantuonnista ja valmistuksesta suoritettavan tekijänoikeudellisen maksun suuruudesta](1292.md) `1292/1993`
+- [Laki Irlannin kanssa tulo\- ja myyntivoittoveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](1293.md) `1293/1993`
+- [Asetus Irlannin kanssa tulo\- ja myyntivoittoveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1294.md) `1294/1993`
+- [Laki Sveitsin kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](1295.md) `1295/1993`
+- [Asetus Sveitsin kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1296.md) `1296/1993`
+- [Laki Latvian kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](1297.md) `1297/1993`
+- [Asetus Latvian kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1298.md) `1298/1993`
+- [Laki Liettuan kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](1299.md) `1299/1993`
+- [Asetus Liettuan kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1300.md) `1300/1993`
+- [Laki Viron kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](1301.md) `1301/1993`
+- [Asetus Viron kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1302.md) `1302/1993`
+- [Kauppa\- ja teollisuusministeriön päätös valmistuksen apuaineista elintarvikkeissa](1303.md) `1303/1993`
+- [Laki rikoslain muuttamisesta](1304.md) `1304/1993`
+- [Laki Teollisen yhteistyön rahasto Oy \-nimisestä osakeyhtiöstä annetun lain 3 a ja 3 b §:n muuttamisesta](1305.md) `1305/1993`
+- [Asetus ionisoimattoman säteilyn valvonnasta](1306.md) `1306/1993`
+- [Asetus työterveyslaitoksen toiminnasta ja rahoituksesta annetun asetuksen muuttamisesta](1307.md) `1307/1993`
+- [Asetus kemikaaliasetuksen 25 §:n muuttamisesta](1308.md) `1308/1993`
+- [Asetus kemikaalilain muuttamisesta annetun lain eräiden säännösten voimaanpanosta](1309.md) `1309/1993`
+- [Asetus kemikaalilain nojalla sosiaali\- ja terveysministeriölle tehtävien ilmoitusten käsittelymaksuista annetun asetuksen kumoamisesta](1310.md) `1310/1993`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkemaksusta](1311.md) `1311/1993`
+- [Kauppa\- ja teollisuusministeriön päätös eräiden elintarvikkeita koskevien Euroopan yhteisöjen direktiivien täytäntöönpanosta](1312.md) `1312/1993`
+- [Laki eräistä poikkeuksista kuntien valtionosuuslain 8 §:n säännöksiin vuonna 1994](1313.md) `1313/1993`
+- [Asetus kunnallistalouden ja \-hallinnon neuvottelukunnasta](1314.md) `1314/1993`
+- [Asetus alueiden kehittämisestä](1315.md) `1315/1993`
+- [Asetus saaristoasiain neuvottelukunnasta annetun asetuksen muuttamisesta](1316.md) `1316/1993`
+- [Sisäasiainministeriön päätös lääninhallituksen suoritteiden maksullisuudesta, maksuperusteista ja julkisoikeudellisista suoritteista perittävistä maksuista annetun sisäasiainministeriön päätöksen muuttamisesta](1317.md) `1317/1993`
+- [Sisäasiainministeriön päätös rekisterihallinnon suoritteiden maksullisuudesta, maksuperusteista ja julkisoikeudellisista suoritteista perittävistä kiinteistä maksuista annetun sisäasiainministeriön päätöksen muuttamisesta](1318.md) `1318/1993`
+- [Ympäristöministeriön päätös vesi\- ja ympäristöhallinnon maksullisista suoritteista](1319.md) `1319/1993`
+- [Laki Kasvinjalostuslaitoksesta](1320.md) `1320/1993`
+- [Laki kasvinjalostustoiminnan edistämisestä annetun lain muuttamisesta](1321.md) `1321/1993`
+- [Asetus Kasvinjalostuslaitoksesta](1322.md) `1322/1993`
+- [Asetus geodeettisen laitoksen suoritteista perittävistä maksuista](1323.md) `1323/1993`
+- [Asetus eräiden eläinlääkintähallinnon alaan kuuluvien lakien voimaanpanosta](1324.md) `1324/1993`
+- [Asetus eläinlääkintähuoltoasetuksen 1 §:n muuttamisesta](1325.md) `1325/1993`
+- [Asetus poronlihan tarkastuksesta annetun asetuksen 10 §:n muuttamisesta](1326.md) `1326/1993`
+- [Asetus lihantarkastusasetuksen 22 §:n kumoamisesta](1327.md) `1327/1993`
+- [Asetus lihan sekä lihavalmisteiden viennistä ja tuonnista annetun asetuksen 3 §:n muuttamisesta](1328.md) `1328/1993`
+- [Asetus rehulain, lannoitelain ja siemenkauppalain voimaantulosta](1329.md) `1329/1993`
+- [Asetus eräiden Euroopan talousalueesta tehtyyn sopimukseen liittyvien maa\- ja metsätalousministeriön toimialaan kuuluvien lakien voimaanpanosta](1330.md) `1330/1993`
+- [Maa\- ja metsätalousministeriön päätös eläinlääkintä\- ja elintarvikelaitoksen suoritteista perittävistä maksuista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](1331.md) `1331/1993`
+- [Valtioneuvoston päätös valtionavustuksia koskevien yleismääräysten muuttamisesta](1332.md) `1332/1993`
+- [Valtioneuvoston päätös eräiden keskitetysti suoritettujen etuuksien ja korvausten perimisestä valtion liikelaitoksilta annetun valtioneuvoston päätöksen muuttamisesta](1333.md) `1333/1993`
+- [Valtiovarainministeriön päätös rakennusten jälleenhankinta\-arvon perusteista](1334.md) `1334/1993`
+- [Valtiovarainministeriön päätös vesivoimalaitoksen ja sen rakenteiden jälleenhankinta\-arvon perusteista](1335.md) `1335/1993`
+- [Valtiovarainministeriön päätös valtiovarainministeriön suoritteiden maksullisuudesta](1336.md) `1336/1993`
+- [Valtiovarainministeriön päätös valtion työntekijöiden matkakustannusten korvaamisesta annetun valtiovarainministeriön päätöksen kumoamisesta](1337.md) `1337/1993`
+- [Asetus sähkölain muuttamisesta annetun lain voimaanpanosta](1338.md) `1338/1993`
+- [Asetus sähköasetuksen muuttamisesta](1339.md) `1339/1993`
+- [Asetus sähkötöiden valvonnasta perittävistä maksuista annetun asetuksen 2 ja 3 §:n muuttamisesta](1340.md) `1340/1993`
+- [Asetus sähkölaitteiden hyväksymisestä ja valvonnasta perittävistä maksuista](1341.md) `1341/1993`
+- [Asetus eräiden Euroopan talousalueen perustamiseen liittyvien kauppa\- ja teollisuusministeriön hallinnonalaa koskevien lakien voimaantulosta](1342.md) `1342/1993`
+- [Valtioneuvoston päätös tuotekehitysavustusten ja tuotekehityslainojen yleisistä ehdoista annetun valtioneuvoston päätöksen 3 §:n muuttamisesta](1343.md) `1343/1993`
+- [Valtioneuvoston päätös alueellisen teknologiatoiminnan edistämiseen myönnettävien avustusten ehdoista annetun valtioneuvoston päätöksen 9 §:n 1 momentin muuttamisesta](1344.md) `1344/1993`
+- [Kauppa\- ja teollisuusministeriön päätös teknologian kehittämiskeskuksen maksuista](1345.md) `1345/1993`
+- [Kauppa\- ja teollisuusministeriön päätös kauppa\- ja teollisuusministeriön sekä kauppa\- ja teollisuusministeriön yrityspalvelun piiritoimistojen maksullisista suoritteista](1346.md) `1346/1993`
+- [Kauppa\- ja teollisuusministeriön päätös kuluttajaviraston maksullisista suoritteista](1347.md) `1347/1993`
+- [Kauppa\- ja teollisuusministeriön päätös kuluttajatutkimuskeskuksen maksullisista suoritteista](1348.md) `1348/1993`
+- [Asetus julkisista hankinnoista annetun lain ja kilpailuneuvostosta annetun lain muuttamisesta annetun lain voimaanpanosta](1349.md) `1349/1993`
+- [Asetus Euroopan talousalueesta tehdyssä sopimuksessa tarkoitetuista tavarahankinnoista](1350.md) `1350/1993`
+- [Asetus Euroopan talousalueesta tehdyssä sopimuksessa tarkoitetuista vesi\- ja energiahuollon, liikenteen ja teletoiminnan alalla toimivien yksiköiden hankinnoista](1351.md) `1351/1993`
+- [Asetus maan ulkomaankaupassa sovellettavista määrällisistä rajoituksista annetun asetuksen liitteen muuttamisesta](1352.md) `1352/1993`
+- [Kauppa\- ja teollisuusministeriön päätös sähkölaitteiden turvallisuudesta](1353.md) `1353/1993`
+- [Laki työsopimuslain 4 §:n muuttamisesta](1354.md) `1354/1993`
+- [Laki kalastuslain muuttamisesta](1355.md) `1355/1993`
+- [Asetus kalastusasetuksen muuttamisesta](1356.md) `1356/1993`
+- [Asetus eräiden Euroopan talousalueesta tehtyyn sopimukseen liittyvien työoikeudellisten lakien voimaantulosta](1357.md) `1357/1993`
+- [Asetus rakennuslain muuttamisesta annetun lain voimaanpanosta](1358.md) `1358/1993`
+- [Maa\- ja metsätalousministeriön päätös merilohisaaliin ilmoittamisesta](1359.md) `1359/1993`
+- [Laki puolustushallinnon rakennuslaitoksesta](1360.md) `1360/1993`
+- [Laki tallettajien saamisten turvaamisesta säästökassatoimintaa harjoittavassa osuuskunnassa](1361.md) `1361/1993`
+- [Asetus radiovastuuasetuksen 1 §:n muuttamisesta](1362.md) `1362/1993`
+- [Asetus vuonna 1994 toimitettavassa tasavallan presidentin vaalissa ennakkoäänestyspaikkoina olevista Suomen edustustoista annetun asetuksen muuttamisesta](1363.md) `1363/1993`
+- [Asetus](1364.md) `1364/1993`
+- [Asetus kaupanvahvistaja\-asetuksen 10 §:n muuttamisesta](1365.md) `1365/1993`
+- [Asetus puolustusministeriöstä annetun asetuksen muuttamisesta](1366.md) `1366/1993`
+- [Asetus puolustusvoimista annetun asetuksen muuttamisesta](1367.md) `1367/1993`
+- [Oikeusministeriön päätös julkisen kaupanvahvistajan suoritteista perittävistä maksuista](1368.md) `1368/1993`
+- [Oikeusministeriön päätös oikeusministeriön ja eräiden hallinnonalalla toimivien viranomaisten suoritteista perittävistä maksuista](1369.md) `1369/1993`
+- [Laki luonnonsuojelulain 5 a §:n kumoamisesta](1370.md) `1370/1993`
+- [Laki ajoneuvojen katsastustehtävien toimiluvista](1371.md) `1371/1993`
+- [Liikenneministeriön päätös ajoneuvojen katsastustehtävien toimiluvista](1372.md) `1372/1993`
+- [Laki ajoneuvohallinnosta](1373.md) `1373/1993`
+- [Asetus ajoneuvohallinnosta](1374.md) `1374/1993`
+- [Liikenneministeriön päätös ajoneuvohallinnon maksuista](1375.md) `1375/1993`
+- [Laki Autorekisterikeskuksesta annetun lain muuttamisesta](1376.md) `1376/1993`
+- [Asetus Autorekisterikeskuksesta annetun asetuksen muuttamisesta](1377.md) `1377/1993`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain 3 §:n muuttamisesta](1378.md) `1378/1993`
+- [Laki Ilmailulaitoksesta annetun lain 11 §:n kumoamisesta](1379.md) `1379/1993`
+- [Laki Yleisradio Oy:stä](1380.md) `1380/1993`
+- [Asetus ilmailulain muuttamisesta annetun lain voimaanpanosta](1381.md) `1381/1993`
+- [Asetus ilmailuasetuksen 42 §:n muuttamisesta](1382.md) `1382/1993`
+- [Asetus kaapelilähetystoiminnasta annetun lain muuttamisesta annetun lain eräiden säännösten voimaanpanosta](1383.md) `1383/1993`
+- [Asetus kaapelilähetystoiminnasta annetun asetuksen muuttamisesta](1384.md) `1384/1993`
+- [Postitoiminta\-asetus](1385.md) `1385/1993`
+- [Asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen muuttamisesta](1386.md) `1386/1993`
+- [Liikenneministeriön päätös postihallinnon maksullisista suoritteista](1387.md) `1387/1993`
+- [Liikenneministeriön päätös postilaitoksen toimitusehtojen yleisistä perusteista](1388.md) `1388/1993`
+- [Asetus jätelain sekä ympäristölupamenettelylain muuttamisesta annetun lain voimaantulosta](1389.md) `1389/1993`
+- [Jäteasetus](1390.md) `1390/1993`
+- [Asetus ympäristölupamenettelyasetuksen muuttamisesta](1391.md) `1391/1993`
+- [Asetus valtioneuvoston ohjesäännön muuttamisesta](1392.md) `1392/1993`
+- [Asetus ulkomaalaislain muuttamisesta annetun lain voimaanpanosta](1393.md) `1393/1993`
+- [Asetus eräiden Euroopan talousalueesta tehdyn sopimuksen tutkintojen tunnustamista koskeviin määräyksiin liittyvien lakien voimaanpanosta](1394.md) `1394/1993`
+- [Asetus eräistä kirjailijoille ja kääntäjille suoritettavista apurahoista ja avustuksista annetun lain 1 §:n, tekijänoikeuslain sekä tekijänoikeuslain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta annettujen lakien voimaanpanosta](1395.md) `1395/1993`
+- [Valtioneuvoston päätös lunastuksesta, joka suoritetaan ortodoksisen seurakunnan kirkonkirjoista ja muista asiakirjoista annettavista virkatodistuksista, todistuksista ja otteista](1396.md) `1396/1993`
+- [Valtioneuvoston kanslian päätös suoritteidensa maksullisuudesta](1397.md) `1397/1993`
+- [Liikenneministeriön päätös joukkoliikenteen tarkastusmaksun suuruudesta](1398.md) `1398/1993`
+- [Liikenneministeriön päätös linja\-autolla tilausliikenneoikeuden nojalla harjoitettavasta joukkoliikenteestä](1399.md) `1399/1993`
+- [Liikenneministeriön päätös maanteiden tavara\- ja henkilöliikenteen harjoittajien muodollista kelpoisuutta osoittavien asiakirjojen vastavuoroisesta tunnustamisesta](1400.md) `1400/1993`
+- [Liikenneministeriön päätös henkilövuokra\-autojen kuljetusmaksuja koskevan kokeilun jatkamisesta](1401.md) `1401/1993`
+- [Liikenneministeriön päätös linja\-autoliikenteen henkilötaksoista](1402.md) `1402/1993`
+- [Valtioneuvoston päätös työvälineiden turvallisesta käytöstä](1403.md) `1403/1993`
+- [Valtioneuvoston päätös työntekijäin suojelusta työssä esiintyvän melun aiheuttamilta vaaroilta ja haitoilta](1404.md) `1404/1993`
+- [Valtioneuvoston päätös näyttöpäätetyöstä](1405.md) `1405/1993`
+- [Valtioneuvoston päätös henkilönsuojaimista](1406.md) `1406/1993`
+- [Valtioneuvoston päätös henkilönsuojainten valinnasta ja käytöstä työssä](1407.md) `1407/1993`
+- [Asetus työturvallisuuslain muuttamisesta annetun lain ja työsuojelun valvonnasta ja muutoksenhausta työsuojeluasioissa annetun lain muuttamisesta annetun lain voimaantulosta](1408.md) `1408/1993`
+- [Valtioneuvoston päätös käsin tehtävistä nostoista ja siirroista työssä](1409.md) `1409/1993`
+- [Valtioneuvoston päätös koneiden turvallisuudesta](1410.md) `1410/1993`
+- [Asetus kaupparekisteriasetuksen muuttamisesta](1411.md) `1411/1993`
+- [Valtioneuvoston päätös traktoreiden ETY\-tyyppihyväksynnästä](1412.md) `1412/1993`
+- [Valtioneuvoston päätös työturvallisuuslain soveltamisesta traktoreihin ja niiden tarkastukseen annetun valtioneuvoston päätöksen muuttamisesta](1413.md) `1413/1993`
+- [Asetus kosmetiikka\-asetuksen muuttamisesta](1414.md) `1414/1993`
+- [Kauppa\- ja teollisuusministeriön päätös kosmeettisista valmisteista](1415.md) `1415/1993`
+- [Asetus valtion hankinnoista](1416.md) `1416/1993`
+- [Kauppa\- ja teollisuusministeriön päätös julkisten hankintojen yleisten sopimusehtojen vahvistamisesta](1417.md) `1417/1993`
+- [Valtioneuvoston päätös pienille ja keskisuurille yrityksille uuden vientimarkkinointihenkilöstön palkkaamiseen myönnettävän valtionavustuksen yleisistä ehdoista annetun valtioneuvoston päätöksen kumoamisesta\.](1418.md) `1418/1993`
+- [Luettelo veroäyrien hinnoista vuonna 1994](1419.md) `1419/1993`
+- [Laki vakuutustarkastuksen kustantamisesta annetun lain 1 §:n muuttamisesta](1420.md) `1420/1993`
+- [Laki vakuutusyhtiön toimilupamaksusta](1421.md) `1421/1993`
+- [Asetus Intian kanssa tehdyn tekstiilituotteiden kauppaa koskevan sopimuksen jatkamista koskevan sopimuksen voimaansaattamisesta](1422.md) `1422/1993`
+- [Asetus Pakistanin kanssa tehdyn tekstiilituotteiden kauppaa koskevan sopimuksen jatkamista koskevan sopimuksen voimaansaattamisesta](1423.md) `1423/1993`
+- [Asetus Hongkongin kanssa tehdyn tekstiilituotteiden kauppaa koskevan sopimuksen jatkamista koskevan sopimuksen voimaansaattamisesta](1424.md) `1424/1993`
+- [Asetus Romanian kanssa tehdyn tekstiilituotteiden kauppaa koskevan sopimuksen jatkamista koskevan sopimuksen voimaansaattamisesta](1425.md) `1425/1993`
+- [Asetus Kiinan kansantasavallan kanssa tehdyn tekstiilituotteiden kauppaa koskevan sopimuksen jatkamista koskevan sopimuksen voimaansaattamisesta](1426.md) `1426/1993`
+- [Asetus Macaon kanssa tehdyn tekstiilituotteiden kauppaa koskevan sopimuksen jatkamista koskevan sopimuksen voimaansaattamisesta](1427.md) `1427/1993`
+- [Asetus nuorten työntekijäin suojelusta annetun asetuksen muuttamisesta](1428.md) `1428/1993`
+- [Valtioneuvoston päätös työterveyshuollon ja muun terveydenhuollon kustannusten korvausperusteista annetun valtioneuvoston päätöksen 8 §:n muuttamisesta ja väliaikaisesta muuttamisesta](1429.md) `1429/1993`
+- [Valtioneuvoston päätös pesu\- ja puhdistusaineiden markkinoille luovuttamisen ja käytön rajoittamisesta](1430.md) `1430/1993`
+- [Työministeriön päätös nuorille sopivista kevyistä töistä](1431.md) `1431/1993`
+- [Työministeriön päätös nuorille työntekijöille vaarallisista töistä](1432.md) `1432/1993`
+- [Aerosoliasetus](1433.md) `1433/1993`
+- [Kaasulaiteasetus](1434.md) `1434/1993`
+- [Asetus lääkärin perusterveydenhuollon lisäkoulutuksesta](1435.md) `1435/1993`
+- [Asetus erikoislääkärin tutkinnosta annetun asetuksen muuttamisesta](1436.md) `1436/1993`
+- [Asetus erikoishammaslääkärin tutkinnosta annetun asetuksen muuttamisesta](1437.md) `1437/1993`
+- [Asetus farmasian tutkinnoista annetun asetuksen muuttamisesta](1438.md) `1438/1993`
+- [Asetus palkkaturva\-asetuksen 1 §:n muuttamisesta](1439.md) `1439/1993`
+- [Asetus merilain 29 §:n muuttamisesta annetun lain sekä ulkomaanliikenteen kauppa\-alusluettelosta annetun lain 1 §:n muuttamisesta annetun lain 1 §:n 1 momentin 4 kohdan voimaanpanosta](1440.md) `1440/1993`
+- [Asetus alusten katsastuksista annetun asetuksen 13 §:n muuttamisesta](1441.md) `1441/1993`
+- [Asetus luotsausasetuksen muuttamisesta](1442.md) `1442/1993`
+- [Asetus aluksen miehityksestä ja laivahenkilökunnan pätevyydestä annetun asetuksen muuttamisesta](1443.md) `1443/1993`
+- [Asetus viljan kuljetuksesta aluksessa annetun asetuksen 3 §:n muuttamisesta](1444.md) `1444/1993`
+- [Liikenneministeriön päätös Merentutkimuslaitoksen maksullisista suoritteista](1445.md) `1445/1993`
+- [Asetus ajoneuvojen rekisteröinnistä annetun asetuksen muuttamisesta](1446.md) `1446/1993`
+- [Asetus eräiden Euroopan talousalueesta tehdyn sopimuksen sosiaali\- ja terveydenhuollon lainsäädäntöä koskeviin määräyksiin liittyvien lakien voimaanpanosta](1447.md) `1447/1993`
+- [Asetus lääkärintoimen harjoittamisesta annetun asetuksen muuttamisesta](1448.md) `1448/1993`
+- [Asetus hammaslääkärintoimen harjoittamisesta annetun asetuksen muuttamisesta](1449.md) `1449/1993`
+- [Asetus hammasteknikon toimen harjoittamisesta annetun asetuksen muuttamisesta](1450.md) `1450/1993`
+- [Asetus sairaanhoitotoimen harjoittamisesta annetun asetuksen muuttamisesta](1451.md) `1451/1993`
+- [Asetus optikon toimen harjoittamisesta annetun asetuksen muuttamisesta](1452.md) `1452/1993`
+- [Asetus siviilipalvelusasetuksen muuttamisesta](1453.md) `1453/1993`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](1454.md) `1454/1993`
+- [Laki peruskoululain muuttamisesta](1455.md) `1455/1993`
+- [Laki ammatillisista oppilaitoksista annetun lain 31 c §:n muuttamisesta ja 31 d §:n väliaikaisesta muuttamisesta annetun lain 31 d §:n muuttamisesta](1456.md) `1456/1993`
+- [Laki steinerpedagogisista erityiskouluista annetun lain muuttamisesta](1457.md) `1457/1993`
+- [Laki ulkomailla toimivasta peruskoulua vastaavasta yksityiskoulusta annetun lain muuttamisesta](1458.md) `1458/1993`
+- [Laki Anna Tapion koulusta annetun lain muuttamisesta](1459.md) `1459/1993`
+- [Laki lastentarhanopettajaopistoista annetun lain 4 b §:n muuttamisesta](1460.md) `1460/1993`
+- [Asetus ammatillisista erityisoppilaitoksista annetun asetuksen 4 a ja 6 §:n muuttamisesta](1461.md) `1461/1993`
+- [Asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen muuttamisesta](1462.md) `1462/1993`
+- [Asetus peruskoulua korvaavasta koulusta ja yksityisestä lukiosta annetun asetuksen muuttamisesta](1463.md) `1463/1993`
+- [Asetus steinerpedagogisista erityiskouluista annetun asetuksen muuttamisesta](1464.md) `1464/1993`
+- [Asetus ulkomailla toimivasta peruskoulua vastaavasta yksityiskoulusta annetun asetuksen muuttamisesta](1465.md) `1465/1993`
+- [Asetus Anna Tapion koulusta](1466.md) `1466/1993`
+- [Laki työntekijäin eläkelain muuttamisesta](1467.md) `1467/1993`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](1468.md) `1468/1993`
+- [Laki eräiden työsuhteessa olevien taiteilijoiden ja toimittajien eläkelain muuttamisesta](1469.md) `1469/1993`
+- [Laki tapaturmavakuutuslain muuttamisesta](1470.md) `1470/1993`
+- [Laki maatalousyrittäjien sukupolvenvaihdoseläkkeestä annetun lain muuttamisesta](1471.md) `1471/1993`
+- [Asetus maatalousyrittäjien sukupolvenvaihdoseläkkeestä annetun asetuksen muuttamisesta](1472.md) `1472/1993`
+- [Asetus ansioon suhteutetun työttömyyspäivärahan perusteena olevan palkan määrittämisestä annetun asetuksen muuttamisesta](1473.md) `1473/1993`
+- [Valtioneuvoston päätös eläkkeensaajien asumistukilain mukaisista hoitomenoina hyväksyttävistä keskimääräisistä kustannuksista ja asumiskustannusten enimmäismääristä](1474.md) `1474/1993`
+- [Asetus liikunta\-asetuksen muuttamisesta](1475.md) `1475/1993`
+- [Asetus valtionosuutta saavista liikunnan koulutuskeskuksista annetun asetuksen muuttamisesta](1476.md) `1476/1993`
+- [Asetus paineastia\-asetuksen muuttamisesta](1477.md) `1477/1993`
+- [Kauppa\- ja teollisuusministeriön päätös yksinkertaisista painesäiliöistä](1478.md) `1478/1993`
+- [Kauppa\- ja teollisuusministeriön päätös kuljetettavista kaasusäiliöistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1479.md) `1479/1993`
+- [Laki pohjoismaisen sosiaaliturvasopimuksen eräiden määräysten hyväksymisestä](1480.md) `1480/1993`
+- [Asetus pohjoismaisen sosiaaliturvasopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1481.md) `1481/1993`
+- [Asetus Itävallan kanssa sosiaaliturvasta tehdyn sopimuksen lisäsopimuksen voimaansaattamisesta](1482.md) `1482/1993`
+- [Asetus ihmishengen turvallisuudesta merellä tehdyn vuoden 1974 kansainvälisen yleissopimuksen liitteen muutosten voimaansaattamisesta](1483.md) `1483/1993`
+- [Liikenneministeriön päätös Telehallintokeskuksen maksuista](1484.md) `1484/1993`
+- [Sisäasiainministeriön päätös sisäasiainministeriön maksullisista suoritteista](1485.md) `1485/1993`
+- [Sisäasiainministeriön päätös rajavartiolaitoksen suoritteiden maksullisuudesta](1486.md) `1486/1993`
+- [Asetus eräiden Euroopan talousalueesta tehtyyn sopimukseen liittyvien oikeusministeriön hallinnonalan lakien voimaanpanosta](1487.md) `1487/1993`
+- [Asetus potilasvahinkoiautakunnasta](1488.md) `1488/1993`
+- [Asetus sotasiirtolaisten yhteiskunnallisesta huollosta annetun asetuksen 7 §:n muuttamisesta](1489.md) `1489/1993`
+- [Asetus lääkeasetuksen muuttamisesta](1490.md) `1490/1993`
+- [Asetus lääkekorvauslautakunnasta](1491.md) `1491/1993`
+- [Asetus sairausvakuutusasetuksen muuttamisesta](1492.md) `1492/1993`
+- [Sosiaali\- ja terveysministeriön päätös lääkekorvauslautakunnan maksullisista suoritteista](1493.md) `1493/1993`
+- [Kauppa\- ja teollisuusministeriön päätös ydinenergian käytön valvontaan kuuluvista kauppa\- ja teollisuusministeriön maksullisista suoritteista](1494.md) `1494/1993`
+- [Maa\- ja metsätalousministeriön päätös maa\- ja metsätalousministeriön suoritteista perittävistä maksuista](1495.md) `1495/1993`
+- [Kauppa\- ja teollisuusministeriön päätös elintarvikkeiden ravintoarvomerkinnöistä](1496.md) `1496/1993`
+- [Kauppa\- ja teollisuusministeriön päätös eräistä kosmeettisten valmisteiden koostumuksen valvonnassa käytettävistä analyysimenetelmistä](1497.md) `1497/1993`
+- [Puolustusministeriön päätös puolustusministeriön hallinnonalan maksullisista suoritteista](1498.md) `1498/1993`
+- [Verohallituksen päätös vuonna 1994 sovellettavien ennakonpidätysperusteiden voimaantulosta](1499.md) `1499/1993`
+- [Valtiovarainministeriön päätös teollisuusetujen myöntämisestä](1500.md) `1500/1993`
+- [Arvonlisäverolaki](1501.md) `1501/1993`
+- [Laki tuloverolain muuttamisesta](1502.md) `1502/1993`
+- [Laki ennakkoperintälain 31 §:n muuttamisesta](1503.md) `1503/1993`
+- [Laki Euroopan talousalueesta tehdyn sopimuksen eräiden määräysten hyväksymisestä ja sopimuksen soveltamisesta](1504.md) `1504/1993`
+- [Laki Euroopan talousalueesta tehdyn sopimuksen eräiden määräysten hyväksymisestä ja sopimuksen soveltamisesta annetun lain muuttamisesta](1505.md) `1505/1993`
+- [Asetus Euroopan talousalueesta tehdyn sopimuksen ja sen tarkistamisesta tehdyn pöytäkirjan voimaansaattamisesta sekä sopimuksen eräiden määräysten hyväksymisestä ja sopimuksen soveltamisesta annetun lain ja sen muuttamisesta annetun lain voimaantulosta](1506.md) `1506/1993`
+- [Laki valvontaviranomaisen ja tuomioistuimen perustamisesta tehdyn EFTA\-valtioiden sopimuksen eräiden määräysten hyväksymisestä ja sopimuksen soveltamisesta](1507.md) `1507/1993`
+- [Laki valvontaviranomaisen ja tuomioistuimen perustamisesta tehdyn EFTA\-valtioiden sopimuksen eräiden määräysten hyväksymisestä ja sopimuksen soveltamisesta annetun lain muuttamisesta](1508.md) `1508/1993`
+- [Asetus valvontaviranomaisen ja tuomioistuimen perustamisesta tehdyn EFTA\-valtioiden sopimuksen ja sen tarkistamisesta tehdyn pöytäkirjan voimaansaattamisesta sekä sopimuksen eräiden määräysten hyväksymisestä ja sopimuksen soveltamisesta annetun lain ja sen muuttamisesta annetun lain voimaantulosta](1509.md) `1509/1993`
+- [Asetus valvontaviranomaisen ja tuomioistuimen perustamisesta tehdyn EFTA\-valtioiden sopimuksen pöytäkirjan 4 muuttamisesta tehdyn pöytäkirjan voimaansaattamisesta](1510.md) `1510/1993`
+- [Laki EFTA\-valtioiden pysyvästä komiteasta tehdyn sopimuksen eräiden määräysten hyväksymisestä](1511.md) `1511/1993`
+- [Laki EFTA\-valtioiden pysyvästä komiteasta tehdyn sopimuksen eräiden määräysten hyväksymisestä annetun lain muuttamisesta](1512.md) `1512/1993`
+- [Asetus EFTA\-valtioiden pysyvästä komiteasta tehdyn sopimuksen ja sen tarkistamisesta tehdyn pöytäkirjan voimaansaattamisesta sekä sopimuksen eräiden määräysten hyväksymisestä annetun lain ja sen muuttamisesta annetun lain voimaantulosta](1513.md) `1513/1993`
+- [Asetus EFTA\-valtioiden kansanedustuslaitosten jäsenten komiteasta tehdyn sopimuksen ja sen tarkistamisesta tehdyn pöytäkirjan voimaansaattamisesta](1514.md) `1514/1993`
+- [Asetus Euroopan vapaakauppaliiton jäsenvaltioiden ja Euroopan investointipankin välillä tehdyn yhteistyösopimuksen ja sen tarkistamisesta tehdyn pöytäkirjan voimaansaattamisesta](1515.md) `1515/1993`
+- [Asetus Euroopan talousyhteisön kanssa tietyistä maatalouden järjestelyistä sekä tiettyjen maatalouden järjestelyjen väliaikaisesta soveltamisesta kirjeenvaihtona tehtyjen sopimusten voimaansaattamisesta ja soveltamisesta sekä niiden määräysten hyväksymisestä annettujen lakien voimaantulosta annetun asetuksen 1 ja 4 §:n muuttamisesta](1516.md) `1516/1993`
+- [Asetus siirtolaisvälityksestä annetun lain kumoamisesta annetun lain voimaantulosta](1517.md) `1517/1993`
+- [Laki maataloustuotteiden markkinajärjestelmästä](1518.md) `1518/1993`
+- [Tuontimaksulaki](1519.md) `1519/1993`
+- [Laki elintarviketuotteiden valmisteverosta](1520.md) `1520/1993`
+- [Laki maataloustuotteiden hinnanerokorvauksista](1521.md) `1521/1993`
+- [Laki valmisteverotuslain muuttamisesta](1522.md) `1522/1993`
+- [Laki tullitariffilain liitteenä olevan tullitariffin muuttamisesta](1523.md) `1523/1993`
+- [Laki peltoalan perusteella suoritettavasta vientikustannusmaksusta annetun lain muuttamisesta](1524.md) `1524/1993`
+- [Asetus Metsähallituksesta](1525.md) `1525/1993`
+- [Asetus maatalouden taloudellisesta tutkimuslaitoksesta](1526.md) `1526/1993`
+- [Laki eräiden väliaikaisesti maahan tuotujen ajoneuvojen tullittomuudesta annetun lain 6 §:n muuttamisesta](1527.md) `1527/1993`
+- [Laki valtion eläkelain muuttamisesta](1528.md) `1528/1993`
+- [Laki valtion eläkelain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1529.md) `1529/1993`
+- [Laki valtion perhe\-eläkelain muuttamisesta](1530.md) `1530/1993`
+- [Laki kansanedustajain eläkelain muuttamisesta](1531.md) `1531/1993`
+- [Laki valtioneuvoston jäsenen oikeudesta eläkkeeseen ja hänen jälkeensä suoritettavasta perhe\-eläkkeestä annetun lain muuttamisesta](1532.md) `1532/1993`
+- [Asetus valtion perhe\-eläkelain muuttamisesta annetun lain 7 §:n voimaanpanosta](1533.md) `1533/1993`
+- [Asetus valtion virkamiesasetuksen muuttamisesta](1534.md) `1534/1993`
+- [Asetus valtion virkamiesasetuksen muuttamisesta](1535.md) `1535/1993`
+- [Laki työntekijäin eläkelain, lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain sekä eräiden työsuhteessa olevien taiteilijoiden ja toimittajien eläkelain mukaisen vakuutusmaksun tilapäisestä alentamisesta sekä yrittäjiltä perittävästä vakuutusmaksusta vuonna 1994](1536.md) `1536/1993`
+- [Laki työttömyysturvalain muuttamisesta](1537.md) `1537/1993`
+- [Laki työttömyysturvalain väliaikaisesta muuttamisesta](1538.md) `1538/1993`
+- [Laki lomautuksen johdosta maksettavasta ylimääräisestä työttömyysvakuutusmaksusta vuonna 1994](1539.md) `1539/1993`
+- [Laki työvoimapoliittisesta aikuiskoulutuksesta annetun lain 15 ja 18 §:n muuttamisesta](1540.md) `1540/1993`
+- [Laki työttömyysturvalain muuttamisesta](1541.md) `1541/1993`
+- [Laki työmarkkinatuesta](1542.md) `1542/1993`
+- [Laki työvoimapoliittisesta aikuiskoulutuksesta annetun lain 15 §:n muuttamisesta](1543.md) `1543/1993`
+- [Laki työntekijäin eläkelain muuttamisesta](1544.md) `1544/1993`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 1 ja 7 §:n muuttamisesta](1545.md) `1545/1993`
+- [Laki työntekijäin eläkelain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1546.md) `1546/1993`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1547.md) `1547/1993`
+- [Laki kansaneläkelain muuttamisesta](1548.md) `1548/1993`
+- [Laki kansaneläkelain muuttamisesta annetun lain voimaantulosäännöksen 5 momentin muuttamisesta](1549.md) `1549/1993`
+- [Laki perhe\-eläkelain 30 §:n muuttamisesta](1550.md) `1550/1993`
+- [Asetus vammaistuidasetuksen 4 §:n muuttamisesta](1551.md) `1551/1993`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin työeläkemaksun ja työttömyysvakuutusmaksun huomioon ottamisesta työttömyysturvalain perusteella maksettavissa päivärahoissa](1552.md) `1552/1993`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin työeläkemaksun ja työttömyysvakuutusmaksun huomioon ottamisesta tapaturmavakuutuslain perusteella maksettavissa päivärahoissa](1553.md) `1553/1993`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin työeläkemaksun ja työttömyysvakuutusmaksun huomioon ottamisesta sairausvakuutusjärjestelmän mukaisissa päivärahoissa](1554.md) `1554/1993`
+- [Valtioneuvoston päätös valtion työntekijäin terveydenhuollon ohjesäännöstä annetun valtioneuvoston päätöksen kumoamisesta](1555.md) `1555/1993`
+- [Valtioneuvoston päätös Oulujärven retkeilyalueen perustamisesta](1556.md) `1556/1993`
+- [Valtioneuvoston päätös asumistuen määräytymisperusteista](1557.md) `1557/1993`
+- [Valtiovarainministeriön päätös vuoden 1994 taidekilpailupalkintojen verovapaudesta](1558.md) `1558/1993`
+- [Laki Antellin kokoelmien ja rahavarain hallinnon ja hoidon uudelleenjärjestämisestä annetun lain 3 §:n kumoamisesta](1559.md) `1559/1993`
+- [Vuoden 1994 veroasteikkolaki](1560.md) `1560/1993`
+- [Asetus verotusasetuksen muuttamisesta](1561.md) `1561/1993`
+- [Verohallituksen päätös liikkeen\- ja ammatinharjoittajan työmatkasta aiheutuneen elantokustannusten lisäyksen vähentämisestä vuodelta 1994 toimitettavassa verotuksessa](1562.md) `1562/1993`
+- [Verohallituksen päätös kotieläinten arvon määräämisessä noudatettavista perusteista](1563.md) `1563/1993`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä annetun päätöksen muuttamisesta](1564.md) `1564/1993`
+- [Verohallituksen päätös ennakonpidätyksen toimittamisvelvollisuudesta](1565.md) `1565/1993`
+- [Laki tieliikenteen ajo\- ja lepoajoista annetun lain kumoamisesta](1566.md) `1566/1993`
+- [Laki tieliikennelain muuttamisesta](1567.md) `1567/1993`
+- [Asetus tieliikennelain muuttamisesta annetun lain ja tieliikenteen ajo\- ja lepoajoista annetun lain kumoamisesta annetun lain voimaantulosta](1568.md) `1568/1993`
+- [Asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta](1569.md) `1569/1993`
+- [Asetus ajoneuvojen käytöstä tiellä annetun asetuksen 7 §:n muuttamisesta](1570.md) `1570/1993`
+- [Asetus Euroopan talousalueesta tehdyssä sopimuksessa tarkoitetuista rakennusurakoista](1571.md) `1571/1993`
+- [Valtioneuvoston päätös rakennusurakkasopimuksissa käytettävistä indeksiehdoista annetun valtioneuvoston päätöksen2 ja 3 §:n muuttamisesta](1572.md) `1572/1993`
+- [Laki asumiseen perustuvan sosiaaliturvalainsäädännön soveltamisesta](1573.md) `1573/1993`
+- [Laki kansaneläkelain muuttamisesta](1574.md) `1574/1993`
+- [Laki perhe\-eläkelain muuttamisesta](1575.md) `1575/1993`
+- [Laki sairausvakuutuslain muuttamisesta](1576.md) `1576/1993`
+- [Laki vammaistukilain muuttamisesta](1577.md) `1577/1993`
+- [Laki lapsen hoitotuesta annetun lain 1 §:n muuttamisesta](1578.md) `1578/1993`
+- [Laki kuntoutusrahalain 2 §:n muuttamisesta](1579.md) `1579/1993`
+- [Laki lapsilisälain 1 §:n muuttamisesta](1580.md) `1580/1993`
+- [Laki äitiysavustuslain muuttamisesta](1581.md) `1581/1993`
+- [Laki työttömyysturvalain 1 §:n muuttamisesta](1582.md) `1582/1993`
+- [Asetus Euroopan talousalueesta tehtyyn sopimukseen sisältyvien sosiaaliturvaa koskevien eräiden säännösten täytäntöönpanosta](1583.md) `1583/1993`
+- [Valtioneuvoston päätös äitiysavustuksen suuruuden vahvistamisesta](1584.md) `1584/1993`
+- [Asetus tavara\-arpajaisasetuksen 9 §:n 3 momentin kumoamisesta](1585.md) `1585/1993`
+- [Asetus ulkomaalaisten yritysostoja ja kiinteistönhankintoja koskevan lainsäädännön eräiden säännösten voimaantulosta](1586.md) `1586/1993`
+- [Arava\-asetus](1587.md) `1587/1993`
+- [Asetus mustalaisväestön asunto\-olojen parantamisesta annetun asetuksen muuttamisesta](1588.md) `1588/1993`
+- [Asetus asumisoikeustalojen käyttö\- ja luovutusrajoitusten merkitsemisestä annetun asetuksen muuttamisesta](1589.md) `1589/1993`
+- [Valtioneuvoston päätös eräiden asuntolainojen ja perusparannuslainojen korosta annetun valtioneuvoston päätöksen 3 §:n muuttamisesta](1590.md) `1590/1993`
+- [Valtioneuvoston päätös asumisoikeustalojen lainojen vuosimaksun tarkistuksen alentamisesta](1591.md) `1591/1993`
+- [Valtioneuvoston päätös asuinhuoneistojen vuokrien korotusyleisohjeeksi](1592.md) `1592/1993`
+- [Valtioneuvoston päätös tasoyleisohjeeksi asuinhuoneistojen kohtuullisista vuokrista eräillä paikkakunnilla](1593.md) `1593/1993`
+- [Laki lukiolain muuttamisesta](1594.md) `1594/1993`
+- [Laki merimieseläkelain muuttamisesta](1595.md) `1595/1993`
+- [Laki kansaneläkelain muuttamisesta](1596.md) `1596/1993`
+- [Asetus kansaneläkeasetuksen muuttamisesta](1597.md) `1597/1993`
+- [Asetus sisäasiainministeriöstä](1598.md) `1598/1993`
+- [Asetus leluasetuksen muuttamisesta](1599.md) `1599/1993`
+- [Asetus eräiden tekstiilien nimityksiä koskevien Euroopan yhteisöjen neuvoston direktiivien täytäntöönpanosta](1600.md) `1600/1993`
+- [Asetus koti\- ja postimyynnistä](1601.md) `1601/1993`
+- [Asetus eräiden kuluttajansuojalain 7 luvun säännösten soveltamista koskevista poikkeuksista](1602.md) `1602/1993`
+- [Huumausaineasetus](1603.md) `1603/1993`
+- [Asetus lääkeasetuksen 8 ja 29 §:n muuttamisesta](1604.md) `1604/1993`
+- [Valtioneuvoston päätös ETA\-sopimuksessa tarkoitettujen valtion tukien ilmoittamisessa noudatettavista menettelytavoista](1605.md) `1605/1993`
+- [Puolustusministeriön päätös ilmakuvausluvan hakemisesta](1606.md) `1606/1993`
+- [Laki luottolaitostoiminnasta](1607.md) `1607/1993`
+- [Laki ulkomaisen luotto\- ja rahoituslaitoksen toiminnasta Suomessa](1608.md) `1608/1993`
+- [Laki liikepankkilain muuttamisesta](1609.md) `1609/1993`
+- [Laki säästöpankkilain muuttamisesta](1610.md) `1610/1993`
+- [Laki osuuspankkilain muuttamisesta](1611.md) `1611/1993`
+- [Laki Postipankki Oy:stä annetun lain muuttamisesta](1612.md) `1612/1993`
+- [Laki hypoteekkiyhdistyksistä annetun lain muuttamisesta](1613.md) `1613/1993`
+- [Laki ulkomaalaisten yritysostojen seurannasta annetun lain muuttamisesta](1614.md) `1614/1993`
+- [Laki markkinatuomioistuimesta annetun lain muuttamisesta](1615.md) `1615/1993`
+- [Laki rahoitustarkastuslain muuttamisesta](1616.md) `1616/1993`
+- [Asetus eräiden Euroopan talousalueesta tehtyyn sopimukseen ja sitä koskeviin määräyksiin liittyvien lakien voimaanpanosta](1617.md) `1617/1993`
+- [Asetus ennakkoperintäasetuksen 38 §:n muuttamisesta](1618.md) `1618/1993`
+- [Laki eräistä opetus\- ja kulttuuritoimen vuoden 1994 rahoitusta koskevista järjestelyistä](1619.md) `1619/1993`
+- [Laki aikuisten järjestelmällisen hammashuollon toimeenpanon siirtämisestä](1620.md) `1620/1993`
+- [Laki aikuisten järjestelmällisen hammashuollon toimeenpanon siirtämisestä annetun lain 1 §:n muuttamisesta](1621.md) `1621/1993`
+- [Asetus Euroopan talousalueen valtioiden kansalaisten tutkintotodistusten tunnustamisesta](1622.md) `1622/1993`
+- [Asetus ulkomailla suoritettujen korkeakouluopintojen tuottamasta virkakelpoisuudesta annetun asetuksen muuttamisesta](1623.md) `1623/1993`
+- [Asetus sairausvakuutusasetuksen muuttamisesta](1624.md) `1624/1993`
+- [Asetus vakuutusyhdistyksen toimintapääomaan luettavista eristä](1625.md) `1625/1993`
+- [Asetus liikennevakuutusasetuksen muuttamisesta](1626.md) `1626/1993`
+- [Asetus joka sisältää liikennevakuutuskeskuksen säännöt](1627.md) `1627/1993`
+- [Valtioneuvoston päätös eräiden eläkesäätiöiden valvontaa koskevien tehtävien siirtämisestä eläketurvakeskukselle annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](1628.md) `1628/1993`
+- [Sosiaali\- ja terveysministeriön päätös eräiden eläkekassojen valvontaa koskevien tehtävien siirtämisestä eläketurvakeskukselle annetun sosiaali\- ja terveysministeriö\. päätöksen muuttamisesta](1629.md) `1629/1993`
+- [Laki maanmittauslaitoksesta annetun lain muuttamisesta](1630.md) `1630/1993`
+- [Asetus maanmittauslaitoksesta](1631.md) `1631/1993`
+- [Asetus lähempiä määräyksiä huutokaupantoimittajan\-ammatin harjoittamisesta kaupungissa sisältävän julistuksen muuttamisesta](1632.md) `1632/1993`
+- [Asetus käytettyjen tavaroiden sekä romujen ja lumppujen kauppaliikkeistä annetun asetuksen2 ja 3 §:n muuttamisesta](1633.md) `1633/1993`
+- [Asetus kiinteistönvälittäjäasetuksen muuttamisesta](1634.md) `1634/1993`
+- [Asetus asunnonvälittäjäasetuksen 3 §:n muuttamisesta](1635.md) `1635/1993`
+- [Asetus matkatoimistoasetuksen muuttamisesta](1636.md) `1636/1993`
+- [Asetus liikevaihtoverottoman matkustajamyynnin järjestämisestä annetun asetuksen muuttamisesta](1637.md) `1637/1993`
+- [Opetusministeriön päätös ulkomailla toimivien peruskoulua vastaavien yksityiskoulujen yksikköhintojen määräämisperusteista](1638.md) `1638/1993`
+- [Kauppa\- ja teollisuusministeriön päätös kilpailuviraston maksullisista suoritteista](1639.md) `1639/1993`
+- [Opetusministeriön päätös Venäjän ja Itä\-Euroopan instituutin maksullisista suoritteista](1640.md) `1640/1993`
+- [Opetusministeriön päätös kansainvälisen henkilövaihdon keskuksen maksullisista suoritteista](1641.md) `1641/1993`
+- [Sosiaali\- ja terveysministeriön päätös uusien aineiden ilmoitusmenettelystä](1642.md) `1642/1993`
+- [Sosiaali\- ja terveysministeriön päätös kemikaalilain nojalla sosiaali\- ja terveysministeriölle perittävistä maksuista](1643.md) `1643/1993`
+- [Laki sairausvakuutuslain muuttamisesta](1644.md) `1644/1993`
+- [Asetus eräiden Euroopan talousalueesta tehdyn sopimuksen vakuutus\- ja sosiaaliturvalainsäädäntöä koskeviin määräyksiin liittyvien lakien voi maanpa nosta](1645.md) `1645/1993`
+- [Asetus vakuutusyhtiön toimintapääomaan luettavista eristä](1646.md) `1646/1993`
+- [Asetus vakuutuskannan luovuttamisesta ja vastaanottamisesta](1647.md) `1647/1993`
+- [Asetus vakuutusyhtiöasetuksen 1 a §:n kumoamisesta](1648.md) `1648/1993`
+- [Asetus palosuojelumaksusta annetun lain toimeenpanosta annetun asetuksen muuttamisesta](1649.md) `1649/1993`
+- [Sosiaali\- ja terveysministeriön päätös suomalaisten vakuutusyhtiöiden ja vakuutusyhdistysten sekä Suomessa toimiluvan saaneiden ulkomaisten vakuutusyhtiöiden vakuutusluokista](1650.md) `1650/1993`
+- [Sosiaali\- ja terveysministeriön päätös vakuutustarkastuksen maksullisista suoritteista](1651.md) `1651/1993`
+- [Sosiaali\- ja terveysministeriön päätös vakuutuksenvälitystoiminnan valvontamaksusta](1652.md) `1652/1993`
+- [Sosiaali\- ja terveysministeriön päätös sosiaali\- ja terveysministeriön maksullisista suoritteista](1653.md) `1653/1993`
+- [Sosiaali\- ja terveysministeriön päätös sosiaali\- ja terveysalan tutkimus\- ja kehittämiskeskuksen maksullisista suoritteista](1654.md) `1654/1993`
+- [Laki yrittäjien eläkelain 10 §:n muuttamisesta](1655.md) `1655/1993`
+- [Laki maatalousyrittäjien eläkelain 13 §:n muuttamisesta](1656.md) `1656/1993`
+- [Asetus työntekijäin eläkeasetuksen muuttamisesta](1657.md) `1657/1993`
+- [Asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkeasetuksen muuttamisesta](1658.md) `1658/1993`
+- [Asetus eräiden työsuhteessa olevien taiteilijoiden ja toimittajien eläkeasetuksen 2 §:n muuttamisesta](1659.md) `1659/1993`
+- [Asetus yrittäjien eläkeasetuksen muuttamisesta](1660.md) `1660/1993`
+- [Asetus maatalousyrittäjien eläkeasetuksen muuttamisesta](1661.md) `1661/1993`
+- [Valtioneuvoston päätös pakolaisten ja turvapaikanhakijoiden vastaanotosta annetun valtioneuvoston päätöksen 6 §:n muuttamisesta](1662.md) `1662/1993`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkelain vähimmäisehtojen mukaisen vakuutuksen sekä lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain ja eräiden työsuhteessa olevien taiteilijoiden ja toimittajien eläkelain mukaisesta vakuutusmaksusta vuonna 1994](1663.md) `1663/1993`
+- [Laki ammatillisten oppilaitosten oppilaiden opintososiaalisista eduista annetun lain 2 ja 4 §:n muuttamisesta](1664.md) `1664/1993`
+- [Asetus ammatillisten oppilaitosten oppilaiden opintososiaalisista eduista annetun asetuksen1 §:n muuttamisesta](1665.md) `1665/1993`
+- [Laki kansaneläkelain väliaikaisesta muuttamisesta](1666.md) `1666/1993`
+- [Laki vuodelta 1994 suoritettavasta sairausvakuutusmaksusta](1667.md) `1667/1993`
+- [Laki eläketuloa saavan henkilön korotetusta sosiaaliturvamaksusta](1668.md) `1668/1993`
+- [Laki työnantajan lapsilisämaksun perimättä jättämisestä vuodelta 1994](1669.md) `1669/1993`
+- [Asetus työnantajan sosiaaliturvamaksusta annetun asetuksen 1 §:n muuttamisesta](1670.md) `1670/1993`
+- [Asetus terveydenhuollon valtakunnallisista henkilörekistereistä annetun asetuksen 1 ja 2 §:n muuttamisesta](1671.md) `1671/1993`
+- [Valtioneuvoston päätös maa\- ja metsätalousministeriön hallinnonalan eräiden virkojen perustamisesta ja lakkauttamisesta](1672.md) `1672/1993`
+- [Liikenneministeriön päätös liikenneministeriön maksullisista suoritteista](1673.md) `1673/1993`
+- [Opetusministeriön päätös eräiden valtion oppilaitosten maksullisista suoritteista](1674.md) `1674/1993`
+- [Laki evankelis\-luterilaisen kirkon eläkelain muuttamisesta](1675.md) `1675/1993`
+- [Laki evankelis\-luterilaisen kirkon eläkelain 2 ja 3 §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1676.md) `1676/1993`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](1677.md) `1677/1993`
+- [Opetusministeriön päätös tuomiokapitulien suoritteiden maksullisuudesta](1678.md) `1678/1993`
+- [Laki valtioneuvoston oikeudesta luovuttaa Karttakeskuksen hallinnassa oleva omaisuus perustettavalle valtionyhtiölle annetun lain 4 §:n muuttamisesta](1679.md) `1679/1993`
+- [Asetus työmarkkinatuesta](1680.md) `1680/1993`
+- [Asetus työvoimatoimikunnasta](1681.md) `1681/1993`
+- [Asetus työttömyysturvan saamisen työvoimapoliittisista edellytyksistä annetun asetuksen muuttamisesta](1682.md) `1682/1993`
+- [Valtioneuvoston päätös lääketaksasta annetun valtioneuvoston päätöksen muuttamisesta](1683.md) `1683/1993`
+- [Sosiaali\- ja terveysministeriön päätös lääkelaitoksen maksullisista suoritteista](1684.md) `1684/1993`
+- [Maa\- ja metsätalousministeriön päätös ravi\- ja ratsastusurheiluhankkeisiin annettavien korkotukilainojen yleisistä ehdoista](1685.md) `1685/1993`
+- [Valtioneuvoston päätös kehitysalueesta, sen tukialueista ja rakennemuutosalueesta](1686.md) `1686/1993`
+- [Valtioneuvoston päätös saaristokunnista ja muiden kuntien saaristo\-osista, joihin sovelletaan saaristokuntaa koskevia säännöksiä](1687.md) `1687/1993`
+- [Valtioneuvoston päätös saaristokuljetusten tukemisesta annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](1688.md) `1688/1993`
+- [Valtioneuvoston päätös yritystuesta](1689.md) `1689/1993`
+- [Sisäasiainministeriön päätös poliisin suoritteiden maksullisuudesta](1690.md) `1690/1993`
+- [Valtioneuvoston päätös eräistä maahanmuuttajien opetuksen erityisjärjestelyistä ja ylimääräisenvaltionavustuksen myöntämisestä](1691.md) `1691/1993`
+- [Opetusministeriön päätös ylimääräisen valtionavustuksen myöntämisestä maahanmuuttajientukiopetukseen peruskoulussa ja lukiossa](1692.md) `1692/1993`
+- [Opetusministeriön päätös ylimääräisen valtionavustuksen myöntämisestä romanien ja vieraskielisten oppilaiden äidinkielen opetukseen sekä ulkomailta muuttaneiden suomalaisten ulkomailla hankkiman kielitaidon ylläpitämiseksi tähtäävään opetukseen peruskoulussa ja lukiossa](1693.md) `1693/1993`
+- [Kauppa\- ja teollisuusministeriön päätös sähkölaitteiden turvallisuudesta](1694.md) `1694/1993`
+- [Kauppa\- ja teollisuusministeriön päätös sähkölaitteiden valvonnasta ja eräiltä sähkölaitteilta vaadittavasta hyväksynnästä](1695.md) `1695/1993`
+- [Kauppa\- ja teollisuusministeriön päätös sähkölaitteiden ja \-laitteistojen sähkömagneettisesta yhteensopivuudesta](1696.md) `1696/1993`
+- [Kauppa\- ja teollisuusministeriön päätös lääketieteessä ja eläinlääketieteessä käytettävien sähkökäyttöisten lääkintälaitteiden sähköturvallisuusvaatimuksista](1697.md) `1697/1993`
+- [Kauppa\- ja teollisuusministeriön päätös räjähdysvaarallisissa tiloissa käytettävien sähkölaitteiden sähköturvallisuusvaatimuksista](1698.md) `1698/1993`
+- [Sosiaali\- ja terveysministeriön päätös vuodelta 1994 perittävästä palkansaajan työttömyysvakuutusmaksusta annetun lain soveltamisesta](1699.md) `1699/1993`
+- [Tullihallituksen päätös Euroopan talousalueesta tehdyn sopimuksen sopimuspuolten sekä Suomen tasavallan ja Euroopan yhteisöjen välisessä kaupassa sovellettavien alkuperäsääntöjen muutokset](1700.md) `1700/1993`
+- [Tullihallituksen päätös Euroopan vapaakauppaliiton jäsenvaltioiden välisessä kaupassa sovellettavien alkuperäsääntöjen muutoksista](1701.md) `1701/1993`
+- [Opetusministeriön päätös Suomenlinnan hoitokunnan suoritteiden maksullisuudesta](1702.md) `1702/1993`
+- [Opetusministeriön päätös museoviraston maksullisista suoritteista](1703.md) `1703/1993`
+- [Opetusministeriön päätös valtion taidemuseon maksullisista suoritteista](1704.md) `1704/1993`
+- [Opetusministeriön päätös opetusministeriön suoritteiden maksullisuudesta](1705.md) `1705/1993`
+- [Opetusministeriön päätös Suomen elokuva\-arkiston maksullisista suoritteista](1706.md) `1706/1993`
+- [Opetusministeriön päätös eräistä arkkitehdin ja rakennusarkkitehdin kelpoisuuden tuottavista tutkinnoista](1707.md) `1707/1993`
+- [Sosiaali\- ja terveysministeriön päätös huumausaineita koskevasta kirjanpito\- ja tietojenantovelvollisuudesta sekä huumausaineiden käsittelystä ja hävittämisestä](1708.md) `1708/1993`
+- [Sosiaali\- ja terveysministeriön päätös huumausaineista ja huumausaineen valmistuksessa käytettävistä aineista](1709.md) `1709/1993`

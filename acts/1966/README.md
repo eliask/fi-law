@@ -1,0 +1,58 @@
+# 1966 Statutes
+
+## Statutes
+
+- [Laki talousneuvostosta](2.md) `2/1966`
+- [Laki sairausvakuutuslain muuttamisesta](5.md) `5/1966`
+- [Asetus talousneuvostosta](19.md) `19/1966`
+- [Asetus sairausvakuutusasetuksen muuttamisesta](30.md) `30/1966`
+- [Laki rikoslain voimaanpanemisesta annetun asetuksen muuttamisesta\.](85.md) `85/1966`
+- [Laki osamaksukaupasta](91.md) `91/1966`
+- [Laki uuden 37 a §:n lisäämisestä valtiopäiväjärjestykseen](117.md) `117/1966`
+- [Laki Suomen Pankin ohjesäännön muuttamisesta](174.md) `174/1966`
+- [Laki painovapauslain 11 §:n muuttamisesta\.](175.md) `175/1966`
+- [Laki oikeudenkäymiskaaren 17 luvun muuttamisesta\.](176.md) `176/1966`
+- [Laki rikoslain voimaanpanemisesta annetun asetuksen muuttamisesta\.](197.md) `197/1966`
+- [Laki leimaverolain 12 §:n muuttamisesta\.](198.md) `198/1966`
+- [Laki oikeudesta yleisiin vesialueisiin](204.md) `204/1966`
+- [Laki oikeudesta yleiseen vesialueeseen Ahvenanmaan maakunnassa](205.md) `205/1966`
+- [Laki tapaturmavakuutuslain muuttamisesta\.](208.md) `208/1966`
+- [Laki asevelvollisuuslain muuttamisesta](221.md) `221/1966`
+- [Laki leimaverolain 33 §:n väliaikaisesta muuttamisesta\.](230.md) `230/1966`
+- [Laki tiedoksiannosta hallintoasioissa](232.md) `232/1966`
+- [Laki asiakirjain lähettämisestä annetun lain muuttamisesta](233.md) `233/1966`
+- [Laki sotilasvammalain soveltamisalan laajentamisessa annetun lain muuttamisesta](249.md) `249/1966`
+- [Laki rakennuslain muuttamisesta](250.md) `250/1966`
+- [Maanvuokralaki](258.md) `258/1966`
+- [Valtion eläkelaki](280.md) `280/1966`
+- [Valtion eläkelain voimaanpanolaki](281.md) `281/1966`
+- [Laki Suomen Pankin ohjesäännön muuttamisesta\.](294.md) `294/1966`
+- [Evankelis\-luterilaisen kirkon eläkelaki](298.md) `298/1966`
+- [Asetus asevelvollisuuslain soveltamisesta annetun asetuksen muuttamisesta](309.md) `309/1966`
+- [Laki shekkilain muuttamisesta\.](312.md) `312/1966`
+- [Laki vekselilain muuttamisesta\.](313.md) `313/1966`
+- [Laki velkakirjalain muuttamisesta\.](314.md) `314/1966`
+- [Laki Suomen aluevesien rajoista annetun lain muuttamisesta](332.md) `332/1966`
+- [Laki säädettyjen määräaikain laskemisesta annetun lain muuttamisesta](358.md) `358/1966`
+- [Laki kalastuslain muuttamisesta\.](409.md) `409/1966`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain muuttamisesta\.](442.md) `442/1966`
+- [Muutos Eduskunnan pankkivaltuusmiesten johtosääntöön\.](475.md) `475/1966`
+- [Valtioneuvoston päätös valtionvastuksia koskevien yleismääräysten muuttamisesta](479.md) `479/1966`
+- [Laki Suomen Pankin ohjesäännön 6 §:n väliaikaisesta muuttamisesta\.](560.md) `560/1966`
+- [Valtion eläkeasetus](611.md) `611/1966`
+- [Asetus valtion eläkelain voimaanpanolain täytäntöönpanosta ja soveltamisesta](612.md) `612/1966`
+- [Evankelis\-luterilaisen kirkon eläkeasetus](618.md) `618/1966`
+- [Laki työntekijäin eläkelain muuttamisesta](639.md) `639/1966`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](640.md) `640/1966`
+- [Asetus työntekijäin eläkeasetuksen muuttamisesta](641.md) `641/1966`
+- [Asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkeasetuksen muuttamisesta](642.md) `642/1966`
+- [Laki oikeudenkäymiskaaren 10 luvun 27 §:n kumoamisuta\.](645.md) `645/1966`
+- [Laki sairausvakuutuslain muuttamisesta](646.md) `646/1966`
+- [Laki kansaneläkelain muuttamisesta](647.md) `647/1966`
+- [Laki maatilatalouden kehittämisrahastosta](657.md) `657/1966`
+- [Asetus tiedoksiannosta hallintoasioissa](662.md) `662/1966`
+- [Asetus rakennusasetuksen muuttamisesta](673.md) `673/1966`
+- [Laki moottoriajoneuvoverosta](722.md) `722/1966`
+- [Laki tapaturmavakuutuslain muuttamisesta](738.md) `738/1966`
+- [Laki merimieseläkelain muuttamisesta](739.md) `739/1966`
+- [Asetus sairausvakuutusasetuksen muuttamisesta](741.md) `741/1966`

@@ -1,0 +1,109 @@
+# 1977 Statutes
+
+## Statutes
+
+- [Laki oikeudenkäynnistä huoneenvuokra\-asioissa annetun lain muuttamisesta](2.md) `2/1977`
+- [Laki maksuttomasta oikeudenkäynnistä annetun lain 6 ja 10 §:n muuttamisesta](3.md) `3/1977`
+- [Laki autokiinnityslain 1 ja 22 §:n muuttamisesta](5.md) `5/1977`
+- [Laki luopumiseläkelain muuttamisesta](18.md) `18/1977`
+- [Valtioneuvoston päätös ylimääräisistä sanomalehtimieseläkkeistä\.](37.md) `37/1977`
+- [Laki vesilain 10 luvun 26 §:n muuttamisesta](44.md) `44/1977`
+- [Ilmakuljetussopimuslaki\.](45.md) `45/1977`
+- [Asetus ilmakuljetussopimuslain voimaanpanosta](46.md) `46/1977`
+- [Asetus luopumiseläkeasetuksen muuttamisesta](47.md) `47/1977`
+- [Laki liiketoiminnan perusteella suoritettavista suhdannetalletuksista](53.md) `53/1977`
+- [Laki eräistä talonrakennustöistä suoritettavasta investointiverosta](54.md) `54/1977`
+- [Laki kuntajaosta](73.md) `73/1977`
+- [Asetus maatalousyrittäjien eläkeasetuksen muuttamisesta](85.md) `85/1977`
+- [Laki radiolaitteista annetun lain 4 §:n muuttamisesta](88.md) `88/1977`
+- [Laki leimaverolain 12 §:n muuttamisesta](89.md) `89/1977`
+- [Asetus valtiopäivien avajaisten ja päättäjäisten juhlamenoista](90.md) `90/1977`
+- [Teräaselaki](108.md) `108/1977`
+- [Rintamasotilaseläkelaki](119.md) `119/1977`
+- [Laki lapsen elatuksen turvaamisesta](122.md) `122/1977`
+- [Laki atomivastuulain 30 §:n muuttamisesta](128.md) `128/1977`
+- [Asetus jakoasetuksen muuttamisesta](138.md) `138/1977`
+- [Asetus kiinnitysrekisteristä annetun asetuksen muuttamisesta](140.md) `140/1977`
+- [Asetus kaavoitus\- ja rakennusneuvostosta\.](148.md) `148/1977`
+- [Asetus sairausvakuutusasetuksen 4 §:n muuttamisesta](159.md) `159/1977`
+- [Asetus lapsen elatuksen turvaamisesta](182.md) `182/1977`
+- [Laki leimaverolain 30 §:n muuttamisesta\.](189.md) `189/1977`
+- [Laki pakkohuutokaupalla myytävien kiinteistöjen lunastamisesta valtiolle annetun lain 7 §:n muuttamisesta\.](190.md) `190/1977`
+- [Asetus työvoima\-avustajista](209.md) `209/1977`
+- [Asetus toimenpiteistä tupakoinnin vähentämiseksi](225.md) `225/1977`
+- [Asetus eräiden yleisten alueiden rekisterissä olevien alueiden järjestelystä\.](259.md) `259/1977`
+- [Asetus vapauttamisesta asevelvollisuuden suorittamisesta eräissä tapauksissa annetun asetuksen 2 §:n muuttamisesta](269.md) `269/1977`
+- [Rintamasotilaseläkeasetus](271.md) `271/1977`
+- [Asetus jalometallituotteista](292.md) `292/1977`
+- [Asetus valtion virkamiesten vuosilomasta annetun asetuksen muuttamisesta](306.md) `306/1977`
+- [Asetus Suomalais\-venäläisestä koulusta](314.md) `314/1977`
+- [Laki opettajankoulutuslain muuttamisesta](318.md) `318/1977`
+- [Laki ortodoksisesta kirkkokunnasta annetun lain muuttamisesta](351.md) `351/1977`
+- [Laki evankelis\-luterilaisen kirkon perhe\-eläkelain 12 §:n muuttamisesta](353.md) `353/1977`
+- [Asetus työntekijäin eläkeasetuksen 5 §:n kumoamisesta](358.md) `358/1977`
+- [Asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkeasetuksen 2 §:n kumoamisesta](359.md) `359/1977`
+- [Laki moottoriajoneuvoverosta annetun lain 3 §:n 1 momentin ja 34 §:n 2 momentin muuttamisesta](406.md) `406/1977`
+- [Teräaseasetus](409.md) `409/1977`
+- [Laki pellon käytön rajoittamisesta annetun lain muuttamisesta](421.md) `421/1977`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain muuttamisesta](429.md) `429/1977`
+- [Laki sotilasvammalain 43 a §:n muuttamisesta\.](448.md) `448/1977`
+- [Laki edustajanpalkkiosta annetun lain 1 §:n muuttamisesta](464.md) `464/1977`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain 3 §:n muuttamisesta](466.md) `466/1977`
+- [Asetus verojen ja maksujen perimisestä ulosottotoimin annetun asetuksen 17 §:n muuttamisesta](476.md) `476/1977`
+- [Laki asumistukilain muuttamisesta](484.md) `484/1977`
+- [Laki Suomen Hallitusmuodon 23 §:n muuttamisesta\.](490.md) `490/1977`
+- [Laki valtion eläkelain 9 a §:n muuttamisesta](498.md) `498/1977`
+- [Laki liikennevakuutuslain 15 §:n muuttamisesta](499.md) `499/1977`
+- [Asetus liikennevakuutusasetuksen muuttamisesta](500.md) `500/1977`
+- [Laki verotuslain muuttamisesta](511.md) `511/1977`
+- [Laki leimaverolain muuttamisesta](512.md) `512/1977`
+- [Laki leimaverolain väliaikaisesta muuttamisesta annetun lain muuttamisesta\.](513.md) `513/1977`
+- [Laki pakkohuutokaupalla myytävien kiinteistöjen lunastamisesta valtiolle annetun lain muuttamisesta\.](514.md) `514/1977`
+- [Laki kehitysvammaisten erityishuollosta](519.md) `519/1977`
+- [Laki apteekkimaksusta annetun lain muuttamisesta\.](526.md) `526/1977`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain muuttamisesta](579.md) `579/1977`
+- [Laki rakennuslain muuttamisesta](580.md) `580/1977`
+- [Laki eräistä naapuruusuhteista annetun lain 18 ja 19 §:n muuttamisesta\.](581.md) `581/1977`
+- [Laki yksityisoikeudellista vaatimusta koskevien pohjoismaisten tuomioiden tunnustamisesta ja täytäntöönpanosta](588.md) `588/1977`
+- [Laki velvollisuudesta saapua toisen pohjoismaan tuomioistuimeen eräissä tapauksissa annetun lain 12 §:n muuttamisesta](591.md) `591/1977`
+- [Laki sakkorangaistuksen sekä eräiden muiden rikosoikeudellisten seuraamusten ja valtiolle maksettaviksi tuomittujen korvausten täytäntöönpanosta ulosottotoimin annetun lain muuttamisesta](592.md) `592/1977`
+- [Laki sakkorangaistuksen sekä eräiden muiden rikosoikeudellisten seuraamusten ja valtiolle maksettavaksi tuomittujen korvausten täytäntöönpanosta ulosottotoimin annetun lain muuttamisesta](596.md) `596/1977`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta](603.md) `603/1977`
+- [Laki rakennuslain muuttamisesta](604.md) `604/1977`
+- [Etuostolaki](608.md) `608/1977`
+- [Laki rakennuslain muuttamisesta](609.md) `609/1977`
+- [Asetus korkeimmasta hallinto\-oikeudesta](702.md) `702/1977`
+- [Laki yksityisistä teistä annetun lain muuttamisesta](728.md) `728/1977`
+- [Asetus radiovastuuasetuksen 5 §:n muuttamisesta](730.md) `730/1977`
+- [Asetus eräitä poikkeuksia yleisten asiakirjain julkisuudesta sisältävän asetuksen 1 §:n muuttamisesta](731.md) `731/1977`
+- [Laki leimaverolain muuttamisesta](862.md) `862/1977`
+- [Laki lapsen elatuksen turvaamisesta annetun lain muuttamisesta](863.md) `863/1977`
+- [Laki valtioneuvoston jäsenen oikeudesta eläkkeeseen ja hänen jälkeensä suoritettavasta perhe\-eläkkeestä](870.md) `870/1977`
+- [Laki kasvinjalostustoiminnan edistämisestä](896.md) `896/1977`
+- [Asetus yksityisluontoisten arkistojen valtionavusta](921.md) `921/1977`
+- [Laki konkurssisäännön väliakaisesta muuttamisesta annetun lain voimassaoloajasta\.](933.md) `933/1977`
+- [Asetus sakkorangaistuksen täytäntöönpanosta annetun asetuksen muuttamisesta](936.md) `936/1977`
+- [Asetus yksityisoikeudellista vaatimusta koskevien pohjoismaisten tuomioiden täytäntöönpanosta](938.md) `938/1977`
+- [Laki kotitaloustyöntekijän työsuhteesta](951.md) `951/1977`
+- [Laki julkisesta notaarista annetun lain 1 ja 2 §:n muuttamisesta](956.md) `956/1977`
+- [Laki avioliittolain 13 §:n muuttamisesta\.](957.md) `957/1977`
+- [Laki painovapauslain 7 §:n muuttamisesta\.](959.md) `959/1977`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain muuttamisesta\.](961.md) `961/1977`
+- [Muutoksia eduskunnan oikeusasiamiehen johtosääntöön](972.md) `972/1977`
+- [Laki yleisistä vesi\- ja viemärilaitoksista](982.md) `982/1977`
+- [Laki rakennuslain muuttamisesta](983.md) `983/1977`
+- [Asetus kehitysvammaisten erityishuollosta](988.md) `988/1977`
+- [Asetus yksityisistä teistä annetun asetuksen muuttamisesta](998.md) `998/1977`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](1001.md) `1001/1977`
+- [Laki verotuslain muuttamisesta](1002.md) `1002/1977`
+- [Laki yksityisluontoisten arkistojen valtionavusta annetun lain muuttamisesta](1032.md) `1032/1977`
+- [Asetus vankeusrangaistuksen täytäntöönpanosta annetun asetuksen 14 §:n muuttamisesta](1035.md) `1035/1977`
+- [Asetus oikeudenkäynnistä huoneenvuokra\-asioissa annetun asetuksen 1 §:n muuttamisesta](1037.md) `1037/1977`
+- [Laki moottoriajoneuvoverosta annetun lain muuttamisesta](1069.md) `1069/1977`
+- [Asetus valtion eläkeasetuksen 8 §:n muuttamisesta](1073.md) `1073/1977`
+- [Asetus valtion perhe\-eläkeasetuksen 3 §:n muuttamisesta](1074.md) `1074/1977`
+- [Asetus rakennusasetuksen muuttamisesta](1080.md) `1080/1977`
+- [Laki sairausvakuutuslain muuttamisesta](1086.md) `1086/1977`
+- [Laki sairausvakuutuslain 35 §:n muuttamisesta](1088.md) `1088/1977`
+- [Laki opettajankoulutuslain 15 §:n muuttamisesta](1100.md) `1100/1977`
+- [Laki Suomen kalastusvyöhykkeestä annetun lain 1 §:n muuttamisesta](1101.md) `1101/1977`

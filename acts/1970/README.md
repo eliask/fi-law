@@ -1,0 +1,75 @@
+# 1970 Statutes
+
+## Statutes
+
+- [Laki valtioneuvoston ministeriöiden lukumäärästä ja yleisestä toimialasta annetun lain muuttamisesta](16.md) `16/1970`
+- [Laki pellon käytön rajoittamisesta annetun lain muuttamisesta](19.md) `19/1970`
+- [Maatalouden työaikalaki\.](31.md) `31/1970`
+- [Laki yleisistä teistä annetun lain muuttamisesta](32.md) `32/1970`
+- [Laki Pohjoismaiden neuvoston Suomen valtuuskunnasta annetun lain muuttamisesta](89.md) `89/1970`
+- [Valtioneuvoston päätös tapaturmavakuutuslaissa säädettyjen markkamäärien korottamisesta](131.md) `131/1970`
+- [Asetus työntekijäin eläkeasetuksen muuttamisesta](138.md) `138/1970`
+- [Laki leimaverolain 12 §:n muuttamisesta\.](148.md) `148/1970`
+- [Asetus ortodoksisesta kirkkokunnasta\.](179.md) `179/1970`
+- [Laki tieliikenteen turvaamisesta liikennemerkein eräissä tapauksissa](184.md) `184/1970`
+- [Väestökirja\-asetus](198.md) `198/1970`
+- [Laki puolustuslaitoksen virkamiesten työajasta](218.md) `218/1970`
+- [Laki raskauden keskeyttämisestä](239.md) `239/1970`
+- [Laki pysäköintivirhemaksusta](248.md) `248/1970`
+- [Muutos Eduskunnan pankkivaltuusmiesten johtosääntöön\.](249.md) `249/1970`
+- [Evankelis\-luterilaisen kirkon perhe\-eläkelaki](258.md) `258/1970`
+- [Arpajaisverolaki\.](259.md) `259/1970`
+- [Kastroimislaki](282.md) `282/1970`
+- [Steriloimislaki](283.md) `283/1970`
+- [Talonmiesten työaikalaki](284.md) `284/1970`
+- [Työsopimuslaki](320.md) `320/1970`
+- [Laki eräiden asioiden ratkaisemisesta oikeusministeriön istunnossa](324.md) `324/1970`
+- [Asetus raskauden keskeyttämisestä](359.md) `359/1970`
+- [Kastroimisasetus](361.md) `361/1970`
+- [Laki rikoslain voimaanpanemisesta annetun asetuksen 16 §:n 3 momentin kumoamisesta\.](368.md) `368/1970`
+- [Asetus talousneuvostosta annetun asetuksen muuttamisesta](387.md) `387/1970`
+- [Laki vesilain muuttamisesta](427.md) `427/1970`
+- [Asetus vesiasetuksen muuttamisesta](428.md) `428/1970`
+- [Laki valiopäiväjärjestyksen muuttamisesta](454.md) `454/1970`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta](456.md) `456/1970`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden pohjoismaiden välillä annetun lain muuttamisesta](457.md) `457/1970`
+- [Laki oikeudenkäymiskaaren muuttamisesta\.](459.md) `459/1970`
+- [Laki konkurssisäännön 111 §:n muuttamisesta\.](460.md) `460/1970`
+- [Laki todistelusta oikeuden valvomista varten ulkomaalla annetun lain 3 §:n muuttamisesta](462.md) `462/1970`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain muuttamisesta](467.md) `467/1970`
+- [Laki yrittäjien eläkelain muuttamisesta](468.md) `468/1970`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](469.md) `469/1970`
+- [Laki sairausvakuutuslain muuttamisesta](499.md) `499/1970`
+- [Asetus evankelisluterilaisen kirkon eläkeasetuksen muuttamisesta](519.md) `519/1970`
+- [Laki valtioneuvoston ministeriöiden lukumäärästä ja yleisestä toimialasta annetun lain muuttamisesta](521.md) `521/1970`
+- [Laki valtion eläkelain muuttamisesta](527.md) `527/1970`
+- [Laki valtion eläkelain voimaanpanolain muuttamisesta](528.md) `528/1970`
+- [Laki valtion perhe\-eläkelain muuttamisesta](529.md) `529/1970`
+- [Asetus pysäköintivirhemaksusta](545.md) `545/1970`
+- [Laki tavaramerkkilain 14 §:n muuttamisesta](552.md) `552/1970`
+- [Asetus sairausvakuutusasetuksen muuttamisesta](576.md) `576/1970`
+- [Laki valtioneuvoston ministeriöiden lukumäärästä ja yleisestä toimialasta annetun lain muuttamisesta](594.md) `594/1970`
+- [Laki avaruuslentäjien pelastamisesta ja palauttamisesta sekä avaruusesineiden palauttamisesta](616.md) `616/1970`
+- [Laki tapaturmavakuutuslaissa säädettyjen markkamäärien korottamisesta annetun lain voimassaoloajan pitentämisestä\.](627.md) `627/1970`
+- [Laki hallitusmuodon 65 ja 66 §:n muuttamisesta\.](662.md) `662/1970`
+- [Laki valtiopäiväjärjestyksen muuttamisesta\.](663.md) `663/1970`
+- [Valtion virkaehtosopimuslaki](664.md) `664/1970`
+- [Laki edustajanpalkkiosta annetun lain 4 §:n muuttamisesta\.](665.md) `665/1970`
+- [Laki työaikalain 19 a §:n muuttamisesta\.](666.md) `666/1970`
+- [Laki työriitojen sovittelusta annetun lain muuttamisesta](668.md) `668/1970`
+- [Kunnallinen virkaehtosopimuslaki](669.md) `669/1970`
+- [Laki kunnallisista työehtosopimuksista](670.md) `670/1970`
+- [Laki kunnallisten viranhaltijain ja työntekijän eläkelain muuttamisesta](675.md) `675/1970`
+- [Laki sairausvakuutuslain muuttamisesta](742.md) `742/1970`
+- [Laki huoltoa tai hoitoa koskevan päätöksen täytäntöönpanoa varten tapahtuvasta luovuttamisesta Islantiin, Norjaan, Ruotsiin tai Tanskaan](761.md) `761/1970`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden pohjoismaiden välillä annetun lain 4 §:n muuttamisesta](762.md) `762/1970`
+- [Laki merimieseläkelain muuttamisesta](768.md) `768/1970`
+- [Laki Suomen Pankin ohjesäännön muuttamisesta\.](773.md) `773/1970`
+- [Asetus sairausvakuutusasetuksen muuttamisesta](788.md) `788/1970`
+- [Asetus syntymän ja kuoleman rekisteröinnistä](824.md) `824/1970`
+- [Laki oikeudenkäymiskaaren 8 luvun 2 §:n 5 kohdan kumoamisesta\.](829.md) `829/1970`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](830.md) `830/1970`
+- [Laki maatilatalouden tuloverolain muuttamisesta](847.md) `847/1970`
+- [Laki leimaverolain muuttamisesta](854.md) `854/1970`
+- [Laki leimaverolain muuttamisesta](860.md) `860/1970`
+- [Asetus uskonnonvapauslain täytäntäänpanosta annetun asetuksen muuttamisesta](915.md) `915/1970`

@@ -1,0 +1,160 @@
+# 1986 Statutes
+
+## Statutes
+
+- [Laki eräiden sopimuspalkkaisten virkojen täyttämisestä annetun lain 2 §:n muuttamisesta](8.md) `8/1986`
+- [Laki veronkantolain 18 a §:n muuttamisesta](13.md) `13/1986`
+- [Laki valtioneuvoston ministeriöiden lukumäärästä ja yleisestä toimialasta annetun lain 3 §:n muuttamisesta](23.md) `23/1986`
+- [Laki kuulovammaisten ja näkövammaisten kouluista annetun lain muuttamisesta](36.md) `36/1986`
+- [Päihdehuoltolaki](41.md) `41/1986`
+- [Laki tekijänoikeuslain muuttamisesta](54.md) `54/1986`
+- [Laki kuntien ympäristönsuojelun hallinnosta](64.md) `64/1986`
+- [Laki ilmansuojelulain muuttamisesta](66.md) `66/1986`
+- [Laki vesilain 20 luvun 1 §:n muuttamisesta](67.md) `67/1986`
+- [Laki tapaturmavakuutuslain 3 §:n muuttamisesta](86.md) `86/1986`
+- [Asetus vankeinhoitolaitoksesta](134.md) `134/1986`
+- [Asetus vankeusrangaistuksen täytäntöönpanosta annetun asetuksen 17 §:n muuttamisesta](139.md) `139/1986`
+- [Asetus ortodoksisesta kirkkokunnasta annetun asetuksen 29 §:n muuttamisesta](141.md) `141/1986`
+- [Asetus asevelvollisuuslain soveltamisesta annetun asetuksen 13 §:n muuttamisesta](142.md) `142/1986`
+- [Asetus valtion eläkeasetuksen 5 §:n muuttamisesta](193.md) `193/1986`
+- [Laki maatalousyrittäjien eläkelain 3 §:n muuttamisesta](210.md) `210/1986`
+- [Laki yrittäjien eläkelain 2 §:n muuttamisesta](211.md) `211/1986`
+- [Laki vuosilomalain muuttamisesta](227.md) `227/1986`
+- [Kirjastolaki](235.md) `235/1986`
+- [Asetus liikennevakuutusasetuksen muuttamisesta](241.md) `241/1986`
+- [Asetus tieliikennettä koskevan yleissopimuksen voimaansaattamisesta](244.md) `244/1986`
+- [Laki työntekijäin eläkelain muuttamisesta](283.md) `283/1986`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](284.md) `284/1986`
+- [Asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkeasetuksen 13 a §:n kumoamisesta](285.md) `285/1986`
+- [Laki hakemusasioiden käsittelystä yleisessä alioikeudessa](307.md) `307/1986`
+- [Laki avioliittolain 43 ja 44 §:n muuttamisesta](308.md) `308/1986`
+- [Laki oikeudenkäymiskaaren 23 luvun muuttamisesta](309.md) `309/1986`
+- [Laki liiketoimintakiellosta annetun lain 19 §:n muuttamisesta](311.md) `311/1986`
+- [Asetus valtion virkamiesten vuosilomasta annetun asetuksen muuttamisesta](326.md) `326/1986`
+- [Laki valtion eläkelain muuttamisesta](333.md) `333/1986`
+- [Laki Suomen Pankin ohjesäännön 23 §:n muuttamisesta](360.md) `360/1986`
+- [Laki kuluttajansuojalain muuttamisesta](385.md) `385/1986`
+- [Laki osamaksukaupasta annetun lain muuttamisesta](386.md) `386/1986`
+- [Ilmakuljetuslaki](387.md) `387/1986`
+- [Laki atomivastuulain 15 §:n muuttamisesta](388.md) `388/1986`
+- [Laki sopimattomasta menettelystä elinkeinotoiminnassa annetun lain 6 §:n muuttamisesta](405.md) `405/1986`
+- [Laki markkinatuomioistuimesta annetun lain 6 a §:n muuttamisesta](406.md) `406/1986`
+- [Laki turvavarastolain 6 §:n muuttamisesta](407.md) `407/1986`
+- [Laki työsopimuslain 3 ja 38 §:n muuttamisesta](423.md) `423/1986`
+- [Laki työehtosopimuslain 7 ja 10 §:n muuttamisesta](424.md) `424/1986`
+- [Laki työriitojen sovittelusta annetun lain 16 §:n muuttamisesta](425.md) `425/1986`
+- [Laki työttömyysturvalain 11 §:n muuttamisesta](426.md) `426/1986`
+- [Asetus lasten päivähoidosta annetun asetuksen muuttamisesta](431.md) `431/1986`
+- [Eduskunnan pankkivaltuusmiesten päätös Suomen Pankin johtosäännön muuttamisesta](434.md) `434/1986`
+- [Laki moottoriajoneuvoverosta annetun lain muuttamisesta](435.md) `435/1986`
+- [Laki leimaverolain 10 §:n muuttamisesta](436.md) `436/1986`
+- [Asetus peruskouluasetuksen 82 §:n muuttamisesta](437.md) `437/1986`
+- [Laki sairausvakuutuslain muuttamisesta](458.md) `458/1986`
+- [Laki työntekijäin eläkelain 11 ja 18 §:n muuttamisesta](459.md) `459/1986`
+- [Asetus työaikalain soveltamisesta valtion virkamiehiin annetun asetuksen muuttamisesta](462.md) `462/1986`
+- [Laki oikeudenkäymiskaaren 30 luvun 22 §:n muuttamisesta](472.md) `472/1986`
+- [Laki lapsen elatuksen turvaamisesta annetun lain 22 ja 41 §:n muuttamisesta](473.md) `473/1986`
+- [Opettajankoulutusasetus](486.md) `486/1986`
+- [Laki valtion virkaehtosopimuslain 19 ja 20 §:n muuttamisesta](491.md) `491/1986`
+- [Laki kunnallisen virkaehtosopimuslain 20 ja 21 §:n muuttamisesta](492.md) `492/1986`
+- [Laki joukkoliikenteen tarkastusmaksusta annetun lain muuttamisesta](504.md) `504/1986`
+- [Haastemieslaki](505.md) `505/1986`
+- [Haastemiesasetus](506.md) `506/1986`
+- [Asetus tiedoksiannosta hallintoasioissa annetun asetuksen 2 §:n muuttamisesta](507.md) `507/1986`
+- [Asetus nuorten työntekijäin suojelusta](508.md) `508/1986`
+- [Laki vakuutusyhtiölain muuttamisesta](517.md) `517/1986`
+- [Laki ulkomailla suoritettujen korkeakouluopintojen tuottamasta virkakelpoisuudesta](531.md) `531/1986`
+- [Laki leimaverolain 99 §:n muuttamisesta](542.md) `542/1986`
+- [Laki maatilatalouden tuloverolain 12 §:n muuttamisesta](543.md) `543/1986`
+- [Laki luopumiseläkelain muuttamisesta](565.md) `565/1986`
+- [Laki palo\- ja pelastustoimesta annetun lain muuttamisesta](568.md) `568/1986`
+- [Asetus palo\- ja pelastustoimesta annetun asetuksen muuttamisesta](569.md) `569/1986`
+- [Tartuntatautilaki](583.md) `583/1986`
+- [Laki sairausvakuutuslain muuttamisesta](584.md) `584/1986`
+- [Potilasvahinkolaki](585.md) `585/1986`
+- [Laki sairausvakuutuslain muuttamisesta](586.md) `586/1986`
+- [Laki rintamasotilaseläkelain muuttamisesta](589.md) `589/1986`
+- [Laki eläkkeensaajien asumistukilain 6 §:n muuttamisesta](590.md) `590/1986`
+- [Laki merimieslain muuttamisesta](591.md) `591/1986`
+- [Laki merimiesten vuosilomalain muuttamisesta](592.md) `592/1986`
+- [Laki kansaneläkelain muuttamisesta](594.md) `594/1986`
+- [Laki perhe\-eläkelain muuttamisesta](595.md) `595/1986`
+- [Laki rintamasotilaseläkelain muuttamisesta](596.md) `596/1986`
+- [Laki eläkkeensaajien asumistukilain muuttamisesta](597.md) `597/1986`
+- [Laki työntekijäin eläkelain 19 a §:n muuttamisesta](598.md) `598/1986`
+- [Laki merimieseläkelain 28 b §:n muuttamisesta](599.md) `599/1986`
+- [Laki valtion eläkelain 17 §:n muuttamisesta](600.md) `600/1986`
+- [Laki tapaturmavakuutuslain muuttamisesta](601.md) `601/1986`
+- [Laki sotilasvammalain 30 §:n muuttamisesta](602.md) `602/1986`
+- [Laki työntekijäin eläkelain muuttamisesta](603.md) `603/1986`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](604.md) `604/1986`
+- [Laki sairausvakuutuslain 27 §:n muuttamisesta](607.md) `607/1986`
+- [Laki työttömyysturvalain 16 §:n muuttamisesta](608.md) `608/1986`
+- [Laki naisten ja miesten välisestä tasa\-arvosta](609.md) `609/1986`
+- [Laki tasa\-arvovaltuutetusta ja tasa\-arvolautakunnasta](610.md) `610/1986`
+- [Laki työsopimuslain 17 §:n muuttamisesta](611.md) `611/1986`
+- [Laki merimieslain 15 §:n muuttamisesta](612.md) `612/1986`
+- [Asetus luopumiseläkeasetuksen muuttamisesta](628.md) `628/1986`
+- [Laki ampuma\-aseista ja ampumatarpeista annetun lain muuttamisesta](632.md) `632/1986`
+- [Passilaki](642.md) `642/1986`
+- [Passiasetus](643.md) `643/1986`
+- [Päihdehuoltoasetus](653.md) `653/1986`
+- [Laki opintovapaalain muuttamisesta](663.md) `663/1986`
+- [Asetus vankeusrangaistuksen täytäntöönpanosta annetun asetuksen muuttamisesta](674.md) `674/1986`
+- [Asetus työttömyyskassalain täytäntöönpanosta annetun asetuksen 3 §:n muuttamisesta](680.md) `680/1986`
+- [Asetus rintamasotilaseläkeasetuksen muuttamisesta](681.md) `681/1986`
+- [Asetus ilmansuojeluasetuksen muuttamisesta](687.md) `687/1986`
+- [Asetus rakennusasetuksen muuttamisesta](689.md) `689/1986`
+- [Asetus vesiasetuksen muuttamisesta](690.md) `690/1986`
+- [Asetus jakoasetuksen 212 ja 219 §:n muuttamisesta](702.md) `702/1986`
+- [Asetus tasa\-arvovaltuutetusta ja tasa\-arvolautakunnasta](739.md) `739/1986`
+- [Laki Suomen Hallitusmuodon muuttamisesta](754.md) `754/1986`
+- [Valtion virkamieslain voimaanpanolaki](756.md) `756/1986`
+- [Laki valtion eläkelain muuttamisesta](757.md) `757/1986`
+- [Laki puolustusvoimista annetun lain muuttamisesta](759.md) `759/1986`
+- [Laki kuluttaja\-asiamiehestä annetun lain 4 §:n muuttamisesta](761.md) `761/1986`
+- [Laki valtion virkojen täyttämisestä eräissä tapauksissa ja eräiden asetusten toimittamisesta eduskunnalle](762.md) `762/1986`
+- [Laki valtiopäiväjärjestyksen 76 a ja 82 a §:n muuttamisesta](763.md) `763/1986`
+- [Laki valtion virkaehtosopimuslain muuttamisesta](764.md) `764/1986`
+- [Laki kunnallisen virkaehtosopimuslain muuttamisesta](765.md) `765/1986`
+- [Laki työtuomioistuimesta annetun lain 13 §:n muuttamisesta](768.md) `768/1986`
+- [Asetus kaavoitusalueiden jakoasetuksen muuttamisesta](778.md) `778/1986`
+- [Laki evankelis\-luterilaisen kirkon vaakunoista](785.md) `785/1986`
+- [Tartuntatautiasetus](786.md) `786/1986`
+- [Asetus sairausvakuutusasetuksen muuttamisesta](811.md) `811/1986`
+- [Asetus opintovapaa\-asetuksen muuttamisesta](812.md) `812/1986`
+- [Laki elinkeinotulon verottamisesta annetun lain 28 §:n muuttamisesta](819.md) `819/1986`
+- [Laki kirjanpitolain 16 §:n muuttamisesta](820.md) `820/1986`
+- [Laki verotuslain 72 §:n muuttamisesta](823.md) `823/1986`
+- [Laki elinkeinotulon verottamisesta annetun lain 8 §:n muuttamisesta](824.md) `824/1986`
+- [Asetus työntekijäin eläkeasetuksen 8 §:n muuttamisesta](859.md) `859/1986`
+- [Laki jätevesimaksusta annetun lain 6 §:n muuttamisesta](867.md) `867/1986`
+- [Laki elinkeinotulon verottamisesta annetun lain 18 ja 61 §:n muuttamisesta](901.md) `901/1986`
+- [Laki maatalouden investointivarauslain muuttamisesta](902.md) `902/1986`
+- [Tuoteturvallisuuslaki](914.md) `914/1986`
+- [Asetus vankeusrangaistuksen täytäntöönpanosta annetun asetuksen muuttamisesta](917.md) `917/1986`
+- [Asetus vankeinhoitolaitoksesta annetun asetuksen muuttamisesta](918.md) `918/1986`
+- [Oikeusministeriön päätös vankeusrangaistuksen täytäntöönpanosta eräissä tapauksissa](919.md) `919/1986`
+- [Laki Pohjoismaiden neuvoston Suomen valtuuskunnasta annetun lain 1 §:n muuttamisesta](921.md) `921/1986`
+- [Laki lapsen hoitotuesta annetun lain muuttamisesta](933.md) `933/1986`
+- [Asetus ulosottoasetuksen muuttamisesta](950.md) `950/1986`
+- [Asetus verojen ja maksujen perimisestä ulosottotoimin annetun asetuksen muuttamisesta](951.md) `951/1986`
+- [Laki leimaverolain 16 ja 55 §:n muuttamisesta](963.md) `963/1986`
+- [Laki valtion eläkelain 8 ja 10 §:n muuttamisesta](964.md) `964/1986`
+- [Asetus sakkorangaistuksen täytäntöönpanosta annetun asetuksen muuttamisesta](974.md) `974/1986`
+- [Laki sairausvakuutuslain 23 §:n muuttamisesta](981.md) `981/1986`
+- [Laki sairausvakuutuslain 76 a §:n muuttamisesta](982.md) `982/1986`
+- [Asetus sairausvakuutusasetuksen 18 §:n muuttamisesta](983.md) `983/1986`
+- [Merimieskatselmuslaki](1005.md) `1005/1986`
+- [Laki merimieslain 6 luvun ja 84 §:n muuttamisesta](1006.md) `1006/1986`
+- [Laki kasvinjalostustoiminnan edistämisestä annetun lain 2 §:n muuttamisesta](1030.md) `1030/1986`
+- [Laki sairausvakuutuslain 21 §:n muuttamisesta](1037.md) `1037/1986`
+- [Laki merimieseläkelain muuttamisesta](1038.md) `1038/1986`
+- [Laki sotilasvammalain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1039.md) `1039/1986`
+- [Asetus sairausvakuutusasetuksen 14 §:n muuttamisesta](1046.md) `1046/1986`
+- [Laki puoluelain muuttamisesta](1048.md) `1048/1986`
+- [Laki oikeudenkäymiskaaren muuttamisesta](1049.md) `1049/1986`
+- [Laki asevelvollisuuslain 28 §:n muuttamisesta](1050.md) `1050/1986`
+- [Laki korkeakoululaitoksen kehittämisestä](1052.md) `1052/1986`
+- [Laki Suomen Pankin ohjesäännön muuttamisesta](1060.md) `1060/1986`
+- [Asetus eläinsuojeluasetuksen muuttamisesta](1075.md) `1075/1986`

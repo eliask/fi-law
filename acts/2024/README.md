@@ -1,0 +1,1127 @@
+# 2024 Statutes
+
+## Statutes
+
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskoroista](1.md) `1/2024`
+- [Laki Euroopan unionin tilapäisestä matkustusasiakirjasta](2.md) `2/2024`
+- [Laki konsulipalvelulain muuttamisesta](3.md) `3/2024`
+- [Laki passilain 2 §:n muuttamisesta](4.md) `4/2024`
+- [Valtioneuvoston asetus Pohjoiskalotin koulutussäätiöstä Suomen, Norjan ja Ruotsin välillä tehdystä sopimuksesta](5.md) `5/2024`
+- [Maa\- ja metsätalousministeriön asetus kauran, ohran, vehnän, herneen, härkäpavun, puna\-apilan ja rypsin siemenen sertifiointia koskevasta väliaikaisesta poikkeuksesta](6.md) `6/2024`
+- [Verohallinnon päätös yksityisten apteekkien liikevaihdon keskiarvosta vuonna 2022](7.md) `7/2024`
+- [Valtioneuvoston asetus vapaasta sivistystyöstä annetun asetuksen muuttamisesta](8.md) `8/2024`
+- [Maa\- ja metsätalousministeriön asetus puutavaran poistamisen vaihtoehtoisista toimenpiteistä ja omavalvontailmoituksesta](9.md) `9/2024`
+- [Valtioneuvoston asetus ravinteiden kierrätyksen ja jätevesihuollon energiatehokkuuden hankkeisiin vuosina 2020–2026 myönnettävästä valtionavustuksesta annetun valtioneuvoston asetuksen muuttamisesta](10.md) `10/2024`
+- [Valtioneuvoston asetus Tullin hallinnosta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](11.md) `11/2024`
+- [Laki rintamasotilaseläkelain 9 §:n muuttamisesta](12.md) `12/2024`
+- [Laki ulkomaille maksettavasta rintamalisästä annetun lain 3 §:n muuttamisesta](13.md) `13/2024`
+- [Maa\- ja metsätalousministeriön asetus varotoimenpiteistä lintuinfluenssan leviämisen ehkäisemiseksi luonnonvaraisista eläimistä turkiseläimiin](14.md) `14/2024`
+- [Laki mielenterveyslain muuttamisesta](15.md) `15/2024`
+- [Laki hallinto\-oikeuslain 7 §:n muuttamisesta](16.md) `16/2024`
+- [Laki nuorten liikkuvuudesta Kanadan kanssa tehdystä sopimuksesta](17.md) `17/2024`
+- [Laki verkon välityspalvelujen valvonnasta](18.md) `18/2024`
+- [Laki kuluttajansuojaviranomaisten eräistä toimivaltuuksista annetun lain 15 ja 18 §:n muuttamisesta](19.md) `19/2024`
+- [Laki sähköisen viestinnän palveluista annetun lain muuttamisesta](20.md) `20/2024`
+- [Laki  Liikenne\- ja viestintävirastosta annetun lain muuttamisesta](21.md) `21/2024`
+- [Laki oikeudenkäynnistä markkinaoikeudessa annetun lain muuttamisesta](22.md) `22/2024`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](23.md) `23/2024`
+- [Laki Oikeushallinnon erityisviranomaiset \-virastosta](24.md) `24/2024`
+- [Laki turvallisuustutkintalain 8 ja 9 §:n muuttamisesta](25.md) `25/2024`
+- [Laki yhdenvertaisuusvaltuutetusta annetun lain 1 §:n muuttamisesta](26.md) `26/2024`
+- [Laki lapsiasiavaltuutetusta annetun lain 1 §:n muuttamisesta](27.md) `27/2024`
+- [Laki tasa\-arvovaltuutetusta annetun lain 1 §:n muuttamisesta](28.md) `28/2024`
+- [Laki tietosuojalain 8 §:n muuttamisesta](29.md) `29/2024`
+- [Laki tiedustelutoiminnan valvonnasta annetun lain 5 §:n muuttamisesta](30.md) `30/2024`
+- [Laki konkurssipesien hallinnon valvonnasta annetun lain 1 §:n muuttamisesta](31.md) `31/2024`
+- [Laki vanhusasiavaltuutetusta annetun lain 1 §:n muuttamisesta](32.md) `32/2024`
+- [Laki luvan saaneista oikeudenkäyntiavustajista annetun lain muuttamisesta](33.md) `33/2024`
+- [Laki kuluttajariitalautakunnasta annetun lain 8 §:n muuttamisesta](34.md) `34/2024`
+- [Laki tuomioistuinlain 19 a luvun 12 §:n muuttamisesta](35.md) `35/2024`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](36.md) `36/2024`
+- [Valtiovarainministeriön asetus Tullin suoritteiden maksullisuudesta annetun valtiovarainministeriön asetuksen liitteen muuttamisesta](37.md) `37/2024`
+- [Valtioneuvoston asetus radioamatöörien vastavuoroisuusluvista Thaimaan kanssa tehdystä sopimuksesta](38.md) `38/2024`
+- [Ulkoministeriön asetus Etiopian kanssa vesihuolto\-, sanitaatio\- ja hygieniarahaston sopimuksen muuttamisesta tehdystä sopimuksesta](39.md) `39/2024`
+- [Valtioneuvoston asetus vuodelta 2024 maksettavasta Etelä\-Suomen kansallisesta tuesta](40.md) `40/2024`
+- [Valtioneuvoston asetus vuodelta 2024 maksettavasta pohjoisesta tuesta](41.md) `41/2024`
+- [Valtioneuvoston asetus sokerijuurikkaan viljelijöille vuodelta 2024 maksettavasta kansallisesta tuesta](42.md) `42/2024`
+- [Sisäministeriön asetus kriisinhallintaan osallistuvan siviilihenkilön nimittämismenettelystä ja palvelussuhteen ehdoista annetun sisäministeriön asetuksen liitteen muuttamisesta](43.md) `43/2024`
+- [Valtioneuvoston asetus turvallisuusluokitellun tiedon vaihtamisesta ja vastavuoroisesta suojaamisesta Alankomaiden kanssa tehdystä sopimuksesta](44.md) `44/2024`
+- [Maa\- ja metsätalousministeriön asetus kasvihuonetuotannon tuesta vuonna 2024](45.md) `45/2024`
+- [Verohallinnon päätös kaivosmineraalien verotusarvoista](46.md) `46/2024`
+- [Valtioneuvoston asetus Oikeushallinnon erityisviranomaiset \-virastosta](47.md) `47/2024`
+- [Valtioneuvoston asetus valtiovarainministeriöstä annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](48.md) `48/2024`
+- [Valtioneuvoston asetus luonnonmukaisen tuotannon korvauksesta annetun valtioneuvoston asetuksen muuttamisesta](49.md) `49/2024`
+- [Valtioneuvoston asetus vuodelta 2024 maksettavista maatalouden tuotannosta irrotetuista suorista tuista](50.md) `50/2024`
+- [Valtiovarainministeriön asetus valtiovarainministeriön työjärjestyksestä annetun valtiovarainministeriön asetuksen muuttamisesta](51.md) `51/2024`
+- [Ulkoministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta \(EU\) 2024/287 Guatemalan tilanteen johdosta määrättävistä rajoittavista toimenpiteistä](52.md) `52/2024`
+- [Ulkoministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta \(EU\) 2024/386 Hamasin ja Palestiinan islamilaisen jihadin väkivaltaisia toimia tukeviin, helpottaviin tai mahdollistaviin tahoihin kohdistuvien rajoittavien toimenpiteiden käyttöönotosta](53.md) `53/2024`
+- [Laki jätelain muuttamisesta](54.md) `54/2024`
+- [Valtioneuvoston asetus Maailman postiliiton yleissopimuksesta ja eräistä muista sopimuksista](55.md) `55/2024`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuosiksi 2024–2025 Suomen metsäkeskuksen suorittamasta metsityksen määräaikaisesta tukemisesta annetun lain metsitystuen valvonta\- ja tarkastustoiminnasta sekä tarkastustulosten raportoinnista, sekä Ruokaviraston metsitystuen valvonta\- ja tarkastustoiminnasta sekä tarkastustulosten raportoinnista](56.md) `56/2024`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveydenhuollon henkilöstön täydennyskoulutuksesta](57.md) `57/2024`
+- [Oikeusministeriön kuulutus tasavallan presidentin vaalin ensimmäisen vaalin tuloksesta](58.md) `58/2024`
+- [Opetus\- ja kulttuuriministeriön asetus Helsingin eurooppalaisen koulun oppilailta perittävistä maksuista annetun opetus\- ja kulttuuriministeriön asetuksen muuttamisesta](59.md) `59/2024`
+- [Valtioneuvoston asetus hedelmä\- ja vihannesalan tuottajaorganisaatiotuesta annetun valtioneuvoston asetuksen muuttamisesta](60.md) `60/2024`
+- [Valtioneuvoston asetus mehiläishoitotuesta annetun valtioneuvoston asetuksen muuttamisesta](61.md) `61/2024`
+- [Valtioneuvoston asetus vuodelta 2023 maksettavasta sokerijuurikkaan kuljetustuesta](62.md) `62/2024`
+- [Valtioneuvoston asetus ympäristökorvauksesta annetun valtioneuvoston asetuksen muuttamisesta](63.md) `63/2024`
+- [Valtioneuvoston asetus vuodelta 2023 maksettavasta tuotantosidonnaisesta tulotuesta annetun valtioneuvoston asetuksen 7 ja 9 §:n muuttamisesta](64.md) `64/2024`
+- [Valtioneuvoston asetus oman asunnon hankintaan myönnettävien lainojen korkotuesta annetun asetuksen 1 a §:n muuttamisesta](65.md) `65/2024`
+- [Sosiaali\- ja terveysministeriön asetus yliopistotasoisesta terveyden tutkimuksesta vuosina 2024–2027](66.md) `66/2024`
+- [Laki Bulgarian, Kroatian, Latvian, Liettuan, Puolan, Romanian, Slovakian, Slovenian, Tshekin tasavallan, Unkarin ja Viron kanssa tehtyjen sijoitusten edistämistä ja suojaamista koskevien sopimusten ja niiden eräiden määräysten voimaansaattamisesta annettujen lakien kumoamisesta](67.md) `67/2024`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisten tukien hallinnosta vuonna 2024](68.md) `68/2024`
+- [Valtiovarainministeriön asetus verovuodelta 2024 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista ja työnantajasuoritusten vähimmäismääristä](69.md) `69/2024`
+- [Ympäristöministeriön asetus ympäristöministeriön työjärjestyksestä annetun ympäristöministeriön asetuksen muuttamisesta](70.md) `70/2024`
+- [Valtioneuvoston asetus maataloustukihakemuksen siirtämisessä vuonna 2024 noudatettavasta menettelystä](71.md) `71/2024`
+- [Valtioneuvoston asetus tuotantoeläinten hyvinvoinnin neuvottelukunnasta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](72.md) `72/2024`
+- [Valtioneuvoston asetus asetus seura\- ja harrastuseläinten hyvinvoinnin neuvottelukunnasta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](73.md) `73/2024`
+- [Valtioneuvoston asetus tieteellisiin tai opetustarkoituksiin käytettävien eläinten suojelun neuvottelukunnasta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](74.md) `74/2024`
+- [Tullin työjärjestys](75.md) `75/2024`
+- [Puolustusministeriön asetus puolustusvoimien ajokorteista ja ajoluvista annetun puolustusministeriön asetuksen muuttamisesta](76.md) `76/2024`
+- [Valtioneuvoston kuulutus tasavallan presidentin vaalin toisen vaalin tuloksesta](77.md) `77/2024`
+- [Valtioneuvoston asetus aluehallintovirastojen maksuista vuonna 2024 annetun valtioneuvoston asetuksen liitteen muuttamisesta](78.md) `78/2024`
+- [Valtioneuvoston asetus vuosina 2020–2025 maankäyttösektorin ilmastotoimenpiteisiin myönnettävästä avustuksesta ja tähän tarkoitukseen osoitetusta määrärahasta annetun valtioneuvoston asetuksen 7 §:n muuttamisesta](79.md) `79/2024`
+- [Valtioneuvoston asetus ympäristökorvauksen, luonnonhaittakorvauksen, luonnonmukaisen tuotannon korvauksen ja ei\-tuotannollisia investointeja koskevan korvauksen hakemisesta vuonna 2024](80.md) `80/2024`
+- [Valtioneuvoston asetus biokaasulaitoksille kierrätyslannoitevalmisteiden tuotannon edistämiseen vuosina 2024–2026 myönnettävästä tuesta](81.md) `81/2024`
+- [Valtioneuvoston asetus kanojen suojelusta annetun valtioneuvoston asetuksen muuttamisesta](82.md) `82/2024`
+- [Valtioneuvoston asetus Verohallinnon yksiköistä annetun valtioneuvoston asetuksen 4 ja 5 §:n muuttamisesta](83.md) `83/2024`
+- [Valtioneuvoston asetus pilaantuneiden alueiden puhdistamisen tukemisesta annetun valtioneuvoston asetuksen 1 §:n väliaikaisesta muuttamisesta sekä 4 §:n muuttamisesta ja väliaikaisesta muuttamisesta](84.md) `84/2024`
+- [Puolustusministeriön asetus sotilaallisen kriisinhallintahenkilöstön pätevyysvaatimuksista ja palvelussuhteen ehdoista annetun puolustusministeriön asetuksen 7 ja 8 §:n muuttamisesta](85.md) `85/2024`
+- [Maa\- ja metsätalousministeriön päätös kalojen tarttuvan haimakuoliotaudin ja lohikalojen alfavirustartuntojen leviämisen estämiseksi perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](86.md) `86/2024`
+- [Maa\- ja metsätalousministeriön asetus vesiviljelypitopaikkojen hyväksymisestä ja eläinterveyttä koskevista vaatimuksista maan sisäisissä vesieläinten siirroissa annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](87.md) `87/2024`
+- [Maa\- ja metsätalousministeriön asetus vapaaehtoisesta eläinten terveysvalvonnasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](88.md) `88/2024`
+- [Puolustusministeriön asetus asevelvollisuuslaissa ja terveydenhuollon järjestämisestä puolustusvoimissa annetussa laissa tarkoitetuista etuuksista annetun puolustusministeriön asetuksen 4 §:n muuttamisesta](89.md) `89/2024`
+- [Valtioneuvoston asetus elinkeino\-, liikenne\- ja ympäristökeskuksista annetun valtioneuvoston asetuksen muuttamisesta](90.md) `90/2024`
+- [Valtioneuvoston asetus yrityksille myönnettävästä kansainvälistymisavustuksesta vuosina 2024–2030](91.md) `91/2024`
+- [Valtioneuvoston asetus Ahvenanmaan maakunnan kunnille maatalouden tukien toimeenpanotehtävien hoitamisesta vuodelta 2023 suoritettavista korvauksista](92.md) `92/2024`
+- [Valtioneuvoston asetus alusliikennepalvelusta annetun valtioneuvoston asetuksen muuttamisesta](93.md) `93/2024`
+- [Valtioneuvoston asetus nuorten liikkuvuudesta Kanadan kanssa tehdystä sopimuksesta](94.md) `94/2024`
+- [Maa\- ja metsätalousministeriön asetus tuettavaa rakentamista koskevista lihakarjarakennusten rakennusteknisistä ja toiminnallisista vaatimuksista](95.md) `95/2024`
+- [Ympäristöministeriön asetus  Metsähallituksen eräiden julkisten hallintotehtävien suoritteiden maksuista vuosina 2024 ja 2025](96.md) `96/2024`
+- [Opetus\- ja kulttuuriministeriön asetus varhaiskasvatuksen yksityisen palveluntuottajan lupa\- ja ilmoitusmenettelyyn kuuluvista liitteistä annetun opetus\- ja kulttuuriministeriön asetuksen muuttamisesta](97.md) `97/2024`
+- [Valtioneuvoston asetus maatilan investointituen kohdentamisesta annetun valtioneuvoston asetuksen muuttamisesta ja väliaikaisesta muuttamisesta](98.md) `98/2024`
+- [Valtioneuvoston asetus vuodelta 2023 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 5 ja 9 §:n muuttamisesta](99.md) `99/2024`
+- [Maa\- ja metsätalousministeriön asetus siemenperunan kaupasta annetun maa\- ja metsätalousministeriön asetuksen väliaikaisesta muuttamisesta](100.md) `100/2024`
+- [Valtioneuvoston asetus vuodelta 2024 maksettavasta mehiläistalouden kansallisesta pesäkohtaisesta tuesta](101.md) `101/2024`
+- [Sosiaali\- ja terveysministeriön asetus mielenterveyslain mukaista tahdosta riippumatonta hoitoa koskevien lomakkeiden kaavoista ja potilaan itsemääräämisoikeuden rajoittamisen valvonnasta annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](102.md) `102/2024`
+- [Sosiaali\- ja terveysministeriön asetus yliopistotasoisesta sosiaalityön tutkimuksesta](103.md) `103/2024`
+- [Ruokaviraston päätös kalojen tarttuvan verta muodostavan kuolion \(IHN\) vuoksi perustetun rajoitusvyöhykkeen lakkauttamisesta](104.md) `104/2024`
+- [Valtioneuvoston asetus liikenne\- ja viestintäministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](105.md) `105/2024`
+- [Liikenne\- ja viestintäministeriön asetus  liikenne\- ja viestintäministeriön työjärjestyksestä annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](106.md) `106/2024`
+- [Sisäministeriön asetus liikkumis\- ja oleskelurajoituksista annetun sisäministeriön asetuksen liitteen 6 muuttamisesta](107.md) `107/2024`
+- [Maa\- ja metsätalousministeriön asetus b\- ja c \-luokan eläintautien vastustamisesta annetun maa\- ja metsätalousministeriön asetuksen liitteen 1 muuttamisesta](108.md) `108/2024`
+- [Verohallinnon työjärjestys](109.md) `109/2024`
+- [Liikenne\- ja viestintäministeriön ilmoitus Maailman postiliiton eräiden sopimusten voimaantulosta Ahvenanmaan maakunnassa](110.md) `110/2024`
+- [Valtioneuvoston asetus vuonna 2024 toimitettavissa europarlamenttivaaleissa ennakkoäänestyspaikkoina olevista Suomen edustustoista ja niiden toimipaikoista](111.md) `111/2024`
+- [Valtiovarainministeriön asetus Gesellius, Lindgren, Saarinen – Suomalainen arkkitehtuuri \-juhlarahasta](112.md) `112/2024`
+- [Valtioneuvoston asetus syöpäsairauden vaaraa aiheuttavista, perimää vaurioittavista ja lisääntymiselle vaarallisista tekijöistä työssä](113.md) `113/2024`
+- [Valtioneuvoston asetus kaupunkien vesien hallintaa ja niiden haitallisten aineiden vähentämistä koskeviin hankkeisiin vuosina 2020–2025 myönnettävästä valtionavustuksesta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](114.md) `114/2024`
+- [Valtiovarainministeriön päätös valtionhallinnon yhteishankinnoista annetun valtiovarainministeriön päätöksen 1 §:n muuttamisesta](115.md) `115/2024`
+- [Laki positiivisesta luottotietorekisteristä annetun lain muuttamisesta](116.md) `116/2024`
+- [Laki syöpäsairauden vaaraa aiheuttaville aineille ja menetelmille ammatissaan altistuvien luettelosta ja rekisteristä annetun lain muuttamisesta](117.md) `117/2024`
+- [Laki sotilasvammalain 6 ja 6 b §:n muuttamisesta](118.md) `118/2024`
+- [Laki lisäeläkesäätiöistä ja lisäeläkekassoista annetun lain muuttamisesta](119.md) `119/2024`
+- [Laki rikostorjunnasta Tullissa annetun lain 3 luvun muuttamisesta](120.md) `120/2024`
+- [Laki puolustukseen liittyvien, patentoitavaksi haettujen keksintöjen salassapidon vastavuoroiseksi turvaamiseksi tehdystä sopimuksesta ja sen täytäntöönpanomenettelyistä](121.md) `121/2024`
+- [Laki teknisten tietojen välittämisestä puolustustarkoituksiin tehdystä Naton sopimuksesta ja sen täytäntöönpanomenettelyistä](122.md) `122/2024`
+- [Työ\- ja elinkeinoministeriön asetus Patentti\- ja rekisterihallituksen maksullisista suoritteista vuonna 2024 annetun työ\- ja elinkeinoministeriön asetuksen muuttamisesta](123.md) `123/2024`
+- [Laki  Pohjois\-Atlantin sopimuksen sopimuspuolten välillä niiden joukkojen asemasta tehdystä sopimuksesta](124.md) `124/2024`
+- [Laki  Pohjois\-Atlantin sopimuksen mukaisesti perustettujen kansainvälisten sotilasesikuntien asemasta tehdystä pöytäkirjasta](125.md) `125/2024`
+- [Laki  ampuma\-aselain 17 §:n muuttamisesta](126.md) `126/2024`
+- [Laki valtion vahingonkorvaustoiminnasta annetun lain 1 §:n muuttamisesta](127.md) `127/2024`
+- [Laki  autoverolain 24 §:n muuttamisesta](128.md) `128/2024`
+- [Laki  eläinlääkärinammatin harjoittamisesta annetun lain muuttamisesta](129.md) `129/2024`
+- [Laki  ajokorttilain muuttamisesta](130.md) `130/2024`
+- [Laki  liikenteen palveluista annetun lain 28 §:n 2 kohdan muuttamisesta](131.md) `131/2024`
+- [Laki  ajoneuvolain muuttamisesta](132.md) `132/2024`
+- [Laki  terveydenhuollon ammattihenkilöistä annetun lain muuttamisesta](133.md) `133/2024`
+- [Laki  taisteluvälineiden siviilihenkilöille aiheuttamien tapaturmien korvaamisesta annetun lain 1 §:n muuttamisesta](134.md) `134/2024`
+- [Oikeusministeriön asetus käräjäoikeuksien kanslioiden ja istuntopaikkojen sijainnista](135.md) `135/2024`
+- [Korkeimman hallinto\-oikeuden työjärjestys](136.md) `136/2024`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](137.md) `137/2024`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten tavaroiden kansainvälisistä tiekuljetuksista tehdyn sopimuksen \(ADR\) liitteen A 1\.5 luvun mukaisesta monenkeskisestä sopimuksesta M353](138.md) `138/2024`
+- [Valtioneuvoston asetus kalastuksesta Tenojoen vesistössä tehdyn sopimuksen 7 artiklan 3 kohdassa tarkoitetun poikkeavien määräyksien voimaantulolle asetetun määräajan pidentämisestä noottienvaihdolla Norjan kanssa tehdystä sopimuksesta](139.md) `139/2024`
+- [Ulkoministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoasiainministeriön asetuksen muuttamisesta](140.md) `140/2024`
+- [Ulkoministeriön asetus Etiopian kanssa maanhallintasektorin tukemisesta tehdystä sopimuksesta](141.md) `141/2024`
+- [Maa\- ja metsätalousministeriön asetus eläimistä saatavista sivutuotteista annetun maa\- ja metsätalousministeriön asetuksen muuttamiseksi](142.md) `142/2024`
+- [Valtioneuvoston asetus raskaana olevien, äskettäin synnyttäneiden ja imettävien työntekijöiden suojelemisesta työssä vaaraa aiheuttavilta tekijöiltä](143.md) `143/2024`
+- [Valtioneuvoston asetus toimeentulotuen tarpeellisen suuruisten asumismenojen määrästä](144.md) `144/2024`
+- [Valtioneuvoston asetus tilanne\- ja johtokeskusjärjestelyiden kokoamisesta](145.md) `145/2024`
+- [Valtioneuvoston asetus pelastustoimesta annetun valtioneuvoston asetuksen muuttamisesta](146.md) `146/2024`
+- [Valtioneuvoston asetus vuodelta 2023 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen liitteen muuttamisesta](147.md) `147/2024`
+- [Valtioneuvoston asetus palkkaturvasta annetun valtioneuvoston asetuksen muuttamisesta](148.md) `148/2024`
+- [Valtioneuvoston asetus merimiesten palkkaturvasta annetun valtioneuvoston asetuksen muuttamisesta](149.md) `149/2024`
+- [Sisäministeriön asetus kootun tehtävän kustannuksista ja korvausperusteista](150.md) `150/2024`
+- [Sisäministeriön asetus pelastustoimen tilannekuvatoiminnasta](151.md) `151/2024`
+- [Valtioneuvoston asetus radiolaitteiden vaatimustenmukaisuudesta](152.md) `152/2024`
+- [Maa\- ja metsätalousministeriön asetus kotimaankauppaa varten kerättäville nauta\-, sika\-, lammas\-, vuohi\- ja hevoseläinten sukusoluille ja alkioille eläintautien vastustamiseksi asetettavista vaatimuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](153.md) `153/2024`
+- [Valtioneuvoston asetus erityisavustuksesta kestävää kasvupolitiikkaa ja yritysten kansainvälistymistä edistäville yhteisöille](154.md) `154/2024`
+- [Valtioneuvoston asetus yritystukien tutkimusjaostosta annetun valtioneuvoston asetuksen kumoamisesta](155.md) `155/2024`
+- [Valtioneuvoston asetus Rikosseuraamuslaitoksesta annetun valtioneuvoston asetuksen 7 ja 15 §:n muuttamisesta](156.md) `156/2024`
+- [Valtioneuvoston asetus Euroopan unionin ja kansallisten viljelijätukien hyvän maatalouden ja ympäristön vaatimuksista annetun valtioneuvoston asetuksen 11 §:n väliaikaisesta muuttamisesta](157.md) `157/2024`
+- [Valtioneuvoston asetus eräiden maatalouden pinta\-alaperusteisten tukien myöntämisen yleisistä edellytyksistä annetun valtioneuvoston asetuksen muuttamisesta](158.md) `158/2024`
+- [Valtioneuvoston asetus yliopistoista annetun valtioneuvoston asetuksen muuttamisesta](159.md) `159/2024`
+- [Valtioneuvoston asetus ammattikorkeakouluista annetun valtioneuvoston asetuksen muuttamisesta](160.md) `160/2024`
+- [Valtioneuvoston asetus maatalouden rakennetuesta annetun valtioneuvoston asetuksen muuttamisesta](161.md) `161/2024`
+- [Valtioneuvoston asetus porotalouden ja luontaiselinkeinojen rakennetuista annetun valtioneuvoston asetuksen muuttamisesta](162.md) `162/2024`
+- [Laki arvopaperimarkkinalain muuttamisesta](163.md) `163/2024`
+- [Laki julkisista hankinnoista ja käyttöoikeussopimuksista annetun lain muuttamisesta](164.md) `164/2024`
+- [Laki vesi\- ja energiahuollon, liikenteen ja postipalvelujen alalla toimivien yksiköiden hankinnoista ja käyttöoikeussopimuksista annetun lain muuttamisesta](165.md) `165/2024`
+- [Laki työntekijöiden lähettämisestä annetun lain muuttamisesta](166.md) `166/2024`
+- [Valtioneuvoston asetus oikeusgeneettisestä vanhemmuustutkimuksesta maksettavista korvauksista](167.md) `167/2024`
+- [Valtioneuvoston asetus lapsen syntymää koskevasta ilmoituksesta ja henkilöllisyyden toteamiseksi hyväksyttävistä asiakirjoista vanhemmuusasioissa](168.md) `168/2024`
+- [Oikeusministeriön asetus vanhemmuus\- ja elatusasioissa käytettävistä lomakkeista](169.md) `169/2024`
+- [Opetus\- ja kulttuuriministeriön asetus yliopistojen perusrahoituksen laskentakriteereistä](170.md) `170/2024`
+- [Opetus\- ja kulttuuriministeriön asetus ammattikorkeakoulujen perusrahoituksen laskentakriteereistä](171.md) `171/2024`
+- [Valtioneuvoston asetus asukkaiden valinnasta arava\- ja korkotukivuokra\-asuntoihin annetun valtioneuvoston asetuksen muuttamisesta](172.md) `172/2024`
+- [Valtiovarainministeriön asetus tarjousasiakirjan sisällöstä ja julkistamisesta sekä sisällöstä myönnettävistä poikkeuksista ja Euroopan talousalueella hyväksytyn tarjousasiakirjan vastavuoroisesta tunnustamisesta annetun valtiovarainministeriön asetuksen muuttamisesta](173.md) `173/2024`
+- [Valtioneuvoston asetus esitutkinnasta, pakkokeinoista ja salaisesta tiedonhankinnasta annetun valtioneuvoston asetuksen 2 ja 3 luvun muuttamisesta](174.md) `174/2024`
+- [Valtioneuvoston asetus broilereiden suojelusta annetun valtioneuvoston asetuksen muuttamisesta](175.md) `175/2024`
+- [Valtioneuvoston asetus puolustukseen liittyvien, patentoitavaksi haettujen keksintöjen salassapidon vastavuoroiseksi turvaamiseksi tehdystä sopimuksesta ja sen täytäntöönpanomenettelyistä](176.md) `176/2024`
+- [Valtioneuvoston asetus teknisten tietojen välittämisestä puolustustarkoituksiin tehdystä Naton sopimuksesta ja sen täytäntöönpanomenettelyistä](177.md) `177/2024`
+- [Valtioneuvoston asetus väestön rekisteröinnistä Viron kanssa tehdystä sopimuksesta ja kotikuntalain 6 §:n muuttamisesta annetun lain voimaantulosta](178.md) `178/2024`
+- [Laki pilaantuneiden alueiden puhdistamisen tukemisesta annetun lain 12 §:n muuttamisesta](179.md) `179/2024`
+- [Vuoden 2024 lisätalousarvio](180.md) `180/2024`
+- [Laki rikoslain 1 luvun 11 §:n ja 40 luvun muuttamisesta](181.md) `181/2024`
+- [Laki pakkokeinolain 10 luvun 3 ja 56 §:n muuttamisesta](182.md) `182/2024`
+- [Laki rikosrekisterilain 6 §:n muuttamisesta](183.md) `183/2024`
+- [Laki rikosrekisteritietojen säilyttämisestä ja luovuttamisesta Suomen ja muiden Euroopan unionin jäsenvaltioiden välillä annetun lain 13 a §:n muuttamisesta](184.md) `184/2024`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain 1 luvun 10 §:n muuttamisesta](185.md) `185/2024`
+- [Laki esitutkintalain 2 luvun 6 §:n muuttamisesta](186.md) `186/2024`
+- [Laki liiketoimintakiellosta annetun lain 3 §:n muuttamisesta](187.md) `187/2024`
+- [Laki poliisilain 5 luvun 28 ja 54 §:n muuttamisesta](188.md) `188/2024`
+- [Laki varhaiskasvatuslain muuttamisesta](189.md) `189/2024`
+- [Laki Harmaan talouden selvitysyksiköstä annetun lain 6 §:n muuttamisesta](190.md) `190/2024`
+- [Laki eräistä paloturvallisuuslaitteista](191.md) `191/2024`
+- [Laki eräiden tuotteiden markkinavalvonnasta annetun lain 1 §:n muuttamisesta](192.md) `192/2024`
+- [Laki pelastuslain 74 ja 93 §:n muuttamisesta](193.md) `193/2024`
+- [Sosiaali\- ja terveysministeriön asetus kliinisiä lääketutkimuksia koskevista maksullisista suoritteista](194.md) `194/2024`
+- [Sisäministeriön asetus kriisinhallintaan osallistuvan siviilihenkilön nimittämismenettelystä ja palvelussuhteen ehdoista annetun sisäministeriön asetuksen liitteen muuttamisesta](195.md) `195/2024`
+- [Valtioneuvoston asetus Pohjois\-Atlantin sopimuksen sopimuspuolten välillä niiden joukkojen asemasta tehdystä sopimuksesta](196.md) `196/2024`
+- [Valtioneuvoston asetus Pohjois\-Atlantin sopimuksen mukaisesti perustettujen kansainvälisten sotilasesikuntien asemasta tehdystä pöytäkirjasta](197.md) `197/2024`
+- [Valtioneuvoston asetus päivittäistavarakauppapalveluiden tukemisesta monipalvelukeskuksina maaseutualueilla annetun valtioneuvoston asetuksen muuttamisesta](198.md) `198/2024`
+- [Valtioneuvoston asetus yliopistojen toiminnassa perittävistä maksuista annetun valtioneuvoston asetuksen 2 ja 4 §:n muuttamisesta](199.md) `199/2024`
+- [Valtioneuvoston asetus ammattikorkeakoulujen toiminnasta perittävistä maksuista annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](200.md) `200/2024`
+- [Valtioneuvoston asetus vapaaehtoisista covid\-19\-rokotuksista annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](201.md) `201/2024`
+- [Sosiaali\- ja terveysministeriön asetus rokotuksista annetun sosiaali\- ja terveysministeriön asetuksen 6 §:n muuttamisesta](202.md) `202/2024`
+- [Valtioneuvoston asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen ja alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvään vuoden 1978 pöytäkirjaan liittyvään IBC\-säännöstöön tehtyjen muutosten voimaansaattamisesta](203.md) `203/2024`
+- [Valtioneuvoston asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan I, II, IV ja VI liitteisiin tehtyjen muutosten voimaansaattamisesta](204.md) `204/2024`
+- [Valtioneuvoston asetus ulkoministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](205.md) `205/2024`
+- [Ympäristöministeriön asetus  Suomen ympäristökeskuksen maksullisista suoritteista](206.md) `206/2024`
+- [Laki kalastuksesta Tenojoen vesistössä Norjan kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja soveltamisesta annetun lain muuttamisesta](207.md) `207/2024`
+- [Valtioneuvoston asetus kalastuksesta Tenojoen vesistössä Norjan kanssa tehdyn sopimuksen liitteessä olevan kalastussäännön korvaamisesta uudella kalastussäännöllä tehdystä sopimuksesta](208.md) `208/2024`
+- [Valtioneuvoston asetus kaupallisen kalastuksen kiintiöjärjestelmästä annetun valtioneuvoston asetuksen muuttamisesta](209.md) `209/2024`
+- [Valtioneuvoston asetus pilaantuneiden alueiden puhdistamisen tukemisesta annetun valtioneuvoston asetuksen muuttamisesta](210.md) `210/2024`
+- [Valtioneuvoston asetus rikoksentorjuntaneuvostosta](211.md) `211/2024`
+- [Valtioneuvoston asetus saimaannorpan suojelusta kaupalliselle kalastukselle aiheutuvien taloudellisten vaikutusten johdosta vuosina 2024–2027 myönnettävästä avustuksesta](212.md) `212/2024`
+- [Valtioneuvoston asetus maatalousyrittäjän eläkelain täytäntöönpanosta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](213.md) `213/2024`
+- [Laki metsästyslain 33 §:n muuttamisesta](214.md) `214/2024`
+- [Tasavallan presidentin asetus Suomen ulkomaanedustustojen sijaintipaikoista ja konsulipalveluiden järjestämisestä ulkoasiainhallinnossa annetun tasavallan presidentin asetuksen liitteen muuttamisesta](215.md) `215/2024`
+- [Laki kirkkolain 3 ja 8 luvun muuttamisesta](216.md) `216/2024`
+- [Laki Kilpailu\- ja kuluttajavirastosta annetun lain muuttamisesta](217.md) `217/2024`
+- [Laki liikennevakuutuslain muuttamisesta](218.md) `218/2024`
+- [Laki Liikennevakuutuskeskuksesta annetun lain 3 §:n muuttamisesta](219.md) `219/2024`
+- [Laki vakuutusyhtiölain 3 luvun 7 §:n muuttamisesta](220.md) `220/2024`
+- [Laki uusjakojen tukemisesta annetun lain muuttamisesta](221.md) `221/2024`
+- [Laki eräiden maa\- ja metsätalousministeriön hallinnonalan lainojen ja saamisten siirtämisestä Valtiokonttorin hoidettavaksi annetun lain 1 §:n muuttamisesta](222.md) `222/2024`
+- [Valtioneuvoston asetus Euroopan unionin ja sen jäsenvaltioiden sekä Keski\-Amerikan välisestä assosiaa\-tiosopimuksesta](223.md) `223/2024`
+- [Laki kolmansien maiden kansalaisten maahantulon ja oleskelun edellytyksistä korkeaa osaamistasoa vaativaa työtä varten](224.md) `224/2024`
+- [Laki ulkomaalaislain muuttamisesta](225.md) `225/2024`
+- [Laki ulkomaalaislain muuttamisesta annetun lain 187 ja 194 §:n muuttamisesta](226.md) `226/2024`
+- [Laki henkilötietojen käsittelystä maahanmuuttohallinnossa annetun lain 11 ja 13 §:n muuttamisesta](227.md) `227/2024`
+- [Laki henkilötietojen käsittelystä maahanmuuttohallinnossa annetun lain muuttamisesta annetun lain muuttamisesta](228.md) `228/2024`
+- [Laki sosiaali\- ja terveydenhuollon järjestämisestä annetun lain 56 §:n muuttamisesta](229.md) `229/2024`
+- [Laki yliopistolain 9 ja 10 §:n muuttamisesta](230.md) `230/2024`
+- [Laki ammattikorkeakoululain 13 ja 13 a §:n muuttamisesta](231.md) `231/2024`
+- [Laki lukiolain 9 §:n muuttamisesta](232.md) `232/2024`
+- [Laki ammatillisesta koulutuksesta annetun lain 33 §:n muuttamisesta](233.md) `233/2024`
+- [Laki vuokra\-asuntolainojen ja asumisoikeustalolainojen korkotuesta annetun lain 11 §:n muuttamisesta](234.md) `234/2024`
+- [Laki vuokratalojen rakentamislainojen lyhytaikaisesta korkotuesta annetun lain 10 §:n muuttamisesta](235.md) `235/2024`
+- [Laki aravarajoituslain 4 §:n muuttamisesta](236.md) `236/2024`
+- [Laki asumisoikeusasunnoista annetun lain 12 §:n muuttamisesta](237.md) `237/2024`
+- [Laki kirjanpitolain muuttamisesta](238.md) `238/2024`
+- [Laki tilintarkastuslain muuttamisesta](239.md) `239/2024`
+- [Sosiaali\- ja terveysministeriön asetus maatalousyrittäjän työtapaturma\- ja ammattitautilain mukaisen perusturva\- ja valtionosuuden ja korvausvastuun täydennysmaksun suorittamisesta annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](240.md) `240/2024`
+- [Valtioneuvoston asetus kalastuksesta Tenojoen vesistössä Norjan kanssa tehdyn sopimuksen 6 ja 7 artiklassa tarkoitetusta pöytäkirjasta](241.md) `241/2024`
+- [Valtioneuvoston asetus puolustusministeriöstä annetun valtioneuvoston asetuksen 1 ja 6 §:n muuttamisesta](242.md) `242/2024`
+- [Valtioneuvoston asetus kansallisten kasvintuotannon tukien ja kotieläintukien valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](243.md) `243/2024`
+- [Valtioneuvoston asetus huumausaineina pidettävistä aineista, valmisteista ja kasveista annetun valtioneuvoston asetuksen muuttamisesta](244.md) `244/2024`
+- [Valtioneuvoston asetus kuluttajamarkkinoilta kielletyistä psykoaktiivisista aineista annetun valtioneuvoston asetuksen liitteen muuttamisesta](245.md) `245/2024`
+- [Laki työehtosopimuslain muuttamisesta](246.md) `246/2024`
+- [Laki työriitojen sovittelusta annetun lain muuttamisesta](247.md) `247/2024`
+- [Laki työsopimuslain 3 luvun ja 7 luvun 2 §:n muuttamisesta](248.md) `248/2024`
+- [Laki merityösopimuslain 4 luvun ja 8 luvun 2 §:n muuttamisesta](249.md) `249/2024`
+- [Laki valtion virkaehtosopimuslain muuttamisesta](250.md) `250/2024`
+- [Laki kunnan ja hyvinvointialueen virkaehtosopimuksista annetun lain muuttamisesta](251.md) `251/2024`
+- [Laki valtion virkamieslain 8 ja 9 a §:n muuttamisesta](252.md) `252/2024`
+- [Laki raideliikennelain muuttamisesta](253.md) `253/2024`
+- [Laki liikenteen palveluista annetun lain 53 ja 57 §:n muuttamisesta](254.md) `254/2024`
+- [Tasavallan presidentin asetus Rajavartiolaitoksen tehtävistä Ahvenanmaalla](255.md) `255/2024`
+- [Tasavallan presidentin asetus eräiden eläinten tunnistamiseen ja rekisteröintiin liittyvien hallintotehtävien hoitamisesta Ahvenanmaalla](256.md) `256/2024`
+- [Laki väkivallan ja häirinnän poistamisesta työelämässä tehdystä Kansainvälisen työjärjestön yleissopimuksesta](257.md) `257/2024`
+- [Maa\- ja metsätalousministeriön asetus valmistuksen apuaineista elintarvikkeissa annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](258.md) `258/2024`
+- [Laki julkisen hallinnon turvallisuusverkkotoiminnasta annetun lain 17 §:n muuttamisesta](259.md) `259/2024`
+- [Laki Suomen tasavallan hallituksen ja Ruotsin kuningaskunnan hallituksen välillä raja\-alueen poliisiyhteistyöstä tehdystä sopimuksesta](260.md) `260/2024`
+- [Laki ampuma\-aselain 17 §:n muuttamisesta](261.md) `261/2024`
+- [Laki rajavartiolaitoksen hallinnosta annetun lain muuttamisesta](262.md) `262/2024`
+- [Laki rajavartiolain 34 g §:n muuttamisesta](263.md) `263/2024`
+- [Valtioneuvoston asetus Suomen ja Ruotsin välillä tehdyn rajajokisopimuksen Tornionjoen kalastusalueen kalastussäännön 16 §:ssä tarkoitetusta pöytäkirjasta](264.md) `264/2024`
+- [Valtioneuvoston asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyviin vuoden 2011 laajennettua katsastusohjelmaa koskevaan säännöstöön ja kansainväliseen kemikaalisäiliöalussäännöstöön tehdyistä muutoksista](265.md) `265/2024`
+- [Valtioneuvoston asetus Euroopan unionin rahoittamien pinta\-alaperusteisten sekä eräiden muiden tukien toimeenpanosta annetun valtioneuvoston asetuksen muuttamisesta](266.md) `266/2024`
+- [Valtioneuvoston asetus uusjakojen tukemisesta](267.md) `267/2024`
+- [Valtioneuvoston asetus alueiden kehittämisestä ja Euroopan unionin alue\- ja rakennepolitiikan toimeenpanosta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](268.md) `268/2024`
+- [Valtioneuvoston asetus naisten ja miesten välisestä tasa\-arvosta annetussa laissa säädettyjen hyvityksen euromäärien tarkistamisesta](269.md) `269/2024`
+- [Valtioneuvoston asetus mekaanisesti kierrätetyn uusiomuoviraaka\-aineen jätteeksi luokittelun päättymisen arviointiperusteista](270.md) `270/2024`
+- [Valtioneuvoston asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteeseen tehdyistä muutoksista sekä yleissopimukseen liittyvän teollisuustyöntekijöitä kuljettavia aluksia koskevasta kansainvälisestä turvallisuussäännöstöstä](271.md) `271/2024`
+- [Työ\- ja elinkeinoministeriön asetus työ\- ja elinkeinoministeriön työjärjestyksestä annetun työ\- ja elinkeinoministeriön asetuksen muuttamisesta](272.md) `272/2024`
+- [Valtioneuvoston asetus ulkoasiainhallinnosta annetun valtioneuvoston asetuksen muuttamisesta](273.md) `273/2024`
+- [Laki aikuiskoulutusetuuksista annetun lain kumoamisesta](274.md) `274/2024`
+- [Laki vuorotteluvapaalain kumoamisesta](275.md) `275/2024`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain muuttamisesta](276.md) `276/2024`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain muuttamisesta annetun lain muuttamisesta](277.md) `277/2024`
+- [Laki työttömyysturvalain 6 luvun 4 §:n muuttamisesta](278.md) `278/2024`
+- [Laki työttömyyskassalain 26 §:n muuttamisesta](279.md) `279/2024`
+- [Laki työvoimapalveluiden järjestämisestä annetun lain muuttamisesta](280.md) `280/2024`
+- [Laki elinkeino\-, liikenne\- ja ympäristökeskuksista sekä elinkeino\-, liikenne\- ja ympäristökeskusten kehittämis\- ja hallintokeskuksesta annetun lain 3 a §:n muuttamisesta](281.md) `281/2024`
+- [Laki opintotukilain muuttamisesta](282.md) `282/2024`
+- [Valtioneuvoston asetus vesistön ja vesiympäristön käyttöä ja tilaa parantavien hankkeiden avustamisesta annetun valtioneuvoston asetuksen 2 a §:n muuttamisesta](283.md) `283/2024`
+- [Valtioneuvoston asetus vesialan osaamisen kasvun ja kansainvälistymisen hankkeisiin vuosina 2022−2026 myönnettävästä valtionavustuksesta annetun asetuksen 1 §:n muuttamisesta](284.md) `284/2024`
+- [Valtioneuvoston asetus vesihuollon ja patojen turvallisuuden, toimintavarmuuden ja varautumisen hankkeisiin vuosina 2023–2035 myönnettävästä valtionavustuksesta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](285.md) `285/2024`
+- [Valtioneuvoston asetus perusopetuslaissa tarkoitetun opetuksen valtakunnallisista tavoitteista ja perusopetuksen tuntijaosta annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](286.md) `286/2024`
+- [Valtioneuvoston asetus perusopetusasetuksen 3 §:n muuttamisesta](287.md) `287/2024`
+- [Valtioneuvoston asetus ulkoasiainministeriöstä annetun valtioneuvoston asetuksen kumoamisesta](288.md) `288/2024`
+- [Valtioneuvoston asetus rajavartiolaitoksesta annetun valtioneuvoston asetuksen 26 §:n muuttamisesta](289.md) `289/2024`
+- [Valtioneuvoston asetus vuodelta 2023 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](290.md) `290/2024`
+- [Valtioneuvoston asetus vuodelta 2023 maksettavasta sokerijuurikkaan kuljetustuesta annetun valtioneuvoston asetuksen liitteen muuttamisesta](291.md) `291/2024`
+- [Valtioneuvoston asetus vuodelta 2023 maksettavista maatalouden tuotannosta irrotetuista suorista tuista annetun valtioneuvoston asetuksen muuttamisesta](292.md) `292/2024`
+- [Valtioneuvoston asetus vuodelta 2023 maksettavasta tuotantosidonnaisesta tulotuesta annetun valtioneuvoston asetuksen muuttamisesta](293.md) `293/2024`
+- [Valtioneuvoston asetus helposti pilaantuvien elintarvikkeiden kansainvälisistä kuljetuksista ja tällaisissa kuljetuksissa käytettävästä erityiskalustosta tehdyn sopimuksen 1 liitteen muutoksista](294.md) `294/2024`
+- [Kirkolliskokouksen päätös Ortodoksisen kirkon kirkkojärjestyksen muuttamisesta](295.md) `295/2024`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](296.md) `296/2024`
+- [Maa\- ja metsätalousministeriön asetus kalastuksesta Tenojoen vesistössä Norjan kanssa tehtyyn sopimukseen perustuvista kalastusluvista ja Tenojoen vesistön kalastussäännön 40 §:n 2 momentin mukaisen poikkeusluvan hakemisen määräajasta vuonna 2024](297.md) `297/2024`
+- [Valtioneuvoston asetus maitotuotteiden, hedelmien ja vihannesten koulujakelutuesta lukuvuonna 2024–2025](298.md) `298/2024`
+- [Valtioneuvoston asetus Napapiirin retkeilyalueen perustamisesta](299.md) `299/2024`
+- [Valtioneuvoston asetus nautojen suojelusta annetun valtioneuvoston asetuksen 17 §:n muuttamisesta](300.md) `300/2024`
+- [Valtioneuvoston asetus Euroopan meri\-, kalatalous\- ja vesiviljelyrahaston Suomen ohjelmasta 2021–2027 myönnettävästä tuesta annetun valtioneuvoston asetuksen muuttamisesta](301.md) `301/2024`
+- [Valtioneuvoston asetus tutkimus\-, kehittämis\- ja innovaatiotoiminnan rahoituksesta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](302.md) `302/2024`
+- [Valtioneuvoston asetus huoneistotietojärjestelmästä](303.md) `303/2024`
+- [Valtioneuvoston päätös Pertunmaan kunnan ja Mäntyharjun kunnan yhdistymisestä](304.md) `304/2024`
+- [Laki alkoholilain 17 ja 26 §:n muuttamisesta](305.md) `305/2024`
+- [Laki ydinpuolustustietoja koskevasta yhteistyöstä Pohjois\-Atlantin sopimuksen osapuolten välillä tehdystä sopimuksesta](306.md) `306/2024`
+- [Laki sosiaali\- ja terveydenhuollon asiakastietojen käsittelystä annetun lain muuttamisesta](307.md) `307/2024`
+- [Laki Terveyden ja hyvinvoinnin laitoksesta annetun lain 2 §:n muuttamisesta](308.md) `308/2024`
+- [Laki lastensuojelulain 27 ja 41 §:n muuttamisesta](309.md) `309/2024`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](310.md) `310/2024`
+- [Ympäristöministeriön asetus maakunta\-, yleis\- ja asemakaavojen kaavamääräysten ja kaavakohteiden esitystavasta](311.md) `311/2024`
+- [Valtioneuvoston asetus kalastuksesta annetun valtioneuvoston asetuksen 12 §:n väliaikaisesta muuttamisesta](312.md) `312/2024`
+- [Valtioneuvoston asetus tilintarkastuksesta annetun valtioneuvoston asetuksen 2 §:n kumoamisesta](313.md) `313/2024`
+- [Valtioneuvoston asetus tuottavuuslautakunnasta annetun valtioneuvoston asetuksen muuttamisesta](314.md) `314/2024`
+- [Laki arvonlisäverolain 35 ja 36 §:n muuttamisesta](315.md) `315/2024`
+- [Laki Ahvenanmaan maakuntaa koskevista poikkeuksista arvonlisävero\- ja valmisteverolainsäädäntöön annetun lain muuttamisesta](316.md) `316/2024`
+- [Laki sähköisen viestinnän palveluista annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](317.md) `317/2024`
+- [Laki tietoyhteiskuntakaaren muuttamisesta ja väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](318.md) `318/2024`
+- [Laki tieliikennettä koskevaan yleissopimukseen tehdyistä muutoksista](319.md) `319/2024`
+- [Laki arvonlisäverolain muuttamisesta](320.md) `320/2024`
+- [Laki eläinlääkintähuoltolain muuttamisesta](321.md) `321/2024`
+- [Laki kotoutumisen edistämisestä annetun lain muuttamisesta](322.md) `322/2024`
+- [Laki kotoutumisen edistämisestä annetun lain muuttamisesta](323.md) `323/2024`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain 29 §:n muuttamisesta](324.md) `324/2024`
+- [Laki työttömyysturvalain 14 luvun 3 a §:n muuttamisesta](325.md) `325/2024`
+- [Laki merityötä koskevan yleissopimuksen ohjeiston muutoksista](326.md) `326/2024`
+- [Laki julkisesta työvoima\- ja yrityspalvelusta annetun lain 12 luvun muuttamisesta](327.md) `327/2024`
+- [Laki työvoimapalveluiden järjestämisestä annetun lain muuttamisesta](328.md) `328/2024`
+- [Laki merityösopimuslain 3 luvun 1 §:n ja 13 luvun 12 §:n muuttamisesta](329.md) `329/2024`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun valtioneuvoston asetuksen 1 ja 15 §:n muuttamisesta](330.md) `330/2024`
+- [Laki Kansaneläkelaitoksesta annetun lain muuttamisesta](331.md) `331/2024`
+- [Laki sähköisestä lääkemääräyksestä annetun lain muuttamisesta](332.md) `332/2024`
+- [Laki eläketukilain 22 §:n muuttamisesta](333.md) `333/2024`
+- [Laki sairausvakuutuslain 19 luvun 7 §:n 2 momentin ja 10 §:n kumoamisesta](334.md) `334/2024`
+- [Laki eläkkeensaajan asumistuesta annetun lain 48 §:n kumoamisesta](335.md) `335/2024`
+- [Laki työttömyysturvalain 13 luvun 5 §:n kumoamisesta](336.md) `336/2024`
+- [Laki yleisestä asumistuesta annetun lain 46 §:n kumoamisesta](337.md) `337/2024`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta annetun lain 24 a §:n kumoamisesta](338.md) `338/2024`
+- [Laki lapsilisälain 16 a §:n kumoamisesta](339.md) `339/2024`
+- [Laki elatustukilain 37 §:n kumoamisesta](340.md) `340/2024`
+- [Laki äitiysavustuslain 14 a §:n kumoamisesta](341.md) `341/2024`
+- [Laki sotilasavustuslain 22 d §:n kumoamisesta](342.md) `342/2024`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 62 §:n kumoamisesta](343.md) `343/2024`
+- [Laki vammaisetuuksista annetun lain 45 a §:n kumoamisesta](344.md) `344/2024`
+- [Laki aikuiskoulutusetuuksista annetun lain 29 §:n 2 momentin kumoamisesta](345.md) `345/2024`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain 22 e ja 22 g §:n kumoamisesta](346.md) `346/2024`
+- [Laki kansaneläkelain 94 §:n kumoamisesta](347.md) `347/2024`
+- [Sosiaali\- ja terveysministeriön asetus sosiaalihuollon ammattihenkilöiden yliopistollisen erikoistumiskoulutuksen korvauksen perusteista vuonna 2024](348.md) `348/2024`
+- [Sosiaali\- ja terveysministeriön asetus lääkäri\- ja hammaslääkärikoulutuksen korvauksen perusteista vuonna 2024](349.md) `349/2024`
+- [Sosiaali\- ja terveysministeriön asetus sairaanhoitajan rajatun lääkkeenmääräämisoikeuden edellytyksenä olevan koulutuksen korvauksen suuruudesta vuonna 2024](350.md) `350/2024`
+- [Helsingin vaalipiirilautakunnan kuulutus Suomesta valittavien Euroopan parlamentin jäsenten vaalien tuloksesta](351.md) `351/2024`
+- [Laki yksityisten yritysten ja muiden yhteisöjen hyväksymisestä työnvälityspalvelujen eurooppalaisen verkoston \(Eures\) jäseniksi ja yhteistyökumppaneiksi annetun lain 7 §:n muuttamisesta](352.md) `352/2024`
+- [Laki perintätoiminnan harjoittajien rekisteröinnistä annetun lain 18 §:n muuttamisesta](353.md) `353/2024`
+- [Laki matkapalveluyhdistelmien tarjoajista annetun lain 27 §:n muuttamisesta](354.md) `354/2024`
+- [Laki matkapalveluyhdistelmien tarjoajan valvonta\- ja maksukyvyttömyyssuojamaksusta annetun lain 8 §:n muuttamisesta](355.md) `355/2024`
+- [Laki eräitä tuoteryhmiä koskevista ilmoitetuista laitoksista annetun lain 17 §:n muuttamisesta](356.md) `356/2024`
+- [Laki suoran lisäeläkejärjestelyn turvaamisesta työnantajan maksukyvyttömyyden varalta annetun lain 8 §:n muuttamisesta](357.md) `357/2024`
+- [Laki Kilpailu\- ja kuluttajavirastosta annetun lain 16 ja 16 c §:n muuttamisesta](358.md) `358/2024`
+- [Laki kuitintarjoamisvelvollisuudesta käteiskaupassa annetun lain 7 §:n muuttamisesta](359.md) `359/2024`
+- [Laki siviilipalveluslain muuttamisesta](360.md) `360/2024`
+- [Laki majoitus\- ja ravitsemistoiminnasta annetun lain 14 §:n muuttamisesta](361.md) `361/2024`
+- [Laki vaatimustenmukaisuuden arviointipalvelujen pätevyyden toteamisesta annetun lain 10 §:n muuttamisesta](362.md) `362/2024`
+- [Laki kauppakamarilain muuttamisesta](363.md) `363/2024`
+- [Laki jalometallituotteista annetun lain 16 ja 16 a §:n muuttamisesta](364.md) `364/2024`
+- [Laki kiinteistönvälitysliikkeistä ja vuokrahuoneiston välitysliikkeistä annetun lain 15 ja 21 §:n muuttamisesta](365.md) `365/2024`
+- [Laki valtion erityisrahoitusyhtiön luotto\-, takaus\- ja pääomasijoitustoiminnasta annetun lain 8 f §:n muuttamisesta](366.md) `366/2024`
+- [Laki tuulivoiman kompensaatioalueista annetun lain 11 §:n muuttamisesta](367.md) `367/2024`
+- [Laki sähkö\- ja maakaasuverkkomaksuista annetun lain 10 ja 11 §:n muuttamisesta](368.md) `368/2024`
+- [Laki uusiutuvilla energialähteillä tuotetun sähkön tuotantotuesta annetun lain 55 ja 56 §:n muuttamisesta](369.md) `369/2024`
+- [Laki Kioton mekanismien käytöstä annetun lain muuttamisesta](370.md) `370/2024`
+- [Laki oikeudenkäynnistä markkinaoikeudessa annetun lain 1 luvun 2 §:n muuttamisesta](371.md) `371/2024`
+- [Valtioneuvoston asetus puustoisten elinympäristöjen ennallistamiseen, kunnostukseen ja hoitoon vuosina 2022–2027 myönnettävästä tuesta annetun valtioneuvoston asetuksen muuttamisesta](372.md) `372/2024`
+- [Ympäristöministeriön asetus vaarallisten aineiden käytön rajoituksista sähkö\- ja elektroniikkalaitteissa annetun ympäristöministeriön asetuksen liitteen I muuttamisesta](373.md) `373/2024`
+- [Eduskunnan päätös valtioneuvoston lainanottovaltuuden muuttamisesta](374.md) `374/2024`
+- [Ulkoministeriön asetus Etiopian kanssa maanhallintasektorin tukemisesta tehdystä toisen vaiheen sopimuksen muutoksesta](375.md) `375/2024`
+- [Ulkoministeriön asetus Etiopian kanssa Inklusiivisen opetuksen vahvistaminen Etiopian yleisopetuksen sektoriohjelman tukena \-hankkeesta tehdystä sopimuksesta](376.md) `376/2024`
+- [Ulkoministeriön asetus Tansanian innovaatiojärjestelmälle annettavaa Suomen tukea koskevasta Tansanian kanssa tehdystä sopimuksesta annetun ulkoasiainministeriön asetuksen kumoamisesta](377.md) `377/2024`
+- [Valtioneuvoston asetus kalastuksesta Tenojoen vesistön sivuvesistöissä vuonna 2024](378.md) `378/2024`
+- [Valtioneuvoston asetus ydinpuolustustietoja koskevasta yhteistyöstä Pohjois\-Atlantin sopimuksen osapuolten välillä tehdystä sopimuksesta](379.md) `379/2024`
+- [Valtioneuvoston asetus maatalouden kestävyyden tietoverkkotoimikunnasta](380.md) `380/2024`
+- [Valtiovarainministeriön asetus kunnan taloustietojen toimittamiseen sovellettavasta tietosisällöstä ja teknisistä kuvauksista koskien tilikautta 2025](381.md) `381/2024`
+- [Valtiovarainministeriön asetus hyvinvointialueen taloustietojen toimittamiseen sovellettavista tietosisällöstä ja teknisistä kuvauksista koskien tilikautta 2025](382.md) `382/2024`
+- [Valtioneuvoston asetus alle 18\-vuotiaana vahinkoa kärsineen ansiotulon määrän vahvistamisesta](383.md) `383/2024`
+- [Valtioneuvoston asetus tuloverokertomuksen sisällöstä](384.md) `384/2024`
+- [Valtioneuvoston asetus julkisista työvoimapalveluista](385.md) `385/2024`
+- [Valtioneuvoston asetus työvoimapalveluiden ohjauksesta](386.md) `386/2024`
+- [Valtioneuvoston asetus elinkeino\-, liikenne\- ja ympäristökeskuksista annetun valtioneuvoston asetuksen muuttamisesta](387.md) `387/2024`
+- [Valtioneuvoston asetus työllistymistä edistävän monialaisen tuen yhteistoimintamallin organisoimisesta](388.md) `388/2024`
+- [Valtioneuvoston asetus työttömyysturvalain täytäntöönpanosta annetun valtioneuvoston asetuksen 3 a §:n muuttamisesta](389.md) `389/2024`
+- [Valtiovarainministeriön päätös kuntajaon muuttamisesta Lempäälän kunnan ja Tampereen kaupungin välillä](390.md) `390/2024`
+- [Valtioneuvoston asetus aluehallintovirastojen maksuista vuonna 2024 annetun valtioneuvoston asetuksen liitteen muuttamisesta](391.md) `391/2024`
+- [Työ\- ja elinkeinoministeriön asetus tilintarkastajan hyväksymisedellytyksistä annetun työ\- ja elinkeinoministeriön asetuksen muuttamisesta](392.md) `392/2024`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskoroista](393.md) `393/2024`
+- [Ulkoministeriön asetus investointituki kehitysmaille \-rahoitusinstrumentilla rahoitettavista hankkeista Ruandan kanssa tehdystä puitesopimuksesta](394.md) `394/2024`
+- [Laki työttömyysturvalain muuttamisesta](395.md) `395/2024`
+- [Laki työttömyysturvalain muuttamisesta annetun lain eräiden säännösten kumoamisesta](396.md) `396/2024`
+- [Laki työttömyysturvalain 5 luvun 4 §:n muuttamisesta](397.md) `397/2024`
+- [Laki työvoimapalveluiden järjestämisestä annetun lain 12 luvun kumoamisesta](398.md) `398/2024`
+- [Laki julkisesta työvoima\- ja yrityspalvelusta annetun lain 11 luvun 1 ja 2 §:n kumoamisesta](399.md) `399/2024`
+- [Laki työllisyyden edistämisen kuntakokeilusta annetun lain 13 §:n kumoamisesta](400.md) `400/2024`
+- [Laki työttömyysturvalain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](401.md) `401/2024`
+- [Laki kryptovarapalvelun tarjoajista ja kryptovaramarkkinoista](402.md) `402/2024`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](403.md) `403/2024`
+- [Laki Finanssivalvonnan valvontamaksuista annetun lain muuttamisesta](404.md) `404/2024`
+- [Laki rikoslain muuttamisesta](405.md) `405/2024`
+- [Laki luottolaitostoiminnasta annetun lain 5 luvun 1 ja 2 §:n muuttamisesta](406.md) `406/2024`
+- [Laki sijoituspalvelulain 2 luvun muuttamisesta](407.md) `407/2024`
+- [Laki arvo\-osuusjärjestelmästä ja selvitystoiminnasta annetun lain 2 luvun 1 §:n muuttamisesta](408.md) `408/2024`
+- [Laki sijoitusrahastolain 2 luvun 2 §:n muuttamisesta](409.md) `409/2024`
+- [Laki vaihtoehtorahastojen hoitajista annetun lain 3 luvun 2 §:n muuttamisesta](410.md) `410/2024`
+- [Laki kaupankäynnistä rahoitusvälineillä annetun lain 2 luvun 1 §:n muuttamisesta](411.md) `411/2024`
+- [Laki rahankeräyslain muuttamisesta](412.md) `412/2024`
+- [Laki arpajaislain muuttamisesta](413.md) `413/2024`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä annetun lain muuttamisesta](414.md) `414/2024`
+- [Laki pankki\- ja maksutilien valvontajärjestelmästä annetun lain muuttamisesta](415.md) `415/2024`
+- [Laki Kilpailu\- ja kuluttajavirastosta annetun lain 11 §:n muuttamisesta](416.md) `416/2024`
+- [Laki oikeudenkäynnistä markkinaoikeudessa annetun lain 1 luvun 6 §:n muuttamisesta](417.md) `417/2024`
+- [Laki maksulaitoslain muuttamisesta](418.md) `418/2024`
+- [Laki sähköisen viestinnän palveluista annetun lain muuttamisesta](419.md) `419/2024`
+- [Laki  vaihtoehtoisella käyttövoimalla toimivan ajoneuvon hankinnan määräaikaisesta tukemisesta annetun lain muuttamisesta](420.md) `420/2024`
+- [Laki työttömyyskassalain muuttamisesta](421.md) `421/2024`
+- [Laki luonnonsuojelulain muuttamisesta](422.md) `422/2024`
+- [Valtioneuvoston asetus poronhoitovuodelta 2024/2025 maksettavasta eläinkohtaisesta tuesta](423.md) `423/2024`
+- [Valtioneuvoston asetus työ\- ja elinkeinoministeriöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](424.md) `424/2024`
+- [Työ\- ja elinkeinoministeriön asetus työ\- ja elinkeinoministeriön työjärjestyksestä annetun työ\- ja elinkeinoministeriön asetuksen 10 ja 19 §:n muuttamisesta](425.md) `425/2024`
+- [Laki ulkomaalaislain muuttamisesta](426.md) `426/2024`
+- [Laki kansainvälistä suojelua hakevan vastaanotosta sekä ihmiskaupan uhrin tunnistamisesta ja auttamisesta annetun lain 13 §:n muuttamisesta](427.md) `427/2024`
+- [Laki asunto\-osakeyhtiölain 8 luvun muuttamisesta](428.md) `428/2024`
+- [Laki rajavartiolain muuttamisesta](429.md) `429/2024`
+- [Laki henkilötietojen käsittelystä Rajavartiolaitoksessa annetun lain muuttamisesta](430.md) `430/2024`
+- [Laki eräiden alusten ja niitä palvelevien satamien turvatoimista ja turvatoimien valvonnasta annetun lain 17 §:n muuttamisesta](431.md) `431/2024`
+- [Laki valmisteverotuslain muuttamisesta](432.md) `432/2024`
+- [Laki tuloveroja koskevan kaksinkertaisen verotuksen poistamiseksi ja veron kiertämisen ja välttämisen estämiseksi Ranskan kanssa tehdystä sopimuksesta ja pöytäkirjasta](433.md) `433/2024`
+- [Laki julkisyhteisöjen henkilöstöltä vaadittavasta kielitaidosta annetun lain 12 §:n muuttamisesta](434.md) `434/2024`
+- [Laki työvoimapalveluiden järjestämisestä annetun lain muuttamisesta](435.md) `435/2024`
+- [Laki työvoimapalveluiden järjestämisestä annetun lain ja eräiden siihen liittyvien lakien voimaanpanosta annetun lain muuttamisesta](436.md) `436/2024`
+- [Laki työllistymisen monialaisesta edistämisestä annetun lain 9 ja 12 §:n muuttamisesta](437.md) `437/2024`
+- [Laki työttömyysturvalain muuttamisesta ja väliaikaisesta muuttamisesta](438.md) `438/2024`
+- [Laki sosiaaliturvajärjestelmien yhteensovittamista koskevan Euroopan unionin lainsäädännön soveltamisesta annetun lain 6 ja 11 §:n muuttamisesta](439.md) `439/2024`
+- [Laki palkkaturvalain 10 §:n muuttamisesta](440.md) `440/2024`
+- [Laki merimiesten palkkaturvalain 9 §:n muuttamisesta](441.md) `441/2024`
+- [Laki tulotietojärjestelmästä annetun lain 13 §:n muuttamisesta](442.md) `442/2024`
+- [Laki julkisesta työvoima\- ja yrityspalvelusta annetun lain muuttamisesta](443.md) `443/2024`
+- [Laki elinkeino\-, liikenne\- ja ympäristökeskuksista sekä elinkeino\-, liikenne\- ja ympäristökeskusten kehittämis\- ja hallintokeskuksesta annetun lain 3 a §:n muuttamisesta](444.md) `444/2024`
+- [Laki työttömyysturvalain 2 a luvun 9 §:n muuttamisesta](445.md) `445/2024`
+- [Laki yrityspalvelujen asiakastietojärjestelmästä annetun lain 10 §:n muuttamisesta](446.md) `446/2024`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain 31 a §:n muuttamisesta](447.md) `447/2024`
+- [Laki arvonlisäverolain muuttamisesta](448.md) `448/2024`
+- [Laki oma\-aloitteisten verojen verotusmenettelylain 39 §:n muuttamisesta](449.md) `449/2024`
+- [Maa\- ja metsätalousministeriön asetus pyyntiluvalla sallittavasta euroopanmajavan metsästyksestä metsästysvuosina 2024–2027](450.md) `450/2024`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvan ja alueellisen kiintiön nojalla sallittavasta karhun metsästyksestä metsästysvuonna 2024–2025](451.md) `451/2024`
+- [Valtioneuvoston asetus yhteisestä ilmailualueesta Euroopan unionin ja sen jäsenvaltioiden sekä Armenian tasavallan välillä tehdyn sopimuksen väliaikaisesta soveltamisesta](452.md) `452/2024`
+- [Valtioneuvoston asetus lentoliikenteestä Euroopan unionin ja sen jäsenvaltioiden sekä Qatarin valtion välillä tehdyn sopimuksen väliaikaisesta soveltamisesta](453.md) `453/2024`
+- [Valtioneuvoston asetus yhteisestä ilmailualueesta Euroopan unionin ja sen jäsenvaltioiden sekä Ukrainan välillä tehdyn sopimuksen väliaikaisesta soveltamisesta](454.md) `454/2024`
+- [Työ\- ja elinkeinoministeriön asetus Energiaviraston maksullisista suoritteista vuosina 2023–2025 annetun työ\- ja elinkeinoministeriön asetuksen muuttamisesta](455.md) `455/2024`
+- [Sisäministeriön asetus sisäministeriön työjärjestyksestä annetun sisäasiainministeriön asetuksen 42 ja 44 §:n muuttamisesta](456.md) `456/2024`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveydenhuollon asiakastietojen käsittelystä](457.md) `457/2024`
+- [Valtioneuvoston asetus eräiden maa\- ja puutarhataloudesta peräisin olevien päästöjen rajoittamisesta annetun valtioneuvoston asetuksen muuttamisesta](458.md) `458/2024`
+- [Maa\- ja metsätalousministeriön asetus hallin metsästyksestä alueellisen kiintiön nojalla metsästysvuosina 2024–2027](459.md) `459/2024`
+- [Valtioneuvoston asetus pyörillä varustettujen ajoneuvojen määräajoin toistettavien katsastusten yhdenmukaisten ehtojen hyväksymisestä sekä näiden katsastusten vastavuoroisesta tunnustamisesta tehdyn sopimuksen 1 normiin tehdystä muutoksesta](460.md) `460/2024`
+- [Valtioneuvoston asetus kansainvälisen merenkulun turvalaitejärjestöstä tehdystä yleissopimuksesta](461.md) `461/2024`
+- [Laki arvonlisäverolain 84 ja 85 b §:n muuttamisesta](462.md) `462/2024`
+- [Laki eräistä vakuutusmaksuista suoritettavasta verosta annetun lain 3 §:n muuttamisesta](463.md) `463/2024`
+- [Laki yhteisen kalastuspolitiikan seuraamusjärjestelmästä ja valvonnasta annetun lain muuttamisesta](464.md) `464/2024`
+- [Laki asevelvollisuuslain 32 ja 48 §:n muuttamisesta](465.md) `465/2024`
+- [Laki kansainvälistä suojelua hakevan vastaanotosta sekä ihmiskaupan uhrin tunnistamisesta ja auttamisesta annetun lain väliaikaisesta muuttamisesta](466.md) `466/2024`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](467.md) `467/2024`
+- [Laki hyvinvointialueesta annetun lain muuttamisesta](468.md) `468/2024`
+- [Laki sosiaali\- ja terveydenhuollon järjestämisestä annetun lain muuttamisesta](469.md) `469/2024`
+- [Laki pelastustoimen järjestämisestä annetun lain muuttamisesta](470.md) `470/2024`
+- [Laki sosiaali\- ja terveydenhuollon sekä pelastustoimen järjestämisestä Uudellamaalla annetun lain 11 ja 17 §:n muuttamisesta](471.md) `471/2024`
+- [Laki ulkomaalaislain muuttamisesta](472.md) `472/2024`
+- [Laki kolmansien maiden kansalaisten maahantulon ja oleskelun edellytyksistä tutkimuksen, opiskelun, työharjoittelun ja vapaaehtoistoiminnan perusteella annetun lain 2 §:n muuttamisesta](473.md) `473/2024`
+- [Laki kansalaisuuslain muuttamisesta](474.md) `474/2024`
+- [Laki liikenteessä käytettävien vaihtoehtoisten polttoaineiden jakeluinfrastruktuurista](475.md) `475/2024`
+- [Laki  rakennusten varustamisesta sähköajoneuvojen latauspisteillä ja latauspistevalmiuksilla sekä automaatio\- ja ohjausjärjestelmillä annetun lain 4 ja 9 §:n muuttamisesta](476.md) `476/2024`
+- [Laki ajoneuvo\- ja liikennepalveluhankintojen ympäristö\- ja energiatehokkuusvaatimuksista annetun lain 7 ja 8 §:n muuttamisesta](477.md) `477/2024`
+- [Tasavallan presidentin asetus eräiden rahanpesun ja terrorismin rahoittamisen estämisestä annetun lain mukaisten tehtävien hoitamisesta Ahvenanmaalla](478.md) `478/2024`
+- [Valtioneuvoston asetus metsästyslaissa säädetyistä poikkeusluvista annetun valtioneuvoston asetuksen muuttamisesta](479.md) `479/2024`
+- [Valtioneuvoston asetus työttömyyskassalain täytäntöönpanosta annetun valtioneuvoston asetuksen 9 ja 10 §:n muuttamisesta](480.md) `480/2024`
+- [Valtioneuvoston asetus työsopimuslaissa säädetyn seuraamusmaksun euromäärien tarkistamisesta](481.md) `481/2024`
+- [Laki väliaikaisista toimenpiteistä välineellistetyn maahantulon torjumiseksi](482.md) `482/2024`
+- [Ulkoministeriön asetus ulkoministeriön työjärjestyksestä annetun ulkoministeriön asetuksen muuttamisesta](483.md) `483/2024`
+- [Ulkoministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta \(EU\) 2024/1485 Venäjän tilanteen johdosta määrättävistä rajoittavista toimenpiteistä](484.md) `484/2024`
+- [Laki  puolustusyhteistyöstä Suomen tasavallan hallituksen ja Amerikan yhdysvaltojen hallituksen välillä tehdystä sopimuksesta](485.md) `485/2024`
+- [Laki  ampuma\-aselain 17 §:n muuttamisesta](486.md) `486/2024`
+- [Laki  ulkomaalaislain 40 §:n muuttamisesta](487.md) `487/2024`
+- [Laki  sotilasajoneuvolain muuttamisesta](488.md) `488/2024`
+- [Laki  arvonlisäverolain muuttamisesta](489.md) `489/2024`
+- [Laki  valtion vahingonkorvaustoiminnasta annetun lain 1 §:n muuttamisesta](490.md) `490/2024`
+- [Laki  ajokorttilain 58 a §:n muuttamisesta](491.md) `491/2024`
+- [Laki  sähköisen viestinnän palveluista annetun lain muuttamisesta](492.md) `492/2024`
+- [Laki  ilmailulain 112 §:n muuttamisesta](493.md) `493/2024`
+- [Laki  lentoasemaverkosta ja \-maksuista annetun lain 8 §:n muuttamisesta](494.md) `494/2024`
+- [Laki  ajoneuvolain muuttamisesta](495.md) `495/2024`
+- [Maa\- ja metsätalousministeriön asetus allin metsästyksen rajoittamisesta metsästysvuosina 2024–2027](496.md) `496/2024`
+- [Maa\- ja metsätalousministeriön asetus metsähanhen metsästyksen kieltämisestä metsästysvuonna 2024–2025](497.md) `497/2024`
+- [Maa\- ja metsätalousministeriön asetus punasotkan metsästyksen kieltämisestä metsästysvuosina 2024–2027](498.md) `498/2024`
+- [Laki ennakkoperintälain muuttamisesta](499.md) `499/2024`
+- [Laki kaksikäyttötuotteiden vientivalvonnasta](500.md) `500/2024`
+- [Laki rikoslain 46 luvun 1 ja 12 §:n muuttamisesta](501.md) `501/2024`
+- [Maa\- ja metsätalousministeriön asetus eräisiin Euroopan unionin jäsenvaltioiden välisiin eläinten siirtoihin sovellettavista eläinterveyttä koskevista vaatimuksista ja poikkeuksista annetun maa\- ja metsätalousministeriön asetuksen 3 ja 6 §:n muuttamisesta](502.md) `502/2024`
+- [Valtioneuvoston asetus liikenne\- ja viestintäministeriöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](503.md) `503/2024`
+- [Valtioneuvoston asetus tilaajan selvitysvelvollisuudesta ja vastuusta ulkopuolista työvoimaa käytettäessä annetussa laissa säädettyjen laiminlyöntimaksujen enimmäis\- ja vähimmäismäärien tarkistamisesta](504.md) `504/2024`
+- [Valtioneuvoston asetus elpymis\- ja palautumissuunnitelman mukaisista sosiaali\- ja terveysalan valtionavustuksista vuosina 2021–2025 annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](505.md) `505/2024`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](506.md) `506/2024`
+- [Sisäministeriön asetus Maahanmuuttoviraston suoritteiden maksullisuudesta vuonna 2024 annetun sisäministeriön asetuksen 5 §:n muuttamisesta](507.md) `507/2024`
+- [Sisäministeriön asetus pelastustoimen virkapuvusta sekä pelastusviranomaisen henkilökortista annetun sisäministeriön asetuksen muuttamisesta](508.md) `508/2024`
+- [Maa\- ja metsätalousministeriön asetus metson, teeren, pyyn ja riekon metsästyksen kieltämisestä metsästysvuonna 2024–2025](509.md) `509/2024`
+- [Työ\- ja elinkeinoministeriön asetus työvoimapoliittisen lausunnon antamisesta ja lausuntoon merkittävistä tiedoista annetun työ\- ja elinkeinoministeriön asetuksen 4 §:n muuttamisesta](510.md) `510/2024`
+- [Työ\- ja elinkeinoministeriön asetus työvoimapoliittisista lausunnoista ja yhteistyövelvoitteesta työllisyyden edistämisen kuntakokeilussa annetun työ\- ja elinkeinoministeriön asetuksen 3 §:n kumoamisesta](511.md) `511/2024`
+- [Työ\- ja elinkeinoministeriön asetus työvoimapoliittisen lausunnon antamisesta ja lausuntoon merkittävistä tiedoista](512.md) `512/2024`
+- [Sisäministeriön ilmoitus sisäministeriön asetuksesta Veikkaus Oy:n rahapelien pelisäännöistä](513.md) `513/2024`
+- [Valtioneuvoston asetus puolustusyhteistyöstä Suomen tasavallan hallituksen ja Amerikan yhdysvaltojen hallituksen välillä tehdystä sopimuksesta](514.md) `514/2024`
+- [Valtioneuvoston asetus ampuma\-aselain 17 §:n muuttamisesta annetun lain voimaantulosta](515.md) `515/2024`
+- [Valtioneuvoston asetus ulkomaalaislain 40 §:n muuttamisesta annetun lain voimaantulosta](516.md) `516/2024`
+- [Valtioneuvoston asetus sotilasajoneuvolain muuttamisesta annetun lain voimaantulosta](517.md) `517/2024`
+- [Valtioneuvoston asetus arvonlisäverolain muuttamisesta annetun lain voimaantulosta](518.md) `518/2024`
+- [Valtioneuvoston asetus valtion vahingonkorvaustoiminnasta annetun lain 1 §:n muuttamisesta annetun lain voimaantulosta](519.md) `519/2024`
+- [Valtioneuvoston asetus ajokorttilain 58 a §:n muuttamisesta annetun lain voimaantulosta](520.md) `520/2024`
+- [Valtioneuvoston asetus sähköisen viestinnän palveluista annetun lain muuttamisesta annetun lain voimaantulosta](521.md) `521/2024`
+- [Valtioneuvoston asetus ilmailulain 112 §:n muuttamisesta annetun lain voimaantulosta](522.md) `522/2024`
+- [Valtioneuvoston asetus lentoasemaverkosta ja \-maksuista annetun lain 8 §:n muuttamisesta annetun lain voimaantulosta](523.md) `523/2024`
+- [Valtioneuvoston asetus ajoneuvolain muuttamisesta annetun lain voimaantulosta](524.md) `524/2024`
+- [Valtioneuvoston asetus sähköisen liikenteen, biokaasun ja uusiutuvan vedyn liikennekäytön infrastruktuurituesta vuosina 2022–2025 annetun valtioneuvoston asetuksen muuttamisesta](525.md) `525/2024`
+- [Valtioneuvoston asetus vientivalvontaneuvottelukunnasta](526.md) `526/2024`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](527.md) `527/2024`
+- [Valtioneuvoston asetus alueiden kehittämisestä ja Euroopan unionin alue\- ja rakennepolitiikan toimeenpanosta annetussa laissa tarkoitetuista tukialueista vuosina 2022–2027 annetun valtioneuvoston asetuksen 1 ja 2 §:n muuttamisesta](528.md) `528/2024`
+- [Ulkoministeriön asetus Suomen tuesta palestiinalaishallinnon opetussektorille palestiinalaishallinnon kanssa tehdyn sopimuksen muuttamisesta tehdystä sopimuksesta](529.md) `529/2024`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveydenhuollon valtakunnallisten tietojärjestelmäpalvelujen käyttömaksuista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](530.md) `530/2024`
+- [Tasavallan presidentin asetus Euroopan maaseudun kehittämisen maatalousrahaston \(maaseuturahasto\) maksajaviraston ja hallintoviranomaisen tehtävien hoidosta Ahvenanmaan maakunnassa](531.md) `531/2024`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](532.md) `532/2024`
+- [Maa\- ja metsätalousministeriön asetus Maanmittauslaitoksen palvelupisteistä ja niiden sijainnista](533.md) `533/2024`
+- [Ulkoministeriön asetus Sukupuolittuneen väkivallan ehkäisyn ja vastatoimien vahvistamisen ohjelmasta Kenian kanssa tehdyn sopimuksen muuttamisesta tehdystä sopimuksesta](534.md) `534/2024`
+- [Sosiaali\- ja terveysministeriön asetus poronhoitajien sijaisavun enimmäismäärästä vuonna 2024 annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](535.md) `535/2024`
+- [Ulkoministeriön asetus investointituki kehitysmaille \-rahoitusinstrumentilla rahoitettavista hankkeista Lesothon kanssa tehdystä puitesopimuksesta](536.md) `536/2024`
+- [Ulkoministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoministeriön asetuksen muuttamisesta](537.md) `537/2024`
+- [Valtioneuvoston asetus rahanpesun ja terrorismin rahoittamisen estämisestä annetussa laissa tarkoitetuista merkittävistä julkisista tehtävistä annetun valtioneuvoston asetuksen muuttamisesta](538.md) `538/2024`
+- [Valtioneuvoston asetus valtionavustustoiminnan tietovarantoon tallennettavista vähimmäistiedoista sekä valtionavustustietojen julkaisemisen ja käytön palvelussa julkaistavasta tietoaineistosta annetun valtioneuvoston asetuksen muuttamisesta](539.md) `539/2024`
+- [Valtioneuvoston asetus kalastuspäiväkirjaan kirjattavan saalisarvion sallitusta poikkeamasta annetun valtioneuvoston asetuksen kumoamisesta](540.md) `540/2024`
+- [Valtioneuvoston asetus ruoka\-aputoimintaan myönnettävistä valtionavustuksista](541.md) `541/2024`
+- [Valtiovarainministeriön asetus Suomen presidentit – Martti Oiva Kalevi Ahtisaari \-juhlarahasta](542.md) `542/2024`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen muuttamisesta](543.md) `543/2024`
+- [Laki kasvinsuojeluaineista annetun lain muuttamisesta](544.md) `544/2024`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](545.md) `545/2024`
+- [Sisäministeriön asetus kriisinhallintaan osallistuvan siviilihenkilön palvelussuhteen ehdoista annetun sisäministeriön asetuksen liitteen muuttamisesta](546.md) `546/2024`
+- [Valtioneuvoston asetus elpymis\- ja palautumistukivälineestä annettavaa tukea koskevista riskienhallinta\- ja petostentorjuntatoimista](547.md) `547/2024`
+- [Valtioneuvoston asetus Oikeuspalveluvirastosta](548.md) `548/2024`
+- [Valtioneuvoston asetus huumausaineina pidettävistä aineista, valmisteista ja kasveista annetun valtioneuvoston asetuksen liitteen IV muuttamisesta](549.md) `549/2024`
+- [Valtioneuvoston asetus kuluttajamarkkinoilta kielletyistä psykoaktiivisista aineista annetun valtioneuvoston asetuksen liitteen muuttamisesta](550.md) `550/2024`
+- [Laki konkurssipesien hallinnon valvonnasta annetun lain muuttamisesta](551.md) `551/2024`
+- [Laki maakaaren muuttamisesta](552.md) `552/2024`
+- [Laki kaupanvahvistajista annetun lain muuttamisesta](553.md) `553/2024`
+- [Laki huoneistotietojärjestelmästä annetun lain 10 §:n muuttamisesta](554.md) `554/2024`
+- [Laki Kevasta annetun lain muuttamisesta](555.md) `555/2024`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](556.md) `556/2024`
+- [Laki Finanssivalvonnan valvontamaksuista annetun lain 6 §:n muuttamisesta](557.md) `557/2024`
+- [Valtioneuvoston asetus  Euroopan unionin ja sen jäsenvaltioiden sekä Kolumbian ja Perun välisestä kauppasopimuksesta](558.md) `558/2024`
+- [Valtioneuvoston asetus Euroopan unionin ja sen jäsenvaltioiden sekä Kolumbian ja Perun väliseen kauppasopimukseen Ecuadorin liittymisen huomioon ottamiseksi tehdystä liittymispöytäkirjasta](559.md) `559/2024`
+- [Tasavallan presidentin asetus arvonimistä annetun tasavallan presidentin asetuksen liitteen 1 muuttamisesta](560.md) `560/2024`
+- [Laki vakuutusten tarjoamisesta annetun lain 58 ja 72 §:n muuttamisesta](561.md) `561/2024`
+- [Laki vakuutusyhtiölain 6 luvun 17 a §:n muuttamisesta](562.md) `562/2024`
+- [Maa\- ja metsätalousministeriön asetus Maanmittauslaitoksen maksuista sekä kaupanvahvistuksesta perittävistä maksuista ja korvauksista vuonna 2025](563.md) `563/2024`
+- [Laki huoneistotietojärjestelmää koskevan lainsäädännön voimaanpanosta annetun lain 16 §:n muuttamisesta](564.md) `564/2024`
+- [Laki tupakkaverosta annetun lain liitteen muuttamisesta](565.md) `565/2024`
+- [Valtioneuvoston asetus konkurssiasiamiehen tehtävien järjestämisestä ja konkurssiasiain neuvottelukunnasta](566.md) `566/2024`
+- [Valtioneuvoston asetus lainhuuto\- ja kiinnitysrekisteristä annetun asetuksen muuttamisesta](567.md) `567/2024`
+- [Valtioneuvoston päätös huoltovarmuuden tavoitteista](568.md) `568/2024`
+- [Laki sosiaali\- ja terveysalan yhdistysten ja säätiöiden rahoituksesta annetun lain 5 §:n muuttamisesta](569.md) `569/2024`
+- [Valtioneuvoston asetus yhteistoiminnasta väestönsuojeluun varautumisessa](570.md) `570/2024`
+- [Valtioneuvoston asetus ympäristövahinkorahastosta annetussa laissa tarkoitetuista korvauksista ja avustuksista](571.md) `571/2024`
+- [Ulkoministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoministeriön asetuksen muuttamisesta](572.md) `572/2024`
+- [Sosiaali\- ja terveysministeriön asetus palkkakertoimesta vuodelle 2025](573.md) `573/2024`
+- [Sosiaali\- ja terveysministeriön asetus työeläkeindeksistä vuodelle 2025](574.md) `574/2024`
+- [Valtiovarainministeriön asetus Kirsi Kunnas 100 vuotta – Lastenkirjallisuus Suomessa \-juhlarahasta](575.md) `575/2024`
+- [Valtioneuvoston asetus monikielisestä yhteiskuntaorientaatiosta](576.md) `576/2024`
+- [Valtioneuvoston asetus ilman huoltajaa olevan lapsen edustajalle maksettavasta palkkiosta ja kulukorvauksesta](577.md) `577/2024`
+- [Valtioneuvoston asetus kaupan pitämisen vaatimuksista annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](578.md) `578/2024`
+- [Valtioneuvoston asetus valtion rahoituksen perusteena käytettävistä lukiokoulutuksen, taiteen perusopetuksen ja kansalaisopistojen keskimääräisistä yksikköhinnoista vuonna 2025](579.md) `579/2024`
+- [Valtioneuvoston asetus toimeentulotuen tarpeellisen suuruisten asumismenojen määrästä annetun valtioneuvoston asetuksen 2 §:n ja liitteen muuttamisesta](580.md) `580/2024`
+- [Valtioneuvoston asetus Ruotsin kanssa taksiliikenteestä tiellä tehdyn sopimuksen muuttamisesta tehdystä sopimuksesta sekä kansainvälistä taksiliikennettä tiellä koskevan Ruotsin kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta annetun lain muuttamisesta annetun lain voimaantulosta](581.md) `581/2024`
+- [Valtioneuvoston asetus sosiaalialan osaamiskeskustoiminnasta annetun valtioneuvoston asetuksen 1 ja 4 §:n muuttamisesta](582.md) `582/2024`
+- [Ulkoministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta \(EU\) 2024/2642 Venäjän epävakauttavien toimien johdosta määrättävistä rajoittavista toimenpiteistä](583.md) `583/2024`
+- [Ulkoministeriön asetus Euroopan unionin tilapäisen matkustusasiakirjan yhtenäisestä mallista](584.md) `584/2024`
+- [Verohallinnon päätös rakennusmaan verotusarvon laskentaperusteista](585.md) `585/2024`
+- [Valtioneuvoston asetus vuosina 2020–2025 maankäyttösektorin ilmastotoimenpiteisiin myönnettävästä avustuksesta ja tähän tarkoitukseen osoitetusta määrärahasta annetun valtioneuvoston asetuksen 7 ja 8 §:n muuttamisesta](586.md) `586/2024`
+- [Valtioneuvoston asetus ympäristöministeriöstä annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](587.md) `587/2024`
+- [Valtioneuvoston asetus Etelämannerta koskevaan sopimukseen liittyvän ympäristönsuojelupöytäkirjan liitteen V alaisista toimenpiteistä](588.md) `588/2024`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 82 §:ssä tarkoitetun elinaikakertoimen antamisesta](589.md) `589/2024`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](590.md) `590/2024`
+- [Laki valtiokonttorista annetun lain muuttamisesta](591.md) `591/2024`
+- [Laki julkisista hankinnoista ja käyttöoikeussopimuksista annetun lain 60 §:n muuttamisesta](592.md) `592/2024`
+- [Laki vesi\- ja energiahuollon, liikenteen ja postipalvelujen alalla toimivien yksiköiden hankinnoista ja käyttöoikeussopimuksista annetun lain 64 §:n muuttamisesta](593.md) `593/2024`
+- [Laki rikosvahinkolain muuttamisesta](594.md) `594/2024`
+- [Laki valtion virkamatkoilla sattuneiden vahinkojen korvaamisesta annetun lain 20 §:n 2 momentin kumoamisesta](595.md) `595/2024`
+- [Laki tapaturmavirastosta annetun lain kumoamisesta annetun lain 3 §:n kumoamisesta](596.md) `596/2024`
+- [Laki tulotietojärjestelmästä annetun lain 13 §:n muuttamisesta](597.md) `597/2024`
+- [Laki liikennevakuutuslain 29 §:n muuttamisesta](598.md) `598/2024`
+- [Laki maatilatalouden tuloverolain 5 ja 21 §:n muuttamisesta](599.md) `599/2024`
+- [Laki tuloverolain 32 §:n muuttamisesta](600.md) `600/2024`
+- [Laki sairausvakuutuslain 4 luvun väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](601.md) `601/2024`
+- [Laki sairausvakuutuslain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](602.md) `602/2024`
+- [Laki liiketoimintakiellosta annetun lain 3 ja 21 §:n muuttamisesta](603.md) `603/2024`
+- [Laki kaupparekisterilain 20 §:n muuttamisesta](604.md) `604/2024`
+- [Laki kirjanpitolain 1 ja 7 luvun muuttamisesta](605.md) `605/2024`
+- [Laki digitaalisten palvelujen tarjoamisesta annetun lain muuttamisesta](606.md) `606/2024`
+- [Laki sähköisen viestinnän palveluista annetun lain 308 §:n muuttamisesta](607.md) `607/2024`
+- [Laki eräiden tuotteiden esteettömyysvaatimuksista annetun lain 18 §:n muuttamisesta](608.md) `608/2024`
+- [Vuoden 2024 III lisätalousarvio](609.md) `609/2024`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](610.md) `610/2024`
+- [Laki luottolaitostoiminnasta annetun lain 9 ja 11 luvun muuttamisesta](611.md) `611/2024`
+- [Laki sijoituspalvelulain 7 luvun 2 §:n ja 7 a luvun 1 §:n muuttamisesta](612.md) `612/2024`
+- [Laki maksulaitoslain 19 a ja 19 b §:n muuttamisesta](613.md) `613/2024`
+- [Laki kaupankäynnistä rahoitusvälineillä annetun lain 3 luvun 1 ja 18 §:n muuttamisesta](614.md) `614/2024`
+- [Laki sijoitusrahastolain 5 luvun 1 §:n muuttamisesta](615.md) `615/2024`
+- [Laki vaihtoehtorahastojen hoitajista annetun lain 7 luvun 2 §:n muuttamisesta](616.md) `616/2024`
+- [Laki lisäeläkesäätiöistä ja lisäeläkekassoista annetun lain 1 luvun 13 §:n ja 3 luvun 12 §:n muuttamisesta](617.md) `617/2024`
+- [Laki vakuutusyhtiölain 6 luvun 8 §:n muuttamisesta](618.md) `618/2024`
+- [Laki Teollisen yhteistyön rahasto Oy \-nimisestä osakeyhtiöstä annetun lain 1 §:n muuttamisesta](619.md) `619/2024`
+- [Laki valtion erityisrahoitusyhtiöstä annetun lain 3 §:n muuttamisesta](620.md) `620/2024`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän työeläkevakuutusmaksuprosenteista vuonna 2025](621.md) `621/2024`
+- [Sosiaali\- ja terveysministeriön asetus yrittäjän työeläkevakuutusmaksuprosenteista ja maatalousyrittäjän työeläkevakuutusmaksun perusprosenteista vuonna 2025](622.md) `622/2024`
+- [Verohallinnon päätös vuodelta 2025 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](623.md) `623/2024`
+- [Verohallinnon päätös matkakuluvähennyksen määrästä vuodelta 2024 toimitettavassa verotuksessa](624.md) `624/2024`
+- [Verohallinnon päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](625.md) `625/2024`
+- [Verohallinnon päätös metsän keskimääräisestä vuotuisesta tuotosta](626.md) `626/2024`
+- [Verohallinnon päätös verovapaista matkakustannusten korvauksista vuonna 2025](627.md) `627/2024`
+- [Oikeusministeriön asetus velallisen maksukyvyn arvioinnista yksityishenkilön velkajärjestelyssä annetun oikeusministeriön asetuksen 4 §:n muuttamisesta](628.md) `628/2024`
+- [Valtioneuvoston asetus Rikosseuraamuslaitoksesta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](629.md) `629/2024`
+- [Valtioneuvoston asetus huoneistotietojärjestelmää koskevan lainsäädännön voimaantulosta](630.md) `630/2024`
+- [Ympäristöministeriön asetus asuin\-, majoitus\- ja työtiloista](631.md) `631/2024`
+- [Valtiovarainministeriön asetus Valtiokonttorin maksullisista suoritteista vuosina 2025 ja 2026](632.md) `632/2024`
+- [Sosiaali\- ja terveysministeriön asetus  imeväisten ja pikkulasten ruokintaa koskevasta tiedotusaineistosta](633.md) `633/2024`
+- [Sosiaali\- ja terveysministeriön asetus lääkkeen määräämisestä annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](634.md) `634/2024`
+- [Verohallinnon päätös yleisestä tiedonantovelvollisuudesta](635.md) `635/2024`
+- [Ulkoministeriön asetus Euroopan unionin tilapäisen matkustusasiakirjan yhtenäisestä mallista annetun ulkoministeriön asetuksen liitteen 2 muuttamisesta](636.md) `636/2024`
+- [Oikeusministeriön asetus Oikeuspalveluviraston toimipaikoista](637.md) `637/2024`
+- [Vuoden 2024 II lisätalousarvio](638.md) `638/2024`
+- [Valtioneuvoston asetus kaivosmineraaliveron verotusarvojen perusteena sovellettavista hintatiedoista annetun valtioneuvoston asetuksen 1 ja 2 §:n muuttamisesta](639.md) `639/2024`
+- [Valtioneuvoston asetus Valtiokonttorista](640.md) `640/2024`
+- [Valtioneuvoston asetus porotaloudesta saatujen tulojen vuoden 2024 verotuksessa noudatettavista tuottoperusteista](641.md) `641/2024`
+- [Valtioneuvoston asetus sisäministeriöstä annetun valtioneuvoston asetuksen 7 ja 8 §:n muuttamisesta](642.md) `642/2024`
+- [Valtioneuvoston asetus liikenne\- ja viestintäministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](643.md) `643/2024`
+- [Valtioneuvoston asetus eräiden eläinlääkintähuoltolakiin liittyvien lakien voimaantulosta](644.md) `644/2024`
+- [Oikeusministeriön asetus suojaosuuden määrästä määräajoin maksettavan palkan ulosmittauksessa vuonna 2025](645.md) `645/2024`
+- [Oikeusministeriön asetus oikeusministeriön ja eräiden hallinnonalalla toimivien viranomaisten maksullisista suoritteista vuosina 2025–2027](646.md) `646/2024`
+- [Liikenne\- ja viestintäministeriön asetus  liikenne\- ja viestintäministeriön työjärjestyksestä annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](647.md) `647/2024`
+- [LUETTELO kuntien ja seurakuntien tuloveroprosenteista vuonna 2025](648.md) `648/2024`
+- [Laki ilmailulain muuttamisesta](649.md) `649/2024`
+- [Laki uusiutuvien polttoaineiden käytön edistämisestä liikenteessä annetun lain muuttamisesta](650.md) `650/2024`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](651.md) `651/2024`
+- [Laki osakeyhtiölain muuttamisesta](652.md) `652/2024`
+- [Laki kauppakamarilain 2 §:n muuttamisesta](653.md) `653/2024`
+- [Laki luottolaitosten ja sijoituspalveluyritysten kriisinratkaisusta annetun lain muuttamisesta](654.md) `654/2024`
+- [Laki luottolaitostoiminnasta annetun lain 1 luvun 4 a §:n muuttamisesta](655.md) `655/2024`
+- [Laki sijoituspalvelulain 13 a luvun 2 §:n muuttamisesta](656.md) `656/2024`
+- [Laki rahoitusvakausviranomaisesta annetun lain 5 ja 7 luvun muuttamisesta](657.md) `657/2024`
+- [Laki yliopistolain muuttamisesta](658.md) `658/2024`
+- [Laki ammattikorkeakoululain muuttamisesta](659.md) `659/2024`
+- [Laki elintarvikelain 5 §:n muuttamisesta](660.md) `660/2024`
+- [Laki sähköisen viestinnän palveluista annetun lain 3 § muuttamisesta](661.md) `661/2024`
+- [Laki maataloustuotteiden markkinajärjestelystä annetun lain 3 §:n muuttamisesta](662.md) `662/2024`
+- [Laki Ilmatieteen laitoksesta annetun lain 1 ja 2 §:n muuttamisesta](663.md) `663/2024`
+- [Laki puolustusvoimista annetun lain 11 §:n muuttamisesta](664.md) `664/2024`
+- [Laki maatalousyrittäjän eläkelain muuttamisesta](665.md) `665/2024`
+- [Laki ulkomaalaislain muuttamisesta](666.md) `666/2024`
+- [Laki diplomaattisten tai konsuliedustustojen tai kansainvälisissä hallitustenvälisissä järjestöissä toimivien edustustojen työntekijöiden perheenjäsenten ansiotyöstä Ukrainan kanssa tehdystä sopimuksesta](667.md) `667/2024`
+- [Ulkoministeriön asetus Suomen tuesta Tansanian Metsien, maankäytön ja arvoketjujen kehittäminen Tansaniassa \-hankkeelle Tansanian kanssa tehdystä sopimuksesta](668.md) `668/2024`
+- [Laki rauhoitettujen eläinten aiheuttamien vahinkojen ennalta ehkäisemisestä ja korvaamisesta annetun lain 3 ja 4 §:n muuttamisesta](669.md) `669/2024`
+- [Työ\- ja elinkeinoministeriön asetus työ\- ja elinkeinoministeriön työjärjestyksestä annetun työ\- ja elinkeinoministeriön asetuksen muuttamisesta](670.md) `670/2024`
+- [Valtioneuvoston asetus Euroopan unionin ja sen jäsenvaltioiden sekä Japanin välisestä strategisesta kumppanuussopimuksesta](671.md) `671/2024`
+- [Oikeusministeriön päätös  yleisen asianajajayhdistyksen sääntöjen vahvistamisesta](672.md) `672/2024`
+- [Valtioneuvoston asetus ennakkoperintäasetuksen 3 ja 4 §:n muuttamisesta](673.md) `673/2024`
+- [Valtioneuvoston asetus vuodelta 2024 maksettavasta lihan ja vuodelta 2023 maksettavasta maidon kuljetusavustuksesta sekä vuodelta 2024 maksettavasta eräiden kotieläintalouden palvelujen tuesta](674.md) `674/2024`
+- [Valtioneuvoston asetus vuodelta 2024 maksettavista maatalouden tuotannosta irrotetuista suorista tuista annetun valtioneuvoston asetuksen muuttamisesta](675.md) `675/2024`
+- [Valtioneuvoston asetus vuodelta 2024 maksettavasta tuotantosidonnaisesta tulotuesta annetun valtioneuvoston asetuksen 27 ja 29 §:n muuttamisesta](676.md) `676/2024`
+- [Valtioneuvoston asetus eräiden maatalouden tuista annettujen valtioneuvoston asetusten kumoamisesta](677.md) `677/2024`
+- [Valtioneuvoston asetus rauhoitettujen eläinten aiheuttamien vahinkojen ennalta ehkäisemisestä ja korvaamisesta annetun valtioneuvoston asetuksen 2 ja 7 §:n muuttamisesta](678.md) `678/2024`
+- [Valtioneuvoston asetus aluehallintovirastoista annetun valtioneuvoston asetuksen 13 a §:n muuttamisesta](679.md) `679/2024`
+- [Valtioneuvoston asetus korkeakouluopiskelijoiden opiskeluterveydenhuollon maksuista vuonna 2025](680.md) `680/2024`
+- [Valtiovarainministeriön asetus rakennusten jälleenhankinta\-arvon perusteista määrättäessä verotusarvoa vuodelta 2024](681.md) `681/2024`
+- [Valtiovarainministeriön asetus vesivoimalaitoksen ja sen rakenteiden jälleenhankinta\-arvon perusteista määrättäessä verotusarvoa vuodelta 2024](682.md) `682/2024`
+- [Valtioneuvoston asetus rakennuksen esteettömyydestä annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](683.md) `683/2024`
+- [Verohallinnon päätös ennakonpidätyksen toimittamistavoista ja määrästä](684.md) `684/2024`
+- [Valtioneuvoston asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyvään kiinteiden irtolastien aluskuljetusta koskevaan kansainväliseen säännöstöön tehdyistä muutoksista](685.md) `685/2024`
+- [Valtioneuvoston asetus kansainvälisen meriliikenteen helpottamista koskevan yleissopimuksen liitteeseen tehdyistä muutoksista](686.md) `686/2024`
+- [Maa\- ja metsätalousministeriön asetus kaupallisista kalastajista annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](687.md) `687/2024`
+- [Valtiovarainministeriön asetus Tullin suoritteiden maksullisuudesta](688.md) `688/2024`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön maksullisista suoritteista vuosina 2025 ja 2026](689.md) `689/2024`
+- [Laki  kumppanuutta ja yhteistyötä koskevasta Euroopan unionin ja sen jäsenvaltioiden sekä Malesian hallituksen välisestä puitesopimuksesta](690.md) `690/2024`
+- [Laki arvonlisäverolain muuttamisesta](691.md) `691/2024`
+- [Laki Ahvenanmaan maakuntaa koskevista poikkeuksista arvonlisävero\- ja valmisteverolainsäädäntöön annetun lain 18 b ja 22 a §:n muuttamisesta](692.md) `692/2024`
+- [Laki sairausvakuutuslain 11 ja 18 luvun muuttamisesta](693.md) `693/2024`
+- [Laki sairausvakuutusmaksujen maksuprosenteista vuonna 2025](694.md) `694/2024`
+- [Laki ulkomaalaislain 71 ja 72 §:n muuttamisesta](695.md) `695/2024`
+- [Laki rikoslain 25 luvun 3 §:n muuttamisesta](696.md) `696/2024`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](697.md) `697/2024`
+- [Laki arvopaperimarkkinalain muuttamisesta](698.md) `698/2024`
+- [Laki kaupankäynnistä rahoitusvälineillä annetun lain 3 luvun 8 §:n muuttamisesta](699.md) `699/2024`
+- [Laki varhaiskasvatuslain 22 §:n ja 70 §:n 2 momentin 5 kohdan kumoamisesta](700.md) `700/2024`
+- [Laki vuoden 2025 tuloveroasteikosta](701.md) `701/2024`
+- [Laki tuloverolain muuttamisesta ja väliaikaisesta muuttamisesta](702.md) `702/2024`
+- [Laki elinkeinotulon verottamisesta annetun lain 56 §:n kumoamisesta](703.md) `703/2024`
+- [Laki maatilatalouden tuloverolain 10 f §:n kumoamisesta](704.md) `704/2024`
+- [Laki verotusmenettelystä annetun lain 15 d §:n muuttamisesta](705.md) `705/2024`
+- [Laki verontilityslain 12 ja 12 f §:n muuttamisesta](706.md) `706/2024`
+- [Laki alkoholi\- ja alkoholijuomaverosta annetun lain liitteen muuttamisesta](707.md) `707/2024`
+- [Laki ammatillisesta koulutuksesta annetun lain muuttamisesta](708.md) `708/2024`
+- [Laki lukiolain 13 ja 31 §:n muuttamisesta](709.md) `709/2024`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](710.md) `710/2024`
+- [Laki metsätalouden määräaikaisesta kannustejärjestelmästä annetun lain muuttamisesta](711.md) `711/2024`
+- [Laki Metsähallituksen erävalvonnasta annetun lain muuttamisesta](712.md) `712/2024`
+- [Laki metsästyslain 89 §:n muuttamisesta](713.md) `713/2024`
+- [Laki kalastuslain 99 ja 108 §:n muuttamisesta](714.md) `714/2024`
+- [Laki puolustusvoimista annetun lain 50 §:n 4 momentin kumoamisesta](715.md) `715/2024`
+- [Valtioneuvoston asetus vapaa\-ajankalastuksen saalisilmoituksesta](716.md) `716/2024`
+- [Valtioneuvoston asetus Suomen elpymis\- ja palautumissuunnitelman mukaisia energiainvestointeja vuosina 2022–2026 koskevasta tuesta annetun valtioneuvoston asetuksen muuttamisesta](717.md) `717/2024`
+- [Verohallinnon päätös autoveroilmoituksella ilmoitettavista tiedoista](718.md) `718/2024`
+- [Valtioneuvoston asetus eräiden maaseudun kehittämisen korvauksien, suorien viljelijätukien ja maa\- ja puutarhatalouden kansallisten tukien korvaus\- ja tukialueista ja niiden saaristoksi luettavista osa\-alueista annetun valtioneuvoston asetuksen liitteen 1 ja 2 muuttamisesta](719.md) `719/2024`
+- [Valtioneuvoston asetus sika\- ja siipikarjatalouden tuotannosta irrotetusta tuesta annetun valtioneuvoston asetuksen 10 §:n muuttamisesta](720.md) `720/2024`
+- [Valtioneuvoston asetus eräiden maa\- ja puutarhatalouden kansallisista tuista annettujen valtioneuvoston asetusten kumoamisesta](721.md) `721/2024`
+- [Valtioneuvoston asetus maatalousmaan kipsikäsittelyyn vuosina 2020–2025 myönnettävästä tuesta annetun valtioneuvoston asetuksen muuttamisesta](722.md) `722/2024`
+- [Laki tutkimus\- ja kehitystiedon vaihdosta Amerikan Yhdysvaltojen kanssa tehtyyn sopimukseen tehdystä muutoksesta 2](723.md) `723/2024`
+- [Laki Patentti\- ja rekisterihallituksesta annetun lain muuttamisesta](724.md) `724/2024`
+- [Laki merimiespalvelulain muuttamisesta ja väliaikaisesta muuttamisesta](725.md) `725/2024`
+- [Laki Työkanava Oy \-nimisestä osakeyhtiöstä annetun lain kumoamisesta](726.md) `726/2024`
+- [Laki työttömyysturvalain 2 a luvun 15 §:n kumoamisesta](727.md) `727/2024`
+- [Laki työvoimapalveluiden järjestämisestä annetun lain muuttamisesta](728.md) `728/2024`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveysministeriön maksullisista suoritteista](729.md) `729/2024`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain muuttamisesta](730.md) `730/2024`
+- [Laki opintotukilain 6 §:n muuttamisesta](731.md) `731/2024`
+- [Laki sairausvakuutuslain 18 luvun 13 §:n muuttamisesta](732.md) `732/2024`
+- [Laki kansaneläkelain muuttamisesta](733.md) `733/2024`
+- [Laki takuueläkkeestä annetun lain muuttamisesta](734.md) `734/2024`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 17 ja 20 §:n muuttamisesta](735.md) `735/2024`
+- [Laki vammaisetuuksista annetun lain muuttamisesta](736.md) `736/2024`
+- [Laki sairausvakuutuslain 8 luvun 2 ja 11 §:n muuttamisesta](737.md) `737/2024`
+- [Laki työttömyysturvalain 3 luvun 1 §:n muuttamisesta](738.md) `738/2024`
+- [Laki työkyvyttömyyseläkkeellä olevien työhönpaluun edistämisestä annetun lain 12 §:n muuttamisesta](739.md) `739/2024`
+- [Laki sosiaalihuollon ammattihenkilöistä annetun lain 12 ja 16 §:n muuttamisesta](740.md) `740/2024`
+- [Laki ikääntyneen väestön toimintakyvyn tukemisesta sekä iäkkäiden sosiaali\- ja terveyspalveluista annetun lain 20 §:n muuttamisesta](741.md) `741/2024`
+- [Laki ikääntyneen väestön toimintakyvyn tukemisesta sekä iäkkäiden sosiaali\- ja terveyspalveluista annetun lain muuttamisesta annetun lain voimaantulosäännöksen 4 momentin kumoamisesta](742.md) `742/2024`
+- [Laki elinkeino\-, liikenne\- ja ympäristökeskuksista sekä elinkeino\-, liikenne\- ja ympäristökeskusten kehittämis\- ja hallintokeskuksesta annetun lain 3 a §:n muuttamisesta](743.md) `743/2024`
+- [Laki yksityisten yritysten ja muiden yhteisöjen hyväksymisestä työnvälityspalvelujen eurooppalaisen verkoston \(Eures\) jäseniksi ja yhteistyökumppaneiksi annetun lain muuttamisesta](744.md) `744/2024`
+- [Laki Maanpuolustuskorkeakoulusta annetun lain muuttamisesta](745.md) `745/2024`
+- [Laki Digi\- ja väestötietovirastosta annetun lain 2 §:n muuttamisesta](746.md) `746/2024`
+- [Laki elintarvikemarkkinalain muuttamisesta](747.md) `747/2024`
+- [Laki elintarvikemarkkinalain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](748.md) `748/2024`
+- [Laki kilpailulain 39 §:n muuttamisesta](749.md) `749/2024`
+- [Maa\- ja metsätalousministeriön asetus zoonooseista annetun maa\- ja metsätalousministeriön asetuksen 33 §:n väliaikaisesta muuttamisesta annetun maa\- ja metsätalousministeriön asetuksen voimaantulosäännöksen muuttamisesta](750.md) `750/2024`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain muuttamisesta](751.md) `751/2024`
+- [Laki työttömyyskassalain 7 luvun otsikon ja 27 §:n muuttamisesta](752.md) `752/2024`
+- [Laki Euroopan unionin hiilirajamekanismia koskevan asetuksen toimeenpanosta annetun lain muuttamisesta](753.md) `753/2024`
+- [Laki ympäristönsuojelulain muuttamisesta](754.md) `754/2024`
+- [Opetus\- ja kulttuuriministeriön asetus ulkomailla järjestettävän yksityisen perusopetuksen maakohtaisten yksikköhintojen määräämisestä annetun opetus\- ja kulttuuriministeriön asetuksen 3 §:n muuttamisesta](755.md) `755/2024`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](756.md) `756/2024`
+- [Laki valtion talousarviosta annetun lain muuttamisesta](757.md) `757/2024`
+- [Laki talous\- ja rahaliiton vakaudesta, yhteensovittamisesta sekä ohjauksesta ja hallinnasta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta sekä julkisen talouden monivuotisia kehyksiä koskevista vaatimuksista annetun lain 6 §:n muuttamisesta](758.md) `758/2024`
+- [Laki valtion eläkerahastosta annetun lain 9 §:n muuttamisesta](759.md) `759/2024`
+- [Laki rahoitusvakausviranomaisesta annetun lain 6 luvun 2 §:n muuttamisesta](760.md) `760/2024`
+- [Laki valtion liikelaitoksista annetun lain 6 ja 12 §:n muuttamisesta](761.md) `761/2024`
+- [Laki Metsähallituksesta annetun lain 8 ja 33 §:n muuttamisesta](762.md) `762/2024`
+- [Laki valtioneuvostosta annetun lain 9 a §:n muuttamisesta](763.md) `763/2024`
+- [Laki palosuojelurahastolain 12 §:n muuttamisesta](764.md) `764/2024`
+- [Laki maatalouden interventiorahastosta annetun lain 9 §:n muuttamisesta](765.md) `765/2024`
+- [Laki valtion televisio\- ja radiorahastosta annetun lain 4 §:n muuttamisesta](766.md) `766/2024`
+- [Laki valtiontakuurahastosta annetun lain 8 §:n muuttamisesta](767.md) `767/2024`
+- [Laki huoltovarmuuden turvaamisesta annetun lain 12 a §:n muuttamisesta](768.md) `768/2024`
+- [Laki valtion asuntorahastosta annetun lain 5 §:n muuttamisesta](769.md) `769/2024`
+- [Laki perintökaaren 5 luvun 2 §:n 4 momentin kumoamisesta](770.md) `770/2024`
+- [Laki perintökaaren voimaanpanosta annetun lain 6 §:n muuttamisesta](771.md) `771/2024`
+- [Laki  rakennetun ympäristön tietojärjestelmästä annetun lain 2 ja 10 §:n muuttamisesta](772.md) `772/2024`
+- [Valtioneuvoston asetus merityötä koskevan yleissopimuksen ohjeiston muutoksista](773.md) `773/2024`
+- [Valtioneuvoston asetus julkisesta työvoima\- ja yrityspalvelusta annetun lain 12 luvun muuttamisesta annetun lain voimaantulosta](774.md) `774/2024`
+- [Valtioneuvoston asetus merityösopimuslain 3 luvun 1 §:n ja 13 luvun 12 §:n muuttamisesta annetun lain 13 luvun 12 §:n 1 momentin voimaantulosta](775.md) `775/2024`
+- [Valtiovarainministeriön asetus arvopaperin liikkeeseenlaskijan säännöllisestä tiedonantovelvollisuudesta annetun valtiovarainministeriön asetuksen 1 ja 7 §:n muuttamisesta](776.md) `776/2024`
+- [Valtioneuvoston asetus valtiovarainministeriöstä annetun valtioneuvoston asetuksen 2 ja 3 §:n muuttamisesta](777.md) `777/2024`
+- [Valtioneuvoston asetus tutkintojen ja muiden osaamiskokonaisuuksien viitekehyksestä annetun valtioneuvoston asetuksen liitteen muuttamisesta](778.md) `778/2024`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötietojärjestelmän tulojen jakamisesta vuosina 2025 ja 2026](779.md) `779/2024`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötietojärjestelmän suoritteista ja tietopalvelusta perittävistä maksuista vuosina 2025 ja 2026](780.md) `780/2024`
+- [Valtioneuvoston asetus turvavarastointiohjelmasta vuosina 2023–2028 annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](781.md) `781/2024`
+- [Verohallinnon päätös rakentamiseen liittyvästä tiedonantovelvollisuudesta](782.md) `782/2024`
+- [Valtioneuvoston asetus työttömyyskassalain täytäntöönpanosta annetun valtioneuvoston asetuksen muuttamisesta](783.md) `783/2024`
+- [Valtioneuvoston asetus työttömyysturvalain täytäntöönpanosta annetun valtioneuvoston asetuksen muuttamisesta](784.md) `784/2024`
+- [Valtioneuvoston asetus työttömyysetuuksien rahoituksesta annetun valtioneuvoston asetuksen muuttamisesta](785.md) `785/2024`
+- [Valtioneuvoston asetus naisiin kohdistuvan väkivallan ja perheväkivallan torjunnan toimikunnasta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](786.md) `786/2024`
+- [Valtioneuvoston asetus Maanmittauslaitoksesta annetun valtioneuvoston asetuksen muuttamisesta](787.md) `787/2024`
+- [Valtioneuvoston asetus sotainvalidien puolisoiden ja leskien sekä sotaleskien kuntoutuksesta vuonna 2025](788.md) `788/2024`
+- [Valtioneuvoston asetus kehittämis\- ja hallintokeskuksen kansainvälisen rekrytoinnin palveluista](789.md) `789/2024`
+- [Valtiovarainministeriön asetus positiivisesta luottotietorekisteristä annettavien suoritteiden maksullisuudesta vuonna 2025](790.md) `790/2024`
+- [Valtiovarainministeriön asetus Verohallinnon suoritteiden maksullisuudesta vuonna 2025](791.md) `791/2024`
+- [Valtiovarainministeriön asetus valtiovarainministeriön työjärjestyksestä annetun valtiovarainministeriön asetuksen muuttamisesta](792.md) `792/2024`
+- [Valtiovarainministeriön asetus  Digi\- ja väestötietoviraston suoritteiden maksuista vuonna 2025](793.md) `793/2024`
+- [Valtioneuvoston asetus elinkeino\-, liikenne\- ja ympäristökeskusten ja kehittämis\- ja hallintokeskuksen maksullisista suoritteista vuonna 2025](794.md) `794/2024`
+- [Ulkoministeriön asetus ulkoasianhallinnon suoritteiden maksuista vuonna 2025](795.md) `795/2024`
+- [Puolustusministeriön asetus asevelvollisuuslaissa ja terveydenhuollon järjestämisestä puolustusvoimissa annetussa laissa tarkoitetuista etuuksista annetun puolustusministeriön asetuksen 2 ja 7 §:n muuttamisesta](796.md) `796/2024`
+- [Työ\- ja elinkeinoministeriön asetus Turvallisuus\- ja kemikaaliviraston maksullisista suoritteista vuosina 2025–2026](797.md) `797/2024`
+- [Oikeusministeriön asetus  rikosseuraamuskeskuksen yksiköistä ja vankiloiden kaksikielisistä osastoista](798.md) `798/2024`
+- [Verohallinnon päätös veroilmoituksen ja kiinteistötietojen ilmoituksen antamisesta](799.md) `799/2024`
+- [Sosiaali\- ja terveysministeriön asetus työtapaturma\- ja ammattitautilain 87 §:n 3 momentin mukaisen haittarahan kertakorvauksen perusteista](800.md) `800/2024`
+- [Laki lukiolain muuttamisesta](801.md) `801/2024`
+- [Laki ylioppilastutkinnosta annetun lain muuttamisesta](802.md) `802/2024`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 24 §:n muuttamisesta](803.md) `803/2024`
+- [Laki oppivelvollisuuslain 23 §:n muuttamisesta](804.md) `804/2024`
+- [Laki pienhiukkasten, pilvien ja hivenkaasujen tutkimusinfrastruktuurin oikeushenkilöllisyydestä ja osittaisesta verovapaudesta Suomessa](805.md) `805/2024`
+- [Laki Euroopan unionin jäsenvaltioiden lainvalvontaviranomaisten välisestä tietojenvaihdosta](806.md) `806/2024`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain 25 §:n muuttamisesta](807.md) `807/2024`
+- [Laki henkilötietojen käsittelystä Tullissa annetun lain 23 §:n muuttamisesta](808.md) `808/2024`
+- [Laki henkilötietojen käsittelystä Rajavartiolaitoksessa annetun lain 35 §:n muuttamisesta](809.md) `809/2024`
+- [Maa\- ja metsätalousministeriön asetus kalastonhoitomaksun keräämisestä](810.md) `810/2024`
+- [Työ\- ja elinkeinoministeriön asetus Energiaviraston maksullisista suoritteista vuosina 2023–2025 annetun työ\- ja elinkeinoministeriön asetuksen muuttamisesta](811.md) `811/2024`
+- [Laki koulumatkatukilain muuttamisesta](812.md) `812/2024`
+- [Sisäministeriön asetus poliisin suoritteiden ja virka\-avun maksullisuudesta vuonna 2025](813.md) `813/2024`
+- [Laki ajoneuvoverolain 11 §:n ja liitteen muuttamisesta](814.md) `814/2024`
+- [Laki ajoneuvoverolain 11 §:n muuttamisesta](815.md) `815/2024`
+- [Laki työriitojen sovittelusta ja eräiden työtaistelutoimenpiteiden edellytyksistä annetun lain muuttamisesta](816.md) `816/2024`
+- [Valtiovarainministeriön asetus verovuodelta 2024 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista ja työnantajasuoritusten vähimmäismääristä](817.md) `817/2024`
+- [Sosiaali\- ja terveysministeriön asetus merimieseläkekassan vakuutusteknisen vastuuvelan laskuperusteista ja perusteista meri\-mieseläkelain 153 §:n mukaista vastuunjakoa varten annetun sosiaali\- ja terveysministeriön asetuksen liitteiden muuttamisesta](818.md) `818/2024`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](819.md) `819/2024`
+- [Maa\- ja metsätalousministeriön asetus Ruokaviraston maksullisista suoritteista vuonna 2025](820.md) `820/2024`
+- [Sosiaali\- ja terveysministeriön asetus turkistuottajille järjestettävien lomituspalvelujen enimmäismääristä vuonna 2025](821.md) `821/2024`
+- [Sosiaali\- ja terveysministeriön asetus poronhoitajien sijaisavun enimmäismäärästä vuonna 2025](822.md) `822/2024`
+- [Sosiaali\- ja terveysministeriön asetus eläkesäätiön vastuuvelan laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](823.md) `823/2024`
+- [Sosiaali\- ja terveysministeriön asetus eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](824.md) `824/2024`
+- [Sosiaali\- ja terveysministeriön asetus maatalousyrittäjien varhaisen tuen palvelujen ostopalvelusitoumuksesta](825.md) `825/2024`
+- [Ympäristöministeriön asetus ympäristöministeriön työjärjestyksestä annetun ympäristöministeriön asetuksen muuttamisesta](826.md) `826/2024`
+- [Opetus\- ja kulttuuriministeriön asetus Kansallisarkiston suoritteiden maksullisuudesta](827.md) `827/2024`
+- [Opetus\- ja kulttuuriministeriön asetus Opetushallituksen ja sen erillisyksiköiden maksullisista suoritteista annetun opetus\- ja kulttuuriministeriön asetuksen 1 §:n muuttamisesta](828.md) `828/2024`
+- [Valtiovarainministeriön asetus maksulaitoksen toimilupahakemukseen liitettävistä selvityksistä annetun valtiovarainministeriön asetuksen 14 ja 15 §:n muuttamisesta](829.md) `829/2024`
+- [Valtiovarainministeriön asetus luottolaitoksen ja sijoituspalveluyrityksen elvytyssuunnitelmiin sisällytettävistä tiedoista annetun valtiovarainministeriön asetuksen 2 §:n muuttamisesta](830.md) `830/2024`
+- [Valtiovarainministeriön asetus luottolaitosten ja sijoituspalveluyritysten kriisinratkaisusuunnitelmien laatimiseksi toimitettavista ja niihin sisällytettävistä tiedoista](831.md) `831/2024`
+- [Valtiovarainministeriön asetus seikoista, jotka on otettava huomioon arvioitaessa luottolaitoksen ja sijoituspalveluyrityksen taikka konsernin purkamis\- ja uudelleenjärjestämismahdollisuuksia](832.md) `832/2024`
+- [Liikenne\- ja viestintäministeriön asetus pakattujen vaarallisten aineiden kuljetuksesta ro\-ro\-aluksissa Itämerellä tehdystä yhteisymmärryspöytäkirjasta](833.md) `833/2024`
+- [Laki valtion televisio\- ja radiorahastosta annetun lain 3 §:n muuttamisesta](834.md) `834/2024`
+- [Laki opintotukilain muuttamisesta](835.md) `835/2024`
+- [Laki yleisestä asumistuesta annetun lain muuttamisesta](836.md) `836/2024`
+- [Laki valtion rahoituksesta evankelis\-luterilaiselle kirkolle eräisiin yhteiskunnallisiin tehtäviin annetun lain 2 §:n muuttamisesta](837.md) `837/2024`
+- [Laki ortodoksisesta kirkosta annetun lain 119 §:n muuttamisesta](838.md) `838/2024`
+- [Laki eläinten hyvinvoinnista annetun lain muuttamisesta](839.md) `839/2024`
+- [Laki eläinlääkärinammatin harjoittamisesta annetun lain 12 §:n muuttamisesta](840.md) `840/2024`
+- [Laki uusiutuvien polttoaineiden käytön edistämisestä liikenteessä annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](841.md) `841/2024`
+- [Laki uusiutuvien polttoaineiden käytön edistämisestä liikenteessä annetun lain muuttamisesta ja väliaikaisesta muuttamisesta annetun lain 5 b §:n 4 momentin kumoamisesta](842.md) `842/2024`
+- [Laki biopolttoaineista, bionesteistä ja biomassapolttoaineista annetun lain 4 ja 6 §:n muuttamisesta](843.md) `843/2024`
+- [Laki eräiden polttoaineiden elinkaarenaikaisten kasvihuonekaasupäästöjen vähentämisestä annetun lain kumoamisesta](844.md) `844/2024`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](845.md) `845/2024`
+- [Laki energiatehokkuuslain muuttamisesta](846.md) `846/2024`
+- [Laki toimeentulotuesta annetun lain muuttamisesta](847.md) `847/2024`
+- [Laki terveydenhuoltolain 51 a ja 51 b §:n muuttamisesta](848.md) `848/2024`
+- [Laki korkeakouluopiskelijoiden opiskeluterveydenhuollosta annetun lain 10 a ja 10 b §:n muuttamisesta](849.md) `849/2024`
+- [Tasavallan presidentin asetus eräiden saavutettavista digitaalisista palveluista annetun maakuntalain mukaisten tehtävien hoitamisesta Ahvenanmaalla](850.md) `850/2024`
+- [Tasavallan presidentin asetus ympäristövahinkomaksujen kantamisen hoitamisesta Ahvenanmaalla](851.md) `851/2024`
+- [Tasavallan presidentin asetus palkkaturvahakemusten vastaanottamisesta Ahvenanmaalla](852.md) `852/2024`
+- [Valtioneuvoston asetus hallituksen vuosikertomuksesta](853.md) `853/2024`
+- [Valtioneuvoston asetus  oikeusministeriöstä annetun valtioneuvoston asetuksen 1 ja 2 §:n muuttamisesta](854.md) `854/2024`
+- [Valtioneuvoston asetus oikeusministeriön hallinnonalan eräiltä virkamiehiltä vaadittavasta kielitaidosta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](855.md) `855/2024`
+- [Valtioneuvoston asetus rajavartiolaitoksesta annetun valtioneuvoston asetuksen 26 §:n muuttamisesta](856.md) `856/2024`
+- [Valtioneuvoston asetus valtion vastaanotto\- ja järjestelykeskusten virkojen täytöstä ja työjärjestyksestä sekä vastaanottopalveluista perittävästä maksusta annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](857.md) `857/2024`
+- [Valtioneuvoston asetus aluehallintovirastojen maksuista vuosina 2025 ja 2026](858.md) `858/2024`
+- [Valtioneuvoston asetus eräiden valtioneuvoston yleisistunnossaan tekemien, opetus\- ja kulttuuriministeriön hallinnonalaan kuuluvien päätösten maksullisuudesta ja maksujen suuruudesta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](859.md) `859/2024`
+- [Valtioneuvoston asetus työntekijän oleskeluluvan palkkarajan suuruudesta](860.md) `860/2024`
+- [Valtioneuvoston asetus yhteistoimintalaissa säädetyn hyvityksen enimmäismäärän tarkistamisesta](861.md) `861/2024`
+- [Valtiovarainministeriön asetus yksittäisten kuntien verovuoden 2025 yhteisöveron jako\-osuuksien laskentaperusteista](862.md) `862/2024`
+- [Oikeusministeriön asetus eräistä tietosuojavaltuutetun toimiston maksullisista suoritteista](863.md) `863/2024`
+- [Oikeusministeriön asetus  oikeusministeriön työjärjestyksestä annetun oikeusministeriön asetuksen muuttamisesta](864.md) `864/2024`
+- [Sosiaali\- ja terveysministeriön asetus Vankiterveydenhuollon yksikön maksullisista suoritteista](865.md) `865/2024`
+- [Sisäministeriön ilmoitus sisäministeriön asetuksesta Veikkaus Oy:n rahapelien pelisäännöistä](866.md) `866/2024`
+- [Valtioneuvoston asetus Euroopan unionin ja kansallisten viljelijätukien hyvän maatalouden ja ympäristön vaatimuksista annetun valtioneuvoston asetuksen muuttamisesta](867.md) `867/2024`
+- [Valtioneuvoston asetus eräiden maatalouden pinta\-alaperusteisten tukien myöntämisen yleisistä edellytyksistä annetun valtioneuvoston asetuksen muuttamisesta](868.md) `868/2024`
+- [Valtioneuvoston asetus osaamisen ja kotoutumisen palvelutarpeen arvioinnista](869.md) `869/2024`
+- [Valtioneuvoston asetus kunnan peruspalvelujen valtionosuudesta annetun valtioneuvoston asetuksen muuttamisesta](870.md) `870/2024`
+- [Valtioneuvoston asetus metsätalouden määräaikaisesta kannustejärjestelmästä annetun valtioneuvoston asetuksen muuttamisesta](871.md) `871/2024`
+- [Valtioneuvoston asetus kotoutumisen edistämiseen liittyvien kunnan, hyvinvointialueen ja Ahvenanmaan maakunnan terveys\- ja sairaanhoitoviranomaisen kustannusten korvaamisesta valtion varoista](872.md) `872/2024`
+- [Valtioneuvoston asetus hyvinvointialueiden rahoituksesta annetun valtioneuvoston asetuksen 2 ja 3 §:n muuttamisesta](873.md) `873/2024`
+- [Valtioneuvoston asetus valtakunnalliseen kotoutumisen tietovarantoon tallennettavista tiedoista](874.md) `874/2024`
+- [Valtioneuvoston asetus sosiaali\- ja terveysministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](875.md) `875/2024`
+- [Valtioneuvoston asetus sairausvakuutuksesta korvattavan taksimatkan enimmäishinnasta vuonna 2025](876.md) `876/2024`
+- [Valtioneuvoston asetus Maanpuolustuskorkeakoulusta annetun valtioneuvoston asetuksen 14 §:n muuttamisesta](877.md) `877/2024`
+- [Valtioneuvoston asetus puolustusvoimista annetun valtioneuvoston asetuksen 9 §:n muuttamisesta](878.md) `878/2024`
+- [Valtioneuvoston asetus puolustusministeriöstä annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](879.md) `879/2024`
+- [Verohallinnon päätös veroilmoituksessa annettavista tiedoista](880.md) `880/2024`
+- [Verohallinnon päätös muistiinpanovelvollisuudesta](881.md) `881/2024`
+- [Työ\- ja elinkeinoministeriön asetus Patentti\- ja rekisterihallituksen maksullisista suoritteista vuonna 2025](882.md) `882/2024`
+- [Sisäministeriön asetus sisäministeriön suoritteiden maksullisuudesta](883.md) `883/2024`
+- [Laki hyvinvointialueiden rahoituksesta annetun lain muuttamisesta](884.md) `884/2024`
+- [Opetus\- ja kulttuuriministeriön asetus ammatillisen koulutuksen tutkintorakenteesta annetun opetus\- ja kulttuuriministeriön asetuksen liitteen muuttamisesta](885.md) `885/2024`
+- [Laki oikeudenkäymiskaaren muuttamisesta](886.md) `886/2024`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain muuttamisesta](887.md) `887/2024`
+- [Laki pakkokeinolain muuttamisesta](888.md) `888/2024`
+- [Laki sakon täytäntöönpanosta annetun lain 30 §:n muuttamisesta](889.md) `889/2024`
+- [Laki oikeudenkäynnin julkisuudesta yleisissä tuomioistuimissa annetun lain 4 ja 14 §:n muuttamisesta](890.md) `890/2024`
+- [Laki turvatarkastuksista tuomioistuimissa annetun lain 1 ja 5 §:n muuttamisesta annetun lain 5 §:n ja voimaantulosäännöksen muuttamisesta](891.md) `891/2024`
+- [Laki rikosasioita koskevaa eurooppalaista tutkintamääräystä koskevan direktiivin täytäntöönpanosta annetun lain 16 §:n muuttamisesta](892.md) `892/2024`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvalla sallittavasta suden metsästyksestä metsästysvuonna 2024–2025](893.md) `893/2024`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvalla sallittavasta ilveksen metsästyksestä metsästysvuonna 2024–2025](894.md) `894/2024`
+- [Maa\- ja metsätalousministeriön asetus Suomen metsäkeskuksen suoritteiden maksullisuudesta vuonna 2025](895.md) `895/2024`
+- [Laki ilmastolain muuttamisesta](896.md) `896/2024`
+- [Laki rakentamislain muuttamisesta](897.md) `897/2024`
+- [Laki maankäyttö\- ja rakennuslain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](898.md) `898/2024`
+- [Laki alueidenkäyttölain muuttamisesta](899.md) `899/2024`
+- [Laki ympäristönsuojelulain 156 b §:n muuttamisesta](900.md) `900/2024`
+- [Laki viranomaisten suunnitelmien ja ohjelmien ympäristövaikutusten arvioinnista annetun lain 7 §:n muuttamisesta](901.md) `901/2024`
+- [Sisäministeriön asetus Maahanmuuttoviraston suoritteiden maksullisuudesta vuonna 2025](902.md) `902/2024`
+- [Sosiaali\- ja terveysministeriön asetus Terveyden ja hyvinvoinnin laitoksen maksullisista suoritteista annetun sosiaali\- ja terveysministeriön asetuksen 5 §:n muuttamisesta](903.md) `903/2024`
+- [Liikenne\- ja viestintäministeriön asetus Liikenne\- ja viestintäviraston liikennettä koskevista maksullisista suoritteista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](904.md) `904/2024`
+- [Liikenne\- ja viestintäministeriön asetus Liikenne\- ja viestintäviraston sähköiseen viestintään liittyvistä suoritteista perittävistä maksuista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](905.md) `905/2024`
+- [Liikenne\- ja viestintäministeriön asetus hallinnollisista taajuusmaksuista ja Liikenne\- ja viestintäviraston taajuushallinnollisista suoritteista perittävistä muista maksuista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](906.md) `906/2024`
+- [Laki yhdenvertaisuuslain 6 a §:n muuttamisesta](907.md) `907/2024`
+- [Ulkoministeriön asetus investointituki kehitysmaille \-rahoitusinstrumentilla rahoitettavista hankkeista Nepalin kanssa tehdystä puitesopimuksesta](908.md) `908/2024`
+- [Liikenne\- ja viestintäministeriön ilmoitus vaarallisten tavaroiden kansainvälisistä tiekuljetuksista tehdyn sopimuksen \(ADR\) liitteen A luvun 1\.5 mukaisesta monenkeskisestä sopimuksesta M353 annetun liikenne\- ja viestintäministeriön asetuksen voimaantulosta Ahvenanmaan maakunnassa](909.md) `909/2024`
+- [Laki yleisestä asumistuesta annetun lain muuttamisesta](910.md) `910/2024`
+- [Laki eläkkeensaajan asumistuesta annetun lain 11 ja 12 §:n muuttamisesta](911.md) `911/2024`
+- [Laki metsätuhojen torjunnasta annetun lain 21 §:n muuttamisesta](912.md) `912/2024`
+- [Laki tiettyjen Euroopan unionin ja kansallisten maatalouden tukien toimeenpanosta annetun lain muuttamisesta](913.md) `913/2024`
+- [Laki Euroopan unionin suorista viljelijätuista annetun lain 7 §:n muuttamisesta](914.md) `914/2024`
+- [Laki eräistä maaseudun kehittämisen korvauksista annetun lain 4 §:n muuttamisesta](915.md) `915/2024`
+- [Laki  maa\- ja puutarhatalouden kansallisista tuista annetun lain 24 a §:n muuttamisesta](916.md) `916/2024`
+- [Laki suurten konsernien vähimmäisverosta annetun lain muuttamisesta](917.md) `917/2024`
+- [Laki ympäristövahinkorahastosta annetun lain 37 ja 38 §:n muuttamisesta](918.md) `918/2024`
+- [Laki Finanssivalvonnasta annetun lain 5 §:n 15 kohdan kumoamisesta](919.md) `919/2024`
+- [Laki yleisradioverosta annetun lain 2 §:n muuttamisesta](920.md) `920/2024`
+- [Laki arvonlisäverolain muuttamisesta](921.md) `921/2024`
+- [Laki Ahvenanmaan maakuntaa koskevista poikkeuksista arvonlisävero\- ja valmisteverolainsäädäntöön annetun lain 22 a §:n muuttamisesta](922.md) `922/2024`
+- [Laki rikoslain muuttamisesta](923.md) `923/2024`
+- [Laki esitutkintalain 3 luvun 10 a §:n ja 4 luvun 19 §:n muuttamisesta](924.md) `924/2024`
+- [Laki liikenteen palveluista annetun lain 25 §:n muuttamisesta](925.md) `925/2024`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain 1 luvun 10 §:n ja 2 luvun 1 a §:n muuttamisesta](926.md) `926/2024`
+- [Laki poliisin säilyttämien henkilöiden kohtelusta annetun lain 16 luvun 2 §:n muuttamisesta](927.md) `927/2024`
+- [Laki pakkokeinolain 10 luvun 3 §:n muuttamisesta](928.md) `928/2024`
+- [Laki rikosrekisterilain 6 §:n muuttamisesta](929.md) `929/2024`
+- [Laki rikosvahinkolain 9 §:n muuttamisesta](930.md) `930/2024`
+- [Laki vankeuslain 19 luvun 4 ja 5 §:n muuttamisesta](931.md) `931/2024`
+- [Laki sairausvakuutuslain muuttamisesta](932.md) `932/2024`
+- [Laki sairausvakuutuslain muuttamisesta ja väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen 2 momentin kumoamisesta](933.md) `933/2024`
+- [Laki lääkelain muuttamisesta](934.md) `934/2024`
+- [Laki arvonlisäverolain muuttamisesta](935.md) `935/2024`
+- [Laki oma\-aloitteisten verojen verotusmenettelystä annetun lain 36 ja 38 §:n muuttamisesta](936.md) `936/2024`
+- [Laki merituulivoimasta talousvyöhykkeellä](937.md) `937/2024`
+- [Laki Suomen talousvyöhykkeestä annetun lain muuttamisesta](938.md) `938/2024`
+- [Laki Energiavirastosta annetun lain 1 §:n muuttamisesta](939.md) `939/2024`
+- [Laki Harmaan talouden selvitysyksiköstä annetun lain 6 §:n muuttamisesta](940.md) `940/2024`
+- [Laki oikeudenkäynnistä markkinaoikeudessa annetun lain 1 luvun 3 §:n muuttamisesta](941.md) `941/2024`
+- [Laki työsopimuslain 2 ja 13 luvun muuttamisesta](942.md) `942/2024`
+- [Laki merityösopimuslain 2 ja 13 luvun muuttamisesta](943.md) `943/2024`
+- [Laki työaikalain muuttamisesta](944.md) `944/2024`
+- [Laki merityöaikalain 20 b §:n muuttamisesta](945.md) `945/2024`
+- [Laki vuosilomalain 30 ja 31 §:n muuttamisesta](946.md) `946/2024`
+- [Laki merimiesten vuosilomalain 24 §:n muuttamisesta](947.md) `947/2024`
+- [Laki opintovapaalain 13 a §:n muuttamisesta](948.md) `948/2024`
+- [Laki yhteistoimintalain 38 §:n muuttamisesta](949.md) `949/2024`
+- [Laki työehtosopimuslain muuttamisesta](950.md) `950/2024`
+- [Laki työntekijöiden lähettämisestä annetun lain muuttamisesta](951.md) `951/2024`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](952.md) `952/2024`
+- [Laki työtapaturma\- ja ammattitautilain muuttamisesta](953.md) `953/2024`
+- [Laki maatalousyrittäjän työtapaturma\- ja ammattitautilain muuttamisesta](954.md) `954/2024`
+- [Laki liikennevakuutuslain muuttamisesta](955.md) `955/2024`
+- [Laki Liikennevakuutuskeskuksesta annetun lain 3 §:n muuttamisesta](956.md) `956/2024`
+- [Laki liikenne\- ja potilasvahinkolautakunnasta annetun lain 3 ja 17 §:n muuttamisesta](957.md) `957/2024`
+- [Laki liikennevakuutuslain perusteella korvattavasta kuntoutuksesta annetun lain 7 ja 16 §:n muuttamisesta](958.md) `958/2024`
+- [Laki potilasvakuutuslain muuttamisesta](959.md) `959/2024`
+- [Laki Potilasvakuutuskeskuksesta annetun lain 3 §:n muuttamisesta](960.md) `960/2024`
+- [Laki opiskeluun liittyvissä työhön rinnastettavissa olosuhteissa syntyneen vamman tai sairauden korvaamisesta annetun lain 1 ja 2 §:n muuttamisesta](961.md) `961/2024`
+- [Laki työttömyysturvalain muuttamisesta](962.md) `962/2024`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain 4 ja 8 §:n muuttamisesta](963.md) `963/2024`
+- [Laki sosiaali\- ja terveydenhuollon valvonnasta annetun lain muuttamisesta](964.md) `964/2024`
+- [Laki sosiaalihuoltolain 22 a §:n muuttamisesta](965.md) `965/2024`
+- [Laki rikosasioiden ja eräiden riita\-asioiden sovittelusta annetun lain muuttamisesta](966.md) `966/2024`
+- [Laki kansaneläkelain muuttamisesta](967.md) `967/2024`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötoimitusmaksusta vuonna 2025](968.md) `968/2024`
+- [Maa\- ja metsätalousministeriön asetus eräiden maa\- ja puutarhatalouden kansallisista tuista annettujen maa\- ja metsätalousministeriön asetusten kumoamisesta](969.md) `969/2024`
+- [Opetus\- ja kulttuuriministeriön asetus opetus\- ja kulttuuriministeriön maksullisista suoritteista](970.md) `970/2024`
+- [Maa\- ja metsätalousministeriön asetus metsätalouden kannustejärjestelmästä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](971.md) `971/2024`
+- [Maa\- ja metsätalousministeriön asetus  porovahinkolautakunnan maksullisista suoritteista vuosina 2025 ja 2026](972.md) `972/2024`
+- [Maa\- ja metsätalousministeriön asetus kunnaneläinlääkärin maksullisista suoritteista vuonna 2025](973.md) `973/2024`
+- [Maa\- ja metsätalousministeriön asetus eläinlääkintävahinkojen arviolautakunnan suoritteista perittävistä maksuista vuonna 2025](974.md) `974/2024`
+- [Sisäministeriön asetus käsisammuttimista](975.md) `975/2024`
+- [Sisäministeriön asetus  paloilmoittimista ja automaattisista sammutuslaitteistoista](976.md) `976/2024`
+- [Sisäministeriön asetus rakennusten poistumisreittien merkitsemisestä ja valaisemisesta](977.md) `977/2024`
+- [Sosiaali\- ja terveysministeriön asetus työtapaturma\- ja ammattitautilain mukaisesta siirtomenettelystä ja tilastohistoriasta annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](978.md) `978/2024`
+- [Sisäministeriön asetus suojelupoliisin suoritteiden maksullisuudesta vuonna 2025](979.md) `979/2024`
+- [Valtion talousarvio vuodelle 2025](980.md) `980/2024`
+- [Laki rahoitus\- ja vakuutusryhmittymien valvonnasta annetun lain 10 §:n muuttamisesta](981.md) `981/2024`
+- [Laki arvopaperimarkkinalain muuttamisesta](982.md) `982/2024`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](983.md) `983/2024`
+- [Laki luottolaitosten ja sijoituspalveluyritysten kriisinratkaisusta annetun lain muuttamisesta](984.md) `984/2024`
+- [Laki tilintarkastuslain muuttamisesta](985.md) `985/2024`
+- [Laki sijoituspalvelulain muuttamisesta](986.md) `986/2024`
+- [Laki sijoitusrahastolain muuttamisesta](987.md) `987/2024`
+- [Laki vaihtoehtorahastojen hoitajista annetun lain muuttamisesta](988.md) `988/2024`
+- [Laki vakuutusyhtiölain muuttamisesta](989.md) `989/2024`
+- [Laki lisäeläkesäätiöistä ja lisäeläkekassoista annetun lain muuttamisesta](990.md) `990/2024`
+- [Laki kirjanpitolain 7 luvun muuttamisesta](991.md) `991/2024`
+- [Laki kaivannaisteollisuutta ja puunkorjuuta aarniometsissä harjoittavien yritysten viranomaisille suorittamien maksujen julkistamisesta annetun lain 2 ja 8 §:n muuttamisesta](992.md) `992/2024`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](993.md) `993/2024`
+- [Laki kaupankäynnistä rahoitusvälineillä annetun lain muuttamisesta](994.md) `994/2024`
+- [Laki kiinnitysluottopankeista ja katetuista joukkolainoista annetun lain 9 ja 36 §:n muuttamisesta](995.md) `995/2024`
+- [Laki vesienhoidon ja merenhoidon järjestämisestä annetun lain muuttamisesta](996.md) `996/2024`
+- [Laki ympäristönsuojelulain muuttamisesta](997.md) `997/2024`
+- [Laki vesilain 3 ja 11 luvun muuttamisesta](998.md) `998/2024`
+- [Laki väylämaksulain muuttamisesta](999.md) `999/2024`
+- [Laki väylämaksulain muuttamisesta ja väliaikaisesta muuttamisesta annetun lain 6 ja 8 §:n kumoamisesta](1000.md) `1000/2024`
+- [Laki Valtion tukeman asuntorakentamisen keskuksesta](1001.md) `1001/2024`
+- [Laki vuokra\-asuntolainojen ja asumisoikeustalolainojen korkotuesta annetun lain muuttamisesta](1002.md) `1002/2024`
+- [Laki  vuokratalojen rakentamislainojen lyhytaikaisesta korkotuesta annetun lain muuttamisesta](1003.md) `1003/2024`
+- [Laki aravarajoituslain muuttamisesta](1004.md) `1004/2024`
+- [Laki  aravalain muuttamisesta](1005.md) `1005/2024`
+- [Laki asumisoikeusasunnoista annetun lain muuttamisesta](1006.md) `1006/2024`
+- [Laki avustuksista erityisryhmien asunto\-olojen parantamiseksi annetun lain muuttamisesta](1007.md) `1007/2024`
+- [Laki vuokra\-asuntojen rakentamislainojen valtiontakauksesta annetun lain muuttamisesta](1008.md) `1008/2024`
+- [Laki asunto\-osakeyhtiöiden perusparannuslainojen valtiontakauksesta annetun lain muuttamisesta](1009.md) `1009/2024`
+- [Laki rakennuksen energiatodistuksesta annetun lain muuttamisesta](1010.md) `1010/2024`
+- [Laki  rakennusten energiatodistustietojärjestelmästä annetun lain muuttamisesta](1011.md) `1011/2024`
+- [Laki asuinrakennusten ja asuntojen korjausavustuksista annetun lain muuttamisesta](1012.md) `1012/2024`
+- [Laki yhteishallinnosta valtion tukemissa vuokrataloissa annetun lain muuttamisesta](1013.md) `1013/2024`
+- [Laki asumisneuvonnan tuesta kunnille vuosina 2023–2027 annetun lain 8 §:n muuttamisesta](1014.md) `1014/2024`
+- [Laki asunto\-osakeyhtiötalolainojen korkotuesta annetun lain muuttamisesta](1015.md) `1015/2024`
+- [Laki tulotietojärjestelmästä annetun lain 13 §:n muuttamisesta](1016.md) `1016/2024`
+- [Laki Asumisen rahoitus\- ja kehittämiskeskuksesta annetun lain kumoamisesta](1017.md) `1017/2024`
+- [Puolustusministeriön asetus Maanpuolustuskoulutusyhdistyksen maksullisista suoritteista vuonna 2025](1018.md) `1018/2024`
+- [Puolustusministeriön asetus sotilaallisen kriisinhallintahenkilöstön pätevyysvaatimuksista ja palvelussuhteen ehdoista annetun puolustusministeriön asetuksen 8 §:n muuttamisesta](1019.md) `1019/2024`
+- [Oikeusministeriön asetus tuomioistuinmaksulain 2 §:ssä säädettyjen maksujen tarkistamisesta](1020.md) `1020/2024`
+- [Oikeusministeriön asetus eräistä tuomioistuinten hakemusmaksuista vuosina 2025–2027](1021.md) `1021/2024`
+- [Oikeusministeriön asetus tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista vuosina 2025–2027](1022.md) `1022/2024`
+- [Sosiaali\- ja terveysministeriön asetus lääkkeiden hintalautakunnan maksullisista suoritteista vuosina 2025–2027](1023.md) `1023/2024`
+- [Valtiovarainministeriön asetus Tilastokeskuksen suoritteiden maksullisuudesta vuonna 2025](1024.md) `1024/2024`
+- [Valtiovarainministeriön asetus verovuodelta 2025 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista ja työnantajasuoritusten vähimmäismääristä](1025.md) `1025/2024`
+- [Valtiovarainministeriön asetus vuoden 2025 taidekilpailupalkintojen verovapaudesta](1026.md) `1026/2024`
+- [Ympäristöministeriön asetus rakennuksen ilmastoselvityksestä ja rakennustuoteluettelosta](1027.md) `1027/2024`
+- [Valtioneuvoston asetus väkivallan ja häirinnän poistamisesta työelämässä tehdystä Kansainvälisen työjärjestön yleissopimuksesta](1028.md) `1028/2024`
+- [Laki saamen kielilain muuttamisesta](1029.md) `1029/2024`
+- [Laki kielilain muuttamisesta](1030.md) `1030/2024`
+- [Laki sähköisestä asioinnista viranomaistoiminnassa annetun lain 23 §:n kumoamisesta](1031.md) `1031/2024`
+- [Laki ministeriöiden ja valtion muiden viranomaisten määräyskokoelmista annetun lain 11 §:n kumoamisesta](1032.md) `1032/2024`
+- [Laki Suomen säädöskokoelmasta annetun lain 19 §:n kumoamisesta](1033.md) `1033/2024`
+- [Laki Ahvenanmaan hallintotuomioistuimesta annetun lain 8 §:n kumoamisesta](1034.md) `1034/2024`
+- [Laki Oikeusrekisterikeskuksesta annetun lain 6 §:n muuttamisesta](1035.md) `1035/2024`
+- [Laki keskinäisestä oikeusavusta rikosasioissa Euroopan unionin jäsenvaltioiden välillä tehdyn yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja yleissopimuksen soveltamisesta annetun lain 7 §:n kumoamisesta](1036.md) `1036/2024`
+- [Laki keskinäistä oikeusapua rikosasioissa koskevan eurooppalaisen yleissopimuksen eräiden määräysten hyväksymisestä sekä Suomen ja ulkomaan viranomaisen keskinäisestä oikeusavusta rikosasioissa eräissä tapauksissa annetun lain 9 §:n kumoamisesta](1037.md) `1037/2024`
+- [Laki liiketoimintakiellosta annetun lain muuttamisesta](1038.md) `1038/2024`
+- [Laki luvan saaneista oikeudenkäyntiavustajista annetun lain 29 §:n 2 momentin kumoamisesta](1039.md) `1039/2024`
+- [Laki verojen ja maksujen täytäntöönpanosta annetun lain 22 §:n kumoamisesta](1040.md) `1040/2024`
+- [Laki oikeusapulain 29 §:n muuttamisesta](1041.md) `1041/2024`
+- [Laki eräistä oikeudenkäynneistä valtion palveluksessa oleville aiheutuvien kustannusten korvaamisesta valtion varoista annetun lain 4 §:n kumoamisesta](1042.md) `1042/2024`
+- [Laki ulosottokaaren 1 luvun 7 §:n ja 12 luvun 1 §:n muuttamisesta](1043.md) `1043/2024`
+- [Laki ulosottomaksuista annetun lain 8 §:n muuttamisesta](1044.md) `1044/2024`
+- [Laki toimivallasta, sovellettavasta laista, toimenpiteiden tunnustamisesta ja täytäntöönpanosta sekä yhteistyöstä vanhempainvastuuseen ja lasten suojeluun liittyvissä asioissa tehdyn yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta annetun lain 13 §:n kumoamisesta](1045.md) `1045/2024`
+- [Laki maakaaren voimaanpanosta annetun lain 20 §:n kumoamisesta](1046.md) `1046/2024`
+- [Laki arvo\-osuustileistä annetun lain 43 §:n kumoamisesta](1047.md) `1047/2024`
+- [Laki löytötavaralain muuttamisesta](1048.md) `1048/2024`
+- [Laki haastemieslain muuttamisesta](1049.md) `1049/2024`
+- [Laki autokiinnityslain 23 §:n kumoamisesta](1050.md) `1050/2024`
+- [Laki maanvuokralain 89 §:n kumoamisesta](1051.md) `1051/2024`
+- [Laki lapsiasiavaltuutetusta annetun lain muuttamisesta](1052.md) `1052/2024`
+- [Sosiaali\- ja terveysministeriön asetus Lääkealan turvallisuus\- ja kehittämiskeskuksen maksullisista suoritteista](1053.md) `1053/2024`
+- [Sosiaali\- ja terveysministeriön asetus Sosiaali\- ja terveysalan tietolupaviranomaisen suoritteiden maksullisuudesta](1054.md) `1054/2024`
+- [Sosiaali\- ja terveysministeriön asetus  Säteilyturvakeskuksen suoritteista perittävistä maksuista vuonna 2025](1055.md) `1055/2024`
+- [Laki hyvinvointialueesta annetun lain muuttamisesta](1056.md) `1056/2024`
+- [Laki sosiaali\- ja terveydenhuollon sekä pelastustoimen järjestämisestä Uudellamaalla annetun lain 2 ja 17 §:n muuttamisesta](1057.md) `1057/2024`
+- [Valtioneuvoston asetus vuodelta 2025 maksettavasta tuotantosidonnaisesta tulotuesta](1058.md) `1058/2024`
+- [Valtioneuvoston asetus eläinten hyvinvointikorvausta koskevan sitoumuksen antamisesta vuonna 2025](1059.md) `1059/2024`
+- [Valtioneuvoston asetus eläinten hyvinvointikorvauksesta annetun valtioneuvoston asetuksen muuttamisesta](1060.md) `1060/2024`
+- [Valtioneuvoston asetus Euroopan unionin viljelijätukien ehdollisuuden lakisääteisistä hoitovaatimuksista sekä niiden ja hyvän maatalouden ja ympäristön vaatimusten noudattamisen valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](1061.md) `1061/2024`
+- [Valtioneuvoston asetus yrityksille myönnettävästä kansainvälistymisavustuksesta vuosina 2024–2030 annetun valtioneuvoston asetuksen muuttamisesta](1062.md) `1062/2024`
+- [Valtioneuvoston asetus rakentamisen suunnittelutehtävien ja työnjohtotehtävien vaativuusluokkien määräytymisestä sekä tehtävissä edellytettävistä koulutuksista](1063.md) `1063/2024`
+- [Laki vaalilain 41 §:n muuttamisesta](1064.md) `1064/2024`
+- [Laki vieraslajeista aiheutuvien riskien hallinnasta annetun lain muuttamisesta](1065.md) `1065/2024`
+- [Laki fossiilisen polttoaineen jakelun päästökaupasta](1066.md) `1066/2024`
+- [Laki kaupparekisterilain muuttamisesta](1067.md) `1067/2024`
+- [Laki jätelain muuttamisesta](1068.md) `1068/2024`
+- [Laki rikoslain 2 c luvun 5 §:n muuttamisesta](1069.md) `1069/2024`
+- [Laki henkilötietojen käsittelystä Rikosseuraamuslaitoksessa annetun lain muuttamisesta](1070.md) `1070/2024`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain muuttamisesta](1071.md) `1071/2024`
+- [Laki  kuntarakennelain 56 a ja 59 §:n muuttamisesta](1072.md) `1072/2024`
+- [Laki taloudellisesti tuetusta ammatillisen osaamisen kehittämisestä annetun lain muuttamisesta](1073.md) `1073/2024`
+- [Laki koulutuksen korvaamisesta annetun lain 2 §:n muuttamisesta](1074.md) `1074/2024`
+- [Laki vammaispalvelulain muuttamisesta](1075.md) `1075/2024`
+- [Laki sosiaalihuoltolain 4 §:n muuttamisesta](1076.md) `1076/2024`
+- [Laki ammatillisen koulutuksen toiminnanohjauksen kokeilusta](1077.md) `1077/2024`
+- [Laki ammatillisesta koulutuksesta annetun lain muuttamisesta](1078.md) `1078/2024`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](1079.md) `1079/2024`
+- [Laki valtakunnallisista opinto\- ja tutkintorekistereistä annetun lain 9 §:n muuttamisesta](1080.md) `1080/2024`
+- [Laki terveydenhuoltolain muuttamisesta](1081.md) `1081/2024`
+- [Laki terveydenhuoltolain 45 ja 50 §:n väliaikaisesta muuttamisesta](1082.md) `1082/2024`
+- [Laki sosiaalihuoltolain 29 a §:n muuttamisesta](1083.md) `1083/2024`
+- [Laki sosiaali\- ja terveydenhuoltoa ja pelastustoimea koskevan uudistuksen toimeenpanosta ja sitä koskevan lainsäädännön voimaanpanosta annetun lain 59 §:n kumoamisesta](1084.md) `1084/2024`
+- [Valtioneuvoston asetus työriitojen sovittelusta](1085.md) `1085/2024`
+- [Valtioneuvoston asetus ilmailulta rajoitetuista alueista annetun valtioneuvoston asetuksen muuttamisesta](1086.md) `1086/2024`
+- [Tasavallan presidentin asetus ulkomaisen työvoiman käytön linjauksista Ahvenanmaalla](1087.md) `1087/2024`
+- [Tasavallan presidentin asetus eräiden työttömyysturvalain mukaisten tehtävien hoitamisesta Ahvenanmaalla](1088.md) `1088/2024`
+- [Ympäristöministeriön asetus purkumateriaali\- ja rakennusjäteselvityksestä](1089.md) `1089/2024`
+- [Laki perusopetuslain muuttamisesta](1090.md) `1090/2024`
+- [Laki oppivelvollisuuslain muuttamisesta](1091.md) `1091/2024`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](1092.md) `1092/2024`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain muuttamisesta](1093.md) `1093/2024`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta annetun lain 13 §:n muuttamisesta](1094.md) `1094/2024`
+- [Laki työsopimuslain 4 luvun 4 §:n muuttamisesta](1095.md) `1095/2024`
+- [Laki merityösopimuslain 5 luvun 5 §:n muuttamisesta](1096.md) `1096/2024`
+- [Laki tutkintokoulutukseen valmentavasta koulutuksesta annetun lain 22 §:n muuttamisesta](1097.md) `1097/2024`
+- [Laki työvoimapalveluiden järjestämisestä annetun lain muuttamisesta](1098.md) `1098/2024`
+- [Laki valmiuslain muuttamisesta](1099.md) `1099/2024`
+- [Laki kotoutumisen edistämisestä annetun lain muuttamisesta](1100.md) `1100/2024`
+- [Laki työvoimapalveluiden järjestämisestä annetun lain 3 ja 82 §:n muuttamisesta](1101.md) `1101/2024`
+- [Laki työttömyysturvalain 1 ja 2 a luvun muuttamisesta](1102.md) `1102/2024`
+- [Laki kuntouttavasta työtoiminnasta annetun lain 3 §:n muuttamisesta](1103.md) `1103/2024`
+- [Laki vapaasta sivistystyöstä annetun lain 9 ja 24 §:n muuttamisesta](1104.md) `1104/2024`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain 29 §:n muuttamisesta](1105.md) `1105/2024`
+- [Laki toimeentulotuesta annetun lain muuttamisesta](1106.md) `1106/2024`
+- [Laki terveydenhuoltolain 53 ja 55 §:n muuttamisesta](1107.md) `1107/2024`
+- [Laki sosiaalihuoltolain 25 a ja 45 §:n muuttamisesta](1108.md) `1108/2024`
+- [Laki korkeakouluopiskelijoiden opiskeluterveydenhuollosta annetun lain 10 a ja 11 §:n muuttamisesta](1109.md) `1109/2024`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 4 §:n muuttamisesta](1110.md) `1110/2024`
+- [Laki turvallisesta ja ympäristön kannalta asianmukaisesta aluskierrätyksestä tehdystä Hongkongin kansainvälisestä yleissopimuksesta](1111.md) `1111/2024`
+- [Laki alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan I ja IV liitteeseen tehdyistä muutoksista](1112.md) `1112/2024`
+- [Laki alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan V liitteeseen tehdyistä muutoksista](1113.md) `1113/2024`
+- [Laki alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan uudistetusta VI liitteestä](1114.md) `1114/2024`
+- [Laki jätteen ja muun aineen mereen laskemisen aiheuttaman meren pilaantumisen ehkäisemisestä tehdyn vuoden 1972 yleissopimuksen vuoden 1996 pöytäkirjan liitteeseen 1 ja 2 tehdyistä muutoksista](1115.md) `1115/2024`
+- [Laki merenkulun ympäristönsuojelulain muuttamisesta](1116.md) `1116/2024`
+- [Laki aluksen teknisestä turvallisuudesta ja turvallisesta käytöstä annetun lain muuttamisesta](1117.md) `1117/2024`
+- [Laki alusturvallisuuden valvonnasta annetun lain 2 ja 11 §:n muuttamisesta](1118.md) `1118/2024`
+- [Laki alusturvallisuuden valvonnasta annetun lain 2 §:n muuttamisesta annetun lain kumoamisesta](1119.md) `1119/2024`
+- [Laki jätelain muuttamisesta](1120.md) `1120/2024`
+- [Laki ympäristönsuojelulain 169 ja 221 a §:n muuttamisesta](1121.md) `1121/2024`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](1122.md) `1122/2024`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskoroista](1123.md) `1123/2024`

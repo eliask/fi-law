@@ -1,0 +1,1737 @@
+# 2009 Statutes
+
+## Statutes
+
+- [Valtioneuvoston asetus tuotteiden ekologiselle suunnittelulle ja energiamerkinnälle asetettavista vaatimuksista](1.md) `1/2009`
+- [Liikenne\- ja viestintäministeriön asetus sairaankuljetuksen taksoista](2.md) `2/2009`
+- [Sosiaali\- ja terveysministeriön asetus työsuojelun piirihallinnon maksullisista suoritteista](3.md) `3/2009`
+- [Maa\- ja metsätalousministeriön asetus viljan interventio\-ostoissa noudatettavista eräistä menettelytavoista](4.md) `4/2009`
+- [Laki autoverolain muuttamisesta](5.md) `5/2009`
+- [Laki arvonlisäverolain muuttamisesta](6.md) `6/2009`
+- [Laki ajoneuvolain 60 §:n muuttamisesta](7.md) `7/2009`
+- [Valtioneuvoston asetus jalometallituotteista annetun valtioneuvoston asetuksen muuttamisesta](8.md) `8/2009`
+- [Tasavallan presidentin asetus palestiinalaishallinnon kanssa Suomen tuesta Pegase\-mekanismille tehdyn sopimuksen voimaansaattamisesta](9.md) `9/2009`
+- [Valtioneuvoston asetus sosiaali\- ja terveysministeriöstä annetun valtioneuvoston asetuksen 1 ja 2 §:n muuttamisesta](10.md) `10/2009`
+- [Valtioneuvoston asetus asuntojen korjaus\-, energia\- ja terveyshaitta\-avustuksista annetun asetuksen muuttamisesta](11.md) `11/2009`
+- [Oikeusministeriön asetus valtion oikeusaputoimistoista annetun oikeusministeriön asetuksen muuttamisesta](12.md) `12/2009`
+- [Oikeusministeriön asetus oikeusapupiireistä ja oikeusaputoimistojen toimipaikoista](13.md) `13/2009`
+- [Oikeusministeriön asetus sovittelijan palkkioista ja kulukorvauksista lapsen huoltoa ja tapaamisoikeutta koskevan päätöksen täytäntöönpanoa koskevassa asiassa](14.md) `14/2009`
+- [Valtiovarainministeriön asetus kunnallisista eläkkeistä](15.md) `15/2009`
+- [Valtioneuvoston asetus eläinten hyvinvoinnin tuesta vuosina 2008―2013 annetun valtioneuvoston asetuksen 9 ja 25 §:n muuttamisesta](16.md) `16/2009`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveysministeriön työjärjestyksen muuttamisesta](17.md) `17/2009`
+- [Verohallinnon päätös yleisestä tiedonantovelvollisuudesta](18.md) `18/2009`
+- [Laki viranomaisten sineteistä ja leimoista](19.md) `19/2009`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](20.md) `20/2009`
+- [Valtioneuvoston asetus alueellisesta kuljetustuesta](21.md) `21/2009`
+- [Valtioneuvoston asetus vuonna 2009 kertyvien työnantajan sosiaaliturvamaksujen jakautumasta](22.md) `22/2009`
+- [Valtioneuvoston asetus polttomoottoreiden pakokaasu\- ja hiukkaspäästöjen rajoittamisesta annetun valtioneuvoston asetuksen muuttamisesta](23.md) `23/2009`
+- [Maa\- ja metsätalousministeriön asetus varotoimenpiteistä lintuinfluenssan leviämisen ehkäisemiseksi luonnonvaraisten lintujen ja siipikarjan välillä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](24.md) `24/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta nautojen tarttuvan leukoosin vastustamisesta](25.md) `25/2009`
+- [Laki Euroopan unionin jäsenvaltioiden lainvalvontaviranomaisten välisen tietojen ja tiedustelutietojen vaihdon yksinkertaistamisesta tehdyn neuvoston puitepäätöksen lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja puitepäätöksen soveltamisesta](26.md) `26/2009`
+- [Valtiovarainministeriön asetus Fredrik Pacius \-juhlarahasta](27.md) `27/2009`
+- [Maa\- ja metsätalousministeriön asetus eräiden elintarvikehuoneistojen elintarvikehygieniasta](28.md) `28/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta toimenpiteistä Anoplophora glabripennis \-tuhoojan leviämisen estämiseksi Kiinasta \(Hongkongia lukuun ottamatta\) annetun päätöksen 85/1999 kumoamisesta](29.md) `29/2009`
+- [Valtioneuvoston asetus varainsiirtoverolain 14 §:n muuttamisesta annetun lain voimaantulosta](30.md) `30/2009`
+- [Sosiaali\- ja terveysministeriön asetus lääkäri\- ja hammaslääkärikoulutuksen sekä yliopistotasoisen terveystieteellisen tutkimustoiminnan korvauksen perusteista vuonna 2009](31.md) `31/2009`
+- [Ympäristöministeriön asetus biosidivalmisteen hyväksymisen tai rekisteröinnin hakemisesta, markkinoilta poistamisesta ja erityisehdoista annetun ympäristöministeriön asetuksen liitteen 1 muuttamisesta](32.md) `32/2009`
+- [Sisäasiainministeriön asetus sisäasiainministeriön työjärjestyksen muuttamisesta](33.md) `33/2009`
+- [Tasavallan presidentin asetus Suomen ulkomaanedustustojen sijaintipaikoista annetun tasavallan presidentin asetuksen 1 ja 3 §:n muuttamisesta](34.md) `34/2009`
+- [Valtioneuvoston asetus valtakunnallisen maaseudun kehittämisen ja tutkimuksen sekä maa\- ja elintarviketalouden tutkimuksen rahoituksesta](35.md) `35/2009`
+- [Sosiaali\- ja terveysministeriön asetus Sosiaali\- ja terveysalan lupa\- ja valvontaviraston maksullisista suoritteista](36.md) `36/2009`
+- [Opetusministeriön asetus opetusministeriön työjärjestyksen muuttamisesta](37.md) `37/2009`
+- [Tasavallan presidentin asetus Laosin kanssa kestävästä metsätalous\- ja maaseutukehityshankkeesta tehdyn yhteistyösopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](38.md) `38/2009`
+- [Tasavallan presidentin asetus aluksen polttoaineen aiheuttamasta pilaantumisvahingosta johtuvasta siviilioikeudellisesta vastuusta tehdyn kansainvälisen yleissopimuksen voimaansaattamisesta sekä yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](39.md) `39/2009`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavasta Etelä\-Suomen kansallisesta tuesta](40.md) `40/2009`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavasta pohjoisesta tuesta](41.md) `41/2009`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavasta ympäristötuen kansallisesta lisäosasta](42.md) `42/2009`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavasta luonnonhaittakorvauksen kansallisesta lisäosasta](43.md) `43/2009`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavasta perunantuotannon kansallisesta tuesta](44.md) `44/2009`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavasta sokerijuurikkaan kansallisesta tuesta](45.md) `45/2009`
+- [Laki terveydenhuollon ammattihenkilöistä annetun lain muuttamisesta](46.md) `46/2009`
+- [Laki lääkärin hyväksymisestä merimieslääkäriksi](47.md) `47/2009`
+- [Laki terveydenhuollon ammattihenkilöistä annetun lain 24 a §:n muuttamisesta](48.md) `48/2009`
+- [Sosiaali\- ja terveysministeriön asetus Merimieseläkekassan ja Maatalousyrittäjien eläkelaitoksen tilinpäätöksestä ja konsernitilinpäätöksestä annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](49.md) `49/2009`
+- [Maa\- ja metsätalousministeriön asetus kilohailin ja silakan kalastuksesta ja jälleenlaivauksesta Itämeren pääaltaalla vuonna 2009](50.md) `50/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta sikojen MRSA\-tartunnan seurannasta](51.md) `51/2009`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](52.md) `52/2009`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](53.md) `53/2009`
+- [Tasavallan presidentin asetus ydinterrorismin torjumisesta tehdyn kansainvälisen yleissopimuksen voimaansaattamisesta sekä yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](54.md) `54/2009`
+- [Valtioneuvoston asetus rikoslain muuttamisesta annetun lain voimaantulosta](55.md) `55/2009`
+- [Valtioneuvoston asetus rikoslain 1 luvun 7 §:n soveltamisesta annetun asetuksen 1 §:n muuttamisesta](56.md) `56/2009`
+- [Valtioneuvoston asetus ydinenergialain 69 §:n muuttamisesta annetun lain voimaantulosta](57.md) `57/2009`
+- [Valtioneuvoston asetus Euroopan unionin jäsenvaltioiden lainvalvontaviranomaisten välisen tietojen ja tiedustelutietojen vaihdon yksinkertaistamisesta tehdyssä neuvoston puitepäätöksessä tarkoitetuista yhteyspisteistä](58.md) `58/2009`
+- [Valtioneuvoston asetus autoverolain muuttamisesta annetun lain voimaantulosta](59.md) `59/2009`
+- [Valtioneuvoston asetus arvonlisäverolain muuttamisesta annetun lain voimaantulosta](60.md) `60/2009`
+- [Valtioneuvoston asetus ajoneuvolain 60 §:n muuttamisesta annetun lain voimaantulosta](61.md) `61/2009`
+- [Valtioneuvoston asetus kiinteistötoimitusmaksusta annetun valtioneuvoston asetuksen 7 §:n 1 momentin muuttamisesta](62.md) `62/2009`
+- [Maa\- ja metsätalousministeriön asetus Elintarviketurvallisuusviraston maksullisista suoritteista annetun maa\- ja metsätalousministeriön asetuksen liitteen muuttamisesta](63.md) `63/2009`
+- [Valtioneuvoston asetus ulkoasiainhallinnosta annetun valtioneuvoston asetuksen muuttamisesta](64.md) `64/2009`
+- [Valtioneuvoston asetus sähkömarkkinoista](65.md) `65/2009`
+- [Valtioneuvoston asetus sähköntoimitusten selvityksestä ja mittauksesta](66.md) `66/2009`
+- [Valtioneuvoston asetus talletuspankeille ja kiinnitysluottopankeille myönnettävistä väliaikaisista valtiontakauksista perittävistä maksuista](67.md) `67/2009`
+- [Valtioneuvoston asetus elinkeinosuunnitelmatuesta](68.md) `68/2009`
+- [Valtioneuvoston asetus tilaneuvontajärjestelmän täytäntöönpanosta annetun valtioneuvoston asetuksen 1 ja 5 §:n muuttamisesta](69.md) `69/2009`
+- [Valtioneuvoston asetus eläinten hyvinvoinnin tuen valvonnasta vuosina 2008―2013 annetun valtioneuvoston asetuksen 13 §:n muuttamisesta](70.md) `70/2009`
+- [Valtioneuvoston asetus merilain muuttamisesta annetun lain voimaantulosta](71.md) `71/2009`
+- [Valtioneuvoston asetus merilain 10 a luvun 8 §:n soveltamisesta](72.md) `72/2009`
+- [Ulkoasiainministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoasiainministeriön asetuksen muuttamisesta](73.md) `73/2009`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2009 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista](74.md) `74/2009`
+- [Maa\- ja metsätalousministeriön asetus kasvihuonetuotannon tuesta vuonna 2009](75.md) `75/2009`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisten tukien hakemusten toimittamista sekä kotieläinten laskentapäivistä ja \-ajankohdista vuonna 2009](76.md) `76/2009`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön kokonaan rahoittamista eläinpalkkioista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](77.md) `77/2009`
+- [Sisäasiainministeriön päätös Euroopan talousalueeseen kuulumattomista valtioista ja alueista, joiden rahanpesun ja terrorismin rahoituksen estämistä ja selvittämistä koskevat säännökset täyttävät rahanpesun ja terrorismin rahoittamisen estämisestä ja selvittämisestä annetussa laissa säädetyt edellytykset](78.md) `78/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinsuojeluaineen hyväksymisen hakemisesta ja hyväksymisestä sekä niihin liittyvistä menettelyistä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](79.md) `79/2009`
+- [Valtioneuvoston asetus Metsäntutkimuslaitoksesta annetun asetuksen 2 §:n muuttamisesta](80.md) `80/2009`
+- [Ulkoasiainministeriön asetus ulkoasiainministeriön työjärjestyksen muuttamisesta](81.md) `81/2009`
+- [Työ\- ja elinkeinoministeriön asetus työ\- ja elinkeinoministeriön työjärjestyksen muuttamisesta](82.md) `82/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](83.md) `83/2009`
+- [Laki yhdenvertaisuuslain 2 §:n muuttamisesta](84.md) `84/2009`
+- [Tasavallan presidentin asetus vuoden 1972 yleissopimukseen kansainvälisistä säännöistä yhteentörmäämisen ehkäisemiseksi merellä liittyvien sääntöjen muutosten voimaansaattamisesta](85.md) `85/2009`
+- [Valtioneuvoston asetus turvavarastointiohjelmasta vuonna 2009](86.md) `86/2009`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen muuttamisesta](87.md) `87/2009`
+- [Sosiaali\- ja terveysministeriön asetus lääkevaihdosta annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](88.md) `88/2009`
+- [Valtiovarainministeriön asetus vuoden 2009 kiinteistöveron eräpäivistä](89.md) `89/2009`
+- [Valtiovarainministeriön asetus jäännösveron ja metsänhoitomaksun eräpäivistä vuodelta 2008](90.md) `90/2009`
+- [Työ\- ja elinkeinoministeriön asetus talous\- ja velkaneuvontapalvelujen tuottajalle vuonna 2009 maksettavan korvauksen perusteista](91.md) `91/2009`
+- [Valtioneuvoston asetus työmarkkina\-alueista](92.md) `92/2009`
+- [Valtioneuvoston asetus säteilyasetuksen 24 a §:n kumoamisesta](93.md) `93/2009`
+- [Sosiaali\- ja terveysministeriön asetus Sosiaali\- ja terveysalan lupa\- ja valvontaviraston maksullisista suoritteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](94.md) `94/2009`
+- [Valtioneuvoston asetus maatalouden investointituesta ja nuoren viljelijän aloitustuesta annetun valtioneuvoston asetuksen 19 §:n muuttamisesta](95.md) `95/2009`
+- [Valtioneuvoston asetus vuodelta 2008 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen muuttamisesta](96.md) `96/2009`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavasta eräiden peltokasvien ja nautojen tuotantopalkkiosta](97.md) `97/2009`
+- [Valtioneuvoston asetus tuesta tilaneuvontaan vuonna 2009](98.md) `98/2009`
+- [Sosiaali\- ja terveysministeriön asetus tupakkatuotteiden ja tupakointivälineiden vähittäismyynnin omavalvontasuunnitelmasta](99.md) `99/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden maatilalain mukaisten myyntihintasaamisten ja lainojen viitekorosta](100.md) `100/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden porotalouden ja luontaiselinkeinojen rahoituslain mukaisten asuntolainojen viitekorosta](101.md) `101/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinterveyden suojelemisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](102.md) `102/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinterveyden suojelemisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](103.md) `103/2009`
+- [Ympäristöministeriön työjärjestys](104.md) `104/2009`
+- [Riistavahinkolaki](105.md) `105/2009`
+- [Laki metsästyslain 87 §:n muuttamisesta](106.md) `106/2009`
+- [Maa\- ja metsätalousministeriön asetus elintarvikkeen kanssa kosketukseen joutuvista muovisista tarvikkeista](107.md) `107/2009`
+- [Työ\- ja elinkeinoministeriön asetus kosmeettisten valmisteiden eläinkoekielloista](108.md) `108/2009`
+- [Laki Euroopan yhteisöjen ja niiden jäsenvaltioiden sekä Montenegron tasavallan välisen vakautus\- ja assosiaatiosopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](109.md) `109/2009`
+- [Valtioneuvoston asetus vuonna 2009 toimitettavissa europarlamenttivaaleissa ennakkoäänestyspaikkoina olevista Suomen edustustoista ja niiden toimipaikoista](110.md) `110/2009`
+- [Valtioneuvoston asetus poronhoitovuodelta 2009/2010 maksettavasta eläinkohtaisesta tuesta](111.md) `111/2009`
+- [Valtioneuvoston asetus maatalousyrittäjien opintorahan määrästä vuonna 2009](112.md) `112/2009`
+- [Maa\- ja metsätalousministeriön asetus silakan ja kilohailin kalastuksen keskeyttämisestä ja jälleenlaivauksen rajoitusten voimaantulosta Itämeren pääaltaalla](113.md) `113/2009`
+- [Maa\- ja metsätalousministeriön asetus Suomessa rekisteröityjen yli 20\-metristen kalastusalusten harjoittaman turskankalastuksen keskeyttämisestä ICES–osa\-alueilla 25―32](114.md) `114/2009`
+- [Valtioneuvoston asetus puolustusvoimien ajokorteista annetun asetuksen muuttamisesta](115.md) `115/2009`
+- [Valtioneuvoston asetus televisio\- ja radiotoimintaan sekä toimiluvanvaraiseen teletoimintaan määrättyjen taajuusalueiden käyttösuunnitelmasta annetun valtioneuvoston asetuksen muuttamisesta](116.md) `116/2009`
+- [Valtioneuvoston asetus Ranskan kanssa Tshadissa ja Keski\-Afrikan tasavallassa toteutettavan Euroopan unionin kriisinhallintaoperaation operaatioesikunnassa palvelevan suomalaisen henkilöstön asemasta ja vahingonkorvausvaateiden ratkaisemisesta tehdyn sopimuksen voimaansaattamisesta](117.md) `117/2009`
+- [Maa\- ja metsätalousministeriön asetus Suomessa rekisteröityjen yli 20\-metristen kalastusalusten harjoittaman turskankalastuksen keskeyttämisestä ICES–osa\-alueilla 22–24](118.md) `118/2009`
+- [Tasavallan presidentin asetus Kambodzhan kanssa tehdyn yhteistyötä Suomen ja Kambodzhan välisessä maankäyttö\- ja \-hallintahankkeessa koskevan sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](119.md) `119/2009`
+- [Tasavallan presidentin asetus elatustukea koskevien hallintotehtävien hoitamisesta Ahvenanmaan maakunnassa](120.md) `120/2009`
+- [Valtioneuvoston asetus maatalouden investointituesta ja nuoren viljelijän aloitustuesta annetun valtioneuvoston asetuksen muuttamisesta](121.md) `121/2009`
+- [Valtioneuvoston asetus maatalouden investointituen kohdentamisesta vuonna 2009 annetun valtioneuvoston asetuksen muuttamisesta](122.md) `122/2009`
+- [Valtioneuvoston päätös Valtioneuvoston päätös valtioista ja alueista, joiden rahanpesun ja terrorismin rahoituksen estämistä ja selvittämistä koskevat säännökset eivät vastaa rahanpesun ja terrorismin rahoittamisen estämisestä ja selvittämisestä annetussa laissa tarkoitettuja kansainvälisiä velvoitteita](123.md) `123/2009`
+- [Verohallituksen päätös eräiden yritysten verottamisesta Konserniverokeskuksessa](124.md) `124/2009`
+- [Laki sähköisen viestinnän tietosuojalain muuttamisesta](125.md) `125/2009`
+- [Laki yksityisyyden suojasta työelämässä annetun lain 2 ja 21 §:n muuttamisesta](126.md) `126/2009`
+- [Laki yhteistoiminnasta yrityksissä annetun lain 19 §:n muuttamisesta](127.md) `127/2009`
+- [Laki yhteistoiminnasta valtion virastoissa ja laitoksissa annetun lain 7 §:n muuttamisesta](128.md) `128/2009`
+- [Laki terveydensuojelulain muuttamisesta](129.md) `129/2009`
+- [Laki elintarvikelain 71 ja 72 §:n muuttamisesta](130.md) `130/2009`
+- [Laki kemikaalilain 60 §:n muuttamisesta](131.md) `131/2009`
+- [Laki toimenpiteistä tupakoinnin vähentämiseksi annetun lain 25 a ja 25 b §:n muuttamisesta](132.md) `132/2009`
+- [Laki kulutustavaroiden ja kuluttajapalvelusten turvallisuudesta annetun lain 20 ja 21 §:n muuttamisesta](133.md) `133/2009`
+- [Valtiovarainministeriön asetus Porvoon valtiopäivät \-juhlarahasta](134.md) `134/2009`
+- [Laki oikeudenkäymiskaaren muuttamisesta](135.md) `135/2009`
+- [Laki laillisesta tuomioistuimesta ja oikeudenkäynnistä eräissä tapauksissa annetun lain kumoamisesta](136.md) `136/2009`
+- [Laki oikeusapulain 13 §:n muuttamisesta](137.md) `137/2009`
+- [Laki eräistä yhteisomistussuhteista annetun lain 16 §:n kumoamisesta](138.md) `138/2009`
+- [Laki etuostolain 18 §:n muuttamisesta](139.md) `139/2009`
+- [Laki kuluttajansuojalain 12 luvun 1 d §:n muuttamisesta](140.md) `140/2009`
+- [Laki asuntokauppalain 7 luvun 4 §:n muuttamisesta](141.md) `141/2009`
+- [Laki vakuutussopimuslain 74 §:n muuttamisesta](142.md) `142/2009`
+- [Laki avoimesta yhtiöstä ja kommandiittiyhtiöstä annetun lain 5 luvun 4 §:n muuttamisesta](143.md) `143/2009`
+- [Laki vahingonkorvauslain 7 luvun 4 §:n kumoamisesta](144.md) `144/2009`
+- [Laki taisteluvälineiden siviilihenkilöille aiheuttamien tapaturmien korvaamisesta annetun lain 3 §:n muuttamisesta](145.md) `145/2009`
+- [Laki liikennevakuutuslain 11 §:n muuttamisesta](146.md) `146/2009`
+- [Laki potilasvahinkolain 14 §:n kumoamisesta](147.md) `147/2009`
+- [Laki tuotevastuulain 12 §:n kumoamisesta](148.md) `148/2009`
+- [Laki ympäristövahinkovakuutuksesta annetun lain 23 §:n muuttamisesta](149.md) `149/2009`
+- [Laki raideliikennevastuulain 18 §:n kumoamisesta](150.md) `150/2009`
+- [Laki ympäristövahinkojen korvaamisesta annetun lain 11 §:n kumoamisesta](151.md) `151/2009`
+- [Laki ulkomaisista vakuutusyhtiöistä annetun lain 74 §:n muuttamisesta](152.md) `152/2009`
+- [Laki nimilain 24 §:n muuttamisesta](153.md) `153/2009`
+- [Laki lapseksiottamisesta annetun lain 29 ja 34 §:n muuttamisesta](154.md) `154/2009`
+- [Laki lapsen huollosta ja tapaamisoikeudesta annetun lain 13 §:n muuttamisesta](155.md) `155/2009`
+- [Laki lapsen huoltoa ja tapaamisoikeutta koskevan päätöksen täytäntöönpanosta annetun lain 4 ja 5 §:n muuttamisesta](156.md) `156/2009`
+- [Laki tuomioistuimen toimivallasta sekä tuomioiden tunnustamisesta ja täytäntöönpanosta avioliittoa ja vanhempainvastuuta koskevissa asioissa annetun neuvoston asetuksen soveltamisesta annetun lain 2 §:n muuttamisesta](157.md) `157/2009`
+- [Laki holhoustoimesta annetun lain 70 §:n muuttamisesta](158.md) `158/2009`
+- [Laki lapsen elatuksesta annetun lain 14 §:n muuttamisesta](159.md) `159/2009`
+- [Laki isyyslain 28 ja 40 §:n muuttamisesta](160.md) `160/2009`
+- [Laki konkurssilain muuttamisesta](161.md) `161/2009`
+- [Laki eräistä kansainvälisluontoisista perheoikeudellisista suhteista annetun lain 23 §:n 2 momentin ja 45 §:n kumoamisesta](162.md) `162/2009`
+- [Laki työttömyysturvalain 11 luvun 8 §:n muuttamisesta](163.md) `163/2009`
+- [Valtioneuvoston asetus opintotukiasetuksen 28 §:n muuttamisesta](164.md) `164/2009`
+- [Vuoden 2009 lisätalousarvio](165.md) `165/2009`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavasta mehiläistalouden kansallisesta pesäkohtaisesta tuesta](166.md) `166/2009`
+- [Valtioneuvoston asetus ei\-tuotannollisten investointien tuesta vuosina 2008―2013 annetun valtioneuvoston asetuksen muuttamisesta](167.md) `167/2009`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavasta ympäristötuen kansallisesta lisäosasta annetun valtioneuvoston asetuksen 2 ja 6 §:n muuttamisesta](168.md) `168/2009`
+- [Valtioneuvoston asetus ajoneuvojen rekisteröinnistä annetun valtioneuvoston asetuksen muuttamisesta](169.md) `169/2009`
+- [Maa\- ja metsätalousministeriön asetus maanmittaustoimistojen lukumäärästä, toimialueista ja hallintopaikoista](170.md) `170/2009`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten aineiden kuljetuksesta tiellä](171.md) `171/2009`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten aineiden kuljetuksesta rautatiellä](172.md) `172/2009`
+- [Laki maksuperusteisista lisäeläkejärjestelyistä eläkesäätiöissä ja eläkekassoissa](173.md) `173/2009`
+- [Laki eläkesäätiölain muuttamisesta](174.md) `174/2009`
+- [Laki vakuutuskassalain muuttamisesta](175.md) `175/2009`
+- [Laki korkotuesta vuokra\-asuntojen rakentamislainoille vuosina 2009 ja 2010 rakennusalan työllisyyden edistämiseksi](176.md) `176/2009`
+- [Puolustusministeriön asetus sotilaallisen kriisinhallintahenkilöstön pätevyysvaatimuksista ja palvelussuhteen ehdoista annetun puolustusministeriön asetuksen 7 §:n muuttamisesta](177.md) `177/2009`
+- [Laki suhdanneluonteisista avustuksista eräiden asuinrakennusten korjauksiin](178.md) `178/2009`
+- [Tasavallan presidentin asetus Euroopan yhteisöjen ja niiden jäsenvaltioiden sekä Albanian tasavallan välisen vakautus\- ja assosiaatiosopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](179.md) `179/2009`
+- [Valtioneuvoston asetus hovioikeuksien tuomiopiireistä](180.md) `180/2009`
+- [Valtioneuvoston asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen 19 a §:n muuttamisesta](181.md) `181/2009`
+- [Valtioneuvoston asetus vuodelta 2008 maksettavasta sokerijuurikkaan kuljetustuesta](182.md) `182/2009`
+- [Valtioneuvoston asetus vuoden 2008 satovahinkojen viljelmäkohtaisista korvausosuuksista](183.md) `183/2009`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisissa tuissa saaristoksi luettavista kuntien osa\-alueista annetun maa\- ja metsätalousministeriön asetuksen liitteen 1 muuttamisesta](184.md) `184/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden maatilalain mukaisten myyntihintasaamisten ja lainojen viitekorosta](185.md) `185/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden porotalouden ja luontaiselinkeinojen rahoituslain mukaisten asuntolainojen viitekorosta](186.md) `186/2009`
+- [Valtioneuvoston asetus tilatukijärjestelmän kansallisen varannon käytöstä](187.md) `187/2009`
+- [Maa\- ja metsätalousministeriön asetus erikoistuista](188.md) `188/2009`
+- [Maa\- ja metsätalousministeriön asetus täydentäviin ehtoihin liittyvistä hyvän maatalouden ja ympäristön vähimmäisvaatimuksista](189.md) `189/2009`
+- [Maa\- ja metsätalousministeriön asetus perus\- ja kasvulohkoista ja niiden ulko\- ja sisärajoja koskevista tuen myöntämisen edellytyksistä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](190.md) `190/2009`
+- [Laki ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteen V lukuun tehtyjen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](191.md) `191/2009`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteen muutosten voimaansaattamisesta ja muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](192.md) `192/2009`
+- [Laki sairausvakuutuksen sairaanhoitomaksun ja työnantajan kansaneläkemaksun maksuprosentista annetun lain 3 §:n väliaikaisesta muuttamisesta](193.md) `193/2009`
+- [Laki kansaneläkelain 97 §:n väliaikaisesta muuttamisesta](194.md) `194/2009`
+- [Laki sairausvakuutuslain 18 luvun 13 §:n muuttamisesta](195.md) `195/2009`
+- [Valtioneuvoston asetus lääkkeiden hintalautakunnasta](196.md) `196/2009`
+- [Valtioneuvoston asetus lääketieteellisin perustein vaikeiksi arvioitavista sairauksista, joiden hoidossa käytettävien kliinisten ravintovalmisteiden kustannuksista sairausvakuutuslain perusteella korvataan 72 tai 42 prosenttia](197.md) `197/2009`
+- [Valtioneuvoston asetus lääketieteellisin perustein vaikeiksi ja pitkäaikaisiksi arvioitavista sairauksista, joiden lääkehoidon kustannuksista sairausvakuutuslain 5 luvun 5 §:n 2 momentin perusteella korvataan 72 tai 100 prosenttia](198.md) `198/2009`
+- [Valtioneuvoston asetus sairausvakuutuslain 5 luvun 9 §:n 5 momentissa tarkoitetusta omavastuuosuuden perimistä koskevasta poikkeuksesta](199.md) `199/2009`
+- [Valtioneuvoston asetus työnantajan sosiaaliturvamaksusta annetun asetuksen 1 §:n muuttamisesta](200.md) `200/2009`
+- [Sosiaali\- ja terveysministeriön asetus lääkkeiden hintalautakunnalle tehtävästä hakemuksesta ja hintailmoituksesta](201.md) `201/2009`
+- [Laki Euroopan yhteisöjen ja niiden jäsenvaltioiden sekä Bosnia ja Hertsegovinan välisen vakautus\- ja assosiaatiosopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](202.md) `202/2009`
+- [Laki Uzbekistanin kanssa keskinäisestä avunannosta tulliasioissa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](203.md) `203/2009`
+- [Tasavallan presidentin asetus eräiden Guernseyn alueen kanssa tehtyjen tuloverotusta koskevien sopimusten voimaansaattamisesta ja sopimusten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](204.md) `204/2009`
+- [Valtioneuvoston asetus rakennustyön turvallisuudesta](205.md) `205/2009`
+- [Liikenne\- ja viestintäministeriön asetus Tiehallinnon maksuista](206.md) `206/2009`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](207.md) `207/2009`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](208.md) `208/2009`
+- [Laki sijoituspalveluyrityksistä annetun lain muuttamisesta](209.md) `209/2009`
+- [Laki rahoitus\- ja vakuutusryhmittymien valvonnasta annetun lain muuttamisesta](210.md) `210/2009`
+- [Laki vakuutusyhtiölain muuttamisesta](211.md) `211/2009`
+- [Laki työeläkevakuutusyhtiöistä annetun lain 1 §:n muuttamisesta](212.md) `212/2009`
+- [Valtioneuvoston asetus vuodelta 2008 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen muuttamisesta](213.md) `213/2009`
+- [Valtioneuvoston asetus vuodelta 2008 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 12 ja 13 §:n muuttamisesta](214.md) `214/2009`
+- [Valtioneuvoston asetus sokerialan rakenneuudistustuesta markkinointivuonna 2008/2009 annetun valtioneuvoston asetuksen muuttamisesta](215.md) `215/2009`
+- [Valtioneuvoston asetus luonnonhaittakorvausten, maatalouden ympäristötuen, eläinten hyvinvoinnin tuen ja ei\-tuotannollisten investointien tuen hakemisesta vuonna 2009](216.md) `216/2009`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon vuoden 2009 voimavaroista annetun valtioneuvoston asetuksen 8 §:n muuttamisesta](217.md) `217/2009`
+- [Ulkoasiainministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoasiainministeriön asetuksen muuttamisesta](218.md) `218/2009`
+- [Valtiovarainministeriön asetus Verohallinnon määräämisestä toimivaltaisena viranomaisena ratkaisemaan eräitä verotusta koskevissa kansainvälisissä sopimuksissa tarkoitettuja asioita](219.md) `219/2009`
+- [Työ\- ja elinkeinoministeriön asetus valmispakkauksista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](220.md) `220/2009`
+- [Maa\- ja metsätalousministeriön asetus luonnonhaittakorvaukseen ja maatalouden ympäristötukeen varattujen määrärahojen kohdentamisesta vuoden 2009 haussa ohjelmakaudelta 2000―2006 siirtyvien sitoumusten ja sopimusten osalta](221.md) `221/2009`
+- [Laki tuotannollisten investointien väliaikaisesti korotetuista poistoista](222.md) `222/2009`
+- [Maa\- ja metsätalousministeriön asetus eräistä kalastusrajoituksista Saimaalla](223.md) `223/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta lannoitevalmisteista annetun maa\- ja metsätalousministeriön asetuksen 12/07 muuttamisesta](224.md) `224/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta hukkakaurasta kylvösiementuotannossa annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](225.md) `225/2009`
+- [Laki ajoneuvolain muuttamisesta](226.md) `226/2009`
+- [Laki ajoneuvojen yksittäishyväksynnän järjestämisestä](227.md) `227/2009`
+- [Laki ajoneuvojen yksittäishyväksynnän väliaikaisesta järjestämisestä](228.md) `228/2009`
+- [Valtioneuvoston asetus Valtion talous\- ja henkilöstöhallinnon palvelukeskuksesta](229.md) `229/2009`
+- [Tasavallan presidentin asetus Suomen ulkomaanedustustojen sijaintipaikoista annetun tasavallan presidentin asetuksen 1 §:n muuttamisesta](230.md) `230/2009`
+- [Valtioneuvoston asetus omistusosuuden hankkimista ja luovuttamista luottolaitoksessa, sijoituspalveluyrityksessä, rahastoyhtiössä, säilytysyhteisössä, vakuutusyhtiössä ja rahoitus\- ja vakuutusryhmittymän omistusyhteisössä koskevasta ilmoituksesta](231.md) `231/2009`
+- [Valtioneuvoston asetus valtion virkamiesasetuksen 1 §:n muuttamisesta](232.md) `232/2009`
+- [Valtioneuvoston asetus työttömyysturvalain täytäntöönpanosta annetun valtioneuvoston asetuksen 16 ja 19 §:n muuttamisesta](233.md) `233/2009`
+- [Valtioneuvoston asetus ajoneuvojen hyväksynnästä annetun valtioneuvoston asetuksen muuttamisesta](234.md) `234/2009`
+- [Valtioneuvoston asetus ajoneuvoliikennerekisterin tiedoista annetun valtioneuvoston asetuksen muuttamisesta](235.md) `235/2009`
+- [Valtioneuvoston asetus ajoneuvojen rekisteröinnistä annetun valtioneuvoston asetuksen muuttamisesta](236.md) `236/2009`
+- [Valtioneuvoston asetus liikenteessä käytettävien ajoneuvojen liikennekelpoisuuden valvonnasta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](237.md) `237/2009`
+- [Maa\- ja metsätalousministeriön asetus eläimistä saatavien sivutuotteiden hävittämisestä syrjäisillä alueilla sekä kuolleiden lemmikkieläinten hävittämisestä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](238.md) `238/2009`
+- [Sisäasiainministeriön asetus palovaroittimien sijoittamisesta ja kunnossapidosta](239.md) `239/2009`
+- [Valtioneuvoston asetus luonnonhaittakorvauksista ja maatalouden ympäristötuista vuosina 2007―2013 annetun valtioneuvoston asetuksen muuttamisesta](240.md) `240/2009`
+- [Valtioneuvoston asetus tilatukijärjestelmän kansallisen varannon perustamisesta, tukitasoista ja tukioikeuksien vahvistamisesta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](241.md) `241/2009`
+- [Valtioneuvoston asetus vuodelta 2008 maksettavasta eräiden peltokasvien ja nautojen tuotantopalkkiosta annetun valtioneuvoston asetuksen 7 §:n muuttamisesta](242.md) `242/2009`
+- [Valtioneuvoston asetus eläinten hyvinvoinnin tuesta vuosina 2008―2013 annetun valtioneuvoston asetuksen muuttamisesta](243.md) `243/2009`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2008 tulvavahinkokorvausten maksamisesta](244.md) `244/2009`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisten tukien hakemusten toimittamista sekä kotieläinten laskentapäivistä ja \-ajankohdista vuonna 2009 annetun asetuksen 1 ja 2 §:n muuttamisesta](245.md) `245/2009`
+- [Maa\- ja metsätalousministeriön asetus maatalouden ympäristötuen perus\- ja lisätoimenpiteistä ja maatalouden ympäristötuen erityistuista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](246.md) `246/2009`
+- [Maa\- ja metsätalousministeriön asetus eläinten hyvinvoinnin tuesta vuosina 2008―2013 annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](247.md) `247/2009`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisten tukien hallinnosta vuonna 2009](248.md) `248/2009`
+- [Laki Opetusalan koulutuskeskuksen muuttamisesta osakeyhtiöksi](249.md) `249/2009`
+- [Valtioneuvoston asetus valtiovarainministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](250.md) `250/2009`
+- [Valtioneuvoston asetus dimetyylifumaraatti\-nimistä biosidia sisältävien kulutustavaroiden markkinoille saattamisen ja markkinoilla saataville asettamisen kieltämisestä](251.md) `251/2009`
+- [Valtioneuvoston asetus vientitakuutoiminnassa noudatettavista periaatteista annetun valtioneuvoston asetuksen 1 ja 2 §:n muuttamisesta](252.md) `252/2009`
+- [Liikenne\- ja viestintäministeriön asetus Ajoneuvohallintokeskuksen maksuista annetun liikenne\- ja viestintäministeriön asetuksen liitteen muuttamisesta](253.md) `253/2009`
+- [Työ\- ja elinkeinoministeriön asetus kosmeettisista valmisteista annetun kauppa\- ja teollisuusministeriön asetuksen muuttamisesta](254.md) `254/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta härkäpavun kylvösiemenen sertifiointia koskevasta väliaikaisesta poikkeuksesta](255.md) `255/2009`
+- [Liikenne\- ja viestintäministeriön asetus autojen ja perävaunujen rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](256.md) `256/2009`
+- [Liikenne\- ja viestintäministeriön asetus paineilmajarruilla varustettujen autojen ja niiden perävaunujen jarrujen vaatimustenmukaisuuden osoittamisesta](257.md) `257/2009`
+- [Liikenne\- ja viestintäministeriön asetus linja\-autojen rakenteesta ja varusteista annetun liikenneministeriön päätöksen kumoamisesta](258.md) `258/2009`
+- [Liikenne\- ja viestintäministeriön asetus ajoneuvojen kuormakoreista, kuormaamisesta ja kuorman kiinnittämisestä annetun liikenneministeriön päätöksen muuttamisesta](259.md) `259/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta sikojen koeasemille, karjuasemille ja karjun spermalle asetettavista eläinten terveysvaatimuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](260.md) `260/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta puna\-apilan kylvösiemenen sertifiointia koskevasta väliaikaisesta poikkeuksesta](261.md) `261/2009`
+- [Laki kansainvälisen kaksinkertaisen verotuksen poistamisesta annetun lain muuttamisesta](262.md) `262/2009`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta tiellä annetun valtioneuvoston asetuksen muuttamisesta](263.md) `263/2009`
+- [Valtioneuvoston asetus vaarallisten aineiden maakuljetusten turvallisuusneuvonantajasta annetun valtioneuvoston asetuksen muuttamisesta](264.md) `264/2009`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetukseen tarkoitettujen pakkausten, säiliöiden ja irtotavarakonttien vaatimustenmukaisuuden osoittamisesta annetun valtioneuvoston asetuksen 2 ja 6 §:n muuttamisesta](265.md) `265/2009`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljettajien ajoluvasta annetun asetuksen 5 §:n muuttamisesta](266.md) `266/2009`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta rautatiellä annetun valtioneuvoston asetuksen muuttamisesta](267.md) `267/2009`
+- [Valtioneuvoston asetus vuonna 2009 kertyvien työnantajan sosiaaliturvamaksujen jakautumasta annetun asetuksen 1 ja 2 §:n muuttamisesta](268.md) `268/2009`
+- [Ympäristöministeriön asetus ympäristöministeriön työjärjestyksen 15 §:n muuttamisesta](269.md) `269/2009`
+- [Laki Suomesta Euroopan parlamenttiin valitun edustajan palkkiosta ja eläkkeestä annetun lain kumoamisesta](270.md) `270/2009`
+- [Laki kansanedustajain eläkelain 1 §:n muuttamisesta](271.md) `271/2009`
+- [Laki valtion eläkelain 136 §:n muuttamisesta](272.md) `272/2009`
+- [Laki ehdokkaan vaalirahoituksesta](273.md) `273/2009`
+- [Laki viranomaisten toiminnan julkisuudesta annetun lain 24 §:n muuttamisesta](274.md) `274/2009`
+- [Laki tuloverolain 22 §:n muuttamisesta](275.md) `275/2009`
+- [Laki urheilijan tapaturma\- ja eläketurvasta](276.md) `276/2009`
+- [Laki Vietnamin kanssa sijoitusten edistämisestä ja suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](277.md) `277/2009`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain muuttamisesta](278.md) `278/2009`
+- [Tasavallan presidentin asetus Slovenian kanssa turvallisuusluokitellun tiedon vaihtamisesta ja vastavuoroisesta suojaamisesta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](279.md) `279/2009`
+- [Valtioneuvoston asetus seulonnoista annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](280.md) `280/2009`
+- [Valtioneuvoston asetus tartuntatautiasetuksen muuttamisesta](281.md) `281/2009`
+- [Valtioneuvoston päätös Himangan kunnan liittämisestä Kalajoen kaupunkiin](282.md) `282/2009`
+- [Valtiovarainministeriön asetus julkishallinnon ja \-talouden tilintarkastuslautakunnan maksullisista suoritteista](283.md) `283/2009`
+- [Valtiovarainministeriön asetus julkishallinnon ja \-talouden tilintarkastajan tutkinnosta ja tutkintoon vaadittavista opinnoista annetun valtiovarainministeriön asetuksen 1 §:n muuttamisesta](284.md) `284/2009`
+- [Työ\- ja elinkeinoministeriön asetus Keskuskauppakamarin tilintarkastuslautakunnan ja kauppakamarin tilintarkastusvaliokunnan maksullisista suoritteista](285.md) `285/2009`
+- [Sisäasiainministeriön asetus sisäasiainministeriön maksullisista suoritteista](286.md) `286/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta salmonelloosin vastustamisesta naudoissa ja sioissa annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen muuttamisesta](287.md) `287/2009`
+- [Laki valtion virkamieslain muuttamisesta](288.md) `288/2009`
+- [Laki käräjäoikeuslain 17 ja 20 §:n muuttamisesta](289.md) `289/2009`
+- [Valtioneuvoston asetus hovioikeusasetuksen 9 §:n 1 momentin 6 kohdan kumoamisesta](290.md) `290/2009`
+- [Valtioneuvoston asetus palovaroittimien teknisistä ominaisuuksista](291.md) `291/2009`
+- [Valtioneuvoston päätös Liljendalin kunnan, Loviisan kaupungin, Pernajan kunnan ja Ruotsinpyhtään kunnan lakkauttamisesta ja uuden Loviisan kaupungin perustamisesta sekä eräiden alueiden siirtämisestä Ruotsinpyhtään kunnasta Pyhtään kuntaan](292.md) `292/2009`
+- [Valtioneuvoston päätös Noormarkun kunnan liittämisestä Porin kaupunkiin](293.md) `293/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden maatilalain mukaisten myyntihintasaamisten ja lainojen viitekorosta](294.md) `294/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden porotalouden ja luontaiselinkeinojen rahoituslain mukaisten asuntolainojen viitekorosta](295.md) `295/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta pellavan kylvösiemenen sertifiointia koskevasta väliaikaisesta poikkeuksesta](296.md) `296/2009`
+- [Valtioneuvoston asetus Museovirastosta annetun valtioneuvoston asetuksen 4 ja 11 §:n muuttamisesta](297.md) `297/2009`
+- [Sosiaali\- ja terveysministeriön asetus potilasasiakirjoista](298.md) `298/2009`
+- [Laki eräiden asuntojen vuokraustoimintaa harjoittavien osakeyhtiöiden veronhuojennuksesta](299.md) `299/2009`
+- [Laki vaalilain muuttamisesta](300.md) `300/2009`
+- [Laki maa\- ja puutarhatalouden kansallisista tuista annetun lain muuttamisesta](301.md) `301/2009`
+- [Valtioneuvoston asetus maatilan asunto\-olojen parantamisen tukemisesta](302.md) `302/2009`
+- [Valtioneuvoston asetus maatalouden investointituen kohdentamisesta vuonna 2009 annetun valtioneuvoston asetuksen muuttamisesta](303.md) `303/2009`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2008 tulvavahinkokorvausten maksamisesta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](304.md) `304/2009`
+- [Laki maanpuolustusvelvollisuutta täyttävän työ\- ja virkasuhteen jatkumisesta](305.md) `305/2009`
+- [Laki asevelvollisuuslain 97 ja 107 §:n muuttamisesta](306.md) `306/2009`
+- [Laki siviilipalveluslain 55 ja 94 §:n muuttamisesta](307.md) `307/2009`
+- [Laki naisten vapaaehtoisesta asepalveluksesta annetun lain 3 ja 5 §:n muuttamisesta](308.md) `308/2009`
+- [Laki siviilihenkilöstön osallistumisesta kriisinhallintaan annetun lain 7 §:n muuttamisesta](309.md) `309/2009`
+- [Laki sotilaallisesta kriisinhallinnasta annetun lain 25 §:n muuttamisesta](310.md) `310/2009`
+- [Laki lääkelain muuttamisesta](311.md) `311/2009`
+- [Puolustusministeriön asetus puolustusministeriön työjärjestyksen muuttamisesta](312.md) `312/2009`
+- [Valtiovarainministeriön asetus JHTT\-tutkintoon vaadittavasta käytännön kokemuksesta annetun valtiovarainministeriön asetuksen muuttamisesta](313.md) `313/2009`
+- [Tasavallan presidentin asetus Euroopan yhteisöjen taloudellisten etujen suojaamista koskevaan yleissopimukseen liittyvän toisen pöytäkirjan voimaansaattamisesta sekä pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](314.md) `314/2009`
+- [Sosiaali\- ja terveysministeriön asetus rokotuksista ja tartuntatautien raskaudenaikaisesta seulonnasta annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta ja väliaikaisesta muuttamisesta](315.md) `315/2009`
+- [Verohallinnon työjärjestys](316.md) `316/2009`
+- [Laki valtiokonttorista annetun lain 2 §:n muuttamisesta](317.md) `317/2009`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavasta nurmi\- ja viljakasvien siementuotannon kansallisesta tuesta](318.md) `318/2009`
+- [Valtioneuvoston asetus sika\- ja siipikarjatalouden tuotannosta irrotetusta tuesta ja rakennemuutoskorvauksesta annetun valtioneuvoston asetuksen muuttamisesta](319.md) `319/2009`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen muuttamisesta](320.md) `320/2009`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen muuttamisesta](321.md) `321/2009`
+- [Maa\- ja metsätalousministeriön asetus eräiden tehtävien siirrosta tullilaitoksen hoidettavaksi](322.md) `322/2009`
+- [Laki ulkomaalaislain muuttamisesta](323.md) `323/2009`
+- [Laki maahanmuuttajien kotouttamisesta ja turvapaikanhakijoiden vastaanotosta annetun lain 3 a §:n muuttamisesta](324.md) `324/2009`
+- [Laki asumiseen perustuvan sosiaaliturvalainsäädännön soveltamisesta annetun lain 3 a §:n muuttamisesta](325.md) `325/2009`
+- [Laki hallinto\-oikeuslain 12 a §:n muuttamisesta](326.md) `326/2009`
+- [Laki kansalaisuuslain 15 ja 20 §:n muuttamisesta](327.md) `327/2009`
+- [Laki Tšekin tasavallan, Viron tasavallan, Kyproksen tasavallan, Latvian tasavallan, Liettuan tasavallan, Unkarin tasavallan, Maltan tasavallan, Itävallan tasavallan, Puolan tasavallan, Slovenian tasavallan, Slovakian tasavallan, Suomen tasavallan ja Ruotsin kuningaskunnan Euroopan unioniin liittymisestä johtuvia muutoksia ja tarvittavia korvaavia mukautuksia koskevien, Amerikan Yhdysvaltojen, Argentiinan, Australian, Brasilian, Ecuadorin, Filippiinien, Hongkongin \(Kiina\), Intian, Japanin, Kanadan, Kiinan, Kolumbian, Korean tasavallan, Kuuban, Sveitsin, Taiwanin, Penghun, Kinmenin ja Matsun erillisen tullialueen \(Kiinan Taipei\) ja Uuden\-Seelannin kanssa GATS\-sopimuksen XXI artiklan perusteella tehtyjen sopimusten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](328.md) `328/2009`
+- [Laki tuloverolain 20 §:n muuttamisesta](329.md) `329/2009`
+- [Valtioneuvoston asetus tuotantoeläinten hyvinvoinnin neuvottelukunnasta](330.md) `330/2009`
+- [Laki viestintämarkkinalain muuttamisesta](331.md) `331/2009`
+- [Laki radiotaajuuksista ja telelaitteista annetun lain muuttamisesta](332.md) `332/2009`
+- [Laki terveyden edistämisen määrärahasta](333.md) `333/2009`
+- [Laki toimenpiteistä tupakoinnin vähentämiseksi annetun lain muuttamisesta](334.md) `334/2009`
+- [Laki raittiustyölain 10 ja 11 §:n kumoamisesta](335.md) `335/2009`
+- [Maa\- ja metsätalousministeriön asetus maatilan asunto\-olojen parantamisen tuen hyväksyttävistä yksikkökustannuksista](336.md) `336/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta teurastamoita ja leikkaamoita koskevista TSE\-tauteihin liittyvistä toimenpiteistä](337.md) `337/2009`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä toimintapääomasta](338.md) `338/2009`
+- [Maa\- ja metsätalousministeriön asetus hirvieläinten ja petoeläinten aiheuttamien maatalous\- ja viljelysvahinkojen korvaamisessa vuonna 2008 käytettävistä eräistä yksikköhinnoista ja normisadoista](339.md) `339/2009`
+- [Valtioneuvoston asetus elinikäisen oppimisen neuvostosta](340.md) `340/2009`
+- [Valtioneuvoston asetus vesienhoidon järjestämisestä annetun asetuksen muuttamisesta](341.md) `341/2009`
+- [Valtioneuvoston asetus vesiympäristölle vaarallisista ja haitallisista aineista annetun asetuksen muuttamisesta](342.md) `342/2009`
+- [Maa\- ja metsätalousministeriön asetus koulumaitotuesta annetun maa\- ja metsätalousministeriön asetuksen 3 ja 4 §:n muuttamisesta](343.md) `343/2009`
+- [Laki työttömyysturvalain muuttamisesta](344.md) `344/2009`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain 4 §:n muuttamisesta](345.md) `345/2009`
+- [Valtioneuvoston asetus valtion viranomaisten sineteistä ja leimoista](346.md) `346/2009`
+- [Valtioneuvoston asetus oikeusministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](347.md) `347/2009`
+- [Valtioneuvoston asetus valtiokonttorista annetun asetuksen 5 §:n kumoamisesta](348.md) `348/2009`
+- [Valtioneuvoston asetus magneettilelujen varoitusmerkinnöistä annetun valtioneuvoston asetuksen kumoamisesta](349.md) `349/2009`
+- [Valtioneuvoston asetus Kuluttajaviraston tehtävistä eräiden REACH\-asetuksen 67 artiklan mukaisten kulutustavaroiden koostumusta koskevien rajoitusten valvonnassa](350.md) `350/2009`
+- [Oikeusministeriön asetus Tietosuojavaltuutetun toimiston maksullisista suoritteista](351.md) `351/2009`
+- [Laki verontilityslain väliaikaisesta muuttamisesta](352.md) `352/2009`
+- [Laki tuloverolain väliaikaisesta muuttamisesta](353.md) `353/2009`
+- [Laki työriitojen sovittelusta annetun lain muuttamisesta](354.md) `354/2009`
+- [Tasavallan presidentin asetus Vietnamin kanssa sijoitusten edistämisestä ja suojaamisesta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](355.md) `355/2009`
+- [Valtioneuvoston asetus maatalouden investointituen kohdentamisesta vuonna 2009 annetun valtioneuvoston asetuksen muuttamisesta](356.md) `356/2009`
+- [Valtioneuvoston asetus Euroopan yhteisön kokonaan rahoittamien tukien valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](357.md) `357/2009`
+- [Valtioneuvoston asetus Euroopan yhteisön kokonaan rahoittamien eläintukien valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](358.md) `358/2009`
+- [Valtioneuvoston asetus täydentävien ehtojen hyvän maatalouden ja ympäristön vaatimusten sekä ympäristöön liittyvien lakisääteisten hoitovaatimusten valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](359.md) `359/2009`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisten tukien hakemusten toimittamista sekä kotieläinten laskentapäivistä ja \-ajankohdista vuonna 2009 annetun asetuksen 1 §:n muuttamisesta](360.md) `360/2009`
+- [Maa\- ja metsätalousministeriön asetus poronhoitovuodelta 2009/2010 maksettavan eläinkohtaisen tuen hakemisesta](361.md) `361/2009`
+- [Laki oikeudenkäynnin viivästymisen hyvittämisestä](362.md) `362/2009`
+- [Laki oikeudenkäymiskaaren muuttamisesta](363.md) `363/2009`
+- [Laki hallintolainkäyttölain muuttamisesta](364.md) `364/2009`
+- [Laki ulosottokaaren 4 luvun 19 §:n muuttamisesta](365.md) `365/2009`
+- [Laki tuloverolain 80 §:n muuttamisesta](366.md) `366/2009`
+- [Laki valtion vientitakuista annetun lain 10 §:n muuttamisesta](367.md) `367/2009`
+- [Laki Koulutusrahastosta annetun lain 5 ja 6 §:n muuttamisesta](368.md) `368/2009`
+- [Laki naisten ja miesten välisestä tasa\-arvosta annetun lain 7 ja 11 §:n muuttamisesta](369.md) `369/2009`
+- [Valtioneuvoston asetus sektoritutkimuksen neuvottelukunnasta annetun asetuksen muuttamisesta](370.md) `370/2009`
+- [Valtioneuvoston asetus vammaisuuden perusteella järjestettävistä palveluista ja tukitoimista annetun asetuksen muuttamisesta](371.md) `371/2009`
+- [Maa\- ja metsätalousministeriön asetus kuitupellavan ja –hampun jalostustuesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](372.md) `372/2009`
+- [Laki rikoslain 22 luvun muuttamisesta](373.md) `373/2009`
+- [Laki raskauden keskeyttämisestä annetun lain 13 §:n muuttamisesta](374.md) `374/2009`
+- [Laki lääketieteellisestä tutkimuksesta annetun lain muuttamisesta](375.md) `375/2009`
+- [Laki hedelmöityshoidoista annetun lain muuttamisesta](376.md) `376/2009`
+- [Laki yksityisestä terveydenhuollosta annetun lain muuttamisesta](377.md) `377/2009`
+- [Valtioneuvoston asetus televisio\- ja radiotoimintaan sekä toimiluvanvaraiseen teletoimintaan määrättyjen taajuusalueiden käyttösuunnitelmasta Ahvenanmaan maakunnassa annetun asetuksen 7 §:n muuttamisesta](378.md) `378/2009`
+- [Valtioneuvoston asetus kansanterveysasetuksen 2 ja 3 §:n kumoamisesta](379.md) `379/2009`
+- [Valtioneuvoston asetus neuvolatoiminnasta, koulu\- ja opiskeluterveydenhuollosta sekä lasten ja nuorten ehkäisevästä suun terveydenhuollosta](380.md) `380/2009`
+- [Laki kuvaohjelmien tarkastamisesta annetun lain muuttamisesta](381.md) `381/2009`
+- [Laki taidenäyttelyiden valtiontakuusta annetun lain 4 §:n muuttamisesta](382.md) `382/2009`
+- [Laki eräiden ympäristölle aiheutuneiden vahinkojen korjaamisesta](383.md) `383/2009`
+- [Laki luonnonsuojelulain muuttamisesta](384.md) `384/2009`
+- [Laki ympäristönsuojelulain muuttamisesta](385.md) `385/2009`
+- [Laki vesilain 21 luvun muuttamisesta](386.md) `386/2009`
+- [Laki geenitekniikkalain muuttamisesta](387.md) `387/2009`
+- [Laki vaarallisten aineiden kuljetuksesta annetun lain 4 §:n muuttamisesta](388.md) `388/2009`
+- [Valtioneuvoston asetus tartuntatautiasetuksen 2 §:n muuttamisesta](389.md) `389/2009`
+- [Valtioneuvoston päätös Karjalohjan kunnan liittämisestä Lohjan kaupunkiin](390.md) `390/2009`
+- [Laki rekisteröidystä parisuhteesta annetun lain 9 §:n muuttamisesta](391.md) `391/2009`
+- [Valtioneuvoston asetus alle 18\-vuotiaana vahinkoa kärsineen ansiotulon määrän vahvistamisesta](392.md) `392/2009`
+- [Valtioneuvoston asetus julkisen hallinnon yhteisistä sähköisistä asioinnin ja hallinnon tukipalveluista](393.md) `393/2009`
+- [Valtioneuvoston asetus työriitojen sovittelusta](394.md) `394/2009`
+- [Työ\- ja elinkeinoministeriön asetus talous\- ja velkaneuvontapalvelujen tuottajalle vuonna 2009 maksettavan korvauksen perusteista annetun asetuksen muuttamisesta](395.md) `395/2009`
+- [Valtiovarainministeriön asetus peruskoron vahvistaminen](396.md) `396/2009`
+- [Laki verkkotunnuslain muuttamisesta](397.md) `397/2009`
+- [Valtioneuvoston asetus Euroopan yhteisön kokonaan tai osittain rahoittamien pinta\-alaperusteisten tukien valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](398.md) `398/2009`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavien kansallisten kasvintuotannon tukien ja kotieläintukien valvonnasta](399.md) `399/2009`
+- [Valtioneuvoston asetus ohjelmakauden 2000―2006 luonnonhaittakorvauksen ja ympäristötuen sekä ohjelmakauden 1995―1999 erityisympäristötukisopimusten valvonnasta](400.md) `400/2009`
+- [Valtioneuvoston asetus ympäristötuen ja luonnonhaittakorvauksen valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](401.md) `401/2009`
+- [Valtioneuvoston asetus eläinten hyvinvoinnin tuen valvonnasta vuosina 2008―2013 annetun valtioneuvoston asetuksen muuttamisesta](402.md) `402/2009`
+- [Valtioneuvoston asetus eräiden jätteiden hyödyntämisestä maarakentamisessa annetun valtioneuvoston asetuksen liitteiden muuttamisesta](403.md) `403/2009`
+- [Sisäasiainministeriön asetus pysäköintivirhemaksusta](404.md) `404/2009`
+- [Sosiaali\- ja terveysministeriön asetus suurten yleisötilaisuuksien hygieenisistä järjestelyistä ja jätehuollosta](405.md) `405/2009`
+- [Sisäasiainministeriön asetus poliisin ja rajavartiolaitoksen ajoneuvojen tunnusvärityksestä ja \-merkeistä](406.md) `406/2009`
+- [Laki valtion erityisrahoitusyhtiön luotto\- ja takaustoiminnasta annetun lain 8 §:n muuttamisesta](407.md) `407/2009`
+- [Laki kemikaalilain muuttamisesta](408.md) `408/2009`
+- [Laki rikoslain 44 luvun 1 §:n ja 48 luvun 1 §:n muuttamisesta](409.md) `409/2009`
+- [Laki ympäristöterveydenhuollon yhteistoiminta\-alueesta](410.md) `410/2009`
+- [Laki elintarvikelain 32 §:n muuttamisesta](411.md) `411/2009`
+- [Laki toimenpiteistä tupakoinnin vähentämiseksi annetun lain muuttamisesta](412.md) `412/2009`
+- [Laki kansainväliseen merenkulkijoiden koulutusta, pätevyyskirjoja ja vahdinpitoa koskevaan vuoden 1978 yleissopimukseen tehtyjen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja niiden soveltamisesta](413.md) `413/2009`
+- [Tasavallan presidentin asetus kansainväliseen merenkulkijoiden koulutusta, pätevyyskirjoja ja vahdinpitoa koskevaan vuoden 1978 yleissopimukseen tehtyjen muutosten voimaansaattamisesta ja muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja niiden soveltamisesta annetun lain voimaantulosta](414.md) `414/2009`
+- [Valtioneuvoston asetus eräiden kemikaaleja koskevista kielloista ja rajoituksista annettujen valtioneuvoston päätösten ja asetusten kumoamisesta](415.md) `415/2009`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2009 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista annetun valtiovarainministeriön asetuksen 2 §:n muuttamisesta](416.md) `416/2009`
+- [Helsingin vaalipiirilautakunnan kuulutus Suomesta valittavien Euroopan parlamentin jäsenten vaalien tuloksesta](417.md) `417/2009`
+- [Laki kansainvälisestä yhteistoiminnasta eräiden rikosoikeudellisten seuraamusten täytäntöönpanossa annetun lain muuttamisesta](418.md) `418/2009`
+- [Laki mielenterveyslain muuttamisesta](419.md) `419/2009`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden Pohjoismaiden välillä annetun lain 1 §:n muuttamisesta](420.md) `420/2009`
+- [Laki paikkatietoinfrastruktuurista](421.md) `421/2009`
+- [Tasavallan presidentin asetus Genevessä 8 päivänä joulukuuta 2005 uuden tunnusmerkin käyttöönotosta tehdyn Geneven vuoden 1949 yleissopimusten lisäpöytäkirjan voimaansaattamisesta sekä lisäpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](422.md) `422/2009`
+- [Tasavallan presidentin asetus Liberian kanssa tehdyn Liberian kehitysluoton anteeksiantoa koskevan sopimuksen voimaansaattamisesta](423.md) `423/2009`
+- [Valtioneuvoston asetus sokerialan rakenneuudistustuesta markkinointivuonna 2008/2009 annetun valtioneuvoston asetuksen 4 ja 4 a §:n muuttamisesta](424.md) `424/2009`
+- [Laki rikoslain 46 luvun muuttamisesta](425.md) `425/2009`
+- [Laki tullilain 20 d ja 42 §:n muuttamisesta](426.md) `426/2009`
+- [Laki pakkokeinolain 5 a luvun muuttamisesta](427.md) `427/2009`
+- [Laki vientitavaran alkuperää koskevan väärän tiedon antamisen rankaisemisesta annetun lain kumoamisesta](428.md) `428/2009`
+- [Laki puolustustarvikkeiden maastaviennistä ja kauttakuljetuksesta annetun lain 7 §:n muuttamisesta](429.md) `429/2009`
+- [Laki kaksikäyttötuotteiden vientivalvonnasta annetun lain 9 §:n muuttamisesta](430.md) `430/2009`
+- [Laki poliisilain 31 a §:n muuttamisesta](431.md) `431/2009`
+- [Laki ulkomaalaislain muuttamisesta](432.md) `432/2009`
+- [Valtioneuvoston asetus tullihallintojen keskinäisestä avunannosta ja yhteistyöstä tehdyn yleissopimuksen voimaansaattamisesta sekä yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](433.md) `433/2009`
+- [Maa\- ja metsätalousministeriön asetus eräitä eläimistä saatavia sivutuotteita käsittelevien laitosten valvonnasta ja eräiden sivutuotteiden käytöstä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](434.md) `434/2009`
+- [Laki toimivallasta, sovellettavasta laista, toimenpiteiden tunnustamisesta ja täytäntöönpanosta sekä yhteistyöstä vanhempainvastuuseen ja lasten suojeluun liittyvissä asioissa tehdyn yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta](435.md) `435/2009`
+- [Laki lapsen huollosta ja tapaamisoikeudesta annetun lain muuttamisesta](436.md) `436/2009`
+- [Laki lastensuojelulain 17 §:n muuttamisesta](437.md) `437/2009`
+- [Laki ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteen VII luvun vaarallisten aineiden kuljetusta kappaletavarana aluksessa koskevan säännöstön \(IMDG\-säännöstö\) 1\.3 luvun lainsäädännön alaan kuuluvien määräyksien voimaansaattamisesta](438.md) `438/2009`
+- [Tasavallan presidentin asetus Australian kanssa sosiaaliturvasta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](439.md) `439/2009`
+- [Maa\- ja metsätalousministeriön asetus maidon tuotantotuen hakemisesta ja maksamisen edellytyksistä](440.md) `440/2009`
+- [Työ\- ja elinkeinoministeriön asetus maksullisista suoritteista](441.md) `441/2009`
+- [Valtioneuvoston asetus maaseudun kehittämisohjelman teknisestä avusta](442.md) `442/2009`
+- [Valtioneuvoston asetus rautatieliikenteen aikataulukaudesta ja ratakapasiteetin hakemisesta annetun valtioneuvoston asetuksen muuttamisesta](443.md) `443/2009`
+- [Valtioneuvoston asetus taksiliikenteen kuluttajahinnoista](444.md) `444/2009`
+- [Valtioneuvoston asetus ajokorttiasetuksen muuttamisesta](445.md) `445/2009`
+- [Valtioneuvoston asetus laivavarusteista annetun asetuksen 2 §:n muuttamisesta](446.md) `446/2009`
+- [Valtioneuvoston asetus viestintähallinnosta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](447.md) `447/2009`
+- [Valtioneuvoston päätös Ylämaan kunnan liittämisestä Lappeenrannan kaupunkiin](448.md) `448/2009`
+- [Sisäasiainministeriön asetus pysäköintivirhemaksusta](449.md) `449/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta rehujen virallisen valvonnan järjestämisestä](450.md) `450/2009`
+- [Valtioneuvoston asetus laajakaistarakentamisen tuesta](451.md) `451/2009`
+- [Valtioneuvoston asetus otsonikerrosta heikentäviä aineita ja eräitä fluorattuja kasvihuonekaasuja sisältävien laitteiden huollosta](452.md) `452/2009`
+- [Valtioneuvoston asetus televisio\- ja radiotoimintaan sekä toimiluvanvaraiseen teletoimintaan määrättyjen taajuusalueiden käyttösuunnitelmasta annetun valtioneuvoston asetuksen muuttamisesta](453.md) `453/2009`
+- [Oikeusministeriön asetus käräjäoikeuksien kanslioiden ja istuntopaikkojen sijainnista](454.md) `454/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta haitallisista aineista, tuotteista ja eliöistä rehuissa annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](455.md) `455/2009`
+- [Laki passilain muuttamisesta](456.md) `456/2009`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain muuttamisesta](457.md) `457/2009`
+- [Laki ulkomaalaislain muuttamisesta](458.md) `458/2009`
+- [Laki ulkomaalaisrekisteristä annetun lain muuttamisesta](459.md) `459/2009`
+- [Laki löytötavaralain muuttamisesta](460.md) `460/2009`
+- [Sisäasiainministeriön asetus poliisin suoritteiden maksullisuudesta annetun asetuksen muuttamisesta](461.md) `461/2009`
+- [Laki eräiden radiotaajuuksien huutokaupoista](462.md) `462/2009`
+- [Laki viestintämarkkinalain 4 ja 12 §:n muuttamisesta](463.md) `463/2009`
+- [Laki julkisesta työvoimapalvelusta annetun lain muuttamisesta](464.md) `464/2009`
+- [Valtioneuvoston asetus oikeusministeriöstä annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](465.md) `465/2009`
+- [Liikenne\- ja viestintäministeriön asetus ajoneuvon renkaiden nastoista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](466.md) `466/2009`
+- [Oikeusministeriön asetus syyttäjänvirastojen palvelutoimistoista](467.md) `467/2009`
+- [Liikenne\- ja viestintäministeriön asetus Viestintäviraston radiohallinnollisista suoritteista perittävistä maksuista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](468.md) `468/2009`
+- [Laki tuloverolain 33 b §:n muuttamisesta](469.md) `469/2009`
+- [Laki ennakkoperintälain muuttamisesta](470.md) `470/2009`
+- [Laki elinkeinotulon verottamisesta annetun lain 8 §:n muuttamisesta](471.md) `471/2009`
+- [Laki työttömyysturvalain muuttamisesta](472.md) `472/2009`
+- [Laki työttömyysturvalain 11 luvun 8 §:n muuttamisesta](473.md) `473/2009`
+- [Tasavallan presidentin asetus valtion virka\-ansiomerkistä annetun asetuksen 9 §:n muuttamisesta](474.md) `474/2009`
+- [Tasavallan presidentin asetus merenkulkijoiden koulutusta, pätevyyskirjoja ja vahdinpitoa koskevaan säännöstöön tehtyjen muutosten voimaansaattamisesta](475.md) `475/2009`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyvään INF\-säännöstöön tehtyjen muutosten voimaansaattamisesta](476.md) `476/2009`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen tehtyjen muutosten voimaansaattamisesta](477.md) `477/2009`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyvään vuoden 1988 pöytäkirjaan tehtyjen muutosten voimaansaattamisesta](478.md) `478/2009`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](479.md) `479/2009`
+- [Valtioneuvoston kanslian asetus valtioneuvoston kanslian työjärjestyksen 3 ja 32 §:n muuttamisesta](480.md) `480/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinterveyden suojelemisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](481.md) `481/2009`
+- [Laki taksiliikennelain muuttamisesta](482.md) `482/2009`
+- [Laki asuntosäästöpalkkion maksamisesta vuosina 2009―2011](483.md) `483/2009`
+- [Laki omistusasuntolainojen valtiontakauksesta annetun lain 5 §:n muuttamisesta](484.md) `484/2009`
+- [Valtioneuvoston asetus oman asunnon hankintaan myönnettävien lainojen korkotuesta annetun asetuksen 1 §:n ja 1 a §:n muuttamisesta](485.md) `485/2009`
+- [Valtioneuvoston asetus asuntosäästöpalkkioasetuksen 5 §:n muuttamisesta](486.md) `486/2009`
+- [Valtioneuvoston asetus ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta](487.md) `487/2009`
+- [Maa\- ja metsätalousministeriön asetus kasvisten kaupan pitämisestä annetun kauppa\- ja teollisuusministeriön asetuksen kumoamisesta](488.md) `488/2009`
+- [Valtiovarainministeriön päätös kuntajaon muuttamisesta Pirkkalan kunnan ja Tampereen kaupungin välillä](489.md) `489/2009`
+- [Valtiovarainministeriön päätös kuntajaon muuttamisesta Kouvolan kaupungin ja Iitin kunnan välillä](490.md) `490/2009`
+- [Valtiovarainministeriön päätös kuntajaon muuttamisesta Lappeenrannan kaupungin ja Ruokolahden kunnan välillä](491.md) `491/2009`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 54 §:n muuttamisesta](492.md) `492/2009`
+- [Laki vapaasta sivistystyöstä annetun lain 21 §:n muuttamisesta](493.md) `493/2009`
+- [Patoturvallisuuslaki](494.md) `494/2009`
+- [Opetusministeriön asetus yliopistojen koulutusvastuun täsmentämisestä, yliopistojen koulutusohjelmista ja erikoistumiskoulutuksista annetun opetusministeriön asetuksen muuttamisesta](495.md) `495/2009`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskorosta](496.md) `496/2009`
+- [Laki poliisin hallinnosta annetun lain muuttamisesta](497.md) `497/2009`
+- [Laki poliisilain muuttamisesta](498.md) `498/2009`
+- [Laki poliisikoulutuksesta annetun lain muuttamisesta](499.md) `499/2009`
+- [Laki poliisin säilyttämien henkilöiden kohtelusta annetun lain 2 luvun 1 §:n muuttamisesta](500.md) `500/2009`
+- [Laki päihtyneiden käsittelystä annetun lain 10 §:n muuttamisesta](501.md) `501/2009`
+- [Laki puolustusvoimien virka\-avusta poliisille annetun lain 3 ja 10 §:n muuttamisesta](502.md) `502/2009`
+- [Laki passilain muuttamisesta](503.md) `503/2009`
+- [Laki henkilökorttilain 16 §:n muuttamisesta](504.md) `504/2009`
+- [Laki rahankeräyslain muuttamisesta](505.md) `505/2009`
+- [Laki arpajaislain muuttamisesta](506.md) `506/2009`
+- [Laki viihdelaitelain muuttamisesta](507.md) `507/2009`
+- [Laki ampuma\-aselain muuttamisesta](508.md) `508/2009`
+- [Laki järjestyksenvalvojista annetun lain muuttamisesta](509.md) `509/2009`
+- [Laki yksityisistä turvallisuuspalveluista annetun lain muuttamisesta](510.md) `510/2009`
+- [Laki pakkokeinolain muuttamisesta](511.md) `511/2009`
+- [Laki esitutkintalain 14 §:n muuttamisesta](512.md) `512/2009`
+- [Laki tieliikennelain 95 ja 108 a §:n muuttamisesta](513.md) `513/2009`
+- [Laki ajoneuvolain 100 §:n muuttamisesta](514.md) `514/2009`
+- [Laki ylikuormamaksusta annetun lain 19 §:n muuttamisesta](515.md) `515/2009`
+- [Valtioneuvoston asetus poliisin hallinnosta annetun asetuksen muuttamisesta](516.md) `516/2009`
+- [Valtioneuvoston asetus poliisiasetuksen muuttamisesta](517.md) `517/2009`
+- [Valtioneuvoston asetus sisäasiainministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](518.md) `518/2009`
+- [Laki Valtakunnanvoudinvirastosta](519.md) `519/2009`
+- [Laki ulosottokaaren eräiden säännösten voimaantulosta](520.md) `520/2009`
+- [Laki ulosottokaaren muuttamisesta](521.md) `521/2009`
+- [Laki kalastuslain muuttamisesta](522.md) `522/2009`
+- [Laki tieliikennelain 49 ja 82 c §:n muuttamisesta](523.md) `523/2009`
+- [Laki työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetun lain muuttamisesta](524.md) `524/2009`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 18 §:n muuttamisesta](525.md) `525/2009`
+- [Laki työntekijän eläkelain 206 §:n muuttamisesta](526.md) `526/2009`
+- [Laki yrittäjän eläkelain 152 §:n muuttamisesta](527.md) `527/2009`
+- [Valtioneuvoston asetus taidenäyttelyiden valtiontakuusta annetun asetuksen 4 §:n muuttamisesta](528.md) `528/2009`
+- [Valtioneuvoston asetus työttömyysetuutta määrättäessä huomioon otettavasta tulosta annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](529.md) `529/2009`
+- [Laki rautatielain muuttamisesta](530.md) `530/2009`
+- [Laki sairausvakuutuslain muuttamisesta](531.md) `531/2009`
+- [Laki sairausvakuutuslain muuttamisesta](532.md) `532/2009`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 27 §:n muuttamisesta](533.md) `533/2009`
+- [Laki työsopimuslain 2 luvun 11 a §:n muuttamisesta](534.md) `534/2009`
+- [Valtioneuvoston asetus terveyden edistämisen määrärahasta](535.md) `535/2009`
+- [Valtioneuvoston asetus eräiden kansainvälisesti suojattujen tunnusten käytöstä annetun lain muuttamisesta annetun lain voimaantulosta](536.md) `536/2009`
+- [Valtiovarainministeriön asetus Rauha ja turvallisuus \-juhlarahasta](537.md) `537/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinsuojeluaineen hyväksymisen hakemisesta ja hyväksymisestä sekä niihin liittyvistä menettelyistä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](538.md) `538/2009`
+- [Oikeusministeriön asetus oikeusministeriön työjärjestyksestä](539.md) `539/2009`
+- [Opetusministeriön asetus Valtion elokuvatarkastamon ja elokuvalautakunnan suoritteiden maksullisuudesta annetun opetusministeriön asetuksen 1 §:n muuttamisesta](540.md) `540/2009`
+- [Valtiovarainministeriön asetus ulkomaisten väliyhteisöjen osakkaiden verotuksesta annetun lain 2 §:n 5 momentissa tarkoitetuista valtioista](541.md) `541/2009`
+- [Ympäristöministeriön työjärjestys](542.md) `542/2009`
+- [Maa\- ja metsätalousministeriön asetus Euroopan unionin ulkopuolisista valtioista tuotavien hevoseläinten eläintautivaatimuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](543.md) `543/2009`
+- [Maa\- ja metsätalousministeriön asetus Suomessa rekisteröityjen yli 20\-metristen kalastusalusten harjoittaman turskankalastuksen väliaikaisesta sallimisesta](544.md) `544/2009`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2009 metsänhoitomaksun perusteesta](545.md) `545/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden maatilalain mukaisten myyntihintasaamisten ja lainojen viitekorosta](546.md) `546/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden porotalouden ja luontaiselinkeinojen rahoituslain mukaisten asuntolainojen viitekorosta](547.md) `547/2009`
+- [Työ\- ja elinkeinoministeriön asetus ydinlaitosten ympäristövaikutusten arviointimenettelyyn kuuluvista työ\- ja elinkeinoministeriön maksullisista suoritteista](548.md) `548/2009`
+- [Työ\- ja elinkeinoministeriön asetus ydinenergian käytön valvontaan kuuluvista työ\- ja elinkeinoministeriön maksullisista suoritteista](549.md) `549/2009`
+- [Valtiovarainministeriön päätös kuntajaon muuttamisesta Hämeenlinnan kaupungin ja Hausjärven kunnan välillä](550.md) `550/2009`
+- [Valtioneuvoston asetus maakaasun käsittelyn turvallisuudesta](551.md) `551/2009`
+- [Työ\- ja elinkeinoministeriön työjärjestys](552.md) `552/2009`
+- [Maa\- ja metsätalousministeriön asetus hedelmä\- ja vihannesorganisaatioista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](553.md) `553/2009`
+- [Laki eurooppalaisesta alueellisen yhteistyön yhtymästä](554.md) `554/2009`
+- [Tasavallan presidentin asetus Laosin kanssa yhteistyöstä uusiutuvan energian strategian kehittämishankkeessa tehdyn sopimuksen voimaansaattamisesta](555.md) `555/2009`
+- [Valtioneuvoston asetus tartuntatautiasetuksen 2 §:n muuttamisesta](556.md) `556/2009`
+- [Sosiaali\- ja terveysministeriön asetus haitallisiksi tunnetuista pitoisuuksista](557.md) `557/2009`
+- [Yliopistolaki](558.md) `558/2009`
+- [Laki yliopistolain voimaanpanosta](559.md) `559/2009`
+- [Laki opiskelijavalintarekisteristä ja ylioppilastutkintorekisteristä annetun lain muuttamisesta](560.md) `560/2009`
+- [Laki arkistolain 1 §:n muuttamisesta](561.md) `561/2009`
+- [Laki rikoslain 40 luvun 11 §:n muuttamisesta](562.md) `562/2009`
+- [Laki konkurssilain 1 luvun 3 §:n muuttamisesta](563.md) `563/2009`
+- [Laki ammattikorkeakoululain muuttamisesta ja väliaikaisesta muuttamisesta](564.md) `564/2009`
+- [Valtioneuvoston asetus työsuojeluneuvottelukunnasta](565.md) `565/2009`
+- [Laki Suomen ja Amerikan Yhdysvaltojen välillä vastavuoroisista puolustushankinnoista tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](566.md) `566/2009`
+- [Laki valtion vakuusrahastosta annetun lain muuttamisesta](567.md) `567/2009`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](568.md) `568/2009`
+- [Laki sosiaali\- ja terveydenhuollon palvelusetelistä](569.md) `569/2009`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 12 §:n muuttamisesta](570.md) `570/2009`
+- [Valtioneuvoston asetus perusopetusasetuksen 3 § :n muuttamisesta](571.md) `571/2009`
+- [Laki maakaaren muuttamisesta](572.md) `572/2009`
+- [Laki kaupanvahvistajista](573.md) `573/2009`
+- [Laki maanvuokralain muuttamisesta](574.md) `574/2009`
+- [Laki kiinteistönmuodostamislain muuttamisesta](575.md) `575/2009`
+- [Laki kiinteistötietojärjestelmästä ja siitä tuotettavasta tietopalvelusta annetun lain 6 §:n muuttamisesta](576.md) `576/2009`
+- [Laki maanmittauslaitoksesta annetun lain muuttamisesta](577.md) `577/2009`
+- [Laki oikeudenkäymiskaaren 15 luvun 2 ja 3 §:n muuttamisesta](578.md) `578/2009`
+- [Laki käräjäoikeuslain 17 §:n 1 momentin 1 kohdan a alakohdan ja 19 §:n 1 momentin 1 kohdan kumoamisesta](579.md) `579/2009`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain muuttamisesta](580.md) `580/2009`
+- [Laki maankäyttö\- ja rakennuslain 91 p ja 97 §:n muuttamisesta](581.md) `581/2009`
+- [Laki rakennussuojelulain 20 §:n muuttamisesta](582.md) `582/2009`
+- [Laki etuostolain 9 §:n muuttamisesta](583.md) `583/2009`
+- [Laki kirjaamisasioiden siirtämistä koskevan lainsäädännön voimaanpanosta](584.md) `584/2009`
+- [Laki osakeyhtiölain muuttamisesta](585.md) `585/2009`
+- [Laki arvopaperimarkkinalain 2 luvun muuttamisesta](586.md) `586/2009`
+- [Laki vakuutusyhtiölain 5 luvun muuttamisesta](587.md) `587/2009`
+- [Maa\- ja metsätalousministeriön asetus elintarvikkeiden ravintoarvomerkinnöistä](588.md) `588/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta lannoitevalmisteista annetun maa\- ja metsätalousministeriön asetuksen 12/07 muuttamisesta](589.md) `589/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta lannoitevalmisteita koskevan toiminnan harjoittamisesta ja sen valvonnasta annetun maa\- ja metsätalousministeriön asetuksen 13/07 muuttamisesta](590.md) `590/2009`
+- [Laki käräjäoikeuslain muuttamisesta](591.md) `591/2009`
+- [Laki tuomareiden nimittämisestä annetun lain 3 ja 12 §:n muuttamisesta](592.md) `592/2009`
+- [Laki Lääkealan turvallisuus\- ja kehittämiskeskuksesta](593.md) `593/2009`
+- [Laki Sosiaali\- ja terveysalan lupa\- ja valvontavirastosta annetun lain 2 §:n muuttamisesta](594.md) `594/2009`
+- [Laki lääkelain muuttamisesta](595.md) `595/2009`
+- [Laki tartuntatautilain muuttamisesta](596.md) `596/2009`
+- [Laki kemikaalilain muuttamisesta](597.md) `597/2009`
+- [Laki maatalouden rakennetuista annetun lain muuttamisesta](598.md) `598/2009`
+- [Laki kaupallisista tavarankuljetuksista tiellä annetun lain muuttamisesta](599.md) `599/2009`
+- [Valtioneuvoston asetus maanmittauslaitoksen eräiltä kirjaamislakimieheltä vaadittavasta kielitaidosta](600.md) `600/2009`
+- [Valtioneuvoston asetus sika\- ja siipikarjatalouden tuotannosta irrotetusta tuesta ja rakennemuutoskorvauksesta annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](601.md) `601/2009`
+- [Valtioneuvoston asetus  ympäristöministeriöstä annetun asetuksen muuttamisesta](602.md) `602/2009`
+- [Liikenne\- ja viestintäministeriön asetus Viestintäviraston eräistä maksuista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](603.md) `603/2009`
+- [Verotililaki](604.md) `604/2009`
+- [Laki arvonlisäverolain muuttamisesta](605.md) `605/2009`
+- [Laki eräistä vakuutusmaksuista suoritettavasta verosta annetun lain 5 ja 6 §:n muuttamisesta](606.md) `606/2009`
+- [Laki verontilityslain muuttamisesta](607.md) `607/2009`
+- [Laki ennakkoperintälain muuttamisesta](608.md) `608/2009`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain 10 ja 13 §:n muuttamisesta](609.md) `609/2009`
+- [Laki korkotulon lähdeverosta annetun lain muuttamisesta](610.md) `610/2009`
+- [Laki rajoitetusti verovelvollisen tulon verottamisesta annetun lain 11 §:n muuttamisesta](611.md) `611/2009`
+- [Laki arpajaisverolain muuttamisesta](612.md) `612/2009`
+- [Laki veronkantolain muuttamisesta](613.md) `613/2009`
+- [Laki veronlisäyksestä ja viivekorosta annetun lain 1 §:n muuttamisesta](614.md) `614/2009`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 21 §:n muuttamisesta](615.md) `615/2009`
+- [Valtioneuvoston asetus Lääkealan turvallisuus\- ja kehittämiskeskuksesta](616.md) `616/2009`
+- [Laki vahvasta sähköisestä tunnistamisesta ja sähköisistä allekirjoituksista](617.md) `617/2009`
+- [Laki sähköisestä asioinnista viranomaistoiminnassa annetun lain muuttamisesta](618.md) `618/2009`
+- [Laki sosiaali\- ja terveydenhuollon asiakastietojen sähköisestä käsittelystä annetun lain 2 ja 9 §:n muuttamisesta](619.md) `619/2009`
+- [Laki viestintähallinnosta annetun lain 2 §:n muuttamisesta](620.md) `620/2009`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä ja selvittämisestä annetun lain 18 §:n muuttamisesta](621.md) `621/2009`
+- [Laki varainsiirtoverolain 56 b §:n muuttamisesta](622.md) `622/2009`
+- [Laki verotusmenettelystä annetun lain 93 a §:n muuttamisesta](623.md) `623/2009`
+- [Laki ennakkoperintälain 6 a §:n muuttamisesta](624.md) `624/2009`
+- [Laki veripalvelulain 11 §:n muuttamisesta](625.md) `625/2009`
+- [Laki alkoholi\- ja alkoholijuomaverosta annetun lain liitteen muuttamisesta](626.md) `626/2009`
+- [Laki työntekijän eläkelain muuttamisesta](627.md) `627/2009`
+- [Laki työntekijän eläkelain voimaanpanolain 30 §:n muuttamisesta](628.md) `628/2009`
+- [Laki merimieseläkelain muuttamisesta](629.md) `629/2009`
+- [Laki yrittäjän eläkelain muuttamisesta](630.md) `630/2009`
+- [Laki yrittäjän eläkelain voimaanpanosta annetun lain 14 §:n muuttamisesta](631.md) `631/2009`
+- [Laki maatalousyrittäjän eläkelain muuttamisesta](632.md) `632/2009`
+- [Laki maatalousyrittäjän eläkelain voimaanpanosta annetun lain 13 §:n muuttamisesta](633.md) `633/2009`
+- [Laki työntekijän eläkelain muuttamisesta](634.md) `634/2009`
+- [Laki merimieseläkelain muuttamisesta](635.md) `635/2009`
+- [Laki yrittäjän eläkelain muuttamisesta](636.md) `636/2009`
+- [Laki maatalousyrittäjän eläkelain muuttamisesta](637.md) `637/2009`
+- [Laki kunnallisen eläkelain muuttamisesta](638.md) `638/2009`
+- [Laki valtion eläkelain muuttamisesta](639.md) `639/2009`
+- [Laki evankelis\-luterilaisen kirkon eläkelain muuttamisesta](640.md) `640/2009`
+- [Laki rikoslain muuttamisesta](641.md) `641/2009`
+- [Laki alkoholilain muuttamisesta](642.md) `642/2009`
+- [Laki pakkokeinolain 5 luvun 10 §:n muuttamisesta](643.md) `643/2009`
+- [Laki järjestyksen pitämisestä joukkoliikenteessä annetun lain 3 ja 4 §:n muuttamisesta](644.md) `644/2009`
+- [Valtioneuvoston asetus valtion virkamiehen sairauden todistamisesta](645.md) `645/2009`
+- [Valtioneuvoston asetus maatalouden investointituesta ja nuoren viljelijän aloitustuesta annetun valtioneuvoston asetuksen muuttamisesta](646.md) `646/2009`
+- [Valtioneuvoston asetus eräiden vaarallisten aineiden, seosten ja esineiden valmistuksen, markkinoille saattamisen ja käytön rajoituksista annetuista REACH\-asetuksen XVII liitteen säännöksistä poikkeamisesta](647.md) `647/2009`
+- [Valtioneuvoston asetus valtioneuvoston ruotsin kielen lautakunnasta annetun valtioneuvoston asetuksen muuttamisesta](648.md) `648/2009`
+- [Maa\- ja metsätalousministeriön asetus metsätalouden ympäristötuen laskennassa käytettävästä puukuutiometrin keskikantohinnasta](649.md) `649/2009`
+- [Valtiovarainministeriön päätös valtionhallinnon yhteishankinnoista annetun valtiovarainministeriön päätöksen 1 §:n muuttamisesta](650.md) `650/2009`
+- [Laki kiinteistörahastolain muuttamisesta](651.md) `651/2009`
+- [Laki kauppakamarilain 2 §:n muuttamisesta](652.md) `652/2009`
+- [Laki Finanssivalvonnasta annetun lain 71 §:n muuttamisesta](653.md) `653/2009`
+- [Laki arvopaperimarkkinalain 1 ja 2 luvun muuttamisesta](654.md) `654/2009`
+- [Laki kiinnitysluottopankkilain 8 §:n muuttamisesta](655.md) `655/2009`
+- [Laki sijoitusrahastolain 48 §:n muuttamisesta](656.md) `656/2009`
+- [Laki sosiaalihuollon asiakkaan asemasta ja oikeuksista annetun lain muuttamisesta](657.md) `657/2009`
+- [Laki potilaan asemasta ja oikeuksista annetun lain 2 a §:n muuttamisesta](658.md) `658/2009`
+- [Valtioneuvoston asetus vaarallisten aineiden ilmakuljetuksesta annetun asetuksen muuttamisesta](659.md) `659/2009`
+- [Työ\- ja elinkeinoministeriön asetus työ\- ja elinkeinoministeriön työjärjestyksen muuttamisesta](660.md) `660/2009`
+- [Laki väestötietojärjestelmästä ja Väestörekisterikeskuksen varmennepalveluista](661.md) `661/2009`
+- [Valtioneuvoston asetus yksityisestä terveydenhuollosta annetun asetuksen muuttamisesta](662.md) `662/2009`
+- [Ulkoasiainministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoasiainministeriön asetuksen muuttamisesta](663.md) `663/2009`
+- [Liikenne\- ja viestintäministeriön asetus Merenkulkulaitoksen maksullisista suoritteista annetun liikenne\- ja viestintäministeriön asetuksen 2 §:n 4 kohdan ja liitteen 4 kumoamisesta](664.md) `664/2009`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun asetuksen 6 §:n muuttamisesta](665.md) `665/2009`
+- [Valtioneuvoston asetus maataloustuotteiden markkinoinnin ja tuotannon kehittämisen avustamisesta annetun valtioneuvoston asetuksen muuttamisesta](666.md) `666/2009`
+- [Valtioneuvoston asetus valtakunnallisesta sosiaali\- ja terveysalan eettisestä neuvottelukunnasta](667.md) `667/2009`
+- [Valtioneuvoston asetus  paristoista ja akuista annetun valtioneuvoston asetuksen muuttamisesta](668.md) `668/2009`
+- [Valtioneuvoston päätös Karttulan kunnan liittämisestä Kuopion kaupunkiin](669.md) `669/2009`
+- [Valtiovarainministeriön asetus Valtioneuvosto 200 vuotta \-juhlarahasta](670.md) `670/2009`
+- [Verohallinnon päätös vuoden 2009 kiinteistöverotuksen päättymisestä](671.md) `671/2009`
+- [Tasavallan presidentin asetus EU\-Afrikka infrastruktuurirahaston säännöistä tehdyn sopimuksen voimaansaattamisesta](672.md) `672/2009`
+- [Tasavallan presidentin asetus Uzbekistanin kanssa keskinäisestä avunannosta tulliasioissa tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](673.md) `673/2009`
+- [Valtioneuvoston asetus meriliikenteessä käytettävien alusten kilpailukyvyn parantamisesta annetun lain muuttamisesta annetun lain voimaantulosta](674.md) `674/2009`
+- [Valtioneuvoston asetus merimieseläkelain 4 §:n muuttamisesta annetun lain voimaantulosta](675.md) `675/2009`
+- [Valtiovarainministeriön asetus vuoden 2008 ennakonpalautusten maksamisesta](676.md) `676/2009`
+- [Opetusministeriön asetus Helsingin eurooppalaisen koulun oppilailta perittävistä maksuista annetun opetusministeriön asetuksen muuttamisesta](677.md) `677/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta alkuperäiskasvilajikkeiden hyväksymisestä ja siemenkaupasta](678.md) `678/2009`
+- [Valtioneuvoston asetus vaarallisten aineiden käytön rajoittamisesta sähkö\- ja elektroniikkalaitteissa annetun valtioneuvoston asetuksen liitteen muuttamisesta](679.md) `679/2009`
+- [Sisäasiainministeriön asetus pysäköintivirhemaksusta annetun asetuksen 1 §:n muuttamisesta](680.md) `680/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta siemenperunan kaupasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](681.md) `681/2009`
+- [Työ\- ja elinkeinoministeriön asetus maakaasukauppoja koskevasta tiedonvaihdosta ja tasehallinnasta annetun asetuksen muuttamisesta](682.md) `682/2009`
+- [Maa\- ja metsätalousministeriön asetus eläinten eläinlääkinnällisestä rajatarkastuksesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](683.md) `683/2009`
+- [Verohallinnon päätös muiden verovelvollisten kuin yhteisöjen ja yhteisetuuksien verovuoden 2008 verotuksen päättymisestä](684.md) `684/2009`
+- [Laki rikoslain 24 luvun 1 §:n muuttamisesta](685.md) `685/2009`
+- [Laki sähköisen viestinnän tietosuojalain 36 §:n muuttamisesta](686.md) `686/2009`
+- [Laki poliisin, tullin ja rajavartiolaitoksen yhteistoiminnasta](687.md) `687/2009`
+- [Laki rajavartiolain muuttamisesta](688.md) `688/2009`
+- [Laki henkilötietojen käsittelystä rajavartiolaitoksessa annetun lain 19 §:n muuttamisesta](689.md) `689/2009`
+- [Laki tullilain muuttamisesta](690.md) `690/2009`
+- [Laki poliisilain 54 §:n muuttamisesta](691.md) `691/2009`
+- [Valtioneuvoston asetus sairausvakuutuslain 3 luvun 4 ja 5 §:ssä tarkoitettujen korvaustaksojen perusteista annetun valtioneuvoston asetuksen 2 luvun muuttamisesta](692.md) `692/2009`
+- [Maa\- ja metsätalousministeriön asetus alkuperäiskasvilajikkeen rekisteröinnistä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](693.md) `693/2009`
+- [Liikenne\- ja viestintäministeriön asetus autojen ja perävaunujen rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen liitteiden muuttamisesta](694.md) `694/2009`
+- [Laki taksinkuljettajien ammattipätevyydestä](695.md) `695/2009`
+- [Laki tieliikennelain muuttamisesta](696.md) `696/2009`
+- [Laki Ajoneuvohallintokeskuksesta annetun lain 2 §:n muuttamisesta](697.md) `697/2009`
+- [Laki ajoneuvoliikennerekisteristä annetun lain muuttamisesta](698.md) `698/2009`
+- [Laki kuorma\- ja linja\-auton kuljettajien ammattipätevyydestä annetun lain muuttamisesta](699.md) `699/2009`
+- [Tasavallan Presidentin asetus Tanskan, Suomen, Islannin, Norjan ja Ruotsin välillä Sri Lankan tarkkailuoperaation arkiston sijoittamisesta Norjan kansallisarkiston yhteyteen tehdyn pöytäkirjan voimaansaattamisesta](700.md) `700/2009`
+- [Tasavallan presidentin asetus Suomen ja Amerikan Yhdysvaltojen välillä vastavuoroisista puolustushankinnoista tehdyn pöytäkirjan voimaansaattamisesta ja pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](701.md) `701/2009`
+- [Valtioneuvoston asetus rikesakkorikkomuksista annetun asetuksen muuttamisesta](702.md) `702/2009`
+- [Valtioneuvoston asetus alkoholijuomista ja väkiviinasta annetun asetuksen 31 §:n muuttamisesta](703.md) `703/2009`
+- [Valtioneuvoston asetus alkoholivalmisteista ja denaturoimisesta annetun asetuksen 23 §:n 1 ja 3 momentin kumoamisesta](704.md) `704/2009`
+- [Tasavallan presidentin asetus Tžekin kanssa turvallisuusluokitellun tiedon vaihtamisesta ja vastavuoroisesta suojaamisesta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](705.md) `705/2009`
+- [Valtioneuvoston asetus työterveyslaitoksen toiminnasta ja rahoituksesta annetun asetuksen 20 §:n muuttamisesta](706.md) `706/2009`
+- [Valtioneuvoston asetus tartuntatautiasetuksen väliaikaisesta muuttamisesta](707.md) `707/2009`
+- [Valtioneuvoston asetus eräistä raha\-automaattiavustuksiin sovellettavista määräajoista annetun asetuksen 2 §:n väliaikaisesta muuttamisesta](708.md) `708/2009`
+- [Puolustusministeriön asetus asevelvollisuuslaissa ja terveydenhuollon järjestämisestä puolustusvoimissa annetussa laissa tarkoitetuista etuuksista annetun puolustusministeriön asetuksen 4 §:n muuttamisesta](709.md) `709/2009`
+- [Työ\- ja elinkeinoministeriön asetus kosmeettisista valmisteista annetun kauppa\- ja teollisuusministeriön asetuksen muuttamisesta](710.md) `710/2009`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 23 §:n muuttamisesta](711.md) `711/2009`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavasta luonnonhaittakorvauksen kansallisesta lisäosasta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](712.md) `712/2009`
+- [Valtioneuvoston asetus eräiden ympäristölle aiheutuneiden vahinkojen korjaamisesta](713.md) `713/2009`
+- [Valtioneuvoston asetus luonnonsuojeluasetuksen liitteiden 2 ja 3\(a\) muuttamisesta](714.md) `714/2009`
+- [Maa\- ja metsätalousministeriön asetus maitokiintiöistä](715.md) `715/2009`
+- [Valtioneuvoston asetus Huoltovarmuuskeskuksesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](716.md) `716/2009`
+- [Valtioneuvoston asetus kaivannaisjätteistä annetun valtioneuvoston asetuksen muuttamisesta](717.md) `717/2009`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön osaksi rahoittamista maataloustuotteiden tiedotus\- ja menekinedistämistoimista](718.md) `718/2009`
+- [Maa\- ja metsätalousministeriön asetus Maaseutuviraston maksullisista suoritteista annetun maa\- ja metsätalousministeriön asetuksen 1 §:n muuttamisesta](719.md) `719/2009`
+- [Maa\- ja metsätalousministeriön asetus hedelmien ja vihannesten kaupan pitämistä koskevien vaatimusten valvonnasta](720.md) `720/2009`
+- [Työ\- ja elinkeinoministeriön asetus työnantajan velvollisuudesta maksaa korvausta työntekijälle merionnettomuudessa menetetystä henkilökohtaisesta omaisuudesta annetun työministeriön asetuksen 2 §:n muuttamisesta](721.md) `721/2009`
+- [Ulkoasiainministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoasiainministeriön asetuksen muuttamisesta](722.md) `722/2009`
+- [Liikenne\- ja viestintäministeriön asetus taksiliikenteessä käytettävän esteettömän kaluston laatuvaatimuksista](723.md) `723/2009`
+- [Valtioneuvoston asetus valtion rahoituksen perusteena käytettävistä opetus\- ja kulttuuritoimen sekä vapaan sivistystyön keskimääräisistä yksikköhinnoista vuonna 2010](724.md) `724/2009`
+- [Valtioneuvoston asetus paikkatietoinfrastruktuurista](725.md) `725/2009`
+- [Puolustusministeriön asetus sotilaallisen kriisinhallintahenkilöstön pätevyysvaatimuksista ja palvelussuhteen ehdoista annetun puolustusministeriön asetuksen 7 ja 8 §:n muuttamisesta](726.md) `726/2009`
+- [Maa\- ja metsätalousministeriön asetus rakentamisinvestointien hyväksyttävistä yksikkökustannuksista](727.md) `727/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden maatilalain mukaisten myyntihintasaamisten ja lainojen viitekorosta](728.md) `728/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden porotalouden ja luontaiselinkeinojen rahoituslain mukaisten asuntolainojen viitekorosta](729.md) `729/2009`
+- [Valtioneuvoston asetus Huoltovarmuuskeskuksesta annetun valtioneuvoston asetuksen 1 §:n väliaikaisesta muuttamisesta](730.md) `730/2009`
+- [Puolustusministeriön asetus sotilasajoneuvoista annetun puolustusministeriön asetuksen muuttamisesta](731.md) `731/2009`
+- [Liikenne\- ja viestintäministeriön asetus tarkoituksenmukaisen internet\-yhteyden vähimmäisnopeudesta yleispalvelussa](732.md) `732/2009`
+- [Laki Kazakstanin kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](733.md) `733/2009`
+- [Valtioneuvoston asetus kaupanvahvistajista](734.md) `734/2009`
+- [Valtioneuvoston asetus vuonna 2010 myönnettävän maatilan investointituen kohdentamisesta](735.md) `735/2009`
+- [Valtioneuvoston asetus maatalouden investointituesta ja nuoren viljelijän aloitustuesta annetun valtioneuvoston asetuksen 37 §:n muuttamisesta](736.md) `736/2009`
+- [Vuoden 2009 toinen lisätalousarvio](737.md) `737/2009`
+- [Laki työkyvyttömyyseläkkeellä olevien työhönpaluun edistämisestä](738.md) `738/2009`
+- [Eduskunnan päätös valtioneuvoston lainanottovaltuuden muuttamisesta](739.md) `739/2009`
+- [Valtioneuvoston asetus saaristokunnista ja muiden kuntien saaristo\-osista, joihin sovelletaan saaristokuntaa koskevia säännöksiä, annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](740.md) `740/2009`
+- [Valtioneuvoston asetus maakotkien porotaloudelle aiheuttamien vahinkojen korvaamisesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](741.md) `741/2009`
+- [Valtiovarainministeriön asetus maistraattien sijaintipaikoista ja yksiköistä annetun asetuksen muuttamisesta](742.md) `742/2009`
+- [Puolustusministeriön asetus sotilasajoneuvojen rekisteröinnistä](743.md) `743/2009`
+- [Puolustusministeriön asetus eräiden liikenteessä käytettävien sotilasajoneuvojen liikennekelpoisuuden valvonnasta](744.md) `744/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta nautojen BSE\-taudin vastustamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](745.md) `745/2009`
+- [Laki verotililain 7 ja 51 §:n muuttamisesta](746.md) `746/2009`
+- [Laki arvonlisäverolain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](747.md) `747/2009`
+- [Laki arvonlisäverolain väliaikaisesta muuttamisesta](748.md) `748/2009`
+- [Laki eräistä vakuutusmaksuista suoritettavasta verosta annetun lain 5 ja 6 §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](749.md) `749/2009`
+- [Laki verontilityslain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](750.md) `750/2009`
+- [Laki ennakkoperintälain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](751.md) `751/2009`
+- [Laki ennakkoperintälain väliaikaisesta muuttamisesta](752.md) `752/2009`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain 10 ja 13 §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](753.md) `753/2009`
+- [Laki korkotulon lähdeverosta annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](754.md) `754/2009`
+- [Laki korkotulon lähdeverosta annetun lain 7 §:n muuttamisesta](755.md) `755/2009`
+- [Laki rajoitetusti verovelvollisen tulon verottamisesta annetun lain 11 §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](756.md) `756/2009`
+- [Laki arpajaisverolain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](757.md) `757/2009`
+- [Laki arpajaisverolain väliaikaisesta muuttamisesta](758.md) `758/2009`
+- [Laki veronkantolain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](759.md) `759/2009`
+- [Laki veronlisäyksestä ja viivekorosta annetun lain 1 §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](760.md) `760/2009`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 21 §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](761.md) `761/2009`
+- [Valtioneuvoston asetus televisiomaksuista](762.md) `762/2009`
+- [Maa\- ja metsätalousministeriön asetus tuettavaa rakentamista koskevien rakentamismääräyksien ja suositusten soveltamisesta](763.md) `763/2009`
+- [Maa\- ja metsätalousministeriön asetus tuettavaa rakentamista koskevista hevostalousrakennusten rakennusteknisistä ja toiminnallisista vaatimuksista](764.md) `764/2009`
+- [Eläinlääkintähuoltolaki](765.md) `765/2009`
+- [Laki eläintautilain 15 §:n muuttamisesta](766.md) `766/2009`
+- [Laki eläinsuojelulain 59 §:n muuttamisesta](767.md) `767/2009`
+- [Laki eläinten kuljetuksesta annetun lain 47 §:n muuttamisesta](768.md) `768/2009`
+- [Valtioneuvoston asetus hätäkeskuslaitoksesta annetun valtioneuvoston asetuksen muuttamisesta](769.md) `769/2009`
+- [Valtioneuvoston asetus yliopistoista](770.md) `770/2009`
+- [Opetusministeriön asetus yliopistojen perusrahoituksen laskentakriteereistä](771.md) `771/2009`
+- [Puolustusministeriön asetus sotilasräjähteistä](772.md) `772/2009`
+- [Laki lääkelain muuttamisesta](773.md) `773/2009`
+- [Laki terveydenhuollon laitteista ja tarvikkeista annetun lain muuttamisesta](774.md) `774/2009`
+- [Laki huumausainelain muuttamisesta](775.md) `775/2009`
+- [Laki lääkkeiden velvoitevarastoinnista annetun lain muuttamisesta](776.md) `776/2009`
+- [Laki veripalvelulain muuttamisesta](777.md) `777/2009`
+- [Laki ihmisen elimien, kudoksien ja solujen lääketieteellisestä käytöstä annetun lain muuttamisesta](778.md) `778/2009`
+- [Laki apteekkimaksusta annetun lain muuttamisesta](779.md) `779/2009`
+- [Laki lääketieteellisestä tutkimuksesta annetun lain muuttamisesta](780.md) `780/2009`
+- [Laki sähköisestä lääkemääräyksestä annetun lain muuttamisesta](781.md) `781/2009`
+- [Laki geenitekniikkalain 6 §:n muuttamisesta](782.md) `782/2009`
+- [Laki kansanterveyslain 43 §:n muuttamisesta](783.md) `783/2009`
+- [Laki erikoissairaanhoitolain 47 a ja 52 §:n muuttamisesta](784.md) `784/2009`
+- [Laki mielenterveyslain 33 b §:n muuttamisesta](785.md) `785/2009`
+- [Laki yksityisestä terveydenhuollosta annetun lain 20 §:n muuttamisesta](786.md) `786/2009`
+- [Laki tartuntatautilain 11 a §:n muuttamisesta](787.md) `787/2009`
+- [Laki sairausvakuutuslain muuttamisesta](788.md) `788/2009`
+- [Laki rajat ylittävästä kieltomenettelystä annetun lain 2 ja 4 §:n muuttamisesta](789.md) `789/2009`
+- [Laki rehulain 13 §:n muuttamisesta](790.md) `790/2009`
+- [Laki eläinten lääkitsemisestä annetun lain 4 ja 8 §:n muuttamisesta](791.md) `791/2009`
+- [Laki pelastuslain 6 §:n muuttamisesta](792.md) `792/2009`
+- [Laki kemiallisten aseiden kehittämisen, tuotannon, varastoinnin ja käytön kieltämistä sekä niiden hävittämistä koskevan yleissopimuksen eräiden määräysten hyväksymisestä ja sen soveltamisesta annetun lain muuttamisesta](793.md) `793/2009`
+- [Valtioneuvoston asetus korkeakoulujen arviointineuvostosta](794.md) `794/2009`
+- [Tasavallan presidentin asetus Pohjoismaiden ympäristörahoitusyhtiön ja Pohjoismaiden Investointipankin kanssa Itämeren toimintaohjelman hankevalmistelurahastosta tehdyn sopimuksen voimaansaattamisesta](795.md) `795/2009`
+- [Valtioneuvoston asetus tuotannollisten investointien väliaikaisesti korotetuista poistoista annetun lain voimaantulosta](796.md) `796/2009`
+- [Valtioneuvoston asetus luonnonvara\- ja ympäristötutkimuksen yhteenliittymästä](797.md) `797/2009`
+- [Valtioneuvoston asetus Metsäntutkimuslaitoksesta annetun asetuksen muuttamisesta](798.md) `798/2009`
+- [Valtioneuvoston päätös maakunnista](799.md) `799/2009`
+- [Verohallinnon päätös pientyönantajan maksu\- ja ilmoituspalvelujärjestelmässä hoidettavista tehtävistä](800.md) `800/2009`
+- [Eduskunnan päätös eduskunnan pankkivaltuutettujen johtosäännön 3 §:n muuttamisesta](801.md) `801/2009`
+- [Valtioneuvoston asetus vakuutettujen työansioiden huomioon ottamisesta laskettaessa eräiden eläkelaitosten osuutta Eläketurvakeskuksen kustannuksista](802.md) `802/2009`
+- [Valtioneuvoston asetus lääkeasetuksen muuttamisesta](803.md) `803/2009`
+- [Valtioneuvoston asetus lääkkeiden velvoitevarastoinnista annetun valtioneuvoston asetuksen 2 ja 3 §:n muuttamisesta](804.md) `804/2009`
+- [Valtioneuvoston asetus  kulttuurihistoriallisesti arvokkaiden apteekkien apteekkimaksusta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](805.md) `805/2009`
+- [Valtioneuvoston asetus  terveydenhuollossa käytettävistä muista kuin itsetoimivista vaaoista annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](806.md) `806/2009`
+- [Valtioneuvoston asetus terveydenhuollon laitteista ja tarvikkeista annetun asetuksen muuttamisesta](807.md) `807/2009`
+- [Valtioneuvoston asetus in vitro \-diagnostiikkaan tarkoitetuista laitteista annetun valtioneuvoston asetuksen 13 §:n ja liitteen 8 muuttamisesta](808.md) `808/2009`
+- [Valtioneuvoston asetus ulosottomaksuista annetun asetuksen muuttamisesta](809.md) `809/2009`
+- [Sosiaali\- ja terveysministeriön asetus Lääkealan turvallisuus\- ja kehittämiskeskuksen maksullisista suoritteista](810.md) `810/2009`
+- [Sosiaali\- ja terveysministeriön asetus hedelmöityshoidoista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](811.md) `811/2009`
+- [Sosiaali\- ja terveysministeriön asetus eräistä terveydenhuollon laitteista ja tarvikkeista tehtävistä ilmoituksista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](812.md) `812/2009`
+- [Sosiaali\- ja terveysministeriön asetus  ihmisen kudoksien ja solujen lääketieteellisestä käytöstä annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](813.md) `813/2009`
+- [Sosiaali\- ja terveysministeriön asetus sähköisestä lääkemääräyksestä annetun sosiaali\- ja terveysministeriön asetuksen 1 ja 8 §:n muuttamisesta](814.md) `814/2009`
+- [Sosiaali\- ja terveysministeriön asetus veripalvelusta annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](815.md) `815/2009`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 96 §:ssä tarkoitetun palkkakertoimen antamisesta](816.md) `816/2009`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 98 §:ssä tarkoitetun työeläkeindeksin antamisesta](817.md) `817/2009`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain voimaanpanolain 15 §:ssä tarkoitetun indeksiluvun vahvistamisesta](818.md) `818/2009`
+- [Oikeusministeriön asetus oikeusapupiireistä ja oikeusaputoimistojen toimipaikoista](819.md) `819/2009`
+- [Oikeusministeriön asetus oikeusaputoimistojen edunvalvonta\-alueista annetun oikeusministeriön asetuksen muuttamisesta](820.md) `820/2009`
+- [Sosiaali\- ja terveysministeriön asetus Sosiaali\- ja terveysalan lupa\- ja valvontaviraston maksullisista suoritteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](821.md) `821/2009`
+- [Laki autoverolle kannetun arvonlisäveron suuruisen veron palauttamisesta eräissä tapauksissa](822.md) `822/2009`
+- [Valtioneuvoston asetus metsästysasetuksen muuttamisesta](823.md) `823/2009`
+- [Valtioneuvoston asetus sika\- ja siipikarjatalouden tuotannosta irrotetusta tuesta ja rakennemuutoskorvauksesta annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](824.md) `824/2009`
+- [Valtioneuvoston asetus taksinkuljettajien ammattipätevyydestä](825.md) `825/2009`
+- [Valtioneuvoston asetus ajokorttiasetuksen 7 luvun kumoamisesta](826.md) `826/2009`
+- [Maa\- ja metsätalousministeriön asetus kiinteistöjen kirjaamisasioiden maksuista sekä kaupanvahvistuksesta perittävistä maksuista ja korvauksista vuonna 2010](827.md) `827/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvilajikkeiden lajikeluettelosta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](828.md) `828/2009`
+- [Laki pääkaupunkiseudun kuntien jätehuoltoa ja joukkoliikennettä koskevasta yhteistoiminnasta](829.md) `829/2009`
+- [Laki jätelain 3 §:n muuttamisesta](830.md) `830/2009`
+- [Laki joukkoliikenteen tarkastusmaksusta annetun lain 1 ja 2 §:n muuttamisesta](831.md) `831/2009`
+- [Laki kuntien valtionosuuslain 27 §:n muuttamisesta](832.md) `832/2009`
+- [Laki maataloudessa käytettyjen eräiden energiatuotteiden valmisteveron palautuksesta annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](833.md) `833/2009`
+- [Laki nestemäisten polttoaineiden valmisteverosta annetun lain 10 a §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](834.md) `834/2009`
+- [Laki vaikeavammaisille yrittäjille myönnettävistä veronhuojennuksista annetun lain 3 §:n muuttamisesta](835.md) `835/2009`
+- [Tasavallan presidentin asetus Afrikan Unionin kanssa Suomen tuesta AU Mediation Support Capacity\-hankkeelle tehdyn sopimuksen voimaansaattamisesta](836.md) `836/2009`
+- [Tasavallan presidentin asetus Eteläisen Afrikan kehitysyhteisön sihteeristön kanssa meteorologiayhteistyön valmisteluvaiheesta eteläisessä Afrikassa tehdyn sopimuksen voimaansaattamisesta](837.md) `837/2009`
+- [Tasavallan presidentin asetus epäpuhtauksien päästöjä ja siirtoja koskevista rekistereistä tehdyn pöytäkirjan voimaansaattamisesta](838.md) `838/2009`
+- [Tasavallan presidentin asetus Etelämannerta koskevaan sopimukseen liittyvän ympäristönsuojelupöytäkirjan liitteen V alaisten toimenpiteiden voimaansaattamisesta](839.md) `839/2009`
+- [Valtioneuvoston asetus tuomareiden nimittämisestä annetun valtioneuvoston asetuksen muuttamisesta](840.md) `840/2009`
+- [Valtioneuvoston asetus rakennerahastoista osarahoitettavien menojen tukikelpoisuudesta annetun valtioneuvoston asetuksen muuttamisesta](841.md) `841/2009`
+- [Valtioneuvoston asetus vesienhoidon järjestämisestä annetun valtioneuvoston asetuksen \(1040/2006\) liitteen 5 muuttamisesta](842.md) `842/2009`
+- [Laki rautatiekuljetuslain muuttamisesta](843.md) `843/2009`
+- [Laki kuluttajansuojalain 7 luvun muuttamisesta](844.md) `844/2009`
+- [Laki rikoslain 36 luvun 6 §:n muuttamisesta](845.md) `845/2009`
+- [Laki korkolain 4 §:n muuttamisesta](846.md) `846/2009`
+- [Laki Ahvenanmaan itsehallintolain 59 c §:n muuttamisesta](847.md) `847/2009`
+- [Laki sotilaallisesta kriisinhallinnasta annetun lain 30 ja 37 §:n muuttamisesta](848.md) `848/2009`
+- [Laki Valtion teknillisen tutkimuskeskuksen asiantuntijapalvelujen yhtiöittämisestä](849.md) `849/2009`
+- [Laki Valtion teknillisen tutkimuskeskuksen osakkuusyritysten kehittämiseen ja hallinnointiin liittyvien toimintojen yhtiöittämisestä](850.md) `850/2009`
+- [Laki Kansaneläkelaitoksen oikeudesta saada vammaisten henkilöiden tulkkipalveluja koskevia asiakastietoja](851.md) `851/2009`
+- [Laki kansaneläkeindeksin soveltamisesta vuonna 2010](852.md) `852/2009`
+- [Maa\- ja metsätalousministeriön asetus turskankalastuksen erityisluvista vuonna 2010](853.md) `853/2009`
+- [Laki apteekkimaksusta annetun lain 2 §:n muuttamisesta](854.md) `854/2009`
+- [Laki toimeentulotuesta annetun lain muuttamisesta ja väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](855.md) `855/2009`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 31 §:n muuttamisesta](856.md) `856/2009`
+- [Laki elatustukilain muuttamisesta](857.md) `857/2009`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta annetun lain 13 §:n muuttamisesta](858.md) `858/2009`
+- [Laki perhehoitajalain 3 §:n väliaikaisesta muuttamisesta](859.md) `859/2009`
+- [Verohallinnon päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](860.md) `860/2009`
+- [Verohallinnon päätös metsän keskimääräisestä vuotuisesta tuotosta](861.md) `861/2009`
+- [Laki Liikennevirastosta](862.md) `862/2009`
+- [Laki Liikenteen turvallisuusvirastosta](863.md) `863/2009`
+- [Valtioneuvoston asetus Liikennevirastosta](864.md) `864/2009`
+- [Valtioneuvoston asetus Liikenteen turvallisuusvirastosta](865.md) `865/2009`
+- [Valtioneuvoston asetus kiinteistönmuodostamisasetuksen 103 §:n muuttamisesta](866.md) `866/2009`
+- [Valtioneuvoston asetus maanmittauslaitoksesta annetun asetuksen 19 §:n muuttamisesta](867.md) `867/2009`
+- [Valtioneuvoston asetus sokerialan väliaikaisen monipuolistamistuen kohdentamisesta maatalouden investointeihin](868.md) `868/2009`
+- [Joukkoliikennelaki](869.md) `869/2009`
+- [Laki taksiliikennelain muuttamisesta](870.md) `870/2009`
+- [Laki Kainuun hallintokokeilusta annetun lain 10 §:n muuttamisesta](871.md) `871/2009`
+- [Laki indeksiehdon käytön rajoittamisesta annetun lain 2 §:n muuttamisesta](872.md) `872/2009`
+- [Laki julkisista hankinnoista annetun lain 8 §:n muuttamisesta](873.md) `873/2009`
+- [Laki rajoitetusti verovelvollisen tulon verottamisesta annetun lain muuttamisesta](874.md) `874/2009`
+- [Laki Merenkulkulaitoksen tuotantotoiminnan muuttamisesta osakeyhtiöksi](875.md) `875/2009`
+- [Laki Varustamoliikelaitoksen muuttamisesta osakeyhtiöksi](876.md) `876/2009`
+- [Laki Ilmailulaitoksen muuttamisesta osakeyhtiöksi](877.md) `877/2009`
+- [Tasavallan presidentin asetus Valko\-Venäjän kanssa kansainvälisestä maantieliikenteestä tehdyn sopimuksen ja sen lisäpöytäkirjan voimaansaattamisesta sekä sopimuksen ja sen lisäpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](878.md) `878/2009`
+- [Valtioneuvoston asetus opintotukiasetuksen 26 §:n muuttamisesta](879.md) `879/2009`
+- [Maa\- ja metsätalousministeriön asetus hevoseläinten tunnistamisesta ja merkitsemisestä](880.md) `880/2009`
+- [Maa\- ja metsätalousministeriön asetus silakan ja kilohailin troolikalastuksen rajoituksista Pohjoisella Itämerellä ja Suomenlahdella vuonna 2009](881.md) `881/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinterveyden suojelemisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](882.md) `882/2009`
+- [Verohallinnon päätös matkakuluvähennyksen määrästä vuodelta 2009 toimitettavassa verotuksessa](883.md) `883/2009`
+- [Laki ihmisoikeuksien ja ihmisarvon suojaamiseksi biologian ja lääketieteen alalla tehdyn yleissopimuksen sekä siihen liittyvien ihmisten toisintamisen kieltämisestä ja ihmisalkuperää olevien elinten ja kudosten siirroista tehtyjen lisäpöytäkirjojen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](884.md) `884/2009`
+- [Laki rikoslain 11 luvun 11 §:n ja 47 luvun 3 §:n muuttamisesta](885.md) `885/2009`
+- [Laki arvonlisäverolain muuttamisesta](886.md) `886/2009`
+- [Laki arvonlisäverolain väliaikaisesta muuttamisesta](887.md) `887/2009`
+- [Laki Ahvenanmaan maakuntaa koskevista poikkeuksista arvonlisävero\- ja valmisteverolainsäädäntöön annetun lain muuttamisesta](888.md) `888/2009`
+- [Laki Ahvenanmaan maakuntaa koskevista poikkeuksista arvonlisävero\- ja valmisteverolainsäädäntöön annetun lain väliaikaisesta muuttamisesta](889.md) `889/2009`
+- [Laki Yhdistyneiden Kansakuntien ja Suomen välillä voimavarojen antamisesta Yhdistyneiden Kansakuntien operaatioon Keski\-Afrikan tasavallassa ja Tshadissa \(MINURCAT\) tehdyn yhteistyöpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](890.md) `890/2009`
+- [Tasavallan presidentin asetus Yhdistyneiden Kansakuntien ja Suomen välillä voimavarojen antamisesta Yhdistyneiden Kansakuntien operaatioon Keski\-Afrikan tasavallassa ja Tshadissa \(MINURCAT\) tehdyn yhteistyöpöytäkirjan voimaansaattamisesta sekä yhteistyöpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](891.md) `891/2009`
+- [Laki ammatillisesta koulutuksesta annetun lain 3 §:n muuttamisesta](892.md) `892/2009`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 1 §:n muuttamisesta](893.md) `893/2009`
+- [Tasavallan presidentin asetus Pohjoismaisen hammashoitomateriaalien koetuslaitoksen perussäännöstä tehdyn Pohjoismaiden ministerineuvoston päätöksen voimaansaattamisesta annetun asetuksen kumoamisesta](894.md) `894/2009`
+- [Valtioneuvoston asetus koulutustoimikuntajärjestelmästä annetun valtioneuvoston asetuksen 4 ja 6 §:n muuttamisesta](895.md) `895/2009`
+- [Laki aluehallintovirastoista](896.md) `896/2009`
+- [Laki elinkeino\-, liikenne\- ja ympäristökeskuksista](897.md) `897/2009`
+- [Laki ympäristönsuojelu\- ja vesiasioiden käsittelystä aluehallintovirastossa](898.md) `898/2009`
+- [Laki taiteen edistämisen järjestelystä annetun lain 4 §:n muuttamisesta](899.md) `899/2009`
+- [Laki työsuojeluhallinnosta annetun lain muuttamisesta](900.md) `900/2009`
+- [Laki valtion virkamieslain 4 ja 7 §:n muuttamisesta](901.md) `901/2009`
+- [Laki liikuntalain muuttamisesta](902.md) `902/2009`
+- [Laki valtion aluehallinnon uudistamista koskevan lainsäädännön voimaanpanosta](903.md) `903/2009`
+- [Laki Suomen, Amerikan yhdysvaltojen, Australian, Espanjan, Ison\-Britannian ja Pohjois\-Irlannin, Italian, Ranskan, Ruotsin ja Saksan välillä ohjelmistoradioteknologiaa koskevasta COALWNW\-ohjelmasta tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja pöytäkirjan soveltamisesta](904.md) `904/2009`
+- [Valtioneuvoston asetus valtioneuvoston ohjesäännön muuttamisesta](905.md) `905/2009`
+- [Valtioneuvoston asetus aluehallintovirastoista](906.md) `906/2009`
+- [Valtioneuvoston asetus valtion virkamiesasetuksen muuttamisesta](907.md) `907/2009`
+- [Valtioneuvoston asetus aina määräajaksi täytettävistä viroista annetun asetuksen muuttamisesta](908.md) `908/2009`
+- [Valtioneuvoston asetus työ\- ja elinkeinoministeriöstä annetun asetuksen 1 ja 2 §:n muuttamisesta](909.md) `909/2009`
+- [Valtioneuvoston asetus elinkeino\-, liikenne\- ja ympäristökeskuksista](910.md) `910/2009`
+- [Laki erityistuomioistuimen tuomioiden täytäntöönpanosta Sierra Leonen erityistuomioistuimen kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta](911.md) `911/2009`
+- [Laki kansainvälisestä yhteistoiminnasta eräiden rikosoikeudellisten seuraamusten täytäntöönpanossa annetun lain 14 §:n muuttamisesta](912.md) `912/2009`
+- [Laki Puolan kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](913.md) `913/2009`
+- [Laki eräiden Bermudan kanssa tuloverotuksesta tehtyjen sopimusten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](914.md) `914/2009`
+- [Laki eräiden Caymansaarten kanssa tuloverotuksesta tehtyjen sopimusten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](915.md) `915/2009`
+- [Laki eräiden Brittiläisten Neitsytsaarien kanssa tuloverotuksesta tehtyjen sopimusten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](916.md) `916/2009`
+- [Laki Belgian kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen muuttamisesta tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](917.md) `917/2009`
+- [Laki eräiden Alankomaiden kanssa Alankomaiden Antillien osalta tuloverotuksesta tehtyjen sopimusten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](918.md) `918/2009`
+- [Laki eräiden Alankomaiden kanssa Aruban osalta tuloverotuksesta tehtyjen sopimusten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](919.md) `919/2009`
+- [Laki Sveitsin kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen ja pöytäkirjan muuttamisesta tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](920.md) `920/2009`
+- [Laki Luxemburgin kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen muuttamisesta tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](921.md) `921/2009`
+- [Laki Suomen Akatemiasta](922.md) `922/2009`
+- [Opetusministeriön asetus ylioppilastutkintolautakunnan suoritteiden maksullisuudesta annetun opetusministeriön asetuksen 2 §:n 1 momentin muuttamisesta](923.md) `923/2009`
+- [Laki Espanjan kanssa turvallisuusluokitellun tiedon vastavuoroisesta suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](924.md) `924/2009`
+- [Laki kunnallisen eläkelain muuttamisesta](925.md) `925/2009`
+- [Laki kunnallisen eläkelain voimaanpanolain 3 §:n muuttamisesta](926.md) `926/2009`
+- [Laki valtion eläkelain muuttamisesta](927.md) `927/2009`
+- [Laki yksityisestä terveydenhuollosta annetun lain muuttamisesta](928.md) `928/2009`
+- [Laki sairausvakuutuslain muuttamisesta](929.md) `929/2009`
+- [Sosiaali\- ja terveysministeriön asetus eräiden aluehallintovirastojen työsuojelun vastuualueen toimialueista](930.md) `930/2009`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 82 §:ssä tarkoitetun elinaikakertoimen antamisesta](931.md) `931/2009`
+- [Laki ulosottokaaren 1 luvun 32 §:n muuttamisesta](932.md) `932/2009`
+- [Laki luottotietolain muuttamisesta](933.md) `933/2009`
+- [Laki kansaneläkelain muuttamisesta](934.md) `934/2009`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain 1 §:n muuttamisesta](935.md) `935/2009`
+- [Laki sairausvakuutuksen sairaanhoitomaksun ja työnantajan kansaneläkemaksun maksuprosentista annetun lain kumoamisesta](936.md) `936/2009`
+- [Laki Verohallinnosta annetun lain 20 §:n muuttamisesta](937.md) `937/2009`
+- [Eduskunnan päätös valtuuden myöntämiseksi Pietari\-säätiön talohankkeen rahoitukseen tarvittavan lisälainan vakuudeksi annettavalle valtiontakaukselle](938.md) `938/2009`
+- [Valtioneuvoston asetus sairausvakuutusmaksujen maksuprosentista vuonna 2010](939.md) `939/2009`
+- [Opetusministeriön asetus eräiden koulumatkakustannusten laskentaperusteista](940.md) `940/2009`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 153 §:ssä tarkoitettujen työntekijän työeläkevakuutusmaksuprosenttien antamisesta](941.md) `941/2009`
+- [Sosiaali\- ja terveysministeriön asetus yrittäjän eläkelain 114 §:ssä tarkoitettujen työeläkevakuutusmaksuprosenttien ja maatalousyrittäjän eläkelain 22 §:ssä tarkoitettujen työeläkevakuutusmaksun perusprosenttien antamisesta](942.md) `942/2009`
+- [Laki ajoneuvoverolain muuttamisesta annetun lain 10 §:n muuttamisesta](943.md) `943/2009`
+- [Laki Haus kehittämiskeskus Oy \-nimisestä osakeyhtiöstä](944.md) `944/2009`
+- [Laki vähittäiskaupan sekä parturi\- ja kampaamoliikkeen aukioloajoista](945.md) `945/2009`
+- [Laki vuokra\-asuntolainojen ja asumisoikeustalolainojen korkotuesta annetun lain muuttamisesta](946.md) `946/2009`
+- [Tasavallan presidentin asetus Euroopan unionista tehdyn sopimuksen ja Euroopan yhteisön perustamissopimuksen muuttamisesta tehdyn Lissabonin sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](947.md) `947/2009`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen muuttamisesta](948.md) `948/2009`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 23 a §:n muuttamisesta](949.md) `949/2009`
+- [Valtioneuvoston asetus satovahinkojen korvaamisesta annetun valtioneuvoston asetuksen 2 ja 3 §:n muuttamisesta](950.md) `950/2009`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen muuttamisesta](951.md) `951/2009`
+- [Valtioneuvoston asetus sairaankuljetuksen kustannusten korvaustaksasta](952.md) `952/2009`
+- [Laki Rikosseuraamuslaitoksesta](953.md) `953/2009`
+- [Laki kielilain 40 §:n muuttamisesta](954.md) `954/2009`
+- [Laki Euroopan unionin ja Australian välillä lentoliikenteenharjoittajien Euroopan unionista peräisin olevien PNR\- eli matkustajarekisteritietojen käsittelemisestä ja siirtämisestä Australian tullilaitokselle tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta](955.md) `955/2009`
+- [Tasavallan presidentin asetus alueellisia kieliä tai vähemmistökieliä koskevan eurooppalaisen peruskirjan voimaansaattamisesta annetun asetuksen 2 §:n muuttamisesta](956.md) `956/2009`
+- [Tasavallan presidentin asetus Tanskan, Suomen, Norjan ja Ruotsin välillä puolustusmateriaalialan yhteistyöstä tehdyn puitesopimuksen lakkauttamisesta tehdyn sopimuksen voimaansaattamisesta](957.md) `957/2009`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen muuttamisesta](958.md) `958/2009`
+- [Sosiaali\- ja terveysministeriön ilmoitus eräistä indeksillä tarkistetuista sosiaali\- ja terveydenhuollon asiakasmaksuista ja kotipalvelun ja kotisairaanhoidon palvelusetelistä](959.md) `959/2009`
+- [Laki kiinteistötoimitusmaksusta annetun lain muuttamisesta](960.md) `960/2009`
+- [Laki vuorotteluvapaalain 25 §:n muuttamisesta](961.md) `961/2009`
+- [Laki sairausvakuutuslain 9 luvun 10 a §:n muuttamisesta](962.md) `962/2009`
+- [Valtioneuvoston asetus merkitykseltään vähäisestä teletoiminnasta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](963.md) `963/2009`
+- [Valtioneuvoston asetus työturvallisuussäännöksiä valmistelevasta neuvottelukunnasta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](964.md) `964/2009`
+- [Valtioneuvoston asetus uusien asuntoalueiden kunnallistekniikan rakentamiseen vuosina 2010–2012 myönnettävistä valtionavustuksista](965.md) `965/2009`
+- [Maa\- ja metsätalousministeriön asetus maanmittauslaitoksen maksuista vuosina 2010 ja 2011](966.md) `966/2009`
+- [Sosiaali\- ja terveysministeriön asetus vuoden 2010 työttömyysvakuutusmaksuista](967.md) `967/2009`
+- [Maa\- ja metsätalousministeriön asetus satovahinkojen korvaamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](968.md) `968/2009`
+- [Laki kiinteistöverolain muuttamisesta](969.md) `969/2009`
+- [Laki perusopetuslain 21 §:n muuttamisesta](970.md) `970/2009`
+- [Laki lukiolain 16 §:n muuttamisesta](971.md) `971/2009`
+- [Laki ammatillisesta koulutuksesta annetun lain 24 §:n muuttamisesta](972.md) `972/2009`
+- [Laki ammatillisesta aikuiskoulutuksesta annetun lain 15 §:n muuttamisesta](973.md) `973/2009`
+- [Laki vapaasta sivistystyöstä annetun lain 7 §:n muuttamisesta](974.md) `974/2009`
+- [Laki taiteen perusopetuksesta annetun lain 7 §:n muuttamisesta](975.md) `975/2009`
+- [Laki kalastuslain 88 §:n muuttamisesta](976.md) `976/2009`
+- [Valtioneuvoston asetus porotaloudesta saatujen tulojen vuoden 2009 verotuksessa noudatettavista tuottoperusteista](977.md) `977/2009`
+- [Valtioneuvoston asetus raha\-arpa\-, veikkaus\- ja vedonlyöntipelien tuoton tilittämisestä annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](978.md) `978/2009`
+- [Valtioneuvoston asetus Suomen Akatemiasta](979.md) `979/2009`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](980.md) `980/2009`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](981.md) `981/2009`
+- [Valtioneuvoston asetus Verohallinnosta annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](982.md) `982/2009`
+- [Valtioneuvoston asetus Verohallinnon yksiköistä annetun valtioneuvoston asetuksen muuttamisesta](983.md) `983/2009`
+- [Ympäristöministeriön asetus ympäristölupavastuualueiden sijoittumisesta aluehallintovirastoihin ja niiden toimialueiden laajentamisesta](984.md) `984/2009`
+- [Sisäasiainministeriön asetus rajavartiomiehen virkamerkistä annetun sisäasiainministeriön asetuksen muuttamisesta](985.md) `985/2009`
+- [Sisäasiainministeriön asetus Rajavartiolaitoksen suoritteiden maksuista](986.md) `986/2009`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön ulkopuolisista maista tuotavista eräistä elävistä eläimistä sekä niiden alkioista ja sukusoluista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](987.md) `987/2009`
+- [Valtioneuvoston asetus asumistuen määräytymisperusteista vuodelle 2010](988.md) `988/2009`
+- [LUETTELO kuntien ja seurakuntien tuloveroprosenteista vuonna 2010](989.md) `989/2009`
+- [Laki rikoslain muuttamisesta](990.md) `990/2009`
+- [Laki pakkokeinolain 5 a luvun 2 ja 4 §:n muuttamisesta](991.md) `991/2009`
+- [Laki valtionavustuksesta yritystoiminnan kehittämiseksi annetun lain 6 §:n muuttamisesta](992.md) `992/2009`
+- [Tasavallan presidentin asetus Etelämannerta koskevan sopimuksen sihteeristön perustamisesta tehdyn toimenpiteen voimaansaattamisesta](993.md) `993/2009`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyviin suurnopeusaluksia koskeviin kansainvälisiin turvallisuussäännöstöihin tehtyjen muutosten voimaansaattamisesta](994.md) `994/2009`
+- [Tasavallan presidentin asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvään vuoden 1978 pöytäkirjaan liittyvän BCH\-koodin muutosten voimaansaattamisesta](995.md) `995/2009`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteisiin tehtyjen muutosten voimaansaattamisesta](996.md) `996/2009`
+- [Tasavallan presidentin asetus Ariane\-, Vega\- ja Sojuz\-kantorakettien käyttövaihetta Guyanan avaruuskeskuksessa koskevan julistuksen voimaansaattamisesta](997.md) `997/2009`
+- [Valtioneuvoston asetus Euroopan unionin ja Australian välillä lentoliikenteenharjoittajien Euroopan unionista peräisin olevien PNR\- eli matkustajarekisteritietojen käsittelemisestä ja siirtämisestä Australian tullilaitokselle tehdyn sopimuksen ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta annetun lain väliaikaisesta soveltamisesta](998.md) `998/2009`
+- [Valtioneuvoston asetus metsäkeskuksista ja metsätalouden kehittämiskeskuksesta annetun asetuksen 3 §:n muuttamisesta](999.md) `999/2009`
+- [Valtioneuvoston asetus maatilan energiasuunnitelmatuesta](1000.md) `1000/2009`
+- [Valtioneuvoston asetus merityöaikalain muuttamisesta annetun lain voimaantulosta](1001.md) `1001/2009`
+- [Laki geenitekniikkalain muuttamisesta](1002.md) `1002/2009`
+- [Laki maatalousyrittäjien tapaturmavakuutuslain muuttamisesta](1003.md) `1003/2009`
+- [Laki maatalousyrittäjän eläkelain 114 ja 115 §:n muuttamisesta](1004.md) `1004/2009`
+- [Laki maatalousyrittäjän eläkelain voimaanpanosta annetun lain 1 §:n muuttamisesta](1005.md) `1005/2009`
+- [Tasavallan presidentin asetus eräiden Jerseyn kanssa tehtyjen tuloverotusta koskevien sopimusten voimaansaattamisesta ja sopimusten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1006.md) `1006/2009`
+- [Valtioneuvoston asetus oikeusministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](1007.md) `1007/2009`
+- [Valtioneuvoston asetus oikeusavusta annetun asetuksen muuttamisesta](1008.md) `1008/2009`
+- [Valtioneuvoston asetus sisäasiainministeriöstä annetun valtioneuvoston asetuksen 7 §:n muuttamisesta](1009.md) `1009/2009`
+- [Valtioneuvoston asetus poliisin hallinnosta annetun asetuksen 16 §:n muuttamisesta](1010.md) `1010/2009`
+- [Valtioneuvoston asetus poliisiasetuksen 1 §:n muuttamisesta](1011.md) `1011/2009`
+- [Laki Montenegron kanssa sijoitusten edistämisestä ja suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1012.md) `1012/2009`
+- [Laki Nepalin kanssa sijoitusten edistämisestä ja suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1013.md) `1013/2009`
+- [Laki Kenian kanssa sijoitusten edistämisestä ja suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1014.md) `1014/2009`
+- [Laki Panaman kanssa sijoitusten edistämisestä ja suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1015.md) `1015/2009`
+- [Laki isyyslain muuttamisesta](1016.md) `1016/2009`
+- [Laki eräistä kansainvälisluontoisista perheoikeudellisista suhteista annetun lain 18 ja 22 §:n kumoamisesta](1017.md) `1017/2009`
+- [Valtioneuvoston asetus maanpuolustuksen tieteellisestä neuvottelukunnasta](1018.md) `1018/2009`
+- [Oikeusministeriön asetus vangitsemisasioiden ja muiden kiireellisten asioiden käsittelystä käräjäoikeuksissa eräissä tapauksissa annetun oikeusministeriön asetuksen 4 §:n muuttamisesta](1019.md) `1019/2009`
+- [Verohallinnon päätös vuodelta 2010 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](1020.md) `1020/2009`
+- [Laki tupakkaverosta annetun lain liitteen muuttamisesta](1021.md) `1021/2009`
+- [Laki suhdanneluonteisista avustuksista eräiden asuinrakennusten korjauksiin annetun lain muuttamisesta](1022.md) `1022/2009`
+- [Eduskunnan päätös eduskunnan työjärjestyksen muuttamisesta](1023.md) `1023/2009`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä toimintapääomasta](1024.md) `1024/2009`
+- [Maa\- ja metsätalousministeriön asetus luonnonmukaisesta tuotannosta, luonnonmukaisten tuotteiden merkinnöistä ja valvonnasta annetun asetuksen muuttamisesta](1025.md) `1025/2009`
+- [Työ\- ja elinkeinoministeriön asetus Keskuskauppakamarin tilintarkastuslautakunnan ja kauppakamarin tilintarkastusvaliokunnan maksullisista suoritteista annetun työ\- ja elinkeinoministeriön asetuksen \(285/2009\) 2 ja 3 §:n muuttamisesta](1026.md) `1026/2009`
+- [Maa\- ja metsätalousministeriön asetus silakan ja kilohailin troolikalastuksen rajoituksista Pohjoisella Itämerellä ja Suomenlahdella vuonna 2009 annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1027.md) `1027/2009`
+- [Maa\- ja metsätalousministeriön asetus Suomessa rekisteröityjen yli 20\-metristen kalastusalusten harjoittaman turskankalastuksen keskeyttämisestä ICES osa\-alueilla 25―32 annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](1028.md) `1028/2009`
+- [Maa\- ja metsätalousministeriön asetus Suomen turskakiintiöiden käyttämisestä vuonna 2009 annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1029.md) `1029/2009`
+- [Laki vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetun lain muuttamisesta](1030.md) `1030/2009`
+- [Valtioneuvoston asetus eläinlääkintähuollosta](1031.md) `1031/2009`
+- [Valtioneuvoston asetus sika\- ja siipikarjatalouden tuotannosta irrotetusta tuesta ja rakennemuutoskorvauksesta annetun valtioneuvoston asetuksen muuttamisesta](1032.md) `1032/2009`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavasta lihan kuljetusavustuksesta](1033.md) `1033/2009`
+- [Valtioneuvoston asetus vuodelta 2009 maksettavasta perunantuotannon kansallisesta tuesta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](1034.md) `1034/2009`
+- [Valtioneuvoston asetus maidon kuljetusavustuksesta vuonna 2009](1035.md) `1035/2009`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](1036.md) `1036/2009`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2009 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista](1037.md) `1037/2009`
+- [Laki matkustaja\-aluksen henkilöluetteloista](1038.md) `1038/2009`
+- [Tasavallan presidentin asetus Sierra Leonen erityistuomioistuimen kanssa erityistuomioistuimen tuomioiden täytäntöönpanosta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta annetun lain voimaantulosta](1039.md) `1039/2009`
+- [Tasavallan presidentin asetus poliisin ansiorististä ja ansiomitalista annetun tasavallan presidentin asetuksen muuttamisesta](1040.md) `1040/2009`
+- [Valtioneuvoston asetus rikoslain 1 luvun 7 §:n soveltamisesta annetun asetuksen 1 §:n muuttamisesta](1041.md) `1041/2009`
+- [Valtioneuvoston asetus valtion taideteostoimikunnasta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](1042.md) `1042/2009`
+- [Valtioneuvoston asetus tallentamattomien ääni\- ja kuvanauhojen ja muiden tallennuslaitteiden valmistuksesta ja maahantuonnista suoritettavan maksun suuruudesta vuonna 2010](1043.md) `1043/2009`
+- [Valtioneuvoston asetus ammattikorkeakoulujen yhteishausta](1044.md) `1044/2009`
+- [Valtioneuvoston asetus ammattikorkeakouluista annetun valtioneuvoston asetuksen muuttamisesta](1045.md) `1045/2009`
+- [Laki indeksiehdon käytön rajoittamisesta annetun lain 2 ja 7 §:n muuttamisesta](1046.md) `1046/2009`
+- [Laki sairausvakuutuslain muuttamisesta](1047.md) `1047/2009`
+- [Laki tapaturmavakuutuslain muuttamisesta](1048.md) `1048/2009`
+- [Laki työttömyysturvalain 6 luvun 4 §:n muuttamisesta](1049.md) `1049/2009`
+- [Laki vammaisetuuksista annetun lain muuttamisesta](1050.md) `1050/2009`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 7 c ja 10 b §:n muuttamisesta](1051.md) `1051/2009`
+- [Valtioneuvoston asetus Verohallinnon virkamiehiltä vaadittavasta kielitaidosta](1052.md) `1052/2009`
+- [Valtioneuvoston asetus eläkkeensaajan asumistuen määräytymisperusteista vuonna 2010](1053.md) `1053/2009`
+- [Sosiaali\- ja terveysministeriön asetus eläkkeen kertasuorituskertoimista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1054.md) `1054/2009`
+- [Sosiaali\- ja terveysministeriön asetus lääkkeen määräämisestä annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1055.md) `1055/2009`
+- [Laki biopolttoaineiden edistämisestä liikenteessä annetun lain 5 §:n muuttamisesta](1056.md) `1056/2009`
+- [Maa\- ja metsätalousministeriön asetus metsäkeskusten ja Metsätalouden kehittämiskeskus Tapion suoritteiden maksullisuudesta](1057.md) `1057/2009`
+- [Liikenne\- ja viestintäministeriön asetus Viestintäviraston eräistä maksuista](1058.md) `1058/2009`
+- [Liikenne\- ja viestintäministeriön asetus Viestintäviraston radiohallinnollisista suoritteista perittävistä maksuista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](1059.md) `1059/2009`
+- [Laki valtion eläkelain 98 §:n muuttamisesta](1060.md) `1060/2009`
+- [Valtioneuvoston asetus koulutuksen arvioinnista](1061.md) `1061/2009`
+- [Maa\- ja metsätalousministeriön asetus riista\- ja kalatalouden tutkimuslaitoksen suoritteista perittävistä maksuista](1062.md) `1062/2009`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötietojärjestelmän suoritteista ja tietopalvelusta perittävistä maksuista](1063.md) `1063/2009`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötietojärjestelmän tulojen jakamisesta](1064.md) `1064/2009`
+- [Laki kuolemansyyn selvittämisestä annetun lain muuttamisesta](1065.md) `1065/2009`
+- [Laki mielenterveyslain muuttamisesta](1066.md) `1066/2009`
+- [Laki Terveyden ja hyvinvoinnin laitoksesta annetun lain muuttamisesta](1067.md) `1067/2009`
+- [Laki Sosiaali\- ja terveysalan lupa\- ja valvontavirastosta annetun lain muuttamisesta](1068.md) `1068/2009`
+- [Laki Suomen ympäristökeskuksesta](1069.md) `1069/2009`
+- [Valtioneuvoston asetus valtiovarainministeriöstä annetun valtioneuvoston asetuksen 1 ja 2 §:n muuttamisesta](1070.md) `1070/2009`
+- [Valtioneuvoston asetus Valtion teknillisestä tutkimuskeskuksesta annetun asetuksen 4 §:n muuttamisesta](1071.md) `1071/2009`
+- [Valtioneuvoston asetus suhdanneluonteisista avustuksista eräiden asuinrakennusten korjauksiin](1072.md) `1072/2009`
+- [Maa\- ja metsätalousministeriön asetus alkutuotannolle elintarviketurvallisuuden varmistamiseksi asetettavista vaatimuksista annetun maa\- ja metsätalousministeriön asetuksen 13 §:n muuttamisesta](1073.md) `1073/2009`
+- [Liikenne\- ja viestintäministeriön asetus liikenne\- ja viestintäministeriön maksullisista suoritteista](1074.md) `1074/2009`
+- [Kirkolliskokouksen päätös Ortodoksisen kirkon kirkkojärjestyksen 87 ja 89 §:n muuttamisesta](1075.md) `1075/2009`
+- [Sosiaali\- ja terveysministeriön asetus merimieseläkekassan vakuutusteknisen vastuuvelan laskuperusteista ja perusteista merimieseläkelain 153 §:n mukaista vastuunjakoa varten annetun sosiaali\- ja terveysministeriön asetuksen liitteiden 1 ja 2 muuttamisesta](1076.md) `1076/2009`
+- [Liikenne\- ja viestintäministeriön asetus kaksi\- ja kolmipyöräisten ajoneuvojen sekä nelipyörien rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](1077.md) `1077/2009`
+- [Liikenne\- ja viestintäministeriön asetus L\-luokan ajoneuvon korjaamisesta ja rakenteen muuttamisesta](1078.md) `1078/2009`
+- [Eduskunnan päätös talletuspankkien ja kiinnitysluottopankkien varainhankinnalle annettavista valtiontakauksista](1079.md) `1079/2009`
+- [Opetusministeriön asetus eräiden opintojen tuottamasta kelpoisuudesta ammattikorkeakouluopintoihin](1080.md) `1080/2009`
+- [Sisäasiainministeriön asetus poliisin suoritteiden maksullisuudesta vuosina 2010 ja 2011](1081.md) `1081/2009`
+- [Valtioneuvoston asetus yliopistojen toiminnassa perittävistä maksuista](1082.md) `1082/2009`
+- [Valtioneuvoston asetus sairausvakuutuslain täytäntöönpanosta annetun valtioneuvoston asetuksen 2 luvun 3 §:n muuttamisesta](1083.md) `1083/2009`
+- [Liikenne\- ja viestintäministeriön asetus ratamaksun perusmaksusta](1084.md) `1084/2009`
+- [Työ\- ja elinkeinoministeriön asetus Patentti\- ja rekisterihallituksen maksullisista suoritteista](1085.md) `1085/2009`
+- [Työ\- ja elinkeinoministeriön asetus Energiamarkkinaviraston maksullisista suoritteista](1086.md) `1086/2009`
+- [Verohallinnon päätös verovapaista matkakustannusten korvauksista vuonna 2010](1087.md) `1087/2009`
+- [Valtioneuvoston asetus puolustusministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](1088.md) `1088/2009`
+- [Valtioneuvoston päätös kuntajaon muuttamisesta Lappeenrannan kaupungin ja Imatran kaupungin välillä](1089.md) `1089/2009`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön tietopalvelukeskuksen maksullisista suoritteista](1090.md) `1090/2009`
+- [Sisäasiainministeriön asetus hätäkeskuslaitoksen maksullisista suoritteista](1091.md) `1091/2009`
+- [Valtiovarainministeriön asetus Verohallinnon suoritteiden maksullisuudesta](1092.md) `1092/2009`
+- [Valtiovarainministeriön asetus Tilastokeskuksen suoritteiden maksullisuudesta](1093.md) `1093/2009`
+- [Valtiovarainministeriön asetus Väestörekisterikeskuksen suoritteiden maksuista annetun asetuksen muuttamisesta](1094.md) `1094/2009`
+- [Lääkealan turvallisuus\- ja kehittämiskeskuksen päätös lääkeluettelosta](1095.md) `1095/2009`
+- [Laki valtion talousarviosta annetun lain muuttamisesta](1096.md) `1096/2009`
+- [Valtioneuvoston asetus elinkeino\-, liikenne\- ja ympäristökeskusten sekä työ\- ja elinkeinotoimistojen maksullisista suoritteista vuonna 2010](1097.md) `1097/2009`
+- [Valtioneuvoston asetus tutkimus\-, kehittämis\- ja innovaatiotoiminnan rahoituksesta annetun valtioneuvoston asetuksen väliaikaisesta muuttamisesta](1098.md) `1098/2009`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen 33 §:n muuttamisesta](1099.md) `1099/2009`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveysministeriön maksullisista suoritteista](1100.md) `1100/2009`
+- [Valtioneuvoston asetus kuluttajien käyttöön tarkoitettuja henkilönsuojaimia koskevista vaatimuksista](1101.md) `1101/2009`
+- [Valtioneuvoston asetus pyroteknisten tuotteiden vaatimustenmukaisuuden toteamisesta](1102.md) `1102/2009`
+- [Valtioneuvoston asetus räjähdeasetuksen muuttamisesta](1103.md) `1103/2009`
+- [Valtioneuvoston asetus ihmisen elimien, kudoksien ja solujen lääketieteellisestä käytöstä annetun valtioneuvoston asetuksen muuttamisesta](1104.md) `1104/2009`
+- [Valtioneuvoston asetus ulosottotoimen hallinnosta annetun valtioneuvoston asetuksen muuttamisesta](1105.md) `1105/2009`
+- [Valtioneuvoston asetus sakon täytäntöönpanosta annetun valtioneuvoston asetuksen muuttamisesta](1106.md) `1106/2009`
+- [Valtioneuvoston asetus käräjäoikeusasetuksen 4 §:n muuttamisesta](1107.md) `1107/2009`
+- [Valtioneuvoston asetus Rikosseuraamuslaitoksesta](1108.md) `1108/2009`
+- [Oikeusministeriön asetus menettelystä oikeudenkäynnin viivästymisen hyvittämisessä](1109.md) `1109/2009`
+- [Sisäasiainministeriön asetus aluehallintovirastojen poliisitoimen vastuualueista](1110.md) `1110/2009`
+- [Sisäasiainministeriön asetus ampuma\-aseiden säilyttämiseen tarkoitetusta turvakaapista annetun sisäasiainministeriön asetuksen 3 §:n muuttamisesta](1111.md) `1111/2009`
+- [Sisäasiainministeriön asetus kulkuneuvon pysäyttämisestä annetun sisäasiainministeriön asetuksen 23 ja 25 §:n muuttamisesta](1112.md) `1112/2009`
+- [Sisäasiainministeriön asetus Poliisiammattikorkeakoulun opiskelijan opintososiaalisista eduista annetun sisäasiainministeriön asetuksen 3 §:n muuttamisesta](1113.md) `1113/2009`
+- [Sisäasiainministeriön asetus poliisin säilyttämien henkilöiden kohtelusta annetun sisäasiainministeriön asetuksen 4 ja 5 §:n muuttamisesta](1114.md) `1114/2009`
+- [Sisäasiainministeriön asetus poliisin tiedonhankinnan järjestämisestä ja valvonnasta annetun sisäasiainministeriön asetuksen muuttamisesta](1115.md) `1115/2009`
+- [Sisäasiainministeriön asetus poliisin voimakeinojen käyttämisestä annetun sisäasiainministeriön asetuksen muuttamisesta](1116.md) `1116/2009`
+- [Sisäasiainministeriön asetus valtion omistukseen siirtyneiden ampuma\-aseiden ja \-tarvikkeiden käsittelystä annetun sisäasiainministeriön asetuksen muuttamisesta](1117.md) `1117/2009`
+- [Valtioneuvoston asetus sisäasiainministeriöstä annetun asetuksen muuttamisesta](1118.md) `1118/2009`
+- [Valtioneuvoston asetus liputuksesta Suomen lipulla annetun asetuksen muuttamisesta](1119.md) `1119/2009`
+- [Valtioneuvoston asetus poliisin tunnuskuvasta sekä sen kulkuneuvoissa käytettävistä lipuista ja viireistä annetun asetuksen 3 ja 4 §:n muuttamisesta](1120.md) `1120/2009`
+- [Valtioneuvoston asetus ampuma\-aseasetuksen muuttamisesta](1121.md) `1121/2009`
+- [Valtioneuvoston asetus rahaliikenteen valvontalaitteista annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](1122.md) `1122/2009`
+- [Valtioneuvoston asetus poliisikoulutuksesta annetun valtioneuvoston asetuksen muuttamisesta](1123.md) `1123/2009`
+- [Valtioneuvoston asetus arpajaisista annetun valtioneuvoston asetuksen 7 ja 31 §:n muuttamisesta](1124.md) `1124/2009`
+- [Valtioneuvoston asetus turvallisuusalan neuvottelukunnasta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](1125.md) `1125/2009`
+- [Valtioneuvoston asetus poliisin, tullin ja rajavartiolaitoksen yhteistoiminnasta](1126.md) `1126/2009`
+- [Valtioneuvoston päätös turvallisuusluokituksen käyttöön otosta annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](1127.md) `1127/2009`
+- [Valtioneuvoston asetus rajavartiolaitoksesta annetun valtioneuvoston asetuksen muuttamisesta](1128.md) `1128/2009`
+- [Valtioneuvoston asetus verontilitysasetuksen 1 §:n muuttamisesta](1129.md) `1129/2009`
+- [Valtioneuvoston asetus valtion virkamiesasetuksen 3 §:n muuttamisesta](1130.md) `1130/2009`
+- [Valtioneuvoston asetus valtion virkaehtosopimusasetuksen 9 §:n muuttamisesta](1131.md) `1131/2009`
+- [Valtioneuvoston asetus virka\- ja itsehallintoalueiden kielellisestä jaotuksesta vuosina 2003―2012 annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](1132.md) `1132/2009`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1133.md) `1133/2009`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1134.md) `1134/2009`
+- [Valtioneuvoston asetus liikunta\-asetuksen muuttamisesta](1135.md) `1135/2009`
+- [Valtioneuvoston asetus yliopistojen tutkinnoista annetun valtioneuvoston asetuksen muuttamisesta](1136.md) `1136/2009`
+- [Valtioneuvoston asetus ammatillisesta koulutuksesta annetun asetuksen muuttamisesta](1137.md) `1137/2009`
+- [Valtioneuvoston asetus eräiden valtioneuvoston yleisistunnossaan tekemien, opetusministeriön hallinnonalaankuuluvien päätösten maksullisuudesta ja maksujen suuruudesta annetun asetuksen 1 §:n muuttamisesta](1138.md) `1138/2009`
+- [Maa\- ja metsätalousministeriön asetus kilohailin ja silakan kalastuksesta Itämeren pääaltaalla vuonna 2010](1139.md) `1139/2009`
+- [Maa\- ja metsätalousministeriön asetus Suomen turskakiintiön käyttämisestä itäisellä säätelyalueella vuonna 2010](1140.md) `1140/2009`
+- [Ympäristöministeriön asetus Suomen ympäristökeskuksen maksullisista suoritteista](1141.md) `1141/2009`
+- [Ympäristöministeriön asetus ympäristöministeriön maksullisista suoritteista](1142.md) `1142/2009`
+- [Ympäristöministeriön asetus Asumisen rahoitus\- ja kehittämiskeskuksen maksullisista suoritteista](1143.md) `1143/2009`
+- [Verohallinnon päätös vuonna 2010 sovellettavien ennakonpidätysperusteiden voimaantulosta](1144.md) `1144/2009`
+- [Valtioneuvoston asetus aluehallintoviraston maksuista](1145.md) `1145/2009`
+- [Työ\- ja elinkeinoministeriön asetus maksullisista suoritteista](1146.md) `1146/2009`
+- [Tasavallan presidentin asetus ohjelmistoradioteknologiaa koskevasta COALWNW\-ohjelmasta Suomen, Amerikan yhdysvaltojen, Australian, Espanjan, Ison\-Britannian ja Pohjois\-Irlannin, Italian, Ranskan, Ruotsin ja Saksan välillä tehdyn pöytäkirjan voimaansaattamisesta sekä pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja pöytäkirjan soveltamisesta annetun lain voimaantulosta](1147.md) `1147/2009`
+- [Tasavallan presidentin asetus eräiden Guernseyn alueen kanssa tehtyjen tuloverotusta koskevien sopimusten voimaansaattamisesta ja sopimusten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta annetun tasavallan presidentin asetuksen muuttamisesta](1148.md) `1148/2009`
+- [Tasavallan presidentin asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan liitteeseen tehtyjen muutosten voimaansaattamisesta](1149.md) `1149/2009`
+- [Valtioneuvoston asetus aerosoliasetuksen muuttamisesta](1150.md) `1150/2009`
+- [Kirkolliskokouksen päätös kirkon vaalijärjestyksen muuttamisesta](1151.md) `1151/2009`
+- [Valtioneuvoston asetus valtionavustuksesta yritystoiminnan kehittämiseksi annetun valtioneuvoston asetuksen muuttamisesta](1152.md) `1152/2009`
+- [Työ\- ja elinkeinoministeriön asetus työssäkäyntialueista](1153.md) `1153/2009`
+- [Työ\- ja elinkeinoministeriön asetus ydinlaitosten ympäristövaikutusten arviointimenettelyyn kuuluvista työ\- ja elinkeinoministeriön maksullisista suoritteista](1154.md) `1154/2009`
+- [Työ\- ja elinkeinoministeriön asetus ydinenergian käytön valvontaan kuuluvista työ\- ja elinkeinoministeriön maksullisista suoritteista](1155.md) `1155/2009`
+- [Valtioneuvoston asetus Hallinnon tietotekniikkakeskuksesta annetun valtioneuvoston asetuksen 1 ja 13 §:n muuttamisesta](1156.md) `1156/2009`
+- [Valtioneuvoston asetus kirjastoasetuksen 4 §:n muuttamisesta](1157.md) `1157/2009`
+- [Valtioneuvoston asetus geenitekniikkalain mukaisten suoritteiden maksullisuudesta](1158.md) `1158/2009`
+- [Opetusministeriön asetus yleisistä kielitutkinnoista perittävistä maksuista](1159.md) `1159/2009`
+- [Opetusministeriön asetus Valtion taidemuseon suoritteiden maksullisuudesta](1160.md) `1160/2009`
+- [Opetusministeriön asetus Suomenlinnan hoitokunnan suoritteiden maksullisuudesta](1161.md) `1161/2009`
+- [Opetusministeriön asetus Museoviraston suoritteiden maksullisuudesta](1162.md) `1162/2009`
+- [Opetusministeriön asetus Valtion elokuvatarkastamon ja elokuvalautakunnan suoritteiden maksullisuudesta](1163.md) `1163/2009`
+- [Opetusministeriön asetus yliopistojen koulutusvastuun täsmentämisestä, yliopistojen koulutusohjelmista ja erikoistumiskoulutuksista annetun opetusministeriön asetuksen liitteen VI muuttamisesta](1164.md) `1164/2009`
+- [Työ\- ja elinkeinoministeriön työjärjestys](1165.md) `1165/2009`
+- [Laki palvelujen tarjoamisesta](1166.md) `1166/2009`
+- [Laki rajat ylittävästä kieltomenettelystä annetun lain 1 §:n muuttamisesta](1167.md) `1167/2009`
+- [Laki Kuluttajavirastosta annetun lain 1 §:n muuttamisesta](1168.md) `1168/2009`
+- [Valtioneuvoston asetus radiotaajuuksien käytöstä ja taajuussuunnitelmasta](1169.md) `1169/2009`
+- [Maa\- ja metsätalousministeriön asetus eräiden elintarvikehuoneistojen elintarvikehygieniasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1170.md) `1170/2009`
+- [Laki valtion pääomasijoituksista talletuspankkeihin](1171.md) `1171/2009`
+- [Maa\- ja metsätalousministeriön asetus kanojen salmonellavalvontaohjelmasta](1172.md) `1172/2009`
+- [Maa\- ja metsätalousministeriön asetus broilereiden ja kalkkunoiden salmonellavalvontaohjelmasta](1173.md) `1173/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kotieläinten jalostusaineksen maahantuonnissa annettavasta selvityksestä annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](1174.md) `1174/2009`
+- [Laki syyttömästi vangitulle tai tuomitulle valtion varoista vapauden menetyksen johdosta maksettavasta korvauksesta annetun lain muuttamisesta](1175.md) `1175/2009`
+- [Laki Ahvenanmaan itsehallintolain 30 ja 39 §:n muuttamisesta](1176.md) `1176/2009`
+- [Tasavallan presidentin asetus poliisihallinnosta Ahvenanmaan maakunnassa](1177.md) `1177/2009`
+- [Tasavallan presidentin asetus rajavartiolaitoksen tehtävistä Ahvenanmaan maakunnassa annetun asetuksen muuttamisesta](1178.md) `1178/2009`
+- [Tasavallan presidentin asetus eräiden terveyden\- ja sairaanhoidon tehtävien hallinnosta Ahvenanmaan maakunnassa](1179.md) `1179/2009`
+- [Tasavallan presidentin asetus kuluttajaneuvontaa koskevien tehtävien hoitamisesta Ahvenanmaan maakunnassa](1180.md) `1180/2009`
+- [Liikenne\- ja viestintäministeriön asetus Liikenneviraston maksullisista suoritteista](1181.md) `1181/2009`
+- [Opetusministeriön asetus opetusministeriön suoritteiden maksullisuudesta](1182.md) `1182/2009`
+- [Laki sidotusta pitkäaikaissäästämisestä](1183.md) `1183/2009`
+- [Laki vakuutussopimuslain muuttamisesta](1184.md) `1184/2009`
+- [Laki luottolaitostoiminnasta annetun lain 20 §:n muuttamisesta](1185.md) `1185/2009`
+- [Laki laajakaistarakentamisen tuesta haja\-asutusalueilla](1186.md) `1186/2009`
+- [Laki maaseudun kehittämiseen myönnettävistä tuista annetun lain muuttamisesta](1187.md) `1187/2009`
+- [Laki työttömyysturvalain muuttamisesta](1188.md) `1188/2009`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain muuttamisesta](1189.md) `1189/2009`
+- [Laki työttömyyskassalain muuttamisesta](1190.md) `1190/2009`
+- [Laki vuorotteluvapaalain 15 §:n muuttamisesta](1191.md) `1191/2009`
+- [Laki työttömyysturvalain 4 ja 6 luvun väliaikaisesta muuttamisesta](1192.md) `1192/2009`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain 4 §:n väliaikaisesta muuttamisesta](1193.md) `1193/2009`
+- [Ilmailulaki](1194.md) `1194/2009`
+- [Laki rajavartiolain 75 §:n muuttamisesta](1195.md) `1195/2009`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön maksullisista suoritteista](1196.md) `1196/2009`
+- [Laki eräiden riskin aiheuttavien tuotteiden markkinavalvontaan liittyvien tietojen ilmoittamisesta Euroopan yhteisöjen komissiolle](1197.md) `1197/2009`
+- [Laki julkisesta työvoimapalvelusta annetun lain muuttamisesta](1198.md) `1198/2009`
+- [Laki työttömyysturvalain muuttamisesta](1199.md) `1199/2009`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain muuttamisesta](1200.md) `1200/2009`
+- [Laki sairausvakuutuslain muuttamisesta](1201.md) `1201/2009`
+- [Laki tapaturmavakuutuslain 61 a §:n muuttamisesta](1202.md) `1202/2009`
+- [Laki työntekijän eläkelain muuttamisesta](1203.md) `1203/2009`
+- [Laki kansaneläkelain 34 ja 70 §:n muuttamisesta](1204.md) `1204/2009`
+- [Laki merimieseläkelain muuttamisesta](1205.md) `1205/2009`
+- [Laki yrittäjän eläkelain 2 ja 70 §:n muuttamisesta](1206.md) `1206/2009`
+- [Laki kuntouttavasta työtoiminnasta annetun lain 28 §:n muuttamisesta](1207.md) `1207/2009`
+- [Laki tuloverolain 93 §:n muuttamisesta](1208.md) `1208/2009`
+- [Laki valtion eläkelain muuttamisesta](1209.md) `1209/2009`
+- [Laki kunnallisen eläkelain muuttamisesta](1210.md) `1210/2009`
+- [Laki energiamarkkinoilla toimivien yritysten energiatehokkuuspalveluista](1211.md) `1211/2009`
+- [Maa\- ja metsätalousministeriön asetus eläinlääkintävahinkojen arviolautakunnan suoritteista perittävistä maksuista](1212.md) `1212/2009`
+- [Laki korkeimmasta oikeudesta annetun lain 13 §:n muuttamisesta](1213.md) `1213/2009`
+- [Laki osakeyhtiölain 5 luvun 19 §:n ja 8 luvun 9 §:n muuttamisesta](1214.md) `1214/2009`
+- [Laki osuuskuntalain muuttamisesta](1215.md) `1215/2009`
+- [Laki vakuutusyhtiölain 5 luvun 15 §:n muuttamisesta](1216.md) `1216/2009`
+- [Laki kulutustavaroiden ja kuluttajapalvelusten turvallisuudesta annetun lain muuttamisesta](1217.md) `1217/2009`
+- [Laki turvatekniikan keskuksesta annetun lain 1 §:n muuttamisesta](1218.md) `1218/2009`
+- [Laki Kuluttajavirastosta annetun lain muuttamisesta](1219.md) `1219/2009`
+- [Laki kosmeettisista valmisteista annetun lain muuttamisesta](1220.md) `1220/2009`
+- [Laki lelujen turvallisuudesta annetun lain muuttamisesta](1221.md) `1221/2009`
+- [Laki kemikaalilain 8 a §:n muuttamisesta](1222.md) `1222/2009`
+- [Laki kansaneläkelain muuttamisesta](1223.md) `1223/2009`
+- [Laki kansaneläkelain voimaanpanosta annetun lain muuttamisesta](1224.md) `1224/2009`
+- [Laki eläkkeensaajan asumistuesta annetun lain muuttamisesta](1225.md) `1225/2009`
+- [Laki maahanmuuttajan erityistuesta annetun lain 7 ja 38 §:n muuttamisesta](1226.md) `1226/2009`
+- [Laki asumistukilain 3 §:n muuttamisesta](1227.md) `1227/2009`
+- [Laki vammaisetuuksista annetun lain muuttamisesta](1228.md) `1228/2009`
+- [Valtioneuvoston asetus tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista annetun valtioneuvoston asetuksen muuttamisesta](1229.md) `1229/2009`
+- [Valtioneuvoston asetus ammattikorkeakoulujen toiminnasta perittävistä maksuista](1230.md) `1230/2009`
+- [Laki vakuutusyhdistyslain muuttamisesta](1231.md) `1231/2009`
+- [Laki maatalousyrittäjän eläkelain muuttamisesta](1232.md) `1232/2009`
+- [Laki merimieseläkelain muuttamisesta](1233.md) `1233/2009`
+- [Valtioneuvoston asetus kansaneläkelain mukaisten etuuksien ja valtion osuuden maksamisesta](1234.md) `1234/2009`
+- [Valtioneuvoston asetus valtion osuuden maksamisesta eläkkeensaajan asumistuen perusteella](1235.md) `1235/2009`
+- [Valtioneuvoston asetus vammaisetuuksista annetun lain mukaisten etuuksien ja valtion osuuden maksamisesta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1236.md) `1236/2009`
+- [Valtioneuvoston asetus rintamasotilaseläkeasetuksen 8 §:n muuttamisesta](1237.md) `1237/2009`
+- [Valtioneuvoston asetus ulkomaille maksettavasta rintamalisästä annetun asetuksen 8 §:n muuttamisesta](1238.md) `1238/2009`
+- [Sosiaali\- ja terveysministeriön asetus eräiden vakuutusyhtiölaissa säädettyjen euromäärien korottamisesta](1239.md) `1239/2009`
+- [Sosiaali\- ja terveysministeriön asetus rahoitusvälineiden, sijoituskiinteistöjen ja biologisten hyödykkeiden merkitsemisestä vakuutusyrityksen tilinpäätökseen ja konsernitilinpäätökseen annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1240.md) `1240/2009`
+- [Sosiaali\- ja terveysministeriön asetus vakuutusyrityksen tilinpäätöksestä ja konsernitilinpäätöksestä annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1241.md) `1241/2009`
+- [Laki maantielain muuttamisesta](1242.md) `1242/2009`
+- [Laki ratalain muuttamisesta](1243.md) `1243/2009`
+- [Tasavallan presidentin asetus eräiden Bermudan kanssa tehtyjen tuloverotusta koskevien sopimusten voimaansaattamisesta ja sopimusten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1244.md) `1244/2009`
+- [Valtioneuvoston asetus yksityisistä teistä annetun valtioneuvoston asetuksen muuttamisesta](1245.md) `1245/2009`
+- [Valtioneuvoston asetus maanteistä annetun valtioneuvoston asetuksen 2 ja 5 §:n muuttamisesta](1246.md) `1246/2009`
+- [Valtioneuvoston asetus radoista annetun valtioneuvoston asetuksen 3 ja 4 §:n muuttamisesta](1247.md) `1247/2009`
+- [Laki tuloverolain 48 §:n muuttamisesta ja väliaikaisesta muuttamisesta](1248.md) `1248/2009`
+- [Laki tonnistoverolain muuttamisesta](1249.md) `1249/2009`
+- [Vuoden 2010 tuloveroasteikkolaki](1250.md) `1250/2009`
+- [Laki tuloverolain muuttamisesta](1251.md) `1251/2009`
+- [Laki verotusmenettelystä annetun lain muuttamisesta ja 22 a §:n väliaikaisesta muuttamisesta](1252.md) `1252/2009`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 6 §:n muuttamisesta](1253.md) `1253/2009`
+- [Laki valmisteverotuslain 39 §:n muuttamisesta](1254.md) `1254/2009`
+- [Laki maataloudessa käytettyjen eräiden energiatuotteiden valmisteveron palautuksesta annetun lain 10 ja 11 §:n muuttamisesta](1255.md) `1255/2009`
+- [Laki rataverolain 20 §:n muuttamisesta](1256.md) `1256/2009`
+- [Laki väylämaksulain 28 §:n muuttamisesta](1257.md) `1257/2009`
+- [Laki tullilain 39 §:n muuttamisesta](1258.md) `1258/2009`
+- [Laki veronkantolain 22 §:n muuttamisesta](1259.md) `1259/2009`
+- [Laki verotililain 31 §:n muuttamisesta ja 32 §:n väliaikaisesta muuttamisesta](1260.md) `1260/2009`
+- [Laki veronlisäyksestä ja viivekorosta annetun lain 2 ja 4 §:n väliaikaisesta muuttamisesta](1261.md) `1261/2009`
+- [Valtiovarainministeriön asetus veronkannosta annetun valtiovarainministeriön asetuksen 7 §:n muuttamisesta](1262.md) `1262/2009`
+- [Laki maatalousyrittäjien lomituspalvelulain muuttamisesta](1263.md) `1263/2009`
+- [Laki turkistuottajien lomituspalveluista](1264.md) `1264/2009`
+- [Laki poronhoitajien sijaisapukokeilusta](1265.md) `1265/2009`
+- [Laki maatalousyrittäjän eläkelain 114 §:n muuttamisesta](1266.md) `1266/2009`
+- [Valtioneuvoston asetus sotainvalidien puolisoiden, leskien ja sotaleskien kuntoutustoiminnasta](1267.md) `1267/2009`
+- [Valtioneuvoston asetus eräille ulkomaalaisille vapaaehtoisille rintamasotilaille maksettavasta rintama\-avustuksesta](1268.md) `1268/2009`
+- [Maa\- ja metsätalousministeriön asetus maaseutuelinkeinojen valituslautakunnan suoritteista perittävistä maksuista](1269.md) `1269/2009`
+- [Laki työterveyslaitoksen toiminnasta ja rahoituksesta annetun lain väliaikaisesta muuttamisesta](1270.md) `1270/2009`
+- [Laki työterveyshuoltolain 7 §:n muuttamisesta](1271.md) `1271/2009`
+- [Laki kuntouttavasta työtoiminnasta annetun lain 2 ja 10 §:n muuttamisesta](1272.md) `1272/2009`
+- [Laki työttömyysturvalain 8 luvun 6 §:n muuttamisesta](1273.md) `1273/2009`
+- [Laki toimeentulotuesta annetun lain 10 ja 10 a §:n muuttamisesta](1274.md) `1274/2009`
+- [Valtioneuvoston asetus työmarkkina\-alueista](1275.md) `1275/2009`
+- [Valtioneuvoston asetus palkkaturvasta](1276.md) `1276/2009`
+- [Valtioneuvoston asetus merimiesten palkkaturvasta](1277.md) `1277/2009`
+- [Valtioneuvoston asetus alueellisesta kuljetustuesta annetun valtioneuvoston asetuksen muuttamisesta](1278.md) `1278/2009`
+- [Laki kasvinjalostajanoikeudesta](1279.md) `1279/2009`
+- [Laki siemenkauppalain muuttamisesta](1280.md) `1280/2009`
+- [Laki rikoslain 49 luvun 2 §:n muuttamisesta](1281.md) `1281/2009`
+- [Valtioneuvoston asetus paikkatietoinfrastruktuurista annetun asetuksen 1 §:n muuttamisesta](1282.md) `1282/2009`
+- [Maa\- ja metsätalousministeriön asetus kuitupellavan ja \-hampun jalostustuesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1283.md) `1283/2009`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisissa tuissa saaristoksi luettavista kuntien osa\-alueista annetun maa\- ja metsätalousministeriön asetuksen liitteen 1 muuttamisesta](1284.md) `1284/2009`
+- [Maa\- ja metsätalousministeriön asetus alkuperäiskasvilajikkeen rekisteröinnistä annetun maa\- ja metsätalousministeriön asetuksen 8 §:n muuttamisesta](1285.md) `1285/2009`
+- [Laki tilatukijärjestelmän täytäntöönpanosta annetun lain muuttamisesta](1286.md) `1286/2009`
+- [Valtioneuvoston asetus maatilan energiasuunnitelmatuesta annetun valtioneuvoston asetuksen muuttamisesta](1287.md) `1287/2009`
+- [Valtioneuvoston asetus maa\- ja metsätalousministeriöstä annetun valtioneuvoston asetuksen 1 ja 2 §:n muuttamisesta](1288.md) `1288/2009`
+- [Maa\- ja metsätalousministeriön asetus Elintarviketurvallisuusviraston maksullisista suoritteista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1289.md) `1289/2009`
+- [Laki yksityisistä teistä annetun lain muuttamisesta](1290.md) `1290/2009`
+- [Laki tieliikennelain muuttamisesta](1291.md) `1291/2009`
+- [Laki alusrekisterilain muuttamisesta](1292.md) `1292/2009`
+- [Laki alusturvallisuuden valvonnasta annetun lain muuttamisesta](1293.md) `1293/2009`
+- [Laki vesiliikennelain muuttamisesta](1294.md) `1294/2009`
+- [Laki kuljettajantutkintotoiminnan järjestämisestä annetun lain muuttamisesta](1295.md) `1295/2009`
+- [Laki konttilain 6 §:n muuttamisesta](1296.md) `1296/2009`
+- [Laki ajoneuvojen rekisteröintitoiminnasta annetun lain muuttamisesta](1297.md) `1297/2009`
+- [Laki tie\- ja maastoliikenneonnettomuuksien tutkinnasta annetun lain 4 §:n muuttamisesta](1298.md) `1298/2009`
+- [Laki radiotaajuuksista ja telelaitteista annetun lain muuttamisesta](1299.md) `1299/2009`
+- [Laki viestintämarkkinalain 104 §:n muuttamisesta](1300.md) `1300/2009`
+- [Laki ajoneuvoliikennerekisteristä annetun lain muuttamisesta](1301.md) `1301/2009`
+- [Laki tie\- ja katuverkon tietojärjestelmästä annetun lain muuttamisesta](1302.md) `1302/2009`
+- [Laki eräiden alusten ja niitä palvelevien satamien turvatoimista ja turvatoimien valvonnasta annetun lain muuttamisesta](1303.md) `1303/2009`
+- [Laki ajopiirturikorttien myöntämisen järjestämisestä annetun lain muuttamisesta](1304.md) `1304/2009`
+- [Laki eräiden irtolastialusten turvallisesta lastaamisesta ja lastin purkamisesta annetun lain muuttamisesta](1305.md) `1305/2009`
+- [Laki eräiden huviveneiden turvallisuudesta ja päästövaatimuksista annetun lain muuttamisesta](1306.md) `1306/2009`
+- [Laki alusliikennepalvelulain muuttamisesta](1307.md) `1307/2009`
+- [Laki alusten jääluokista ja jäänmurtaja\-avustuksesta annetun lain muuttamisesta](1308.md) `1308/2009`
+- [Laki väylämaksulain muuttamisesta](1309.md) `1309/2009`
+- [Laki lentoliikenteen valvontamaksusta annetun lain muuttamisesta](1310.md) `1310/2009`
+- [Laki kaupallisista tavarankuljetuksista tiellä annetun lain muuttamisesta](1311.md) `1311/2009`
+- [Laki maantieliikenteen liikenneyrittäjäkoulutuksesta annetun lain muuttamisesta](1312.md) `1312/2009`
+- [Laki vesikulkuneuvorekisteristä annetun lain muuttamisesta](1313.md) `1313/2009`
+- [Laki taksiliikennelain muuttamisesta](1314.md) `1314/2009`
+- [Laki kuorma\- ja linja\-auton kuljettajien ammattipätevyydestä annetun lain muuttamisesta](1315.md) `1315/2009`
+- [Laki liikenneväylien ja yleisten alueiden rakennustuotteiden hyväksynnästä annetun lain 4 §:n muuttamisesta](1316.md) `1316/2009`
+- [Laki meriliikenteessä käytettävien alusten kilpailukyvyn parantamisesta annetun lain 3 ja 17 §:n muuttamisesta](1317.md) `1317/2009`
+- [Laki alkolukolla valvotusta ajo\-oikeudesta annetun lain 8 §:n muuttamisesta](1318.md) `1318/2009`
+- [Laki ajoneuvojen siirtämisestä annetun lain 14 §:n muuttamisesta](1319.md) `1319/2009`
+- [Laki taksinkuljettajien ammattipätevyydestä annetun lain muuttamisesta](1320.md) `1320/2009`
+- [Laki tuloverolain 74 §:n muuttamisesta](1321.md) `1321/2009`
+- [Laki valtion virkamieslain 7 §:n muuttamisesta](1322.md) `1322/2009`
+- [Laki nestemäisten polttoaineiden valmisteverosta annetun lain 12 a §:n muuttamisesta](1323.md) `1323/2009`
+- [Laki autoverolain muuttamisesta](1324.md) `1324/2009`
+- [Laki rataverolain muuttamisesta](1325.md) `1325/2009`
+- [Laki polttoainemaksusta annetun lain muuttamisesta](1326.md) `1326/2009`
+- [Laki ajoneuvoverolain muuttamisesta](1327.md) `1327/2009`
+- [Laki eräiden ennakkopäätösten maksuperusteista annetun lain muuttamisesta](1328.md) `1328/2009`
+- [Laki hätäkeskuslain 8 §:n muuttamisesta](1329.md) `1329/2009`
+- [Laki aluevalvontalain 23 ja 24 a §:n muuttamisesta](1330.md) `1330/2009`
+- [Laki pelastuslain 6 §:n muuttamisesta](1331.md) `1331/2009`
+- [Laki merimieslain muuttamisesta](1332.md) `1332/2009`
+- [Laki painelaitelain 2 §:n muuttamisesta](1333.md) `1333/2009`
+- [Laki laivaväen luetteloinnista annetun lain muuttamisesta](1334.md) `1334/2009`
+- [Laki liikennevakuutuslain 15 §:n muuttamisesta](1335.md) `1335/2009`
+- [Laki merimiehen lääkärintarkastuksista pidettävästä rekisteristä annetun lain 3 §:n muuttamisesta](1336.md) `1336/2009`
+- [Laki merimieseläkelain 139 §:n muuttamisesta](1337.md) `1337/2009`
+- [Laki autokiinnityslain muuttamisesta](1338.md) `1338/2009`
+- [Laki pakkokeinolain 6 luvun 3 §:n muuttamisesta](1339.md) `1339/2009`
+- [Laki Euroopan yhteisön yhteisen kalastuspolitiikan täytäntöönpanosta annetun lain 8 §:n muuttamisesta](1340.md) `1340/2009`
+- [Laki eläinten kuljetuksesta annetun lain 20 ja 46 §:n muuttamisesta](1341.md) `1341/2009`
+- [Laki ympäristönsuojelulain 24 ja 25 b §:n muuttamisesta](1342.md) `1342/2009`
+- [Laki meriliikennetietojen keräämisestä ja meriliikenteen tilastojen laatimisesta](1343.md) `1343/2009`
+- [Laki Maahanmuuttovirastosta annetun lain 2 §:n muuttamisesta](1344.md) `1344/2009`
+- [Laki maahanmuuttajien kotouttamisesta ja turvapaikanhakijoiden vastaanotosta annetun lain muuttamisesta](1345.md) `1345/2009`
+- [Laki säilöön otettujen ulkomaalaisten kohtelusta ja säilöönottoyksiköstä annetun lain muuttamisesta](1346.md) `1346/2009`
+- [Laki rakennuksen ilmastointijärjestelmän kylmälaitteiden energiatehokkuuden tarkastamisesta annetun lain 4 §:n muuttamisesta](1347.md) `1347/2009`
+- [Tasavallan presidentin asetus rajavartiolaitoksen sotilaskäskyasioista, sotilas\- ja palvelusarvoista sekä tunnuskuvasta, ansiorististä ja ansiomitalista annetun tasavallan presidentin asetuksen 9 §:n muuttamisesta](1348.md) `1348/2009`
+- [Valtioneuvoston asetus rajavyöhykkeestä ja rajavyöhykkeen takarajasta annetun valtioneuvoston asetuksen §:n muuttamisesta](1349.md) `1349/2009`
+- [Valtioneuvoston asetus valtakunnallisesta romaniasiain neuvottelukunnasta ja alueellisista romaniasiain neuvottelukunnista annetun valtioneuvoston asetuksen 7 §:n muuttamisesta](1350.md) `1350/2009`
+- [Valtioneuvoston asetus lääkäri\- ja hammaslääkärikoulutuksen sekä yliopistotasoisen terveystieteellisen tutkimustoiminnan kustannuksiin suoritettavaan korvaukseen oikeutetuista palvelujen tuottajista](1351.md) `1351/2009`
+- [Sosiaali\- ja terveysministeriön asetus vuoden 2010 liikenneturvallisuusmaksusta](1352.md) `1352/2009`
+- [Sisäasiainministeriön asetus maahanmuuttoasiain toimikunnasta annetun työministeriön asetuksen muuttamisesta](1353.md) `1353/2009`
+- [Sisäasiainministeriön asetus Maahanmuuttoviraston suoritteiden maksullisuudesta](1354.md) `1354/2009`
+- [Sosiaali\- ja terveysministeriön asetus lääkevaihdosta annetun sosiaali\- ja terveysministeriön asetuksen 1 §:n muuttamisesta](1355.md) `1355/2009`
+- [Sosiaali\- ja terveysministeriön asetus lääkkeiden hintalautakunnalle tehtävästä hakemuksesta ja hintailmoituksesta annetun sosiaali\- ja terveysministeriön asetuksen 3 §:n muuttamisesta](1356.md) `1356/2009`
+- [Verohallinnon työjärjestys](1357.md) `1357/2009`
+- [Verohallinnon päätös sähköisten palvelujen erityisjärjestelmää koskevasta toimivaltaisesta verovirastosta](1358.md) `1358/2009`
+- [Laki arvonlisäverolain muuttamisesta](1359.md) `1359/2009`
+- [Laki kansainvälisen kaksinkertaisen verotuksen poistamisesta annetun lain muuttamisesta](1360.md) `1360/2009`
+- [Laki ulkomaisten väliyhteisöjen osakkaiden verotuksesta annetun lain 6 §:n muuttamisesta](1361.md) `1361/2009`
+- [Valtioneuvoston asetus rakennusurakkasopimuksissa käytettävistä indeksiehdoista annetun valtioneuvoston asetuksen muuttamisesta](1362.md) `1362/2009`
+- [Valtiovarainministeriön asetus Verohallinnon määräämisestä toimivaltaisena viranomaisena ratkaisemaan eräitä verotusta koskevissa kansainvälisissä sopimuksissa tarkoitettuja asioita](1363.md) `1363/2009`
+- [Laki verontilityslain muuttamisesta ja väliaikaisesta muuttamisesta](1364.md) `1364/2009`
+- [Laki tuloverolain muuttamisesta ja väliaikaisesta muuttamisesta](1365.md) `1365/2009`
+- [Laki työnantajan sosiaaliturvamaksusta vapauttamisesta Kainuun maakunnassa vuosina2005―2009 annetun lain muuttamisesta](1366.md) `1366/2009`
+- [Laki työnantajan sosiaaliturvamaksusta vapauttamisesta eräissä kunnissa vuosina 2003―2009 annetun lain muuttamisesta](1367.md) `1367/2009`
+- [Valtiovarainministeriön asetus vuoden 2010 taidekilpailupalkintojen verovapaudesta](1368.md) `1368/2009`
+- [Valtiovarainministeriön asetus julkishallinnon ja \-talouden tilintarkastajan hyväksymisvaatimuksista](1369.md) `1369/2009`
+- [Maa\- ja metsätalousministeriön asetus maatalouden ympäristötuen perus\- ja lisätoimenpiteistä ja maatalouden ympäristötuen erityistuista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1370.md) `1370/2009`
+- [Laki eräitä yrityksiä koskevasta taloudellisen toiminnan avoimuus\- ja tiedonantovelvollisuudesta annetun lain muuttamisesta](1371.md) `1371/2009`
+- [Valtioneuvoston asetus liikenne\- ja viestintäministeriöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1372.md) `1372/2009`
+- [Valtioneuvoston asetus saaristoliikenteen tukemiseksi myönnettävistä avustuksista annetun valtioneuvoston asetuksen muuttamisesta](1373.md) `1373/2009`
+- [Valtioneuvoston asetus ilmailulta rajoitetuista alueista](1374.md) `1374/2009`
+- [Työ\- ja elinkeinoministeriön asetus Kuluttajaviraston maksullisista suoritteista](1375.md) `1375/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden porotalouden ja luontaiselinkeinojen rahoituslain mukaisten asuntolainojen viitekorosta](1376.md) `1376/2009`
+- [Valtioneuvoston asetus oikeushallinnon tietotekniikkakeskuksesta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1377.md) `1377/2009`
+- [Valtiovarainministeriön asetus valtiovarainministeriön maksullisista suoritteista](1378.md) `1378/2009`
+- [Sisäasiainministeriön työjärjestys](1379.md) `1379/2009`
+- [Maa\- ja metsätalousministeriön asetus erikoistuista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1380.md) `1380/2009`
+- [Maa\- ja metsätalousministeriön asetus maidon tuotantotuen hakemisesta ja maksamisen edellytyksistä annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](1381.md) `1381/2009`
+- [Valtion talousarvio vuodelle 2010](1382.md) `1382/2009`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta eläimistä saatavien elintarvikkeiden elintarvikehygieniasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1383.md) `1383/2009`
+- [Laki kemiallisten aseiden kehittämisen, tuotannon, varastoinnin ja käytön kieltämistä sekä niiden hävittämistä koskevan yleissopimuksen eräiden määräysten hyväksymisestä ja sen soveltamisesta annetun lain 12 §:n muuttamisesta](1384.md) `1384/2009`
+- [Laki Suomen talousvyöhykkeestä annetun lain 18 §:n muuttamisesta](1385.md) `1385/2009`
+- [Laki oikeudenkäymiskaaren 11 luvun 12 §:n muuttamisesta](1386.md) `1386/2009`
+- [Laki avioliittolain 22 ja 23 §:n muuttamisesta](1387.md) `1387/2009`
+- [Laki säätiölain 17 b §:n muuttamisesta](1388.md) `1388/2009`
+- [Laki rahan, arvo\-osuuksien, arvopaperien tai asiakirjain tallettamisesta velan maksuna tai vapautumiseksi muusta suoritusvelvollisuudesta annetun lain muuttamisesta](1389.md) `1389/2009`
+- [Laki julkisesta notaarista annetun lain 1 ja 2 §:n muuttamisesta](1390.md) `1390/2009`
+- [Laki vesilain muuttamisesta](1391.md) `1391/2009`
+- [Laki perintökaaren 22 luvun 7 §:n ja 25 luvun 8 §:n muuttamisesta](1392.md) `1392/2009`
+- [Laki pysäköintivirhemaksusta annetun lain muuttamisesta](1393.md) `1393/2009`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain muuttamisesta](1394.md) `1394/2009`
+- [Laki kuluttajansuojalain 2 ja 7 luvun muuttamisesta](1395.md) `1395/2009`
+- [Laki nimilain 33 a §:n muuttamisesta](1396.md) `1396/2009`
+- [Laki löytötavaralain muuttamisesta](1397.md) `1397/2009`
+- [Laki yhdistyslain muuttamisesta](1398.md) `1398/2009`
+- [Laki asunto\-osakeyhtiölain muuttamisesta](1399.md) `1399/2009`
+- [Laki valmiuslain 43 ja 48 §:n muuttamisesta](1400.md) `1400/2009`
+- [Laki asuntokauppalain 2 luvun muuttamisesta](1401.md) `1401/2009`
+- [Laki asumisoikeusyhdistyksistä annetun lain muuttamisesta](1402.md) `1402/2009`
+- [Laki kihlakunnansyyttäjästä annetun lain 5 §:n muuttamisesta](1403.md) `1403/2009`
+- [Laki vaalilain muuttamisesta](1404.md) `1404/2009`
+- [Laki holhoustoimesta annetun lain 64 §:n muuttamisesta](1405.md) `1405/2009`
+- [Laki osuuskuntalain muuttamisesta](1406.md) `1406/2009`
+- [Laki sakon täytäntöönpanosta annetun lain 42 §:n muuttamisesta](1407.md) `1407/2009`
+- [Laki hallintolain 58 §:n muuttamisesta](1408.md) `1408/2009`
+- [Laki saamen kielilain 2 ja 27 §:n muuttamisesta](1409.md) `1409/2009`
+- [Laki eurooppayhtiölain 8 §:n muuttamisesta](1410.md) `1410/2009`
+- [Laki vesilain 2 ja 16 luvun muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1411.md) `1411/2009`
+- [Laki kuolleeksi julistamisesta annetun lain 29 §:n muuttamisesta](1412.md) `1412/2009`
+- [Laki osakeyhtiölain muuttamisesta](1413.md) `1413/2009`
+- [Laki osakeyhtiölain voimaanpanosta annetun lain 12 §:n muuttamisesta](1414.md) `1414/2009`
+- [Laki hedelmöityshoidoista annetun lain 28 §:n muuttamisesta](1415.md) `1415/2009`
+- [Laki eurooppaosuuskuntalain 8 §:n muuttamisesta](1416.md) `1416/2009`
+- [Laki ulosottokaaren 2 luvun 2 §:n muuttamisesta](1417.md) `1417/2009`
+- [Laki Suomen lipusta annetun lain 5 §:n muuttamisesta](1418.md) `1418/2009`
+- [Laki ulkomaalaisrekisteristä annetun lain 3 §:n muuttamisesta](1419.md) `1419/2009`
+- [Laki maahanmuuttajien kotouttamisesta ja turvapaikanhakijoiden vastaanotosta annetun lain muuttamisesta](1420.md) `1420/2009`
+- [Laki pelastustoimen alueiden muodostamisesta annetun lain 5 §:n muuttamisesta](1421.md) `1421/2009`
+- [Laki palosuojelurahastolain muuttamisesta](1422.md) `1422/2009`
+- [Laki pelastuslain muuttamisesta](1423.md) `1423/2009`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain muuttamisesta](1424.md) `1424/2009`
+- [Laki alueen pelastustoimen valtionavustuksesta annetun lain 4 ja 6 §:n muuttamisesta](1425.md) `1425/2009`
+- [Laki ulkomaalaislain 71 ja 84 §:n muuttamisesta](1426.md) `1426/2009`
+- [Laki henkilötietojen käsittelystä rajavartiolaitoksessa annetun lain 22 §:n muuttamisesta](1427.md) `1427/2009`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä ja selvittämisestä annetun lain muuttamisesta](1428.md) `1428/2009`
+- [Laki puolustustilalain 9 ja 12 §:n muuttamisesta](1429.md) `1429/2009`
+- [Laki panttilainauslaitoksista annetun lain muuttamisesta](1430.md) `1430/2009`
+- [Laki väestötietolain 1 §:n muuttamisesta](1431.md) `1431/2009`
+- [Laki arvonlisäverolain 216 §:n muuttamisesta](1432.md) `1432/2009`
+- [Laki kuntalain 8 ja 78 §:n muuttamisesta](1433.md) `1433/2009`
+- [Laki rekisterihallintolain 3 §:n muuttamisesta](1434.md) `1434/2009`
+- [Laki jäteverolain 12 §:n muuttamisesta](1435.md) `1435/2009`
+- [Laki varainsiirtoverolain 13 ja 14 §:n muuttamisesta](1436.md) `1436/2009`
+- [Laki pienten erillisten alueiden siirtämisestä kunnasta toiseen kuntaan annetun lain 5 §:n muuttamisesta](1437.md) `1437/2009`
+- [Laki Kainuun hallintokokeilusta annetun lain 16 ja 48 §:n muuttamisesta](1438.md) `1438/2009`
+- [Laki tilastolain 23 §:n muuttamisesta](1439.md) `1439/2009`
+- [Laki maataloudessa käytettyjen eräiden energiatuotteiden valmisteveron palautuksesta annetun lain 15 §:n muuttamisesta](1440.md) `1440/2009`
+- [Laki Euroopan yhteisön rajan yli kuljetettavan käteisrahan valvonnasta annetun lain 6 §:n muuttamisesta](1441.md) `1441/2009`
+- [Laki tekijänoikeuslain 26 d ja 26 l §:n muuttamisesta](1442.md) `1442/2009`
+- [Laki muinaismuistolain muuttamisesta](1443.md) `1443/2009`
+- [Laki perusopetuslain 37 ja 42 §:n muuttamisesta](1444.md) `1444/2009`
+- [Laki lukiolain 30 ja 34 §:n muuttamisesta](1445.md) `1445/2009`
+- [Laki ammatillisesta koulutuksesta annetun lain 44 §:n muuttamisesta](1446.md) `1446/2009`
+- [Laki taiteen perusopetuksesta annetun lain 9 ja 10 §:n muuttamisesta](1447.md) `1447/2009`
+- [Laki valtion ja yksityisen järjestämän koulutuksen hallinnosta annetun lain 6 §:n muuttamisesta](1448.md) `1448/2009`
+- [Laki kirjastolain 6 ja 7 §:n muuttamisesta](1449.md) `1449/2009`
+- [Laki uskonnonvapauslain 4 §:n muuttamisesta](1450.md) `1450/2009`
+- [Laki hautaustoimilain muuttamisesta](1451.md) `1451/2009`
+- [Laki ylioppilastutkinnon järjestämisestä annetun lain 15 §:n muuttamisesta](1452.md) `1452/2009`
+- [Laki nuorisolain 3 ja 14 §:n muuttamisesta](1453.md) `1453/2009`
+- [Laki kulttuuriaineistojen tallettamisesta ja säilyttämisestä annetun lain 27 §:n muuttamisesta](1454.md) `1454/2009`
+- [Laki lainajyvästöistä ja siemenrahastoista annetun lain 14 §:n muuttamisesta](1455.md) `1455/2009`
+- [Laki pakkohuutokaupalla myytävien kiinteistöjen lunastamisesta valtiolle annetun lain 11 a §:n muuttamisesta](1456.md) `1456/2009`
+- [Laki rajakuntien tilusjärjestelylain 41 §:n muuttamisesta](1457.md) `1457/2009`
+- [Laki maatilatalouden kehittämisrahastosta annetun lain 3 ja 3 a §:n muuttamisesta](1458.md) `1458/2009`
+- [Laki luopumiseläkelain 14 ja 16 §:n muuttamisesta](1459.md) `1459/2009`
+- [Laki eläintautilain 5 ja 13 a §:n muuttamisesta](1460.md) `1460/2009`
+- [Laki kiinteistöjen kauppahintarekisteristä annetun lain 4 §:n muuttamisesta](1461.md) `1461/2009`
+- [Laki kalastuslain muuttamisesta](1462.md) `1462/2009`
+- [Laki poikkeuksellisten tulvien aiheuttamien vahinkojen korvaamisesta annetun lain 4 §:n muuttamisesta](1463.md) `1463/2009`
+- [Laki vesistöhankkeiden johdosta suoritettavista tilusjärjestelyistä annetun lain 17 §:n muuttamisesta](1464.md) `1464/2009`
+- [Laki yhteisaluelain 33 §:n muuttamisesta](1465.md) `1465/2009`
+- [Laki poronhoitolain muuttamisesta](1466.md) `1466/2009`
+- [Laki Neuvostoliiton kanssa Saimaan ja Vuoksen juoksutussäännöstä tehdyn sopimuksen eräiden määräysten hyväksymisestä sekä sopimuksen soveltamisesta annetun lain 2 ja 3 §:n muuttamisesta](1467.md) `1467/2009`
+- [Laki maaseutuelinkeinojen valituslautakunnasta annetun lain 1 §:n muuttamisesta](1468.md) `1468/2009`
+- [Laki metsästyslain 23 ja 88 §:n muuttamisesta](1469.md) `1469/2009`
+- [Laki Euroopan yhteisön yhteisen maatalouspolitiikan täytäntöönpanosta annetun lain 3 ja 9 §:n muuttamisesta](1470.md) `1470/2009`
+- [Laki Euroopan yhteisön yhteisen kalastuspolitiikan täytäntöönpanosta annetun lain 2 ja 3 §:n muuttamisesta](1471.md) `1471/2009`
+- [Laki taimiaineistolain muuttamisesta](1472.md) `1472/2009`
+- [Laki maatalousyrittäjien luopumistuesta annetun lain muuttamisesta](1473.md) `1473/2009`
+- [Laki kolttalain muuttamisesta](1474.md) `1474/2009`
+- [Laki Euroopan yhteisön maidon ja maitotuotteiden kiintiöjärjestelmän täytäntöönpanosta annetun lain muuttamisesta](1475.md) `1475/2009`
+- [Laki kiinteistönmuodostamislain 72 ja 205 §:n muuttamisesta](1476.md) `1476/2009`
+- [Laki eläinsuojelulain muuttamisesta](1477.md) `1477/2009`
+- [Laki metsälain 14 b §:n muuttamisesta](1478.md) `1478/2009`
+- [Laki eläinlääkinnällisestä rajatarkastuksesta annetun lain 4 ja 18 §:n muuttamisesta](1479.md) `1479/2009`
+- [Laki eläinten lääkitsemisestä annetun lain muuttamisesta](1480.md) `1480/2009`
+- [Laki peruskuivatustoiminnan tukemisesta annetun lain muuttamisesta](1481.md) `1481/2009`
+- [Laki Euroopan yhteisön yhteisen maatalouspolitiikan tunnistamis\- ja tiedonantojärjestelmän täytäntöönpanosta annetun lain 4 §:n muuttamisesta](1482.md) `1482/2009`
+- [Laki maaseutuelinkeinojen rahoituslain muuttamisesta](1483.md) `1483/2009`
+- [Laki eläinlääkärinammatin harjoittamisesta annetun lain muuttamisesta](1484.md) `1484/2009`
+- [Laki porotalouden ja luontaiselinkeinojen rahoituslain muuttamisesta](1485.md) `1485/2009`
+- [Laki siemenkauppalain 16 §:n muuttamisesta](1486.md) `1486/2009`
+- [Laki satovahinkojen korvaamisesta annetun lain 7 §:n muuttamisesta](1487.md) `1487/2009`
+- [Laki vesihuoltolain muuttamisesta](1488.md) `1488/2009`
+- [Laki maa\- ja puutarhatalouden kansallisista tuista annetun lain muuttamisesta](1489.md) `1489/2009`
+- [Laki hukkakauran torjunnasta annetun lain muuttamisesta](1490.md) `1490/2009`
+- [Laki yhteismetsälain 37 §:n muuttamisesta](1491.md) `1491/2009`
+- [Laki kasvinterveyden suojelemisesta annetun lain muuttamisesta](1492.md) `1492/2009`
+- [Laki vesihuollon tukemisesta annetun lain muuttamisesta](1493.md) `1493/2009`
+- [Laki Metsähallituksen erävalvonnasta annetun lain 19 §:n muuttamisesta](1494.md) `1494/2009`
+- [Laki elintarvikelain muuttamisesta](1495.md) `1495/2009`
+- [Laki koe\-eläintoiminnasta annetun lain muuttamisesta](1496.md) `1496/2009`
+- [Laki maaseudun kehittämiseen liittyvien ohjelmien hallinnoinnista annetun lain 3 ja 5 §:n muuttamisesta](1497.md) `1497/2009`
+- [Laki lannoitevalmistelain 17 ja 36 §:n muuttamisesta](1498.md) `1498/2009`
+- [Laki maatalouden harjoittamisesta luopumisen tukemisesta annetun lain muuttamisesta](1499.md) `1499/2009`
+- [Laki kasvinsuojeluaineista annetun lain 21 ja 29 §:n muuttamisesta](1500.md) `1500/2009`
+- [Laki eläinten kuljetuksesta annetun lain muuttamisesta](1501.md) `1501/2009`
+- [Laki luonnonhaittakorvauksesta, maatalouden ympäristötuesta sekä eräistä muista ympäristön ja maaseudun tilan parantamiseen liittyvistä tuista annetun lain muuttamisesta](1502.md) `1502/2009`
+- [Laki maaseudun kehittämiseen myönnettävistä tuista annetun lain muuttamisesta](1503.md) `1503/2009`
+- [Laki Euroopan kalatalousrahaston kansallisesta hallinnoinnista ja elinkeinokalataloudelle myönnettävistä tuista annetun lain muuttamisesta](1504.md) `1504/2009`
+- [Laki eräiden maa\- ja metsätalousministeriön hallinnonalan lainojen ja saamisten siirtämisestä Valtiokonttorin hoidettavaksi annetun lain muuttamisesta](1505.md) `1505/2009`
+- [Laki kestävän metsätalouden rahoituslain 23 §:n muuttamisesta](1506.md) `1506/2009`
+- [Laki maatalouden rakennetuista annetun lain muuttamisesta](1507.md) `1507/2009`
+- [Laki rehulain 23 §:n muuttamisesta](1508.md) `1508/2009`
+- [Laki maaseutuelinkeinohallinnon tietojärjestelmästä annetun lain 5 ja 7 §:n muuttamisesta](1509.md) `1509/2009`
+- [Laki riistavahinkolain 50 §:n muuttamisesta](1510.md) `1510/2009`
+- [Laki patoturvallisuuslain 5 ja 33 §:n muuttamisesta](1511.md) `1511/2009`
+- [Laki kaupparekisterilain 1 §:n muuttamisesta](1512.md) `1512/2009`
+- [Laki henkilöstörahastolain 60 §:n muuttamisesta](1513.md) `1513/2009`
+- [Laki kuluttajatutkimuskeskuksesta annetun lain 6 §:n muuttamisesta](1514.md) `1514/2009`
+- [Laki henkilöstön edustuksesta yritysten hallinnossa annetun lain 14 §:n muuttamisesta](1515.md) `1515/2009`
+- [Laki kilpailunrajoituksista annetun lain muuttamisesta](1516.md) `1516/2009`
+- [Laki nuorista työntekijöistä annetun lain 15 §:n muuttamisesta](1517.md) `1517/2009`
+- [Laki työaikalain muuttamisesta](1518.md) `1518/2009`
+- [Laki valtion erityisrahoitusyhtiöstä annetun lain 6 §:n muuttamisesta](1519.md) `1519/2009`
+- [Laki Kuluttajavirastosta annetun lain 4 §:n muuttamisesta](1520.md) `1520/2009`
+- [Laki perintätoiminnan luvanvaraisuudesta annetun lain muuttamisesta](1521.md) `1521/2009`
+- [Laki talous\- ja velkaneuvonnasta annetun lain muuttamisesta](1522.md) `1522/2009`
+- [Laki kiinteistönvälitysliikkeistä ja vuokrahuoneiston välitysliikkeistä annetun lain muuttamisesta](1523.md) `1523/2009`
+- [Laki yritys\- ja yhteisötietolain 10 §:n muuttamisesta](1524.md) `1524/2009`
+- [Laki lasten kanssa työskentelevien rikostaustan selvittämisestä annetun lain 4 ja 10 §:n muuttamisesta](1525.md) `1525/2009`
+- [Laki julkisesta työvoimapalvelusta annetun lain muuttamisesta](1526.md) `1526/2009`
+- [Laki työneuvostosta ja eräistä työsuojelun poikkeusluvista annetun lain muuttamisesta](1527.md) `1527/2009`
+- [Laki henkilöstöedustuksesta eurooppayhtiössä \(SE\) ja eurooppaosuuskunnassa \(SCE\) annetun lain 38 §:n muuttamisesta](1528.md) `1528/2009`
+- [Laki pienten ja keskisuurten yritysten osaamisen kehittämispalveluista annetun lain 2 ja 3 §:n muuttamisesta](1529.md) `1529/2009`
+- [Laki tilaajan selvitysvelvollisuudesta ja vastuusta ulkopuolista työvoimaa käytettäessä annetun lain 10 ja 12 §:n muuttamisesta](1530.md) `1530/2009`
+- [Laki valtionavustuksesta yritystoiminnan kehittämiseksi annetun lain muuttamisesta](1531.md) `1531/2009`
+- [Laki yrityspalvelujen asiakastietojärjestelmästä annetun lain muuttamisesta](1532.md) `1532/2009`
+- [Laki polttoturpeen turvavarastoista annetun lain 7 §:n muuttamisesta](1533.md) `1533/2009`
+- [Laki tilintarkastuslain 9 §:n muuttamisesta](1534.md) `1534/2009`
+- [Laki valmismatkaliikkeistä annetun lain 14 §:n muuttamisesta](1535.md) `1535/2009`
+- [Laki apteekkimaksusta annetun lain 6 ja 13 §:n muuttamisesta](1536.md) `1536/2009`
+- [Laki kansanterveyslain muuttamisesta](1537.md) `1537/2009`
+- [Laki toimenpiteistä tupakoinnin vähentämiseksi annetun lain muuttamisesta](1538.md) `1538/2009`
+- [Laki kehitysvammaisten erityishuollosta annetun lain muuttamisesta](1539.md) `1539/2009`
+- [Laki raittiustyölain 3 §:n muuttamisesta](1540.md) `1540/2009`
+- [Laki sosiaalihuoltolain muuttamisesta](1541.md) `1541/2009`
+- [Laki päihdehuoltolain muuttamisesta](1542.md) `1542/2009`
+- [Laki tartuntatautilain muuttamisesta](1543.md) `1543/2009`
+- [Laki potilasvahinkolain 11 a §:n muuttamisesta](1544.md) `1544/2009`
+- [Laki vammaisuuden perusteella järjestettävistä palveluista ja tukitoimista annetun lain 18 ja 19 §:n muuttamisesta](1545.md) `1545/2009`
+- [Laki lääkelain muuttamisesta](1546.md) `1546/2009`
+- [Laki kemikaalilain muuttamisesta](1547.md) `1547/2009`
+- [Laki erikoissairaanhoitolain muuttamisesta](1548.md) `1548/2009`
+- [Laki yksityisestä terveydenhuollosta annetun lain muuttamisesta](1549.md) `1549/2009`
+- [Laki terveydenhuollon ammattihenkilöistä annetun lain muuttamisesta](1550.md) `1550/2009`
+- [Laki terveydensuojelulain muuttamisesta](1551.md) `1551/2009`
+- [Laki alkoholilain muuttamisesta](1552.md) `1552/2009`
+- [Laki ulkomaisista vakuutusyhtiöistä annetun lain 84 §:n 2 momentin kumoamisesta](1553.md) `1553/2009`
+- [Laki yksityisten sosiaalipalvelujen valvonnasta annetun lain muuttamisesta](1554.md) `1554/2009`
+- [Laki toimeentulotuesta annetun lain muuttamisesta](1555.md) `1555/2009`
+- [Laki lääketieteellisestä tutkimuksesta annetun lain 20 §:n muuttamisesta](1556.md) `1556/2009`
+- [Laki syöpäsairauden vaaraa aiheuttaville aineille ja menetelmille ammatissaan altistuvien rekisteristä annetun lain 3 ja 6 §:n muuttamisesta](1557.md) `1557/2009`
+- [Laki sosiaalialan osaamiskeskustoiminnasta annetun lain 1 §:n muuttamisesta](1558.md) `1558/2009`
+- [Laki työterveyshuoltolain 24 §:n muuttamisesta](1559.md) `1559/2009`
+- [Laki työttömyysturvalain muuttamisesta](1560.md) `1560/2009`
+- [Laki kuntoutuksen asiakasyhteistyöstä annetun lain 11 §:n muuttamisesta](1561.md) `1561/2009`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 18 §:n muuttamisesta](1562.md) `1562/2009`
+- [Laki rikosasioiden ja eräiden riita\-asioiden sovittelusta annetun lain muuttamisesta](1563.md) `1563/2009`
+- [Laki työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetun lain muuttamisesta](1564.md) `1564/2009`
+- [Laki sosiaali\- ja terveydenhuollon asiakastietojen sähköisestä käsittelystä annetun lain 20 §:n muuttamisesta](1565.md) `1565/2009`
+- [Laki lastensuojelulain 79 ja 80 §:n muuttamisesta](1566.md) `1566/2009`
+- [Laki sähköisestä lääkemääräyksestä annetun lain 15 ja 24 §:n muuttamisesta](1567.md) `1567/2009`
+- [Laki huumausainelain muuttamisesta](1568.md) `1568/2009`
+- [Laki Sosiaali\- ja terveysalan lupa\- ja valvontavirastosta annetun lain 6 §:n muuttamisesta](1569.md) `1569/2009`
+- [Laki lapseen kohdistuneen seksuaalirikoksen selvittämisen järjestämisestä annetun lain 5 ja 7 §:n muuttamisesta](1570.md) `1570/2009`
+- [Laki ympäristöterveydenhuollon yhteistoiminta\-alueesta annetun lain muuttamisesta](1571.md) `1571/2009`
+- [Laki ulkoilulain muuttamisesta](1572.md) `1572/2009`
+- [Laki ympäristönsuojelua edistäviin investointeihin myönnettävistä valtiontakauksista ja vientitakuista annetun lain 3 ja 4 §:n muuttamisesta](1573.md) `1573/2009`
+- [Laki maa\-alueilla tapahtuvien öljyvahinkojen torjumisesta annetun lain 5 ja 6 §:n muuttamisesta](1574.md) `1574/2009`
+- [Laki kadun ja eräiden yleisten alueiden kunnossa\- ja puhtaanapidosta annetun lain 14 ja 16 §:n muuttamisesta](1575.md) `1575/2009`
+- [Laki saariston kehityksen edistämisestä annetun lain 12 §:n muuttamisesta](1576.md) `1576/2009`
+- [Laki maa\-aineslain muuttamisesta](1577.md) `1577/2009`
+- [Laki rakennussuojelulain muuttamisesta](1578.md) `1578/2009`
+- [Laki asunto\-olojen kehittämisestä annetun lain 7 §:n kumoamisesta](1579.md) `1579/2009`
+- [Laki kuntien ympäristönsuojelun hallinnosta annetun lain 2 §:n muuttamisesta](1580.md) `1580/2009`
+- [Laki yhteishallinnosta vuokrataloissa annetun lain 18 §:n muuttamisesta](1581.md) `1581/2009`
+- [Laki asumisoikeusasunnoista annetun lain 9 a §:n muuttamisesta](1582.md) `1582/2009`
+- [Laki jätelain muuttamisesta](1583.md) `1583/2009`
+- [Laki ympäristövaikutusten arviointimenettelystä annetun lain muuttamisesta](1584.md) `1584/2009`
+- [Laki merensuojelulain muuttamisesta](1585.md) `1585/2009`
+- [Laki maastoliikennelain muuttamisesta](1586.md) `1586/2009`
+- [Laki luonnonsuojelulain muuttamisesta](1587.md) `1587/2009`
+- [Laki ympäristövahinkovakuutuksesta annetun lain 3 §:n muuttamisesta](1588.md) `1588/2009`
+- [Laki maankäyttö\- ja rakennuslain muuttamisesta](1589.md) `1589/2009`
+- [Laki ympäristönsuojelulain muuttamisesta](1590.md) `1590/2009`
+- [Laki vapaaehtoisesta osallistumisesta ympäristöasioiden hallinta\- ja auditointijärjestelmään annetun lain 9 §:n muuttamisesta](1591.md) `1591/2009`
+- [Laki rakennustuotteiden hyväksynnästä annetun lain 24 §:n muuttamisesta](1592.md) `1592/2009`
+- [Laki vesienhoidon järjestämisestä annetun lain muuttamisesta](1593.md) `1593/2009`
+- [Laki öljysuojarahastosta annetun lain 26 §:n muuttamisesta](1594.md) `1594/2009`
+- [Laki julkisesta työvoimapalvelusta annetun lain 5 a luvun 7 §:n muuttamisesta](1595.md) `1595/2009`
+- [Laki eläinlääkintahuoltolain muuttamisesta](1596.md) `1596/2009`
+- [Laki vähittäiskaupan sekä parturi\- ja kampaamoliikkeen aukioloajoista annetun lain 3 §:n muuttamisesta](1597.md) `1597/2009`
+- [Laki ympäristönsuojelu\- ja vesiasioiden käsittelystä aluehallintovirastossa annetun lain 3 §:n muuttamisesta](1598.md) `1598/2009`
+- [Asunto\-osakeyhtiölaki](1599.md) `1599/2009`
+- [Laki asunto\-osakeyhtiölain voimaanpanosta](1600.md) `1600/2009`
+- [Laki osakeyhtiölain voimaanpanosta annetun lain 1 §:n muuttamisesta](1601.md) `1601/2009`
+- [Laki kaupparekisterilain 9 ja 19 a §:n muuttamisesta](1602.md) `1602/2009`
+- [Laki yritys\- ja yhteisötietolain 14 §:n muuttamisesta](1603.md) `1603/2009`
+- [Laki tilintarkastuslain 57 §:n muuttamisesta](1604.md) `1604/2009`
+- [Laki kirjanpitolain 3 luvun 11 §:n muuttamisesta](1605.md) `1605/2009`
+- [Laki asuntokauppalain 2 luvun 19 b §:n muuttamisesta](1606.md) `1606/2009`
+- [Laki asumisoikeusyhdistyksistä annetun lain muuttamisesta](1607.md) `1607/2009`
+- [Laki asumisoikeusasunnoista annetun lain 26 b §:n muuttamisesta](1608.md) `1608/2009`
+- [Laki asuinhuoneiston vuokrauksesta annetun lain 38 ja 39 §:n muuttamisesta](1609.md) `1609/2009`
+- [Laki liikehuoneiston vuokrauksesta annetun lain 31 ja 32 §:n muuttamisesta](1610.md) `1610/2009`
+- [Laki asuntojen korjaus\-, energia\- ja terveyshaitta\-avustuksista annetun lain 10 §:n muuttamisesta](1611.md) `1611/2009`
+- [Laki yksityishenkilön velkajärjestelystä annetun lain 18 §:n muuttamisesta](1612.md) `1612/2009`
+- [Laki yrityksen saneerauksesta annetun lain 21 §:n muuttamisesta](1613.md) `1613/2009`
+- [Laki ulosottokaaren 5 luvun 7 §:n muuttamisesta](1614.md) `1614/2009`
+- [Laki kiinnitysluottopankkilain 2 §:n muuttamisesta](1615.md) `1615/2009`
+- [Laki arvopaperimarkkinalain 5 luvun 4 ja 5 a §:n muuttamisesta](1616.md) `1616/2009`
+- [Laki puolustusvoimista annetun lain muuttamisesta](1617.md) `1617/2009`
+- [Laki Maanpuolustuskorkeakoulusta annetun lain 13 ja 34 §:n muuttamisesta](1618.md) `1618/2009`
+- [Tasavallan presidentin asetus toimivallan jaosta sotilaskäskyasioissa annetun tasavallan presidentin asetuksen muuttamisesta](1619.md) `1619/2009`
+- [Tasavallan presidentin asetus sotilas\- ja palvelusarvoista sekä puolustusvoimien tunnuskuvasta annetun tasavallan presidentin asetuksen 16 §:n muuttamisesta](1620.md) `1620/2009`
+- [Valtioneuvoston asetus maan jakamisesta sotilaslääneihin ja aluetoimistoihin annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1621.md) `1621/2009`
+- [Valtioneuvoston asetus puolustusvoimista annetun valtioneuvoston asetuksen muuttamisesta](1622.md) `1622/2009`
+- [Valtioneuvoston asetus turvatekniikan keskuksesta annetun asetuksen muuttamisesta](1623.md) `1623/2009`
+- [Valtioneuvoston asetus Kuluttajavirastosta annetun asetuksen muuttamisesta](1624.md) `1624/2009`
+- [Valtioneuvoston asetus pehmustettujen istuinhuonekalujen paloturvallisuusvaatimuksista annetun asetuksen muuttamisesta](1625.md) `1625/2009`
+- [Valtioneuvoston asetus patjojen paloturvallisuusvaatimuksista annetun asetuksen muuttamisesta](1626.md) `1626/2009`
+- [Valtioneuvoston asetus elintarvikkeita jäljittelevistä vaarallisista tuotteista annetun asetuksen 3 §:n kumoamisesta](1627.md) `1627/2009`
+- [Valtioneuvoston asetus dimetyylifumaraatti\-nimistä biosidia sisältävien kulutustavaroiden markkinoille saattamisen ja markkinoilla saataville asettamisen kieltämisestä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1628.md) `1628/2009`
+- [Valtioneuvoston asetus Kuluttajaviraston tehtävistä eräiden REACH\-asetuksen 67 artiklan mukaisten kulutustavaroiden koostumusta koskevien rajoitusten valvonnassa annetun valtioneuvoston asetuksen muuttamisesta](1629.md) `1629/2009`
+- [Oikeusministeriön asetus oikeusministeriön työjärjestyksestä annetun oikeusministeriön asetuksen muuttamisesta](1630.md) `1630/2009`
+- [Työ\- ja elinkeinoministeriön asetus Matkailun edistämiskeskuksen maksullisista suoritteista](1631.md) `1631/2009`
+- [Työ\- ja elinkeinoministeriön asetus kosmeettisista valmisteista annetun kauppa\- ja teollisuusministeriön asetuksen muuttamisesta](1632.md) `1632/2009`
+- [Laki palkkaturvalain muuttamisesta](1633.md) `1633/2009`
+- [Laki merimiesten palkkaturvalain muuttamisesta](1634.md) `1634/2009`
+- [Valtioneuvoston asetus julkisesta työvoimapalvelusta annetun valtioneuvoston asetuksen muuttamisesta](1635.md) `1635/2009`
+- [Valtioneuvoston asetus  julkiseen työvoimapalveluun kuuluvista etuuksista annetun valtioneuvoston asetuksen muuttamisesta](1636.md) `1636/2009`
+- [Valtioneuvoston asetus julkisen työvoimapalvelun toimeenpanosta annetun valtioneuvoston asetuksen muuttamisesta](1637.md) `1637/2009`
+- [Valtioneuvoston asetus eräiden työllisyysmäärärahojen käytöstä annetun valtioneuvoston asetuksen muuttamisesta](1638.md) `1638/2009`
+- [Laki tapaturmavakuutuslain muuttamisesta](1639.md) `1639/2009`
+- [Laki sairausvakuutuslain 8 ja 12 luvun muuttamisesta](1640.md) `1640/2009`
+- [Laki opintotukilain 6 §:n muuttamisesta](1641.md) `1641/2009`
+- [Valtioneuvoston asetus kuolemansyyn selvittämisestä annetun asetuksen muuttamisesta](1642.md) `1642/2009`
+- [Valtioneuvoston asetus Terveyden ja hyvinvoinnin laitoksesta annetun valtioneuvoston asetuksen muuttamisesta](1643.md) `1643/2009`
+- [Valtioneuvoston asetus Sosiaali\- ja terveysalan lupa\- ja valvontavirastosta annetun valtioneuvoston asetuksen muuttamisesta](1644.md) `1644/2009`
+- [Valtioneuvoston asetus oikeuslääkeopillisista tutkimuksista suoritettavista korvauksista annetun valtioneuvoston asetuksen 6 ja 9 §:n muuttamisesta](1645.md) `1645/2009`
+- [Valtioneuvoston asetus mielenterveysasetuksen muuttamisesta](1646.md) `1646/2009`
+- [Valtioneuvoston asetus yksityisestä terveydenhuollosta annetun asetuksen muuttamisesta](1647.md) `1647/2009`
+- [Valtioneuvoston asetus valtakunnallisesta vammaisneuvostosta](1648.md) `1648/2009`
+- [Sosiaali\- ja terveysministeriön asetus tapaturmavakuutuslaissa tarkoitetusta haittaluokituksesta](1649.md) `1649/2009`
+- [Sosiaali\- ja terveysministeriön asetus työterveyshuollon erikoislääkärikoulutuksen kustannuksiin valtion varoista vuonna 2010 suoritettavasta määrärahasta](1650.md) `1650/2009`
+- [Laki alueiden kehittämisestä](1651.md) `1651/2009`
+- [Laki eräiden työ\- ja elinkeinoministeriön hallinnonalan ohjelmien ja hankkeiden rahoittamisesta](1652.md) `1652/2009`
+- [Laki rakennerahastolain muuttamisesta](1653.md) `1653/2009`
+- [Laki ulkorajayhteistyön hallinnosta annetun lain muuttamisesta](1654.md) `1654/2009`
+- [Laki elinkeino\-, liikenne\- ja ympäristökeskuksista annetun lain 22 §:n muuttamisesta](1655.md) `1655/2009`
+- [Valtioneuvoston asetus rakennerahastoista annetun valtioneuvoston asetuksen muuttamisesta](1656.md) `1656/2009`
+- [Laki etsintä\- ja pelastuspalvelua merellä koskevan vuoden 1979 kansainvälisen yleissopimuksen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1657.md) `1657/2009`
+- [Tasavallan presidentin asetus etsintä\- ja pelastuspalvelua merellä koskevan vuoden 1979 kansainvälisen yleissopimuksen muutosten voimaansaattamisesta ja yleissopimuksen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1658.md) `1658/2009`
+- [Laki kansainvälisen COSPAS\-SARSAT\-ohjelman käyttäjävaltion liittymisilmoituksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1659.md) `1659/2009`
+- [Laki meripelastuslain muuttamisesta](1660.md) `1660/2009`
+- [Valtioneuvoston asetus meripelastuksesta annetun valtioneuvoston asetuksen muuttamisesta](1661.md) `1661/2009`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteen VII luvun vaarallisten aineiden kuljetusta kappaletavarana aluksessa koskevan säännöstön \(IMDG\-säännöstö\) muutosten voimaansaattamisesta ja säännöstön 1\.3 luvun lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1662.md) `1662/2009`
+- [Valtiovarainministeriön asetus vesivoimalaitoksen ja sen rakenteiden jälleenhankinta\-arvon perusteista](1663.md) `1663/2009`
+- [Laki rautatiejärjestelmän liikenneturvallisuustehtävistä](1664.md) `1664/2009`
+- [Opetusministeriön asetus yliopistojen maisteriohjelmista](1665.md) `1665/2009`
+- [Laki rautatielain muuttamisesta](1666.md) `1666/2009`
+- [Liikenne\- ja viestintäministeriön asetus maantielautoista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](1667.md) `1667/2009`
+- [Liikenne\- ja viestintäministeriön asetus luotettavasta todisteesta eräissä Suomen sisäisissä tavaran tiekuljetuksissa](1668.md) `1668/2009`
+- [Laki alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan uudistetun I liitteen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1669.md) `1669/2009`
+- [Laki alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan uudistetun II liitteen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1670.md) `1670/2009`
+- [Laki alusten haitallisten kiinnittymisenestojärjestelmien rajoittamisesta tehdyn kansainvälisen yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1671.md) `1671/2009`
+- [Merenkulun ympäristönsuojelulaki](1672.md) `1672/2009`
+- [Öljyvahinkojen torjuntalaki](1673.md) `1673/2009`
+- [Laki öljysuojarahastosta annetun lain muuttamisesta](1674.md) `1674/2009`
+- [Laki merensuojelulain 2 ja 13 §:n muuttamisesta](1675.md) `1675/2009`
+- [Laki ympäristönsuojelulain muuttamisesta](1676.md) `1676/2009`
+- [Laki Etelämantereen ympäristönsuojelusta annetun lain muuttamisesta](1677.md) `1677/2009`
+- [Laki jätelain 73 a §:n muuttamisesta](1678.md) `1678/2009`
+- [Laki alusturvallisuuden valvonnasta annetun lain 2 ja 3 §:n muuttamisesta](1679.md) `1679/2009`
+- [Laki rikoslain muuttamisesta](1680.md) `1680/2009`
+- [Laki tutkinnan toimittamisesta ja pakkokeinojen käyttämisestä ulkomaisessa kauppa\-aluksessa rikoksen johdosta eräissä tapauksissa annetun lain 1 §:n muuttamisesta](1681.md) `1681/2009`
+- [Laki Suomen talousvyöhykkeestä annetun lain 3 ja 21 §:n muuttamisesta](1682.md) `1682/2009`
+- [Laki pelastuslain 1 ja 69 §:n muuttamisesta](1683.md) `1683/2009`
+- [Laki puolustusvoimista annetun lain 11 §:n muuttamisesta](1684.md) `1684/2009`
+- [Valtiovarainministeriön asetus julkisen notaarin suoritteiden maksuista](1685.md) `1685/2009`
+- [Laki aluksen teknisestä turvallisuudesta ja turvallisesta käytöstä](1686.md) `1686/2009`
+- [Laki laivaväestä ja aluksen turvallisuusjohtamisesta](1687.md) `1687/2009`
+- [Laki merilain muuttamisesta](1688.md) `1688/2009`
+- [Laki laivaväen luetteloinnista annetun lain 6 §:n muuttamisesta](1689.md) `1689/2009`
+- [Laki ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain 2 §:n kumoamisesta](1690.md) `1690/2009`
+- [Laki aluksen lastiviivojen määräämisestä ja merkitsemisestä suoritettavasta maksusta annetun lain kumoamisesta](1691.md) `1691/2009`
+- [Laki kansainväliseen merenkulkijoiden koulutusta, pätevyyskirjoja ja vahdinpitoa koskevaan vuoden 1978 yleissopimukseen tehtyjen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja niiden soveltamisesta annetun lain 2 §:n kumoamisesta](1692.md) `1692/2009`
+- [Valtioneuvoston asetus rahapeliluvan maksullisuudesta ja maksujen suuruudesta](1693.md) `1693/2009`
+- [Laki joukkoliikennelain muuttamisesta](1694.md) `1694/2009`
+- [Valtioneuvoston asetus eräiden työ\- ja elinkeinoministeriön hallinnonalan ohjelmien ja hankkeiden rahoittamisesta](1695.md) `1695/2009`
+- [Liikenne\- ja viestintäministeriön asetus Liikenteen turvallisuusviraston maksullisista suoritteista](1696.md) `1696/2009`
+- [Verohallinnon päätös ennakonpidätysvelvollisuudesta vapauttamisesta](1697.md) `1697/2009`
+- [Kuntajakolaki](1698.md) `1698/2009`
+- [Valtioneuvoston asetus julkisen hallinnon tietohallinnon neuvottelukunnasta annetun valtioneuvoston asetuksen muuttamisesta](1699.md) `1699/2009`
+- [Valtioneuvoston asetus rekisterihallintoasetuksen muuttamisesta](1700.md) `1700/2009`
+- [Valtiovarainministeriön asetus rakennusten jälleenhankinta\-arvon perusteista](1701.md) `1701/2009`
+- [Verohallinnon päätös rakennusmaan verotusarvon laskentaperusteista](1702.md) `1702/2009`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskorosta](1703.md) `1703/2009`
+- [Laki kunnan peruspalvelujen valtionosuudesta](1704.md) `1704/2009`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta](1705.md) `1705/2009`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain muuttamisesta](1706.md) `1706/2009`
+- [Laki perusopetuslain 5 ja 43 §:n muuttamisesta](1707.md) `1707/2009`
+- [Laki taiteen perusopetuksesta annetun lain 11 §:n muuttamisesta](1708.md) `1708/2009`
+- [Laki kirjastolain 9 §:n muuttamisesta](1709.md) `1709/2009`
+- [Laki kuntien kulttuuritoiminnasta annetun lain 3 §:n muuttamisesta](1710.md) `1710/2009`
+- [Laki lasten päivähoidosta annetun lain 12 §:n muuttamisesta](1711.md) `1711/2009`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta annetun lain 12 §:n muuttamisesta](1712.md) `1712/2009`
+- [Laki kansanterveyslain 19 §:n muuttamisesta](1713.md) `1713/2009`
+- [Laki erikoissairaanhoitolain 4 §:n muuttamisesta](1714.md) `1714/2009`
+- [Laki sosiaalihuoltolain 2 §:n muuttamisesta](1715.md) `1715/2009`
+- [Laki toimeentulotuesta annetun lain 5 §:n muuttamisesta](1716.md) `1716/2009`
+- [Laki kehitysvammaisten erityishuollosta annetun lain 48 §:n muuttamisesta](1717.md) `1717/2009`
+- [Laki vammaisuuden perusteella järjestettävistä palveluista ja tukitoimista annetun lain 5 §:n muuttamisesta](1718.md) `1718/2009`
+- [Laki kuntouttavasta työtoiminnasta annetun lain 25 §:n muuttamisesta](1719.md) `1719/2009`
+- [Laki mielenterveyslain 3 §:n muuttamisesta](1720.md) `1720/2009`
+- [Laki päihdehuoltolain 4 §:n muuttamisesta](1721.md) `1721/2009`
+- [Laki tartuntatautilain 8 §:n muuttamisesta](1722.md) `1722/2009`
+- [Laki terveydensuojelulain 58 §:n muuttamisesta](1723.md) `1723/2009`
+- [Laki elintarvikelain 85 §:n muuttamisesta](1724.md) `1724/2009`
+- [Laki kuntien ympäristönsuojelun hallinnosta annetun lain 8 §:n muuttamisesta](1725.md) `1725/2009`
+- [Laki kemikaalilain 61 §:n muuttamisesta](1726.md) `1726/2009`
+- [Laki lääkelain 62 §:n muuttamisesta](1727.md) `1727/2009`
+- [Laki kulutustavaroiden ja kuluttajapalvelusten turvallisuudesta annetun lain 37 §:n muuttamisesta](1728.md) `1728/2009`
+- [Laki sosiaalisesta luototuksesta annetun lain 3 §:n muuttamisesta](1729.md) `1729/2009`
+- [Laki raittiustyölain 7 §:n muuttamisesta](1730.md) `1730/2009`
+- [Laki toimenpiteistä tupakoinnin vähentämiseksi annetun lain 14 a §:n muuttamisesta](1731.md) `1731/2009`
+- [Valtioneuvoston asetus kunnan peruspalvelujen valtionosuudesta](1732.md) `1732/2009`
+- [Valtioneuvoston asetus palosuojelurahastosta annetun valtioneuvoston asetuksen 2 ja 3 §:n muuttamisesta](1733.md) `1733/2009`

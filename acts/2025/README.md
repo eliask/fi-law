@@ -1,0 +1,1512 @@
+# 2025 Statutes
+
+## Statutes
+
+- [Sosiaali\- ja terveysministeriön asetus työterveyshuollon erikoislääkärikoulutuksen kustannuksiin valtion varoista vuonna 2025 myönnettävästä avustuksesta](1.md) `1/2025`
+- [Valtioneuvoston asetus teollisuuden tuotantoprosessien vähähiilistämisen ja energiatehokkuuden edistämiseen sekä ilmastoneutraaliin talouteen siirtymisen edistämiseen myönnettävästä avustuksesta](2.md) `2/2025`
+- [Verohallinnon päätös yksityisten apteekkien liikevaihdon keskiarvosta vuonna 2023](3.md) `3/2025`
+- [Maa\- ja metsätalousministeriön asetus ohran, vehnän, härkäpavun, puna\-apilan, alsikeapilan ja rypsin siemenen sertifiointia koskevasta väliaikaisesta poikkeuksesta](4.md) `4/2025`
+- [Valtioneuvoston asetus maatalouden rakennetuesta annetun valtioneuvoston asetuksen muuttamisesta](5.md) `5/2025`
+- [Valtioneuvoston asetus fosforia sisältävien lannoitevalmisteiden ja lannan käytöstä annetun valtioneuvoston asetuksen 13 §:n muuttamisesta](6.md) `6/2025`
+- [Valtioneuvoston asetus ennakkoäänestyspaikoista ulkomailla ja Ahvenanmaan maakunnassa vuoden 2025 alue\- ja kuntavaaleissa](7.md) `7/2025`
+- [Valtioneuvoston asetus raja\-alueen poliisiyhteistyöstä Ruotsin kanssa tehdystä sopimuksesta](8.md) `8/2025`
+- [Valtioneuvoston asetus ampuma\-aselain 17 §:n muuttamisesta annetun lain voimaantulosta](9.md) `9/2025`
+- [Laki kolmansien maiden kansalaisten maahantulon ja oleskelun edellytyksistä kausityöntekijöinä työskentelyä varten annetun lain 1 ja 24 §:n muuttamisesta](10.md) `10/2025`
+- [Laki Teollisuustuki Oy \-nimisestä valtion kokonaan omistamasta osakeyhtiöstä](11.md) `11/2025`
+- [Laki Suomen Teollisuussijoitus Oy \-nimisestä valtionyhtiöstä annetun lain muuttamisesta](12.md) `12/2025`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain 35 §:n muuttamisesta](13.md) `13/2025`
+- [Laki perusopetuslain muuttamisesta](14.md) `14/2025`
+- [Laki ympäristönsuojelu\- ja vesiasioiden käsittelystä aluehallintovirastossa annetun lain muuttamisesta](15.md) `15/2025`
+- [Laki Ecuadorin kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain kumoamisesta](16.md) `16/2025`
+- [Valtioneuvoston asetus oikeusavun palkkioperusteista annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](17.md) `17/2025`
+- [Valtioneuvoston asetus valtion mielisairaaloista annetun asetuksen 3 §:n muuttamisesta](18.md) `18/2025`
+- [Valtioneuvoston asetus vuodelta 2025 maksettavasta Etelä\-Suomen kansallisesta tuesta](19.md) `19/2025`
+- [Valtioneuvoston asetus vuodelta 2025 maksettavasta pohjoisesta tuesta](20.md) `20/2025`
+- [Valtioneuvoston asetus sokerijuurikkaan viljelijöille vuodelta 2025 maksettavasta kansallisesta tuesta](21.md) `21/2025`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](22.md) `22/2025`
+- [Valtioneuvoston asetus kansallisten kasvintuotannon tukien ja kotieläintukien valvonnasta annetun valtioneuvoston asetuksen 16 §:n muuttamisesta](23.md) `23/2025`
+- [Maa\- ja metsätalousministeriön asetus kasvihuonetuotannon tuesta vuonna 2025](24.md) `24/2025`
+- [Valtioneuvoston asetus hyvinvointialueneuvottelukunnasta](25.md) `25/2025`
+- [Verohallinnon päätös kaivosmineraalien verotusarvoista](26.md) `26/2025`
+- [Valtioneuvoston asetus yliopistojen tutkinnoista ja erikoistumiskoulutuksista annetun valtioneuvoston asetuksen liitteen muuttamisesta](27.md) `27/2025`
+- [Valtioneuvoston asetus vuodelta 2025 maksettavista maatalouden tuotannosta irrotetuista suorista tuista](28.md) `28/2025`
+- [Valtioneuvoston asetus ympäristöministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](29.md) `29/2025`
+- [Opetus\- ja kulttuuriministeriön asetus yliopistojen koulutusvastuun täsmentämisestä annetun opetus\- ja kulttuuriministeriön asetuksen liitteen muuttamisesta](30.md) `30/2025`
+- [Valtioneuvoston asetus valtion talousarviosta annetun asetuksen muuttamisesta](31.md) `31/2025`
+- [Valtioneuvoston asetus alusten painolastivesien ja sedimenttien valvontaa ja käsittelyä koskevan vuoden 2004 kansainvälisen yleissopimuksen II lisäykseen tehtyjen muutosten voimaansaattamisesta](32.md) `32/2025`
+- [Valtioneuvoston asetus tieliikennettä koskevaan yleissopimukseen tehdyistä muutoksista](33.md) `33/2025`
+- [Sosiaali\- ja terveysministeriön asetus valtakunnallisen lääketieteellisen tutkimuseettisen toimikunnan lausunnoista perittävistä maksuista](34.md) `34/2025`
+- [Ympäristöministeriön asetus Asumisen rahoitus\- ja kehittämiskeskuksen maksullisista suoritteista](35.md) `35/2025`
+- [Ympäristöministeriön asetus ympäristöministeriön maksullisista suoritteista](36.md) `36/2025`
+- [Valtioneuvoston asetus luonnonmukaisen tuotannon korvauksesta annetun valtioneuvoston asetuksen muuttamisesta](37.md) `37/2025`
+- [Valtioneuvoston asetus vuodelta 2024 maksettavasta tuotantosidonnaisesta tulotuesta annetun valtioneuvoston asetuksen 9 §:n muuttamisesta](38.md) `38/2025`
+- [Valtioneuvoston asetus ympäristökorvauksesta annetun valtioneuvoston asetuksen muuttamisesta](39.md) `39/2025`
+- [Valtioneuvoston asetus tutkimus\- ja kehitystiedon vaihdosta Amerikan Yhdysvaltojen kanssa tehtyyn sopimukseen tehdystä muutoksesta 2](40.md) `40/2025`
+- [Maa\- ja metsätalousministeriön asetus elintarviketietojen antamisesta kuluttajille annetun maa\- ja metsätalousministeriön asetuksen voimaantulosäännöksen muuttamisesta](41.md) `41/2025`
+- [Valtioneuvoston asetus teollisuuden tuotantoprosessien vähähiilistämisen ja energiatehokkuuden edistämiseen sekä ilmastoneutraaliin talouteen siirtymisen edistämiseen myönnettävästä avustuksesta annetun valtioneuvoston asetuksen liitteen muuttamisesta](42.md) `42/2025`
+- [Verohallinnon päätös valmisteverotuksessa annettavista tuensaajakohtaisista tiedoista](43.md) `43/2025`
+- [Työ\- ja elinkeinoministeriön asetus ydinenergian käytön valvontaan kuuluvista työ\- ja elinkeinoministeriön maksullisista suoritteista](44.md) `44/2025`
+- [Työ\- ja elinkeinoministeriön asetus ydinlaitosten ympäristövaikutusten arviointimenettelyyn kuuluvista työ\- ja elinkeinoministeriön maksullisista suoritteista](45.md) `45/2025`
+- [Valtioneuvoston asetus ympäristökorvauksen, luonnonhaittakorvauksen, luonnonmukaisen tuotannon korvauksen ja ei\-tuotannollisia investointeja koskevan korvauksen hakemisesta vuonna 2025](46.md) `46/2025`
+- [Valtioneuvoston asetus maatalouden ja matkailun alaan kuuluvista kausiluonteista toimintaa sisältävistä toimialoista annetun valtioneuvoston asetuksen muuttamisesta](47.md) `47/2025`
+- [Työ\- ja elinkeinoministeriön asetus työ\- ja elinkeinoministeriön työjärjestyksestä](48.md) `48/2025`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisten tukien hallinnosta vuonna 2025](49.md) `49/2025`
+- [Valtioneuvoston asetus maataloustukihakemuksen siirtämisessä vuonna 2025 noudatettavasta menettelystä](50.md) `50/2025`
+- [Valtioneuvoston asetus vuodelta 2024 maksettavasta sokerijuurikkaan kuljetustuesta](51.md) `51/2025`
+- [Valtioneuvoston asetus sisäasioiden rahastoista ohjelmakaudella 2021–2027 annetun valtioneuvoston asetuksen muuttamisesta](52.md) `52/2025`
+- [Valtioneuvoston asetus Ahvenanmaan maakunnan kunnille maatalouden tukien toimeenpanotehtävien hoitamisesta vuodelta 2024 suoritettavista korvauksista](53.md) `53/2025`
+- [Sisäministeriön asetus pysäköintivirhemaksusta](54.md) `54/2025`
+- [Sosiaali\- ja terveysministeriön asetus haitallisiksi tunnetuista pitoisuuksista](55.md) `55/2025`
+- [Valtioneuvoston asetus ennakkoäänestyspaikoista ulkomailla ja Ahvenanmaan maakunnassa vuoden 2025 alue\- ja kuntavaaleissa annetun valtioneuvoston asetuksen liitteen muuttamisesta](56.md) `56/2025`
+- [Valtioneuvoston asetus Euroopan unionin rahoittamien eläintukien toimeenpanosta annetun valtioneuvoston asetuksen muuttamisesta](57.md) `57/2025`
+- [Valtiovarainministeriön asetus Suomen veteraanit \-juhlarahasta](58.md) `58/2025`
+- [Ympäristöministeriön asetus ympäristöministeriön työjärjestyksestä](59.md) `59/2025`
+- [Eduskunnan päätös Kansaneläkelaitoksen valtuutettujen johtosäännön muuttamisesta](60.md) `60/2025`
+- [Laki leipomotyölain 5 §:n kumoamisesta](61.md) `61/2025`
+- [Laki työntekijöiden lähettämisestä annetun lain 4 ja 6 §:n muuttamisesta](62.md) `62/2025`
+- [Ympäristöministeriön asetus ympäristöministeriön maksullisista suoritteista](63.md) `63/2025`
+- [Laki ulkomaalaislain muuttamisesta](64.md) `64/2025`
+- [Laki ulkomaalaislain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](65.md) `65/2025`
+- [Valtioneuvoston asetus Kroatian tasavallan osallistumisesta Euroopan talousalueeseen tehdystä sopimuksesta](66.md) `66/2025`
+- [Valtioneuvoston asetus vuodelta 2024 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 9 §:n muuttamisesta](67.md) `67/2025`
+- [Valtioneuvoston asetus diplomaattisten tai konsuliedustustojen tai kansainvälisissä hallitustenvälisissä järjestöissä toimivien edustustojen työntekijöiden perheenjäsenten ansiotyöstä Ukrainan kanssa tehdystä sopimuksesta](68.md) `68/2025`
+- [Opetus\- ja kulttuuriministeriön asetus opetus\- ja kulttuuriministeriön työjärjestyksestä annetun opetus\- ja kulttuuriministeriön asetuksen muuttamisesta](69.md) `69/2025`
+- [Sisäministeriön asetus pysäköintivirhemaksusta](70.md) `70/2025`
+- [Valtiovarainministeriön asetus luottolaitoksen valmiussuunnittelun perusteista](71.md) `71/2025`
+- [Valtioneuvoston asetus Patentti\- ja rekisterihallituksesta annetun valtioneuvoston asetuksen muuttamisesta](72.md) `72/2025`
+- [Oikeusministeriön asetus rikosseuraamuskeskuksen yksiköistä ja vankiloiden kaksikielisistä osastoista annetun oikeusministeriön asetuksen 7 §:n muuttamisesta](73.md) `73/2025`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](74.md) `74/2025`
+- [Ympäristöministeriön asetus ympäristöministeriön työjärjestyksestä annetun ympäristöministeriön asetuksen kumoamisesta](75.md) `75/2025`
+- [Puolustusministeriön asetus sotilasajoneuvoista](76.md) `76/2025`
+- [Valtiovarainministeriön asetus Suomen valtiovierailut \- diplomatiaa ja ulkopolitiikkaa \-juhlarahasta](77.md) `77/2025`
+- [Eduskunnan päätös eduskunnan kanslian ohjesäännön 12 §:n muuttamisesta](78.md) `78/2025`
+- [Laki uusiutuvilla energialähteillä tuotetun sähkön tuotantotuesta annetun lain muuttamisesta](79.md) `79/2025`
+- [Valtioneuvoston asetus vuodelta 2024 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 7 §:n ja liitteen muuttamisesta](80.md) `80/2025`
+- [Laki maksupalvelulain muuttamisesta](81.md) `81/2025`
+- [Laki maksulaitoslain muuttamisesta](82.md) `82/2025`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](83.md) `83/2025`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä annetun lain 1 luvun 2 §:n muuttamisesta](84.md) `84/2025`
+- [Laki aluevalvontalain muuttamisesta](85.md) `85/2025`
+- [Laki sotilasajoneuvolain 1 ja 2 §:n muuttamisesta](86.md) `86/2025`
+- [Laki puolustustarvikkeiden viennistä annetun lain 2 §:n muuttamisesta](87.md) `87/2025`
+- [Laki ampuma\-aselain 17 §:n muuttamisesta](88.md) `88/2025`
+- [Laki  sotilaskurinpidosta ja rikostorjunnasta Puolustusvoimissa](89.md) `89/2025`
+- [Laki puolustusvoimista annetun lain 7 ja 23 a §:n muuttamisesta](90.md) `90/2025`
+- [Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain muuttamisesta](91.md) `91/2025`
+- [Laki rajavartiolaitoksen hallinnosta annetun lain 31 §:n muuttamisesta](92.md) `92/2025`
+- [Laki esitutkintalain 10 luvun 2 §:n muuttamisesta](93.md) `93/2025`
+- [Laki sotilasoikeudenkäyntilain 14 §:n muuttamisesta](94.md) `94/2025`
+- [Laki tieliikennelain 184 §:n muuttamisesta](95.md) `95/2025`
+- [Laki tiedustelutoiminnan valvonnasta annetun lain 2 §:n muuttamisesta](96.md) `96/2025`
+- [Laki henkilötietojen käsittelystä Rajavartiolaitoksessa annetun lain 46 §:n muuttamisesta](97.md) `97/2025`
+- [Laki henkilötietojen käsittelystä Rikosseuraamuslaitoksessa annetun lain 3 §:n muuttamisesta](98.md) `98/2025`
+- [Laki oikeudenkäynnin julkisuudesta yleisissä tuomioistuimissa annetun lain muuttamisesta](99.md) `99/2025`
+- [Työ\- ja elinkeinoministeriön asetus työ\- ja elinkeinoministeriön maksullisista suoritteista](100.md) `100/2025`
+- [Valtioneuvoston asetus uusiutuvilla energialähteillä tuotetun sähkön tuotantotuesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](101.md) `101/2025`
+- [Valtioneuvoston asetus hyvinvointialueiden yhteistyösopimuksen sisällöstä ja valmistelusta annetun valtioneuvoston asetuksen muuttamisesta](102.md) `102/2025`
+- [Valtioneuvoston asetus laivaväen asuinympäristöstä aluksella](103.md) `103/2025`
+- [Valtioneuvoston asetus asuinympäristöstä ja ruokahuollosta kalastusaluksella annetun valtioneuvoston asetuksen muuttamisesta](104.md) `104/2025`
+- [Vuoden 2025 lisätalousarvio](105.md) `105/2025`
+- [Sosiaali\- ja terveysministeriön asetus Terveyden ja hyvinvoinnin laitoksen maksullisista suoritteista](106.md) `106/2025`
+- [Valtiovarainministeriön asetus Suomen veteraanit \-juhlarahasta annetun valtiovarainministeriön asetuksen muuttamisesta](107.md) `107/2025`
+- [Maa\- ja metsätalousministeriön asetus siemenperunan kaupasta annetun maa\- ja metsätalousministeriön asetuksen väliaikaisesta muuttamisesta](108.md) `108/2025`
+- [Maa\- ja metsätalousministeriön asetus kasvilajikeluettelosta annetun maa\- ja metsätalousministeriön asetuksen liitteen 2 ja 3 muuttamisesta](109.md) `109/2025`
+- [Työ\- ja elinkeinoministeriön asetus Patentti\- ja rekisterihallituksen maksullisista suoritteista vuonna 2025 annetun työ\- ja elinkeinoministeriön asetuksen liitteen muuttamisesta](110.md) `110/2025`
+- [Valtioneuvoston asetus vuodelta 2025 maksettavasta mehiläistalouden kansallisesta pesäkohtaisesta tuesta](111.md) `111/2025`
+- [Laki eduskunnan virkamiehistä annetun lain muuttamisesta](112.md) `112/2025`
+- [Laki terveydenhuoltolain 22 §:n muuttamisesta](113.md) `113/2025`
+- [Laki ympäristönsuojelu\- ja vesiasioiden käsittelystä aluehallintovirastossa annetun lain muuttamisesta](114.md) `114/2025`
+- [Valtioneuvoston asetus työ\- ja elinkeinoministeriöstä annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](115.md) `115/2025`
+- [Valtioneuvoston asetus Suomen, Norjan, Venäjän ja Ruotsin välillä kansainvälisen Barents\-sihteeristön perustamisesta Barentsin euroarktisen alueen yhteistyötä varten tehdyn sopimuksen voimaansaattamisesta annetun tasavallan presidentin asetuksen kumoamisesta](116.md) `116/2025`
+- [Ulkoministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoministeriön asetuksen muuttamisesta](117.md) `117/2025`
+- [Maa\- ja metsätalousministeriön asetus öljy\- ja kuitukasvien siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen liitteen 3 muuttamisesta](118.md) `118/2025`
+- [Maa\- ja metsätalousministeriön asetus vihanneskasvien siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen liitteen 2 muuttamisesta](119.md) `119/2025`
+- [Maa\- ja metsätalousministeriön asetus vihanneskasvien taimiaineiston tuottamisesta, markkinoinnista ja maahantuonnista annetun asetuksen liitteen 3 taulukon muuttamisesta](120.md) `120/2025`
+- [Valtioneuvoston asetus kalastuksesta Tenojoen vesistössä Norjan kanssa tehdyn sopimuksen 6 ja 7 artiklassa tarkoitetusta pöytäkirjasta](121.md) `121/2025`
+- [Valtioneuvoston asetus ylioppilastutkinnosta annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](122.md) `122/2025`
+- [Opetus\- ja kulttuuriministeriön asetus opiskelijaksi ottamisen perusteista lukiokoulutuksessa annetun opetus\- ja kulttuuriministeriön asetuksen 6 ja 10 §:n muuttamisesta](123.md) `123/2025`
+- [Kyberturvallisuuslaki](124.md) `124/2025`
+- [Laki julkisen hallinnon tiedonhallinnasta annetun lain muuttamisesta](125.md) `125/2025`
+- [Laki  sähköisen viestinnän palveluista annetun lain muuttamisesta](126.md) `126/2025`
+- [Laki  ilmailulain 128 a ja 128 b §:n kumoamisesta](127.md) `127/2025`
+- [Laki raideliikennelain 169 §:n kumoamisesta](128.md) `128/2025`
+- [Laki  liikenteen palveluista annetun lain muuttamisesta](129.md) `129/2025`
+- [Laki  alusliikennepalvelulain 18 a §:n kumoamisesta](130.md) `130/2025`
+- [Laki eräiden alusten ja niitä palvelevien satamien turvatoimista ja turvatoimien valvonnasta annetun lain 7 e ja 7 f §:n kumoamisesta\.](131.md) `131/2025`
+- [Laki  sosiaali\- ja terveydenhuollon asiakastietojen käsittelystä annetun lain 2 ja 90 §:n muuttamisesta](132.md) `132/2025`
+- [Laki  sähkömarkkinalain muuttamisesta](133.md) `133/2025`
+- [Laki  maakaasumarkkinalain 34 a §:n kumoamisesta](134.md) `134/2025`
+- [Laki  Energiavirastosta annetun lain 1 §:n muuttamisesta](135.md) `135/2025`
+- [Laki  sähkö\- ja maakaasumarkkinoiden valvonnasta annetun lain muuttamisesta](136.md) `136/2025`
+- [Laki  vesihuoltolain 35 §:n muuttamisesta](137.md) `137/2025`
+- [Laki  sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](138.md) `138/2025`
+- [Laki  maa\-asemista ja eräistä tutkista annetun lain 8 §:n muuttamisesta](139.md) `139/2025`
+- [Laki  vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetun lain muuttamisesta](140.md) `140/2025`
+- [Laki Museovirastosta annetun lain muuttamisesta](141.md) `141/2025`
+- [Laki oikeudenkäymiskaaren muuttamisesta](142.md) `142/2025`
+- [Laki tuomioistuinmaksulain 5 §:n muuttamisesta](143.md) `143/2025`
+- [Laki ympäristönsuojelulain muuttamisesta](144.md) `144/2025`
+- [Laki jätelain 118 §:n muuttamisesta](145.md) `145/2025`
+- [Laki ympäristövahinkorahastosta annetun lain liitteen 1 kohdan D muuttamisesta](146.md) `146/2025`
+- [Laki ulkomaalaislain muuttamisesta](147.md) `147/2025`
+- [Laki eräiden suurten ilmastoneutraaliin talouteen tähtäävien investointien verohyvityksestä](148.md) `148/2025`
+- [Laki Innovaatiorahoituskeskus Business Finlandista ja Business Finland \-nimisestä osakeyhtiöstä annetun lain 3 §:n muuttamisesta](149.md) `149/2025`
+- [Laki liikenteen palveluista annetuin lain muuttamisesta](150.md) `150/2025`
+- [Valtioneuvoston asetus aluevalvonnasta annetun valtioneuvoston asetuksen muuttamisesta](151.md) `151/2025`
+- [Valtioneuvoston asetus kuluttajamarkkinoilta kielletyistä psykoaktiivisista aineista annetun valtioneuvoston asetuksen liitteen muuttamisesta](152.md) `152/2025`
+- [Valtioneuvoston asetus huumausaineina pidettävistä aineista, valmisteista ja kasveista annetun valtioneuvoston asetuksen liitteiden II ja IV muuttamisesta](153.md) `153/2025`
+- [Valtioneuvoston asetus jätteen polttamisesta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](154.md) `154/2025`
+- [Valtioneuvoston asetus jätteistä annetun valtioneuvoston asetuksen 36 §:n muuttamisesta](155.md) `155/2025`
+- [Valtioneuvoston asetus ympäristönsuojelusta annetun valtioneuvoston asetuksen 2 ja 17 a §:n muuttamisesta](156.md) `156/2025`
+- [Valtioneuvoston asetus tiedon saannista, yleisön osallistumisoikeudesta sekä muutoksenhaku\- ja vireillepano\-oikeudesta ympäristöasioissa tehdyn yleissopimuksen muutoksesta](157.md) `157/2025`
+- [Valtioneuvoston asetus opetus\- ja kulttuuritoimen rahoituksesta annetun valtioneuvoston asetuksen muuttamisesta](158.md) `158/2025`
+- [Valtioneuvoston asetus opetustoimen henkilöstön kelpoisuusvaatimuksista annetun asetuksen 8 §:n muuttamisesta](159.md) `159/2025`
+- [Valtioneuvoston asetus rintamaveteraaniasiain neuvottelukunnasta annetun valtioneuvoston päätöksen kumoamisesta](160.md) `160/2025`
+- [Laki luotonostajista ja luotonhallinnoijista](161.md) `161/2025`
+- [Laki luottolaitostoiminnasta annetun lain 15 luvun muuttamisesta](162.md) `162/2025`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](163.md) `163/2025`
+- [Laki Finanssivalvonnan valvontamaksuista annetun lain 1 ja 10 §:n muuttamisesta](164.md) `164/2025`
+- [Laki kuluttajansuojalain 7 ja 7 a luvun muuttamisesta](165.md) `165/2025`
+- [Laki perintätoiminnan harjoittajien rekisteröinnistä annetun lain 2 §:n muuttamisesta](166.md) `166/2025`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä annetun lain 1 luvun 2 §:n muuttamisesta](167.md) `167/2025`
+- [Laki positiivisesta luottotietorekisteristä annetun lain 16 §:n muuttamisesta](168.md) `168/2025`
+- [Laki arvopaperimarkkinalain 7 luvun 5 §:n muuttamisesta](169.md) `169/2025`
+- [Laki  Kokonaisvaltaista kumppanuutta ja yhteistyötä koskevasta Euroopan unionin ja sen jäsenvaltioiden sekä Thaimaan kuningaskunnan välisestä puitesopimuksesta](170.md) `170/2025`
+- [Laki ajoneuvolain muuttamisesta](171.md) `171/2025`
+- [Laki rikosrekisterilain muuttamisesta](172.md) `172/2025`
+- [Laki ajoneuvojen katsastustoiminnasta annetun lain 48 ja 49 §:n muuttamisesta](173.md) `173/2025`
+- [Laki ajoneuvojen yksittäishyväksynnän järjestämisestä annetun lain 28 §:n muuttamisesta](174.md) `174/2025`
+- [Laki liikenteen palveluista annetun lain muuttamisesta](175.md) `175/2025`
+- [Verohallinnon työjärjestys](176.md) `176/2025`
+- [Laki rajavartiolain muuttamisesta](177.md) `177/2025`
+- [Laki rikoslain 6 ja 17 luvun muuttamisesta](178.md) `178/2025`
+- [Laki rikoslain 1 luvun 11 §:n ja 46 luvun muuttamisesta](179.md) `179/2025`
+- [Laki pakkokeinolain 10 luvun 3 §:n muuttamisesta](180.md) `180/2025`
+- [Laki Euroopan unionin ja kansallisen oikeuden rikkomisesta ilmoittavien henkilöiden suojelusta annetun lain 2 §:n muuttamisesta](181.md) `181/2025`
+- [Laki eräiden Suomelle Yhdistyneiden Kansakuntien ja Euroopan unionin jäsenenä kuuluvien velvoitusten täyttämisestä annetun lain 4 §:n muuttamisesta](182.md) `182/2025`
+- [Laki Ystävyyden puistosta annetun lain muuttamisesta](183.md) `183/2025`
+- [Laki kuluttajatuotteiden turvallisuudesta](184.md) `184/2025`
+- [Laki kulutuspalvelujen turvallisuudesta](185.md) `185/2025`
+- [Laki eräiden tuotteiden markkinavalvonnasta annetun lain muuttamisesta](186.md) `186/2025`
+- [Laki terveydensuojelulain 3 §:n muuttamisesta](187.md) `187/2025`
+- [Laki ympäristönsuojelulain 19 ja 24 §:n muuttamisesta](188.md) `188/2025`
+- [Laki kuluttajansuojalain 5 luvun 16 a §:n ja 9 luvun 16 §:n muuttamisesta](189.md) `189/2025`
+- [Laki kosmeettisista valmisteista annetun lain 2 §:n muuttamisesta](190.md) `190/2025`
+- [Laki tupakkalain 74 §:n muuttamisesta](191.md) `191/2025`
+- [Laki metsästyslain 34 a §:n muuttamisesta](192.md) `192/2025`
+- [Laki kemikaalilain 5 §:n muuttamisesta](193.md) `193/2025`
+- [Laki hissiturvallisuuslain 5 §:n muuttamisesta](194.md) `194/2025`
+- [Laki rikoslain 44 luvun 1 §:n muuttamisesta](195.md) `195/2025`
+- [Laki eräistä paloturvallisuuslaitteista annetun lain 2 §:n muuttamisesta](196.md) `196/2025`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](197.md) `197/2025`
+- [Laki vaaratiedotteesta annetun lain 3 §:n muuttamisesta](198.md) `198/2025`
+- [Laki tulotietojärjestelmästä annetun lain muuttamisesta](199.md) `199/2025`
+- [Laki positiivisesta luottotietorekisteristä annetun lain 22 ja 25 §:n muuttamisesta](200.md) `200/2025`
+- [Laki sähkömarkkinalain muuttamisesta](201.md) `201/2025`
+- [Laki sähköntoimitussopimusten vertailuvälineestä annetun lain muuttamisesta](202.md) `202/2025`
+- [Laki sairausvakuutuslain muuttamisesta](203.md) `203/2025`
+- [Laki sairausvakuutuslain 3 luvun 3 §:n muuttamisesta](204.md) `204/2025`
+- [Laki sosiaali\- ja terveydenhuollon asiakastietojen käsittelystä annetun lain 54 §:n muuttamisesta](205.md) `205/2025`
+- [Laki sosiaali\- ja terveydenhuollon sekä pelastustoimen järjestämisestä Uudellamaalla annetun lain 25 §:n 4 momentin kumoamisesta](206.md) `206/2025`
+- [Tasavallan presidentin asetus Suomen ulkomaanedustustojen sijaintipaikoista ja konsulipalveluiden järjestämisestä ulkoasiainhallinnossa annetun tasavallan presidentin asetuksen 4 §:n ja liitteen muuttamisesta](207.md) `207/2025`
+- [Maa\- ja metsätalousministeriön asetus eräisiin Euroopan unionin jäsenvaltioiden välisiin eläinten siirtoihin sovellettavista eläinterveyttä koskevista vaatimuksista ja poikkeuksista annetun maa\- ja metsätalousministeriön asetuksen 6 ja 7 §:n muuttamisesta](208.md) `208/2025`
+- [Valtioneuvoston asetus sairausvakuutuslain 3 luvun 4 ja 5 §:ssä tarkoitettujen korvaustaksojen perusteista annetun valtioneuvoston asetuksen muuttamisesta](209.md) `209/2025`
+- [Valtioneuvoston asetus Maailman postiliiton yleisohjesäännön neljännestä lisäpöytäkirjasta](210.md) `210/2025`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](211.md) `211/2025`
+- [Laki Suomen Akatemiasta annetun lain muuttamisesta](212.md) `212/2025`
+- [Laki työeläkevakuutusyhtiöistä annetun lain muuttamisesta](213.md) `213/2025`
+- [Laki Eläketurvakeskuksesta annetun lain muuttamisesta](214.md) `214/2025`
+- [Laki työsuojelun yhteistoimintahenkilöiden rekisteröinnistä](215.md) `215/2025`
+- [Laki työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetun lain 47 §:n muuttamisesta](216.md) `216/2025`
+- [Laki panostajalain muuttamisesta](217.md) `217/2025`
+- [Tasavallan presidentin asetus Euroopan meri\-, kalatalous\- ja vesiviljelyrahaston kansallisen ohjelman hallintotehtävien hoidosta Ahvenanmaalla](218.md) `218/2025`
+- [Laki merten biologisen monimuotoisuuden suojelusta ja kestävästä käytöstä kansallisen lainkäyttövallan ulkopuolisilla alueilla tehdystä Yhdistyneiden Kansakuntien merioikeusyleissopimuksen alaisesta sopimuksesta](219.md) `219/2025`
+- [Laki merensuojelulain muuttamisesta](220.md) `220/2025`
+- [Valtioneuvoston asetus ympäristökorvauksesta annetun valtioneuvoston asetuksen muuttamisesta](221.md) `221/2025`
+- [Valtiovarainministeriön asetus verovuodelta 2024 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista ja työnantajasuoritusten vähimmäismääristä annetun valtiovarainministeriön asetuksen 2 §:n muuttamisesta](222.md) `222/2025`
+- [Valtiovarainministeriön asetus verovuodelta 2025 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista ja työnantajasuoritusten vähimmäismääristä annetun valtiovarainministeriön asetuksen 2 §:n muuttamisesta](223.md) `223/2025`
+- [Maa\- ja metsätalousministeriön asetus hunajasta](224.md) `224/2025`
+- [Maa\- ja metsätalousministeriön asetus tietyistä osittain tai kokonaan kuivatuista säilötyistä maidoista](225.md) `225/2025`
+- [Maa\- ja metsätalousministeriön asetus hedelmähilloista ja tietyistä vastaavista valmisteista](226.md) `226/2025`
+- [Maa\- ja metsätalousministeriön asetus hedelmätäysmehuista ja tietyistä vastaavista valmisteista](227.md) `227/2025`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveysministeriön työjärjestyksen muuttamisesta](228.md) `228/2025`
+- [Maa\- ja metsätalousministeriön asetus kalastuksesta Tenojoen vesistössä Norjan kanssa tehtyyn sopimukseen perustuvista kalastusluvista ja Tenojoen vesistön kalastussäännön 40 §:n 2 momentin mukaisen poikkeusluvan hakemisen määräajasta vuonna 2025](229.md) `229/2025`
+- [Lääkealan turvallisuus\- ja kehittämiskeskuksen päätös lääkeluettelosta Luettelo lääkkeenä käytetyistä ja lääkkeeksi katsottavista aineista](230.md) `230/2025`
+- [Valtioneuvoston asetus kaupunkien vesien hallintaa ja niiden haitallisten aineiden vähentämistä koskeviin hankkeisiin vuosina 2020–2025 myönnettävästä valtionavustuksesta annetun valtioneuvoston asetuksen nimikkeen ja 10 §:n muuttamisesta](231.md) `231/2025`
+- [Valtioneuvoston asetus liikunnan edistämisestä annetun valtioneuvoston asetuksen 9 ja 10 §:n muuttamisesta](232.md) `232/2025`
+- [Sisäministeriön ilmoitus sisäministeriön asetuksesta Veikkaus Oy:n rahapelien pelisäännöistä](233.md) `233/2025`
+- [Maa\- ja metsätalousministeriön asetus hukkakaurasta siementuotannossa annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](234.md) `234/2025`
+- [Maa\- ja metsätalousministeriön asetus metsätalouden kannustejärjestelmän eräiden tukien laskennassa käytettävästä puukuutiometrin keskikantohinnasta](235.md) `235/2025`
+- [Valtioneuvoston asetus lohenkalastuksen rajoituksista annetun valtioneuvoston asetuksen muuttamisesta ja asetuksen väliaikaisesta muuttamisesta](236.md) `236/2025`
+- [Valtioneuvoston asetus Tornionjoen kalastusalueella sovellettavista kansallisista kalastusmääräyksistä annetun valtioneuvoston asetuksen 1 §:n muuttamisesta ja väliaikaisesta muuttamisesta](237.md) `237/2025`
+- [Valtioneuvoston asetus kaupallisen kalastuksen kiintiöjärjestelmästä annetun valtioneuvoston asetuksen 14 a §:n muuttamisesta](238.md) `238/2025`
+- [Valtioneuvoston asetus Tornionjoen kalastusalueen kalastussäännön 16 §:n mukaisesta pöytäkirjasta](239.md) `239/2025`
+- [Valtioneuvoston asetus biomassojen ravinteiden kierrätystä edistäviin toimenpiteisiin myönnettävästä väliaikaisesta valtionavustuksesta annetun valtioneuvoston asetuksen muuttamisesta](240.md) `240/2025`
+- [Valtioneuvoston asetus kalastuksesta Tenojoen vesistön sivuvesistöissä vuonna 2025](241.md) `241/2025`
+- [Valtioneuvoston asetus maa\- ja metsätalousministeriöstä](242.md) `242/2025`
+- [Ympäristöministeriön asetus rauhoitettujen eläinten ja kasvien arvoista](243.md) `243/2025`
+- [Laki metsästyslain 41 §:n muuttamisesta](244.md) `244/2025`
+- [Laki perusopetuslain muuttamisesta](245.md) `245/2025`
+- [Laki valtion vientitakuista annetun lain 10 §:n muuttamisesta](246.md) `246/2025`
+- [Laki ulkomaalaislain muuttamisesta](247.md) `247/2025`
+- [Laki patruunoiden komponenttien viennin luvanvaraisuudesta](248.md) `248/2025`
+- [Laki ampuma\-aselain muuttamisesta](249.md) `249/2025`
+- [Laki rikoslain 46 luvun 1 §:n muuttamisesta](250.md) `250/2025`
+- [Laki tupakkalain muuttamisesta](251.md) `251/2025`
+- [Laki yhteistoimintalain muuttamisesta](252.md) `252/2025`
+- [Laki turvallisuusluokitellun tiedon vaihtamisesta ja vastavuoroisesta suojaamisesta Brasilian kanssa tehdystä sopimuksesta](253.md) `253/2025`
+- [Oikeusministeriön asetus oikeusministeriön ja eräiden hallinnonalalla toimivien viranomaisten maksullisista suoritteista vuosina 2025–2027 annetun oikeusministeriön asetuksen liitteen muuttamisesta](254.md) `254/2025`
+- [Laki ulkomaalaislain muuttamisesta](255.md) `255/2025`
+- [Laki kolmansien maiden kansalaisten maahantulon ja oleskelun edellytyksistä korkeaa osaamistasoa vaativaa työtä varten annetun lain muuttamisesta](256.md) `256/2025`
+- [Laki kolmansien maiden kansalaisten maahantulon ja oleskelun edellytyksistä yrityksen sisäisen siirron yhteydessä annetun lain muuttamisesta](257.md) `257/2025`
+- [Laki kolmansien maiden kansalaisten maahantulon ja oleskelun edellytyksistä kausityöntekijöinä työskentelyä varten annetun lain 23 §:n muuttamisesta](258.md) `258/2025`
+- [Laki tulotietojärjestelmästä annetun lain 13 §:n muuttamisesta](259.md) `259/2025`
+- [Laki Harmaan talouden selvitysyksiköstä annetun lain 6 §:n muuttamisesta](260.md) `260/2025`
+- [Laki jätteen ja muun aineen mereen laskemisen aiheuttaman meren pilaantumisen ehkäisemisestä tehdyn vuoden 1972 yleissopimuksen vuoden 1996 pöytäkirjaan vuonna 2009 tehtyjen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain 2 §:n muuttamisesta](261.md) `261/2025`
+- [Tasavallan presidentin asetus Reserviläisliitto – Reservin Aliupseerien Liiton ansiorististä annetun asetuksen nimikkeen ja 1 §:n muuttamisesta](262.md) `262/2025`
+- [Maa\- ja metsätalousministeriön asetus haahkan metsästyksen rajoittamisesta](263.md) `263/2025`
+- [Ulkoministeriön asetus vesisektorin yhteisöpohjaisen ohjelman neljännestä vaiheesta Etiopian kanssa tehdyn sopimuksen muuttamisesta tehdystä sopimuksesta](264.md) `264/2025`
+- [Opetus\- ja kulttuuriministeriön asetus Museoviraston suoritteiden maksullisuudesta vuosina 2024–2025 annetun opetus\- ja kulttuuriministeriön asetuksen 1 §:n muuttamisesta](265.md) `265/2025`
+- [Valtioneuvoston asetus Teollisuustuki Oy \-nimisestä valtion kokonaan omistamasta osakeyhtiöstä annetun lain voimaantulosta](266.md) `266/2025`
+- [Valtioneuvoston asetus Suomen Teollisuussijoitus Oy \-nimisestä valtionyhtiöstä annetun lain muuttamisesta annetun lain voimaantulosta](267.md) `267/2025`
+- [Laki ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteeseen ja alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan I pöytäkirjaan tehdyistä muutoksista](268.md) `268/2025`
+- [Laki alusten painolastivesien ja sedimenttien valvonnasta ja käsittelystä tehdyn kansainvälisen yleissopimuksen liitteeseen tehdyistä muutoksista](269.md) `269/2025`
+- [Laki merilain 6 luvun 12 a §:n muuttamisesta](270.md) `270/2025`
+- [Laki väylämaksulain muuttamisesta](271.md) `271/2025`
+- [Valtioneuvoston päätös hyvinvointialueiden tehtäviä koskevista valtakunnallisista tavoitteista vuosille 2025–2029](272.md) `272/2025`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä annetun lain 4 luvun 2 §:n ja 6 luvun 5 §:n muuttamisesta](273.md) `273/2025`
+- [Laki rahanpesun selvittelykeskuksesta annetun lain 3 ja 4 §:n muuttamisesta](274.md) `274/2025`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain muuttamisesta](275.md) `275/2025`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](276.md) `276/2025`
+- [Laki Harmaan talouden selvitysyksiköstä annetun lain 6 §:n muuttamisesta](277.md) `277/2025`
+- [Laki työtapaturma\- ja ammattitautilain 255 §:n muuttamisesta](278.md) `278/2025`
+- [Laki työntekijän eläkelain 205 §:n muuttamisesta](279.md) `279/2025`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain 22 b §:n muuttamisesta](280.md) `280/2025`
+- [Valtioneuvoston asetus vuodelta 2024 maksettavasta tuotantosidonnaisesta tulotuesta annetun valtioneuvoston asetuksen muuttamisesta](281.md) `281/2025`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvalla sallittavasta suden metsästyksestä metsästysvuonna 2024–2025 annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](282.md) `282/2025`
+- [Maa\- ja metsätalousministeriön asetus eräiden elintarvikkeiden alkuperämaan ilmoittamisesta annetun maa\- ja metsätalousministeriön asetuksen 6 §:n muuttamisesta](283.md) `283/2025`
+- [Valtioneuvoston asetus vuodelta 2024 maksettavista maatalouden tuotannosta irrotetuista suorista tuista annetun valtioneuvoston asetuksen muuttamisesta](284.md) `284/2025`
+- [Valtioneuvoston asetus vuodelta 2024 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](285.md) `285/2025`
+- [Sosiaali\- ja terveysministeriön asetus sairaanhoitajan rajatun lääkkeenmääräämisoikeuden edellytyksenä olevan koulutuksen korvauksen suuruudesta vuonna 2025](286.md) `286/2025`
+- [Oikeusministeriön asetus oikeusministeriön työjärjestyksestä annetun oikeusministeriön asetuksen muuttamisesta](287.md) `287/2025`
+- [Valtiovarainministeriön asetus Erik Allardt 100 vuotta – yhteiskuntatieteet Suomessa \-juhlarahasta](288.md) `288/2025`
+- [Valtioneuvoston asetus perusopetuslaissa tarkoitetun opetuksen valtakunnallisista tavoitteista ja perusopetuksen tuntijaosta annetun valtioneuvoston asetuksen 9 §:n 1 momentin kumoamisesta](289.md) `289/2025`
+- [Valtioneuvoston asetus perusopetuslaissa tarkoitetun opetuksen valtakunnallisista tavoitteista ja perusopetuksen tuntijaosta annetun valtioneuvoston asetuksen 9 §:n kumoamisesta](290.md) `290/2025`
+- [Valtioneuvoston asetus valtakunnallisista työvoimapula\-aloista](291.md) `291/2025`
+- [Sosiaali\- ja terveysministeriön asetus lääkäri\- ja hammaslääkärikoulutuksen korvauksen perusteista vuonna 2025](292.md) `292/2025`
+- [Sosiaali\- ja terveysministeriön asetus sosiaalihuollon ammattihenkilöiden yliopistollisen erikoistumiskoulutuksen korvauksen perusteista vuonna 2025](293.md) `293/2025`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](294.md) `294/2025`
+- [Sisäministeriön asetus rajavartiolaitoksen turvamiehen koulutuksesta annetun sisäasiainministeriön asetuksen 3 ja 4 §:n muuttamisesta](295.md) `295/2025`
+- [Sosiaali\- ja terveysministeriön asetus rokotuksista annetun sosiaali\- ja terveysministeriön asetuksen liitteen muuttamisesta](296.md) `296/2025`
+- [Valtioneuvoston asetus jätteen ja muun aineen mereen laskemisen aiheuttaman meren pilaantumisen ehkäisemisestä tehdyn vuoden 1972 yleissopimuksen vuoden 1996 pöytäkirjaan vuonna 2009 tehtyjen muutosten väliaikaisesta soveltamisesta](297.md) `297/2025`
+- [Valtioneuvoston asetus Valtion taloudellisesta tutkimuskeskuksesta annetun valtioneuvoston asetuksen 4 §:n kumoamisesta](298.md) `298/2025`
+- [Maa\- ja metsätalousministeriön asetus eräiden elintarvikkeiden ilmoittamisesta voimakassuolaiseksi annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](299.md) `299/2025`
+- [Sisäministeriön asetus  palovaroittimista](300.md) `300/2025`
+- [Opetus\- ja kulttuuriministeriön ministeriön asetus ammatillisen koulutuksen rahoituksen laskentaperusteista annetun opetus\- ja kulttuuriministeriön asetuksen muuttamisesta](301.md) `301/2025`
+- [Laki ulkomaalaislain muuttamisesta](302.md) `302/2025`
+- [Laki liikenteen palveluista annetun lain muuttamisesta](303.md) `303/2025`
+- [Laki tieliikennelain muuttamisesta](304.md) `304/2025`
+- [Laki ajoneuvolain 195 §:n muuttamisesta](305.md) `305/2025`
+- [Laki ajoneuvojen siirtämisestä annetun lain muuttamisesta](306.md) `306/2025`
+- [Laki työriitojen sovittelusta ja eräiden työtaistelutoimenpiteiden edellytyksistä annetun lain muuttamisesta](307.md) `307/2025`
+- [Laki työaikalain 2 ja 19 §:n muuttamisesta](308.md) `308/2025`
+- [Valtioneuvoston asetus Euroopan unionin rahoittamien pinta\-alaperusteisten sekä eräiden muiden tukien toimeenpanosta annetun valtioneuvoston asetuksen muuttamisesta](309.md) `309/2025`
+- [Laki yhteiskunnan kriittisen infrastruktuurin suojaamisesta ja häiriönsietokyvyn parantamisesta](310.md) `310/2025`
+- [Laki turvallisuusselvityslain 19 §:n muuttamisesta](311.md) `311/2025`
+- [Laki rikosrekisteritietojen säilyttämisestä ja luovuttamisesta Suomen ja muiden Euroopan unionin jäsenvaltioiden välillä annetun lain muuttamisesta](312.md) `312/2025`
+- [Laki rikosrekisterilain 4 a ja 5 §:n muuttamisesta](313.md) `313/2025`
+- [Laki eräiden alusten ja niitä palvelevien satamien turvatoimista ja turvatoimien valvonnasta annetun lain muuttamisesta](314.md) `314/2025`
+- [Laki Euroopan unionin ja Yhdistyneen kuningaskunnan välisen kauppa\- ja yhteistyösopimuksen rikoksen johdosta tapahtuvaa luovuttamista ja rikosrekisteritietojen vaihtamista koskevien määräysten soveltamisesta annetun lain 6 §:n muuttamisesta](315.md) `315/2025`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](316.md) `316/2025`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](317.md) `317/2025`
+- [Valtioneuvoston asetus turvatoimista valtioneuvostossa annetun valtioneuvoston asetuksen muuttamisesta](318.md) `318/2025`
+- [Valtioneuvoston asetus perusopetusasetuksen muuttamisesta](319.md) `319/2025`
+- [Valtioneuvoston asetus maitotuotteiden, hedelmien ja vihannesten koulujakelutuesta lukuvuonna 2025–2026](320.md) `320/2025`
+- [Valtioneuvoston asetus hevosten hyvinvoinnista](321.md) `321/2025`
+- [Opetus\- ja kulttuuriministeriön asetus opiskelijaksi ottamisen perusteista ammatillisessa perustutkintokoulutuksessa annetun opetus\- ja kulttuuriministeriön asetuksen 19 §:n muuttamisesta](322.md) `322/2025`
+- [Laki rikosuhrimaksusta annetun lain muuttamisesta](323.md) `323/2025`
+- [Laki päästökauppalain muuttamisesta](324.md) `324/2025`
+- [Laki Energiavirastosta annetun lain 1 §:n muuttamisesta](325.md) `325/2025`
+- [Valtiovarainministeriön päätös kuntajaon muuttamisesta Savonlinnan kaupungin ja Enonkosken kunnan välillä](326.md) `326/2025`
+- [Puolustusministeriön asetus asevelvollisuuslaissa ja terveydenhuollon järjestämisessä puolustusvoimissa annetussa laissa tarkoitetuista etuuksista annetun puolustusministeriön asetuksen 4 §:n muuttamisesta](327.md) `327/2025`
+- [Laki eräiden kiinteistönhankintojen luvanvaraisuudesta annetun lain muuttamisesta](328.md) `328/2025`
+- [Valtioneuvoston asetus Maailman postiliiton yleissopimuksen ensimmäisestä lisäpöytäkirjasta](329.md) `329/2025`
+- [Laki puolustusvoimista annetun lain muuttamisesta](330.md) `330/2025`
+- [Laki asevelvollisuuslain 62 ja 78 §:n muuttamisesta](331.md) `331/2025`
+- [Laki sotilasajoneuvolain 12 ja 40 §:n muuttamisesta](332.md) `332/2025`
+- [Laki sotilastiedustelusta annetun lain 20 §:n muuttamisesta](333.md) `333/2025`
+- [Laki sotilaallisesta kriisinhallinnasta annetun lain 1 §:n muuttamisesta](334.md) `334/2025`
+- [Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain 1 §:n muuttamisesta](335.md) `335/2025`
+- [Laki terveydenhuollon järjestämisestä puolustusvoimissa annetun lain 9 a §:n muuttamisesta](336.md) `336/2025`
+- [Laki henkilötietojen käsittelystä rikosasioissa ja kansallisen turvallisuuden ylläpitämisen yhteydessä annetun lain 1 §:n muuttamisesta](337.md) `337/2025`
+- [Laki tieliikennelain muuttamisesta](338.md) `338/2025`
+- [Laki asuntosäästöjärjestelmästä](339.md) `339/2025`
+- [Laki asuntolainan valtiontakauksesta](340.md) `340/2025`
+- [Laki Valtiokonttorista annetun lain 2 d §:n muuttamisesta](341.md) `341/2025`
+- [Laki tulotietojärjestelmästä annetun lain 13 §:n muuttamisesta](342.md) `342/2025`
+- [Laki positiivisesta luottotietorekisteristä annetun lain 21 §:n muuttamisesta](343.md) `343/2025`
+- [Laki tuloverolain 48 ja 53 §:n muuttamisesta](344.md) `344/2025`
+- [Laki korkotulon lähdeverosta annetun lain 4 §:n muuttamisesta](345.md) `345/2025`
+- [Laki elinkeinotulon verottamisesta annetun lain 6 §:n muuttamisesta](346.md) `346/2025`
+- [Valtiovarainministeriön asetus kunnan taloustietojen toimittamiseen sovellettavasta tietosisällöstä ja teknisistä kuvauksista koskien tilikautta 2026](347.md) `347/2025`
+- [Valtiovarainministeriön asetus hyvinvointialueen taloustietojen toimittamiseen sovellettavista tietosisällöstä ja teknisistä kuvauksista koskien tilikautta 2026](348.md) `348/2025`
+- [Sisäministeriön asetus poliisin suoritteiden ja virka\-avun maksullisuudesta vuonna 2025](349.md) `349/2025`
+- [Valtioneuvoston asetus poronhoitovuodelta 2025/2026 maksettavasta eläinkohtaisesta tuesta](350.md) `350/2025`
+- [Valtioneuvoston asetus eläinlääkintähuollosta](351.md) `351/2025`
+- [Valtioneuvoston asetus alle 18\-vuotiaana vahinkoa kärsineen ansiotulon määrän vahvistamisesta](352.md) `352/2025`
+- [Maa\- ja metsätalousministeriön asetus kasvinsuojeluaineita testaavien laitosten hyväksymisestä sekä koe\- ja tutkimustoiminnasta](353.md) `353/2025`
+- [Maa\- ja metsätalousministeriön asetus hedelmä\- ja marjakasvien taimiaineiston tuottamisesta, markkinoinnista ja maahantuonnista annetun asetuksen liitteen 6 A osan taulukoiden 1–3 muuttamisesta](354.md) `354/2025`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten tavaroiden kansainvälisistä tiekuljetuksista tehdyn sopimuksen \(ADR\) liitteen A 1\.5\.1 kohdan mukaisesta monenkeskisestä sopimuksesta M364](355.md) `355/2025`
+- [Maa\- ja metsätalousministeriön asetus hedelmä\- ja marjakasvien varmennetusta taimiaineistosta annetun asetuksen liitteen 3 taulukoiden 1, 2 ja 4 muuttamisesta](356.md) `356/2025`
+- [Maa\- ja metsätalousministeriön asetus lannoitevalmisteista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](357.md) `357/2025`
+- [Vuoden 2025 II lisätalousarvio](358.md) `358/2025`
+- [Valtiovarainministeriön asetus Suomi–Ruotsi\-maaottelu 100 vuotta \-juhlarahasta](359.md) `359/2025`
+- [Maa\- ja metsätalousministeriön asetus b\- ja c\-luokan eläintautien vastustamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](360.md) `360/2025`
+- [Sisäministeriön asetus kriisinhallintaan osallistuvan siviilihenkilön nimittämismenettelystä ja palvelussuhteen ehdoista annetun sisäministeriön asetuksen muuttamisesta](361.md) `361/2025`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskoroista](362.md) `362/2025`
+- [Valtioneuvoston asetus uusiutuvien polttoaineiden käytön edistämisestä liikenteessä annetun lain muuttamisesta ja väliaikaisesta muuttamisesta annetun lain 5 d §:n 3 momentin voimaantulosta](363.md) `363/2025`
+- [Valtioneuvoston asetus jakeluvelvoitteen joustomekanismista](364.md) `364/2025`
+- [Valtioneuvoston asetus Euroopan jälleenrakennus\- ja kehityspankin \(EBRD\) perustamisesta tehdyn sopimuksen muutoksista](365.md) `365/2025`
+- [Sisäministeriön asetus Maahanmuuttoviraston suoritteiden maksullisuudesta vuonna 2025 annetun sisäministeriön asetuksen liitteen muuttamisesta](366.md) `366/2025`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](367.md) `367/2025`
+- [Laki väliaikaisista toimenpiteistä välineellistetyn maahantulon torjumiseksi annetun lain 7 §:n muuttamisesta](368.md) `368/2025`
+- [Laki kyberturvallisuuslain muuttamisesta](369.md) `369/2025`
+- [Laki julkisen hallinnon tiedonhallinnasta annetun lain 3 §:n muuttamisesta](370.md) `370/2025`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden Euroopan unionin jäsenvaltioiden välillä annetun lain muuttamisesta](371.md) `371/2025`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden Pohjoismaiden välillä annetun lain muuttamisesta](372.md) `372/2025`
+- [Laki ehdokkaan vaalirahoituksesta annetun lain muuttamisesta](373.md) `373/2025`
+- [Laki puoluelain muuttamisesta](374.md) `374/2025`
+- [Laki  vaalilain muuttamisesta](375.md) `375/2025`
+- [Laki kansalaisaloitelain 10 §:n muuttamisesta](376.md) `376/2025`
+- [Laki tuloverolain muuttamisesta](377.md) `377/2025`
+- [Laki korkotulon lähdeverosta annetun lain 4 §:n muuttamisesta](378.md) `378/2025`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](379.md) `379/2025`
+- [Laki rajoitetusti verovelvollisen tulon verottamisesta annetun lain 16 a §:n muuttamisesta](380.md) `380/2025`
+- [Laki tulotietojärjestelmästä annetun lain 6 §:n muuttamisesta](381.md) `381/2025`
+- [Laki ennakkoperintälain 25 §:n muuttamisesta](382.md) `382/2025`
+- [Laki oma\-aloitteisten verojen verotusmenettelystä annetun lain 51 §:n muuttamisesta](383.md) `383/2025`
+- [Laki veronkantolain muuttamisesta](384.md) `384/2025`
+- [Laki Verohallinnosta annetun lain muuttamisesta](385.md) `385/2025`
+- [Laki tuloverolain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](386.md) `386/2025`
+- [Laki liikenteen palveluista annetun lain väliaikaisesta muuttamisesta](387.md) `387/2025`
+- [Laki veronkantolain muuttamisesta](388.md) `388/2025`
+- [Laki veronlisäyksestä ja viivekorosta annetun lain 5 b §:n muuttamisesta](389.md) `389/2025`
+- [Laki tuloverolain väliaikaisesta muuttamisesta](390.md) `390/2025`
+- [Laki hyvinvointialueiden rahoituksesta annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](391.md) `391/2025`
+- [Laki Maailman terveysjärjestön kansainväliseen terveyssäännöstöön \(2005\) tehdyistä muutoksista](392.md) `392/2025`
+- [Ympäristöministeriön asetus maakunta\-, yleis\- ja asemakaavojen kaavamääräysten ja kaavakohteiden esitystavasta annetun ympäristöministeriön asetuksen muuttamisesta](393.md) `393/2025`
+- [Oikeusministeriön asetus Ulosottolaitoksen toimipaikoista ja niiden tehtävistä annetun oikeusministeriön asetuksen 1 §:n muuttamisesta](394.md) `394/2025`
+- [Sosiaali\- ja terveysministeriön asetus tupakkatuotteiden ja vastaavien tuotteiden myynnistä annetun sosiaali\- ja terveysministeriön asetuksen 4 ja 6 §:n muuttamisesta](395.md) `395/2025`
+- [Sosiaali\- ja terveysministeriön asetus tupakkatuotteiden ja vastaavien tuotteiden sekä niiden vähittäismyyntipakkausten merkinnöistä ja muusta ulkoasusta annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](396.md) `396/2025`
+- [Sosiaali\- ja terveysministeriön asetus tupakkatuotteita ja vastaavia tuotteita koskevista standardeista ja ilmoituksista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](397.md) `397/2025`
+- [Sosiaali\- ja terveysministeriön asetus Sosiaali\- ja terveysalan lupa\- ja valvontaviraston maksullisista suoritteista vuosina 2024 ja 2025 annetun sosiaali\- ja terveysministeriön asetuksen liitteen kohdan 12 muuttamisesta](398.md) `398/2025`
+- [Laki rikostorjunnasta Rajavartiolaitoksessa annetun lain muuttamisesta](399.md) `399/2025`
+- [Laki rajavartiolaitoksen hallinnosta annetun lain muuttamisesta](400.md) `400/2025`
+- [Laki pakkokeinolain 10 luvun muuttamisesta](401.md) `401/2025`
+- [Laki poliisilain 5 luvun 1 §:n muuttamisesta](402.md) `402/2025`
+- [Laki henkilötietojen käsittelystä Rajavartiolaitoksessa annetun lain 12 §:n muuttamisesta](403.md) `403/2025`
+- [Laki tuloverolain 92 b §:n muuttamisesta](404.md) `404/2025`
+- [Laki ilmailulain muuttamisesta](405.md) `405/2025`
+- [Laki liikenteen palveluista annetun lain muuttamisesta](406.md) `406/2025`
+- [Laki yhteistoimintalain 12 §:n muuttamisesta](407.md) `407/2025`
+- [Laki mediamarkkinoiden valvonnasta](408.md) `408/2025`
+- [Laki sähköisen viestinnän palveluista annetun lain 30 §:n muuttamisesta](409.md) `409/2025`
+- [Laki sananvapauden käyttämisestä joukkoviestinnässä annetun lain 5 §:n muuttamisesta](410.md) `410/2025`
+- [Laki oikeudenkäymiskaaren 17 luvun 22 §:n muuttamisesta](411.md) `411/2025`
+- [Laki Yleisradio Oy:stä annetun lain muuttamisesta](412.md) `412/2025`
+- [Puolustusministeriön asetus sotilaallisen kriisinhallintahenkilöstön pätevyysvaatimuksista ja palvelussuhteen ehdoista annetun puolustusministeriön asetuksen 7 ja 8 §:n muuttamisesta](413.md) `413/2025`
+- [Laki saamelaiskäräjistä annetun lain muuttamisesta](414.md) `414/2025`
+- [Laki rikoslain 40 luvun 11 §:n muuttamisesta](415.md) `415/2025`
+- [Laki sakon täytäntöönpanosta annetun lain muuttamisesta](416.md) `416/2025`
+- [Laki rikoslain muuttamisesta](417.md) `417/2025`
+- [Laki rikosvahinkolain muuttamisesta](418.md) `418/2025`
+- [Laki tuomioistuinmaksulain 8 §:n muuttamisesta](419.md) `419/2025`
+- [Laki ulosottokaaren 7 luvun muuttamisesta](420.md) `420/2025`
+- [Laki sakon ja rikesakon määräämisestä annetun lain muuttamisesta](421.md) `421/2025`
+- [Laki yksityishenkilön velkajärjestelystä annetun lain 18 ja 40 §:n muuttamisesta](422.md) `422/2025`
+- [Laki lapsen huoltoa ja tapaamisoikeutta koskevan päätöksen täytäntöönpanosta annetun lain 26 §:n kumoamisesta](423.md) `423/2025`
+- [Laki sotilaskurinpidosta ja rikostorjunnasta Puolustusvoimissa annetun lain 67 ja 73 §:n muuttamisesta](424.md) `424/2025`
+- [Laki eläinten hyvinvoinnista annetun lain 90 §:n muuttamisesta](425.md) `425/2025`
+- [Laki rikostorjunnasta Rajavartiolaitoksessa annetun lain 11 §:n muuttamisesta](426.md) `426/2025`
+- [Laki rikostorjunnasta Tullissa annetun lain 2 luvun 7 §:n muuttamisesta](427.md) `427/2025`
+- [Laki Metsähallituksen erävalvonnasta annetun lain 14 §:n muuttamisesta](428.md) `428/2025`
+- [Laki liikenteen palveluista annetun lain 268 §:n muuttamisesta](429.md) `429/2025`
+- [Laki rikosuhrimaksusta annetun lain 6 ja 7 §:n muuttamisesta](430.md) `430/2025`
+- [Laki uhkasakkolain 10 §:n muuttamisesta](431.md) `431/2025`
+- [Laki sananvapauden käyttämisestä joukkoviestinnässä annetun lain 22 §:n muuttamisesta](432.md) `432/2025`
+- [Laki ulosottomaksuista annetun lain 5 §:n muuttamisesta](433.md) `433/2025`
+- [Laki työntekijöiden lähettämisestä annetun lain 28 ja 38 §:n muuttamisesta](434.md) `434/2025`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä annetun lain 8 luvun 9 §:n ja 9 luvun 4 §:n muuttamisesta](435.md) `435/2025`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](436.md) `436/2025`
+- [Laki tietosuojalain 24 ja 25 §:n muuttamisesta](437.md) `437/2025`
+- [Laki lentoliikenteen matkustajarekisteritietojen käytöstä terrorismirikosten ja vakavan rikollisuuden torjunnassa annetun lain muuttamisesta](438.md) `438/2025`
+- [Laki kuluttajansuojaviranomaisten eräistä toimivaltuuksista annetun lain 21 ja 24 §:n muuttamisesta](439.md) `439/2025`
+- [Laki päästökauppalain 92 ja 93 §:n muuttamisesta](440.md) `440/2025`
+- [Laki tilintarkastuslain 10 luvun 6 §:n muuttamisesta](441.md) `441/2025`
+- [Laki julkisista puolustus\- ja turvallisuushankinnoista annetun lain 107 §:n muuttamisesta](442.md) `442/2025`
+- [Laki julkisista hankinnoista ja käyttöoikeussopimuksista annetun lain 168 §:n muuttamisesta](443.md) `443/2025`
+- [Laki pankki\- ja maksutilien valvontajärjestelmästä annetun lain 16 §:n muuttamisesta](444.md) `444/2025`
+- [Laki ulkomaalaislain muuttamisesta](445.md) `445/2025`
+- [Laki biopolttoöljyn käytön edistämisestä annetun lain muuttamisesta](446.md) `446/2025`
+- [Laki uusiutuvien polttoaineiden käytön edistämisestä liikenteessä annetun lain 14 b §:n muuttamisesta](447.md) `447/2025`
+- [Laki elintarvikemarkkinalain 12 b §:n muuttamisesta](448.md) `448/2025`
+- [Laki työsopimuslain 2 ja 11 a luvun muuttamisesta](449.md) `449/2025`
+- [Laki kuitintarjoamisvelvollisuudesta käteiskaupassa annetun lain 7 §:n muuttamisesta](450.md) `450/2025`
+- [Laki yhteisen kalastuspolitiikan seuraamusjärjestelmästä ja valvonnasta annetun lain 59 §:n muuttamisesta](451.md) `451/2025`
+- [Laki alkoholilain 71 §:n muuttamisesta](452.md) `452/2025`
+- [Laki siemenlain 35 §:n muuttamisesta](453.md) `453/2025`
+- [Laki kasvinterveyslain 26 §:n muuttamisesta](454.md) `454/2025`
+- [Laki eläinten sekä eräiden tavaroiden tuontivalvonnasta annetun lain 15 §:n muuttamisesta](455.md) `455/2025`
+- [Laki tieliikennelain muuttamisesta](456.md) `456/2025`
+- [Laki vesiliikennelain muuttamisesta](457.md) `457/2025`
+- [Laki ajoneuvolain muuttamisesta](458.md) `458/2025`
+- [Laki rehulain 51 §:n muuttamisesta](459.md) `459/2025`
+- [Laki elintarvikelain 67 §:n muuttamisesta](460.md) `460/2025`
+- [Laki eläintautilain 94 a §:n muuttamisesta](461.md) `461/2025`
+- [Laki luonnonmukaisesta tuotannosta annetun lain 38 §:n muuttamisesta](462.md) `462/2025`
+- [Laki merenkulun ympäristönsuojelulain 3 ja 7 b luvun muuttamisesta](463.md) `463/2025`
+- [Laki tilaajan selvitysvelvollisuudesta ja vastuusta ulkopuolista työvoimaa käytettäessä annetun lain 10 §:n muuttamisesta](464.md) `464/2025`
+- [Laki ajokorttilain 93 ja 95 §:n muuttamisesta](465.md) `465/2025`
+- [Laki ylikuormamaksusta annetun lain 13 ja 15 §:n muuttamisesta](466.md) `466/2025`
+- [Laki kilpailulain 44 a ja 47 §:n muuttamisesta](467.md) `467/2025`
+- [Laki jätelain 133 ja 140 §:n muuttamisesta](468.md) `468/2025`
+- [Laki sähkö\- ja maakaasumarkkinoiden valvonnasta annetun lain muuttamisesta](469.md) `469/2025`
+- [Laki sähköisen viestinnän palveluista annetun lain 335 §:n muuttamisesta](470.md) `470/2025`
+- [Laki eläinten tunnistamisesta ja rekisteröinnistä annetun lain muuttamisesta](471.md) `471/2025`
+- [Laki jalkineiden ja tekstiilituotteiden vaatimustenmukaisuudesta annetun lain 11 ja 15 §:n muuttamisesta](472.md) `472/2025`
+- [Laki lannoitelain 37 §:n muuttamisesta](473.md) `473/2025`
+- [Laki eläimistä saatavista sivutuotteista annetun lain 63 a §:n muuttamisesta](474.md) `474/2025`
+- [Laki avaruustoiminnasta annetun lain 21 §:n muuttamisesta](475.md) `475/2025`
+- [Laki verkossa tapahtuvaan terroristisen sisällön levittämiseen puuttumisesta annetun lain 4 ja 7 §:n muuttamisesta](476.md) `476/2025`
+- [Laki vaarallisten aineiden kuljetuksesta annetun lain 144 §:n muuttamisesta](477.md) `477/2025`
+- [Laki luotsauslain 70 §:n muuttamisesta](478.md) `478/2025`
+- [Laki arpajaislain 62 h ja 62 k §:n muuttamisesta](479.md) `479/2025`
+- [Laki kaupparekisterilain 27 §:n muuttamisesta](480.md) `480/2025`
+- [Laki verkon välityspalvelujen valvonnasta annetun lain 29 §:n muuttamisesta](481.md) `481/2025`
+- [Laki alusliikennepalvelulain 29 a §:n muuttamisesta](482.md) `482/2025`
+- [Laki hiilen energiakäytön kieltämisestä annetun lain 16 §:n muuttamisesta](483.md) `483/2025`
+- [Laki Suomen ja muiden pohjoismaiden välisestä yhteistoiminnasta rikosasioissa annettujen tuomioiden täytäntöönpanosta annetun lain 3 §:n muuttamisesta](484.md) `484/2025`
+- [Laki kansainvälisestä yhteistoiminnasta eräiden rikosoikeudellisten seuraamusten täytäntöönpanossa annetun lain 14 §:n muuttamisesta](485.md) `485/2025`
+- [Laki vastavuoroisen tunnustamisen periaatteen soveltamisesta taloudellisiin seuraamuksiin tehdyn puitepäätöksen lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja puitepäätöksen soveltamisesta annetun lain 8 ja 11 §:n muuttamisesta](486.md) `486/2025`
+- [Laki kansainvälistä taksiliikennettä tiellä koskevan Ruotsin kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta annetun lain 3 a §:n muuttamisesta](487.md) `487/2025`
+- [Laki kasvinsuojeluaineista annetun lain 40 a §:n muuttamisesta](488.md) `488/2025`
+- [Laki ilmailulain 151 c §:n muuttamisesta](489.md) `489/2025`
+- [Laki merityösopimuslain 2 luvun 6 b ja 6 c §:n muuttamisesta](490.md) `490/2025`
+- [Laki fossiilisen polttoaineen jakelun päästökaupasta annetun lain 34 ja 35 §:n muuttamisesta](491.md) `491/2025`
+- [Laki henkilötietojen käsittelystä Rajavartiolaitoksessa annetun lain 46 §:n muuttamisesta](492.md) `492/2025`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain 16 §:n muuttamisesta](493.md) `493/2025`
+- [Laki kyberturvallisuuslain 40 §:n muuttamisesta](494.md) `494/2025`
+- [Laki kuluttajatuotteiden turvallisuudesta annetun lain 17 ja 21 §:n muuttamisesta](495.md) `495/2025`
+- [Laki kulutuspalvelujen turvallisuudesta annetun lain 27 ja 30 §:n muuttamisesta](496.md) `496/2025`
+- [Laki yhteiskunnan kriittisen infrastruktuurin suojaamisesta ja häiriönsietokyvyn parantamisesta annetun lain 22 ja 24 §:n muuttamisesta](497.md) `497/2025`
+- [Valtiovarainministeriön asetus valtiovarainministeriön työjärjestyksestä annetun valtiovarainministeriön asetuksen muuttamisesta](498.md) `498/2025`
+- [Ulkoministeriön asetus Suomen investointituki Ukrainalle \-rahoitusinstrumentilla rahoitettavista hankkeista Ukrainan kanssa tehdystä puitesopimuksesta](499.md) `499/2025`
+- [Laki biopolttoaineista, bionesteistä ja biomassapolttoaineista annetun lain muuttamisesta](500.md) `500/2025`
+- [Laki uusiutuvien polttoaineiden käytön edistämisestä liikenteessä annetun lain 7 §:n 7 momentin kumoamisesta](501.md) `501/2025`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvan ja alueellisen kiintiön nojalla sallittavasta karhun metsästyksestä metsästysvuonna 2025–2026](502.md) `502/2025`
+- [Valtioneuvoston asetus terveydenhuollon ammattihenkilöistä annetun asetuksen 16 §:n kumoamisesta](503.md) `503/2025`
+- [Tasavallan presidentin asetus eräiden opinto\- ja tutkintorekistereitä koskevien hallintotehtävien hoitamisesta Ahvenanmaalla](504.md) `504/2025`
+- [Valtioneuvoston asetus perusopetusasetuksen muuttamisesta](505.md) `505/2025`
+- [Tasavallan presidentin asetus mielenterveyslain mukaista hallinnollista puuttumista henkilökohtaiseen vapauteen koskevien hallintotehtävien hoitamisesta Ahvenanmaalla](506.md) `506/2025`
+- [Laki opetus\- ja kulttuuriministeriön hallinnonalan virastoista](507.md) `507/2025`
+- [Laki Opetushallituksesta](508.md) `508/2025`
+- [Laki Kansallisarkistosta](509.md) `509/2025`
+- [Laki Museovirastosta](510.md) `510/2025`
+- [Laki Taide\- ja kulttuurivirastosta](511.md) `511/2025`
+- [Laki Saavutettavuuskirjasto Celian palveluista](512.md) `512/2025`
+- [Laki Suomen Akatemiasta annetun lain 7 §:n muuttamisesta](513.md) `513/2025`
+- [Laki rikoslain 17 ja 41 luvun muuttamisesta](514.md) `514/2025`
+- [Laki pakkokeinolain 10 luvun 3 §:n muuttamisesta](515.md) `515/2025`
+- [Laki rikesakkorikkomuksista annetun lain 15 §:n muuttamisesta](516.md) `516/2025`
+- [Laki ampuma\-aselain 102 §:n muuttamisesta](517.md) `517/2025`
+- [Laki järjestyslain 10 ja 17 §:n muuttamisesta](518.md) `518/2025`
+- [Laki  pakkokeinolain 10 luvun 3 ja 17 §:n muuttamisesta](519.md) `519/2025`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain muuttamisesta](520.md) `520/2025`
+- [Laki vesilain 13 luvun 11 §:n muuttamisesta](521.md) `521/2025`
+- [Laki kaivoslain 86 §:n muuttamisesta](522.md) `522/2025`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta kansallisen turvallisuuden varmistamiseksi annetun lain 4 §:n muuttamisesta](523.md) `523/2025`
+- [Laki alueidenkäyttölain 103 ja 104 §:n muuttamisesta](524.md) `524/2025`
+- [Laki kaupankäynnistä rahoitusvälineillä annetun lain muuttamisesta](525.md) `525/2025`
+- [Laki sijoituspalvelulain muuttamisesta](526.md) `526/2025`
+- [Laki Finanssivalvonnasta annetun lain 50 o §:n muuttamisesta](527.md) `527/2025`
+- [Laki sairausvakuutuslain väliaikaisesta muuttamisesta](528.md) `528/2025`
+- [Laki toimeentulotuesta annetun lain 7 b §:n väliaikaisesta muuttamisesta](529.md) `529/2025`
+- [Laki Lupa\- ja valvontavirastosta](530.md) `530/2025`
+- [Laki elinvoimakeskuksista sekä Työllisyys\-, kehittämis\- ja hallintokeskuksesta](531.md) `531/2025`
+- [Laki Ahvenanmaan valtionvirastosta](532.md) `532/2025`
+- [Laki kemiallisten aseiden kehittämisen, tuotannon, varastoinnin ja käytön kieltämistä sekä niiden hävittämistä koskevan yleissopimuksen eräiden määräysten hyväksymisestä ja sen soveltamisesta annetun lain 12 §:n muuttamisesta](533.md) `533/2025`
+- [Laki Suomen talousvyöhykkeestä annetun lain 18 §:n muuttamisesta](534.md) `534/2025`
+- [Laki adoptiolain muuttamisesta](535.md) `535/2025`
+- [Laki asuntokauppalain 2 luvun muuttamisesta](536.md) `536/2025`
+- [Laki asunto\-osakeyhtiölain 6 luvun 18 ja 45 §:n sekä 9 luvun 6 ja 13 §:n muuttamisesta](537.md) `537/2025`
+- [Laki avioliittolain 22 ja 23 §:n muuttamisesta](538.md) `538/2025`
+- [Laki eurooppaosuuskuntalain 8 §:n muuttamisesta](539.md) `539/2025`
+- [Laki eurooppayhtiölain 8 §:n muuttamisesta](540.md) `540/2025`
+- [Laki hallintolain 58 §:n muuttamisesta](541.md) `541/2025`
+- [Laki kuluttajansuojalain muuttamisesta](542.md) `542/2025`
+- [Laki asianajajista annetun lain 6 §:n muuttamisesta](543.md) `543/2025`
+- [Laki asumisoikeusyhdistyksistä annetun lain muuttamisesta](544.md) `544/2025`
+- [Laki avoimesta yhtiöstä ja kommandiittiyhtiöstä annetun lain 5 luvun 7 §:n muuttamisesta](545.md) `545/2025`
+- [Laki eräiden ympäristön käyttöön vaikuttavien hankkeiden lunastusluvasta annetun lain 4 a §:n muuttamisesta](546.md) `546/2025`
+- [Laki hedelmöityshoidoista annetun lain muuttamisesta](547.md) `547/2025`
+- [Laki kansainvälisestä yhteistoiminnasta eräiden rikosoikeudellisten seuraamusten täytäntöönpanossa annetun lain muuttamisesta](548.md) `548/2025`
+- [Laki kieltotoimenpiteitä koskevista edustajakanteista annetun lain muuttamisesta](549.md) `549/2025`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain muuttamisesta](550.md) `550/2025`
+- [Laki kuluttajansuojaviranomaisten eräistä toimivaltuuksista annetun lain 2 §:n muuttamisesta](551.md) `551/2025`
+- [Laki lapsen huollosta ja tapaamisoikeudesta annetun lain 17 c §:n muuttamisesta](552.md) `552/2025`
+- [Laki oikeudenkäynnistä markkinaoikeudessa annetun lain 5 luvun 8 §:n muuttamisesta](553.md) `553/2025`
+- [Laki positiivisesta luottotietorekisteristä annetun lain 28 ja 29 §:n muuttamisesta](554.md) `554/2025`
+- [Laki pysäköinninvalvonnasta annetun lain 10 ja 11 §:n muuttamisesta](555.md) `555/2025`
+- [Laki rahan, arvo\-osuuksien, arvopaperien tai asiakirjain tallettamisesta velan maksuna tai vapautumiseksi muusta suoritusvelvollisuudesta annetun lain muuttamisesta](556.md) `556/2025`
+- [Laki syyttömästi vangitulle tai tuomitulle valtion varoista vapauden menetyksen johdosta maksettavasta korvauksesta annetun lain 7 §:n muuttamisesta](557.md) `557/2025`
+- [Laki yrityksen saneerauksesta annetun lain 10 ja 71 §:n muuttamisesta](558.md) `558/2025`
+- [Laki löytötavaralain muuttamisesta](559.md) `559/2025`
+- [Laki oikeudenkäymiskaaren 11 luvun 12 §:n muuttamisesta](560.md) `560/2025`
+- [Laki osakeyhtiölain muuttamisesta](561.md) `561/2025`
+- [Laki osuuskuntalain muuttamisesta](562.md) `562/2025`
+- [Laki perintökaaren 22 luvun 7 §:n ja 25 luvun 8 §:n muuttamisesta](563.md) `563/2025`
+- [Laki rikoslain 22 luvun 5 §:n ja 30 luvun 12 §:n muuttamisesta](564.md) `564/2025`
+- [Laki rikosrekisterilain 4 §:n muuttamisesta](565.md) `565/2025`
+- [Laki ryhmärakennuttamislain 23 ja 27 §:n muuttamisesta](566.md) `566/2025`
+- [Laki saamen kielilain 2 ja 27 §:n muuttamisesta](567.md) `567/2025`
+- [Laki turvallisuustutkintalain 16 §:n muuttamisesta](568.md) `568/2025`
+- [Laki ulosottokaaren 2 luvun 2 §:n muuttamisesta](569.md) `569/2025`
+- [Laki vaalilain muuttamisesta](570.md) `570/2025`
+- [Laki valmiuslain muuttamisesta](571.md) `571/2025`
+- [Laki vesilain muuttamisesta](572.md) `572/2025`
+- [Laki yhdistyslain muuttamisesta](573.md) `573/2025`
+- [Laki henkilötietojen käsittelystä maahanmuuttohallinnossa annetun lain muuttamisesta](574.md) `574/2025`
+- [Laki hätäkeskustoiminnasta annetun lain 20 §:n muuttamisesta](575.md) `575/2025`
+- [Laki pelastustoimen järjestämisestä annetun lain muuttamisesta](576.md) `576/2025`
+- [Laki sisäasioiden rahastoista ohjelmakaudella 2021–2027 annetun lain 29 §:n muuttamisesta](577.md) `577/2025`
+- [Laki Suomen lipusta annetun lain 5 §:n muuttamisesta](578.md) `578/2025`
+- [Laki vaaratiedotteesta annetun lain 3 §:n muuttamisesta](579.md) `579/2025`
+- [Laki palosuojelurahastolain muuttamisesta](580.md) `580/2025`
+- [Laki pelastuslain muuttamisesta](581.md) `581/2025`
+- [Laki ulkomaalaislain muuttamisesta](582.md) `582/2025`
+- [Laki terveydenhuollon järjestämisestä puolustusvoimissa annetun lain 6 §:n muuttamisesta](583.md) `583/2025`
+- [Laki puolustustilalain 12 §:n muuttamisesta](584.md) `584/2025`
+- [Laki Digi\- ja väestötietovirastosta annetun lain 3 §:n muuttamisesta](585.md) `585/2025`
+- [Laki kuntalain 10 §:n muuttamisesta](586.md) `586/2025`
+- [Laki eräiden juomapakkausten valmisteverosta annetun lain 7 §:n muuttamisesta](587.md) `587/2025`
+- [Laki Euroopan unioniin saapuvien tai sieltä poistuvien käteisvarojen valvonnasta annetun lain 9 §:n muuttamisesta](588.md) `588/2025`
+- [Laki henkilötietojen käsittelystä Tullissa annetun lain 16 §:n muuttamisesta](589.md) `589/2025`
+- [Laki hyvinvointialueesta annetun lain 11 §:n muuttamisesta](590.md) `590/2025`
+- [Laki julkisen hallinnon yhteispalvelusta annetun lain 8 a §:n muuttamisesta](591.md) `591/2025`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain 56 §:n muuttamisesta](592.md) `592/2025`
+- [Laki maataloudessa käytettyjen eräiden energiatuotteiden valmisteveron palautuksesta annetun lain 15 ja 16 §:n muuttamisesta](593.md) `593/2025`
+- [Laki oma\-aloitteisten verojen verotusmenettelystä annetun lain 79 §:n muuttamisesta](594.md) `594/2025`
+- [Laki panttilainauslaitoksista annetun lain muuttamisesta](595.md) `595/2025`
+- [Laki pienten erillisten alueiden siirtämisestä kunnasta toiseen kuntaan annetun lain 5 §:n muuttamisesta](596.md) `596/2025`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä annetun lain muuttamisesta](597.md) `597/2025`
+- [Laki rahoitusvakausviranomaisesta annetun lain 5 luvun 10 §:n muuttamisesta](598.md) `598/2025`
+- [Laki tulotietojärjestelmästä annetun lain 13 §:n muuttamisesta](599.md) `599/2025`
+- [Laki sijoitusrahastolain 12 luvun 4 §:n muuttamisesta](600.md) `600/2025`
+- [Laki säästöpankkilain 44 b §:n muuttamisesta](601.md) `601/2025`
+- [Laki valtion virkamieslain 7 §:n muuttamisesta](602.md) `602/2025`
+- [Laki varainsiirtoverolain 13 ja 14 §:n muuttamisesta](603.md) `603/2025`
+- [Laki ammattikorkeakoululain 34 ja 35 §:n muuttamisesta](604.md) `604/2025`
+- [Laki hautaustoimilain muuttamisesta](605.md) `605/2025`
+- [Laki ammatillisesta koulutuksesta annetun lain 111 ja 118 §:n muuttamisesta](606.md) `606/2025`
+- [Laki Jatkuvan oppimisen ja työllisyyden palvelukeskuksesta annetun lain 7 §:n muuttamisesta](607.md) `607/2025`
+- [Laki kulttuuriaineistojen tallettamisesta ja säilyttämisestä annetun lain 27 §:n muuttamisesta](608.md) `608/2025`
+- [Laki kuntien kulttuuritoiminnasta annetun lain 4 §:n muuttamisesta](609.md) `609/2025`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](610.md) `610/2025`
+- [Laki opiskelijoiden oikeusturvalautakunnasta annetun lain 12 §:n muuttamisesta](611.md) `611/2025`
+- [Laki taiteen perusopetuksesta annetun lain muuttamisesta](612.md) `612/2025`
+- [Laki tutkintokoulutukseen valmentavasta koulutuksesta annetun lain 25 §:n muuttamisesta](613.md) `613/2025`
+- [Laki valtion ja yksityisen järjestämän koulutuksen hallinnosta annetun lain 6 §:n muuttamisesta](614.md) `614/2025`
+- [Laki vapaasta sivistystyöstä annetun lain 25 k ja 25 l §:n muuttamisesta](615.md) `615/2025`
+- [Laki yleisistä kirjastoista annetun lain 4 ja 16 §:n muuttamisesta](616.md) `616/2025`
+- [Laki ylioppilastutkinnosta annetun lain 21 §:n muuttamisesta](617.md) `617/2025`
+- [Laki liikuntalain muuttamisesta](618.md) `618/2025`
+- [Laki lukiolain muuttamisesta](619.md) `619/2025`
+- [Laki muinaismuistolain 7 ja 18 §:n muuttamisesta](620.md) `620/2025`
+- [Laki nuorisolain 4 ja 25 §:n muuttamisesta](621.md) `621/2025`
+- [Laki oppivelvollisuuslain 24 §:n muuttamisesta](622.md) `622/2025`
+- [Laki oppivelvollisuuslain muuttamisesta annetun lain 24 §:n muuttamisesta](623.md) `623/2025`
+- [Laki perusopetuslain muuttamisesta](624.md) `624/2025`
+- [Laki tekijänoikeuslain 26 l §:n muuttamisesta](625.md) `625/2025`
+- [Laki varhaiskasvatuslain muuttamisesta](626.md) `626/2025`
+- [Laki yliopistolain 43 b ja 43 c §:n muuttamisesta](627.md) `627/2025`
+- [Laki elintarvikelain muuttamisesta](628.md) `628/2025`
+- [Laki elintarvikemarkkinalain 13 b §:n muuttamisesta](629.md) `629/2025`
+- [Laki eläinlääkintähuoltolain muuttamisesta](630.md) `630/2025`
+- [Laki eläintautilain muuttamisesta](631.md) `631/2025`
+- [Laki kalastuslain muuttamisesta](632.md) `632/2025`
+- [Laki kasvinterveyslain muuttamisesta](633.md) `633/2025`
+- [Laki kiinteistönmuodostamislain muuttamisesta](634.md) `634/2025`
+- [Laki kolttalain muuttamisesta](635.md) `635/2025`
+- [Laki eläimistä saatavista sivutuotteista annetun lain muuttamisesta](636.md) `636/2025`
+- [Laki eläinjalostustoiminnasta annetun lain 12 §:n 3 momentin kumoamisesta](637.md) `637/2025`
+- [Laki eläinlääkärinammatin harjoittamisesta annetun lain muuttamisesta](638.md) `638/2025`
+- [Laki eläinten hyvinvoinnista annetun lain muuttamisesta](639.md) `639/2025`
+- [Laki eläinten kuljetuksesta annetun lain muuttamisesta](640.md) `640/2025`
+- [Laki eläinten lääkitsemisestä annetun lain muuttamisesta](641.md) `641/2025`
+- [Laki eläinten sekä eräiden tavaroiden tuontivalvonnasta annetun lain 13 §:n muuttamisesta](642.md) `642/2025`
+- [Laki eläinten tunnistamisesta ja rekisteröinnistä annetun lain muuttamisesta](643.md) `643/2025`
+- [Laki eräiden maa\- ja metsätalousministeriön hallinnonalan lainojen ja saamisten siirtämisestä Valtiokonttorin hoidettavaksi annetun lain muuttamisesta](644.md) `644/2025`
+- [Laki eräistä maaseudun kehittämisen korvauksista annetun lain 11 §:n muuttamisesta](645.md) `645/2025`
+- [Laki Euroopan meri\-, kalatalous\- ja vesiviljelyrahastosta annetun lain muuttamisesta](646.md) `646/2025`
+- [Laki Euroopan unionin yhteisen kalastuspolitiikan kansallisesta täytäntöönpanosta annetun lain muuttamisesta](647.md) `647/2025`
+- [Laki hukkakauran torjunnasta annetun lain muuttamisesta](648.md) `648/2025`
+- [Laki kalastuksesta Tenojoen vesistössä Norjan kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja soveltamisesta annetun lain muuttamisesta](649.md) `649/2025`
+- [Laki kasvinsuojeluaineista annetun lain muuttamisesta](650.md) `650/2025`
+- [Laki kaupallisen kalastuksen vakuutustuesta annetun lain muuttamisesta](651.md) `651/2025`
+- [Laki kaupanvahvistajista annetun lain 1 §:n muuttamisesta](652.md) `652/2025`
+- [Laki kiinteistöjen kauppahintarekisteristä annetun lain 4 ja 5 §:n muuttamisesta](653.md) `653/2025`
+- [Laki kiinteistötietojärjestelmästä ja siitä tuotettavasta tietopalvelusta annetun lain 6 §:n muuttamisesta](654.md) `654/2025`
+- [Laki luonnonmukaisesta tuotannosta annetun lain muuttamisesta](655.md) `655/2025`
+- [Laki maaseudun kehittämisen tukemisesta rahoituskaudella 2023–2027 annetun lain muuttamisesta](656.md) `656/2025`
+- [Laki maaseutuhallinnon järjestämisestä kunnissa annetun lain muuttamisesta](657.md) `657/2025`
+- [Laki maatalouden harjoittamisesta luopumisen tukemisesta annetun lain muuttamisesta](658.md) `658/2025`
+- [Laki maatalouden rakennetuista annetun lain muuttamisesta](659.md) `659/2025`
+- [Laki maataloustuotteiden markkinajärjestelystä annetun lain muuttamisesta](660.md) `660/2025`
+- [Laki maatilatalouden kehittämisrahastosta annetun lain 3 ja 3 a §:n muuttamisesta](661.md) `661/2025`
+- [Laki merellä toimivien kalastus\- ja vesiviljelyalusten rekisteröinnistä annetun lain 5 ja 27 §:n muuttamisesta](662.md) `662/2025`
+- [Laki metsityksen määräaikaisesta tukemisesta annetun lain muuttamisesta](663.md) `663/2025`
+- [Laki Metsähallituksen erävalvonnasta annetun lain 19 §:n muuttamisesta](664.md) `664/2025`
+- [Laki metsätalouden määräaikaisesta kannustejärjestelmästä annetun lain 27 ja 28 §:n muuttamisesta](665.md) `665/2025`
+- [Laki Neuvostoliiton kanssa Saimaan ja Vuoksen juoksutussäännöstä tehdyn sopimuksen eräiden määräysten hyväksymisestä sekä sopimuksen soveltamisesta annetun lain muuttamisesta](666.md) `666/2025`
+- [Laki porotalouden ja luontaiselinkeinojen rakennetuista annetun lain muuttamisesta](667.md) `667/2025`
+- [Laki porotaloutta kohdanneiden vahinkojen korvaamisesta annetun lain muuttamisesta](668.md) `668/2025`
+- [Laki ruokahallinnon tietovarannosta annetun lain 5 §:n muuttamisesta](669.md) `669/2025`
+- [Laki Ruokavirastosta annetun lain 1 §:n muuttamisesta](670.md) `670/2025`
+- [Laki saariston kehityksen edistämisestä annetun lain 12 §:n muuttamisesta](671.md) `671/2025`
+- [Laki Suomen ja Ruotsin välillä tehdyn rajajokisopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta, sopimuksen soveltamisesta ja eräiden lakien kumoamisesta annetun lain 2 §:n muuttamisesta](672.md) `672/2025`
+- [Laki Suomen metsäkeskuksesta annetun lain 6 ja 9 §:n muuttamisesta](673.md) `673/2025`
+- [Laki tieteellisiin tai opetustarkoituksiin käytettävien eläinten suojelusta annetun lain muuttamisesta](674.md) `674/2025`
+- [Laki tiettyjen Euroopan unionin ja kansallisten maatalouden tukien toimeenpanosta annetun lain muuttamisesta](675.md) `675/2025`
+- [Laki tulvariskien hallinnasta annetun lain muuttamisesta](676.md) `676/2025`
+- [Laki valtiontakauksista maatilojen maksuvalmiuslainoille annetun lain muuttamisesta](677.md) `677/2025`
+- [Laki vesihuollon tukemisesta annetun lain muuttamisesta](678.md) `678/2025`
+- [Laki vesistöhankkeiden johdosta suoritettavista tilusjärjestelyistä annetun lain 16 §:n muuttamisesta](679.md) `679/2025`
+- [Laki vieraslajeista aiheutuvien riskien hallinnasta annetun lain muuttamisesta](680.md) `680/2025`
+- [Laki yhteisen kalastuspolitiikan seuraamusjärjestelmästä ja valvonnasta annetun lain muuttamisesta](681.md) `681/2025`
+- [Laki yhteisen maatalouspolitiikan strategiasuunnitelman hallinnoinnista annetun lain muuttamisesta](682.md) `682/2025`
+- [Laki lannoitelain 23 ja 38 §:n muuttamisesta](683.md) `683/2025`
+- [Laki luopumiseläkelain 16 §:n muuttamisesta](684.md) `684/2025`
+- [Laki metsälain 7 a ja 14 b §:n muuttamisesta](685.md) `685/2025`
+- [Laki metsästyslain 23 ja 88 §:n muuttamisesta](686.md) `686/2025`
+- [Laki patoturvallisuuslain 5 §:n muuttamisesta](687.md) `687/2025`
+- [Laki poronhoitolain muuttamisesta](688.md) `688/2025`
+- [Laki rehulain 27 §:n muuttamisesta](689.md) `689/2025`
+- [Laki riistahallintolain 5 §:n muuttamisesta](690.md) `690/2025`
+- [Laki riistavahinkolain 47 ja 50 §:n muuttamisesta](691.md) `691/2025`
+- [Laki siemenlain 23 §:n muuttamisesta](692.md) `692/2025`
+- [Laki taimiaineistolain 7 a §:n muuttamisesta](693.md) `693/2025`
+- [Laki vesihuoltolain muuttamisesta](694.md) `694/2025`
+- [Laki yhteisaluelain muuttamisesta](695.md) `695/2025`
+- [Laki yhteismetsälain 37 §:n muuttamisesta](696.md) `696/2025`
+- [Laki ilmailulain muuttamisesta](697.md) `697/2025`
+- [Laki kyberturvallisuuslain 26 §:n muuttamisesta](698.md) `698/2025`
+- [Laki ajoneuvojen siirtämisestä annetun lain muuttamisesta](699.md) `699/2025`
+- [Laki Liikenne\- ja viestintävirastosta annetun lain 2 §:n muuttamisesta](700.md) `700/2025`
+- [Laki liikennejärjestelmästä ja maanteistä annetun lain muuttamisesta](701.md) `701/2025`
+- [Laki liikenteen palveluista annetun lain muuttamisesta](702.md) `702/2025`
+- [Laki sähköisen viestinnän palveluista annetun lain 318 §:n muuttamisesta](703.md) `703/2025`
+- [Laki vaarallisten aineiden kuljetuksesta annetun lain muuttamisesta](704.md) `704/2025`
+- [Laki Väylävirastosta annetun lain 2 §:n muuttamisesta](705.md) `705/2025`
+- [Laki merenkulun ympäristönsuojelulain muuttamisesta](706.md) `706/2025`
+- [Laki ratalain muuttamisesta](707.md) `707/2025`
+- [Laki tieliikennelain muuttamisesta](708.md) `708/2025`
+- [Laki vesiliikennelain muuttamisesta](709.md) `709/2025`
+- [Laki yksityistielain muuttamisesta](710.md) `710/2025`
+- [Laki henkilöstörahastolain 59 a §:n muuttamisesta](711.md) `711/2025`
+- [Laki kaivoslain muuttamisesta](712.md) `712/2025`
+- [Laki kilpailulain muuttamisesta](713.md) `713/2025`
+- [Laki alueiden kehittämisen ja Euroopan unionin alue\- ja rakennepolitiikan hankkeiden rahoittamisesta annetun lain muuttamisesta](714.md) `714/2025`
+- [Laki alueiden kehittämisestä ja Euroopan unionin alue\- ja rakennepolitiikan toimeenpanosta annetun lain muuttamisesta](715.md) `715/2025`
+- [Laki brexit\-mukautusvarauksen kansallisesta toimeenpanosta annetun lain muuttamisesta](716.md) `716/2025`
+- [Laki eräiden tuotteiden markkinavalvonnasta annetun lain 4 §:n muuttamisesta](717.md) `717/2025`
+- [Laki julkisista hankinnoista ja käyttöoikeussopimuksista annetun lain 143 §:n muuttamisesta](718.md) `718/2025`
+- [Laki kiinteistönvälitysliikkeistä ja vuokrahuoneiston välitysliikkeistä annetun lain muuttamisesta](719.md) `719/2025`
+- [Laki Kilpailu\- ja kuluttajavirastosta annetun lain 6 §:n muuttamisesta](720.md) `720/2025`
+- [Laki  kotoutumisen edistämistä annetun lain muuttamisesta](721.md) `721/2025`
+- [Laki kuitintarjoamisvelvollisuudesta käteiskaupassa annetun lain 5 §:n muuttamisesta](722.md) `722/2025`
+- [Laki lasten kanssa työskentelevien rikostaustan selvittämisestä annetun lain muuttamisesta](723.md) `723/2025`
+- [Laki luonnontuotteita keräävien ulkomaalaisten oikeudellisesta asemasta annetun lain muuttamisesta](724.md) `724/2025`
+- [Laki matkapalveluyhdistelmien tarjoajista annetun lain muuttamisesta](725.md) `725/2025`
+- [Laki nuorista työntekijöistä annetun lain muuttamisesta](726.md) `726/2025`
+- [Laki perintätoiminnan harjoittajien rekisteröinnistä annetun lain muuttamisesta](727.md) `727/2025`
+- [Laki ravitsemisyritysten uudelleentyöllistämisen tukemisesta ja toiminnan rajoitusten hyvittämisestä annetun lain 16 §:n muuttamisesta](728.md) `728/2025`
+- [Laki tilaajan selvitysvelvollisuudesta ja vastuusta ulkopuolista työvoimaa käytettäessä annetun lain 10 ja 12 §:n muuttamisesta](729.md) `729/2025`
+- [Laki työllistymisen monialaisesta edistämisestä annetun lain muuttamisesta](730.md) `730/2025`
+- [Laki työneuvostosta ja eräistä työsuojelun poikkeusluvista annetun lain muuttamisesta](731.md) `731/2025`
+- [Laki työntekijöiden lähettämisestä annetun lain 16 §:n muuttamisesta](732.md) `732/2025`
+- [Laki työvoimapalveluiden järjestämisestä annetun lain muuttamisesta](733.md) `733/2025`
+- [Laki uusiutuvan energian tuotantolaitosten lupamenettelyistä ja eräistä muista hallinnollisista menettelyistä annetun lain 4 §:n muuttamisesta](734.md) `734/2025`
+- [Laki valtion varoista korvattavista merimiesten matkakustannuksista annetun lain muuttamisesta](735.md) `735/2025`
+- [Laki valtionavustuksesta yritystoiminnan kehittämiseksi vuosina 2021–2028 annetun lain muuttamisesta](736.md) `736/2025`
+- [Laki yrityspalvelujen asiakastietojärjestelmästä annetun lain 10 §:n muuttamisesta](737.md) `737/2025`
+- [Laki mittauslaitelain 34 ja 38 §:n muuttamisesta](738.md) `738/2025`
+- [Laki työaikalain 39 §:n muuttamisesta](739.md) `739/2025`
+- [Laki ydinenergialain 23 §:n muuttamisesta](740.md) `740/2025`
+- [Laki palkkaturvalain muuttamisesta](741.md) `741/2025`
+- [Laki vuosilomalain 37 §:n muuttamisesta](742.md) `742/2025`
+- [Laki alkoholilain muuttamisesta](743.md) `743/2025`
+- [Laki huumausainelain muuttamisesta](744.md) `744/2025`
+- [Laki kemikaalilain muuttamisesta](745.md) `745/2025`
+- [Laki ehkäisevän päihdetyön järjestämisestä annetun lain 4 §:n muuttamisesta](746.md) `746/2025`
+- [Laki eräiden teknisten laitteiden vaatimustenmukaisuudesta annetun lain 13 §:n muuttamisesta](747.md) `747/2025`
+- [Laki eräistä asbestipurkutyötä koskevista vaatimuksista annetun lain muuttamisesta](748.md) `748/2025`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 14 ja 60 §:n muuttamisesta](749.md) `749/2025`
+- [Laki kehitysvammaisten erityishuollosta annetun lain 75 a §:n muuttamisesta](750.md) `750/2025`
+- [Laki kliinisestä lääketutkimuksesta annetun lain 16 ja 28 §:n muuttamisesta](751.md) `751/2025`
+- [Laki korkeakouluopiskelijoiden opiskeluterveydenhuollosta annetun lain 35 §:n muuttamisesta](752.md) `752/2025`
+- [Laki kuntouttavasta työtoiminnasta annetun lain 24 §:n muuttamisesta](753.md) `753/2025`
+- [Laki laiva\-apteekista annetun lain 14 §:n muuttamisesta](754.md) `754/2025`
+- [Laki lapseen kohdistuneen seksuaali\- ja pahoinpitelyrikoksen selvittämisen järjestämisestä annetun lain 5 ja 7 §:n muuttamisesta](755.md) `755/2025`
+- [Laki liikenne\- ja potilasvahinkolautakunnasta annetun lain 18 §:n muuttamisesta](756.md) `756/2025`
+- [Laki Lääkealan turvallisuus\- ja kehittämiskeskuksesta annetun lain 7 §:n muuttamisesta](757.md) `757/2025`
+- [Laki lääkinnällisistä laitteista annetun lain 46 §:n muuttamisesta](758.md) `758/2025`
+- [Laki lääkärin hyväksymisestä luokkaan A kuuluvien säteilytyöntekijöiden terveydentilan seurannan suorittavaksi lääkäriksi annetun lain muuttamisesta](759.md) `759/2025`
+- [Laki potilasasiavastaavista ja sosiaaliasiavastaavista annetun lain 8 ja 14 §:n muuttamisesta](760.md) `760/2025`
+- [Laki rajat ylittävästä terveydenhuollosta annetun lain 7 ja 25 §:n muuttamisesta](761.md) `761/2025`
+- [Laki raskauden keskeyttämisestä annetun lain muuttamisesta](762.md) `762/2025`
+- [Laki rikosasioiden ja eräiden riita\-asioiden sovittelusta annetun lain 7 a §:n muuttamisesta](763.md) `763/2025`
+- [Laki sosiaali\- ja terveydenhuollon asiakastietojen käsittelystä annetun lain muuttamisesta](764.md) `764/2025`
+- [Laki sosiaali\- ja terveydenhuollon järjestämisestä annetun lain muuttamisesta](765.md) `765/2025`
+- [Laki sosiaali\- ja terveydenhuollon valvonnasta annetun lain muuttamisesta](766.md) `766/2025`
+- [Laki sosiaali\- ja terveystietojen toissijaisesta käytöstä annetun lain muuttamisesta](767.md) `767/2025`
+- [Laki sosiaalialan osaamiskeskustoiminnasta annetun lain 1 §:n muuttamisesta](768.md) `768/2025`
+- [Laki sosiaaliturva\-asioiden muutoksenhakulautakunnasta annetun lain 14 §:n muuttamisesta](769.md) `769/2025`
+- [Laki sosiaaliturvajärjestelmien yhteensovittamista koskevan Euroopan unionin lainsäädännön soveltamisesta annetun lain 6 §:n muuttamisesta](770.md) `770/2025`
+- [Laki sähköisestä lääkemääräyksestä annetun lain muuttamisesta](771.md) `771/2025`
+- [Laki Terveyden ja hyvinvoinnin laitoksen alaisista lastensuojeluyksiköistä annetun lain 2 §:n muuttamisesta](772.md) `772/2025`
+- [Laki Terveyden ja hyvinvoinnin laitoksesta annetun lain 5 §:n muuttamisesta](773.md) `773/2025`
+- [Laki toimeentulotuesta annetun lain 27 c §:n muuttamisesta](774.md) `774/2025`
+- [Laki työsuojeluhallinnosta annetun lain muuttamisesta](775.md) `775/2025`
+- [Laki työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetun lain muuttamisesta](776.md) `776/2025`
+- [Laki valtion varoista maksettavasta korvauksesta turvakotipalvelun tuottajalle annetun lain 12 §:n muuttamisesta](777.md) `777/2025`
+- [Laki ympäristöterveydenhuollon yhteistoiminta\-alueesta annetun lain 4 ja 5 §:n muuttamisesta](778.md) `778/2025`
+- [Laki lastensuojelulain muuttamisesta](779.md) `779/2025`
+- [Laki lääkelain muuttamisesta](780.md) `780/2025`
+- [Laki mielenterveyslain 17 c ja 22 f §:n muuttamisesta](781.md) `781/2025`
+- [Laki panostajalain muuttamisesta](782.md) `782/2025`
+- [Laki potilasvakuutuslain 55 ja 57 §:n muuttamisesta](783.md) `783/2025`
+- [Laki sairausvakuutuslain muuttamisesta](784.md) `784/2025`
+- [Laki sosiaalihuoltolain muuttamisesta](785.md) `785/2025`
+- [Laki steriloimislain muuttamisesta](786.md) `786/2025`
+- [Laki säteilylain 139 §:n muuttamisesta](787.md) `787/2025`
+- [Laki tartuntatautilain muuttamisesta](788.md) `788/2025`
+- [Laki terveydenhuoltolain muuttamisesta](789.md) `789/2025`
+- [Laki terveydensuojelulain muuttamisesta](790.md) `790/2025`
+- [Laki tupakkalain muuttamisesta](791.md) `791/2025`
+- [Laki työterveyshuoltolain 23 ja 24 §:n muuttamisesta](792.md) `792/2025`
+- [Laki työttömyysturvalain muuttamisesta](793.md) `793/2025`
+- [Laki työturvallisuuslain 65 §:n muuttamisesta](794.md) `794/2025`
+- [Laki eräiden uusien luonnonsuojelualueiden perustamisesta valtionmaille annetun lain 21 e §:n muuttamisesta](795.md) `795/2025`
+- [Laki eräiden ympäristölle aiheutuneiden vahinkojen korjaamisesta annetun lain 9 ja 15 §:n muuttamisesta](796.md) `796/2025`
+- [Laki Etelämantereen ympäristönsuojelusta annetun lain 7 §:n muuttamisesta](797.md) `797/2025`
+- [Laki hiilidioksidin talteenottamisesta ja varastoinnista annetun lain 12 ja 16 §:n muuttamisesta](798.md) `798/2025`
+- [Laki jätelain muuttamisesta](799.md) `799/2025`
+- [Laki kadun ja eräiden yleisten alueiden kunnossa\- ja puhtaanapidosta annetun lain 14 ja 16 §:n muuttamisesta](800.md) `800/2025`
+- [Laki kuntien ympäristönsuojelun hallinnosta annetun lain 2 §:n muuttamisesta](801.md) `801/2025`
+- [Laki luonnonsuojelulain muuttamisesta](802.md) `802/2025`
+- [Laki maa\-aineslain muuttamisesta](803.md) `803/2025`
+- [Laki maastoliikennelain muuttamisesta](804.md) `804/2025`
+- [Laki merensuojelulain muuttamisesta](805.md) `805/2025`
+- [Laki pilaantuneiden alueiden puhdistamisen tukemisesta annetun lain muuttamisesta](806.md) `806/2025`
+- [Laki rakennetun ympäristön tietojärjestelmästä annetun lain 10 §:n muuttamisesta](807.md) `807/2025`
+- [Laki rakennusperinnön suojelemisesta annetun lain muuttamisesta](808.md) `808/2025`
+- [Laki rakentamislain muuttamisesta](809.md) `809/2025`
+- [Laki rauhoitettujen eläinten aiheuttamien vahinkojen ennalta ehkäisemisestä ja korvaamisesta annetun lain muuttamisesta](810.md) `810/2025`
+- [Laki Suomen ympäristökeskuksesta annetun lain 1 §:n muuttamisesta](811.md) `811/2025`
+- [Laki Tammisaaren saariston kansallispuistosta annetun lain 1 c §:n muuttamisesta](812.md) `812/2025`
+- [Laki ulkoilulain muuttamisesta](813.md) `813/2025`
+- [Laki Urho Kekkosen kansallispuistosta annetun lain 6 d §:n muuttamisesta](814.md) `814/2025`
+- [Laki vapaaehtoisesta osallistumisesta ympäristöasioiden hallinta\- ja auditointijärjestelmään annetun lain 7 §:n muuttamisesta](815.md) `815/2025`
+- [Laki vesienhoidon ja merenhoidon järjestämisestä annetun lain muuttamisesta](816.md) `816/2025`
+- [Laki ympäristönsuojelulain muuttamisesta](817.md) `817/2025`
+- [Laki ympäristövahinkorahastosta annetun lain 10 ja 21 §:n muuttamisesta](818.md) `818/2025`
+- [Laki ympäristövaikutusten arviointimenettelystä annetun lain muuttamisesta](819.md) `819/2025`
+- [Laki yhteiskunnan kriittisen infrastruktuurin suojaamisesta ja häiriönsietokyvyn parantamisesta annetun lain 19 §:n muuttamisesta](820.md) `820/2025`
+- [Valtioneuvoston asetus biopolttoaineista, bionesteistä ja biomassapolttoaineista annetun valtioneuvoston asetuksen muuttamisesta](821.md) `821/2025`
+- [Laki sosiaali\- ja terveydenhuollon järjestämisestä annetun lain muuttamisesta](822.md) `822/2025`
+- [Laki eräiden ympäristöasioiden käsittelystä Lupa\- ja valvontavirastossa](823.md) `823/2025`
+- [Laki ympäristönsuojelulain muuttamisesta](824.md) `824/2025`
+- [Laki ympäristönsuojelulain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](825.md) `825/2025`
+- [Laki vesilain muuttamisesta](826.md) `826/2025`
+- [Laki vesilain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](827.md) `827/2025`
+- [Laki luonnonsuojelulain muuttamisesta](828.md) `828/2025`
+- [Laki ympäristövaikutusten arviointimenettelystä annetun lain muuttamisesta](829.md) `829/2025`
+- [Laki maa\-aineslain 4 c §:n kumoamisesta](830.md) `830/2025`
+- [Laki rakentamislain 81 §:n kumoamisesta](831.md) `831/2025`
+- [Laki kaivoslain muuttamisesta](832.md) `832/2025`
+- [Laki vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetun lain muuttamisesta](833.md) `833/2025`
+- [Laki hallinto\-oikeuslain 12 §:n muuttamisesta](834.md) `834/2025`
+- [Laki tuomioistuinlain 10 luvun 6 §:n muuttamisesta](835.md) `835/2025`
+- [Laki korkeimmasta hallinto\-oikeudesta annetun lain 11 §:n muuttamisesta](836.md) `836/2025`
+- [Laki uusiutuvan energian tuotantolaitosten lupamenettelyistä ja eräistä muista hallinnollisista menettelyistä annetun lain muuttamisesta](837.md) `837/2025`
+- [Laki ympäristövaikutusten arviointimenettelystä annetun lain 3 ja 5 §:n muuttamisesta](838.md) `838/2025`
+- [Laki luonnonsuojelulain 35 §:n muuttamisesta](839.md) `839/2025`
+- [Valtioneuvoston asetus eräiden kiinteistönhankintojen ehdottomista esteistä](840.md) `840/2025`
+- [Valtioneuvoston asetus ampuma\-aseasetuksen 1 b §:n muuttamisesta](841.md) `841/2025`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen 23 §:n muuttamisesta](842.md) `842/2025`
+- [Valtioneuvoston asetus valtiontakauksesta ja valtiontakuusta perittävistä maksuista](843.md) `843/2025`
+- [Laki  jalkaväkimiinojen käytön, varastoinnin, tuotannon ja siirron kieltämisestä ja niiden hävittämisestä tehdyn yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta annetun lain kumoamisesta](844.md) `844/2025`
+- [Laki  rikoslain 11 ja 15 luvun muuttamisesta](845.md) `845/2025`
+- [Laki  sotilaskurinpidosta ja rikostorjunnasta Puolustusvoimissa annetun lain 140 §:n muuttamisesta](846.md) `846/2025`
+- [Maa\- ja metsätalousministeriön asetus itämeren norpan metsästyksestä alueellisen kiintiön nojalla metsästysvuosina 2025–2026 ja 2026–2027](847.md) `847/2025`
+- [Valtioneuvoston asetus sairausvakuutuslain 3 a luvussa tarkoitetuista väliaikaisista 65 vuotta täyttäneiden vakuutettujen hoito\- ja tutkimuskorvauksista](848.md) `848/2025`
+- [Laki vaarallisten aineiden kuljetuksesta Puolustusvoimissa ja Rajavartiolaitoksessa](849.md) `849/2025`
+- [Laki ajokorttilain 65 §:n muuttamisesta](850.md) `850/2025`
+- [Laki ampuma\-aselain 106 b §:n muuttamisesta](851.md) `851/2025`
+- [Laki eräiden ympäristölle aiheutuneiden vahinkojen korjaamisesta annetun lain 2 §:n muuttamisesta](852.md) `852/2025`
+- [Laki henkilötietojen käsittelystä Tullissa annetun lain 21 §:n muuttamisesta](853.md) `853/2025`
+- [Laki kemikaalilain 5 §:n muuttamisesta](854.md) `854/2025`
+- [Laki konttilain 1 §:n muuttamisesta](855.md) `855/2025`
+- [Laki painelaitelain 1 §:n muuttamisesta](856.md) `856/2025`
+- [Laki rikoslain 44 luvun 13 §:n muuttamisesta](857.md) `857/2025`
+- [Laki säteilylain muuttamisesta](858.md) `858/2025`
+- [Laki vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetun lain 4 §:n muuttamisesta](859.md) `859/2025`
+- [Laki  sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](860.md) `860/2025`
+- [Laki pelastuslain 48 §:n muuttamisesta](861.md) `861/2025`
+- [Maa\- ja metsätalousministeriön asetus metsähanhen metsästyksen kieltämisestä metsästysvuonna 2025–2026](862.md) `862/2025`
+- [Laki pankki\- ja maksutilien valvontajärjestelmästä annetun lain muuttamisesta](863.md) `863/2025`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](864.md) `864/2025`
+- [Laki oma\-aloitteisten verojen verotusmenettelystä annetun lain 30 §:n muuttamisesta](865.md) `865/2025`
+- [Valtioneuvoston asetus esitutkinnasta, pakkokeinoista ja salaisesta tiedonhankinnasta annetun valtioneuvoston asetuksen 3 luvun muuttamisesta](866.md) `866/2025`
+- [Maa\- ja metsätalousministeriön asetus metson, teeren, pyyn ja riekon metsästyksen kieltämisestä metsästysvuonna 2025–2026](867.md) `867/2025`
+- [Valtioneuvoston asetus  Suomen Teollisuussijoitus Oy \-nimisestä valtionyhtiöstä](868.md) `868/2025`
+- [Valtioneuvoston asetus tuotantoeläinten hyvinvoinnin neuvottelukunnasta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](869.md) `869/2025`
+- [Valtioneuvoston asetus rajanylitystietojärjestelmän perustamiseen liittyvän lainsäädännön voimaantulosta](870.md) `870/2025`
+- [Valtioneuvoston asetus rajavartiolaitoksesta annetun valtioneuvoston asetuksen muuttamisesta](871.md) `871/2025`
+- [Laki tuloverolain 46 ja 55 §:n muuttamisesta](872.md) `872/2025`
+- [Maa\- ja metsätalousministeriön asetus b\- ja c \-luokan eläintautien vastustamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](873.md) `873/2025`
+- [Puolustusministeriön asetus puolustusministeriön työjärjestyksestä annetun puolustusministeriön asetuksen muuttamisesta](874.md) `874/2025`
+- [Valtioneuvoston asetus maaseudun hanketoiminnan tukemisesta rahoituskaudella 2023–2027 annetun valtioneuvoston asetuksen muuttamisesta](875.md) `875/2025`
+- [Valtioneuvoston asetus valtion talousarviosta annetun asetuksen 72 §:n ja 72 c §:n muuttamisesta](876.md) `876/2025`
+- [Valtioneuvoston asetus valtion kiinteistövarallisuuden hankinnasta, vuokraamisesta, hallinnasta ja hoitamisesta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](877.md) `877/2025`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](878.md) `878/2025`
+- [Ruokaviraston päätös kalojen tarttuvan verta muodostavan kuolion \(IHN\) vuoksi perustetun rajoitusvyöhykkeen lakkauttamisesta](879.md) `879/2025`
+- [Opetus\- ja kulttuuriministeriön asetus ammatillisen koulutuksen toiminnanohjauksen kokeilusta](880.md) `880/2025`
+- [Valtioneuvoston asetus pohjaveden suojeluun myönnettävästä valtionavustuksesta](881.md) `881/2025`
+- [Valtioneuvoston asetus tieliikennettä koskevan yleissopimuksen voimaansaattamisesta annetun asetuksen muuttamisesta](882.md) `882/2025`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](883.md) `883/2025`
+- [Valtioneuvoston asetus Maailman terveysjärjestön kansainväliseen terveyssäännöstöön \(2005\) tehdyistä muutoksista](884.md) `884/2025`
+- [Työ\- ja elinkeinoministeriön asetus Energiaviraston maksullisista suoritteista vuosina 2023–2025 annetun työ\- ja elinkeinoministeriön asetuksen muuttamisesta](885.md) `885/2025`
+- [Valtioneuvoston asetus asbestityön turvallisuudesta annetun valtioneuvoston asetuksen muuttamisesta](886.md) `886/2025`
+- [Ulkoministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoministeriön asetuksen muuttamisesta](887.md) `887/2025`
+- [Valtioneuvoston asetus eräistä leikkauksista ja lääketieteellisistä toimenpiteistä](888.md) `888/2025`
+- [Valtioneuvoston asetus erikoissairaanhoidon työnjaosta ja eräiden tehtävien keskittämisestä annetun valtioneuvoston asetuksen 4 ja 7 §:n muuttamisesta](889.md) `889/2025`
+- [Valtioneuvoston asetus kiireellisen hoidon perusteista ja päivystyksen erikoisalakohtaisista edellytyksistä annetun valtioneuvoston asetuksen muuttamisesta](890.md) `890/2025`
+- [Valtioneuvoston asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan uudistetusta VI liitteestä](891.md) `891/2025`
+- [Valtioneuvoston asetus merenkulun ympäristönsuojelulain muuttamisesta annetun lain 7 a luvun 1–8 ja 12 §:n voimaantulosta](892.md) `892/2025`
+- [Valtioneuvoston asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan I ja IV liitteeseen tehdyistä muutoksista](893.md) `893/2025`
+- [Valtioneuvoston asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan V liitteeseen tehdyistä muutoksista](894.md) `894/2025`
+- [Valtioneuvoston asetus merenkulun ympäristönsuojelulain muuttamisesta annetun lain 6 luvun 2 §:n 3 momentin ja 5 §:n 1 ja 3 momentin voimaantulosta](895.md) `895/2025`
+- [Valtioneuvoston asetus Lupa\- ja valvontavirastosta](896.md) `896/2025`
+- [Valtioneuvoston asetus jätteen ja muun aineen mereen laskemisen aiheuttaman meren pilaantumisen ehkäisemisestä tehdyn vuoden 1972 yleissopimuksen vuoden 1996 pöytäkirjan liitteeseen 1 ja 2 tehdyistä muutoksista](897.md) `897/2025`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta Puolustusvoimissa ja Rajavartiolaitoksessa](898.md) `898/2025`
+- [Valtioneuvoston asetus Suomen Akatemiasta](899.md) `899/2025`
+- [Valtioneuvoston asetus varhaiskasvatuksen neuvottelukunnasta annetun valtioneuvoston asetuksen kumoamisesta](900.md) `900/2025`
+- [Valtioneuvoston asetus hyvinvointialueiden rahoituksesta annetun valtioneuvoston asetuksen muuttamisesta](901.md) `901/2025`
+- [Valtioneuvoston asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteeseen ja alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan I pöytäkirjaan tehdyistä muutoksista](902.md) `902/2025`
+- [Valtioneuvoston asetus merilain 6 luvun 12 a §:n muuttamisesta annetun lain voimaantulosta](903.md) `903/2025`
+- [Valtioneuvoston asetus alusten painolastivesien ja sedimenttien valvonnasta ja käsittelystä tehdyn kansainvälisen yleissopimuksen liitteeseen tehdyistä muutoksista](904.md) `904/2025`
+- [Valtioneuvoston asetus turvallisesta ja ympäristön kannalta asianmukaisesta aluskierrätyksestä tehdystä Hongkongin kansainvälisestä yleissopimuksesta](905.md) `905/2025`
+- [Valtioneuvoston asetus merenkulun ympäristönsuojelulain muuttamisesta annetun 8 a luvun 1–5 §:n voimaantulosta](906.md) `906/2025`
+- [Valtioneuvoston asetus aluksen teknisestä turvallisuudesta ja turvallisesta käytöstä annetun lain muuttamisesta annetun lain voimaantulosta](907.md) `907/2025`
+- [Valtioneuvoston asetus alusturvallisuuden valvonnasta annetun lain 2 ja 11 §:n muuttamisesta annetun lain voimaantulosta](908.md) `908/2025`
+- [Valtioneuvoston asetus alusturvallisuuden valvonnasta annetun lain 2 §:n muuttamisesta annetun lain kumoamisesta annetun lain voimaantulosta](909.md) `909/2025`
+- [Valtioneuvoston asetus jätelain muuttamisesta annetun lain voimaantulosta](910.md) `910/2025`
+- [Valtioneuvoston asetus ympäristönsuojelulain 169 ja 221 a §:n muuttamisesta annetun lain voimaantulosta](911.md) `911/2025`
+- [Ulkoministeriön asetus ulkoministeriön työjärjestyksestä annetun ulkoministeriön asetuksen muuttamisesta](912.md) `912/2025`
+- [Puolustusministeriön asetus vaarallisten aineiden kuljetuksesta Puolustusvoimissa ja Rajavartiolaitoksessa](913.md) `913/2025`
+- [Oikeusministeriön asetus viittausmerkinnöistä Suomen säädöskokoelmassa sekä määräyskokoelmissa](914.md) `914/2025`
+- [Valtioneuvoston asetus elpymis\- ja palautumistukivälineestä annettavan tuen seurantaa koskevista Valtiokonttorin tehtävistä](915.md) `915/2025`
+- [Valtioneuvoston asetus asiakirjojen turvallisuusluokittelusta valtionhallinnossa annetun valtioneuvoston asetuksen 9 §:n muuttamisesta](916.md) `916/2025`
+- [Valtioneuvoston asetus Euroopan meri\-, kalatalous\- ja vesiviljelyrahaston Suomen ohjelmasta 2021–2027 myönnettävästä tuesta annetun valtioneuvoston asetuksen muuttamisesta](917.md) `917/2025`
+- [Opetus\- ja kulttuuriministeriön asetus ammatillisen koulutuksen rahoituksen laskentaperusteista](918.md) `918/2025`
+- [Valtioneuvoston asetus sakon täytäntöönpanosta annetun valtioneuvoston asetuksen muuttamisesta](919.md) `919/2025`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön työjärjestyksestä](920.md) `920/2025`
+- [Verohallinnon päätös kulutukseen luovutetuista tupakkatuotteista Euroopan komissiolle toimitettavia tilastoja varten annettavista tiedoista](921.md) `921/2025`
+- [Valtioneuvoston asetus maaseudun yritystuesta rahoituskaudella 2023–2027 annetun valtioneuvoston asetuksen muuttamisesta](922.md) `922/2025`
+- [Valtioneuvoston asetus lentoliikenteestä Chilen kanssa tehdystä sopimuksesta](923.md) `923/2025`
+- [Laki Suomen osallistumisesta Euroopan unionin rikosoikeudellisen yhteistyön viraston \(Eurojust\) toimintaan annetun lain muuttamisesta](924.md) `924/2025`
+- [Valtioneuvoston asetus puolustusvoimista annetun valtioneuvoston asetuksen 11 ja 16 §:n muuttamisesta](925.md) `925/2025`
+- [Valtioneuvoston asetus maanpuolustuskorkeakoulusta annetun valtioneuvoston asetuksen 13 §:n kumoamisesta](926.md) `926/2025`
+- [Tasavallan presidentin asetus  Tammenlehvän Perinneliiton ansiorististä](927.md) `927/2025`
+- [Laki uusiutuvien polttoaineiden käytön edistämisestä liikenteessä annetun lain 2 §:n ja liitteen muuttamisesta](928.md) `928/2025`
+- [Laki kansalaisuuslain muuttamisesta](929.md) `929/2025`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveydenhuollon valtakunnallisten tietojärjestelmäpalvelujen käyttömaksuista](930.md) `930/2025`
+- [Laki Euroopan meri\-, kalatalous\- ja vesiviljelyrahastosta annetun lain muuttamisesta](931.md) `931/2025`
+- [Valtioneuvoston asetus vuosina 2020–2025 maankäyttösektorin ilmastotoimenpiteisiin myönnettävästä avustuksesta ja tähän tarkoitukseen osoitetusta määrärahasta annetun valtioneuvoston asetuksen muuttamisesta](932.md) `932/2025`
+- [Laki sähkömarkkinalain muuttamisesta](933.md) `933/2025`
+- [Laki maakaasumarkkinalain 12 ja 96 §:n muuttamisesta](934.md) `934/2025`
+- [Valtioneuvoston asetus elinvoimakeskuksista sekä Työllisyys\-, kehittämis\- ja hallintokeskuksesta](935.md) `935/2025`
+- [Laki positiivisesta luottotietorekisteristä annetun lain muuttamisesta](936.md) `936/2025`
+- [Laki huoneistotietojärjestelmästä annetun lain 13 §:n muuttamisesta](937.md) `937/2025`
+- [Laki positiivisesta luottotietorekisteristä annetun lain 22 §:n 2 momentin 12 kohdan kumoamisesta](938.md) `938/2025`
+- [Laki hätäkeskustoiminnasta annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](939.md) `939/2025`
+- [Laki varhaiskasvatuslain muuttamisesta](940.md) `940/2025`
+- [Laki yhteistoiminnasta evankelis\-luterilaisessa kirkossa](941.md) `941/2025`
+- [Laki evankelis\-luterilaisen kirkon viranhaltijasta annetun lain muuttamisesta](942.md) `942/2025`
+- [Laki rikoslain 47 luvun 4 §:n muuttamisesta](943.md) `943/2025`
+- [Laki työterveyshuoltolain 11 §:n muuttamisesta](944.md) `944/2025`
+- [Laki yksityisyyden suojasta työelämässä annetun lain 4 ja 21 §:n muuttamisesta](945.md) `945/2025`
+- [Laki opintovapaalain 9 §:n muuttamisesta](946.md) `946/2025`
+- [Laki sähköisen viestinnän palveluista annetun lain 148 ja 153 §:n muuttamisesta](947.md) `947/2025`
+- [Laki taloudellisesti tuetusta ammatillisen osaamisen kehittämisestä annetun lain 3 §:n muuttamisesta](948.md) `948/2025`
+- [Laki työvoimapalveluiden järjestämisestä annetun lain 140 §:n muuttamisesta](949.md) `949/2025`
+- [Laki työsopimuslain 7 luvun 13 §:n muuttamisesta](950.md) `950/2025`
+- [Laki tuloverolain 80 §:n muuttamisesta](951.md) `951/2025`
+- [Sosiaali\- ja terveysministeriön asetus palkkakertoimesta vuodelle 2026](952.md) `952/2025`
+- [Sosiaali\- ja terveysministeriön asetus työeläkeindeksistä vuodelle 2026](953.md) `953/2025`
+- [Valtioneuvoston asetus eläinlääkintähuollosta annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](954.md) `954/2025`
+- [Valtioneuvoston asetus valtion rahoituksen perusteena käytettävistä lukiokoulutuksen, taiteen perusopetuksen ja kansalaisopistojen keskimääräisistä yksikköhinnoista vuonna 2026](955.md) `955/2025`
+- [Valtioneuvoston asetus puolustusvoimista annetun valtioneuvoston asetuksen 12 a §:n muuttamisesta](956.md) `956/2025`
+- [Valtioneuvoston asetus salaisista tiedonhankintakeinoista Puolustusvoimissa](957.md) `957/2025`
+- [Valtioneuvoston asetus sotilaskurinpitorangaistusten täytäntöönpanosta sekä sotilaskurinpitorangaistuksiin liittyvistä hyvityksistä](958.md) `958/2025`
+- [Valtioneuvoston asetus Pääesikunnan rikostorjuntatehtävää hoitavien virkamiesten voimankäyttö\- ja suojavälineistä](959.md) `959/2025`
+- [Puolustusministeriön asetus Pääesikunnan rikostorjuntatehtäviä hoitavien virkamiesten voimakeinojen käytöstä](960.md) `960/2025`
+- [Maa\- ja metsätalousministeriön asetus eläinlääkärinammatin harjoittajan potilasrekisteristä](961.md) `961/2025`
+- [Opetus\- ja kulttuuriministeriön asetus Kansallisgallerian maastavientilupapäätöksen maksullisuudesta vuosina 2026–2028](962.md) `962/2025`
+- [Verohallinnon päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](963.md) `963/2025`
+- [Verohallinnon päätös metsän keskimääräisestä vuotuisesta tuotosta](964.md) `964/2025`
+- [Valtioneuvoston asetus toimeentulotuen tarpeellisen suuruisten asumismenojen määrästä annetun valtioneuvoston asetuksen liitteen muuttamisesta](965.md) `965/2025`
+- [Valtioneuvoston asetus ilmanlaadusta annetun valtioneuvoston asetuksen muuttamisesta](966.md) `966/2025`
+- [Valtioneuvoston asetus nuorisotyöstä ja \-politiikasta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](967.md) `967/2025`
+- [Opetus\- ja kulttuuriministeriön asetus opiskelijaksi ottamisen perusteista ammatillisessa perustutkintokoulutuksessa annetun opetus\- ja kulttuuriministeriön asetuksen 19 ja 20 §:n muuttamisesta](968.md) `968/2025`
+- [Opetus\- ja kulttuuriministeriön asetus opiskelijaksi ottamisen perusteista lukiokoulutuksessa annetun opetus\- ja kulttuuriministeriön asetuksen 6 §:n 2 momentin kumoamisesta](969.md) `969/2025`
+- [Verohallinnon päätös verovapaista matkakustannusten korvauksista vuonna 2026](970.md) `970/2025`
+- [Opetus\- ja kulttuuriministeriön asetus Taide\- ja kulttuuriviraston sekä kuvaohjelmalautakunnan suoritteiden maksullisuudesta vuosina 2026–2028](971.md) `971/2025`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 82 §:ssä tarkoitetun elinaikakertoimen antamisesta](972.md) `972/2025`
+- [Maa\- ja metsätalousministeriön asetus zoonooseista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](973.md) `973/2025`
+- [Verohallinnon päätös matkakuluvähennyksen määrästä vuodelta 2025 toimitettavassa verotuksessa](974.md) `974/2025`
+- [Valtioneuvoston asetus terveydenhuollon ammattihenkilöistä annetun asetuksen 17 §:n kumoamisesta](975.md) `975/2025`
+- [Laki kansainvälistä taksiliikennettä tiellä koskevasta Norjan kanssa tehdystä sopimuksesta](976.md) `976/2025`
+- [Laki kansainvälistä taksiliikennettä tiellä koskevan Ruotsin kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta annetun lain 4 ja 6 §:n kumoamisesta](977.md) `977/2025`
+- [Laki tieliikennelain muuttamisesta](978.md) `978/2025`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](979.md) `979/2025`
+- [Tasavallan presidentin asetus hengenpelastusmitalista annetun tasavallan presidentin asetuksen muuttamisesta](980.md) `980/2025`
+- [Laki kemikaalilain 13 §:n muuttamisesta](981.md) `981/2025`
+- [Laki avioliittolain muuttamisesta](982.md) `982/2025`
+- [Laki perintökaaren 18 luvun 1 §:n muuttamisesta](983.md) `983/2025`
+- [Laki Digi\- ja väestötietoviraston eräistä henkilörekistereistä annetun lain muuttamisesta](984.md) `984/2025`
+- [Laki eräistä asbestipurkutyötä koskevista vaatimuksista annetun lain 2 ja 11 §:n muuttamisesta](985.md) `985/2025`
+- [Laki työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetun lain 48 §:n muuttamisesta](986.md) `986/2025`
+- [Laki työturvallisuuslain muuttamisesta](987.md) `987/2025`
+- [Valtioneuvoston asetus Palosuojelurahastosta annetun valtioneuvoston asetuksen 2 ja 3 §:n muuttamisesta](988.md) `988/2025`
+- [Valtioneuvoston asetus Pelastusopistosta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](989.md) `989/2025`
+- [Valtioneuvoston asetus pelastustoimesta annetun valtioneuvoston asetuksen muuttamisesta](990.md) `990/2025`
+- [Valtioneuvoston asetus yhteistoiminnasta väestönsuojeluun varautumisessa annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](991.md) `991/2025`
+- [Laki  liikennejärjestelmän digitaalisista tietopalveluista](992.md) `992/2025`
+- [Laki tie\- ja katuverkon tietojärjestelmästä annetun lain kumoamisesta](993.md) `993/2025`
+- [Laki liikenteen palveluista annetun lain muuttamisesta](994.md) `994/2025`
+- [Laki tieliikennelain 71 §:n muuttamisesta](995.md) `995/2025`
+- [Laki yksityistielain muuttamisesta](996.md) `996/2025`
+- [Laki kyberturvallisuuslain liitteen I muuttamisesta](997.md) `997/2025`
+- [Verohallinnon päätös vuodelta 2026 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](998.md) `998/2025`
+- [Laki raideliikennelain muuttamisesta ja väliaikaisesta muuttamisesta](999.md) `999/2025`
+- [Laki liikenteen palveluista annetun lain muuttamisesta](1000.md) `1000/2025`
+- [Laki liikenteen palveluista annetun lain muuttamisesta](1001.md) `1001/2025`
+- [Laki raideliikennelain 147 ja 148 §:n muuttamisesta](1002.md) `1002/2025`
+- [Laki Liikenne\- ja viestintävirastosta annetun lain 6 §:n kumoamisesta](1003.md) `1003/2025`
+- [Laki Kilpailu\- ja kuluttajavirastosta annetun lain muuttamisesta](1004.md) `1004/2025`
+- [Laki varhaiskasvatuksen asiakasmaksuista annetun lain 16 §:n muuttamisesta](1005.md) `1005/2025`
+- [Laki kirjanpitolain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1006.md) `1006/2025`
+- [Vuoden 2025 III lisätalousarvio](1007.md) `1007/2025`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen muuttamisesta](1008.md) `1008/2025`
+- [Sosiaali\- ja terveysministeriön ilmoitus eräistä indeksillä tarkistetuista sosiaali\- ja terveydenhuollon asiakasmaksuista](1009.md) `1009/2025`
+- [Maa\- ja metsätalousministeriön asetus elintarvikevalvonnasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1010.md) `1010/2025`
+- [Verohallinnon päätös maksujen ja palautusten käyttämisestä verojen suoritukseksi](1011.md) `1011/2025`
+- [LUETTELO kuntien ja seurakuntien tuloveroprosenteista vuonna 2026](1012.md) `1012/2025`
+- [Valtioneuvoston asetus ammatillisesta koulutuksesta annetun valtioneuvoston asetuksen muuttamisesta](1013.md) `1013/2025`
+- [Valtioneuvoston asetus maanteistä annetun valtioneuvoston asetuksen 6 ja 7 §:n muuttamisesta](1014.md) `1014/2025`
+- [Valtioneuvoston asetus työsuojelulautakunnista annetun valtioneuvoston asetuksen muuttamisesta](1015.md) `1015/2025`
+- [Valtioneuvoston asetus tieteellisiin tai opetustarkoituksiin käytettävien eläinten suojelusta annetun valtioneuvoston asetuksen muuttamisesta](1016.md) `1016/2025`
+- [Maa\- ja metsätalousministeriön asetus kasvilajikeluettelosta annetun maa\- ja metsätalousministeriön asetuksen liitteen 2 ja 3 muuttamisesta](1017.md) `1017/2025`
+- [Oikeusministeriön asetus velallisen maksukyvyn arvioinnista yksityishenkilön velkajärjestelyssä annetun oikeusministeriön asetuksen 4 §:n muuttamisesta](1018.md) `1018/2025`
+- [Oikeusministeriön asetus suojaosuuden määrästä määräajoin maksettavan palkan ulosmittauksessa vuonna 2026](1019.md) `1019/2025`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän työeläkevakuutusmaksuprosentista vuonna 2026](1020.md) `1020/2025`
+- [Sosiaali\- ja terveysministeriön asetus yrittäjän työeläkevakuutusmaksuprosentista ja maatalousyrittäjän työeläkevakuutusmaksun perusprosentista vuonna 2026](1021.md) `1021/2025`
+- [Liikenne\- ja viestintäministeriön asetus maantielautoista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](1022.md) `1022/2025`
+- [Valtioneuvoston asetus liikenteen palvelujen valtionavustuksista annetun valtioneuvoston asetuksen muuttamisesta](1023.md) `1023/2025`
+- [Valtioneuvoston asetus yksityisteistä annetun valtioneuvoston asetuksen muuttamisesta](1024.md) `1024/2025`
+- [Valtioneuvoston asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteeseen ja eräisiin liitteeseen liittyviin säännöstöihin ja yleissopimuksen liitteeseen liittyviin suorituskykystandardeihin ja vaatimuksiin sekä yleissopimuksen vuoden 1978 ja vuoden 1988 lisäpöytäkirjojen liitteisiin tehdyistä muutoksista](1025.md) `1025/2025`
+- [Valtioneuvoston asetus sairausvakuutusmaksujen maksuprosenteista vuonna 2026](1026.md) `1026/2025`
+- [Verohallinnon päätös ennakonpidätysvelvollisuudesta vapauttamisesta](1027.md) `1027/2025`
+- [Opetus\- ja kulttuuriministeriön ilmoitus indeksillä tarkistetuista varhaiskasvatuksen asiakasmaksuista](1028.md) `1028/2025`
+- [Verohallinnon päätös rakennusmaan verotusarvon laskentaperusteista](1029.md) `1029/2025`
+- [Verohallinnon päätös yleisestä tiedonantovelvollisuudesta](1030.md) `1030/2025`
+- [Verohallinnon päätös varainsiirtoveron maksamisesta ja ilmoittamisesta](1031.md) `1031/2025`
+- [Laki  sosiaali\- ja terveydenhuollon järjestämisestä annetun lain muuttamisesta](1032.md) `1032/2025`
+- [Laki puolustusvoimista annetun lain muuttamisesta](1033.md) `1033/2025`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuoltoa ja pelastustoimea koskevan uudistuksen omaisuusjärjestelyistä kunnalle aiheutuvien välittömien kustannusten määrittämisestä](1034.md) `1034/2025`
+- [Valtioneuvoston asetus vuodelta 2025 maksettavasta tuotantosidonnaisesta tulotuesta annetun valtioneuvoston asetuksen 27 ja 29 §:n muuttamisesta](1035.md) `1035/2025`
+- [Valtioneuvoston asetus korkeakouluopiskelijoiden opiskeluterveydenhuollon maksuista vuonna 2026](1036.md) `1036/2025`
+- [Valtioneuvoston asetus vesienhoitoalueista annetun valtioneuvoston asetuksen muuttamisesta](1037.md) `1037/2025`
+- [Valtioneuvoston asetus vesienhoidon järjestämisestä annetun valtioneuvoston asetuksen muuttamisesta](1038.md) `1038/2025`
+- [Valtioneuvoston asetus valtion perintönä saaman omaisuuden luovuttamisesta annetun valtioneuvoston asetuksen 2 §:n kumoamisesta](1039.md) `1039/2025`
+- [Valtioneuvoston asetus vuodelta 2025 maksettavista maatalouden tuotannosta irrotetuista suorista tuista annetun valtioneuvoston asetuksen muuttamisesta](1040.md) `1040/2025`
+- [Laki raportoivien kryptovarapalvelun tarjoajien tiedonantovelvollisuudesta verotuksen alalla](1041.md) `1041/2025`
+- [Laki raportoivien finanssilaitosten tiedonantovelvollisuudesta verotuksen alalla](1042.md) `1042/2025`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](1043.md) `1043/2025`
+- [Laki hallinnollisesta yhteistyöstä verotuksen alalla ja direktiivin 77/799/ETY kumoamisesta annetun neuvoston direktiivin lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja direktiivin soveltamisesta annetun lain muuttamisesta](1044.md) `1044/2025`
+- [Laki raportoitavista järjestelyistä verotuksen alalla annetun lain muuttamisesta](1045.md) `1045/2025`
+- [Laki tuloverolain 47 §:n muuttamisesta](1046.md) `1046/2025`
+- [Valtioneuvoston asetus Euroopan unionin ja sen jäsenvaltioiden sekä Sveitsin valaliiton välisestä eurooppalaisia satelliittinavigointiohjelmia koskevasta yhteistyösopimuksesta](1047.md) `1047/2025`
+- [Laki varhaiskasvatuksen palvelusetelistä](1048.md) `1048/2025`
+- [Laki varhaiskasvatuslain 5 §:n muuttamisesta](1049.md) `1049/2025`
+- [Laki varhaiskasvatuksen asiakasmaksuista annetun lain 14 §:n muuttamisesta](1050.md) `1050/2025`
+- [Laki alkoholi\- ja alkoholijuomaverosta annetun lain 4 §:n ja liitteen muuttamisesta](1051.md) `1051/2025`
+- [Laki nestemäisten polttoaineiden valmisteverosta annetun lain liitteen muuttamisesta](1052.md) `1052/2025`
+- [Laki sairausvakuutuslain 4 luvun muuttamisesta](1053.md) `1053/2025`
+- [Laki elatustukilain muuttamisesta](1054.md) `1054/2025`
+- [Laki lapsen elatuksesta annetun lain muuttamisesta](1055.md) `1055/2025`
+- [Laki tulotietojärjestelmästä annetun lain 13 §:n muuttamisesta](1056.md) `1056/2025`
+- [Laki Kansaneläkelaitoksesta annetun lain muuttamisesta](1057.md) `1057/2025`
+- [Laki valtiontalouden tarkastusvirastosta annetun lain muuttamisesta](1058.md) `1058/2025`
+- [Laki tulotietojärjestelmästä annetun lain 13 §:n muuttamisesta](1059.md) `1059/2025`
+- [Laki sähkö\- ja maakaasuverkkomaksuista annetun lain 5 §:n muuttamisesta](1060.md) `1060/2025`
+- [Valtioneuvoston asetus kiinteän betoniaseman ja betonituotetehtaan ympäristönsuojeluvaatimuksista annetun valtioneuvoston asetuksen muuttamisesta](1061.md) `1061/2025`
+- [Valtioneuvoston asetus merenhoidon järjestämisestä annetun valtioneuvoston asetuksen muuttamisesta](1062.md) `1062/2025`
+- [Valtioneuvoston asetus fluorattuja kasvihuonekaasuja, otsonikerrosta heikentäviä aineita tai vaihtoehtoisia kylmäaineita sisältävien laitteiden käsittelystä](1063.md) `1063/2025`
+- [Maa\- ja metsätalousministeriön asetus eräiden Metsähallituksen julkisten hallintotehtävien suoritteiden maksuista](1064.md) `1064/2025`
+- [Opetus\- ja kulttuuriministeriön asetus Museoviraston suoritteiden maksullisuudesta vuosina 2026–2028](1065.md) `1065/2025`
+- [Laki valtioneuvoston jäsenille maksettavista palkkioista ja korvauksista annetun lain 1 §:n väliaikaisesta muuttamisesta](1066.md) `1066/2025`
+- [Laki valtion eläkerahastosta annetun lain 6 §:n muuttamisesta](1067.md) `1067/2025`
+- [Laki  henkilöautojen romutuspalkkiosta vuosina 2026 ja 2027](1068.md) `1068/2025`
+- [Valtioneuvoston asetus porotaloudesta saatujen tulojen vuoden 2025 verotuksessa noudatettavista tuottoperusteista](1069.md) `1069/2025`
+- [Valtioneuvoston asetus Euroopan unionin alue\- ja rakennepolitiikan rahastoista rahoitettavien kustannusten tukikelpoisuudesta annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](1070.md) `1070/2025`
+- [Valtioneuvoston asetus Työllisyys\-, kehittämis\- ja hallintokeskuksen kansainvälisen rekrytoinnin palveluista](1071.md) `1071/2025`
+- [Valtiovarainministeriön asetus vesivoimalaitoksen ja sen rakenteiden jälleenhankinta\-arvon perusteista määrättäessä verotusarvoa vuodelta 2025](1072.md) `1072/2025`
+- [Valtiovarainministeriön asetus rakennusten jälleenhankinta\-arvon perusteista määrättäessä verotusarvoa vuodelta 2025](1073.md) `1073/2025`
+- [Laki poliittisen mainonnan avoimuutta ja kohdentamista koskevan Euroopan unionin asetuksen noudattamisen valvonnan järjestämisestä](1074.md) `1074/2025`
+- [Laki verkon välityspalvelujen valvonnasta annetun lain muuttamisesta](1075.md) `1075/2025`
+- [Laki ehdokkaan vaalirahoituksesta annetun lain 4 ja 10 §:n muuttamisesta](1076.md) `1076/2025`
+- [Laki puoluelain 8 b ja 9 e §:n muuttamisesta](1077.md) `1077/2025`
+- [Laki valtiontalouden tarkastusvirastosta annetun lain muuttamisesta](1078.md) `1078/2025`
+- [Laki viranomaisten toiminnan julkisuudesta annetun lain 24 §:n muuttamisesta](1079.md) `1079/2025`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](1080.md) `1080/2025`
+- [Ulkoministeriön asetus investointituki kehitysmaille –rahoitusinstrumentilla rahoitettavista hankkeista Vietnamin kanssa tehdystä puitesopimuksen muutoksesta](1081.md) `1081/2025`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](1082.md) `1082/2025`
+- [Valtioneuvoston asetus Kaakkois\-Aasian ystävyys\- ja yhteistyösopimuksesta](1083.md) `1083/2025`
+- [Laki elinkeinotulon verottamisesta annetun lain 52 ja 52 f §:n muuttamisesta](1084.md) `1084/2025`
+- [Laki varojen arvostamisesta verotuksessa annetun lain muuttamisesta](1085.md) `1085/2025`
+- [Laki tuloverolain 33 b §:n väliaikaisesta muuttamisesta](1086.md) `1086/2025`
+- [Laki vesihuoltolain muuttamisesta](1087.md) `1087/2025`
+- [Valtioneuvoston asetus yhteistoiminnasta valtion virastoissa ja laitoksissa annetussa laissa säädetyn hyvityksen enimmäismäärän tarkistamisesta](1088.md) `1088/2025`
+- [Valtioneuvoston asetus vuodelta 2025 maksettavasta lihan ja vuodelta 2024 maksettavasta maidon kuljetusavustuksesta sekä vuodelta 2025 maksettavasta eräiden kotieläintalouden palvelujen tuesta](1089.md) `1089/2025`
+- [Valtioneuvoston asetus kansainvälisestä taksiliikenteestä tiellä Norjan kanssa tehdystä sopimuksesta](1090.md) `1090/2025`
+- [Valtioneuvoston asetus sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta annetun lain voimaantulosta](1091.md) `1091/2025`
+- [Valtioneuvoston asetus työnantajan ja henkilöstön välisestä yhteistoiminnasta kunnassa ja hyvinvointialueella annetussa laissa säädetyn hyvityksen enimmäismäärän tarkistamisesta](1092.md) `1092/2025`
+- [Maa\- ja metsätalousministeriön asetus Ruokaviraston maksullisista suoritteista vuonna 2026](1093.md) `1093/2025`
+- [Valtioneuvoston asetus sotainvalidien puolisoiden ja leskien sekä sotaleskien kuntoutuksesta vuonna 2026](1094.md) `1094/2025`
+- [Valtioneuvoston asetus valtakunnallisesta romaniasiain neuvottelukunnasta ja alueellisista romaniasiain neuvottelukunnista annetun valtioneuvoston asetuksen 7 §:n muuttamisesta](1095.md) `1095/2025`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 3 §:n muuttamisesta](1096.md) `1096/2025`
+- [Laki virvoitusjuomaverosta annetun lain muuttamisesta annetun lain kumoamisesta](1097.md) `1097/2025`
+- [Laki virvoitusjuomaverosta annetun lain muuttamisesta](1098.md) `1098/2025`
+- [Laki alkoholi\- ja alkoholijuomaverosta annetun lain liitteen muuttamisesta](1099.md) `1099/2025`
+- [Valtioneuvoston asetus Etelämannerta koskevaan sopimukseen liittyvän ympäristönsuojelupöytäkirjan liitteen V alaisista toimenpiteistä](1100.md) `1100/2025`
+- [Valtioneuvoston asetus kuluttajamarkkinoilta kielletyistä psykoaktiivisista aineista annetun valtioneuvoston asetuksen liitteen muuttamisesta](1101.md) `1101/2025`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](1102.md) `1102/2025`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](1103.md) `1103/2025`
+- [Laki pakkokeinolain 8 luvun muuttamisesta](1104.md) `1104/2025`
+- [Laki arvonimistä suoritettavasta verosta annetun lain 2 §:n muuttamisesta](1105.md) `1105/2025`
+- [Laki yleisistä kielitutkinnoista annetun lain muuttamisesta](1106.md) `1106/2025`
+- [Laki julkisyhteisöjen henkilöstöltä vaadittavasta kielitaidosta annetun lain muuttamisesta](1107.md) `1107/2025`
+- [Laki sosiaali\- ja terveydenhuollon järjestämisestä annetun lain muuttamisesta](1108.md) `1108/2025`
+- [Laki rajat ylittävästä terveydenhuollosta annetun lain 20 §:n muuttamisesta](1109.md) `1109/2025`
+- [Laki sosiaali\- ja terveydenhuollon sekä pelastustoimen järjestämisestä Uudellamaalla annetun lain 2 §:n muuttamisesta](1110.md) `1110/2025`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain muuttamisesta](1111.md) `1111/2025`
+- [Laki hyvinvointialue\- ja maakuntajakolain muuttamisesta](1112.md) `1112/2025`
+- [Maakuntajakolaki](1113.md) `1113/2025`
+- [Laki hyvinvointialueesta annetun lain muuttamisesta](1114.md) `1114/2025`
+- [Laki sosiaali\- ja terveydenhuoltoa ja pelastustoimea koskevan uudistuksen toimeenpanosta ja sitä koskevan lainsäädännön voimaanpanosta annetun lain 6 ja 7 §:n muuttamisesta](1115.md) `1115/2025`
+- [Laki Digi\- ja väestötietovirastosta annetun lain 3 §:n muuttamisesta](1116.md) `1116/2025`
+- [Laki hallinnon yhteisistä sähköisen asioinnin tukipalveluista annetun lain 5 ja 25 §:n muuttamisesta](1117.md) `1117/2025`
+- [Laki sähkön ja eräiden polttoaineiden valmisteverosta annetun lain 2 §:n muuttamisesta](1118.md) `1118/2025`
+- [Valtioneuvoston asetus huumausaineina pidettävistä aineista, valmisteista ja kasveista annetun valtioneuvoston asetuksen muuttamisesta](1119.md) `1119/2025`
+- [Ulkoministeriön asetus Suomen tuesta Mécanisme Palestino\-Européen de Gestion et d’Aide Socio\-économique PEGASE\-mekanismille palestiinalaishallinnon kanssa tehdyn sopimuksen muuttamisesta tehdystä sopimuksesta](1120.md) `1120/2025`
+- [Oikeusministeriön asetus vangitsemisasioiden ja muiden kiireellisten asioiden käsittelystä käräjäoikeuksissa eräissä tapauksissa annetun oikeusministeriön asetuksen 1 ja 2 §:n muuttamisesta](1121.md) `1121/2025`
+- [Oikeusministeriön asetus kuluttajariitalautakunnasta annetun oikeusministeriön asetuksen 6 §:n muuttamisesta](1122.md) `1122/2025`
+- [Valtioneuvoston asetus kaivostoiminnasta](1123.md) `1123/2025`
+- [Valtioneuvoston asetus Euroopan meri\-, kalatalous\- ja vesiviljelyrahaston Suomen ohjelmasta 2021–2027 myönnettävästä tuesta annetun valtioneuvoston asetuksen muuttamisesta](1124.md) `1124/2025`
+- [Valtioneuvoston asetus kaupallisen kalastuksen vakuutustuesta annetun valtioneuvoston asetuksen muuttamisesta](1125.md) `1125/2025`
+- [Valtioneuvoston asetus metsätalouden määräaikaisesta kannustejärjestelmästä annetun valtioneuvoston asetuksen 15 §:n muuttamisesta](1126.md) `1126/2025`
+- [Valtioneuvoston asetus Tornionjoen kalastusalueella sovellettavista kansallisista kalastusmääräyksistä annetun valtioneuvoston asetuksen 1 ja 4 §:n muuttamisesta](1127.md) `1127/2025`
+- [Valtioneuvoston asetus tulvariskien hallinnasta annetun valtioneuvoston asetuksen muuttamisesta](1128.md) `1128/2025`
+- [Valtioneuvoston asetus vesialan osaamisen kasvun ja kansainvälistymisen hankkeisiin vuosina 2022–2026 myönnettävästä valtionavustuksesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](1129.md) `1129/2025`
+- [Valtioneuvoston asetus vesihuollon ja patojen turvallisuuden, toimintavarmuuden ja varautumisen hankkeisiin vuosina 2023–2035 myönnettävästä valtionavustuksesta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1130.md) `1130/2025`
+- [Valtioneuvoston asetus vesistön ja vesiympäristön käyttöä ja tilaa parantavien hankkeiden avustamisesta annetun valtioneuvoston asetuksen muuttamisesta](1131.md) `1131/2025`
+- [Valtioneuvoston asetus kaupalliselle kalastukselle ja kalankasvatukselle vahinkoja aiheuttavien halliurosten poistamisesta aiheutuviin kustannuksiin määräaikana myönnettävästä avustuksesta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](1132.md) `1132/2025`
+- [Valtioneuvoston asetus kalastuksesta annetun valtioneuvoston asetuksen muuttamisesta](1133.md) `1133/2025`
+- [Valtioneuvoston asetus kaupallisen kalastuksen kiintiöjärjestelmästä annetun valtioneuvoston asetuksen muuttamisesta](1134.md) `1134/2025`
+- [Valtioneuvoston asetus lohenkalastuksen rajoituksista annetun valtioneuvoston asetuksen 7 ja 9 §:n muuttamisesta](1135.md) `1135/2025`
+- [Valtioneuvoston asetus metsien kestävästä hoidosta ja käytöstä annetun valtioneuvoston asetuksen 7 §:n muuttamisesta](1136.md) `1136/2025`
+- [Valtioneuvoston asetus Suomen metsäkeskuksen toiminnasta annetun valtioneuvoston asetuksen 22 §:n muuttamisesta](1137.md) `1137/2025`
+- [Valtioneuvoston asetus saimaannorpan suojelusta kaupalliselle kalastukselle aiheutuvien taloudellisten vaikutusten johdosta vuosina 2024–2027 myönnettävästä avustuksesta annetun valtioneuvoston asetuksen muuttamisesta](1138.md) `1138/2025`
+- [Valtioneuvoston asetus vuosina 2020–2027 maankäyttösektorin ilmastotoimenpiteisiin myönnettävästä avustuksesta ja tähän tarkoitukseen osoitetusta määrärahasta annetun valtioneuvoston asetuksen muuttamisesta](1139.md) `1139/2025`
+- [Laki vuoden 2026 tuloveroasteikosta](1140.md) `1140/2025`
+- [Laki tuloverolain muuttamisesta](1141.md) `1141/2025`
+- [Laki verotusmenettelystä annetun lain 16 §:n muuttamisesta](1142.md) `1142/2025`
+- [Laki varainsiirtoverolain muuttamisesta](1143.md) `1143/2025`
+- [Laki ulkomailta tulevan palkansaajan lähdeverosta annetun lain muuttamisesta](1144.md) `1144/2025`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](1145.md) `1145/2025`
+- [Laki maatilatalouden tuloverolain 6 ja 7 §:n muuttamisesta](1146.md) `1146/2025`
+- [Laki merituulivoimasta talousvyöhykkeellä annetun lain muuttamisesta](1147.md) `1147/2025`
+- [Laki datan hallinnan ja jakamisen valvonnasta](1148.md) `1148/2025`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](1149.md) `1149/2025`
+- [Laki sähköisen viestinnän palveluista annetun lain muuttamisesta](1150.md) `1150/2025`
+- [Laki  kuluttajansuojaviranomaisten eräistä toimivaltuuksista annetun lain muuttamisesta](1151.md) `1151/2025`
+- [Laki sosiaaliturva\-asioiden muutoksenhakulautakunnasta annetun lain muuttamisesta](1152.md) `1152/2025`
+- [Laki opintotuen muutoksenhakulautakunnasta annetun lain kumoamisesta](1153.md) `1153/2025`
+- [Laki opintotukilain muuttamisesta](1154.md) `1154/2025`
+- [Laki koulumatkatukilain 9 §:n muuttamisesta](1155.md) `1155/2025`
+- [Laki opetus\- ja kulttuuriministeriön hallinnonalan virastoista annetun lain 1 §:n muuttamisesta](1156.md) `1156/2025`
+- [Laki työkyvyttömyyseläkkeellä olevien työhönpaluun edistämisestä annetun lain 12 §:n muuttamisesta](1157.md) `1157/2025`
+- [Verohallinnon päätös veroilmoituksessa annettavista tiedoista annetun päätöksen 11 ja 16 §:n muuttamisesta](1158.md) `1158/2025`
+- [Laki sosiaali\- ja terveystietojen toissijaisesta käytöstä annetun lain muuttamisesta](1159.md) `1159/2025`
+- [Laki kliinisestä lääketutkimuksesta annetun lain 30 ja 34 §:n muuttamisesta](1160.md) `1160/2025`
+- [Laki lääkinnällisistä laitteista annetun lain muuttamisesta](1161.md) `1161/2025`
+- [Laki lääketieteellisestä tutkimuksesta annetun lain 21 c ja 22 a §:n muuttamisesta](1162.md) `1162/2025`
+- [Laki Terveyden ja hyvinvoinnin laitoksesta annetun lain 5 a §:n muuttamisesta](1163.md) `1163/2025`
+- [Laki sosiaali\- ja terveydenhuollon asiakastietojen käsittelystä annetun lain 61 §:n kumoamisesta](1164.md) `1164/2025`
+- [Sisäministeriön asetus suojelupoliisin suoritteiden maksullisuudesta vuonna 2026](1165.md) `1165/2025`
+- [Laki valtion tutkimus\- ja kehittämistoiminnan rahoituksesta vuosina 2024–2030 annetun lain 2 §:n muuttamisesta](1166.md) `1166/2025`
+- [Valtioneuvoston asetus merten biologisen monimuotoisuuden suojelusta ja kestävästä käytöstä kansallisen lainkäyttövallan ulkopuolisilla alueilla tehdystä, Yhdistyneiden Kansakuntien merioikeusyleissopimuksen alaisesta sopimuksesta ja merensuojelulain muuttamisesta annetun lain voimaantulosta](1167.md) `1167/2025`
+- [Valtioneuvoston asetus merensuojelusta](1168.md) `1168/2025`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](1169.md) `1169/2025`
+- [Ulkoministeriön asetus Suomen tuesta palestiinalaishallinnon opetussektorille palestiinalaishallinnon kanssa tehdystä sopimuksesta](1170.md) `1170/2025`
+- [Valtioneuvoston asetus liikunnan edistämisestä annetun valtioneuvoston asetuksen 4 ja 11 §:n muuttamisesta](1171.md) `1171/2025`
+- [Valtioneuvoston asetus korkeakouluopiskelijoiden ruokailun tukemisen perusteista annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](1172.md) `1172/2025`
+- [Valtioneuvoston asetus vesihuollosta](1173.md) `1173/2025`
+- [Valtioneuvoston asetus teollisuuden bioperäisen hiilidioksidin talteenoton edistämiseksi myönnettävästä avustuksesta vuosina 2026–2032](1174.md) `1174/2025`
+- [Valtioneuvoston asetus vesitalousasioista annetun valtioneuvoston asetuksen muuttamisesta](1175.md) `1175/2025`
+- [Valtioneuvoston asetus adoptiosta annetun valtioneuvoston asetuksen 11 ja 13 §:n muuttamisesta](1176.md) `1176/2025`
+- [Valtioneuvoston asetus Lupa\- ja valvontaviraston maksuista vuonna 2026](1177.md) `1177/2025`
+- [Valtioneuvoston asetus elinvoimakeskusten sekä Työllisyys\-, kehittämis\- ja hallintokeskuksen maksuista vuonna 2026](1178.md) `1178/2025`
+- [Valtioneuvoston asetus opintovapaa\-asetuksen 12 §:n muuttamisesta](1179.md) `1179/2025`
+- [Valtioneuvoston asetus alueiden kehittämisen ja Euroopan unionin alue\- ja rakennepolitiikan hankkeiden rahoittamisesta annetun valtioneuvoston asetuksen 6 ja 7 §:n muuttamisesta](1180.md) `1180/2025`
+- [Valtioneuvoston asetus alueiden kehittämisestä ja Euroopan unionin alue\- ja rakennepolitiikan toimeenpanosta annetun valtioneuvoston asetuksen muuttamisesta](1181.md) `1181/2025`
+- [Valtioneuvoston asetus ilman huoltajaa olevan lapsen edustajalle maksettavasta palkkiosta ja kulukorvauksesta annetun valtioneuvoston asetuksen 5 ja 6 §:n muuttamisesta](1182.md) `1182/2025`
+- [Valtioneuvoston asetus kaivosturvallisuudesta annetun valtioneuvoston asetuksen 17 §:n muuttamisesta](1183.md) `1183/2025`
+- [Valtioneuvoston asetus Kilpailu\- ja kuluttajavirastosta annetun valtioneuvoston asetuksen 2 §:n kumoamisesta](1184.md) `1184/2025`
+- [Valtioneuvoston asetus merimiesten palkkaturvasta annetun valtioneuvoston asetuksen muuttamisesta](1185.md) `1185/2025`
+- [Valtioneuvoston asetus palkkaturvasta annetun valtioneuvoston asetuksen muuttamisesta](1186.md) `1186/2025`
+- [Valtioneuvoston asetus räjähteiden valmistuksen ja varastoinnin valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](1187.md) `1187/2025`
+- [Valtioneuvoston asetus siviilipalveluksesta annetun valtioneuvoston asetuksen 2 ja 2 a §:n muuttamisesta](1188.md) `1188/2025`
+- [Valtioneuvoston asetus työ\- ja elinkeinoministeriöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1189.md) `1189/2025`
+- [Valtioneuvoston asetus työvoimapalveluiden ohjauksesta annetun valtioneuvoston asetuksen muuttamisesta](1190.md) `1190/2025`
+- [Valtioneuvoston asetus vaarallisten kemikaalien käsittelyn ja varastoinnin valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](1191.md) `1191/2025`
+- [Valtioneuvoston asetus valtionavustuksesta yritystoiminnan kehittämiseksi vuosina 2021–2028 annetun valtioneuvoston asetuksen muuttamisesta](1192.md) `1192/2025`
+- [Valtioneuvoston asetus valtion korvauksesta kuntouttavan työtoiminnan järjestämiseen annetun valtioneuvoston asetuksen 1 ja 2 §:n muuttamisesta](1193.md) `1193/2025`
+- [Valtioneuvoston asetus ydinenergia\-asetuksen muuttamisesta](1194.md) `1194/2025`
+- [Valtioneuvoston asetus geenitekniikkalaissa tarkoitettujen suoritteiden maksullisuudesta vuosina 2026 ja 2027](1195.md) `1195/2025`
+- [Valtioneuvoston asetus moottoribensiinin, dieselöljyn ja eräiden muiden nestemäisten polttoaineiden laatuvaatimuksista annetun valtioneuvoston asetuksen muuttamisesta](1196.md) `1196/2025`
+- [Valtioneuvoston asetus keskisuurten energiantuotantoyksiköiden ja \-laitosten ympäristönsuojeluvaatimuksista annetun valtioneuvoston asetuksen muuttamisesta](1197.md) `1197/2025`
+- [Sosiaali\- ja terveysministeriön asetus hedelmöityshoidoista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1198.md) `1198/2025`
+- [Maa\- ja metsätalousministeriön asetus Maanmittauslaitoksen kiinteistötoimitusmaksuista vuonna 2026](1199.md) `1199/2025`
+- [Maa\- ja metsätalousministeriön asetus Luonnonvarakeskuksen maksullisista suoritteista vuosina 2026 ja 2027](1200.md) `1200/2025`
+- [Maa\- ja metsätalousministeriön asetus Maanmittauslaitoksen maksuista sekä kaupanvahvistuksesta perittävistä maksuista ja korvauksista vuonna 2026](1201.md) `1201/2025`
+- [Sisäministeriön ilmoitus sisäministeriön asetuksesta Veikkaus Oy:n rahapelien pelisäännöistä](1202.md) `1202/2025`
+- [Valtiovarainministeriön asetus positiivisesta luottotietorekisteristä annettavien suoritteiden maksullisuudesta vuonna 2026](1203.md) `1203/2025`
+- [Sisäministeriön asetus hyvinvointialueen seuranta\- ja arviointivelvollisuudesta sekä aluehallintoviraston asiantuntija\-arviosta annetun sisäministeriön asetuksen muuttamisesta](1204.md) `1204/2025`
+- [Sisäministeriön asetus pelastustoimen palvelutasopäätöksestä annetun sisäministeriön asetuksen muuttamisesta](1205.md) `1205/2025`
+- [Sisäministeriön asetus pelastustoimen tilannekuvatoiminnasta annetun sisäministeriön asetuksen 3 §:n muuttamisesta](1206.md) `1206/2025`
+- [Sisäministeriön asetus tiedottamisesta säteilyvaaratilanteessa annetun sisäministeriön asetuksen 4 §:n muuttamisesta](1207.md) `1207/2025`
+- [Sisäministeriön asetus ulkoisista pelastussuunnitelmista annetun sisäministeriön asetuksen muuttamisesta](1208.md) `1208/2025`
+- [Sisäministeriön asetus pelastustoimen virkapuvusta sekä pelastusviranomaisen henkilökortista annetun sisäministeriön asetuksen muuttamisesta](1209.md) `1209/2025`
+- [Valtioneuvoston asetus jalkaväkimiinojen käytön, varastoinnin, tuotannon ja siirron kieltämisestä ja niiden hävittämisestä tehdyn yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta annetun lain kumoamisesta annetun lain voimaantulosta](1210.md) `1210/2025`
+- [Valtioneuvoston asetus rikoslain 11 ja 15 luvun muuttamisesta annetun lain voimaantulosta](1211.md) `1211/2025`
+- [Valtioneuvoston asetus pakkokeinolain 10 luvun 3 ja 17 §:n muuttamisesta annetun lain voimaantulosta](1212.md) `1212/2025`
+- [Valtioneuvoston asetus sotilaskurinpidosta ja rikostorjunnasta Puolustusvoimissa annetun lain 140 §:n muuttamisesta annetun lain voimaantulosta](1213.md) `1213/2025`
+- [Valtiovarainministeriön asetus Verohallinnon suoritteiden maksullisuudesta vuosina 2026 ja 2027](1214.md) `1214/2025`
+- [Valtiovarainministeriön asetus yksittäisten kuntien verovuoden 2026 yhteisöveron jako\-osuuksien laskentaperusteista](1215.md) `1215/2025`
+- [Työ\- ja elinkeinoministeriön asetus Patentti\- ja rekisterihallituksen maksullisista suoritteista vuonna 2026](1216.md) `1216/2025`
+- [Sosiaali\- ja terveysministeriön asetus merimieseläkekassan vakuutusteknisen vastuuvelan laskuperusteista ja perusteista merimieseläkelain 153 §:n mukaista vastuunjakoa varten annetun sosiaali\- ja terveysministeriön asetuksen liitteiden muuttamisesta](1217.md) `1217/2025`
+- [Maa\- ja metsätalousministeriön asetus Suomen riistakeskuksen ja riistanhoitoyhdistysten julkisten hallintotehtävien maksuista vuosina 2026 ja 2027](1218.md) `1218/2025`
+- [Maa\- ja metsätalousministeriön asetus Suomen metsäkeskuksen suoritteiden maksullisuudesta vuosina 2026 ja 2027](1219.md) `1219/2025`
+- [Sisäministeriön asetus Hätäkeskuslaitoksen maksullisista suoritteista vuosina 2026 ja 2027](1220.md) `1220/2025`
+- [Sisäministeriön asetus Pelastusopiston maksullisista suoritteista vuosina 2026 ja 2027](1221.md) `1221/2025`
+- [Sosiaali\- ja terveysministeriön asetus eläkesäätiön vastuuvelan laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1222.md) `1222/2025`
+- [Sosiaali\- ja terveysministeriön asetus eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1223.md) `1223/2025`
+- [Puolustusministeriön asetus Maanpuolustuskoulutusyhdistyksen maksullisista suoritteista vuonna 2026](1224.md) `1224/2025`
+- [Puolustusministeriön asetus puolustusministeriön maksullisista suoritteista vuosina 2026–2028](1225.md) `1225/2025`
+- [Puolustusministeriön asetus Puolustusvoimien maksullisista suoritteista vuosina 2026 ja 2027](1226.md) `1226/2025`
+- [Sosiaali\- ja terveysministeriön asetus poronhoitajien sijaisavun enimmäismäärästä vuonna 2026](1227.md) `1227/2025`
+- [Sosiaali\- ja terveysministeriön asetus turkistuottajille järjestettävien lomituspalvelujen enimmäismääristä vuonna 2026](1228.md) `1228/2025`
+- [Sosiaali\- ja terveysministeriön asetus työterveyshuollon erikoislääkärikoulutuksen kustannuksiin valtion varoista vuonna 2026 myönnettävästä avustuksesta](1229.md) `1229/2025`
+- [Sosiaali\- ja terveysministeriön asetus Sosiaali\- ja terveysalan tietolupaviranomaisen suoritteiden maksullisuudesta](1230.md) `1230/2025`
+- [Maa\- ja metsätalousministeriön asetus eläinlääkärin lääkekirjanpidosta annetun maa\- ja metsätalousministeriön asetuksen 10 §:n muuttamisesta](1231.md) `1231/2025`
+- [Maa\- ja metsätalousministeriön asetus tuotantoeläinten lääkityksestä pidettävästä kirjanpidosta annetun maa\- ja metsätalousministeriön asetuksen 5 §:n muuttamisesta](1232.md) `1232/2025`
+- [Maa\- ja metsätalousministeriön asetus hukkakauran torjunnasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1233.md) `1233/2025`
+- [Maa\- ja metsätalousministeriön asetus luonnonmukaisesta tuotannosta annetun maa\- ja metsätalousministeriön asetuksen liitteen muuttamisesta](1234.md) `1234/2025`
+- [Sosiaali\- ja terveysministeriön asetus kliinisiä lääketutkimuksia koskevista maksullisista suoritteista](1235.md) `1235/2025`
+- [Sosiaali\- ja terveysministeriön asetus talousveden ja lämpimän käyttöveden kanssa kosketuksissa olevien tuotteiden vaatimustenmukaisuuden arviointilaitosten ilmoittamisesta ja tuotteen hygieenisistä vähimmäisvaatimuksista käytettäväksi vesilaitteistoasennuksissa](1236.md) `1236/2025`
+- [Maa\- ja metsätalousministeriön asetus turkiseläimissä esiintyvän H5\-alatyypin lintuinfluenssan vastustamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1237.md) `1237/2025`
+- [Maa\- ja metsätalousministeriön asetus kotimaankauppaa varten kerättäville nauta\-, sika\-, lammas\-, vuohi\- ja hevoseläinten sukusoluille ja alkioille eläintautien vastustamiseksi asetettavista vaatimuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1238.md) `1238/2025`
+- [Maa\- ja metsätalousministeriön asetus eräiden muiksi torjuttaviksi eläintaudeiksi nimettyjen eläintautien vastustamisesta annetun maa\- ja metsätalousministeriön asetuksen 2 §:n muuttamisesta](1239.md) `1239/2025`
+- [Maa\- ja metsätalousministeriön asetus muista torjuttavista, valvottavista ja muista ilmoitettavista eläintaudeista, eläintautien ilmoittamisesta sekä mikrobikantojen toimittamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1240.md) `1240/2025`
+- [Maa\- ja metsätalousministeriön asetus eräiden valvottaviksi eläintaudeiksi nimettyjen tautien vastustamisesta annetun maa\- ja metsätalousministeriön asetuksen 2 ja 3 §:n muuttamisesta](1241.md) `1241/2025`
+- [Maa\- ja metsätalousministeriön asetus nautaeläinten BSE\-taudin sekä lammas\- ja vuohieläinten scrapien vastustamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1242.md) `1242/2025`
+- [Maa\- ja metsätalousministeriön asetus vesiviljelypitopaikkojen hyväksymisestä ja eläinterveyttä koskevista vaatimuksista maan sisäisissä vesieläinten siirroissa annetun maa\- ja metsätalousministeriön asetuksen 6 §:n muuttamisesta](1243.md) `1243/2025`
+- [Maa\- ja metsätalousministeriön asetus b\- ja c\-luokan eläintautien vastustamisesta annetun maa\- ja metsätalousministeriön asetuksen 2 ja 24 §:n muuttamisesta](1244.md) `1244/2025`
+- [Verohallinnon päätös työhuonevähennyksen määrästä vuodelta 2026 toimitettavassa verotuksessa](1245.md) `1245/2025`
+- [Verohallinnon päätös ennakonpidätyksen toimittamistavoista ja määrästä](1246.md) `1246/2025`
+- [Työ\- ja elinkeinoministeriön asetus Kilpailu\- ja kuluttajaviraston maksullisista suoritteista vuosina 2024–2026 annetun työ\- ja elinkeinoministeriön asetuksen 2 §:n muuttamisesta](1247.md) `1247/2025`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveysministeriön työjärjestyksen muuttamisesta](1248.md) `1248/2025`
+- [Verohallinnon päätös suurten konsernien vähimmäisveroon liittyvien ilmoitusten antamisesta](1249.md) `1249/2025`
+- [Sisäministeriön asetus  vapaaehtoisen paluun avustuksesta vuosina 2026 ja 2027](1250.md) `1250/2025`
+- [Valtiovarainministeriön asetus vuoden 2026 taidekilpailupalkintojen verovapaudesta](1251.md) `1251/2025`
+- [Ympäristöministeriön asetus Suomen ympäristökeskuksen maksullisista suoritteista](1252.md) `1252/2025`
+- [Valtioneuvoston asetus ympäristövaikutusten arviointimenettelystä annetun valtioneuvoston asetuksen 1 ja 3 §:n muuttamisesta](1253.md) `1253/2025`
+- [Valtioneuvoston asetus sosiaali\- ja terveysministeriöstä annetun valtioneuvoston asetuksen 2 §:n 3 kohdan kumoamisesta](1254.md) `1254/2025`
+- [Valtioneuvoston asetus sairausvakuutuksesta korvattavan taksimatkan enimmäishinnasta vuonna 2026](1255.md) `1255/2025`
+- [Valtioneuvoston asetus valtiovarainministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](1256.md) `1256/2025`
+- [Valtiovarainministeriön asetus  Tilastokeskuksen suoritteiden maksullisuudesta vuonna 2026](1257.md) `1257/2025`
+- [Valtioneuvoston asetus valtion virkaehtosopimusasetuksen 9 ja 10 §:n muuttamisesta](1258.md) `1258/2025`
+- [Valtioneuvoston asetus liputuksesta Suomen lipulla annetun asetuksen 2 ja 3 §:n muuttamisesta](1259.md) `1259/2025`
+- [Valtioneuvoston asetus Euroopan unionin ja kansallisten viljelijätukien hyvän maatalouden ja ympäristön vaatimuksista annetun valtioneuvoston asetuksen 7 ja 10 §:n muuttamisesta](1260.md) `1260/2025`
+- [Valtioneuvoston asetus Euroopan unionin viljelijätukien ehdollisuuden lakisääteisistä hoitovaatimuksista sekä niiden ja hyvän maatalouden ja ympäristön vaatimusten noudattamisen valvonnasta ja sosiaalisen ehdollisuuden vaatimuksista annetun valtioneuvoston asetuksen liitteen 3 muuttamisesta](1261.md) `1261/2025`
+- [Opetus\- ja kulttuuriministeriön asetus eräiden valtion oppilaitosten maksullisista suoritteista vuosina 2026–2029](1262.md) `1262/2025`
+- [Liikenne\- ja viestintäministeriön asetus Ilmatieteen laitoksen maksullisista suoritteista](1263.md) `1263/2025`
+- [Liikenne\- ja viestintäministeriön asetus Väyläviraston maksullisista suoritteista](1264.md) `1264/2025`
+- [Valtioneuvoston asetus eräiden maa\- ja puutarhatalouden kansallisista tuista annettujen valtioneuvoston asetusten kumoamisesta](1265.md) `1265/2025`
+- [Valtioneuvoston asetus eräiden maatalouden pinta\-alaperusteisten tukien myöntämisen yleisistä edellytyksistä annetun valtioneuvoston asetuksen muuttamisesta](1266.md) `1266/2025`
+- [Maa\- ja metsätalousministeriön asetus eräiden maa\- ja puutarhatalouden kansallisista tuista annettujen maa\- ja metsätalousministeriön asetusten kumoamisesta](1267.md) `1267/2025`
+- [Valtioneuvoston asetus maatalouden vesiensuojelun tuesta vuosina 2026–2036](1268.md) `1268/2025`
+- [Valtioneuvoston asetus vesienhoidon järjestämisestä annetun valtioneuvoston asetuksen muuttamisesta](1269.md) `1269/2025`
+- [Valtioneuvoston asetus kunnan peruspalvelujen valtionosuudesta annetun valtioneuvoston asetuksen muuttamisesta](1270.md) `1270/2025`
+- [Valtioneuvoston asetus hyvinvointialueiden rahoituksesta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1271.md) `1271/2025`
+- [Valtiovarainministeriön asetus Digi\- ja väestötietoviraston suoritteiden maksuista vuonna 2026](1272.md) `1272/2025`
+- [Valtioneuvoston asetus ilmailulta rajoitetuista alueista annetun valtioneuvoston asetuksen liitteiden 2 ja 3 muuttamisesta](1273.md) `1273/2025`
+- [Valtiovarainministeriön asetus valtiovarainministeriön maksullisista suoritteista vuosina 2026 ja 2027](1274.md) `1274/2025`
+- [Valtioneuvoston asetus ammattikorkeakouluista annetun valtioneuvoston asetuksen liitteen muuttamisesta](1275.md) `1275/2025`
+- [Ympäristöministeriön asetus vapaaehtoisesta ekologisesta kompensaatiosta annetun ympäristöministeriön asetuksen 8 §:n muuttamisesta](1276.md) `1276/2025`
+- [Maa\- ja metsätalousministeriön asetus kunnaneläinlääkärin maksullisista suoritteista vuonna 2026](1277.md) `1277/2025`
+- [Maa\- ja metsätalousministeriön asetus eläinlääkintävahinkojen arviolautakunnan suoritteista perittävistä maksuista vuosina 2026 ja 2027](1278.md) `1278/2025`
+- [Valtioneuvoston asetus erityisavustuksesta varhaiskasvatuksen sekä esi\- ja perusopetuksen koulutuksellista tasaarvoa ja yhdenvertaisuutta edistäviin toimenpiteisiin annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1279.md) `1279/2025`
+- [Laki digitaalisen alustatalouden toimijoiden tiedonantovelvollisuudesta verotuksen alalla annetun lain muuttamisesta](1280.md) `1280/2025`
+- [Laki verotusmenettelystä annetun lain 17 f §:n 2–4 momentin kumoamisesta](1281.md) `1281/2025`
+- [Maa\- ja metsätalousministeriön asetus puutavaran virallisesta mittauksesta, valvontamittauksesta ja mittauslautakunnan käsittelystä perittävästä maksusta vuosina 2026 ja 2027](1282.md) `1282/2025`
+- [Verohallinnon päätös veroilmoituksen ja kiinteistötietojen ilmoituksen antamisesta](1283.md) `1283/2025`
+- [Valtioneuvoston asetus maaseudun hanketoiminnan tukemisesta rahoituskaudella 2023–2027 annetun valtioneuvoston asetuksen muuttamisesta](1284.md) `1284/2025`
+- [Valtioneuvoston asetus yhteisen maatalouspolitiikan strategiasuunnitelman hallinnoinnista annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1285.md) `1285/2025`
+- [Valtioneuvoston asetus maatalouden harjoittamisesta luopumisen tukemisesta annetun valtioneuvoston asetuksen 3 ja 8 §:n muuttamisesta](1286.md) `1286/2025`
+- [Valtioneuvoston asetus nautojen suojelusta annetun valtioneuvoston asetuksen 17 §:n muuttamisesta](1287.md) `1287/2025`
+- [Valtioneuvoston asetus broilereiden suojelusta annetun valtioneuvoston asetuksen 19 §:n muuttamisesta](1288.md) `1288/2025`
+- [Valtioneuvoston asetus tieteellisiin tai opetustarkoituksiin käytettävien eläinten suojelusta annetun valtioneuvoston asetuksen 31 ja 34 §:n muuttamisesta](1289.md) `1289/2025`
+- [Valtioneuvoston asetus tieteellisiin tai opetustarkoituksiin käytettävien eläinten suojelun neuvottelukunnasta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1290.md) `1290/2025`
+- [Valtioneuvoston asetus eräiden lääkeaineiden käytön kieltämisestä eläimille annetun valtioneuvoston asetuksen 10 §:n muuttamisesta](1291.md) `1291/2025`
+- [Laki metsästyslain muuttamisesta](1292.md) `1292/2025`
+- [Valtioneuvoston asetus opetus\- ja kulttuuriministeriöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1293.md) `1293/2025`
+- [Valtioneuvoston asetus Opetushallituksesta](1294.md) `1294/2025`
+- [Valtioneuvoston asetus Kansallisarkistosta](1295.md) `1295/2025`
+- [Valtioneuvoston asetus Museovirastosta](1296.md) `1296/2025`
+- [Valtioneuvoston asetus Taide\- ja kulttuurineuvostosta](1297.md) `1297/2025`
+- [Valtioneuvoston asetus valtion kiinteistövarallisuuden hankinnasta, vuokraamisesta, hallinnasta ja hoitamisesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](1298.md) `1298/2025`
+- [Opetus\- ja kulttuuriministeriön asetus Kansallisarkiston suoritteiden maksullisuudesta](1299.md) `1299/2025`
+- [Valtioneuvoston kanslian asetus valtioneuvoston kanslian suoritteiden maksullisuudesta vuosina 2026 ja 2027](1300.md) `1300/2025`
+- [Valtioneuvoston asetus asfalttiasemien ympäristönsuojeluvaatimuksista annetun valtioneuvoston asetuksen muuttamisesta](1301.md) `1301/2025`
+- [Valtioneuvoston asetus bensiinin varastoinnista ja jakelusta aiheutuvien haihtuvien orgaanisten yhdisteiden päästöjen rajoittamisesta annetun valtioneuvoston päätöksen 6 §:n muuttamisesta](1302.md) `1302/2025`
+- [Valtioneuvoston asetus elinympäristöjen kunnostus\-, hoito\- ja ennallistamishankkeisiin vuosina 2021–2030 myönnettävästä valtionavustuksesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](1303.md) `1303/2025`
+- [Valtioneuvoston asetus eräiden jätteiden hyödyntämisestä maarakentamisessa annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](1304.md) `1304/2025`
+- [Valtioneuvoston asetus eräiden maa\- ja puutarhataloudesta peräisin olevien päästöjen rajoittamisesta annetun valtioneuvoston asetuksen 9 ja 14 §:n muuttamisesta](1305.md) `1305/2025`
+- [Valtioneuvoston asetus eräistä muovituotteista annetun valtioneuvoston asetuksen 7 ja 8 §:n muuttamisesta](1306.md) `1306/2025`
+- [Valtioneuvoston asetus ilmassa olevasta arseenista, kadmiumista, elohopeasta, nikkelistä ja polysyklisistä aromaattisista hiilivedyistä annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](1307.md) `1307/2025`
+- [Valtioneuvoston asetus juomapakkausten palautusjärjestelmästä annetun valtioneuvoston asetuksen 4 ja 7 §:n muuttamisesta](1308.md) `1308/2025`
+- [Valtioneuvoston asetus jätteistä annetun valtioneuvoston asetuksen 14 §:n muuttamisesta](1309.md) `1309/2025`
+- [Valtioneuvoston asetus kaivannaisjätteistä annetun valtioneuvoston asetuksen 15 ja 17 §:n muuttamisesta](1310.md) `1310/2025`
+- [Valtioneuvoston asetus kaupunkien vesien hallintaa ja niiden haitallisten aineiden vähentämistä koskeviin hankkeisiin vuosina 2020–2030 myönnettävästä valtionavustuksesta annetun valtioneuvoston asetuksen 3 ja 6 §:n muuttamisesta](1311.md) `1311/2025`
+- [Valtioneuvoston asetus keräyspaperin erilliskeräyksestä ja kierrätyksestä annetun valtioneuvoston asetuksen muuttamisesta](1312.md) `1312/2025`
+- [Valtioneuvoston asetus käytöstä poistettujen renkaiden erilliskeräyksestä ja hyödyntämisestä annetun valtioneuvoston asetuksen 5 ja 9 §:n muuttamisesta](1313.md) `1313/2025`
+- [Valtioneuvoston asetus luonnonsuojelusta annetun valtioneuvoston asetuksen 10 § muuttamisesta](1314.md) `1314/2025`
+- [Valtioneuvoston asetus maatalousmaan kipsikäsittelyyn vuosina 2020–2030 myönnettävästä tuesta annetun valtioneuvoston asetuksen muuttamisesta](1315.md) `1315/2025`
+- [Valtioneuvoston asetus muovia sisältävistä kalastusvälineistä annetun valtioneuvoston asetuksen muuttamisesta](1316.md) `1316/2025`
+- [Valtioneuvoston asetus orgaanisten liuottimien käytöstä eräissä maaleissa ja lakoissa sekä ajoneuvojen korjausmaalaustuotteissa aiheutuvien haihtuvien orgaanisten yhdisteiden päästöjen rajoittamisesta annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](1317.md) `1317/2025`
+- [Valtioneuvoston asetus pakkauksista ja pakkausjätteistä annetun valtioneuvoston asetuksen muuttamisesta](1318.md) `1318/2025`
+- [Valtioneuvoston asetus PCB\-laitteistojen käytön rajoittamisesta ja PCB\-jätteen käsittelystä annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](1319.md) `1319/2025`
+- [Valtioneuvoston asetus pilaantuneiden alueiden puhdistamisen tukemisesta annetun valtioneuvoston asetuksen 2 ja 4 a §:n muuttamisesta](1320.md) `1320/2025`
+- [Valtioneuvoston asetus puustoisten elinympäristöjen ennallistamiseen, kunnostukseen ja hoitoon vuosina 2022–2027 myönnettävästä tuesta annetun valtioneuvoston asetuksen muuttamisesta](1321.md) `1321/2025`
+- [Valtioneuvoston asetus rauhoitettujen eläinten aiheuttamien vahinkojen ennalta ehkäisemisestä ja korvaamisesta annetun valtioneuvoston asetuksen 2 ja 7 §:n muuttamisesta](1322.md) `1322/2025`
+- [Valtioneuvoston asetus suurten polttolaitosten päästöjen rajoittamisesta annetun valtioneuvoston asetuksen muuttamisesta](1323.md) `1323/2025`
+- [Valtioneuvoston asetus ulkona käytettävien laitteiden melupäästöistä annetun valtioneuvoston asetuksen 8 §:n muuttamisesta](1324.md) `1324/2025`
+- [Valtioneuvoston asetus vesiympäristölle vaarallisista ja haitallisista aineista annetun valtioneuvoston asetuksen muuttamisesta](1325.md) `1325/2025`
+- [Valtioneuvoston asetus viranomaisten suunnitelmien ja ohjelmien ympäristövaikutusten arvioinnista annetun valtioneuvoston asetuksen muuttamisesta](1326.md) `1326/2025`
+- [Valtioneuvoston asetus ympäristönsuojelusta annetun valtioneuvoston asetuksen muuttamisesta](1327.md) `1327/2025`
+- [Valtiovarainministeriön asetus valtiovarainministeriön työjärjestyksestä annetun valtiovarainministeriön asetuksen muuttamisesta](1328.md) `1328/2025`
+- [Valtion talousarvio vuodelle 2026](1329.md) `1329/2025`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1330.md) `1330/2025`
+- [Valtioneuvoston asetus alueellisesta kuljetustuesta vuosina 2026–2028](1331.md) `1331/2025`
+- [Valtioneuvoston asetus valtionavustuksesta työvoimaviranomaiselle työttömien nuorten työllistämiseen vuosina 2026 ja 2027](1332.md) `1332/2025`
+- [Valtioneuvoston asetus perinnebiotooppien kunnostukseen ja hoitoon vuosina 2026–2030 myönnettävästä tuesta](1333.md) `1333/2025`
+- [Työ\- ja elinkeinoministeriön asetus Energiaviraston maksullisista suoritteista vuosina 2026–2028](1334.md) `1334/2025`
+- [Sisäministeriön asetus poliisin suoritteiden ja virka\-avun maksullisuudesta vuonna 2026](1335.md) `1335/2025`
+- [Sisäministeriön asetus Maahanmuuttoviraston suoritteiden maksullisuudesta vuonna 2026](1336.md) `1336/2025`
+- [Liikenne\- ja viestintäministeriön asetus Liikenne\- ja viestintäviraston liikennettä koskevista maksullisista suoritteista](1337.md) `1337/2025`
+- [Liikenne\- ja viestintäministeriön asetus Liikenne\- ja viestintäviraston sähköiseen viestintään liittyvistä suoritteista perittävistä maksuista](1338.md) `1338/2025`
+- [Liikenne\- ja viestintäministeriön asetus hallinnollisista taajuusmaksuista ja Liikenne\- ja viestintäviraston taajuushallinnollisista suoritteista perittävistä muista maksuista](1339.md) `1339/2025`
+- [Ympäristöministeriön asetus rakentamisen suunnitelmamallien ja viranomaiskatselmusten sisällöstä](1340.md) `1340/2025`
+- [Opetus\- ja kulttuuriministeriön asetus opetus\- ja kulttuuriministeriön työjärjestyksestä annetun opetus\- ja kulttuuriministeriön asetuksen muuttamisesta](1341.md) `1341/2025`
+- [Ulkoministeriön asetus ulkoasianhallinnon suoritteiden maksuista vuonna 2026](1342.md) `1342/2025`
+- [Sosiaali\- ja terveysministeriön asetus  Säteilyturvakeskuksen suoritteista perittävistä maksuista vuosina 2026 ja 2027](1343.md) `1343/2025`
+- [Sosiaali\- ja terveysministeriön asetus Lääkealan turvallisuus\- ja kehittämiskeskuksen maksullisista suoritteista vuonna 2026](1344.md) `1344/2025`
+- [Laki kuurojen ja viittomakielisten totuus\- ja sovintoprosessin toteuttamisesta vuosina 2026–2028](1345.md) `1345/2025`
+- [Laki asevelvollisuuslain 2 ja 49 §:n muuttamisesta](1346.md) `1346/2025`
+- [Laki vapaaehtoisesta maanpuolustuksesta annetun lain 19 ja 28 §:n muuttamisesta](1347.md) `1347/2025`
+- [Laki siviilipalveluslain muuttamisesta](1348.md) `1348/2025`
+- [Laki perintö\- ja lahjaverolain muuttamisesta](1349.md) `1349/2025`
+- [Laki veronlisäyksestä ja viivekorosta annetun lain 5 d §:n muuttamisesta](1350.md) `1350/2025`
+- [Laki kiinteistöverolain 26 §:n muuttamisesta](1351.md) `1351/2025`
+- [Laki sähkön ja eräiden polttoaineiden valmisteverosta annetun lain eräiden säännösten kumoamisesta](1352.md) `1352/2025`
+- [Laki tupakkaverosta annetun lain muuttamisesta](1353.md) `1353/2025`
+- [Laki valmisteverotuslain 72 §:n muuttamisesta](1354.md) `1354/2025`
+- [Laki valtion palveluiden saatavuuden ja toimintojen sijoittamisen perusteista annetun lain muuttamisesta](1355.md) `1355/2025`
+- [Laki julkisen hallinnon yhteispalvelusta annetun lain 10 a §:n 3 momentin kumoamisesta](1356.md) `1356/2025`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](1357.md) `1357/2025`
+- [Laki arvonlisäverolain 85 §:n muuttamisesta](1358.md) `1358/2025`
+- [Laki Ahvenanmaan maakuntaa koskevista poikkeuksista arvonlisävero\- ja valmisteverolainsäädäntöön annetun lain 18 b §:n muuttamisesta](1359.md) `1359/2025`
+- [Laki hallinnollisesta yhteistyöstä verotuksen alalla ja direktiivin 77/799/ETY kumoamisesta annetun neuvoston direktiivin lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja direktiivin soveltamisesta annetun lain muuttamisesta](1360.md) `1360/2025`
+- [Laki kaivosmineraaliverolain muuttamisesta](1361.md) `1361/2025`
+- [Laki ammatillisesta koulutuksesta annetun lain muuttamisesta](1362.md) `1362/2025`
+- [Laki lukiolain muuttamisesta](1363.md) `1363/2025`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](1364.md) `1364/2025`
+- [Laki oppivelvollisuuslain 2 §:n muuttamisesta](1365.md) `1365/2025`
+- [Laki kolmansien maiden kansalaisten maahantulon ja oleskelun edellytyksistä tutkimuksen, opiskelun, työharjoittelun ja vapaaehtoistoiminnan perusteella annetun lain 7 a §:n muuttamisesta](1366.md) `1366/2025`
+- [Laki valtion rahoituksesta evankelis\-luterilaiselle kirkolle eräisiin yhteiskunnallisiin tehtäviin annetun lain 2 §:n muuttamisesta](1367.md) `1367/2025`
+- [Laki ortodoksisesta kirkosta annetun lain 119 §:n muuttamisesta](1368.md) `1368/2025`
+- [Laki perusopetuslain muuttamisesta](1369.md) `1369/2025`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](1370.md) `1370/2025`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1371.md) `1371/2025`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain 24 §:n muuttamisesta](1372.md) `1372/2025`
+- [Laki metsätalouden määräaikaisesta kannustejärjestelmästä annetun lain muuttamisesta](1373.md) `1373/2025`
+- [Laki kunnan kiinteistöinsinööristä annetun lain 2 §:n muuttamisesta](1374.md) `1374/2025`
+- [Laki kaupanvahvistajista annetun lain 2 §:n muuttamisesta](1375.md) `1375/2025`
+- [Laki kotoutumisen edistämisestä annetun lain muuttamisesta](1376.md) `1376/2025`
+- [Laki eräiden tekoälyjärjestelmien valvonnasta](1377.md) `1377/2025`
+- [Laki eräiden tuotteiden markkinavalvonnasta annetun lain 1 ja 4 §:n muuttamisesta](1378.md) `1378/2025`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](1379.md) `1379/2025`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](1380.md) `1380/2025`
+- [Laki Energiavirastosta annetun lain 1 §:n muuttamisesta](1381.md) `1381/2025`
+- [Laki energiatehokkuuslain muuttamisesta](1382.md) `1382/2025`
+- [Laki sähkömarkkinalain 19 §:n muuttamisesta](1383.md) `1383/2025`
+- [Laki maakaasumarkkinalain muuttamisesta](1384.md) `1384/2025`
+- [Laki sähkö\- ja maakaasumarkkinoiden valvonnasta annetun lain muuttamisesta](1385.md) `1385/2025`
+- [Laki energiamarkkinariitalautakunnasta annetun lain muuttamisesta](1386.md) `1386/2025`
+- [Laki taloudellisesti tuetusta ammatillisen osaamisen kehittämisestä annetun lain kumoamisesta](1387.md) `1387/2025`
+- [Laki koulutuksen korvaamisesta annetun lain kumoamisesta](1388.md) `1388/2025`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain 10 §:n muuttamisesta](1389.md) `1389/2025`
+- [Laki työsopimuslain 7 luvun muuttamisesta](1390.md) `1390/2025`
+- [Laki merityösopimuslain 8 luvun muuttamisesta](1391.md) `1391/2025`
+- [Laki omaishoidon tuesta annetun lain 5 §:n muuttamisesta](1392.md) `1392/2025`
+- [Laki perhehoitolain 12 §:n muuttamisesta](1393.md) `1393/2025`
+- [Laki terveydenhuoltolain muuttamisesta](1394.md) `1394/2025`
+- [Laki asevelvollisuuslain muuttamisesta](1395.md) `1395/2025`
+- [Laki naisten vapaaehtoisesta asepalveluksesta annetun lain muuttamisesta](1396.md) `1396/2025`
+- [Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain 35 §:n muuttamisesta](1397.md) `1397/2025`
+- [Laki oppilas\- ja opiskelijahuoltolain 1 §:n muuttamisesta](1398.md) `1398/2025`
+- [Laki vammaispalvelulain 2 ja 4 §:n muuttamisesta](1399.md) `1399/2025`
+- [Laki yrittäjän eläkelain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1400.md) `1400/2025`
+- [Laki tapaturman ja palvelussairauden korvaamisesta kriisinhallintatehtävässä annetun lain 11 §:n muuttamisesta](1401.md) `1401/2025`
+- [Laki jätelain muuttamisesta](1402.md) `1402/2025`
+- [Laki kansainvälistä suojelua hakevan vastaanotosta sekä ihmiskaupan uhrin tunnistamisesta ja auttamisesta annetun lain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1403.md) `1403/2025`
+- [Tasavallan presidentin asetus Euroopan meri\-, kalatalous\- ja vesiviljelyrahaston kansallisen ohjelman hallintotehtävien hoidosta Ahvenanmaalla](1404.md) `1404/2025`
+- [Tasavallan presidentin asetus  sosiaalihuollon ammattihenkilöiden kelpoisuusvaatimuksiin ja ammattitoimintaan liittyvien eräiden hallinto\- ja valvontatehtävien hoitamisesta Ahvenanmaalla](1405.md) `1405/2025`
+- [Verohallinnon päätös veroilmoituksessa annettavista tiedoista](1406.md) `1406/2025`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskoroista](1407.md) `1407/2025`
+- [Laki ulkomaalaislain muuttamisesta](1408.md) `1408/2025`
+- [Laki virallisten työntekijöiden huollettavien ansiotyöstä Suomen tasavallan hallituksen ja Amerikan yhdysvaltojen hallituksen välillä tehdystä sopimuksesta](1409.md) `1409/2025`
+- [Laki ulkomaalaislain 81 a ja 81 b §:n muuttamisesta](1410.md) `1410/2025`
+- [Ulkoministeriön asetus ulkoministeriön työjärjestyksestä annetun ulkoministeriön asetuksen muuttamisesta](1411.md) `1411/2025`
+- [Laki työvoimapalveluiden järjestämisestä annetun lain muuttamisesta](1412.md) `1412/2025`
+- [Laki työllistymisen monialaisesta edistämisestä annetun lain 4 ja 5 §:n muuttamisesta](1413.md) `1413/2025`
+- [Laki kotoutumisen edistämisestä annetun lain 14 ja 19 §:n muuttamisesta](1414.md) `1414/2025`
+- [Laki kuntouttavasta työtoiminnasta annetun lain 3 ja 5 §:n muuttamisesta](1415.md) `1415/2025`
+- [Laki työttömyysturvalain muuttamisesta](1416.md) `1416/2025`
+- [Laki saamen kielilain 2 §:n muuttamisesta](1417.md) `1417/2025`
+- [Laki tulotietojärjestelmästä annetun lain 13 §:n muuttamisesta](1418.md) `1418/2025`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain 7 §:n muuttamisesta](1419.md) `1419/2025`
+- [Laki kuntouttavasta työtoiminnasta annetun lain muuttamisesta](1420.md) `1420/2025`
+- [Laki eduskunnan turvatoimista](1421.md) `1421/2025`
+- [Laki yrityksen saneerauksesta annetun lain muuttamisesta](1422.md) `1422/2025`
+- [Laki arvopaperimarkkinalain 11 luvun 21 §:n muuttamisesta](1423.md) `1423/2025`
+- [Laki sosiaali\- ja terveydenhuollon järjestämisestä annetun lain muuttamisesta](1424.md) `1424/2025`
+- [Laki pelastustoimen järjestämisestä annetun lain 6 ja 11 §:n muuttamisesta](1425.md) `1425/2025`
+- [Laki lääkelain muuttamisesta](1426.md) `1426/2025`
+- [Laki apteekkiverolain muuttamisesta](1427.md) `1427/2025`
+- [Laki sähköisestä lääkemääräyksestä annetun lain 10 ja 13 §:n muuttamisesta](1428.md) `1428/2025`
+- [Laki sairausvakuutuslain muuttamisesta](1429.md) `1429/2025`
+- [Valtioneuvoston asetus eläinten hyvinvointikorvausta koskevan sitoumuksen antamisesta vuonna 2026](1430.md) `1430/2025`
+- [Valtioneuvoston asetus vuodelta 2026 maksettavasta tuotantosidonnaisesta tulotuesta](1431.md) `1431/2025`
+- [Valtioneuvoston asetus metsästysasetuksen 23 ja 24 §:n muuttamisesta](1432.md) `1432/2025`
+- [Valtioneuvoston asetus suden kiintiömetsästyksestä](1433.md) `1433/2025`
+- [Maa\- ja metsätalousministeriön asetus alueellisen kiintiön nojalla sallittavasta suden metsästyksestä metsästysvuonna 2025–2026](1434.md) `1434/2025`
+- [Valtioneuvoston asetus valtioneuvoston ohjesäännön muuttamisesta](1435.md) `1435/2025`
+- [Valtioneuvoston asetus valtion yhteisestä asiakaspalvelutoiminnasta](1436.md) `1436/2025`
+- [Valtioneuvoston asetus eräistä Ahvenanmaan valtionviraston maksuista vuonna 2026](1437.md) `1437/2025`
+- [Valtioneuvoston asetus lääketaksasta annetun valtioneuvoston asetuksen muuttamisesta](1438.md) `1438/2025`
+- [Valtioneuvoston asetus lääkeasetuksen muuttamisesta](1439.md) `1439/2025`
+- [Laki julkisen talouden hoitamisesta](1440.md) `1440/2025`
+- [Laki talouspolitiikan arviointineuvostosta](1441.md) `1441/2025`
+- [Laki valtiontalouden tarkastusvirastosta annetun lain 1 §:n muuttamisesta](1442.md) `1442/2025`
+- [Laki talous\- ja rahaliiton vakaudesta, yhteensovittamisesta sekä ohjauksesta ja hallinnasta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta sekä julkisen talouden monivuotisia kehyksiä koskevista vaatimuksista annetun lain kumoamisesta](1443.md) `1443/2025`
+- [Laki vaihtoehtorahastojen hoitajista annetun lain muuttamisesta](1444.md) `1444/2025`
+- [Laki sijoitusrahastolain muuttamisesta](1445.md) `1445/2025`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](1446.md) `1446/2025`
+- [Laki eräiden asuntojen vuokraustoimintaa harjoittavien osakeyhtiöiden veronhuojennuksesta annetun lain 2 §:n muuttamisesta](1447.md) `1447/2025`
+- [Laki Finanssivalvonnan valvontamaksuista annetun lain 7 §:n muuttamisesta](1448.md) `1448/2025`
+- [Laki valtakunnallisesta osaamistietovarannosta](1449.md) `1449/2025`
+- [Laki valtakunnallisista opinto\- ja tutkintorekistereistä annetun lain muuttamisesta](1450.md) `1450/2025`
+- [Laki oppivelvollisuuslain 11 §:n muuttamisesta](1451.md) `1451/2025`
+- [Laki varhaiskasvatuslain muuttamisesta](1452.md) `1452/2025`
+- [Laki ammatillisesta koulutuksesta annetun lain 109 a §:n muuttamisesta](1453.md) `1453/2025`
+- [Laki ammattikorkeakoululain 28 a ja 28 c §:n muuttamisesta](1454.md) `1454/2025`
+- [Laki yliopistolain 36 a ja 38 §:n muuttamisesta](1455.md) `1455/2025`
+- [Laki vapaasta sivistystyöstä annetun lain 6 b ja 6 c §:n muuttamisesta](1456.md) `1456/2025`
+- [Laki taiteen perusopetuksesta annetun lain 7 a §:n muuttamisesta](1457.md) `1457/2025`
+- [Laki valtion erityisrahoitustoiminnasta ja sen järjestämisestä](1458.md) `1458/2025`
+- [Laki tuloverolain 20 §:n muuttamisesta](1459.md) `1459/2025`
+- [Laki Finanssivalvonnasta annetun lain 4 §:n muuttamisesta](1460.md) `1460/2025`
+- [Laki Finanssivalvonnan valvontamaksuista annetun lain 1 ja 4 §:n muuttamisesta](1461.md) `1461/2025`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä annetun lain 1 luvun 2 §:n muuttamisesta](1462.md) `1462/2025`
+- [Laki yrityspalvelujen asiakastietojärjestelmästä annetun lain 2 §:n muuttamisesta](1463.md) `1463/2025`
+- [Laki eräiden valtion tukea koskevien Euroopan unionin säännösten soveltamisesta annetun lain muuttamisesta](1464.md) `1464/2025`
+- [Laki valmisteverotuslain muuttamisesta](1465.md) `1465/2025`
+- [Laki virvoitusjuomaverosta annetun lain 1 §:n muuttamisesta](1466.md) `1466/2025`
+- [Laki eräiden juomapakkausten valmisteverosta annetun lain 1 §:n muuttamisesta](1467.md) `1467/2025`
+- [Laki oma\-aloitteisten verojen verotusmenettelystä annetun lain 39 §:n muuttamisesta](1468.md) `1468/2025`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 6 §:n muuttamisesta](1469.md) `1469/2025`
+- [Laki elinvoimakeskuksista sekä Työllisyys\-, kehittämis\- ja hallintokeskuksesta annetun lain 13 §:n muuttamisesta](1470.md) `1470/2025`
+- [Laki sairausvakuutuslain muuttamisesta](1471.md) `1471/2025`
+- [Laki työttömyysturvalain 11 luvun 14 §:n muuttamisesta](1472.md) `1472/2025`
+- [Laki työntekijän eläkelain 2 ja 74 §:n muuttamisesta](1473.md) `1473/2025`
+- [Laki yrittäjän eläkelain 2 ja 68 §:n muuttamisesta](1474.md) `1474/2025`
+- [Laki merimieseläkelain 2 ja 80 §:n muuttamisesta](1475.md) `1475/2025`
+- [Laki julkisten alojen eläkelain 3 ja 87 §:n muuttamisesta](1476.md) `1476/2025`
+- [Laki tuloverolain 93 §:n väliaikaisesta muuttamisesta](1477.md) `1477/2025`
+- [Laki  työsopimuslain 4 luvun muuttamisesta](1478.md) `1478/2025`
+- [Laki tuloverolain 93 §:n muuttamisesta](1479.md) `1479/2025`
+- [Laki valtion asuntorahastosta annetun lain kumoamisesta](1480.md) `1480/2025`
+- [Laki vuokra\-asuntolainojen ja asumisoikeustalolainojen korkotuesta annetun lain muuttamisesta](1481.md) `1481/2025`
+- [Laki vuokratalojen rakentamislainojen lyhytaikaisesta korkotuesta annetun lain muuttamisesta](1482.md) `1482/2025`
+- [Laki avustuksista erityisryhmien asunto\-olojen parantamiseksi annetun lain 1 ja 9 §:n muuttamisesta](1483.md) `1483/2025`
+- [Laki valtiontakauksesta aravalainojen takaisinmaksamiseksi annetun lain muuttamisesta](1484.md) `1484/2025`
+- [Laki vuokra\-asuntojen rakentamislainojen valtiontakauksesta annetun lain muuttamisesta](1485.md) `1485/2025`
+- [Laki aravarajoituslain 9 §:n muuttamisesta](1486.md) `1486/2025`
+- [Laki vuokra\- ja asumisoikeustaloyhteisöjen talouden tervehdyttämisavustuksista annetun lain 1 §:n muuttamisesta](1487.md) `1487/2025`
+- [Laki asumisoikeusasunnoista annetun lain 86 ja 106 §:n muuttamisesta](1488.md) `1488/2025`
+- [Laki aravalain 3 §:n kumoamisesta](1489.md) `1489/2025`
+- [Laki omistusasuntolainojen valtiontakauksista annetun lain 14 §:n 4 momentin kumoamisesta](1490.md) `1490/2025`
+- [Laki aravalainojen lainaehtojen muuttamisesta eräissä tapauksissa annetun lain 1 ja 11 §:n muuttamisesta](1491.md) `1491/2025`
+- [Laki asunto\-osakeyhtiöiden perusparannuslainojen valtiontakauksesta annetun lain muuttamisesta](1492.md) `1492/2025`
+- [Laki asuntokauppalain 1 luvun 1 §:n muuttamisesta](1493.md) `1493/2025`
+- [Laki holhoustoimesta annetun lain 34 §:n muuttamisesta](1494.md) `1494/2025`
+- [Laki kuluttajariitalautakunnasta annetun lain 3 §:n muuttamisesta](1495.md) `1495/2025`
+- [Laki eläkkeensaajan asumistuesta annetun lain 5 §:n muuttamisesta](1496.md) `1496/2025`
+- [Laki energiatehokkuuslain 22 §:n muuttamisesta](1497.md) `1497/2025`
+- [Laki ryhmärakennuttamislain 2 §:n muuttamisesta](1498.md) `1498/2025`
+- [Laki asumisoikeusyhdistyksistä annetun lain muuttamisesta](1499.md) `1499/2025`
+- [Laki vuokra\-asuntojen korkotukilainalla rahoitettujen asuntojen vapautumisesta käyttörajoituksista annetun lain kumoamisesta](1500.md) `1500/2025`
+- [Laki omistusasuntolainojen korkotuesta annetun lain kumoamisesta](1501.md) `1501/2025`
+- [Valtioneuvoston asetus äitiysavustuksesta ja adoptiotuesta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](1502.md) `1502/2025`
+- [Valtioneuvoston asetus avustuksista öljylämmityksestä luopumiseen pientaloissa annetun valtioneuvoston asetuksen muuttamisesta](1503.md) `1503/2025`
+- [Valtioneuvoston asetus sairausvakuutuslain täytäntöönpanosta annetun valtioneuvoston asetuksen 1 ja 2 luvun muuttamisesta](1504.md) `1504/2025`
+- [Laki Tullin hallinnosta annetun lain muuttamisesta](1505.md) `1505/2025`
+- [Valtioneuvoston asetus Tullin hallinnosta annetun valtioneuvoston asetuksen muuttamisesta](1506.md) `1506/2025`
+- [Tullin työjärjestys](1507.md) `1507/2025`
+- [Opetus\- ja kulttuuriministeriön asetus Opetushallituksen ja sen erillisyksiköiden suoritteiden maksullisuudesta](1508.md) `1508/2025`

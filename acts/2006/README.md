@@ -1,0 +1,1464 @@
+# 2006 Statutes
+
+## Statutes
+
+- [Ulkoasiainministeriön ilmoitus Ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](1.md) `1/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maaseutuelinkeinojen rahoituslain mukaisista enimmäistuloista](2.md) `2/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä poro\- ja luontaiselinkeinojen rahoituslain mukaisista ulkopuolisista enimmäistuloista](3.md) `3/2006`
+- [Verohallituksen päätös eräiden yritysten verottamisesta Konserniverokeskuksessa](4.md) `4/2006`
+- [Verohallituksen päätös ilmoittamisvelvollisuudesta ja muistiinpanoista](5.md) `5/2006`
+- [Valtioneuvoston asetus televisio\- ja radiotoimintaan sekä toimiluvanvaraiseen teletoimintaan määrättyjen taajuusalueiden käyttösuunnitelmasta annetun valtioneuvoston asetuksen muuttamisesta](6.md) `6/2006`
+- [Sosiaali\- ja terveysministeriön asetus yksityisestä terveydenhuollosta](7.md) `7/2006`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön kokonaan rahoittamista eläinpalkkioista](8.md) `8/2006`
+- [Laki talous\- ja velkaneuvonnasta annetun lain muuttamisesta](9.md) `9/2006`
+- [Eduskunnan päätös eduskunnan työjärjestyksen muuttamisesta](10.md) `10/2006`
+- [Edukunnan päätös eduskunnan kanslian ohjesäännön 32 §:n muuttamisesta](11.md) `11/2006`
+- [Valtioneuvoston asetus vaarallisten aineiden käytön rajoittamisesta sähkö\- ja elektroniikkalaitteissa annetun valtioneuvoston asetuksen liitteen muuttamisesta](12.md) `12/2006`
+- [Valtioneuvoston asetus valtion virkamiesasetuksen muuttamisesta](13.md) `13/2006`
+- [Maa\- ja metsätalousministeriön asetus luonnonhaittakorvaukseen ja maatalouden ympäristötukeen varattujen määrärahojen kohdentamisesta vuoden 2006 haussa](14.md) `14/2006`
+- [Valtiovarainministeriön asetus jäännösveron ja metsänhoitomaksun eräpäivistä vuodelta 2005](15.md) `15/2006`
+- [Valtiovarainministeriön asetus vuoden 2006 kiinteistöveron eräpäivistä](16.md) `16/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta tuettavaa rakentamista koskevista sikaloiden rakennusteknisistä ja toiminnallisista vaatimuksista annetun asetuksen muuttamisesta](17.md) `17/2006`
+- [Maa\- ja metsätalousministeriön asetus ampumakokeesta](18.md) `18/2006`
+- [Maa\- ja metsätalousministeriön asetus maidon, maitopohjaisten tuotteiden ja maidon prosessoinnissa syntyvien sivutuotteiden käytöstä elintarviketuotannossa käytettävien eläinten ruokinnassa](19.md) `19/2006`
+- [Liikenne\- ja viestintäministeriön asetus maantielautoista](20.md) `20/2006`
+- [Oikeusministeriön kuulutus tasavallan presidentin vaalin ensimmäisen vaalin tuloksesta](21.md) `21/2006`
+- [Laki lääkelain muuttamisesta](22.md) `22/2006`
+- [Elintarvikelaki](23.md) `23/2006`
+- [Laki terveydensuojelulain muuttamisesta](24.md) `24/2006`
+- [Laki Elintarviketurvallisuusvirastosta](25.md) `25/2006`
+- [Laki viestintämarkkinalain muuttamisesta ja viestintämarkkinalain 70 §:n väliaikaisesta muuttamisesta](26.md) `26/2006`
+- [Laki kuljettajantutkintotoiminnan järjestämisestä annetun lain muuttamisesta](27.md) `27/2006`
+- [Valtioneuvoston asetus vuodelta 2006 maksettavasta Etelä\-Suomen kansallisesta tuesta](28.md) `28/2006`
+- [Valtioneuvoston asetus vuodelta 2006 maksettavasta pohjoisesta tuesta](29.md) `29/2006`
+- [Valtioneuvoston asetus vuodelta 2006 maksettavasta ympäristötuen kansallisesta lisäosasta](30.md) `30/2006`
+- [Valtioneuvoston asetus vuodelta 2006 maksettavasta perunantuotannon kansallisesta tuesta](31.md) `31/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta haitallisista aineista, tuotteista ja eliöistä rehuissa annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](32.md) `32/2006`
+- [Verohallituksen päätös eräiden yritysten verottamisesta Konserniverokeskuksessa](33.md) `33/2006`
+- [Laki ulkomaalaislain muuttamisesta](34.md) `34/2006`
+- [Maa\- ja metsätalousministeriön asetus eläimistä saatavien elintarvikkeiden ja muiden tuotteiden eläinlääkinnällisistä rajatarkastuksista annetun asetuksen muuttamisesta](35.md) `35/2006`
+- [Valtiovarainministeriön asetus yksittäisten kuntien ja evankelis\-luterilaisten seurakuntien verovuoden 2006 yhteisöveron jako\-osuuksien laskentaperusteista](36.md) `36/2006`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2004 tulvavahinkokorvausten maksamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](37.md) `37/2006`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2004 maatalouden tulvavahinkokorvausten maksamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](38.md) `38/2006`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2005 tulvavahinkokorvausten maksamisesta](39.md) `39/2006`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2006 maa\- ja puutarhatalouden kansallisten tukien hakuajoista ja hakemisesta](40.md) `40/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kalojen bakteeriperäisen munuaistaudin vastustamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](41.md) `41/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 maitopalkkion ja sen lisäpalkkion maksatuksesta](42.md) `42/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuonna 2005 muille kuin puutarhatuotteille, korjatulle sadolle, puustolle ja maatalouden tuotantorakennuksille aiheutuneiden tulvavahinkojen korvausten maksatuksesta](43.md) `43/2006`
+- [Laki työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta](44.md) `44/2006`
+- [Laki eräiden teknisten laitteiden vaatimustenmukaisuudesta annetun lain 12 §:n muuttamisesta](45.md) `45/2006`
+- [Laki toimenpiteistä tupakoinnin vähentämiseksi annetun lain 14 §:n muuttamisesta](46.md) `46/2006`
+- [Laki julkisesta työvoimapalvelusta annetun lain 11 luvun 5 §:n muuttamisesta](47.md) `47/2006`
+- [Laki tapaturmavakuutuslain 64 d §:n muuttamisesta](48.md) `48/2006`
+- [Laki ulkomaalaislain 86 §:n muuttamisesta](49.md) `49/2006`
+- [Laki yhdenvertaisuuslain 11 §:n muuttamisesta](50.md) `50/2006`
+- [Laki työterveyshuoltolain muuttamisesta](51.md) `51/2006`
+- [Laki työterveyslaitoksen toiminnasta ja rahoituksesta annetun lain 2 a §:n muuttamisesta](52.md) `52/2006`
+- [Laki työturvallisuuslain 51 §:n 2 momentin kumoamisesta](53.md) `53/2006`
+- [Laki rikoslain 47 luvun 6 §:n 2 momentin kumoamisesta](54.md) `54/2006`
+- [Laki työsuojeluhallinnosta annetun lain 3 §:n 3 momentin kumoamisesta](55.md) `55/2006`
+- [Tasavallan presidentin asetus Serbia ja Montenegron kanssa Montenegron opetussektorin tuesta tehdyn sopimuksen voimaansaattamisesta](56.md) `56/2006`
+- [Valtioneuvoston asetus vuonna 2006 kertyvien työnantajan sosiaaliturvamaksujen jakautumasta](57.md) `57/2006`
+- [Liikenne\- ja viestintäministeriön asetus  Viestintäviraston eräistä maksuista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](58.md) `58/2006`
+- [Laki rikesakkomenettelystä annetun lain muuttamisesta](59.md) `59/2006`
+- [Laki ajoneuvoliikennerekisteristä annetun lain muuttamisesta](60.md) `60/2006`
+- [Laki ajoneuvolain muuttamisesta](61.md) `61/2006`
+- [Laki koe\-eläintoiminnasta](62.md) `62/2006`
+- [Laki eläinsuojelulain muuttamisesta](63.md) `63/2006`
+- [Laki toimeentulotuesta annetun lain muuttamisesta](64.md) `64/2006`
+- [Valtioneuvoston asetus aluksen miehityksestä, laivaväen pätevyydestä ja vahdinpidosta annetun asetuksen muuttamisesta](65.md) `65/2006`
+- [Valtioneuvoston asetus Merentutkimuslaitoksesta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](66.md) `66/2006`
+- [Tasavallan presidentin asetus tullimenettelyjen yksinkertaistamisesta ja yhdenmukaistamisesta tehdyn kansainvälisen yleissopimuksen muuttamisesta tehdyn pöytäkirjan sekä sen I ja II liitteiden voimaansaattamisesta ja pöytäkirjan sekä sen I ja II liitteiden lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](67.md) `67/2006`
+- [Sisäasiainministeriön asetus maistraattien toimialueista annetun sisäasiainministeriön päätöksen 2 ja 3 §:n muuttamisesta](68.md) `68/2006`
+- [Opetusministeriön asetus opetus\- ja kirjastotoimen perustamishankkeiden yksikköhinnoista annetun opetusministeriön päätöksen muuttamisesta](69.md) `69/2006`
+- [Kauppa\- ja teollisuusministeriön asetus talous\- ja velkaneuvontapalvelujen tuottajalle vuonna 2006 maksettavan korvauksen perusteista](70.md) `70/2006`
+- [Verohallituksen päätös yleisestä tiedonantovelvollisuudesta](71.md) `71/2006`
+- [Nuorisolaki](72.md) `72/2006`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 1 §:n muuttamisesta](73.md) `73/2006`
+- [Tasavallan presidentin asetus Kansainvälisen rikostuomioistuimen ja Suomen välillä Kansainvälisen rikostuomioistuimen oikeudenkäynneissä kuultavina olleiden tai kuultavaksi tulevien todistajien ja heidän läheistensä sijoittamisesta Suomen alueelle kirjeenvaihdolla tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](74.md) `74/2006`
+- [Valtioneuvoston asetus pientyönantajan maksu\- ja ilmoituspalvelujärjestelmästä annetun lain sekä verotustietojen julkisuudesta ja salassapidosta annetun lain 17 §:n muuttamisesta annetun lain voimaantulosta](75.md) `75/2006`
+- [Valtioneuvoston asetus pientyönantajan maksu\- ja ilmoituspalvelujärjestelmästä](76.md) `76/2006`
+- [Valtioneuvoston asetus porotalouden ja luontaiselinkeinojen rahoitustuesta annetun valtioneuvoston asetuksen 27 §:n muuttamisesta](77.md) `77/2006`
+- [Valtioneuvoston asetus asumisoikeustalojen käyttö\- ja luovutusrajoitusten merkitsemisestä ja merkintöjen poistamisesta](78.md) `78/2006`
+- [Valtioneuvoston asetus aravavuokratalojen purkamiskustannuksiin myönnettävästä avustuksesta](79.md) `79/2006`
+- [Puolustusministeriön asetus asevelvollisten yleisistä varusmiespalvelukseen astumispäivistä vuosina 2008―2009](80.md) `80/2006`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](81.md) `81/2006`
+- [Maa\- ja metsätalousministeriön asetus kasvihuonetuotannon tuesta vuonna 2006](82.md) `82/2006`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä](83.md) `83/2006`
+- [Valtioneuvoston asetus rangaistusten täytäntöönpanon hallinnosta](84.md) `84/2006`
+- [Valtioneuvoston asetus työntekijöiden suojelemisesta melusta aiheutuvilta vaaroilta](85.md) `85/2006`
+- [Sosiaali\- ja terveysministeriön asetus lääkevaihdosta annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](86.md) `86/2006`
+- [Tasavallan presidentin asetus eräiden kasvihuonekaasujen päästökauppaa koskevien hallintotehtävien hoidosta Ahvenanmaan maakunnassa](87.md) `87/2006`
+- [Valtioneuvoston asetus aikuisten koulutustason kohottamiseen myönnettävästä valtionavustuksesta](88.md) `88/2006`
+- [Kauppa\- ja teollisuusministeriön työjärjestys](89.md) `89/2006`
+- [Valtioneuvoston asetus lasten ja nuorten psykiatriseen hoitoon ja kuntoutukseen sekä oikeuspsykiatristen tutkimusten kustannuksiin vuonna 2006 maksettavan valtionavustuksen myöntämisperusteista](90.md) `90/2006`
+- [Valtioneuvoston kuulutus tasavallan presidentin vaalin toisen vaalin tuloksesta](91.md) `91/2006`
+- [Valtiovarainministeriön asetus J\.V\. Snellmanin juhlarahasta](92.md) `92/2006`
+- [Valtiovarainministeriön asetus Ahvenanmaan demilitarisoinnin 150\-vuotisjuhlarahasta](93.md) `93/2006`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön kokonaan rahoittamien eläinpalkkioiden hakuajoista vuonna 2006 sekä uuhipalkkiokiintiöiden hakulomakkeista vuonna 2006](94.md) `94/2006`
+- [Maa\- ja metsätalousministeriön asetus uuhipalkkioiden kiintiöistä annetun maa\- ja metsätalousministeriön asetuksen 3 §:n muuttamisesta](95.md) `95/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2006 kansallisen maidon tuotantotuen maksatuksesta](96.md) `96/2006`
+- [Verohallituksen päätös Finlandia Vodka Worldwide Oy:n verottamisesta Konserniverokeskuksessa](97.md) `97/2006`
+- [Verohallituksen päätös pientyönantajan maksu\- ja ilmoituspalvelujärjestelmässä hoidettavista tehtävistä](98.md) `98/2006`
+- [Valtioneuvoston asetus sairausvakuutuslaissa tarkoitettujen työterveyshuollon korvausten laskennallisten enimmäismäärien määrittelemisestä annetun valtioneuvoston asetuksen muuttamisesta](99.md) `99/2006`
+- [Kauppa\- ja teollisuusministeriön asetus kosmeettisista valmisteista annetun kauppa\- ja teollisuusministeriön asetuksen muuttamisesta](100.md) `100/2006`
+- [Kauppa\- ja teollisuusministeriön asetus pakastettujen elintarvikkeiden valvonnassa käytettävistä näytteenotto\- ja mittausmenetelmistä](101.md) `101/2006`
+- [Valtioneuvoston asetus sisäasiainministeriöstä annetun asetuksen muuttamisesta](102.md) `102/2006`
+- [Valtioneuvoston asetus nuorisotyöstä ja \-politiikasta](103.md) `103/2006`
+- [Valtioneuvoston asetus erikoishammaslääkärin tutkinnosta annetun valtioneuvoston asetuksen 8 §:n muuttamisesta](104.md) `104/2006`
+- [Valtioneuvoston asetus erikoislääkärin tutkinnosta annetun asetuksen 6 §:n muuttamisesta annetun valtioneuvoston asetuksen voimaantulosäännöksen muuttamisesta](105.md) `105/2006`
+- [Valtioneuvoston asetus luonnonhaittakorvauksesta ja maatalouden ympäristötuesta annetun valtioneuvoston asetuksen muuttamisesta](106.md) `106/2006`
+- [Valtioneuvoston asetus vuodelta 2006 maksettavasta luonnonhaittakorvauksen kansallisesta lisäosasta](107.md) `107/2006`
+- [Valtioneuvoston asetus vuodelta 2005 maksettavasta perunantuotannon kansallisesta tuesta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](108.md) `108/2006`
+- [Valtioneuvoston asetus vuodelta 2005 maksettavasta emolehmien kansallisesta lisäpalkkiosta](109.md) `109/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 perunantuotannon kansallisen tuen maksatuksesta](110.md) `110/2006`
+- [Valtioneuvoston asetus sotainvalidien puolisoiden, leskien ja sotaleskien kuntoutustoiminnasta](111.md) `111/2006`
+- [Liikenne\- ja viestintäministeriön asetus ajokorttiasetuksen soveltamisesta annetun liikenneministeriön päätöksen 2 §:n 1 momentin 1 kohdan ja 8 §:n 1 momentin muuttamisesta](112.md) `112/2006`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2006 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista](113.md) `113/2006`
+- [Sosiaali\- ja terveysministeriön asetus lääkäri\- ja hammaslääkärikoulutuksen sekä yliopistotasoisen terveystieteellisen tutkimustoiminnan korvauksen perusteista vuonna 2006](114.md) `114/2006`
+- [Valtioneuvoston asetus Elintarviketurvallisuusvirastosta](115.md) `115/2006`
+- [Valtioneuvoston asetus vuodelta 2005 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 4 ja 19 §:n muuttamisesta](116.md) `116/2006`
+- [Valtioneuvoston asetus vuodelta 2005 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 12 §:n muuttamisesta](117.md) `117/2006`
+- [Maa\- ja metsätalousministeriön asetus ensisaapumistoiminnasta](118.md) `118/2006`
+- [Oikeusministeriön asetus vastapuolen maksettavaksi tuomittavista oikeudenkäyntikuluista oikeudenkäymiskaaren 21 luvun 8 c §:ssä tarkoitetuissa asioissa annetun oikeusministeriön asetuksen 3 §:n muuttamisesta](119.md) `119/2006`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2006 maa\- ja puutarhatalouden kansallisten tukien hakuajoista ja hakemisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](120.md) `120/2006`
+- [Maa\- ja metsätalousministeriön asetus ajoverkkojen käytön rajoittamisesta vuosina 2006 ja 2007](121.md) `121/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 puutarhatuotteiden varastointituen maksatuksesta](122.md) `122/2006`
+- [Laki lainhuuto\- ja kiinnitysrekisteristä annetun lain 21 §:n muuttamisesta](123.md) `123/2006`
+- [Laki pysäköintivirhemaksusta annetun lain 7 ja 9 §:n muuttamisesta](124.md) `124/2006`
+- [Laki sosiaalihuoltolain muuttamisesta](125.md) `125/2006`
+- [Tasavallan presidentin asetus Suomen ulkomaanedustustojen sijaintipaikoista annetun tasavallan presidentin asetuksen muuttamisesta annetun tasavallan presidentin asetuksen 4 §:n 2 momentin muuttamisesta](126.md) `126/2006`
+- [Valtioneuvoston asetus opintotukiasetuksen 28 §:n muuttamisesta](127.md) `127/2006`
+- [Valtioneuvoston asetus asuntojen korjaus\-, energia\- ja terveyshaitta\-avustuksista](128.md) `128/2006`
+- [Liikenne\- ja viestintäministeriön asetus Viestintäviraston eräistä maksuista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](129.md) `129/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta toimenpiteistä kasvintuhoojien hävittämiseksi ja niiden leviämisen estämiseksi annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](130.md) `130/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvituotteiden markkinoinnissa noudatettavista kasvinterveyden suojelun vaatimuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](131.md) `131/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvituotteiden maahantuonnissa ja maastaviennissä noudatettavista kasvinterveyden suojelun vaatimuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](132.md) `132/2006`
+- [Maa\- ja metsätalousministeriön asetus eräiden eläinten ja tavaroiden eläintautivaatimuksista Euroopan yhteisön sisämarkkinoilla annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](133.md) `133/2006`
+- [Maa\- ja metsätalousministeriön asetus alkutuotannolle elintarviketurvallisuuden varmistamiseksi asetettavista vaatimuksista](134.md) `134/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta varmennetusta lisäys\- ja taimiaineistosta](135.md) `135/2006`
+- [Laki kemikaalilain muuttamisesta](136.md) `136/2006`
+- [Laki ympäristönsuojelulain muuttamisesta](137.md) `137/2006`
+- [Laki rikoslain 48 luvun 1 §:n muuttamisesta](138.md) `138/2006`
+- [Valtioneuvoston asetus eräistä pysyvistä orgaanisista aineista annetun valtioneuvoston asetuksen kumoamisesta](139.md) `139/2006`
+- [Valtioneuvoston asetus pesu\- ja puhdistusaineiden markkinoille luovuttamisen ja käytön rajoittamisesta annetun valtioneuvoston päätöksen kumoamisesta](140.md) `140/2006`
+- [Valtioneuvoston asetus pesuaineasetuksen kumoamisesta](141.md) `141/2006`
+- [Tasavallan presidentin asetus patenttilakisopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](142.md) `142/2006`
+- [Valtioneuvoston asetus patenttilain muuttamisesta annetun lain eräiden säännösten voimaantulosta](143.md) `143/2006`
+- [Valtioneuvoston asetus patenttiasetuksen muuttamisesta](144.md) `144/2006`
+- [Valtioneuvoston asetus julkisen hallinnon tietohallinnon neuvottelukunnasta](145.md) `145/2006`
+- [Valtioneuvoston asetus vuodelta 2005 maksettavasta ympäristötuen kansallisesta lisäosasta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](146.md) `146/2006`
+- [Valtioneuvoston asetus eräistä tuomiopiirijärjestelyistä](147.md) `147/2006`
+- [Oikeusministeriön päätös käräjäoikeuksien kanslioiden ja istuntopaikkojen sijainnista annetun oikeusministeriön päätöksen 1 §:n muuttamisesta](148.md) `148/2006`
+- [Valtioneuvoston asetus opetushallituksesta annetun asetuksen muuttamisesta](149.md) `149/2006`
+- [Sisäasiainministeriön asetus sisäasiainministeriön työjärjestyksen muuttamisesta](150.md) `150/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta eräiden alkutuotannon elintarviketurvallisuutta koskevien maa\- ja metsätalousministeriön asetusten kumoamisesta](151.md) `151/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 energiakasvituen maksatuksesta](152.md) `152/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 valkuaiskasvipalkkion maksatuksesta](153.md) `153/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 kansallisten pinta\-alaperusteisten tukien maksatuksesta](154.md) `154/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 EU:n siementuotannon tuen maksatuksesta](155.md) `155/2006`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](156.md) `156/2006`
+- [Maa\- ja metsätalousministeriön asetus varotoimenpiteistä lintuinfluenssan leviämisen ehkäisemiseksi luonnonvaraisten lintujen ja siipikarjan välillä](157.md) `157/2006`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkekassan työntekijäin eläkelain 12 §:n mukaista vastuunjakoa varten laskettavista suureista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](158.md) `158/2006`
+- [Laki ihmisoikeuksien ja perusvapauksien suojaamiseksi tehdyn yleissopimuksen neljännentoista pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](159.md) `159/2006`
+- [Tasavallan presidentin asetus Algerian kanssa tehdyn Euro\-Välimeri\-assosiaatiosopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](160.md) `160/2006`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](161.md) `161/2006`
+- [Valtioneuvoston asetus vuodelta 2006 maatalousyrittäjien opintorahana maksettavan tuen määrästä](162.md) `162/2006`
+- [Valtioneuvoston asetus vuodelta 2006 maksettavasta mehiläistalouden kansallisesta pesäkohtaisesta tuesta](163.md) `163/2006`
+- [Valtioneuvoston asetus nurmi\- ja viljakasvien siementuotannon kansallisesta tuesta vuonna 2005 annetun valtioneuvoston asetuksen 8 ja 9 §:n muuttamisesta](164.md) `164/2006`
+- [Kauppa\- ja teollisuusministeriön asetus elintarvikkeen kanssa kosketukseen joutuvista keraamisista tarvikkeista](165.md) `165/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 peltokasvien tuen \(CAP\-tuen\) non food \-kesantopalkkion maksatuksesta](166.md) `166/2006`
+- [Laki alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan IV liitteeseen tehtyjen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](167.md) `167/2006`
+- [Valtioneuvoston asetus alusten katsastuksista annetun asetuksen muuttamisesta](168.md) `168/2006`
+- [Valtioneuvoston asetus turvavarastointiohjelmasta vuonna 2006](169.md) `169/2006`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön kokonaan rahoittamista teurastusperusteisista palkkioista ja lisätuesta annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](170.md) `170/2006`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta erityisistä rajoittavista toimenpiteistä, jotka kohdistuvat Libanonin entisen pääministerin Rafiq Haririn murhaan osallisuudesta epäiltyihin tiettyihin henkilöihin](171.md) `171/2006`
+- [Laki Kiinan kansantasavallan kanssa sijoitusten edistämisestä ja vastavuoroisesta suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](172.md) `172/2006`
+- [Tasavallan presidentin asetus Eurooppalaisen maisemayleissopimuksen voimaansaattamisesta sekä yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](173.md) `173/2006`
+- [Tasavallan presidentin asetus Bosnia\-Hertsegovinan kanssa Suomen tuesta vammaispolitiikan kehityshankkeelle tehdyn sopimuksen voimaansaattamisesta](174.md) `174/2006`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](175.md) `175/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta rehujen valvonnan järjestämisestä](176.md) `176/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 kansallisen nurmikasvien hehtaariperusteisen siementuotannon tuen maksatuksesta](177.md) `177/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 kansallisen viljakasvien kiloperusteisen siementuotannon tuen maksatuksesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](178.md) `178/2006`
+- [Valtioneuvoston asetus sotilasajoneuvoasetuksen kumoamisesta](179.md) `179/2006`
+- [Puolustusministeriön asetus sotilasajoneuvoista](180.md) `180/2006`
+- [Maa\- ja metsätalousministeriön asetus kansanterveyttä sekä eläinten ja kasvien terveyttä ja taudeista ilmoittamista koskevien täydentävien ehtojen valvonnasta](181.md) `181/2006`
+- [Maa\- ja metsätalousministeriön asetus turskan kalastuksesta, eräiden pyydysten käytön rajoittamisesta ja lajittelemattoman saaliin purkamisesta vuonna 2006](182.md) `182/2006`
+- [Maa\- ja metsätalousministeriön asetus suorien tukien täydentäviin ehtoihin liittyvistä hyvän maatalouden ja ympäristön vähimmäisvaatimuksista](183.md) `183/2006`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2006 maa\- ja puutarhatalouden kansallisten tukien hallinnosta](184.md) `184/2006`
+- [Maa\- ja metsätalousministeriön asetus erikoistuista ja tulvavahinkokorvauksesta sekä näiden hakemisesta ja tuen tai korvauksen perusteena olevien pinta\- ja sopimusalojen sekä määrien ilmoittamisesta vuonna 2006](185.md) `185/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta energiakasvituen ehdoista vuonna 2006](186.md) `186/2006`
+- [Laki verkkotunnuslain muuttamisesta](187.md) `187/2006`
+- [Tasavallan presidentin asetus verkkotunnushallinnosta Ahvenanmaan maakunnassa](188.md) `188/2006`
+- [Tasavallan presidentin asetus tieliikennettä koskevan yleissopimuksen muutosten voimaansaattamisesta ja muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](189.md) `189/2006`
+- [Tasavallan presidentin asetus liikennemerkkejä ja \-opasteita koskevan yleissopimuksen muutosten voimaansaattamisesta ja muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](190.md) `190/2006`
+- [Tasavallan presidentin asetus tieliikennettä koskevaa yleissopimusta täydentävän eurooppalaisen sopimuksen muutosten voimaansaattamisesta ja muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](191.md) `191/2006`
+- [Tasavallan presidentin asetus liikennemerkkejä ja \-opasteita koskevaa yleissopimusta täydentävän eurooppalaisen sopimuksen muutoksen voimaansaattamisesta](192.md) `192/2006`
+- [Tasavallan presidentin asetus liikennemerkkejä ja \-opasteita koskevaa yleissopimusta täydentävään eurooppalaiseen sopimukseen liitetyn tiemerkintöjä käsittelevän pöytäkirjan muutosten voimaansaattamisesta](193.md) `193/2006`
+- [Laki Algerian demokraattisen kansantasavallan kanssa sijoitusten vastavuoroisesta edistämisestä ja suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](194.md) `194/2006`
+- [Laki Armenian tasavallan kanssa sijoitusten edistämisestä ja suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](195.md) `195/2006`
+- [Sosiaali\- ja terveysministeriön asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 9 §:n mukaisista perusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](196.md) `196/2006`
+- [Sosiaali\- ja terveysministeriön asetus taiteilijoiden ja eräiden erityisryhmiin kuuluvien työntekijäin eläkelain 7 §:n 5 momentin mukaisista perusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](197.md) `197/2006`
+- [Laki sähköisen viestinnän tietosuojalain muuttamisesta](198.md) `198/2006`
+- [Laki sairausvakuutuslain 2 luvun 6 §:n ja 15 luvun 2 §:n muuttamisesta](199.md) `199/2006`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 12 §:n muuttamisesta](200.md) `200/2006`
+- [Valtioneuvoston asetus valtion yksikköjen ja toimintojen sijoittamista koskevasta toimivallasta annetun valtioneuvoston asetuksen muuttamisesta](201.md) `201/2006`
+- [Valtioneuvoston asetus kaatopaikoista annetun valtioneuvoston päätöksen muuttamisesta](202.md) `202/2006`
+- [Laki Yhdistyneiden kansakuntien elintarvike\- ja maatalousjärjestön \(FAO\) vuonna 1997 tarkistetun kansainvälisen kasvinsuojeluyleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](203.md) `203/2006`
+- [Maa\- ja metsätalousministeriön asetus tuettavan peltosalaojituksen laatuvaatimuksista ja tukikelpoisista enimmäiskustannuksista](204.md) `204/2006`
+- [Maa\- ja metsätalousministeriön asetus maatalouden investointeja koskevien tukien hakuajan alkamisesta](205.md) `205/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta tärkkelysperunan tuottajalle vuodelta 2005 suoritettavan tuen sekä vuoden 2005 kuitupellavan ja \-hampun jalostustuen ennakoiden maksatuksesta](206.md) `206/2006`
+- [Valtioneuvoston asetus terveydensuojeluasetuksen muuttamisesta](207.md) `207/2006`
+- [Ympäristöministeriön asetus Suomen ympäristökeskuksen maksullisista suoritteista annetun ympäristöministeriön asetuksen muuttamisesta](208.md) `208/2006`
+- [Opetusministeriön asetus opetusministeriön työjärjestyksen 16 §:n muuttamisesta](209.md) `209/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](210.md) `210/2006`
+- [Laki sotilaallisesta kriisinhallinnasta](211.md) `211/2006`
+- [Laki puolustusvoimista annetun lain 2 ja 9 a §:n muuttamisesta](212.md) `212/2006`
+- [Laki asevelvollisuuslain muuttamisesta](213.md) `213/2006`
+- [Laki rikoslain 45 luvun 27 §:n muuttamisesta](214.md) `214/2006`
+- [Laki sotilasoikeudenkäyntilain 2 §:n muuttamisesta](215.md) `215/2006`
+- [Laki valtioneuvoston oikeuskanslerin ja eduskunnan oikeusasiamiehen tehtävien jaosta annetun lain 1 §:n muuttamisesta](216.md) `216/2006`
+- [Laki siviilihenkilöstön osallistumisesta kriisinhallintaan annetun lain 2 §:n muuttamisesta](217.md) `217/2006`
+- [Tasavallan presidentin asetus sotilas\- ja palvelusarvoista annetun tasavallan presidentin asetuksen 18 §:n muuttamisesta](218.md) `218/2006`
+- [Ulkoasiainministeriön ilmoitus Euroopan unionin sotilasesikunnan ja unionin käyttöön mahdollisesti asetettujen esikuntien ja joukkojen sotilas\- ja siviilihenkilöiden asemasta tehdystä sopimuksesta](219.md) `219/2006`
+- [Ulkoasiainministeriön ilmoitus korvausvaatimuksista luopumisesta Euroopan unionin kriisinhallintaoperaatioiden yhteydessä tehdystä sopimuksesta](220.md) `220/2006`
+- [Valtioneuvoston asetus asuntojen korjaus\-, energia\- ja terveyshaitta\-avustuksista annetun asetuksen väliaikaisesta muuttamisesta](221.md) `221/2006`
+- [Valtioneuvoston asetus vuodelta 2005 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 13 §:n muuttamisesta](222.md) `222/2006`
+- [Valtioneuvoston asetus vuodelta 2005 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 8 §:n muuttamisesta](223.md) `223/2006`
+- [Valtioneuvoston asetus tilatukijärjestelmän täytäntöönpanosta annetun valtioneuvoston asetuksen muuttamisesta](224.md) `224/2006`
+- [Valtioneuvoston asetus tilatukijärjestelmän tukialueista, tuotantoon sidotuista tuista ja kesannoinnista annetun valtioneuvoston asetuksen muuttamisesta](225.md) `225/2006`
+- [Maa\- ja metsätalousministeriön asetus luonnonvaraisissa linnuissa esiintyvän lintuinfluenssan leviämisen estämisestä](226.md) `226/2006`
+- [Laki Lääkehoidon kehittämiskeskuksesta annetun lain 3 §:n muuttamisesta](227.md) `227/2006`
+- [Valtioneuvoston asetus ftalaateista lastenhoitotarvikkeissa ja leluissa](228.md) `228/2006`
+- [Maa\- ja metsätalousministeriön asetus tilatukijärjestelmästä](229.md) `229/2006`
+- [Maa\- ja metsätalousministeriön asetus luonnonhaittakorvauksesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](230.md) `230/2006`
+- [Maa\- ja metsätalousministeriön asetus tilatuen, luonnonhaittakorvauksen, maatalouden ympäristötuen ja maatalouden ympäristötuen erityistukisopimusten hakemisesta vuonna 2006 sekä näitä sopimuksia koskevista sopimuskausista](231.md) `231/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2006 kasvihuonetuen ennakon maksatuksesta](232.md) `232/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuonna 2005 teurastetuista lihasioista, lihasiipikarjasta, hiehoista ja sonneista sekä vuonna 2005 siitokseen myydyistä nuorista sioista maksettavan kansallisen kotieläintuen maksatuksesta](233.md) `233/2006`
+- [Laki tieliikennelain muuttamisesta](234.md) `234/2006`
+- [Laki omistusasuntolainojen valtiontakauksesta annetun lain muuttamisesta](235.md) `235/2006`
+- [Laki kirkkolain muuttamisesta](236.md) `236/2006`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](237.md) `237/2006`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](238.md) `238/2006`
+- [Kirkolliskokouksen päätös kirkon vaalijärjestyksen muuttamisesta](239.md) `239/2006`
+- [Maa\- ja metsätalousministeriön asetus luonnonmukaisesti tuotettujen maataloustuotteiden, elintarvikkeiden ja alkoholijuomien valvonnan järjestämisestä annetun asetuksen muuttamisesta](240.md) `240/2006`
+- [Ulkoasiainministeriön ilmoitus Ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](241.md) `241/2006`
+- [Ulkoasiainministeriön ilmoitus Ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](242.md) `242/2006`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain muuttamisesta](243.md) `243/2006`
+- [Laki oikeudenkäymiskaaren muuttamisesta](244.md) `244/2006`
+- [Laki esitutkintalain muuttamisesta](245.md) `245/2006`
+- [Laki pakkokeinolain muuttamisesta](246.md) `246/2006`
+- [Laki käräjäoikeuslain 17 §:n muuttamisesta](247.md) `247/2006`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](248.md) `248/2006`
+- [Laki sotilasoikeudenkäyntilain 3 §:n muuttamisesta](249.md) `249/2006`
+- [Laki työeläkevakuutusyhtiöistä annetun lain 29 e §:n muuttamisesta](250.md) `250/2006`
+- [Laki eläkesäätiölain 88 ja 100 a §:n muuttamisesta](251.md) `251/2006`
+- [Laki vakuutuskassalain 132 ja 134 §:n muuttamisesta](252.md) `252/2006`
+- [Valtioneuvoston asetus puolustusvoimien sotilaspuvuista ja virkapuvuista annetun asetuksen 2 §:n muuttamisesta](253.md) `253/2006`
+- [Puolustusministeriön asetus sotilaallisen kriisinhallintahenkilöstön pätevyysvaatimuksista ja palvelussuhteen ehdoista](254.md) `254/2006`
+- [Rahankeräyslaki](255.md) `255/2006`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain muuttamisesta](256.md) `256/2006`
+- [Laki rikoslain 17 luvun muuttamisesta](257.md) `257/2006`
+- [Sosiaali\- ja terveysministeriön asetus veripalvelusta](258.md) `258/2006`
+- [Valtioneuvoston asetus rajavartiolaitoksesta annetun valtioneuvoston asetuksen muuttamisesta](259.md) `259/2006`
+- [Valtioneuvoston asetus rajanylityspaikoista sekä rajatarkastustehtävien jakamisesta niillä annetun valtioneuvoston asetuksen 9 §:n muuttamisesta](260.md) `260/2006`
+- [Sisäasiainministeriön asetus rajavartiolaitoksen virkapuvusta ja rajavartiomiehen tunnuksesta annetun sisäasiainministeriön asetuksen 11 §:n muuttamisesta](261.md) `261/2006`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](262.md) `262/2006`
+- [Maa\- ja metsätalousministeriön asetus ympäristötuen perus\- ja lisätoimenpiteistä sekä maatalouden ympäristötuen koulutukseen liittyvästä tuesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](263.md) `263/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta tilatuen non food \-kesannon ehdoista vuonna 2006](264.md) `264/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2006 kansallisen kotieläintuen ennakon maksatuksesta](265.md) `265/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 emolehmäpalkkion loppuosan, vuoden 2005 sonni\- ja härkäpalkkion loppuosan, vuoden 2005 laajaperäistämispalkkion, vuoden 2005 teurastuspalkkion ja lisätuen loppuosan sekä vuoden 2005 emolehmien kansallisen lisäpalkkion maksatuksesta](266.md) `266/2006`
+- [Valtioneuvoston asetus rikosasioiden ja eräiden riita\-asioiden sovittelusta](267.md) `267/2006`
+- [Valtioneuvoston asetus alkoholijuomista ja väkiviinasta annetun asetuksen muuttamisesta](268.md) `268/2006`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä toimintapääomasta](269.md) `269/2006`
+- [Valtioneuvoston asetus valtakunnansyyttäjänvirastosta annetun asetuksen 1 §:n muuttamisesta](270.md) `270/2006`
+- [Valtioneuvoston asetus kihlakunnansyyttäjästä annetun asetuksen 5 a §:n muuttamisesta](271.md) `271/2006`
+- [Sosiaali\- ja terveysministeriön asetus muuntogeenisten organismien suljettuun käyttöön liittyvistä ilmoituksista ja hakemuksista sekä suljetun käytön kirjaamisesta ja pelastussuunnitelmasta](272.md) `272/2006`
+- [Liikenne\- ja viestintäministeriön asetus autojen ja perävaunujen rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen 17 §:n muuttamisesta](273.md) `273/2006`
+- [Liikenne\- ja viestintäministeriön asetus traktorien, moottorityökoneiden ja maastoajoneuvojen, niiden perävaunujen sekä hinattavien laitteiden rakenteesta ja varusteista](274.md) `274/2006`
+- [Valtioneuvoston asetus tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista annetun valtioneuvoston asetuksen 8 §:n muuttamisesta](275.md) `275/2006`
+- [Valtioneuvoston asetus maa\- ja metsätalousministeriöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](276.md) `276/2006`
+- [Valtioneuvoston asetus luonnonhaittakorvauksesta ja maatalouden ympäristötuesta annetun valtioneuvoston asetuksen 25 §:n muuttamisesta](277.md) `277/2006`
+- [Valtioneuvoston asetus taloudenhallinnan neuvottelukunnasta](278.md) `278/2006`
+- [Valtioneuvoston asetus varmuusvarastoitujen lääkkeiden, lääkintämateriaalin ja suojavälineiden käyttöönoton perusteista](279.md) `279/2006`
+- [Valtioneuvoston asetus maahanmuuttajien kotouttamisesta ja turvapaikanhakijoiden vastaanotosta annetun asetuksen muuttamisesta](280.md) `280/2006`
+- [Maa\- ja metsätalousministeriön asetus maaseutuelinkeinojen rahoituslaissa tarkoitetuista luottolaitoksista ja keskusrahalaitoksista annetun maa\- ja metsätalousministeriön asetuksen 2 §:n muuttamisesta](281.md) `281/2006`
+- [Maa\- ja metsätalousministeriön asetus muutos\- ja varantohausta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](282.md) `282/2006`
+- [Maa\- ja metsätalousministeriön asetus maatalouden ympäristötuen erityistuista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](283.md) `283/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta hakkuukoneella valmistettavan puutavaran tilavuuden mittaamisesta koneen mittalaitteella](284.md) `284/2006`
+- [Laki terveydensuojelulain muuttamisesta](285.md) `285/2006`
+- [Laki toimenpiteistä tupakoinnin vähentämiseksi annetun lain muuttamisesta](286.md) `286/2006`
+- [Laki kemikaalilain muuttamisesta](287.md) `287/2006`
+- [Valtioneuvoston asetus rikesakkorikkomuksista annetun asetuksen 7 §:n muuttamisesta](288.md) `288/2006`
+- [Valtioneuvoston asetus ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta](289.md) `289/2006`
+- [Liikenne\- ja viestintäministeriön asetus linja\-auton turvavöiden käyttövelvollisuuden ilmoittamisesta kuvamerkillä](290.md) `290/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta maatilatalouden rakennetuen ja vastaavan yritystoimintaan myönnettävän tuen perustana olevista rakennusten yksikkökustannuksista annetun asetuksen muuttamisesta](291.md) `291/2006`
+- [Laki terveydenhuollon järjestämisestä puolustusvoimissa annetun lain muuttamisesta](292.md) `292/2006`
+- [Laki kansanterveyslain muuttamisesta](293.md) `293/2006`
+- [Laki erikoissairaanhoitolain muuttamisesta](294.md) `294/2006`
+- [Laki patenttilain 3 §:n muuttamisesta](295.md) `295/2006`
+- [Maa\- ja metsätalousministeriön asetus Elintarviketurvallisuusviraston maksullisista suoritteista](296.md) `296/2006`
+- [Laki eläinlääkinnällisestä rajatarkastuksesta annetun lain muuttamisesta](297.md) `297/2006`
+- [Laki lääkelain muuttamisesta](298.md) `298/2006`
+- [Laki eläinten lääkitsemisestä annetun lain muuttamisesta](299.md) `299/2006`
+- [Laki eläinsuojelulain muuttamisesta](300.md) `300/2006`
+- [Laki eläinlääkärinammatin harjoittamisesta annetun lain muuttamisesta](301.md) `301/2006`
+- [Laki eläinlääkintähuoltolain muuttamisesta](302.md) `302/2006`
+- [Laki eläintautilain muuttamisesta](303.md) `303/2006`
+- [Laki helposti leviävien eläintautien vastustamisesta annetun lain muuttamisesta](304.md) `304/2006`
+- [Laki eräiden Euroopan yhteisön jäsenvaltioista olevien liikenteenharjoittajien kiellosta harjoittaa Suomen sisäistä liikennettä](305.md) `305/2006`
+- [Tasavallan presidentin asetus Malesian kanssa tehdyn lentoliikennesopimuksen voimaansaattamisesta](306.md) `306/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta hukkakauran torjunnasta aiheutuvien kustannusten korvaamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](307.md) `307/2006`
+- [Laki majoitus\- ja ravitsemistoiminnasta](308.md) `308/2006`
+- [Laki terveydensuojelulain 15 §:n muuttamisesta](309.md) `309/2006`
+- [Laki järjestyksenvalvojista annetun lain 1 §:n muuttamisesta](310.md) `310/2006`
+- [Tasavallan presidentin asetus hengenpelastusmitalista annetun asetuksen muuttamisesta](311.md) `311/2006`
+- [Tasavallan presidentin asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvään vuoden 1978 pöytäkirjan IV liitteeseen tehtyjen muutosten voimaansaattamisesta ja muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](312.md) `312/2006`
+- [Valtioneuvoston asetus aluksista aiheutuvan ympäristön pilaantumisen ehkäisemisestä annetun valtioneuvoston asetuksen 18 §:n 1 momentin 2 kohdan muuttamisesta](313.md) `313/2006`
+- [Valtioneuvoston asetus vuodelta 2006 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 5 ja 11 §:n muuttamisesta](314.md) `314/2006`
+- [Työministeriön asetus maahanmuuttoasiain toimikunnasta](315.md) `315/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta rehuseoksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](316.md) `316/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta tuoreen rehukasvin säilöntäaineista annetun maa\- ja metsätalousministeriön päätöksen kumoamisesta](317.md) `317/2006`
+- [Valtioneuvoston asetus asbestityöstä annetun valtioneuvoston päätöksen muuttamisesta](318.md) `318/2006`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](319.md) `319/2006`
+- [Valtiovarainministeriön asetus eduskuntauudistuksen juhlarahasta](320.md) `320/2006`
+- [Valtioneuvoston asetus elintarvikevalvonnasta](321.md) `321/2006`
+- [Valtioneuvoston asetus tutkimushankkeeseen kuuluvan salaojituksen tukemisesta vuonna 2006](322.md) `322/2006`
+- [Valtioneuvoston asetus täydentävien ehtojen ympäristöön liittyvien lakisääteisten hoitovaatimusten valvonnasta](323.md) `323/2006`
+- [Valtioneuvoston asetus vuodelta 2006 maksettavien kansallisten kasvintuotannon ja kotieläintukien valvonnasta](324.md) `324/2006`
+- [Maa\- ja metsätalousministeriön asetus maidon viitemäärän perusteella määräytyvän tilatuen lisäosan muutos\- ja varantohausta vuonna 2006](325.md) `325/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta toimenpiteistä kasvintuhoojien hävittämiseksi ja niiden leviämisen estämiseksi annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](326.md) `326/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvituotteiden markkinoinnissa noudatettavista kasvinterveyden suojelun vaatimuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](327.md) `327/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvituotteiden maahantuonnissa ja maastaviennissä noudatettavista kasvinterveyden suojelun vaatimuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](328.md) `328/2006`
+- [Valtioneuvoston asetus Maanpuolustusopetuksen neuvottelukunnasta](329.md) `329/2006`
+- [Valtioneuvoston asetus vesiliikenneasetuksen 2 §:n muuttamisesta ja väliaikaisesta muuttamisesta](330.md) `330/2006`
+- [Maa\- ja metsätalousministeriön asetus maatalouden ympäristötuen erityistuista annetun maa\- ja metsätalousministeriön asetuksen 9 §:n muuttamisesta](331.md) `331/2006`
+- [Maa\- ja metsätalousministeriön asetus vastustettavista eläintaudeista ja eläintautien ilmoittamisesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen muuttamisesta](332.md) `332/2006`
+- [Maa\- ja metsätalousministeriön asetus lammas\- ja vuohieläinten merkitsemisestä ja rekisteröinnistä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](333.md) `333/2006`
+- [Maa\- ja metsätalousministeriön asetus lammas\- ja vuohieläinten tunnistimien hyväksymisestä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](334.md) `334/2006`
+- [Maa\- ja metsätalousministeriön asetus eläinvälittäjärekisteristä annetun maa\- ja metsätalousministeriön asetuksen 6 §:n muuttamisesta](335.md) `335/2006`
+- [Maa\- ja metsätalousministeriön asetus sikojen merkitsemisestä ja rekisteröinnistä annetun maa\- ja metsätalousministeriön asetuksen 17 §:n muuttamisesta](336.md) `336/2006`
+- [Maa\- ja metsätalousministeriön asetus eräitä eläimistä saatavia sivutuotteita käsittelevien laitosten valvonnasta ja eräiden sivutuotteiden käytöstä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](337.md) `337/2006`
+- [Maa\- ja metsätalousministeriön asetus kansainvälisestä liikennevälineistä peräisin olevan ruokajätteen valvonnan järjestämisestä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](338.md) `338/2006`
+- [Maa\- ja metsätalousministeriön asetus eläinperäisten sivutuotteiden käsittelystä biokaasu\- ja kompostointilaitoksissa sekä lannan käsittelystä teknisissä laitoksissa annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](339.md) `339/2006`
+- [Maa\- ja metsätalousministeriön asetus eläimistä saatavien sivutuotteiden hävittämisestä syrjäisillä alueilla sekä kuolleiden lemmikkieläinten hävittämisestä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](340.md) `340/2006`
+- [Maa\- ja metsätalousministeriön asetus eläimistä saatavien elintarvikkeiden ja muiden tuotteiden eläinlääkinnällisistä rajatarkastuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](341.md) `341/2006`
+- [Maa\- ja metsätalousministeriön asetus eräiden Euroopan unioniin kuulumattomista valtioista tuotavien tavaroiden eläintautivaatimuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](342.md) `342/2006`
+- [Laki tieliikennelain muuttamisesta](343.md) `343/2006`
+- [Laki Tiehallinnosta annetun lain 2 §:n muuttamisesta](344.md) `344/2006`
+- [Laki tekijänoikeuslain muuttamisesta](345.md) `345/2006`
+- [Tasavallan presidentin asetus palkkaturva\-asioiden hoitamisesta Ahvenanmaan maakunnassa](346.md) `346/2006`
+- [Tasavallan presidentin asetus eräiden työttömyysturvalain mukaisten tehtävien hoitamisesta Ahvenanmaan maakunnassa](347.md) `347/2006`
+- [Sosiaali\- ja terveysministeriön asetus sähköisen lääkemääräyksen kokeilusta annetun sosiaali\- ja terveysministeriön asetuksen 7 §:n muuttamisesta](348.md) `348/2006`
+- [Maa\- ja metsätalousministeriön asetus Euroopan talousalueen ulkopuolisessa valtiossa eläinlääketieteellisen tutkinnon suorittaneen eläinlääkärin laillistamiselle asetettavista vaatimuksista annetun maa\- ja metsätalousministeriön asetuksen 3 ja 7 §:n muuttamisesta](349.md) `349/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](350.md) `350/2006`
+- [Valtioneuvoston asetus rikosrekisteriasetuksen muuttamisesta](351.md) `351/2006`
+- [Valtioneuvoston asetus kansainvälisestä oikeusavusta rikosasioissa annetun asetuksen 3 §:n muuttamisesta](352.md) `352/2006`
+- [Valtioneuvoston asetus ajoneuvojen käytöstä tiellä annetun asetuksen 3 §:n muuttamisesta](353.md) `353/2006`
+- [Liikenne\- ja viestintäministeriön asetus autojen ja perävaunujen rakenteesta ja varusteista annetun asetuksen muuttamisesta](354.md) `354/2006`
+- [Liikenne\- ja viestintäministeriön asetus kaksi\- ja kolmipyöräisten ajoneuvojen sekä nelipyörien rakenteesta ja varusteista annetun asetuksen muuttamisesta](355.md) `355/2006`
+- [Liikenne\- ja viestintäministeriön asetus autojen ja perävaunujen rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen liitteen 1 muuttamisesta](356.md) `356/2006`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötietojärjestelmän suoritteista ja tietopalvelusta perittävistä maksuista](357.md) `357/2006`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötietojärjestelmän tulojen jakamisesta](358.md) `358/2006`
+- [Laki tasavallan presidentin palkkiosta annetun lain 1 §:n muuttamisesta](359.md) `359/2006`
+- [Maa\- ja metsätalousministeriön asetus maatalouden sekä porotalouden ja luontaiselinkeinotalouden investointeja ja nuorten viljelijöiden tilanpidon aloittamista koskevien tukien hakuajan päättymisestä annetun maa\- ja metsätalousministeriön asetuksen \(1284/2003\) 1 §:n muuttamisesta](360.md) `360/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](361.md) `361/2006`
+- [Laki ajoneuvolain muuttamisesta](362.md) `362/2006`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain muuttamisesta](363.md) `363/2006`
+- [Laki palkkaturvalain muuttamisesta](364.md) `364/2006`
+- [Laki merimiesten palkkaturvalain muuttamisesta](365.md) `365/2006`
+- [Valtioneuvoston asetus vuoden 2005 satovahinkojen viljelmäkohtaisista korvausosuuksista](366.md) `366/2006`
+- [Valtioneuvoston asetus vuonna 2006 maksettavasta sokerijuurikkaan kansallisesta tuesta](367.md) `367/2006`
+- [Valtioneuvoston asetus sokerijuurikkaan lisäosan myöntämisestä kansallisesta varannosta](368.md) `368/2006`
+- [Laki oikeudesta korkeakouluissa tehtäviin keksintöihin](369.md) `369/2006`
+- [Laki oikeudesta työntekijän tekemiin keksintöihin annetun lain muuttamisesta](370.md) `370/2006`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen tehtyjen muutosten voimaansaattamisesta](371.md) `371/2006`
+- [Tasavallan presidentin asetus Perun kanssa tehdyn velkavaihtosopimusta koskevan muutossopimuksen voimaansaattamisesta](372.md) `372/2006`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen tehtyjen muutosten voimaansaattamisesta](373.md) `373/2006`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyvään vuoden 1988 pöytäkirjaan tehtyjen muutosten voimaansaattamisesta](374.md) `374/2006`
+- [Tasavallan presidentin asetus merenkulkijoiden koulutusta, pätevyyskirjoja ja vahdinpitoa koskevaan säännöstöön tehtyjen muutosten voimaansaattamisesta](375.md) `375/2006`
+- [Tasavallan presidentin asetus ilmastonmuutosta koskevan Yhdistyneiden Kansakuntien puitesopimuksen Kioton pöytäkirjan voimaansaattamisesta sekä pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta annetun asetuksen muuttamisesta](376.md) `376/2006`
+- [Maa\- ja metsätalousministeriön asetus tilakohtaisen sokerijuurikkaan lisäosan hakumenettelystä vuonna 2006](377.md) `377/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta energiakasvituen ehdoista vuonna 2006 annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](378.md) `378/2006`
+- [Laki polttoainemaksusta annetun lain 6 §:n muuttamisesta](379.md) `379/2006`
+- [Laki ulkomaalaislain muuttamisesta](380.md) `380/2006`
+- [Laki Euroopan yhteisön ja sen jäsenvaltioiden sekä Kiinan kansantasavallan hallituksen välillä meriliikenteestä tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](381.md) `381/2006`
+- [Liikenne\- ja viestintäministeriön asetus autojen ja perävaunujen rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen 39 §:n ja liitteen 1 muuttamisesta](382.md) `382/2006`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](383.md) `383/2006`
+- [Liikenne\- ja viestintäministeriön asetus ajokorttiasetuksen soveltamisesta annetun liikenneministeriön päätöksen 4 a ja 14 §:n muuttamisesta](384.md) `384/2006`
+- [Sisäasiainministeriön asetus rajavartiolaitoksen turvamiehen koulutuksesta](385.md) `385/2006`
+- [Maa\- ja metsätalousministeriön asetus varotoimenpiteistä lintuinfluenssan leviämisen ehkäisemiseksi luonnonvaraisten lintujen ja siipikarjan välillä](386.md) `386/2006`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden lastenruokia koskevien säädösten kumoamisesta](387.md) `387/2006`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden sillivalmisteiden kauppatavan mukaisista nimistä annetun kauppa\- ja teollisuusministeriön päätöksen kumoamisesta](388.md) `388/2006`
+- [Kauppa\- ja teollisuusministeriön asetus elintarvikkeen kanssa kosketukseen joutuvasta paperista ja kartongista annetun kauppa\- ja teollisuusministeriön päätöksen kumoamisesta](389.md) `389/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinsuojeluaineissa sallituista tehoaineista ja niiden käytön ehdoista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](390.md) `390/2006`
+- [Laki eläkesäätiölain muuttamisesta](391.md) `391/2006`
+- [Laki vakuutuskassalain muuttamisesta](392.md) `392/2006`
+- [Laki ulkomaisista vakuutusyhtiöistä annetun lain muuttamisesta](393.md) `393/2006`
+- [Verohallituksen päätös Cidron International Oy:n verottamisesta Konserniverokeskuksessa](394.md) `394/2006`
+- [Työntekijän eläkelaki](395.md) `395/2006`
+- [Työntekijän eläkelain voimaanpanolaki](396.md) `396/2006`
+- [Laki Eläketurvakeskuksesta](397.md) `397/2006`
+- [Laki rikoslain 29 luvun muuttamisesta](398.md) `398/2006`
+- [Laki opintotukilain muuttamisesta](399.md) `399/2006`
+- [Valtioneuvoston asetus erikoiseläinlääkärin tutkinnosta ja oikeudesta toimia erikoiseläinlääkärinä annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](400.md) `400/2006`
+- [Valtioneuvoston asetus eläinsuojeluasetuksen 18 §:n väliaikaisesta muuttamisesta](401.md) `401/2006`
+- [Valtioneuvoston asetus tieliikenneasetuksen muuttamisesta](402.md) `402/2006`
+- [Liikenne\- ja viestintäministeriön asetus tieliikenteen liikennevaloista annetun liikenne\- ja viestintäministeriön asetuksen 6 §:n muuttamisesta](403.md) `403/2006`
+- [Liikenne\- ja viestintäministeriön asetus  liikenteen ohjauslaitteista annetun liikenneministeriön päätöksen muuttamisesta](404.md) `404/2006`
+- [Maa\- ja metsätalousministeriön asetus emolehmäpalkkio\-oikeuksien siirtämisestä kansalliseen varantoon](405.md) `405/2006`
+- [Maa\- ja metsätalousministeriön asetus suorien pinta\-alaperusteisten tukien hallinnosta ja valvonnasta](406.md) `406/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta peltoalaperusteisten tukien valvonnasta](407.md) `407/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta eläintukien valvonnasta](408.md) `408/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 viljelmäkohtaisten satovahinkokorvausten maksatuksesta](409.md) `409/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta markkinointivuoden 2006/2007 kuivattujen rehujen jalostusyrityksille suoritettavan jalostustuen ennakoiden maksatuksesta](410.md) `410/2006`
+- [Laki Tšekin tasavallan, Viron tasavallan, Kyproksen tasavallan, Latvian tasavallan, Liettuan tasavallan, Unkarin tasavallan, Maltan tasavallan, Puolan tasavallan, Slovenian tasavallan ja Slovakian tasavallan liittymisestä yleissopimukseen kaksinkertaisen verotuksen poistamisesta etuyhteydessä keskenään olevien yritysten tulonoikaisun yhteydessä tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](411.md) `411/2006`
+- [Laki Viron kanssa tehdyn sosiaaliturvasopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](412.md) `412/2006`
+- [Laki Viron kanssa sosiaaliturvasta tehdyn sopimuksen eräiden määräysten hyväksymisestä annetun lain kumoamisesta](413.md) `413/2006`
+- [Valtioneuvoston päätös Sumiaisten kunnan, Suolahden kaupungin ja Äänekosken kaupungin lakkauttamisesta ja uuden Äänekosken kunnan perustamisesta](414.md) `414/2006`
+- [Sosiaali\- ja terveysministeriön asetus eläkekassan vastuuvelan ja eläkesäätiön eläkevastuun laskemisessa käytettävästä enimmäiskorosta](415.md) `415/2006`
+- [Sosiaali\- ja terveysministeriön asetus eläkesäätiön lainanotosta](416.md) `416/2006`
+- [Sosiaali\- ja terveysministeriön asetus joukkovelkakirjalainojen arvostamisesta eläkekassan ja eläkesäätiön toimintapääomassa](417.md) `417/2006`
+- [Laki eräiden Euroopan unionin valtioiden kansalaisen työntekoa koskevien tietojen rekisteröinnistä](418.md) `418/2006`
+- [Laki ulkomaalaisrekisteristä annetun lain 5 ja 7 §:n muuttamisesta](419.md) `419/2006`
+- [Laki ulkomaalaislain 85 §:n muuttamisesta](420.md) `420/2006`
+- [Työministeriön asetus ulkomaalaislain nojalla säädettyihin tehtäviin toimivaltaisista työvoimatoimistoista](421.md) `421/2006`
+- [Tasavallan presidentin asetus arvonimistä annetun tasavallan presidentin asetuksen liitteen 1 muuttamisesta](422.md) `422/2006`
+- [Laki kunnallisen eläkelain 2 §:n muuttamisesta](423.md) `423/2006`
+- [Tasavallan presidentin asetus kansainvälisen siviili\-ilmailun yleissopimuksen 56 artiklan muutosta koskevan pöytäkirjan voimaansaattamisesta](424.md) `424/2006`
+- [Valtioneuvoston kanslian asetus valtioneuvoston kanslian työjärjestyksen muuttamisesta](425.md) `425/2006`
+- [Puolustusministeriön asetus sotilaallisen kriisinhallintahenkilöstön pätevyysvaatimuksista ja palvelussuhteen ehdoista annetun puolustusministeriön asetuksen 7 §:n muuttamisesta](426.md) `426/2006`
+- [Maa\- ja metsätalousministeriön asetus tuottajalle maksettavista erikoistuista ja tulvavahinkokorvauksesta sekä näiden hakemisesta ja tuen tai korvauksen perusteena olevien pinta\- ja sopimusalojen ilmoittamisesta vuonna 2005 annetun maa\- ja metsätalousministeriön asetuksen 12 ja 18 §:n muuttamisesta](427.md) `427/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](428.md) `428/2006`
+- [Laki Merenkulkulaitoksesta annetun lain muuttamisesta](429.md) `429/2006`
+- [Laki öljysuojarahastosta annetun lain 5 §:n muuttamisesta](430.md) `430/2006`
+- [Laki Pallas\-Yllästunturin kansallispuistosta annetun lain 4 §:n muuttamisesta](431.md) `431/2006`
+- [Tasavallan presidentin asetus Yhdistyneiden kansakuntien elintarvike\- ja maatalousjärjestön \(FAO\) vuonna 1997 tarkistetun kansainvälisen kasvinsuojeluyleissopimuksen voimaansaattamisesta sekä tarkistetun yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](432.md) `432/2006`
+- [Tasavallan presidentin asetus ylioppilastutkinnosta Ahvenanmaan maakunnassa](433.md) `433/2006`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](434.md) `434/2006`
+- [Maa\- ja metsätalousministeriön asetus eräitä eläimistä saatavia sivutuotteita käsittelevien laitosten valvonnasta ja eräiden sivutuotteiden käytöstä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](435.md) `435/2006`
+- [Valtioneuvoston asetus televisio\- ja radiotoimintaan sekä toimiluvanvaraiseen teletoimintaan määrättyjen taajuusalueiden käyttösuunnitelman muuttamisesta](436.md) `436/2006`
+- [Valtioneuvoston päätös Mietoisten kunnan ja Mynämäen kunnan lakkauttamisesta ja uuden Mynämäen kunnan perustamisesta](437.md) `437/2006`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2005 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista annetun valtiovarainministeriön asetuksen 2 §:n muuttamisesta](438.md) `438/2006`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2006 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista annetun valtiovarainministeriön asetuksen 2 §:n muuttamisesta](439.md) `439/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta nautojen EHEC\-tutkimuksista teurastamossa ja pitopaikassa](440.md) `440/2006`
+- [Laki tieliikennelain muuttamisesta](441.md) `441/2006`
+- [Laki arvopaperimarkkinalain muuttamisesta](442.md) `442/2006`
+- [Laki kauppakamarilain 2 §:n muuttamisesta](443.md) `443/2006`
+- [Laki Rahoitustarkastuksesta annetun lain muuttamisesta](444.md) `444/2006`
+- [Laki Suomen ja Norjan välillä tavaroiden ja palvelujen vaihdon ylläpitämisestä sota\- ja kriisitilanteissa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](445.md) `445/2006`
+- [Tasavallan presidentin asetus Perun kanssa yhteisömetsien integroitua käsittelyä koskevan Pichis Valleyn vaihtoehtoisista elinkeinomuodoista huumeviljelylle tehdyn hankesopimuksen voimaansaattamisesta](446.md) `446/2006`
+- [Laki valtion talousarviosta annetun lain muuttamisesta](447.md) `447/2006`
+- [Laki joukkoliikenteen tarkastusmaksusta annetun lain muuttamisesta](448.md) `448/2006`
+- [Laki rikoslain 17 luvun 6 §:n muuttamisesta](449.md) `449/2006`
+- [Laki järjestyksenvalvojista annetun lain 1 §:n muuttamisesta](450.md) `450/2006`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyvään IGC\-säännöstöön tehtyjen muutosten voimaansaattamisesta](451.md) `451/2006`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyvään FTP\-säännöstöön tehtyjen muutosten voimaansaattamisesta](452.md) `452/2006`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyvään INF\-säännöstöön tehdyn muutoksen voimaansaattamisesta](453.md) `453/2006`
+- [Tasavallan presidentin asetus vuoden 1966 kansainväliseen lastiviivayleissopimukseen liittyvään vuoden 1988 pöytäkirjaan tehtyjen muutosten voimaansaattamisesta](454.md) `454/2006`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyvään ISM\-säännöstöön tehtyjen muutosten voimaansaattamisesta](455.md) `455/2006`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyvään vuoden 1994 HSC\-säännöstöön tehdyn muutoksen voimaansaattamisesta](456.md) `456/2006`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyvään vuoden 2000 HSC\-säännöstöön tehtyjen muutosten voimaansaattamisesta](457.md) `457/2006`
+- [Laki ympäristövaikutusten arviointimenettelystä annetun lain muuttamisesta](458.md) `458/2006`
+- [Laki sairausvakuutuslain muuttamisesta](459.md) `459/2006`
+- [Laki työsopimuslain 2 luvun muuttamisesta](460.md) `460/2006`
+- [Laki kunnallisesta viranhaltijasta annetun lain 26 §:n muuttamisesta](461.md) `461/2006`
+- [Laki työttömyysturvalain muuttamisesta](462.md) `462/2006`
+- [Laki julkisesta työvoimapalvelusta annetun lain 9 luvun 4 §:n muuttamisesta](463.md) `463/2006`
+- [Valtioneuvoston päätös Viljakkalan kunnan liittämisestä Ylöjärven kaupunkiin](464.md) `464/2006`
+- [Valtioneuvoston päätös Suodenniemen kunnan liittämisestä Vammalan kaupunkiin](465.md) `465/2006`
+- [Laki korruption vastaisen Yhdistyneiden Kansakuntien yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](466.md) `466/2006`
+- [Laki rikoslain 30 luvun 12 §:n muuttamisesta](467.md) `467/2006`
+- [Maa\- ja metsätalousministeriön asetus Euroopan unionin ulkopuolisista valtioista tuotavien hevoseläinten eläintautivaatimuksista](468.md) `468/2006`
+- [Laki ulosottolain muuttamisesta](469.md) `469/2006`
+- [Laki ulosottomaksuista annetun lain muuttamisesta](470.md) `470/2006`
+- [Laki perintökaaren muuttamisesta](471.md) `471/2006`
+- [Laki autokiinnityslain 22 §:n 2 momentin kumoamisesta](472.md) `472/2006`
+- [Laki osamaksukaupasta annetun lain 18 §:n muuttamisesta](473.md) `473/2006`
+- [Valtioneuvoston asetus siirrettävälle C\-sokerille maksettavasta varastointikustannusten korvauksesta markkinointivuodelta 2005/2006](474.md) `474/2006`
+- [Valtioneuvoston asetus nuorille työntekijöille erityisen haitallisista ja vaarallisista töistä](475.md) `475/2006`
+- [Valtioneuvoston asetus vaarallisten aineiden käytön rajoittamisesta sähkö\- ja elektroniikkalaitteissa annetun valtioneuvoston asetuksen liitteen muuttamisesta](476.md) `476/2006`
+- [Valtioneuvoston päätös Luopioisten kunnan ja Pälkäneen kunnan lakkauttamisesta ja uuden Pälkäneen kunnan perustamisesta](477.md) `477/2006`
+- [Kauppa\- ja teollisuusministeriön asetus elintarvikkeissa ja alkoholijuomissa käytettävistä väreistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](478.md) `478/2006`
+- [Valtiovarainministeriön asetus tarjousasiakirjan sisällöstä ja julkistamisesta sekä Euroopan talousalueella hyväksytyn tarjousasiakirjan vastavuoroisesta tunnustamisesta](479.md) `479/2006`
+- [Valtiovarainministeriön asetus arvopaperin liikkeeseenlaskijan säännöllisestä tiedonantovelvollisuudesta annetun valtiovarainministeriön asetuksen \(538/2002\) 2 luvun muuttamisesta](480.md) `480/2006`
+- [Liikenne\- ja viestintäministeriön asetus taksitaksasta](481.md) `481/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden porotalouden ja luontaiselinkeinojen rahoituslain mukaisten asuntolainojen viitekorosta](482.md) `482/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden maatilalain mukaisten myyntihintasaamisten ja lainojen viitekorosta](483.md) `483/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta maa\- ja metsätalousministeriön yleiskirjeen 132/96 kumoamisesta](484.md) `484/2006`
+- [Valtioneuvoston asetus esitutkinnasta ja pakkokeinoista annetun asetuksen 16 §:n muuttamisesta](485.md) `485/2006`
+- [Valtioneuvoston asetus oikeusministeriöstä annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](486.md) `486/2006`
+- [Valtioneuvoston asetus Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](487.md) `487/2006`
+- [Kauppa\- ja teollisuusministeriön asetus kasvisten kaupan pitämisestä](488.md) `488/2006`
+- [Kauppa\- ja teollisuusministeriön asetus ruokasienten kaupan pitämisestä](489.md) `489/2006`
+- [Kauppa\- ja teollisuusministeriön asetus kalasta ja kalavalmisteista annetun asetuksen kumoamisesta](490.md) `490/2006`
+- [Kauppa\- ja teollisuusministeriön asetus etikasta annetun asetuksen kumoamisesta](491.md) `491/2006`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2006 maa\- ja puutarhatalouden kansallisten tukien hallinnosta annetun maa\- ja metsätalousministeriön asetuksen 8 §:n muuttamisesta](492.md) `492/2006`
+- [Maa\- ja metsätalousministeriön asetus tilatuen, luonnonhaittakorvauksen, maatalouden ympäristötuen ja maatalouden ympäristötuen erityistukisopimusten hakemisesta vuonna 2006 sekä näitä sopimuksia koskevista sopimuskausista annetun maa\- ja metsätalousministeriön asetuksen 2 §:n muuttamisesta](493.md) `493/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta erityistukisopimusten tekemisestä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](494.md) `494/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2004 kuitupellavan ja \-hampun jalostustuen maksatuksesta](495.md) `495/2006`
+- [Laki mittayksiköistä ja mittanormaalijärjestelmästä annetun lain muuttamisesta](496.md) `496/2006`
+- [Valtioneuvoston asetus mittanormaalijärjestelmästä annetun asetuksen muuttamisesta](497.md) `497/2006`
+- [Kauppa\- ja teollisuusministeriön asetus kauppa\- ja teollisuusministeriön työjärjestyksen muuttamisesta](498.md) `498/2006`
+- [Liikenne\- ja viestintäministeriön asetus taksien reittitaksasta](499.md) `499/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta lampaiden ja vuohin TSE\-tautien vastustamisesta](500.md) `500/2006`
+- [Vuoden 2006 lisätalousarvio](501.md) `501/2006`
+- [Valtioneuvoston asetus sanomalehdistön tuesta annetun asetuksen 5 §:n 1 momentin kumoamisesta](502.md) `502/2006`
+- [Valtioneuvoston asetus rahankeräyksistä](503.md) `503/2006`
+- [Valtioneuvoston asetus Merenkulkulaitoksesta](504.md) `504/2006`
+- [Sisäasiainministeriön asetus pysäköintivirhemaksusta](505.md) `505/2006`
+- [Sisäasiainministeriön asetus kriisinhallintaan osallistuvan siviilihenkilöstön palvelussuhteen ehdoista annetun sisäasiainministeriön asetuksen liitteen muuttamisesta](506.md) `506/2006`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2005 tulvavahinkokorvausten maksamisesta annetun maa\- ja metsätalousministeriön asetuksen liitteen 1 muuttamisesta](507.md) `507/2006`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2005 maatalouden tulvavahinkokorvausten maksamisesta](508.md) `508/2006`
+- [Valtioneuvoston asetus vankeudesta](509.md) `509/2006`
+- [Valtioneuvoston asetus tutkintavankeudesta](510.md) `510/2006`
+- [Valtioneuvoston asetus ehdonalaisen vapauden valvonnasta](511.md) `511/2006`
+- [Valtioneuvoston asetus televisiomaksuista](512.md) `512/2006`
+- [Valtioneuvoston päätös Haukivuoren kunnan liittämisestä Mikkelin kaupunkiin](513.md) `513/2006`
+- [Valtioneuvoston päätös Kuivaniemen kunnan ja Iin kunnan lakkauttamisesta ja uuden Iin kunnan perustamisesta](514.md) `514/2006`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä toimintapääomasta](515.md) `515/2006`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](516.md) `516/2006`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkekassan työntekijäin eläkelain 12 §:n mukaista vastuunjakoa varten laskettavista suureista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](517.md) `517/2006`
+- [Sosiaali\- ja terveysministeriön asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 9 §:n mukaisista perusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](518.md) `518/2006`
+- [Sosiaali\- ja terveysministeriön asetus taiteilijoiden ja eräiden erityisryhmiin kuuluvien työntekijäin eläkelain 7 §:n 5 momentin mukaisista perusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](519.md) `519/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta haitallisista aineista, tuotteista ja eliöistä rehuissa annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](520.md) `520/2006`
+- [Valtioneuvoston asetus viranomaisradioverkon päätelaitteiden hankintaan maksettavan valtionavustuksen myöntämisperusteista](521.md) `521/2006`
+- [Valtioneuvoston päätös Pieksämäen kaupungin ja Pieksänmaan kunnan lakkauttamisesta ja uuden Pieksämäen kunnan perustamisesta](522.md) `522/2006`
+- [Valtioneuvoston päätös Längelmäen kunnan lakkauttamisesta ja sen alueiden liittämisestä Jämsän kaupunkiin ja Oriveden kaupunkiin](523.md) `523/2006`
+- [Valtioneuvoston päätös Toijalan kaupungin ja Viialan kunnan lakkauttamisesta ja uuden Akaan kunnan perustamisesta](524.md) `524/2006`
+- [Valtioneuvoston päätös Kodisjoen kunnan liittämisestä Rauman kaupunkiin](525.md) `525/2006`
+- [Valtioneuvoston päätös Vuolijoen kunnan liittämisestä Kajaanin kaupunkiin](526.md) `526/2006`
+- [Valtioneuvoston päätös Ruukin kunnan ja Siikajoen kunnan lakkauttamisesta ja uuden Siikajoen kunnan perustamisesta](527.md) `527/2006`
+- [Maa\- ja metsätalousministeriön asetus metsälain soveltamisesta annetun maa\- ja metsätalousministeriön päätöksen 3 ja 4 §:n muuttamisesta](528.md) `528/2006`
+- [Liikenne\- ja viestintäministeriön asetus joukkoliikenteen valtionavustuksista annetun liikenne\- ja viestintäministeriön asetuksen 5 §:n muuttamisesta](529.md) `529/2006`
+- [Kauppa\- ja teollisuusministeriön asetus Patentti\- ja rekisterihallituksen maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön asetuksen liitteenä olevan maksutaulukon muuttamisesta](530.md) `530/2006`
+- [Laki valtion eläkerahastosta annetun lain muuttamisesta](531.md) `531/2006`
+- [Laki maaseudun kehittämiseen liittyvien ohjelmien hallinnoinnista](532.md) `532/2006`
+- [Laki työsopimuslain 4 luvun muuttamisesta](533.md) `533/2006`
+- [Laki merimieslain muuttamisesta](534.md) `534/2006`
+- [Valtioneuvoston päätös Vöyrin kunnan ja Maksamaan kunnan lakkauttamisesta ja uuden Vöyri\-Maksamaan kunnan perustamisesta](535.md) `535/2006`
+- [Sisäasiainministeriön asetus maistraattien toimialueista annetun sisäasiainministeriön päätöksen 2, 3 ja 4 §:n muuttamisesta](536.md) `536/2006`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskorosta](537.md) `537/2006`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain 14 ja 19 §:n muuttamisesta](538.md) `538/2006`
+- [Lannoitevalmistelaki](539.md) `539/2006`
+- [Laki ilmailulain muuttamisesta](540.md) `540/2006`
+- [Tasavallan presidentin asetus Suomen ulkomaanedustustojen sijaintipaikoista](541.md) `541/2006`
+- [Valtioneuvoston asetus poronhoitovuodelta 2006/2007 maksettavasta eläinkohtaisesta tuesta](542.md) `542/2006`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2006 metsänhoitomaksun perusteesta](543.md) `543/2006`
+- [Laki kansainvälisten suhteiden ja Euroopan unionin asioiden tutkimuslaitoksesta](544.md) `544/2006`
+- [Laki eduskunnan virkamiehistä annetun lain muuttamisesta](545.md) `545/2006`
+- [Laki valtion maksuperustelain 1 ja 10 §:n muuttamisesta](546.md) `546/2006`
+- [Laki julkisesta työvoimapalvelusta annetun lain 5 luvun 4 §:n ja 7 luvun 3 §:n muuttamisesta](547.md) `547/2006`
+- [Laki työttömyysturvalain 2 luvun 20 §:n ja 7 luvun 5 §:n muuttamisesta](548.md) `548/2006`
+- [Tasavallan presidentin asetus Venäjän kanssa Suomen ja Venäjän välisen valtakunnanrajan ylityspaikoista 11 päivänä maaliskuuta 1994 tehdyn sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](549.md) `549/2006`
+- [Ulkoasiainministeriön asetus ulkoasiainministeriön työjärjestyksen muuttamisesta](550.md) `550/2006`
+- [Tasavallan presidentin asetus kansainvälisiä rautatiekuljetuksia koskevan yleissopimuksen \(COTIF\) muutosten voimaansaattamisesta sekä yleissopimuksen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](551.md) `551/2006`
+- [Liikenne\- ja viestintäministeriön asetus auton rakenteen muuttamisesta annetun liikenneministeriön päätöksen 6 ja 8 §:n muuttamisesta](552.md) `552/2006`
+- [Liikenne\- ja viestintäministeriön asetus koulu\- ja päivähoitokuljetusten kuormituksesta ja turvallisuusjärjestelyistä](553.md) `553/2006`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](554.md) `554/2006`
+- [Rautatielaki](555.md) `555/2006`
+- [Laki rautatiejärjestelmän liikenneturvallisuustehtävistä annetun lain muuttamisesta](556.md) `556/2006`
+- [Laki vaarallisten aineiden kuljetuksesta annetun lain 6 ja 12 §:n muuttamisesta](557.md) `557/2006`
+- [Laki kansainvälisiä rautatiekuljetuksia koskevan yleissopimuksen \(COTIF\) muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain 3 §:n muuttamisesta](558.md) `558/2006`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Lempäälän kunnan ja Tampereen kaupungin välillä](559.md) `559/2006`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Luodon kunnan ja Pietarsaaren kaupungin välillä](560.md) `560/2006`
+- [Laki työtuomioistuimesta annetun lain muuttamisesta](561.md) `561/2006`
+- [Maa\- ja metsätalousministeriön asetus maidon toimitusten viitemääristä](562.md) `562/2006`
+- [Maa\- ja metsätalousministeriön asetus poronhoitovuodelta 2006/2007 maksettavan eläinkohtaisen tuen hakuajasta ja hakemisesta](563.md) `563/2006`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Haapajärven ja Nivalan kaupunkien välillä](564.md) `564/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](565.md) `565/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 kansallisen viljakasvien kiloperusteisen siementuotannon tuen maksatuksesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](566.md) `566/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuonna 2005 puutarhatuotteille, korjatulle sadolle, puustolle ja muille maatalouskohteille aiheutuneiden tulvavahinkojen korvausten maksatuksesta](567.md) `567/2006`
+- [Maa\- ja metsätalousministeriön asetus vesiviljelyrekisteristä annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](568.md) `568/2006`
+- [Maa\- ja metsätalousministeriön asetus eräiden eläinten ja tavaroiden eläintautivaatimuksista Euroopan yhteisön sisämarkkinoilla annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](569.md) `569/2006`
+- [Maa\- ja metsätalousministeriön asetus eräiden tuotantoeläinten sekä niiden alkioiden ja sukusolujen eläintautivaatimuksista Euroopan yhteisön sisämarkkinoilla annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen 4 ja 10 §:n muuttamisesta](570.md) `570/2006`
+- [Maa\- ja metsätalousministeriön asetus eläinten eläinlääkinnällisistä rajatarkastuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](571.md) `571/2006`
+- [Maa\- ja metsätalousministeriön asetus eräiden kolmansista maista tuotavien eläinten sekä niiden alkioiden ja sukusolujen eläintautivaatimuksista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](572.md) `572/2006`
+- [Maa\- ja metsätalousministeriön asetus eläimiä ja eläimistä saatavia tuotteita koskevien viranomaisten todistusten antamisesta Euroopan yhteisön sisämarkkinoilla annetun maa\- ja metsätalousministeriön päätöksen 2 §:n muuttamisesta](573.md) `573/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](574.md) `574/2006`
+- [Valtioneuvoston asetus ulkomaanliikenteen kauppa\-alusluettelosta annetun lain muuttamisesta annetun lain voimaantulosta](575.md) `575/2006`
+- [Korkeimman oikeuden työjärjestys](576.md) `576/2006`
+- [Työministeriön työjärjestys](577.md) `577/2006`
+- [Laki kuntalain muuttamisesta](578.md) `578/2006`
+- [Laki työsopimuslain 2 luvun muuttamisesta](579.md) `579/2006`
+- [Laki valtion virkamieslain muuttamisesta](580.md) `580/2006`
+- [Laki kunnallisesta viranhaltijasta annetun lain muuttamisesta](581.md) `581/2006`
+- [Laki merimieslain muuttamisesta](582.md) `582/2006`
+- [Laki lastensuojelulain muuttamisesta](583.md) `583/2006`
+- [Valtiovarainministeriön asetus Suomen EU\-puheenjohtajuuden juhlarahoista](584.md) `584/2006`
+- [Verohallituksen päätös Orion Oyj:n ja Oriola\-KD Oyj:n verottamisesta Konserniverokeskuksessa](585.md) `585/2006`
+- [Laki yliopistolain muuttamisesta](586.md) `586/2006`
+- [Laki kirkkolain 1 luvun 3 §:n muuttamisesta](587.md) `587/2006`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](588.md) `588/2006`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](589.md) `589/2006`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen 5 luvun 3 §:n kumoamisesta](590.md) `590/2006`
+- [Valtioneuvoston asetus eräiden jätteiden hyödyntämisestä maarakentamisessa](591.md) `591/2006`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön ulkopuolisista maista tuotavista kalastustuotteista ja niistä saaduista raakavalmisteista ja jalosteista sekä elävistä simpukoista, piikkinahkaista, vaippaeläimistä ja merikotiloista](592.md) `592/2006`
+- [Sosiaali\- ja terveysministeriön asetus lääkäri\- ja hammaslääkärikoulutuksen sekä yliopistotasoisen terveystieteellisen tutkimustoiminnan korvauksen perusteista vuonna 2006 annetun sosiaali\- ja terveysministeriön asetuksen 1 §:n muuttamisesta](593.md) `593/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](594.md) `594/2006`
+- [Laki ajoneuvoverolain 56 §:n muuttamisesta](595.md) `595/2006`
+- [Laki ulkomaanedustuksen korvauksista](596.md) `596/2006`
+- [Laki Euroopan yhteisöjen ja niiden jäsenvaltioiden sekä Tadžikistanin välisen kumppanuus\- ja yhteistyösopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](597.md) `597/2006`
+- [Laki Kansainvälisen merioikeustuomioistuimen erioikeuksista ja vapauksista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](598.md) `598/2006`
+- [Laki Suomen ja Sierra Leonen erityistuomioistuimen välillä Sierra Leonen erityistuomioistuimen oikeudenkäynneissä kuultavina olleiden tai kuultaviksi tulevien todistajien ja heidän läheistensä sijoittamisesta Suomen alueelle kirjeenvaihdolla tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](599.md) `599/2006`
+- [Laki kulttuuri\-ilmaisujen moninaisuuden suojelemista ja edistämistä koskevan yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](600.md) `600/2006`
+- [Tasavallan presidentin asetus Suomen ja Norjan välillä tavaroiden ja palvelujen vaihdon ylläpitämisestä sota\- ja kriisitilanteissa tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](601.md) `601/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vieraista aineista elämistä saatavissa elintarvikkeissa annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](602.md) `602/2006`
+- [Laki maataloudessa käytettyjen eräiden energiatuotteiden valmisteveron palautuksesta](603.md) `603/2006`
+- [Laki nestemäisten polttoaineiden valmisteverosta annetun lain 10 a §:n muuttamisesta](604.md) `604/2006`
+- [Tasavallan presidentin asetus korruption vastaisen Yhdistyneiden Kansakuntien yleissopimuksen voimaansaattamisesta ja yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](605.md) `605/2006`
+- [Opetusministeriön asetus ammatillisista perustutkinnoista annetun opetusministeriön asetuksen liitteen muuttamisesta](606.md) `606/2006`
+- [Laki Pelastusopistosta](607.md) `607/2006`
+- [Laki pelastuslain 15 §:n muuttamisesta](608.md) `608/2006`
+- [Valtioneuvoston asetus ortodoksisesta kirkkokunnasta annetun asetuksen muuttamisesta](609.md) `609/2006`
+- [Valtioneuvoston asetus yliopistoasetuksen 25 §:n muuttamisesta](610.md) `610/2006`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveysministeriön työjärjestyksen muuttamisesta](611.md) `611/2006`
+- [Laki maatalouden harjoittamisesta luopumisen tukemisesta](612.md) `612/2006`
+- [Laki maatalousyrittäjien luopumistuesta annetun lain muuttamisesta](613.md) `613/2006`
+- [Laki maatalousyrittäjien sukupolvenvaihdoseläkkeestä annetun lain muuttamisesta](614.md) `614/2006`
+- [Laki luopumiseläkelain muuttamisesta](615.md) `615/2006`
+- [Laki maatalousyrittäjien luopumiskorvauksesta annetun lain muuttamisesta](616.md) `616/2006`
+- [Laki kansaneläkelain 26 §:n muuttamisesta](617.md) `617/2006`
+- [Laki tilatukijärjestelmän täytäntöönpanosta annetun lain muuttamisesta](618.md) `618/2006`
+- [Laki ulkomaalaislain muuttamisesta](619.md) `619/2006`
+- [Laki ulkomaalaisrekisteristä annetun lain 5 ja 10 §:n muuttamisesta](620.md) `620/2006`
+- [Laki kirkkolain muuttamisesta](621.md) `621/2006`
+- [Liikenne\- ja viestintäministeriön asetus autojen ja perävaunujen rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen liitteiden muuttamisesta](622.md) `622/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta koe\-eläintoiminnasta](623.md) `623/2006`
+- [Osakeyhtiölaki](624.md) `624/2006`
+- [Laki osakeyhtiölain voimaanpanosta](625.md) `625/2006`
+- [Laki avoimesta yhtiöstä ja kommandiittiyhtiöstä annetun lain 8 luvun 3 ja 4 §:n muuttamisesta](626.md) `626/2006`
+- [Laki eurooppayhtiölain muuttamisesta](627.md) `627/2006`
+- [Laki osuuskuntalain 16 luvun 2 §:n ja 18 luvun 2 §:n muuttamisesta](628.md) `628/2006`
+- [Laki asumisoikeusyhdistyksistä annetun lain 81 §:n muuttamisesta](629.md) `629/2006`
+- [Laki prokuralain 3 §:n muuttamisesta](630.md) `630/2006`
+- [Laki yrityskiinnityslain muuttamisesta](631.md) `631/2006`
+- [Laki maakaaren 2 luvun 4 §:n muuttamisesta](632.md) `632/2006`
+- [Laki arvo\-osuustileistä annetun lain 29 §:n muuttamisesta](633.md) `633/2006`
+- [Laki yrityksen saneerauksesta annetun lain 58 §:n muuttamisesta](634.md) `634/2006`
+- [Laki takaisinsaannista konkurssipesään annetun lain 2 §:n muuttamisesta](635.md) `635/2006`
+- [Laki kaupparekisterilain muuttamisesta](636.md) `636/2006`
+- [Laki yritys\- ja yhteisötietolain 15 §:n muuttamisesta](637.md) `637/2006`
+- [Laki kauppakamarilain muuttamisesta](638.md) `638/2006`
+- [Laki tilintarkastuslain 27 §:n muuttamisesta](639.md) `639/2006`
+- [Laki panttilainauslaitoksista annetun lain muuttamisesta](640.md) `640/2006`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](641.md) `641/2006`
+- [Laki liikepankeista ja muista osakeyhtiömuotoisista luottolaitoksista annetun lain muuttamisesta](642.md) `642/2006`
+- [Laki säästöpankkilain 66 ja 71 §:n muuttamisesta](643.md) `643/2006`
+- [Laki valtion vakuusrahastosta annetun lain 12 b §:n muuttamisesta](644.md) `644/2006`
+- [Laki kiinnitysluottopankkilain 3 ja 18 §:n muuttamisesta](645.md) `645/2006`
+- [Laki arvopaperimarkkinalain muuttamisesta](646.md) `646/2006`
+- [Laki kaupankäynnistä vakioiduilla optioilla ja termiineillä annetun lain 2 luvun 14 ja 15 §:n muuttamisesta](647.md) `647/2006`
+- [Laki sijoitusrahastolain muuttamisesta](648.md) `648/2006`
+- [Laki kiinteistörahastolain muuttamisesta](649.md) `649/2006`
+- [Laki sijoituspalveluyrityksistä annetun lain muuttamisesta](650.md) `650/2006`
+- [Laki arvo\-osuusjärjestelmästä annetun lain muuttamisesta](651.md) `651/2006`
+- [Laki Bulgarian ja Romanian liittymisestä Euroopan unioniin tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](652.md) `652/2006`
+- [Laki Bulgarian kanssa tehdyn Eurooppa\-sopimuksen ja siihen liittyvän mukautuspöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain kumoamisesta](653.md) `653/2006`
+- [Laki Romanian kanssa tehdyn Eurooppa\-sopimuksen ja siihen liittyvän mukautuspöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain kumoamisesta](654.md) `654/2006`
+- [Laki Nigerian liittotasavallan kanssa sijoitusten edistämisestä ja suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](655.md) `655/2006`
+- [Laki Guatemalan tasavallan kanssa sijoitusten edistämisestä ja suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](656.md) `656/2006`
+- [Valtioneuvoston asetus pelastustoimesta annetun valtioneuvoston asetuksen 11 §:n muuttamisesta](657.md) `657/2006`
+- [Valtioneuvoston asetus Pelastusopistosta](658.md) `658/2006`
+- [Valtioneuvoston asetus nurmi\- ja viljakasvien siementuotannon kansallisesta tuesta vuonna 2005 annetun valtioneuvoston asetuksen 9 §:n muuttamisesta](659.md) `659/2006`
+- [Sisäasiainministeriön asetus poliisin suoritteiden maksullisuudesta annetun asetuksen liitteen muuttamisesta](660.md) `660/2006`
+- [Sisäasiainministeriön asetus sisäasiainministeriön työjärjestyksen muuttamisesta](661.md) `661/2006`
+- [Sisäasiainministeriön asetus pelastusviranomaisen virkapuvusta, virka\-asematunnuksista ja henkilökortista annetun sisäasiainministeriön asetuksen muuttamisesta](662.md) `662/2006`
+- [Laki henkilöstöedustuksesta eurooppayhtiössä \(SE\) annetun lain muuttamisesta](663.md) `663/2006`
+- [Valtioneuvoston asetus ympäristöterveydenhuollon valtakunnallisista valvontaohjelmista](664.md) `664/2006`
+- [Valtioneuvoston asetus kunnan ympäristöterveydenhuollon valvontasuunnitelmasta](665.md) `665/2006`
+- [Laki Maaseutuvirastosta](666.md) `666/2006`
+- [Laki maa\- ja metsätalousministeriön tietopalvelukeskuksesta annetun lain muuttamisesta](667.md) `667/2006`
+- [Valtioneuvoston asetus Rautatievirastosta](668.md) `668/2006`
+- [Valtioneuvoston asetus Ratahallintokeskuksesta](669.md) `669/2006`
+- [Oikeusministeriön työjärjestys](670.md) `670/2006`
+- [Passilaki](671.md) `671/2006`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain muuttamisesta](672.md) `672/2006`
+- [Laki ulkomaalaislain muuttamisesta](673.md) `673/2006`
+- [Laki ulkomaalaisrekisteristä annetun lain muuttamisesta](674.md) `674/2006`
+- [Laki hallinto\-oikeuslain muuttamisesta](675.md) `675/2006`
+- [Laki poliisin hallinnosta annetun lain muuttamisesta](676.md) `676/2006`
+- [Laki valtion virkamieslain 53 ja 55 §:n muuttamisesta](677.md) `677/2006`
+- [Laki todistelun turvaamisesta teollis\- ja tekijänoikeuksia koskevissa riita\-asioissa annetun lain muuttamisesta](678.md) `678/2006`
+- [Laki tekijänoikeuslain muuttamisesta](679.md) `679/2006`
+- [Laki tavaramerkkilain muuttamisesta](680.md) `680/2006`
+- [Laki yksinoikeudesta integroidun piirin piirimalliin annetun lain muuttamisesta](681.md) `681/2006`
+- [Laki toiminimilain muuttamisesta](682.md) `682/2006`
+- [Laki kasvinjalostajanoikeudesta annetun lain muuttamisesta](683.md) `683/2006`
+- [Laki patenttilain muuttamisesta](684.md) `684/2006`
+- [Laki mallioikeuslain muuttamisesta](685.md) `685/2006`
+- [Laki hyödyllisyysmallioikeudesta annetun lain muuttamisesta](686.md) `686/2006`
+- [Laki eläkeoikeuden siirtämisestä Suomen työeläkejärjestelmän ja Euroopan yhteisöjen eläkejärjestelmän välillä annetun lain muuttamisesta](687.md) `687/2006`
+- [Valtioneuvoston asetus aluksista aiheutuvan ympäristön pilaantumisen ehkäisemisestä annetun valtioneuvoston asetuksen muuttamisesta](688.md) `688/2006`
+- [Valtioneuvoston asetus raskaan polttoöljyn, kevyen polttoöljyn ja meriliikenteessä käytettävän kaasuöljyn rikkipitoisuudesta](689.md) `689/2006`
+- [Kauppa ja teollisuusministeriön asetus ruokaperunan kaupan pitämisestä](690.md) `690/2006`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta presidentti Lukašenkaan ja tiettyihin Valko\-Venäjän virkamiehiin kohdistuvista rajoittavista toimenpiteistä](691.md) `691/2006`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta Burmaan/Myanmariin kohdistuvien rajoittavien toimenpiteiden uusimisesta ja asetuksen \(EY\) N:o 798/2004 kumoamisesta](692.md) `692/2006`
+- [Laki kaupallisista tavarankuljetuksista tiellä](693.md) `693/2006`
+- [Laki maantieliikenteen liikenneyrittäjäkoulutuksesta](694.md) `694/2006`
+- [Laki luvanvaraisesta henkilöliikenteestä tiellä annetun lain muuttamisesta](695.md) `695/2006`
+- [Laki Ajoneuvohallintokeskuksesta annetun lain 2 §:n muuttamisesta](696.md) `696/2006`
+- [Laki ajoneuvoliikennerekisteristä annetun lain muuttamisesta](697.md) `697/2006`
+- [Liikenne\- ja viestintäministeriön asetus liikenne\- ja viestintäministeriön maksullisista suoritteista annetun liikenne\- ja viestintäministeriön asetuksen liitteen muuttamisesta](698.md) `698/2006`
+- [Sisäasiainministeriön asetus Ulkomaalaisviraston suoritteiden maksullisuudesta annetun sisäasiainministeriön asetuksen 1 §:n ja asetuksen liitteen muuttamisesta](699.md) `699/2006`
+- [Laki toimenpiteistä tupakoinnin vähentämiseksi annetun lain muuttamisesta](700.md) `700/2006`
+- [Laki työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetun lain muuttamisesta](701.md) `701/2006`
+- [Valtioneuvoston asetus rakennustyön turvallisuudesta annetun valtioneuvoston päätöksen muuttamisesta](702.md) `702/2006`
+- [Sosiaali\- ja terveysministeriön asetus työtelineiden ja putoamisen estävien suojarakenteiden käytöstä rakennustyössä annetun sosiaali\- ja terveysministeriön päätöksen 15 ja 18 §:n muuttamisesta](703.md) `703/2006`
+- [Valtiovarainministeriön asetus julkishallinnon ja \-talouden tilintarkastuslautakunnan maksullisista suoritteista](704.md) `704/2006`
+- [Valtioneuvoston asetus passeista](705.md) `705/2006`
+- [Valtioneuvoston asetus matkustusoikeuden osoittamisesta eräissä tapauksissa](706.md) `706/2006`
+- [Valtioneuvoston asetus poliisin myöntämistä henkilöllisyyttä osoittavista asiakirjoista](707.md) `707/2006`
+- [Sisäasiainministeriön asetus passivalokuvasta](708.md) `708/2006`
+- [Liikenne\- ja viestintäministeriön asetus sairaankuljetuksen taksoista](709.md) `709/2006`
+- [Tasavallan presidentin asetus Suomen ja Sierra Leonen erityistuomioistuimen välillä Sierra Leonen erityistuomioistuimen oikeudenkäynneissä kuultavina olleiden tai kuultaviksi tulevien todistajien ja heidän läheistensä sijoittamisesta Suomen alueelle kirjeenvaihdolla tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](710.md) `710/2006`
+- [Valtioneuvoston asetus luopumiseläkeasetuksen 4 b §:n muuttamisesta](711.md) `711/2006`
+- [Valtioneuvoston asetus maatalousyrittäjien luopumiskorvauksesta annetun asetuksen 7 §:n muuttamisesta](712.md) `712/2006`
+- [Valtioneuvoston asetus ympäristövaikutusten arviointimenettelystä](713.md) `713/2006`
+- [Kauppa\- ja teollisuusministeriön asetus Patentti\- ja rekisterihallituksen maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön asetuksen liitteenä olevan maksutaulukon muuttamisesta](714.md) `714/2006`
+- [Laki aravalain muuttamisesta](715.md) `715/2006`
+- [Laki aravarajoituslain muuttamisesta](716.md) `716/2006`
+- [Laki vuokra\-asuntolainojen ja asumisoikeustalolainojen korkotuesta annetun lain muuttamisesta](717.md) `717/2006`
+- [Laki omistusasuntolainojen korkotuesta annetun lain 4 §:n muuttamisesta](718.md) `718/2006`
+- [Laki avustuksista erityisryhmien asunto\-olojen parantamiseksi annetun lain 7 §:n muuttamisesta](719.md) `719/2006`
+- [Laki asumisoikeus\- ja vuokratalotuotannon valtion ja kuntien takauslainoista annetun lain 14 §:n muuttamisesta](720.md) `720/2006`
+- [Tasavallan presidentin asetus Libanonin kanssa tehdyn Euro\-Välimeri\-assosiaatiosopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](721.md) `721/2006`
+- [Tasavallan presidentin asetus Kansainvälisen merioikeustuomioistuimen erioikeuksista ja vapauksista tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](722.md) `722/2006`
+- [Valtioneuvoston asetus kuvataiteen apurahalautakunnasta annetun asetuksen 1 §:n muuttamisesta](723.md) `723/2006`
+- [Valtioneuvoston asetus valtion taideteostoimikunnasta annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](724.md) `724/2006`
+- [Valtioneuvoston asetus eräistä kirjailijoille ja kääntäjille suoritettavista apurahoista ja avustuksista annetun asetuksen 6 §:n muuttamisesta](725.md) `725/2006`
+- [Sosiaali\- ja terveysministeriön asetus rokotuksista ja tartuntatautien raskaudenaikaisesta seulonnasta annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](726.md) `726/2006`
+- [Tasavallan presidentin asetus Tšekin tasavallan, Viron tasavallan, Kyproksen tasavallan, Latvian tasavallan, Liettuan tasavallan, Unkarin tasavallan, Maltan tasavallan, Puolan tasavallan, Slovenian tasavallan ja Slovakian tasavallan liittymisestä yleissopimukseen kaksinkertaisen verotuksen poistamisesta etuyhteydessä olevien yritysten tulonoikaisun yhteydessä tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](727.md) `727/2006`
+- [Valtioneuvoston asetus sisäasiainministeriöstä annetun asetuksen muuttamisesta](728.md) `728/2006`
+- [Valtioneuvoston asetus  omistusasuntokorkotukilainaksi hyväksymisestä](729.md) `729/2006`
+- [Valtioneuvoston asetus eräistä aiemmin myönnettyjä omistusasuntolainoja koskevista sosiaalisen tarkoituksenmukaisuuden ja taloudellisen tarpeen tarkemmasta arvioinnista](730.md) `730/2006`
+- [Valtioneuvoston asetus asukkaiden valinnasta arava\- ja korkotukivuokra\-asuntoihin](731.md) `731/2006`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](732.md) `732/2006`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](733.md) `733/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta luonnonmukaisesta eläintuotannosta annetun asetuksen väliaikaisesta muuttamisesta](734.md) `734/2006`
+- [Valtioneuvoston asetus maanpuolustuskorkeakoulusta annetun asetuksen muuttamisesta](735.md) `735/2006`
+- [Valtioneuvoston asetus liikenne\- ja viestintäministeriöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](736.md) `736/2006`
+- [Maa\- ja metsätalousministeriön asetus satovahinkojen korvaamisessa käytettävistä yksikköhinnoista ja normisadoista vuonna 2006 ja satovahinkokorvauksiin liittyvien tietojen tallentaminen Tukisovellukseen](737.md) `737/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta energiakasvituen ehdoista vuonna 2006 annetun maa\- ja metsätalousministeriön asetuksen 8 §:n muuttamisesta](738.md) `738/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta tilatuen non food \-kesannon ehdoista vuonna 2006 annetun maa\- ja metsätalousministeriön asetuksen 16 §:n muuttamisesta](739.md) `739/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2005 EU:n suorien tuen modulaatioon \(tuen vähentäminen\) liittyvän lisämäärän maksatuksesta](740.md) `740/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta markkinointivuoden 2005/2006 kuivattujen rehujen jalostusyritykselle suoritettavan jalostustuen ja viljelijätuen maksatuksesta](741.md) `741/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta ohjelmakauden 2000―2006 maatalouden ympäristötuen ja luonnonhaittakorvauksen maksatuksesta vuonna 2006](742.md) `742/2006`
+- [Laki rikoslain 1 ja 20 luvun muuttamisesta](743.md) `743/2006`
+- [Laki järjestyslain 7 §:n muuttamisesta](744.md) `744/2006`
+- [Laki kansainvälisen järjestäytyneen rikollisuuden vastaisen Yhdistyneiden Kansakuntien yleissopimuksen ihmiskauppaa koskevan lisäpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](745.md) `745/2006`
+- [Laki kansainvälisen järjestäytyneen rikollisuuden vastaisen Yhdistyneiden Kansakuntien yleissopimuksen maahanmuuttajien salakuljetusta koskevan lisäpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](746.md) `746/2006`
+- [Valtioneuvoston asetus ajokorttiasetuksen 34 §:n 5 momentin muuttamisesta](747.md) `747/2006`
+- [Valtioneuvoston asetus kaupparekisteriasetuksen muuttamisesta](748.md) `748/2006`
+- [Valtioneuvoston asetus Euroopan unionin eräiden jäsenvaltioiden liittymisestä sopimusvelvoitteisiin sovellettavaa lakia koskevaan yleissopimukseen sekä sen tulkintaa Euroopan yhteisöjen tuomioistuimessa koskevaan ensimmäiseen ja toiseen pöytäkirjaan tehdyn yleissopimuksen voimaansaattamisesta](749.md) `749/2006`
+- [Valtioneuvoston asetus rautatiejärjestelmän turvallisuudesta ja yhteentoimivuudesta](750.md) `750/2006`
+- [Valtioneuvoston asetus rautatieliikenteen aikataulukaudesta ja ratakapasiteetin hakemisesta](751.md) `751/2006`
+- [Maa\- ja metsätalousministeriön asetus metsätalouden ympäristötuen laskennassa käytettävästä puukuutiometrin keskikantohinnasta](752.md) `752/2006`
+- [Valtioneuvoston asetus käräjäoikeuksien tuomiopiireistä osakeyhtiölain soveltamista koskevissa riita\-asioissa](753.md) `753/2006`
+- [Liikenne\- ja viestintäministeriön asetus Ratahallintokeskuksen maksuista](754.md) `754/2006`
+- [Liikenne\- ja viestintäministeriön asetus Rautatieviraston maksuista](755.md) `755/2006`
+- [Liikenne\- ja viestintäministeriön asetus ratamaksun perusmaksusta](756.md) `756/2006`
+- [Liikenne\- ja viestintäministeriön asetus luvanvaraisen tavaraliikenteen vakavaraisuudesta ja yrittäjäkoulutuksen järjestämisestä](757.md) `757/2006`
+- [Verohallituksen päätös vuoden 2006 kiinteistöverotuksen päättymisestä](758.md) `758/2006`
+- [Laki viestintämarkkinalain muuttamisesta](759.md) `759/2006`
+- [Laki eräiden markkinaoikeudellisten asioiden käsittelystä annetun lain muuttamisesta](760.md) `760/2006`
+- [Valtioneuvoston asetus viestintähallinnosta annetun valtioneuvoston asetuksen muuttamisesta](761.md) `761/2006`
+- [Kauppa\- ja teollisuusministeriön asetus elintarvikkeen kanssa kosketukseen joutuvista muovisista tarvikkeista](762.md) `762/2006`
+- [Sisäasiainministeriön asetus rekisterihallinnon suoritteiden maksuista annetun asetuksen muuttamisesta](763.md) `763/2006`
+- [Laki Kainuun hallintokokeilusta annetun lain muuttamisesta](764.md) `764/2006`
+- [Valtioneuvoston asetus valtionhallinnon yhteishankinnoista](765.md) `765/2006`
+- [Valtiovarainministeriön päätös valtionhallinnon yhteishankinnoista](766.md) `766/2006`
+- [Sosiaali\- ja terveysministeriön asetus erityistason sairaanhoidon järjestämisestä ja keskittämisestä](767.md) `767/2006`
+- [Liikenne\- ja viestintäministeriön asetus autojen ja perävaunujen rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen 1 liitteen muuttamisesta](768.md) `768/2006`
+- [Verohallituksen päätös muiden verovelvollisten kuin yhteisöjen ja yhteisetuuksien verovuoden 2005 verotuksen päättymisestä](769.md) `769/2006`
+- [Tasavallan presidentin asetus Suomen tasavallan hallituksen ja Venäjän federaation hallituksen välillä Suomen tasavallan entiseltä Neuvostoliitolta olevien velkasaatavien osittaisesta hoitamisesta tehdyn sopimuksen voimaansaattamisesta](770.md) `770/2006`
+- [Valtioneuvoston asetus siviilipalvelusasetuksen 1 luvun 6 §:n kumoamisesta](771.md) `771/2006`
+- [Opetusministeriön asetus opiskelijaksi ottamisen perusteista ammatilliseen perustutkintoon johtavassa koulutuksessa annetun opetusministeriön asetuksen muuttamisesta](772.md) `772/2006`
+- [Opetusministeriön asetus ortodoksisen kirkkokunnan kirkollishallituksen suoritteiden maksullisuudesta annetun opetusministeriön asetuksen 2 ja 3 §:n muuttamisesta](773.md) `773/2006`
+- [Opetusministeriön asetus opetusministeriön suoritteiden maksullisuudesta annetun opetusministeriön asetuksen 4 §:n muuttamisesta](774.md) `774/2006`
+- [Valtiovarainministeriön asetus vuoden 2005 ennakonpalautusten maksamisesta](775.md) `775/2006`
+- [Maa\- ja metsätalousministeriön asetus suorien tukien täydentäviin ehtoihin liittyvistä hyvän maatalouden ja ympäristön vähimmäisvaatimuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](776.md) `776/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta nurmi\- ja rehukasvien siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](777.md) `777/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta maatalouden ympäristötuen erityistukien maksatuksesta vuonna 2006](778.md) `778/2006`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon vuoden 2007 voimavaroista](779.md) `779/2006`
+- [Valtioneuvoston asetus markkinoille saatettavien savukkeensytyttimien lapsiturvallisuuden varmistamisesta ja muiden kuin savukkeensytytintä muistuttavien savukkeensytyttimien markkinoille saattamisen kieltämisestä](780.md) `780/2006`
+- [Valtioneuvoston asetus asukkaiden valinnasta arava\- ja korkotukivuokra\-asuntoihin annetun valtioneuvoston asetuksen muuttamisesta](781.md) `781/2006`
+- [Opetusministeriön asetus Kotimaisten kielten tutkimuskeskuksen suoritteiden maksuista annetun opetusministeriön asetuksen 3 §:n muuttamisesta](782.md) `782/2006`
+- [Opetusministeriön asetus Suomen Akatemian suoritteista perittävistä maksuista](783.md) `783/2006`
+- [Opetusministeriön asetus arkistolaitoksen suoritteiden maksuista annetun opetusministeriön asetuksen 3 §:n muuttamisesta](784.md) `784/2006`
+- [Maa\- ja metsätalousministeriön asetus kuitupellavan ja \-hampun jalostustuesta annetun maa\- ja metsätalousministeriön asetuksen 9 §:n muuttamisesta](785.md) `785/2006`
+- [Kauppa\- ja teollisuusministeriön asetus kosmeettisista valmisteista annetun kauppa\- ja teollisuusministeriön asetuksen muuttamisesta](786.md) `786/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](787.md) `787/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta laserskannaukseen perustuvasta puutavaran kehyskuvamittauksesta](788.md) `788/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta poronhoitovuodelta 2006/2007 maksettavan eläinkohtaisen tuen maksatuksesta](789.md) `789/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Kesälahden kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](790.md) `790/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Nivalan kaupunkiin perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](791.md) `791/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Siilinjärven kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](792.md) `792/2006`
+- [Maa\- ja metsätalousministeriön asetus kalojen eräiden virustautien leviämisen ehkäisemisestä annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](793.md) `793/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen 4 §:n muuttamisesta](794.md) `794/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen 4 §:n muuttamisesta](795.md) `795/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen 4 §:n muuttamisesta](796.md) `796/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen 4 §:n muuttamisesta](797.md) `797/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Ruskon kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen 4 §:n muuttamisesta](798.md) `798/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Jämsän kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen 4 §:n muuttamisesta](799.md) `799/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Elimäen kuntaan perustettavista rajoitusalueista annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen 4 §:n muuttamisesta](800.md) `800/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Kerimäen kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen 4 §:n muuttamisesta](801.md) `801/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Ylistaron kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen 4 §:n muuttamisesta](802.md) `802/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Teuvan kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen 4 §:n muuttamisesta](803.md) `803/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Jämsän kaupunkiin perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen 4 §:n muuttamisesta](804.md) `804/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Jämsänkosken kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen 4 §:n muuttamisesta](805.md) `805/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Kuusjoen kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen 4 §:n muuttamisesta](806.md) `806/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Lapinlahden kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen 4 §:n muuttamisesta](807.md) `807/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Perniön kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen 4 §:n muuttamisesta](808.md) `808/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Juuan kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen 4 §:n muuttamisesta](809.md) `809/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Lapuan kaupunkiin perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](810.md) `810/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Hollolan kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](811.md) `811/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Ilomantsin kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](812.md) `812/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Vaasan kaupunkiin perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](813.md) `813/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Orimattilan kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](814.md) `814/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Enon kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](815.md) `815/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Jämsän kaupunkiin perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](816.md) `816/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Ruokolahden kuntaan perustettavista rajoitusalueista annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](817.md) `817/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Kaustisen kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](818.md) `818/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Halsuan kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](819.md) `819/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Siuntion kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](820.md) `820/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Evijärven kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](821.md) `821/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Töysän kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](822.md) `822/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Someron kaupunkiin ja Tammelan kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](823.md) `823/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Teuvan kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](824.md) `824/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Nakkilan kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](825.md) `825/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Punkalaitumen kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](826.md) `826/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Kiikoisten kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](827.md) `827/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Euran kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](828.md) `828/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Peräseinäjoen kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](829.md) `829/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Harjavallan kaupunkiin ja Kullaan kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](830.md) `830/2006`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Peräseinäjoen kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen muuttamisesta](831.md) `831/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvituotteiden markkinoinnissa noudatettavista kasvinterveyden suojelun vaatimuksista annetun maa\- ja metsätalousministeriön asetuksen liitteen VIII muuttamisesta](832.md) `832/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvituotteiden maahantuonnissa ja maastaviennissä noudatettavista kasvinterveyden suojelun vaatimuksista annetun maa\- ja metsätalousministeriön asetuksen liitteen VIII muuttamisesta](833.md) `833/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinsuojeluaineissa sallituista tehoaineista ja niiden käytön ehdoista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](834.md) `834/2006`
+- [Valtioneuvoston asetus valtion rahoituksen perusteena käytettävistä opetus\- ja kirjastotoimen keskimääräisistä yksikköhinnoista vuonna 2007](835.md) `835/2006`
+- [Sosiaali\- ja terveysministeriön asetus työtelineiden ja putoamisen estävien suojarakenteiden käytöstä rakennustyössä annetun sosiaali\- ja terveysministeriön päätöksen 15 ja 18 §:n muuttamisesta](836.md) `836/2006`
+- [Oikeusministeriön asetus tutkintavankilana toimivista vankiloista](837.md) `837/2006`
+- [Työministeriön asetus työnantajan velvollisuudesta maksaa korvausta työntekijälle merionnettomuudessa menetetystä henkilökohtaisesta omaisuudesta annetun työministeriön asetuksen 2 §:n muuttamisesta](838.md) `838/2006`
+- [Sosiaali\- ja terveysministeriön asetus vakuutuskassan ja eläkesäätiön tilinpäätöksestä annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](839.md) `839/2006`
+- [Valtiovarainministeriön asetus arvopaperin ottamisesta pörssilistalle koskevista vaatimuksista](840.md) `840/2006`
+- [Laki poliisin säilyttämien henkilöiden kohtelusta](841.md) `841/2006`
+- [Laki esitutkintalain 10 §:n muuttamisesta](842.md) `842/2006`
+- [Laki rajavartiolain 61 ja 64 §:n muuttamisesta](843.md) `843/2006`
+- [Laki tullilain muuttamisesta](844.md) `844/2006`
+- [Laki sotilaskurinpitolain 21 §:n muuttamisesta](845.md) `845/2006`
+- [Laki aluevalvontalain 27 §:n muuttamisesta](846.md) `846/2006`
+- [Laki järjestyksenvalvojista annetun lain 7 ja 12 §:n muuttamisesta](847.md) `847/2006`
+- [Laki päihtyneiden käsittelystä annetun lain muuttamisesta](848.md) `848/2006`
+- [Laki ulkomaalaislain 123 §:n muuttamisesta](849.md) `849/2006`
+- [Laki säilöön otettujen ulkomaalaisten kohtelusta ja säilöönottoyksiköstä annetun lain 9 §:n muuttamisesta](850.md) `850/2006`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain 2 ja 22 §:n muuttamisesta](851.md) `851/2006`
+- [Laki tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista annetun lain 6 §:n muuttamisesta](852.md) `852/2006`
+- [Laki ulkomaanedustuksen korvauksista annetun lain muuttamisesta](853.md) `853/2006`
+- [Ulkoasiainministeriön asetus ulkomaanedustuksen korvauksista](854.md) `854/2006`
+- [Valtioneuvoston asetus kuntien valtionosuudesta annetun asetuksen 3 §:n muuttamisesta](855.md) `855/2006`
+- [Opetusministeriön asetus opiskelijaksi ottamisen perusteista lukiokoulutuksessa](856.md) `856/2006`
+- [Sisäasiainministeriön asetus sisäasiainministeriön työjärjestyksen muuttamisesta](857.md) `857/2006`
+- [Sisäasiainministeriön asetus sisäasiainministeriön maksullisista suoritteista annetun asetuksen muuttamisesta](858.md) `858/2006`
+- [Sosiaali\- ja terveysministeriön asetus Lääkelaitoksen maksullisista suoritteista annetun asetuksen muuttamisesta](859.md) `859/2006`
+- [Tasavallan presidentin asetus kansainvälisen järjestäytyneen rikollisuuden vastaisen Yhdistyneiden Kansakuntien yleissopimuksen ihmiskauppaa koskevan lisäpöytäkirjan voimaansaattamisesta ja lisäpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](860.md) `860/2006`
+- [Tasavallan presidentin asetus kansainvälisen järjestäytyneen rikollisuuden vastaisen Yhdistyneiden Kansakuntien yleissopimuksen maahanmuuttajien salakuljetusta koskevan lisäpöytäkirjan voimaansaattamisesta ja lisäpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](861.md) `861/2006`
+- [Tasavallan presidentin asetus Euroopan jälleenrakennus\- ja kehityspankin \(EBRD\) perustamisesta tehdyn sopimuksen muutoksen voimaansaattamisesta](862.md) `862/2006`
+- [Valtioneuvoston asetus Marokon diplomaattipassin haltijoiden vapauttamisesta viisumivelvollisuudesta](863.md) `863/2006`
+- [Valtioneuvoston asetus vuodelta 2006 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 18 §:n muuttamisesta](864.md) `864/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2006 kasvihuonetuen lopullisen tuen maksatuksesta](865.md) `865/2006`
+- [Laki Sveitsin kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen ja pöytäkirjan muuttamisesta tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](866.md) `866/2006`
+- [Liikenne\- ja viestintäministeriön asetus matkalippujen tarkastajilta ja tarkastuksessa apuna olevilta järjestyksenvalvojilta vaadittavasta koulutuksesta](867.md) `867/2006`
+- [Sosiaali\- ja terveysministeriön asetus Terveydenhuollon oikeusturvakeskuksen maksullisista suoritteista annetun asetuksen muuttamisesta](868.md) `868/2006`
+- [Sosiaali\- ja terveysministeriön asetus sairaanhoitopiirin eettisen toimikunnan ja ETENE:n lääketieteellisen tutkimuseettisen jaoston lausunnoista perittävistä maksuista ja tutkittavalle suoritettavista korvauksista annetun asetuksen muuttamisesta](869.md) `869/2006`
+- [Sosiaali\- ja terveysministeriön asetus valtion mielisairaaloiden maksullisista suoritteista annetun asetuksen muuttamisesta](870.md) `870/2006`
+- [Verohallituksen päätös Konserniverokeskuksessa verotettavista verovelvollisista](871.md) `871/2006`
+- [Valtioneuvoston asetus Maaseutuviraston hallinnosta](872.md) `872/2006`
+- [Valtioneuvoston asetus lastensuojeluasetuksen eräiden säännösten kumoamisesta](873.md) `873/2006`
+- [Valtioneuvoston asetus työntekijän eläkelain täytäntöönpanosta](874.md) `874/2006`
+- [Valtioneuvoston asetus valtion asuntorahaston varainhankintavaltuuksista vuonna 2006](875.md) `875/2006`
+- [Maa\- ja metsätalousministeriön asetus eräiden tuotantoeläinten sekä niiden alkioiden ja sukusolujen eläintautivaatimuksista Euroopan yhteisön sisämarkkinoilla annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja ja elintarvikeosaston päätöksen muuttamisesta](876.md) `876/2006`
+- [Maa\- ja metsätalousministeriön asetus hirvieläinten ja petoeläinten aiheuttamien maatalous\- ja viljelysvahinkojen korvaamisessa vuonna 2006 käytettävistä eräistä yksikköhinnoista ja normisadoista](877.md) `877/2006`
+- [Maa\- ja metsätalousministeriön asetus maaseudun kehittämistoimenpiteitä tuettaessa noudatettavasta menettelystä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](878.md) `878/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta lääkkeiden käytöstä, luovutuksesta ja määräämisestä eläinlääkinnässä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](879.md) `879/2006`
+- [Laki vaalilain muuttamisesta](880.md) `880/2006`
+- [Tasavallan presidentin asetus Euroopan maaseudun kehittämisen maatalousrahaston maksajaviraston tehtävien hoidosta Ahvenanmaan maakunnassa](881.md) `881/2006`
+- [Tasavallan presidentin asetus Etelämannerta koskevaan sopimukseen liittyvän ympäristönsuojelupöytäkirjan liitteen V alaisten toimenpiteiden voimaansaattamisesta](882.md) `882/2006`
+- [Valtioneuvoston asetus neuvostossa kokoontuneiden jäsenvaltioiden hallitusten edustajien kymmenenteen Euroopan kehitysrahastoon liittyvän sisäisen rahoitussopimuksen väliaikaisesta soveltamisesta](883.md) `883/2006`
+- [Valtioneuvoston asetus kansanedustajien paikkojen jaosta vaalipiirien kesken](884.md) `884/2006`
+- [Valtioneuvoston asetus vuodelta 2006 maksettavasta mehiläistalouden kansallisesta pesäkohtaisesta tuesta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](885.md) `885/2006`
+- [Valtioneuvoston asetus tilatukijärjestelmän tukialueista, tuotantoon sidotuista tuista ja kesannoinnista annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](886.md) `886/2006`
+- [Valtioneuvoston asetus  tilatukijärjestelmän kansallisen varannon perustamisesta, tukitasoista ja tukioikeuksien vahvistamisesta](887.md) `887/2006`
+- [Valtioneuvoston asetus yhdyskuntajätevesistä](888.md) `888/2006`
+- [Valtioneuvoston asetus ympäristönsuojeluasetuksen muuttamisesta](889.md) `889/2006`
+- [Laki sairausvakuutuslain 15 ja 19 luvun muuttamisesta](890.md) `890/2006`
+- [Laki Marokon kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](891.md) `891/2006`
+- [Laki Azerbaidzhanin kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](892.md) `892/2006`
+- [Laki Amerikan yhdysvaltojen kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen muuttamista koskevan pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](893.md) `893/2006`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön ulkopuolisista maista tuotavasta maidosta ja maitopohjaisista tuotteista](894.md) `894/2006`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön ulkopuolisista maista tuotavista linnunmunista ja munatuotteista](895.md) `895/2006`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön ulkopuolisista maista tuotavista mehiläistuotteista](896.md) `896/2006`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön ulkopuolisista maista tuotavista sammakonreisistä ja etanoista](897.md) `897/2006`
+- [Laki Kansaneläkelaitoksen sisäinen kuntoutusyhtiö Petrean muuttamisesta säätiöksi](898.md) `898/2006`
+- [Valtioneuvoston asetus ajoneuvojen käytöstä tiellä annetun asetuksen 11 §:n muuttamisesta](899.md) `899/2006`
+- [Valtioneuvoston asetus työmarkkina\-alueista annetun valtioneuvoston asetuksen muuttamisesta](900.md) `900/2006`
+- [Valtioneuvoston asetus rajanylityspaikoista sekä rajatarkastustehtävien jakamisesta niillä](901.md) `901/2006`
+- [Valtioneuvoston asetus alueellisista ympäristökeskuksista annetun valtioneuvoston asetuksen muuttamisesta](902.md) `902/2006`
+- [Valtioneuvoston asetus maakotkien porotaloudelle aiheuttamien vahinkojen korvaamisesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](903.md) `903/2006`
+- [Ympäristöministeriön asetus arava\- ja korkotukivuokra\-asuntojen hakemuslomakkeesta ja sen liitteistä](904.md) `904/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2006 metsämarjojen ja \-sienten varastointituen maksatuksesta](905.md) `905/2006`
+- [Eurooppaosuuskuntalaki](906.md) `906/2006`
+- [Laki osuuskuntalain 5 luvun 5 §:n muuttamisesta](907.md) `907/2006`
+- [Laki kaupparekisterilain muuttamisesta](908.md) `908/2006`
+- [Laki yritys\- ja yhteisötietolain muuttamisesta](909.md) `909/2006`
+- [Laki toiminimilain 7 §:n muuttamisesta](910.md) `910/2006`
+- [Laki yrityskiinnityslain 10 §:n muuttamisesta](911.md) `911/2006`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](912.md) `912/2006`
+- [Laki osuuspankeista ja muista osuuskuntamuotoisista luottolaitoksista annetun lain muuttamisesta](913.md) `913/2006`
+- [Valtioneuvoston asetus kaupparekisteriasetuksen muuttamisesta](914.md) `914/2006`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 53 §:n muuttamisesta](915.md) `915/2006`
+- [Laki vapaasta sivistystyöstä annetun lain 16 §:n muuttamisesta](916.md) `916/2006`
+- [Laki ajopiirturikorttien myöntämisen järjestämisestä annetun lain 5 §:n muuttamisesta](917.md) `917/2006`
+- [Laki teknologian kehittämiskeskuksesta annetun lain muuttamisesta](918.md) `918/2006`
+- [Tasavallan presidentin asetus Viron kanssa tehdyn sosiaaliturvasopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](919.md) `919/2006`
+- [Tasavallan presidentin asetus Viron kanssa sosiaaliturvasta tehdyn sopimuksen eräiden määräysten hyväksymisen kumoamisesta annetun lain voimaantulosta](920.md) `920/2006`
+- [Valtioneuvoston asetus kuljettajantutkintotoiminnan järjestämisestä annetun asetuksen muuttamisesta](921.md) `921/2006`
+- [Kauppa\- ja teollisuusministeriön asetus sähkönjakeluverkonhaltijan toiminnallisista eriyttämisvaatimuksista](922.md) `922/2006`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveysministeriön työjärjestyksen muuttamisesta](923.md) `923/2006`
+- [Liikenne\- ja viestintäministeriön asetus sairaankuljetuksen taksoista annetun liikenne\- ja viestintäministeriön asetuksen 4 §:n muuttamisesta](924.md) `924/2006`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 96 §:ssä tarkoitetun palkkakertoimen antamisesta](925.md) `925/2006`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 98 §:ssä tarkoitetun työeläkeindeksin antamisesta](926.md) `926/2006`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain voimaanpanolain 15 §:ssä tarkoitetun indeksiluvun vahvistamisesta](927.md) `927/2006`
+- [Laki rikoslain 50 luvun muuttamisesta](928.md) `928/2006`
+- [Valtioneuvoston asetus ilmailulta rajoitetuista alueista](929.md) `929/2006`
+- [Valtioneuvoston asetus terveydenhuollon oikeusturvakeskuksesta annetun asetuksen 12 §:n muuttamisesta](930.md) `930/2006`
+- [Verohallituksen päätös Nokia International Oy:n ja NSN Finland Oy:n verottamisesta Konserniverokeskuksessa](931.md) `931/2006`
+- [Laki julkisesta työvoimapalvelusta annetun lain muuttamisesta ja väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](932.md) `932/2006`
+- [Valtioneuvoston asetus alkoholijuomista ja väkiviinasta annetun asetuksen 14 §:n muuttamisesta](933.md) `933/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2006 mehiläistalouden kansallisen pesäkohtaisen tuen maksatuksesta](934.md) `934/2006`
+- [Laki vaalilain 5 §:n muuttamisesta](935.md) `935/2006`
+- [Laki Yhdistyneiden Kansakuntien ja Suomen välillä voimavarojen antamisesta Yhdistyneiden Kansakuntien operaatioon Libanonissa \(UNIFIL\) tehdyn yhteistyöpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](936.md) `936/2006`
+- [Tasavallan presidentin asetus Pohjoismaiden ministerineuvoston sihteeristön ja Pohjoismaiden neuvoston puheenjohtajiston sihteeristön oikeudellisesta asemasta tehdyn sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](937.md) `937/2006`
+- [Laki Tieteellisten seurain valtuuskunnasta](938.md) `938/2006`
+- [Laki metsästyslain 23 §:n muuttamisesta](939.md) `939/2006`
+- [Valtioneuvoston asetus sokerialan väliaikaisesta rakenneuudistustuesta](940.md) `940/2006`
+- [Valtioneuvoston päätös turvallisuusluokituksen käyttöön otosta annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](941.md) `941/2006`
+- [Oikeusministeriön asetus valtion oikeusaputoimistojen sekä niiden sivutoimistojen ja sivuvastaanottojen sijainnista](942.md) `942/2006`
+- [Maa\- ja metsätalousministeriön asetus luonnonvaraisissa linnuissa esiintyvän lintuinfluenssan leviämisen estämisestä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](943.md) `943/2006`
+- [Laki Kuntien takauskeskuksesta annetun lain muuttamisesta](944.md) `944/2006`
+- [Tasavallan presidentin asetus tiettyjen sellaisten tavanomaisten aseiden käytön kielloista tai rajoituksista, joiden voidaan katsoa aiheuttavan tarpeettoman vakavia vammoja tai olevan vaikutuksiltaan umpimähkäisiä, tehdyn yleissopimuksen viidennen pöytäkirjan voimaansaattamisesta sekä pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](945.md) `945/2006`
+- [Tasavallan presidentin asetus Kiinan kanssa tehdyn sijoitusten edistämistä ja vastavuoroista suojaamista koskevan sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](946.md) `946/2006`
+- [Verohallituksen päätös matkakuluvähennyksen määrästä vuodelta 2006 toimitettavassa verotuksessa](947.md) `947/2006`
+- [Laki perhehoitajalain 2 ja 3 §:n muuttamisesta](948.md) `948/2006`
+- [Laki elatusturvalain 7 §:n muuttamisesta](949.md) `949/2006`
+- [Laki omaishoidon tuesta annetun lain 4 ja 6 §:n muuttamisesta](950.md) `950/2006`
+- [Laki toimeentulotuesta annetun lain muuttamisesta ja väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](951.md) `951/2006`
+- [Laki toimeentulotuesta annetun lain 24 §:n muuttamisesta](952.md) `952/2006`
+- [Valtioneuvoston asetus ulkona käytettävien laitteiden melupäästöistä annetun valtioneuvoston asetuksen muuttamisesta](953.md) `953/2006`
+- [Maa\- ja metsätalousministeriön asetus tilatukioikeuksien myöntämisestä ja vahvistamisesta](954.md) `954/2006`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](955.md) `955/2006`
+- [Laki rekisterihallintolain muuttamisesta](956.md) `956/2006`
+- [Laki kotikuntalain 7 e ja 9 §:n muuttamisesta](957.md) `957/2006`
+- [Laki nimilain muuttamisesta](958.md) `958/2006`
+- [Laki isyyslain 20 ja 22 §:n muuttamisesta](959.md) `959/2006`
+- [Laki perintökaaren muuttamisesta](960.md) `960/2006`
+- [Valtioneuvoston asetus vuodelta 2006 maksettavasta eräiden peltokasvien ja nautojen tuotantopalkkiosta annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](961.md) `961/2006`
+- [Valtioneuvoston asetus vuodelta 2006 maksettavasta luonnonhaittakorvauksen kansallisesta lisäosasta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](962.md) `962/2006`
+- [Valtioneuvoston asetus toimenpiteistä tupakoinnin vähentämiseksi annetun asetuksen muuttamisesta](963.md) `963/2006`
+- [Sosiaali\- ja terveysministeriön asetus ravintolan ja muun ravitsemisliikkeen tupakointitilasta](964.md) `964/2006`
+- [Oikeusministeriön asetus saamelaiskäräjien vaaleissa noudatettavasta menettelystä](965.md) `965/2006`
+- [Laki varojen arvostamisesta verotuksessa annetun lain muuttamisesta](966.md) `966/2006`
+- [Laki metsänhoitoyhdistyksistä annetun lain 2 §:n muuttamisesta](967.md) `967/2006`
+- [Tasavallan presidentin asetus Yhdistyneiden Kansakuntien ja Suomen välillä voimavarojen antamisesta Yhdistyneiden Kansakuntien operaatioon Libanonissa \(UNIFIL\) tehdyn yhteistyöpöytäkirjan voimaansaattamisesta sekä yhteistyöpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](968.md) `968/2006`
+- [Valtioneuvoston asetus vaarallisten aineiden käytön rajoittamisesta sähkö\- ja elektroniikkalaitteissa annetun valtioneuvoston asetuksen liitteen muuttamisesta](969.md) `969/2006`
+- [Liikenne\- ja viestintäministeriön asetus linjaliikenteen sarjalipputaksoista](970.md) `970/2006`
+- [Sosiaali\- ja terveysministeriön asetus helposti pilaantuvien elintarvikkeiden kansainvälisiä kuljetuksia ja tällaisissa kuljetuksissa käytettävää erityiskalustoa koskevan sopimuksen kansallisesta täytäntöönpanosta](971.md) `971/2006`
+- [Maa\- ja metsätalousministeriön asetus Suomen lipun alla purjehtivien tai Suomessa rekisteröityjen alusten harjoittaman turskan kalastuksen keskeyttämisestä](972.md) `972/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2006 luonnonhaittakorvauksen kansallisen lisäosan maksatuksesta](973.md) `973/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2006 sonni\- ja härkäpalkkion ennakoiden maksatuksesta](974.md) `974/2006`
+- [Laki ulkomailta tulevan palkansaajan lähdeverosta annetun lain muuttamisesta](975.md) `975/2006`
+- [Laki vesikulkuneuvorekisteristä](976.md) `976/2006`
+- [Maa\- ja metsätalousministeriön asetus eläintautien vastustamiseksi suoritettavista tarkastuksista Euroopan yhteisön sisämarkkinoilla](977.md) `977/2006`
+- [Maa\- ja metsätalousministeriön asetus eräiden eläinten ja tavaroiden eläintautivaatimuksista Euroopan yhteisön sisämarkkinoilla annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](978.md) `978/2006`
+- [Laki kehitysalueelle tehtävien investointien korotetuista poistoista annetun lain muuttamisesta](979.md) `979/2006`
+- [Valtioneuvoston asetus sairausvakuutuslain täytäntöönpanosta annetun valtioneuvoston asetuksen muuttamisesta](980.md) `980/2006`
+- [Valtioneuvoston asetus ammattikorkeakouluista annetun valtioneuvoston asetuksen 1 ja 3 §:n muuttamisesta](981.md) `981/2006`
+- [Valtioneuvoston asetus ammattikorkeakoulujen yhteishakujärjestelmästä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](982.md) `982/2006`
+- [Verohallituksen päätös metsän keskimääräisestä vuotuisesta tuotosta](983.md) `983/2006`
+- [Verohallituksen päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](984.md) `984/2006`
+- [Laki ortodoksisesta kirkosta](985.md) `985/2006`
+- [Valtioneuvoston asetus sosiaali\- ja terveysministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](986.md) `986/2006`
+- [Laki valtion erityisrahoitusyhtiöstä annetun lain muuttamisesta](987.md) `987/2006`
+- [Laki valtiontakuurahastosta annetun lain 5 §:n muuttamisesta](988.md) `988/2006`
+- [Laki tartuntatautilain muuttamisesta](989.md) `989/2006`
+- [Laki sotilasvammalain 6 §:n muuttamisesta](990.md) `990/2006`
+- [Valtioneuvoston asetus ulkoasiainhallinnosta annetun valtioneuvoston asetuksen muuttamisesta](991.md) `991/2006`
+- [Liikenne\- ja viestintäministeriön asetus kuljettajantutkintotoiminnan järjestämisestä annetun liikenneministeriön päätöksen kumoamisesta](992.md) `992/2006`
+- [Sosiaali\- ja terveysministeriön asetus tahdosta riippumattomaan päihdehoitoon käytettävistä lomakkeista](993.md) `993/2006`
+- [Sosiaali\- ja terveysministeriön asetus vuoden 2007 työttömyysvakuutusmaksuista](994.md) `994/2006`
+- [Laki sähköisten tienkäyttömaksujen keräämisjärjestelmistä](995.md) `995/2006`
+- [Laki apteekkimaksusta annetun lain 2 §:n muuttamisesta](996.md) `996/2006`
+- [Laki lapsen hoitotuesta annetun lain 2 §:n muuttamisesta](997.md) `997/2006`
+- [Laki vammaistukilain 2 §:n muuttamisesta](998.md) `998/2006`
+- [Laki kansaneläkelain 30 a §:n muuttamisesta](999.md) `999/2006`
+- [Laki eläkkeensaajien asumistuessa hyväksyttävien asumiskustannusten enimmäismääristä vuonna 2007](1000.md) `1000/2006`
+- [Valtioneuvoston asetus porotaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](1001.md) `1001/2006`
+- [Valtioneuvoston asetus vuodelta 2006 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](1002.md) `1002/2006`
+- [Valtioneuvoston asetus vuodelta 2006 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 13 §:n muuttamisesta](1003.md) `1003/2006`
+- [Liikenne\- ja viestintäministeriön asetus Viestintäviraston eräistä maksuista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](1004.md) `1004/2006`
+- [Liikenne\- ja viestintäministeriön asetus auton rakenteen muuttamisesta annetun liikenneministeriön päätöksen 17 §:n muuttamisesta](1005.md) `1005/2006`
+- [Laki yksityisten arkistojen valtionavusta](1006.md) `1006/2006`
+- [Valtioneuvoston asetus rekisterihallintoasetuksen muuttamisesta](1007.md) `1007/2006`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](1008.md) `1008/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2006 kansallisten kotieläintukien maksatuksesta](1009.md) `1009/2006`
+- [Valtioneuvoston asetus Eläketurvakeskuksesta](1010.md) `1010/2006`
+- [Valtioneuvoston asetus tilaneuvontajärjestelmän täytäntöönpanosta](1011.md) `1011/2006`
+- [Valtioneuvoston asetus Ahvenanmaan maakunnassa oleville kunnille maataloustuen jako\- ja valvontatehtävien hoitamisesta vuodelta 2005 suoritettavista korvauksista](1012.md) `1012/2006`
+- [Oikeusministeriön asetus velallisen maksukyvyn arvioinnin perusteista yksityishenkilön velkajärjestelyssä annetun asetuksen muuttamiseksi](1013.md) `1013/2006`
+- [Valtioneuvoston asetus rikoslain 1 luvun 7 §:n soveltamisesta annetun asetuksen 1 §:n muuttamisesta](1014.md) `1014/2006`
+- [Valtioneuvoston asetus ulosottomenettelystä annetun valtioneuvoston asetuksen muuttamisesta](1015.md) `1015/2006`
+- [Valtioneuvoston asetus kuulutusrekisteristä annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](1016.md) `1016/2006`
+- [Valtioneuvoston asetus suojaosuudesta palkan ulosmittauksessa annetun asetuksen kumoamisesta](1017.md) `1017/2006`
+- [Valtioneuvoston asetus ulosottolain 5 luvun 18 §:n soveltamisesta annetun asetuksen kumoamisesta](1018.md) `1018/2006`
+- [Valtioneuvoston asetus ulosottoasetuksen kumoamisesta](1019.md) `1019/2006`
+- [Valtioneuvoston asetus verojen ja maksujen perimisestä ulosottotoimin annetun asetuksen 5 ja 6 luvun kumoamisesta](1020.md) `1020/2006`
+- [Valtioneuvoston asetus valtion perimiskuitista annetun asetuksen kumoamisesta](1021.md) `1021/2006`
+- [Valtioneuvoston asetus vesiympäristölle vaarallisista ja haitallisista aineista](1022.md) `1022/2006`
+- [Maa\- ja metsätalousministeriön asetus maidon tuotantotuen haku\- ja maksatusmenettelystä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1023.md) `1023/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2006 peltokasvien tuotantopalkkion maksatuksesta](1024.md) `1024/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2006 uuhipalkkion ja sen LFA\-lisän maksatuksesta](1025.md) `1025/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2006 tilatuen maksatuksesta](1026.md) `1026/2006`
+- [Liikenne\- ja viestintäministeriön asetus joukkoliikenteen tarkastusmaksun suuruudesta](1027.md) `1027/2006`
+- [Vuoden 2006 toinen lisätalousarvio](1028.md) `1028/2006`
+- [Valtioneuvoston asetus työtuomioistuimesta annetun asetuksen muuttamisesta](1029.md) `1029/2006`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta tietyistä Libanonia koskevista rajoittavista toimenpiteistä](1030.md) `1030/2006`
+- [Tasavallan presidentin asetus arvonimistä annetun tasavallan presidentin asetuksen liitteen 1 muuttamisesta](1031.md) `1031/2006`
+- [Valtioneuvoston asetus poliisikoulutuksesta annetun valtioneuvoston asetuksen muuttamisesta](1032.md) `1032/2006`
+- [Valtioneuvoston asetus aina määräajaksi täytettävistä viroista annetun asetuksen muuttamisesta](1033.md) `1033/2006`
+- [Valtiovarainministeriön asetus rakennusten jälleenhankinta\-arvon perusteista](1034.md) `1034/2006`
+- [Valtiovarainministeriön asetus vesivoimalaitoksen ja sen rakenteiden jälleenhankinta\-arvon perusteista](1035.md) `1035/2006`
+- [Ympäristöministeriön asetus ympäristöministeriön työjärjestyksen muuttamisesta](1036.md) `1036/2006`
+- [Laki Kanadan kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1037.md) `1037/2006`
+- [Valtioneuvoston asetus aluevalvonnasta annetun valtioneuvoston asetuksen 9 §:n muuttamisesta](1038.md) `1038/2006`
+- [Valtioneuvoston asetus suoja\-alueista annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1039.md) `1039/2006`
+- [Valtioneuvoston asetus vesienhoidon järjestämisestä](1040.md) `1040/2006`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](1041.md) `1041/2006`
+- [Laki rajoitetusti verovelvollisen tulon verottamisesta annetun lain 3 §:n muuttamisesta](1042.md) `1042/2006`
+- [Laki öljyjätemaksusta annetun lain muuttamisesta](1043.md) `1043/2006`
+- [Tasavallan presidentin asetus Pohjoismaiden välillä pääsystä korkeampaan koulutukseen tehdyn sopimuksen muuttamista koskevan sopimuksen voimaansaattamisesta](1044.md) `1044/2006`
+- [Valtioneuvoston asetus maidon kuljetusavustuksesta vuonna 2006](1045.md) `1045/2006`
+- [Valtioneuvoston asetus vuodelta 2006 maksettavasta lihan kuljetusavustuksesta](1046.md) `1046/2006`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveysministeriön työjärjestyksen muuttamisesta](1047.md) `1047/2006`
+- [Maa\- ja metsätalousministeriön asetus alkuvuoden 2006 tulvavahinkokorvausten maksamisesta](1048.md) `1048/2006`
+- [Tasavallan presidentin asetus Sveitsin kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen ja pöytäkirjan muuttamisesta tehdyn pöytäkirjan voimaansaattamisesta ja pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1049.md) `1049/2006`
+- [Tasavallan presidentin asetus Azerbaidzhanin kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1050.md) `1050/2006`
+- [Valtioneuvoston asetus traktoreiden, niiden perävaunujen ja traktoreilla vedettävien vaihdettavissa olevien koneiden EY\-tyyppihyväksynnästä annetun valtioneuvoston asetuksen liitteen muuttamisesta ja työturvallisuuslain soveltamisesta traktoreihin ja niiden tarkastukseen annetun valtioneuvoston päätöksen kumoamisesta](1051.md) `1051/2006`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon valtionosuuden laskennassa käytettävistä syrjäisyyskertoimista](1052.md) `1052/2006`
+- [Sosiaali\- ja terveysministeriön asetus eräiden vakuutusyhtiölaissa ja vakuutusyhdistyslaissa säädettyjen euromäärien korottamisesta](1053.md) `1053/2006`
+- [Liikenne\- ja viestintäministeriön asetus Ajoneuvohallintokeskuksen maksuista annetun liikenne\- ja viestintäministeriön asetuksen 3 §:n ja liitteen muuttamisesta](1054.md) `1054/2006`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](1055.md) `1055/2006`
+- [Laki työnantajan sosiaaliturvamaksusta vapauttamisesta eräissä kunnissa vuosina 2003―2009 annetun lain muuttamisesta](1056.md) `1056/2006`
+- [Laki palosuojelurahastolain muuttamisesta](1057.md) `1057/2006`
+- [Laki sähkön ja eräiden polttoaineiden valmisteverosta annetun lain muuttamisesta](1058.md) `1058/2006`
+- [Laki indeksiehdon käytön rajoittamisesta annetun lain 2 ja 7 §:n muuttamisesta](1059.md) `1059/2006`
+- [Laki arvonlisäverolain 85 a §:n väliaikaisesta muuttamisesta](1060.md) `1060/2006`
+- [Laki sähköisen viestinnän tietosuojalain muuttamisesta](1061.md) `1061/2006`
+- [Laki julkisesta työvoimapalvelusta annetun lain 5 a luvun 1 §:n ja 10 luvun 1 §:n muuttamisesta](1062.md) `1062/2006`
+- [Laki työttömyysturvalain 9 luvun 7 §:n muuttamisesta](1063.md) `1063/2006`
+- [Eduskunnan päätös eduskunnan tilisäännön muuttamisesta](1064.md) `1064/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta alkuvuonna 2006 muille kuin puutarhatuotteille, korjatulle sadolle, puustolle ja maatalouden tuotantorakennuksille aiheutuneiden tulvavahinkojen korvausten maksatuksesta](1065.md) `1065/2006`
+- [Laki säästöpankkilain muuttamisesta](1066.md) `1066/2006`
+- [Laki valtion eläkerahastosta annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1067.md) `1067/2006`
+- [Laki lapsipornografian levittämisen estotoimista](1068.md) `1068/2006`
+- [Tasavallan presidentin asetus Tanskan, Suomen, Islannin, Norjan ja Ruotsin välisen väestön rekisteröintiä koskevan sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1069.md) `1069/2006`
+- [Valtioneuvoston asetus kotikuntalain muuttamisesta annetun lain voimaantulosta](1070.md) `1070/2006`
+- [Valtioneuvoston asetus väestötietolain muuttamisesta annetun lain voimaantulosta](1071.md) `1071/2006`
+- [Verohallituksen päätös vuodelta 2007 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](1072.md) `1072/2006`
+- [Valtioneuvoston asetus asumistuen määräytymisperusteista vuodelle 2007](1073.md) `1073/2006`
+- [Laki Kiinan kanssa kansainvälisen ilmakuljetusliiketoiminnan vastavuoroisesta vapauttamisesta eräistä veroista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1074.md) `1074/2006`
+- [Valtioneuvoston asetus maatalouden harjoittamisesta luopumisen tukemisesta annetun lain voimaantulosta](1075.md) `1075/2006`
+- [Liikenne\- ja viestintäministeriön asetus Ilmailuhallinnon maksullisista suoritteista](1076.md) `1076/2006`
+- [Kauppa\- ja teollisuusministeriön asetus Matkailun edistämiskeskuksen maksullisista suoritteista](1077.md) `1077/2006`
+- [Sosiaali\- ja terveysministeriön asetus eräiden elatusapujen ja elatustukien korottamisesta elinkustannusindeksin nousun johdosta](1078.md) `1078/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta hevosten keinosiemennysaseman toimintaa koskevista vaatimuksista](1079.md) `1079/2006`
+- [Laki opintotukilain 31 ja 32 §:n muuttamisesta](1080.md) `1080/2006`
+- [Laki perusopetuslain 48 b ja 48 f §:n muuttamisesta](1081.md) `1081/2006`
+- [Laki sähköntuotannon eräiden tehoreservien käytettävyyden varmistamisesta](1082.md) `1082/2006`
+- [Tasavallan presidentin asetus Suomen ja Venäjän välillä Saimaan kanavan ja Malyj Vysotskij \-saaren huoltohenkilökunnan kulkulupamenettelystä noottienvaihdolla tehdyn pöytäkirjan voimaansaattamisesta](1083.md) `1083/2006`
+- [Valtioneuvoston asetus ajoneuvojen hyväksynnästä annetun valtioneuvoston asetuksen 21 ja 25 §:n muuttamisesta](1084.md) `1084/2006`
+- [Valtioneuvoston asetus ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta annetun valtioneuvoston asetuksen voimaantulosäännöksen muuttamisesta](1085.md) `1085/2006`
+- [Valtioneuvoston asetus ajoneuvojen käytöstä tiellä annetun asetuksen 3 §:n muuttamisesta](1086.md) `1086/2006`
+- [Liikenne\- ja viestintäministeriön asetus vaurioituneen ajoneuvon kunnostamisesta ja ajoneuvon kokoamisesta osista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](1087.md) `1087/2006`
+- [Laki yksityishenkilön velkajärjestelystä annetun lain muuttamisesta](1088.md) `1088/2006`
+- [Laki työttömyysturvalain muuttamisesta](1089.md) `1089/2006`
+- [Laki aikuiskoulutustuesta annetun lain muuttamisesta](1090.md) `1090/2006`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain 25 §:n muuttamisesta](1091.md) `1091/2006`
+- [Laki vuorotteluvapaalain 20 ja 21 §:n muuttamisesta](1092.md) `1092/2006`
+- [Laki palkkaturvalain 26 §:n muuttamisesta](1093.md) `1093/2006`
+- [Laki merimiesten palkkaturvalain 24 §:n muuttamisesta](1094.md) `1094/2006`
+- [Laki julkisesta työvoimapalvelusta annetun lain 13 luvun 2 §:n muuttamisesta](1095.md) `1095/2006`
+- [Laki valtioneuvoston jäsenille maksettavista palkkioista ja korvauksista](1096.md) `1096/2006`
+- [Laki tuloverolain 70 §:n muuttamisesta](1097.md) `1097/2006`
+- [Laki pakkokeinolain 5 luvun 12 §:n ja 6 luvun 5 §:n muuttamisesta](1098.md) `1098/2006`
+- [Laki henkilötietojen käsittelystä rangaistusten täytäntöönpanossa annetun lain muuttamisesta](1099.md) `1099/2006`
+- [Laki sakon täytäntöönpanosta annetun lain 37 §:n muuttamisesta](1100.md) `1100/2006`
+- [Laki verohallintolain muuttamisesta](1101.md) `1101/2006`
+- [Laki verontilityslain 13 §:n muuttamisesta](1102.md) `1102/2006`
+- [Laki arvonlisäverolain 173 a §:n muuttamisesta](1103.md) `1103/2006`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön kokonaan rahoittamien eläinpalkkioiden hakuajoista vuonna 2007 sekä uuhipalkkiokiintiöiden hakulomakkeista vuonna 2007](1104.md) `1104/2006`
+- [Maa\- ja metsätalousministeriön asetus eräistä kalastuksen valvontatoimista](1105.md) `1105/2006`
+- [Laki Sambian kanssa sijoitusten edistämisestä ja suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1106.md) `1106/2006`
+- [Laki liiketoimintakiellosta annetun lain muuttamisesta](1107.md) `1107/2006`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 18 §:n muuttamisesta](1108.md) `1108/2006`
+- [Valtioneuvoston asetus liiketoimintakieltorekisteristä annetun asetuksen muuttamisesta](1109.md) `1109/2006`
+- [Valtioneuvoston asetus käräjäoikeuksien tuomiopiireistä](1110.md) `1110/2006`
+- [Oikeusministeriön asetus käräjäoikeuksien kanslioiden ja istuntopaikkojen sijainnista](1111.md) `1111/2006`
+- [Liikenne\- ja viestintäministeriön asetus Viestintäviraston eräistä maksuista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](1112.md) `1112/2006`
+- [Verohallituksen päätös ennakon alarajasta ja kantoeristä](1113.md) `1113/2006`
+- [Laki eläkelaitoksen vakavaraisuusrajan laskemisesta ja vastuuvelan kattamisesta](1114.md) `1114/2006`
+- [Laki vakuutuskassalain muuttamisesta](1115.md) `1115/2006`
+- [Laki eläkesäätiölain muuttamisesta](1116.md) `1116/2006`
+- [Laki maatalousyrittäjien eläkelain 17 §:n muuttamisesta](1117.md) `1117/2006`
+- [Laki merimieseläkelain 56 §:n muuttamisesta](1118.md) `1118/2006`
+- [Laki vakuutusyhtiölain 10 luvun 3 §:n muuttamisesta](1119.md) `1119/2006`
+- [Laki työeläkevakuutusyhtiöistä annetun lain muuttamisesta](1120.md) `1120/2006`
+- [Laki työntekijän eläkelain muuttamisesta](1121.md) `1121/2006`
+- [Laki eläkesäätiölain muuttamisesta](1122.md) `1122/2006`
+- [Laki vakuutuskassalain muuttamisesta](1123.md) `1123/2006`
+- [Laki elinkeinotulon verottamisesta annetun lain 48 a §:n muuttamisesta](1124.md) `1124/2006`
+- [Laki työeläkevakuutusyhtiöistä annetun lain muuttamisesta](1125.md) `1125/2006`
+- [Laki Vakuutusvalvontavirastosta annetun lain muuttamisesta](1126.md) `1126/2006`
+- [Laki eläkesäätiölain 64 §:n 2 momentin ja 65 §:n 4 momentin kumoamisesta](1127.md) `1127/2006`
+- [Laki vakuutuskassalain 96 ja 97 §:n muuttamisesta](1128.md) `1128/2006`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](1129.md) `1129/2006`
+- [LUETTELO kuntien ja seurakuntien tuloveroprosenteista vuonna 2007](1130.md) `1130/2006`
+- [Laki vuokra\-asuntolainojen ja asumisoikeustalolainojen korkotuesta annetun lain 17 ja 18 §:n muuttamisesta](1131.md) `1131/2006`
+- [Valtioneuvoston asetus rakennusurakkasopimuksissa käytettävistä indeksiehdoista annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](1132.md) `1132/2006`
+- [Valtioneuvoston asetus asumistukiasetuksen 1 §:n muuttamisesta](1133.md) `1133/2006`
+- [Sisäasiainministeriön asetus muutto\- ja maastamuuttoilmoitusten vastaanottamiseen liittyvien tehtävien jakamisesta maistraattien kesken](1134.md) `1134/2006`
+- [Sisäasiainministeriön asetus rekisterihallinnon suoritteiden maksuista](1135.md) `1135/2006`
+- [Sisäasiainministeriön asetus holhoustoimessa tarvittavan edunvalvontapalvelun tuottajalle maksettavasta korvauksesta](1136.md) `1136/2006`
+- [Sisäasiainministeriön asetus passivalokuvasta annetun sisäasiainministeriön asetuksen 1 §:n 2 momentin kumoamisesta](1137.md) `1137/2006`
+- [Laki Bulgarian tasavallasta ja Romaniasta tuotavan tavaran arvonlisäverotuksesta eräissä tapauksissa](1138.md) `1138/2006`
+- [Valtioneuvoston asetus ulosottomaksuista annetun asetuksen muuttamisesta](1139.md) `1139/2006`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön ulkopuolisista maista tuotavasta lihasta ja lihasta jalostetuista tuotteista](1140.md) `1140/2006`
+- [Maa\- ja metsätalousministeriön asetus varotoimenpiteistä lintuinfluenssan leviämisen ehkäisemiseksi luonnonvaraisten lintujen ja siipikarjan välillä annetun maa\- ja metsätalousministeriön asetuksen 7 §:n muuttamisesta](1141.md) `1141/2006`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä toimintapääomasta](1142.md) `1142/2006`
+- [Laki urheilijoiden tapaturma\- ja eläketurvasta annetun lain muuttamisesta](1143.md) `1143/2006`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2006 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista](1144.md) `1144/2006`
+- [Sosiaali\- ja terveysministeriön asetus lääkkeiden hintalautakunnan maksullisista suoritteista](1145.md) `1145/2006`
+- [Valtioneuvoston asetus koulutustoimikuntajärjestelmästä](1146.md) `1146/2006`
+- [Valtioneuvoston asetus koulutuksen arvioinnista annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](1147.md) `1147/2006`
+- [Maa\- ja metsätalousministeriön asetus kanojen, broilereiden ja kalkkunoiden salmonellavalvontaohjelmasta](1148.md) `1148/2006`
+- [Laki Euroopan perustuslaista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1149.md) `1149/2006`
+- [Valtioneuvoston asetus julkisen hallinnon tietohallinnon neuvottelukunnasta annetun valtioneuvoston asetuksen 1 ja 2 §:n muuttamisesta](1150.md) `1150/2006`
+- [Valtioneuvoston asetus eräiden valtioneuvoston yleisistunnossaan tekemien, opetusministeriön hallinnonalaan kuuluvien päätösten maksullisuudesta ja maksujen suuruudesta annetun asetuksen 1 §:n muuttamisesta](1151.md) `1151/2006`
+- [Valtioneuvoston asetus vuodelta 2006 maksettavasta perunantuotannon kansallisesta tuesta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](1152.md) `1152/2006`
+- [Valtioneuvoston asetus vuodelta 2007 maksettavasta eräiden peltokasvien ja nautojen tuotantopalkkiosta](1153.md) `1153/2006`
+- [Valtioneuvoston asetus maaseudun kehittämisestä annetun valtioneuvoston asetuksen muuttamisesta](1154.md) `1154/2006`
+- [Opetusministeriön asetus Valtion taidemuseon suoritteiden maksullisuudesta](1155.md) `1155/2006`
+- [Opetusministeriön asetus Suomenlinnan hoitokunnan suoritteiden maksullisuudesta](1156.md) `1156/2006`
+- [Maa\- ja metsätalousministeriön asetus maaseudun kehittämishankkeisiin myönnettävän tuen kohdentamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1157.md) `1157/2006`
+- [Laki ulkomaalaislain muuttamisesta](1158.md) `1158/2006`
+- [Laki ulkomaalaisrekisteristä annetun lain 8 §:n muuttamisesta](1159.md) `1159/2006`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1160.md) `1160/2006`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkekassan työntekijäin eläkelain 12 §:n mukaista vastuunjakoa varten laskettavista suureista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1161.md) `1161/2006`
+- [Sosiaali\- ja terveysministeriön asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 9 §:n mukaisista perusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1162.md) `1162/2006`
+- [Sosiaali\- ja terveysministeriön asetus taiteilijoiden ja eräiden erityisryhmiin kuuluvien työntekijäin eläkelain 7 §:n 5 momentin mukaisista perusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1163.md) `1163/2006`
+- [Sisäasiainministeriön asetus Ulkomaalaisviraston suoritteiden maksullisuudesta](1164.md) `1164/2006`
+- [Valtioneuvoston asetus puolustusvoimista annetun asetuksen muuttamisesta](1165.md) `1165/2006`
+- [Valtioneuvoston asetus Zoonoosikeskuksesta](1166.md) `1166/2006`
+- [Maa\- ja metsätalousministeriön asetus maatilatalouden rakennetuen kohdentamisesta vuonna 2007](1167.md) `1167/2006`
+- [Puolustusministeriön asetus asevelvollisen ja vapaaehtoista asepalvelusta suorittavan naisen päivärahasta](1168.md) `1168/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kotieläinten jalostusaineksen maahantuonnissa annettavasta selvityksestä annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](1169.md) `1169/2006`
+- [Opetusministeriön asetus ammatillisesta aikuiskoulutuksesta annetussa laissa tarkoitetusta tutkintorakenteesta](1170.md) `1170/2006`
+- [Opetusministeriön asetus opetusministeriön työjärjestyksen muuttamisesta](1171.md) `1171/2006`
+- [Maa\- ja metsätalousministeriön asetus eräisiin maaseudun kehittämisohjelmiin sisältyvien tukien hakuajan päättymisestä](1172.md) `1172/2006`
+- [Valtioneuvoston asetus tekijänoikeusasetuksen muuttamisesta](1173.md) `1173/2006`
+- [Valtioneuvoston asetus elintarvikelain ja terveydensuojelulain nojalla tutkimuksia tekevistä laboratorioista](1174.md) `1174/2006`
+- [Valtioneuvoston asetus eläkkeensaajien asumistukilain mukaisista hoitomenoina hyväksyttävistä keskimääräisistä kustannuksista vuodelle 2007](1175.md) `1175/2006`
+- [Valtioneuvoston asetus työntekijöiden työterveyskortista rakennustyössä](1176.md) `1176/2006`
+- [Valtioneuvoston asetus tolueenia ja triklooribentseeniä koskevista kielloista ja rajoituksista](1177.md) `1177/2006`
+- [Valtioneuvoston asetus työttömyysturvan muutoksenhakulautakunnasta](1178.md) `1178/2006`
+- [Lääkelaitoksen päätös lääkeluettelosta](1179.md) `1179/2006`
+- [Valtioneuvoston asetus ajoneuvojen hyväksynnästä annetun valtioneuvoston asetuksen 20 §:n muuttamisesta](1180.md) `1180/2006`
+- [Valtioneuvoston asetus ajoneuvojen rekisteröinnistä annetun asetuksen muuttamisesta](1181.md) `1181/2006`
+- [Oikeusministeriön asetus Vankeinhoitolaitoksen kaksikielisistä osastoista](1182.md) `1182/2006`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön maksullisista suoritteista](1183.md) `1183/2006`
+- [Maa\- ja metsätalousministeriön asetus maaseutuelinkeinojen valituslautakunnan suoritteista perittävistä maksuista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1184.md) `1184/2006`
+- [Maa\- ja metsätalousministeriön asetus työvoima\- ja elinkeinokeskusten maaseutuosastojen suoritteista perittävistä maksuista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1185.md) `1185/2006`
+- [Maa\- ja metsätalousministeriön asetus eläinlääkintävahinkojen arviolautakunnan suoritteista perittävistä maksuista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1186.md) `1186/2006`
+- [Valtiovarainministeriön päätös verohallituksen ja Länsi\-Suomen veroviraston määräämisestä toimivaltaisena viranomaisena ratkaisemaan eräitä verotusta koskevissa kansainvälisissä sopimuksissa tarkoitettuja asioita](1187.md) `1187/2006`
+- [Sosiaali\- ja terveysministeriön asetus merimieseläkekassan perusteista merimieseläkelain 3 a §:n 2 ja 3 momentin mukaista vastuunjakoa varten annetun sosiaali\- ja terveysministeriön asetuksen liitteiden 1 ja 2 muuttamisesta](1188.md) `1188/2006`
+- [Vuoden 2006 kolmas lisätalousarvio](1189.md) `1189/2006`
+- [Eduskunnan päätös eduskunnan työjärjestyksen muuttamisesta](1190.md) `1190/2006`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveysministeriön suoritteista](1191.md) `1191/2006`
+- [Verohallituksen päätös verovapaista matkakustannusten korvauksista vuonna 2007](1192.md) `1192/2006`
+- [Valtion talousarvio vuodelle 2007](1193.md) `1193/2006`
+- [Ulkoasiainministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoasiainministeriön asetuksen muuttamisesta](1194.md) `1194/2006`
+- [Ulkoasiainministeriön asetus ulkoasiainhallinnon suoritteiden maksuista annetun ulkoasiainministeriön asetuksen muuttamisesta](1195.md) `1195/2006`
+- [Liikenne\- ja viestintäministeriön asetus Viestintäviraston radiohallinnollisista suoritteista perittävistä maksuista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](1196.md) `1196/2006`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 153 §:ssä tarkoitettujen työntekijän työeläkevakuutusmaksuprosenttien antamisesta](1197.md) `1197/2006`
+- [Opetusministeriön asetus opetusministeriön suoritteiden maksullisuudesta](1198.md) `1198/2006`
+- [Valtiovarainministeriön asetus valtiokonttorin maksullisista suoritteista](1199.md) `1199/2006`
+- [Opetusministeriön asetus yliopistojen suoritteista perittävistä maksuista](1200.md) `1200/2006`
+- [Opetusministeriön asetus opetushallituksen suoritteiden maksullisuudesta](1201.md) `1201/2006`
+- [Kauppa\- ja teollisuusministeriön asetus Energiamarkkinaviraston maksullisista suoritteista](1202.md) `1202/2006`
+- [Laki Suomen ja Viron välillä raakaöljyn ja öljytuotteiden vastavuoroisesta varmuusvarastoinnista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1203.md) `1203/2006`
+- [Tasavallan presidentin asetus Suomen ja Viron välillä raakaöljyn ja öljytuotteiden vastavuoroisesta varmuusvarastoinnista tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1204.md) `1204/2006`
+- [Ympäristöministeriön asetus ympäristöministeriön maksullisista suoritteista](1205.md) `1205/2006`
+- [Ympäristöministeriön asetus Valtion asuntorahaston maksullisista suoritteista](1206.md) `1206/2006`
+- [Ympäristöministeriön asetus Suomen ympäristökeskuksen maksullisista suoritteista](1207.md) `1207/2006`
+- [Valtiovarainministeriön asetus Tilastokeskuksen suoritteiden maksullisuudesta](1208.md) `1208/2006`
+- [Laki eräiden ennakkopäätösten maksuperusteista](1209.md) `1209/2006`
+- [Laki ajoneuvoverolain 48 §:n muuttamisesta](1210.md) `1210/2006`
+- [Laki polttoainemaksusta annetun lain 19 §:n muuttamisesta](1211.md) `1211/2006`
+- [Laki tietotekniikan käytöstä tullialalla tehdyn yleissopimuksen muuttamisesta tullitutkintatietokannan perustamisen osalta tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1212.md) `1212/2006`
+- [Laki tullilain 23 b ja 24 §:n muuttamisesta](1213.md) `1213/2006`
+- [Valtioneuvoston asetus kuntien yleisestä kalleusluokituksesta](1214.md) `1214/2006`
+- [Valtiovarainministeriön asetus vuoden 2007 taidekilpailupalkintojen verovapaudesta](1215.md) `1215/2006`
+- [Laki tuloverolain 3 §:n muuttamisesta](1216.md) `1216/2006`
+- [Vuoden 2007 tuloveroasteikkolaki](1217.md) `1217/2006`
+- [Laki tuloverolain muuttamisesta](1218.md) `1218/2006`
+- [Laki elinkeinotulon verottamisesta annetun lain 6 §:n muuttamisesta](1219.md) `1219/2006`
+- [Laki varainsiirtoverolain 13 §:n muuttamisesta](1220.md) `1220/2006`
+- [Laki verontilityslain 12 §:n muuttamisesta](1221.md) `1221/2006`
+- [Laki kuntien valtionosuuslain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1222.md) `1222/2006`
+- [Laki tuloverolain 10 §:n muuttamisesta](1223.md) `1223/2006`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](1224.md) `1224/2006`
+- [Laki ennakkoperintälain muuttamisesta](1225.md) `1225/2006`
+- [Laki rajoitetusti verovelvollisen tulon verottamisesta annetun lain muuttamisesta](1226.md) `1226/2006`
+- [Laki yritys\- ja yhteisötietolain 3 §:n muuttamisesta](1227.md) `1227/2006`
+- [Laki tekijänoikeuslain muuttamisesta](1228.md) `1228/2006`
+- [Laki ylioppilastutkinnon järjestämisestä annetun lain 3 §:n muuttamisesta](1229.md) `1229/2006`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 18 §:n muuttamisesta](1230.md) `1230/2006`
+- [Laki kaupallisista tavarankuljetuksista tiellä annetun lain muuttamisesta](1231.md) `1231/2006`
+- [Laki työntekijän työeläkevakuutusmaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta eräissä päivärahoissa](1232.md) `1232/2006`
+- [Laki tilaajan selvitysvelvollisuudesta ja vastuusta ulkopuolista työvoimaa käytettäessä](1233.md) `1233/2006`
+- [Valtioneuvoston asetus alle 18\-vuotiaana vahinkoa kärsineen ansiotulon määrän vahvistamisesta vuodelle 2007](1234.md) `1234/2006`
+- [Opetusministeriön asetus Valtion elokuvatarkastamon ja elokuvalautakunnan suoritteiden maksullisuudesta](1235.md) `1235/2006`
+- [Opetusministeriön asetus näkövammaisten kirjaston suoritteiden maksullisuudesta](1236.md) `1236/2006`
+- [Laki hedelmöityshoidoista](1237.md) `1237/2006`
+- [Laki isyyslain muuttamisesta](1238.md) `1238/2006`
+- [Laki valtion paikallishallinnon kehittämisen perusteista annetun lain muuttamisesta](1239.md) `1239/2006`
+- [Laki vaikeavammaisille yrittäjille myönnettävistä veronhuojennuksista annetun lain 3 §:n muuttamisesta](1240.md) `1240/2006`
+- [Opetusministeriön asetus tallentamattomien ääni\- ja kuvanauhojen ja muiden tallennuslaitteiden valmistuksesta ja maahantuonnista suoritettavan maksun suuruudesta](1241.md) `1241/2006`
+- [Valtioneuvoston kanslian asetus valtioneuvoston kanslian suoritteiden maksullisuudesta](1242.md) `1242/2006`
+- [Laki kansainvälisen dopingin vastaisen yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1243.md) `1243/2006`
+- [Valtioneuvoston asetus matkustusoikeuden osoittamisesta eräissä tapauksissa](1244.md) `1244/2006`
+- [Sisäasiainministeriön asetus hätäkeskuslaitoksen hätäkeskusten maksullisista suoritteista](1245.md) `1245/2006`
+- [Sisäasiainministeriön asetus Pelastusopiston maksullisista suoritteista](1246.md) `1246/2006`
+- [Sisäasiainministeriön asetus poliisin suoritteiden maksullisuudesta annetun asetuksen muuttamisesta](1247.md) `1247/2006`
+- [Sisäasiainministeriön asetus sisäasiainministeriön työjärjestyksen muuttamisesta](1248.md) `1248/2006`
+- [Laki tieliikennelain muuttamisesta](1249.md) `1249/2006`
+- [Laki ajoneuvolain 89 §:n muuttamisesta](1250.md) `1250/2006`
+- [Laki televisio\- ja radiotoiminnasta annetun lain 4 ja 7 §:n muuttamisesta](1251.md) `1251/2006`
+- [Laki työttömyysturvalain muuttamisesta](1252.md) `1252/2006`
+- [Laki aikuiskoulutustuesta annetun lain muuttamisesta](1253.md) `1253/2006`
+- [Laki vuorotteluvapaalain 4 §:n muuttamisesta](1254.md) `1254/2006`
+- [Laki lasten päivähoidosta annetun lain muuttamisesta](1255.md) `1255/2006`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta annetun lain muuttamisesta](1256.md) `1256/2006`
+- [Laki palkkaturvalain muuttamisesta](1257.md) `1257/2006`
+- [Laki merimiesten palkkaturvalain muuttamisesta](1258.md) `1258/2006`
+- [Laki kasvinsuojeluaineista](1259.md) `1259/2006`
+- [Laki kemikaalilain muuttamisesta](1260.md) `1260/2006`
+- [Laki rikoslain 44 luvun 1 §:n muuttamisesta](1261.md) `1261/2006`
+- [Laki sairausvakuutuksen sairaanhoitomaksun ja työnantajan kansaneläkemaksun maksuprosentista](1262.md) `1262/2006`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain 4 ja 13 §:n muuttamisesta](1263.md) `1263/2006`
+- [Laki sairausvakuutuslain muuttamisesta](1264.md) `1264/2006`
+- [Laki korkeimmasta hallinto\-oikeudesta](1265.md) `1265/2006`
+- [Laki korkeimman hallinto\-oikeuden asiantuntijajäsenistä](1266.md) `1266/2006`
+- [Laki vammaisuuden perusteella järjestettävistä palveluista ja tukitoimista annetun lain muuttamisesta](1267.md) `1267/2006`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 4 §:n muuttamisesta](1268.md) `1268/2006`
+- [Laki maahanmuuttajien kotouttamisesta ja turvapaikanhakijoiden vastaanotosta annetun lain muuttamisesta](1269.md) `1269/2006`
+- [Valtioneuvoston asetus valtion virkaehtosopimusasetuksen 10 §:n muuttamisesta](1270.md) `1270/2006`
+- [Valtioneuvoston asetus yritysten yhteishankkeisiin myönnettävästä kansainvälistymisavustuksesta sekä yleisavustuksesta ulkomaankauppaa ja yritysten kansainvälistymistä edistäville järjestöille ja yhteisöille annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](1271.md) `1271/2006`
+- [Yrittäjän eläkelaki](1272.md) `1272/2006`
+- [Laki yrittäjän eläkelain voimaanpanosta](1273.md) `1273/2006`
+- [Laki työntekijän eläkelain muuttamisesta](1274.md) `1274/2006`
+- [Laki työntekijän eläkelain voimaanpanolain muuttamisesta](1275.md) `1275/2006`
+- [Laki sairausvakuutuslain muuttamisesta](1276.md) `1276/2006`
+- [Laki asumiseen perustuvan sosiaaliturvalainsäädännön soveltamisesta annetun lain 2 a §:n muuttamisesta](1277.md) `1277/2006`
+- [Laki työttömyysturvalain 1 luvun 6 §:n muuttamisesta](1278.md) `1278/2006`
+- [Laki työterveyshuoltolain 3 §:n muuttamisesta](1279.md) `1279/2006`
+- [Maatalousyrittäjän eläkelaki](1280.md) `1280/2006`
+- [Laki maatalousyrittäjän eläkelain voimaanpanosta](1281.md) `1281/2006`
+- [Laki maatalouden harjoittamisesta luopumisen tukemisesta annetun lain muuttamisesta](1282.md) `1282/2006`
+- [Laki maatalousyrittäjien luopumistuesta annetun lain muuttamisesta](1283.md) `1283/2006`
+- [Laki maatalousyrittäjien sukupolvenvaihdoseläkkeestä annetun lain muuttamisesta](1284.md) `1284/2006`
+- [Laki luopumiseläkelain muuttamisesta](1285.md) `1285/2006`
+- [Laki maatalousyrittäjien luopumiskorvauksesta annetun lain muuttamisesta](1286.md) `1286/2006`
+- [Laki maatalousyrittäjien tapaturmavakuutuslain muuttamisesta](1287.md) `1287/2006`
+- [Laki sairausvakuutuslain mukaisen omavastuuajan korvaamisesta maatalousyrittäjille annetun lain 2 ja 5 §:n muuttamisesta](1288.md) `1288/2006`
+- [Laki maatalousyrittäjien lomituspalvelulain muuttamisesta](1289.md) `1289/2006`
+- [Merimieseläkelaki](1290.md) `1290/2006`
+- [Laki merimieseläkelain voimaanpanosta](1291.md) `1291/2006`
+- [Laki työntekijän eläkelain muuttamisesta](1292.md) `1292/2006`
+- [Laki kunnallisen eläkelain muuttamisesta](1293.md) `1293/2006`
+- [Sisäasiainministeriön asetus kunnallisista eläkkeistä annetun sisäasiainministeriön asetuksen muuttamisesta](1294.md) `1294/2006`
+- [Valtion eläkelaki](1295.md) `1295/2006`
+- [Laki valtion eläkelain voimaanpanosta](1296.md) `1296/2006`
+- [Laki valtion eläkerahastosta](1297.md) `1297/2006`
+- [Laki työeläkeasioiden muutoksenhakulautakunnasta annetun lain muuttamisesta](1298.md) `1298/2006`
+- [Laki sosiaaliturvan muutoksenhakulautakunnasta](1299.md) `1299/2006`
+- [Laki kansaneläkelain muuttamisesta](1300.md) `1300/2006`
+- [Laki sairausvakuutuslain muuttamisesta](1301.md) `1301/2006`
+- [Laki perhe\-eläkelain 33 ja 37 §:n muuttamisesta](1302.md) `1302/2006`
+- [Laki lapsen hoitotuesta annetun lain muuttamisesta](1303.md) `1303/2006`
+- [Laki vammaistukilain muuttamisesta](1304.md) `1304/2006`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 55 ja 58 §:n muuttamisesta](1305.md) `1305/2006`
+- [Laki lapsilisälain muuttamisesta](1306.md) `1306/2006`
+- [Laki äitiysavustuslain muuttamisesta](1307.md) `1307/2006`
+- [Laki sotilasavustuslain muuttamisesta](1308.md) `1308/2006`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta annetun lain muuttamisesta](1309.md) `1309/2006`
+- [Laki asumiseen perustuvan sosiaaliturvalainsäädännön soveltamisesta annetun lain muuttamisesta](1310.md) `1310/2006`
+- [Laki maahanmuuttajan erityistuesta annetun lain muuttamisesta](1311.md) `1311/2006`
+- [Laki tapaturmavakuutuslain 53 d §:n muuttamisesta](1312.md) `1312/2006`
+- [Laki sairausvakuutuslain mukaisen omavastuuajan korvaamisesta maatalousyrittäjille annetun lain 7 ja 8 §:n muuttamisesta](1313.md) `1313/2006`
+- [Laki työntekijän eläkelain 140 §:n muuttamisesta](1314.md) `1314/2006`
+- [Laki asumistukilain muuttamisesta](1315.md) `1315/2006`
+- [Laki Rikosseuraamusalan koulutuskeskuksesta](1316.md) `1316/2006`
+- [Laki kihlakunnansyyttäjästä annetun lain muuttamisesta](1317.md) `1317/2006`
+- [Laki Ahvenanmaan maakunnan maakunnansyyttäjänvirastosta annetun lain muuttamisesta](1318.md) `1318/2006`
+- [Laki yleisistä syyttäjistä annetun lain 11 §:n muuttamisesta](1319.md) `1319/2006`
+- [Laki kuntien valtionosuuslain 27 §:n muuttamisesta](1320.md) `1320/2006`
+- [Laki tieliikennelain 87 §:n väliaikaisesta muuttamisesta](1321.md) `1321/2006`
+- [Laki ulkomaanliikenteen kauppa\-alusluettelosta annetun lain 4 a §:n muuttamisesta ja 4 §:n väliaikaisesta muuttamisesta](1322.md) `1322/2006`
+- [Valtioneuvoston asetus verontilitysasetuksen 2 §:n muuttamisesta](1323.md) `1323/2006`
+- [Laki kaupparekisterilain muuttamisesta](1324.md) `1324/2006`
+- [Laki yritys\- ja yhteisötietolain 14 §:n muuttamisesta](1325.md) `1325/2006`
+- [Laki kirjanpitolain 3 luvun 9 §:n muuttamisesta](1326.md) `1326/2006`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain 18 §:n muuttamisesta](1327.md) `1327/2006`
+- [Laki kansanterveyslain 6 §:n muuttamisesta](1328.md) `1328/2006`
+- [Laki sosiaalihuoltolain 6 §:n muuttamisesta](1329.md) `1329/2006`
+- [Laki lasten päivähoidosta annetun lain muuttamisesta](1330.md) `1330/2006`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta annetun lain 16 §:n väliaikaisesta muuttamisesta annetun lain kumoamisesta](1331.md) `1331/2006`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon valtionosuuden laskennassa käytettävistä syrjäisyyskertoimista annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](1332.md) `1332/2006`
+- [Oikeusministeriön asetus oikeusministeriön ja eräiden hallinnonalalla toimivien viranomaisten suoritteista perittävistä maksuista](1333.md) `1333/2006`
+- [Sosiaali\- ja terveysministeriön asetus vuoden 2007 liikenneturvallisuusmaksusta](1334.md) `1334/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden maatilalain mukaisten myyntihintasaamisten ja lainojen viitekorosta](1335.md) `1335/2006`
+- [Laki valtionavustuksesta yritystoiminnan kehittämiseksi](1336.md) `1336/2006`
+- [Laki yritystoiminnan tukemisesta annetun lain 41 §:n muuttamisesta](1337.md) `1337/2006`
+- [Tasavallan presidentin asetus Guatemalan kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1338.md) `1338/2006`
+- [Valtioneuvoston asetus seulonnoista](1339.md) `1339/2006`
+- [Kauppa\- ja teollisuusministeriön asetus Kuluttajaviraston maksullisista suoritteista](1340.md) `1340/2006`
+- [Opetusministeriön asetus yleisistä kielitutkinnoista perittävistä maksuista](1341.md) `1341/2006`
+- [Laki sairausvakuutuslain muuttamisesta](1342.md) `1342/2006`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta annetun lain 4 ja 6 §:n muuttamisesta](1343.md) `1343/2006`
+- [Laki lasten päivähoidosta annetun lain 11 a §:n muuttamisesta](1344.md) `1344/2006`
+- [Valtioneuvoston asetus lasten päivähoidosta annetun asetuksen 6 §:n muuttamisesta](1345.md) `1345/2006`
+- [Opetusministeriön asetus Varastokirjaston suoritteista perittävistä maksuista](1346.md) `1346/2006`
+- [Sisäasiainministeriön asetus rajavartiolaitoksen suoritteiden maksuista](1347.md) `1347/2006`
+- [Sisäasiainministeriön asetus sisäasiainministeriön maksullisista suoritteista](1348.md) `1348/2006`
+- [Valtioneuvoston asetus turvavarastointiohjelmasta vuonna 2007](1349.md) `1349/2006`
+- [Sosiaali\- ja terveysministeriön asetus uimahallissa, kylpylässä tai vastaavassa laitoksessa työskentelevältä vaadittavasta laitosteknisestä ja allasvesihygieenisestä osaamisesta ja osaamisen testaamisesta](1350.md) `1350/2006`
+- [Sosiaali\- ja terveysministeriön asetus talousvettä toimittavassa laitoksessa työskentelevältä vaadittavasta laitosteknisestä ja talousvesihygieenisestä osaamisesta ja osaamisen testaamisesta](1351.md) `1351/2006`
+- [Sosiaali\- ja terveysministeriön asetus eläkesäätiön erinäisistä säännöksistä](1352.md) `1352/2006`
+- [Sosiaali\- ja terveysministeriön asetus eläkekassan erinäisistä säännöksistä](1353.md) `1353/2006`
+- [Laki Liettuan kanssa sosiaaliturvasta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain kumoamisesta](1354.md) `1354/2006`
+- [Tasavallan presidentin asetus sotilas\- ja palvelusarvoista](1355.md) `1355/2006`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyviin kiinteää irtolastia kuljettavien alusten ja öljysäiliöalusten tehostettua tarkastusohjelmaa koskeviin suuntaviivoihin tehtyjen muutosten voimaansaattamisesta](1356.md) `1356/2006`
+- [Tasavallan presidentin asetus vaarallisten tavaroiden kansainvälisistä tiekuljetuksista tehdyn eurooppalaisen sopimuksen \(ADR\) A ja B liitteeseen tehtyjen muutosten voimaansaattamisesta](1357.md) `1357/2006`
+- [Tasavallan presidentin asetus kansainvälisiä rautatiekuljetuksia koskevan yleissopimuksen \(COTIF\) vaarallisten aineiden rautatiekuljetuksia koskevaan liitteeseen C \(RID\) tehtyjen muutosten voimaansaattamisesta](1358.md) `1358/2006`
+- [Opetusministeriön asetus yliopistojen maisteriohjelmista](1359.md) `1359/2006`
+- [Laki laivaväen luetteloinnista](1360.md) `1360/2006`
+- [Laki merimieslain 4 ja 77 §:n muuttamisesta](1361.md) `1361/2006`
+- [Laki vuoden 1989 kansainvälisen meripelastusyleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1362.md) `1362/2006`
+- [Laki merilain muuttamisesta](1363.md) `1363/2006`
+- [Laki Maailman postiliiton yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1364.md) `1364/2006`
+- [Laki postipalvelulain muuttamisesta](1365.md) `1365/2006`
+- [Verohallituksen päätös rakennusmaan verotusarvon laskentaperusteista](1366.md) `1366/2006`
+- [Laki tapaturmavakuutuslain muuttamisesta](1367.md) `1367/2006`
+- [Sosiaali\- ja terveysministeriön asetus tapaturmavakuutuslain 60 b §:ssä säädetyn suhdeluvun määräämisestä, ennakkoarvion perusteista ja jakojärjestelmää koskevien osuuksien maksusta ja tilittämisestä](1368.md) `1368/2006`
+- [Laki liikennevakuutuslain 18 b §:n muuttamisesta](1369.md) `1369/2006`
+- [Sosiaali\- ja terveysministeriön asetus liikennevakuutuslain 18 b §:ssä säädetyn suhdeluvun määräämisestä, ennakkoarvion perusteista ja jakojärjestelmää koskevien osuuksien maksusta ja tilittämisestä](1370.md) `1370/2006`
+- [Laki potilasvahinkolain muuttamisesta](1371.md) `1371/2006`
+- [Sosiaali\- ja terveysministeriön asetus potilasvahinkolain 10 b §:ssä säädetyn suhdeluvun määräämisestä, ennakkoarvion perusteista ja jakojärjestelmää koskevien osuuksien maksusta ja tilittämisestä](1372.md) `1372/2006`
+- [Laki ympäristövahinkovakuutuksesta annetun lain muuttamisesta](1373.md) `1373/2006`
+- [Sosiaali\- ja terveysministeriön asetus ympäristövahinkovakuutuksesta annetun lain 21 a §:ssä säädetyn suhdeluvun määräämisestä, ennakkoarvion perusteista ja jakojärjestelmää koskevien osuuksien maksusta ja tilittämisestä](1374.md) `1374/2006`
+- [Laki eräiden potilasvahinkokorvausten sitomisesta palkkatasoon annetun lain 3 §:n muuttamisesta](1375.md) `1375/2006`
+- [Valtioneuvoston asetus tartuntatautiasetuksen muuttamisesta](1376.md) `1376/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus juurikkaiden siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen 9 §:n väliaikaisesta muuttamisesta](1377.md) `1377/2006`
+- [Liikenne\- ja viestintäministeriön asetus yli 22,00 metrin pituisessa ajoneuvoyhdistelmässä käytettävän yli 2,55 metriä leveän kuorma\-auton, kuorma\-auton perävaunun ja vaihtokuormatilan sisäpuolisesta kaventamisesta](1378.md) `1378/2006`
+- [Verohallituksen päätös ilmoittamisvelvollisuudesta ja muistiinpanoista](1379.md) `1379/2006`
+- [Laki kuvaohjelmien tarkastamisesta annetun lain muuttamisesta](1380.md) `1380/2006`
+- [Valtioneuvoston asetus Sipoonkorven luonnonsuojelualueesta](1381.md) `1381/2006`
+- [Valtioneuvoston asetus Meikon luonnonsuojelualueesta](1382.md) `1382/2006`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun asetuksen 6 ja 7 §:n muuttamisesta](1383.md) `1383/2006`
+- [Sisäasiainministeriön asetus S1\-, S3\- ja S6\-luokan kalliosuojista sekä S3\-luokan teräsbetonisesta väestönsuojasta](1384.md) `1384/2006`
+- [Sisäasiainministeriön asetus S1\- ja K\-luokan teräsbetonisista väestönsuojista](1385.md) `1385/2006`
+- [Sosiaali\- ja terveysministeriön asetus työsuojelun piirihallinnon maksullisista suoritteista](1386.md) `1386/2006`
+- [Ympäristöministeriön asetus alueellisen ympäristökeskuksen maksullisista suoritteista](1387.md) `1387/2006`
+- [Ympäristöministeriön asetus ympäristölupaviraston maksullisista suoritteista](1388.md) `1388/2006`
+- [Sosiaali\- ja terveysministeriön asetus työterveyshuollon erikoislääkärikoulutuksen kustannuksiin valtion varoista vuonna 2007 suoritettavasta määrärahasta](1389.md) `1389/2006`
+- [Sosiaali\- ja terveysministeriön asetus sairaanhoitopiirin eettisen toimikunnan ja ETENE:n lääketieteellisen tutkimuseettisen jaoston lausunnoista perittävistä maksuista sekä tutkittavalle suoritettavista korvauksista](1390.md) `1390/2006`
+- [Maa\- ja metsätalousministeriön asetus nautaeläinten merkitsemisestä ja rekisteröinnistä](1391.md) `1391/2006`
+- [Maa\- ja metsätalousministeriön asetus poro\- ja luontaiselinkeinotalouden aloitustuen hakuajan päättymisestä](1392.md) `1392/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden porotalouden ja luontaiselinkeinojen rahoituslain mukaisten asuntolainojen viitekorosta](1393.md) `1393/2006`
+- [Tasavallan presidentin asetus kansainvälistä yksityisoikeutta käsittelevän Haagin konferenssin perussäännön muutosten voimaansaattamisesta](1394.md) `1394/2006`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveydenhuollon tuotevalvontakeskuksen maksullisista suoritteista](1395.md) `1395/2006`
+- [Valtioneuvoston asetus Luotsausliikelaitoksen luotsausmaksusta](1396.md) `1396/2006`
+- [Valtioneuvoston asetus julkisesta työvoimapalvelusta annetun valtioneuvoston asetuksen 23 §:n muuttamisesta](1397.md) `1397/2006`
+- [Valtioneuvoston asetus työnantajan eläkemaksun perusteista](1398.md) `1398/2006`
+- [Valtioneuvoston asetus toimivaltaisen eläkelaitoksen määräytymisestä](1399.md) `1399/2006`
+- [Työministeriön asetus työssäkäyntialueista annetun työministeriön asetuksen muuttamisesta](1400.md) `1400/2006`
+- [Rakennerahastolaki](1401.md) `1401/2006`
+- [Laki alueiden kehittämislain muuttamisesta](1402.md) `1402/2006`
+- [Laki Kainuun hallintokokeilusta annetun lain muuttamisesta](1403.md) `1403/2006`
+- [Valtioneuvoston asetus Maatalousyrittäjien eläkelaitoksen ohjesäännöstä](1404.md) `1404/2006`
+- [Valtioneuvoston asetus toimivaltaisesta eläkelaitoksesta](1405.md) `1405/2006`
+- [Valtioneuvoston asetus yrittäjän eläkelain täytäntöönpanosta](1406.md) `1406/2006`
+- [Valtioneuvoston asetus maatalousyrittäjän eläkelain täytäntöönpanosta](1407.md) `1407/2006`
+- [Valtioneuvoston asetus merimieseläkelain täytäntöönpanosta](1408.md) `1408/2006`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän työeläkevakuutusmaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta sairausvakuutusjärjestelmän mukaisissa päivärahoissa ja Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain mukaisissa kuntoutusrahoissa](1409.md) `1409/2006`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän työeläkevakuutusmaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta tapaturmavakuutuslain perusteella maksettavissa päivärahoissa](1410.md) `1410/2006`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän työeläkevakuutusmaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta työttömyysturvalain perusteella maksettavissa päivärahoissa](1411.md) `1411/2006`
+- [Sosiaali\- ja terveysministeriön asetus eläkkeen kertasuorituskertoimista](1412.md) `1412/2006`
+- [Sosiaali\- ja terveysministeriön asetus eläkkeen muuntamisesta vastaamaan 62 vuotta alempaa eläkkeelle siirtymisikää](1413.md) `1413/2006`
+- [Sosiaali\- ja terveysministeriön asetus yrittäjän eläkelain 114 §:ssä tarkoitettujen työeläkevakuutusmaksuprosenttien ja maatalousyrittäjän eläkelain 22 §:ssä tarkoitettujen työeläkevakuutusmaksun perusprosenttien antamisesta](1414.md) `1414/2006`
+- [Laki maatalousyrittäjien tapaturmavakuutuslain 13 ja 17 §:n väliaikaisesta muuttamisesta](1415.md) `1415/2006`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon vuoden 2007 voimavaroista annetun valtioneuvoston asetuksen muuttamisesta](1416.md) `1416/2006`
+- [Valtioneuvoston asetus työttömyysturvalain täytäntöönpanosta annetun valtioneuvoston asetuksen muuttamisesta](1417.md) `1417/2006`
+- [Valtioneuvoston asetus sosiaaliturvan muutoksenhakulautakunnasta](1418.md) `1418/2006`
+- [Valtioneuvoston asetus julkiseen työvoimapalveluun kuuluvista etuuksista annetun valtioneuvoston asetuksen muuttamisesta](1419.md) `1419/2006`
+- [Valtioneuvoston asetus eräiden työllisyysmäärärahojen käytöstä annetun valtioneuvoston asetuksen muuttamisesta](1420.md) `1420/2006`
+- [Valtioneuvoston asetus julkisen työvoimapalvelun toimeenpanosta annetun valtioneuvoston asetuksen muuttamisesta](1421.md) `1421/2006`
+- [Sosiaali\- ja terveysministeriön asetus Maatalousyrittäjien eläkelaitoksen vastuuvelkaa katettaessa vastuuvelkaan rinnastettavista ja vähennettävistä eristä](1422.md) `1422/2006`
+- [Sosiaali\- ja terveysministeriön asetus perusteista, joiden mukaan eläkelaitokset vastaavat työntekijän eläkelain 179 §:n 1 momentissa ja merimieseläkelain 159 §:n 1 momentissa tarkoitetuista kuluista](1423.md) `1423/2006`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](1424.md) `1424/2006`
+- [Laki tuloverolain muuttamisesta](1425.md) `1425/2006`
+- [Laki varainsiirtoverolain 4 §:n muuttamisesta](1426.md) `1426/2006`
+- [Valtiovarainministeriön asetus tullilaitoksen suoritteiden maksullisuudesta](1427.md) `1427/2006`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskorosta](1428.md) `1428/2006`
+- [Laki eläinten kuljetuksesta](1429.md) `1429/2006`
+- [Laki eläinsuojelulain muuttamisesta](1430.md) `1430/2006`
+- [Laki rikoslain 17 luvun 14 ja 23 §:n muuttamisesta](1431.md) `1431/2006`
+- [Valtiovarainministeriön asetus verohallinnon suoritteiden maksullisuudesta](1432.md) `1432/2006`
+- [Kauppa\- ja teollisuusministeriön asetus Patentti\- ja rekisterihallituksen maksullisista suoritteista](1433.md) `1433/2006`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta eläimistä saatavien elintarvikkeiden elintarvikehygieniasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1434.md) `1434/2006`
+- [Tasavallan presidentin asetus Bulgarian ja Romanian liittymisestä Euroopan unioniin tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1435.md) `1435/2006`
+- [Tasavallan presidentin asetus Bulgarian ja Romanian kanssa tehtyjen Eurooppa\-sopimusten voimaansaattamislakien kumoamisesta annettujen lakien voimaantulosta](1436.md) `1436/2006`
+- [Valtioneuvoston asetus Bulgarian tasavallasta ja Romaniasta tuotavan tavaran arvonlisäverotuksesta eräissä tapauksissa annetun lain voimaantulosta](1437.md) `1437/2006`
+- [Valtioneuvoston asetus vuonna 2007 toimitettavissa eduskuntavaaleissa ennakkoäänestyspaikkoina olevista Suomen edustustoista ja niiden toimipaikoista](1438.md) `1438/2006`
+- [Valtioneuvoston asetus kaupparekisteriasetuksen muuttamisesta](1439.md) `1439/2006`
+- [Laki luonnonhaittakorvauksesta, maatalouden ympäristötuesta sekä eräistä muista ympäristön ja maaseudun tilan parantamiseen liittyvistä tuista](1440.md) `1440/2006`
+- [Laki maankäyttö\- ja rakennuslain muuttamisesta](1441.md) `1441/2006`
+- [Maa\- ja metsätalousministeriön asetus alkutuotannolle elintarviketurvallisuuden varmistamiseksi asetettavista vaatimuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1442.md) `1442/2006`
+- [Laki maaseudun kehittämiseen myönnettävistä tuista](1443.md) `1443/2006`
+- [Laki maaseudun kehittämiseen liittyvien ohjelmien hallinnoinnista annetun lain muuttamisesta](1444.md) `1444/2006`
+- [Valtioneuvoston asetus maaseudun kehittämisestä annetun valtioneuvoston asetuksen muuttamisesta](1445.md) `1445/2006`
+- [Laki maa\- ja puutarhatalouden kansallisista tuista annetun lain muuttamisesta](1446.md) `1446/2006`
+- [Laki Euroopan kalatalousrahaston kansallisesta hallinnoinnista ja elinkeinokalataloudelle myönnettävistä tuista](1447.md) `1447/2006`
+- [Valtioneuvoston asetus Rikosseuraamusalan koulutuskeskuksesta](1448.md) `1448/2006`
+- [Valtioneuvoston asetus ajoneuvojen rekisteröinnistä annetun asetuksen 51 b §:n muuttamisesta](1449.md) `1449/2006`
+- [Laki autoverolain muuttamisesta](1450.md) `1450/2006`
+- [Valtioneuvoston asetus metsäveroasetuksen kumoamisesta](1451.md) `1451/2006`
+- [Valtioneuvoston asetus kansanterveyttä sekä eläinten ja kasvien terveyttä, taudeista ilmoittamista, eläinten hyvinvointia sekä eläinten tunnistusta ja rekisteröintiä koskevien täydentävien ehtojen valvonnasta](1452.md) `1452/2006`
+- [Laki yliopistolain muuttamisesta](1453.md) `1453/2006`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](1454.md) `1454/2006`
+- [Tasavallan presidentin asetus Kiinan kanssa kansainvälisen ilmakuljetusliiketoiminnan vastavuoroisesta vapauttamisesta eräistä veroista tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1455.md) `1455/2006`
+- [Tasavallan presidentin asetus Ariane\-kantoraketin tuotantovaihetta koskevan julistuksen jatkamista vuoteen 2008 koskevan päätösasiakirjan voimaansaattamisesta](1456.md) `1456/2006`
+- [Valtioneuvoston asetus työnantajan sosiaaliturvamaksusta annetun asetuksen 1 §:n muuttamisesta](1457.md) `1457/2006`
+- [Valtioneuvoston asetus pakolaisista ja eräistä muista maahanmuuttajista sekä turvapaikanhakijoiden vastaanoton järjestämisestä aiheutuvien kustannusten korvaamisesta annetun valtioneuvoston päätöksen muuttamisesta](1458.md) `1458/2006`
+- [Maa\- ja metsätalousministeriön asetus maatilatalouden rakennetuen ja vastaavan yritystoimintaan myönnettävän tuen kohdentamisesta vuonna 2006 annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1459.md) `1459/2006`
+- [Verohallituksen päätös pientyönantajan maksu\- ja ilmoituspalvelujärjestelmässä hoidettavista tehtävistä](1460.md) `1460/2006`

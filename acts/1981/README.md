@@ -1,0 +1,99 @@
+# 1981 Statutes
+
+## Statutes
+
+- [Laki merimieseläkelain muuttamisesta](1.md) `1/1981`
+- [Laki valtion eläkelain muuttamisesta](11.md) `11/1981`
+- [Laki valtion perhe\-eläkelain 7 ja 20 §:n muuttamisesta](12.md) `12/1981`
+- [Laki valtion perhe\-eläkelain voimaanpanolain 5 §:n muuttamisesta](13.md) `13/1981`
+- [Laki valtion eläkelain 7 §:n muuttamisesta Annettu Helsingissä 9 päivänä tammikuuta 1981](15.md) `15/1981`
+- [Asetus valtion eläkeasetuksen 4 §:n muuttamisesta](20.md) `20/1981`
+- [Laki yleisistä teistä annetun lain muuttamisesta\.](51.md) `51/1981`
+- [Asetus evankelis\-luterilaisen kirkon eläkeasetuksen muuttamisesta](68.md) `68/1981`
+- [Asetus taiteilijaprofessorin viroista ja valtion taitelija\-apurahoista annetun asetuksen 3 ja 4 §:n muuttamisesta](76.md) `76/1981`
+- [Asetus sairausvakuutusasetuksen 7 a §:n muuttamisesta](89.md) `89/1981`
+- [Asetus veronkantoasetuksen 13 §:n muuttamisesta](90.md) `90/1981`
+- [Jäätelöasetus](108.md) `108/1981`
+- [Asetus yleisistä teistä annetun asetuksen muuttamisesta](115.md) `115/1981`
+- [Asetus tavaramerkkiasetuksen muuttamisesta](133.md) `133/1981`
+- [Merimiesten palkkaturva\-asetus](137.md) `137/1981`
+- [Korkeimman hallinto\-oikeuden päätös korkeimman hallinto\-oikeuden työjärjestyksen muuttamisesta](183.md) `183/1981`
+- [Asetus verojen ja maksujen perimisestä ulosottotoimin annetun asetuksen muuttamisesta](188.md) `188/1981`
+- [Asetus jakoasetuksen muuttamisesta](200.md) `200/1981`
+- [Laki Suomen kalastusvyöhykkeestä annetun lain 1 §:n muuttamisesta](205.md) `205/1981`
+- [Asetus valtion virkamiesten vuosilomasta annetun asetuksen muuttamisesta](222.md) `222/1981`
+- [Valtioneuvoston päätös valtion työntekijäin vuosilomista annetun valtioneuvoston päätöksen muuttamisesta](227.md) `227/1981`
+- [Laki osakeyhtiölain 12 luvun 7 §:n muuttamisesta](248.md) `248/1981`
+- [Laki työntekijäin eläkelain muuttamisesta](257.md) `257/1981`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](258.md) `258/1981`
+- [Laki maatalousyrittäjien eläkelain 17 §:n muuttamisesta](259.md) `259/1981`
+- [Laki tapaturmavakuutuslain 13 §:n muuttamisesta](260.md) `260/1981`
+- [Tieliikennelaki](267.md) `267/1981`
+- [Veronhyvityslaki](341.md) `341/1981`
+- [Laki osuuskuntalain muuttamisesta](371.md) `371/1981`
+- [Laki kaupparekisterilain 10 §:n muuttamisesta](373.md) `373/1981`
+- [Laki ulkomailla toimivasta peruskoulua vastaavasta yksityiskoulusta](379.md) `379/1981`
+- [Laki sakkorangaistuksen täytäntöönpanosta annetun lain muuttamisesta](385.md) `385/1981`
+- [Laki rikoslain voimaanpanemisesta annetun asetuksen 22 §:n muuttamisesta](387.md) `387/1981`
+- [Laki verotuslain 121 ja 123 §:n muuttamisesta](434.md) `434/1981`
+- [Laki perintö ja lahjaverolain 70 §:n muuttamisesta](435.md) `435/1981`
+- [Laki valtionenemmistöisten osakeyhtiöiden toiminnan tarkastuksesta annetun lain 2 §:n muuttamisesta annetun lain soveltamissäännöksen muuttamisesta](437.md) `437/1981`
+- [Asetus sakkorangaistuksen täytäntöönpanosta annetun asetuksen muuttamisesta](444.md) `444/1981`
+- [Laki sairausvakuutuslain muuttamisesta](471.md) `471/1981`
+- [Laki työntekijäin eläkelain muuttamisesta](472.md) `472/1981`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 1 ja 4 §:n muuttamisesta](473.md) `473/1981`
+- [Laki merimieseläkelain muuttamisesta](476.md) `476/1981`
+- [Laki ennakkoperintälain muuttamisesta](482.md) `482/1981`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain 13 §:n muuttamisesta](485.md) `485/1981`
+- [Laki moottoriajoneuvoverosta annetun lain muuttamisesta](486.md) `486/1981`
+- [Asetus vapauttamisesta asevelvollisuuden suorittamisesta eräissä tapauksissa annetun asetuksen 5 §:n muuttamista](490.md) `490/1981`
+- [Laki saariston kehityksen edistämisestä](494.md) `494/1981`
+- [Laki sairausvakuutuslain 11 §:n muuttamisesta](495.md) `495/1981`
+- [Laki rakennuslain muuttamisesta](499.md) `499/1981`
+- [Laki tapaturmavakuutuslain muuttamisesta](526.md) `526/1981`
+- [Maa\-aineslaki](555.md) `555/1981`
+- [Laki rakennuslain muuttamisesta](556.md) `556/1981`
+- [Laki luonnonsuojelulain muuttamisesta](594.md) `594/1981`
+- [Asetus sairausvakuutusasetuksen muuttamisesta](630.md) `630/1981`
+- [Laki Puolan Kansantasavallan kanssa oikeussuojasta ja oikeusavusta siviili\-, perhe\- ja rikosasioissa tehdyn sopimuksen eräiden määräysten hyväksymisestä](685.md) `685/1981`
+- [Asetus sairausvakuutusasetuksen muuttamisesta](695.md) `695/1981`
+- [Asetus oikeudesta luovuttaa valtion maaomaisuutta ja tuloatuottavia oikeuksia annetun asetuksen 1 §:n muuttamisesta](701.md) `701/1981`
+- [Asetus kaivosasetuksen muuttamisesta](704.md) `704/1981`
+- [Laki Suomen Hallitusmuodon 23 §:n muuttamisesta](738.md) `738/1981`
+- [Laki veronkantolain muuttamisesta](740.md) `740/1981`
+- [Laki verotuslain 108 §:n muuttamisesta](741.md) `741/1981`
+- [Laki maatalousyrittäjien eläkelain 4 §:n muuttamisesta](747.md) `747/1981`
+- [Laki Suomen Pankin ohjesäännön 4 ja 30 §:n muuttamisesta](768.md) `768/1981`
+- [Laki opettajankoulutuslain muuttamisesta](783.md) `783/1981`
+- [Laki lapsen elatuksesta annetun lain 11 §:n muuttamisesta](793.md) `793/1981`
+- [Laki maatilatalouden tuloverolain 6 ja 10 §:n muuttamisesta](794.md) `794/1981`
+- [Laki valtion eläkelain 9 a §:n muuttamisesta](801.md) `801/1981`
+- [Laki valtion eläkelain muuttamisesta](808.md) `808/1981`
+- [Laki valtion eläkelain 8 ja 10 §:n muuttamisesta](809.md) `809/1981`
+- [Asetus raha\-automaattiasetuksen muuttamisesta](825.md) `825/1981`
+- [Laki kansanterveyslaitoksesta](828.md) `828/1981`
+- [Laki apteekkimaksusta annetun lain 2 §:n muuttamisesta](831.md) `831/1981`
+- [Laki sairausvakuutuslain 29 ja 30 e §:n muuttamisesta](833.md) `833/1981`
+- [Laki kaupparekisterilain 1 ja 31 §:n muuttamisesta](834.md) `834/1981`
+- [Asetus kaupparekisteriasetuksen muuttamisesta](835.md) `835/1981`
+- [Laki valtiontalouden tarkastuksesta annetun lain muuttamisesta](856.md) `856/1981`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](859.md) `859/1981`
+- [Asetus yksityisistä teistä annetun asetuksen 14 §:n muuttamisesta](870.md) `870/1981`
+- [Laki lasten päivähoidosta annetun lain muuttamisesta](875.md) `875/1981`
+- [Laki ennakkoperintälain muuttamisesta](895.md) `895/1981`
+- [Laki verotuslain 103 §:n muuttamisesta](896.md) `896/1981`
+- [Laki maatalousyrittäjien eläkelain 12 ja 13 §:n muuttamisesta](913.md) `913/1981`
+- [Laki rakennuslain muuttamisesta](922.md) `922/1981`
+- [Laki haja\-asutusalueiden vähittäiskaupan rahoitustuesta annetun lain muuttamisesta](935.md) `935/1981`
+- [Laki yksityisluontoisten arkistojen valtionavusta annetun lain muuttamisesta](953.md) `953/1981`
+- [Asetus yksityisluontoisten arkistojen valtionavusta annetun asetuksen muuttamisesta](956.md) `956/1981`
+- [Laki korkeimmasta oikeudesta annetun lain 7 a §:n muuttamisesta](971.md) `971/1981`
+- [Laki pysäköintivirhemaksusta annetun lain muuttamisesta](972.md) `972/1981`
+- [Laki rikosvahinkojen korvaamisesta valtion varoista annetun lain muuttamisesta](973.md) `973/1981`
+- [Laki sakkorangaistuksen täytäntöönpanosta annetun lain 3 §:n muuttamisesta](974.md) `974/1981`
+- [Laki yleisestä oikeusaputoiminnasta annetun lain muuttamisesta](976.md) `976/1981`
+- [Laki leimaverolain muuttamisesta](1007.md) `1007/1981`
+- [Laki tapaturmavakuutuslain 2 ja 28 §:n muuttamisesta](1027.md) `1027/1981`
+- [Asetus ennakkoperintäasetuksen muuttamisesta](1049.md) `1049/1981`
+- [Asetus työnantajan sosiaaliturvamaksusta annetun asetuksen muuttamisesta](1050.md) `1050/1981`
+- [Asetus rakennusasetuksen muuttamisesta](1059.md) `1059/1981`

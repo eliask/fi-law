@@ -1,0 +1,179 @@
+# 1982 Statutes
+
+## Statutes
+
+- [Laki satovahinkojen korvaamisesta annetun lain 3 §:n muuttamisesta](3.md) `3/1982`
+- [Laki valtion eläkelain 5 §:n muuttamisesta](16.md) `16/1982`
+- [Laki sairausvakuutuslain 15 §:n muuttamisesta](19.md) `19/1982`
+- [Laki rintamasotilaseläkelain muuttamisesta](20.md) `20/1982`
+- [Laki valtion eläkelain muuttamisesta](31.md) `31/1982`
+- [Asetus ulosottoasetuksen muuttamisesta](45.md) `45/1982`
+- [Asetus taiteilijaprofessorin viroista ja valtion taitelija\-apurahoista annetun asetuksen muuttamisesta](47.md) `47/1982`
+- [Laki ylikuormamaksusta](51.md) `51/1982`
+- [Ilmansuojelulaki](67.md) `67/1982`
+- [Laki vesilain 1 luvun 19 §:n muuttamisesta](69.md) `69/1982`
+- [Laki eräistä naapuruussuhteista annetun lain 19 §:n muuttamisesta](70.md) `70/1982`
+- [Asetus palkkaturva\-asetuksen 1 §:n muuttamisesta](77.md) `77/1982`
+- [Asetus rakennusasetuksen muuttamisesta](87.md) `87/1982`
+- [Asetus kaavoitusalueiden jakoasetuksen 93 ja 102 §:n kumoamisesta](88.md) `88/1982`
+- [Maa \-ainesasetus](91.md) `91/1982`
+- [Asetus rakennusasetuksen muuttamisesta](92.md) `92/1982`
+- [Laki kansaneläkelain muuttamisesta](103.md) `103/1982`
+- [Laki perheeläkelain muuttamisesta](105.md) `105/1982`
+- [Laki rintamasotilaseläkelain muuttamisesta](106.md) `106/1982`
+- [Laki työntekijäin eläkelain 8 §:n muuttamisesta](109.md) `109/1982`
+- [Laki eläkkeensaajien asumistakilain muuttamisesta](112.md) `112/1982`
+- [Tieliikenneasetus](182.md) `182/1982`
+- [Asetus keskinäisestä oikeusavusta annettaessa tiedoksi asiakirjoja yksityisoikeudellisissa asioissa](211.md) `211/1982`
+- [Asetus rintamaveteraanien varhaiseläkkeestä](214.md) `214/1982`
+- [Laki leimaverolain 10 ja 12 §:n muuttamisesta](221.md) `221/1982`
+- [Asetus jakoasetuksen 143 §:n muuttamisesta](230.md) `230/1982`
+- [Asetus kaavoitusalueiden jakoasetuksen 65 §:n muuttamisesta](231.md) `231/1982`
+- [Asetus ylikuormamaksusta](240.md) `240/1982`
+- [Laki työajasta kotimaanliikenteen aluksissa](248.md) `248/1982`
+- [Laki liikennevakuutuslain 9 §:n muuttamisesta](255.md) `255/1982`
+- [Asetus vakuutusoikeudesta](264.md) `264/1982`
+- [Laki yleisestä kalastusoikeudesta](285.md) `285/1982`
+- [Kalastuslaki](286.md) `286/1982`
+- [Laki vesilain 2 luvun muuttamisesta](287.md) `287/1982`
+- [Laki oikeudesta luovuttaa valtion maaomaisuutta ja tuloatuottavia oikeuksia annetun lain 13 §:n muuttamisesta](289.md) `289/1982`
+- [Laki kehitysalueiden veronhuojennuksista](290.md) `290/1982`
+- [Laki leimaverolain muuttamisesta](291.md) `291/1982`
+- [Laki elinkeinotulon verottamisesta annetun lain 8 §:n muuttamisesta](302.md) `302/1982`
+- [Laki maatilatalouden tuloverolain 6 §:n muuttamisesta](303.md) `303/1982`
+- [Laki kansaneläkelain 3 ja 59 §:n muuttamisesta](307.md) `307/1982`
+- [Valtioneuvoston päätös saaristokuljetusten tukemisesta](311.md) `311/1982`
+- [Laki verotuslain muuttamisesta](313.md) `313/1982`
+- [Laki verotuslain 68 a §:n muuttamisesta](314.md) `314/1982`
+- [Valtioneuvoston päätös hirvieläinvahinkojen korvaamisesta](319.md) `319/1982`
+- [Laki öljysuojarahastosta annetun lain 2 §:n muuttamisesta](335.md) `335/1982`
+- [Laki kansainvälisten sopimusten julkaisemisesta](360.md) `360/1982`
+- [Asetus kansainvälisten sopimusten julkaisemisesta](361.md) `361/1982`
+- [Asetus merimiehen lääkärintarkastuksista annetun asetuksen 5 §:n muuttamisesta](373.md) `373/1982`
+- [Maatalousyrittäjien tapaturmavakuutusasetus](375.md) `375/1982`
+- [Laki yleisistä teistä annetun lain muuttamisesta](382.md) `382/1982`
+- [Laki kuluttajansuojalain 6 luvun muuttamisesta](390.md) `390/1982`
+- [Laki kuluttaja\-asiamiehestä annetun lain muuttamisesta](391.md) `391/1982`
+- [Laki markkinatuomioistuimesta annetun lain muuttamisesta](392.md) `392/1982`
+- [Laki kuluttajavalituslautakunnasta annetun lain 7 §:n muuttamisesta](393.md) `393/1982`
+- [Laki verotuslain muuttamisesta](399.md) `399/1982`
+- [Laki osuuskuntalain 27 §:n muuttamisesta](410.md) `410/1982`
+- [Laki säätiölain 6 ja 7 §:n muuttamisesta](411.md) `411/1982`
+- [Laki kaupparekisterilain 10 §:n muuttamisesta](413.md) `413/1982`
+- [Laki valtion eläkelain muuttamisesta](414.md) `414/1982`
+- [Asetus rintamaveteraanien varhaiseläkkeestä annetun asetuksen 1 1 §:n muuttamisesta](426.md) `426/1982`
+- [Asetus rintamasotilaseläkeasetuksen muuttamisesta](427.md) `427/1982`
+- [Laki taideteollisesta korkeakoulusta annetun lain muuttamisesta](441.md) `441/1982`
+- [Laki leimaverolain 51 b §:n muuttamisesta](472.md) `472/1982`
+- [Laki kirjanpitolain 1 §:n muuttamisesta](473.md) `473/1982`
+- [Asetus vapauttamisesta asevelvollisuuden suorittamisesta eräissä tapauksissa annetun asetuksen 2 §:n muuttamisesta](475.md) `475/1982`
+- [Laki rakennuslain 136 §:n muuttamisesta](491.md) `491/1982`
+- [Asetus rakennusasetuksen muuttamisesta](492.md) `492/1982`
+- [Laki yksityisistä teistä annetun lain muuttamisesta](498.md) `498/1982`
+- [Laki kuntajaosta annetun lain 36 ja 37 §:n kumoamisesta](528.md) `528/1982`
+- [Laki ennakkoperintälain muuttamisesta](529.md) `529/1982`
+- [Laki verotuslain 78 ja 79 §:n muuttamisesta](531.md) `531/1982`
+- [Laki investointivarauslain 21 §:n muuttamisesta](536.md) `536/1982`
+- [Laki joukkoliikenteen tarkastusmaksusta annetun lain muuttamisesta](540.md) `540/1982`
+- [Laki liikennevakuutuslain 10 §:n muuttamisesta](561.md) `561/1982`
+- [Laki kansaneläkelain muuttamisesta](572.md) `572/1982`
+- [Laki eläkkeensaajien asumistukilain 6 §:n muuttamisesta](574.md) `574/1982`
+- [Laki rintamasotilaseläkelain 8 §:n muuttamisesta](575.md) `575/1982`
+- [Laki Yhdistyneiden Kansakuntien kanssa Yhdistyneiden Kansakuntien yhteydessä toimivan Helsingin kriminaalipoliittisen instituutin perustamisesta tehdyn sopimuksen eräiden määräysten hyväksymisestä sekä sopimuksen soveltamisesta](582.md) `582/1982`
+- [Asetus Yhdistyneiden Kansakuntien kanssa Yhdistyneiden Kansakuntien yhteydessä toimivan Helsingin kriminaalipoliittisen instituutin perustamisesta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä sekä sopimuksen soveltamisesta annetun lain voimaantulosta](583.md) `583/1982`
+- [Laki lääninoikeuslain 9 ja 15 §:n väliaikaisesta muuttamisesta](588.md) `588/1982`
+- [Asetus ennakkoperintäasetuksen muuttamisesta](592.md) `592/1982`
+- [Hallintomenettelylaki](598.md) `598/1982`
+- [Laki kielilain 3 §:n muuttamisesta](599.md) `599/1982`
+- [Laki yleisten asiakirjain julkisuudesta annetun lain muuttamisesta](601.md) `601/1982`
+- [Laki verotuslain 96 a ja 96 b §:n muuttamisesta](602.md) `602/1982`
+- [Laki julkisesta notaarista annetun lain 1 §:n muuttamisesta](604.md) `604/1982`
+- [Laki vesilain 12 luvun 19 §:n muuttamisesta](605.md) `605/1982`
+- [Laki vesilain 2 luvun 26 §:n muuttamisesta](606.md) `606/1982`
+- [Laki verotuslain muuttamisesta](608.md) `608/1982`
+- [Laki ennakkoperintälain muuttamisesta](610.md) `610/1982`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain 14 §:n muuttamisesta](611.md) `611/1982`
+- [Laki perintö\- ja lahjaverolain 62 ja 63 §:n muuttamisesta](612.md) `612/1982`
+- [Laki mootoriajoveuvosta annetun lain muuttamisesta](616.md) `616/1982`
+- [Laki leimaverolain 99 §:n muuttamisesta](617.md) `617/1982`
+- [Laki meripelastuspalvelusta](628.md) `628/1982`
+- [Asetus Yhdistyneiden Kansakuntien yhteydessä toimivasta Helsingin kriminaalipoliittisesta instituutista](630.md) `630/1982`
+- [Korkolaki](633.md) `633/1982`
+- [Laki kauppakaaren 9 luvun 12 §:n muuttamisesta](634.md) `634/1982`
+- [Laki velkakirjalain 6 §:n muuttamisesta](635.md) `635/1982`
+- [Laki perintökaaren muuttamisesta](637.md) `637/1982`
+- [Laki etuostolain 1 ja 9 §:n muuttamisesta](638.md) `638/1982`
+- [Laki oman asunnon hankintaan myönnettävien lainojen korkotuesta](639.md) `639/1982`
+- [Laki ampuma\-aseista ja ampumatarpeista annetun lain muuttamisesta](655.md) `655/1982`
+- [Asetus ampuma\-aseiden ja \-tarvikkeiden tarkastuksesta](656.md) `656/1982`
+- [Asetus työterveyslaitoksen toiminnasta ja rahoituksesta annetun asetuksen 10 §:n muuttamisesta](657.md) `657/1982`
+- [Asetus meripelastuspalvelusta](661.md) `661/1982`
+- [Asetus Reservin Aliupseerien Liiton ansiorististä](665.md) `665/1982`
+- [Asetus oman asunnon hankintaan myönnettävien lainojen korkotuesta](672.md) `672/1982`
+- [Laki kansanterveyslain muuttamisesta](684.md) `684/1982`
+- [Laki lasten päivähoidosta annetun lain muuttamisesta](698.md) `698/1982`
+- [Laki kehitysvammaisten erityishuollosta annetun lain muuttamisesta](702.md) `702/1982`
+- [Laki lapsen elatuksen turvaamisesta annetun lain muuttamisesta](707.md) `707/1982`
+- [Sosiaalihuoltolaki](710.md) `710/1982`
+- [Asetus valtion varoista maksettavista todistelukustannuksista annetun asetuksen 6 ja 7 §:n muuttamisesta](714.md) `714/1982`
+- [Asetus korvauksen suorittamisesta toisesta pohjoismaasta Suomen tuomioistuimeen kutsutulle henkilölle annetun asetuksen muuttamisesta](715.md) `715/1982`
+- [Ilmansuojeluasetus](716.md) `716/1982`
+- [Asetus kansaneläkeasetuksen muuttamisesta](743.md) `743/1982`
+- [Asetus luopumiseläkeasetuksen 18 §:n muuttamisesta](760.md) `760/1982`
+- [Asetus liikennevakuutusasetuksen 1 §:n muuttamisesta](762.md) `762/1982`
+- [Laki Suomen Pankin ohjesäännön 11 §:n muuttamisesta](771.md) `771/1982`
+- [Laki ennakkoperintälain 42 §:n muuttamisesta](808.md) `808/1982`
+- [Asetus ennakkoperintäasetuksen 1 §:n muuttamisesta](811.md) `811/1982`
+- [Asetus ulosottoasetuksen 5 ja 6 §:n muuttmisesta](825.md) `825/1982`
+- [Asetus verojen ja maksujen perimisestä ulosottotoimin annetun asetuksen muuttamisesta](826.md) `826/1982`
+- [Asetus jakoasetuksen muuttamisesta](867.md) `867/1982`
+- [Asetus lääkärintoimen harjoittamisesta](868.md) `868/1982`
+- [Asetus hammaslääkärintoimen harjoittamisesta](869.md) `869/1982`
+- [Laki moottoriajoneuvoverosta annetun lain muuttamisesta](872.md) `872/1982`
+- [Laki leimaverolain muuttamisesta](874.md) `874/1982`
+- [Laki verotuslain 136 §:n muuttamisesta](876.md) `876/1982`
+- [Valtioneuvoston päätös valtionavustuksia koskevien yleismääräysten muuttamisesta](878.md) `878/1982`
+- [Laki haja\-asutusalueiden vähittäiskaupan rahoitustuesta annetun lain 3 §:n muuttamisesta](883.md) `883/1982`
+- [Asetus kansaneläkeasetuksen muuttamisesta](885.md) `885/1982`
+- [Asetus eläkkeensaajien asumistukiasetuksen muuttamisesta](887.md) `887/1982`
+- [Asetus perhe\-eläkeasetuksen muuttamisesta](888.md) `888/1982`
+- [Asetus rintamasotilaseläkeasetuksen muuttamisesta](889.md) `889/1982`
+- [Laki konkursisäänön välikaikaisesta muuttamisesta annetun lain voimassaoloajasta](893.md) `893/1982`
+- [Asetus kaupparekisteriasetuksen 13 §:n muuttamisesta](899.md) `899/1982`
+- [Laki valtion eläkelain 9 a §:n muuttamisesta](926.md) `926/1982`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](927.md) `927/1982`
+- [Asetus toimenpiteistä tupakoinnin vähentämiseksi annetun asetuksen 1 §:n muuttamisesta](938.md) `938/1982`
+- [Laki ennakkoperintälain muuttamisesta](946.md) `946/1982`
+- [Laki varallisuusoikeudellisista oikeustoimista annetun lain muuttamisesta](956.md) `956/1982`
+- [Laki velkairjalain 8 §:n muuttamisesta](957.md) `957/1982`
+- [Laki osamaksukaupasta annetun lain 7 §:n muuttamisesta](958.md) `958/1982`
+- [Laki tekijänoikeudesta kirjallisiin ja taiteellisiin teoksiin annetun lain 29 §:n muuttamisesta](960.md) `960/1982`
+- [Laki oikeudesta työntekijän tekemiin keksintöihin annetun lain 9 §:n muuttamisesta](961.md) `961/1982`
+- [Laki avioliittolain 115 §:n muuttamisesta](963.md) `963/1982`
+- [Laki lapsen elatuksesta annetun lain 11 §:n muuttamisesta](964.md) `964/1982`
+- [Turvavarastolaki](970.md) `970/1982`
+- [Laki ortodoksisesta kirkkokunnasta annetun lain 30 ja 31 §:n muuttamisesta](971.md) `971/1982`
+- [Asetus ortodoksisesta kirkkokunnasta annetun asetuksen muuttamisesta](972.md) `972/1982`
+- [Asetus jäätelöasetuksen 16\-18 §:n muuttamisesta](979.md) `979/1982`
+- [Laki työntekijäin eläkelain 5 a §:n muuttamisesta](981.md) `981/1982`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 5 §:n muuttamisesta](982.md) `982/1982`
+- [Laki maatalousyrittäjien eläkelain 22 §:n muuttamisesta](983.md) `983/1982`
+- [Laki yrittäjien eläkelain 19 §:n muuttamisesta](984.md) `984/1982`
+- [Asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkeasetuksen 5 §:n muuttamisesta](985.md) `985/1982`
+- [Laki työtuomioistuimesta annetun lain muuttamisesta](1007.md) `1007/1982`
+- [Laki valtion eläkelain muuttamisesta](1026.md) `1026/1982`
+- [Laki maatilatalouden tuloverolain väliaikaisesta muuttamisesta](1035.md) `1035/1982`
+- [Laki kasvinjalostustoiminnan edistämisestä annetun lain 2 §:n muuttamisesta](1038.md) `1038/1982`
+- [Asetus Suomen säädöskokoelmasta annetun asetuksen muuttamisesta](1043.md) `1043/1982`
+- [Laki työntekijäin eläkelain 11 §:n muuttamisesta](1059.md) `1059/1982`
+- [Laki palkkaturvalain 5 ja 16 §:n muuttamisesta](1065.md) `1065/1982`
+- [Laki merimiesten palkkaturvalain 5 ja 16 §:n muuttamisesta](1066.md) `1066/1982`
+- [Laki rintamasotilaseläkelain muuttamisesta](1084.md) `1084/1982`
+- [Laki eläkkeensaajien asumistukilain muuttamisesta](1086.md) `1086/1982`
+- [Laki sairausvakuutuslain muuttamisesta](1089.md) `1089/1982`
+- [Maatalouden investointivarauslaki](1103.md) `1103/1982`
+- [Asetus ennakkoperintäasetuksen muuttamisesta](1105.md) `1105/1982`
+- [Laki  Teollisen Kehitysyhteistyön Rahasto Oy \- Fonden för Industriellt Utvecklingssamarbete Ab \-nimisestä osakeyhtiöstä annetun lain 3 §:n muuttamisesta](1109.md) `1109/1982`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain muuttamisesta](1110.md) `1110/1982`
+- [Laki valaiden suojelusta](1112.md) `1112/1982`
+- [Kalastusasetus](1116.md) `1116/1982`

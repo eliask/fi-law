@@ -1,0 +1,1575 @@
+# 2001 Statutes
+
+## Statutes
+
+- [Laki alkoholilain 3 ja 8 §:n muuttamisesta](1.md) `1/2001`
+- [Laki Länsi\-Euroopan puolustusmateriaaliryhmän kanssa tehdyn eurooppalaista tutkimus\- ja teknologiayhteistyöjärjestelmää koskevan puitesopimuksen sekä siihen liittyvän liitekirjeen nojalla sovellettavan Länsi\-Euroopan unionin sekä sen kansallisten edustajien ja kansainvälisen henkilöstön asemasta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](2.md) `2/2001`
+- [Maa\- ja metsätalousministeriön asetus maatilatalouden rakennetuen ja vastaavan yritystoimintaan myönnettävän tuen kohdentamisesta annetun maa\- ja metsätalousministeriön asetuksen soveltamisajan jatkamisesta](3.md) `3/2001`
+- [Valtioneuvoston asetus koulutustoimikunnista ja koulutuksen yhteistyöneuvottelukunnasta annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](4.md) `4/2001`
+- [Maa\- ja metsätalousministeriön asetus nautojen ja sikojen maastaviennissä Suomesta Norjaan noudatettavista terveysvaatimuksista annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen kumoamisesta](5.md) `5/2001`
+- [Maa\- ja metsätalousministeriön asetus eläinjätteen käsittelystä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](6.md) `6/2001`
+- [Maa\- ja metsätalousministeriön asetus eläinproteiinin tuonnista, viennistä ja käytöstä eläinten ruokinnassa annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](7.md) `7/2001`
+- [Maa\- ja metsätalousministeriön asetus maaseudun kehittämishankkeisiin myönnettävän tuen kohdentamisesta vuonna 2000 annetun maa\- ja metsätalousministeriön asetuksen soveltamisajan jatkamisesta](8.md) `8/2001`
+- [Sosiaali\- ja terveysministeriön asetus lääkäri\- ja hammaslääkärikoulutuksen sekä yliopistotasoisen terveystieteellisen tutkimustoiminnan korvauksen perusteista vuonna 2001 annetun sosiaali\- ja terveysministeriön asetuksen 6 §:n muuttamisesta](9.md) `9/2001`
+- [Ulkoasiainministeriön ilmoitus ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](10.md) `10/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](11.md) `11/2001`
+- [Maa\- ja metsätalousministeriön asetus kasvihuonetuotannon tuesta vuonna 2001](12.md) `12/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta hyväksytyistä kasvinsuojeluaineiden tehoaineista annetun maa\- ja metsätalousministeriön päätöksen liitteen muuttamisesta](13.md) `13/2001`
+- [Tasavallan presidentin asetus Tanskan, Suomen, Norjan ja Ruotsin välillä tehdyn puolustusmateriaalialan yhteistyötä koskevan puitesopimuksen voimaansaattamisesta](14.md) `14/2001`
+- [Valtioneuvoston asetus raha\-arpa\- ja veikkauspelien ylijäämän käyttämisestä annetun asetuksen 2 §:n väliaikaisesta muuttamisesta](15.md) `15/2001`
+- [Kauppa\- ja teollisuusministeriön asetus kauppa\- ja teollisuusministeriön sekä TE\-keskusten maksullisten kehittämispalveluiden hinnoittelusta](16.md) `16/2001`
+- [Maa\- ja metsätalousministeriön asetus kolmansista maista tuotavasta lihasta ja lihatuotteista](17.md) `17/2001`
+- [Valtiovarainministeriön asetus verovuonna 2001 sovellettavista veronsaajaryhmien yhteisöveron jako\-osuuksista](18.md) `18/2001`
+- [Laki rangaistusten täytäntöönpanosta annetun lain 1 ja 2 luvun muuttamisesta](19.md) `19/2001`
+- [Laki tutkintavankeudesta annetun lain 5 §:n muuttamisesta](20.md) `20/2001`
+- [Laki poliisilain muuttamisesta](21.md) `21/2001`
+- [Laki pakkokeinolain 5 a luvun 3 §:n ja 6 luvun muuttamisesta](22.md) `22/2001`
+- [Laki tieliikennelain muuttamisesta](23.md) `23/2001`
+- [Laki tie\- ja maastoliikenneonnettomuuksien tutkinnasta](24.md) `24/2001`
+- [Tasavallan presidentin asetus julkisesta velvoitteesta lentoliikenteelle Maarianhaminan ja Tukholman alueen välillä](25.md) `25/2001`
+- [Tasavallan presidentin asetus Liikenneturvasta annetun asetuksen 22 §:n muuttamisesta](26.md) `26/2001`
+- [Tasavallan presidentin asetus liikenneturvallisuusalan ansiomitalista annetun asetuksen 6 §:n kumoamisesta](27.md) `27/2001`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön kokonaan rahoittamista eläinpalkkioista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](28.md) `28/2001`
+- [Maa\- ja metsätalousministeriön asetus maaseudun kehittämistoimenpiteitä tuettaessa noudatettavasta menettelystä annetun asetuksen muuttamisesta](29.md) `29/2001`
+- [Valtiovarainministeriön asetus Lahden MM\-hiihtojen juhlarahasta](30.md) `30/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kestävän metsätalouden rahoituksesta annetun lain nojalla tehtävän suunnittelun ja puuntuotannon kestävyyden turvaamiseksi tehtävien töiden rahoituksesta](31.md) `31/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta rehuaineista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](32.md) `32/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta karjun spermalle asetettavista terveysvaatimuksista annetun yleiskirjeen muuttamisesta](33.md) `33/2001`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä](34.md) `34/2001`
+- [Tasavallan presidentin asetus Yhdistyneiden Kansakuntien ja sen yhteydessä toimivan henkilöstön turvallisuutta koskevan yleissopimuksen voimaansaattamisesta ja yleissopimuksen eräiden määräysten voimaansaattamisesta annetun lain voimaantulosta](35.md) `35/2001`
+- [Valtioneuvoston asetus vankeinhoitoasetuksen 7 d §:n muuttamisesta](36.md) `36/2001`
+- [Valtioneuvoston asetus tutkintavankeudesta annetun asetuksen 7 §:n muuttamisesta](37.md) `37/2001`
+- [Valtioneuvoston asetus maatalouden ympäristötukeen varatun määrärahan käyttämisestä vuonna 2001](38.md) `38/2001`
+- [Valtioneuvoston asetus vuonna 2001 kertyvien työnantajan sosiaaliturvamaksujen jakautumasta](39.md) `39/2001`
+- [Valtioneuvoston asetus apteekkimaksusta annetun lain 2 §:n 1 momentissa mainittujen liikevaihtoryhmien sekä liikevaihdon alarajojen kohdilla olevien apteekkimaksun markkamäärien tarkistamisesta](40.md) `40/2001`
+- [Valtioneuvoston asetus sotilasvammalain eräiden säännösten soveltamisesta annetun asetuksen 4 ja 5 §:n muuttamisesta](41.md) `41/2001`
+- [Sosiaali\- ja terveysministeriön asetus lasten ja nuorten psykiatrian palveluihin maksettavan valtionavustuksen myöntämisperusteista](42.md) `42/2001`
+- [Sosiaali\- ja terveysministeriön asetus sotainvalidien puolisoiden, leskien ja sotaleskien kuntoutustoiminnasta](43.md) `43/2001`
+- [Sosiaali\- ja terveysministeriön asetus eräille ulkomaalaisille vapaaehtoisille rintamasotilaille maksettavasta rintama\-avustuksesta](44.md) `44/2001`
+- [Maa\- ja metsätalousministeriön asetus menekinedistämiseen tarkoitetusta tuesta vuonna 2001](45.md) `45/2001`
+- [Tasavallan presidentin asetus Länsi\-Euroopan puolustusmateriaaliryhmän kanssa tehdyn eurooppalaista tutkimus\- ja teknologiayhteistyöjärjestelmää koskevan puitesopimuksen sekä siihen liittyvän liitekirjeen nojalla sovellettavan Länsi\-Euroopan unionin sekä sen kansallisten edustajien ja kansainvälisen henkilöstön asemasta tehdyn sopimuksen voimaansaattamisesta sekä sopimusten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](46.md) `46/2001`
+- [Valtioneuvoston asetus ortodoksisesta kirkkokunnasta annetun asetuksen muuttamisesta](47.md) `47/2001`
+- [Valtioneuvoston asetus tieliikenneasetuksen 47 ja 52 §:n muuttamisesta](48.md) `48/2001`
+- [Opetusministeriön asetus eräiden oppilailta ja opiskelijoilta perittävien maksujen perusteista annetun opetusministeriön päätöksen 5 §:n muuttamisesta](49.md) `49/2001`
+- [Maa\- ja metsätalousministeriön asetus metsäkeskusten ja Metsätalouden kehittämiskeskus Tapion suoritteiden maksullisuudesta](50.md) `50/2001`
+- [Liikenne\- ja viestintäministeriön asetus Tiehallinnon maksuista](51.md) `51/2001`
+- [Valtiovarainministeriön asetus liikeosakkeen verotusarvon perusteista](52.md) `52/2001`
+- [Valtioneuvoston asetus asuntojen korjausavustusten jakoperusteista annetun valtioneuvoston päätöksen muuttamisesta](53.md) `53/2001`
+- [Valtiovarainministeriön työjärjestys](54.md) `54/2001`
+- [Työsopimuslaki](55.md) `55/2001`
+- [Laki työehtosopimuksen yleissitovuuden vahvistamisesta](56.md) `56/2001`
+- [Laki nuorista työntekijöistä annetun lain 3 §:n muuttamisesta](57.md) `57/2001`
+- [Laki työehtosopimuslain 2 §:n muuttamisesta](58.md) `58/2001`
+- [Laki työtuomioistuimesta annetun lain muuttamisesta](59.md) `59/2001`
+- [Laki tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista annetun lain 6 §:n muuttamisesta](60.md) `60/2001`
+- [Laki työttömyysturvalain muuttamisesta](61.md) `61/2001`
+- [Laki työmarkkinatuesta annetun lain muuttamisesta](62.md) `62/2001`
+- [Laki sairausvakuutuslain 23 g §:n muuttamisesta](63.md) `63/2001`
+- [Laki työaikalain muuttamisesta](64.md) `64/2001`
+- [Laki vuosilomalain muuttamisesta](65.md) `65/2001`
+- [Laki opintovapaalain muuttamisesta](66.md) `66/2001`
+- [Laki yhteistoiminnasta yrityksissä annetun lain 3 ja 11 e §:n muuttamisesta](67.md) `67/2001`
+- [Laki henkilöstön edustuksesta yritysten hallinnossa annetun lain 11 §:n muuttamisesta](68.md) `68/2001`
+- [Laki työsuojelun valvonnasta ja muutoksenhausta työsuojeluasioissa annetun lain 10 ja 11 §:n muuttamisesta](69.md) `69/2001`
+- [Laki työneuvostosta ja työsuojelun poikkeusluvista annetun lain 10 e §:n muuttamisesta](70.md) `70/2001`
+- [Laki naisten ja miesten välisestä tasa\-arvosta annetun lain 10 §:n muuttamisesta](71.md) `71/2001`
+- [Laki rikoslain 47 luvun 4 ja 5 §:n muuttamisesta](72.md) `72/2001`
+- [Laki kotitaloustyöntekijän työsuhteesta annetun lain muuttamisesta](73.md) `73/2001`
+- [Laki lähetetyistä työntekijöistä annetun lain muuttamisesta](74.md) `74/2001`
+- [Laki henkilöstörahastolain 27 §:n muuttamisesta](75.md) `75/2001`
+- [Laki ammatillisesta koulutuksesta annetun lain 18 §:n muuttamisesta](76.md) `76/2001`
+- [Laki vuorotteluvapaakokeilusta annetun lain 2 §:n muuttamisesta](77.md) `77/2001`
+- [Laki palkkaturvalain 4 ja 9 §:n muuttamisesta](78.md) `78/2001`
+- [Laki työntekijäin eläkelain 7 c §:n muuttamisesta](79.md) `79/2001`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 13 b §:n muuttamisesta](80.md) `80/2001`
+- [Laki taiteilijoiden ja eräiden erityisryhmiin kuuluvien työntekijäin eläkelain 11 a §:n muuttamisesta](81.md) `81/2001`
+- [Laki maatalousyrittäjien eläkelain 20 a §:n muuttamisesta](82.md) `82/2001`
+- [Laki merimieseläkelain 50 §:n muuttamisesta](83.md) `83/2001`
+- [Laki valtion eläkelain 7 b §:n muuttamisesta](84.md) `84/2001`
+- [Laki tapaturmavakuutuslain 16 a §:n muuttamisesta](85.md) `85/2001`
+- [Laki perhehoitajalain 1 §:n muuttamisesta](86.md) `86/2001`
+- [Laki asuinhuoneiston vuokrauksesta annetun lain 92 §:n muuttamisesta](87.md) `87/2001`
+- [Laki Etelä\-Afrikan tasavallan kanssa tehdyn sijoitusten edistämistä ja vastavuoroista suojaamista koskevan sopimuksen eräiden määräysten hyväksymisestä](88.md) `88/2001`
+- [Tasavallan presidentin asetus Etelä\-Afrikan tasavallan kanssa tehdyn sijoitusten edistämistä ja vastavuoroista suojaamista koskevan sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](89.md) `89/2001`
+- [Valtioneuvoston asetus ulkoasiainhallinnosta annetun valtioneuvoston asetuksen muuttamisesta](90.md) `90/2001`
+- [Valtioneuvoston asetus maatalousyrittäjien luopumistuesta annetun asetuksen 30 ja 31 §:n muuttamisesta](91.md) `91/2001`
+- [Valtioneuvoston asetus luopumiseläkeasetuksen 18 §:n muuttamisesta](92.md) `92/2001`
+- [Valtioneuvoston asetus maatalousyrittäjien luopumiskorvauksesta annetun asetuksen 21 ja 22 §:n muuttamisesta](93.md) `93/2001`
+- [Valtioneuvoston asetus Elintarvikeneuvottelukunnasta](94.md) `94/2001`
+- [Maa\- ja metsätalousministeriön asetus satovahinkojen korvaamisessa käytettävistä yksikköhinnoista ja normisadoista vuonna 2000](95.md) `95/2001`
+- [Valtiovarainministeriön asetus JHTT\-tutkintoon vaadittavasta käytännön kokemuksesta annetun valtiovarainministeriön päätöksen muuttamisesta](96.md) `96/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön asetuksista](97.md) `97/2001`
+- [Valtioneuvoston asetus äitiysavustuksen suuruuden vahvistamisesta](98.md) `98/2001`
+- [Sosiaali\- ja terveysministeriön asetus potilasasiakirjojen laatimisesta sekä niiden ja muun hoitoon liittyvän materiaalin säilyttämisestä](99.md) `99/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta maantiekuljetuksiin käytettävien kuljetusajoneuvojen desinfioinnista eläintautien leviämisen estämiseksi](100.md) `100/2001`
+- [Laki ihmisen elimien ja kudoksien lääketieteellisestä käytöstä](101.md) `101/2001`
+- [Valtioneuvoston asetus eläimistä saatavien elintarvikkeiden elintarvikehygieniasta annetun asetuksen muuttamisesta](102.md) `102/2001`
+- [Liikenne\- ja viestintäministeriön asetus ajokorttiasetuksen soveltamisesta annetun liikenneministeriön päätöksen muuttamisesta](103.md) `103/2001`
+- [Liikenne\- ja viestintäministeriön asetus Euroopan yhteisöjen lainsäädännössä tarkoitetuista teleyritysten palvelutasosta annetun liikenneministeriön päätöksen muuttamisesta](104.md) `104/2001`
+- [Työministeriön asetus siviilipalvelusmiehen vapaiden lomamatkojen lukumääristä ja vapaan matkan sijasta maksettavista matkakorvauksista](105.md) `105/2001`
+- [Tasavallan presidentin asetus Koillis\-Atlantin merellisen ympäristön suojelusta tehdyn yleissopimuksen V liitteen ja 3 lisäyksen voimaansaattamisesta](106.md) `106/2001`
+- [Tasavallan presidentin asetus työtilastoja koskevan yleissopimuksen voimaansaattamisesta annetun asetuksen muuttamisesta](107.md) `107/2001`
+- [Valtioneuvoston asetus porotalouden ja luontaiselinkeinojen rahoituslain voimaantulosta](108.md) `108/2001`
+- [Valtioneuvoston asetus ajoneuvojen rekisteröinnistä annetun asetuksen 51 §:n muuttamisesta](109.md) `109/2001`
+- [Valtioneuvoston asetus ajokorttiasetuksen 9 §:n muuttamisesta](110.md) `110/2001`
+- [Valtioneuvoston asetus Merentutkimuslaitoksesta](111.md) `111/2001`
+- [Valtioneuvoston asetus toimeentulotuesta annetun asetuksen 1 ja 2 §:n muuttamisesta](112.md) `112/2001`
+- [Valtioneuvoston asetus PCB:n ja PCB\-laitteistojen käytöstä poistamisesta sekä PCB\-jätteen käsittelystä annetun valtioneuvoston päätöksen muuttamisesta](113.md) `113/2001`
+- [Valtioneuvoston asetus vuosina 1991―1995 myönnettyjen omistusaravalainojen enimmäiskorosta](114.md) `114/2001`
+- [Valtioneuvoston asetus oman asunnon hankintaan myönnettävien lainojen korkotuesta annetun asetuksen muuttamisesta](115.md) `115/2001`
+- [Maa\- ja metsätalousministeriön asetus Eläinlääkintä\- ja elintarviketutkimuslaitoksen suoritteista perittävistä maksuista](116.md) `116/2001`
+- [Liikenne\- ja viestintäministeriön asetus teleyritysten televerkkojen ja \-palvelujen yhteenliittämisestä annetun liikenneministeriön päätöksen muuttamisesta](117.md) `117/2001`
+- [Puolustusministeriön asetus rauhanturvaamishenkilöstön kelpoisuusehdoista ja palvelussuhteen ehdoista](118.md) `118/2001`
+- [Vesihuoltolaki](119.md) `119/2001`
+- [Laki terveydensuojelulain muuttamisesta](120.md) `120/2001`
+- [Laki vesilain muuttamisesta](121.md) `121/2001`
+- [Laki maankäyttö\- ja rakennuslain 161 §:n muuttamisesta](122.md) `122/2001`
+- [Laki yhdyskuntien vesihuoltotoimenpiteiden avustamisesta annetun lain muuttamisesta](123.md) `123/2001`
+- [Laki vaarallisten aineiden kuljetuksesta annetun lain muuttamisesta](124.md) `124/2001`
+- [Valtioneuvoston asetus vaikeista ja pitkäaikaisista sairauksista ja niiden hoitoon käytettävistä lääkkeistä, joista sairausvakuutuslain mukaan korvataan 100 tai 75 prosenttia säädetyn kiinteän omavastuun ylittävältä osalta, annetun valtioneuvoston päätöksen 1 ja 2 §:n muuttamisesta](125.md) `125/2001`
+- [Opetusministeriön asetus opetus\- ja kirjastotoimen perustamishankkeiden yksikköhinnoista annetun opetusministeriön päätöksen muuttamisesta](126.md) `126/2001`
+- [Maa\- ja metsätalousministeriön asetus luonnonmukaisesti tuotettujen maataloustuotteiden, elintarvikkeiden ja alkoholijuomien valvonnan järjestämisestä annetun asetuksen muuttamisesta](127.md) `127/2001`
+- [Maa\- ja metsätalousministeriön asetus eräiden kalastustuotteiden ja kalalaitosten valvonnasta perittävistä maksuista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](128.md) `128/2001`
+- [Maa\- ja metsätalousministeriön asetus lihantarkastuksesta ja eräiden liha\-alan laitosten valvonnasta perittävistä maksuista annetun maa\- ja metsätalousministeriön päätöksen 1 §:n muuttamisesta](129.md) `129/2001`
+- [Valtioneuvoston asetus asuntojen markkinoinnissa annettavista tiedoista](130.md) `130/2001`
+- [Valtioneuvoston asetus eräiden maaseutuelinkeinojen rahoituslainsäädäntöön liittyvien lakien voimaantulosta](131.md) `131/2001`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2001 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista](132.md) `132/2001`
+- [Maa\- ja metsätalousministeriön asetus Elintarvikeviraston suoritteista perittävistä maksuista](133.md) `133/2001`
+- [Liikenne\- ja viestintäministeriön asetus Telehallintokeskuksen maksuista annetun liikenneministeriön päätöksen muuttamisesta](134.md) `134/2001`
+- [Laki rangaistusten täytäntöönpanon hallinnosta](135.md) `135/2001`
+- [Laki Vankeinhoidon koulutuskeskuksesta](136.md) `136/2001`
+- [Laki rangaistusten täytäntöönpanosta annetun lain muuttamisesta](137.md) `137/2001`
+- [Laki yhdyskuntapalvelusta annetun lain muuttamisesta](138.md) `138/2001`
+- [Laki nuorisorangaistuksen kokeilemisesta annetun lain muuttamisesta](139.md) `139/2001`
+- [Laki nuorista rikoksentekijöistä annetun lain muuttamisesta](140.md) `140/2001`
+- [Laki rikosrekisterilain 4 §:n muuttamisesta](141.md) `141/2001`
+- [Laki Suomen ja muiden pohjoismaiden välisestä yhteistoiminnasta rikosasioissa annettujen tuomioiden täytäntöönpanosta annetun lain 24 ja 27 §:n muuttamisesta](142.md) `142/2001`
+- [Valtioneuvoston asetus kiinteistönvälitysliikkeistä ja vuokrahuoneiston välitysliikkeistä](143.md) `143/2001`
+- [Valtioneuvoston asetus ylioppilastutkintoasetuksen 14 §:n muuttamisesta](144.md) `144/2001`
+- [Valtioneuvoston asetus maa\- ja metsätalousministeriöstä](145.md) `145/2001`
+- [Maa\- ja metsätalousministeriön työjärjestys](146.md) `146/2001`
+- [Maa\- ja metsätalousministeriön asetus eläimistä saatavien elintarvikkeiden valvonnasta ensisaapumispaikoissa annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](147.md) `147/2001`
+- [Opetusministeriön päätös Islamilainen Dawa\-yhteisö \-nimisen uskonnollisen yhdyskunnan yhdyskuntajärjestyksen muutoksen merkitsemisestä uskonnollisten yhdyskuntien rekisteriin](148.md) `148/2001`
+- [Maa\- ja metsätalousministeriön asetus maatilatalouden rakennetuen ja vastaavan yritystoimintaan myönnettävän tuen kohdentamisesta vuonna 2001](149.md) `149/2001`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötoimitusmaksusta](150.md) `150/2001`
+- [Laki merityöaikalain muuttamisesta](151.md) `151/2001`
+- [Laki työajasta kotimaanliikenteen aluksissa annetun lain muuttamisesta](152.md) `152/2001`
+- [Laki merimiesten vuosilomalain 24 §:n muuttamisesta](153.md) `153/2001`
+- [Laki merimieslain 25 §:n muuttamisesta](154.md) `154/2001`
+- [Valtioneuvoston asetus rajavartiolaitoksesta annetun valtioneuvoston asetuksen 39 §:n kumoamisesta](155.md) `155/2001`
+- [Valtioneuvoston asetus maa\- ja elintarviketalouden tutkimuskeskuksesta](156.md) `156/2001`
+- [Valtioneuvoston asetus Suomen ILO\-neuvottelukunnasta annetun asetuksen 10 §:n muuttamisesta](157.md) `157/2001`
+- [Valtioneuvoston asetus ympäristönsuojeluasetuksen 38 §:n muuttamisesta](158.md) `158/2001`
+- [Maa\- ja metsätalousministeriön asetus broileri\- ja kalkkunataloutta koskevien investointitukien haun aloittamisesta](159.md) `159/2001`
+- [Valtioneuvoston asetus kiinteistönmuodostamisasetuksen eräiden säännösten kumoamisesta](160.md) `160/2001`
+- [Valtioneuvoston asetus käräjäoikeusasetuksen muuttamisesta](161.md) `161/2001`
+- [Valtioneuvoston asetus tuomareiden nimittämisestä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](162.md) `162/2001`
+- [Valtioneuvoston asetus käräjäoikeuksien tuomiopiireistä maaoikeuden käsiteltäviksi säädetyissä asioissa](163.md) `163/2001`
+- [Valtioneuvoston asetus eläinlääkäreiden toimituspalkkioista annetun asetuksen 2 ja 3 §:n muuttamisesta](164.md) `164/2001`
+- [Valtioneuvoston asetus valtion lihantarkastushenkilökunnasta annetun asetuksen muuttamisesta](165.md) `165/2001`
+- [Valtioneuvoston asetus sosiaali\- ja terveysministeriöstä](166.md) `166/2001`
+- [Maa\- ja metsätalousministeriön asetus eläimistä saatavien elintarvikkeiden tutkimuksia tekevistä laboratorioista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](167.md) `167/2001`
+- [Valtioneuvoston asetus maanmittauslaitoksesta annetun asetuksen 17 §:n kumoamisesta](168.md) `168/2001`
+- [Valtioneuvoston asetus turvavarastointiohjelmasta vuonna 2001](169.md) `169/2001`
+- [Valtioneuvoston asetus omistusaravalainan myöntämisessä, omistusasuntokorkotukilainaksi hyväksymisessä sekä asukkaaksi valitsemisessa sovellettavista perusteista annetun valtioneuvoston päätöksen muuttamisesta](170.md) `170/2001`
+- [Liikenne\- ja viestintäministeriön asetus Ilmailulaitoksen viranomaissuoritteiden maksullisuudesta](171.md) `171/2001`
+- [Kauppa\- ja teollisuusministeriön asetus Elintarvikeviraston maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön päätöksen kumoamisesta](172.md) `172/2001`
+- [Sosiaali\- ja terveysministeriön asetus talousveden valvontatutkimuksia tekevistä laboratorioista](173.md) `173/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön asetuksista](174.md) `174/2001`
+- [Valtioneuvoston asetus porotalouden ja luontaiselinkeinojen rahoitustuesta](175.md) `175/2001`
+- [Maa\- ja metsätalousministeriön asetus porotalouden ja luontaiselinkeinojen rahoitustuen kohdentamisesta](176.md) `176/2001`
+- [Valtioneuvoston asetus eräiden valtioneuvoston päätösten kumoamisesta](177.md) `177/2001`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](178.md) `178/2001`
+- [Laki ulkomaalaislain muuttamisesta](179.md) `179/2001`
+- [Laki ampuma\-aselain muuttamisesta](180.md) `180/2001`
+- [Valtioneuvoston asetus poliisiasetuksen muuttamisesta](181.md) `181/2001`
+- [Valtioneuvoston asetus poliisin hallinnosta annetun asetuksen 15 §:n muuttamisesta](182.md) `182/2001`
+- [Valtioneuvoston asetus lääninhallitusasetuksen 6 §:n muuttamisesta](183.md) `183/2001`
+- [Valtioneuvoston asetus maatilatalouden kehittämisrahastosta annetun lain muuttamisesta annettujen lakien voimaantulosta](184.md) `184/2001`
+- [Valtioneuvoston asetus kilpailuvirastosta annetun asetuksen 11 §:n kumoamisesta](185.md) `185/2001`
+- [Valtioneuvoston asetus mittayksikköasetuksen muuttamisesta](186.md) `186/2001`
+- [Sosiaali\- ja terveysministeriön asetus Vakuutusvalvontaviraston maksullisista suoritteista](187.md) `187/2001`
+- [Maa\- ja metsätalousministeriön asetus lihaa sisältävän ruokajätteen käytöstä eräiden kotieläinten ruokinnassa annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](188.md) `188/2001`
+- [Laki kuntouttavasta työtoiminnasta](189.md) `189/2001`
+- [Laki sosiaalihuoltolain 17 §:n muuttamisesta](190.md) `190/2001`
+- [Laki toimeentulotuesta annetun lain muuttamisesta](191.md) `191/2001`
+- [Laki työmarkkinatuesta annetun lain 1 §:n muuttamisesta](192.md) `192/2001`
+- [Laki työvoimapalvelulain muuttamisesta](193.md) `193/2001`
+- [Laki työttömyysturvalain 4 a §:n muuttamisesta](194.md) `194/2001`
+- [Laki kuntoutusrahalain muuttamisesta](195.md) `195/2001`
+- [Laki tuloverolain 92 §:n muuttamisesta](196.md) `196/2001`
+- [Kauppa\- ja teollisuusministeriön asetus Kuluttajaviraston maksullisista suoritteista](197.md) `197/2001`
+- [Ulkoasiainministeriön asetus ulkoasiainministeriön työjärjestyksen muuttamisesta](198.md) `198/2001`
+- [Liikenne\- ja viestintäministeriön asetus merenkulkulaitoksen maksullisista suoritteista annetun liikenneministeriön päätöksen liitteen 3 muuttamisesta](199.md) `199/2001`
+- [Sosiaali\- ja terveysministeriön asetus sairausvakuutuslain 5 a §:ssä tarkoitettujen eräiden reseptittä myytävien lääkkeiden korvaamisesta](200.md) `200/2001`
+- [Sosiaali\- ja terveysministeriön asetus huumausaineista ja huumausaineen valmistuksessa käytettävistä aineista annetun sosiaali\- ja terveysministeriön päätöksen 2 §:n muuttamisesta](201.md) `201/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](202.md) `202/2001`
+- [Sosiaali\- ja terveysministeriön asetus vakuutuskassan tilinpäätöksestä](203.md) `203/2001`
+- [Maa\- ja metsätalousministeriön asetus peltokasvien tuen vuoden 1991 viljelyvaatimuksesta poikkeamisesta vuonna 2001](204.md) `204/2001`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Lapuan kaupunkiin perustettavasta rajoitusalueesta](205.md) `205/2001`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Hollolan kuntaan perustettavasta rajoitusalueesta](206.md) `206/2001`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Ilomantsin kuntaan perustettavasta rajoitusalueesta](207.md) `207/2001`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Vaasan kaupunkiin perustettavasta rajoitusalueesta](208.md) `208/2001`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Orimattilan kuntaan perustettavasta rajoitusalueesta](209.md) `209/2001`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Enon kuntaan perustettavasta rajoitusalueesta](210.md) `210/2001`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Jämsän kaupunkiin perustettavasta rajoitusalueesta](211.md) `211/2001`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Sysmän kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen kumoamisesta](212.md) `212/2001`
+- [Tasavallan presidentin asetus täydellisestä ydinkoekiellosta tehdyn sopimuksen eräiden määräysten hyväksymisestä ja sopimuksen soveltamisesta annetun lain 2 ja 6 §:n voimaantulosta](213.md) `213/2001`
+- [Laki täydellisestä ydinkoekiellosta tehdyn sopimuksen eräiden määräysten hyväksymisestä ja sopimuksen soveltamisesta](214.md) `214/2001`
+- [Valtioneuvoston asetus tullilaitoksesta annetun asetuksen muuttamisesta](215.md) `215/2001`
+- [Opetusministeriön asetus ammatillisista perustutkinnoista](216.md) `216/2001`
+- [Kauppa\- ja teollisuusministeriön asetus elintarvikelisäaineiden erityisistä puhtausvaatimuksista ja eräistä määritysmenetelmistä annetun kauppa\- ja teollisuusministeriön päätöksen 2 §:n muuttamisesta](217.md) `217/2001`
+- [Maa\- ja metsätalousministeriön asetus suu\- ja sorkkataudin vastustamisesta eläinten kuljetuksessa](218.md) `218/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2000 peltokasvien tuen \(CAP\-tuen\) non food \-kesantopalkkion maksatuksesta](219.md) `219/2001`
+- [Tasavallan presidentin asetus Itävallan kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen voimaansaattamisesta](220.md) `220/2001`
+- [Valtioneuvoston asetus valtioneuvoston ohjesäännön muuttamisesta](221.md) `221/2001`
+- [Valtioneuvoston asetus passintarkastuspaikoista annetun asetuksen muuttamisesta](222.md) `222/2001`
+- [Valtioneuvoston asetus valtiokonttorista annetun asetuksen muuttamiseksi](223.md) `223/2001`
+- [Valtioneuvoston asetus metsästysasetuksen muuttamisesta](224.md) `224/2001`
+- [Valtioneuvoston asetus poronhoitolain 34 §:n muuttamisesta annetun lain voimaantulosta](225.md) `225/2001`
+- [Valtioneuvoston asetus terveydenhuollon oikeusturvakeskuksesta annetun asetuksen 22 §:n kumoamisesta](226.md) `226/2001`
+- [Maa\- ja metsätalousministeriön asetus vuosien 1999 ja 2000 tuotannolle maksettavan mallasohran lisätuen jakoperusteista annetun maa\- ja metsätalousministeriön päätöksen 5 §:n 1 momentin muuttamisesta](227.md) `227/2001`
+- [Laki rehulain muuttamisesta](228.md) `228/2001`
+- [Maa\- ja metsätalousministeriön asetus eläinproteiineista ja niitä sisältävistä rehuvalmisteista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](229.md) `229/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](230.md) `230/2001`
+- [Maa\- ja metsätalousministeriön asetus maaseudun kehittämishankkeisiin myönnettävän tuen kohdentamisesta vuonna 2001](231.md) `231/2001`
+- [Maa\- ja metsätalousministeriön asetus kolmansista maista tuotavasta hunajasta annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](232.md) `232/2001`
+- [Maa\- ja metsätalousministeriön asetus eräiden kolmansista maista tuotavien eläinten sekä niiden alkioiden ja sukusolujen eläintautivaatimuksista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](233.md) `233/2001`
+- [Laki rikoslain muuttamisesta](234.md) `234/2001`
+- [Laki tuomittujen siirtämisestä tehdyn yleissopimuksen lisäpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](235.md) `235/2001`
+- [Laki kansainvälisestä yhteistoiminnasta eräiden rikosoikeudellisten seuraamusten täytäntöönpanossa annetun lain muuttamisesta](236.md) `236/2001`
+- [Laki Suomen ja muiden pohjoismaiden välisestä yhteistoiminnasta rikosasioissa annettujen tuomioiden täytäntöönpanossa annetun lain muuttamisesta](237.md) `237/2001`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta annetun lain muuttamisesta](238.md) `238/2001`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden pohjoismaiden välillä annetun lain muuttamisesta](239.md) `239/2001`
+- [Laki rajavartiolaitoksesta annetun lain muuttamisesta](240.md) `240/2001`
+- [Laki tullilain muuttamisesta](241.md) `241/2001`
+- [Valtioneuvoston asetus työvoimatoimikunnasta annetun asetuksen 2 ja 3 §:n muuttamisesta](242.md) `242/2001`
+- [Valtioneuvoston asetus työvoimatoimikunnasta annetun asetuksen muuttamisesta ja väliaikaisesta muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](243.md) `243/2001`
+- [Yritys\- ja yhteisötietolaki](244.md) `244/2001`
+- [Laki kaupparekisterilain muuttamisesta](245.md) `245/2001`
+- [Laki yrityskiinnityslain 11 ja 12 §:n muuttamisesta](246.md) `246/2001`
+- [Laki toiminimilain 2 ja 12 §:n muuttamisesta](247.md) `247/2001`
+- [Laki säätiölain muuttamisesta](248.md) `248/2001`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain muuttamisesta](249.md) `249/2001`
+- [Laki arvonlisäverolain muuttamisesta](250.md) `250/2001`
+- [Laki ennakkoperintälain muuttamisesta](251.md) `251/2001`
+- [Valtioneuvoston asetus kuntoutusraha\-asetuksen muuttamisesta](252.md) `252/2001`
+- [Opetusministeriön asetus arkistolaitoksen suoritteiden maksuista](253.md) `253/2001`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](254.md) `254/2001`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain 11 §:n mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteiden soveltamisesta ja niissä käytettävän kertoimen c
+                    1
+                    v
+                     laskemisesta](255.md) `255/2001`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkekassan työntekijäin eläkelain 12 §:n mukaista vastuunjakoa varten laskettavista suureista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](256.md) `256/2001`
+- [Valtioneuvoston asetus poliisi\-, tulli\- ja rajavartioviranomaisten yhteistoiminnasta](257.md) `257/2001`
+- [Valtioneuvoston asetus ulkomaalaislain muuttamisesta annetun lain voimaantulosta](258.md) `258/2001`
+- [Valtioneuvoston asetus ampuma\-aselain muuttamisesta annetun lain voimaantulosta](259.md) `259/2001`
+- [Valtioneuvoston asetus valtion virkamiesten eroraha\-asetuksen 10 §:n muuttamisesta annetun asetuksen voimaantulosäännöksen muuttamisesta](260.md) `260/2001`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveysministeriön uusien aineiden ilmoitusmenettelyä koskevan päätöksen 1642/1993 8 §:n muuttamisesta](261.md) `261/2001`
+- [Valtiovarainministeriön asetus valtion omistamien osakkeiden, osuustodistusten ja muiden arvopapereiden hoitamisesta](262.md) `262/2001`
+- [Kauppa\- ja teollisuusministeriön asetus patentti\- ja rekisterihallituksen maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön päätöksen liitteenä olevan maksutaulukon muuttamisesta](263.md) `263/2001`
+- [Maa\- ja metsätalousministeriön asetus suu\- ja sorkkataudin vastustamisesta eläinten kuljetuksessa annetun maa\- ja metsätalousministeriön asetuksen 5 ja 8 §:n muuttamisesta](264.md) `264/2001`
+- [Valtioneuvoston asetus oikeusministeriöstä](265.md) `265/2001`
+- [Valtioneuvoston asetus tietosuojalautakunnasta ja tietosuojavaltuutetusta annetun asetuksen muuttamisesta](266.md) `266/2001`
+- [Valtioneuvoston asetus vuodelta 2001 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen muuttamisesta](267.md) `267/2001`
+- [Valtioneuvoston asetus vuodelta 2001 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen muuttamisesta](268.md) `268/2001`
+- [Valtioneuvoston asetus vuodelta 2001 maksettavasta kasvinviljelyn kansallisesta tuesta annetun valtioneuvoston asetuksen muuttamisesta](269.md) `269/2001`
+- [Valtioneuvoston asetus vuodelta 2000 maksettavasta emolehmien kansallisesta lisäpalkkiosta](270.md) `270/2001`
+- [Valtioneuvoston asetus ulkomaisten alusten tarkastuksesta Suomessa annetun asetuksen 2 ja 16 §:n muuttamisesta](271.md) `271/2001`
+- [Valtioneuvoston asetus työttömyyskassalain täytäntöönpanosta](272.md) `272/2001`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](273.md) `273/2001`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta ja Afganistaniin suuntautuvan tiettyjen tavaroiden ja palveluiden viennin kieltämisestä, Afganistanin Talebania koskevien lentokiellon ja varojen sekä muiden taloudellisten resurssien jäädyttämisen laajentamisesta ja asetuksen \(EY\) N:o 337/2000 kumoamisesta](274.md) `274/2001`
+- [Valtioneuvoston asetus rangaistusten täytäntöönpanon hallinnosta](275.md) `275/2001`
+- [Valtioneuvoston asetus kiinteistörekisteriasetuksen 2 ja 4 §:n muuttamisesta](276.md) `276/2001`
+- [Valtioneuvoston kanslian työjärjestys](277.md) `277/2001`
+- [Laki uusien kasvilajikkeiden suojaamista koskevan kansainvälisen yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](278.md) `278/2001`
+- [Tasavallan presidentin asetus Yhdistyneiden Kansakuntien kaikkinaisen naisten syrjinnän poistamista koskevan yleissopimuksen valinnaisen pöytäkirjan voimaansaattamisesta ja pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](279.md) `279/2001`
+- [Valtioneuvoston asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta](280.md) `280/2001`
+- [Valtioneuvoston asetus kansanterveysasetuksen 1 §:n kumoamisesta](281.md) `281/2001`
+- [Maa\- ja metsätalousministeriön asetus TSE\-riskiaineksen käsittelystä annetun maa\- ja metsätalousministeriön asetuksen 4 ja 9 §:n muuttamisesta](282.md) `282/2001`
+- [Maa\- ja metsätalousministeriön asetus suu\- ja sorkkataudin vastustamisesta eläinten kuljetuksessa annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](283.md) `283/2001`
+- [Opetusministeriön asetus opetushallituksen suoritteiden maksullisuudesta annetun opetusministeriön päätöksen 1 §:n muuttamisesta](284.md) `284/2001`
+- [Liikenne\- ja viestintäministeriön asetus liikenne\- ja viestintäministeriön työjärjestyksen muuttamisesta](285.md) `285/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vieraista aineista eläimistä saatavissa elintarvikkeissa](286.md) `286/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta TSE\-riskiaineksen erottamisesta teurastamossa, teurastuspaikassa ja leikkaamossa sekä luulihan valmistuskiellosta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](287.md) `287/2001`
+- [Valtioneuvoston asetus yritys\- ja yhteisötietojärjestelmästä](288.md) `288/2001`
+- [Valtioneuvoston asetus kaupparekisteriasetuksen muuttamisesta](289.md) `289/2001`
+- [Valtioneuvoston asetus yrityskiinnitysasetuksen muuttamisesta](290.md) `290/2001`
+- [Valtioneuvoston asetus patentti\- ja rekisterihallituksesta annetun asetuksen muuttamisesta](291.md) `291/2001`
+- [Valtioneuvoston asetus ortodoksisesta kirkkokunnasta annetun asetuksen muuttamisesta](292.md) `292/2001`
+- [Ulkoasiainministeriön asetus ulkoasiainministeriön työjärjestyksen 53 §:n muuttamisesta](293.md) `293/2001`
+- [Ympäristöministeriön asetus ympäristöministeriön työjärjestyksen muuttamisesta](294.md) `294/2001`
+- [Oikeusministeriön asetus yksityisen osakeyhtiön perusyhtiöjärjestyksestä](295.md) `295/2001`
+- [Laki kolttalain muuttamisesta](296.md) `296/2001`
+- [Valtiovarainministeriön päätös vuoden 2001 taidekilpailupalkintojen verovapaudesta annetun valtiovarainministeriön päätöksen oikaisemisesta](297.md) `297/2001`
+- [Oikeusministeriön työjärjestys](298.md) `298/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuonna 2000 teurastetuista hiehoista, sonneista, lihasioista ja lihasiipikarjasta sekä vuonna 2000 siitokseen myydyistä nuorista sioista maksettavan kansallisen kotieläintuen ja vuoden 2001 kansallisen kotieläintuen ennakon maksatuksesta](299.md) `299/2001`
+- [Laki eräiden valtion tukea koskevien Euroopan yhteisöjen säännösten soveltamisesta](300.md) `300/2001`
+- [Laki maaseutuelinkeinorekisteristä annetun lain muuttamisesta](301.md) `301/2001`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetukseen tarkoitettujen pakkausten ja säiliöiden vaatimustenmukaisuuden osoittamisesta](302.md) `302/2001`
+- [Maa\- ja metsätalousministeriön asetus alkuvuoden 2000 tulvavahinkokorvausten maksamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](303.md) `303/2001`
+- [Maa\- ja metsätalousministeriön asetus kuljetuskustannusten määrittämisestä viljan interventiovarastoinnissa](304.md) `304/2001`
+- [Valtioneuvoston asetus nurmi\- ja viljakasvien siementuotannon kansallisesta tuesta vuonna 2000](305.md) `305/2001`
+- [Valtioneuvoston asetus luonnonmukaisesti tuotettujen tuotteiden menekinedistämiseen tarkoitetusta tuesta vuonna 2000](306.md) `306/2001`
+- [Valtioneuvoston asetus ulkomaanliikenteen kauppa\-alusluettelosta annetun lain 4 §:n muuttamisesta annetun lain voimaantulosta](307.md) `307/2001`
+- [Liikenne\- ja viestintäministeriön asetus ulkomaanliikenteen kauppa\-alusluettelosta annetun lain soveltamisesta annetun liikenneministeriön päätöksen 2 §:n muuttamisesta](308.md) `308/2001`
+- [Valtiovarainministeriön asetus jäännösveron ja metsänhoitomaksun eräpäivistä vuodelta 2000](309.md) `309/2001`
+- [Valtiovarainministeriön asetus vuoden 2001 kiinteistöveron eräpäivistä](310.md) `310/2001`
+- [Maa\- ja metsätalousministeriön asetus menekinedistämiseen tarkoitetusta tuesta vuonna 2001 annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](311.md) `311/2001`
+- [Maa\- ja metsätalousministeriön asetus peltokasvien tukijärjestelmän hallinnosta ja valvonnasta annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](312.md) `312/2001`
+- [Postipalvelulaki](313.md) `313/2001`
+- [Laki telemarkkinalain muuttamisesta](314.md) `314/2001`
+- [Laki poliisilain muuttamisesta](315.md) `315/2001`
+- [Laki asunto\-osakeyhtiölain 5 ja 39 §:n muuttamisesta](316.md) `316/2001`
+- [Laki asuntokauppalain 2 luvun 8 §:n muuttamisesta](317.md) `317/2001`
+- [Laki verohallintolain 3 ja 4 §:n muuttamisesta](318.md) `318/2001`
+- [Laki maatalousyrittäjien lomituspalvelulain 6 ja 28 §:n muuttamisesta](319.md) `319/2001`
+- [Tasavallan presidentin asetus Pohjoismaiden välillä eräiden terveyden\- ja sairaanhoidon henkilöstöryhmien sekä eläinlääkäreiden yhteisistä pohjoismaisista työmarkkinoista tehdyn sopimuksen muuttamista koskevan sopimuksen voimaansaattamisesta](320.md) `320/2001`
+- [Valtioneuvoston asetus moottoribensiinin ja dieselöljyn laatuvaatimuksista annetun valtioneuvoston asetuksen muuttamisesta](321.md) `321/2001`
+- [Oikeusministeriön asetus velallisen maksukyvyn arvioinnin perusteista yksityishenkilön velkajärjestelyssä](322.md) `322/2001`
+- [Valtiovarainministeriön asetus julkishallinnon ja \-talouden tilintarkastuslautakunnan maksullisista suoritteista](323.md) `323/2001`
+- [Maa\- ja metsätalousministeriön asetus suu\- ja sorkkataudin vastustamisesta eläinten kuljetuksessa annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](324.md) `324/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2000 emolehmäpalkkion, vuoden 2000 lopullisen sonni\- ja härkäpalkkion, vuoden 2000 uuhipalkkion loppuosan sekä vuoden 2000 emolehmien kansallisen lisäpalkkion maksatuksesta](325.md) `325/2001`
+- [Laki kirkkolain 19 luvun 10 §:n ja 22 luvun 5 §:n kumoamisesta](326.md) `326/2001`
+- [Laki kansanterveyslaitoksesta annetun lain muuttamisesta](327.md) `327/2001`
+- [Laki raskauden keskeyttämisestä annetun lain muuttamisesta](328.md) `328/2001`
+- [Laki steriloimislain muuttamisesta](329.md) `329/2001`
+- [Valtioneuvoston asetus poliisiasetuksen 19 §:n muuttamisesta](330.md) `330/2001`
+- [Sisäasiainministeriön asetus sisäasiainministeriön työjärjestyksen muuttamisesta](331.md) `331/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta peltokasvien tuen non food \-kesannon ehdoista vuonna 2001](332.md) `332/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta juurikkaiden siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen väliaikaisesta muuttamisesta](333.md) `333/2001`
+- [Laki Liettuan kanssa sosiaaliturvasta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](334.md) `334/2001`
+- [Valtioneuvoston asetus kansainvälisen sijoitustoiminnan ja monikansallisten yritysten neuvottelukunnasta](335.md) `335/2001`
+- [Valtioneuvoston asetus maaseudun kehittämisestä annetun valtioneuvoston asetuksen 5 ja 98 §:n muuttamisesta](336.md) `336/2001`
+- [Ympäristöministeriön asetus alueellisen ympäristökeskuksen maksullisista suoritteista annetun ympäristöministeriön päätöksen liitteen muuttamisesta](337.md) `337/2001`
+- [Maa\- ja metsätalousministeriön asetus kolmansista maista tuotavista kalastustuotteista ja niistä saaduista raakavalmisteista ja jalosteista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](338.md) `338/2001`
+- [Maa\- ja metsätalousministeriön asetus peltokasvien tuen hakemisesta ja eläinpalkkioihin liittyvien pinta\-alojen ilmoittamisesta vuonna 2001](339.md) `339/2001`
+- [Maa\- ja metsätalousministeriön asetus porotalouden ja luontaiselinkeinojen rahoituslain täytäntöönpanosta](340.md) `340/2001`
+- [Maa\- ja metsätalousministeriön asetus kalastuksesta Tornionjoen kalastusalueella annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](341.md) `341/2001`
+- [Maa\- ja metsätalousministeriön asetus suu\- ja sorkkataudin vastustamisesta eläinten ja tavaroiden sisämarkkinakaupassa](342.md) `342/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta lihahygieniasta](343.md) `343/2001`
+- [Laki lukiokoulutuksen ja ammatillisen koulutuksen opiskelijoiden koulumatkatuesta annetun lain muuttamisesta](344.md) `344/2001`
+- [Tasavallan presidentin asetus ulkomaalaisten osallistumisesta julkiseen elämään paikallistasolla koskevan Euroopan neuvoston yleissopimuksen voimaansaattamisesta ja yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](345.md) `345/2001`
+- [Tasavallan presidentin asetus valtiosopimusoikeutta koskevan Wienin yleissopimuksen voimaansaattamisesta annetun asetuksen muuttamisesta](346.md) `346/2001`
+- [Valtioneuvoston asetus steriloimisasetuksen muuttamisesta](347.md) `347/2001`
+- [Valtioneuvoston asetus raskauden keskeyttämisestä annetun asetuksen muuttamisesta](348.md) `348/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2000 kuitupellavan ja hampun tuotantotukien maksatuksesta](349.md) `349/2001`
+- [Laki kestävän metsätalouden rahoituksesta annetun lain muuttamisesta](350.md) `350/2001`
+- [Tasavallan presidentin asetus Pohjoismaiden välillä tehdyn pohjoismaisen passintarkastussopimuksen muuttamista koskevan sopimuksen voimaansaattamisesta](351.md) `351/2001`
+- [Valtioneuvoston asetus yleisen oikeusavun ja maksuttoman oikeudenkäynnin palkkioperusteista annetun asetuksen muuttamisesta](352.md) `352/2001`
+- [Valtioneuvoston asetus opetushallituksesta annetun asetuksen 25 §:n kumoamisesta](353.md) `353/2001`
+- [Maa\- ja metsätalousministeriön asetus peltokasvien tukijärjestelmästä ja siihen liittyvästä kesannoinnista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](354.md) `354/2001`
+- [Sosiaali\- ja terveysministeriön asetus lääkkeiden hintalautakunnan maksullisista suoritteista](355.md) `355/2001`
+- [Maa\- ja metsätalousministeriön asetus maan hankkimisesta ja myymisestä maatilatalouden kehittämisrahastosta annetun lain mukaisiin tarkoituksiin](356.md) `356/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta lihahygieniasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](357.md) `357/2001`
+- [Sisäasiainministeriön asetus hätäkeskuslaitoksen hätäkeskusten maksullisista suoritteista](358.md) `358/2001`
+- [Työministeriön asetus työllisyystyönä teetettävästä nuoren metsän hoidosta](359.md) `359/2001`
+- [Sosiaali\- ja terveysministeriön työjärjestys](360.md) `360/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta lihahygieniasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](361.md) `361/2001`
+- [Laki vakuutusyhtiölain muuttamisesta](362.md) `362/2001`
+- [Laki ulkomaisista vakuutusyhtiöistä annetun lain muuttamisesta](363.md) `363/2001`
+- [Laki työeläkevakuutusyhtiöistä annetun lain 1 §:n muuttamisesta](364.md) `364/2001`
+- [Laki vakuutusyhdistyslain muuttamisesta](365.md) `365/2001`
+- [Laki vakuutuksenvälittäjistä annetun lain muuttamisesta](366.md) `366/2001`
+- [Laki Kuluttajavirastosta annetun lain 7 §:n muuttamisesta](367.md) `367/2001`
+- [Laki markkinatuomioistuimesta annetun lain muuttamisesta](368.md) `368/2001`
+- [Laki rikoslain 9 ja 37 luvun muuttamisesta](369.md) `369/2001`
+- [Valtioneuvoston asetus rikoslain 1 luvun 7 §:n soveltamisesta annetun asetuksen muuttamisesta](370.md) `370/2001`
+- [Valtioneuvoston asetus saaristoliikenteen tukemiseksi myönnettävistä avustuksista](371.md) `371/2001`
+- [Valtioneuvoston asetus vuodelta 2001 maksettavasta perunantuotannon kansallisesta tuesta](372.md) `372/2001`
+- [Valtioneuvoston asetus nurmi\- ja viljakasvien siementuotannon kansallisesta tuesta vuonna 2001](373.md) `373/2001`
+- [Maa\- ja metsätalousministeriön asetus suu\- ja sorkkataudin vastustamisesta eläinten kuljetuksessa annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](374.md) `374/2001`
+- [Laki työntekijäin eläkelain muuttamisesta](375.md) `375/2001`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](376.md) `376/2001`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](377.md) `377/2001`
+- [Laki yrittäjien eläkelain muuttamisesta](378.md) `378/2001`
+- [Laki merimieseläkelain muuttamisesta](379.md) `379/2001`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain muuttamisesta](380.md) `380/2001`
+- [Laki valtion eläkelain muuttamisesta](381.md) `381/2001`
+- [Laki valtion perhe\-eläkelain muuttamisesta](382.md) `382/2001`
+- [Laki kuukautta lyhyempien valtion palvelussuhteiden eläketurvan järjestämisestä annetun lain 4 §:n muuttamisesta](383.md) `383/2001`
+- [Laki vakuutusoikeudesta annetun lain 5 a §:n muuttamisesta](384.md) `384/2001`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2001 kansallisten viljelyalaan perustuvien tukien ja kotieläintukien hallinnosta](385.md) `385/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kalojen VHS\-, IHN\- ja ISA\-taudin vastustamisesta](386.md) `386/2001`
+- [Laki valtion virkamieslain 18 ja 57 §:n muuttamisesta](387.md) `387/2001`
+- [Tasavallan presidentin asetus ihmisoikeuksien ja perusvapauksien suojaamiseksi tehdyn yleissopimuksen ja siihen liittyvien lisäpöytäkirjojen voimaansaattamisesta sekä yleissopimuksen ja lisäpöytäkirjojen eräiden määräysten hyväksymisestä annetun lain voimaantulosta annetun asetuksen 2 §:n muuttamisesta](388.md) `388/2001`
+- [Valtioneuvoston asetus tasa\-arvoasiain neuvottelukunnasta annetun asetuksen muuttamisesta](389.md) `389/2001`
+- [Maa\- ja metsätalousministeriön asetus suu\- ja sorkkataudin vastustamisesta eläinten kuljetuksessa annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](390.md) `390/2001`
+- [Metsähallituksen ilmoitus  Metsähallituksen päätöksestä eräiden Etelä\-Suomen luonnonsuojelualueiden perustamisesta](391.md) `391/2001`
+- [Valtioneuvoston asetus erityisvalmisteasetuksen eräiden säännösten kumoamisesta](392.md) `392/2001`
+- [Liikenne\- ja viestintäministeriön asetus kuljetettavista painelaitteista](393.md) `393/2001`
+- [Laki sairausvakuutuslain 5 a ja 9 §:n muuttamisesta](394.md) `394/2001`
+- [Valtioneuvoston asetus käräjäoikeusasetuksen muuttamisesta](395.md) `395/2001`
+- [Valtioneuvoston asetus hovioikeusasetuksen muuttamisesta](396.md) `396/2001`
+- [Valtioneuvoston asetus korkeimmasta oikeudesta annetun asetuksen muuttamisesta](397.md) `397/2001`
+- [Valtioneuvoston asetus verohallintoasetuksen 15 ja 23 §:n muuttamisesta](398.md) `398/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kestävän metsätalouden rahoituksesta annetun lain nojalla puuntuotannon kestävyyden turvaamiseksi tehtävistä töistä](399.md) `399/2001`
+- [Maa\- ja metsätalousministeriön asetus kolttalain mukaisesta rahoitustuesta](400.md) `400/2001`
+- [Sosiaali\- ja terveysministeriön asetus pienten yksiköiden talousveden laatuvaatimuksista ja valvontatutkimuksista](401.md) `401/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuohenherneen kylvösiemenen tarkastusvaatimusta koskevasta väliaikaisesta poikkeuksesta](402.md) `402/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvituotteiden maahantuonnissa, maastaviennissä ja markkinoinnissa noudatettavista kasvinsuojelun vaatimuksista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](403.md) `403/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2000 laajaperäistämispalkkion ja vuoristoalueen lypsylehmien laajaperäistämispalkkion sekä vuoden 2000 teurastuspalkkion ja lisätuen loppuosan maksatuksesta](404.md) `404/2001`
+- [Puolustusministeriön asetus rauhanturvaamishenkilöstön kelpoisuusehdoista ja palvelussuhteen ehdoista annetun puolustusministeriön asetuksen 5 §:n muuttamisesta](405.md) `405/2001`
+- [Kauppa\- ja teollisuusministeriön asetus kotimyyntiasiakirjan kaavasta](406.md) `406/2001`
+- [Maa\- ja metsätalousministeriön asetus luonnonhaittakorvauksen ja maatalouden ympäristötuen hakemisesta vuonna 2001](407.md) `407/2001`
+- [Maa\- ja metsätalousministeriön asetus maatalouden ympäristötuen erityistukisopimusten hakemisesta vuonna 2001 ja näitä sopimuksia koskevista sopimuskausista](408.md) `408/2001`
+- [Laki sosiaali\- ja terveysalan tutkimus\- ja kehittämiskeskuksen tilastotoimesta](409.md) `409/2001`
+- [Laki sosiaali\- ja terveysalan tutkimus\- ja kehittämiskeskuksesta annetun lain muuttamisesta](410.md) `410/2001`
+- [Laki potilaan asemasta ja oikeuksista annetun lain 13 §:n muuttamisesta](411.md) `411/2001`
+- [Laki sosiaalihuollon asiakkaan asemasta ja oikeuksista annetun lain 18 §:n muuttamisesta](412.md) `412/2001`
+- [Laki sosiaalihuoltolain 4 §:n muuttamisesta](413.md) `413/2001`
+- [Laki kehitysvammaisten erityishuollosta annetun lain 3 §:n muuttamisesta](414.md) `414/2001`
+- [Laki kansanterveyslain 4 §:n muuttamisesta](415.md) `415/2001`
+- [Laki erikoissairaanhoitolain 5 §:n muuttamisesta](416.md) `416/2001`
+- [Laki mielenterveyslain 2 §:n muuttamisesta](417.md) `417/2001`
+- [Valtioneuvoston asetus valtioneuvoston ohjesäännön muuttamisesta](418.md) `418/2001`
+- [Valtioneuvoston asetus yritys\- ja yhteisötunnusrekisterin maksullisista suoritteista](419.md) `419/2001`
+- [Opetusministeriön asetus opetusministeriön työjärjestyksen muuttamisesta](420.md) `420/2001`
+- [Laki autoverolain muuttamisesta](421.md) `421/2001`
+- [Laki valtion vientitakuista](422.md) `422/2001`
+- [Laki valtion erityisrahoitusyhtiön luotto\- ja takaustoiminnasta annetun lain 1 §:n muuttamisesta](423.md) `423/2001`
+- [Laki valtiontakuurahastosta annetun lain 4 §:n muuttamisesta](424.md) `424/2001`
+- [Laki lastensuojelulain 5 c §:n muuttamisesta](425.md) `425/2001`
+- [Laki lastensuojelulain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](426.md) `426/2001`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain 30 c §:n muuttamisesta](427.md) `427/2001`
+- [Tasavallan presidentin asetus Merenkulun tietoliikenteen kansainvälistä tekokuujärjestöä \(INMARSAT\) koskevan yleissopimuksen ja siihen liittyvän toimintasopimuksen muutosten voimaansaattamisesta](428.md) `428/2001`
+- [Maa\- ja metsätalousministeriön asetus Suomen lipun alla purjehtivien tai Suomessa rekisteröityjen alusten harjoittaman silakan ja kilohailin kalastuksen väliaikaisesta keskeyttämisestä](429.md) `429/2001`
+- [Sosiaali\- ja terveysministeriön asetus vaarallisen kemikaalin päällyksen turvasulkimesta ja näkövammaisille tarkoitetusta vaaratunnuksesta](430.md) `430/2001`
+- [Maa\- ja metsätalousministeriön asetus suu\- ja sorkkataudin vastustamisesta eläinten kuljetuksessa annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](431.md) `431/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta tasaustuen maksatuksesta vuodelta 1999 myönnetyille uuhipalkkioille sekä vuodelta 2000 myönnetyille nautaeläinpalkkioille ja peltokasvien tuelle](432.md) `432/2001`
+- [Laki hajallaan olevien kalakantojen ja laajasti vaeltavien kalakantojen säilyttämistä ja hoitoa koskevien 10 päivänä joulukuuta 1982 tehdyn Yhdistyneiden Kansakuntien merioikeusyleissopimuksen määräysten täytäntöönpanosta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](433.md) `433/2001`
+- [Laki Euroopan yhteisön yhteisen kalastuspolitiikan täytäntöönpanosta annetun lain muuttamisesta](434.md) `434/2001`
+- [Valtioneuvoston asetus orgaanisten liuottimien käytöstä eräissä toiminnoissa ja laitoksissa aiheutuvien haihtuvien orgaanisten yhdisteiden päästöjen rajoittamisesta](435.md) `435/2001`
+- [Valtioneuvoston asetus ympäristönsuojeluasetuksen muuttamisesta](436.md) `436/2001`
+- [Maa\- ja metsätalousministeriön asetus alkuperäiskasvilajikkeen rekisteröinnistä](437.md) `437/2001`
+- [Opetusministeriön asetus ylioppilastutkintolautakunnan suoritteiden maksullisuudesta](438.md) `438/2001`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](439.md) `439/2001`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](440.md) `440/2001`
+- [Laki oikeudenkäymiskaaren muuttamisesta](441.md) `441/2001`
+- [Laki tuomareiden nimittämisestä annetun lain muuttamisesta](442.md) `442/2001`
+- [Laki hallintolainkäyttölain 76 §:n muuttamisesta](443.md) `443/2001`
+- [Laki hallinto\-oikeuslain 19 §:n kumoamisesta](444.md) `444/2001`
+- [Laki työtuomioistuimesta annetun lain 8 §:n muuttamisesta](445.md) `445/2001`
+- [Laki markkinatuomioistuimesta annetun lain 5 §:n muuttamisesta](446.md) `446/2001`
+- [Laki ulosottolain 1 luvun 8 §:n muuttamisesta](447.md) `447/2001`
+- [Laki eräiden tuomarin ja valtuutetun esteellisyyttä koskevain säännösten soveltamisesta naiseen annetun lain muuttamisesta](448.md) `448/2001`
+- [Valtioneuvoston asetus luonnonhaittakorvauksesta ja maatalouden ympäristötuesta annetun valtioneuvoston asetuksen muuttamisesta](449.md) `449/2001`
+- [Valtioneuvoston asetus elatusturva\-asetuksen 6 ja 8 §:n muuttamisesta](450.md) `450/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta salmonellavalvonnasta teurastamossa ja leikkaamossa](451.md) `451/2001`
+- [Laki puolustusvoimista annetun lain muuttamisesta](452.md) `452/2001`
+- [Laki perusopetuslain 11 §:n muuttamisesta](453.md) `453/2001`
+- [Laki lukiolain 7 §:n muuttamisesta](454.md) `454/2001`
+- [Laki ammatillisesta koulutuksesta annetun lain 12 ja 17 §:n muuttamisesta](455.md) `455/2001`
+- [Laki kansaneläkeindeksistä](456.md) `456/2001`
+- [Valtioneuvoston asetus valtion korvauksesta kuntouttavan työtoiminnan järjestämiseen](457.md) `457/2001`
+- [Valtioneuvoston asetus työmarkkinatuesta annetun asetuksen 8 §:n muuttamisesta](458.md) `458/2001`
+- [Valtioneuvoston asetus työvoimapalveluasetuksen muuttamisesta](459.md) `459/2001`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Konneveden ja Laukaan kuntien välillä](460.md) `460/2001`
+- [Oikeusministeriön asetus valtion oikeusaputoimistojen sekä niiden sivutoimistojen ja sivuvastaanottojen sijainnista](461.md) `461/2001`
+- [Maa\- ja metsätalousministeriön asetus luonnonhaittakorvauksesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](462.md) `462/2001`
+- [Maa\- ja metsätalousministeriön asetus ympäristötuen perus\- ja lisätoimenpiteistä sekä maatalouden ympäristötuen koulutukseen liittyvästä tuesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](463.md) `463/2001`
+- [Laki Pohjoismaiden välillä tehdyn avioliittoa, lapseksiottamista ja holhousta koskevia kansainvälis\-yksityisoikeudellisia määräyksiä sisältävän sopimuksen muuttamista koskevan sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](464.md) `464/2001`
+- [Laki Pohjoismaiden välillä elatusavun perimisestä tehdyn sopimuksen muuttamista koskevan sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](465.md) `465/2001`
+- [Laki Pohjoismaiden välillä tehdyn avioliittoa, lapseksiottamista ja holhousta koskevia kansainvälis\-yksityisoikeudellisia määräyksiä sisältävän sopimuksen muuttamista tarkoittavan sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](466.md) `466/2001`
+- [Laki käräjäoikeuslain 17 §:n muuttamisesta](467.md) `467/2001`
+- [Laki kihlakunnansyyttäjästä annetun lain 8 §:n muuttamisesta](468.md) `468/2001`
+- [Valtioneuvoston asetus hedelmän\- ja vihannestuottajaorganisaatioiden toimintaohjelmasta ja \-rahastosta sekä yhteisön taloudellisesta tuesta](469.md) `469/2001`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta annetun lain muuttamisesta annetun lain eräiden säännösten voimaantulosta](470.md) `470/2001`
+- [Valtiovarainministeriön asetus Aino Acktén ja oopperan juhlarahasta](471.md) `471/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta väliaikaisen tulotuen maksatuksesta A\- ja B\-alueilla vuonna 2001](472.md) `472/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta maatalouden ympäristötuen koulutusmäärärahojen jakamisesta vuonna 2001](473.md) `473/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta mikrobilääkeaineiden osoittamisesta lihantarkastuksessa mikrobiologisella menetelmällä](474.md) `474/2001`
+- [Laki kansanedustajain eläkelain muuttamisesta](475.md) `475/2001`
+- [Laki tieliikennelain 48 §:n muuttamisesta](476.md) `476/2001`
+- [Laki yksityisyyden suojasta työelämässä](477.md) `477/2001`
+- [Laki yhteistoiminnasta yrityksissä annetun lain 6 §:n muuttamisesta](478.md) `478/2001`
+- [Laki yhteistoiminnasta valtion virastoissa ja laitoksissa annetun lain 7 §:n muuttamisesta](479.md) `479/2001`
+- [Laki rikoslain 38 luvun 9 §:n muuttamisesta](480.md) `480/2001`
+- [Valtioneuvoston asetus valtion virkaehtosopimusasetuksen 1 a ja 10 §:n muuttamisesta](481.md) `481/2001`
+- [Sisäasiainministeriön asetus poliisin virkapuvusta](482.md) `482/2001`
+- [Laki tapaturmavakuutuslain muuttamisesta](483.md) `483/2001`
+- [Laki vakuutusyhtiölain 2 luvun 5 §:n muuttamisesta](484.md) `484/2001`
+- [Tasavallan presidentin asetus tieliikennettä koskevaa yleissopimusta täydentävän eurooppalaisen sopimuksen muutosten voimaansaattamisesta](485.md) `485/2001`
+- [Tasavallan presidentin asetus pyörillä varustettujen ajoneuvojen määräajoin toistettavien katsastusten yhdenmukaisten ehtojen hyväksymistä sekä näiden katsastusten vastavuoroista tunnustamista koskevan sopimuksen voimaansaattamisesta](486.md) `486/2001`
+- [Oikeusministeriön työjärjestys](487.md) `487/2001`
+- [Laki Slovakian kanssa yhteistyöstä ja keskinäisestä avunannosta tulliasioissa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](488.md) `488/2001`
+- [Valtioneuvoston asetus vaikeista ja pitkäaikaisista sairauksista ja niiden hoitoon käytettävistä lääkkeistä, joista sairausvakuutuslain mukaan korvataan 100 tai 75 prosenttia säädetyn kiinteän omavastuun ylittävältä osalta, annetun valtioneuvoston päätöksen muuttamisesta](489.md) `489/2001`
+- [Valtioneuvoston asetus merkittävistä ja kalliista sairausvakuutuslain 9 §:n 4 momentin mukaan korvattavista lääkkeistä ja sairauksista, joiden hoitoon ne korvataan](490.md) `490/2001`
+- [Liikenne\- ja viestintäministeriön asetus taksien reittitaksasta](491.md) `491/2001`
+- [Liikenne\- ja viestintäministeriön asetus taksitaksasta](492.md) `492/2001`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](493.md) `493/2001`
+- [Laki virallisista kääntäjistä annetun lain muuttamisesta](494.md) `494/2001`
+- [Valtioneuvoston asetus virallisista kääntäjistä annetun asetuksen muuttamisesta](495.md) `495/2001`
+- [Tasavallan presidentin asetus käytetyn polttoaineen ja radioaktiivisen jätteen huollon turvallisuutta koskevan yleissopimuksen voimaansaattamisesta](496.md) `496/2001`
+- [Valtioneuvoston asetus Euroopan yhteisön yleisen tutkintojen tunnustamisjärjestelmän voimaanpanosta annetun asetuksen 2 §:n muuttamisesta](497.md) `497/2001`
+- [Valtioneuvoston asetus varastoitujen metsämarjojen ja \-sienten määrien muuntamisesta tuoreita marjoja ja sieniä vastaaviksi määriksi](498.md) `498/2001`
+- [Sisäasiainministeriön asetus peitetoiminnan ja valeoston järjestämisestä sekä valvonnasta](499.md) `499/2001`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](500.md) `500/2001`
+- [Ulkoasiainministeriön asetus diplomaatti\- tai virkapassin omaavan Romanian kansalaisen vapauttamisesta viisumivelvollisuudesta](501.md) `501/2001`
+- [Sisäasiainministeriön asetus sisäasiainministeriön työjärjestyksen muuttamisesta](502.md) `502/2001`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Pietarsaaren kaupungin ja Luodon kunnan välillä](503.md) `503/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta mallasohran laatuvaatimuksista kasvinviljelyn kansallisena tukena maksettavassa mallasohran lisätuessa satovuonna 2000/2001](504.md) `504/2001`
+- [Valtioneuvoston asetus poronhoitovuodelta 2001/2002 maksettavasta eläinkohtaisesta tuesta](505.md) `505/2001`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen 9 ja 9 a §:n muuttamisesta](506.md) `506/2001`
+- [Maa\- ja metsätalousministeriön asetus emolehmä\- ja uuhipalkkioiden kiintiöistä](507.md) `507/2001`
+- [Maa\- ja metsätalousministeriön asetus kuitupellavan ja \-hampun jalostustuesta](508.md) `508/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta peltoalaperusteisten tukien valvonnasta](509.md) `509/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta eläintukien valvonnasta](510.md) `510/2001`
+- [Laki sairausvakuutuslain 16 ja 33 §:n muuttamisesta](511.md) `511/2001`
+- [Laki työttömien omaehtoisen opiskelun tukemisesta annetun lain 4 §:n muuttamisesta](512.md) `512/2001`
+- [Valtioneuvoston asetus kirjastoasetuksen 4 §:n muuttamisesta](513.md) `513/2001`
+- [Valtioneuvoston asetus LEADER\+ \-yhteisöaloiteohjelman toimeenpanosta](514.md) `514/2001`
+- [Valtioneuvoston asetus maaseutuelinkeinojen rahoituslain 69 ja 70 §:n soveltamisesta](515.md) `515/2001`
+- [Maa\- ja metsätalousministeriön asetus eräiden kolmansista maista tuotavien eläinten sekä niiden alkioiden ja sukusolujen eläintautivaatimuksista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](516.md) `516/2001`
+- [Maa\- ja metsätalousministeriön asetus eräiden eläinten ja tavaroiden eläintautivaatimuksista Euroopan yhteisön sisämarkkinoilla annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen 11 §:n muuttamisesta](517.md) `517/2001`
+- [Kauppa\- ja teollisuusministeriön asetus patentti\- ja rekisterihallituksen maksullisista suoritteista annetun kauppa\- ja teollisuusminis\-teriön päätöksen liitteenä olevan maksutaulukon muuttamisesta](518.md) `518/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta lampaiden maedi\-visnan ja vuohien CAE:n vastustamisesta](519.md) `519/2001`
+- [Laki rikoslain muuttamisesta](520.md) `520/2001`
+- [Laki ehdollisesta rangaistuksesta annetun lain kumoamisesta](521.md) `521/2001`
+- [Laki nuorista rikoksentekijöistä annetun lain muuttamisesta](522.md) `522/2001`
+- [Laki rikosrekisterilain 2 ja 10 §:n muuttamisesta](523.md) `523/2001`
+- [Laki Suomen ja muiden pohjoismaiden välisestä yhteistoiminnasta rikosasioissa annettujen tuomioiden täytäntöönpanossa annetun lain muuttamisesta](524.md) `524/2001`
+- [Laki rangaistusmääräysmenettelystä annetun lain 1 §:n 3 momentin kumoamisesta](525.md) `525/2001`
+- [Laki valtion erityisrahoitusyhtiön luotto\- ja takaustoiminnasta annetun lain muuttamisesta](526.md) `526/2001`
+- [Valtioneuvoston asetus vaarallisten aineiden ilmakuljetuksesta annetun asetuksen muuttamisesta](527.md) `527/2001`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta kappaletavarana aluksessa annetun asetuksen muuttamisesta](528.md) `528/2001`
+- [Sisäasiainministeriön asetus eräistä liikkumis\- ja oleskelukielloista annetun sisäasiainministeriön päätöksen 1 §:n muuttamisesta](529.md) `529/2001`
+- [Laki lapsilisälain 4 ja 7 §:n muuttamisesta](530.md) `530/2001`
+- [Laki lastensuojelulain 5 b §:n muuttamisesta](531.md) `531/2001`
+- [Laki eräiden elatusapujen sitomisesta elinkustannuksiin annetun lain 6 §:n 2 momentin kumoamisesta](532.md) `532/2001`
+- [Laki elatusturvalain muuttamisesta](533.md) `533/2001`
+- [Laki sotilasavustuslain 16 §:n muuttamisesta](534.md) `534/2001`
+- [Laki toimeentulotuesta annetun lain 9 ja 10 a §:n muuttamisesta](535.md) `535/2001`
+- [Laki sotilasvammalain muuttamisesta](536.md) `536/2001`
+- [Laki apteekkimaksusta annetun lain 2 §:n muuttamisesta](537.md) `537/2001`
+- [Laki raittiustyölain 10 §:n muuttamisesta](538.md) `538/2001`
+- [Laki kuntouttavasta työtoiminnasta annetun lain 17 ja 24 §:n muuttamisesta](539.md) `539/2001`
+- [Tasavallan presidentin asetus vaarallisten tavaroiden kansainvälisistä tiekuljetuksista tehdyn eurooppalaisen sopimuksen \(ADR\) A ja B liitteeseen tehtyjen muutosten voimaansaattamisesta](540.md) `540/2001`
+- [Opetusministeriön asetus ammatillisesta aikuiskoulutuksesta annetussa laissa \(631/1998\) tarkoitetusta tutkintorakenteesta](541.md) `541/2001`
+- [Laki asumistukilain muuttamisesta](542.md) `542/2001`
+- [Laki Euroopan tietoliikennesatelliittijärjestöä \(EUTELSAT\) koskevan yleissopimuksen ja siihen liittyvän toimintasopimuksen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](543.md) `543/2001`
+- [Laki Kansainvälistä tietoliikennetekokuujärjestöä \(INTELSAT\) koskevan sopimuksen ja siihen liittyvän toimintasopimuksen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](544.md) `544/2001`
+- [Valtioneuvoston asetus Karkalin luonnonpuistosta annetun asetuksen 3 §:n kumoamisesta](545.md) `545/2001`
+- [Valtioneuvoston asetus eräistä valtion omistamille alueille perustetuista kansallispuistoista ja luonnonpuistoista annetun asetuksen 8 §:n muuttamisesta](546.md) `546/2001`
+- [Valtioneuvoston asetus Vaisakon luonnonsuojelualueesta annetun asetuksen 5 §:n kumoamisesta](547.md) `547/2001`
+- [Valtioneuvoston asetus Aulangon luonnonsuojelualueesta annetun asetuksen muuttamisesta](548.md) `548/2001`
+- [Valtioneuvoston asetus lehtojensuojelualueista annetun asetuksen 10 §:n muuttamisesta](549.md) `549/2001`
+- [Valtioneuvoston asetus vanhojen metsien suojelusta annetun asetuksen 10 §:n muuttamisesta](550.md) `550/2001`
+- [Valtioneuvoston asetus Porkkalan saariston luonnonsuojelualueesta annetun asetuksen muuttamisesta](551.md) `551/2001`
+- [Valtioneuvoston asetus kaatopaikoista annetun valtioneuvoston päätöksen muuttamisesta annetun valtioneuvoston päätöksen voimaantulosäännöksen muuttamisesta](552.md) `552/2001`
+- [Sosiaali\- ja terveysministeriön asetus aikuiskoulutustuen ansio\-osan perusteena olevan palkan määrittämisestä](553.md) `553/2001`
+- [Liikenne\- ja viestintäministeriön asetus sairaankuljetuksen taksoista](554.md) `554/2001`
+- [Valtioneuvoston asetus kemikaaliasetuksen muuttamisesta](555.md) `555/2001`
+- [Valtioneuvoston asetus riistanhoitomaksusta ja pyyntilupamaksusta](556.md) `556/2001`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta tiellä annetun asetuksen muuttamisesta](557.md) `557/2001`
+- [Valtioneuvoston asetus vientitakuutoiminnassa noudatettavista periaatteista](558.md) `558/2001`
+- [Valtioneuvoston asetus kestävän metsätalouden rahoituksesta annetun lain 23 §:n 2 momentin voimaantulosta](559.md) `559/2001`
+- [Maa\- ja metsätalousministeriön asetus juurikäävän torjunnasta](560.md) `560/2001`
+- [Maa\- ja metsätalousministeriön asetus alkuvuoden 2000 tulvavahinkokorvausten maksamisesta annetun maa\- ja metsätalousministeriön asetuksen liitteen 2 muuttamisesta](561.md) `561/2001`
+- [Sosiaali\- ja terveysministeriön ilmoitus sosiaali\- ja terveysministeriön asetuksesta lastensuojelun suurten kustannusten tasausjärjestelmän seurantatiedoista](562.md) `562/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta mallasohran laatuvaatimuksista kasvinviljelyn kansallisena tukena maksettavassa mallasohran tuessa satovuonna 2000/2001 annetun asetuksen 3 §:n muuttamisesta](563.md) `563/2001`
+- [Tasavallan presidentin asetus tuomittujen siirtämisestä tehdyn yleissopimuksen lisäpöytäkirjan voimaansaattamisesta ja pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](564.md) `564/2001`
+- [Valtioneuvoston asetus kuljetusten alueellisesta tukemisesta annetun lain muuttamisesta annetun lain voimaantulosta](565.md) `565/2001`
+- [Valtioneuvoston asetus kuljetusten alueellisesta tukemisesta annetun asetuksen 5 §:n muuttamisesta](566.md) `566/2001`
+- [Valtioneuvoston asetus sotilasvammalain mukaisten korvausten sitomisesta palkkatasoon](567.md) `567/2001`
+- [Maa\- ja metsätalousministeriön asetus eläinproteiinin tuonnista, viennistä ja käytöstä eläinten ruokinnassa annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](568.md) `568/2001`
+- [Maa\- ja metsätalousministeriön asetus eläinproteiineista ja niitä sisältävistä rehuvalmisteista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](569.md) `569/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta rehuaineista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](570.md) `570/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta BSE\-taudin ja muiden TSE\-tautien varalta tutkittavien nautojen, lampaiden ja vuohien lihantarkastuksesta sekä tähän liittyvästä naudan lihan ja lihatuotteiden merkinnästä](571.md) `571/2001`
+- [Laki korkeimman oikeuden ja korkeimman hallinto\-oikeuden presidenttien ja jäsenten palvelussuhteen ehdoista annetun lain muuttamisesta](572.md) `572/2001`
+- [Valtioneuvoston asetus korkeimman oikeuden ja korkeimman hallinto\-oikeuden presidenttien ja jäsenten palvelussuhteen ehdoista annetun asetuksen kumoamisesta](573.md) `573/2001`
+- [Laki alueiden kehittämisestä annetun lain muuttamisesta](574.md) `574/2001`
+- [Laki maatilatalouden tuloverolain 10 a §:n muuttamisesta](575.md) `575/2001`
+- [Laki tuloverolain 38 ja 39 §:n muuttamisesta](576.md) `576/2001`
+- [Tasavallan presidentin asetus Pohjoismaiden välillä tehdyn avioliittoa, lapseksiottamista ja holhousta koskevia kansainvälis\-yksityisoikeudellisia määräyksiä sisältävän sopimuksen muuttamista tarkoittavan sopimuksen voimaansaattamisesta Suomen ja Norjan sekä Suomen ja Ruotsin välillä](577.md) `577/2001`
+- [Tasavallan presidentin asetus Suomen ulkomaanedustustojen sijaintipaikoista annetun tasavallan presidentin asetuksen muuttamisesta](578.md) `578/2001`
+- [Valtioneuvoston asetus kehitysalueelle tehtävien investointien korotetuista poistoista annetun lain 2 ja 8 §:n muuttamisesta annetun lain voimaantulosta](579.md) `579/2001`
+- [Laki rangaistusten täytäntöönpanosta annetun lain muuttamisesta](580.md) `580/2001`
+- [Laki maksuttomasta oikeudenkäynnistä annetun lain 1 §:n muuttamisesta](581.md) `581/2001`
+- [Laki tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista annetun lain 6 §:n muuttamisesta](582.md) `582/2001`
+- [Laki ammattikorkeakouluopinnoista annetun lain muuttamisesta](583.md) `583/2001`
+- [Laki eräistä ammattikorkeakouluopinnoista annetun lain toimeenpanon edellyttämistä järjestelyistä annetun lain 6 §:n muuttamisesta](584.md) `584/2001`
+- [Laki ammatillisesta opettajankoulutuksesta annetun lain 7 §:n muuttamisesta](585.md) `585/2001`
+- [Laki ympäristönsuojelulain muuttamisesta](586.md) `586/2001`
+- [Laki rikoslain 48 luvun 1 §:n muuttamisesta](587.md) `587/2001`
+- [Valtioneuvoston asetus maatalousyrittäjien opintorahaan tarkoitetusta tuesta vuodelta 2001](588.md) `588/2001`
+- [Maa\- ja metsätalousministeriön asetus puutavaran virallisen mittauksen perustoimitusmaksuista ja valvontamittauksesta perittävästä maksusta](589.md) `589/2001`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta eräistä Liberiaan kohdistuvista rajoittavista toimenpiteistä](590.md) `590/2001`
+- [Laki kemikaalilain muuttamisesta](591.md) `591/2001`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 10 a §:n muuttamisesta](592.md) `592/2001`
+- [Laki sotilasavustuslain 11 §:n muuttamisesta](593.md) `593/2001`
+- [Valtioneuvoston asetus ihmisen elimien ja kudoksien lääketieteellisestä käytöstä](594.md) `594/2001`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön varoista myönnettävän koulumaitotuen täytäntöönpanosta](595.md) `595/2001`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2001 metsänhoitomaksun perusteesta](596.md) `596/2001`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Perhon kunnan ja Alajärven kaupungin välillä](597.md) `597/2001`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Vetelin ja Evijärven kuntien välillä](598.md) `598/2001`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Vetelin, Evijärven ja Lappajärven kuntien välillä](599.md) `599/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta valvonnan tavoitteista ja yleisestä organisoinnista](600.md) `600/2001`
+- [Laki ampuma\-aselain muuttamisesta](601.md) `601/2001`
+- [Tasavallan presidentin asetus Maailman matkailujärjestön \(WTO\) perussäännön voimaansaattamisesta annetun asetuksen kumoamisesta](602.md) `602/2001`
+- [Tasavallan presidentin asetus Amerikan yhdysvaltain kanssa tehdyn lentoturvallisuuden edistämistä koskevan sopimuksen voimaansaattamisesta](603.md) `603/2001`
+- [Laki vuokra\-asuntolainojen ja asumisoikeustalolainojen korkotuesta](604.md) `604/2001`
+- [Laki yhteishallinnosta vuokrataloissa annetun lain 2 ja 3 §:n muuttamisesta](605.md) `605/2001`
+- [Laki asuinhuoneiston vuokrauksesta annetun lain 27 ja 32 §:n muuttamisesta](606.md) `606/2001`
+- [Laki indeksiehdon käytön rajoittamisesta annetun lain 3 §:n muuttamisesta](607.md) `607/2001`
+- [Kauppa\- ja teollisuusministeriön asetus kuluttajansuojalain 7 luvun eräiden säännösten soveltamisesta annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](608.md) `608/2001`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Himangan ja Lohtajan kuntien välillä](609.md) `609/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta broilereiden ja kalkkunoiden salmonellavalvontaohjelmasta](610.md) `610/2001`
+- [Valtioneuvoston asetus maanpuolustusopistosta annetun asetuksen kumoamisesta](611.md) `611/2001`
+- [Valtioneuvoston asetus maanpuolustuskorkeakoulusta annetun asetuksen muuttamisesta](612.md) `612/2001`
+- [Valtioneuvoston asetus ammatilliseen aikuiskoulutukseen myönnettävän valtionavustuksen myöntämisperusteista](613.md) `613/2001`
+- [Valtioneuvoston asetus opetustoimen henkilöstön kelpoisuusvaatimuksista annetun asetuksen 14 ja 28 §:n muuttamisesta](614.md) `614/2001`
+- [Valtioneuvoston asetus lukion tuntijaosta annetun valtioneuvoston päätöksen 1 ja 2 §:n muuttamisesta](615.md) `615/2001`
+- [Valtioneuvoston asetus tutkintojen rakenteesta ja yhteisistä opinnoista ammatillisessa peruskoulutuksessa annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](616.md) `616/2001`
+- [Opetusministeriön asetus aikuislukion tuntijaosta annetun opetusministeriön päätöksen 3 §:n muuttamisesta](617.md) `617/2001`
+- [Sosiaali\- ja terveysministeriön asetus liikennevakuutuslain mukaisten vakuutusten ja vahinkojen tilastoinnin perusteista sekä bonusjärjestelmästä](618.md) `618/2001`
+- [Verohallituksen päätös yleisestä tiedonantovelvollisuudesta](619.md) `619/2001`
+- [Valtioneuvoston asetus valtion taideteostoimikunnasta](620.md) `620/2001`
+- [Valtioneuvoston asetus ulkona käytettävien laitteiden melupäästöistä](621.md) `621/2001`
+- [Ulkoasiainministeriön asetus ulkoasiainministeriön työjärjestyksen muuttamisesta](622.md) `622/2001`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Toholammin ja Sievin kuntien välillä](623.md) `623/2001`
+- [Sosiaali\- ja terveysministeriön asetus vaarallisten aineiden luettelosta](624.md) `624/2001`
+- [Laki viestintähallinnosta](625.md) `625/2001`
+- [Tasavallan presidentin asetus Maailman kauppajärjestön lainsäädännöstä neuvoa\-antavan keskuksen perustamista koskevan sopimuksen voimaansaattamisesta](626.md) `626/2001`
+- [Maa\- ja metsätalousministeriön asetus kalojen VHS\-taudin vuoksi Pyhtään kuntaan perustettavasta rajoitusalueesta](627.md) `627/2001`
+- [Maa\- ja metsätalousministeriön asetus kalojen VHS\-taudin vuoksi Ahvenanmaan maakuntaan perustettavasta rajoitusalueesta](628.md) `628/2001`
+- [Laki  kirjanpitolain muuttamisesta](629.md) `629/2001`
+- [Laki tilintarkastuslain muuttamisesta](630.md) `630/2001`
+- [Tasavallan presidentin asetus uusien kasvilajikkeiden suojaamista koskevan kansainvälisen yleissopimuksen voimaansaattamisesta ja sen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](631.md) `631/2001`
+- [Puolustusministeriön asetus vaarallisten aineiden kuljetuksesta puolustusvoimien valvonnassa](632.md) `632/2001`
+- [Maa\- ja metsätalousministeriön asetus suu\- ja sorkkataudin vastustamisesta eläinten ja tavaroiden sisämarkkinakaupassa annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](633.md) `633/2001`
+- [Maa\- ja metsätalousministeriön asetus suu\- ja sorkkataudin vastustamisesta eläinten kuljetuksessa annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](634.md) `634/2001`
+- [Metsähallituksen ilmoitus Metsähallituksen päätöksestä Ruuttulammen luonnonsuojelualueen perustamisesta](635.md) `635/2001`
+- [Laki työttömyysturvalain muuttamisesta](636.md) `636/2001`
+- [Laki työmarkkinatuesta annetun lain 11 a ja 24 §:n muuttamisesta](637.md) `637/2001`
+- [Laki työvoimapoliittisesta aikuiskoulutuksesta annetun lain 17 ja 18 §:n muuttamisesta](638.md) `638/2001`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain muuttamisesta](639.md) `639/2001`
+- [Laki sairausvakuutuslain muuttamisesta](640.md) `640/2001`
+- [Laki kansaneläkelaitoksen järjestämästä kuntoutuksesta annetun lain 7 a §:n muuttamisesta](641.md) `641/2001`
+- [Laki kuntoutusrahalain muuttamisesta](642.md) `642/2001`
+- [Laki maatalousyrittäjien työterveyshuollon eräiden kustannusten korvaamisesta valtion varoista annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](643.md) `643/2001`
+- [Laki sairausvakuutuslain mukaisen omavastuuajan korvaamisesta maatalousyrittäjille annetun lain 5 §:n muuttamisesta](644.md) `644/2001`
+- [Laki ammattikorkeakoulun jatkotutkinnon kokeilusta](645.md) `645/2001`
+- [Laki aikuiskoulutustuesta annetun lain 6 §:n väliaikaisesta muuttamisesta](646.md) `646/2001`
+- [Laki työttömien omaehtoisen opiskelun tukemisesta annetun lain 5 §:n väliaikaisesta muuttamisesta](647.md) `647/2001`
+- [Valtioneuvoston asetus ammattikorkeakouluopinnoista annetun asetuksen 11 ja 22 a §:n muuttamisesta](648.md) `648/2001`
+- [Valtioneuvoston asetus humanistisista ja luonnontieteellisistä tutkinnoista annetun asetuksen liitteen muuttamisesta](649.md) `649/2001`
+- [Valtioneuvoston asetus terveystieteiden tutkinnoista annetun asetuksen 10 §:n muuttamisesta](650.md) `650/2001`
+- [Valtioneuvoston asetus vesistötoimenpiteiden tukemisesta](651.md) `651/2001`
+- [Valtioneuvoston asetus aikuiskoulutustuesta](652.md) `652/2001`
+- [Opetusministeriön asetus ammattikorkeakoulujen opetuksesta perittävien maksujen perusteista](653.md) `653/2001`
+- [Laki rikoslain muuttamisesta](654.md) `654/2001`
+- [Laki pakkokeinolain 5 luvun 11 §:n muuttamisesta](655.md) `655/2001`
+- [Laki rangaistusten täytäntöönpanosta annetun lain 2 luvun 9 b §:n muuttamisesta](656.md) `656/2001`
+- [Laki tutkintavankeudesta annetun lain 5 §:n muuttamisesta](657.md) `657/2001`
+- [Tasavallan presidentin asetus Liettuan kanssa sosiaaliturvasta tehdyn sopimuksen voimaansaattamisesta](658.md) `658/2001`
+- [Sisäasiainministeriön asetus pysäköintivirhemaksun korottamisesta](659.md) `659/2001`
+- [Laki vähemmistövaltuutetusta](660.md) `660/2001`
+- [Laki ulkomaalaislain muuttamisesta](661.md) `661/2001`
+- [Tasavallan presidentin asetus Suomen ja Ruotsin välillä lentoturvallisuuden parantamisesta lennettäessä sotilasilma\-aluksilla tehdyn sopimuksen voimaansaattamisesta](662.md) `662/2001`
+- [Tasavallan presidentin asetus pyörillä varustettuihin ajoneuvoihin ja niihin asennettaviin ja/tai niissä käytettäviin varusteisiin ja osiin sovellettavien maailmanlaajuisten teknisten sääntöjen vahvistamista koskevan sopimuksen voimaansaattamisesta](663.md) `663/2001`
+- [Valtioneuvoston asetus metsästysasetuksen muuttamisesta](664.md) `664/2001`
+- [Valtioneuvoston asetus porotalouden ja luontaiselinkeinojen rahoituslain mukaisista valtiontakauksista](665.md) `665/2001`
+- [Valtioneuvoston asetus vuokra\-asuntolainojen ja asumisoikeustalolainojen korkotuesta](666.md) `666/2001`
+- [Tasavallan presidentin asetus vankeinhoidon ansiorististä annetun asetuksen 6 §:n muuttamisesta](667.md) `667/2001`
+- [Valtioneuvoston asetus Vankeinhoidon koulutuskeskuksesta annetun asetuksen muuttamisesta](668.md) `668/2001`
+- [Valtioneuvoston asetus vankeinhoitoasetuksen muuttamisesta](669.md) `669/2001`
+- [Valtioneuvoston asetus yhdyskuntapalvelusta annetun asetuksen muuttamisesta](670.md) `670/2001`
+- [Valtioneuvoston asetus yhdyskuntapalvelun täytäntöönpanosta annetun asetuksen muuttamisesta](671.md) `671/2001`
+- [Valtioneuvoston asetus nuorisorangaistuksen kokeilemisesta annetun asetuksen muuttamisesta](672.md) `672/2001`
+- [Valtioneuvoston asetus nuorista rikoksentekijöistä annetun asetuksen muuttamisesta](673.md) `673/2001`
+- [Valtioneuvoston asetus vaarallisten rikoksenuusijain eristämisestä annetun lain täytäntöönpanosta ja soveltamisesta annetun asetuksen 1 ja 9 §:n muuttamisesta](674.md) `674/2001`
+- [Valtioneuvoston asetus pakkolaitoksesta annetun asetuksen muuttamisesta](675.md) `675/2001`
+- [Valtioneuvoston asetus ehdonalaisesti vapautetun vangin valvonnasta annetun asetuksen muuttamisesta](676.md) `676/2001`
+- [Valtioneuvoston asetus kansainvälisestä yhteistoiminnasta eräiden rikosoikeudellisten seuraamusten täytäntöönpanossa annetun asetuksen 4 §:n muuttamisesta](677.md) `677/2001`
+- [Valtioneuvoston asetus rikosrekisteriasetuksen 9 §:n muuttamisesta](678.md) `678/2001`
+- [Valtioneuvoston asetus virkavalasta ja virkavakuutuksesta sekä tuomarinvalasta ja tuomarinvakuutuksesta annetun asetuksen 8 §:n muuttamisesta](679.md) `679/2001`
+- [Valtioneuvoston asetus valtion virkamiesten eroraha\-asetuksen 10 §:n muuttamisesta](680.md) `680/2001`
+- [Valtioneuvoston asetus valtion virkamiesten erorahan suuruudesta annetun valtioneuvoston päätöksen 6 §:n muuttamisesta](681.md) `681/2001`
+- [Laki Venäjän kanssa kansainvälisestä maantieliikenteestä tehdyn sopimuksen eräiden määräysten hyväksymisestä](682.md) `682/2001`
+- [Tasavallan presidentin asetus Venäjän kanssa kansainvälisestä maantieliikenteestä tehdyn sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](683.md) `683/2001`
+- [Tasavallan presidentin asetus Romanian kanssa henkilöiden takaisinottamisesta tehdyn sopimuksen voimaansaattamisesta](684.md) `684/2001`
+- [Tasavallan presidentin asetus Euroopan lepakoiden suojelusta tehdyn sopimuksen muutoksen voimaansaattamisesta](685.md) `685/2001`
+- [Tasavallan presidentin asetus Suomen, Viron ja Ruotsin välillä merivyöhykerajojen kohtauspisteestä Itämerellä tehdyn sopimuksen voimaansaattamisesta](686.md) `686/2001`
+- [Valtioneuvoston asetus vähemmistövaltuutetusta](687.md) `687/2001`
+- [Valtionavustuslaki](688.md) `688/2001`
+- [Laki valtion talousarviosta annetun lain 7 c §:n muuttamisesta](689.md) `689/2001`
+- [Laki kansanterveyslain 5 ja 6 §:n muuttamisesta](690.md) `690/2001`
+- [Laki terveydensuojelulain muuttamisesta](691.md) `691/2001`
+- [Laki elintarvikelain 11 §:n muuttamisesta](692.md) `692/2001`
+- [Laki toimenpiteistä tupakoinnin vähentämiseksi annetun lain 14 §:n muuttamisesta](693.md) `693/2001`
+- [Laki eläimistä saatavien elintarvikkeiden elintarvikehygieniasta annetun lain muuttamisesta](694.md) `694/2001`
+- [Laki tuoteturvallisuuslain 7 ja 19 §:n muuttamisesta](695.md) `695/2001`
+- [Laki kemikaalilain 7 §:n muuttamisesta](696.md) `696/2001`
+- [Valtioneuvoston asetus viestintähallinnosta](697.md) `697/2001`
+- [Laki aravalain muuttamisesta](698.md) `698/2001`
+- [Laki vuokratalolainojen lainaehtojen muuttamisesta annetun lain 6 §:n muuttamisesta](699.md) `699/2001`
+- [Laki omistusasuntolainojen korkotuesta annetun lain 5 §:n muuttamisesta](700.md) `700/2001`
+- [Laki omistusasuntolainojen valtiontakauksesta annetun lain 5 §:n muuttamisesta](701.md) `701/2001`
+- [Laki asuntosäästöpalkkion suorittamisesta ennen vuotta 1993 tehdyissä asuntosäästösopimuksissa](702.md) `702/2001`
+- [Laki asuntosäästöpalkkiolain 14 §:n muuttamisesta](703.md) `703/2001`
+- [Valtioneuvoston asetus Vakuutusvalvontavirastosta annetun asetuksen 7 §:n muuttamisesta](704.md) `704/2001`
+- [Sosiaali\- ja terveysministeriön asetus sairausvakuutuslain 5 a §:ssä tarkoitettujen eräiden reseptittä myytävien lääkkeiden korvaamisesta](705.md) `705/2001`
+- [Sisäasiainministeriön asetus rajavyöhykkeestä ja rajavyöhykkeen takarajasta](706.md) `706/2001`
+- [Maa\- ja metsätalousministeriön asetus eräiden kolmansista maista tuotavien eläinten sekä niiden alkioiden ja sukusolujen eläintautivaatimuksista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](707.md) `707/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvituotteiden maahantuonnissa, maastaviennissä ja markkinoinnissa noudatettavista kasvinsuojelun vaatimuksista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](708.md) `708/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kanojen salmonellavalvontaohjelmasta](709.md) `709/2001`
+- [Valtioneuvoston asetus sairausvakuutusasetuksen 9 ja 10 §:n muuttamisesta](710.md) `710/2001`
+- [Valtioneuvoston asetus ilmanlaadusta](711.md) `711/2001`
+- [Valtioneuvoston asetus maaseudun kehittämisestä annetun valtioneuvoston asetuksen 57 §:n muuttamisesta](712.md) `712/2001`
+- [Maa\- ja metsätalousministeriön asetus maaseudun kehittämishankkeisiin myönnettävän tuen kohdentamisesta vuonna 2001 annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](713.md) `713/2001`
+- [Verohallituksen päätös vuoden 2001 kiinteistöverotuksen päättymisestä](714.md) `714/2001`
+- [Valtioneuvoston asetus kemiallisista tekijöistä työssä](715.md) `715/2001`
+- [Valtioneuvoston asetus traktoreiden EY\-tyyppihyväksynnästä](716.md) `716/2001`
+- [Laki syöpäsairauden vaaraa aiheuttaville aineille ja menetelmille ammatissaan altistuvien rekisteristä](717.md) `717/2001`
+- [Tasavallan presidentin asetus Euroopan sääsatelliittijärjestön \(EUMETSAT\) perustamista koskevan yleissopimuksen muutosten voimaansaattamisesta](718.md) `718/2001`
+- [Valtioneuvoston asetus vaikeista sairauksista ja niiden hoitoon käytettävistä kliinisistä ravintovalmisteista, joihin suoritetaan sairausvakuutuslain mukaista korvausta, annetun valtioneuvoston päätöksen 1 ja 2 §:n muuttamisesta](719.md) `719/2001`
+- [Sisäasiainministeriön asetus pelastusautoista](720.md) `720/2001`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Ruokolahden kuntaan perustettavista rajoitusalueista](721.md) `721/2001`
+- [Maa\- ja metsätalousministeriön asetus metsätalouden ympäristötuen laskennassa käytettävästä puukuutiometrin keskikantohinnasta](722.md) `722/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta maatalouden ympäristötuen koulutusmäärärahojen jakamisesta vuonna 2001](723.md) `723/2001`
+- [Laki kansaneläkelain muuttamisesta](724.md) `724/2001`
+- [Laki eläkkeensaajien asumistukilain muuttamisesta](725.md) `725/2001`
+- [Laki perhe\-eläkelain muuttamisesta](726.md) `726/2001`
+- [Laki rintamasotilaseläkelain muuttamisesta](727.md) `727/2001`
+- [Laki ulkomaille maksettavasta rintamalisästä annetun lain muuttamisesta](728.md) `728/2001`
+- [Laki vammaistukilain muuttamisesta](729.md) `729/2001`
+- [Laki lapsen hoitotuesta annetun lain muuttamisesta](730.md) `730/2001`
+- [Laki Kansaneläkelaitoksesta](731.md) `731/2001`
+- [Laki kansaneläkelain muuttamisesta](732.md) `732/2001`
+- [Laki sairausvakuutuslain muuttamisesta](733.md) `733/2001`
+- [Laki opintotukilain muuttamisesta](734.md) `734/2001`
+- [Valtioneuvoston asetus kolttalain muuttamisesta annetun lain 43 §:n 2 momentin voimaantulosta](735.md) `735/2001`
+- [Valtioneuvoston asetus hylkeidensuojelualueista](736.md) `736/2001`
+- [Laki elintarvikelain 6 ja 24 §:n muuttamisesta](737.md) `737/2001`
+- [Valtioneuvoston asetus valtioneuvoston ohjesäännön muuttamisesta](738.md) `738/2001`
+- [Valtioneuvoston asetus rikoslain 1 luvun 7 §:n soveltamisesta annetun asetuksen 1 §:n muuttamisesta](739.md) `739/2001`
+- [Valtioneuvoston asetus tie\- ja maastoliikenneonnettomuuksien tutkinnasta](740.md) `740/2001`
+- [Valtioneuvoston asetus asetuksen, joka sisältää liikennevakuutuskeskuksen säännöt, 2 §:n muuttamisesta](741.md) `741/2001`
+- [Valtioneuvoston asetus asumistukiasetuksen 1 §:n muuttamisesta](742.md) `742/2001`
+- [Sosiaali\- ja terveysministeriön asetus riskien luokittelusta ja vakuutusmaksun määräytymisestä ammatin tai työn vaarallisuuden mukaan sekä vakuutuksenottajan oman vahinkotilaston huomioon ottamisesta tapaturmavakuutuslain 35 §:n mukaisen vakuutusmaksun määräytymisessä](743.md) `743/2001`
+- [Kauppa\- ja teollisuusministeriön asetus Finnvera Oyj:n pääomatakuista](744.md) `744/2001`
+- [Liikenne\- ja viestintäministeriön asetus vaurioituneen ajoneuvon kunnostamisesta ja ajoneuvon kokoamisesta osista annetun liikenneministeriön päätöksen 8 §:n muuttamisesta](745.md) `745/2001`
+- [Laki Bosnia ja Hertsegovinan kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](746.md) `746/2001`
+- [Laki Makedonian kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](747.md) `747/2001`
+- [Valtioneuvoston asetus kirjanpitoasetuksen muuttamisesta](748.md) `748/2001`
+- [Valtioneuvoston asetus puunkorjuutyön turvallisuudesta](749.md) `749/2001`
+- [Liikenne\- ja viestintäministeriön asetus erikoiskuljetuksista ja erikoiskuljetusajoneuvoista annetun liikenneministeriön päätöksen muuttamisesta](750.md) `750/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta eräiden maa\- ja metsätalousministeriön yleiskirjeiden kumoamisesta](751.md) `751/2001`
+- [Valtioneuvoston asetus valtion virkaehtosopimusasetuksen 9 ja 10 §:n muuttamisesta](752.md) `752/2001`
+- [Valtioneuvoston asetus kesäajasta](753.md) `753/2001`
+- [Opetusministeriön päätös Al\-Risala Islamilainen Yhdyskunta \-nimisen uskonnollisen yhdyskunnan merkitsemisestä uskonnollisten yhdyskuntien rekisteriin](754.md) `754/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta nautaeläinten tuberkuloosin vastustamisesta annetun maa\- ja metsätalousministeriön yleiskirjeen muuttamisesta](755.md) `755/2001`
+- [Laki kalastuslain 6 a §:n muuttamisesta](756.md) `756/2001`
+- [Laki nestemäisten polttoaineiden valmisteverosta annetun lain 2 §:n muuttamisesta](757.md) `757/2001`
+- [Tasavallan presidentin asetus aavikoitumisen estämiseksi vakavasta kuivuudesta ja/tai aavikoitumisesta kärsivissä maissa, erityisesti Afrikassa, tehdyn Yhdistyneiden Kansakuntien yleissopimuksen alueellista täytäntöönpanoa Keski\- ja Itä\-Eurooppaa varten tehdyn V liitteen voimaansaattamisesta](758.md) `758/2001`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](759.md) `759/2001`
+- [Valtioneuvoston asetus poliisikoulutuksesta annetun asetuksen 23 §:n muuttamisesta](760.md) `760/2001`
+- [Valtioneuvoston asetus valtion virkamiesasetuksen 18 §:n muuttamisesta](761.md) `761/2001`
+- [Laki Euroopan yhteisön ja sen jäsenvaltioiden sekä Sveitsin valaliiton välillä henkilöiden vapaasta liikkuvuudesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](762.md) `762/2001`
+- [Laki ulkomaalaislain muuttamisesta](763.md) `763/2001`
+- [Laki oikeudenkäymiskaaren 15 luvun 2 §:n muuttamisesta](764.md) `764/2001`
+- [Laki asianajajista annetun lain muuttamisesta](765.md) `765/2001`
+- [Laki terveydenhuollon ammattihenkilöistä annetun lain muuttamisesta](766.md) `766/2001`
+- [Laki tilintarkastuslain 4 §:n muuttamisesta](767.md) `767/2001`
+- [Laki opintotukilain 1 §:n muuttamisesta](768.md) `768/2001`
+- [Laki eräiden Suomen\-Sveitsin väliaikaiseen kauppasopimukseen tehdyn lisäsopimuksen säännösten hyväksymisestä annetun lain kumoamisesta](769.md) `769/2001`
+- [Valtioneuvoston asetus ajoneuvojen rekisteröinnistä annetun asetuksen muuttamisesta](770.md) `770/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta erityistukisopimusten tekemisestä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](771.md) `771/2001`
+- [Tasavallan presidentin asetus Slovakian kanssa yhteistyöstä ja keskinäisestä avunannosta tulliasioissa tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](772.md) `772/2001`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon vuoden 2002 voimavaroista](773.md) `773/2001`
+- [Sisäasiainministeriön asetus säteilyvaaratilanteiden varalle laadittavista pelastustoimen suunnitelmista ja säteilyvaarasta tiedottamisesta](774.md) `774/2001`
+- [Laki valtion eläkelain muuttamisesta](775.md) `775/2001`
+- [Laki valtion eläkelain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](776.md) `776/2001`
+- [Laki valtion eläkelain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](777.md) `777/2001`
+- [Laki valtion eläkelain muuttamisesta annetun lain voimaantulosäännöksen 6 momentin kumoamisesta](778.md) `778/2001`
+- [Laki eräiden valtion toimintojen kunnallistamista koskevien eräiden lakien ja säännösten kumoamisesta](779.md) `779/2001`
+- [Valtioneuvoston asetus eräiden Oulun yliopistossa suoritettujen opintojen tuottamasta kelpoisuudesta teknisen työn opetukseen](780.md) `780/2001`
+- [Valtioneuvoston asetus ajoneuvojen rakenteesta ja varusteista annetun asetuksen muuttamisesta](781.md) `781/2001`
+- [Valtioneuvoston asetus työministeriöstä annetun asetuksen 6 §:n muuttamisesta](782.md) `782/2001`
+- [Valtioneuvoston asetus työvoimapoliittisesta neuvottelukunnasta annetun asetuksen muuttamisesta](783.md) `783/2001`
+- [Valtioneuvoston asetus työelämän tutkimuspolitiikan neuvottelukunnasta annetun asetuksen kumoamisesta](784.md) `784/2001`
+- [Maa\- ja metsätalousministeriön asetus poronhoitovuodelta 2001/2002 maksettavasta eläinkohtaisesta tuesta](785.md) `785/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2001 uuhipalkkion ensimmäisen ennakon maksatuksesta](786.md) `786/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta ohjelmakausien 1995―99 ja 2000―2006 maatalouden ympäristötuen ja luonnonhaittakorvauksen maksatuksesta vuonna 2001](787.md) `787/2001`
+- [Valtioneuvoston asetus valtion virkamiesasetuksen 3 §:n muuttamisesta](788.md) `788/2001`
+- [Valtioneuvoston asetus aina määräajaksi täytettävistä viroista annetun asetuksen muuttamisesta](789.md) `789/2001`
+- [Sisäasiainministeriön asetus käsisammuttimista](790.md) `790/2001`
+- [Maa\- ja metsätalousministeriön asetus puutarhatuotteiden varastointituesta vuonna 2001](791.md) `791/2001`
+- [Maa\- ja metsätalousministeriön asetus kolmansista maista tuotavasta lihasta ja lihatuotteista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](792.md) `792/2001`
+- [Verohallituksen päätös muiden verovelvollisten kuin yhteisöjen ja yhteisetuuksien verovuoden 2000 verotuksen päättymisestä](793.md) `793/2001`
+- [Valtioneuvoston asetus maaseutuelinkeinojen rahoituslain voimaantulosta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](794.md) `794/2001`
+- [Valtioneuvoston asetus maaseudun kehittämisestä annetun valtioneuvoston asetuksen 103 §:n muuttamisesta](795.md) `795/2001`
+- [Maa\- ja metsätalousministeriön asetus maatilatalouden rakennetuen ja vastaavan yritystoimintaan myönnettävän tuen kohdentamisesta vuonna 2001 annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](796.md) `796/2001`
+- [Valtiovarainministeriön asetus verovuoden 2000 ennakonpalautusten maksamisesta](797.md) `797/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta ohjelmakausien 1995―99 ja 2000―2006 maatalouden ympäristötuen ja luonnonhaittakorvauksen maksatuksesta vuonna 2001 annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](798.md) `798/2001`
+- [Valtioneuvoston asetus sairausvakuutusasetuksen 18 §:n muuttamisesta](799.md) `799/2001`
+- [Valtioneuvoston asetus eläimistä saatavien elintarvikkeiden elintarvikehygieniasta annetun asetuksen 3 §:n muuttamisesta](800.md) `800/2001`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2001 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista annetun valtiovarainministeriön asetuksen 2 §:n muuttamisesta](801.md) `801/2001`
+- [Sisäasiainministeriön asetus ilmanvaihtokanavien ja \-laitteistojen puhdistamisesta](802.md) `802/2001`
+- [Maa\- ja metsätalousministeriön asetus kasvihuoneviljelmien energiainvestointeihin myönnettävistä avustuksista annetun maa\- ja metsätalousministeriön päätöksen kumoamisesta](803.md) `803/2001`
+- [Maa\- ja metsätalousministeriön asetus maatilakiinteistöjen energia\-avustuksista annetun maa\- ja metsätalousministeriön päätöksen kumoamisesta](804.md) `804/2001`
+- [Liikenne\- ja viestintäministeriön asetus eräiden vaarallisten aineiden tie\- ja rautatiekuljetuksissa käytettävien kuljetettavien painelaitteiden teknisistä vaatimuksista](805.md) `805/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta lisätoimenpiteistä mäntyankeroisen leviämisen estämiseksi tietyistä maista maahantuotavan havupuupakkausmateriaalin välityksellä annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](806.md) `806/2001`
+- [Sosiaali\- ja terveysministeriön asetus kemikaalien luokitusperusteista ja merkintöjen tekemisestä](807.md) `807/2001`
+- [Valtioneuvoston asetus tie\- ja maastoliikenneonnettomuuksien tutkinnassa tutkijalautakunnan työstä maksettavien palkkioiden ja korvausten yleisistä perusteista](808.md) `808/2001`
+- [Valtioneuvoston asetus merkittävistä ja kalliista sairausvakuutuslain 9 §:n 4 momentin mukaan korvattavista lääkkeistä ja sairauksista, joiden hoitoon ne korvataan](809.md) `809/2001`
+- [Valtioneuvoston asetus työterveyslaitoksen toiminnasta ja rahoituksesta annetun asetuksen 8 §:n muuttamisesta](810.md) `810/2001`
+- [Valtioneuvoston asetus etnisten suhteiden neuvottelukunnasta annetun asetuksen 4 §:n muuttamisesta](811.md) `811/2001`
+- [Valtioneuvoston asetus merenkulkulaitoksesta annetun asetuksen 23 §:n muuttamisesta](812.md) `812/2001`
+- [Liikenne\- ja viestintäministeriön asetus merenkulkulaitoksen maksullisista suoritteista annetun liikenneministeriön päätöksen 4 §:n muuttamisesta](813.md) `813/2001`
+- [Ympäristöministeriön asetus Suomen ympäristökeskuksen maksullisista suoritteista annetun ympäristöministeriön asetuksen maksutaulukon muuttamisesta](814.md) `814/2001`
+- [Ympäristöministeriön asetus Euroopan yhteisön ympäristömerkkiä koskevista maksullisista suoritteista](815.md) `815/2001`
+- [Verohallituksen päätös Konserniverokeskuksen toimivallasta ja Konserniverokeskuksessa verotettavista verovelvollisista](816.md) `816/2001`
+- [Verohallituksen päätös Konserniverokeskuksessa verotettavista verovelvollisista](817.md) `817/2001`
+- [Tasavallan presidentin asetus Suomen, Norjan ja Ruotsin välillä Pohjoiskalotin koulutussäätiöstä tehdyn sopimuksen voimaansaattamisesta](818.md) `818/2001`
+- [Valtioneuvoston asetus kalastusasetuksen 46 ja 50 §:n muuttamisesta](819.md) `819/2001`
+- [Valtioneuvoston asetus metsästysasetuksen 37 §:n muuttamisesta](820.md) `820/2001`
+- [Valtioneuvoston asetus petoeläinvahinkojen korvaamisesta annetun valtioneuvoston asetuksen 16 ja 20 §:n muuttamisesta](821.md) `821/2001`
+- [Valtioneuvoston asetus hirvieläinvahinkojen korvaamisesta annetun valtioneuvoston asetuksen 22 §:n muuttamisesta](822.md) `822/2001`
+- [Valtioneuvoston asetus riistanhoitomaksusta ja pyyntilupamaksusta](823.md) `823/2001`
+- [Maa\- ja metsätalousministeriön asetus elävän riistaeläimen ohjeellisista arvoista](824.md) `824/2001`
+- [Valtioneuvoston asetus aluksessa käytettävistä suojeluvälineistä ja mittauslaitteista](825.md) `825/2001`
+- [Valtioneuvoston asetus kestävän metsätalouden rahoituksesta annetun asetuksen muuttamisesta](826.md) `826/2001`
+- [Valtiovarainministeriön asetus MARKKA\-juhlarahoista](827.md) `827/2001`
+- [Maa\- ja metsätalousministeriön asetus satovahinkojen korvaamisessa käytettävistä yksikköhinnoista ja normisadoista vuonna 2001](828.md) `828/2001`
+- [Sosiaali\- ja terveysministeriön asetus paikkakuntien kalleusluokituksesta sotilasvammalain mukaisen huoltoeläkkeen ja täydennyskoron maksamista varten](829.md) `829/2001`
+- [Maa\- ja metsätalousministeriön asetus lihantarkastuksesta ja eräiden liha\-alan laitosten valvonnasta perittävistä maksuista](830.md) `830/2001`
+- [Maa\- ja metsätalousministeriön asetus eräiden kalastustuotteiden ja kalalaitosten valvonnasta perittävistä maksuista](831.md) `831/2001`
+- [Maa\- ja metsätalousministeriön asetus rajaeläinlääkärin suoritteista perittävistä maksuista](832.md) `832/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta mallasohran laatuvaatimuksista kasvinviljelyn kansallisena tukena maksettavassa mallasohran tuessa markkinointivuonna 2001/2002](833.md) `833/2001`
+- [Valtioneuvoston asetus valtionosuuden perusteena käytettävistä opetus\- ja kirjastotoimen keskimääräisistä yksikköhinnoista vuonna 2002](834.md) `834/2001`
+- [Valtioneuvoston asetus maatalouden ympäristötukeen varatun määrärahan käyttämisestä vuonna 2001 annetun valtioneuvoston asetuksen muuttamisesta](835.md) `835/2001`
+- [Valtioneuvoston asetus asuntosäästöpalkkioasetuksen 5 §:n muuttamisesta](836.md) `836/2001`
+- [Valtioneuvoston asetus oman asunnon hankintaan myönnettävien lainojen korkotuesta annetun asetuksen 1 a §:n muuttamisesta](837.md) `837/2001`
+- [Ulkoasiainministeriön ilmoitus ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](838.md) `838/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta tuoreen rehukasvin säilöntäaineista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](839.md) `839/2001`
+- [Laki lahjontaa koskevan Euroopan neuvoston siviilioikeudellisen yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](840.md) `840/2001`
+- [Tasavallan presidentin asetus Suomen hallituksen ja Pohjois\-Atlantin liiton välillä tehdyn sopimuksen, jolla sitoudutaan noudattamaan entisen Jugoslavian tasavallan Makedonian ja NATO:n välillä KFOR REAR \-päämajan ja Makedonian alueella olevan KFOR\-henkilöstön asemasta tehtyä sopimusta, voimaansaattamisesta](841.md) `841/2001`
+- [Liikenne\- ja viestintäministeriön asetus Viestintäviraston maksuista](842.md) `842/2001`
+- [Valtioneuvoston asetus yleisen oikeusavun ja maksuttoman oikeudenkäynnin palkkioperusteista annetun asetuksen muuttamisesta](843.md) `843/2001`
+- [Valtioneuvoston asetus lääketaksasta](844.md) `844/2001`
+- [Valtioneuvoston asetus kuntoutusraha\-asetuksen 5 a §:n muuttamisesta](845.md) `845/2001`
+- [Valtioneuvoston asetus kansaneläkelaitoksen järjestämästä kuntoutuksesta annetun asetuksen 1 §:n muuttamisesta](846.md) `846/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden maatilatalouden kehittämisrahaston varoista myönnettyjen valtionlainojen korosta](847.md) `847/2001`
+- [Laki yleisistä syyttäjistä annetun lain 3 ja 11 §:n muuttamisesta](848.md) `848/2001`
+- [Laki kansainvälisestä oikeusavusta rikosasioissa annetun lain muuttamisesta](849.md) `849/2001`
+- [Laki Luxemburgin kanssa sosiaaliturvasta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](850.md) `850/2001`
+- [Valtioneuvoston asetus fysiikan tutkimuslaitoksesta annetun asetuksen kumoamisesta](851.md) `851/2001`
+- [Valtioneuvoston asetus maaseudun kehittämisestä annetun valtioneuvoston asetuksen muuttamisesta](852.md) `852/2001`
+- [Valtioneuvoston asetus omaishoidon tuesta annetun asetuksen 7 §:n muuttamisesta](853.md) `853/2001`
+- [Sosiaali\- ja terveysministeriön asetus sairausvakuutuslain 7 §:ssä tarkoitetun lääkärinpalkkioiden korvaamista koskevan taksan perusteista](854.md) `854/2001`
+- [Sosiaali\- ja terveysministeriön asetus sairausvakuutuslain 8 §:ssä tarkoitetun tutkimuksen ja hoidon korvaamista koskevan taksan perusteista](855.md) `855/2001`
+- [Sosiaali\- ja terveysministeriön asetus sairausvakuutuslain 7 §:ssä tarkoitetun hammaslääkärinpalkkioiden ja hammashoidon korvaamista koskevan taksan perusteista](856.md) `856/2001`
+- [Valtioneuvoston oikeuskanslerin päätös oikeuskanslerinviraston suoritteiden maksullisuudesta](857.md) `857/2001`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](858.md) `858/2001`
+- [Laki ennakkoperintälain 23 §:n muuttamisesta](859.md) `859/2001`
+- [Laki tuloverolain 105 a ja 143 §:n muuttamisesta](860.md) `860/2001`
+- [Laki työllisyyslain 21 §:n muuttamisesta](861.md) `861/2001`
+- [Laki palkkaturvalain 9 §:n muuttamisesta](862.md) `862/2001`
+- [Laki merimiesten palkkaturvalain 8 §:n muuttamisesta](863.md) `863/2001`
+- [Laki työehtosopimuslain muuttamisesta](864.md) `864/2001`
+- [Valtioneuvoston asetus opintotukiasetuksen muuttamisesta](865.md) `865/2001`
+- [Valtioneuvoston asetus lukiokoulutuksen ja ammatillisen koulutuksen opiskelijoiden koulumatkatuesta annetun asetuksen muuttamisesta](866.md) `866/2001`
+- [Sisäasiainministeriön asetus sisäasiainministeriön työjärjestyksen muuttamisesta](867.md) `867/2001`
+- [Valtiovarainministeriön asetus verohallinnon suoritteiden maksullisuudesta](868.md) `868/2001`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain 9 §:ssä tarkoitetuista indeksiluvuista](869.md) `869/2001`
+- [Maa\- ja metsätalousministeriön asetus Elintarvikeviraston suoritteista perittävistä maksuista](870.md) `870/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2001 metsämarjojen ja \-sienten varastointituen maksatuksesta](871.md) `871/2001`
+- [Valtioneuvoston asetus eräiden valtioneuvoston yleisistunnossaan tekemien, opetusministeriön hallinnonalaan kuuluvien päätösten maksullisuudesta ja maksujen suuruudesta annetun asetuksen 1 §:n muuttamisesta](872.md) `872/2001`
+- [Sisäasiainministeriön asetus kunnan palokunnan sivutoimiseen ja sopimuspalokunnan sammutus\- ja pelastustyöhön osallistuvan henkilöstön koulutusvaatimuksista](873.md) `873/2001`
+- [Maa\- ja metsätalousministeriön asetus metsäkeskusten ja Metsätalouden kehittämiskeskus Tapion suoritteiden maksullisuudesta](874.md) `874/2001`
+- [Laki rikoslain muuttamisesta](875.md) `875/2001`
+- [Laki metsästyslain 80 §:n muuttamisesta](876.md) `876/2001`
+- [Laki kalastuslain muuttamisesta](877.md) `877/2001`
+- [Laki luonnonsuojelulain 59 §:n muuttamisesta](878.md) `878/2001`
+- [Laki matkustaja\-alus Estonian hylyn rauhoittamisesta annetun lain 6 §:n muuttamisesta](879.md) `879/2001`
+- [Laki ydinenergialain 73 §:n muuttamisesta](880.md) `880/2001`
+- [Laki metsälain 19 §:n muuttamisesta](881.md) `881/2001`
+- [Laki eräiden Suomelle Yhdistyneiden Kansakuntien ja Euroopan unionin jäsenenä kuuluvien velvoitusten täyttämisestä annetun lain 2 a ja 4 §:n muuttamisesta](882.md) `882/2001`
+- [Laki kulttuuriesineiden maastaviennin rajoittamisesta annetun lain 14 §:n muuttamisesta](883.md) `883/2001`
+- [Laki kaksikäyttötuotteiden vientivalvonnasta annetun lain 9 §:n muuttamisesta](884.md) `884/2001`
+- [Laki valmiuslain 49 §:n muuttamisesta](885.md) `885/2001`
+- [Laki elintarvikelain muuttamisesta](886.md) `886/2001`
+- [Laki Euroopan yhteisön yhteisen kalastuspolitiikan täytäntöönpanosta annetun lain 8 §:n muuttamisesta](887.md) `887/2001`
+- [Laki lannoitelain 21 §:n muuttamisesta](888.md) `888/2001`
+- [Laki rehulain 41 §:n muuttamisesta](889.md) `889/2001`
+- [Laki kansainvälisestä energiaohjelmasta tehdyn sopimuksen eräiden määräysten hyväksymisestä ja sopimuksen soveltamisesta annetun lain 14 §:n muuttamisesta](890.md) `890/2001`
+- [Laki eläinsuojelulain muuttamisesta](891.md) `891/2001`
+- [Laki terveydenhuollon laitteista ja tarvikkeista annetun lain muuttamisesta](892.md) `892/2001`
+- [Laki eräiden menettämisseuraamussäännösten kumoamisesta](893.md) `893/2001`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain muuttamisesta](894.md) `894/2001`
+- [Maa\- ja metsätalousministeriön asetus Suomen turskakiintiön jakamisesta vuonna 2001](895.md) `895/2001`
+- [Laki tuloverolain muuttamisesta](896.md) `896/2001`
+- [Laki varallisuusverolain muuttamisesta](897.md) `897/2001`
+- [Laki elinkeinotulon verottamisesta annetun lain 13 ja 33 §:n muuttamisesta](898.md) `898/2001`
+- [Laki maatilatalouden tuloverolain muuttamisesta](899.md) `899/2001`
+- [Laki asuintalovarauksesta verotuksessa annetun lain 3 §:n muuttamisesta](900.md) `900/2001`
+- [Laki kehitysalueelle tehtävien investointien korotetuista poistoista annetun lain 2 a §:n muuttamisesta](901.md) `901/2001`
+- [Laki rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun lain muuttamisesta](902.md) `902/2001`
+- [Laki ulkomailta tulevan palkansaajan lähdeverosta annetun lain 2 §:n muuttamisesta](903.md) `903/2001`
+- [Laki korkotulon lähdeverosta annetun lain 6 §:n muuttamisesta](904.md) `904/2001`
+- [Laki ennakkoperintälain muuttamisesta](905.md) `905/2001`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain 3 §:n kumoamisesta](906.md) `906/2001`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](907.md) `907/2001`
+- [Laki verohallintolain 4 a §:n muuttamisesta](908.md) `908/2001`
+- [Laki perintö\- ja lahjaverolain muuttamisesta](909.md) `909/2001`
+- [Laki arpajaisverolain muuttamisesta](910.md) `910/2001`
+- [Laki varainsiirtoverolain 27 §:n muuttamisesta](911.md) `911/2001`
+- [Laki kiinteistöverolain 22 §:n muuttamisesta](912.md) `912/2001`
+- [Laki koiraverosta annetun lain 3 ja 9 §:n muuttamisesta](913.md) `913/2001`
+- [Laki rakennusverolain 5 ja 12 §:n muuttamisesta](914.md) `914/2001`
+- [Laki arvonlisäverolain muuttamisesta](915.md) `915/2001`
+- [Laki ulkomaanliikenteessä olevissa matkustaja\-aluksissa myytävien tavaroiden verottamisesta eräissä tapauksissa annetun lain 5 §:n muuttamisesta](916.md) `916/2001`
+- [Laki valmisteverotuslain muuttamisesta](917.md) `917/2001`
+- [Laki nestemäisten polttoaineiden valmisteverosta annetun lain muuttamisesta](918.md) `918/2001`
+- [Laki sähkön ja eräiden polttoaineiden valmisteverosta annetun lain muuttamisesta](919.md) `919/2001`
+- [Laki virvoitusjuomaverosta annetun lain muuttamisesta](920.md) `920/2001`
+- [Laki alkoholi\- ja alkoholijuomaverosta annetun lain muuttamisesta](921.md) `921/2001`
+- [Laki tupakkaverolain liitteenä olevan verotaulukon muuttamisesta](922.md) `922/2001`
+- [Laki jäteverolain 4 §:n muuttamisesta](923.md) `923/2001`
+- [Laki öljyjätemaksusta annetun lain 4 §:n muuttamisesta](924.md) `924/2001`
+- [Laki autoverolain muuttamisesta](925.md) `925/2001`
+- [Laki moottoriajoneuvoverosta annetun lain muuttamisesta](926.md) `926/2001`
+- [Laki polttoainemaksusta annetun lain 5 §:n muuttamisesta](927.md) `927/2001`
+- [Laki ajoneuvoverosta annetun lain muuttamisesta](928.md) `928/2001`
+- [Laki veronkantolain 25 §:n 2 momentin kumoamisesta](929.md) `929/2001`
+- [Laki veronlisäyksestä ja viivekorosta annetun lain 2 ja 4 §:n muuttamisesta](930.md) `930/2001`
+- [Opetusministeriön asetus opintotuen asumislisän määrästä alhaisen vuokratason maissa](931.md) `931/2001`
+- [Opetusministeriön asetus opintorahaa vastaavan taloudellisen tuen huomioon ottamisesta opintorahaa myönnettäessä](932.md) `932/2001`
+- [Opetusministeriön asetus opetushallituksen ja lääninhallituksen toimivallasta rakennerahastoasioissa](933.md) `933/2001`
+- [Laki öljysuojarahastosta annetun lain muuttamisesta](934.md) `934/2001`
+- [Laki aluksista aiheutuvan vesien pilaantumisen ehkäisemisestä annetun lain 12 §:n muuttamisesta](935.md) `935/2001`
+- [Laki maa\-alueilla tapahtuvien öljyvahinkojen torjumisesta annetun lain 5 §:n muuttamisesta](936.md) `936/2001`
+- [Laki ympäristövahinkovakuutuksesta annetun lain 13 ja 15 §:n muuttamisesta](937.md) `937/2001`
+- [Laki valtion takuista perusraaka\-ainehuollon turvaamiseksi annetun lain muuttamisesta](938.md) `938/2001`
+- [Valtioneuvoston asetus työvoimapalveluihin liittyvistä etuuksista annetun asetuksen muuttamisesta](939.md) `939/2001`
+- [Valtioneuvoston asetus pakolaisista ja eräistä muista maahanmuuttajista sekä turvapaikanhakijoiden vastaanoton järjestämisestä aiheutuvien kustannusten korvaamisesta annetun valtioneuvoston päätöksen 3 §:n muuttamisesta](940.md) `940/2001`
+- [Valtioneuvoston asetus palkkaturva\-asetuksen 9 §:n muuttamisesta](941.md) `941/2001`
+- [Valtioneuvoston asetus merimiesten palkkaturvasta annetun valtioneuvoston asetuksen 8 §:n muuttamisesta](942.md) `942/2001`
+- [Valtioneuvoston asetus työllisyysasetuksen muuttamisesta](943.md) `943/2001`
+- [Valtioneuvoston asetus työvoimapoliittisesta aikuiskoulutuksesta annetun asetuksen 17 §:n muuttamisesta](944.md) `944/2001`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön kokonaan rahoittamien eläinpalkkioiden hakuajoista vuonna 2001 annetun maa\- ja metsätalousministeriön asetuksen 3 §:n muuttamisesta](945.md) `945/2001`
+- [Valtiovarainministeriön asetus Tilastokeskuksen suoritteiden maksullisuudesta](946.md) `946/2001`
+- [Sisäasiainministeriön asetus S1\- ja K\-luokan teräsbetonisista väestönsuojista](947.md) `947/2001`
+- [Ulkoasiainministeriön asetus ulkoasiainhallinnon suoritteiden maksuista](948.md) `948/2001`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä](949.md) `949/2001`
+- [Laki rekisteröidystä parisuhteesta](950.md) `950/2001`
+- [Valtioneuvoston asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen muuttamisesta](951.md) `951/2001`
+- [Valtioneuvoston asetus opiskelija\-asuntojen omapääoma\-avustuksista](952.md) `952/2001`
+- [Liikenne\- ja viestintäministeriön asetus Tiehallinnon maksuista](953.md) `953/2001`
+- [Sosiaali\- ja terveysministeriön asetus Lääkelaitoksen maksullisista suoritteista](954.md) `954/2001`
+- [Verohallituksen päätös matkakuluvähennyksen määrästä vuodelta 2001 toimitettavassa verotuksessa](955.md) `955/2001`
+- [Laki tasavallan presidentin palkkiosta annetun lain 1 §:n muuttamisesta](956.md) `956/2001`
+- [Laki erikoissairaanhoitolain 47 a ja 47 b §:n muuttamisesta](957.md) `957/2001`
+- [Valtioneuvoston asetus sairausvakuutusasetuksen 6 ja 7 a §:n muuttamisesta](958.md) `958/2001`
+- [Maa\- ja metsätalousministeriön asetus maanmittauslaitoksen maksuista](959.md) `959/2001`
+- [Valtioneuvoston kanslian asetus valtioneuvoston kanslian suoritteiden maksullisuudesta](960.md) `960/2001`
+- [Valtiovarainministeriön asetus verohallinnon suoritteiden maksullisuudesta](961.md) `961/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2001 peltokasvien tuen \(CAP\-tuen\), sonni\- ja härkäpalkkioiden ennakoiden sekä vuoden 2000 mallasohran lisätuen maksatuksesta](962.md) `962/2001`
+- [Laki rikosvahinkolain muuttamisesta](963.md) `963/2001`
+- [Laki saatavien perinnästä annetun lain 10 §:n muuttamisesta](964.md) `964/2001`
+- [Laki elinkeinonharjoittajan oikeudesta myydä noutamatta jätetty esine annetun lain 10 §:n muuttamisesta](965.md) `965/2001`
+- [Laki löytötavaralain 3 §:n muuttamisesta](966.md) `966/2001`
+- [Laki osuuskuntalain 16 ja 33 §:n muuttamisesta](967.md) `967/2001`
+- [Laki vakuutussopimuslain 45 §:n muuttamisesta](968.md) `968/2001`
+- [Laki pysäköintivirhemaksusta annetun lain 7 §:n muuttamisesta](969.md) `969/2001`
+- [Laki ylikuormamaksusta annetun lain 5 §:n muuttamisesta](970.md) `970/2001`
+- [Laki rikoslain 2 a ja 9 luvun muuttamisesta](971.md) `971/2001`
+- [Laki rangaistusten täytäntöönpanosta annetun lain 6 luvun muuttamisesta](972.md) `972/2001`
+- [Laki rangaistusmääräysmenettelystä annetun lain 1 §:n muuttamisesta](973.md) `973/2001`
+- [Laki tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista annetun lain 3 ja 11 §:n muuttamisesta](974.md) `974/2001`
+- [Laki hovioikeuslain 9 §:n muuttamisesta](975.md) `975/2001`
+- [Laki ulosottomaksuista annetun lain 3 §:n muuttamisesta](976.md) `976/2001`
+- [Laki ehdokkaan vaalirahoituksen ilmoittamisesta annetun lain 3 §:n muuttamisesta](977.md) `977/2001`
+- [Opetusministeriön asetus Valtion taidemuseon suoritteiden maksullisuudesta](978.md) `978/2001`
+- [Opetusministeriön asetus Valtion elokuvatarkastamon ja elokuvalautakunnan suoritteiden maksullisuudesta](979.md) `979/2001`
+- [Opetusministeriön asetus näkövammaisten kirjaston suoritteiden maksullisuudesta](980.md) `980/2001`
+- [Maa\- ja metsätalousministeriön asetus kolmansista maista tuotavasta maidosta ja maitopohjaisista tuotteista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](981.md) `981/2001`
+- [Maa\- ja metsätalousministeriön asetus kolmansista maista tuotavasta hunajasta annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](982.md) `982/2001`
+- [Sosiaali\- ja terveysministeriön asetus huumausaineista ja huumausaineen valmistuksessa käytettävistä aineista annetun sosiaali\- ja terveysministeriön päätöksen 1 §:n muuttamisesta](983.md) `983/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta juurikkaiden siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen väliaikaisesta muuttamisesta](984.md) `984/2001`
+- [Ulkoasiainministeriön ilmoitus ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](985.md) `985/2001`
+- [Laki valtion lainanannosta ja valtiontakauksesta annetun lain muuttamisesta](986.md) `986/2001`
+- [Valtioneuvoston asetus metsäasetuksen 12 §:n muuttamisesta](987.md) `987/2001`
+- [Valtioneuvoston asetus ajoneuvojen katsastuksesta annetun asetuksen 39 §:n muuttamisesta](988.md) `988/2001`
+- [Laki muovailtavien räjähteiden merkitsemisestä tunnistamista varten tehdyn yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](989.md) `989/2001`
+- [Laki räjähdysvaarallisista aineista annetun lain muuttamisesta](990.md) `990/2001`
+- [Laki Ecuadorin kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](991.md) `991/2001`
+- [Laki Tansanian kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](992.md) `992/2001`
+- [Laki työvoimapoliittisesta aikuiskoulutuksesta annetun lain muuttamisesta](993.md) `993/2001`
+- [Laki työmarkkinatuesta annetun lain 10 §:n muuttamisesta](994.md) `994/2001`
+- [Valtioneuvoston asetus metsäveroasetuken muuttamisesta](995.md) `995/2001`
+- [Valtioneuvoston asetus vuodelta 2001 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 7 §:n muuttamisesta](996.md) `996/2001`
+- [Valtioneuvoston asetus vuodelta 2001 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 12 §:n muuttamisesta](997.md) `997/2001`
+- [Valtioneuvoston asetus merkittävistä ja kalliista sairausvakuutuslain 9 §:n 4 momentin mukaan korvattavista lääkkeistä ja sairauksista, joiden hoitoon ne korvataan](998.md) `998/2001`
+- [Valtioneuvoston asetus vaikeista ja pitkäaikaisista sairauksista ja niiden hoitoon käytettävistä lääkkeistä, joista sairausvakuutuslain mukaan korvataan 100 tai 75 prosenttia säädetyn kiinteän omavastuun ylittävältä osalta, annetun valtioneuvoston päätöksen 2 § muuttamisesta](999.md) `999/2001`
+- [Valtioneuvoston asetus toimeentulotuesta annetun asetuksen 2 ja 3 §:n muuttamisesta](1000.md) `1000/2001`
+- [Laki kalastuslain muuttamisesta](1001.md) `1001/2001`
+- [Laki riistanhoitomaksusta ja pyyntilupamaksusta annetun lain 1 ja 4 §:n muuttamisesta](1002.md) `1002/2001`
+- [Tasavallan presidentin asetus kansainvälistä vastuuta avaruusesineiden aiheuttamasta vahingosta koskevan yleissopimuksen voimaansaattamisesta annetun asetuksen muuttamisesta](1003.md) `1003/2001`
+- [Tasavallan presidentin asetus Euroopan maatalouden ohjaus\- ja tukirahaston \(EMOTR\) tukiosaston maksajaviraston tehtävien hoidosta Ahvenanmaan maakunnassa](1004.md) `1004/2001`
+- [Maa\- ja metsätalousministeriön asetus kolttalain mukaisesta rahoitustuesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1005.md) `1005/2001`
+- [Sisäasiainministeriön asetus rekisterihallinnon suoritteiden maksuista](1006.md) `1006/2001`
+- [Sisäasiainministeriön asetus julkisen notaarin suoritteiden maksuista](1007.md) `1007/2001`
+- [Laki kuljetusten alueellisesta tukemisesta annetun lain muuttamisesta](1008.md) `1008/2001`
+- [Laki julkisista hankinnoista annetun lain muuttamisesta](1009.md) `1009/2001`
+- [Laki valtion erityisrahoitusyhtiön luotto\- ja takaustoiminnasta annetun lain 8 §:n muuttamisesta](1010.md) `1010/2001`
+- [Valtioneuvoston asetus tieliikenneasetuksen muuttamisesta](1011.md) `1011/2001`
+- [Liikenne\- ja viestintäministeriön asetus tieliikenteen liikennevaloista](1012.md) `1012/2001`
+- [Maa\- ja metsätalousministeriön asetus Suomen lipun alla purjehtivien tai Suomessa rekisteröityjen yli 20 metrin pituisten alusten harjoittaman turskan kalastuksen keskeyttämisestä](1013.md) `1013/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2001 teurastuspalkkion ja lisätuen ennakoiden, uuhipalkkion toisen ennakon sekä Etelä\-Suomen kansallisen kotieläintuen ja Pohjoisen kotieläintuen maksatuksesta](1014.md) `1014/2001`
+- [Radiolaki](1015.md) `1015/2001`
+- [Laki televisio\- ja radiotoiminnasta annetun lain muuttamisesta](1016.md) `1016/2001`
+- [Laki postipalvelulain muuttamisesta](1017.md) `1017/2001`
+- [Valtiovarainministeriön asetus ilmoittamisvelvollisuudesta annetun valtiovarainministeriön päätöksen 1 §:n muuttamisesta](1018.md) `1018/2001`
+- [Valtiovarainministeriön asetus eräiden verojen maksupaikoista ja tiedonsiirtokorvauksista annetun valtiovarainministeriön päätöksen 4 §:n muuttamisesta](1019.md) `1019/2001`
+- [Valtiovarainministeriön asetus eräiden verojen ja palautusten maksamisesta annetun valtiovarainministeriön päätöksen muuttamisesta](1020.md) `1020/2001`
+- [Ulkoasiainministeriön ilmoitus ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](1021.md) `1021/2001`
+- [Maa\- ja metsätalousministeriön asetus eräiden kolmansista maista tuotavien tavaroiden eläintautivaatimuksista](1022.md) `1022/2001`
+- [Laki Makedonian kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1023.md) `1023/2001`
+- [Valtioneuvoston asetus lentoyhtiöiden väliaikaisista valtiontakuista perittävistä maksuista](1024.md) `1024/2001`
+- [Liikenne\- ja viestintäministeriön asetus liikenne\- ja viestintäministeriön työjärjestyksen muuttamisesta](1025.md) `1025/2001`
+- [Sisäasiainministeriön asetus eräistä liikkumis\- ja oleskelukielloista annetun sisäasiainministeriön päätöksen 1 ja 2 §:n muuttamisesta](1026.md) `1026/2001`
+- [Kauppa\- ja teollisuusministeriön asetus Patentti\- ja rekisterihallituksen maksullisista suoritteista](1027.md) `1027/2001`
+- [Suomen Pankin päätös eräiden seteleiden lakkauttamisesta laillisina maksuvälineinä annetun päätöksen 2 §:n muuttamisesta](1028.md) `1028/2001`
+- [Valtioneuvoston asetus yksityishenkilön velkajärjestelystä annetun asetuksen muuttamisesta](1029.md) `1029/2001`
+- [Valtioneuvoston asetus vähäisten jako\-osuuksien huomiotta jättämisestä konkurssissa annetun asetuksen 1 §:n muuttamisesta](1030.md) `1030/2001`
+- [Valtioneuvoston asetus säätiöasetuksen 1 §:n muuttamisesta](1031.md) `1031/2001`
+- [Valtioneuvoston asetus rikosvahinkoasetuksen 8 §:n muuttamisesta](1032.md) `1032/2001`
+- [Valtioneuvoston asetus löytötavara\-asetuksen muuttamisesta](1033.md) `1033/2001`
+- [Valtioneuvoston asetus valtion perintönä saaman omaisuuden luovuttamisesta annetun asetuksen 2 ja 3 §:n muuttamisesta](1034.md) `1034/2001`
+- [Valtioneuvoston asetus tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](1035.md) `1035/2001`
+- [Valtioneuvoston asetus kaupanvahvistaja\-asetuksen 12 § muuttamisesta](1036.md) `1036/2001`
+- [Valtioneuvoston asetus päiväsakon rahamäärästä annetun asetuksen muuttamisesta](1037.md) `1037/2001`
+- [Valtioneuvoston asetus rikesakkorikkomuksista annetun asetuksen muuttamisesta](1038.md) `1038/2001`
+- [Laki työsuojeluhenkilörekisteristä](1039.md) `1039/2001`
+- [Valtioneuvoston asetus ennakkoperintäasetuksen muuttamisesta](1040.md) `1040/2001`
+- [Valtiovarainministeriön asetus varsinaisen ajoneuvoveron kannosta, maksupaikoista ja suorittamisesta annetun valtiovarainministeriön päätöksen 1 §:n muuttamisesta](1041.md) `1041/2001`
+- [Valtiovarainministeriön asetus eräiden ulkomailla rekisteröityjen ajoneuvojen vapauttamisesta moottoriajoneuvoverosta tai veron alentamisesta annetun valtiovarainministeriön päätöksen 1 §:n muuttamisesta](1042.md) `1042/2001`
+- [Sosiaali\- ja terveysministeriön asetus työtelineiden ja putoamisen estävien suojarakenteiden käytöstä rakennustyössä annetun sosiaali\- ja terveysministeriön päätöksen 18 §:n muuttamisesta](1043.md) `1043/2001`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön kokonaan rahoittamien eläinpalkkioiden hakuajoista vuonna 2002](1044.md) `1044/2001`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön kokonaan rahoittamista teurastusperusteisista palkkioista ja lisätuesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1045.md) `1045/2001`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön kokonaan rahoittamista eläinpalkkioista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](1046.md) `1046/2001`
+- [Arpajaislaki](1047.md) `1047/2001`
+- [Laki arpajaisverolain muuttamisesta](1048.md) `1048/2001`
+- [Laki rahankeräyslain muuttamisesta](1049.md) `1049/2001`
+- [Laki viihdelaitelain muuttamisesta](1050.md) `1050/2001`
+- [Laki rikoslain 17 luvun muuttamisesta](1051.md) `1051/2001`
+- [Laki rahanpesun estämisestä ja selvittämisestä annetun lain 3 ja 6 §:n muuttamisesta](1052.md) `1052/2001`
+- [Laki näkövammaisten kirjastosta annetun lain 5 a §:n muuttamisesta](1053.md) `1053/2001`
+- [Laki raha\-arpajaisten sekä veikkaus\- ja vedonlyöntipelien tuoton käyttämisestä](1054.md) `1054/2001`
+- [Laki totopelien tuottojen käyttämisestä hevoskasvatuksen ja hevosurheilun edistämiseen](1055.md) `1055/2001`
+- [Laki raha\-automaattiavustuksista](1056.md) `1056/2001`
+- [Laki Kansaneläkelaitoksen rahoituksen väliaikaisesta muuttamisesta vuonna 2002](1057.md) `1057/2001`
+- [Laki vaikeavammaisille yrittäjille myönnettävistä veronhuojennuksista annetun lain 3 §:n muuttamisesta](1058.md) `1058/2001`
+- [Laki yleisistä teistä annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1059.md) `1059/2001`
+- [Laki vammaistukilain 2 ja 8 §:n muuttamisesta](1060.md) `1060/2001`
+- [Laki kansaneläkelain muuttamisesta](1061.md) `1061/2001`
+- [Laki työmarkkinatuesta annetun lain 23 §:n muuttamisesta](1062.md) `1062/2001`
+- [Tasavallan presidentin asetus Bosnia ja Hertsegovinan kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1063.md) `1063/2001`
+- [Tasavallan presidentin asetus Ecuadorin kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen voimaansaattamisesta ja sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1064.md) `1064/2001`
+- [Valtioneuvoston asetus yleisestä oikeusavusta ja maksuttomasta oikeudenkäynnistä annetun asetuksen muuttamisesta](1065.md) `1065/2001`
+- [Valtioneuvoston asetus yleisen oikeusavun ja maksuttoman oikeudenkäynnin palkkioperusteista annetun asetuksen muuttamisesta](1066.md) `1066/2001`
+- [Valtioneuvoston asetus opintolainan koron maksamisesta valtion varoista työttömyyden perusteella annetun valtioneuvoston päätöksen 3 §:n muuttamisesta](1067.md) `1067/2001`
+- [Valtioneuvoston asetus kaivosasetuksen muuttamisesta](1068.md) `1068/2001`
+- [Valtioneuvoston asetus teknologian kehittämiskeskuksesta annetun asetuksen 6 §:n muuttamisesta](1069.md) `1069/2001`
+- [Valtioneuvoston asetus valtion varoista maksettavista todistelukustannuksista annetun asetuksen muuttamisesta](1070.md) `1070/2001`
+- [Valtioneuvoston asetus ulkomaanedustuksen virkamiehen omaisuudelle aiheutuneen vahingon korvaamisesta annetun asetuksen 6 §:n muuttamisesta](1071.md) `1071/2001`
+- [Valtioneuvoston asetus  ulosottomaksuista annetun asetuksen muuttamisesta](1072.md) `1072/2001`
+- [Valtioneuvoston asetus suojaosuudesta palkan ulosmittauksessa annetun asetuksen muuttamisesta](1073.md) `1073/2001`
+- [Valtioneuvoston asetus ulosottoasetuksen muuttamisesta](1074.md) `1074/2001`
+- [Sisäasiainministeriön asetus S1\-, S3\- ja S6\-luokan kalliosuojista sekä S3\-luokan teräsbetonisesta väestönsuojasta](1075.md) `1075/2001`
+- [Sisäasiainministeriön asetus poliisin suoritteiden maksullisuudesta annetun päätöksen liitteen muuttamisesta](1076.md) `1076/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta varastolaitosten hygieniavaatimukset \(varastoasetus\)](1077.md) `1077/2001`
+- [Verohallituksen päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](1078.md) `1078/2001`
+- [Laki Suomenlinnan hoitokunnasta annetun lain 3 §:n muuttamisesta](1079.md) `1079/2001`
+- [Laki museovirastosta annetun lain 3 §:n muuttamisesta](1080.md) `1080/2001`
+- [Valtioneuvoston asetus porotaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](1081.md) `1081/2001`
+- [Valtioneuvoston asetus metsätaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](1082.md) `1082/2001`
+- [Maa\- ja metsätalousministeriön asetus Kasvintuotannon tarkastuskeskuksen maksullisista suoritteista](1083.md) `1083/2001`
+- [Valtioneuvoston asetus oikeudesta luovuttaa valtion maaomaisuutta ja tuloatuottavia oikeuksia annetun asetuksen 1 §:n muuttamisesta](1084.md) `1084/2001`
+- [Valtioneuvoston asetus Valtion kiinteistölaitoksesta annetun asetuksen muuttamisesta](1085.md) `1085/2001`
+- [Sisäasiainministeriön asetus pysäköintivirhemaksusta](1086.md) `1086/2001`
+- [Sisäasiainministeriön asetus kulkuneuvon pysäyttämisestä](1087.md) `1087/2001`
+- [Maa\- ja metsätalousministeriön asetus Suomen lipun alla purjehtivien tai Suomessa rekisteröityjen yli 20 metrin pituisten alusten harjoittaman turskan kalastuksen keskeyttämisestä annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](1088.md) `1088/2001`
+- [Verohallituksen päätös ennakon alarajasta ja kantoeristä](1089.md) `1089/2001`
+- [Verohallituksen päätös yhteisön tilikauden ennakon alarajasta ja kantoeristä](1090.md) `1090/2001`
+- [Liikenne\- ja viestintäministeriön asetus joukkoliikenteen tarkastusmaksun suuruudesta](1091.md) `1091/2001`
+- [Opetusministeriön asetus museoviraston suoritteiden maksullisuudesta](1092.md) `1092/2001`
+- [Maa\- ja metsätalousministeriön asetus eläintautien leviämisen ehkäisemisestä Suomen ja muiden Euroopan talousalueeseen kuuluvien valtioiden välillä tapahtuvan hevosten maahantuonnin ja maastaviennin yhteydessä annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen muuttamisesta](1093.md) `1093/2001`
+- [Sosiaali\- ja terveysministeriön asetus eräiden elatusapujen ja elatustukien korottamisesta elinkustannusindeksin nousun johdosta](1094.md) `1094/2001`
+- [Sosiaali\- ja terveysministeriön asetus Terveydenhuollon oikeusturvakeskuksen maksullisista suoritteista](1095.md) `1095/2001`
+- [Verohallituksen päätös jälkiverotuksen toimittamatta jättämisestä arvonlisäverotuksessa](1096.md) `1096/2001`
+- [Verohallituksen päätös pienimmästä ennakkopalautuksena maksettavasta määrästä](1097.md) `1097/2001`
+- [Verohallituksen päätös ulkomaalaisen elinkeinonharjoittajan arvonlisäveron palautushakemuksessa ilmoitettavista tiedoista ja hakemukseen liitettävistä asiakirjoista](1098.md) `1098/2001`
+- [Laki maatilatalouden tuloverolain 13 §:n muuttamisesta](1099.md) `1099/2001`
+- [Valtioneuvoston asetus Venäjän ja Itä\-Euroopan instituutista](1100.md) `1100/2001`
+- [Valtioneuvoston asetus alkoholivalmisteista ja denaturoimisesta annetun asetuksen 12 ja 15 §:n muuttamisesta](1101.md) `1101/2001`
+- [Oikeusministeriön asetus julkisen notaarin suoritteiden maksuista](1102.md) `1102/2001`
+- [Sisäasiainministeriön asetus ulkomaalaisviraston maksullisista suoritteista](1103.md) `1103/2001`
+- [Sosiaali\- ja terveysministeriön asetus vuoden 2002 työttömyysvakuutusmaksuista](1104.md) `1104/2001`
+- [Valtiovarainministeriön asetus julkishallinnon ja \-talouden tilintarkastuslautakunnan maksullisista suoritteista](1105.md) `1105/2001`
+- [Liikenne\- ja viestintäministeriön asetus ajokorttiasetuksen soveltamisesta annetun liikenneministeriön päätöksen 14 §:n muuttamisesta](1106.md) `1106/2001`
+- [Verohallituksen päätös vuonna 2002 sovellettavien ennakonpidätysperusteiden voimaantulosta](1107.md) `1107/2001`
+- [Laki Maltan kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1108.md) `1108/2001`
+- [Laki valtion talousarviosta annetun lain 9 §:n muuttamisesta](1109.md) `1109/2001`
+- [Laki valtion lainanannosta sekä valtiontakauksesta ja valtiontakuusta annetun lain 9 §:n muuttamisesta](1110.md) `1110/2001`
+- [Laki eräiden saamisten perimisestä kerta kaikkiaan annetun lain 1 §:n muuttamisesta](1111.md) `1111/2001`
+- [Laki luottolaitosten varoista myönnettävistä eräistä korkotukilainoista annetun lain 5 §:n muuttamisesta](1112.md) `1112/2001`
+- [Laki työllisyyslain muuttamisesta](1113.md) `1113/2001`
+- [Valtioneuvoston asetus työvoimapoliittisesta aikuiskoulutuksesta annetun asetuksen muuttamisesta](1114.md) `1114/2001`
+- [Sosiaali\- ja terveysministeriön asetus elintarvikehuoneistossa työskentelevältä vaadittavasta elintarvikehygieenisestä osaamisesta ja osaamisen testaamisesta \(hygieniaosaamisasetus\)](1115.md) `1115/2001`
+- [Laki taidenäyttelyiden valtiontakuusta annetun lain 4 §:n muuttamisesta](1116.md) `1116/2001`
+- [Laki eräiden suojauksen purkujärjestelmien kieltämisestä](1117.md) `1117/2001`
+- [Laki rikoslain 38 luvun muuttamisesta](1118.md) `1118/2001`
+- [Laki telemarkkinalain muuttamisesta](1119.md) `1119/2001`
+- [Laki yksityisyyden suojasta televiestinnässä ja teletoiminnan tietoturvasta annetun lain muuttamisesta](1120.md) `1120/2001`
+- [Laki viestintähallinnosta annetun lain 2 §:n muuttamisesta](1121.md) `1121/2001`
+- [Laki tapaturma\- ja liikennevakuutuslaitoksilta vuodelta 2002 perittävästä maksusta](1122.md) `1122/2001`
+- [Laki sairausvakuutuslain väliaikaisesta muuttamisesta](1123.md) `1123/2001`
+- [Valtioneuvoston asetus veronkantoasetuksen 9 ja 21 §:n muuttamisesta](1124.md) `1124/2001`
+- [Valtioneuvoston asetus verohallintoasetuksen muuttamisesta](1125.md) `1125/2001`
+- [Valtioneuvoston asetus rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun asetuksen 2 ja 9 §:n muuttamisesta](1126.md) `1126/2001`
+- [Laki Pohjoismaiden välillä valtioiden eläkejärjestelmien mukaisen eläkeoikeuden sopeuttamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1127.md) `1127/2001`
+- [Valtioneuvoston asetus jäteasetuksen liitteen 4 muuttamisesta](1128.md) `1128/2001`
+- [Ympäristöministeriön asetus yleisimpien jätteiden sekä ongelmajätteiden luettelosta](1129.md) `1129/2001`
+- [Opetusministeriön asetus oppisopimuskoulutukseen kuuluvista opintososiaalisista eduista tietopuoleisten opintojen aikana](1130.md) `1130/2001`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveysalan tutkimus\- ja kehittämiskeskuksen maksullisista suoritteista](1131.md) `1131/2001`
+- [Sosiaali\- ja terveysministeriön asetus valtion mielisairaaloiden maksullisista suoritteista](1132.md) `1132/2001`
+- [Sosiaali\- ja terveysministeriön asetus valtion koulukotien maksullisista suoritteista](1133.md) `1133/2001`
+- [Laki sosiaalihuoltolain muuttamisesta](1134.md) `1134/2001`
+- [Laki maatalousyrittäjien lomituspalvelulain muuttamisesta](1135.md) `1135/2001`
+- [Tasavallan presidentin asetus Suomen Tasavallan hallituksen ja Etelä\-Afrikan Tasavallan hallituksen välillä kehitysyhteistyön yleisistä ehdoista ja menettelytavoista tehdyn sopimuksen voimaansaattamisesta](1136.md) `1136/2001`
+- [Valtioneuvoston asetus Kansaneläkelaitoksesta](1137.md) `1137/2001`
+- [Valtioneuvoston asetus kansaneläkeasetuksen muuttamisesta](1138.md) `1138/2001`
+- [Valtioneuvoston asetus eläkkeensaajien asumistukiasetuksen muuttamisesta](1139.md) `1139/2001`
+- [Valtioneuvoston asetus rintamasotilaseläkeasetuksen muuttamisesta](1140.md) `1140/2001`
+- [Valtioneuvoston asetus ulkomaille maksettavasta rintamalisästä annetun asetuksen 1 §:n muuttamisesta](1141.md) `1141/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta maatalouden ympäristötuen koulutusmäärärahojen jakamisen täydentämisestä vuonna 2001](1142.md) `1142/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta toimenpiteistä kasvintuhoojien leviämisen estämiseksi ja hävittämiseksi annetun maa\- ja metsätalousministeriön päätöksen 21 §:n väliaikaisesta muuttamisesta](1143.md) `1143/2001`
+- [Laki etsintä\- ja pelastuspalvelua merellä koskevan vuoden 1979 kansainvälisen yleissopimuksen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1144.md) `1144/2001`
+- [Meripelastuslaki](1145.md) `1145/2001`
+- [Laki merilain 6 luvun muuttamisesta](1146.md) `1146/2001`
+- [Laki aluksista aiheutuvan vesien pilaantumisen ehkäisemisestä annetun lain muuttamisesta](1147.md) `1147/2001`
+- [Laki yksityisyyden suojasta televiestinnässä ja teletoiminnan tietoturvasta annetun lain 7 ja 18 §:n muuttamisesta](1148.md) `1148/2001`
+- [Laki hätäkeskuslain 8 §:n muuttamisesta](1149.md) `1149/2001`
+- [Laki pelastustoimilain 43 §:n muuttamisesta](1150.md) `1150/2001`
+- [Laki viranomaisten toiminnan julkisuudesta annetun lain 24 §:n muuttamisesta](1151.md) `1151/2001`
+- [Oikeusministeriön asetus velallisen maksukyvyn arvioinnin perusteista yksityishenkilön velkajärjestelyssä](1152.md) `1152/2001`
+- [Julistus neljästä kiitos\-, katumus\- ja rukouspäivästä, jotka on koko maassa juhlallisesti vietettävä vuonna 2002](1153.md) `1153/2001`
+- [Valtioneuvoston asetus asumistuen määräytymisperusteista vuodelle 2002](1154.md) `1154/2001`
+- [Valtioneuvoston asetus yritysten kansainvälistymisen edistämiseen myönnettävästä valtionavustuksesta sekä yleisavustuksesta ulkomaankauppaa ja yritysten kansainvälistymistä edistäville järjestöille ja yhteisöille](1155.md) `1155/2001`
+- [Opetusministeriön asetus opetusministeriön suoritteiden maksullisuudesta annetun opetusministeriön päätöksen liitteenä olevan maksutaulukon muuttamisesta](1156.md) `1156/2001`
+- [Liikenne\- ja viestintäministeriön asetus  Ilmailulaitoksen viranomaissuoritteiden maksullisuudesta](1157.md) `1157/2001`
+- [Sosiaali\- ja terveysministeriön asetus geenitekniikkalain mukaisten suoritteiden maksullisuudesta](1158.md) `1158/2001`
+- [Oikeusministeriön asetus oikeusministeriön ja eräiden hallinnonalalla toimivien viranomaisten suoritteista perittävistä maksuista](1159.md) `1159/2001`
+- [Maa\- ja metsätalousministeriön asetus kiinteistörekisteriä ja kiinteistörekisterikarttaa koskevista suoritteista perittävistä maksuista](1160.md) `1160/2001`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](1161.md) `1161/2001`
+- [Kirkolliskokouksen päätös kirkon vaalijärjestyksen muuttamisesta](1162.md) `1162/2001`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](1163.md) `1163/2001`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja elintarviketalouden tutkimuskeskuksen suoritteista perittävistä maksuista](1164.md) `1164/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta BSE\-taudin ja muiden TSE\-tautien varalta tutkittavien nautojen, lampaiden ja vuohien lihantarkastuksesta sekä tähän liittyvästä naudan lihan ja lihatuotteiden merkinnästä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1165.md) `1165/2001`
+- [Valtioneuvoston asetus moottoriajoneuvoverosta annetun asetuksen 16 §:n muuttamisesta](1166.md) `1166/2001`
+- [Valtioneuvoston asetus valmisteverotusasetuksen 6 ja 7 §:n muuttamisesta](1167.md) `1167/2001`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen muuttamisesta](1168.md) `1168/2001`
+- [Valtioneuvoston asetus Raha\-automaattiyhdistyksestä](1169.md) `1169/2001`
+- [Valtioneuvoston asetus eräistä raha\-automaattiavustuksiin sovellettavista määräajoista](1170.md) `1170/2001`
+- [Valtioneuvoston päätös](1171.md) `1171/2001`
+- [Oikeusministeriön asetus käräjäoikeuksien kanslioiden ja istuntopaikkojen sijainnista annetun oikeusministeriön päätöksen 1 §:n muuttamisesta](1172.md) `1172/2001`
+- [Valtiovarainministeriön asetus eräiden vähäisten saatavien perimättä jättämisestä annetun valtiovarainministeriön päätöksen 2 §:n muuttamisesta](1173.md) `1173/2001`
+- [Valtioneuvoston asetus rahaliikenteen valvontalaitteista](1174.md) `1174/2001`
+- [Valtioneuvoston asetus eräiden opintotukilaissa \(28/1972\) tarkoitettujen määrien vahvistamisesta annetun valtioneuvoston asetuksen 1 ja 2 §:n muuttamisesta](1175.md) `1175/2001`
+- [Valtioneuvoston asetus ortodoksisesta kirkkokunnasta annetun asetuksen 54 ja 54 a §:n muuttamisesta](1176.md) `1176/2001`
+- [Valtioneuvoston asetus ajokorttiasetuksen muuttamisesta](1177.md) `1177/2001`
+- [Valtioneuvoston asetus televisiomaksuista](1178.md) `1178/2001`
+- [Valtioneuvoston asetus maatalousyrittäjien lomituspalveluasetuksen muuttamisesta](1179.md) `1179/2001`
+- [Valtioneuvoston asetus tapaturmavakuutusmaksun perusteena olevaan palkkasummaan luettavista työansioista](1180.md) `1180/2001`
+- [Puolustusministeriön asetus asevelvolliselle muulta kuin vakinaisen väen palvelusajalta suoritettavasta palkkauksesta annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](1181.md) `1181/2001`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain 12 §:n 4 momentin mukaisen eläkelaitosten vastuun prosenttimäärästä vuodelle 2002](1182.md) `1182/2001`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](1183.md) `1183/2001`
+- [Maa\- ja metsätalousministeriön asetus vierasainevalvonnasta perittävistä maksuista](1184.md) `1184/2001`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](1185.md) `1185/2001`
+- [Valtiovarainministeriön ilmoitus vahvistetusta viitekorosta ja viivästyskorosta](1186.md) `1186/2001`
+- [Valtioneuvoston asetus otsonikerrosta heikentäviä aineita ja eräitä fluorihiilivetyjä sisältävien laitteiden huollosta sekä huoltotoimintaa ja jätehuoltoa suorittavien pätevyysvaatimuksista](1187.md) `1187/2001`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön maksullisista suoritteista](1188.md) `1188/2001`
+- [Maa\- ja metsätalousministeriön asetus työvoima\- ja elinkeinokeskusten maaseutuosastojen maksullisista suoritteista](1189.md) `1189/2001`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten aineiden tiekuljetusten valvomiseksi suoritettavista tarkastuksista annetun liikenneministeriön päätöksen muuttamisesta](1190.md) `1190/2001`
+- [Valtioneuvoston asetus valtion tukemien vuokra\-asuntojen asukkaaksi valitsemisessa sovellettavista perusteista](1191.md) `1191/2001`
+- [Valtioneuvoston asetus omistusasuntokorkotukilainaksi hyväksymisessä sovellettavista perusteista](1192.md) `1192/2001`
+- [Valtioneuvoston asetus eräistä aiemmin myönnettyjä omistusasuntolainoja koskevista sosiaalisen tarkoituksenmukaisuuden ja taloudellisen tarpeen arvioinnin perusteista](1193.md) `1193/2001`
+- [Valtioneuvoston asetus eräistä aravalainojen lainoitusperusteista annetun valtioneuvoston päätöksen 3 §:n muuttamisesta](1194.md) `1194/2001`
+- [Valtioneuvoston asetus arava\-asetuksen 19 ja 47 §:n muuttamisesta](1195.md) `1195/2001`
+- [Valtioneuvoston asetus ennen 15 päivää kesäkuuta 1998 myönnettyjen pitkäaikaisten vuokra\-asumisen perusparannuslainojen vuosimaksun vuotuisesta tarkistuksesta](1196.md) `1196/2001`
+- [Valtioneuvoston asetus ennen tammikuun 1 päivää 1996 myönnettyjen omistusaravalainojen vuosimaksun vuotuisesta tarkistuksesta](1197.md) `1197/2001`
+- [Opetusministeriön asetus Suomenlinnan hoitokunnan suoritteiden maksullisuudesta](1198.md) `1198/2001`
+- [Liikenne\- ja viestintäministeriön asetus Merenkulkulaitoksen maksullisista suoritteista](1199.md) `1199/2001`
+- [Puolustusministeriön asetus asevelvollisen ja vapaaehtoista asepalvelusta suorittavan naisen päivärahasta](1200.md) `1200/2001`
+- [Puolustusministeriön asetus puolustusministeriön hallinnonalan maksullisista suoritteista](1201.md) `1201/2001`
+- [Sosiaali\- ja terveysministeriön asetus käyttöturvallisuustiedotteesta](1202.md) `1202/2001`
+- [Maa\- ja metsätalousministeriön asetus naudanlihan merkitsemisestä](1203.md) `1203/2001`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2001 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista](1204.md) `1204/2001`
+- [Laki eläinlääkintävahinkojen arviolautakunnasta](1205.md) `1205/2001`
+- [Laki vakuutetun sairausvakuutusmaksun, työnantajan sairausvakuutusmaksun ja työnantajan kansaneläkemaksun suuruudesta](1206.md) `1206/2001`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain muuttamisesta](1207.md) `1207/2001`
+- [Laki valtion vuonna 1999 kansaneläkelaitokselle suorittaman takuusuorituksen vähentämisestä annetun lain muuttamisesta](1208.md) `1208/2001`
+- [Laki kansaneläkelain 59 ja 59 a §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1209.md) `1209/2001`
+- [Laki sairausvakuutuslain 59 §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1210.md) `1210/2001`
+- [Tasavallan presidentin asetus pyörillä varustettujen ajoneuvojen määräajoin toistettavien katsastusten yhdenmukaisten ehtojen hyväksymistä sekä näiden katsastusten vastavuoroista tunnustamista koskevaan sopimukseen liitetyn normin 1 voimaansaattamisesta](1211.md) `1211/2001`
+- [Oikeusministeriön asetus yksityishenkilön velkajärjestelyasiassa määrätyn selvittäjän palkkiosta ja kulukorvauksesta](1212.md) `1212/2001`
+- [Kauppa\- ja teollisuusministeriön asetus Energiamarkkinaviraston maksullisista suoritteista](1213.md) `1213/2001`
+- [Laki pelastustoimen alueiden muodostamisesta](1214.md) `1214/2001`
+- [Laki kuolemansyyn selvittämisestä annetun lain 17 §:n muuttamisesta](1215.md) `1215/2001`
+- [Laki kansanterveyslain 49 §:n muuttamisesta](1216.md) `1216/2001`
+- [Laki erikoissairaanhoitolain 59 §:n muuttamisesta](1217.md) `1217/2001`
+- [Valtioneuvoston asetus maidon kuljetusavustuksista vuonna 2001](1218.md) `1218/2001`
+- [Valtioneuvoston asetus Ahvenanmaan maakunnassa oleville kunnille maataloustuen jako\- ja valvontatehtävien hoitamisesta vuodelta 2000 suoritettavista korvauksista](1219.md) `1219/2001`
+- [Valtioneuvoston asetus luonnonhaittakorvauksesta ja maatalouden ympäristötuesta annetun valtioneuvoston asetuksen muuttamisesta](1220.md) `1220/2001`
+- [Valtioneuvoston asetus nurmi\- ja viljakasvien siementuotannon kansallisesta tuesta annetun valtioneuvoston asetuksen 12 §:n muuttamisesta](1221.md) `1221/2001`
+- [Valtioneuvoston asetus vuodelta 2001 maksettavasta kasvinviljelyn kansallisesta tuesta annetun valtioneuvoston asetuksen 10 §:n muuttamisesta](1222.md) `1222/2001`
+- [Valtioneuvoston asetus vuodelta 2001 maksettavasta perunantuotannon kansallisesta tuesta annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](1223.md) `1223/2001`
+- [Maa\- ja metsätalousministeriön asetus broileri\- ja kalkkunataloutta koskevien investointitukien hakuajan päättymisestä](1224.md) `1224/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuodelta 2001 maksettavan maidon tuotantotuen pyöristämisestä euromääräisissä suorituksissa](1225.md) `1225/2001`
+- [Laki avioliittolain muuttamisesta](1226.md) `1226/2001`
+- [Laki eräistä kansainvälisluontoisista perheoikeudellisista suhteista annetun lain eräiden säännösten kumoamisesta](1227.md) `1227/2001`
+- [Laki perintökaaren muuttamisesta](1228.md) `1228/2001`
+- [Laki rekisteröidystä parisuhteesta annetun lain 13 ja 14 §:n muuttamisesta](1229.md) `1229/2001`
+- [Laki sosiaalialan osaamiskeskustoiminnasta](1230.md) `1230/2001`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 7 a §:n muuttamisesta](1231.md) `1231/2001`
+- [Valtioneuvoston asetus valtion liikelaitosten ja liikelaitoskonsernien kirjanpidon perusteista ja tilintarkastuksesta annetun valtioneuvoston päätöksen 22 ja 33 §:n muuttamisesta](1232.md) `1232/2001`
+- [Valtioneuvoston asetus valtion liikelaitoksen osakkuudesta osakeyhtiössä tai muussa yhteisössä annetun valtioneuvoston päätöksen 3 §:n muuttamisesta](1233.md) `1233/2001`
+- [Valtioneuvoston asetus eläinlääkäreiden toimituspalkkioista](1234.md) `1234/2001`
+- [Valtioneuvoston asetus porotalouden ja luontaiselinkeinojen rahoitustuesta annetun valtioneuvoston asetuksen muuttamisesta](1235.md) `1235/2001`
+- [Valtioneuvoston asetus Vakuutusvalvontavirastosta annetun asetuksen muuttamisesta](1236.md) `1236/2001`
+- [Valtioneuvoston asetus eläkkeensaajien asumistukilain mukaisista hoitomenoina hyväksyttävistä keskimääräisistä kustannuksista ja asumiskustannusten enimmäismääristä vuodelle 2002](1237.md) `1237/2001`
+- [Valtioneuvoston asetus naisten ja miesten välisestä tasa\-arvosta annetussa laissa säädettyjen hyvityksen rahamäärien tarkistamisesta](1238.md) `1238/2001`
+- [Laki arvonlisäverolain 30 §:n muuttamisesta](1239.md) `1239/2001`
+- [Laki tullilain muuttamisesta](1240.md) `1240/2001`
+- [Laki tuloverolain 105 a ja 143 §:n muuttamisesta](1241.md) `1241/2001`
+- [Laki tuloverolain 77 §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1242.md) `1242/2001`
+- [Vuoden 2002 veroasteikkolaki](1243.md) `1243/2001`
+- [Laki sähkön ja eräiden polttoaineiden valmisteverosta annetun lain 28 §:n muuttamisesta](1244.md) `1244/2001`
+- [Liikenne\- ja viestintäministeriön asetus Viestintäviraston maksuista](1245.md) `1245/2001`
+- [Verohallituksen päätös toimivaltaisesta verovirastosta ja verotuksen oikaisulautakunnasta kunnan siirtyessä toisen veroviraston virka\-alueelle](1246.md) `1246/2001`
+- [Laki kirkkolain 15 luvun 2 §:n ja 22 luvun 8 §:n muuttamisesta](1247.md) `1247/2001`
+- [Laki evankelisluterilaisten seurakuntien virkataloista ja rahastoista annetun lain 13 §:n muuttamisesta](1248.md) `1248/2001`
+- [Laki kirkon keskusrahastosta annetun lain 9 §:n muuttamisesta](1249.md) `1249/2001`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](1250.md) `1250/2001`
+- [Laki ortodoksisesta kirkkokunnasta annetun lain 30 ja 31 §:n muuttamisesta](1251.md) `1251/2001`
+- [Valtioneuvoston asetus valtion talousarviosta annetun asetuksen muuttamisesta](1252.md) `1252/2001`
+- [Valtioneuvoston asetus valtion lainanannosta ja valtiontakauksesta annetun asetuksen muuttamisesta](1253.md) `1253/2001`
+- [Valtioneuvoston asetus valtion maksuperusteasetuksen 3 §:n muuttamisesta](1254.md) `1254/2001`
+- [Valtioneuvoston asetus valtion virkamiesten erorahan suuruudesta annetun valtioneuvoston päätöksen muuttamisesta](1255.md) `1255/2001`
+- [Valtioneuvoston asetus korkeakouluopiskelijoiden ruokailun tukemisen perusteista](1256.md) `1256/2001`
+- [Maa\- ja metsätalousministeriön asetus maaseutuelinkeinojen valituslautakunnan suoritteista perittävistä maksuista](1257.md) `1257/2001`
+- [Laki kuluttajansuojalain muuttamisesta](1258.md) `1258/2001`
+- [Valtioneuvoston asetus Huoltovarmuuskeskuksesta annetun asetuksen muuttamisesta](1259.md) `1259/2001`
+- [Liikenne\- ja viestintäministeriön asetus Ajoneuvohallintokeskuksen maksuista](1260.md) `1260/2001`
+- [Verohallituksen päätös verovapaista matkakustannusten korvauksista vuonna 2002](1261.md) `1261/2001`
+- [Laki verontilityslain muuttamisesta](1262.md) `1262/2001`
+- [Laki verotusmenettelystä annetun lain 91 a §:n muuttamisesta](1263.md) `1263/2001`
+- [Laki verohallintolain 11 §:n muuttamisesta](1264.md) `1264/2001`
+- [Laki ulkomailta tulevan palkansaajan lähdeverosta annetun lain 1 §:n muuttamisesta](1265.md) `1265/2001`
+- [Laki kiinteistöverolain 11 §:n muuttamisesta](1266.md) `1266/2001`
+- [Valtiovarainministeriön asetus vesivoimalaitoksen ja sen rakenteiden jälleenhankinta\-arvon perusteista](1267.md) `1267/2001`
+- [Valtiovarainministeriön asetus rakennusten jälleenhankinta\-arvon perusteista](1268.md) `1268/2001`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön kokonaan rahoittamista eläinpalkkioista annetun maa\- ja metsätalousministeriön päätöksen 4 §:n muuttamisesta](1269.md) `1269/2001`
+- [Laki korkeakoululaitoksen kehittämisestä annetun lain 3 §:n muuttamisesta](1270.md) `1270/2001`
+- [Laki yliopistolain muuttamisesta](1271.md) `1271/2001`
+- [Laki kuntien kulttuuritoiminnasta annetun lain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1272.md) `1272/2001`
+- [Laki taiteilijaprofessorin viroista ja valtion taiteilija\-apurahoista annetun lain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1273.md) `1273/2001`
+- [Laki eräistä kirjailijoille ja kääntäjille suoritettavista apurahoista ja avustuksista annetun lain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1274.md) `1274/2001`
+- [Laki kirjastolain 12 §:n muuttamisesta](1275.md) `1275/2001`
+- [Valtioneuvoston asetus taidenäyttelyiden valtiontakuusta annetun asetuksen 4 §:n muuttamisesta](1276.md) `1276/2001`
+- [Maa\- ja metsätalousministeriön asetus maatalouden ympäristötuen erityistuesta annetun maa\- ja metsätalousministeriön asetuksen 18 ja 24 §:n muuttamisesta](1277.md) `1277/2001`
+- [Maa\- ja metsätalousministeriön asetus ympäristötuen perus\- ja lisätoimenpiteistä sekä maatalouden ympäristötuen koulutukseen liittyvästä tuesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1278.md) `1278/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä ministeriön asetuksista](1279.md) `1279/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta erityistukisopimusten tekemisestä annetun maa\- ja metsätalousministeriön asetuksen 1 a ja 6 §:n muuttamisesta](1280.md) `1280/2001`
+- [Laki yrittäjien eläkelain 3 §:n muuttamisesta](1281.md) `1281/2001`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](1282.md) `1282/2001`
+- [Laki maatalousyrittäjien tapaturmavakuutuslain 7 §:n muuttamisesta](1283.md) `1283/2001`
+- [Laki työntekijäin eläkelain 19 d §:n muuttamisesta](1284.md) `1284/2001`
+- [Laki merimieseläkelain 63 a §:n muuttamisesta](1285.md) `1285/2001`
+- [Laki työntekijäin eläkemaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta eräissä päivärahoissa](1286.md) `1286/2001`
+- [Laki työterveyslaitoksen toiminnasta ja rahoituksesta annetun lain muuttamisesta](1287.md) `1287/2001`
+- [Tasavallan presidentin asetus Suomen Tasavallan hallituksen ja Mosambikin hallituksen välillä kehitysyhteistyön yleisistä ehdoista ja menettelytavoista tehdyn sopimuksen voimaansaattamisesta](1288.md) `1288/2001`
+- [Tasavallan presidentin asetus Maltan kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen voimaansaattamisesta](1289.md) `1289/2001`
+- [Sosiaali\- ja terveysministeriön asetus Vakuutusvalvontaviraston maksullisista suoritteista](1290.md) `1290/2001`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön tietopalvelukeskuksen maksullisista suoritteista](1291.md) `1291/2001`
+- [Laki valtion liikelaitoksista annetun lain 8 §:n muuttamisesta](1292.md) `1292/2001`
+- [Laki tilastolain 17 §:n muuttamisesta](1293.md) `1293/2001`
+- [Sisäasiainministeriön asetus Pelastusopiston suoritteiden maksullisuudesta ja maksuperusteista](1294.md) `1294/2001`
+- [Sosiaali\- ja terveysministeriön asetus lääkkeiden hintalautakunnan maksullisista suoritteista](1295.md) `1295/2001`
+- [Maa\- ja metsätalousministeriön asetus sikojen merkitsemisestä ja rekisteröinnistä](1296.md) `1296/2001`
+- [Verohallituksen päätös vuodelta 2002 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](1297.md) `1297/2001`
+- [Valtioneuvoston asetus eräiden maaseutuelinkeinolainojen korosta](1298.md) `1298/2001`
+- [Valtioneuvoston asetus Euroopan yhteisön yleisen tutkintojen tunnustamisjärjestelmän voimaanpanosta annetun asetuksen 5 §:n muuttamisesta](1299.md) `1299/2001`
+- [Valtioneuvoston asetus suomen ja ruotsin kielen taidon osoittamisesta annetun asetuksen muuttamisesta](1300.md) `1300/2001`
+- [Valtioneuvoston asetus suomen ja ruotsin kielen tutkinnoista suoritettavista korvauksista annetun asetuksen kumoamisesta](1301.md) `1301/2001`
+- [Valtioneuvoston asetus yksityisistä teistä annetun valtioneuvoston asetuksen muuttamisesta](1302.md) `1302/2001`
+- [Opetusministeriön asetus valtionapuviranomaisesta myönnettäessä avustusta liikuntapaikkojen perustamishankkeisiin](1303.md) `1303/2001`
+- [Opetusministeriön asetus tallentamattomien ääni\- ja kuvanauhojen ja muiden tallennuslaitteiden maahantuonnista ja valmistuksesta suoritettavan tekijänoikeudellisen maksun suuruudesta](1304.md) `1304/2001`
+- [Liikenne\- ja viestintäministeriön asetus liikenne\- ja viestintäministeriön työjärjestyksen muuttamisesta](1305.md) `1305/2001`
+- [Maa\- ja metsätalousministeriön asetus metsätalouden ympäristötuesta annetun maa\- ja metsätalousministeriön päätöksen 3 §:n muuttamisesta](1306.md) `1306/2001`
+- [Maa\- ja metsätalousministeriön asetus luonnonmukaisessa tuotannossa käytettävästä lisäysaineistosta](1307.md) `1307/2001`
+- [Maa\- ja metsätalousministeriön asetus eläinvälittäjärekisteristä](1308.md) `1308/2001`
+- [Maa\- ja metsätalousministeriön asetus kalataloutta koskevista rekistereistä annetun maa\- ja metsätalousministeriön päätöksen 12 §:n muuttamisesta](1309.md) `1309/2001`
+- [Valtioneuvoston asetus televisio\- ja radiotoimintaan sekä toimiluvanvaraiseen teletoimintaan määrättyjen taajuusalueiden käyttösuunnitelmasta](1310.md) `1310/2001`
+- [Oikeusministeriön asetus vastapuolen maksettavaksi tuomittavista oikeudenkäyntikuluista oikeudenkäymiskaaren 21 luvun 8 c §:ssä tarkoitetuissa asioissa](1311.md) `1311/2001`
+- [Maa\- ja metsätalousministeriön asetus energiapuun haketukseen käytettävän tuen myöntämisestä ja tuen enimmäismäärästä](1312.md) `1312/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta rehualan toiminnanharjoittamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1313.md) `1313/2001`
+- [Valtioneuvoston päätös kihlakuntajaosta annetun valtioneuvoston päätöksen 2 §:n muuttamisesta](1314.md) `1314/2001`
+- [Valtiovarainministeriön asetus tullilaitoksen suoritteiden maksullisuudesta](1315.md) `1315/2001`
+- [Työministeriön asetus työhallinnon maksullisista suoritteista](1316.md) `1316/2001`
+- [Opetusministeriön asetus yliopistojen eräistä suoritteista perittävistä maksuista](1317.md) `1317/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kestävän metsätalouden rahoituksesta annetun lain nojalla tehtävän suunnittelun ja puuntuotannon kestävyyden turvaamiseksi tehtävien töiden rahoituksesta](1318.md) `1318/2001`
+- [Kauppa\- ja teollisuusministeriön asetus ydinenergian käytön valvontaan kuuluvista kauppa\- ja teollisuusministeriön maksullisista suoritteista](1319.md) `1319/2001`
+- [Kauppa\- ja teollisuusministeriön asetus ydinlaitosten ympäristövaikutusten arviointimenettelyyn kuuluvista kauppa\- ja teollisuusministeriön maksullisista suoritteista](1320.md) `1320/2001`
+- [Sosiaali\- ja terveysministeriön asetus vuoden 2002 liikenneturvallisuusmaksusta](1321.md) `1321/2001`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveysministeriön ja työsuojelun piirihallinnon maksullisista suoritteista](1322.md) `1322/2001`
+- [Opetusministeriön asetus eräiden oppilailta ja opiskelijoilta perittävien maksujen perusteista](1323.md) `1323/2001`
+- [Opetusministeriön asetus opetushallituksen suoritteiden maksullisuudesta](1324.md) `1324/2001`
+- [Maa\- ja metsätalousministeriön asetus vuodelta 2001 maksettavasta perunantuotannon lisäkustannusten korvauksista Siemenperunakeskuksen tuotantoalueella](1325.md) `1325/2001`
+- [Valtioneuvoston asetus valtioneuvoston ohjesäännön muuttamisesta](1326.md) `1326/2001`
+- [Opetusministeriön asetus ammattikorkeakoulujen opetuksesta perittävien maksujen perusteista annetun opetusministeriön asetuksen 2 §:n muuttamisesta](1327.md) `1327/2001`
+- [Valtiovarainministeriön asetus yksittäisten kuntien ja evankelis\-luterilaisten seurakuntien verovuoden 2000 lopullisten ja verovuoden 2001 yhteisöveron jako\-osuuksien laskentaperusteista](1328.md) `1328/2001`
+- [Opetusministeriön asetus yleiseen kielitutkintoon osallistuvalta perittävän maksun enimmäismäärästä](1329.md) `1329/2001`
+- [Liikenne\- ja viestintäministeriön asetus liikenne\- ja viestintäministeriön maksuista](1330.md) `1330/2001`
+- [Sosiaali\- ja terveysministeriön asetus Lääkelaitoksen maksullisista suoritteista annetun sosiaali\- ja terveysministeriön asetuksen liitteen muuttamisesta](1331.md) `1331/2001`
+- [Ympäristöministeriön asetus ympäristöministeriön maksullisista suoritteista](1332.md) `1332/2001`
+- [Ympäristöministeriön asetus Valtion asuntorahaston maksullisista suoritteista](1333.md) `1333/2001`
+- [Valtioneuvoston asetus perhehoitajalle maksettavasta palkkiosta ja korvauksesta annetun asetuksen muuttamisesta](1334.md) `1334/2001`
+- [Opetusministeriön asetus ylioppilastutkintolautakunnan suoritteiden maksullisuudesta annetun opetusministeriön asetuksen 2 §:n muuttamisesta](1335.md) `1335/2001`
+- [Liikenne\- ja viestintäministeriön asetus Ratahallintokeskuksen maksuista](1336.md) `1336/2001`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveysministeriön työjärjestyksen muuttamisesta](1337.md) `1337/2001`
+- [Sosiaali\- ja terveysministeriön asetus sairaanhoitopiirin eettisen toimikunnan ja ETENE:n lääketieteellisen tutkimuseettisen jaoston lausunnoista perittävistä maksuista sekä tutkittavalle suoritettavista korvauksista](1338.md) `1338/2001`
+- [LUETTELO kuntien tuloveroprosenteista ja kirkollisveroäyrien hinnoista vuonna 2002](1339.md) `1339/2001`
+- [Valtioneuvoston asetus vuodelta 2001 maksettavasta lihan kuljetusavustuksesta](1340.md) `1340/2001`
+- [Valtioneuvoston asetus työnantajan sosiaaliturvamaksusta annetun asetuksen 1 §:n muuttamisesta](1341.md) `1341/2001`
+- [Sisäasiainministeriön asetus lääninhallituksen suoritteiden maksuista](1342.md) `1342/2001`
+- [Valtiovarainministeriön asetus vuoden 2002 taidekilpailupalkintojen verovapaudesta](1343.md) `1343/2001`
+- [Laki arpajaislain 5 §:n 2 ja 3 momentin kumoamisesta](1344.md) `1344/2001`
+- [Valtioneuvoston asetus arpajaisista](1345.md) `1345/2001`
+- [Valtioneuvoston asetus puolustusvoimista annetun asetuksen muuttamisesta](1346.md) `1346/2001`
+- [Sisäasiainministeriön asetus holhoustoimessa tarvittavan edunvalvontapalvelun tuottajalle maksettavasta korvauksesta](1347.md) `1347/2001`
+- [Sisäasiainministeriön asetus rahapelitoiminnan valvontakustannusten korvaamisesta](1348.md) `1348/2001`
+- [Laki ulkomaanliikenteen kauppa\-alusluettelosta annetun lain 1 ja 4 §:n muuttamisesta](1349.md) `1349/2001`
+- [Laki luvanvaraisesta tavaraliikenteestä tiellä annetun lain muuttamisesta](1350.md) `1350/2001`
+- [Tasavallan presidentin asetus aluksenmittaukseen liittyvistä palkkioista, korvauksista ja maksuista annetun asetuksen 1 §:n muuttamisesta](1351.md) `1351/2001`
+- [Valtioneuvoston asetus väylämaksuasetuksen muuttamisesta](1352.md) `1352/2001`
+- [Valtioneuvoston asetus kanavamaksuista annetun asetuksen 2 ja 11 §:n muuttamisesta](1353.md) `1353/2001`
+- [Valtioneuvoston asetus eräistä alusten katsastuksiin ja tarkastuksiin sekä jäämaksuluokan määräämiseen liittyvistä palkkioista ja korvauksista annetun asetuksen muuttamisesta](1354.md) `1354/2001`
+- [Valtioneuvoston asetus aluksen lastiviivojen määräämisestä ja merkitsemisestä suoritettavasta maksusta annetun asetuksen 1 ja 2 §:n muuttamisesta](1355.md) `1355/2001`
+- [Valtioneuvoston asetus alusten paineastioiden tarkastuksiin liittyvistä palkkioista ja korvauksista annetun asetuksen muuttamisesta](1356.md) `1356/2001`
+- [Valtioneuvoston asetus merimieskatselmusmiehille maksettavista palkkioista ja lunastuksista annetun asetuksen 1 ja 2 §:n muuttamisesta](1357.md) `1357/2001`
+- [Valtioneuvoston asetus yritys\- ja yhteisötunnusrekisterin maksullisista suoritteista](1358.md) `1358/2001`
+- [Valtioneuvoston asetus valtioneuvoston työllisyysehtopäätöksen kumoamisesta](1359.md) `1359/2001`
+- [Laki kuntien valtionosuuslain muuttamisesta](1360.md) `1360/2001`
+- [Valtioneuvoston asetus rahapeliluvan maksullisuudesta ja maksujen suuruudesta](1361.md) `1361/2001`
+- [Ympäristöministeriön asetus Euroopan yhteisön ympäristömerkkiä koskevista maksullisista suoritteista](1362.md) `1362/2001`
+- [Ympäristöministeriön asetus alueellisten ympäristökeskusten tehtävistä luonnonsuojelualueiden hankinnassa annetun ympäristöministeriön päätöksen kumoamisesta](1363.md) `1363/2001`
+- [Sisäasiainministeriön asetus sisäasiainministeriön maksullisista suoritteista](1364.md) `1364/2001`
+- [Sisäasiainministeriön asetus sisäasiainministeriön työjärjestyksen muuttamisesta](1365.md) `1365/2001`
+- [Maa\- ja metsätalousministeriön asetus maatilatalouden rakennetuen ja vastaavan yritystoimintaan myönnettävän tuen kohdentamisesta vuonna 2001 annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1366.md) `1366/2001`
+- [Laki arpajaisverolain 4 §:n muuttamisesta](1367.md) `1367/2001`
+- [Valtioneuvoston asetus puolustusministeriöstä](1368.md) `1368/2001`
+- [Puolustusministeriön työjärjestys](1369.md) `1369/2001`
+- [Valtioneuvoston asetus valtioneuvoston yleisistunnossa tehdyn puolustustarvikkeen maastavientilupaa koskevan päätöksen maksullisuudesta](1370.md) `1370/2001`
+- [Valtioneuvoston asetus nestemäisten polttoaineiden valmisteverosta annetun asetuksen 3 §:n muuttamisesta](1371.md) `1371/2001`
+- [Valtioneuvoston asetus rakennusurakkasopimuksissa käytettävistä indeksiehdoista annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](1372.md) `1372/2001`
+- [Puolustusministeriön asetus rauhanturvaamishenkilöstön kelpoisuusehdoista ja palvelussuhteen ehdoista annetun puolustusministeriön asetuksen muuttamisesta](1373.md) `1373/2001`
+- [Tasavallan presidentin asetus luvan hankkimisesta eräiden huvitusten järjestämiseen ja peliautomaattien pitämiseen annetun asetuksen kumoamisesta](1374.md) `1374/2001`
+- [Valtioneuvoston asetus valtion liikelaitosten lyhytaikaisen lainan enimmäismääristä annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](1375.md) `1375/2001`
+- [Sisäasiainministeriön asetus poliisin suoritteiden maksullisuudesta](1376.md) `1376/2001`
+- [Maa\- ja metsätalousministeriön asetus avustusjärjestöille Euroopan yhteisön varoista myönnettävän elintarviketuen täytäntöönpanosta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1377.md) `1377/2001`
+- [Sisäasiainministeriön asetus rajavartiolaitoksen suoritteiden maksuista](1378.md) `1378/2001`
+- [Valtiovarainministeriön asetus ajoneuvoveron kannosta annetun valtiovarainministeriön päätöksen 1 §:n muuttamisesta](1379.md) `1379/2001`
+- [Laki liikennevakuutuslain muuttamisesta](1380.md) `1380/2001`
+- [Laki vakuutusyhtiölain 2 luvun 2 §:n ja 2 a luvun 11 §:n muuttamisesta](1381.md) `1381/2001`
+- [Laki ulkomaisista vakuutusyhtiöistä annetun lain 19 §:n muuttamisesta](1382.md) `1382/2001`
+- [Työterveyshuoltolaki](1383.md) `1383/2001`
+- [Laki työsuojelun valvonnasta ja muutoksenhausta työsuojeluasioissa annetun lain 4 ja 11 §:n muuttamisesta](1384.md) `1384/2001`
+- [Laki kansanterveyslain muuttamisesta](1385.md) `1385/2001`
+- [Laki sairausvakuutuslain 29 a §:n muuttamisesta](1386.md) `1386/2001`
+- [Laki maaseutuelinkeinojen rahoituslain muuttamisesta](1387.md) `1387/2001`
+- [Laki arvonimistä suoritettavasta verosta](1388.md) `1388/2001`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](1389.md) `1389/2001`
+- [Laki vapaasta sivistystyöstä annetun lain muuttamisesta](1390.md) `1390/2001`
+- [Laki ammatillisesta koulutuksesta annetun lain 8 §:n muuttamisesta](1391.md) `1391/2001`
+- [Laki ammatillisesta aikuiskoulutuksesta annetun lain 4 §:n muuttamisesta](1392.md) `1392/2001`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta annetun lainvoimaantulosäännöksen muuttamisesta](1393.md) `1393/2001`
+- [Laki työvoimapoliittisesta aikuiskoulutuksesta annetun lain 12 §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1394.md) `1394/2001`
+- [Valtioneuvoston asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen muuttamisesta](1395.md) `1395/2001`
+- [Valtioneuvoston asetus vapaasta sivistystyöstä annetun asetuksen muuttamisesta](1396.md) `1396/2001`
+- [Laki työttömyysturvalain muuttamisesta](1397.md) `1397/2001`
+- [Valtioneuvoston asetus verotusmenettelystä annetun asetuksen muuttamisesta](1398.md) `1398/2001`
+- [Valtioneuvoston asetus verontilitysasetuksen 1 ja 2 §:n muuttamisesta](1399.md) `1399/2001`
+- [Valtioneuvoston asetus raaka\-ainetakuutoiminnassa noudatettavista periaatteista](1400.md) `1400/2001`
+- [Valtiovarainministeriön asetus valtiovarainministeriön maksullisista suoritteista](1401.md) `1401/2001`
+- [Valtiovarainministeriön asetus valtiovarainministeriön työjärjestyksen muuttamisesta](1402.md) `1402/2001`
+- [Valtiovarainministeriön päätös verohallituksen määräämisestä toimivaltaisena viranomaisena ratkaisemaan eräitä verotusta koskevissa kansainvälisissä sopimuksissa tarkoitettuja asioita](1403.md) `1403/2001`
+- [Valtioneuvoston asetus tulliasetuksen muuttamisesta](1404.md) `1404/2001`
+- [Sosiaali\- ja terveysministeriön asetus työeläkekassan perusteista lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 9 §:n mukaista eläkelaitosten keskinäistä kustannusten jakamista varten](1405.md) `1405/2001`
+- [Sosiaali\- ja terveysministeriön asetus esiintyvien taiteilijoiden ja eräiden erityisryhmien eläkekassan perusteista taiteilijoiden ja eräiden erityisryhmiin kuuluvien työntekijäin eläkelain 7 §:n 4 momentin mukaista eläkelaitosten keskinäistä kustannusten jakamista varten](1406.md) `1406/2001`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkekassan työntekijäin eläkelain 12 §:n mukaista vastuunjakoa varten laskettavista suureista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1407.md) `1407/2001`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 5 ja 6 a §:n muuttamisesta](1408.md) `1408/2001`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain muuttamisesta](1409.md) `1409/2001`
+- [Laki toimeentulotuesta annetun lain 11 ja 15 §:n väliaikaisesta muuttamisesta](1410.md) `1410/2001`
+- [Valtioneuvoston asetus sosiaalialan osaamiskeskustoiminnasta](1411.md) `1411/2001`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1412.md) `1412/2001`
+- [Sosiaali\- ja terveysministeriön asetus merimieseläkekassan perusteista merimieseläkelain 3 a §:n 2 ja 3 momentin mukaista vastuunjakoa varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1413.md) `1413/2001`
+- [Valtioneuvoston asetus kielilaissa mainittujen käännösten toimittamisesta suoritettavista maksuista annetun asetuksen 1 §:n muuttamisesta](1414.md) `1414/2001`
+- [Ympäristöministeriön asetus alueellisen ympäristökeskuksen maksullisista suoritteista](1415.md) `1415/2001`
+- [Ympäristöministeriön asetus ympäristölupaviraston maksullisista suoritteista](1416.md) `1416/2001`
+- [Sisäasiainministeriön asetus ulkomaalaisviraston maksullisista suoritteista](1417.md) `1417/2001`
+- [Opetusministeriön asetus ortodoksisen kirkkokunnan kirkollishallituksen suoritteiden maksullisuudesta](1418.md) `1418/2001`
+- [Verohallituksen päätös niistä perusteista, joiden mukaan muun kiinteistön kuin maatilan maapohjan verotusarvo lasketaan vuodelta 2001 toimitettavassa verotuksessa](1419.md) `1419/2001`
+- [Laki kansaneläkelain muuttamisesta](1420.md) `1420/2001`
+- [Laki eläkkeensaajien asumistukilain 6 §:n muuttamisesta](1421.md) `1421/2001`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 10 a §:n muuttamisesta](1422.md) `1422/2001`
+- [Laki mielenterveyslain muuttamisesta](1423.md) `1423/2001`
+- [Laki hallinto\-oikeuslain 7 §:n muuttamisesta](1424.md) `1424/2001`
+- [Valtioneuvoston asetus oikeuslääkeopillisista tutkimuksista suoritettavista korvauksista](1425.md) `1425/2001`
+- [Valtioneuvoston asetus eräiden veri\- ja muita periytyviä ominaisuuksia koskevien oikeuslääketieteellisten tutkimusten korvausperusteista](1426.md) `1426/2001`
+- [Laki opintotukilain muuttamisesta](1427.md) `1427/2001`
+- [Laki sotilasavustuslain 10 a §:n muuttamisesta](1428.md) `1428/2001`
+- [Laki työvoimapalvelulain muuttamisesta](1429.md) `1429/2001`
+- [Laki työttömyysturvalain muuttamisesta](1430.md) `1430/2001`
+- [Laki työmarkkinatuesta annetun lain muuttamisesta](1431.md) `1431/2001`
+- [Laki työllisyyslain muuttamisesta](1432.md) `1432/2001`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain muuttamisesta](1433.md) `1433/2001`
+- [Laki kiinteistötoimitusmaksusta annetun lain muuttamisesta](1434.md) `1434/2001`
+- [Valtioneuvoston asetus perusopetuslaissa tarkoitetun opetuksen valtakunnallisista tavoitteista ja perusopetuksen tuntijaosta](1435.md) `1435/2001`
+- [Valtioneuvoston asetus raha\-arpa\-, veikkaus\- ja vedonlyöntipelien tuoton tilittämisestä](1436.md) `1436/2001`
+- [Valtioneuvoston asetus kirkon keskusrahastosta annetun lain täytäntöönpanosta annetun asetuksen 3 ja 5 §:n muuttamisesta](1437.md) `1437/2001`
+- [Valtioneuvoston asetus ortodoksisesta kirkkokunnasta annetun asetuksen muuttamisesta](1438.md) `1438/2001`
+- [Valtioneuvoston asetus eräiden porotilalain, luontaiselinkeinolain ja porotalouslain mukaisten valtion myyntihintasaamisten ja valtionlainojen korkojen tarkistamisesta](1439.md) `1439/2001`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveydenhuollon tuotevalvontakeskuksen maksullisista suoritteista](1440.md) `1440/2001`
+- [Valtioneuvoston kanslian asetus valtioneuvoston kanslian työjärjestyksen muuttamisesta](1441.md) `1441/2001`
+- [Verohallituksen päätös veroilmoituksesta](1442.md) `1442/2001`
+- [Opetusministeriön asetus arkistolaitoksen suoritteiden maksuista](1443.md) `1443/2001`
+- [Opetusministeriön asetus Kotimaisten kielten tutkimuskeskuksen eräistä suoritteista perittävistä maksuista](1444.md) `1444/2001`
+- [Työministeriön asetus työssäkäyntialueista](1445.md) `1445/2001`
+- [Laki Vankeinhoidon koulutuskeskuksesta annetun lain muuttamisesta](1446.md) `1446/2001`
+- [Laki kuntajakolain muuttamisesta](1447.md) `1447/2001`
+- [Valtioneuvoston asetus kuntien valtionosuudesta annetun asetuksen muuttamisesta](1448.md) `1448/2001`
+- [Valtioneuvoston asetus televisio\- ja radiotoimintaan sekä toimiluvanvaraiseen teletoimintaan määrättyjen radiotaajuusalueiden käyttösuunnitelmasta Ahvenanmaan maakunnassa](1449.md) `1449/2001`
+- [Sosiaali\- ja terveysministeriön asetus maatalousyrittäjien eläkelain 10 §:ssä tarkoitetun perusprosentin ja yrittäjien eläkelain 9 §:ssä tarkoitetun maksuprosentin vahvistamisesta](1450.md) `1450/2001`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain 12 b §:ssä tarkoitetun työntekijäin eläkemaksun vahvistamisesta](1451.md) `1451/2001`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain 7 a §:n 3 momentissa tarkoitetun kertoimen vahvistamisesta](1452.md) `1452/2001`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkemaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta sairausvakuutusjärjestelmän mukaisissa päivärahoissa ja kuntoutusrahalain mukaisissa kuntoutusrahoissa](1453.md) `1453/2001`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkemaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta työttömyysturvalain perusteella maksettavissa päivärahoissa](1454.md) `1454/2001`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkemaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta tapaturmavakuutuslain perusteella maksettavissa päivärahoissa](1455.md) `1455/2001`
+- [Laki arvonlisäveron palautusten takaisinperinnästä kunnilta annetun lain kumoamisesta](1456.md) `1456/2001`
+- [Laki arvonlisäverolain muuttamisesta](1457.md) `1457/2001`
+- [Laki verontilityslain muuttamisesta](1458.md) `1458/2001`
+- [Laki tuloverolain 124 §:n muuttamisesta](1459.md) `1459/2001`
+- [Valtioneuvoston asetus leimaverolain soveltamisesta annetun valtioneuvoston päätöksen kumoamisesta](1460.md) `1460/2001`
+- [Valtioneuvoston asetus vuoden 2001 satovahinkojen viljelmäkohtaisista korvausosuuksista](1461.md) `1461/2001`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta hyväksytyistä kasvinsuojeluaineiden tehoaineista](1462.md) `1462/2001`
+- [Verohallituksen päätös yleisestä tiedonantovelvollisuudesta](1463.md) `1463/2001`
+- [Valtioneuvoston asetus työnhakuvalmennukseen osallistuvien ylläpitokorvauksesta](1464.md) `1464/2001`
+- [Valtioneuvoston asetus työvoimapalveluihin liittyvistä etuuksista annetun asetuksen muuttamisesta](1465.md) `1465/2001`
+- [Valtioneuvoston asetus työllisyysasetuksen muuttamisesta](1466.md) `1466/2001`
+- [Valtioneuvoston asetus työttömien aloitteellisuuden tukemisesta annetun asetuksen kumoamisesta](1467.md) `1467/2001`
+- [Valtioneuvoston asetus työmarkkinatuesta annetun asetuksen muuttamisesta](1468.md) `1468/2001`
+- [Valtioneuvoston asetus maahanmuuttajien kotouttamisesta ja turvapaikanhakijoiden vastaanotosta annetun asetuksen muuttamisesta](1469.md) `1469/2001`
+- [Valtioneuvoston asetus työvoimatoimikunnasta annetun asetuksen 2 §:n muuttamisesta](1470.md) `1470/2001`
+- [Laki nuorisorangaistuksen kokeilemisesta annetun lain 14 §:n muuttamisesta](1471.md) `1471/2001`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain 8 luvun 11 §:n muuttamisesta](1472.md) `1472/2001`
+- [Laki kirkkolain muuttamisesta](1473.md) `1473/2001`
+- [Valtioneuvoston asetus ydinenergian käytön valvontaan kuuluvista valtioneuvoston päätöksistä suoritettavista maksuista](1474.md) `1474/2001`
+- [Valtioneuvoston asetus totopelien tuottojen tilittämisestä](1475.md) `1475/2001`
+- [Valtioneuvoston asetus hevostalousneuvottelukunnasta ja totopelien tuottojen käyttämisestä hevoskasvatuksen ja hevosurheilun edistämiseen](1476.md) `1476/2001`
+- [Ympäristöministeriön asetus Suomen ympäristökeskuksen maksullisista suoritteista](1477.md) `1477/2001`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön tietopalvelukeskuksen suoritteista perittävistä maksuista annetun maa\- ja metsätalousministeriön päätöksen 1 a §:n muuttamisesta](1478.md) `1478/2001`
+- [Laki sairausvakuutuslain muuttamisesta](1479.md) `1479/2001`
+- [Laki kuntoutusrahalain 14 ja 15 §:n muuttamisesta](1480.md) `1480/2001`
+- [Valtioneuvoston asetus sanomalehdistön tuesta](1481.md) `1481/2001`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen 9 §:n muuttamisesta](1482.md) `1482/2001`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon vuoden 2002 voimavaroista annetun valtioneuvoston asetuksen 2 ja 5 §:n muuttamisesta](1483.md) `1483/2001`
+- [Valtioneuvoston asetus hyvän työterveyshuoltokäytännön periaatteista, työterveyshuollon sisällöstä sekä ammatti\-henkilöiden ja asiantuntijoiden koulutuksesta](1484.md) `1484/2001`
+- [Valtioneuvoston asetus terveystarkastuksista erityistä sairastumisen vaaraa aiheuttavissa töissä](1485.md) `1485/2001`
+- [Kauppa\- ja teollisuusministeriön asetus kananmunista ja muista linnunmunista annetun kauppa\- ja teollisuusministeriön päätöksen 4 ja 5 §:n muuttamisesta](1486.md) `1486/2001`
+- [Sosiaali\- ja terveysministeriön asetus kolmannen maan vakuutusyhtiön edustuston tilinpäätöksestä annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1487.md) `1487/2001`
+- [Osuuskuntalaki](1488.md) `1488/2001`
+- [Laki osuuskuntalain voimaanpanosta](1489.md) `1489/2001`
+- [Laki kaupparekisterilain 10 ja 18 a §:n muuttamisesta](1490.md) `1490/2001`
+- [Laki yritys\- ja yhteisötietolain 14 §:n muuttamisesta](1491.md) `1491/2001`
+- [Laki toiminimilain 7 ja 12 §:n muuttamisesta](1492.md) `1492/2001`
+- [Laki yrityskiinnityslain muuttamisesta](1493.md) `1493/2001`
+- [Laki osakeyhtiölain 12 luvun 7 §:n muuttamisesta](1494.md) `1494/2001`
+- [Laki kirjanpitolain 3 luvun 1 §:n ja 8 luvun 5 §:n muuttamisesta](1495.md) `1495/2001`
+- [Laki konkurssipesien hallinnon valvonnasta annetun lain 1 §:n muuttamisesta](1496.md) `1496/2001`
+- [Laki eräiden markkinaoikeudellisten asioiden käsittelystä annetun lain muuttamisesta](1497.md) `1497/2001`
+- [Valtioneuvoston asetus kaupparekisteriasetuksen muuttamisesta](1498.md) `1498/2001`
+- [Valtioneuvoston asetus yrityskiinnitysasetuksen 12 ja 13 a §:n muuttamisesta](1499.md) `1499/2001`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](1500.md) `1500/2001`
+- [Laki liikepankeista ja muista osakeyhtiömuotoisista luottolaitoksista](1501.md) `1501/2001`
+- [Säästöpankkilaki](1502.md) `1502/2001`
+- [Laki säästöpankin muuttamisesta osakeyhtiömuotoiseksi pankiksi annetun lain kumoamisesta](1503.md) `1503/2001`
+- [Laki osuuspankeista ja muista osuuskuntamuotoisista luottolaitoksista](1504.md) `1504/2001`
+- [Laki hypoteekkiyhdistyksistä annetun lain muuttamisesta](1505.md) `1505/2001`
+- [Laki kiinnitysluottopankkilain muuttamisesta](1506.md) `1506/2001`
+- [Laki sijoituspalveluyrityksistä annetun lain muuttamisesta](1507.md) `1507/2001`
+- [Laki valtion vakuusrahastosta annetun lain muuttamisesta](1508.md) `1508/2001`
+- [Laki talletuspankin toiminnan väliaikaisesta keskeyttämisestä](1509.md) `1509/2001`
+- [Laki yrityksen saneerauksesta annetun lain 2 §:n muuttamisesta](1510.md) `1510/2001`
+- [Laki kaupparekisterilain muuttamisesta](1511.md) `1511/2001`
+- [Laki kilpailunrajoituksista annetun lain 11 f §:n muuttamisesta](1512.md) `1512/2001`
+- [Laki eräistä arvopaperi\- ja valuuttakaupan sekä selvitysjärjestelmän ehdoista annetun lain 6 §:n muuttamisesta](1513.md) `1513/2001`
+- [Laki takauksesta ja vierasvelkapanttauksesta annetun lain 10 §:n muuttamisesta](1514.md) `1514/2001`
+- [Laki tuloverolain 24 ja 122 §:n muuttamisesta](1515.md) `1515/2001`
+- [Laki varainsiirtoverolain 4 §:n muuttamisesta](1516.md) `1516/2001`
+- [Laki arvopaperimarkkinalain muuttamisesta](1517.md) `1517/2001`
+- [Laki kaupankäynnistä vakioiduilla optioilla ja termiineillä annetun lain muuttamisesta](1518.md) `1518/2001`
+- [Laki arvo\-osuusjärjestelmästä annetun lain muuttamisesta](1519.md) `1519/2001`
+- [Laki arvo\-osuustileistä annetun lain 5 a §:n muuttamisesta](1520.md) `1520/2001`
+- [Laki sijoituspalveluyrityksistä annetun lain muuttamisesta](1521.md) `1521/2001`
+- [Laki sijoitusrahastolain 53 ja 81 §:n muuttamisesta](1522.md) `1522/2001`
+- [Laki rahoitustarkastuslain 2 §:n 10 kohdan kumoamisesta](1523.md) `1523/2001`
+- [Laki osakeyhtiölain muuttamisesta](1524.md) `1524/2001`
+- [Laki vakuutusyhdistyslain muuttamisesta](1525.md) `1525/2001`
+- [Laki rikoslain 51 luvun muuttamisesta](1526.md) `1526/2001`
+- [Markkinaoikeuslaki](1527.md) `1527/2001`
+- [Laki eräiden markkinaoikeudellisten asioiden käsittelystä](1528.md) `1528/2001`
+- [Laki kilpailunrajoituksista annetun lain muuttamisesta](1529.md) `1529/2001`
+- [Laki julkisista hankinnoista annetun lain muuttamisesta](1530.md) `1530/2001`
+- [Laki kilpailuneuvostosta annetun lain kumoamisesta](1531.md) `1531/2001`
+- [Laki sopimattomasta menettelystä elinkeinotoiminnassa annetun lain 7 ja 8 §:n muuttamisesta](1532.md) `1532/2001`
+- [Laki rajat ylittävästä kieltomenettelystä annetun lain muuttamisesta](1533.md) `1533/2001`
+- [Laki Kuluttajavirastosta annetun lain muuttamisesta](1534.md) `1534/2001`
+- [Laki luottolaitostoiminnasta annetun lain 86 ja 87 §:n muuttamisesta](1535.md) `1535/2001`
+- [Laki arvopaperimarkkinalain 7 luvun 1 ja 2 §:n muuttamisesta](1536.md) `1536/2001`
+- [Laki elinkeinonharjoittajien välisten sopimusehtojen sääntelystä annetun lain 2 §:n muuttamisesta](1537.md) `1537/2001`
+- [Laki saatavien perinnästä annetun lain 14 §:n muuttamisesta](1538.md) `1538/2001`
+- [Laki televisio\- ja radiotoiminnasta annetun lain 35 §:n muuttamisesta](1539.md) `1539/2001`
+- [Laki alkoholilain 52 ja 53 §:n muuttamisesta](1540.md) `1540/2001`
+- [Laki toimenpiteistä tupakoinnin vähentämiseksi annetun lain 21 §:n muuttamisesta](1541.md) `1541/2001`
+- [Laki vakuutusyhtiölain 14 a luvun muuttamisesta](1542.md) `1542/2001`
+- [Laki vakuutuksenvälittäjistä annetun lain 8 c ja 8 d §:n muuttamisesta](1543.md) `1543/2001`
+- [Laki tuomareiden nimittämisestä annetun lain muuttamisesta](1544.md) `1544/2001`
+- [Laki oikeudenkäynnin julkisuudesta annetun lain 1 §:n muuttamisesta](1545.md) `1545/2001`
+- [Laki tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista annetun lain muuttamisesta](1546.md) `1546/2001`
+- [Laki kuluttajansuojalain 2 ja 3 luvun muuttamisesta](1547.md) `1547/2001`
+- [Laki Suomen liittymisestä tarkastusten asteittaisesta lakkauttamisesta yhteisillä rajoilla tehdyn Schengenin sopimuksen soveltamisesta tehtyyn yleissopimukseen tehdyn sopimuksen ja siihen liittyvän päätösasiakirjan sekä yleissopimuksen sopimuspuolten ja Islannin ja Norjan välillä tehdyn yhteistyösopimuksen eräiden määräysten hyväksymisestä](1548.md) `1548/2001`
+- [Laki Suomen liittymisestä tarkastusten asteittaisesta lakkauttamisesta yhteisillä rajoilla tehdyn Schengenin sopimuksen soveltamisesta tehtyyn yleissopimukseen tehdyn sopimuksen ja siihen liittyvän päätösasiakirjan sekä yleissopimuksen sopimuspuolten ja Islannin ja Norjan välillä tehdyn yhteistyösopimuksen eräiden määräysten hyväksymisestä annetun lain kumoamisesta](1549.md) `1549/2001`
+- [Tasavallan presidentin asetus Suomen ja Sveitsin välisen väliaikaisen kauppasopimuksen ja sen lisäsopimuksen voimaansaattamisesta annettujen asetusten kumoamisesta ja eräiden Suomen\-Sveitsin väliaikaiseen kauppasopimukseen tehdyn lisäsopimuksen säännösten hyväksymisestä annetun lain kumoamisesta annetun lain voimaansaattamisesta](1550.md) `1550/2001`
+- [Tasavallan presidentin asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan III liitteen muutosten voimaansaattamisesta](1551.md) `1551/2001`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteeseen tehtyjen muutosten voimaansaattamisesta](1552.md) `1552/2001`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyvään vuoden 1988 pöytäkirjaan tehtyjen muutosten voimaansaattamisesta](1553.md) `1553/2001`
+- [Tasavallan presidentin asetus arvonimistä annetun tasavallan presidentin asetuksen muuttamisesta](1554.md) `1554/2001`
+- [Tasavallan presidentin asetus Ruotsin kanssa tehdyn automaattipeliä Suomen ja Ruotsin välillä säännöllisessä linjaliikenteessä olevilla matkustaja\-aluksilla koskevan sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](1555.md) `1555/2001`
+- [Tasavallan presidentin asetus hevostalousneuvottelukunnasta annetun asetuksen kumoamisesta](1556.md) `1556/2001`
+- [Tasavallan presidentin asetus valtionavusta hevoskasvatuksen edistämiseen ja hevosurheilun tukemiseen annetun asetuksen kumoamisesta](1557.md) `1557/2001`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](1558.md) `1558/2001`
+- [Laki maa\- ja puutarhatalouden kansallisista tuista](1559.md) `1559/2001`
+- [Valtioneuvoston asetus kiinteistötoimitusmaksusta](1560.md) `1560/2001`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötoimitusmaksusta](1561.md) `1561/2001`
+- [Kauppa\- ja teollisuusministeriön asetus kauppa\- ja teollisuusministeriön maksullisista suoritteista](1562.md) `1562/2001`
+- [Laki Kansainvälisen viinijärjestön perustamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1563.md) `1563/2001`
+- [Laki Euroopan unionin turvallisuusalan tutkimuslaitokselle ja satelliittikeskukselle sekä niiden elimille ja niiden henkilöstölle myönnettävistä erioikeuksista ja vapauksista tehdyn neuvostossa kokoontuneiden Euroopan yhteisöjen jäsenvaltioiden hallitusten edustajien päätöksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja näiden virastojen oikeustoimikelpoisuudesta](1564.md) `1564/2001`
+- [Kauppa\- ja teollisuusministeriön asetus Kuluttajaviraston maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön asetuksen liitteenä olevan maksutaulukon muuttamisesta](1565.md) `1565/2001`
+- [Kauppa\- ja teollisuusministeriön asetus kilpailuviraston maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön päätöksen liitteenä olevan maksutaulukon muuttamisesta](1566.md) `1566/2001`
+- [Ilmailulaitoksen ilmoitus ilmailumääräyksestä](1567.md) `1567/2001`
+- [Verohallituksen päätös kotieläinten arvon määräämisessä noudatettavista perusteista](1568.md) `1568/2001`

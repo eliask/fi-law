@@ -1,0 +1,1398 @@
+# 2003 Statutes
+
+## Statutes
+
+- [Valtiovarainministeriön asetus yksittäisten kuntien ja evankelis\-luterilaisten seurakuntien verovuoden 2003 yhteisöveron jako\-osuuksien laskentaperusteista](1.md) `1/2003`
+- [Sosiaali\- ja terveysministeriön asetus lääkäri\- ja hammaslääkärikoulutuksen sekä yliopistotasoisen terveystieteellisen tutkimustoiminnan korvauksen perusteista](2.md) `2/2003`
+- [Ulkoasiainministeriön ilmoitus ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](3.md) `3/2003`
+- [Maa\- ja metsätalousministeriön asetus kasvihuonetuotannon tuesta vuonna 2003](4.md) `4/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden maatilalain mukaisten myyntihintasaamisten ja lainojen viitekorosta](5.md) `5/2003`
+- [Valtioneuvoston asetus vuodelta 2003 maatalousyrittäjien opintorahana maksettavan tuen määrästä](6.md) `6/2003`
+- [Valtioneuvoston asetus eräiden kotimaan matkoilla liikennöivien matkustaja\-alusten turvallisuudesta annetun asetuksen 2 §:n muuttamisesta](7.md) `7/2003`
+- [Valtioneuvoston asetus kreosootin ja sillä käsitellyn puun käytön ja markkinoille luovuttamisen rajoittamisesta](8.md) `8/2003`
+- [Maa\- ja metsätalousministeriön asetus eläimistä saatavien elintarvikkeiden ja muiden tuotteiden eläinlääkinnällisistä rajatarkastuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](9.md) `9/2003`
+- [Maa\- ja metsätalousministeriön asetus kolmansista maista tuotavista kalastustuotteista ja niistä saaduista raakavalmisteista ja jalosteista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](10.md) `10/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2002 kansallisten pinta\-alaperusteisten tukien maksatuksesta](11.md) `11/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2002 puutarhatuotteiden varastointituen maksatuksesta](12.md) `12/2003`
+- [Laki sähköisestä asioinnista viranomaistoiminnassa](13.md) `13/2003`
+- [Laki sähköisistä allekirjoituksista](14.md) `14/2003`
+- [Laki viestintähallinnosta annetun lain 2 §:n muuttamisesta](15.md) `15/2003`
+- [Kauppa\- ja teollisuusministeriön asetus talous\- ja velkaneuvontapalvelujen tuottajalle vuonna 2003 maksettavan korvauksen perusteista](16.md) `16/2003`
+- [Laki rikoslain muuttamisesta](17.md) `17/2003`
+- [Laki pakkokeinolain muuttamisesta](18.md) `18/2003`
+- [Laki eräitä yrityksiä koskevasta taloudellisen toiminnan avoimuus\- ja tiedonantovelvollisuudesta](19.md) `19/2003`
+- [Valtioneuvoston asetus valtiontakauksesta perittävistä maksuista](20.md) `20/2003`
+- [Valtioneuvoston asetus valtion liikelaitosten lainanoton rajoista ja ehdoista](21.md) `21/2003`
+- [Valtioneuvoston asetus vuoden 2002 satovahinkojen viljelmäkohtaisista korvausosuuksista](22.md) `22/2003`
+- [Valtioneuvoston asetus passintarkastuspaikoista annetun asetuksen 5 ja 9 §:n muuttamisesta](23.md) `23/2003`
+- [Valtioneuvoston asetus vuonna 2003 kertyvien työnantajan sosiaaliturvamaksujen jakautumasta](24.md) `24/2003`
+- [Valtioneuvoston asetus eräille ulkomaalaisille vapaaehtoisille rintamasotilaille maksettavasta rintama\-avustuksesta](25.md) `25/2003`
+- [Valtioneuvoston asetus sotainvalidien puolisoiden, leskien ja sotaleskien kuntoutustoiminnasta](26.md) `26/2003`
+- [Valtioneuvoston asetus huumeiden käyttäjien hoitoon vuonna 2003 maksettavan valtionavustuksen myöntämisperusteista](27.md) `27/2003`
+- [Kauppa\- ja teollisuusministeriön asetus sähköalan töistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](28.md) `28/2003`
+- [Kauppa\- ja teollisuusministeriön asetus sähkölaitteiden turvallisuudesta annetun kauppa\- ja teollisuusministeriön päätöksen 1 §:n muuttamisesta](29.md) `29/2003`
+- [Kauppa\- ja teollisuusministeriön asetus sähkölaitteistojen käyttöönotosta ja käytöstä annetun kauppa\- ja teollisuusministeriön päätöksen 16 ja 17 §:n muuttamisesta](30.md) `30/2003`
+- [Kauppa\- ja teollisuusministeriön asetus sähköllä toimivien hissien käyttöönotosta ja käytöstä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](31.md) `31/2003`
+- [Laki perusopetuslain 21 §:n muuttamisesta](32.md) `32/2003`
+- [Laki lukiolain 16 §:n muuttamisesta](33.md) `33/2003`
+- [Laki ammatillisesta koulutuksesta annetun lain 24 §:n muuttamisesta](34.md) `34/2003`
+- [Laki ammatillisesta aikuiskoulutuksesta annetun lain 15 §:n muuttamisesta](35.md) `35/2003`
+- [Laki vapaasta sivistystyöstä annetun lain 7 §:n muuttamisesta](36.md) `36/2003`
+- [Laki taiteen perusopetuksesta annetun lain 7 §:n muuttamisesta](37.md) `37/2003`
+- [Laki opetushallituksesta annetun lain 4 §:n muuttamisesta](38.md) `38/2003`
+- [Laki työttömyysturvalain 15 luvun 1 §:n muuttamisesta](39.md) `39/2003`
+- [Tasavallan presidentin asetus Suomen ja Norjan välisen valtakunnanrajan vuonna 2000 suoritetussa rajankäynnissä todettujen rajalinjan muutosten voimaansaattamisesta](40.md) `40/2003`
+- [Valtioneuvoston asetus aikuisten koulutustason kohottamiseen myönnettävästä valtionavustuksesta](41.md) `41/2003`
+- [Opetusministeriön asetus opetus\- ja kirjastotoimen perustamishankkeiden yksikköhinnoista annetun opetusministeriön päätöksen muuttamisesta](42.md) `42/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden porotalouden ja luontaiselinkeinojen rahoituslain mukaisten asuntolainojen viitekorosta](43.md) `43/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2002 viljelmäkohtaisten satovahinkokorvausten sekä alkuvuoden 2002 tulvavahinkokorvausten maksatuksesta](44.md) `44/2003`
+- [Laki Leivonmäen kansallispuistosta](45.md) `45/2003`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteen muutosten ja niihin liittyvien suurnopeusaluksia koskevan vuoden 2000 kansainvälisen turvallisuussäännöstön ja paloturvallisuusjärjestelmäsäännöstön voimaansaattamisesta sekä yleissopimuksen liitteen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](46.md) `46/2003`
+- [Tasavallan presidentin asetus merilain 1 ja 6 luvun muuttamisesta annetun lain voimaantulosta](47.md) `47/2003`
+- [Tasavallan presidentin asetus Pohjois\-Atlantin jäävartion taloudellisesta tuesta tehdyn sopimuksen voimaansaattamisesta annetun asetuksen kumoamisesta](48.md) `48/2003`
+- [Oikeusministeriön asetus oikeusministeriön työjärjestyksen muuttamisesta](49.md) `49/2003`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](50.md) `50/2003`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](51.md) `51/2003`
+- [Verohallituksen Päätös yleisestä tiedonantovelvollisuudesta](52.md) `52/2003`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä](53.md) `53/2003`
+- [Valtioneuvoston asetus lasten ja nuorten psykiatrian palveluihin vuonna 2003 maksettavan valtionavustuksen myöntämisperusteista](54.md) `54/2003`
+- [Valtioneuvoston asetus turvavarastointiohjelmasta vuonna 2003](55.md) `55/2003`
+- [Valtioneuvoston asetus vakuutusyhtiön vastuuvelan laskentaperiaatteista annetun asetuksen 1 §:n muuttamisesta](56.md) `56/2003`
+- [Valtioneuvoston asetus asuntojen korjaus\- ja energia\-avustuksista](57.md) `57/2003`
+- [Valtioneuvoston asetus vuokra\- ja asumisoikeustalojen talouden tervehdyttämisavustuksista](58.md) `58/2003`
+- [Liikenne\- ja viestintäministeriön asetus Viestintäviraston maksuista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](59.md) `59/2003`
+- [Sisäasiainministeriön asetus rahanpesun estämiseen ja selvittämiseen liittyvästä tehostetusta tunnistamisvelvollisuudesta, huolellisuusvelvollisuudesta ja ilmoitusvelvollisuudesta annetun sisäasiainministeriön asetuksen 1 §:n muuttamisesta](60.md) `60/2003`
+- [Laki rikoslain muuttamisesta](61.md) `61/2003`
+- [Laki kirjanpitolain 8 luvun 4 §:n muuttamisesta](62.md) `62/2003`
+- [Laki rahanpesun estämisestä ja selvittämisestä annetun lain muuttamisesta](63.md) `63/2003`
+- [Laki pakkokeinolain 5 a luvun 2 §:n muuttamisesta](64.md) `64/2003`
+- [Laki tullilain 14 §:n muuttamisesta](65.md) `65/2003`
+- [Laki yhdyskuntapalvelusta annetun lain muuttamisesta](66.md) `66/2003`
+- [Valtioneuvoston asetus äitiysavustuksesta ja adoptiotuesta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](67.md) `67/2003`
+- [Valtioneuvoston asetus syrjäytymisuhan alaisten lasten ja nuorten palveluihin maksettavan valtionavustuksen myöntämisperusteista](68.md) `68/2003`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](69.md) `69/2003`
+- [Laki sijoituspalveluyrityksistä annetun lain muuttamisesta](70.md) `70/2003`
+- [Laki rahoitustarkastuslain 15 b ja 20 §:n muuttamisesta](71.md) `71/2003`
+- [Laki osuuskuntalain muuttamisesta](72.md) `72/2003`
+- [Laki arvopaperimarkkinalain 4 luvun 5 a §:n muuttamisesta](73.md) `73/2003`
+- [Laki ulkomaisen luotto\- ja rahoituslaitoksen toiminnasta Suomessa annetun lain muuttamisesta](74.md) `74/2003`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](75.md) `75/2003`
+- [Laki säästöpankkilain 68 §:n muuttamisesta](76.md) `76/2003`
+- [Laki osuuspankeista ja muista osuuskuntamuotoisista luottolaitoksista annetun lain muuttamisesta](77.md) `77/2003`
+- [Laki kiinnitysluottopankkilain muuttamisesta](78.md) `78/2003`
+- [Laki sijoituspalveluyrityksistä annetun lain 14 ja 48 §:n muuttamisesta](79.md) `79/2003`
+- [Laki lääkelain muuttamisesta](80.md) `80/2003`
+- [Laki sairausvakuutuslain muuttamisesta](81.md) `81/2003`
+- [Laki maatalousalan työturvallisuutta ja \-terveyttä koskevan yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](82.md) `82/2003`
+- [Laki aravavuokra\-asuntojen ja aravavuokratalojen käytöstä, luovutuksesta ja omaksilunastamisesta annetun lain muuttamisesta](83.md) `83/2003`
+- [Laki vuokra\-asuntolainojen ja asumisoikeustalolainojen korkotuesta annetun lain muuttamisesta](84.md) `84/2003`
+- [Laki yhteishallinnosta vuokrataloissa annetun lain 20 §:n muuttamisesta](85.md) `85/2003`
+- [Tasavallan presidentin asetus El Salvadorin kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](86.md) `86/2003`
+- [Sosiaali\- ja terveysministeriön asetus sairausvakuutuslain 5 a §:ssä tarkoitettujen eräiden reseptittä myytävien lääkkeiden korvaamisesta](87.md) `87/2003`
+- [Liikenne\- ja viestintäministeriön asetus joukkoliikenteen valtionavustuksista annetun liikenne\- ja viestintäministeriön asetuksen 2 ja 11 §:n muuttamisesta](88.md) `88/2003`
+- [Maa\- ja metsätalousministeriön asetus alkuvuoden 2002 tulvavahinkokorvausten maksamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](89.md) `89/2003`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2002 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista annetun valtiovarainministeriön asetuksen 2 §:n muuttamisesta](90.md) `90/2003`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2003 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista](91.md) `91/2003`
+- [Kauppa\- ja teollisuusministeriön asetus tiettyjen epoksijohdannaisten käytöstä elintarvikkeiden kanssa kosketuksiin joutuvissa materiaaleissa ja tarvikkeissa](92.md) `92/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2002 peltokasvien tuen \(CAP\-tuen\) non food \-kesantopalkkion maksatuksesta](93.md) `93/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta juurikkaiden siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen väliaikaisesta muuttamisesta](94.md) `94/2003`
+- [Sosiaali\- ja terveysministeriön asetus työeläkekassan perusteista lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 9 §:n mukaista eläkelaitosten keskinäistä kustannusten jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](95.md) `95/2003`
+- [Sosiaali\- ja terveysministeriön asetus merimieseläkekassan perusteista merimieseläkelain 3 a §:n 2 ja 3 momentin mukaista vastuunjakoa varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](96.md) `96/2003`
+- [Maa\- ja metsätalousministeriön asetus silakan ja kilohailin troolikalastuksen rajoittamisesta vuonna 2003](97.md) `97/2003`
+- [Tasavallan presidentin asetus Tanskan, Suomen, Norjan ja Ruotsin välillä puolustusmateriaalialan teollisuuden yhteistyön tukemisesta tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](98.md) `98/2003`
+- [Tasavallan presidentin asetus puolustustarvikkeiden maastaviennistä ja kauttakuljetuksesta annetun lain 4 ja 5 §:n muuttamisesta annetun lain voimaantulosta](99.md) `99/2003`
+- [Valtioneuvoston asetus puolustustarvikkeiden maastaviennistä ja kauttakuljetuksesta annetun asetuksen 5 ja 6 §:n muuttamisesta](100.md) `100/2003`
+- [Valtioneuvoston päätös puolustustarvikkeiden maastavientiä, kauttakuljetusta ja välitystä koskevista yleisistä suuntaviivoista annetun valtioneuvoston päätöksen muuttamisesta](101.md) `101/2003`
+- [Tasavallan presidentin asetus lapsen oikeuksia koskevan yleissopimuksen muutoksen voimaansaattamisesta](102.md) `102/2003`
+- [Tasavallan presidentin asetus helposti pilaantuvien elintarvikkeiden kansainvälisistä kuljetuksista ja tällaisissa kuljetuksissa käytettävästä erityiskalustosta tehdyn sopimuksen 1 liitteen muutosten voimaansaattamisesta](103.md) `103/2003`
+- [Valtioneuvoston asetus vuonna 2003 toimitettavissa eduskuntavaaleissa ennakkoäänestyspaikkoina olevista Suomen edustustoista ja niiden toimipaikoista annetun valtioneuvoston asetuksen liitteen muuttamisesta](104.md) `104/2003`
+- [Valtioneuvoston asetus yliopistoasetuksen 22 §:n muuttamisesta](105.md) `105/2003`
+- [Valtioneuvoston asetus eräiden kalastusalusten turvallisuudesta annetun asetuksen 2 ja 44 §:n muuttamisesta](106.md) `106/2003`
+- [Valtioneuvoston asetus aluksen miehityksestä, laivaväen pätevyydestä ja vahdinpidosta annetun asetuksen 24 ja 26 §:n muuttamisesta](107.md) `107/2003`
+- [Sisäasiainministeriön asetus rahanpesun estämiseen ja selvittämiseen liittyvästä tehostetusta tunnistamisvelvollisuudesta, huolellisuusvelvollisuudesta ja ilmoitusvelvollisuudesta annetun sisäasiainministeriön asetuksen 1 §:n muuttamisesta](108.md) `108/2003`
+- [Yhteismetsälaki](109.md) `109/2003`
+- [Laki yhteisaluelain 16 §:n muuttamisesta](110.md) `110/2003`
+- [Laki kiinteistönmuodostamislain muuttamisesta](111.md) `111/2003`
+- [Laki kestävän metsätalouden rahoituksesta annetun lain 2 §:n muuttamisesta](112.md) `112/2003`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta tietyistä rajoittavista toimenpiteistä Somalian osalta](113.md) `113/2003`
+- [Laki valtion eläkelain 23 a §:n muuttamisesta](114.md) `114/2003`
+- [Laki rakennerahasto\-ohjelmien kansallisesta hallinnoinnista annetun lain muuttamisesta](115.md) `115/2003`
+- [Tasavallan presidentin asetus Euroopan unionista tehdyn sopimuksen, Euroopan yhteisöjen perustamissopimusten ja niihin liittyvien tiettyjen asiakirjojen muuttamisesta tehdyn Nizzan sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](116.md) `116/2003`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2003 maa\- ja puutarhatalouden kansallisten tukien hallinnosta](117.md) `117/2003`
+- [Eduskunnan päätös  eduskunnan työjärjestyksen muuttamisesta](118.md) `118/2003`
+- [Valtioneuvoston asetus valtion perintönä saaman omaisuuden luovuttamisesta annetun asetuksen 1 §:n muuttamisesta](119.md) `119/2003`
+- [Valtioneuvoston asetus yritys\- ja yhteisötietojärjestelmästä annetun valtioneuvoston asetuksen muuttamisesta](120.md) `120/2003`
+- [Valtioneuvoston asetus kaupparekisteriasetuksen muuttamisesta](121.md) `121/2003`
+- [Valtioneuvoston asetus vaikeista sairauksista ja niiden hoitoon käytettävistä kliinisistä ravintovalmisteista, joihin suoritetaan sairausvakuutuslain mukaista korvausta](122.md) `122/2003`
+- [Valtioneuvoston asetus Leivonmäen kansallispuistosta](123.md) `123/2003`
+- [Valtioneuvoston asetus Ruunaan luonnonsuojelualueesta](124.md) `124/2003`
+- [Puolustusministeriön asetus rauhanturvaamishenkilöstön kelpoisuusehdoista ja palvelussuhteen ehdoista annetun puolustusministeriön asetuksen muuttamisesta](125.md) `125/2003`
+- [Laki asumisoikeus\- ja vuokratalotuotannon valtion ja kuntien takauslainoista](126.md) `126/2003`
+- [Laki asumisoikeusasunnoista annetun lain muuttamisesta](127.md) `127/2003`
+- [Laki asumisoikeusyhdistyksistä annetun lain muuttamisesta](128.md) `128/2003`
+- [Laki aravalain 15 b §:n muuttamisesta](129.md) `129/2003`
+- [Laki vuokra\-asuntolainojen ja asumisoikeustalolainojen korkotuesta annetun lain 25 §:n muuttamisesta](130.md) `130/2003`
+- [Valtioneuvoston asetus arava\-asetuksen muuttamisesta](131.md) `131/2003`
+- [Vakuutusoikeuslaki](132.md) `132/2003`
+- [Laki tuomareiden nimittämisestä annetun lain muuttamisesta](133.md) `133/2003`
+- [Laki eläkkeensaajien asumistukilain 10 §:n muuttamisesta](134.md) `134/2003`
+- [Laki kansaneläkelain 73 §:n muuttamisesta](135.md) `135/2003`
+- [Laki lukiokoulutuksen ja ammatillisen koulutuksen opiskelijoiden koulumatkatuesta annetun lain 9 ja 14 §:n muuttamisesta](136.md) `136/2003`
+- [Laki sairausvakuutuslain mukaisen omavastuuajan korvaamisesta maatalousyrittäjille annetun lain 7 ja 8 §:n muuttamisesta](137.md) `137/2003`
+- [Laki palkkaturvalain 26 §:n muuttamisesta](138.md) `138/2003`
+- [Laki merimiesten palkkaturvalain 24 §:n muuttamisesta](139.md) `139/2003`
+- [Laki tapaturmavakuutuslain 43 §:n muuttamisesta](140.md) `140/2003`
+- [Laki vakuutusoikeuden laamannien nimittämisestä virkoja ensimmäistä kertaa täytettäessä](141.md) `141/2003`
+- [Laki rikoslain 17 luvun muuttamisesta](142.md) `142/2003`
+- [Laki tapaturmavakuutuslain 15 §:n muuttamisesta](143.md) `143/2003`
+- [Tasavallan presidentin asetus Suomen ulkomaanedustustojen sijaintipaikoista annetun tasavallan presidentin asetuksen muuttamisesta](144.md) `144/2003`
+- [Valtioneuvoston asetus isyyden vahvistamisesta ja kumoamisesta sekä lapsen elatuksesta annetun asetuksen muuttamisesta](145.md) `145/2003`
+- [Valtioneuvoston asetus lahjoitusten rekisteröimisestä ja kuuluttamisesta annetun asetuksen muuttamisesta](146.md) `146/2003`
+- [Valtioneuvoston asetus avioliittoasetuksen 14 ja 15 §:n muuttamisesta](147.md) `147/2003`
+- [Valtioneuvoston asetus tuomioistuimen ilmoituksista väestötietojärjestelmään annetun asetuksen 1 ja 3 §:n muuttamisesta](148.md) `148/2003`
+- [Valtioneuvoston asetus ortodoksisesta kirkkokunnasta annetun asetuksen 54 §:n muuttamisesta](149.md) `149/2003`
+- [Valtioneuvoston asetus koulutuksen arvioinnista](150.md) `150/2003`
+- [Valtioneuvoston asetus opetushallituksesta annetun asetuksen muuttamisesta](151.md) `151/2003`
+- [Valtioneuvoston asetus luotsausasetuksen 7 §:n muuttamisesta](152.md) `152/2003`
+- [Valtiovarainministeriön asetus Anders Chydeniuksen juhlarahasta](153.md) `153/2003`
+- [Laki kalastuslain muuttamisesta](154.md) `154/2003`
+- [Laki sosiaalihuoltolain 6 ja 12 §:n väliaikaisesta muuttamisesta](155.md) `155/2003`
+- [Laki lasten päivähoidosta annetun lain väliaikaisesta muuttamisesta](156.md) `156/2003`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta annetun lain 16 §:n väliaikaisesta muuttamisesta](157.md) `157/2003`
+- [Valtioneuvoston asetus Lounais\-Suomen vankilan perustamisesta sekä Turun vankilan ja Turun tutkintavankilan lakkauttamisesta](158.md) `158/2003`
+- [Sisäasiainministeriön asetus rekisterihallinnon suoritteiden maksuista annetun asetuksen muuttamisesta](159.md) `159/2003`
+- [Oikeusministeriön asetus saamelaiskäräjien vaaleissa noudatettavasta menettelystä](160.md) `160/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2002 tärkkelysperunan tuottajalle suoritettavan maksun \(tasaustuen\) sekä vuoden 2002 kuitupellavan ja \-hampun jalostustuen ennakoiden maksatuksesta](161.md) `161/2003`
+- [Laki Egyptin kanssa tehdyn Euro\-Välimeri\-assosiaatiosopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](162.md) `162/2003`
+- [Valtioneuvoston asetus yhteismetsistä](163.md) `163/2003`
+- [Valtioneuvoston asetus LEADER\+ \-yhteisöaloiteohjelman toimeenpanosta annetun valtioneuvoston asetuksen muuttamisesta](164.md) `164/2003`
+- [Valtioneuvoston asetus rikosasioiden sovittelun neuvottelukunnasta](165.md) `165/2003`
+- [Valtioneuvoston asetus Lääkehoidon kehittämiskeskuksesta annetun asetuksen 4 §:n muuttamisesta](166.md) `166/2003`
+- [Sosiaali\- ja terveysministeriön asetus eräistä terveydensuojelulaissa tarkoitetuista huoneistoista tai laitoksista sekä ilmoituksesta liikkuvasta ajoneuvosta tai laitteesta](167.md) `167/2003`
+- [Sisäasiainministeriön asetus viranomaisradioverkon maksullisista suoritteista](168.md) `168/2003`
+- [Valtioneuvoston asetus vuodelta 2002 maksettavasta emolehmien kansallisesta lisäpalkkiosta](169.md) `169/2003`
+- [Valtioneuvoston asetus vuodelta 2003 maksettavasta mehiläistalouden kansallisesta pesäkohtaisesta tuesta](170.md) `170/2003`
+- [Valtioneuvoston asetus nurmi\- ja viljakasvien siementuotannon kansallisesta tuesta vuonna 2003](171.md) `171/2003`
+- [Valtioneuvoston asetus asumisoikeus\- ja vuokratalotuotannon valtion ja kuntien takauslainoista](172.md) `172/2003`
+- [Valtioneuvoston asetus asumisoikeustalojen käyttö\- ja luovutusrajoitusten merkitsemisestä annetun asetuksen muuttamisesta](173.md) `173/2003`
+- [Maa\- ja metsätalousministeriön asetus luonnonhaittakorvaukseen ja maatalouden ympäristötukeen varattujen määrärahojen kohdentamisesta vuoden 2003 haussa](174.md) `174/2003`
+- [Laki valtioneuvostosta](175.md) `175/2003`
+- [Laki valtion virkamieslain muuttamisesta](176.md) `176/2003`
+- [Laki ulkoasiainhallintolain muuttamisesta](177.md) `177/2003`
+- [Laki hätäkeskuslain 2 ja 8 §:n muuttamisesta](178.md) `178/2003`
+- [Laki tullilain muuttamisesta](179.md) `179/2003`
+- [Laki keskinäisestä virka\-avusta eräiden saatavien, maksujen ja tullien sekä verojen perinnässä Suomen ja muiden Euroopan unionin jäsenvaltioiden toimivaltaisten viranomaisten välillä annetun lain 1 §:n muuttamisesta](180.md) `180/2003`
+- [Valtioneuvoston asetus vaikeista ja pitkäaikaisista sairauksista ja niiden hoitoon käytettävistä lääkkeistä, joista sairausvakuutuslain mukaan korvataan 100 tai 75 prosenttia säädetyn kiinteän omavastuun ylittävältä osalta, annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](181.md) `181/2003`
+- [Ympäristöministeriön asetus arava\- ja korkotukivuokra\-asuntojen julkisesta ja yleisestä hakumenettelystä](182.md) `182/2003`
+- [Valtiovarainministeriön asetus jäännösveron ja metsänhoitomaksun eräpäivistä vuodelta 2002](183.md) `183/2003`
+- [Valtiovarainministeriön asetus vuoden 2003 kiinteistöveron eräpäivistä](184.md) `184/2003`
+- [Laki yksityisistä teistä annetun lain muuttamisesta](185.md) `185/2003`
+- [Laki kansaneläkelaitoksen järjestämästä kuntoutuksesta annetun lain 2 §:n muuttamisesta](186.md) `186/2003`
+- [Laki kuntoutusrahalain 5 ja 14 §:n muuttamisesta](187.md) `187/2003`
+- [Laki työntekijäin eläkelain muuttamisesta](188.md) `188/2003`
+- [Laki merimieseläkelain muuttamisesta](189.md) `189/2003`
+- [Laki kansaneläkelain 39 §:n muuttamisesta](190.md) `190/2003`
+- [Valtioneuvoston asetus terveydenhuollon ammattihenkilöistä annetun asetuksen 1 §:n muuttamisesta](191.md) `191/2003`
+- [Laki kuntien yleisestä kalleusluokituksesta annetun lain 6 §:n muuttamisesta](192.md) `192/2003`
+- [Tasavallan presidentin asetus Unkarin kanssa diplomaattisen edustuston ja konsuliedustuston sekä kansainväliseen järjestöön akkreditoidun edustuston henkilöstön perheenjäsenten työskentelystä tehdyn sopimuksen voimaansaattamisesta](193.md) `193/2003`
+- [Valtioneuvoston asetus maahanmuuttajan erityistuesta](194.md) `194/2003`
+- [Laki Namibian tasavallan kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](195.md) `195/2003`
+- [Laki Iranin islamilaisen tasavallan kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](196.md) `196/2003`
+- [Laki Intian tasavallan kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](197.md) `197/2003`
+- [Rautatielaki](198.md) `198/2003`
+- [Laki Ratahallintokeskuksesta](199.md) `199/2003`
+- [Laki Euroopan laajuisen rautatiejärjestelmän yhteentoimivuudesta annetun lain muuttamisesta](200.md) `200/2003`
+- [Laki rautatiekuljetuslain 2 §:n muuttamisesta](201.md) `201/2003`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Vesilahden kuntaan perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen kumoamisesta](202.md) `202/2003`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi perustettavasta rajoitusalueesta annetun maa\- ja metsätalousministeriön eläinlääkintä\- ja elintarvikeosaston päätöksen kumoamisesta](203.md) `203/2003`
+- [Laki opintotukilain muuttamisesta](204.md) `204/2003`
+- [Valtioneuvoston asetus Ratahallintokeskuksesta](205.md) `205/2003`
+- [Valtioneuvoston asetus rautatieliikenteen harjoittajille tarjottavista palveluista](206.md) `206/2003`
+- [Valtioneuvoston asetus rautatieliikenteen aikataulukaudesta ja ratakapasiteetin hakemisesta](207.md) `207/2003`
+- [Liikenne\- ja viestintäministeriön asetus ratamaksun perusmaksusta](208.md) `208/2003`
+- [Kauppa\- ja teollisuusministeriön asetus kuluttajatutkimuskeskuksen maksullisista suoritteista](209.md) `209/2003`
+- [Sosiaali\- ja terveysministeriön asetus lääkevaihdosta](210.md) `210/2003`
+- [Opetusministeriön asetus yliopistojen eräistä suoritteista perittävistä maksuista annetun opetusministeriön asetuksen muuttamisesta](211.md) `211/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2003 kasvihuonetuen ennakon maksatuksesta](212.md) `212/2003`
+- [Valtioneuvoston asetus yhdyskuntapalvelusta annetun asetuksen muuttamisesta](213.md) `213/2003`
+- [Valtioneuvoston päätös hätäkeskusalueista](214.md) `214/2003`
+- [Maa\- ja metsätalousministeriön asetus peltokasvien tuen vuoden 1991 viljelyvaatimuksesta poikkeamisesta vuonna 2003](215.md) `215/2003`
+- [Maa\- ja metsätalousministeriön asetus tuottajalle maksettavien erikoistukien ja tulvavahinkokorvauksen hakemisesta sekä tuen tai korvauksen perusteena olevien pinta\- ja sopimusalojen ilmoittamisesta vuonna 2003](216.md) `216/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuonna 2002 teurastetuista lihasioista ja lihasiipikarjasta sekä vuonna 2002 siitokseen myydyistä nuorista sioista maksettavan kansallisen kotieläintuen maksatuksesta](217.md) `217/2003`
+- [Laki ulkomaalaislain muuttamisesta](218.md) `218/2003`
+- [Laki kotikuntalain 1 ja 7 §:n muuttamisesta](219.md) `219/2003`
+- [Laki eläinsuojelulain muuttamisesta](220.md) `220/2003`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain muuttamisesta](221.md) `221/2003`
+- [Laki maankäyttö\- ja rakennuslain muuttamisesta](222.md) `222/2003`
+- [Tasavallan presidentin asetus poliisin ansiorististä ja ansiomitalista annetun tasavallan presidentin asetuksen 2 §:n muuttamisesta](223.md) `223/2003`
+- [Valtioneuvoston asetus poliisin hallinnosta annetun asetuksen 12 §:n muuttamisesta](224.md) `224/2003`
+- [Maa\- ja metsätalousministeriön asetus  viljan interventio\-ostoissa noudatettavista eräistä menettelytavoista](225.md) `225/2003`
+- [Maa\- ja metsätalousministeriön asetus rajaeläinlääkärin suoritteista perittävistä maksuista annetun maa\- ja metsätalousministeriön asetuksen liitteen muuttamisesta](226.md) `226/2003`
+- [Ulkoasiainministeriön ilmoitus Ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](227.md) `227/2003`
+- [Verkkotunnuslaki](228.md) `228/2003`
+- [Laki viestintähallinnosta annetun lain 2 §:n muuttamisesta](229.md) `229/2003`
+- [Laki rakennustuotteiden hyväksynnästä](230.md) `230/2003`
+- [Laki maankäyttö\- ja rakennuslain 148 §:n muuttamisesta](231.md) `231/2003`
+- [Tasavallan presidentin asetus öljyn aiheuttamasta pilaantumisvahingosta johtuvasta siviilioikeudellisesta vastuusta vuonna 1969 tehdyn kansainvälisen yleissopimuksen muuttamisesta tehdyn vuoden 1992 pöytäkirjan vastuurajoitusten muutoksen voimaansaattamisesta sekä merilain 10 luvun 5 §:n muuttamisesta annetun lain voimaantulosta](232.md) `232/2003`
+- [Tasavallan presidentin asetus öljyn aiheuttamien pilaantumisvahinkojen kansainvälisen korvausrahaston perustamista koskevan vuoden 1971 kansainvälisen yleissopimuksen muuttamisesta tehdyn vuoden 1992 pöytäkirjan vastuurajojen muutoksen voimaansaattamisesta sekä muutoksen voimaansaattamisesta annetun lain voimaantulosta](233.md) `233/2003`
+- [Tasavallan presidentin asetus Kansainvälisen työkonferenssin hyväksymän maatalousalan työturvallisuutta ja \-terveyttä koskevan yleissopimuksen voimaansaattamisesta sekä yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](234.md) `234/2003`
+- [Maa\- ja metsätalousministeriön asetus Euroopan talousalueen ulkopuolisessa valtiossa eläinlääketieteellisen tutkinnon suorittaneen eläinlääkärin laillistamiselle asetettavista vaatimuksista](235.md) `235/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta eläintarhassa ja pysyvässä eläinnäyttelyssä pidettävien eläinten pidolle asetettavista eläinsuojeluvaatimuksista](236.md) `236/2003`
+- [Valtioneuvoston asetus vakuutusoikeudesta](237.md) `237/2003`
+- [Valtioneuvoston asetus tuomareiden nimittämisestä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](238.md) `238/2003`
+- [Valtioneuvoston asetus rahoitus\- ja vakuutusryhmittymän konsernitilinpäätöksestä annetun valtioneuvoston asetuksen muuttamisesta](239.md) `239/2003`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkekassan työntekijäin eläkelain 12 §:n mukaista vastuunjakoa varten laskettavista suureista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](240.md) `240/2003`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](241.md) `241/2003`
+- [Maa\- ja metsätalousministeriön asetus Suomen turskakiintiön käyttämisestä vuonna 2003](242.md) `242/2003`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](243.md) `243/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvituotteiden maahantuonnissa, maastaviennissä ja markkinoinnissa noudatettavista kasvinsuojelun vaatimuksista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](244.md) `244/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta varmennetusta lisäys\- ja taimiaineistosta](245.md) `245/2003`
+- [Tasavallan presidentin asetus Marokon kanssa tehdyn sijoitusten edistämistä ja vastavuoroista suojaamista koskevan sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](246.md) `246/2003`
+- [Tasavallan presidentin asetus Intian kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](247.md) `247/2003`
+- [Tasavallan presidentin asetus Brysselissä 1890 kansainvälisen liiton perustamisesta tullitariffien julkaisemista varten tehdyn sopimuksen voimaansaattamisesta Suomessa annetun asetuksen ja sopimuksen eräiden muutosten voimaansaattamisesta annetun asetuksen kumoamisesta](248.md) `248/2003`
+- [Valtioneuvoston asetus diplomaattipassista, virkapassista ja virkamatkapassista annetun asetuksen muuttamisesta](249.md) `249/2003`
+- [Valtioneuvoston asetus ylioppilastutkintoasetuksen muuttamisesta](250.md) `250/2003`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen muuttamisesta](251.md) `251/2003`
+- [Valtioneuvoston asetus ammattitautiasetuksen 3 §:n muuttamisesta](252.md) `252/2003`
+- [Valtioneuvoston päätös valtion viranomaisten asiakirjojen ulkoasusta annetun valtioneuvoston päätöksen kumoamisesta](253.md) `253/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta rehuvalmisteiden valvonnan järjestämisestä annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](254.md) `254/2003`
+- [Laki työeläkekassan muuttamisesta keskinäiseksi työeläkevakuutusyhtiöksi](255.md) `255/2003`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](256.md) `256/2003`
+- [Opetusministeriön asetus ylemmän korkeakoulututkinnon opintotuen enimmäisajasta ja sen pidentämisen perusteista](257.md) `257/2003`
+- [Maa\- ja metsätalousministeriön asetus maatalouden kirjanpidon tietoverkoston hallinnosta annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](258.md) `258/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta siemenperunan markkinoinnista ja tuottamisesta korkealaatuisen siemenperunan tuotantoalueella](259.md) `259/2003`
+- [Liikenne\- ja viestintäministeriön asetus liikenne\- ja viestintäministeriön työjärjestyksen muuttamisesta](260.md) `260/2003`
+- [Kauppa\- ja teollisuusministeriön asetus kosmeettisista valmisteista annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](261.md) `261/2003`
+- [Valtioneuvoston ohjesääntö](262.md) `262/2003`
+- [Valtioneuvoston asetus valtion virkamiesasetuksen 7 ja 28 §:n muuttamisesta](263.md) `263/2003`
+- [Valtioneuvoston asetus ajokorttiasetuksen 39 §:n 1 momentin 2 kohdan ja 40 §:n muuttamisesta](264.md) `264/2003`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön varoista myönnettävän koulumaitotuen täytäntöönpanosta annetun maa\- ja metsätalousministeriön asetuksen 9 §:n muuttamisesta](265.md) `265/2003`
+- [Laki autoverolain muuttamisesta](266.md) `266/2003`
+- [Tasavallan presidentin asetus Kiinan Kansantasavallan kanssa tehdyn lentoliikennesopimuksen liitteen muutoksen voimaansaattamisesta](267.md) `267/2003`
+- [Valtioneuvoston asetus opintotukiasetuksen muuttamisesta](268.md) `268/2003`
+- [Valtioneuvoston asetus satovahinkojen korvaamisesta annetun lain voimaantulosta](269.md) `269/2003`
+- [Valtioneuvoston asetus satovahinkojen korvaamisesta](270.md) `270/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuonna 2002 teurastetuista hiehoista ja sonneista maksettavan kansallisen kotieläintuen maksatuksesta](271.md) `271/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta öljypellavan kylvösiemenen sertifiointia koskevasta väliaikaisesta poikkeuksesta](272.md) `272/2003`
+- [Laki Euroopan yhteisön yhteisen maatalouspolitiikan täytäntöönpanosta annetun lain muuttamisesta](273.md) `273/2003`
+- [Laki maaseutuelinkeinojen rahoituslain muuttamisesta](274.md) `274/2003`
+- [Maa\- ja metsätalousministeriön asetus silakan ja kilohailin troolikalastuksen rajoittamisesta vuonna 2003 annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](275.md) `275/2003`
+- [Maa\- ja metsätalousministeriön asetus eläinpalkkioihin liittyvien pinta\-alojen ilmoittamisesta, peltokasvien tuen, luonnonhaittakorvauksen, maatalouden ympäristötuen ja maatalouden ympäristötuen erityistukisopimusten hakemisesta vuonna 2003 sekä näitä sopimuksia koskevista sopimuskausista](276.md) `276/2003`
+- [Liikenne\- ja viestintäministeriön asetus sairaankuljetuksen taksoista](277.md) `277/2003`
+- [Laki Liikenneturvasta](278.md) `278/2003`
+- [Valtioneuvoston asetus maaseudun kehittämisestä annetun valtioneuvoston asetuksen muuttamisesta](279.md) `279/2003`
+- [Valtioneuvoston asetus eräistä maaseudun kehittämiseen myönnettävistä lainoista annetun valtioneuvoston asetuksen muuttamisesta](280.md) `280/2003`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljettajien ajoluvasta annetun asetuksen muuttamisesta](281.md) `281/2003`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetukseen tarkoitettujen pakkausten ja säiliöiden vaatimustenmukaisuuden osoittamisesta annetun valtioneuvoston asetuksen muuttamisesta](282.md) `282/2003`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta tiellä annetun valtioneuvoston asetuksen 5 ja 34 §:n muuttamisesta](283.md) `283/2003`
+- [Opetusministeriön päätös Suomen Helluntaikirkko \(Pingstkyrkan i Finland\) \-nimisen uskonnollisen yhdyskunnanmerkitsemisestä uskonnollisten yhdyskuntien rekisteriin](284.md) `284/2003`
+- [Valtioneuvoston asetus turvallisuusalan neuvottelukunnasta](285.md) `285/2003`
+- [Ulkoasiainministeriön työjärjestys](286.md) `286/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetus sivutuoteasetuksen valvonnasta hygienialain mukaisissa laitoksissa ja kalastusaluksissa](287.md) `287/2003`
+- [Valtioneuvoston asetus turvallisuus\- ja puolustusasiain komiteasta](288.md) `288/2003`
+- [Valtioneuvoston asetus ajoneuvojen rekisteröinnistä annetun asetuksen 48 §:n väliaikaisesta muuttamisesta](289.md) `289/2003`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Siuntion kuntaan perustettavasta rajoitusalueesta](290.md) `290/2003`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Harjavallan kaupunkiin ja Kullaan kuntaan perustettavasta rajoitusalueesta](291.md) `291/2003`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Halsuan kuntaan perustettavasta rajoitusalueesta](292.md) `292/2003`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Kaustisen kuntaan perustettavasta rajoitusalueesta](293.md) `293/2003`
+- [Maa\- ja metsätalousministeriön asetus maaseudun kehittämistoimenpiteitä tuettaessa noudatettavasta menettelystä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](294.md) `294/2003`
+- [Maa\- ja metsätalousministeriön asetus maatilatalouden rakennetuen ja vastaavan yritystoimintaan myönnettävän tuen kohdentamisesta vuonna 2003](295.md) `295/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta siemenperunan kaupasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](296.md) `296/2003`
+- [Laki rikoslain muuttamisesta](297.md) `297/2003`
+- [Laki yhdyskuntapalvelusta annetun lain 5 §:n 3 momentin kumoamisesta](298.md) `298/2003`
+- [Laki väestötietolain muuttamisesta](299.md) `299/2003`
+- [Laki henkilökorttilain muuttamisesta](300.md) `300/2003`
+- [Maa\- ja metsätalousministeriön asetus sikaloiden rakentamista ja puutarhatalouden isoja investointeja koskevien investointitukien hakuajan päättymisestä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](301.md) `301/2003`
+- [Maa\- ja metsätalousministeriön asetus puutarhatalouden investointitukien hakuajan alkamisesta](302.md) `302/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta hukkakaurasta kylvösiementuotannossa annetun asetuksen muuttamisesta](303.md) `303/2003`
+- [Laki kunnallisesta viranhaltijasta](304.md) `304/2003`
+- [Laki kuntalain muuttamisesta](305.md) `305/2003`
+- [Palosuojelurahastolaki](306.md) `306/2003`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta rautatiellä annetun valtioneuvoston asetuksen 5 ja 34 §:n muuttamisesta](307.md) `307/2003`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](308.md) `308/2003`
+- [Kauppa\- ja teollisuusministeriön asetus voimalaitosten omakäyttölaitteista](309.md) `309/2003`
+- [Kauppa\- ja teollisuusministeriön asetus sähköntuotannon tukeen oikeutetun sähkön määrittämisestä](310.md) `310/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta tasaustuen maksatuksesta vuodelta 2000 myönnetylle kuitupellavan tuotantotuelle](311.md) `311/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2003 kansallisen kotieläintuen ennakon maksatuksesta](312.md) `312/2003`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten aineiden kuljetuksesta tiellä annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](313.md) `313/2003`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten aineiden kuljetuksesta rautatiellä annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](314.md) `314/2003`
+- [Valtioneuvoston asetus hammaslääketieteellisistä tutkinnoista annetun asetuksen 2 §:n muuttamisesta](315.md) `315/2003`
+- [Valtioneuvoston asetus erikoishammaslääkärin tutkinnosta](316.md) `316/2003`
+- [Valtioneuvoston asetus teknillistieteellisistä tutkinnoista annetun asetuksen 1 §:n muuttamisesta](317.md) `317/2003`
+- [Valtioneuvoston asetus eräille turkistarhaajille maksettavasta korvauksesta](318.md) `318/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2002 emolehmäpalkkion loppuosan, vuoden 2002 sonni\- ja härkäpalkkion loppuosan, vuoden 2002 laajaperäistämispalkkion, vuoden 2002 teurastuspalkkion ja lisätuen loppuosan sekä vuoden 2002 emolehmien kansallisen lisäpalkkion maksatuksesta](319.md) `319/2003`
+- [Tasavallan Presidentin avoin kirje valtioneuvoston vaihdoksesta](320.md) `320/2003`
+- [Valtioneuvoston asetus valtion talousarviosta annetun asetuksen muuttamisesta](321.md) `321/2003`
+- [Valtioneuvoston asetus tartuntatautiasetuksen 2 §:n muuttamisesta](322.md) `322/2003`
+- [Valtiovarainministeriön asetus vuoden 2003 jääkiekon MM\-kisojen juhlarahasta](323.md) `323/2003`
+- [Verohallituksen päätös varainsiirtoveron maksamisesta ja ilmoittamisesta annetun päätöksen muuttamisesta](324.md) `324/2003`
+- [Laki arvonlisäverolain muuttamisesta](325.md) `325/2003`
+- [Laki kirjanpitolain 2 luvun 9 §:n muuttamisesta](326.md) `326/2003`
+- [Valtioneuvoston asetus väestötietoasetuksen muuttamisesta](327.md) `327/2003`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen 29 §:n muuttamisesta](328.md) `328/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vihanneskasvien siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](329.md) `329/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta luonnonmukaisesta eläintuotannosta annetun asetuksen väliaikaisesta muuttamisesta](330.md) `330/2003`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötoimitusmaksusta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](331.md) `331/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta tuoreen rehukasvin säilöntäaineista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](332.md) `332/2003`
+- [Valtioneuvoston asetus sähkön ja eräiden polttoaineiden valmisteverosta annetun lain 28 §:n muuttamisesta annetun lain voimaantulosta](333.md) `333/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta öljy\- ja kuitukasvien siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](334.md) `334/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta viljelystarkastusten suorittamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](335.md) `335/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta viljakasvien sekä nurmi\- ja rehukasvien maatiaislajikkeiden siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](336.md) `336/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta nurmi\- ja rehukasvien siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](337.md) `337/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta viljakasvien siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](338.md) `338/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta juurikkaiden siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](339.md) `339/2003`
+- [Laki autoverolain 12 §:n muuttamisesta](340.md) `340/2003`
+- [Tasavallan presidentin asetus Qatarin kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](341.md) `341/2003`
+- [Valtioneuvoston asetus tullilain muuttamisesta annetun lain voimaantulosta](342.md) `342/2003`
+- [Laki Kainuun hallintokokeilusta](343.md) `343/2003`
+- [Valtioneuvoston asetus korvauksen maksamisesta kansallisesti tärkeiden peltokasvien jalostustyöstä ja kantasiementuotannosta](344.md) `344/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2001 kuitupellavan ja \-hampun jalostustuen maksatuksesta](345.md) `345/2003`
+- [Tasavallan presidentin asetus Avoin taivas \-sopimuksen voimaansaattamisesta ja sen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](346.md) `346/2003`
+- [Tasavallan presidentin asetus aluevalvontalain 14 §:n muuttamisesta annetun lain voimaantulosta](347.md) `347/2003`
+- [Tasavallan presidentin asetus rikoksen johdosta tapahtuvasta luovuttamisesta Euroopan unionin jäsenvaltioiden välillä tehdyn yleissopimuksen eräiden määräysten hyväksymisestä annetun lain soveltamisesta ennen yleissopimuksen kansainvälistä voimaantuloa annetun asetuksen 3 §:n kumoamisesta](348.md) `348/2003`
+- [Valtioneuvoston asetus ulkoasiainministeriöstä](349.md) `349/2003`
+- [Sosiaali\- ja terveysministeriön asetus merimieseläkekassan toimintapääomasta](350.md) `350/2003`
+- [Ammattikorkeakoululaki](351.md) `351/2003`
+- [Valtioneuvoston asetus ammattikorkeakouluista](352.md) `352/2003`
+- [Valtioneuvoston asetus ammattikorkeakoulujen yhteishakujärjestelmästä](353.md) `353/2003`
+- [Valtioneuvoston asetus ammattikorkeakoulujen opetuksesta perittävien maksujen perusteista](354.md) `354/2003`
+- [Opetusministeriön asetus eräiden opintojen tuottamasta kelpoisuudesta ammattikorkeakouluopintoihin](355.md) `355/2003`
+- [Laki ammatillisesta opettajankoulutuksesta](356.md) `356/2003`
+- [Valtioneuvoston asetus ammatillisesta opettajankoulutuksesta](357.md) `357/2003`
+- [Valtioneuvoston asetus liikenneopettajankoulutuksesta](358.md) `358/2003`
+- [Kansalaisuuslaki](359.md) `359/2003`
+- [Laki oikeudenkäymiskaaren muuttamisesta](360.md) `360/2003`
+- [Laki rikoslain 15 luvun 1 §:n muuttamisesta](361.md) `361/2003`
+- [Valtioneuvoston asetus jätteen polttamisesta](362.md) `362/2003`
+- [Valtioneuvoston asetus ympäristönsuojeluasetuksen muuttamisesta](363.md) `363/2003`
+- [Maa\- ja metsätalousministeriön asetus  satovahinkojen korvaamisesta](364.md) `364/2003`
+- [Laki rahanpesun estämisestä ja selvittämisestä annetun lain muuttamisesta](365.md) `365/2003`
+- [Tasavallan presidentin asetus Suomen liikuntakulttuurin ja urheilun ansiorististä ja ansiomitalista](366.md) `366/2003`
+- [Maa\- ja metsätalousministeriön asetus kolmansista maista tuotavista munavalmisteista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](367.md) `367/2003`
+- [Maa\- ja metsätalousministeriön asetus kolmansista maista tuotavista linnunmunista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](368.md) `368/2003`
+- [Maa\- ja metsätalousministeriön asetus kolmansista maista tuotavista sammakonreisistä ja etanoista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](369.md) `369/2003`
+- [Maa\- ja metsätalousministeriön asetus silakan ja kilohailin troolikalastuksen rajoittamisesta vuonna 2003 annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](370.md) `370/2003`
+- [Opetusministeriön asetus ylioppilastutkintolautakunnan suoritteiden maksullisuudesta annetun opetusministeriön asetuksen 2 §:n muuttamisesta](371.md) `371/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kalojen bakteeriperäisen munuaistaudin vastustamisesta](372.md) `372/2003`
+- [Valtioneuvoston asetus EU\-asioiden komiteasta](373.md) `373/2003`
+- [Valtioneuvoston asetus konkurssipesien hallinnon valvonnasta annetun asetuksen muuttamisesta](374.md) `374/2003`
+- [Valtioneuvoston asetus puolustusministeriöstä](375.md) `375/2003`
+- [Valtioneuvoston asetus poronhoitovuodelta 2003/2004 maksettavasta eläinkohtaisesta tuesta](376.md) `376/2003`
+- [Valtioneuvoston asetus luonnonhaittakorvauksesta ja maatalouden ympäristötuesta annetun valtioneuvoston asetuksen muuttamisesta](377.md) `377/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta maatilatalouden rakennetuen ja vastaavan yritystoimintaan myönnettävän tuen perustana olevista rakennusten yksikkökustannuksista annetun asetuksen muuttamisesta](378.md) `378/2003`
+- [Valtioneuvoston asetus opetusministeriöstä](379.md) `379/2003`
+- [Opetusministeriön työjärjestys](380.md) `380/2003`
+- [Laki oikeudenkäymiskaaren muuttamisesta](381.md) `381/2003`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain 2 luvun 4 §:n ja 8 luvun 13 §:n muuttamisesta](382.md) `382/2003`
+- [Laki hovioikeuslain 9 §:n muuttamisesta](383.md) `383/2003`
+- [Laki rangaistusten täytäntöönpanosta annetun lain 6 luvun kumoamisesta](384.md) `384/2003`
+- [Tasavallan presidentin asetus Suomen ja Perun välillä ympäristöhankkeen II vaiheesta tehdyn yhteistyösopimuksen voimaansaattamisesta](385.md) `385/2003`
+- [Tasavallan presidentin asetus Ruotsin kuningaskunnan kanssa toimenpiteistä televisiolähetysten vastaanottamisen parantamiseksi tehdyn sopimuksen muutoksen voimaansaattamisesta](386.md) `386/2003`
+- [Valtioneuvoston asetus televisiomaksuista](387.md) `387/2003`
+- [Sisäasiainministeriön asetus ulkomaalaisviraston maksullisista suoritteista annetun sisäasiainministeriön asetuksen liitteen muuttamisesta](388.md) `388/2003`
+- [Maa\- ja metsätalousministeriön asetus ympäristötuen perus\- ja lisätoimenpiteistä sekä maatalouden ympäristötuen koulutukseen liittyvästä tuesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](389.md) `389/2003`
+- [Maa\- ja metsätalousministeriön asetus maatalouden ympäristötuen erityistuesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](390.md) `390/2003`
+- [Maa\- ja metsätalousministeriön asetus luonnonhaittakorvauksesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](391.md) `391/2003`
+- [Maa\- ja metsätalousministeriön asetus peltokasvien tukijärjestelmästä ja siihen liittyvästä kesannoinnista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](392.md) `392/2003`
+- [Viestintämarkkinalaki](393.md) `393/2003`
+- [Laki televisio\- ja radiotoiminnasta annetun lain muuttamisesta](394.md) `394/2003`
+- [Laki valtion televisio\- ja radiorahastosta annetun lain muuttamisesta](395.md) `395/2003`
+- [Laki Yleisradio Oy:stä annetun lain muuttamisesta](396.md) `396/2003`
+- [Laki viestintähallinnosta annetun lain 2 §:n muuttamisesta](397.md) `397/2003`
+- [Laki tekijänoikeuslain 25 i §:n muuttamisesta](398.md) `398/2003`
+- [Laki radiolain muuttamisesta](399.md) `399/2003`
+- [Laki kilpailunrajoituksista annetun lain muuttamisesta](400.md) `400/2003`
+- [Laki yksityisyyden suojasta televiestinnässä ja teletoiminnan tietoturvasta annetun lain muuttamisesta](401.md) `401/2003`
+- [Laki meripelastuslain 16 §:n muuttamisesta](402.md) `402/2003`
+- [Laki hätäkeskuslain 8 §:n muuttamisesta](403.md) `403/2003`
+- [Laki pelastustoimilain 43 §:n muuttamisesta](404.md) `404/2003`
+- [Valtioneuvoston asetus liikenne\- ja viestintäministeriöstä](405.md) `405/2003`
+- [Liikenne\- ja viestintäministeriön asetus taksien reittitaksasta](406.md) `406/2003`
+- [Liikenne\- ja viestintäministeriön asetus taksitaksasta](407.md) `407/2003`
+- [Liikenne\- ja viestintäministeriön asetus ajoneuvon renkaiden nastoista](408.md) `408/2003`
+- [Liikenne\- ja viestintäministeriön asetus kaksi\- ja kolmipyöräisten ajoneuvojen sekä nelipyörien rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](409.md) `409/2003`
+- [Liikenne\- ja viestintäministeriön asetus Ratahallintokeskuksen maksuista](410.md) `410/2003`
+- [Puolustusministeriön asetus asevelvollisten yleisistä varusmiespalvelukseen astumispäivistä vuosina 2006–2007](411.md) `411/2003`
+- [Sosiaali\- ja terveysministeriön asetus lääkkeiden hintalautakunnan maksullisista suoritteista](412.md) `412/2003`
+- [Ilmailulaitoksen ilmoitus ilmailumääräyksestä](413.md) `413/2003`
+- [Valtioneuvoston asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Irakia koskevaan päätökseen perustuvien velvoitusten täyttämisestä annetun asetuksen kumoamisesta](414.md) `414/2003`
+- [Liikenne\- ja viestintäministeriön asetus liikenne\- ja viestintäministeriön työjärjestyksen muuttamisesta](415.md) `415/2003`
+- [Valtioneuvoston asetus lyhytketjuisten kloorattujen parafiinien sekä penta\- ja oktabromidifenyylieetterin markkinoille luovuttamisen ja käytön rajoittamisesta](416.md) `416/2003`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Virtain kaupungin ja Peräseinäjoen kunnan välillä](417.md) `417/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta eräille turkistarhaajille maksettavan korvauksen maksamisesta](418.md) `418/2003`
+- [Laki työeläkevakuutusyhtiöistä annetun lain muuttamisesta](419.md) `419/2003`
+- [Laki vakuutuskassalain muuttamisesta](420.md) `420/2003`
+- [Laki eläkesäätiölain muuttamisesta](421.md) `421/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta viranomaisen valvomasta näytteenotosta kylvösiementuotannossa](422.md) `422/2003`
+- [Kielilaki](423.md) `423/2003`
+- [Laki julkisyhteisöjen henkilöstöltä vaadittavasta kielitaidosta](424.md) `424/2003`
+- [Laki oikeudenkäymiskaaren muuttamisesta](425.md) `425/2003`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain muuttamisesta](426.md) `426/2003`
+- [Laki esitutkintalain muuttamisesta](427.md) `427/2003`
+- [Laki sosiaalihuollon asiakkaan asemasta ja oikeuksista annetun lain 4 §:n muuttamisesta](428.md) `428/2003`
+- [Laki potilaan asemasta ja oikeuksista annetun lain 3 §:n muuttamisesta](429.md) `429/2003`
+- [Laki sosiaalihuoltolain muuttamisesta](430.md) `430/2003`
+- [Laki kansanterveyslain 28 §:n muuttamisesta](431.md) `431/2003`
+- [Laki erikoissairaanhoitolain muuttamisesta](432.md) `432/2003`
+- [Laki kuntajakolain 3 §:n muuttamisesta](433.md) `433/2003`
+- [Hallintolaki](434.md) `434/2003`
+- [Laki hallintolainkäyttölain muuttamisesta](435.md) `435/2003`
+- [Valtioneuvoston asetus asuntoneuvostosta annetun asetuksen kumoamisesta](436.md) `436/2003`
+- [Valtioneuvoston asetus työssä käytettävien koneiden ja muiden työvälineiden hankinnasta, turvallisesta käytöstä ja tarkastamisesta annetun valtioneuvoston päätöksen muuttamisesta](437.md) `437/2003`
+- [Valtioneuvoston asetus Saaristomeren neuvottelukunnasta annetun asetuksen kumoamisesta](438.md) `438/2003`
+- [Valtioneuvoston asetus Saaristomeren kansallispuistosta annetun asetuksen 7 §:n 2 momentin kumoamisesta](439.md) `439/2003`
+- [Valtioneuvoston asetus arseeniyhdisteellä ja sitä sisältävällä valmisteella käsitellyn puun, elohopeayhdisteen ja dibutyylitinavetyboraatin sekä niitä sisältävien tuotteiden markkinoille luovuttamisen ja käytön rajoittamisesta](440.md) `440/2003`
+- [Sisäasiainministeriön asetus eräästä liikkumis\- ja oleskelurajoituksesta](441.md) `441/2003`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](442.md) `442/2003`
+- [Maa\- ja metsätalousministeriön asetus kolmansista maista tuotavasta hunajasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](443.md) `443/2003`
+- [Laki sähkömarkkinalain muuttamisesta](444.md) `444/2003`
+- [Laki maakaasumarkkinalain 4 luvun 6 §:n muuttamisesta](445.md) `445/2003`
+- [Kauppa\- ja teollisuusministeriön asetus sokereista](446.md) `446/2003`
+- [Kauppa\- ja teollisuusministeriön asetus hunajasta](447.md) `447/2003`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Karijoen ja Isojoen kuntien välillä](448.md) `448/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta hyväksytyistä kasvinsuojeluaineiden tehoaineista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](449.md) `449/2003`
+- [Maa\- ja metsätalousministeriön asetus vuoden 2003 metsänhoitomaksun perusteesta](450.md) `450/2003`
+- [Kauppa\- ja teollisuusministeriön asetus kaakao\- ja suklaatuotteista](451.md) `451/2003`
+- [Maa\- ja metsätalousministeriön asetus kalojen VHS\-taudin vuoksi Uudenkaupungin, Pyhärannan ja Rauman kuntaan perustettavasta rajoitusalueesta](452.md) `452/2003`
+- [Uskonnonvapauslaki](453.md) `453/2003`
+- [Laki perusopetuslain 13 §:n muuttamisesta](454.md) `454/2003`
+- [Laki lukiolain 9 §:n muuttamisesta](455.md) `455/2003`
+- [Laki kirjanpitolain 1 luvun 1 §:n muuttamisesta](456.md) `456/2003`
+- [Hautaustoimilaki](457.md) `457/2003`
+- [Kauppa\- ja teollisuusministeriön asetus tietyistä osittain tai kokonaan kuivatuista säilötyistä maidoista](458.md) `458/2003`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta](459.md) `459/2003`
+- [Laki sananvapauden käyttämisestä joukkoviestinnässä](460.md) `460/2003`
+- [Laki oikeudenkäymiskaaren 17 luvun 24 §:n muuttamisesta](461.md) `461/2003`
+- [Laki esitutkintalain 27 §:n muuttamisesta](462.md) `462/2003`
+- [Laki rikoslain 2 luvun 17 §:n kumoamisesta](463.md) `463/2003`
+- [Laki yleisistä syyttäjistä annetun lain 7 §:n muuttamisesta](464.md) `464/2003`
+- [Laki valmiuslain 43 §:n muuttamisesta](465.md) `465/2003`
+- [Laki puolustustilalain muuttamisesta](466.md) `466/2003`
+- [Valtioneuvoston asetus kauppa\- ja teollisuusministeriöstä](467.md) `467/2003`
+- [Pelastuslaki](468.md) `468/2003`
+- [Laki painelaitelain 14 §:n muuttamisesta](469.md) `469/2003`
+- [Laki viihdelaitelain 10 §:n muuttamisesta](470.md) `470/2003`
+- [Laki taimiaineistolain 8 §:n muuttamisesta](471.md) `471/2003`
+- [Maa\- ja metsätalousministeriön asetus poronhoitovuodelta 2003/2004 maksettavan eläinkohtaisen tuen hakuajasta ja hakemisesta](472.md) `472/2003`
+- [Kauppa\- ja teollisuusministeriön asetus hedelmätäysmehuista ja tietyistä vastaavista valmisteista](473.md) `473/2003`
+- [Kauppa\- ja teollisuusministeriön asetus hedelmähilloista, hyytelöistä, marmeladeista ja tietyistä vastaavista valmisteista](474.md) `474/2003`
+- [Kauppa\- ja teollisuusministeriön asetus näytteenottomenettelyistä hedelmien, vihannesten sekä viljojen, munien ja munavalmisteiden torjunta\-ainejäämien virallisessa valvonnassa](475.md) `475/2003`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](476.md) `476/2003`
+- [Laki perusopetuslain muuttamisesta](477.md) `477/2003`
+- [Laki lukiolain muuttamisesta](478.md) `478/2003`
+- [Laki ammatillisesta koulutuksesta annetun lain muuttamisesta](479.md) `479/2003`
+- [Laki ammatillisesta aikuiskoulutuksesta annetun lain 11 ja 16 §:n muuttamisesta](480.md) `480/2003`
+- [Valtioneuvoston asetus suomen ja ruotsin kielen taidon osoittamisesta valtionhallinnossa](481.md) `481/2003`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](482.md) `482/2003`
+- [Laki sijoitusrahastolain muuttamisesta](483.md) `483/2003`
+- [Laki arvo\-osuusjärjestelmästä annetun lain muuttamisesta](484.md) `484/2003`
+- [Laki ulkomaisen luotto\- ja rahoituslaitoksen toiminnasta Suomessa annetun lain muuttamisesta](485.md) `485/2003`
+- [Laki vakuutusyhtiölain 1 luvun muuttamisesta](486.md) `486/2003`
+- [Laki vakuutusyhdistyslain 1 luvun muuttamisesta](487.md) `487/2003`
+- [Laki ulkomaisista vakuutusyhtiöistä annetun lain muuttamisesta](488.md) `488/2003`
+- [Laki eläkesäätiölain muuttamisesta](489.md) `489/2003`
+- [Laki vakuutuskassalain muuttamisesta](490.md) `490/2003`
+- [Laki merimieseläkelain muuttamisesta](491.md) `491/2003`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](492.md) `492/2003`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](493.md) `493/2003`
+- [Laki taiteilijoiden ja eräiden erityisryhmiin kuuluvien työntekijäin eläkelain muuttamisesta](494.md) `494/2003`
+- [Laki työntekijäin eläkelain muuttamisesta](495.md) `495/2003`
+- [Laki vakuutussopimuslain muuttamisesta](496.md) `496/2003`
+- [Laki kuntoutuksen asiakasyhteistyöstä](497.md) `497/2003`
+- [Laki kansanterveyslain 23 §:n muuttamisesta](498.md) `498/2003`
+- [Laki erikoissairaanhoitolain 10 a §:n muuttamisesta](499.md) `499/2003`
+- [Laki sosiaalihuoltolain 17 §:n muuttamisesta](500.md) `500/2003`
+- [Laki työvoimapalvelulain 10 ja 17 §:n muuttamisesta](501.md) `501/2003`
+- [Laki kansaneläkelaitoksen järjestämästä kuntoutuksesta annetun lain 7 §:n muuttamisesta](502.md) `502/2003`
+- [Laki työntekijäin eläkelain 4 §:n muuttamisesta](503.md) `503/2003`
+- [Laki valtion eläkelain 18 b §:n muuttamisesta](504.md) `504/2003`
+- [Laki kansaneläkelain 36 §:n muuttamisesta](505.md) `505/2003`
+- [Laki tapaturmavakuutuslain perusteella korvattavasta kuntoutuksesta annetun lain 11 §:n muuttamisesta](506.md) `506/2003`
+- [Laki liikennevakuutuslain perusteella korvattavasta kuntoutuksesta annetun lain 11 §:n muuttamisesta](507.md) `507/2003`
+- [Laki perusopetuslain muuttamisesta](508.md) `508/2003`
+- [Laki lukiolain muuttamisesta](509.md) `509/2003`
+- [Laki ammatillisesta koulutuksesta annetun lain muuttamisesta](510.md) `510/2003`
+- [Valtioneuvoston asetus yritystoiminnan tukemisesta annetun valtioneuvoston asetuksen muuttamisesta](511.md) `511/2003`
+- [Valtioneuvoston asetus investointituesta ja kehittämistuesta maataloustuotteiden jalostukseen ja markkinointiin annetun valtioneuvoston asetuksen muuttamisesta](512.md) `512/2003`
+- [Sosiaali\- ja terveysministeriön asetus merimieseläkekassan vastuuvelkaa katettaessa vastuuvelkaan rinnastettavista eristä ja lakisääteisen eläkevakuutuksen erityisluonteen johdosta katteeksi hyväksyttävistä muista eristä](513.md) `513/2003`
+- [Laki rikoslain muuttamisesta](514.md) `514/2003`
+- [Laki rikoslain muuttamisesta](515.md) `515/2003`
+- [Laki pakkokeinolain 1 luvun muuttamisesta](516.md) `516/2003`
+- [Laki poliisilain 27 §:n muuttamisesta](517.md) `517/2003`
+- [Laki rajavartiolaitoksesta annetun lain 24 ja 51 §:n muuttamisesta](518.md) `518/2003`
+- [Laki tullilain 17 §:n muuttamisesta](519.md) `519/2003`
+- [Laki järjestyksenvalvojista annetun lain 9 §:n muuttamisesta](520.md) `520/2003`
+- [Laki rangaistusten täytäntöönpanosta annetun lain 2 ja 5 luvun muuttamisesta](521.md) `521/2003`
+- [Laki tutkintavankeudesta annetun lain muuttamisesta](522.md) `522/2003`
+- [Laki ilmailulain 37 §:n muuttamisesta](523.md) `523/2003`
+- [Laki järjestyksen pitämisestä joukkoliikenteessä annetun lain 4 §:n muuttamisesta](524.md) `524/2003`
+- [Laki joukkoliikenteen tarkastusmaksusta annetun lain 11 §:n muuttamisesta](525.md) `525/2003`
+- [Laki puolustusvoimien virka\-avusta poliisille annetun lain 6 ja 8 §:n muuttamisesta](526.md) `526/2003`
+- [Laki merimieslain 74 §:n muuttamisesta](527.md) `527/2003`
+- [Laki ulosottolain 3 luvun 30 §:n muuttamisesta](528.md) `528/2003`
+- [Laki turvatarkastuksista tuomioistuimissa annetun lain 6 §:n muuttamisesta](529.md) `529/2003`
+- [Laki turvatarkastuksista lentoliikenteessä annetun lain 6 §:n muuttamisesta](530.md) `530/2003`
+- [Laki aluevalvontalain 31 §:n muuttamisesta](531.md) `531/2003`
+- [Laki mielenterveyslain 22 d §:n muuttamisesta](532.md) `532/2003`
+- [Laki säilöön otettujen ulkomaalaisten kohtelusta ja säilöönottoyksiköstä annetun lain 35 §:n muuttamisesta](533.md) `533/2003`
+- [Laki sotilaskurinpitolain 8 ja 38 §:n muuttamisesta](534.md) `534/2003`
+- [Laki nuorista rikoksentekijöistä annetun lain 6 §:n muuttamisesta](535.md) `535/2003`
+- [Laki rikesakkomenettelystä annetun lain 16 §:n muuttamisesta](536.md) `536/2003`
+- [Laki vaarallisten rikoksenuusijain eristämisestä annetun lain 7 §:n muuttamisesta](537.md) `537/2003`
+- [Laki yhdyskuntapalvelusta annetun lain muuttamisesta](538.md) `538/2003`
+- [Laki rikoslain voimaanpanemisesta annetun asetuksen 3 ja 12 §:n kumoamisesta](539.md) `539/2003`
+- [Laki yksityisistä turvallisuuspalveluista annetun lain 28 §:n muuttamisesta](540.md) `540/2003`
+- [Laki ajoneuvoliikennerekisteristä](541.md) `541/2003`
+- [Valtioneuvoston asetus talousjätevesien käsittelystä vesihuoltolaitosten viemäriverkostojen ulkopuolisilla alueilla](542.md) `542/2003`
+- [Valtioneuvoston asetus oikeusministeriöstä](543.md) `543/2003`
+- [Valtioneuvoston asetus ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta](544.md) `544/2003`
+- [Valtioneuvoston asetus liikenteessä käytettävien ajoneuvojen liikennekelpoisuuden valvonnasta annetun valtioneuvoston asetuksen 14 ja 23 §:n muuttamisesta](545.md) `545/2003`
+- [Valtioneuvoston päätös Jäppilän, Pieksämäen maalaiskunnan ja Virtasalmen kuntien lakkauttamisesta ja uuden Pieksänmaan kunnan perustamisesta](546.md) `546/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus vieraista aineista eläimistä saatavissa elintarvikkeissa annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](547.md) `547/2003`
+- [Laki Yhdistyneiden Kansakuntien ja Suomen välillä voimavarojen antamisesta Yhdistyneiden Kansakuntien operaatioon Etiopiassa ja Eritreassa \(UNMEE\) tehdyn yhteistyöpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](548.md) `548/2003`
+- [Kunnallinen eläkelaki](549.md) `549/2003`
+- [Kunnallisen eläkelain voimaanpanolaki](550.md) `550/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta eläintukien valvonnasta](551.md) `551/2003`
+- [Valtioneuvoston päätös kuntajaon eheyttämisestä Lohtajan, Himangan ja Toholammin kunnat sekä Kannuksen kaupungin käsittävällä alueella](552.md) `552/2003`
+- [Liikenne\- ja viestintäministeriön asetus erikoiskuljetuksista ja erikoiskuljetusajoneuvoista annetun liikenneministeriön päätöksen 3 §:n muuttamisesta](553.md) `553/2003`
+- [Valtioneuvoston päätös kuntajaon eheyttämisestä Mietoisten, Mynämäen, Nousiaisten ja Vehmaan kunnat käsittävällä alueella](554.md) `554/2003`
+- [Valtioneuvoston päätös kuntajaon eheyttämisestä Oulunsalon, Kempeleen, Muhoksen ja Ylikiimingin kunnat sekä Oulun kaupungin käsittävällä alueella](555.md) `555/2003`
+- [Valtioneuvoston päätös eräistä tuomiopiirijärjestelyistä](556.md) `556/2003`
+- [Maa\- ja metsätalousministeriön asetus satovahinkojen korvaamisessa käytettävistä yksikköhinnoista ja normisadoista vuonna 2003](557.md) `557/2003`
+- [Oikeusministeriön asetus käräjäoikeuksien kanslioiden ja istuntopaikkojen sijainnista annetun oikeusministeriön päätöksen 1 §:n muuttamisesta](558.md) `558/2003`
+- [Valtioneuvoston asetus nestemäisten polttoaineiden valmisteverosta annetun asetuksen 3 §:n muuttamisesta](559.md) `559/2003`
+- [Valtioneuvoston asetus perusopetusasetuksen muuttamisesta](560.md) `560/2003`
+- [Valtioneuvoston asetus lukioasetuksen muuttamisesta](561.md) `561/2003`
+- [Valtioneuvoston asetus ammatillisesta koulutuksesta annetun asetuksen muuttamisesta](562.md) `562/2003`
+- [Valtioneuvoston asetus ammatillisesta aikuiskoulutuksesta annetun asetuksen 7 §:n 2 momentin ja 8 §:n kumoamisesta](563.md) `563/2003`
+- [Valtioneuvoston asetus korkeakouluopiskelijoiden ruokailun tukemisen perusteista](564.md) `564/2003`
+- [Valtioneuvoston päätös kuntajaon muuttamisesta Nakkilan kunnan ja Harjavallan kaupungin välillä](565.md) `565/2003`
+- [Valtioneuvoston päätös kuntajaon muuttamisesta Kittilän ja Muonion kuntien välillä](566.md) `566/2003`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä toimintapääomasta](567.md) `567/2003`
+- [Liikenne\- ja viestintäministeriön asetus traktorien, moottorityökoneiden ja maastoajoneuvojen, niiden perävaunujen sekä hinattavien laitteiden rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](568.md) `568/2003`
+- [Liikenne\- ja viestintäministeriön asetus Ajoneuvohallintokeskuksen maksuista annetun liikenne\- ja viestintäministeriön asetuksen liitteen muuttamisesta](569.md) `569/2003`
+- [Valtioneuvoston asetus erityisvalmisteasetuksen kumoamisesta](570.md) `570/2003`
+- [Kauppa\- ja teollisuusministeriön asetus ravintolisistä](571.md) `571/2003`
+- [Valtioneuvoston asetus  eräiden vaarallisten aineiden käytön rajoittamisesta ajoneuvoissa](572.md) `572/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksista](573.md) `573/2003`
+- [Vuoden 2003 lisätalousarvio](574.md) `574/2003`
+- [Liikenne\- ja viestintäministeriön asetus autojen ja perävaunujen rakenteesta ja varusteista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](575.md) `575/2003`
+- [Valtioneuvoston asetus räjähdyskelpoisten ilmaseosten työntekijöille aiheuttaman vaaran torjunnasta](576.md) `576/2003`
+- [Valtioneuvoston asetus työpaikkojen turvallisuus\- ja terveysvaatimuksista](577.md) `577/2003`
+- [Valtioneuvoston asetus elementtirakentamisen työturvallisuudesta](578.md) `578/2003`
+- [Liikenne\- ja viestintäministeriön asetus ajoneuvojen katsastusluvista annetun liikenneministeriön päätöksen 2 §:n muuttamisesta](579.md) `579/2003`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön tietopalvelukeskuksen maksullisista suoritteista annetun maa\- ja metsätalousministeriön asetuksen 2 §:n muuttamisesta](580.md) `580/2003`
+- [Laki kaksikäyttötuotteiden vientivalvonnasta annetun lain muuttamisesta](581.md) `581/2003`
+- [Laki työttömyysturvalain 10 luvun 5 §:n muuttamisesta](582.md) `582/2003`
+- [Tasavallan Presidentin avoin kirje valtioneuvoston vaihdoksesta](583.md) `583/2003`
+- [Opetusministeriön asetus opetushallituksen suoritteiden maksullisuudesta annetun opetusministeriön asetuksen 1 §:n muuttamisesta](584.md) `584/2003`
+- [Puolustusministeriön työjärjestys](585.md) `585/2003`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskorosta](586.md) `586/2003`
+- [Laki Rahoitustarkastuksesta](587.md) `587/2003`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](588.md) `588/2003`
+- [Laki liikepankeista ja muista osakeyhtiömuotoisista luottolaitoksista annetun lain muuttamisesta](589.md) `589/2003`
+- [Laki säästöpankkilain muuttamisesta](590.md) `590/2003`
+- [Laki osuuspankeista ja muista osuuskuntamuotoisista luottolaitoksista annetun lain muuttamisesta](591.md) `591/2003`
+- [Laki ulkomaisen luotto\- ja rahoituslaitoksen toiminnasta Suomessa annetun lain muuttamisesta](592.md) `592/2003`
+- [Laki talletuspankin toiminnan väliaikaisesta keskeyttämisestä annetun lain muuttamisesta](593.md) `593/2003`
+- [Laki kiinnitysluottopankkilain 14 ja 17 a §:n muuttamisesta](594.md) `594/2003`
+- [Laki  hypoteekkiyhdistyksistä annetun lain muuttamisesta](595.md) `595/2003`
+- [Laki sijoituspalveluyrityksistä annetun lain muuttamisesta](596.md) `596/2003`
+- [Laki ulkomaisen sijoituspalveluyrityksen oikeudesta tarjota sijoituspalvelua Suomessa annetun lain muuttamisesta](597.md) `597/2003`
+- [Laki panttilainauslaitoksista annetun lain muuttamisesta](598.md) `598/2003`
+- [Laki sijoitusrahastolain 122 §:n muuttamisesta](599.md) `599/2003`
+- [Laki arvopaperimarkkinalain muuttamisesta](600.md) `600/2003`
+- [Laki kaupankäynnistä vakioiduilla optioilla ja termiineillä annetun lain 4 luvun 3 §:n muuttamisesta](601.md) `601/2003`
+- [Laki valtion vakuusrahastosta annetun lain 19 a §:n muuttamisesta](602.md) `602/2003`
+- [Laki perintätoiminnan luvanvaraisuudesta annetun lain 1 §:n muuttamisesta](603.md) `603/2003`
+- [Laki Rahoitustarkastuksen valvontamaksusta](604.md) `604/2003`
+- [Rataverolaki](605.md) `605/2003`
+- [Laki tuloverolain 105 a §:n muuttamisesta](606.md) `606/2003`
+- [Laki vuoden 2003 veroasteikkolain 2 §:n muuttamisesta](607.md) `607/2003`
+- [Verohallituksen päätös palkansaajan pidätysprosentin alentamisesta](608.md) `608/2003`
+- [Valtioneuvoston asetus sisäasiainministeriöstä](609.md) `609/2003`
+- [Valtioneuvoston asetus valtiovarainministeriöstä](610.md) `610/2003`
+- [Valtiovarainministeriön asetus valtiovarainministeriön työjärjestyksen muuttamisesta](611.md) `611/2003`
+- [Järjestyslaki](612.md) `612/2003`
+- [Laki rikoslain 2 a luvun 9 §:n ja 17 luvun 13 §:n muuttamisesta](613.md) `613/2003`
+- [Laki rangaistusmääräysmenettelystä annetun lain 1 §:n muuttamisesta](614.md) `614/2003`
+- [Laki järjestyksen pitämisestä joukkoliikenteessä annetun lain 6 §:n muuttamisesta](615.md) `615/2003`
+- [Laki alkoholilain 58 §:n muuttamisesta](616.md) `616/2003`
+- [Laki teräaselain kumoamisesta](617.md) `617/2003`
+- [Laki kuntalain 7 §:n kumoamisesta](618.md) `618/2003`
+- [Laki kuntajakolain 31 §:n muuttamisesta](619.md) `619/2003`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain 23 §:n 1 momentin ja 24 §:n kumoamisesta](620.md) `620/2003`
+- [Laki tieliikennelain muuttamisesta](621.md) `621/2003`
+- [Laki järjestyksenvalvojista annetun lain muuttamisesta](622.md) `622/2003`
+- [Laki kadun ja eräiden yleisten alueiden kunnossa\- ja puhtaanapidosta annetun lain muuttamisesta](623.md) `623/2003`
+- [Laki kestävän metsätalouden rahoituksesta annetun lain muuttamisesta](624.md) `624/2003`
+- [Valtioneuvoston asetus palosuojelurahastosta](625.md) `625/2003`
+- [Laki kirkkolain muuttamisesta](626.md) `626/2003`
+- [Laki hautaustoimilain 6 §:n muuttamisesta](627.md) `627/2003`
+- [Laki viestintämarkkinalain muuttamisesta](628.md) `628/2003`
+- [Laki maatalousyrittäjien lomituspalvelulain 26 ja 28 §:n muuttamisesta](629.md) `629/2003`
+- [Laki kansaneläkelaitoksen järjestämästä kuntoutuksesta annetun lain 3 §:n muuttamisesta](630.md) `630/2003`
+- [Tasavallan presidentin asetus Yhdistyneiden Kansakuntien ja Suomen välillä voimavarojen antamisesta Yhdistyneiden Kansakuntien operaatioon Etiopiassa ja Eritreassa \(UNMEE\) tehdyn yhteistyöpöytäkirjan voimaansaattamisesta sekä yhteistyöpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](631.md) `631/2003`
+- [Kauppa\- ja teollisuusministeriön asetus elintarvikkeiden pakkausmerkinnöistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](632.md) `632/2003`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](633.md) `633/2003`
+- [Laki työntekijäin eläkelain muuttamisesta](634.md) `634/2003`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](635.md) `635/2003`
+- [Laki taiteilijoiden ja eräiden erityisryhmiin kuuluvien työntekijäin eläkelain muuttamisesta](636.md) `636/2003`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](637.md) `637/2003`
+- [Laki yrittäjien eläkelain muuttamisesta](638.md) `638/2003`
+- [Laki kansaneläkelain muuttamisesta](639.md) `639/2003`
+- [Laki perhe\-eläkelain muuttamisesta](640.md) `640/2003`
+- [Laki eläkkeensaajien asumistukilain 6 §:n muuttamisesta](641.md) `641/2003`
+- [Laki kuntoutusrahalain 7 ja 18 §:n muuttamisesta](642.md) `642/2003`
+- [Laki sairausvakuutuslain 15 ja 27 §:n muuttamisesta](643.md) `643/2003`
+- [Laki valtion varoista suoritettavasta eläkkeen korvaamisesta alle kolmivuotiaan lapsen hoidon tai opiskelun ajalta](644.md) `644/2003`
+- [Laki esitutkintalain muuttamisesta](645.md) `645/2003`
+- [Laki pakkokeinolain muuttamisesta](646.md) `646/2003`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain 1 luvun muuttamisesta](647.md) `647/2003`
+- [Laki poliisin tehtävien suorittamisesta puolustusvoimissa annetun lain 4 §:n muuttamisesta](648.md) `648/2003`
+- [Laki poliisin henkilörekistereistä annetun lain muuttamisesta](649.md) `649/2003`
+- [Laki rikoslain 10 luvun 9 §:n muuttamisesta](650.md) `650/2003`
+- [Sosiaali\- ja terveysministeriön asetus työeläkekassan perusteista lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 9 §:n mukaista eläkelaitosten keskinäistä kustannusten jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](651.md) `651/2003`
+- [Sosiaali\- ja terveysministeriön asetus maatalousyrittäjien eläkelaitoksen vastuuvelkaa katettaessa vastuuvelkaan rinnastettavista ja vähennettävistä eristä sekä lakisääteisen eläkevakuutuksen erityisluonteen johdosta katteeksi hyväksyttävistä muista eristä](652.md) `652/2003`
+- [Laki asevelvollisuuslain 28 §:n muuttamisesta](653.md) `653/2003`
+- [Sosiaali\- ja terveysministeriön asetus esiintyvien taiteilijoiden ja eräiden erityisryhmien eläkekassan perusteista taiteilijoiden ja eräiden erityisryhmiin kuuluvien työntekijäin eläkelain 7 §:n 4 momentin mukaista eläkelaitosten keskinäistä kustannusten jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](654.md) `654/2003`
+- [Maa\- ja metsätalousministeriön asetus eräiden eläinten ja tavaroiden eläintautivaatimuksista Euroopan yhteisön sisämarkkinoilla](655.md) `655/2003`
+- [Verohallituksen päätös ennakonpidätysvelvollisuudesta vapauttamisesta](656.md) `656/2003`
+- [Sisäasiainministeriön asetus pysäköintivirhemaksun korottamisesta](657.md) `657/2003`
+- [Valtiovarainministeriön asetus sijoituspalveluyrityksen toimilupahakemukseen liitettävistä selvityksistä](658.md) `658/2003`
+- [Valtiovarainministeriön asetus luottolaitoksen toimilupahakemukseen liitettävistä selvityksistä](659.md) `659/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta peltoalaperusteisten tukien valvonnasta](660.md) `660/2003`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain 18 §:n muuttamisesta](661.md) `661/2003`
+- [Valtioneuvoston asetus valtioneuvoston ohjesäännön 21 ja 33 §:n muuttamisesta](662.md) `662/2003`
+- [Valtioneuvoston asetus ulkoasiainministeriöstä annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](663.md) `663/2003`
+- [Ulkoasiainministeriön asetus ulkoasiainministeriön työjärjestyksen muuttamisesta](664.md) `664/2003`
+- [Sisäasiainministeriön asetus kunnallisista eläkkeistä](665.md) `665/2003`
+- [Sisäasiainministeriön asetus vartioimisliikkeen vastaavan hoitajan ja vartijan koulutuksesta annetun sisäasiainministeriön asetuksen 1 ja 4 §:n muuttamisesta](666.md) `666/2003`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkekassan työntekijäin eläkelain 12 §:n mukaista vastuunjakoa varten laskettavista suureista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](667.md) `667/2003`
+- [Maa\- ja metsätalousministeriön asetus maanmittauslaitoksen maksuista annetun maa\- ja metsätalousministeriön asetuksen 3 §:n muuttamisesta](668.md) `668/2003`
+- [Valtioneuvoston asetus kaksikäyttötuotteiden vientivalvonnasta annetun valtioneuvoston asetuksen muuttamisesta](669.md) `669/2003`
+- [Valtioneuvoston asetus vuodelta 2003 maksettavien kansallisten kasvintuotannon ja kotieläintukien valvonnasta](670.md) `670/2003`
+- [Valtioneuvoston asetus siirrettävälle C\-sokerille maksettavasta varastointikustannusten korvauksesta markkinointivuodelta 2002/2003](671.md) `671/2003`
+- [Valtioneuvoston asetus nurmi\- ja viljakasvien siementuotannon kansallisesta tuesta vuonna 2003 annetun valtioneuvoston asetuksen liitteen muuttamisesta](672.md) `672/2003`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](673.md) `673/2003`
+- [Valtioneuvoston asetus ajoneuvojen rekisteröinnistä annetun asetuksen 36 §:n muuttamisesta](674.md) `674/2003`
+- [Valtioneuvoston asetus merkitykseltään vähäisestä teletoiminnasta](675.md) `675/2003`
+- [Valtioneuvoston päätös kuntajaon muuttamisesta Ilmajoen ja Peräseinäjoen kuntien välillä](676.md) `676/2003`
+- [Valtioneuvoston päätös Seinäjoen kaupungin ja Peräseinäjoen kunnan lakkauttamisesta ja uuden kunnan perustamisesta](677.md) `677/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta hygienialain mukaisten näytteiden ottamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](678.md) `678/2003`
+- [Laki ulosottolain muuttamisesta](679.md) `679/2003`
+- [Valtioneuvoston asetus ulosottomenettelystä](680.md) `680/2003`
+- [Valtioneuvoston asetus eräiden ulosottoasetuksen säännösten kumoamisesta](681.md) `681/2003`
+- [Valtioneuvoston asetus verojen ja maksujen perimisestä ulosottotoimin annetun asetuksen eräiden säännösten kumoamisesta](682.md) `682/2003`
+- [Laki verojen ja maksujen perimisestä ulosottotoimin annetun lain 2 ja 3 §:n muuttamisesta](683.md) `683/2003`
+- [Laki viranomaisten toiminnan julkisuudesta annetun lain 11 ja 24 §:n muuttamisesta](684.md) `684/2003`
+- [Laki ulosottomaksuista annetun lain muuttamisesta](685.md) `685/2003`
+- [Laki takauksesta ja vierasvelkapanttauksesta annetun lain 20 ja 25 §:n muuttamisesta](686.md) `686/2003`
+- [Laki osamaksukaupasta annetun lain 9 ja 16 §:n muuttamisesta](687.md) `687/2003`
+- [Laki oikeudenkäymiskaaren 7 luvun muuttamisesta](688.md) `688/2003`
+- [Laki välimiesmenettelystä annetun lain 45 §:n muuttamisesta](689.md) `689/2003`
+- [Laki yrityksen saneerauksesta annetun lain 37 §:n muuttamisesta](690.md) `690/2003`
+- [Laki yksityishenkilön velkajärjestelystä annetun lain 53 ja 60 §:n muuttamisesta](691.md) `691/2003`
+- [Laki konkurssisäännön 6 ja 25 §:n muuttamisesta](692.md) `692/2003`
+- [Valtioneuvoston asetus opetustoimen henkilöstön kelpoisuudesta annetun asetuksen muuttamisesta](693.md) `693/2003`
+- [Valtioneuvoston asetus tiettyjä atsoväriaineita ja niitä sisältäviä tuotteita koskevista kielloista ja rajoituksista](694.md) `694/2003`
+- [Liikenne\- ja viestintäministeriön asetus toimilupahakemusten ja teletoimintailmoitusten sisällöstä](695.md) `695/2003`
+- [Laki valmiuslain muuttamisesta](696.md) `696/2003`
+- [Laki valtion korvauksesta eräille Neuvostoliiton partisaani\-iskujen kohteeksi joutuneille henkilöille](697.md) `697/2003`
+- [Valtioneuvoston asetus televisio\- ja radiotoiminnasta](698.md) `698/2003`
+- [Sisäasiainministeriön asetus rajavartiolaitoksen menetelmistä voimakeinojen käyttämisessä ja kulkuneuvon pysäyttämisessä](699.md) `699/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvituotteiden maahantuonnissa, maastaviennissä ja markkinoinnissa noudatettavista kasvinsuojelun vaatimuksista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](700.md) `700/2003`
+- [Laki edustajanpalkkiosta annetun lain 1 §:n muuttamisesta](701.md) `701/2003`
+- [Laki kasvinterveyden suojelemisesta](702.md) `702/2003`
+- [Laki sairausvakuutuslain muuttamisesta](703.md) `703/2003`
+- [Laki sairausvakuutuslain 33 §:n muuttamisesta annetun lain voimaantulosäännöksen 3 momentin kumoamisesta](704.md) `704/2003`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain muuttamisesta](705.md) `705/2003`
+- [Laki vakuutetun sairausvakuutusmaksun, työnantajan sairausvakuutusmaksun ja työnantajan kansaneläkemaksun suuruudesta annetun lain muuttamisesta](706.md) `706/2003`
+- [Laki ennakkoperintälain 1 §:n muuttamisesta](707.md) `707/2003`
+- [Valtioneuvoston asetus ympäristöministeriöstä](708.md) `708/2003`
+- [Sisäasiainministeriön asetus eräistä liikkumis\- ja oleskelukielloista](709.md) `709/2003`
+- [Kauppa\- ja teollisuusministeriön asetus Patentti\- ja rekisterihallituksen maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön asetuksen muuttamisesta](710.md) `710/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta rehuvalmisteiden valvonnan järjestämisestä annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](711.md) `711/2003`
+- [Maa\- ja metsätalousministeriön asetus luonnonmukaisesti tuotettujen maataloustuotteiden, elintarvikkeiden ja alkoholijuomien valvonnan järjestämisestä annetun asetuksen muuttamisesta](712.md) `712/2003`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta tietyistä Liberiaan kohdistuvista rajoittavista toimenpiteistä](713.md) `713/2003`
+- [Laki valmisteverotuslain muuttamisesta](714.md) `714/2003`
+- [Laki tullilain 9 §:n muuttamisesta](715.md) `715/2003`
+- [Laki Ahvenanmaan maakuntaa koskevista poikkeuksista arvonlisävero\- ja valmisteverolainsäädäntöön annetun lain 30 §:n muuttamisesta](716.md) `716/2003`
+- [Laki yrittäjien eläkelain muuttamisesta](717.md) `717/2003`
+- [Laki sairausvakuutuslain 16 ja 33 §:n muuttamisesta](718.md) `718/2003`
+- [Laki aravalain muuttamisesta](719.md) `719/2003`
+- [Laki aravarajoituslain 23 §:n muuttamisesta](720.md) `720/2003`
+- [Laki vuokra\-asuntolainojen ja asumisoikeustalolainojen korkotuesta annetun lain 39 §:n muuttamisesta](721.md) `721/2003`
+- [Tasavallan presidentin asetus Malawin kanssa yhteistyöstä Eteläisen Afrikan kehitysyhteisön metsäopistohankkeessa tehdyn sopimuksen voimaansaattamisesta](722.md) `722/2003`
+- [Maa\- ja metsätalousministeriön asetus metsätalouden ympäristötuen laskennassa käytettävästä puukuutiometrin keskikantohinnasta](723.md) `723/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden maatilalain mukaisten myyntihintasaamisten ja lainojen viitekorosta](724.md) `724/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden porotalouden ja luontaiselinkeinojen rahoituslain mukaisten asuntolainojen viitekorosta](725.md) `725/2003`
+- [Sosiaali\- ja terveysministeriön asetus lääkkeen määräämisestä](726.md) `726/2003`
+- [Maa\- ja metsätalousministeriön asetus eläimistä saatavien elintarvikkeiden ja muiden tuotteiden eläinlääkinnällisistä rajatarkastuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](727.md) `727/2003`
+- [Laki velan vanhentumisesta](728.md) `728/2003`
+- [Laki julkisesta haasteesta](729.md) `729/2003`
+- [Laki holhoustoimesta annetun lain 37 ja 61 §:n muuttamisesta](730.md) `730/2003`
+- [Laki avioliittolain muuttamisesta](731.md) `731/2003`
+- [Laki perintökaaren 21 luvun muuttamisesta](732.md) `732/2003`
+- [Laki vahingonkorvauslain 7 luvun 2 §:n kumoamisesta](733.md) `733/2003`
+- [Laki kauppakaaren 18 luvun 9 §:n kumoamisesta](734.md) `734/2003`
+- [Laki takauksesta ja vierasvelkapanttauksesta annetun lain 19 ja 33 §:n muuttamisesta](735.md) `735/2003`
+- [Laki asiakirjain kuolettamisesta annetun lain muuttamisesta](736.md) `736/2003`
+- [Laki asuinhuoneiston vuokrauksesta annetun lain 10 §:n kumoamisesta](737.md) `737/2003`
+- [Laki liikehuoneiston vuokrauksesta annetun lain 9 §:n kumoamisesta](738.md) `738/2003`
+- [Laki maanvuokralain muuttamisesta](739.md) `739/2003`
+- [Laki osakeyhtiölain 12 ja 13 luvun muuttamisesta](740.md) `740/2003`
+- [Laki kuluttajansuojalain 12 luvun 1 e §:n kumoamisesta](741.md) `741/2003`
+- [Laki kuluttajavalituslautakunnasta annetun lain 9 c §:n kumoamisesta](742.md) `742/2003`
+- [Laki työsopimuslain 13 luvun 9 §:n muuttamisesta](743.md) `743/2003`
+- [Laki opintotukilain 36 §:n muuttamisesta](744.md) `744/2003`
+- [Laki yksityishenkilön velkajärjestelystä annetun lain 79 ja 79 a §:n muuttamisesta](745.md) `745/2003`
+- [Laki yrityksen saneerauksesta annetun lain 99 ja 99 a §:n muuttamisesta](746.md) `746/2003`
+- [Laki osuuskuntalain 8 luvun 6 §:n ja 19 luvun 10 §:n muuttamisesta](747.md) `747/2003`
+- [Laki tapaturmavakuutuslain 32 ja 35 a §:n muuttamisesta](748.md) `748/2003`
+- [Tasavallan presidentin asetus Suomen ja Venäjän federaation välisen Suomen tasavallan entiseltä Neuvostoliitolta olevien velkasaatavien osittaisesta hoitamisesta tehdyn sopimuksen voimaansaattamisesta](749.md) `749/2003`
+- [Valtioneuvoston asetus teknologiseen tutkimukseen ja kehitykseen myönnettävien avustusten ja lainojen yleisistä ehdoista annetun valtioneuvoston päätöksen muuttamisesta](750.md) `750/2003`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon vuoden 2003 voimavaroista annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](751.md) `751/2003`
+- [Sosiaali\- ja terveysministeriön asetus merimieseläkekassan perusteista merimieseläkelain 3 a §:n 2 ja 3 momentin mukaista vastuunjakoa varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](752.md) `752/2003`
+- [Maa\- ja metsätalousministeriön asetus silakan ja kilohailin troolikalastuksen rajoittamisesta vuonna 2003 annetun maa\- ja metsätalousministeriön asetuksen 4 §:n muuttamisesta](753.md) `753/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta rehun lisäaineista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](754.md) `754/2003`
+- [Verohallituksen päätös vuoden 2003 kiinteistöverotuksen päättymisestä](755.md) `755/2003`
+- [Tasavallan presidentin asetus valtionhallinnon tietohallinnosta annetun asetuksen kumoamisesta](756.md) `756/2003`
+- [Valtioneuvoston asetus Yhdistyneiden Kansakuntien turvallisuusneuvoston Irakia koskevaan päätökseen perustuvien velvoitusten täyttämisestä](757.md) `757/2003`
+- [Valtioneuvoston asetus terveydenhuollon ammattihenkilöistä annetun asetuksen 3 §:n muuttamisesta](758.md) `758/2003`
+- [Valtioneuvoston asetus sosiaali\- ja terveysministeriöstä](759.md) `759/2003`
+- [Liikenne\- ja viestintäministeriön asetus muualla kuin Euroopan talousalueeseen kuuluvassa valtiossa rekisteröidylle tai käyttöön otetulle ajoneuvolle myönnettävistä poikkeusluvista annetun liikenne\- ja viestintäministeriön asetuksen 3 ja 4 §:n muuttamisesta](760.md) `760/2003`
+- [Laki henkilötietojen käsittelystä poliisitoimessa](761.md) `761/2003`
+- [Laki hätäkeskuslain muuttamisesta](762.md) `762/2003`
+- [Laki ulkomaalaisrekisteristä annetun lain muuttamisesta](763.md) `763/2003`
+- [Laki ampuma\-aselain 113 §:n 3 momentin kumoamisesta](764.md) `764/2003`
+- [Laki yksityisistä turvallisuuspalveluista annetun lain muuttamisesta](765.md) `765/2003`
+- [Laki turvallisuusselvityksistä annetun lain 8 §:n muuttamisesta](766.md) `766/2003`
+- [Valtioneuvoston asetus moottoribensiinin ja dieselöljyn laatuvaatimuksista annetun valtioneuvoston asetuksen muuttamisesta](767.md) `767/2003`
+- [Valtioneuvoston asetus raskaan polttoöljyn ja kevyen polttoöljyn rikkipitoisuudesta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](768.md) `768/2003`
+- [Sisäasiainministeriön työjärjestys](769.md) `769/2003`
+- [Sosiaali\- ja terveysministeriön asetus terveydenhuollon laitteista ja tarvikkeista annetun sosiaali\- ja terveysministeriön päätöksen liitteen 9 muuttamisesta](770.md) `770/2003`
+- [Sosiaali\- ja terveysministeriön asetus sähköisen lääkemääräyksen kokeilusta](771.md) `771/2003`
+- [Liikenne\- ja viestintäministeriön asetus Viestintäviraston maksuista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](772.md) `772/2003`
+- [Verohallituksen päätös muistiinpanovelvollisuudesta ja muistiinpanoista annetun Verohallituksen päätöksen muuttamisesta](773.md) `773/2003`
+- [Laki tullilain muuttamisesta](774.md) `774/2003`
+- [Tasavallan presidentin asetus Tunisian kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](775.md) `775/2003`
+- [Tasavallan presidentin asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan IV liitteen voimaansaattamisesta](776.md) `776/2003`
+- [Kauppa\- ja teollisuusministeriön asetus eräiden torjunta\-aineiden enimmäismääristä hedelmissä ja vihanneksissa sekä viljoissa, munissa ja munavalmisteissa](777.md) `777/2003`
+- [Sisäasiainministeriön asetus poliisin suoritteiden maksullisuudesta annetun asetuksen liitteen muuttamisesta](778.md) `778/2003`
+- [Valtioneuvoston asetus ulosottomaksuista annetun asetuksen muuttamisesta](779.md) `779/2003`
+- [Valtioneuvoston asetus vaikeista ja pitkäaikaisista sairauksista ja niiden hoitoon käytettävistä lääkkeistä, joista sairausvakuutuslain mukaan korvataan 100 tai 75 prosenttia säädetyn kiinteän omavastuun ylittävältä osalta, annetun valtioneuvoston päätöksen 1 ja 2 §:n muuttamisesta](780.md) `780/2003`
+- [Valtiovarainministeriön asetus Mannerheim ja Pietari 2003 \-juhlarahasta](781.md) `781/2003`
+- [Valtioneuvoston asetus eräiden kalastusalusten turvallisuudesta annetun asetuksen 2 §:n muuttamisesta](782.md) `782/2003`
+- [Valtioneuvoston asetus alailmakehän otsonista](783.md) `783/2003`
+- [Valtioneuvoston asetus ilmanlaadusta annetun valtioneuvoston asetuksen muuttamisesta](784.md) `784/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2003 kasvihuonetuen lopullisen tuen maksatuksesta](785.md) `785/2003`
+- [Valtioneuvoston asetus hedelmän\- ja vihannestuottajaorganisaatioiden toimintaohjelmasta ja \-rahastosta sekä taloudellisesta tuesta](786.md) `786/2003`
+- [Valtioneuvoston asetus pelastustoimesta](787.md) `787/2003`
+- [Maa\- ja metsätalousministeriön asetus kalastus\- ja vesiviljelytuotteiden sallituista kauppanimistä annetun maa\- ja metsätalousministeriön asetuksen liitteen muuttamisesta](788.md) `788/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vieraista aineista eläimistä saatavissa elintarvikkeissa annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](789.md) `789/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta ohjelmakauden 1995―1999 luonnonhaittakorvauksen sekä ohjelmakauden 2000―2006 maatalouden ympäristötuen ja luonnonhaittakorvauksen maksatuksesta vuonna 2003](790.md) `790/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta maatalouden ympäristötuen erityistukien maksatuksesta vuonna 2003](791.md) `791/2003`
+- [Sosiaali\- ja terveysministeriön asetus lääkkeen määräämisestä annetun asetuksen 16 §:n muuttamisesta](792.md) `792/2003`
+- [Ympäristöministeriön asetus asumisoikeushakemuksen kaavasta](793.md) `793/2003`
+- [Ympäristöministeriön asetus asumisoikeussopimuksen kaavasta](794.md) `794/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta TSE\-riskiaineksen erottamisesta teurastamossa, teurastuspaikassa ja leikkaamossa annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](795.md) `795/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta eläinperäisen aineksen keruusta jätevedestä siirtymäkaudella](796.md) `796/2003`
+- [Tasavallan presidentin asetus Kirgistanin kanssa Suomen apua ympäristön tilan seurannasta ja ympäristöhallinnon kehittämisestä Kirgistanin Tasavallassa tehdyn sopimuksen voimaansaattamisesta](797.md) `797/2003`
+- [Maa\- ja metsätalousministeriön asetus maaseudun kehittämistoimenpiteitä tuettaessa noudatettavasta menettelystä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](798.md) `798/2003`
+- [Maa\- ja metsätalousministeriön asetus hedelmän\- ja vihannestuottajaorganisaatioiden toimintaohjelmien hyväksymisestä ja rahastotuen hakemisesta](799.md) `799/2003`
+- [Laki ampuma\-aselain 113 §:n muuttamisesta](800.md) `800/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden maatilatalouden kehittämisrahaston varoista myönnettyjen valtionlainojen korosta](801.md) `801/2003`
+- [Verohallituksen päätös muiden verovelvollisten kuin yhteisöjen ja yhteisetuuksien verovuoden 2002 verotuksen päättymisestä](802.md) `802/2003`
+- [Verohallituksen päätös metsätalouden tulojen verotuksessa noudatettavista kantohinta\-alueista annetun Verohallituksen päätöksen 1 §:n muuttamisesta](803.md) `803/2003`
+- [Laki ampuma\-aselain muuttamisesta](804.md) `804/2003`
+- [Laki rikoslain 44 luvun 11 §:n muuttamisesta](805.md) `805/2003`
+- [Laki poliisilain 23 §:n muuttamisesta](806.md) `806/2003`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon vuoden 2004 voimavaroista](807.md) `807/2003`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun valtioneuvoston asetuksen muuttamisesta](808.md) `808/2003`
+- [Valtioneuvoston asetus rikesakkorikkomuksista annetun asetuksen muuttamisesta](809.md) `809/2003`
+- [Valtioneuvoston asetus valtioneuvoston tietohallinnon johtoryhmästä](810.md) `810/2003`
+- [Valtioneuvoston asetus eläinlääkäreiden toimituspalkkioista annetun valtioneuvoston asetuksen muuttamisesta](811.md) `811/2003`
+- [Valtioneuvoston asetus metsästysasetuksen 24 §:n muuttamisesta](812.md) `812/2003`
+- [Valtioneuvoston asetus aluksen miehityksestä, laivaväen pätevyydestä ja vahdinpidosta annetun asetuksen 24 ja 31 §:n muuttamisesta](813.md) `813/2003`
+- [Valtioneuvoston asetus ajokorttiasetuksen 19 ja 26 §:n muuttamisesta](814.md) `814/2003`
+- [Liikenne\- ja viestintäministeriön asetus ajokorttiasetuksen soveltamisesta annetun liikenneministeriön päätöksen muuttamisesta](815.md) `815/2003`
+- [Työministeriön asetus työnantajan velvollisuudesta maksaa korvausta työntekijälle merionnettomuudessa menetetystä henkilökohtaisesta omaisuudesta annetun työministeriön asetuksen 2 §:n muuttamisesta](816.md) `816/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2001 kuitupellavan ja \-hampun jalostustuen maksatuksesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](817.md) `817/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta erityistukisopimusten tekemisestä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](818.md) `818/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2003 EU:n siementuotannon tuen ja vuoden 2003 kansallisen viljakasvien kiloperusteisen siementuotannon tuen maksatuksesta](819.md) `819/2003`
+- [Verohallituksen päätös Konserniverokeskuksessa verotettavista verovelvollisista](820.md) `820/2003`
+- [Valtioneuvoston asetus ajoneuvojen käytöstä tiellä annetun asetuksen 32 a §:n muuttamisesta](821.md) `821/2003`
+- [Valtioneuvoston asetus sotilasilmailuasetuksen 3 §:n muuttamisesta](822.md) `822/2003`
+- [Valtioneuvoston asetus kuntoutusasiain neuvottelukunnasta](823.md) `823/2003`
+- [Valtioneuvoston asetus arava\-asetuksen muuttamisesta](824.md) `824/2003`
+- [Valtioneuvoston asetus ympäristönsuojeluasetuksen muuttamisesta](825.md) `825/2003`
+- [Sosiaali\- ja terveysministeriön asetus työeläkekassan muuttamisesta keskinäiseksi työeläkevakuutusyhtiöksi annetussa laissa tarkoitetun työeläkevakuutusyhtiön vastuuvelkaa katettaessa vastuuvelkaan rinnastettavista eristä ja lakisääteisen eläkevakuutuksen erityisluonteen johdosta katteeksi hyväksyttävistä muista eristä](826.md) `826/2003`
+- [Sosiaali\- ja terveysministeriön asetus esiintyvien taiteilijoiden ja eräiden erityisryhmien eläkekassan vastuuvelkaa katettaessa vastuuvelkaan rinnastettavista eristä ja lakisääteisen eläkevakuutuksen erityisluonteen johdosta katteeksi hyväksyttävistä muista eristä](827.md) `827/2003`
+- [Maa\- ja metsätalousministeriön asetus Suomen turskakiintiön käyttämisestä vuonna 2003](828.md) `828/2003`
+- [Liikenne\- ja viestintäministeriön asetus autojen ja perävaunujen rakenteesta ja varusteista annetun asetuksen 1 liitteen muuttamisesta](829.md) `829/2003`
+- [Kauppa\- ja teollisuusministeriön asetus konsernitilinpäätöksen laatimisesta kansainvälisillä pääomamarkkinoilla yleisesti käytetyn säännöstön mukaisesti annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](830.md) `830/2003`
+- [Ulkoasiainministeriön ilmoitus ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](831.md) `831/2003`
+- [Laki rikoslain 34 a luvun 1 ja 4 §:n muuttamisesta](832.md) `832/2003`
+- [Laki rikoslain muuttamisesta annetun lain 34 luvun muuttamisesta](833.md) `833/2003`
+- [Tasavallan presidentin asetus rikoslain muuttamisesta annetun lain voimaantulosta](834.md) `834/2003`
+- [Tasavallan presidentin asetus Bosnia\-Hertsegovinan kanssa yhteistyöstä opetushallinnon kehittämishankkeessa tehdyn sopimuksen voimaansaattamisesta](835.md) `835/2003`
+- [Tasavallan presidentin asetus Itä\-Niilin teknisen aluetoimiston kanssa tehdyn rahoitussopimuksen voimaansaattamisesta](836.md) `836/2003`
+- [Valtioneuvoston asetus valtion rahoituksen perusteena käytettävistä opetus\- ja kirjastotoimen keskimääräisistä yksikköhinnoista vuonna 2004](837.md) `837/2003`
+- [Valtioneuvoston asetus viestintämarkkinoihin liittyvästä varautumisvelvollisuudesta ja viranomaistiedotteiden välittämisvelvollisuudesta](838.md) `838/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta poronhoitovuodelta 2003/2004 maksettavan eläinkohtaisen tuen maksatuksesta](839.md) `839/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2003 EU:n siementuotannon tuen ja vuoden 2003 kansallisen viljakasvien kiloperusteisen siementuotannon tuen maksatuksesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](840.md) `840/2003`
+- [Laki rikoslain muuttamisesta](841.md) `841/2003`
+- [Valtiovarainministeriön asetus verovuoden 2002 ennakonpalautusten maksamisesta](842.md) `842/2003`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](843.md) `843/2003`
+- [Sisäasiainministeriön asetus pelastusautoista](844.md) `844/2003`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta tietyistä Euroopan yhteisön ja Irakin talous\- ja rahoitussuhteita koskevista erityisrajoituksista ja asetuksen \(EY\) N:o 2465/1996 kumoamisesta](845.md) `845/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta maatalouden ympäristötuen erityistukien vuoden 2003 sopimusten maksatuksesta vuonna 2003](846.md) `846/2003`
+- [Tasavallan presidentin asetus Suomen ja Qatarin välillä taloudellisesta, kaupallisesta ja teknisestä yhteistyöstä tehdyn sopimuksen voimaansaattamisesta](847.md) `847/2003`
+- [Sisäasiainministeriön asetus järjestyksenvalvojan tunnuksista](848.md) `848/2003`
+- [Tasavallan presidentin asetus Pohjoismaiden välillä tehdyn eräiden kansalaisuutta koskevien määräysten voimaansaattamista koskevan sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](849.md) `849/2003`
+- [Tasavallan presidentin asetus Kirgistanin kanssa Suomen avusta keuhkosairausohjelmalle Kirgistanin Tasavallassa tehdyn sopimuksen voimaansaattamisesta](850.md) `850/2003`
+- [Valtioneuvoston asetus ampuma\-aseasetuksen muuttamisesta](851.md) `851/2003`
+- [Valtioneuvoston asetus merkittävistä ja kalliista sairausvakuutuslain 9 §:n 4 momentin mukaan korvattavista lääkkeistä ja sairauksista, joiden hoitoon ne korvataan](852.md) `852/2003`
+- [Maa\- ja metsätalousministeriön asetus alkuvuoden 2001 tulvavahinkokorvausten maksamisesta annetun maa\- ja metsätalousminis\-teriön asetuksen muuttamisesta](853.md) `853/2003`
+- [Maa\- ja metsätalousministeriön asetus silakan ja kilohailin troolikalastuksen rajoittamisesta vuonna 2003 annetun maa\- ja metsätalousministeriön asetuksen 3 §:n muuttamisesta](854.md) `854/2003`
+- [Kauppa\- ja teollisuusministeriön asetus elintarvikkeiden ravintoarvomerkinnöistä annetun kauppa\- ja teollisuusministeriön päätöksen 2 §:n muuttamisesta](855.md) `855/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2003 mehiläistalouden kansallisen pesäkohtaisen tuen maksatuksesta](856.md) `856/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta mallasohran laatuvaatimuksista kasvinviljelyn kansallisena tukena maksettavassa mallasohran tuessa satovuonna 2003/2004](857.md) `857/2003`
+- [Laki valtion liikelaitoksista annetun lain 20 §:n muuttamisesta](858.md) `858/2003`
+- [Valtioneuvoston asetus rikoslain 1 luvun 7 §:n soveltamisesta annetun asetuksen 1 §:n muuttamisesta](859.md) `859/2003`
+- [Valtioneuvoston asetus ammattikorkeakouluista annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](860.md) `860/2003`
+- [Valtioneuvoston asetus maa\- ja puutarhatalouden markkinoinnin ja tuotannon kehittämiseen tarkoitetusta avustuksesta](861.md) `861/2003`
+- [Opetusministeriön päätös Finlands svenska pingstsamfund \(FSP\) \-nimisen uskonnollisen yhdyskunnan merkitsemisestä uskonnollisten yhdyskuntien rekisteriin](862.md) `862/2003`
+- [Valtioneuvoston asetus alusten katsastuksista annetun asetuksen muuttamisesta](863.md) `863/2003`
+- [Valtioneuvoston asetus ulkomaisten alusten tarkastuksesta Suomessa annetun asetuksen 18 §:n muuttamisesta](864.md) `864/2003`
+- [Valtioneuvoston asetus laivavarusteista annetun asetuksen 2 §:n muuttamisesta](865.md) `865/2003`
+- [Valtioneuvoston asetus maakotkien porotaloudelle aiheuttamien vahinkojen korvaamisesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](866.md) `866/2003`
+- [Laki päätöksen 76/787/EHTY, ETY, Euratom liitteenä olevan, edustajien valitsemisesta Euroopan parlamenttiin yleisillä välittömillä vaaleilla annetun säädöksen muuttamisesta tehdyn neuvoston päätöksen 2002/772/EY, Euratom voimaan saattamisesta](867.md) `867/2003`
+- [Laki vaalilain muuttamisesta](868.md) `868/2003`
+- [Laki maatilatalouden tuloverolain 13 §:n muuttamisesta](869.md) `869/2003`
+- [Laki työsopimuslain 4 luvun 4 §:n muuttamisesta](870.md) `870/2003`
+- [Laki merimieslain 32 b §:n muuttamisesta](871.md) `871/2003`
+- [Tasavallan presidentin asetus Viron kanssa Paiden bioenergiaa koskevasta yhteistoteutushankkeesta tehdyn hankesopimuksen voimaansaattamisesta](872.md) `872/2003`
+- [Tasavallan presidentin asetus Unkarin kanssa yhteistyöstä rikosten, erityisesti järjestäytyneen rikollisuuden ehkäisemisestä ja torjunnasta tehdyn sopimuksen voimaansaattamisesta](873.md) `873/2003`
+- [Tasavallan presidentin asetus Ruotsin kanssa Euroopan unionin vesipuitedirektiiviin sisältyvien vaatimusten täyttämiseksi noottienvaihdolla tehdyn väliaikaisen sopimuksen voimaansaattamisesta](874.md) `874/2003`
+- [Eduskunnan päätös valtiontilintarkastajien johtosäännön 17 §:n muuttamisesta](875.md) `875/2003`
+- [Valtioneuvoston asetus käräjäoikeusasetuksen muuttamisesta](876.md) `876/2003`
+- [Valtioneuvoston asetus tietokantojen erityissuojan soveltamisesta Mansaaresta peräisin oleviin suojan kohteisiin](877.md) `877/2003`
+- [Valtioneuvoston päätös valtioista, joiden rahanpesun estämis\- ja selvittämisjärjestelmät eivät täytä kansainvälisiä vaatimuksia](878.md) `878/2003`
+- [Maa\- ja metsätalousministeriön asetus hirvieläinten ja petoeläinten aiheuttamien maatalous\- ja viljelysvahinkojen korvaamisessa vuonna 2003 käytettävistä eräistä yksikköhinnoista ja normisadoista](879.md) `879/2003`
+- [Tasavallan presidentin asetus valtiosta toiseen tapahtuvaa ilman epäpuhtauksien kaukokulkeutumista koskevaan vuoden 1979 yleissopimukseen liittyvän pysyviä orgaanisia yhdisteitä koskevan pöytäkirjan voimaansaattamisesta](880.md) `880/2003`
+- [Valtioneuvoston asetus ammatillisesta koulutuksesta annetun asetuksen 1 §:n muuttamisesta](881.md) `881/2003`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Evijärven kuntaan perustettavasta rajoitusalueesta](882.md) `882/2003`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Töysän kuntaan perustettavasta rajoitusalueesta](883.md) `883/2003`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Someron kaupunkiin ja Tammelan kuntaan perustettavasta rajoitusalueesta](884.md) `884/2003`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Teuvan kuntaan perustettavasta rajoitusalueesta](885.md) `885/2003`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Nakkilan kuntaan perustettavasta rajoitusalueesta](886.md) `886/2003`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Punkalaitumen kuntaan perustettavasta rajoitusalueesta](887.md) `887/2003`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Kiikoisten kuntaan perustettavasta rajoitusalueesta](888.md) `888/2003`
+- [Maa\- ja metsätalousministeriön asetus mehiläisten esikotelomädän vuoksi Euran kuntaan perustettavasta rajoitusalueesta](889.md) `889/2003`
+- [Sisäasiainministeriön asetus rahanpesun estämisestä ja selvittämisestä](890.md) `890/2003`
+- [Sisäasiainministeriön asetus poliisin suoritteiden maksullisuudesta annetun asetuksen liitteen muuttamisesta](891.md) `891/2003`
+- [Valtioneuvoston asetus vaalilain muuttamisesta annetun lain voimaantulosta](892.md) `892/2003`
+- [Valtioneuvoston kanslian työjärjestys](893.md) `893/2003`
+- [Sisäasiainministeriön asetus rekisterihallinnon suoritteiden maksuista annetun asetuksen muuttamisesta](894.md) `894/2003`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain 9 §:ssä tarkoitetuista indeksiluvuista](895.md) `895/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2003 peltokasvien tuen \(CAP\-tuen\) maksatuksesta](896.md) `896/2003`
+- [Maa\- ja metsätalousministeriön asetus luonnonmukaisesti tuotettujen maataloustuotteiden, elintarvikkeiden ja alkoholijuomien valvonnan järjestämisestä annetun asetuksen 3 ja 13 §:n muuttamisesta](897.md) `897/2003`
+- [Ympäristöministeriön työjärjestys](898.md) `898/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2003 metsämarjojen ja \-sienten varastointituen maksatuksesta](899.md) `899/2003`
+- [Ulkoasiainministeriön asetus ulkoasiainministeriön työjärjestyksen 96 §:n muuttamisesta](900.md) `900/2003`
+- [Verohallituksen päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](901.md) `901/2003`
+- [Verohallituksen päätös yrityksen verottamisesta Konserniverokeskuksessa](902.md) `902/2003`
+- [Valtioneuvoston asetus maidon kuljetusavustuksista vuonna 2003](903.md) `903/2003`
+- [Valtioneuvoston asetus vaikeista ja pitkäaikaisista sairauksista ja niiden hoitoon käytettävistä lääkkeistä, joista sairausvakuutuslain mukaan korvataan 100 tai 75 prosenttia säädetyn kiinteän omavastuun ylittävältä osalta, annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](904.md) `904/2003`
+- [Sisäasiainministeriön asetus pelastusviranomaisen virkapuvusta, virka\-asematunnuksista ja henkilökortista](905.md) `905/2003`
+- [Maa\- ja metsätalousministeriön asetus Suomen lipun alla purjehtivien tai Suomessa rekisteröityjen yli 20 metrin pituisten alusten harjoittaman turskan kalastuksen keskeyttämisestä](906.md) `906/2003`
+- [Valtioneuvoston asetus opetus\- ja kulttuuritoimen rahoituksesta annetun asetuksen 12 §:n muuttamisesta](907.md) `907/2003`
+- [Maa\- ja metsätalousministeriön asetus silakan ja kilohailin troolikalastuksen rajoittamisesta vuonna 2003 annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](908.md) `908/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta toimenpiteistä kasvintuhoojien leviämisen estämiseksi ja hävittämiseksi annetun maa\- ja metsätalousministeriön päätöksen 21 §:n väliaikaisesta muuttamisesta](909.md) `909/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinviljelyn kansallisen tuen maksatuksesta mallasohralle markkinointivuodelta 2002/2003](910.md) `910/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2003 emolehmäpalkkion ennakoiden, sonni\- ja härkäpalkkion ennakoiden, teurastuspalkkion ja lisätuen ennakoiden sekä uuhipalkkion, sen lfa\-lisän ja lisätuen maksatuksesta](911.md) `911/2003`
+- [Verohallituksen päätös matkakuluvähennyksen määrästä vuodelta 2003 toimitettavassa verotuksessa](912.md) `912/2003`
+- [Laki talousneuvostosta annetun lain 5 §:n muuttamisesta](913.md) `913/2003`
+- [Laki kehitysalueelle tehtävien investointien korotetuista poistoista annetun lain muuttamisesta](914.md) `914/2003`
+- [Laki Kansaneläkelaitoksen rahoituksen väliaikaisesta muuttamisesta vuonna 2004](915.md) `915/2003`
+- [Laki ulkomailta tulevan palkansaajan lähdeverosta annetun lain 12 §:n muuttamisesta](916.md) `916/2003`
+- [Valtioneuvoston asetus metsäveroasetuksen muuttamisesta](917.md) `917/2003`
+- [Valtioneuvoston asetus humanistisista ja luonnontieteellisistä tutkinnoista annetun asetuksen liitteen muuttamisesta](918.md) `918/2003`
+- [Valtioneuvoston asetus ilmailulta rajoitetuista alueista](919.md) `919/2003`
+- [Sosiaali\- ja terveysministeriön asetus vuoden 2004 työttömyysvakuutusmaksuista](920.md) `920/2003`
+- [Laki kunnallisen eläkelain muuttamisesta](921.md) `921/2003`
+- [Laki apteekkimaksusta annetun lain 2 §:n muuttamisesta](922.md) `922/2003`
+- [Laki terveydenhuollon ammattihenkilöistä annetun lain 25 §:n muuttamisesta](923.md) `923/2003`
+- [Laki maatalousyrittäjien tapaturmavakuutuslain muuttamisesta](924.md) `924/2003`
+- [Laki julkisesta työvoimapalvelusta annetun lain 10 luvun 3 §:n muuttamisesta](925.md) `925/2003`
+- [Laki työttömyysturvalain 7 luvun 8 §:n muuttamisesta](926.md) `926/2003`
+- [Tasavallan presidentin asetus Puolan kanssa yhteistyöstä järjestäytyneen rikollisuuden ja muiden rikosten ehkäisemisestä ja torjunnasta tehdyn sopimuksen voimaansaattamisesta](927.md) `927/2003`
+- [Tasavallan presidentin asetus vuoden 1972 yleissopimukseen kansainvälisistä säännöistä yhteentörmäämisen ehkäisemiseksi merellä liittyvien sääntöjen muutosten voimaansaattamisesta](928.md) `928/2003`
+- [Valtioneuvoston asetus rintamaveteraanien kuntoutuksesta annetun asetuksen 3 §:n muuttamisesta](929.md) `929/2003`
+- [Valtioneuvoston päätös turvallisuusluokituksen käyttöön otosta](930.md) `930/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta vuoden 2003 kansallisten kotieläintukien maksatuksesta](931.md) `931/2003`
+- [Vuoden 2003 toinen lisätalousarvio](932.md) `932/2003`
+- [Laki aluksista aiheutuvan vesien pilaantumisen ehkäisemisestä annetun lain muuttamisesta](933.md) `933/2003`
+- [Laki ympäristönsuojelulain muuttamisesta](934.md) `934/2003`
+- [Laki tartuntatautilain muuttamisesta](935.md) `935/2003`
+- [Valtioneuvoston asetus valtion talousarviosta annetun asetuksen 5 a §:n muuttamisesta](936.md) `936/2003`
+- [Laki Varustamoliikelaitoksesta](937.md) `937/2003`
+- [Laki Luotsausliikelaitoksesta](938.md) `938/2003`
+- [Laki Merenkulkulaitoksesta](939.md) `939/2003`
+- [Luotsauslaki](940.md) `940/2003`
+- [Laki tapaturma\- ja liikennevakuutuslaitoksilta vuodelta 2004 perittävästä maksusta](941.md) `941/2003`
+- [Valtioneuvoston asetus vuodelta 2003 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 7 §:n muuttamisesta](942.md) `942/2003`
+- [Valtioneuvoston asetus vuodelta 2003 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 13 §:n muuttamisesta](943.md) `943/2003`
+- [Laki julkisesta työvoimapalvelusta annetun lain muuttamisesta](944.md) `944/2003`
+- [Laki työttömyysturvalain 14 luvun 3 §:n muuttamisesta](945.md) `945/2003`
+- [Laki työttömyyskassalain muuttamisesta](946.md) `946/2003`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain muuttamisesta](947.md) `947/2003`
+- [Laki Slovenian kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](948.md) `948/2003`
+- [Laki Kirgistanin kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](949.md) `949/2003`
+- [Laki Kansainvälisen työjärjestön työturvallisuutta ja työterveyttä koskevaan yleissopimukseen liittyvän pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](950.md) `950/2003`
+- [Tasavallan presidentin asetus Suomen Tasavallan hallituksen ja Laosin Demokraattisen Kansantasavallan hallituksen välillä kestävästä metsätalous\- ja maaseutukehityshankkeesta tehdyn yhteistyösopimuksen voimaansaattamisesta](951.md) `951/2003`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyvään vuoden 1988 pöytäkirjaan tehtyjen muutosten voimaansaattamisesta](952.md) `952/2003`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyviin kiinteää irtolastia kuljettavien alusten ja öljysäiliöalusten tehostettua tarkastusohjelmaa koskeviin suuntaviivoihin tehtyjen muutosten voimaansaattamisesta](953.md) `953/2003`
+- [Tasavallan presidentin asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen tehtyjen muutosten voimaansaattamisesta](954.md) `954/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta markkinointivuoden 2003/2004 kuivattujen rehujen jalostusyritykselle suoritettavan jalostustuen ennakoiden maksatuksesta](955.md) `955/2003`
+- [Laki Azerbaidzhanin tasavallan kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](956.md) `956/2003`
+- [Laki Kirgisian tasavallan kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](957.md) `957/2003`
+- [Laki valtion vuonna 1999 kansaneläkelaitokselle suorittaman takuusuorituksen vähentämisestä annetun lain 1 ja 2 §:n muuttamisesta](958.md) `958/2003`
+- [Valtioneuvoston asetus kaupanvahvistaja\-asetuksen 12 §:n muuttamisesta](959.md) `959/2003`
+- [Valtioneuvoston asetus valtion virkaehtosopimusasetuksen 9 ja 10 §:n muuttamisesta](960.md) `960/2003`
+- [Valtioneuvoston päätös hätäkeskusalueista annetun valtioneuvoston päätöksen muuttamisesta](961.md) `961/2003`
+- [Valtioneuvoston päätös pelastustoimen alueista annetun valtioneuvoston päätöksen muuttamisesta](962.md) `962/2003`
+- [Valtiovarainministeriön asetus Tilastokeskuksen suoritteiden maksullisuudesta](963.md) `963/2003`
+- [Verohallituksen päätös vuonna 2004 sovellettavien ennakonpidätysperusteiden voimaantulosta](964.md) `964/2003`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun valtioneuvoston asetuksen muuttamisesta](965.md) `965/2003`
+- [Oikeusministeriön asetus velallisen maksukyvyn arvioinnin perusteista yksityishenkilön velkajärjestelyssä annetun asetuksen muuttamiseksi](966.md) `966/2003`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain 12 b §:ssä tarkoitetun työntekijäin eläkemaksun vahvistamisesta](967.md) `967/2003`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain 7 a §:n 3 momentissa tarkoitetun kertoimen vahvistamisesta](968.md) `968/2003`
+- [Sosiaali\- ja terveysministeriön asetus maatalousyrittäjien eläkelain 10 §:ssä tarkoitetun perusprosentin ja yrittäjien eläkelain 9 §:ssä tarkoitetun maksuprosentin vahvistamisesta](969.md) `969/2003`
+- [Laki työttömyysturvalain muuttamisesta](970.md) `970/2003`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain 4 §:n muuttamisesta](971.md) `971/2003`
+- [Tasavallan presidentin asetus liikenneturvallisuusalan ansiomitalista annetun asetuksen 5 §:n muuttamisesta](972.md) `972/2003`
+- [Valtioneuvoston asetus Liikenneturvasta](973.md) `973/2003`
+- [Valtioneuvoston asetus Ahvenanmaan maakunnassa oleville kunnille maataloustuen jako\- ja valvontatehtävien hoitamisesta vuodelta 2001 ja 2002 suoritettavista korvauksista](974.md) `974/2003`
+- [Valtioneuvoston asetus kestävän metsätalouden rahoituksesta annetun lain 23 §:n 2 momentin voimaantulosta](975.md) `975/2003`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon vuoden 2004 voimavaroista annetun valtioneuvoston asetuksen muuttamisesta](976.md) `976/2003`
+- [Opetusministeriön asetus museoviraston suoritteiden maksullisuudesta](977.md) `977/2003`
+- [Opetusministeriön asetus Valtion taidemuseon suoritteiden maksullisuudesta](978.md) `978/2003`
+- [Valtioneuvoston asetus Varustamoliikelaitoksesta](979.md) `979/2003`
+- [Valtioneuvoston asetus Luotsausliikelaitoksesta](980.md) `980/2003`
+- [Valtioneuvoston asetus Merenkulkulaitoksesta](981.md) `981/2003`
+- [Valtioneuvoston asetus luotsauksesta](982.md) `982/2003`
+- [Maa\- ja metsätalousministeriön asetus Euroopan yhteisön kokonaan rahoittamien eläinpalkkioiden hakuajoista vuonna 2004 sekä emolehmä\- ja uuhipalkkiokiintiöiden hakulomakkeista vuonna 2004](983.md) `983/2003`
+- [Laki Suomen ja Viron välillä kasvihuonekaasupäästöjen vähentämisen yhteistoteutuksesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](984.md) `984/2003`
+- [Valtioneuvoston asetus metsätaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](985.md) `985/2003`
+- [Valtioneuvoston asetus porotaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](986.md) `986/2003`
+- [Valtioneuvoston asetus liikenteessä käytettävien ajoneuvojen liikennekelpoisuuden valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](987.md) `987/2003`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain 12 §:n 4 momentin mukaisen eläkelaitosten vastuun prosenttimäärästä vuodelle 2004](988.md) `988/2003`
+- [Maa\- ja metsätalousministeriön asetus juurikäävän torjunnan tuesta](989.md) `989/2003`
+- [Valtioneuvoston asetus asumistuen määräytymisperusteista vuodelle 2004](990.md) `990/2003`
+- [Laki tie\- ja katuverkon tietojärjestelmästä](991.md) `991/2003`
+- [Laki kansanterveyslain muuttamisesta](992.md) `992/2003`
+- [Laki erikoissairaanhoitolain 10 §:n muuttamisesta](993.md) `993/2003`
+- [Valtioneuvoston asetus julkisen hallinnon tietohallinnon neuvottelukunnasta annetun asetuksen muuttamisesta](994.md) `994/2003`
+- [Maa\- ja metsätalousministeriön asetus maanmittauslaitoksen maksuista](995.md) `995/2003`
+- [Maa\- ja metsätalousministeriön asetus eräiden maatalouden investointeja koskevien investointitukien hakuajan päättymisestä](996.md) `996/2003`
+- [Valtioneuvoston asetus tie\- ja katuverkon tietojärjestelmään tallennettavista ominaisuustiedoista](997.md) `997/2003`
+- [Valtioneuvoston asetus poikkeusolojen vakuutustakuutoimikunnasta](998.md) `998/2003`
+- [Liikenne\- ja viestintäministeriön asetus liikenne\- ja viestintäministeriön suoritteiden maksullisuudesta](999.md) `999/2003`
+- [Oikeusministeriön asetus vangitsemisasioiden ja muiden kiireellisten asioiden käsittelystä käräjäoikeuksissa eräissä tapauksissa](1000.md) `1000/2003`
+- [Liikenne\- ja viestintäministeriön asetus Liikenneturvan julkisiin hallintotehtäviin liittyvistä suoritteista perittävistä maksuista](1001.md) `1001/2003`
+- [Verohallituksen päätös vuodelta 2004 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](1002.md) `1002/2003`
+- [Laki verontilityslain 3 ja 12 §:n muuttamisesta](1003.md) `1003/2003`
+- [Laki tuloverolain 124 §:n muuttamisesta](1004.md) `1004/2003`
+- [Vuoden 2004 veroasteikkolaki](1005.md) `1005/2003`
+- [Laki veronkantolain 4 a §:n muuttamisesta](1006.md) `1006/2003`
+- [Laki valmisteverotuslain 36 §:n muuttamisesta](1007.md) `1007/2003`
+- [Laki elinkeinotulon verottamisesta annetun lain 19 §:n väliaikaisesta muuttamisesta](1008.md) `1008/2003`
+- [Laki työttömyysturvalain 9 luvun 3 §:n muuttamisesta](1009.md) `1009/2003`
+- [Sosiaali\- ja terveysministeriön asetus työeläkekassan perusteista lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 9 §:n mukaista eläkelaitosten keskinäistä kustannusten jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1010.md) `1010/2003`
+- [Sosiaali\- ja terveysministeriön asetus esiintyvien taiteilijoiden ja eräiden erityisryhmien eläkekassan perusteista taiteilijoiden ja eräiden erityisryhmiin kuuluvien työntekijäin eläkelain 7 §:n 4 momentin mukaista eläkelaitosten keskinäistä kustannusten jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1011.md) `1011/2003`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](1012.md) `1012/2003`
+- [Sosiaali\- ja terveysministeriön asetus panostajan pätevyyskirjan myöntävästä viranomaisesta ja pätevyyskirjan saamiseksi vaadittavasta koulutuksesta annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1013.md) `1013/2003`
+- [Sosiaali\- ja terveysministeriön asetus syöpäsairauden vaaraa aiheuttavista tekijöistä annetun työministeriön päätöksen liitteen muuttamisesta](1014.md) `1014/2003`
+- [Laki sijoituspalveluyrityksistä annetun lain muuttamisesta](1015.md) `1015/2003`
+- [Laki kalastuslain 88 §:n muuttamisesta](1016.md) `1016/2003`
+- [Laki ajoneuvojen katsastusluvista annetun lain 13 ja 14 §:n muuttamisesta](1017.md) `1017/2003`
+- [Laki ajoneuvojen rekisteröintitoiminnasta annetun lain muuttamisesta](1018.md) `1018/2003`
+- [Valtioneuvoston asetus valtakunnallisesta romaniasiain neuvottelukunnasta ja alueellisista romaniasiain neuvottelukunnista](1019.md) `1019/2003`
+- [Valtioneuvoston päätös tieteellisistä keskuskirjastoista annetun valtioneuvoston päätöksen kumoamisesta](1020.md) `1020/2003`
+- [Liikenne\- ja viestintäministeriön asetus Ajoneuvohallintokeskuksen maksuista](1021.md) `1021/2003`
+- [Valtiovarainministeriön asetus rahataiteen juhlarahasta](1022.md) `1022/2003`
+- [Maa\- ja metsätalousministeriön asetus Suomen lipun alla purjehtivien tai Suomessa rekisteröityjen alusten harjoittaman turskan kalastuksen keskeyttämisestä](1023.md) `1023/2003`
+- [Lääkelaitoksen päätös lääkeluettelosta](1024.md) `1024/2003`
+- [Laki uhkasakkolain 22 §:n muuttamisesta](1025.md) `1025/2003`
+- [Laki saamelaiskäräjistä annetun lain 4 a ja 18 §:n muuttamisesta](1026.md) `1026/2003`
+- [Laki yleisistä syyttäjistä annetun lain 12 §:n muuttamisesta](1027.md) `1027/2003`
+- [Laki onnettomuuksien tutkinnasta annetun lain 7 §:n muuttamisesta](1028.md) `1028/2003`
+- [Laki pysäköintivirhemaksusta annetun lain 22 §:n muuttamisesta](1029.md) `1029/2003`
+- [Laki vesilain 16 luvun 8 §:n muuttamisesta](1030.md) `1030/2003`
+- [Laki yrityskiinnityslain 26 ja 36 §:n muuttamisesta](1031.md) `1031/2003`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain 9 ja 84 §:n muuttamisesta](1032.md) `1032/2003`
+- [Laki rakennerahasto\-ohjelmien kansallisesta hallinnoinnista annetun lain 27 §:n muuttamisesta](1033.md) `1033/2003`
+- [Laki kuntalain 52 ja 71 §:n muuttamisesta](1034.md) `1034/2003`
+- [Valtioneuvoston asetus työsuojelupiireistä](1035.md) `1035/2003`
+- [Valtioneuvoston asetus työministeriöstä](1036.md) `1036/2003`
+- [Laki indeksiehdon käytön rajoittamisesta annetun lain 3 ja 7 §:n muuttamisesta](1037.md) `1037/2003`
+- [Laki asuinhuoneiston vuokrauksesta annetun lain 27 §:n muuttamisesta](1038.md) `1038/2003`
+- [Laki liikehuoneiston vuokrauksesta annetun lain 24 §:n muuttamisesta](1039.md) `1039/2003`
+- [Eduskunnan päätös suostumuksen antamisesta toimenpiteille, joiden seurauksena valtio voi luopua enemmistöomistuksesta Fortum Oyj:n öljyliiketoiminnassa](1040.md) `1040/2003`
+- [Valtioneuvoston asetus ulkoasiainministeriöstä annetun valtioneuvoston asetuksen 2 ja 6 §:n muuttamisesta](1041.md) `1041/2003`
+- [Maa\- ja metsätalousministeriön asetus ojitussuunnitelman laatimisesta perittävistä maksuista](1042.md) `1042/2003`
+- [Ulkoasiainministeriön asetus ulkoasiainministeriön työjärjestyksen muuttamisesta](1043.md) `1043/2003`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](1044.md) `1044/2003`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](1045.md) `1045/2003`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](1046.md) `1046/2003`
+- [Valtioneuvoston asetus yritystoiminnan tukemisesta annetun valtioneuvoston asetuksen 22 ja 24 §:n muuttamisesta](1047.md) `1047/2003`
+- [Valtioneuvoston asetus työturvallisuussäännöksiä valmistelevasta neuvottelukunnasta](1048.md) `1048/2003`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2003 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista](1049.md) `1049/2003`
+- [Valtiovarainministeriön asetus yksittäisten kuntien ja evankelis\-luterilaisten seurakuntien verovuoden 2004 yhteisöveron jako\-osuuksien laskentaperusteista](1050.md) `1050/2003`
+- [Kauppa\- ja teollisuusministeriön asetus Matkailun edistämiskeskuksen maksullisista suoritteista](1051.md) `1051/2003`
+- [Verohallituksen päätös yleisestä tiedonantovelvollisuudesta](1052.md) `1052/2003`
+- [Valtioneuvoston asetus ulkoasiainhallinnosta annetun valtioneuvoston asetuksen muuttamisesta](1053.md) `1053/2003`
+- [Valtioneuvoston asetus pelastustoimesta annetun valtioneuvoston asetuksen 21 §:n muuttamisesta](1054.md) `1054/2003`
+- [Valtioneuvoston asetus kuntien yleisestä kalleusluokituksesta](1055.md) `1055/2003`
+- [Valtioneuvoston asetus julkishallinnon ja \-talouden tilintarkastajista annetun asetuksen 2 §:n muuttamisesta](1056.md) `1056/2003`
+- [Valtioneuvoston asetus eräiden opintotukilaissa \(28/1972\) tarkoitettujen määrien vahvistamisesta](1057.md) `1057/2003`
+- [Valtioneuvoston asetus poronhoitovuodelta 2003/2004 maksettavasta eläinkohtaisesta lisätuesta](1058.md) `1058/2003`
+- [Opetusministeriön asetus näkövammaisten kirjaston suoritteiden maksullisuudesta](1059.md) `1059/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta maatalouden ympäristötuen perus\- ja lisätoimenpiteiden mukaisen lannoituksen hallinnollisesta valvonnasta](1060.md) `1060/2003`
+- [Valtioneuvoston asetus maa\- ja metsätalousministeriöstä](1061.md) `1061/2003`
+- [Valtioneuvoston asetus haja\-asutusalueiden kyläkauppojen tukemisesta](1062.md) `1062/2003`
+- [Valtioneuvoston asetus eläkkeensaajien asumistukilain mukaisista hoitomenoina hyväksyttävistä keskimääräisistä kustannuksista ja asumiskustannusten enimmäismääristä vuodelle 2004](1063.md) `1063/2003`
+- [Sosiaali\- ja terveysministeriön asetus Lääkelaitoksen maksullisista suoritteista](1064.md) `1064/2003`
+- [Laki tuloverolain muuttamisesta](1065.md) `1065/2003`
+- [Laki tuloverolain 77 §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1066.md) `1066/2003`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](1067.md) `1067/2003`
+- [Laki perintö\- ja lahjaverolain 59 §:n muuttamisesta](1068.md) `1068/2003`
+- [Laki kiinteistöverolain muuttamisesta](1069.md) `1069/2003`
+- [Laki ennakkoperintälain muuttamisesta](1070.md) `1070/2003`
+- [Laki varainsiirtoverolain muuttamisesta](1071.md) `1071/2003`
+- [Laki arvonlisäverolain muuttamisesta](1072.md) `1072/2003`
+- [Laki valmisteverotuslain muuttamisesta](1073.md) `1073/2003`
+- [Laki autoverolain muuttamisesta](1074.md) `1074/2003`
+- [Laki veronkantolain muuttamisesta](1075.md) `1075/2003`
+- [Laki rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun lain muuttamisesta](1076.md) `1076/2003`
+- [Sosiaali\- ja terveysministeriön asetus merimieseläkekassan perusteista merimieseläkelain 3 a §:n 2 ja 3 momentin mukaista vastuunjakoa varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1077.md) `1077/2003`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1078.md) `1078/2003`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkekassan työntekijäin eläkelain 12 §:n mukaista vastuunjakoa varten laskettavista suureista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1079.md) `1079/2003`
+- [Laki kuljetusten alueellisesta tukemisesta annetun lain muuttamisesta](1080.md) `1080/2003`
+- [Laki Tieliikelaitoksesta annetun lain muuttamisesta](1081.md) `1081/2003`
+- [Liikenne\- ja viestintäministeriön asetus  Tiehallinnon maksuista](1082.md) `1082/2003`
+- [Opetusministeriön asetus opetushallituksen suoritteiden maksullisuudesta annetun opetusministeriön asetuksen 1 §:n muuttamisesta](1083.md) `1083/2003`
+- [Valtiovarainministeriön asetus rakennusten jälleenhankinta\-arvon perusteista](1084.md) `1084/2003`
+- [Valtiovarainministeriön asetus vesivoimalaitoksen ja sen rakenteiden jälleenhankinta\-arvon perusteista](1085.md) `1085/2003`
+- [Saamen kielilaki](1086.md) `1086/2003`
+- [Laki keskinäisestä virka\-avusta verotuksen alalla Suomen ja muiden Euroopan unionin jäsenvaltioiden toimivaltaisten viranomaisten välillä annetun lain 1 ja 2 §:n muuttamisesta](1087.md) `1087/2003`
+- [Laki työntekijäin eläkemaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta eräissä päivärahoissa](1088.md) `1088/2003`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkemaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta sairausvakuutusjärjestelmän mukaisissa päivärahoissa ja kuntoutusrahalain mukaisissa kuntoutusrahoissa](1089.md) `1089/2003`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkemaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta tapaturmavakuutuslain perusteella maksettavissa päivärahoissa](1090.md) `1090/2003`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkemaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta työttömyysturvalain perusteella maksettavissa päivärahoissa](1091.md) `1091/2003`
+- [Opetusministeriön asetus Valtion elokuvatarkastamon ja elokuvalautakunnan suoritteiden maksullisuudesta](1092.md) `1092/2003`
+- [Valtioneuvoston kanslian asetus valtioneuvoston kanslian suoritteiden maksullisuudesta](1093.md) `1093/2003`
+- [Opetusministeriön asetus Suomenlinnan hoitokunnan suoritteiden maksullisuudesta](1094.md) `1094/2003`
+- [Kauppa\- ja teollisuusministeriön asetus Energiamarkkinaviraston maksullisista suoritteista](1095.md) `1095/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta ruhojen pintanäytteistä, pintojen puhtausnäytteistä ja EHEC\-näytteistä teurastamossa ja leikkaamossa](1096.md) `1096/2003`
+- [Verohallituksen päätös kotieläinten arvon määräämisessä noudatettavista perusteista](1097.md) `1097/2003`
+- [Valtioneuvoston asetus kuulutusrekisteristä](1098.md) `1098/2003`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveydenhuollon tuotevalvontakeskuksen maksullisista suoritteista annetun sosiaali\- ja terveysministeriön asetuksen liitteen 2 muuttamisesta](1099.md) `1099/2003`
+- [Sisäasiainministeriön asetus valtion omistukseen siirtyneiden ampuma\-aseiden ja \-tarvikkeiden käsittelystä](1100.md) `1100/2003`
+- [Kauppa\- ja teollisuusministeriön asetus julkisesti tuettujen alusluottojen yleisistä ehdoista annetun kauppa\- ja teollisuusministeriön päätöksen 2 ja 11 §:n muuttamisesta](1101.md) `1101/2003`
+- [Kauppa\- ja teollisuusministeriön asetus luontaisten kivennäisvesien ainesosien luettelon, enimmäispitoisuuksien ja pakkausmerkintöjen vahvistamisesta sekä luontaisten kivennäisvesien ja lähdevesien otsonilla rikastetulla ilmalla tapahtuvaa käsittelyä koskevista edellytyksistä](1102.md) `1102/2003`
+- [Verohallituksen päätös verovapaista matkakustannusten korvauksista vuonna 2004](1103.md) `1103/2003`
+- [Sisäasiainministeriön asetus ulkomaalaisviraston maksullisista suoritteista](1104.md) `1104/2003`
+- [Sisäasiainministeriön asetus holhoustoimessa tarvittavan edunvalvontapalvelun tuottajalle maksettavasta korvauksesta](1105.md) `1105/2003`
+- [Valtiovarainministeriön asetus verohallinnon suoritteiden maksullisuudesta](1106.md) `1106/2003`
+- [Kauppa\- ja teollisuusministeriön asetus Patentti\- ja rekisterihallituksen maksullisista suoritteista annetun kauppa\- ja teollisuusministeriön asetuksen liitteenä olevan maksutaulukon muuttamisesta](1107.md) `1107/2003`
+- [Sosiaali\- ja terveysministeriön asetus paikkakuntien kalleusluokituksesta sotilasvammalain mukaisen huoltoeläkkeen ja täydennyskoron maksamista varten](1108.md) `1108/2003`
+- [Työministeriön asetus työhallinnon maksullisista suoritteista](1109.md) `1109/2003`
+- [Valtioneuvoston asetus Pelastusopistosta annetun asetuksen eräiden säännösten kumoamisesta](1110.md) `1110/2003`
+- [Valtioneuvoston asetus televisio\- ja radiotoimintaan sekä toimiluvanvaraiseen teletoimintaan määrättyjen taajuusalueiden käyttösuunnitelman muuttamisesta](1111.md) `1111/2003`
+- [Liikenne\- ja viestintäministeriön asetus Viestintäviraston maksuista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](1112.md) `1112/2003`
+- [Ulkoasiainministeriön ilmoitus ulkomaanedustuksen virkamiehille paikallisten erikoisolosuhteiden perusteella maksettavista korvauksista annetun ulkoasiainministeriön päätöksen muuttamisesta](1113.md) `1113/2003`
+- [Valtioneuvoston asetus rangaistusten täytäntöönpanon hallinnosta annetun valtioneuvoston asetuksen muuttamisesta](1114.md) `1114/2003`
+- [Valtioneuvoston asetus rakennusurakkasopimuksissa käytettävistä indeksiehdoista annetun valtioneuvoston asetuksen 1 ja 6 §:n muuttamisesta](1115.md) `1115/2003`
+- [Valtioneuvoston asetus ajoneuvoliikennerekisterin tiedoista](1116.md) `1116/2003`
+- [Valtioneuvoston asetus ajoneuvojen rekisteröinnistä annetun asetuksen muuttamisesta](1117.md) `1117/2003`
+- [Valtioneuvoston asetus liikenteessä käytettävien ajoneuvojen liikennekelpoisuuden valvonnasta annetun valtioneuvoston asetuksen 16 ja 18 §:n muuttamisesta](1118.md) `1118/2003`
+- [Valtioneuvoston asetus ajoneuvojen hyväksynnästä annetun valtioneuvoston asetuksen muuttamisesta](1119.md) `1119/2003`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljettajien ajoluvasta annetun asetuksen 19 §:n kumoamisesta](1120.md) `1120/2003`
+- [Valtioneuvoston asetus ajokorttiasetuksen 48 §:n kumoamisesta](1121.md) `1121/2003`
+- [Laki alueen pelastustoimen valtionavustuksesta](1122.md) `1122/2003`
+- [Laki pelastuslain 91 §:n muuttamisesta](1123.md) `1123/2003`
+- [Laki Pelastusopistosta annetun lain 6 §:n muuttamisesta](1124.md) `1124/2003`
+- [Valtioneuvoston asetus oikeusministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](1125.md) `1125/2003`
+- [Valtioneuvoston asetus oikeusministeriön hallinnonalan eräiltä virkamiehiltä vaadittavasta kielitaidosta](1126.md) `1126/2003`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta kappaletavarana aluksessa annetun asetuksen muuttamisesta](1127.md) `1127/2003`
+- [Sisäasiainministeriön asetus lääninhallituksen suoritteiden maksuista](1128.md) `1128/2003`
+- [Laki sähkön alkuperän varmentamisesta ja ilmoittamisesta](1129.md) `1129/2003`
+- [Laki sähkömarkkinalain 9 ja 14 §:n muuttamisesta](1130.md) `1130/2003`
+- [Laki ydinenergialain muuttamisesta](1131.md) `1131/2003`
+- [Valtioneuvoston asetus korkeakoulututkintojen järjestelmästä annetun asetuksen muuttamisesta](1132.md) `1132/2003`
+- [Valtioneuvoston asetus opetustoimen henkilöstön kelpoisuusvaatimuksista annetun asetuksen muuttamisesta](1133.md) `1133/2003`
+- [Valtioneuvoston asetus kirkon keskusrahastosta annetun lain täytäntöönpanosta annetun asetuksen 13 §:n muuttamisesta](1134.md) `1134/2003`
+- [Sisäasiainministeriön asetus rekisterihallinnon suoritteiden maksuista](1135.md) `1135/2003`
+- [Laki perusopetuslain muuttamisesta](1136.md) `1136/2003`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](1137.md) `1137/2003`
+- [Laki lasten kanssa työskentelevien rikostaustan selvittämisestä annetun lain muuttamisesta](1138.md) `1138/2003`
+- [Laki perusopetuslain 32 §:n muuttamisesta](1139.md) `1139/2003`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 17 §:n muuttamisesta](1140.md) `1140/2003`
+- [Laki metsäkeskuksista ja metsätalouden kehittämiskeskuksesta annetun lain 10 §:n muuttamisesta](1141.md) `1141/2003`
+- [Laki metsänhoitoyhdistyksistä annetun lain 17 §:n muuttamisesta](1142.md) `1142/2003`
+- [Laki puutavaranmittauslain 47 §:n muuttamisesta](1143.md) `1143/2003`
+- [Laki kiinteistön yhteisomistajien osallistumisesta metsätalouden rahoituslainsäädännössä tarkoitettuun toimenpiteeseen annetun lain 4 ja 6 §:n muuttamisesta](1144.md) `1144/2003`
+- [Laki metsäkeskuksista ja metsätalouden kehittämiskeskuksesta annetun lain 8 §:n muuttamisesta](1145.md) `1145/2003`
+- [Laki metsän hyönteis\- ja sienituhojen torjunnasta annetun lain 11 §:n muuttamisesta](1146.md) `1146/2003`
+- [Valtioneuvoston asetus koulutustoimikunnista ja koulutuksen yhteistyöneuvottelukunnasta annetun valtioneuvoston asetuksen muuttamisesta](1147.md) `1147/2003`
+- [Laki sairausvakuutuslain muuttamisesta](1148.md) `1148/2003`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain 2 §:n muuttamisesta](1149.md) `1149/2003`
+- [Laki vakuutetun sairausvakuutusmaksun, työnantajan sairausvakuutusmaksun ja työnantajan kansaneläkemaksun suuruudesta annetun lain 5 §:n muuttamisesta](1150.md) `1150/2003`
+- [Laki sairausvakuutuslain muuttamisesta](1151.md) `1151/2003`
+- [Laki aikuiskoulutustuesta annetun lain 12 §:n muuttamisesta](1152.md) `1152/2003`
+- [Valtioneuvoston asetus kuntien ryhmityksestä kansaneläkkeen maksamista varten](1153.md) `1153/2003`
+- [Valtioneuvoston asetus kuntien ryhmityksestä perhe\-eläkkeen maksamista varten](1154.md) `1154/2003`
+- [Valtioneuvoston asetus Työttömyysvakuutusrahaston ohjesäännöstä annetun asetuksen muuttamisesta](1155.md) `1155/2003`
+- [Valtioneuvoston asetus työttömyyskassalain täytäntöönpanosta annetun valtioneuvoston asetuksen muuttamisesta](1156.md) `1156/2003`
+- [Valtioneuvoston asetus työttömyysturvalain täytäntöönpanosta annetun valtioneuvoston asetuksen 15 ja 17 §:n muuttamisesta](1157.md) `1157/2003`
+- [Sosiaali\- ja terveysministeriön asetus maatalousyrittäjien tapaturmavakuutuslain 15 a §:ssä tarkoitetun korvausvastuun täydennysmaksun perinnästä](1158.md) `1158/2003`
+- [Laki autoverolain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1159.md) `1159/2003`
+- [Laki painelaitelain 27 §:n muuttamisesta](1160.md) `1160/2003`
+- [Tasavallan presidentin asetus aluksenmittaukseen liittyvistä palkkioista, korvauksista ja maksuista annetun asetuksen 1 §:n muuttamisesta](1161.md) `1161/2003`
+- [Valtioneuvoston asetus ennakkoperintäasetuksen muuttamisesta](1162.md) `1162/2003`
+- [Valtioneuvoston asetus eräistä alusten katsastuksiin ja tarkastuksiin sekä jäämaksuluokan määräämiseen liittyvistä palkkioista ja korvauksista annetun asetuksen muuttamisesta](1163.md) `1163/2003`
+- [Valtioneuvoston asetus alusten paineastioiden tarkastuksiin liittyvistä palkkioista ja korvauksista annetun asetuksen muuttamisesta](1164.md) `1164/2003`
+- [Valtioneuvoston asetus merimieskatselmusmiehille maksettavista palkkioista ja lunastuksista annetun asetuksen 1 ja 2 §:n muuttamisesta](1165.md) `1165/2003`
+- [Valtioneuvoston asetus aluksen lastiviivojen määräämisestä ja merkitsemisestä suoritettavasta maksusta annetun asetuksen 1 ja 2 §:n muuttamisesta](1166.md) `1166/2003`
+- [Valtioneuvoston asetus aluksista aiheutuvan vesien pilaantumisen ehkäisemisestä annetun asetuksen muuttamisesta](1167.md) `1167/2003`
+- [Valtiovarainministeriön asetus eräiden verojen maksupaikoista ja tiedonsiirtokorvauksista annetun valtiovarainministeriön päätöksen muuttamisesta](1168.md) `1168/2003`
+- [Laki työntekijäin eläkelain muuttamisesta ja väliaikaisesta muuttamisesta](1169.md) `1169/2003`
+- [Laki työntekijäin eläkelain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1170.md) `1170/2003`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta ja väliaikaisesta muuttamisesta](1171.md) `1171/2003`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1172.md) `1172/2003`
+- [Laki taiteilijoiden ja eräiden erityisryhmiin kuuluvien työntekijäin eläkelain 8 §:n muuttamisesta](1173.md) `1173/2003`
+- [Laki merimieseläkelain muuttamisesta](1174.md) `1174/2003`
+- [Laki merimieseläkelain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1175.md) `1175/2003`
+- [Laki yrittäjien eläkelain muuttamisesta ja väliaikaisesta muuttamisesta](1176.md) `1176/2003`
+- [Laki yrittäjien eläkelain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1177.md) `1177/2003`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta ja väliaikaisesta muuttamisesta](1178.md) `1178/2003`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1179.md) `1179/2003`
+- [Laki luopumiseläkelain 24 §:n muuttamisesta](1180.md) `1180/2003`
+- [Laki maatalousyrittäjien sukupolvenvaihdoseläkkeestä annetun lain 43 §:n muuttamisesta](1181.md) `1181/2003`
+- [Laki maatalousyrittäjien luopumiskorvauksesta annetun lain 37 §:n muuttamisesta](1182.md) `1182/2003`
+- [Laki maatalousyrittäjien luopumistuesta annetun lain 40 §:n muuttamisesta](1183.md) `1183/2003`
+- [Laki valtion eläkelain muuttamisesta](1184.md) `1184/2003`
+- [Laki valtion eläkelain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1185.md) `1185/2003`
+- [Laki valtion perhe\-eläkelain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1186.md) `1186/2003`
+- [Laki kuukautta lyhyempien valtion palvelussuhteiden eläketurvan järjestämisestä annetun lain 4 §:n muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1187.md) `1187/2003`
+- [Laki kunnallisen eläkelain muuttamisesta](1188.md) `1188/2003`
+- [Laki kunnallisen eläkelain voimaanpanolain 1 §:n muuttamisesta](1189.md) `1189/2003`
+- [Laki evankelis\-luterilaisen kirkon eläkelain muuttamisesta](1190.md) `1190/2003`
+- [Laki evankelis\-luterilaisen kirkon perhe\-eläkelain 1 ja 3 §:n muuttamisesta](1191.md) `1191/2003`
+- [Laki Kansaneläkelaitoksesta annetun lain 7 ja 13 §:n muuttamisesta](1192.md) `1192/2003`
+- [Laki kansaneläkelain 59 a §:n muuttamisesta](1193.md) `1193/2003`
+- [Sosiaali\- ja terveysministeriön asetus terveydenhuollon henkilöstön täydennyskoulutuksesta](1194.md) `1194/2003`
+- [Laki järjestyslain 14 §:n muuttamisesta](1195.md) `1195/2003`
+- [Laki Senaatti\-kiinteistöistä](1196.md) `1196/2003`
+- [Laki eduskunnan virkamiehistä](1197.md) `1197/2003`
+- [Laki valtiontalouden tarkastusvirastosta annetun lain muuttamisesta](1198.md) `1198/2003`
+- [Laki työtuomioistuimesta annetun lain muuttamisesta](1199.md) `1199/2003`
+- [Eduskunnan päätös eduskunnan kanslian ohjesäännön muuttamisesta](1200.md) `1200/2003`
+- [Eduskunnan päätös valtiontilintarkastajien johtosäännön 8 §:n muuttamisesta](1201.md) `1201/2003`
+- [Laki tuomareiden nimittämisestä annetun lain muuttamisesta](1202.md) `1202/2003`
+- [Laki hovioikeuslain 6 §:n muuttamisesta](1203.md) `1203/2003`
+- [Laki käräjäoikeuslain muuttamisesta](1204.md) `1204/2003`
+- [Laki Korkeimmasta hallinto\-oikeudesta annetun lain 2 a §:n muuttamisesta](1205.md) `1205/2003`
+- [Laki hallinto\-oikeuslain muuttamisesta](1206.md) `1206/2003`
+- [Laki vakuutusoikeuslain 4 ja 5 §:n muuttamisesta](1207.md) `1207/2003`
+- [Laki työtuomioistuimesta annetun lain 6 §:n muuttamisesta](1208.md) `1208/2003`
+- [Laki markkinaoikeuslain muuttamisesta](1209.md) `1209/2003`
+- [Laki sotilasoikeudenkäyntilain muuttamisesta](1210.md) `1210/2003`
+- [Laki patentti\- ja rekisterihallituksen valitusasioiden käsittelystä annetun lain 9 §:n muuttamisesta](1211.md) `1211/2003`
+- [Valtioneuvoston asetus saaristokunnista ja muiden kuntien saaristo\-osista, joihin sovelletaan saaristokuntaa koskevia säännöksiä](1212.md) `1212/2003`
+- [Oikeusministeriön asetus vankeinhoitolaitoksen kaksikielisistä vankilaosastoista](1213.md) `1213/2003`
+- [Valtion talousarvio vuodelle 2004](1214.md) `1214/2003`
+- [Laki meripelastuslain muuttamisesta](1215.md) `1215/2003`
+- [Laki valtion talousarviosta annetun lain muuttamisesta](1216.md) `1216/2003`
+- [Laki valtion eläkelain muuttamisesta](1217.md) `1217/2003`
+- [Valtioneuvoston asetus sisäasiainministeriöstä annetun asetuksen muuttamisesta](1218.md) `1218/2003`
+- [Valtioneuvoston päätös valtioista, joiden rahanpesun estämis\- ja selvittämisjärjestelmät eivät täytä kansainvälisiä vaatimuksia](1219.md) `1219/2003`
+- [Sisäasiainministeriön asetus pysäköintivirhemaksun korottamisesta](1220.md) `1220/2003`
+- [Opetusministeriön asetus ammatillisista perustutkinnoista annetun opetusministeriön asetuksen liitteen muuttamisesta](1221.md) `1221/2003`
+- [Opetusministeriön asetus tallentamattomien ääni\- ja kuvanauhojen ja muiden tallennuslaitteiden maahantuonnista ja valmistuksesta suoritettavan tekijänoikeudellisen maksun suuruudesta](1222.md) `1222/2003`
+- [Verohallituksen päätös niistä perusteista, joiden mukaan muun kiinteistön kuin maatilan maapohjan verotusarvo lasketaan vuodelta 2003 toimitettavassa verotuksessa](1223.md) `1223/2003`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain 18 ja 45 a §:n muuttamisesta](1224.md) `1224/2003`
+- [Laki sosiaali\- ja terveydenhuollon saumattoman palveluketjun ja sosiaaliturvakortin kokeilusta annetun lain muuttamisesta](1225.md) `1225/2003`
+- [Laki lapsilisälain 7 §:n muuttamisesta](1226.md) `1226/2003`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta annetun lain 13 §:n muuttamisesta](1227.md) `1227/2003`
+- [Tasavallan presidentin asetus testaustulosten ja vaatimustenmukaisuudesta esitettyjen todisteiden keskinäisestä tunnustamisesta tehdyn yleissopimuksen sekä siihen liittyvän pöytäkirjan voimaansaattamisesta annetun asetuksen kumoamisesta](1228.md) `1228/2003`
+- [Valtioneuvoston asetus tapaturmavakuutusmaksun perusteena olevaan palkkasummaan luettavista työansioista](1229.md) `1229/2003`
+- [Valtioneuvoston asetus huumausaineasetuksen muuttamisesta](1230.md) `1230/2003`
+- [Sosiaali\- ja terveysministeriön asetus huumausaineista ja huumausaineen valmistuksessa käytettävistä aineista annetun sosiaali\- ja terveysministeriön päätöksen 2 §:n muuttamisesta](1231.md) `1231/2003`
+- [Sosiaali\- ja terveysministeriön asetus riskien luokittelusta ja vakuutusmaksun määräytymisestä ammatin tai työn vaarallisuuden mukaan sekä vakuutuksenottajan oman vahinkotilaston huomioon ottamisesta tapaturmavakuutuslain 35 §:n mukaisen vakuutusmaksun määräytymisessä annetun sosiaali\- ja terveysministeriön asetuksen 6 §:n muuttamisesta](1232.md) `1232/2003`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkesäätiön lisävakuutusvastuun kartuttamisesta ja purkamisesta annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1233.md) `1233/2003`
+- [Sosiaali\- ja terveysministeriön asetus työntekijäin eläkelain mukaista toimintaa harjoittavan eläkekassan lisävakuutusvastuun kartuttamisesta ja purkamisesta annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1234.md) `1234/2003`
+- [Laki Euroopan yhteisöjen ja niiden jäsenvaltioiden sekä Kroatian tasavallan välillä tehdyn vakautus\- ja assosiaatiosopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1235.md) `1235/2003`
+- [Laki Euroopan yhteisöjen ja niiden jäsenvaltioiden sekä entisen Jugoslavian tasavallan Makedonian välillä tehdyn vakautus\- ja assosiaatiosopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1236.md) `1236/2003`
+- [Ympäristöministeriön asetus alueellisen ympäristökeskuksen maksullisista suoritteista](1237.md) `1237/2003`
+- [Ympäristöministeriön asetus ympäristölupaviraston maksullisista suoritteista](1238.md) `1238/2003`
+- [Valtioneuvoston asetus otsonikerrosta heikentäviä aineita ja eräitä fluorihiilivetyjä sisältävien laitteiden huollosta sekä huoltotoimintaa ja jätehuoltoa suorittavien pätevyysvaatimuksista annetun valtioneu\-voston asetuksen muuttamisesta](1239.md) `1239/2003`
+- [Ympäristöministeriön asetus Suomen ympäristökeskuksen maksullisista suoritteista](1240.md) `1240/2003`
+- [Ympäristöministeriön asetus ympäristöministeriön maksullisista suoritteista](1241.md) `1241/2003`
+- [Ympäristöministeriön asetus Valtion asuntorahaston maksullisista suoritteista](1242.md) `1242/2003`
+- [Ulkoasiainministeriön asetus ulkoasiainhallinnon suoritteiden maksuista](1243.md) `1243/2003`
+- [Sisäasiainministeriön asetus sisäasiainministeriön työjärjestyksen muuttamisesta](1244.md) `1244/2003`
+- [Ympäristöministeriön asetus rakennustuotteiden hyväksynnästä](1245.md) `1245/2003`
+- [Työministeriön asetus työssäkäyntialueista annetun työministeriön asetuksen muuttamisesta](1246.md) `1246/2003`
+- [Tasavallan presidentin asetus valtiosta toiseen tapahtuvaa ilman epäpuhtauksien kaukokulkeutumista koskevaan vuoden 1979 yleissopimukseen liittyvän raskasmetalleja koskevan pöytäkirjan voimaansaattamisesta](1247.md) `1247/2003`
+- [Opetusministeriön asetus opiskelijaksi ottamisen perusteista ammatilliseen perustutkintoon johtavassa koulutuksessa annetun opetusministeriön asetuksen muuttamisesta](1248.md) `1248/2003`
+- [Opetusministeriön asetus ammatillisesta aikuiskoulutuksesta annetussa laissa \(631/1998\) tarkoitetusta tutkintorakenteesta](1249.md) `1249/2003`
+- [Sisäasiainministeriön asetus eräistä liikkumis\- ja oleskelukielloista](1250.md) `1250/2003`
+- [Sisäasiainministeriön asetus eräistä liikkumis\- ja oleskelukielloista](1251.md) `1251/2003`
+- [Maa\- ja metsätalousministeriön asetus metsätalouden ympäristötuesta annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](1252.md) `1252/2003`
+- [Kauppa\- ja teollisuusministeriön asetus sähköalan töistä annetun kauppa\- ja teollisuusministeriön päätöksen muuttamisesta](1253.md) `1253/2003`
+- [Työministeriön työjärjestys](1254.md) `1254/2003`
+- [Sisäasiainministeriön asetus julkisen notaarin suoritteiden maksuista](1255.md) `1255/2003`
+- [Sisäasiainministeriön asetus rajavartiolaitoksen suoritteiden maksuista annetun asetuksen liitteen muuttamisesta](1256.md) `1256/2003`
+- [Verohallituksen päätös ennakonpidätyksen toimittamistavoista ja määrästä annetun päätöksen muuttamisesta](1257.md) `1257/2003`
+- [Verohallituksen päätös diplomaattisten edustustojen arvonlisäveron palautushakemukseen liitettävistä tiedoista](1258.md) `1258/2003`
+- [Laki Tšekin, Viron, Kyproksen, Latvian, Liettuan, Unkarin, Maltan, Puolan, Slovenian ja Slovakian liittymisestä Euroopan unioniin tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1259.md) `1259/2003`
+- [Laki Tšekin kanssa tehdyn Eurooppa\-sopimuksen ja siihen liittyvän mukautuspöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain kumoamisesta](1260.md) `1260/2003`
+- [Laki Viron kanssa tehdyn Eurooppa\-sopimuksen eräiden määräysten hyväksymisestä annetun lain kumoamisesta](1261.md) `1261/2003`
+- [Laki Latvian kanssa tehdyn Eurooppa\-sopimuksen eräiden määräysten hyväksymisestä annetun lain kumoamisesta](1262.md) `1262/2003`
+- [Laki Liettuan kanssa tehdyn Eurooppa\-sopimuksen eräiden määräysten hyväksymisestä annetun lain kumoamisesta](1263.md) `1263/2003`
+- [Laki Unkarin kanssa tehdyn Eurooppa\-sopimuksen ja siihen liittyvän mukautuspöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain kumoamisesta](1264.md) `1264/2003`
+- [Laki Puolan kanssa tehdyn Eurooppa\-sopimuksen ja siihen liittyvän mukautuspöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain kumoamisesta](1265.md) `1265/2003`
+- [Laki Slovenian kanssa tehdyn Eurooppa\-sopimuksen eräiden määräysten hyväksymisestä annetun lain kumoamisesta](1266.md) `1266/2003`
+- [Laki Slovakian kanssa tehdyn Eurooppa\-sopimuksen ja siihen liittyvän mukautuspöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain kumoamisesta](1267.md) `1267/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](1268.md) `1268/2003`
+- [LUETTELO kuntien ja seurakuntien tuloveroprosenteista vuonna 2004](1269.md) `1269/2003`
+- [Valtiovarainministeriön asetus vuoden 2004 taidekilpailupalkintojen verovapaudesta](1270.md) `1270/2003`
+- [Maa\- ja metsätalousministeriön asetus luonnonmukaisessa tuotannossa käytettävästä lisäysaineistosta](1271.md) `1271/2003`
+- [Maa\- ja metsätalousministeriön asetus Elintarvikeviraston suoritteista perittävistä maksuista](1272.md) `1272/2003`
+- [Liikenne\- ja viestintäministeriön asetus liikenne\- ja viestintäministeriön työjärjestyksen muuttamisesta](1273.md) `1273/2003`
+- [Laki kirkkolain muuttamisesta](1274.md) `1274/2003`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](1275.md) `1275/2003`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](1276.md) `1276/2003`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](1277.md) `1277/2003`
+- [Kirkolliskokouksen päätös kirkon vaalijärjestyksen muuttamisesta](1278.md) `1278/2003`
+- [Laki kirkkolain 1 luvun 3 §:n muuttamisesta](1279.md) `1279/2003`
+- [Laki polttoainemaksusta](1280.md) `1280/2003`
+- [Ajoneuvoverolaki](1281.md) `1281/2003`
+- [Laki rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun lain muuttamisesta](1282.md) `1282/2003`
+- [Laki kansainvälisen kaksinkertaisen verotuksen poistamisesta annetun lain muuttamisesta](1283.md) `1283/2003`
+- [Maa\- ja metsätalousministeriön asetus maatalouden sekä porotalouden ja luontaiselinkeinotalouden investointeja ja nuorten viljelijöiden tilanpidon aloittamista koskevien tukien hakuajan päättymisestä](1284.md) `1284/2003`
+- [Valtiovarainministeriön asetus eräiden verojen lykkäyksen ehdoista](1285.md) `1285/2003`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden Euroopan unionin jäsenvaltioiden välillä](1286.md) `1286/2003`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta annetun lain muuttamisesta](1287.md) `1287/2003`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden pohjoismaiden välillä annetun lain muuttamisesta](1288.md) `1288/2003`
+- [Laki kansainvälisestä yhteistoiminnasta eräiden rikosoikeudellisten seuraamusten täytäntöönpanossa annetun lain muuttamisesta](1289.md) `1289/2003`
+- [Laki oikeudenkäymiskaaren 31 luvun muuttamisesta](1290.md) `1290/2003`
+- [Laki Suomen Akatemiasta annetun lain 7 §:n muuttamisesta](1291.md) `1291/2003`
+- [Valtioneuvoston asetus metsäkeskuksista ja metsätalouden kehittämiskeskuksesta annetun asetuksen 15 §:n muuttamisesta](1292.md) `1292/2003`
+- [Sisäasiainministeriön asetus Pelastusopiston suoritteiden maksullisuudesta ja maksuperusteista](1293.md) `1293/2003`
+- [Sosiaali\- ja terveysministeriön asetus vuoden 2004 liikenneturvallisuusmaksusta](1294.md) `1294/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden maatilalain mukaisten myyntihintasaamisten ja lainojen viitekorosta](1295.md) `1295/2003`
+- [Maa\- ja metsätalousministeriön ilmoitus eräiden porotalouden ja luontaiselinkeinojen rahoituslain mukaisten asuntolainojen viitekorosta](1296.md) `1296/2003`
+- [Laki valmisteverotuslain muuttamisesta](1297.md) `1297/2003`
+- [Laki alkoholi\- ja alkoholijuomaverosta annetun lain muuttamisesta](1298.md) `1298/2003`
+- [Laki tullilain muuttamisesta](1299.md) `1299/2003`
+- [Laki pakkokeinolain muuttamisesta](1300.md) `1300/2003`
+- [Laki arvonlisäverolain muuttamisesta](1301.md) `1301/2003`
+- [Laki vaikeavammaisille yrittäjille myönnettävistä veronhuojennuksista annetun lain 3 §:n muuttamisesta](1302.md) `1302/2003`
+- [Valtioneuvoston asetus arvonlisäveroasetuksen muuttamisesta](1303.md) `1303/2003`
+- [Valtioneuvoston asetus Ahvenanmaan maakuntaa koskevista poikkeuksista arvonlisävero\- ja valmisteverolainsäädäntöön annetun lain täytäntöönpanosta annetun asetuksen 2 §:n muuttamisesta](1304.md) `1304/2003`
+- [Verohallituksen päätös veroilmoituksesta](1305.md) `1305/2003`
+- [Valtioneuvoston asetus Luotsausliikelaitoksen luotsausmaksusta](1306.md) `1306/2003`
+- [Valtioneuvoston asetus ajoneuvojen rekisteröinnistä annetun asetuksen 48 §:n väliaikaisesta muuttamisesta](1307.md) `1307/2003`
+- [Liikenne\- ja viestintäministeriön asetus Merenkulkulaitoksen maksullisista suoritteista](1308.md) `1308/2003`
+- [Laki sosiaali\- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain 4 §:n muuttamisesta](1309.md) `1309/2003`
+- [Laki sosiaalihuoltolain muuttamisesta](1310.md) `1310/2003`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 12 §:n muuttamisesta](1311.md) `1311/2003`
+- [Laki Kansaneläkelaitoksesta annetun lain muuttamisesta](1312.md) `1312/2003`
+- [Laki kansaneläkelain muuttamisesta](1313.md) `1313/2003`
+- [Laki lapsen hoitotuesta annetun lain 8 f ja 9 §:n muuttamisesta](1314.md) `1314/2003`
+- [Laki vammaistukilain 7 d ja 8 §:n muuttamisesta](1315.md) `1315/2003`
+- [Laki eläkkeensaajien asumistukilain 14 §:n muuttamisesta](1316.md) `1316/2003`
+- [Laki perhe\-eläkelain 37 §:n muuttamisesta](1317.md) `1317/2003`
+- [Laki rintamasotilaseläkelain 17 §:n muuttamisesta](1318.md) `1318/2003`
+- [Laki ulkomaille maksettavasta rintamalisästä annetun lain 10 §:n muuttamisesta](1319.md) `1319/2003`
+- [Laki maahanmuuttajan erityistuesta annetun lain 30 §:n muuttamisesta](1320.md) `1320/2003`
+- [Laki asumistukilain 20 ja 22 a §:n muuttamisesta](1321.md) `1321/2003`
+- [Laki opintotukilain muuttamisesta](1322.md) `1322/2003`
+- [Laki lukiokoulutuksen ja ammatillisen koulutuksen opiskelijoiden koulumatkatuesta annetun lain 9 §:n muuttamisesta](1323.md) `1323/2003`
+- [Laki sotilasavustuslain 21 a §:n muuttamisesta](1324.md) `1324/2003`
+- [Laki sairausvakuutuslain muuttamisesta](1325.md) `1325/2003`
+- [Laki kansaneläkelaitoksen järjestämästä kuntoutuksesta annetun lain 8 d ja 14 §:n muuttamisesta](1326.md) `1326/2003`
+- [Laki kuntoutusrahalain 28 d §:n muuttamisesta](1327.md) `1327/2003`
+- [Laki äitiysavustuslain 13 a §:n muuttamisesta](1328.md) `1328/2003`
+- [Laki lapsilisälain 15 d §:n muuttamisesta](1329.md) `1329/2003`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta annetun lain 22 d §:n muuttamisesta](1330.md) `1330/2003`
+- [Laki Svenska Finlands folkting \-nimisestä järjestöstä](1331.md) `1331/2003`
+- [Laki työntekijäin eläkelain muuttamisesta ja väliaikaisesta muuttamisesta](1332.md) `1332/2003`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta ja väliaikaisesta muuttamisesta](1333.md) `1333/2003`
+- [Laki maatalousyrittäjien eläkelain 19 §:n väliaikaisesta muuttamisesta](1334.md) `1334/2003`
+- [Laki yrittäjien eläkelain 17 §:n väliaikaisesta muuttamisesta](1335.md) `1335/2003`
+- [Laki merimieseläkelain muuttamisesta](1336.md) `1336/2003`
+- [Valtioneuvoston asetus työntekijäin eläkeasetuksen muuttamisesta](1337.md) `1337/2003`
+- [Valtioneuvoston asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkeasetuksen muuttamisesta](1338.md) `1338/2003`
+- [Valtioneuvoston asetus taiteilijoiden ja eräiden erityisryhmiin kuuluvien työntekijäin eläkeasetuksen muuttamisesta](1339.md) `1339/2003`
+- [Valtioneuvoston asetus maatalousyrittäjien eläkeasetuksen muuttamisesta](1340.md) `1340/2003`
+- [Valtioneuvoston asetus yrittäjien eläkeasetuksen muuttamisesta](1341.md) `1341/2003`
+- [Valtioneuvoston asetus merimieseläkeasetuksen muuttamisesta](1342.md) `1342/2003`
+- [Puolustusministeriön asetus puolustusministeriön hallinnonalan maksullisista suoritteista](1343.md) `1343/2003`
+- [Laki eräiden maatalouden alaan kuuluvien lakien kumoamisesta annetun lain 3 §:n 2 momentin kumoamisesta](1344.md) `1344/2003`
+- [Laki  maaseutuelinkeinojen tukitehtäviä hoidettaessa noudatettavasta menettelystä annetun lain muuttamisesta](1345.md) `1345/2003`
+- [Laki elintarvikkeiden ja maatalouden kasvigeenivaroja koskevan kansainvälisen sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1346.md) `1346/2003`
+- [Valtioneuvoston asetus hedelmän\- ja vihannestuottajaorganisaatiosta sekä niiden liitoista](1347.md) `1347/2003`
+- [Oikeusministeriön asetus oikeusministeriön ja eräiden hallinnonalalla toimivien viranomaisten suoritteista perittävistä maksuista](1348.md) `1348/2003`
+- [Maa\- ja metsätalousministeriön asetus Kasvintuotannon tarkastuskeskuksen maksullisista suoritteista](1349.md) `1349/2003`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskorosta](1350.md) `1350/2003`
+- [Laki sosiaalisista yrityksistä](1351.md) `1351/2003`
+- [Laki julkisesta työvoimapalvelusta annetun lain 7 luvun 3 ja 11 §:n muuttamisesta](1352.md) `1352/2003`
+- [Laki työttömyysturvalain 9 luvun 7 §:n muuttamisesta](1353.md) `1353/2003`
+- [Valtioneuvoston asetus julkisesta työvoimapalvelusta annetun valtioneuvoston asetuksen muuttamisesta](1354.md) `1354/2003`
+- [Valtioneuvoston asetus eräiden työllisyysmäärärahojen käytöstä annetun valtioneuvoston asetuksen muuttamisesta](1355.md) `1355/2003`
+- [Valtioneuvoston asetus julkisen työvoimapalvelun toimeenpanosta annetun valtioneuvoston asetuksen 15 ja 16 §:n muuttamisesta](1356.md) `1356/2003`
+- [Valtioneuvoston asetus sähkön alkuperän varmentamisesta](1357.md) `1357/2003`
+- [Laki lastensuojelulain 10 ja 17 §:n muuttamisesta](1358.md) `1358/2003`
+- [Laki potilasvahinkolain 11 b §:n muuttamisesta](1359.md) `1359/2003`
+- [Laki sosiaalihuoltolain 45 §:n muuttamisesta](1360.md) `1360/2003`
+- [Laki sosiaalihuollon asiakkaan asemasta ja oikeuksista annetun lain 5 ja 8 §:n muuttamisesta](1361.md) `1361/2003`
+- [Laki päihdehuoltolain 14 §:n muuttamisesta](1362.md) `1362/2003`
+- [Laki mielenterveyslain 23 §:n muuttamisesta](1363.md) `1363/2003`
+- [Laki työttömyysturvalain muuttamisesta](1364.md) `1364/2003`
+- [Laki työttömyyskassalain 2 a §:n muuttamisesta](1365.md) `1365/2003`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1366.md) `1366/2003`
+- [Laki aikuiskoulutustuesta annetun lain 17 ja 26 §:n muuttamisesta](1367.md) `1367/2003`
+- [Laki Koulutusrahastosta annetun lain 4 ja 14 §:n muuttamisesta](1368.md) `1368/2003`
+- [Laki julkisesta työvoimapalvelusta annetun lain 9 luvun 2 §:n muuttamisesta](1369.md) `1369/2003`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon vuoden 2004 voimavaroista annetun valtioneuvoston asetuksen 2 ja 5 §:n muuttamisesta](1370.md) `1370/2003`
+- [Laki kansainvälisen järjestäytyneen rikollisuuden vastaisen Yhdistyneiden Kansakuntien yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](1371.md) `1371/2003`
+- [Laki rikoslain 17 luvun 1 a §:n muuttamisesta](1372.md) `1372/2003`
+- [Laki tapaturmavakuutuslain muuttamisesta](1373.md) `1373/2003`
+- [Laki maatalousyrittäjien tapaturmavakuutuslain 22 §:n muuttamisesta](1374.md) `1374/2003`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain muuttamisesta](1375.md) `1375/2003`
+- [Tasavallan presidentin asetus Itämeren alueen koealuerahastosta Pohjoismaiden ympäristörahoitusyhtiön kanssa tehdyn sopimuksen väliaikaisesta soveltamisesta](1376.md) `1376/2003`
+- [Valtioneuvoston asetus lääkkeiden hintalautakunnasta](1377.md) `1377/2003`
+- [Sosiaali\- ja terveysministeriön asetus lääkkeiden hintalautakunnan maksullisista suoritteista](1378.md) `1378/2003`
+- [Sosiaali\- ja terveysministeriön asetus tartuntatautien ilmoitusmenettelystä annetun sosiaali\- ja terveysministeriön määräyksen kumoamisesta](1379.md) `1379/2003`
+- [Tasavallan presidentin asetus hajallaan olevien kalakantojen ja laajasti vaeltavien kalakantojen säilyttämistä ja hoitoa koskevien 10 päivänä joulukuuta 1982 tehdyn Yhdistyneiden Kansakuntien merioikeusyleissopimuksen määräysten täytäntöönpanosta tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](1380.md) `1380/2003`
+- [Tasavallan presidentin asetus Euroopan yhteisön yhteisen kalastuspolitiikan täytäntöönpanosta annetun lain muuttamisesta annetun lain voimaantulosta](1381.md) `1381/2003`
+- [Valtioneuvoston asetus viranomaisradioverkon päätelaitteiden hankintaan maksettavan valtionavustuksen myöntämisperusteista](1382.md) `1382/2003`
+- [Valtioneuvoston asetus tartuntatautiasetuksen muuttamisesta](1383.md) `1383/2003`
+- [Sisäasiainministeriön asetus pelastustien merkitsemisestä](1384.md) `1384/2003`
+- [Valtioneuvoston asetus Senaatti\-kiinteistöistä](1385.md) `1385/2003`
+- [Valtioneuvoston asetus vuodelta 2003 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](1386.md) `1386/2003`
+- [Valtioneuvoston asetus vuodelta 2003 maksettavasta kasvinviljelyn kansallisesta tuesta annetun valtioneuvoston asetuksen 8 §:n muuttamisesta](1387.md) `1387/2003`
+- [Valtioneuvoston asetus vuodelta 2003 maksettavasta perunantuotannon kansallisesta tuesta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](1388.md) `1388/2003`
+- [Valtioneuvoston asetus nurmi\- ja viljakasvien siementuotannon kansallisesta tuesta vuonna 2003 annetun valtioneuvoston asetukseen 8 §:n muuttamisesta](1389.md) `1389/2003`
+- [Valtioneuvoston asetus vuodelta 2003 maksettavasta lihan kuljetusavustuksesta](1390.md) `1390/2003`
+- [Valtioneuvoston asetus vaikeista ja pitkäaikaisista sairauksista, joista sairausvakuutuslain mukaan korvataan 100 tai 75 prosenttia säädetyn kiinteän omavastuun ylittävältä osalta](1391.md) `1391/2003`
+- [Maa\- ja metsätalousministeriön asetus maatilatalouden rakennetuen ja vastaavan yritystoimintaan myönnettävän tuen kohdentamisesta vuonna 2003 annetun maa\- ja metsätalousministeriön asetuksen 1 ja 65 §:n muuttamisesta](1392.md) `1392/2003`
+- [Sosiaali\- ja terveysministeriön asetus lääkevalmisteen kohtuullisen tukkuhinnan ja erityiskorvattavuuden hakemisesta ja hakemukseen liitettävistä selvityksistä](1393.md) `1393/2003`
+- [Sosiaali\- ja terveysministeriön asetus sairaanhoitopiirin eettisen toimikunnan ja ETENE:n lääketieteellisen tutkimuseettisen jaoston lausunnoista perittävistä maksuista sekä tutkittavalle suoritettavista korvauksista](1394.md) `1394/2003`

@@ -1,0 +1,1402 @@
+# 2022 Statutes
+
+## Statutes
+
+- [Valtioneuvoston asetus ennakkoäänestyspaikoista ulkomailla ja Ahvenanmaan maakunnassa vuoden 2022 aluevaaleissa annetun valtioneuvoston asetuksen liitteen muuttamisesta](1.md) `1/2022`
+- [Valtioneuvoston asetus ravitsemisliikkeiden toiminnan väliaikaisesta rajoittamisesta tartuntataudin leviämisen estämiseksi annetun valtioneuvoston asetuksen muuttamisesta](2.md) `2/2022`
+- [Valtioneuvoston asetus tilapäisistä poikkeuksista EU:n digitaalisen koronatodistuksen kansallisesta käytöstä annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](3.md) `3/2022`
+- [Laki sairausvakuutuslain 3 luvun 8 §:n muuttamisesta](4.md) `4/2022`
+- [Valtioneuvoston asetus ravitsemisliikkeiden toiminnan väliaikaisesta rajoittamisesta tartuntataudin leviämisen estämiseksi annetun valtioneuvoston asetuksen muuttamisesta](5.md) `5/2022`
+- [Valtioneuvoston asetus tilapäisistä poikkeuksista EU:n digitaalisen koronatodistuksen kansallisesta käytöstä annetun valtioneuvoston asetuksen 1 ja 2 §:n muuttamisesta](6.md) `6/2022`
+- [Maa\- ja metsätalousministeriön asetus luonnonmukaisesta tuotannosta](7.md) `7/2022`
+- [Maa\- ja metsätalousministeriön asetus eläinten hyvinvointikorvauksesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](8.md) `8/2022`
+- [Valtioneuvoston asetus väliaikaisista poikkeuksista tieliikenteen ajo\- ja lepoaikoihin](9.md) `9/2022`
+- [Valtioneuvoston asetus pyörillä varustettujen ajoneuvojen määräajoin toistettavien katsastusten yhdenmukaisten ehtojen hyväksymisestä sekä näiden katsastusten vastavuoroisesta tunnustamisesta tehdystä sopimuksesta](10.md) `10/2022`
+- [Valtioneuvoston asetus yliopistojen tutkinnoista ja erikoistumiskoulutuksista annetun valtioneuvoston asetuksen liitteen muuttamisesta](11.md) `11/2022`
+- [Opetus\- ja kulttuuriministeriön asetus yliopistojen koulutusvastuun täsmentämisestä annetun opetus\- ja kulttuuriministeriön asetuksen liitteen muuttamisesta](12.md) `12/2022`
+- [Valtioneuvoston asetus huumausaineina pidettävistä aineista, valmisteista ja kasveista annetun valtioneuvoston asetuksen muuttamisesta](13.md) `13/2022`
+- [Valtioneuvoston asetus kuluttajamarkkinoilta kielletyistä psykoaktiivisista aineista annetun valtioneuvoston asetuksen liitteen muuttamisesta](14.md) `14/2022`
+- [Laki rauhoitettujen eläinten aiheuttamien vahinkojen ennalta ehkäisemisestä ja korvaamisesta](15.md) `15/2022`
+- [Laki eläinten lääkitsemisestä annetun lain muuttamisesta](16.md) `16/2022`
+- [Laki eläinlääkärinammatin harjoittamisesta annetun lain 10 §:n muuttamisesta](17.md) `17/2022`
+- [Laki rehulain muuttamisesta](18.md) `18/2022`
+- [Laki kalastuksesta Tenojoen vesistössä tehdyn sopimuksen 5 artiklan 2 kohdassa tarkoitetun kalastussäännön voimassaoloajan pidentämisestä tehdystä sopimuksesta](19.md) `19/2022`
+- [Laki rekrytointitukikokeilusta](20.md) `20/2022`
+- [Laki julkisesta työvoima\- ja yrityspalvelusta annetun lain väliaikaisesta muuttamisesta](21.md) `21/2022`
+- [Laki tulotietojärjestelmästä annetun lain 13 §:n väliaikaisesta muuttamisesta](22.md) `22/2022`
+- [Laki rikosrekisterilain 4 a §:n väliaikaisesta muuttamisesta](23.md) `23/2022`
+- [Valtioneuvoston asetus yrittäjän eläkelain täytäntöönpanosta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](24.md) `24/2022`
+- [Valtioneuvoston asetus valtiosta toiseen tapahtuvaa ilman epäpuhtauksien kaukokulkeutumista koskevaan vuoden 1979 yleissopimukseen liittyvän pysyviä orgaanisia yhdisteitä koskevan vuoden 1998 pöytäkirjan muutoksista](25.md) `25/2022`
+- [Valtioneuvoston asetus sosiaaliturvasta Japanin kanssa tehdystä sopimuksesta](26.md) `26/2022`
+- [Ruokaviraston päätös kalojen tarttuvan verta muodostavan kuolion \(IHN\) vuoksi perustetun rajoitusvyöhykkeen suojavyöhykkeiden lakkauttamisesta ja eräiden rajoitusvyöhykettä koskevien vaatimusten lieventämisestä](27.md) `27/2022`
+- [Laki sairausvakuutuslain muuttamisesta](28.md) `28/2022`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta annetun lain muuttamisesta](29.md) `29/2022`
+- [Laki varhaiskasvatuslain 12 ja 15 §:n muuttamisesta](30.md) `30/2022`
+- [Laki varhaiskasvatuksen asiakasmaksuista annetun lain 9 ja 20 §:n muuttamisesta](31.md) `31/2022`
+- [Laki työsopimuslain muuttamisesta](32.md) `32/2022`
+- [Laki merityösopimuslain muuttamisesta](33.md) `33/2022`
+- [Laki vuosilomalain muuttamisesta](34.md) `34/2022`
+- [Laki merimiesten vuosilomalain muuttamisesta](35.md) `35/2022`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 38 §:n muuttamisesta](36.md) `36/2022`
+- [Laki työttömyysturvalain 3 luvun 4 §:n ja 4 luvun 8 §:n muuttamisesta](37.md) `37/2022`
+- [Laki maatalousyrittäjien lomituspalvelulain muuttamisesta](38.md) `38/2022`
+- [Laki sotilasavustuslain 5 ja 11 §:n muuttamisesta](39.md) `39/2022`
+- [Laki työntekijän eläkelain muuttamisesta](40.md) `40/2022`
+- [Laki yrittäjän eläkelain muuttamisesta](41.md) `41/2022`
+- [Laki merimieseläkelain muuttamisesta](42.md) `42/2022`
+- [Laki maatalousyrittäjän eläkelain 59 a §:n muuttamisesta](43.md) `43/2022`
+- [Laki julkisten alojen eläkelain muuttamisesta](44.md) `44/2022`
+- [Laki kansaneläkelain 34 §:n muuttamisesta](45.md) `45/2022`
+- [Laki kotoutumisen edistämisestä annetun lain 12 §:n muuttamisesta](46.md) `46/2022`
+- [Laki valtion virkamieslain 25 §:n muuttamisesta](47.md) `47/2022`
+- [Laki Suomen Pankin virkamiehistä annetun lain 19 §:n muuttamisesta](48.md) `48/2022`
+- [Laki sotilaallisesta kriisinhallinnasta annetun lain 14 §:n muuttamisesta](49.md) `49/2022`
+- [Laki Pelastusopistosta annetun lain 29 §:n muuttamisesta](50.md) `50/2022`
+- [Laki Poliisiammattikorkeakoulusta annetun lain 30 §:n muuttamisesta](51.md) `51/2022`
+- [Laki yliopistolain 39 ja 41 §:n muuttamisesta](52.md) `52/2022`
+- [Laki ammattikorkeakoululain 29 ja 30 §:n muuttamisesta](53.md) `53/2022`
+- [Laki ammatillisesta koulutuksesta annetun lain 96 §:n muuttamisesta](54.md) `54/2022`
+- [Laki lukiolain 23 §:n muuttamisesta](55.md) `55/2022`
+- [Laki oppivelvollisuuslain 7 §:n muuttamisesta](56.md) `56/2022`
+- [Laki tutkintokoulutukseen valmentavasta koulutuksesta annetun lain 17 §:n muuttamisesta](57.md) `57/2022`
+- [Laki vuorotteluvapaalain 4 §:n muuttamisesta](58.md) `58/2022`
+- [Laki aikuiskoulutusetuuksista annetun lain 7 §:n muuttamisesta](59.md) `59/2022`
+- [Laki liikenteen palveluista annetun lain muuttamisesta](60.md) `60/2022`
+- [Laki työntekijöiden lähettämisestä annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](61.md) `61/2022`
+- [Laki työntekijöiden lähettämisestä annetun lain muuttamisesta](62.md) `62/2022`
+- [Laki ylikuormamaksusta annetun lain 16 §:n muuttamisesta](63.md) `63/2022`
+- [Valtioneuvoston asetus tartuntataudeista annetun valtioneuvoston asetuksen 7 §:n muuttamisesta](64.md) `64/2022`
+- [Valtioneuvoston asetus perustukijärjestelmän kansallisen varannon käytöstä annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](65.md) `65/2022`
+- [Valtioneuvoston asetus perustuesta, viherryttämistuesta ja nuoren viljelijän tuesta annetun valtioneuvoston asetuksen muuttamisesta](66.md) `66/2022`
+- [Maa\- ja metsätalousministeriön asetus eläinten tunnistamisesta ja rekisteröinnistä](67.md) `67/2022`
+- [Maa\- ja metsätalousministeriön asetus koirien tunnistamisesta ja rekisteröinnistä](68.md) `68/2022`
+- [Valtioneuvoston asetus salaisista pakkokeinoista ja salaisista tiedonhankintakeinoista Tullissa annetun valtioneuvoston asetuksen 21 §:n muuttamisesta](69.md) `69/2022`
+- [Puolustusministeriön asetus sotilasajoneuvojen käyttämisestä tiellä](70.md) `70/2022`
+- [Maa\- ja metsätalousministeriön asetus rehualan toiminnanharjoittamisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](71.md) `71/2022`
+- [Valtiovarainministeriön asetus Tullin suoritteiden maksullisuudesta annetun valtiovarainministeriön asetuksen liitteen muuttamisesta](72.md) `72/2022`
+- [Oikeusministeriön asetus sakon muuntorangaistuksen täytäntöönpanon väliaikaisesta rajoittamisesta annetun oikeusministeriön asetuksen 1 ja 3 §:n muuttamisesta](73.md) `73/2022`
+- [Sisäministeriön asetus liikkumis\- ja oleskelurajoituksista annetun sisäministeriön asetuksen eräiden liitteiden muuttamisesta](74.md) `74/2022`
+- [Puolustusministeriön asetus Maanpuolustuskoulutusyhdistyksen maksullisista suoritteista vuonna 2022](75.md) `75/2022`
+- [Verohallinnon päätös maksujärjestelyssä noudatettavasta menettelystä annetun päätöksen 4 §:n muuttamisesta](76.md) `76/2022`
+- [Valtioneuvoston asetus turvetuotantokoneiden romutustuesta vuosina 2022–2024](77.md) `77/2022`
+- [Valtioneuvoston asetus turvallisuusluokitellun tiedon vastavuoroisesta suojaamisesta Belgian kanssa tehdystä sopimuksesta](78.md) `78/2022`
+- [Valtioneuvoston asetus vuodelta 2022 maksettavista lypsylehmä\-, nauta\-, uuhi\- ja kuttupalkkioista, teuraskaritsa\- ja teuraskilipalkkiosta sekä peltokasvipalkkiosta](79.md) `79/2022`
+- [Valtioneuvoston asetus vuodelta 2022 maksettavasta Etelä\-Suomen kansallisesta tuesta](80.md) `80/2022`
+- [Valtioneuvoston asetus vuodelta 2022 maksettavasta pohjoisesta tuesta](81.md) `81/2022`
+- [Sisäministeriön asetus kriisinhallintaan osallistuvan siviilihenkilön palvelussuhteen ehdoista annetun sisäministeriön asetuksen muuttamisesta](82.md) `82/2022`
+- [Valtioneuvoston asetus ravitsemisliikkeiden toiminnan väliaikaisesta rajoittamisesta tartuntataudin leviämisen estämiseksi annetun valtioneuvoston asetuksen 4 ja 6 §:n muuttamisesta](83.md) `83/2022`
+- [Valtioneuvoston asetus tilapäisistä poikkeuksista EU:n digitaalisen koronatodistuksen kansallisesta käytöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](84.md) `84/2022`
+- [Laki työttömyysturvalain väliaikaisesta muuttamisesta](85.md) `85/2022`
+- [Laki työttömyysturvalain 11 luvun väliaikaisesta muuttamisesta](86.md) `86/2022`
+- [Valtioneuvoston asetus elinkeino\-, liikenne\- ja ympäristökeskuksista annetun valtioneuvoston asetuksen 16 a §:n väliaikaisesta muuttamisesta](87.md) `87/2022`
+- [Valtioneuvoston asetus sokerijuurikkaan viljelijöille vuodelta 2022 maksettavasta kansallisesta tuesta](88.md) `88/2022`
+- [Valtioneuvoston asetus vaarallisten kemikaalien käsittelyn ja varastoinnin valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](89.md) `89/2022`
+- [Valtioneuvoston asetus räjähteiden valmistuksen ja varastoinnin valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](90.md) `90/2022`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon yhteistyöalueista](91.md) `91/2022`
+- [Valtioneuvoston asetus valtiosta toiseen tapahtuvaa ilman epäpuhtauksien kaukokulkeutumista koskevaan vuoden 1979 yleissopimukseen liittyvän raskasmetalleja koskevan vuoden 1998 pöytäkirjan muutoksista](92.md) `92/2022`
+- [Maa\- ja metsätalousministeriön asetus kasvihuonetuotannon tuesta vuonna 2022](93.md) `93/2022`
+- [Sosiaali\- ja terveysministeriön asetus potilasasiakirjoista](94.md) `94/2022`
+- [Verohallinnon päätös yksityisten apteekkien liikevaihdon keskiarvosta vuonna 2020](95.md) `95/2022`
+- [Laki oikeudenkäymiskaaren muuttamisesta](96.md) `96/2022`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain muuttamisesta](97.md) `97/2022`
+- [Laki oikeudenkäynnin julkisuudesta yleisissä tuomioistuimissa annetun lain 13 §:n muuttamisesta](98.md) `98/2022`
+- [Laki elinkautisvankien vapauttamismenettelystä annetun lain 10 §:n muuttamisesta](99.md) `99/2022`
+- [Laki oikeudenkäynnistä markkinaoikeudessa annetun lain 4 luvun 17 §:n ja 5 luvun 10 §:n muuttamisesta](100.md) `100/2022`
+- [Laki turvatarkastuksista tuomioistuimissa annetun lain 1 ja 5 §:n muuttamisesta](101.md) `101/2022`
+- [Laki Tanskan, Suomen, Norjan ja Ruotsin välillä puolustusmateriaalialan teollisuuden yhteistyön tukemisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain kumoamisesta](102.md) `102/2022`
+- [Sosiaali\- ja terveysministeriön asetus kliinisiä lääketutkimuksia koskevista maksullisista suoritteista](103.md) `103/2022`
+- [Maa\- ja metsätalousministeriön asetus mikrobilääkkeiden käyttöä koskevien tietojen toimittamisesta](104.md) `104/2022`
+- [Valtioneuvoston asetus ympäristökorvauksen, luonnonhaittakorvauksen, luonnonmukaisen tuotannon korvauksen ja ei\-tuotannollisia investointeja koskevan korvauksen hakemisesta vuonna 2022](105.md) `105/2022`
+- [Valtioneuvoston asetus luonnonhaittakorvauksesta annetun valtioneuvoston asetuksen 15 §:n muuttamisesta](106.md) `106/2022`
+- [Valtioneuvoston asetus vaarallisten tavaroiden kansainvälisistä tiekuljetuksista tehdyn sopimuksen \(ADR\) liitteen A 1\.5 luvun 1\.5\.1 kohdan mukaisesta monenkeskisestä sopimuksesta M343](107.md) `107/2022`
+- [Eduskunnan päätös eduskunnan työjärjestyksen väliaikaisesta muuttamisesta](108.md) `108/2022`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](109.md) `109/2022`
+- [Valtioneuvoston asetus vuodelta 2021 maksettavasta sokerijuurikkaan kuljetustuesta](110.md) `110/2022`
+- [Maa\- ja metsätalousministeriön asetus zoonooseista annetun maa\- ja metsätalousministeriön asetuksen 33 §:n väliaikaisesta muuttamisesta](111.md) `111/2022`
+- [Valtioneuvoston asetus sähköisen raskaan liikenteen kehittämiseen vuosina 2022–2025 myönnettävästä avustuksesta](112.md) `112/2022`
+- [Valtioneuvoston asetus ilmailulta rajoitetuista alueista annetun valtioneuvoston asetuksen liitteiden muuttamisesta](113.md) `113/2022`
+- [Maa\- ja metsätalousministeriön asetus eräiden valvottaviksi eläintaudeiksi nimettyjen tautien vastustamisesta annetun maa\- ja metsätalousministeriön asetuksen 6 §:n muuttamisesta](114.md) `114/2022`
+- [Valtioneuvoston asetus Kuuban velan uudelleenjärjestämisestä Kuuban kanssa tehdyn sopimuksen muuttamisesta toisen kerran tehdystä sopimuksesta](115.md) `115/2022`
+- [Valtioneuvoston asetus yhdistetystä patenttituomioistuimesta tehdyn sopimuksen eräiden määräysten väliaikaisesta soveltamisesta](116.md) `116/2022`
+- [Valtioneuvoston asetus ravitsemisliikkeiden toiminnan väliaikaisesta rajoittamisesta tartuntataudin leviämisen estämiseksi annetun valtioneuvoston asetuksen 4 ja 6 §:n muuttamisesta](117.md) `117/2022`
+- [Valtioneuvoston asetus tilapäisistä poikkeuksista EU:n digitaalisen koronatodistuksen kansallisesta käytöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](118.md) `118/2022`
+- [Valtioneuvoston asetus sisäasioiden rahastoista ohjelmakaudella 2021–2027](119.md) `119/2022`
+- [Valtiovarainministeriön asetus verovuodelta 2022 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista ja työnantajasuoritusten vähimmäismääristä](120.md) `120/2022`
+- [Laki ulkomaalaislain muuttamisesta](121.md) `121/2022`
+- [Laki henkilötietojen käsittelystä maahanmuuttohallinnossa annetun lain 3 ja 5 §:n muuttamisesta](122.md) `122/2022`
+- [Valtioneuvoston asetus katsojien väkivaltaa ja epäsopivaa käyttäytymistä urheilutilaisuuksissa ja erityisesti jalkapallo\-otteluissa koskevan eurooppalaisen yleissopimuksen voimaansaattamisesta annetun asetuksen kumoamisesta](123.md) `123/2022`
+- [Valtioneuvoston asetus turvallisuutta, turvatoimia ja palveluja koskevasta yhdennetystä lähestymistavasta jalkapallo\-otteluissa ja muissa urheilutilaisuuksissa tehdystä Euroopan neuvoston yleissopimuksesta](124.md) `124/2022`
+- [Valtioneuvoston asetus kokoontumislain 12 ja 20 §:n muuttamisesta annetun lain voimaantulosta](125.md) `125/2022`
+- [Ympäristöministeriön asetus  vaarallisten aineiden käytön rajoituksista sähkö\- ja elektroniikkalaitteissa annetun ympäristöministeriön asetuksen liitteen II muuttamisesta](126.md) `126/2022`
+- [Valtioneuvoston asetus täydentävien ehtojen lakisääteisistä hoitovaatimuksista sekä niiden ja hyvän maatalouden ja ympäristön vaatimusten noudattamisen valvonnasta annetun valtioneuvoston asetuksen liitteen 2 muuttamisesta](127.md) `127/2022`
+- [Maa\- ja metsätalousministeriön asetus siemenseoksista annetun maa\- ja metsätalousministeriön asetuksen 2 §:n muuttamisesta](128.md) `128/2022`
+- [Valtioneuvoston asetus valtiovarainministeriöstä annetun valtioneuvoston asetuksen 1 ja 2 §:n muuttamisesta](129.md) `129/2022`
+- [Valtioneuvoston asetus valtioneuvoston ohjesäännön 17 §:n muuttamisesta](130.md) `130/2022`
+- [Valtioneuvoston asetus matkustusoikeuden osoittamisesta eräissä tapauksissa](131.md) `131/2022`
+- [Sisäministeriön ilmoitus sisäministeriön asetuksesta Veikkaus Oy:n rahapelien pelisäännöistä](132.md) `132/2022`
+- [Valtioneuvoston asetus ravitsemisliikkeiden toiminnan väliaikaisesta rajoittamisesta tartuntataudin leviämisen estämiseksi annetun valtioneuvoston asetuksen osittaisesta kumoamisesta](133.md) `133/2022`
+- [Laki arvonlisäverolain 70 b ja 72 i §:n muuttamisesta](134.md) `134/2022`
+- [Laki valmisteverotuslain 63 ja 89 §:n muuttamisesta](135.md) `135/2022`
+- [Laki tupakkalain 40 §:n muuttamisesta](136.md) `136/2022`
+- [Opetus\- ja kulttuuriministeriön asetus Opetushallituksen ja sen erillisyksiköiden maksullisista suoritteista annetun opetus\- ja kulttuuriministeriön asetuksen 1 ja 2 §:n muuttamisesta](137.md) `137/2022`
+- [Valtioneuvoston asetus Ahvenanmaan maakunnan kunnille maatalouden tukien toimeenpanotehtävien hoitamisesta vuodelta 2021 suoritettavista korvauksista](138.md) `138/2022`
+- [Laki sairausvakuutuslain väliaikaisesta muuttamisesta](139.md) `139/2022`
+- [Laki vuosilomalain 7 §:n väliaikaisesta muuttamisesta](140.md) `140/2022`
+- [Laki merimiesten vuosilomalain 3 §:n väliaikaisesta muuttamisesta](141.md) `141/2022`
+- [Valtioneuvoston asetus sairausvakuutuslain täytäntöönpanosta annetun valtioneuvoston asetuksen 2 luvun 1 §:n väliaikaisesta muuttamisesta](142.md) `142/2022`
+- [Verohallinnon päätös sääntöjen vastaisesti tai muuta kuin kaupallista myyntiä varten maahantuotujen tupakkatuotteiden verotusarvoista](143.md) `143/2022`
+- [Valtioneuvoston asetus rajoittavista toimenpiteistä Ukrainan tilannetta epävakauttavien Venäjän toimien johdosta tehdyn neuvoston päätöksen ja annetun neuvoston asetuksen mukaisen poikkeusmenettelyn täytäntöönpanosta](144.md) `144/2022`
+- [Maa\- ja metsätalousministeriön asetus siemenperunan kaupasta annetun maa\- ja metsätalousministeriön asetuksen väliaikaisesta muuttamisesta](145.md) `145/2022`
+- [Valtioneuvoston asetus tehoreservin tarpeen määrittämisestä ja hankinnasta](146.md) `146/2022`
+- [Valtioneuvoston asetus vuodelta 2021 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 9 §:n muuttamisesta](147.md) `147/2022`
+- [Maa\- ja metsätalousministeriön asetus siemenperunan kaupasta annetun maa\- ja metsätalousministeriön asetuksen liitteen 1 muuttamisesta](148.md) `148/2022`
+- [Valtioneuvoston päätös tilapäisen suojelun antamisesta Ukrainan tilanteeseen vastaamiseksi](149.md) `149/2022`
+- [Laki arvonlisäverolain väliaikaisesta muuttamisesta](150.md) `150/2022`
+- [Laki kiinnitysluottopankeista ja katetuista joukkolainoista](151.md) `151/2022`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](152.md) `152/2022`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](153.md) `153/2022`
+- [Laki luottolaitosten ja sijoituspalveluyritysten kriisinratkaisusta annetun lain muuttamisesta](154.md) `154/2022`
+- [Laki sijoituspalvelulain muuttamisesta](155.md) `155/2022`
+- [Valtioneuvoston asetus kalastuksesta Tenojoen vesistössä tehdyn sopimuksen 5 artiklan 2 kohdassa tarkoitetun kalastussäännön voimassaoloajan pidentämisestä Norjan kanssa tehdystä sopimuksesta](156.md) `156/2022`
+- [Laki yritysten määräaikaisesta kustannustuesta annetun lain muuttamisesta](157.md) `157/2022`
+- [Laki liikennejärjestelmästä ja maanteistä annetun lain 6 §:n muuttamisesta](158.md) `158/2022`
+- [Laki Yleisradio Oy:stä annetun lain 7 §:n muuttamisesta](159.md) `159/2022`
+- [Valtioneuvoston asetus maatalousmaan kipsikäsittelyyn vuosina 2020–2025 myönnettävästä tuesta annetun valtioneuvoston asetuksen muuttamisesta](160.md) `160/2022`
+- [Vuoden 2022 lisätalousarvio](161.md) `161/2022`
+- [Sisäministeriön ilmoitus sisäministeriön asetuksesta Veikkaus Oy:n rahapelien pelisäännöistä](162.md) `162/2022`
+- [Laki perusopetuslain muuttamisesta](163.md) `163/2022`
+- [Laki ammatillisesta koulutuksesta annetun lain muuttamisesta](164.md) `164/2022`
+- [Laki lukiolain muuttamisesta](165.md) `165/2022`
+- [Laki tutkintokoulutukseen valmentavasta koulutuksesta annetun lain muuttamisesta](166.md) `166/2022`
+- [Laki kirjanpitolain 1 luvun muuttamisesta](167.md) `167/2022`
+- [Valtioneuvoston asetus vankeudesta annetun valtioneuvoston asetuksen muuttamisesta](168.md) `168/2022`
+- [Valtioneuvoston asetus tutkintavankeudesta annetun valtioneuvoston asetuksen muuttamisesta](169.md) `169/2022`
+- [Valtioneuvoston asetus yhdyskuntaseuraamusten täytäntöönpanosta annetun valtioneuvoston asetuksen muuttamisesta](170.md) `170/2022`
+- [Valtioneuvoston asetus valvotusta koevapaudesta](171.md) `171/2022`
+- [Valtioneuvoston asetus yhdistelmärangaistukseen kuuluvan valvonta\-ajan täytäntöönpanosta](172.md) `172/2022`
+- [Valtioneuvoston asetus ehdonalaisen vapauden valvonnasta annetun valtioneuvoston asetuksen kumoamisesta](173.md) `173/2022`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](174.md) `174/2022`
+- [Sosiaali\- ja terveysministeriön asetus eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](175.md) `175/2022`
+- [Sosiaali\- ja terveysministeriön asetus eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](176.md) `176/2022`
+- [Valtioneuvoston asetus Valko\-Venäjää koskevista rajoittavista toimenpiteistä tehdyn neuvoston päätöksen ja annetun neuvoston asetuksen mukaisen poikkeusmenettelyn täytäntöönpanosta](177.md) `177/2022`
+- [Valtioneuvoston asetus sähköisen liikenteen, biokaasun ja uusiutuvan vedyn liikennekäytön infrastruktuurituesta vuosina 2022–2025](178.md) `178/2022`
+- [Valtioneuvoston asetus vaarallisten tavaroiden kansainvälisistä tiekuljetuksista tehdyn sopimuksen \(ADR\) liitteen A 1\.5 luvun 1\.5\.1 kohdan mukaisesta monenkeskisestä sopimuksesta M344](179.md) `179/2022`
+- [Ympäristöministeriön asetus Suomen ympäristökeskuksen maksullisista suoritteista](180.md) `180/2022`
+- [Valtiovarainministeriön päätös valtionhallinnon yhteishankinnoista annetun valtiovarainministeriön päätöksen 1 §:n muuttamisesta](181.md) `181/2022`
+- [Valtioneuvoston asetus vuodelta 2021 maksettavien kansallisten kasvintuotannon tukien ja kotieläintukien valvonnasta annetun valtioneuvoston asetuksen 5 ja 18 §:n muuttamisesta](182.md) `182/2022`
+- [Lääkealan turvallisuus\- ja kehittämiskeskuksen päätös lääkeluettelosta](183.md) `183/2022`
+- [Valtioneuvoston asetus hyvinvointialueen ja HUS\-yhtymän toiminnan valmistelun rahoituksesta vuosina 2021 ja 2022 annetun asetuksen muuttamisesta](184.md) `184/2022`
+- [Valtioneuvoston asetus vuodelta 2022 maksettavasta mehiläistalouden kansallisesta pesäkohtaisesta tuesta](185.md) `185/2022`
+- [Valtioneuvoston asetus vuodelta 2022 maksettavien kansallisten kasvintuotannon tukien ja kotieläintukien valvonnasta](186.md) `186/2022`
+- [Valtioneuvoston asetus alueiden kehittämisen ja Euroopan unionin alue\- ja rakennepolitiikan hankkeiden rahoittamisesta annetun valtioneuvoston asetuksen 34 §:n muuttamisesta](187.md) `187/2022`
+- [Valtioneuvoston asetus vesienhoidon järjestämisestä annetun valtioneuvoston asetuksen muuttamisesta](188.md) `188/2022`
+- [Valtioneuvoston asetus orgaanisten liuottimien käytöstä eräissä maaleissa ja lakoissa sekä ajoneuvojen korjausmaalaustuotteissa aiheutuvien haihtuvien orgaanisten yhdisteiden päästöjen rajoittamisesta](189.md) `189/2022`
+- [Työ\- ja elinkeinoministeriön asetus  työ\- ja elinkeinoministeriön maksullisista suoritteista](190.md) `190/2022`
+- [Valtiovarainministeriön asetus Jääkiekon MM\-kisat 2022 \-juhlarahasta](191.md) `191/2022`
+- [Valtioneuvoston asetus lääkeasetuksen muuttamisesta](192.md) `192/2022`
+- [Valtioneuvoston asetus lääketaksasta annetun valtioneuvoston asetuksen muuttamisesta](193.md) `193/2022`
+- [Sosiaali\- ja terveysministeriön asetus lääkevaihdosta annetun sosiaali\- ja terveysministeriön asetuksen 1 §:n muuttamisesta](194.md) `194/2022`
+- [Valtioneuvoston asetus painolastivesien ja sedimenttien valvonnasta ja käsittelystä vuonna 2004 tehtyyn kansainväliseen yleissopimukseen tehtyjen muutosten voimaansaattamisesta](195.md) `195/2022`
+- [Valtioneuvoston asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan VI liitteeseen tehtyjen muutosten voimaansaattamisesta](196.md) `196/2022`
+- [Ulkoministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoministeriön asetuksen muuttamisesta](197.md) `197/2022`
+- [Liikenne\- ja viestintäministeriön ilmoitus   alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan VI liitteen muutosten voimaantulosta](198.md) `198/2022`
+- [Ulkoministeriön asetus ulkoministeriön työjärjestyksestä annetun ulkoministeriön asetuksen muuttamisesta](199.md) `199/2022`
+- [Sosiaali\- ja terveysministeriön asetus yliopistotasoisen sosiaalityön tutkimuksen rahoituksesta annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](200.md) `200/2022`
+- [Valtioneuvoston asetus aluehallintovirastojen maksuista vuonna 2022](201.md) `201/2022`
+- [Laki Ahvenanmaan maakuntaa koskevista poikkeuksista arvonlisävero\- ja valmisteverolainsäädäntöön annetun lain muuttamisesta](202.md) `202/2022`
+- [Laki joukkorahoituspalvelun tarjoamisesta](203.md) `203/2022`
+- [Laki sijoituspalvelulain 2 luvun 3 a §:n muuttamisesta](204.md) `204/2022`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](205.md) `205/2022`
+- [Laki Finanssivalvonnan valvontamaksusta annetun lain muuttamisesta](206.md) `206/2022`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä annetun lain muuttamisesta](207.md) `207/2022`
+- [Laki rikosrekisterilain 6 §:n muuttamisesta](208.md) `208/2022`
+- [Laki vakuutusyhtiölain 2 luvun 16 §:n muuttamisesta](209.md) `209/2022`
+- [Laki joukkolainanhaltijoiden edustajasta annetun lain muuttamisesta](210.md) `210/2022`
+- [Laki rahankeräyslain 1 §:n muuttamisesta](211.md) `211/2022`
+- [Laki nimikirjalain 1 §:n muuttamisesta](212.md) `212/2022`
+- [Laki yleiseurooppalaisen yksilöllisen eläketuotteen tarjoamista ja jakelua koskevan Euroopan unionin asetuksen täydentämisestä](213.md) `213/2022`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](214.md) `214/2022`
+- [Laki vakuutusyhtiölain muuttamisesta](215.md) `215/2022`
+- [Valtioneuvoston asetus vuodelta 2021 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 6 §:n ja liitteen muuttamisesta](216.md) `216/2022`
+- [Valtioneuvoston asetus maanpuolustusta koskevista poikkeuksista kemikaalilainsäädännön soveltamisessa](217.md) `217/2022`
+- [Laki valtion eläkerahastosta annetun lain muuttamisesta](218.md) `218/2022`
+- [Laki eräiden tuloverotusta koskevien Guernseyn kanssa tehtyjen sopimusten muuttamista koskevista pöytäkirjoista](219.md) `219/2022`
+- [Laki eräiden tuloverotusta koskevien Mansaaren kanssa tehtyjen sopimusten muuttamista koskevista pöytäkirjoista](220.md) `220/2022`
+- [Laki Rikosseuraamuslaitoksesta](221.md) `221/2022`
+- [Laki vankeuslain muuttamisesta](222.md) `222/2022`
+- [Laki tutkintavankeuslain muuttamisesta](223.md) `223/2022`
+- [Laki valvotusta koevapaudesta annetun lain muuttamisesta](224.md) `224/2022`
+- [Laki yhdyskuntaseuraamusten täytäntöönpanosta annetun lain muuttamisesta](225.md) `225/2022`
+- [Laki yhdistelmärangaistuksen täytäntöönpanosta annetun lain muuttamisesta](226.md) `226/2022`
+- [Laki henkilötietojen käsittelystä Rikosseuraamuslaitoksessa annetun lain 4 ja 14 §:n muuttamisesta](227.md) `227/2022`
+- [Laki Rikosseuraamusalan koulutuskeskuksesta annetun lain muuttamisesta](228.md) `228/2022`
+- [Laki Vankiterveydenhuollon yksiköstä annetun lain 6 ja 11 §:n muuttamisesta](229.md) `229/2022`
+- [Laki oikeudenkäymiskaaren 25 luvun 6 §:n muuttamisesta](230.md) `230/2022`
+- [Laki rikoslain 2 c luvun 10 §:n muuttamisesta](231.md) `231/2022`
+- [Laki pakkokeinolain muuttamisesta](232.md) `232/2022`
+- [Laki haastemieslain 6 §:n muuttamisesta](233.md) `233/2022`
+- [Laki elinkautisvankien vapauttamismenettelystä annetun lain muuttamisesta](234.md) `234/2022`
+- [Laki Terveyden ja hyvinvoinnin laitoksen alaisista lastensuojeluyksiköistä annetun lain 6 §:n muuttamisesta](235.md) `235/2022`
+- [Laki Suomen ja muiden pohjoismaiden välisestä yhteistoiminnasta rikosasioissa annettujen tuomioiden täytäntöönpanossa annetun lain muuttamisesta](236.md) `236/2022`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden Pohjoismaiden välillä annetun lain 51 ja 64 §:n muuttamisesta](237.md) `237/2022`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden Euroopan unionin jäsenvaltioiden välillä annetun lain 54 ja 67 §:n muuttamisesta](238.md) `238/2022`
+- [Laki tuomittujen siirtoa Euroopan unionissa koskevan puitepäätöksen lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja puitepäätöksen soveltamisesta annetun lain muuttamisesta](239.md) `239/2022`
+- [Laki valvontatoimenpiteitä ja vaihtoehtoisia seuraamuksia Euroopan unionissa koskevan puitepäätöksen lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja puitepäätöksen soveltamisesta annetun lain muuttamisesta](240.md) `240/2022`
+- [Laki matkapalveluyhdistelmien tarjoajan valvonta\- ja maksukyvyttömyyssuojamaksusta annetun lain väliaikaisesta muuttamisesta](241.md) `241/2022`
+- [Laki Työkanava Oy \-nimisestä osakeyhtiöstä](242.md) `242/2022`
+- [Laki työttömyysturvalain 2 a luvun muuttamisesta](243.md) `243/2022`
+- [Laki julkisesta työvoima\- ja yrityspalvelusta annetun lain muuttamisesta](244.md) `244/2022`
+- [Valtioneuvoston asetus Keski\-Pohjanmaan maakunnan luonnonsuojelualueista](245.md) `245/2022`
+- [Ympäristöministeriön asetus Keski\-Pohjanmaan maakunnan luonnonsuojelualueista](246.md) `246/2022`
+- [Ulkoministeriön asetus Investointituki kehitysmaille \-rahoitusinstrumentilla rahoitettavista hankkeista Indonesian kanssa tehdystä puitesopimuksesta](247.md) `247/2022`
+- [Laki eräiden tuotteiden markkinavalvonnasta annetun lain muuttamisesta](248.md) `248/2022`
+- [Laki räjähdysvaarallisissa tiloissa käytettäväksi tarkoitettujen laitteiden ja suojausjärjestelmien vaatimustenmukaisuudesta annetun lain muuttamisesta](249.md) `249/2022`
+- [Laki sähköturvallisuuslain muuttamisesta](250.md) `250/2022`
+- [Laki hissiturvallisuuslain muuttamisesta](251.md) `251/2022`
+- [Laki pyroteknisten tuotteiden vaatimustenmukaisuudesta annetun lain muuttamisesta](252.md) `252/2022`
+- [Laki räjähteiden vaatimustenmukaisuudesta annetun lain 5 ja 21 §:n muuttamisesta](253.md) `253/2022`
+- [Laki painelaitelain muuttamisesta](254.md) `254/2022`
+- [Laki kuluttajien käyttöön tarkoitetuista henkilönsuojaimista annetun lain muuttamisesta](255.md) `255/2022`
+- [Laki tuotteiden ekologiselle suunnittelulle ja energiamerkinnälle asetettavista vaatimuksista annetun lain muuttamisesta](256.md) `256/2022`
+- [Laki huviveneiden turvallisuudesta ja päästövaatimuksista annetun lain muuttamisesta](257.md) `257/2022`
+- [Laki sähköisen viestinnän palveluista annetun lain muuttamisesta](258.md) `258/2022`
+- [Laki laivavarustelain muuttamisesta](259.md) `259/2022`
+- [Laki kemikaalilain muuttamisesta](260.md) `260/2022`
+- [Laki kosmeettisista valmisteista annetun lain muuttamisesta](261.md) `261/2022`
+- [Laki tupakkalain muuttamisesta](262.md) `262/2022`
+- [Laki vaarallisten aineiden käytön rajoittamisesta sähkö\- ja elektroniikkalaitteissa annetun lain muuttamisesta](263.md) `263/2022`
+- [Laki eräiden riskin aiheuttavien tuotteiden markkinavalvontaan liittyvien tietojen ilmoittamisesta Euroopan komissiolle annetun lain muuttamisesta](264.md) `264/2022`
+- [Laki jalkineiden ja tekstiilituotteiden vaatimustenmukaisuudesta](265.md) `265/2022`
+- [Laki eräiden tuotteiden markkinavalvonnasta annetun lain muuttamisesta](266.md) `266/2022`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](267.md) `267/2022`
+- [Valtioneuvoston asetus kaupallisen kalastuksen kiintiöjärjestelmästä annetun valtioneuvoston asetuksen 13 §:n muuttamisesta](268.md) `268/2022`
+- [Valtioneuvoston asetus vuodelta 2022 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 3 ja 5 §:n muuttamisesta](269.md) `269/2022`
+- [Valtioneuvoston asetus vuodelta 2022 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 17 ja 19 §:n muuttamisesta](270.md) `270/2022`
+- [Valtioneuvoston asetus perustuesta, viherryttämistuesta ja nuoren viljelijän tuesta annetun valtioneuvoston asetuksen 13 ja 15 §:n väliaikaisesta muuttamisesta](271.md) `271/2022`
+- [Valtioneuvoston asetus kunnan ja hyvinvointialueen välisen siirtymäkauden vuokrasopimuksen vuokran määräytymisestä vuosina 2023–2026](272.md) `272/2022`
+- [Maa\- ja metsätalousministeriön asetus b\- ja c\-luokan eläintautien vastustamisesta annetun maa\- ja metsätalousministeriön asetuksen liitteen 1 muuttamisesta](273.md) `273/2022`
+- [Maa\- ja metsätalousministeriön asetus Tenojoen, Näätämöjoen, Paatsjoen, Tuulomajoen ja Uutuanjoen vesistöalueiden suojaamisesta Gyrodactylus salaris \-loisen leviämiseltä annetun maa\- ja metsätalousministeriön asetuksen 2 §:n kumoamisesta](274.md) `274/2022`
+- [Ulkoministeriön asetus Suomen tuesta Tansanian metsätalous\- ja arvoketjujen kehittämisohjelmalle Tansanian kanssa tehdyn sopimuksen muutoksesta](275.md) `275/2022`
+- [Valtioneuvoston asetus tieliikenteen sosiaalilainsäädännön valvonnasta ja viranomaisten työnjaosta](276.md) `276/2022`
+- [Laki kolmansien maiden kansalaisten maahantulon ja oleskelun edellytyksistä tutkimuksen, opiskelun, työharjoittelun ja vapaaehtoistoiminnan perusteella annetun lain muuttamisesta](277.md) `277/2022`
+- [Laki ulkomaalaislain 56 ja 77 §:n muuttamisesta](278.md) `278/2022`
+- [Laki yliopistolain 10 §:n muuttamisesta](279.md) `279/2022`
+- [Laki ammattikorkeakoululain 13 a §:n muuttamisesta](280.md) `280/2022`
+- [Valtioneuvoston asetus maataloustukihakemuksen siirtämisessä vuonna 2022 noudatettavasta menettelystä](281.md) `281/2022`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisten tukien hallinnosta vuonna 2022](282.md) `282/2022`
+- [Laki tupakkalain muuttamisesta](283.md) `283/2022`
+- [Laki arvonlisäverolain 40 §:n muuttamisesta](284.md) `284/2022`
+- [Laki naisten vapaaehtoisesta asepalveluksesta](285.md) `285/2022`
+- [Laki siviilipalveluslain 1 §:n muuttamisesta](286.md) `286/2022`
+- [Laki työllisyyden edistämisen kuntakokeilusta annetun lain muuttamisesta](287.md) `287/2022`
+- [Laki julkisesta työvoima\- ja yrityspalvelusta annetun lain 9 luvun 1 §:n väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](288.md) `288/2022`
+- [Laki työttömyysturvalain muuttamisesta ja väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](289.md) `289/2022`
+- [Valtioneuvoston asetus Rikosseuraamuslaitoksesta](290.md) `290/2022`
+- [Valtioneuvoston asetus rajoittavista toimenpiteistä Ukrainan tilannetta epävakauttavien Venäjän toimien johdosta tehdyn neuvoston päätöksen ja annetun neuvoston asetuksen sekä Valko\-Venäjää koskevista rajoittavista toimenpiteistä tehdyn neuvoston päätöksen ja annetun neuvoston asetuksen mukaisen poikkeusmenettelyn täytäntöönpanosta](291.md) `291/2022`
+- [Valtioneuvoston asetus kalastuksesta Tenojoen vesistössä tehdyn sopimuksen 7 artiklan 3 kohdassa tarkoitetun poikkeavien määräyksien voimaantulolle asetetun määräajan pidentämisestä noottienvaihdolla Norjan kanssa tehdystä sopimuksesta](292.md) `292/2022`
+- [Opetus\- ja kulttuuriministeriön asetus Opetushallituksen ja sen erillisyksiköiden suoritteiden maksullisuudesta annetun opetus\- ja kulttuuriministeriön asetuksen 4 §:n muuttamisesta](293.md) `293/2022`
+- [Sosiaali\- ja terveysministeriön asetus tupakkatuotteiden ja vastaavien tuotteiden vähittäismyynnistä annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](294.md) `294/2022`
+- [Sisäministeriön ilmoitus sisäministeriön asetuksesta Veikkaus Oy:n rahapelien pelisäännöistä](295.md) `295/2022`
+- [Sosiaali\- ja terveysministeriön asetus tupakkatuotteiden ja vastaavien tuotteiden vähittäismyyntipakkausten varoitusmerkinnöistä annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](296.md) `296/2022`
+- [Laki siviilihenkilöiden osallistumisesta kriisinhallintaan annetun lain muuttamisesta](297.md) `297/2022`
+- [Laki Kuntien takauskeskuksesta annetun lain 1 ja 1 a §:n muuttamisesta](298.md) `298/2022`
+- [Laki saatavien perinnästä annetun lain muuttamisesta](299.md) `299/2022`
+- [Laki luottotietolain 24 §:n muuttamisesta](300.md) `300/2022`
+- [Laki oikeudenkäynnistä markkinaoikeudessa annetun lain 5 luvun 2 §:n muuttamisesta](301.md) `301/2022`
+- [Laki kaupallisten sopimusten maksuehdoista annetun lain 8 §:n muuttamisesta](302.md) `302/2022`
+- [Puolustusministeriön asetus asevelvollisuuslaissa ja terveydenhuollon järjestämisestä puolustusvoimissa annetussa laissa tarkoitetuista etuuksista annetun puolustusministeriön asetuksen väliaikaisesta muuttamisesta annetun puolustusministeriön asetuksen voimaantulosäännöksen muuttamisesta](303.md) `303/2022`
+- [Valtioneuvoston asetus julkisen talouden suunnitelmasta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](304.md) `304/2022`
+- [Sisäministeriön asetus kriisinhallintaan osallistuvan siviilihenkilön palvelussuhteen ehdoista annetun sisäministeriön asetuksen muuttamisesta](305.md) `305/2022`
+- [Laki ulkomaalaislain muuttamisesta](306.md) `306/2022`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](307.md) `307/2022`
+- [Valtioneuvoston asetus täydentävien ehtojen hyvän maatalouden ja ympäristön vaatimuksista annetun valtioneuvoston asetuksen väliaikaisesta muuttamisesta](308.md) `308/2022`
+- [Valtioneuvoston asetus julkisesta työvoima\- ja yrityspalvelusta annetun valtioneuvoston asetuksen muuttamisesta ja väliaikaisesta muuttamisesta](309.md) `309/2022`
+- [Valtioneuvoston asetus työttömyysturvalain täytäntöönpanosta annetun valtioneuvoston asetuksen 3 a §:n muuttamisesta](310.md) `310/2022`
+- [Laki valtion paikallishallinnon kehittämisen perusteista annetun lain kumoamisesta](311.md) `311/2022`
+- [Laki poliisin hallinnosta annetun lain 6 §:n muuttamisesta](312.md) `312/2022`
+- [Valtioneuvoston asetus juurikäävän torjunnasta annetun valtioneuvoston asetuksen väliaikaisesta muuttamisesta](313.md) `313/2022`
+- [Valtioneuvoston asetus kalastuksesta Tenojoen vesistössä Norjan kanssa tehdyn sopimuksen 6 ja 7 artiklassa tarkoitetusta pöytäkirjasta](314.md) `314/2022`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta kappaletavarana aluksessa annetun asetuksen 2 §:n muuttamisesta](315.md) `315/2022`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta ja tilapäisestä säilytyksestä satama\-alueella annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](316.md) `316/2022`
+- [Valtioneuvoston asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteen VII luvun vaarallisten aineiden kuljetusta kappaletavarana aluksessa koskevaan säännöstöön \(IMDG\-säännöstö\) tehdyistä muutoksista](317.md) `317/2022`
+- [Valtiovarainministeriön asetus valtiovarainministeriön työjärjestyksestä annetun valtiovarainministeriön asetuksen muuttamisesta](318.md) `318/2022`
+- [Valtioneuvoston asetus holhousasioiden rekisteristä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](319.md) `319/2022`
+- [Valtioneuvoston asetus kestävän metsätalouden rahoituksesta annetun valtioneuvoston asetuksen 9 ja 10 §:n muuttamisesta](320.md) `320/2022`
+- [Valtioneuvoston asetus Suomen ja Ruotsin välillä tehdyn rajajokisopimuksen Tornionjoen kalastusalueen kalastussäännön 16 §:ssä tarkoitetusta pöytäkirjasta](321.md) `321/2022`
+- [Laki kalastuksesta Tenojoen vesistössä Norjan kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja soveltamisesta annetun lain muuttamisesta](322.md) `322/2022`
+- [Laki huumausainelain muuttamisesta](323.md) `323/2022`
+- [Laki sähköisestä lääkemääräyksestä annetun lain 15 §:n muuttamisesta](324.md) `324/2022`
+- [Laki Yhdistyneiden kansakuntien lastenrahaston toimiston asemasta Yhdistyneiden kansakuntien lastenrahaston kanssa tehdystä sopimuksesta](325.md) `325/2022`
+- [Laki varhaiskasvatuslain muuttamisesta](326.md) `326/2022`
+- [Laki elokuvien yhteistuotannosta tehdystä Euroopan neuvoston yleissopimuksesta](327.md) `327/2022`
+- [Laki elokuvien yhteistuotannosta tehdystä eurooppalaisesta yleissopimuksesta](328.md) `328/2022`
+- [Laki valtion virkamieslain muuttamisesta](329.md) `329/2022`
+- [Laki valtioneuvoston oikeuskanslerin ja eduskunnan oikeusasiamiehen tehtävien jaosta](330.md) `330/2022`
+- [Laki luottotietolain muuttamisesta](331.md) `331/2022`
+- [Laki maksupalvelulain 86 §:n muuttamisesta](332.md) `332/2022`
+- [Laki rikosrekisterilain 4 a §:n muuttamisesta](333.md) `333/2022`
+- [Maa\- ja metsätalousministeriön asetus kestävän metsätalouden rahoitukseen liittyvien asiakirjojen sisältövaatimuksista annetun maa\- ja metsätalousministeriön asetuksen 10 §:n 1 momentin muuttamisesta](334.md) `334/2022`
+- [Korkeimman oikeuden työjärjestys](335.md) `335/2022`
+- [Laki yritysten määräaikaisesta kustannustuesta annetun lain 5 d §:n muuttamisesta](336.md) `336/2022`
+- [Laki julkisesta työvoima\- ja yrityspalvelusta annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](337.md) `337/2022`
+- [Laki työllisyyden edistämisen kuntakokeilusta annetun lain 14 ja 18 §:n muuttamisesta](338.md) `338/2022`
+- [Laki työllistymistä edistävästä monialaisesta yhteispalvelusta annetun lain muuttamisesta](339.md) `339/2022`
+- [Laki työttömyysturvalain 11 luvun 4 §:n muuttamisesta](340.md) `340/2022`
+- [Maa\- ja metsätalousministeriön asetus haahkan metsästyksen rajoittamisesta](341.md) `341/2022`
+- [Laki  Puolustusvoimien virka\-avusta poliisille](342.md) `342/2022`
+- [Laki rajavartiolain muuttamisesta](343.md) `343/2022`
+- [Laki poliisilain 2 luvun 17 §:n muuttamisesta](344.md) `344/2022`
+- [Laki puolustusvoimista annetun lain 2 ja 10 §:n muuttamisesta](345.md) `345/2022`
+- [Laki vapaaehtoisesta maanpuolustuksesta annetun lain 23 §:n muuttamisesta](346.md) `346/2022`
+- [Valtioneuvoston asetus Euroopan unionin rahoittamien eläintukien valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](347.md) `347/2022`
+- [Valtioneuvoston asetus vuodelta 2021 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](348.md) `348/2022`
+- [Laki sosiaali\- ja terveydenhuoltoa ja pelastustoimea koskevan uudistuksen toimeenpanosta ja sitä koskevan lainsäädännön voimaanpanosta annetun lain muuttamisesta](349.md) `349/2022`
+- [Laki hyvinvointialueesta annetun lain 13 §:n muuttamisesta](350.md) `350/2022`
+- [Laki sosiaali\- ja terveydenhuollon järjestämisestä annetun lain 23 ja 36 §:n muuttamisesta](351.md) `351/2022`
+- [Laki pelastustoimen järjestämisestä annetun lain 9 §:n muuttamisesta](352.md) `352/2022`
+- [Laki terveydenhuoltolain 46 §:n muuttamisesta](353.md) `353/2022`
+- [Laki hyvinvointialueiden rahoituksesta annetun lain 9 ja 34 §:n muuttamisesta](354.md) `354/2022`
+- [Laki perintö\- ja lahjaverolain 2 §:n muuttamisesta](355.md) `355/2022`
+- [Laki kuolemansyyn selvittämisestä annetun lain 5 §:n muuttamisesta](356.md) `356/2022`
+- [Laki työntekijän eläkelain muuttamisesta](357.md) `357/2022`
+- [Laki työeläkevakuutusyhtiöistä annetun lain 14 ja 18 §:n muuttamisesta](358.md) `358/2022`
+- [Laki eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta annetun lain 17 §:n muuttamisesta](359.md) `359/2022`
+- [Laki merimieseläkelain 154 ja 155 §:n muuttamisesta](360.md) `360/2022`
+- [Laki eläkesäätiöistä ja eläkekassoista annetun lain 6 luvun 3 §:n muuttamisesta](361.md) `361/2022`
+- [Laki diplomaattisten edustustojen, konsuliedustustojen tai kansainvälisissä hallitustenvälisissä järjestöissä toimivien edustustojen työntekijöiden perheenjäsenten ansiotyöstä Namibian kanssa tehdystä sopimuksesta](362.md) `362/2022`
+- [Puolustusministeriön asetus asevelvollisuuslaissa ja terveydenhuollon järjestämisestä puolustusvoimissa annetussa laissa tarkoitetuista etuuksista annetun puolustusministeriön asetuksen 4 §:n muuttamisesta](363.md) `363/2022`
+- [Valtioneuvoston asetus sijoitusten edistämisestä ja suojelusta Tshekin ja Slovakian liittotasavallan kanssa tehdyn sopimuksen irtisanomisesta Suomen ja Tshekin tasavallan välisissä suhteissa tehdystä sopimuksesta](364.md) `364/2022`
+- [Valtioneuvoston asetus poliisilaitosten toimialueista](365.md) `365/2022`
+- [Valtioneuvoston asetus rajavartiolaitoksesta annetun valtioneuvoston asetuksen 16 §:n muuttamisesta](366.md) `366/2022`
+- [Sisäministeriön asetus poliisilaitosten toimipisteiden sijaintipaikoista](367.md) `367/2022`
+- [Puolustusministeriön asetus varusrahasta](368.md) `368/2022`
+- [Valtioneuvoston asetus yritysten määräaikaisesta kustannustuesta annetun lain 5 d §:n muuttamisesta annetun lain voimaantulosta](369.md) `369/2022`
+- [Laki maataloudessa käytettyjen eräiden energiatuotteiden valmisteveron palautuksesta annetun lain 4 §:n muuttamisesta](370.md) `370/2022`
+- [Valtioneuvoston asetus naisten vapaaehtoisesta asepalveluksesta](371.md) `371/2022`
+- [Puolustusministeriön asetus sotilaallisen kriisinhallintahenkilöstön pätevyysvaatimuksista ja palvelussuhteen ehdoista annetun puolustusministeriön asetuksen 7 §:n muuttamisesta](372.md) `372/2022`
+- [Valtioneuvoston asetus Yhdistyneiden kansakuntien lastenrahaston toimiston asemasta Yhdistyneiden kansakuntien lastenrahaston kanssa tehdystä sopimuksesta](373.md) `373/2022`
+- [Valtioneuvoston asetus kalastuksesta Tenojoen vesistön sivuvesistöissä vuonna 2022](374.md) `374/2022`
+- [Sosiaali\- ja terveysministeriön asetus lääkäri\- ja hammaslääkärikoulutuksen korvauksiin ja yliopistotasoisen terveyden tutkimuksen rahoitukseen oikeutetuista palvelujen tuottajista](375.md) `375/2022`
+- [Valtiovarainministeriön asetus Ilmastotutkimus Suomessa \-juhlarahasta](376.md) `376/2022`
+- [Laki oppilas\- ja opiskelijahuoltolain muuttamisesta](377.md) `377/2022`
+- [Laki terveydenhuoltolain muuttamisesta](378.md) `378/2022`
+- [Laki korkeakouluopiskelijoiden opiskeluterveydenhuollosta annetun lain muuttamisesta](379.md) `379/2022`
+- [Laki sosiaalihuoltolain 27 c §:n muuttamisesta](380.md) `380/2022`
+- [Laki sosiaali\- ja terveydenhuollon asiakastietojen sähköisestä käsittelystä annetun lain 52 §:n muuttamisesta](381.md) `381/2022`
+- [Valtioneuvoston asetus helposti pilaantuvien elintarvikkeiden kansainvälisistä kuljetuksista ja tällaisissa kuljetuksissa käytettävästä erityiskalustosta tehdyn sopimuksen 1 ja 2 liitteen muutoksista](382.md) `382/2022`
+- [Valtioneuvoston asetus Amerikan yhdysvaltojen sekä Euroopan yhteisön ja sen jäsenvaltioiden välisen lentoliikennesopimuksen muuttamista koskevasta pöytäkirjasta](383.md) `383/2022`
+- [Valtioneuvoston asetus eläkelaitoksen vakavaraisuusrajan laskennassa käytettävien vakioiden arvoista annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](384.md) `384/2022`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](385.md) `385/2022`
+- [Laki yrityksen saneerauksesta annetun lain muuttamisesta](386.md) `386/2022`
+- [Laki osakeyhtiölain 20 luvun 24 §:n muuttamisesta](387.md) `387/2022`
+- [Laki osuuskuntalain 23 luvun 24 §:n muuttamisesta](388.md) `388/2022`
+- [Laki yksityishenkilön velkajärjestelystä annetun lain muuttamisesta](389.md) `389/2022`
+- [Laki konkurssilain 4 luvun 1 §:n ja 8 luvun 5 §:n muuttamisesta](390.md) `390/2022`
+- [Laki konkurssi\- ja yrityssaneerausrekisteristä annetun lain 6 §:n muuttamisesta](391.md) `391/2022`
+- [Laki velkajärjestelyrekisteristä annetun lain 7 §:n muuttamisesta](392.md) `392/2022`
+- [Laki Euroopan unionin ja Yhdistyneen kuningaskunnan välisen kauppa\- ja yhteistyösopimuksen sosiaaliturvan yhteensovittamista koskevien määräysten soveltamisesta](393.md) `393/2022`
+- [Sisäministeriön asetus Maahanmuuttoviraston suoritteiden maksullisuudesta vuonna 2022 annetun sisäministeriön asetuksen 2 §:n ja liitteen muuttamisesta](394.md) `394/2022`
+- [Sosiaali\- ja terveysministeriön asetus sairausvakuutuslain 4 luvun 5 §:ssä tarkoitetun erityisajoneuvon käytöstä aiheutuneiden matkakustannusten korvaamista koskevasta taksasta annetun sosiaali\- ja terveysministeriön asetuksen 2 §:n muuttamisesta](395.md) `395/2022`
+- [Valtioneuvoston asetus Puolustusvoimien virka\-avusta poliisille](396.md) `396/2022`
+- [Valtioneuvoston asetus Rajavartiolaitoksen vaativasta virka\-avusta poliisille](397.md) `397/2022`
+- [Ulkoministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta \(EU\) 2022/263 rajoittavista toimenpiteistä Ukrainan Donetskin ja Luhanskin alueiden, jotka eivät ole hallituksen valvomia, tunnustamisen ja Venäjän asevoimien siirtymistä kyseisille alueille koskevan määräyksen johdosta](398.md) `398/2022`
+- [Oikeusministeriön asetus velallisen maksukyvyn arvioinnin perusteista yksityishenkilön velkajärjestelyssä annetun oikeusministeriön asetuksen muuttamisesta](399.md) `399/2022`
+- [Valtioneuvoston asetus perustuesta, viherryttämistuesta ja nuoren viljelijän tuesta annetun valtioneuvoston asetuksen muuttamisesta](400.md) `400/2022`
+- [Valtioneuvoston asetus vuodelta 2021 maksettavista lypsylehmä\-, nauta\-, uuhi\- ja kuttupalkkioista, teuraskaritsa\- ja teuraskilipalkkiosta sekä peltokasvipalkkiosta annetun valtioneuvoston asetuksen muuttamisesta](401.md) `401/2022`
+- [Valtioneuvoston asetus elinkeino\-, liikenne\- ja ympäristökeskuksista annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](402.md) `402/2022`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon kehittämishankkeiden valtionavustuksista vuosina 2020–2023 annetun valtioneuvoston asetuksen muuttamisesta](403.md) `403/2022`
+- [Valtioneuvoston asetus sairausvakuutuslain täytäntöönpanosta annetun valtioneuvoston asetuksen muuttamisesta](404.md) `404/2022`
+- [Valtioneuvoston asetus sairaankuljetuksen kustannusten korvaustaksasta annetun valtioneuvoston asetuksen väliaikaisesta muuttamisesta](405.md) `405/2022`
+- [Valtioneuvoston asetus sairausvakuutuksesta korvattavan taksimatkan enimmäishinnasta vuonna 2022 annetun valtioneuvoston asetuksen muuttamisesta](406.md) `406/2022`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](407.md) `407/2022`
+- [Valtioneuvoston asetus eräistä kalastuslupiin liittyvistä säännöksistä Tenojoen vesistössä vuonna 2022](408.md) `408/2022`
+- [Laki lohenkalastuksen määräaikaisesta kieltämisestä Tenojoen vesistössä](409.md) `409/2022`
+- [Maa\- ja metsätalousministeriön asetus kalastuksesta Tenojoen vesistössä Norjan kanssa tehtyyn sopimukseen perustuvista kalastusluvista vuonna 2022](410.md) `410/2022`
+- [Verohallinnon päätös ajoneuvon rekisteröintiluvasta](411.md) `411/2022`
+- [Verohallinnon päätös autoveroilmoituksella ilmoitettavista tiedoista](412.md) `412/2022`
+- [Valtioneuvoston asetus hyvinvointialueen, Helsingin kaupungin ja HUS\-yhtymän tiedonhallinnan ja tietohallinnon muutoksen rahoituksesta vuosina 2021–2026 annetun asetuksen 6 ja 7 §:n muuttamisesta](413.md) `413/2022`
+- [Valtioneuvoston asetus yrityksen saneerauksesta annetun asetuksen muuttamisesta](414.md) `414/2022`
+- [Valtioneuvoston asetus yksityishenkilön velkajärjestelystä annetun asetuksen muuttamisesta](415.md) `415/2022`
+- [Valtioneuvoston asetus rajavyöhykkeestä ja rajavyöhykkeen takarajasta annetun valtioneuvoston asetuksen 5 ja 6 §:n muuttamisesta](416.md) `416/2022`
+- [Laki arvonlisäverolain muuttamisesta](417.md) `417/2022`
+- [Laki valmisteverotuslain 18 §:n muuttamisesta](418.md) `418/2022`
+- [Laki julkisesta työvoima\- ja yrityspalvelusta annetun lain 4 luvun 4 §:n muuttamisesta](419.md) `419/2022`
+- [Valtioneuvoston asetus harvaan asuttujen alueiden luonto\-, ruoka\-, kalastus\- ja metsästysmatkailun kehittämiseksi vuosina 2022–2023 myönnettävästä valtionavustuksesta](420.md) `420/2022`
+- [Valtioneuvoston asetus maa\- ja metsätalousministeriöstä annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](421.md) `421/2022`
+- [Sosiaali\- ja terveysministeriön asetus sairaanhoitajan rajatun lääkkeenmääräämisoikeuden edellytyksenä olevan koulutuksen korvauksen suuruudesta vuonna 2022](422.md) `422/2022`
+- [Ilmastolaki](423.md) `423/2022`
+- [Valtioneuvoston asetus luonnonhaittakorvauksesta annetun valtioneuvoston asetuksen muuttamisesta](424.md) `424/2022`
+- [Valtioneuvoston asetus tutkintojen ja muiden osaamiskokonaisuuksien viitekehyksestä annetun valtioneuvoston asetuksen liitteen muuttamisesta](425.md) `425/2022`
+- [Laki tuloverolain 93 §:n väliaikaisesta muuttamisesta](426.md) `426/2022`
+- [Laki valtion maksuperustelain muuttamisesta](427.md) `427/2022`
+- [Laki Kuntien takauskeskuksesta annetun lain muuttamisesta](428.md) `428/2022`
+- [Laki digitaalisten palvelujen tarjoamisesta annetun lain 15 §:n muuttamisesta](429.md) `429/2022`
+- [Laki valtionavustuslain 34 ja 35 §:n muuttamisesta](430.md) `430/2022`
+- [Laki kuntarakennelain 38 ja 53 §:n muuttamisesta](431.md) `431/2022`
+- [Laki maksuvapautuslain 2 a §:n muuttamisesta](432.md) `432/2022`
+- [Laki panttilainauslaitoksista annetun lain 40 c §:n muuttamisesta](433.md) `433/2022`
+- [Laki valtiontalouden tarkastusvirastosta annetun lain muuttamisesta](434.md) `434/2022`
+- [Laki Suomen Pankista annetun lain 16 ja 24 §:n muuttamisesta](435.md) `435/2022`
+- [Laki Suomen Pankin virkamiehistä annetun lain 31 §:n muuttamisesta](436.md) `436/2022`
+- [Laki Verohallinnosta annetun lain 24 ja 32 §:n muuttamisesta](437.md) `437/2022`
+- [Laki kansainvälisten veroriitojen ratkaisumenettelystä annetun lain 20 §:n muuttamisesta](438.md) `438/2022`
+- [Laki veronlisäyksestä ja viivekorosta annetun lain 11 a §:n muuttamisesta](439.md) `439/2022`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](440.md) `440/2022`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 2 §:n muuttamisesta](441.md) `441/2022`
+- [Laki oma\-aloitteisten verojen verotusmenettelystä annetun lain 67 §:n muuttamisesta](442.md) `442/2022`
+- [Laki autoverolain muuttamisesta](443.md) `443/2022`
+- [Laki ajoneuvoverolain 51 §:n muuttamisesta](444.md) `444/2022`
+- [Laki polttoainemaksusta annetun lain 24 §:n muuttamisesta](445.md) `445/2022`
+- [Laki yksityisestä huvialuksesta suoritettavasta polttoainemaksusta annetun lain 22 §:n muuttamisesta](446.md) `446/2022`
+- [Laki matkailijamyynnistä suoritetun arvonlisäveron käteispalautustoimintaa harjoittavan velvollisuuksista annetun lain 11 §:n muuttamisesta](447.md) `447/2022`
+- [Laki veronkantolain 62 §:n muuttamisesta](448.md) `448/2022`
+- [Laki arvonimistä suoritettavasta verosta annetun lain 6 §:n muuttamisesta](449.md) `449/2022`
+- [Laki rakennusverolain 17 §:n muuttamisesta](450.md) `450/2022`
+- [Laki Digi\- ja väestötietovirastosta annetun lain 9 §:n muuttamisesta](451.md) `451/2022`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](452.md) `452/2022`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](453.md) `453/2022`
+- [Laki tuomioistuimen toimivallasta, päätösten tunnustamisesta ja täytäntöönpanosta avioliittoa ja vanhempainvastuuta koskevissa asioissa ja kansainvälisestä lapsikaappauksesta annetun neuvoston asetuksen soveltamisesta](454.md) `454/2022`
+- [Laki lapsen huollosta ja tapaamisoikeudesta annetun lain muuttamisesta](455.md) `455/2022`
+- [Laki lapsen huoltoa ja tapaamisoikeutta koskevan päätöksen täytäntöönpanosta annetun lain 33 §:n muuttamisesta](456.md) `456/2022`
+- [Laki avioliittolain 119 §:n muuttamisesta](457.md) `457/2022`
+- [Laki yksityisoikeudellista vaatimusta koskevien pohjoismaisten tuomioiden tunnustamisesta ja täytäntöönpanosta annetun lain 8 §:n muuttamisesta](458.md) `458/2022`
+- [Laki lastensuojelulain 17 §:n muuttamisesta](459.md) `459/2022`
+- [Laki lastensuojelulain 17 §:n väliaikaisesta muuttamisesta](460.md) `460/2022`
+- [Laki  Euroopan unionin ja sen jäsenvaltioiden sekä Singaporen tasavallan välillä tehdystä sijoitus\-suojasopimuksesta](461.md) `461/2022`
+- [Valtioneuvoston asetus  hyvinvointialueen taloutta koskevien tietojen toimittamisesta](462.md) `462/2022`
+- [Valtioneuvoston asetus valtion virkaehtosopimusasetuksen 1 a ja 10 §:n muuttamisesta](463.md) `463/2022`
+- [Sosiaali\- ja terveysministeriön asetus lääkäri\- ja hammaslääkärikoulutuksen korvauksen perusteista vuonna 2022](464.md) `464/2022`
+- [Valtioneuvoston asetus arvonlisäverosta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](465.md) `465/2022`
+- [Valtioneuvoston asetus betonimurskeen jätteeksi luokittelun päättymisen arviointiperusteista](466.md) `466/2022`
+- [Valtioneuvoston asetus alueiden kehittämisestä ja Euroopan unionin alue\- ja rakennepolitiikan toimeenpanosta annetussa laissa tarkoitetuista tukialueista vuosina 2022–2027](467.md) `467/2022`
+- [Valtioneuvoston asetus sähkön ja eräiden polttoaineiden valmisteverosta annetun lain muuttamisesta annetun lain 4 §:n 3 momentin voimaantulosta](468.md) `468/2022`
+- [Valtioneuvoston asetus tieliikennettä koskevaan yleissopimukseen tehdyistä muutoksista](469.md) `469/2022`
+- [Valtioneuvoston asetus poronhoitovuodelta 2022/2023 maksettavasta eläinkohtaisesta tuesta](470.md) `470/2022`
+- [Valtioneuvoston asetus poikkeuksellisesta mukautustuesta ja sen lisätuesta maataloustuottajille vuonna 2022](471.md) `471/2022`
+- [Valtioneuvoston asetus vuodelta 2022 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen muuttamisesta](472.md) `472/2022`
+- [Valtioneuvoston asetus sijoitusten edistämisestä ja suojaamisesta Puolan kanssa tehdyn sopimuksen irtisanomisesta tehdystä sopimuksesta](473.md) `473/2022`
+- [Valtioneuvoston asetus sijoitusten edistämisestä ja suojaamisesta Bulgarian kanssa tehdyn sopimuksen irtisanomisesta tehdystä sopimuksesta](474.md) `474/2022`
+- [Oikeusministeriön asetus kuluttajariitalautakunnasta annetun oikeusministeriön asetuksen 6 §:n muuttamisesta](475.md) `475/2022`
+- [Laki raideliikennelain muuttamisesta ja väliaikaisesta muuttamisesta](476.md) `476/2022`
+- [Laki päästökauppalain 56 a ja 56 b §:n väliaikaisesta muuttamisesta](477.md) `477/2022`
+- [Opetus\- ja kulttuuriministeriön asetus yleisistä kielitutkinnoista perittävistä maksuista annetun opetus\- ja kulttuuriministeriön asetuksen 2 §:n muuttamisesta](478.md) `478/2022`
+- [Tasavallan presidentin asetus Suomen liikuntakulttuurin ja urheilun ansiorististä ja ansiomitalista annetun tasavallan presidentin asetuksen muuttamisesta](479.md) `479/2022`
+- [Valtioneuvoston asetus hyvinvointialuetalouden ja \-hallinnon neuvottelukunnasta](480.md) `480/2022`
+- [Valtioneuvoston asetus maitotuotteiden, hedelmien ja vihannesten koulujakelutuesta lukuvuonna 2022–2023](481.md) `481/2022`
+- [Laki maatalouden harjoittamisesta luopumisen tukemisesta annetun lain muuttamisesta](482.md) `482/2022`
+- [Valtioneuvoston asetus pelastustoimen neuvottelukunnasta](483.md) `483/2022`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon neuvottelukunnasta](484.md) `484/2022`
+- [Tasavallan presidentin asetus työympäristötyön erityisansiomitalista](485.md) `485/2022`
+- [Maanmittauslaitoksen työjärjestys](486.md) `486/2022`
+- [Valtiovarainministeriön asetus hyvinvointialueen taloustietojen toimittamiseen sovellettavista tietosisällöstä ja teknisistä kuvauksista koskien tilikautta 2023](487.md) `487/2022`
+- [Valtiovarainministeriön asetus kunnan taloustietojen toimittamiseen sovellettavasta tietosisällöstä ja teknisistä kuvauksista koskien tilikautta 2023](488.md) `488/2022`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](489.md) `489/2022`
+- [Laki ympäristönsuojelulain muuttamisesta](490.md) `490/2022`
+- [Laki vesilain 11 ja 18 luvun muuttamisesta](491.md) `491/2022`
+- [Laki Suomen osallistumisesta Euroopan syyttäjänviraston \(EPPO\) toimintaan annetun lain muuttamisesta](492.md) `492/2022`
+- [Laki energiaintensiivisen teollisuuden sähköistämistuesta](493.md) `493/2022`
+- [Laki jätelain muuttamisesta](494.md) `494/2022`
+- [Laki Harmaan talouden selvitysyksiköstä annetun lain 6 §:n muuttamisesta](495.md) `495/2022`
+- [Liikenne\- ja viestintäministeriön asetus Liikenne\- ja viestintäviraston liikennettä koskevista maksullisista suoritteista annetun liikenne\- ja viestintäministeriön asetuksen liitteen muuttamisesta](496.md) `496/2022`
+- [Liikenne\- ja viestintäministeriön asetus Liikenne\- ja viestintäviraston sähköiseen viestintään liittyvistä suoritteista perittävistä maksuista annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](497.md) `497/2022`
+- [Laki merityösopimuslain 1 ja 13 luvun muuttamisesta](498.md) `498/2022`
+- [Laki yhteistoimintalain 12 §:n muuttamisesta](499.md) `499/2022`
+- [Laki yhteistoiminnasta valtion virastoissa ja laitoksissa annetun lain 13 §:n muuttamisesta](500.md) `500/2022`
+- [Laki sairausvakuutuslain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](501.md) `501/2022`
+- [Laki sairausvakuutuslain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](502.md) `502/2022`
+- [Laki sairausvakuutuslain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](503.md) `503/2022`
+- [Laki vuosilomalain 7 §:n väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](504.md) `504/2022`
+- [Laki merimiesten vuosilomalain 3 §:n väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](505.md) `505/2022`
+- [Sosiaali\- ja terveysministeriön asetus eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](506.md) `506/2022`
+- [Sosiaali\- ja terveysministeriön asetus eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](507.md) `507/2022`
+- [Työ\- ja elinkeinoministeriön asetus työvoimapoliittisista lausunnoista ja yhteistyövelvoitteesta työllisyyden edistämisen kuntakokeilussa annetun työ\- ja elinkeinoministeriön asetuksen muuttamisesta](508.md) `508/2022`
+- [Työ\- ja elinkeinoministeriön asetus työvoimapoliittisista lausunnoista ja yhteistyövelvoitteesta työllisyyden edistämisen kuntakokeilussa annetun työ\- ja elinkeinoministeriön asetuksen voimaantulosäännöksen muuttamisesta](509.md) `509/2022`
+- [Verohallinnon päätös diplomaattisten edustustojen tai toisen jäsenvaltion puolustusvoimien arvonlisäveron palautushakemukseen sisällytettävistä tiedoista ja hakemukseen liitettävistä asiakirjoista](510.md) `510/2022`
+- [Vuoden 2022 II lisätalousarvio](511.md) `511/2022`
+- [Maa\- ja metsätalousministeriön asetus juurikkaiden siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen 12 §:n ja liitteen 1 muuttamisesta](512.md) `512/2022`
+- [Maa\- ja metsätalousministeriön asetus viljakasvien siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](513.md) `513/2022`
+- [Maa\- ja metsätalousministeriön asetus vihanneskasvien siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen 13 §:n ja liitteen 1 muuttamisesta](514.md) `514/2022`
+- [Maa\- ja metsätalousministeriön asetus siemenperunan kaupasta annetun maa\- ja metsätalousministeriön asetuksen 16 §:n 8 momentin kumoamisesta](515.md) `515/2022`
+- [Maa\- ja metsätalousministeriön asetus nurmi\- ja rehukasvien siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen 12 §:n ja liitteen 2 muuttamisesta](516.md) `516/2022`
+- [Maa\- ja metsätalousministeriön asetus öljy\- ja kuitukasvien siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen 12 §:n ja liitteen 2 muuttamisesta](517.md) `517/2022`
+- [Sosiaali\- ja terveysministeriön asetus työtapaturma\- ja ammattitautilain 87 §:n 3 momentin mukaisen haittarahan kertakorvauksen perusteista](518.md) `518/2022`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskoroista](519.md) `519/2022`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvan ja alueellisen kiintiön nojalla sallittavasta karhun metsästyksestä metsästysvuonna 2022–2023](520.md) `520/2022`
+- [Valtioneuvoston asetus covid\-19\-tartunnan toteamiseksi tehtävän tutkimuksen korvaustaksasta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](521.md) `521/2022`
+- [Valtioneuvoston asetus sairausvakuutuslain täytäntöönpanosta annetun valtioneuvoston asetuksen 2 luvun 1 §:n väliaikaisesta muuttamisesta annetun valtioneuvoston asetuksen voimaantulosäännöksen muuttamisesta](522.md) `522/2022`
+- [Valtioneuvoston asetus tartuntataudeista annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](523.md) `523/2022`
+- [Valtioneuvoston asetus rautatieliikenteen aikataulukaudesta ja ratakapasiteetin jakamisesta annetun valtioneuvoston asetuksen 2 ja 4 §:n muuttamisesta](524.md) `524/2022`
+- [Valtioneuvoston asetus työ\- ja elinkeinoministeriöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](525.md) `525/2022`
+- [Valtioneuvoston asetus jätteistä annetun valtioneuvoston asetuksen muuttamisesta](526.md) `526/2022`
+- [Valtiovarainministeriön asetus verovuodelta 2021 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista ja työnantajasuoritusten vähimmäismääristä annetun valtiovarainministeriön asetuksen 2 §:n muuttamisesta](527.md) `527/2022`
+- [Valtioneuvoston asetus vankeudesta annetun valtioneuvoston asetuksen muuttamisesta](528.md) `528/2022`
+- [Valtioneuvoston asetus tutkintavankeudesta annetun valtioneuvoston asetuksen muuttamisesta](529.md) `529/2022`
+- [Valtioneuvoston asetus yhdyskuntaseuraamusten täytäntöönpanosta annetun valtioneuvoston asetuksen muuttamisesta](530.md) `530/2022`
+- [Valtioneuvoston asetus Rikosseuraamusalan koulutuskeskuksesta annetun valtioneuvoston asetuksen muuttamisesta](531.md) `531/2022`
+- [Valtioneuvoston asetus esitutkinnasta, pakkokeinoista ja salaisesta tiedonhankinnasta annetun valtioneuvoston asetuksen 2 luvun 5 §:n muuttamisesta](532.md) `532/2022`
+- [Valtioneuvoston asetus diplomaattisten edustustojen, konsuliedustustojen tai kansainvälisissä hallitustenvälisissä järjestöissä toimivien edustustojen työntekijöiden perheenjäsenten ansiotyöstä Namibian kanssa tehdystä sopimuksesta](533.md) `533/2022`
+- [Ruokaviraston päätös rajoitusvyöhykkeen perustamisesta kalojen tarttuvan verta muodostavan kudoksen kuolion \(IHN\) vuoksi](534.md) `534/2022`
+- [Valtiovarainministeriön asetus luottolaitoksen ja sijoituspalveluyrityksen tilinpäätöksestä, konsernitilinpäätöksestä ja toimintakertomuksesta annetun asetuksen muuttamisesta](535.md) `535/2022`
+- [Työ\- ja elinkeinoministeriön asetus Energiaviraston maksullisista suoritteista annetun työ\- ja elinkeinoministeriön asetuksen muuttamisesta](536.md) `536/2022`
+- [Laki Euroopan unionin elpymis\- ja palautumistukivälineen hallinnoinnista, valvonnasta ja tarkastuksesta](537.md) `537/2022`
+- [Laki valtiokonttorista annetun lain 2 §:n muuttamisesta](538.md) `538/2022`
+- [Laki tulotietojärjestelmästä annetun lain 13 §:n väliaikaisesta muuttamisesta](539.md) `539/2022`
+- [Sosiaali\- ja terveysministeriön asetus sosiaalihuollon ammattihenkilöiden yliopistollisen erikoistumiskoulutuksen korvauksen perusteista vuonna 2022](540.md) `540/2022`
+- [Ruokaviraston päätös kalojen tarttuvan verta muodostavan kuolion \(IHN\) vuoksi annetun rajoitusvyöhykepäätöksen luetteloituja lajeja koskevan liitteen muuttamisesta](541.md) `541/2022`
+- [Laki ihmisen elimien, kudoksien ja solujen lääketieteellisestä käytöstä annetun lain 20 b ja 20 n §:n muuttamisesta](542.md) `542/2022`
+- [Laki veripalvelulain 4 ja 18 §:n muuttamisesta](543.md) `543/2022`
+- [Laki sosiaali\- ja terveystietojen toissijaisesta käytöstä annetun lain muuttamisesta](544.md) `544/2022`
+- [Laki terveydensuojelulain 58 §:n muuttamisesta](545.md) `545/2022`
+- [Laki äitiysavustuslain 2 ja 14 §:n muuttamisesta](546.md) `546/2022`
+- [Laki tupakkalain 8 §:n muuttamisesta](547.md) `547/2022`
+- [Laki huumausainelain 38 §:n muuttamisesta](548.md) `548/2022`
+- [Laki ehkäisevän päihdetyön järjestämisestä annetun lain muuttamisesta](549.md) `549/2022`
+- [Laki lapseen kohdistuneen seksuaali\- ja pahoinpitelyrikoksen selvittämisen järjestämisestä annetun lain muuttamisesta](550.md) `550/2022`
+- [Laki valtion varoista maksettavasta korvauksesta turvakotipalvelun tuottajalle annetun lain 12 §:n muuttamisesta](551.md) `551/2022`
+- [Laki elatustukilain muuttamisesta](552.md) `552/2022`
+- [Laki eläkkeensaajan asumistuesta annetun lain muuttamisesta](553.md) `553/2022`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta annetun lain 16 ja 19 §:n muuttamisesta](554.md) `554/2022`
+- [Laki työttömyysturvalain muuttamisesta](555.md) `555/2022`
+- [Laki sotilasavustuslain 17 ja 22 a §:n muuttamisesta](556.md) `556/2022`
+- [Laki yleisestä asumistuesta annetun lain 9 ja 42 §:n muuttamisesta](557.md) `557/2022`
+- [Laki maatalousyrittäjien työterveyshuollon eräiden kustannusten korvaamisesta valtion varoista annetun lain 1 §:n muuttamisesta](558.md) `558/2022`
+- [Laki lapsilisälain muuttamisesta](559.md) `559/2022`
+- [Laki vammaisetuuksista annetun lain muuttamisesta](560.md) `560/2022`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain muuttamisesta](561.md) `561/2022`
+- [Laki vuorotteluvapaalain 2 §:n muuttamisesta](562.md) `562/2022`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain 15 §:n muuttamisesta](563.md) `563/2022`
+- [Laki sairausvakuutuslain muuttamisesta](564.md) `564/2022`
+- [Laki aikuiskoulutusetuuksista annetun lain 28 §:n muuttamisesta](565.md) `565/2022`
+- [Laki liikennevakuutuslain muuttamisesta](566.md) `566/2022`
+- [Laki liikennevakuutuslain perusteella korvattavasta kuntoutuksesta annetun lain 7 ja 10 §:n muuttamisesta](567.md) `567/2022`
+- [Laki potilasvakuutuslain 1 §:n muuttamisesta](568.md) `568/2022`
+- [Laki sotilasvammalain muuttamisesta](569.md) `569/2022`
+- [Laki työtapaturma\- ja ammattitautilain muuttamisesta](570.md) `570/2022`
+- [Laki maatalousyrittäjän työtapaturma\- ja ammattitautilain muuttamisesta](571.md) `571/2022`
+- [Laki työntekijän eläkelain muuttamisesta](572.md) `572/2022`
+- [Laki yrittäjän eläkelain muuttamisesta](573.md) `573/2022`
+- [Laki maatalousyrittäjän eläkelain muuttamisesta](574.md) `574/2022`
+- [Laki merimieseläkelain muuttamisesta](575.md) `575/2022`
+- [Laki julkisten alojen eläkelain muuttamisesta](576.md) `576/2022`
+- [Laki kansaneläkelain muuttamisesta](577.md) `577/2022`
+- [Laki takuueläkkeestä annetun lain muuttamisesta](578.md) `578/2022`
+- [Laki rintamasotilaseläkelain 1 ja 19 §:n muuttamisesta](579.md) `579/2022`
+- [Laki eläketukilain muuttamisesta](580.md) `580/2022`
+- [Laki terveydenhuoltolain muuttamisesta](581.md) `581/2022`
+- [Laki erikoissairaanhoitolain 28 ja 29 §:n muuttamisesta](582.md) `582/2022`
+- [Laki mielenterveyslain muuttamisesta](583.md) `583/2022`
+- [Laki rajat ylittävästä terveydenhuollosta annetun lain muuttamisesta](584.md) `584/2022`
+- [Laki vastavuoroisesta sairaan\- ja terveydenhoidosta rajaseudulla annetun lain muuttamisesta](585.md) `585/2022`
+- [Laki raskauden keskeyttämisestä annetun lain 8 §:n muuttamisesta](586.md) `586/2022`
+- [Laki sosiaalihuollon asiakasasiakirjoista annetun lain 9 §:n muuttamisesta](587.md) `587/2022`
+- [Laki sosiaalihuoltolain muuttamisesta](588.md) `588/2022`
+- [Laki sosiaalihuoltolain muuttamisesta](589.md) `589/2022`
+- [Laki sosiaalisesta luototuksesta annetun lain muuttamisesta](590.md) `590/2022`
+- [Laki kuntouttavasta työtoiminnasta annetun lain muuttamisesta](591.md) `591/2022`
+- [Laki terveydenhuollon järjestämisestä puolustusvoimissa annetun lain 8 ja 9 §:n muuttamisesta](592.md) `592/2022`
+- [Laki Sosiaali\- ja terveysalan lupa\- ja valvontavirastosta annetun lain 2 ja 6 §:n muuttamisesta](593.md) `593/2022`
+- [Laki sosiaalialan osaamiskeskustoiminnasta annetun lain 1 §:n muuttamisesta](594.md) `594/2022`
+- [Laki vammaisten henkilöiden tulkkauspalvelusta annetun lain muuttamisesta](595.md) `595/2022`
+- [Laki terveydenhuollon ammattihenkilöistä annetun lain muuttamisesta](596.md) `596/2022`
+- [Laki sosiaalihuollon ammattihenkilöistä annetun lain 27 ja 30 §:n muuttamisesta](597.md) `597/2022`
+- [Laki yksityisistä sosiaalipalveluista annetun lain muuttamisesta](598.md) `598/2022`
+- [Laki yksityisestä terveydenhuollosta annetun lain muuttamisesta](599.md) `599/2022`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain muuttamisesta](600.md) `600/2022`
+- [Laki sosiaali\- ja terveydenhuollon palvelusetelistä annetun lain muuttamisesta](601.md) `601/2022`
+- [Laki potilaan asemasta ja oikeuksista annetun lain 2 ja 3 §:n muuttamisesta](602.md) `602/2022`
+- [Laki sosiaalihuollon asiakkaan asemasta ja oikeuksista annetun lain muuttamisesta](603.md) `603/2022`
+- [Laki ikääntyneen väestön toimintakyvyn tukemisesta sekä iäkkäiden sosiaali\- ja terveyspalveluista annetun lain muuttamisesta](604.md) `604/2022`
+- [Laki rintamaveteraanien kuntoutuksesta annetun lain muuttamisesta](605.md) `605/2022`
+- [Laki perhehoitolain muuttamisesta](606.md) `606/2022`
+- [Laki omaishoidon tuesta annetun lain muuttamisesta](607.md) `607/2022`
+- [Laki vammaisuuden perusteella järjestettävistä palveluista ja tukitoimista annetun lain muuttamisesta](608.md) `608/2022`
+- [Laki kehitysvammaisten erityishuollosta annetun lain muuttamisesta](609.md) `609/2022`
+- [Laki lastensuojelulain muuttamisesta](610.md) `610/2022`
+- [Laki korkeakouluopiskelijoiden opiskeluterveydenhuollosta annetun lain 11 ja 12 §:n muuttamisesta](611.md) `611/2022`
+- [Laki työterveyshuoltolain 7 ja 24 §:n muuttamisesta](612.md) `612/2022`
+- [Laki laivaväen lääkärintarkastuksista annetun lain 3 §:n muuttamisesta](613.md) `613/2022`
+- [Laki työturvallisuuslain 40 a §:n muuttamisesta](614.md) `614/2022`
+- [Laki Terveyden ja hyvinvoinnin laitoksesta annetun lain 6 §:n muuttamisesta](615.md) `615/2022`
+- [Laki pelastuslain muuttamisesta](616.md) `616/2022`
+- [Laki palosuojelurahastolain 14 §:n muuttamisesta](617.md) `617/2022`
+- [Laki meripelastuslain 4 §:n muuttamisesta](618.md) `618/2022`
+- [Laki rahankeräyslain 5 §:n muuttamisesta](619.md) `619/2022`
+- [Laki isyyslain muuttamisesta](620.md) `620/2022`
+- [Laki äitiyslain muuttamisesta](621.md) `621/2022`
+- [Laki adoptiolain muuttamisesta](622.md) `622/2022`
+- [Laki avioliittolain muuttamisesta](623.md) `623/2022`
+- [Laki hedelmöityshoidoista annetun lain 2 §:n muuttamisesta](624.md) `624/2022`
+- [Laki lapsen elatuksesta annetun lain muuttamisesta](625.md) `625/2022`
+- [Laki lapsen huollosta ja tapaamisoikeudesta annetun lain muuttamisesta](626.md) `626/2022`
+- [Laki lapsen huoltoa ja tapaamisoikeutta koskevan päätöksen täytäntöönpanosta annetun lain muuttamisesta](627.md) `627/2022`
+- [Laki ulosottokaaren 7 luvun 3 ja 5 §:n muuttamisesta](628.md) `628/2022`
+- [Laki toimivallasta, sovellettavasta laista, toimenpiteiden tunnustamisesta ja täytäntöönpanosta sekä yhteistyöstä vanhempainvastuuseen ja lasten suojeluun liittyvissä asioissa tehdyn yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta annetun lain muuttamisesta](629.md) `629/2022`
+- [Laki etu\- ja sukunimilain muuttamisesta](630.md) `630/2022`
+- [Laki valmiuslain muuttamisesta](631.md) `631/2022`
+- [Laki tuomioistuimen toimivallasta sekä tuomioiden tunnustamisesta ja täytäntöönpanosta avioliittoa ja vanhempainvastuuta koskevissa asioissa annetun neuvoston asetuksen soveltamisesta annetun lain 5 ja 6 §:n muuttamisesta](632.md) `632/2022`
+- [Laki aikuisten kansainvälisestä suojelusta tehdyn yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta annetun lain muuttamisesta](633.md) `633/2022`
+- [Laki yhdistelmärangaistuksen täytäntöönpanosta annetun lain 8 ja 9 §:n muuttamisesta](634.md) `634/2022`
+- [Laki yhdyskuntaseuraamusten täytäntöönpanosta annetun lain 12 ja 71 §:n muuttamisesta](635.md) `635/2022`
+- [Laki oikeusapulain 10 §:n muuttamisesta](636.md) `636/2022`
+- [Laki holhoustoimesta annetun lain muuttamisesta](637.md) `637/2022`
+- [Laki Digi\- ja väestötietoviraston eräistä henkilörekistereistä annetun lain 10 §:n muuttamisesta](638.md) `638/2022`
+- [Laki liikuntalain 5 §:n muuttamisesta](639.md) `639/2022`
+- [Laki opiskelijoiden oikeusturvalautakunnasta annetun lain 12 §:n muuttamisesta](640.md) `640/2022`
+- [Laki kuntien kulttuuritoiminnasta annetun lain 7 §:n muuttamisesta](641.md) `641/2022`
+- [Laki vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetun lain muuttamisesta](642.md) `642/2022`
+- [Laki eläintautilain 22 §:n muuttamisesta](643.md) `643/2022`
+- [Laki valtionavustuslain 3 §:n 2 momentin kumoamisesta](644.md) `644/2022`
+- [Laki Hansel Oy \-nimisestä osakeyhtiöstä annetun lain 3 §:n muuttamisesta](645.md) `645/2022`
+- [Laki eräiden kunta\- ja palvelurakenneuudistuksesta annetussa laissa säädettyjen velvoitteiden soveltamisesta annetun lain kumoamisesta](646.md) `646/2022`
+- [Laki kuntien ja kuntayhtymien eräiden oikeustoimien väliaikaisesta rajoittamisesta sosiaali\- ja terveydenhuollossa annetun lain kumoamisesta](647.md) `647/2022`
+- [Laki maatalouden harjoittamisesta luopumisen tukemisesta annetun lain 78 §:n muuttamisesta](648.md) `648/2022`
+- [Laki hallinnon yhteisistä sähköisen asioinnin tukipalveluista annetun lain 5 §:n muuttamisesta](649.md) `649/2022`
+- [Laki rikoslain muuttamisesta annetun lain 25 luvun 9 §:n 2 momentin kumoamisesta](650.md) `650/2022`
+- [Laki rikoslain 25 luvun 9 §:n muuttamisesta](651.md) `651/2022`
+- [Laki henkilötietojen käsittelystä Rikosseuraamuslaitoksessa annetun lain 16 §:n muuttamisesta](652.md) `652/2022`
+- [Laki sosiaali\- ja terveydenhuollon sekä pelastustoimen järjestämisestä Uudellamaalla annetun lain 25 §:n muuttamisesta](653.md) `653/2022`
+- [Laki sosiaali\- ja terveydenhuoltoa ja pelastustoimea koskevan uudistuksen toimeenpanosta ja sitä koskevan lainsäädännön voimaanpanosta annetun lain väliaikaisesta muuttamisesta](654.md) `654/2022`
+- [Laki ampuma\-aselain 17 §:n muuttamisesta](655.md) `655/2022`
+- [Laki vapaaehtoisesta maanpuolustuksesta annetun lain muuttamisesta](656.md) `656/2022`
+- [Laki uusiutuvien polttoaineiden käytön edistämisestä liikenteessä annetun lain 5 §:n muuttamisesta ja 5 b §:n väliaikaisesta muuttamisesta](657.md) `657/2022`
+- [Valtioneuvoston asetus energiaintensiivisen teollisuuden sähköistämistuesta](658.md) `658/2022`
+- [Valtioneuvoston asetus valtionavustuksesta yritystoiminnan kehittämiseksi vuosina 2021‒2028 annetun valtioneuvoston asetuksen muuttamisesta](659.md) `659/2022`
+- [Laki osakeyhtiölain 5 luvun muuttamisesta](660.md) `660/2022`
+- [Laki asunto\-osakeyhtiölain 6 luvun muuttamisesta](661.md) `661/2022`
+- [Laki osuuskuntalain 5 luvun muuttamisesta](662.md) `662/2022`
+- [Laki yhdistyslain muuttamisesta](663.md) `663/2022`
+- [Laki säästöpankkilain muuttamisesta](664.md) `664/2022`
+- [Laki hypoteekkiyhdistyksistä annetun lain muuttamisesta](665.md) `665/2022`
+- [Laki eräistä huoltovarmuuden turvaamisen järjestelyistä rahoitusalalla](666.md) `666/2022`
+- [Laki luottolaitostoiminnasta annetun lain 5 luvun 16 §:n ja 18 luvun 5 §:n muuttamisesta](667.md) `667/2022`
+- [Laki Rahoitusvakausviraston hallintomaksusta annetun lain muuttamisesta](668.md) `668/2022`
+- [Laki työttömyysturvalain muuttamisesta](669.md) `669/2022`
+- [Laki julkisesta työvoima\- ja yrityspalvelusta annetun lain muuttamisesta](670.md) `670/2022`
+- [Laki työllisyyden edistämisen kuntakokeilusta annetun lain 5 §:n muuttamisesta](671.md) `671/2022`
+- [Laki työsopimuslain muuttamisesta](672.md) `672/2022`
+- [Laki merityösopimuslain muuttamisesta](673.md) `673/2022`
+- [Laki työaikalain 15 §:n muuttamisesta](674.md) `674/2022`
+- [Laki merityöaikalain 5 a §:n muuttamisesta](675.md) `675/2022`
+- [Laki työajasta kotimaanliikenteen aluksissa annetun lain 6 a §:n muuttamisesta](676.md) `676/2022`
+- [Laki kunnan ja hyvinvointialueen viranhaltijasta annetun lain 37 a §:n muuttamisesta](677.md) `677/2022`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain muuttamisesta](678.md) `678/2022`
+- [Laki tulotietojärjestelmästä annetun lain 13 §:n muuttamisesta](679.md) `679/2022`
+- [Laki tulotietojärjestelmästä annetun lain 13 §:n muuttamisesta](680.md) `680/2022`
+- [Laki eräiden kansaneläkeindeksiin sidottujen etuuksien ylimääräisestä indeksitarkistuksesta vuonna 2022](681.md) `681/2022`
+- [Laki työllisyyden edistämisen kuntakokeilusta annetun lain muuttamisesta](682.md) `682/2022`
+- [Laki julkisesta työvoima\- ja yrityspalvelusta annetun lain 3 luvun 5 ja 6 §:n muuttamisesta](683.md) `683/2022`
+- [Laki työttömyysturvalain 2 a luvun 9 §:n muuttamisesta](684.md) `684/2022`
+- [Laki Ison\-Britannian ja Pohjois\-Irlannin yhdistyneen kuningaskunnan eroamisesta Euroopan unionista ja Euroopan atomienergiayhteisöstä tehdyn sopimuksen oleskeluoikeuksia koskevien eräiden määräysten täytäntöönpanosta annetun lain 6 §:n muuttamisesta](685.md) `685/2022`
+- [Valtioneuvoston asetus elinkeino\-, liikenne\- ja ympäristökeskuksista annetun valtioneuvoston asetuksen 16 a §:n muuttamisesta](686.md) `686/2022`
+- [Laki kiinteistöverolain väliaikaisesta muuttamisesta](687.md) `687/2022`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 6 §:n väliaikaisesta muuttamisesta](688.md) `688/2022`
+- [Laki verotusmenettelystä annetun lain 12 §:n muuttamisesta ja väliaikaisesta muuttamisesta](689.md) `689/2022`
+- [Valtioneuvoston asetus väestötietojärjestelmästä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](690.md) `690/2022`
+- [Valtioneuvoston asetus kunnan peruspalvelujen valtionosuudesta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](691.md) `691/2022`
+- [Valtioneuvoston asetus elinkeino\-, liikenne\- ja ympäristökeskuksista annetun valtioneuvoston asetuksen muuttamisesta](692.md) `692/2022`
+- [Laki kuluttajansuojalain muuttamisesta](693.md) `693/2022`
+- [Laki kuluttajansuojaviranomaisten eräistä toimivaltuuksista annetun lain muuttamisesta](694.md) `694/2022`
+- [Laki sähkömarkkinalain 87 ja 88 §:n muuttamisesta](695.md) `695/2022`
+- [Laki maakaasumarkkinalain 71 ja 72 §:n muuttamisesta](696.md) `696/2022`
+- [Laki kuluttajansuojalain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](697.md) `697/2022`
+- [Laki rajavartiolain muuttamisesta](698.md) `698/2022`
+- [Ulkoministeriön asetus Palestiinalaishallinnon kanssa Suomen tuesta Palestiinalaishallinnolle Mécanisme Palestino\-Européen de Gestion et d’Aide Socio\-économique \-mekanismin kautta tehdystä sopimuksen muutoksesta](699.md) `699/2022`
+- [Laki hyvinvointialueiden rahoituksesta annetun lain muuttamisesta](700.md) `700/2022`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain muuttamisesta](701.md) `701/2022`
+- [Laki sosiaali\- ja terveydenhuoltoa ja pelastustoimea koskevan uudistuksen toimeenpanosta ja sitä koskevan lainsäädännön voimaanpanosta annetun lain 55 §:n muuttamisesta](702.md) `702/2022`
+- [Laki verotusmenettelystä annetun lain 91 b §:n muuttamisesta](703.md) `703/2022`
+- [Laki tuloverolain 124 §:n muuttamisesta](704.md) `704/2022`
+- [Laki valtiokonttorista annetun lain 2 §:n muuttamisesta](705.md) `705/2022`
+- [Laki valmiuslain muuttamisesta](706.md) `706/2022`
+- [Laki asevelvollisuuslain 79 §:n muuttamisesta](707.md) `707/2022`
+- [Laki valmiuslain 109 §:n muuttamisesta annetun lain muuttamisesta](708.md) `708/2022`
+- [Laki valtion virkamieslain muuttamisesta](709.md) `709/2022`
+- [Laki Suomen Pankin virkamiehistä annetun lain muuttamisesta](710.md) `710/2022`
+- [Lannoitelaki](711.md) `711/2022`
+- [Laki eräiden tuotteiden markkinavalvonnasta annetun lain 1 ja 4 §:n muuttamisesta](712.md) `712/2022`
+- [Laki Harmaan talouden selvitysyksiköstä annetun lain 6 §:n muuttamisesta](713.md) `713/2022`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](714.md) `714/2022`
+- [Laki oppivelvollisuuslain muuttamisesta](715.md) `715/2022`
+- [Laki perusopetuslain muuttamisesta](716.md) `716/2022`
+- [Laki lukiolain 24 §:n muuttamisesta](717.md) `717/2022`
+- [Laki ammatillisesta koulutuksesta annetun lain 67 ja 97 §:n muuttamisesta](718.md) `718/2022`
+- [Laki tutkintokoulutukseen valmentavasta koulutuksesta annetun lain muuttamisesta](719.md) `719/2022`
+- [Laki vapaasta sivistystyöstä annetun lain muuttamisesta](720.md) `720/2022`
+- [Laki valtakunnallisista opinto\- ja tutkintorekistereistä annetun lain muuttamisesta](721.md) `721/2022`
+- [Valtioneuvoston asetus vapaasta sivistystyöstä annetun asetuksen muuttamisesta](722.md) `722/2022`
+- [Laki rikoslain muuttamisesta](723.md) `723/2022`
+- [Laki esitutkintalain muuttamisesta](724.md) `724/2022`
+- [Laki järjestyslain 7 §:n muuttamisesta](725.md) `725/2022`
+- [Laki liikenteen palveluista annetun lain 25 §:n muuttamisesta](726.md) `726/2022`
+- [Laki liiketoimintakiellosta annetun lain 3 §:n muuttamisesta](727.md) `727/2022`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain 2 luvun 3 a §:n ja 5 luvun 11 a §:n muuttamisesta](728.md) `728/2022`
+- [Laki poliisin säilyttämien henkilöiden kohtelusta annetun lain 16 luvun 2 §:n muuttamisesta](729.md) `729/2022`
+- [Laki raskauden keskeyttämisestä annetun lain muuttamisesta](730.md) `730/2022`
+- [Laki oikeudenkäymiskaaren 17 luvun 24 §:n muuttamisesta](731.md) `731/2022`
+- [Laki pakkokeinolain 10 luvun muuttamisesta](732.md) `732/2022`
+- [Laki rikosrekisterilain 6 §:n muuttamisesta](733.md) `733/2022`
+- [Laki vankeuslain 19 luvun 4 ja 5 §:n muuttamisesta](734.md) `734/2022`
+- [Laki yliopistolain 43 a §:n muuttamisesta](735.md) `735/2022`
+- [Laki ammattikorkeakoululain 33 §:n muuttamisesta](736.md) `736/2022`
+- [Laki ammatillisesta koulutuksesta annetun lain 81 §:n muuttamisesta](737.md) `737/2022`
+- [Laki lapsipornografian levittämisen estotoimista annetun lain 2 §:n muuttamisesta](738.md) `738/2022`
+- [Laki positiivisesta luottotietorekisteristä](739.md) `739/2022`
+- [Laki kuluttajansuojalain 7 luvun 14 §:n ja 7 a luvun 11 §:n muuttamisesta](740.md) `740/2022`
+- [Laki tulotietojärjestelmästä annetun lain muuttamisesta](741.md) `741/2022`
+- [Laki luottotietolain muuttamisesta](742.md) `742/2022`
+- [Valtioneuvoston asetus kuluttajien kannalta sopimattomasta menettelystä markkinoinnissa ja asiakassuhteissa annetun valtioneuvoston asetuksen 1 ja 2 §:n muuttamisesta](743.md) `743/2022`
+- [Laki työsopimuslain muuttamisesta](744.md) `744/2022`
+- [Laki merityösopimuslain muuttamisesta](745.md) `745/2022`
+- [Laki työaikalain muuttamisesta](746.md) `746/2022`
+- [Laki kunnan ja hyvinvointialueen viranhaltijasta annetun lain muuttamisesta](747.md) `747/2022`
+- [Laki työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetun lain 13 §:n muuttamisesta](748.md) `748/2022`
+- [Laki työntekijän eläkelain 148 §:n kumoamisesta](749.md) `749/2022`
+- [Laki työtapaturma\- ja ammattitautilain 272 §:n kumoamisesta](750.md) `750/2022`
+- [Laki asuntosäästöpalkkiolain muuttamisesta](751.md) `751/2022`
+- [Laki oman asunnon hankintaan myönnettävien lainojen korkotuesta annetun lain muuttamisesta](752.md) `752/2022`
+- [Laki omistusasuntolainojen valtiontakauksesta annetun lain 5 §:n muuttamisesta](753.md) `753/2022`
+- [Oikeusministeriön asetus kuluttajansuojalain 6 luvussa tarkoitetuista peruuttamislomakkeesta ja peruuttamisohjeista annetun oikeusministeriön asetuksen liitteiden I ja II muuttamisesta](754.md) `754/2022`
+- [Valtioneuvoston asetus suhteita ja yhteistyötä koskevasta Euroopan unionin ja sen jäsenvaltioiden sekä Uuden\-Seelannin välisestä kumppanuussopimuksesta](755.md) `755/2022`
+- [Valtioneuvoston asetus kalastuksesta annetun valtioneuvoston asetuksen 1 ja 4 §:n muuttamisesta](756.md) `756/2022`
+- [Valtioneuvoston asetus Euroopan meri\-, kalatalous\- ja vesiviljelyrahaston Suomen ohjelmasta 2021–2027 myönnettävästä tuesta](757.md) `757/2022`
+- [Valtioneuvoston asetus huumausaineina pidettävistä aineista, valmisteista ja kasveista annetun valtioneuvoston asetuksen liitteen IV muuttamisesta](758.md) `758/2022`
+- [Valtioneuvoston asetus kuluttajamarkkinoilta kielletyistä psykoaktiivisista aineista annetun valtioneuvoston asetuksen liitteen muuttamisesta](759.md) `759/2022`
+- [Valtioneuvoston asetus Tanskan, Suomen, Norjan ja Ruotsin hallitusten välisestä yhteistyöstä puolustusmateriaalialalla tehtyyn sopimukseen Suomen, Norjan ja Ruotsin hallitusten välisestä huoltovarmuudesta tehdyn sopimustekstiliitteen muuttamisesta tehdystä sopimuksesta](760.md) `760/2022`
+- [Valtioneuvoston asetus Tanskan, Suomen, Norjan ja Ruotsin välillä puolustusmateriaalialan teollisuuden yhteistyön tukemisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain kumoamisesta annetun lain voimaantulosta](761.md) `761/2022`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain muuttamisesta](762.md) `762/2022`
+- [Laki kuljetusalan yritysten määräaikaisesta polttoainetuesta](763.md) `763/2022`
+- [Valtioneuvoston asetus juurikäävän torjunnasta annetun valtioneuvoston asetuksen väliaikaisesta muuttamisesta annetun valtioneuvoston asetuksen voimaantulosäännöksen muuttamisesta](764.md) `764/2022`
+- [Maa\- ja metsätalousministeriön asetus hallin metsästyksestä alueellisen kiintiön nojalla metsästysvuosina 2022–2024](765.md) `765/2022`
+- [Maa\- ja metsätalousministeriön asetus itämeren norpan metsästyksestä alueellisen kiintiön nojalla metsästysvuosina 2022–2023](766.md) `766/2022`
+- [Maa\- ja metsätalousministeriön asetus pyyntiluvalla sallittavasta euroopanmajavan metsästyksestä metsästysvuosina 2022–2024](767.md) `767/2022`
+- [Maa\- ja metsätalousministeriön asetus metsähanhen metsästyksen kieltämisestä metsästysvuonna 2022–2023](768.md) `768/2022`
+- [Ulkoministeriön asetus Etiopian kanssa maanhallintasektorin tukemisesta tehdystä toisen vaiheen sopimuksen muutoksesta](769.md) `769/2022`
+- [Valtioneuvoston asetus yhteistyöstä puolustusmateriaalialalla Tanskan, Suomen, Norjan ja Ruotsin hallitusten välillä tehtyyn sopimukseen tehdystä vientivalvontaliitteestä](770.md) `770/2022`
+- [Valtioneuvoston asetus kiireellisen hoidon perusteista ja päivystyksen erikoisalakohtaisista edellytyksistä annetun valtioneuvoston asetuksen 6 ja 18 §:n muuttamisesta](771.md) `771/2022`
+- [Maa\- ja metsätalousministeriön asetus metson, teeren, pyyn ja riekon metsästyksen kieltämisestä metsästysvuonna 2022–2023](772.md) `772/2022`
+- [Valtioneuvoston asetus avustuksista asuinrakennusten kaukolämpölaitteistojen uusimiseen matalalämpötilaiseen kaukolämpöön soveltuviksi vuosina 2022 ja 2023](773.md) `773/2022`
+- [Valtioneuvoston asetus alle 18\-vuotiaana vahinkoa kärsineen ansiotulon määrän vahvistamisesta](774.md) `774/2022`
+- [Vanhemmuuslaki](775.md) `775/2022`
+- [Laki hedelmöityshoidoista annetun lain 16 §:n muuttamisesta](776.md) `776/2022`
+- [Laki lapsen huollosta ja tapaamisoikeudesta annetun lain 6 a §:n muuttamisesta](777.md) `777/2022`
+- [Laki lapsen elatuksesta annetun lain 13 §:n muuttamisesta](778.md) `778/2022`
+- [Laki rekisteröidystä parisuhteesta annetun lain 9 §:n muuttamisesta](779.md) `779/2022`
+- [Laki oikeusgeneettisestä isyystutkimuksesta annetun lain muuttamisesta](780.md) `780/2022`
+- [Laki kansalaisuuslain muuttamisesta](781.md) `781/2022`
+- [Laki elatustukilain 6 §:n muuttamisesta](782.md) `782/2022`
+- [Laki sosiaalihuoltolain 14 §:n muuttamisesta](783.md) `783/2022`
+- [Laki sosiaalihuollon asiakasasiakirjoista annetun lain liitteen muuttamisesta](784.md) `784/2022`
+- [Tasavallan presidentin asetus Suomen ulkomaanedustustojen sijaintipaikoista ja konsulipalveluiden järjestämisestä ulkoasiainhallinnossa annetun tasavallan presidentin asetuksen muuttamisesta](785.md) `785/2022`
+- [Laki kansallisesta vientilupaviranomaisesta](786.md) `786/2022`
+- [Laki Saavutettavuuskirjasto Celiasta](787.md) `787/2022`
+- [Laki yleisistä kirjastoista annetun lain 11 §:n muuttamisesta](788.md) `788/2022`
+- [Opetus\- ja kulttuuriministeriön asetus opetus\- ja kulttuuriministeriön työjärjestyksestä annetun opetus\- ja kulttuuriministeriön asetuksen muuttamisesta](789.md) `789/2022`
+- [Laki sosiaalihuoltolain muuttamisesta](790.md) `790/2022`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain muuttamisesta](791.md) `791/2022`
+- [Laki yksityisistä sosiaalipalveluista annetun lain muuttamisesta](792.md) `792/2022`
+- [Laki liikenneturvallisuusmaksusta annetun lain 4 §:n muuttamisesta](793.md) `793/2022`
+- [Laki liikennevakuutuslain 87 §:n muuttamisesta](794.md) `794/2022`
+- [Oikeusministeriön asetus Rikosseuraamuslaitoksen tunnuskuvasta ja virkamerkistä](795.md) `795/2022`
+- [Oikeusministeriön asetus Rikosseuraamuslaitoksen virkamiesten virkapuvusta sekä suoja\- ja erityisvaatetuksesta](796.md) `796/2022`
+- [Oikeusministeriön asetus rikosseuraamuskeskuksen yksiköistä ja vankiloiden kaksikielisistä osastoista](797.md) `797/2022`
+- [Sosiaali\- ja terveysministeriön asetus Lääkealan turvallisuus\- ja kehittämiskeskuksen maksullisista suoritteista](798.md) `798/2022`
+- [Valtioneuvoston asetus nimetylle katsastajalle ja aluksenmittaajalle sekä nimetylle tarkastajalle maksettavien palkkioiden suuruudesta](799.md) `799/2022`
+- [Valtioneuvoston asetus puustoisten elinympäristöjen ennallistamiseen, kunnostukseen ja hoitoon vuosina 2022–2027 myönnettävästä tuesta](800.md) `800/2022`
+- [Sosiaali\- ja terveysministeriön asetus Terveyden ja hyvinvoinnin laitoksen laaturekistereistä](801.md) `801/2022`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](802.md) `802/2022`
+- [Valtioneuvoston asetus diplomaatti\- ja virkapassin haltijoiden vapauttamisesta viisumivelvollisuudesta Thaimaan kanssa tehdystä sopimuksesta](803.md) `803/2022`
+- [Valtioneuvoston asetus lapsen syntymää koskevasta ilmoituksesta ja henkilöllisyyden toteamiseksi hyväksyttävistä asiakirjoista vanhemmuusasioissa](804.md) `804/2022`
+- [Valtioneuvoston asetus oikeusgeneettisestä isyystutkimuksesta ja lääketieteellisestä selvityksestä](805.md) `805/2022`
+- [Valtioneuvoston asetus väestötietojärjestelmästä annetun valtioneuvoston asetuksen 7 §:n muuttamisesta](806.md) `806/2022`
+- [Oikeusministeriön asetus vanhemmuus\- ja elatusasioissa käytettävistä lomakkeista](807.md) `807/2022`
+- [Valtioneuvoston asetus valtionhallinnon yhteishankinnoista annetun valtioneuvoston asetuksen muuttamisesta](808.md) `808/2022`
+- [Verohallinnon päätös maatalouden tuotantorakennusten kiinteistöverotuen hakemisesta](809.md) `809/2022`
+- [Valtiovarainministeriön päätös valtionhallinnon yhteishankinnoista annetun valtiovarainministeriön päätöksen muuttamisesta](810.md) `810/2022`
+- [Valtioneuvoston asetus eräistä positiiviseen luottotietorekisteriin talletettavista tiedoista](811.md) `811/2022`
+- [Valtioneuvoston asetus Ahvenanmaan maakuntaa koskevista poikkeuksista arvonlisävero\- ja valmisteverolainsäädäntöön annetun lain täytäntöönpanosta annetun asetuksen 3 §:n muuttamisesta](812.md) `812/2022`
+- [Tasavallan presidentin asetus eCall\-hätäpuhelujärjestelmän vaatimustenmukaisuuden arviointiin liittyvien tehtävien hoitamisesta Ahvenanmaalla](813.md) `813/2022`
+- [Laki pankki\- ja maksutilien valvontajärjestelmästä annetun lain muuttamisesta](814.md) `814/2022`
+- [Laki rahanpesun selvittelykeskuksesta annetun lain 2 ja 4 §:n muuttamisesta](815.md) `815/2022`
+- [Laki ulkomaalaislain muuttamisesta](816.md) `816/2022`
+- [Laki henkilötietojen käsittelystä maahanmuuttohallinnossa annetun lain muuttamisesta](817.md) `817/2022`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain muuttamisesta](818.md) `818/2022`
+- [Laki henkilötietojen käsittelystä Rajavartiolaitoksessa annetun lain muuttamisesta](819.md) `819/2022`
+- [Laki henkilötietojen käsittelystä Tullissa annetun lain 5 ja 24 §:n muuttamisesta](820.md) `820/2022`
+- [Laki  ulkomaalaislain 131 §:n muuttamisesta](821.md) `821/2022`
+- [Työ\- ja elinkeinoministeriön asetus ulkomaalaislain nojalla säädettyihin tehtäviin toimivaltaisista työ\- ja elinkeinotoimistoista](822.md) `822/2022`
+- [Valtiovarainministeriön asetus Digi\- ja väestötietoviraston suoritteiden maksuista vuonna 2022 annetun valtiovarainministeriön asetuksen muuttamisesta](823.md) `823/2022`
+- [Vuoden 2022 kolmas lisätalousarvio](824.md) `824/2022`
+- [Sosiaali\- ja terveysministeriön asetus käyttöoikeudesta asiakastietoon](825.md) `825/2022`
+- [Laki välttämättömän terveydenhuollon ja kotihoidon turvaamisesta työtaistelun aikana](826.md) `826/2022`
+- [Sisäministeriön asetus pelastustoimen virkapuvusta sekä pelastusviranomaisen henkilökortista annetun sisäministeriön asetuksen 15 §:n muuttamisesta](827.md) `827/2022`
+- [Valtiovarainministeriön asetus valtiovarainministeriön työjärjestyksestä annetun valtiovarainministeriön asetuksen muuttamisesta](828.md) `828/2022`
+- [Ympäristöministeriön asetus  vaarallisten aineiden käytön rajoituksista sähkö\- ja elektroniikkalaitteissa annetun ympäristöministeriön asetuksen liitteen I muuttamisesta](829.md) `829/2022`
+- [Valtioneuvoston asetus valtion rajat ylittävästä toiminnasta Ruotsin siviili\-ilmailuviranomaisen kanssa tehdystä sopimuksesta](830.md) `830/2022`
+- [Valtioneuvoston asetus korkeakouluopiskelijoiden ruokailun tukemisen perusteista annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](831.md) `831/2022`
+- [Valtioneuvoston asetus liikenne\- ja viestintäministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](832.md) `832/2022`
+- [Liikenne\- ja viestintäministeriön asetus liikenne\- ja viestintäministeriön työjärjestyksen muuttamisesta](833.md) `833/2022`
+- [Sosiaali\- ja terveysministeriön asetus lääkäri\- ja hammaslääkärikoulutuksen korvauksiin ja yliopistotasoisen terveyden tutkimuksen rahoitukseen oikeutetuista palvelujen tuottajista annetun sosiaali\- ja terveysministeriön asetuksen 3 §:n muuttamisesta](834.md) `834/2022`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön työjärjestyksestä](835.md) `835/2022`
+- [Valtioneuvoston asetus kalastus\- ja vesiviljelyalan yrityksille Ukrainaan kohdistuneesta Venäjän hyökkäyksestä johtuvan taloudellisen tilanteen heikentymisen perusteella myönnettävästä avustuksesta](836.md) `836/2022`
+- [Sisäministeriön asetus rajavartiolaitokseen palvelussuhteessa olevan virkamiehen ulkomaanedustuksen korvauksista annetun sisäasiainministeriön asetuksen muuttamisesta](837.md) `837/2022`
+- [Ulkoministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoministeriön asetuksen muuttamisesta](838.md) `838/2022`
+- [Tasavallan presidentin asetus sisäasioiden rahastojen ohjelmia koskevien hallintotehtävien hoidosta Ahvenanmaalla](839.md) `839/2022`
+- [Laki arvonlisäverolain väliaikaisesta muuttamisesta](840.md) `840/2022`
+- [Liikenne\- ja viestintäministeriön asetus Liikenne\- ja viestintäviraston liikennettä koskevista maksullisista suoritteista annetun liikenne\- ja viestintäministeriön asetuksen liitteen muuttamisesta](841.md) `841/2022`
+- [Maa ja metsätalousministeriön asetus elintarvikevalvonnasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](842.md) `842/2022`
+- [Maa\- ja metsätalousministeriön asetus kasvilajikeluettelosta annetun maa\- ja metsätalousministeriön asetuksen liitteen 2 ja 3 muuttamisesta](843.md) `843/2022`
+- [Valtioneuvoston asetus valtionavustuksesta eräisiin julkiselle sosiaali\- ja terveydenhuollolle covid\-19\-epidemiasta vuonna 2022 aiheutuviin lisäkustannuksiin](844.md) `844/2022`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](845.md) `845/2022`
+- [Valtioneuvoston asetus kaupalliselle kalastukselle ja kalankasvatukselle vahinkoja aiheuttavien halliurosten poistamisesta aiheutuviin kustannuksiin määräaikana myönnettävästä avustuksesta annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](846.md) `846/2022`
+- [Valtioneuvoston asetus kalastuksesta annetun valtioneuvoston asetuksen 12 §:n muuttamisesta](847.md) `847/2022`
+- [Valtioneuvoston asetus metsästysasetuksen 10 §:n muuttamisesta](848.md) `848/2022`
+- [Ulkoministeriön asetus investointituki kehitysmaille \-rahoitusinstrumentilla rahoitettavista hankkeista Ghanan kanssa tehdystä puitesopimuksesta](849.md) `849/2022`
+- [Maa\- ja metsätalousministeriön asetus vasikoiden kuljetuskuntoisuudesta kaupallisissa kuljetuksissa](850.md) `850/2022`
+- [Ulkoministeriön asetus Etelä\-Afrikan tasavallan kanssa Suomen tuesta Eteläisen Afrikan Biotiedeverkosto SANBio:n tukihankkeelle tehdystä sopimuksen muutoksesta](851.md) `851/2022`
+- [Ulkoministeriön asetus Sambian kanssa Suomen tuesta Sambian pienten ja keskisuurten yritysten kasvun tukemiseksi tehdystä sopimuksen muutoksesta](852.md) `852/2022`
+- [Valtioneuvoston asetus elokuvien yhteistuotannosta tehdystä Euroopan neuvoston yleissopimuksesta](853.md) `853/2022`
+- [Valtioneuvoston asetus elokuvien yhteistuotannosta tehdystä eurooppalaisesta yleissopimuksesta](854.md) `854/2022`
+- [Sosiaali\- ja terveysministeriön asetus terveydenhuollon valtakunnallisten tietojärjestelmäpalvelujen käyttömaksuista annetun sosiaali\- ja terveysministeriön asetuksen \(voimassa 1\.1\.2022–31\.12\.2023\) muuttamisesta](855.md) `855/2022`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvalla sallittavasta ilveksen metsästyksestä metsästysvuonna 2022–2023](856.md) `856/2022`
+- [Ulkoministeriön asetus Ukrainan opetussektorin kehittämisestä Ukrainan kanssa tehdyn sopimuksen muuttamisesta tehdystä sopimuksesta](857.md) `857/2022`
+- [Opetus\- ja kulttuuriministeriön asetus Saavutettavuuskirjasto Celian johtokunnasta ja pistekirjoituksen neuvottelukunnasta](858.md) `858/2022`
+- [Valtioneuvoston asetus maakotkien porotaloudelle aiheuttamien vahinkojen korvaamisesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](859.md) `859/2022`
+- [Valtioneuvoston asetus  tietoturvan kehittämisen tuesta](860.md) `860/2022`
+- [Valtioneuvoston asetus Euroopan unionin ja sen jäsenvaltioiden sekä Australian välisestä puitesopimuksesta](861.md) `861/2022`
+- [Valtiovarainministeriön asetus Suomen ensimmäinen luonnonsuojelulaki 23\. helmikuuta 1923 \-juhlarahasta](862.md) `862/2022`
+- [Valtioneuvoston asetus vuodelta 2022 maksettavasta lihan ja vuodelta 2021 maksettavasta maidon kuljetusavustuksesta sekä vuodelta 2022 maksettavasta eräiden kotieläintalouden palvelujen tuesta](863.md) `863/2022`
+- [Valtioneuvoston asetus biomassojen ravinteiden kierrätystä edistäviin toimenpiteisiin myönnettävästä väliaikaisesta valtionavustuksesta annetun valtioneuvoston asetuksen 4 ja 26 §:n muuttamisesta](864.md) `864/2022`
+- [Sosiaali\- ja terveysministeriön asetus palkkakertoimesta vuodelle 2023](865.md) `865/2022`
+- [Sosiaali\- ja terveysministeriön asetus työeläkeindeksistä vuodelle 2023](866.md) `866/2022`
+- [Valtioneuvoston asetus valtion yhteisten tieto\- ja viestintäteknisten palvelujen järjestämisestä annetun valtioneuvoston asetuksen muuttamisesta](867.md) `867/2022`
+- [Valtiovarainministeriön asetus elpymis\- ja palautumissuunnitelman toimeenpanoa koskevasta johdon vahvistuslausumasta](868.md) `868/2022`
+- [Laki kuljetusalan yritysten määräaikaisesta polttoainetuesta annetun lain muuttamisesta](869.md) `869/2022`
+- [Laki arvonlisäverolain väliaikaisesta muuttamisesta](870.md) `870/2022`
+- [Verohallinnon päätös vuonna 2023 sovellettavien ennakonpidätysperusteiden voimaantulosta](871.md) `871/2022`
+- [Valtioneuvoston asetus vuoden 1992 Itämeren alueen merellisen ympäristön suojelua koskevan yleissopimuksen III liitteen II osan muutoksista](872.md) `872/2022`
+- [Valtioneuvoston asetus vaarallisten tavaroiden kansainvälisistä tiekuljetuksista tehdyn sopimuksen \(ADR\) liitteen A 1\.5 luvun 1\.5\.1 kohdan mukaisesta monenkeskisestä sopimuksesta M347](873.md) `873/2022`
+- [Laki yhteisen kalastuspolitiikan seuraamusjärjestelmästä ja valvonnasta annetun lain muuttamisesta](874.md) `874/2022`
+- [Laki Euroopan unionin tietojärjestelmien yhteentoimivuudesta](875.md) `875/2022`
+- [Laki ikääntyneen väestön toimintakyvyn tukemisesta sekä iäkkäiden sosiaali\- ja terveyspalveluista annetun lain muuttamisesta](876.md) `876/2022`
+- [Maa\- ja metsätalousministeriön asetus kalatalousalueiden yleisavustuksen jakoperusteista vuosina 2023–2027](877.md) `877/2022`
+- [Maa\- ja metsätalousministeriön asetus b\- ja c \-luokan eläintautien vastustamisesta annetun maa\- ja metsätalousministeriön asetuksen 4 §:n ja liitteen 1 muuttamisesta](878.md) `878/2022`
+- [Valtioneuvoston asetus Etelämannerta koskevaan sopimukseen liittyvän ympäristönsuojelupöytäkirjan liitteen V alaisista toimenpiteistä](879.md) `879/2022`
+- [Maa ja metsätalousministeriön asetus elintarvikehygieniasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](880.md) `880/2022`
+- [Valtioneuvoston asetus ympäristöministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](881.md) `881/2022`
+- [Sosiaali\- ja terveysministeriön asetus yrittäjän työeläkevakuutusmaksuprosenteista ja maatalousyrittäjän työeläkevakuutusmaksun perusprosenteista vuonna 2023](882.md) `882/2022`
+- [Valtioneuvoston asetus moottoribensiinin, dieselöljyn ja eräiden muiden nestemäisten polttoaineiden laatuvaatimuksista](883.md) `883/2022`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](884.md) `884/2022`
+- [Verohallinnon päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](885.md) `885/2022`
+- [Verohallinnon päätös metsän keskimääräisestä vuotuisesta tuotosta](886.md) `886/2022`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain 82 §:ssä tarkoitetun elinaikakertoimen antamisesta](887.md) `887/2022`
+- [Valtioneuvoston asetus kansanedustajien paikkojen jaosta vaalipiirien kesken vuoden 2023 eduskuntavaaleissa](888.md) `888/2022`
+- [Valtioneuvoston asetus aluksen miehityksestä ja laivaväen pätevyydestä annetun valtioneuvoston asetuksen muuttamisesta](889.md) `889/2022`
+- [Opetus\- ja kulttuuriministeriön asetus varhaiskasvatuksen yksityisen palveluntuottajan lupa\- ja ilmoitusmenettelyyn kuuluvista liitteistä](890.md) `890/2022`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain muuttamisesta](891.md) `891/2022`
+- [Laki valtion palveluiden saatavuuden ja toimintojen sijoittamisen perusteista annetun lain muuttamisesta](892.md) `892/2022`
+- [Laki julkisen hallinnon yhteispalvelusta annetun lain 2 §:n muuttamisesta](893.md) `893/2022`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain muuttamisesta](894.md) `894/2022`
+- [Laki Alankomaiden kuningaskunnan kanssa Alankomaiden Antillien osalta automaattisesta tietojenvaihdosta säästöjen tuottamista korkotuloista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain kumoamisesta](895.md) `895/2022`
+- [Laki palkkaturvalain muuttamisesta](896.md) `896/2022`
+- [Laki merimiesten palkkaturvalain muuttamisesta](897.md) `897/2022`
+- [Laki tiedustelutoiminnan valvonnasta annetun lain muuttamisesta](898.md) `898/2022`
+- [Tasavallan presidentin asetus eräiden siemeniä ja taimiaineistoja koskevien hallintotehtävien hoitamisesta Ahvenanmaalla](899.md) `899/2022`
+- [Laki Yhdistyneiden Kansakuntien kanssa Yhdistyneiden Kansakuntien yhteydessä toimivan Helsingin kriminaalipoliittisen instituutin perustamisesta tehdyn sopimuksen ja sen muuttamisesta tehdyn pöytäkirjan eräiden määräysten hyväksymisestä sekä sopimuksen soveltamisesta annetun lain muuttamisesta](900.md) `900/2022`
+- [Laki eräistä oikeudenkäynneistä kunnan tai kuntainliiton palveluksessa oleville aiheutuvien kustannusten korvaamisesta kunnan tai kuntainliiton varoista annetun lain 1 a §:n muuttamisesta](901.md) `901/2022`
+- [Laki Maailman postiliiton yleissopimuksesta](902.md) `902/2022`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän työeläkevakuutusmaksuprosenteista vuonna 2023](903.md) `903/2022`
+- [Valtioneuvoston asetus kalastonhoitomaksun suuruuden tarkistamisesta vuosina 2023–2027](904.md) `904/2022`
+- [Laki  metallirahasta annetun lain muuttamisesta](905.md) `905/2022`
+- [Valtioneuvoston asetus valtion rahoituksen perusteena käytettävistä lukiokoulutuksen, taiteen perusopetuksen ja kansalaisopistojen keskimääräisistä yksikköhinnoista vuonna 2023](906.md) `906/2022`
+- [Valtioneuvoston asetus erityisavustuksesta tilapäistä suojelua hakevien tai saavien, kansainvälistä suojelua hakevien taikka ilman oleskeluoikeutta olevien lasten varhaiskasvatuksen järjestämiseen vuonna 2023](907.md) `907/2022`
+- [Valtioneuvoston asetus raskaan ja kevyen polttoöljyn rikkipitoisuudesta](908.md) `908/2022`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](909.md) `909/2022`
+- [Verohallinnon päätös verovapaista matkakustannusten korvauksista vuonna 2023](910.md) `910/2022`
+- [Laki ympäristövaikutusten arviointimenettelystä annetun lain muuttamisesta](911.md) `911/2022`
+- [Laki viranomaisten suunnitelmien ja ohjelmien ympäristövaikutusten arvioinnista annetun lain muuttamisesta](912.md) `912/2022`
+- [Laki maankäyttö\- ja rakennuslain muuttamisesta](913.md) `913/2022`
+- [Laki ilmailulain 80 ja 81 b §:n muuttamisesta](914.md) `914/2022`
+- [Laki liikennejärjestelmästä ja maanteistä annetun lain 29 §:n muuttamisesta](915.md) `915/2022`
+- [Laki maa\-aineslain 13 ja 19 §:n muuttamisesta](916.md) `916/2022`
+- [Laki ratalain 24 §:n muuttamisesta](917.md) `917/2022`
+- [Laki ympäristönsuojelulain 212 §:n muuttamisesta](918.md) `918/2022`
+- [Verohallinnon päätös maksujärjestelyssä noudatettavasta menettelystä](919.md) `919/2022`
+- [Valtioneuvoston asetus yrityskauppojen ilmoitusvelvollisuudesta annetun valtioneuvoston asetuksen 1 §:n ja liitteen muuttamisesta](920.md) `920/2022`
+- [Valtioneuvoston asetus sairausvakuutusmaksujen maksuprosenteista vuonna 2023](921.md) `921/2022`
+- [Valtioneuvoston asetus korkeakouluopiskelijoiden opiskeluterveydenhuollon maksuista vuonna 2023](922.md) `922/2022`
+- [Ulkoministeriön asetus Etiopian kanssa opetussektorin tasa\-arvoisen koulutuksen laadun parantamisohjelman teknisestä tuesta tehdystä sopimuksen muutoksesta](923.md) `923/2022`
+- [Sosiaali\- ja terveysministeriön asetus lääkkeiden hintalautakunnan maksullisista suoritteista vuosina 2023 ja 2024](924.md) `924/2022`
+- [Oikeusministeriön asetus velallisen maksukyvyn arvioinnista yksityishenkilön velkajärjestelyssä annetun oikeusministeriön asetuksen 4 §:n muuttamisesta](925.md) `925/2022`
+- [Opetus\- ja kulttuuriministeriön asetus ammatillisen koulutuksen rahoituksen laskentaperusteista annetun opetus\- ja kulttuuriministeriön asetuksen muuttamisesta](926.md) `926/2022`
+- [Valtioneuvoston asetus lelujen turvallisuudesta annetun valtioneuvoston asetuksen liitteen 1 muuttamisesta](927.md) `927/2022`
+- [Maa\- ja metsätalousministeriön asetus kauppa\- ja teollisuusministeriön laihdutusvalmisteista annetun päätöksen kumoamisesta](928.md) `928/2022`
+- [Verohallinnon päätös matkakuluvähennyksen määrästä vuodelta 2022 toimitettavassa verotuksessa](929.md) `929/2022`
+- [LUETTELO kuntien ja seurakuntien tuloveroprosenteista vuonna 2023](930.md) `930/2022`
+- [Verohallinnon päätös vuodelta 2023 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](931.md) `931/2022`
+- [Laki työeläkevakuutusyhtiöistä annetun lain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](932.md) `932/2022`
+- [Laki vakuutusyhtiölain 5 luvun muuttamisesta](933.md) `933/2022`
+- [Laki lisäeläkesäätiöistä ja lisäeläkekassoista annetun lain 6 luvun 19 §:n muuttamisesta](934.md) `934/2022`
+- [Laki työllistymistä edistävästä monialaisesta yhteispalvelusta annetun lain muuttamisesta](935.md) `935/2022`
+- [Laki kotoutumisen edistämisestä annetun lain muuttamisesta](936.md) `936/2022`
+- [Laki työllisyyden edistämisen kuntakokeilusta annetun lain muuttamisesta](937.md) `937/2022`
+- [Laki julkisesta työvoima\- ja yrityspalvelusta annetun lain 3 luvun 7 §:n muuttamisesta](938.md) `938/2022`
+- [Laki tulotietojärjestelmästä annetun lain 13 §:n muuttamisesta annetun lain ja tulotietojärjestelmästä annetun lain 13 §:n väliaikaisesta muuttamisesta annetun lain kumoamisesta](939.md) `939/2022`
+- [Laki tulotietojärjestelmästä annetun lain muuttamisesta](940.md) `940/2022`
+- [Laki opintotukilain muuttamisesta](941.md) `941/2022`
+- [Laki valtion rahoituksesta kansallisille taidelaitoksille](942.md) `942/2022`
+- [Laki Kansallisgalleriasta annetun lain 29 §:n muuttamisesta](943.md) `943/2022`
+- [Laki valtakunnallisista opinto\- ja tutkintorekistereistä annetun lain muuttamisesta](944.md) `944/2022`
+- [Laki taiteen perusopetuksesta annetun lain muuttamisesta](945.md) `945/2022`
+- [Laki Kansallisesta koulutuksen arviointikeskuksesta annetun lain muuttamisesta](946.md) `946/2022`
+- [Laki perusopetuslain 26 §:n muuttamisesta](947.md) `947/2022`
+- [Valtioneuvoston asetus erityisavustuksesta varhaiskasvatuksen sekä esi\- ja perusopetuksen koulutuksellista tasa\-arvoa ja yhdenvertaisuutta edistäviin toimenpiteisiin](948.md) `948/2022`
+- [Valtiovarainministeriön asetus Valtiokonttorin maksullisista suoritteista vuosina 2023 ja 2024](949.md) `949/2022`
+- [Verohallinnon päätös rakennusmaan verotusarvon laskentaperusteista](950.md) `950/2022`
+- [Vuoden 2022 neljäs talousarvio](951.md) `951/2022`
+- [Laki arpajaislain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](952.md) `952/2022`
+- [Laki sijoitusrahastolain muuttamisesta](953.md) `953/2022`
+- [Laki vaihtoehtorahastojen hoitajista annetun lain muuttamisesta](954.md) `954/2022`
+- [Laki nuorisolain muuttamisesta](955.md) `955/2022`
+- [Laki sosiaalisesta luototuksesta annetun lain muuttamisesta](956.md) `956/2022`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen muuttamisesta](957.md) `957/2022`
+- [Laki sähkön ja eräiden polttoaineiden valmisteverosta annetun lain muuttamisesta](958.md) `958/2022`
+- [Laki nestemäisten polttoaineiden valmisteverosta annetun lain 2 a §:n muuttamisesta](959.md) `959/2022`
+- [Laki valmisteverotuslain 82 ja 98 a §:n muuttamisesta](960.md) `960/2022`
+- [Laki valmisteverotuslain muuttamisesta annetun lain 51 §:n muuttamisesta](961.md) `961/2022`
+- [Laki jäteverolain muuttamisesta](962.md) `962/2022`
+- [Laki ympäristönsuojelulain muuttamisesta](963.md) `963/2022`
+- [Työ\- ja elinkeinoministeriön asetus työ\- ja elinkeinoministeriön työjärjestyksestä annetun työ\- ja elinkeinoministeriön asetuksen muuttamisesta](964.md) `964/2022`
+- [Valtioneuvoston asetus sosiaali\- ja terveysministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](965.md) `965/2022`
+- [Verohallinnon työjärjestys](966.md) `966/2022`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveysministeriön työjärjestyksen muuttamisesta](967.md) `967/2022`
+- [Verohallinnon päätös ennakonpidätyksen toimittamistavoista ja määrästä](968.md) `968/2022`
+- [Valtiovarainministeriön asetus hallinto\- ja valvontajärjestelmän kuvauksen laatimisesta](969.md) `969/2022`
+- [Valtioneuvoston asetus vuodelta 2022 maksettavista lypsylehmä\-, nauta\-, uuhi\- ja kuttupalkkioista, teuraskaritsa\- ja teuraskilipalkkiosta sekä peltokasvipalkkiosta annetun valtioneuvoston asetuksen 25 §:n muuttamisesta](970.md) `970/2022`
+- [Valtioneuvoston asetus perustuesta, viherryttämistuesta ja nuoren viljelijän tuesta annetun valtioneuvoston asetuksen muuttamisesta](971.md) `971/2022`
+- [Ympäristöministeriön asetus ympäristöministeriön työjärjestyksestä](972.md) `972/2022`
+- [Verohallinnon päätös yleisestä tiedonantovelvollisuudesta](973.md) `973/2022`
+- [Valtioneuvoston asetus hyvinvointialueen ja HUS\-yhtymän toiminnan valmistelun rahoituksesta vuosina 2021 ja 2022 annetun valtioneuvoston asetuksen 10 §:n muuttamisesta](974.md) `974/2022`
+- [Valtioneuvoston asetus kotoutumisen edistämiseen liittyvien kunnan kustannusten korvaamisesta valtion varoista annetun valtioneuvoston asetuksen nimikkeen ja 1 §:n muuttamisesta](975.md) `975/2022`
+- [Opetus\- ja kulttuuriministeriön asetus Saavutettavuuskirjasto Celian suoritteiden maksullisuudesta](976.md) `976/2022`
+- [Valtioneuvoston asetus eläkkeensaajan asumistuen määräytymisperusteista vuonna 2023](977.md) `977/2022`
+- [Valtioneuvoston asetus elintarvikkeiden ja veden välityksellä leviävien epidemioiden selvittämisestä annetun valtioneuvoston asetuksen muuttamisesta](978.md) `978/2022`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön maksullisista suoritteista vuosina 2023 ja 2024](979.md) `979/2022`
+- [Ulkoministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta \(EU\) 2022/2309 Haitin tilanteen johdosta määrättävistä rajoittavista toimenpiteistä](980.md) `980/2022`
+- [Valtioneuvoston asetus varautumissuunnitelmaan sisällytettävästä sähkönkäyttöpaikkojen etusijajärjestyksestä](981.md) `981/2022`
+- [Valtioneuvoston asetus vuodelta 2022 maksettavista lypsylehmä\-, nauta\-, uuhi\- ja kuttupalkkioista, teuraskaritsa\- ja teuraskilipalkkiosta sekä peltokasvipalkkiosta annetun valtioneuvoston asetuksen muuttamisesta](982.md) `982/2022`
+- [Laki lapsilisälain 7 §:n väliaikaisesta muuttamisesta](983.md) `983/2022`
+- [Laki toimeentulotuesta annetun lain 11 §:n väliaikaisesta muuttamisesta](984.md) `984/2022`
+- [Laki ulosottokaaren 4 luvun 48 §:n väliaikaisesta muuttamisesta](985.md) `985/2022`
+- [Laki vaihtoehtoisella käyttövoimalla toimivan ajoneuvon hankinnan sekä ajoneuvon vaihtoehtoisella käyttövoimalla toimivaksi muuntamisen määräaikaisesta tukemisesta annetun lain muuttamisesta](986.md) `986/2022`
+- [Laki rakennusten varustamisesta sähköajoneuvojen latauspisteillä ja latauspistevalmiuksilla sekä automaatio\- ja ohjausjärjestelmillä annetun lain muuttamisesta](987.md) `987/2022`
+- [Oikeusministeriön asetus oikeusministeriön ja eräiden hallinnonalalla toimivien viranomaisten maksullisista suoritteista vuosina 2023–2024](988.md) `988/2022`
+- [Laki poliisilain 9 luvun 1 ja 10 §:n muuttamisesta](989.md) `989/2022`
+- [Laki sosiaalihuollon asiakkaan asemasta ja oikeuksista annetun lain 22 §:n muuttamisesta](990.md) `990/2022`
+- [Laki mielenterveyslain 31 §:n muuttamisesta](991.md) `991/2022`
+- [Laki vankeuslain 1 luvun 11 §:n muuttamisesta](992.md) `992/2022`
+- [Laki valvotusta koevapaudesta annetun lain 38 §:n muuttamisesta](993.md) `993/2022`
+- [Laki yhdyskuntaseuraamusten täytäntöönpanosta annetun lain 24 ja 35 §:n muuttamisesta](994.md) `994/2022`
+- [Laki yhdistelmärangaistuksen täytäntöönpanosta annetun lain 20 ja 30 §:n muuttamisesta](995.md) `995/2022`
+- [Laki pakkokeinolain 2 luvun 12 j §:n muuttamisesta](996.md) `996/2022`
+- [Laki ulosottokaaren 3 luvun muuttamisesta](997.md) `997/2022`
+- [Laki asevelvollisuuslain 125 §:n muuttamisesta](998.md) `998/2022`
+- [Laki sotilaskurinpidosta ja rikostorjunnasta puolustusvoimissa annetun lain 38 a §:n muuttamisesta](999.md) `999/2022`
+- [Laki siviilipalveluslain 103 §:n muuttamisesta](1000.md) `1000/2022`
+- [Laki työtapaturma\- ja ammattitautilain 253 ja 254 §:n muuttamisesta](1001.md) `1001/2022`
+- [Laki eräiden poliisin virka\-apukustannusten korvaamisesta annetun lain kumoamisesta](1002.md) `1002/2022`
+- [Laki Business Finland Venture Capital Oy \-nimisestä valtion kokonaan omistamasta osakeyhtiöstä annetun lain muuttamisesta](1003.md) `1003/2022`
+- [Valtioneuvoston asetus rajavartiolaitoksesta annetun valtioneuvoston asetuksen 48 §:n muuttamisesta](1004.md) `1004/2022`
+- [Valtioneuvoston asetus asiakirjojen turvallisuusluokittelusta valtionhallinnossa annetun valtioneuvoston asetuksen 16 §:n muuttamisesta](1005.md) `1005/2022`
+- [Valtioneuvoston asetus porotaloudesta saatujen tulojen vuoden 2022 verotuksessa noudatettavista tuottoperusteista](1006.md) `1006/2022`
+- [Valtiovarainministeriön asetus verovuodelta 2022 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista ja työnantajasuoritusten vähimmäismääristä](1007.md) `1007/2022`
+- [Valtiovarainministeriön asetus Tullin suoritteiden maksullisuudesta](1008.md) `1008/2022`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](1009.md) `1009/2022`
+- [Valtiovarainministeriön asetus rakennusten jälleenhankinta\-arvon perusteista määrättäessä verotusarvoa vuodelta 2022](1010.md) `1010/2022`
+- [Valtiovarainministeriön asetus vesivoimalaitoksen ja sen rakenteiden jälleenhankinta\-arvon perusteista määrättäessä verotusarvoa vuodelta 2022](1011.md) `1011/2022`
+- [Laki valtion henkilöstölle etätyöstä johtuvissa olosuhteissa sattuneiden tapaturmien korvaamisesta](1012.md) `1012/2022`
+- [Laki tuloverolain väliaikaisesta muuttamisesta](1013.md) `1013/2022`
+- [Laki elinkeinotulon verottamisesta annetun lain 18 b §:n muuttamisesta](1014.md) `1014/2022`
+- [Valtioneuvoston asetus alueellisesta kuljetustuesta vuosina 2023–2025](1015.md) `1015/2022`
+- [Valtioneuvoston asetus Yhdistyneiden Kansakuntien yhteydessä toimivasta Euroopan kriminaalipolitiikan instituutista](1016.md) `1016/2022`
+- [Valtioneuvoston asetus vankeudesta annetun valtioneuvoston asetuksen 35 §:n muuttamisesta](1017.md) `1017/2022`
+- [Valtioneuvoston asetus yksityisteistä annetun valtioneuvoston asetuksen 4 ja 6 §:n väliaikaisesta muuttamisesta](1018.md) `1018/2022`
+- [Valtioneuvoston asetus huumausaineina pidettävistä aineista, valmisteista ja kasveista annetun valtioneuvoston asetuksen muuttamisesta](1019.md) `1019/2022`
+- [Valtioneuvoston asetus kuluttajamarkkinoilta kielletyistä psykoaktiivisista aineista annetun valtioneuvoston asetuksen liitteen muuttamisesta](1020.md) `1020/2022`
+- [Valtioneuvoston asetus sotainvalidien puolisoiden ja leskien sekä sotaleskien kuntoutuksesta vuonna 2023](1021.md) `1021/2022`
+- [Valtioneuvoston asetus eräille ulkomaalaisille vapaaehtoisille rintamasotilaille vuonna 2023 maksettavasta rintama\-avustuksesta](1022.md) `1022/2022`
+- [Laki toimeentulotuesta annetun lain muuttamisesta](1023.md) `1023/2022`
+- [Laki sosiaalihuoltolain 14 §:n muuttamisesta](1024.md) `1024/2022`
+- [Laki kuntouttavasta työtoiminnasta annetun lain 2 ja 18 §:n muuttamisesta](1025.md) `1025/2022`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain 29 §:n muuttamisesta](1026.md) `1026/2022`
+- [Laki sairausvakuutuslain muuttamisesta](1027.md) `1027/2022`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain muuttamisesta](1028.md) `1028/2022`
+- [Laki työntekijän eläkelain muuttamisesta](1029.md) `1029/2022`
+- [Laki yrittäjän eläkelain muuttamisesta](1030.md) `1030/2022`
+- [Laki maatalousyrittäjän eläkelain muuttamisesta](1031.md) `1031/2022`
+- [Laki merimieseläkelain muuttamisesta](1032.md) `1032/2022`
+- [Laki julkisten alojen eläkelain muuttamisesta](1033.md) `1033/2022`
+- [Valtioneuvoston asetus talouspolitiikan arviointineuvostosta annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](1034.md) `1034/2022`
+- [Laki työttömyysturvalain 2 a ja 4 luvun muuttamisesta](1035.md) `1035/2022`
+- [Laki asumisneuvonnan tuesta kunnille vuosina 2023–2027](1036.md) `1036/2022`
+- [Valtioneuvoston asetus pilaantuneiden alueiden puhdistamisen tukemisesta vuosina 2020–2022 annetun valtioneuvoston asetuksen nimikkeen ja 5 §:n muuttamisesta](1037.md) `1037/2022`
+- [Laki ulosottokaaren muuttamisesta](1038.md) `1038/2022`
+- [Oikeusministeriön päätös yleisen asianajajayhdistyksen sääntöjen vahvistamisesta annetun oikeusministeriön päätöksen muuttamisesta](1039.md) `1039/2022`
+- [Sisäministeriön asetus Pelastusopiston maksullisista suoritteista](1040.md) `1040/2022`
+- [Valtioneuvoston asetus sairausvakuutuksesta korvattavan taksimatkan enimmäishinnasta vuonna 2023](1041.md) `1041/2022`
+- [Sisäministeriön asetus Maahanmuuttoviraston suoritteiden maksullisuudesta vuonna 2023](1042.md) `1042/2022`
+- [Sisäministeriön asetus sisäministeriön suoritteiden maksullisuudesta](1043.md) `1043/2022`
+- [Ulkoministeriön asetus Etiopian kanssa maanhallintasektorin tukemisesta tehdystä toisen vaiheen sopimuksen muutoksesta](1044.md) `1044/2022`
+- [Laki yhteisestä ilmailualueesta Euroopan unionin ja sen jäsenvaltioiden sekä Ukrainan välillä tehdystä sopimuksesta](1045.md) `1045/2022`
+- [Laki lentoliikenteestä Euroopan unionin ja sen jäsenvaltioiden sekä Qatarin välillä tehdystä sopimuksesta](1046.md) `1046/2022`
+- [Laki yhteisestä ilmailualueesta Euroopan unionin ja sen jäsenvaltioiden sekä Armenian välillä tehdystä sopimuksesta](1047.md) `1047/2022`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveysministeriön työjärjestyksen muuttamisesta](1048.md) `1048/2022`
+- [Puolustusministeriön asetus asevelvollisuuslaissa ja terveydenhuollon järjestämisestä puolustusvoimissa annetussa laissa tarkoitetuista etuuksista annetun puolustusministeriön asetuksen 2 ja 5 §:n muuttamisesta](1049.md) `1049/2022`
+- [Puolustusministeriön asetus varusrahasta annetun puolustusministeriön asetuksen 1 §:n muuttamisesta](1050.md) `1050/2022`
+- [Oikeusministeriön asetus eräistä tietosuojavaltuutetun toimiston maksullisista suoritteista](1051.md) `1051/2022`
+- [Oikeusministeriön asetus suojaosuuden määrästä määräajoin maksettavan palkan ulosmittauksessa vuonna 2023](1052.md) `1052/2022`
+- [Valtioneuvoston asetus valtion talousarviosta annetun asetuksen muuttamisesta](1053.md) `1053/2022`
+- [Valtioneuvoston päätös turvapaikanhakijoiden ottamisesta Suomeen](1054.md) `1054/2022`
+- [Oikeusministeriön asetus tutkintavankiloina toimivista vankiloista](1055.md) `1055/2022`
+- [Ulkoministeriön asetus Nepalin kanssa Nepalin opetussektoriohjelman kolmannesta vaiheesta tehdystä sopimuksesta](1056.md) `1056/2022`
+- [Sosiaali\- ja terveysministeriön asetus merimieseläkekassan vakuutusteknisen vastuuvelan laskuperusteista ja perusteista merimieseläkelain 153 §:n mukaista vastuunjakoa varten annetun sosiaali\- ja terveysministeriön asetuksen liitteiden muuttamisesta](1057.md) `1057/2022`
+- [Verohallinnon päätös sääntöjen vastaisesti tai muuta kuin kaupallista myyntiä varten maahantuodun muun tupakkaa sisältävän tuotteen verotusarvosta](1058.md) `1058/2022`
+- [Valtioneuvoston asetus lapsen huollosta ja tapaamisoikeudesta](1059.md) `1059/2022`
+- [Valtioneuvoston asetus kunnalle maksettavasta korvauksesta asiantuntija\-avustajan käyttämisestä huoltoriitojen tuomioistuinsovittelussa ja lapsen kuulemisessa tuomioistuimessa annetun valtioneuvoston asetuksen muuttamisesta](1060.md) `1060/2022`
+- [Valtioneuvoston asetus nestemäisten polttoaineiden valmisteverosta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](1061.md) `1061/2022`
+- [Valtioneuvoston asetus ammatillisesta koulutuksesta annetun valtioneuvoston asetuksen 14 §:n muuttamisesta](1062.md) `1062/2022`
+- [Valtioneuvoston asetus sairausvakuutuslain täytäntöönpanosta annetun valtioneuvoston asetuksen 2 luvun 1 §:n muuttamisesta](1063.md) `1063/2022`
+- [Valtioneuvoston asetus työttömyysturvalain täytäntöönpanosta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1064.md) `1064/2022`
+- [Valtioneuvoston asetus työttömyysetuutta määrättäessä huomioon otettavasta tulosta annetun valtioneuvoston asetuksen muuttamisesta](1065.md) `1065/2022`
+- [Valtioneuvoston asetus sairaankuljetuksen kustannusten korvaustaksasta annetun valtioneuvoston asetuksen väliaikaisesta muuttamisesta](1066.md) `1066/2022`
+- [Valtioneuvoston asetus ilmailulta rajoitetuista alueista annetun valtioneuvoston asetuksen muuttamisesta](1067.md) `1067/2022`
+- [Maa\- ja metsätalousministeriön asetus metsätalouden ympäristötuen laskennassa käytettävästä puukuutiometrin keskikantohinnasta](1068.md) `1068/2022`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön työjärjestyksestä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1069.md) `1069/2022`
+- [Valtiovarainministeriön asetus Digi\- ja väestötietoviraston suoritteiden maksuista vuonna 2023](1070.md) `1070/2022`
+- [Valtiovarainministeriön asetus yksittäisten kuntien verovuoden 2023 yhteisöveron jako\-osuuksien laskentaperusteista](1071.md) `1071/2022`
+- [Puolustusministeriön asetus  Puolustusvoimien maksullisista suoritteista vuosina 2023–2025](1072.md) `1072/2022`
+- [Puolustusministeriön asetus  puolustusministeriön maksullisista suoritteista vuosina 2023–2025](1073.md) `1073/2022`
+- [Sosiaali\- ja terveysministeriön asetus sotilasvammalain 18 §:n 2 momentissa tarkoitetun tulorajan tarkistamisesta](1074.md) `1074/2022`
+- [Laki valtionavustuslain muuttamisesta](1075.md) `1075/2022`
+- [Laki valtiokonttorista annetun lain muuttamisesta](1076.md) `1076/2022`
+- [Verohallinnon päätös autoveroilmoituksella ilmoitettavista tiedoista](1077.md) `1077/2022`
+- [Verohallinnon päätös ennakonpidätysvelvollisuudesta vapauttamisesta](1078.md) `1078/2022`
+- [Verohallinnon päätös luonnollisen henkilön ja kuolinpesän ennakonkannon alarajasta ja kantoeristä](1079.md) `1079/2022`
+- [Verohallinnon päätös vientipalautuksen hakemisessa ilmoitettavista tiedoista](1080.md) `1080/2022`
+- [Verohallinnon päätös hakemuksessa veron palauttamisesta autoverolain 11, 23, 24 ja 25 §:ssä tarkoitetusta ajoneuvosta ilmoitettavista tiedoista](1081.md) `1081/2022`
+- [Laki yleisistä kielitutkinnoista annetun lain muuttamisesta](1082.md) `1082/2022`
+- [Laki kotoutumisen edistämisestä annetun lain muuttamisesta](1083.md) `1083/2022`
+- [Laki kansainvälistä suojelua hakevan vastaanotosta sekä ihmiskaupan uhrin tunnistamisesta ja auttamisesta annetun lain 14 §:n muuttamisesta](1084.md) `1084/2022`
+- [Laki sairausvakuutuslain 3 luvun väliaikaisesta muuttamisesta](1085.md) `1085/2022`
+- [Laki sairausvakuutuslain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1086.md) `1086/2022`
+- [Verohallinnon päätös veroilmoituksen ja kiinteistötietojen ilmoituksen antamisesta](1087.md) `1087/2022`
+- [Laki ulkomaalaislain muuttamisesta](1088.md) `1088/2022`
+- [Valtiovarainministeriön asetus valtiovarainministeriön työjärjestyksestä annetun valtiovarainministeriön asetuksen 52 §:n muuttamisesta](1089.md) `1089/2022`
+- [Valtioneuvoston asetus lääketaksasta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](1090.md) `1090/2022`
+- [Sosiaali\- ja terveysministeriön asetus Sosiaali\- ja terveysalan tietolupaviranomaisen suoritteiden maksullisuudesta](1091.md) `1091/2022`
+- [Laki  valtion tutkimus\- ja kehittämistoiminnan rahoituksesta vuosina 2024–2030](1092.md) `1092/2022`
+- [Valtioneuvoston asetus julkisesta työvoima\- ja yrityspalvelusta annetun valtioneuvoston asetuksen 24 §:n väliaikaisesta muuttamisesta annetun valtioneuvoston asetuksen muuttamisesta](1093.md) `1093/2022`
+- [Sisäministeriön asetus poliisin suoritteiden ja virka\-avun maksullisuudesta vuonna 2023](1094.md) `1094/2022`
+- [Valtioneuvoston asetus asuinrakennusten energia\-avustuksista vuonna 2023](1095.md) `1095/2022`
+- [Laki jätelain muuttamisesta](1096.md) `1096/2022`
+- [Laki  raskauden keskeyttämisestä annetun lain muuttamisesta](1097.md) `1097/2022`
+- [Laki eräiden kiinteistönhankintojen luvanvaraisuudesta annetun lain muuttamisesta](1098.md) `1098/2022`
+- [Laki valtion etuosto\-oikeudesta eräillä alueilla annetun lain muuttamisesta](1099.md) `1099/2022`
+- [Laki etuostolain 1 §:n muuttamisesta](1100.md) `1100/2022`
+- [Laki kieltotoimenpiteitä koskevista edustajakanteista](1101.md) `1101/2022`
+- [Laki kuluttajien yhteisiä etuja edistävien järjestöjen nimeämisestä oikeutetuiksi yksiköiksi](1102.md) `1102/2022`
+- [Laki ryhmäkannelain muuttamisesta](1103.md) `1103/2022`
+- [Laki oikeudenkäynnistä markkinaoikeudessa annetun lain 1 luvun 6 §:n ja 5 luvun 2 §:n muuttamisesta](1104.md) `1104/2022`
+- [Laki Kilpailu\- ja kuluttajavirastosta annetun lain 2 ja 15 §:n muuttamisesta](1105.md) `1105/2022`
+- [Laki matkapalveluyhdistelmien tarjoajista annetun lain 23 ja 24 §:n kumoamisesta](1106.md) `1106/2022`
+- [Laki Lääkealan turvallisuus\- ja kehittämiskeskuksesta annetun lain 2 §:n muuttamisesta](1107.md) `1107/2022`
+- [Laki lääkelain 93 a ja 93 b §:n kumoamisesta](1108.md) `1108/2022`
+- [Laki Finanssivalvonnasta annetun lain 3 §:n muuttamisesta](1109.md) `1109/2022`
+- [Laki Liikenne\- ja viestintävirastosta annetun lain 2 §:n muuttamisesta](1110.md) `1110/2022`
+- [Laki Sosiaali\- ja terveysalan lupa\- ja valvontavirastosta annetun lain 2 §:n muuttamisesta](1111.md) `1111/2022`
+- [Laki tietosuojalain 14 §:n muuttamisesta](1112.md) `1112/2022`
+- [Sosiaali\- ja terveysministeriön asetus eläkesäätiön vastuuvelan laskuperusteista](1113.md) `1113/2022`
+- [Sosiaali\- ja terveysministeriön asetus eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten](1114.md) `1114/2022`
+- [Opetus\- ja kulttuuriministeriön ilmoitus elokuvien yhteistuotannosta Strasbourgissa 2 päivänä lokakuuta 1992 tehdyn eurooppalaisen yleissopimuksen hyväksymisen yhteydessä annetun selityksen muuttamisesta](1115.md) `1115/2022`
+- [Opetus\- ja kulttuuriministeriön ilmoitus elokuvien yhteistuotannosta Rotterdamissa 30 päivänä tammikuuta 2017 tehdyn Euroopan neuvoston yleissopimuksen hyväksymisen yhteydessä annetusta selityksestä](1116.md) `1116/2022`
+- [Opetus\- ja kulttuuriministeriön asetus ulkomailla järjestettävän yksityisen perusopetuksen maakohtaisten yksikköhintojen määräämisestä](1117.md) `1117/2022`
+- [Laki eläimistä saatavista sivutuotteista annetun lain muuttamisesta](1118.md) `1118/2022`
+- [Laki Harmaan talouden selvitysyksiköstä annetun lain 6 §:n muuttamisesta](1119.md) `1119/2022`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](1120.md) `1120/2022`
+- [Laki tuloveroja koskevan kaksinkertaisen verotuksen poistamiseksi ja veron kiertämisen ja välttämisen estämiseksi Albanian kanssa tehdystä sopimuksesta](1121.md) `1121/2022`
+- [Laki vuoden 2023 tuloveroasteikosta](1122.md) `1122/2022`
+- [Laki tuloverolain muuttamisesta ja väliaikaisesta muuttamisesta](1123.md) `1123/2022`
+- [Laki tuloverolain muuttamisesta annetun lain eräiden säännösten kumoamisesta](1124.md) `1124/2022`
+- [Laki rajoitetusti verovelvollisen tulon verottamisesta annetun lain 15 §:n muuttamisesta](1125.md) `1125/2022`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](1126.md) `1126/2022`
+- [Laki vapaasta sivistystyöstä annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](1127.md) `1127/2022`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 29 ja 50 §:n muuttamiseksi](1128.md) `1128/2022`
+- [Laki rikoslain muuttamisesta](1129.md) `1129/2022`
+- [Laki poliisin hallinnosta annetun lain muuttamisesta](1130.md) `1130/2022`
+- [Laki työttömyysturvalain muuttamisesta](1131.md) `1131/2022`
+- [Laki julkisesta työvoima\- ja yrityspalvelusta annetun lain muuttamisesta](1132.md) `1132/2022`
+- [Laki työllisyyden edistämisen kuntakokeilusta annetun lain 2 ja 12 a §:n muuttamisesta](1133.md) `1133/2022`
+- [Laki uusiutuvien polttoaineiden käytön edistämisestä liikenteessä annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](1134.md) `1134/2022`
+- [Valtioneuvoston asetus valtion korvauksesta kuntouttavan työtoiminnan järjestämiseen annetun valtioneuvoston asetuksen 1 ja 2 §:n muuttamisesta](1135.md) `1135/2022`
+- [Valtioneuvoston asetus yhteistoiminnasta valtion virastoissa ja laitoksissa annetussa laissa säädetyn hyvityksen enimmäismäärän tarkistamisesta](1136.md) `1136/2022`
+- [Valtiovarainministeriön asetus vuoden 2023 taidekilpailupalkintojen verovapaudesta](1137.md) `1137/2022`
+- [Maa\- ja metsätalousministeriön asetus Maanmittauslaitoksen maksuista sekä kaupanvahvistuksesta perittävistä maksuista ja korvauksista vuonna 2023](1138.md) `1138/2022`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötietojärjestelmän suoritteista ja tietopalvelusta perittävistä maksuista vuosina 2023 ja 2024](1139.md) `1139/2022`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötietojärjestelmän tulojen jakamisesta vuosina 2023 ja 2024](1140.md) `1140/2022`
+- [Maa\- ja metsätalousministeriön asetus Suomen metsäkeskuksen suoritteiden maksullisuudesta vuosina 2023 ja 2024](1141.md) `1141/2022`
+- [Maa\- ja metsätalousministeriön asetus eläimistä saatavista sivutuotteita annetun maa\- ja metsätalousministeriön asetuksen 783/2015 muuttamiseksi](1142.md) `1142/2022`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötoimitusmaksusta vuosina 2023 ja 2024](1143.md) `1143/2022`
+- [Laki ympäristönsuojelu\- ja vesiasioiden käsittelystä aluehallintovirastossa annetun lain väliaikaisesta muuttamisesta](1144.md) `1144/2022`
+- [Laki vesilain väliaikaisesta muuttamisesta](1145.md) `1145/2022`
+- [Laki ympäristönsuojelulain väliaikaisesta muuttamisesta](1146.md) `1146/2022`
+- [Laki maankäyttö\- ja rakennuslain väliaikaisesta muuttamisesta](1147.md) `1147/2022`
+- [Laki jätelain muuttamisesta](1148.md) `1148/2022`
+- [Laki tartuntatautilain muuttamisesta](1149.md) `1149/2022`
+- [Laki eläkkeensaajan asumistuesta annetun lain 25 a §:n muuttamisesta](1150.md) `1150/2022`
+- [Laki yleisestä asumistuesta annetun lain 25 §:n muuttamisesta ja 51 §:n väliaikaisesta muuttamisesta](1151.md) `1151/2022`
+- [Laki väliaikaisesta sähkötuesta](1152.md) `1152/2022`
+- [Laki tuloverolain 92 §:n väliaikaisesta muuttamisesta](1153.md) `1153/2022`
+- [Laki terveydenhuoltolain muuttamisesta](1154.md) `1154/2022`
+- [Laki sosiaalihuoltolain muuttamisesta](1155.md) `1155/2022`
+- [Laki sosiaalihuoltolain 52 §:n muuttamisesta](1156.md) `1156/2022`
+- [Laki yrittäjän eläkelain muuttamisesta](1157.md) `1157/2022`
+- [Laki Eläketurvakeskuksesta annetun lain 2 §:n muuttamisesta](1158.md) `1158/2022`
+- [Laki työkyvyttömyyseläkkeellä olevien työhönpaluun edistämisestä annetun lain 12 §:n muuttamisesta](1159.md) `1159/2022`
+- [Sisäministeriön asetus suojelupoliisin suoritteiden maksullisuudesta vuonna 2023](1160.md) `1160/2022`
+- [Valtiovarainministeriön asetus Tilastokeskuksen suoritteiden maksullisuudesta vuonna 2023](1161.md) `1161/2022`
+- [Valtioneuvoston kanslian asetus  valtioneuvoston kanslian työjärjestyksestä annetun valtioneuvoston kanslian asetuksen muuttamisesta](1162.md) `1162/2022`
+- [Ulkoministeriön asetus ulkoasianhallinnon suoritteiden maksuista](1163.md) `1163/2022`
+- [Laki Säteilyturvakeskuksesta](1164.md) `1164/2022`
+- [Laki säteilylain muuttamisesta](1165.md) `1165/2022`
+- [Laki kehitysvammaisten erityishuollosta annetun lain muuttamisesta](1166.md) `1166/2022`
+- [Laki ulkomaalaislain muuttamisesta](1167.md) `1167/2022`
+- [Laki sairausvakuutuslain 2 ja 3 luvun muuttamisesta](1168.md) `1168/2022`
+- [Laki yhteishallinnosta valtion tukemissa vuokrataloissa](1169.md) `1169/2022`
+- [Laki tupakkalain 2 §:n muuttamisesta](1170.md) `1170/2022`
+- [Laki Euroopan unionin ja kansallisen oikeuden rikkomisesta ilmoittavien henkilöiden suojelusta](1171.md) `1171/2022`
+- [Laki liikesalaisuuslain 5 §:n muuttamisesta](1172.md) `1172/2022`
+- [Laki valtioneuvoston oikeuskanslerista annetun lain 1 §:n muuttamisesta](1173.md) `1173/2022`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä annetun lain 7 luvun 8 ja 9 §:n muuttamisesta](1174.md) `1174/2022`
+- [Laki luottolaitostoiminnasta annetun lain 7 luvun 6 §:n muuttamisesta](1175.md) `1175/2022`
+- [Laki sijoituspalvelulain 6 b luvun 13 §:n muuttamisesta](1176.md) `1176/2022`
+- [Laki arvopaperimarkkinalain 12 luvun 3 §:n muuttamisesta](1177.md) `1177/2022`
+- [Laki kaupankäynnistä rahoitusvälineillä annetun lain 3 luvun 3 §:n muuttamisesta](1178.md) `1178/2022`
+- [Laki vaihtoehtorahastojen hoitajista annetun lain 22 luvun 9 §:n muuttamisesta](1179.md) `1179/2022`
+- [Laki sijoitusrahastolain 27 luvun 7 §:n muuttamisesta](1180.md) `1180/2022`
+- [Laki arvo\-osuusjärjestelmästä ja selvitystoiminnasta annetun lain 2 luvun 22 §:n muuttamisesta](1181.md) `1181/2022`
+- [Laki asevelvollisuuslain muuttamisesta](1182.md) `1182/2022`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain muuttamisesta](1183.md) `1183/2022`
+- [Laki kansainvälisen merenkulun turvalaitejärjestöstä tehdystä yleissopimuksesta](1184.md) `1184/2022`
+- [Laki sosiaali\- ja terveydenhuollon järjestämisestä annetun lain muuttamisesta](1185.md) `1185/2022`
+- [Laki sosiaali\- ja terveydenhuollon sekä pelastustoimen järjestämisestä Uudellamaalla annetun lain 2 §:n muuttamisesta](1186.md) `1186/2022`
+- [Laki rajat ylittävästä terveydenhuollosta annetun lain 20 §:n muuttamisesta](1187.md) `1187/2022`
+- [Laki valmiuslain muuttamisesta annetun lain 88 ja 126 §:n muuttamisesta](1188.md) `1188/2022`
+- [Laki sosiaali\- ja terveydenhuollon järjestämisestä annetun lain muuttamisesta](1189.md) `1189/2022`
+- [Laki erikoissairaanhoitolain 28 ja 29 §:n kumoamisesta](1190.md) `1190/2022`
+- [Laki terveydenhuoltolain 60 §:n muuttamisesta](1191.md) `1191/2022`
+- [Laki yhdenvertaisuuslain muuttamisesta](1192.md) `1192/2022`
+- [Laki yhdenvertaisuus\- ja tasa\-arvolautakunnasta annetun lain muuttamisesta](1193.md) `1193/2022`
+- [Laki yhdenvertaisuusvaltuutetusta annetun lain muuttamisesta](1194.md) `1194/2022`
+- [Laki työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetun lain 13 §:n muuttamisesta](1195.md) `1195/2022`
+- [Valtioneuvoston asetus valtakunnallisesta toimeentulotukiasioiden neuvottelukunnasta](1196.md) `1196/2022`
+- [Valtioneuvoston asetus alueellisista toimeentulotukiasioiden neuvottelukunnista](1197.md) `1197/2022`
+- [Valtioneuvoston asetus aluehallintovirastoista annetun valtioneuvoston asetuksen 9 §:n muuttamisesta](1198.md) `1198/2022`
+- [Valtioneuvoston asetus neuvolatoiminnasta, koulu\- ja opiskeluterveydenhuollosta sekä lasten ja nuorten ehkäisevästä suun terveydenhuollosta annetun valtioneuvoston asetuksen muuttamisesta](1199.md) `1199/2022`
+- [Valtioneuvoston asetus työnantajan ja henkilöstön välisestä yhteistoiminnasta kunnassa ja hyvinvointialueella annetussa laissa säädetyn hyvityksen enimmäismäärän tarkistamisesta](1200.md) `1200/2022`
+- [Valtioneuvoston asetus pakattujen vaarallisten aineiden kuljetuksia ro\-ro\-aluksissa Itämerellä koskevan yhteisymmärryspöytäkirjan voimaansaattamisesta](1201.md) `1201/2022`
+- [Valtioneuvoston asetus  asuntosäästöpalkkioasetuksen 5 §:n muuttamisesta](1202.md) `1202/2022`
+- [Valtioneuvoston asetus valtion viranomaisten vähimmäisaukiolosta](1203.md) `1203/2022`
+- [Laki henkilötietojen käsittelystä Rajavartiolaitoksessa annetun lain muuttamisesta](1204.md) `1204/2022`
+- [Laki rajavartiolain muuttamisesta](1205.md) `1205/2022`
+- [Laki ulkomaalaislain muuttamisesta](1206.md) `1206/2022`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain muuttamisesta](1207.md) `1207/2022`
+- [Laki henkilötietojen käsittelystä Tullissa annetun lain muuttamisesta](1208.md) `1208/2022`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](1209.md) `1209/2022`
+- [Laki lentoliikenteen matkustajarekisteritietojen käytöstä terrorismirikosten ja vakavan rikollisuuden torjunnassa annetun lain 16 ja 17 §:n muuttamisesta](1210.md) `1210/2022`
+- [Laki sähköisen viestinnän palveluista annetun lain muuttamisesta](1211.md) `1211/2022`
+- [Laki Liikenne\- ja viestintävirastosta annetun lain 3 §:n muuttamisesta](1212.md) `1212/2022`
+- [Sisäministeriön asetus hyvinvointialueen seuranta\- ja arviointivelvollisuudesta sekä aluehallintoviraston asiantuntija\-arviosta](1213.md) `1213/2022`
+- [Maa\- ja metsätalousministeriön asetus eläinlääkintävahinkojen arviolautakunnan suoritteista perittävistä maksuista](1214.md) `1214/2022`
+- [Maa\- ja metsätalousministeriön asetus porovahinkolautakunnan suoritteista perittävistä maksuista vuosina 2023–2024](1215.md) `1215/2022`
+- [Maa\- ja metsätalousministeriön asetus mikrobilääkkeiden käyttöä koskevien tietojen toimittamisesta annetun maa\- ja metsätalousministeriön asetuksen liitteen 1 muuttamisesta](1216.md) `1216/2022`
+- [Työ\- ja elinkeinoministeriön asetus Energiaviraston maksullisista suoritteista vuosina 2023–2025](1217.md) `1217/2022`
+- [Sosiaali\- ja terveysministeriön asetus ensihoitopalvelusta annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1218.md) `1218/2022`
+- [Sosiaali\- ja terveysministeriön asetus kuoleman toteamisesta annetun sosiaali\- ja terveysministeriön asetuksen 6 §:n muuttamisesta](1219.md) `1219/2022`
+- [Sosiaali\- ja terveysministeriön asetus lääketieteellisistä asiantuntijalausunnoista maksettavasta valtion korvauksesta annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1220.md) `1220/2022`
+- [Maa\- ja metsätalousministeriön asetus kunnaneläinlääkärin maksullisista suoritteista](1221.md) `1221/2022`
+- [Opetus\- ja kulttuuriministeriön asetus opetus\- ja kulttuuriministeriön maksullisista suoritteista](1222.md) `1222/2022`
+- [Opetus\- ja kulttuuriministeriön asetus Opetushallituksen ja sen erillisyksiköiden suoritteiden maksullisuudesta annetun opetus\- ja kulttuuriministeriön asetuksen 2 §:n muuttamisesta](1223.md) `1223/2022`
+- [Puolustusministeriön asetus sotilaallisen kriisinhallintahenkilöstön pätevyysvaatimuksista ja palvelussuhteen ehdoista annetun puolustusministeriön asetuksen 7 ja 8 §:n muuttamisesta](1224.md) `1224/2022`
+- [Sisäministeriön asetus pelastustoimen palvelutasopäätöksestä](1225.md) `1225/2022`
+- [Laki lapsilisälain 7 §:n väliaikaisesta muuttamisesta](1226.md) `1226/2022`
+- [Laki työttömyysturvalain 6 luvun 6 §:n väliaikaisesta muuttamisesta](1227.md) `1227/2022`
+- [Laki toimeentulotuesta annetun lain 9 §:n väliaikaisesta muuttamisesta](1228.md) `1228/2022`
+- [Laki opintotukilain väliaikaisesta muuttamisesta](1229.md) `1229/2022`
+- [Laki sairausvakuutuslain 5 luvun 8 §:n väliaikaisesta muuttamisesta](1230.md) `1230/2022`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta annetun lain 5 §:n muuttamisesta](1231.md) `1231/2022`
+- [Laki sähköisestä lääkemääräyksestä annetun lain muuttamisesta](1232.md) `1232/2022`
+- [Laki lääkelain muuttamisesta](1233.md) `1233/2022`
+- [Laki sairausvakuutuslain 6 luvun 18 ja 20 §:n muuttamisesta](1234.md) `1234/2022`
+- [Laki apteekkiverolain 5 §:n muuttamisesta](1235.md) `1235/2022`
+- [Sosiaali\- ja terveysministeriön asetus turkistuottajille järjestettävien lomituspalvelujen enimmäismääristä vuonna 2023](1236.md) `1236/2022`
+- [Sosiaali\- ja terveysministeriön asetus poronhoitajien sijaisavun enimmäismäärästä vuonna 2023](1237.md) `1237/2022`
+- [Sosiaali\- ja terveysministeriön asetus työterveyshuollon erikoislääkärikoulutuksen kustannuksiin valtion varoista vuonna 2023 myönnettävästä avustuksesta](1238.md) `1238/2022`
+- [Sosiaali\- ja terveysministeriön asetus avohoidon ja laitoshoidon määrittelyn perusteista](1239.md) `1239/2022`
+- [Sosiaali\- ja terveysministeriön asetus erikoislääkäri\- ja erikoishammaslääkärikoulutuksesta sekä yleislääketieteen erityiskoulutuksesta annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1240.md) `1240/2022`
+- [Valtioneuvoston asetus kiireellisen hoidon perusteista ja päivystyksen erikoisalakohtaisista edellytyksistä annetun valtioneuvoston asetuksen muuttamisesta](1241.md) `1241/2022`
+- [Valtioneuvoston asetus erikoissairaanhoidon työnjaosta ja eräiden tehtävien keskittämisestä annetun valtioneuvoston asetuksen muuttamisesta](1242.md) `1242/2022`
+- [Valtioneuvoston asetus seulonnoista annetun valtioneuvoston asetuksen muuttamisesta](1243.md) `1243/2022`
+- [Valtioneuvoston asetus kuolemansyyn selvittämisestä annetun asetuksen 5 §:n muuttamisesta](1244.md) `1244/2022`
+- [Valtioneuvoston asetus oikeuslääkeopillisista tutkimuksista suoritettavista korvauksista annetun valtioneuvoston asetuksen 7 §:n muuttamisesta](1245.md) `1245/2022`
+- [Valtioneuvoston asetus rajat ylittävän terveydenhuollon kustannusten hallinnoinnista annetun valtioneuvoston asetuksen muuttamisesta](1246.md) `1246/2022`
+- [Valtioneuvoston asetus rajat ylittävän terveydenhuollon neuvottelukunnasta annetun valtioneuvoston asetuksen muuttamisesta](1247.md) `1247/2022`
+- [Valtioneuvoston asetus sosiaalialan osaamiskeskustoiminnasta annetun valtioneuvoston asetuksen muuttamisesta](1248.md) `1248/2022`
+- [Valtioneuvoston asetus yksityisestä terveydenhuollosta annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](1249.md) `1249/2022`
+- [Valtioneuvoston asetus kiireellisessä tapauksessa annettujen sosiaalipalveluiden kustannusten hallinnoinnista annetun valtioneuvoston asetuksen muuttamisesta](1250.md) `1250/2022`
+- [Sosiaali\- ja terveysministeriön asetus laadunhallinnasta ja potilasturvallisuuden täytäntöönpanosta laadittavasta suunnitelmasta annetun sosiaali\- ja terveysministeriön asetuksen 1 §:n muuttamisesta](1251.md) `1251/2022`
+- [Sosiaali\- ja terveysministeriön asetus lääkkeen määräämisestä annetun sosiaali\- ja terveysministeriön asetuksen liitteen 4 muuttamisesta](1252.md) `1252/2022`
+- [Valtion talousarvio vuodella 2023](1253.md) `1253/2022`
+- [Sosiaali\- ja terveysministeriön asetus yliopistotasoisen terveyden tutkimuksen rahoituksesta annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1254.md) `1254/2022`
+- [Sosiaali\- ja terveysministeriön asetus yksityisestä terveydenhuollosta annetun sosiaali\- ja terveysministeriön asetuksen 2 ja 3 §:n muuttamisesta](1255.md) `1255/2022`
+- [Sosiaali\- ja terveysministeriön asetus yksityisistä sosiaalipalveluista annetun sosiaali\- ja terveysministeriön asetuksen 1 §:n muuttamisesta](1256.md) `1256/2022`
+- [Maa\- ja metsätalousministeriön asetus Ruokaviraston maksullisista suoritteista annetun maa\- ja metsätalousministeriön asetuksen 4 §:n ja liitteen muuttamisesta](1257.md) `1257/2022`
+- [Laki terveydensuojelulain muuttamisesta](1258.md) `1258/2022`
+- [Laki vesihuoltolain muuttamisesta](1259.md) `1259/2022`
+- [Laki ympäristönsuojelulain 222 §:n muuttamisesta](1260.md) `1260/2022`
+- [Laki eräiden tuotteiden markkinavalvonnasta annetun lain 1 §:n muuttamisesta](1261.md) `1261/2022`
+- [Laki ympäristövahinkorahastosta](1262.md) `1262/2022`
+- [Laki ympäristönsuojelulain 222 §:n muuttamisesta](1263.md) `1263/2022`
+- [Laki pelastuslain 99 a ja 111 a §:n muuttamisesta](1264.md) `1264/2022`
+- [Laki valmisteverotuslain 1 §:n 2 momentin 8 kohdan kumoamisesta](1265.md) `1265/2022`
+- [Laki oma\-aloitteisten verojen verotusmenettelystä annetun lain 1 §:n 1 momentin 19 kohdan kumoamisesta](1266.md) `1266/2022`
+- [Laki digitaalisen alustatalouden toimijoiden tiedonantovelvollisuudesta verotuksen alalla](1267.md) `1267/2022`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](1268.md) `1268/2022`
+- [Laki oma\-aloitteisten verojen verotusmenettelystä annetun lain 1 §:n muuttamisesta](1269.md) `1269/2022`
+- [Laki tulotietojärjestelmästä annetun lain 8 §:n muuttamisesta](1270.md) `1270/2022`
+- [Laki hallinnollisesta yhteistyöstä verotuksen alalla ja direktiivin 77/799/ETY kumoamisesta annetun neuvoston direktiivin lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja direktiivin soveltamisesta annetun lain muuttamisesta](1271.md) `1271/2022`
+- [Laki arvonlisäverolain muuttamisesta](1272.md) `1272/2022`
+- [Laki Ahvenanmaan maakuntaa koskevista poikkeuksista arvonlisävero\- ja valmisteverolainsäädäntöön annetun lain 6 b §:n muuttamisesta](1273.md) `1273/2022`
+- [Laki oma\-aloitteisten verojen verotusmenettelystä annetun lain muuttamisesta](1274.md) `1274/2022`
+- [Laki ennakkoperintälain 31 ja 35 §:n muuttamisesta](1275.md) `1275/2022`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskoroista](1276.md) `1276/2022`
+- [Sosiaali\- ja terveysministeriön asetus  Säteilyturvakeskuksen suoritteista perittävistä maksuista vuosina 2023–2024](1277.md) `1277/2022`
+- [Sosiaali\- ja terveysministeriön asetus lääkkeen määräämisestä annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](1278.md) `1278/2022`
+- [Puolustusministeriön asetus Maanpuolustuskoulutusyhdistyksen maksullisista suoritteista vuonna 2023](1279.md) `1279/2022`
+- [Laki sosiaalihuoltolain muuttamisesta](1280.md) `1280/2022`
+- [Laki terveydenhuoltolain muuttamisesta](1281.md) `1281/2022`
+- [Laki terveydenhuoltolain väliaikaisesta muuttamisesta](1282.md) `1282/2022`
+- [Laki mielenterveyslain muuttamisesta](1283.md) `1283/2022`
+- [Laki päihdehuoltolain muuttamisesta](1284.md) `1284/2022`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 2 ja 18 §:n muuttamisesta](1285.md) `1285/2022`
+- [Laki ikääntyneen väestön toimintakyvyn tukemisesta sekä iäkkäiden sosiaali\- ja terveyspalveluista annetun lain 2 §:n muuttamisesta](1286.md) `1286/2022`
+- [Laki Terveyden ja hyvinvoinnin laitoksen alaisista lastensuojeluyksiköistä annetun lain 1 §:n muuttamisesta](1287.md) `1287/2022`
+- [Laki huumausainelain 4 §:n muuttamisesta](1288.md) `1288/2022`
+- [Laki Vankiterveydenhuollon yksiköstä annetun lain muuttamisesta](1289.md) `1289/2022`
+- [Laki siviilipalveluslain 93 §:n muuttamisesta](1290.md) `1290/2022`
+- [Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain 35 §:n muuttamisesta](1291.md) `1291/2022`
+- [Laki sosiaali\- ja terveydenhuollon asiakasmaksuista annetun lain 4 ja 5 §:n muuttamisesta](1292.md) `1292/2022`
+- [Laki sisäasioiden rahastoista ohjelmakaudella 2021–2027 annetun lain muuttamisesta](1293.md) `1293/2022`
+- [Laki kansainvälistä suojelua hakevan vastaanotosta sekä ihmiskaupan uhrin tunnistamisesta ja auttamisesta annetun lain muuttamisesta](1294.md) `1294/2022`
+- [Laki henkilötietojen käsittelystä maahanmuuttohallinnossa annetun lain 13 §:n muuttamisesta](1295.md) `1295/2022`
+- [Laki sosiaalihuoltolain 11 §:n muuttamisesta](1296.md) `1296/2022`
+- [Laki kilpailulain muuttamisesta](1297.md) `1297/2022`
+- [Laki tutkimus\- ja kehittämistoiminnan menoihin perustuvista lisävähennyksistä verotuksessa](1298.md) `1298/2022`
+- [Laki verontilityslain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1299.md) `1299/2022`
+- [Laki tuloverolain väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1300.md) `1300/2022`
+- [Laki verontilityslain 12 ja 12 f §:n muuttamisesta](1301.md) `1301/2022`
+- [Laki tuloverolain 124 ja 124 b §:n muuttamisesta](1302.md) `1302/2022`
+- [Laki kansainvälisen avun antamista ja pyytämistä koskevasta päätöksenteosta annetun lain muuttamisesta](1303.md) `1303/2022`
+- [Laki puolustusvoimista annetun lain muuttamisesta](1304.md) `1304/2022`
+- [Laki aluevalvontalain 24 d §:n muuttamisesta](1305.md) `1305/2022`
+- [Laki asevelvollisuuslain 62 ja 78 §:n muuttamisesta](1306.md) `1306/2022`
+- [Laki konsulipalvelulain muuttamisesta](1307.md) `1307/2022`
+- [Laki poliisilain muuttamisesta](1308.md) `1308/2022`
+- [Laki ampuma\-aselain 17 §:n muuttamisesta](1309.md) `1309/2022`
+- [Laki pelastuslain 38 §:n muuttamisesta](1310.md) `1310/2022`
+- [Laki rajavartiolain muuttamisesta](1311.md) `1311/2022`
+- [Laki henkilötietojen käsittelystä Rajavartiolaitoksessa annetun lain 36 ja 38 §:n muuttamisesta](1312.md) `1312/2022`
+- [Laki siviilihenkilöiden osallistumisesta kriisinhallintaan annetun lain 2 §:n muuttamisesta](1313.md) `1313/2022`
+- [Laki koneiden, kaluston ja muun niihin verrattavan irtaimen käyttöomaisuuden korotetuista poistoista verovuosina 2020–2023 annetun lain muuttamisesta](1314.md) `1314/2022`
+- [Laki tuloverolain 33 d §:n muuttamisesta](1315.md) `1315/2022`
+- [Laki elinkeinotulon verottamisesta annetun lain 6 a §:n muuttamisesta](1316.md) `1316/2022`
+- [Laki maatilatalouden tuloverolain 5 §:n muuttamisesta](1317.md) `1317/2022`
+- [Valtioneuvoston asetus eräistä muovituotteista](1318.md) `1318/2022`
+- [Valtioneuvoston asetus muovia sisältävistä kalastusvälineistä](1319.md) `1319/2022`
+- [Valtioneuvoston asetus eräiden muovituotteiden tuottajien kunnille maksamista korvauksista](1320.md) `1320/2022`
+- [Valtioneuvoston asetus pakkauksista ja pakkausjätteistä annetun valtioneuvoston asetuksen muuttamisesta](1321.md) `1321/2022`
+- [Valtioneuvoston asetus juomapakkausten palautusjärjestelmästä annetun valtioneuvoston asetuksen muuttamisesta](1322.md) `1322/2022`
+- [Laki riistanhoitomaksusta ja pyyntilupamaksusta annetun lain 1 §:n muuttamisesta](1323.md) `1323/2022`
+- [Laki yhteisen maatalouspolitiikan strategiasuunnitelman hallinnoinnista](1324.md) `1324/2022`
+- [Laki maaseudun kehittämisen tukemisesta rahoituskaudella 2023–2027](1325.md) `1325/2022`
+- [Laki Ruokavirastosta annetun lain 2 §:n muuttamisesta](1326.md) `1326/2022`
+- [Laki Harmaan talouden selvitysyksiköstä annetun lain 6 §:n muuttamisesta](1327.md) `1327/2022`
+- [Laki maatalouden rakennetuista annetun lain muuttamisesta](1328.md) `1328/2022`
+- [Laki porotalouden ja luontaiselinkeinojen rakennetuista annetun lain muuttamisesta](1329.md) `1329/2022`
+- [Laki kolttalain muuttamisesta](1330.md) `1330/2022`
+- [Laki maatilatalouden kehittämisrahastosta annetun lain muuttamisesta](1331.md) `1331/2022`
+- [Laki Euroopan unionin suorista viljelijätuista](1332.md) `1332/2022`
+- [Laki eräistä maaseudun kehittämisen korvauksista](1333.md) `1333/2022`
+- [Laki  tiettyjen Euroopan unionin ja kansallisten maatalouden tukien toimeenpanosta](1334.md) `1334/2022`
+- [Laki maa\- ja puutarhatalouden kansallisista tuista annetun lain muuttamisesta](1335.md) `1335/2022`
+- [Laki maataloustuotteiden markkinajärjestelystä annetun lain muuttamisesta](1336.md) `1336/2022`
+- [Laki osakeyhtiölain muuttamisesta](1337.md) `1337/2022`
+- [Laki vakuutusyhtiölain muuttamisesta](1338.md) `1338/2022`
+- [Laki työeläkevakuutusyhtiöistä annetun lain 1 §:n muuttamisesta](1339.md) `1339/2022`
+- [Laki Harmaan talouden selvitysyksiköstä annetun lain 6 §:n muuttamisesta](1340.md) `1340/2022`
+- [Laki sijoituspalvelulain muuttamisesta](1341.md) `1341/2022`
+- [Laki sijoitusrahastolain muuttamisesta](1342.md) `1342/2022`
+- [Laki vaihtoehtorahastojen hoitajista annetun lain muuttamisesta](1343.md) `1343/2022`
+- [Laki kaupankäynnistä rahoitusvälineillä annetun lain 2 luvun 20 ja 21 §:n muuttamisesta](1344.md) `1344/2022`
+- [Laki arvo\-osuusjärjestelmästä ja selvitystoiminnasta annetun lain 2 luvun 6 ja 7 §:n muuttamisesta](1345.md) `1345/2022`
+- [Laki joukkorahoituspalvelun tarjoamisesta annetun lain muuttamisesta](1346.md) `1346/2022`
+- [Laki maksulaitoslain 46 ja 47 §:n muuttamisesta](1347.md) `1347/2022`
+- [Laki liikepankeista ja muista osakeyhtiömuotoisista luottolaitoksista annetun lain muuttamisesta](1348.md) `1348/2022`
+- [Laki osuuspankeista ja muista osuuskuntamuotoisista luottolaitoksista annetun lain 6 §:n muuttamisesta](1349.md) `1349/2022`
+- [Laki luottolaitostoiminnasta annetun lain 4 luvun 5 ja 6 §:n muuttamisesta](1350.md) `1350/2022`
+- [Valtioneuvoston asetus valtionavustuksesta yritystoiminnan kehittämiseksi vuosina 2021‒2028 annetun valtioneuvoston asetuksen muuttamisesta ja väliaikaisesta muuttamisesta](1351.md) `1351/2022`
+- [Laki brexit\-mukautusvarauksen kansallisesta toimeenpanosta](1352.md) `1352/2022`
+- [Laki valtionavustuksesta yritystoiminnan kehittämiseksi vuosina 2021–2028 annetun lain väliaikaisesta muuttamisesta](1353.md) `1353/2022`
+- [Laki elinkeino\-, liikenne\- ja ympäristökeskuksista annetun lain 3 §:n muuttamisesta](1354.md) `1354/2022`
+- [Laki Harmaan talouden selvitysyksiköstä annetun lain 6 §:n muuttamisesta](1355.md) `1355/2022`
+- [Laki alueiden kehittämisestä ja Euroopan unionin alue\- ja rakennepolitiikan toimeenpanosta annetun lain 5 ja 7 §:n muuttamisesta](1356.md) `1356/2022`
+- [Valtioneuvoston asetus elinkeino\-, liikenne\- ja ympäristökeskusten, työ\- ja elinkeinotoimistojen sekä kehittämis\- ja hallintokeskuksen maksullisista suoritteista vuonna 2023](1357.md) `1357/2022`
+- [Valtioneuvoston asetus ionisoivasta säteilystä annetun valtioneuvoston asetuksen muuttamisesta](1358.md) `1358/2022`
+- [Valtioneuvoston asetus Säteilyturvakeskuksesta](1359.md) `1359/2022`
+- [Laki lääketieteellisestä tutkimuksesta annetun lain muuttamisesta](1360.md) `1360/2022`
+- [Laki lääketieteellisestä tutkimuksesta annetun lain muuttamisesta ja sen väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1361.md) `1361/2022`
+- [Laki biopankkilain 41 §:n muuttamisesta](1362.md) `1362/2022`
+- [Laki ihmisen elimien, kudoksien ja solujen lääketieteellisestä käytöstä annetun lain muuttamisesta](1363.md) `1363/2022`
+- [Laki ulkomaalaislain väliaikaisesta muuttamisesta](1364.md) `1364/2022`
+- [Laki varhaiskasvatuksen asiakasmaksuista annetun lain 5 §:n muuttamisesta](1365.md) `1365/2022`
+- [Valtioneuvoston asetus yleisistä kielitutkinnoista annetun valtioneuvoston asetuksen muuttamisesta](1366.md) `1366/2022`
+- [Valtioneuvoston asetus vapaaehtoisista covid\-19\-rokotuksista annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](1367.md) `1367/2022`
+- [Valtioneuvoston asetus tartuntataudeista annetun valtioneuvoston asetuksen muuttamisesta](1368.md) `1368/2022`
+- [Valtioneuvoston asetus sairausvakuutuslain 3 luvun 4 ja 5 §:ssä tarkoitettujen korvaustaksojen perusteista annetun valtioneuvoston asetuksen muuttamisesta](1369.md) `1369/2022`
+- [Sosiaali\- ja terveysministeriön asetus alueellisen eettisen toimikunnan ja valtakunnallisen lääketieteellisen tutkimuseettisen toimikunnan lausunnoista perittävistä maksuista annetun asetuksen 4 §:n muuttamisesta](1370.md) `1370/2022`
+- [Sosiaali\- ja terveysministeriön asetus huumausainerikoksista epäillyille tai huumausainerikoksiin syyllistyneille hoitoa antavista toimintayksiköistä](1371.md) `1371/2022`
+- [Valtioneuvoston asetus julkisesta työvoima\- ja yrityspalvelusta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](1372.md) `1372/2022`
+- [Valtioneuvoston asetus elinkeino\-, liikenne\- ja ympäristökeskuksista annetun valtioneuvoston asetuksen 16 a §:n muuttamisesta](1373.md) `1373/2022`
+- [Työ\- ja elinkeinoministeriön asetus työvoimapoliittisen lausunnon antamisesta ja lausuntoon merkittävistä tiedoista annetun työ\- ja elinkeinoministeriön asetuksen muuttamisesta](1374.md) `1374/2022`
+- [Työ\- ja elinkeinoministeriön asetus työvoimapoliittisista lausunnoista ja yhteistyövelvoitteesta työllisyyden edistämisen kuntakokeilussa annetun työ\- ja elinkeinoministeriön asetuksen muuttamisesta](1375.md) `1375/2022`
+- [Valtioneuvoston asetus yhteisen maatalouspolitiikan strategiasuunnitelman hallinnoinnista](1376.md) `1376/2022`
+- [Valtioneuvoston asetus maatilojen neuvontapalveluista](1377.md) `1377/2022`
+- [Valtioneuvoston asetus eläinyksiköistä eräissä maaseudun kehittämisen korvauksissa ja kansallisissa maa\- ja puutarhatalouden tuissa](1378.md) `1378/2022`
+- [Valtioneuvoston asetus eräiden maaseudun kehittämisen korvauksien, suorien viljelijätukien ja maa\- ja puutarhatalouden kansallisten tukien korvaus\- ja tukialueista ja niiden saaristoksi luettavista osa\-alueista](1379.md) `1379/2022`
+- [Valtioneuvoston asetus sika\- ja siipikarjatalouden tuotannosta irrotetusta tuesta annetun valtioneuvoston asetuksen muuttamisesta](1380.md) `1380/2022`
+- [Valtioneuvoston asetus eläinten hyvinvointikorvauksesta](1381.md) `1381/2022`
+- [Valtioneuvoston asetus eläinten hyvinvointikorvausta koskevan sitoumuksen antamisesta vuonna 2023](1382.md) `1382/2022`
+- [Valtioneuvoston asetus vuodelta 2023 maksettavasta tuotantosidonnaisesta tulotuesta](1383.md) `1383/2022`
+- [Valtioneuvoston asetus Euroopan unionin ja kansallisten viljelijätukien hyvän maatalouden ja ympäristön vaatimuksista](1384.md) `1384/2022`
+- [Valtioneuvoston asetus kuntien kielellisestä asemasta vuosina 2023–2032](1385.md) `1385/2022`
+- [Valtioneuvoston asetus mielenterveysasetuksen 1 §:n ja 2 a luvun kumoamisesta](1386.md) `1386/2022`
+- [Valtioneuvoston asetus päihdehuoltoasetuksen eräiden säännösten kumoamisesta](1387.md) `1387/2022`
+- [Valtioneuvoston asetus Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun valtioneuvoston asetuksen 2 ja 3 §:n muuttamisesta](1388.md) `1388/2022`
+- [Valtioneuvoston asetus työllistymistä edistävästä monialaisesta yhteispalvelusta annetun valtioneuvoston asetuksen muuttamisesta](1389.md) `1389/2022`
+- [Valtioneuvoston asetus asevelvollisuudesta annetun valtioneuvoston asetuksen 4 ja 5 §:n muuttamisesta](1390.md) `1390/2022`
+- [Valtioneuvoston asetus varusmiespalveluksessa ja naisten vapaaehtoisessa asepalveluksessa olevien yhteismajoitusta koskevasta kokeilusta](1391.md) `1391/2022`
+- [Valtioneuvoston asetus hyvinvointialueiden rahoituksesta](1392.md) `1392/2022`
+- [Valtioneuvoston asetus kunnan peruspalvelujen valtionosuudesta](1393.md) `1393/2022`
+- [Valtioneuvoston asetus valtionavustustoiminnan tietovarantoon tallennettavista vähimmäistiedoista sekä valtionavustustietojen julkaisemisen ja käytön palvelussa julkaistavasta tietoaineistosta](1394.md) `1394/2022`
+- [Valtioneuvoston asetus valtiovarainministeriöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1395.md) `1395/2022`
+- [Valtioneuvoston asetus aluehallintovirastojen maksuista tammi\-kesäkuussa vuonna 2023](1396.md) `1396/2022`
+- [Valtioneuvoston asetus työttömyysetuutta määrättäessä huomioon otettavasta tulosta annetun valtioneuvoston asetuksen 8 §:n muuttamisesta](1397.md) `1397/2022`
+- [Valtioneuvoston asetus avustuksista arava\- ja korkotukivuokra\-asuntojen korjaamiseen ikääntyneille soveltuviksi vuosina 2020–2022 annetun valtioneuvoston asetuksen nimikkeen ja 7 §:n muuttamisesta](1398.md) `1398/2022`

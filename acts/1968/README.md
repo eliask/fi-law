@@ -1,0 +1,52 @@
+# 1968 Statutes
+
+## Statutes
+
+- [Laki sairausvakuutuslain muuttamisesta](10.md) `10/1968`
+- [Asetus liikennevakuutusasetuksen muuttamisesta](44.md) `44/1968`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain muuttamisesta\.](87.md) `87/1968`
+- [Laki liikennevakuutuslain muuttamisesta](167.md) `167/1968`
+- [Laki oikeudenkäymiskaaren muuttamisesta\.](184.md) `184/1968`
+- [Laki vekselilain muuttamisesta](186.md) `186/1968`
+- [Laki shekkilain muuttamisesta](187.md) `187/1968`
+- [Laki velkakirjalain muuttamisesta](188.md) `188/1968`
+- [Laki valtioneuvoston ministeriöiden lukumäärästä ja yleisestä toimialasta annetun lain muuttamisesta](191.md) `191/1968`
+- [Laki leipomotyölain muuttamisesta](247.md) `247/1968`
+- [Asetus kaavoitusalueiden jakoasetuksen muuttamisesta](268.md) `268/1968`
+- [Laki oikeudenkäymiskaaren 10 luvun muuttamisesta\.](342.md) `342/1968`
+- [Laki avioliittolain 13 §:n muuttamisesta\.](343.md) `343/1968`
+- [Laki Suomen Pankin ohjesäännön muuttamisesta\.](348.md) `348/1968`
+- [Laki elinkeinotulon verottamisesta](360.md) `360/1968`
+- [Laki väestönsuojelulain 26 §:n kumoamisesta](368.md) `368/1968`
+- [Laki maatilatalouden tuloverolain muuttamisesta](374.md) `374/1968`
+- [Laki verotuslain muuttamisesta](390.md) `390/1968`
+- [Laki ennakkoperintälain muuttamisesta](391.md) `391/1968`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain muuttamisesta](392.md) `392/1968`
+- [Kansalaisuuslaki](401.md) `401/1968`
+- [Laki uskonnonvapauslain muuttamisesta](422.md) `422/1968`
+- [Asetus työaikalain soveltamisesta valtion virkamiehiin](472.md) `472/1968`
+- [Laki julkisista huvitilaisuuksista](492.md) `492/1968`
+- [Laki rakennuslain muuttamisesta](493.md) `493/1968`
+- [Laki valtion oikeudesta säännöstellä Kemijoen vesistön vedenjuoksua annetun lain sekä eräiden Kemijoen vesistön vedenjuoksun säännöstelyä koskevien asioiden käsittelyjärjestyksestä annetun lain kumoamisesta](495.md) `495/1968`
+- [Asetus evankelis\-luterilaisen kirkon eläkeasetuksen muuttamisesta](499.md) `499/1968`
+- [Oikeusministeriön päätös järjestyssäännön vahvistamisesta Saimaan kanavan Sosialististen Neuvostotasavaltain Liitolle kuuluvan osan vuokra\-alueille\.](573.md) `573/1968`
+- [Asetus vapauttamisesta asevelvollisuuden suorittamisesta eräissä tapauksissa](635.md) `635/1968`
+- [Asetus elinkeinon harjoittamisen oikeudesta annetun lain 3 §:n muuttamisesta annetun lain voimaanpanosta\.](637.md) `637/1968`
+- [Asetus uskonnonvapauslain täytäntöönpanosta annetun asetuksen muuttamisesta](659.md) `659/1968`
+- [Laki leimaverolain muuttamisesta\.](670.md) `670/1968`
+- [Laki verotuslain muuttamisesta](684.md) `684/1968`
+- [Asetus rakennusasetuksen muuttamisesta](686.md) `686/1968`
+- [Asetus julkisista huvitilaisuuksista](687.md) `687/1968`
+- [Laki työntekijäin eläkelain muuttamisesta](690.md) `690/1968`
+- [Laki lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain muuttamisesta](691.md) `691/1968`
+- [Laki tapaturmavakuutuslain muuttamisesta](695.md) `695/1968`
+- [Asetus tapaturmavakuutuslain 57 §:n 3 momentissa tarkoitetusta vakuutuksesta\.](697.md) `697/1968`
+- [Laki metsänhoitoyhdistyksistä annetun lain muuttamisesta](740.md) `740/1968`
+- [Laki leimaverolain muuttamisesta](747.md) `747/1968`
+- [Valtion perhe\-eläkelaki](774.md) `774/1968`
+- [Valtion perhe\-eläkelain voimaanpanolaki](775.md) `775/1968`
+- [Laki Suomen Pankin ohjesäännön muuttamisesta](790.md) `790/1968`
+- [Laki valtion eläkelain muuttamisesta](793.md) `793/1968`
+- [Valtion perhe\-eläkeasetus](796.md) `796/1968`
+- [Asetus valtion perhe\-eläkelain voimaanpanolain täytäntöönpanosta ja soveltamisesta](797.md) `797/1968`
+- [Asetus kansaneläkeasetuksen muuttamisesta](806.md) `806/1968`

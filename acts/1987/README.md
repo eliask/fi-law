@@ -1,0 +1,1343 @@
+# 1987 Statutes
+
+## Statutes
+
+- [Laki valtionavustuksesta kuntien elinkeinoasiamiesten palkkaukseen annetun lain 3§:n väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1.md) `1/1987`
+- [Laki maataloustuotannon ohjaamisesta ja tasapainottamisesta annetun lain muuttamisesta](2.md) `2/1987`
+- [Laki pellon käytön rajoittamisesta annetun lain 7a §:n kumoamisesta](3.md) `3/1987`
+- [Asetus maatalouden markkinointineuvostosta annetun asetuksen 2§:n muuttamisesta](4.md) `4/1987`
+- [Valtioneuvoston päätös Euroopan talousyhteisöstä peräisin olevien eräiden viinien ja väkijuomien tullien muuttamisesta](5.md) `5/1987`
+- [Laki liikevaihtoverolain 55 b §:n muuttamisesta](6.md) `6/1987`
+- [Laki elinkeinotulon verottamisesta annetun lain 46 b §:n muuttamisesta](7.md) `7/1987`
+- [Laki valtion eläkelain muuttamisesta ja väliaikaisesta muuttamisesta](8.md) `8/1987`
+- [Laki valtion eläkelain 8§:n muuttamisesta](9.md) `9/1987`
+- [Laki eräiden virastojen ja laitosten menosääntöjen perusteiden muuttamisesta](10.md) `10/1987`
+- [Laki asuntotuotantolain muuttamisesta](11.md) `11/1987`
+- [Laki asuntojen perusparantamisesta annetun lain 22§:n muuttamisesta](12.md) `12/1987`
+- [Laki vuokra\-asuntojen omaksilunastamisesta annetun lain 20§:n muuttamisesta](13.md) `13/1987`
+- [Asetus maataloustuotannon ohjaamisesta ja tasapainottamisesta annetun asetuksen muuttamisesta](14.md) `14/1987`
+- [Asetus pellon käytön rajoittamisesta annetun asetuksen 11 a §:n kumoamisesta](15.md) `15/1987`
+- [Valtioneuvoston päätös Kehitysaluerahasto Oy \- Utvecklingsområdesfonden Ab:n määräämisestä toimimaan eräissä kunnissa](16.md) `16/1987`
+- [Sisäasiainministeriön päätös peliautomaatista saatavan tavaravoiton arvon enimmäismäärästä](17.md) `17/1987`
+- [Laki Suomen osallistumisesta Yhdistyneiden Kansakuntien rauhanturvaamistoimintaan annetun lain 4§:n muuttamisesta](18.md) `18/1987`
+- [Laki geodeettisesta laitoksesta annetun lain 1 ja 2 §:n muuttamisesta](19.md) `19/1987`
+- [Laki kadun ja eräiden yleisten alueiden kunnossa\- ja puhtaanapidosta annetun lain muuttamisesta](20.md) `20/1987`
+- [Laki kansainvälisestä yhteistoiminnasta vapausrangaistusten täytäntöönpanossa](21.md) `21/1987`
+- [Asetus kansainvälisestä yhteistoiminnasta vapausrangaistusten täytäntöönpanossa](22.md) `22/1987`
+- [Asetus sodan 1941\-1945 muistomitalista annetun asetuksen 2 ja 5§:n muuttamisesta](23.md) `23/1987`
+- [Asetus tieliikenneasetuksen muuttamisesta](24.md) `24/1987`
+- [Liikenneministeriön päätös liikenteen ohjauslaitteista annetun liikenneministeriön päätöksen muuttamisesta](25.md) `25/1987`
+- [Liikenneministeriön päätös yleisistä nopeusrajoituksista](26.md) `26/1987`
+- [Laki työturvallisuuslain muuttamisesta](27.md) `27/1987`
+- [Laki laivatyöturvallisuuslain kumoamisesta](28.md) `28/1987`
+- [Laki työsuojelun valvonnasta annetun lain muuttamisesta](29.md) `29/1987`
+- [Asetus Kiinan kansantasavallan kanssa tehdyn tieteellis\-teknistä yhteistyötä koskevan sopimuksen voimaansaattamisesta](30.md) `30/1987`
+- [Maa\- ja metsätalousministeriön päätös porsaiden kerroskasvatuksesta](31.md) `31/1987`
+- [Maatilahallituksen päätös tärkeimpien kasvilajien lajikkeista](32.md) `32/1987`
+- [Laki kirkkolain muuttamisesta](33.md) `33/1987`
+- [Laki Suomen kansalaisen oikeudesta olla maan palveluksessa uskontunnustukseensa katsomatta annetun lain muuttamisesta](34.md) `34/1987`
+- [Koskiensuojelulaki](35.md) `35/1987`
+- [Laki maatalousyrittäjien tapaturmavakuutuslain muuttamisesta](36.md) `36/1987`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](37.md) `37/1987`
+- [Laki työntekijäin eläkelain 1§:n muuttamisesta](38.md) `38/1987`
+- [Asetus työntekijäin eläkeasetuksen 1 §:n muuttamisesta](39.md) `39/1987`
+- [Asetus kansainvälisten aseellisten selkkausten uhrien suojelemisesta ja kansainvälistä luonnetta vailla olevien aseellisten selkkausten uhrien suojelemisesta tehtyjen, vuoden 1949 Geneven yleissopimusten lisäpöytäkirjojen voimaansaattamisesta annetun asetuksen muuttamisesta](40.md) `40/1987`
+- [Asetus Intian kanssa eräiden tekstiilituotteiden Intiasta Suomeen tapahtuvasta viennistä tehdyn sopimuksen voimaansaattamisesta](41.md) `41/1987`
+- [Asetus ammattikasvatusneuvostosta annetun asetuksen väliaikaisesta muuttamisesta](42.md) `42/1987`
+- [Asetus hevostalousneuvottelukunnasta annetun asetuksen 1§:n muuttamisesta](43.md) `43/1987`
+- [Asetus asuntotuotantoasetuksen muuttamisesta](44.md) `44/1987`
+- [Asetus vuokra\-asuntojen omaksilunastamisesta annetun asetuksen muuttamisesta](45.md) `45/1987`
+- [Suomen tasavallan tulo\- ja menoarvio vuodelle 1987](46.md) `46/1987`
+- [Laki työllisyyskoulutuksesta annetun lain muuttamisesta](47.md) `47/1987`
+- [Asetus työttömyyden lieventämiseen liittyvistä metsänhoidollisista töistä annetun asetuksen muuttamisesta](48.md) `48/1987`
+- [Asetus ennakkoäänestyspaikkoina olevista Suomen edustustoista annetun asetuksen muuttamisesta](49.md) `49/1987`
+- [Asetus vankeinhoidon koulutuskeskuksesta annetun asetuksen muuttamisesta](50.md) `50/1987`
+- [Asetus sisäasiainministeriön eräiden virkojen perustamisesta ja lakkauttamisesta](51.md) `51/1987`
+- [Asetus puolustusministeriön hallinnonalan eräiden virkojen ja toimien perustamisesta ja lakkauttamisesta](52.md) `52/1987`
+- [Asetus eräiden valtiovarainministeriön ja sen alaisten hallinnonalojen virkojen ja toimien perustamisesta ja lakkauttamisesta](53.md) `53/1987`
+- [Asetus eräiden maa\- ja metsätalousministeriön sekä sen alaisen hallinnonalan virkojen perustamisesta ja lakkauttamisesta](54.md) `54/1987`
+- [Valtioneuvoston päätös kunnanosan määräämisestä erityisalueeksi](55.md) `55/1987`
+- [Kauppa\- ja teollisuusministeriön päätös valvontalisensioinnista annetun päätöksen muuttamisesta](56.md) `56/1987`
+- [Asetus oikeusministeriön hallinnonalan eräiden virkojen ja toimien perustamisesta ja lakkauttamisesta](57.md) `57/1987`
+- [Asetus poliisin eräiden toimien perustamisesta ja lakkauttamisesta](58.md) `58/1987`
+- [Asetus rajavartiolaitoksen eräiden toimien perustamisesta ja lakkauttamisesta](59.md) `59/1987`
+- [Asetus lääninhallitusten eräiden virkojen perustamisesta ja lakkauttamisesta](60.md) `60/1987`
+- [Asetus eräiden liikenneministeriön hallinnonalaan kuuluvien virkojen ja toimien perustamisesta ja lakkauttamisesta](61.md) `61/1987`
+- [Asetus eräiden sosiaali\- ja terveysministeriön sekä sen alaisten hallinnonalojen virkojen ja toimien perustamisesta ja lakkauttamisesta](62.md) `62/1987`
+- [Valtiovarainministeriön päätös vuonna 1987 kannettavan ennakon perusteeksi pantavasta tulosta](63.md) `63/1987`
+- [Asetus valtioneuvoston kanslian erään viran perustamisesta ja toisen lakkauttamisesta](64.md) `64/1987`
+- [Asetus maaseudun pienimuotoisen elinkeinotoiminnan edistämisestä](65.md) `65/1987`
+- [Asetus sosiaalihuollon ammatillisen henkilöstön kelpoisuusehdoista annetun asetuksen 9 ja 12§:n muuttamisesta](66.md) `66/1987`
+- [Ammattitautiasetus](67.md) `67/1987`
+- [Asetus vuonna 1987 kertyvien sosiaaliturvamaksujen jakautumasta](68.md) `68/1987`
+- [Asetus vuonna 1985 kertyvien sosiaaliturvamaksujen jakautumasta annetun asetuksen 2 §:n muuttamisesta](69.md) `69/1987`
+- [Valtioneuvoston päätös kananmunien lisähinnasta annetun valtioneuvoston päätöksen 4 §:n muuttamisesta](70.md) `70/1987`
+- [Valtioneuvoston päätös kotieläintuotannon ohjaamisesta eräissä tapauksissa vuonna 1987](71.md) `71/1987`
+- [Laki lapsilisälain 1 ja 1 a§:n muuttamisesta](72.md) `72/1987`
+- [Laki tapaturmavirastosta annetun lain 1 ja 2§:n muuttamisesta](73.md) `73/1987`
+- [Laki  verotuslain muuttamisesta](74.md) `74/1987`
+- [Asetus verotusasetuksen muuttamisesta](75.md) `75/1987`
+- [Asetus välittömän verotuksen piiri\- ja paikallishallinnosta annetun asetuksen 27 §:n muuttamisesta](76.md) `76/1987`
+- [Asetus keskusverolautakunnasta annetun asetuksen 5 §:n muuttamisesta](77.md) `77/1987`
+- [Asetus poliisiasetuksen muuttamisesta](78.md) `78/1987`
+- [Asetus rahankeräysasetuksen 2 §:n muuttamisesta](79.md) `79/1987`
+- [Kauppa\- ja teollisuusministeriön päätös eräiden elintarvikerasvojen myyntipäällysmerkinnöistä](80.md) `80/1987`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta annetun Suomen Pankin päätöksen muuttamisesta](81.md) `81/1987`
+- [Asetus geodeettisesta laitoksesta annetun asetuksen muuttamisesta](82.md) `82/1987`
+- [Asetus työvoimaministeriön hallinnonalan eräiden virkojen ja toimien perustamisesta ja lakkauttamisesta](83.md) `83/1987`
+- [Liikenneministeriön päätös vaarallisten aineiden kuljettamisesta tiellä annetun liikenneministeriön päätöksen muuttamisesta](84.md) `84/1987`
+- [Laki vuokratulla alueella olevien rakennusten myymisestä Tampereen kaupungille](85.md) `85/1987`
+- [Asetus Saimaan kanavan lupamaksuista annetun asetuksen 2 §:n muuttamisesta](86.md) `86/1987`
+- [Valtioneuvoston päätös vuonna 1987 tehtävistä tuotannonmuutossopimuksista sekä metsityspalkkioista](87.md) `87/1987`
+- [Valtioneuvoston päätös vuonna 1987 tehtävistä maataloustuotannon vähentämissopimuksista](88.md) `88/1987`
+- [Valtioneuvoston päätös vuonna 1987 maksettavista pellon metsityspalkkioista](89.md) `89/1987`
+- [Valtioneuvoston päätös vuonna 1987 tehtävistä pellon kesannoimissopimuksista](90.md) `90/1987`
+- [Valtioneuvoston päätös naudanlihan tuotantosopimuksista](91.md) `91/1987`
+- [Valtioneuvoston päätös teknologiakeskusten ja \-kylien valtionavustuksen yleisistä ehdoista](92.md) `92/1987`
+- [Valtioneuvoston päätös lapsen sairaanhoito\- ja kuntoutusavustuksesta vanhemmille](93.md) `93/1987`
+- [Liikenneministeriön päätös satamalainojen yleisistä ehdoista annetun liikenneministeriön päätöksen muuttamisesta](94.md) `94/1987`
+- [Laki opintotukilain muuttamisesta](95.md) `95/1987`
+- [Asetus elintarvikeasetuksen muuttamisesta](96.md) `96/1987`
+- [Asetus kulutustavarasta annettavista tiedoista](97.md) `97/1987`
+- [Asetus näytteenotosta eräissä tapauksissa](98.md) `98/1987`
+- [Asetus sotilasrikoksia koskevien rangaistussäännösten soveltamisalasta annetun asetuksen 3 ja 4 §:n muuttamisesta](99.md) `99/1987`
+- [Asetus posti\- ja telelaitoksesta annetun asetuksen muuttamisesta](100.md) `100/1987`
+- [Asetus eräiden kauppa\- ja teollisuusministeriön ja sen alaisten hallinnonalojen virkojen ja toimien perustamisesta ja lakkauttamisesta\.](101.md) `101/1987`
+- [Asetus valtion teknillisestä tutkimuskeskuksesta annetun asetuksen muuttamisesta](102.md) `102/1987`
+- [Ympäristöministeriön päätös alueen liittämisestä Hiidenportin kansallispuistoon](103.md) `103/1987`
+- [Maa\- ja metsätalousministeriön päätös isonrysän käytöstä eräissä vesissä Inarin kunnan alueella](104.md) `104/1987`
+- [Verohallituksen päätös ennakonpidätyksen toimittamiseksi palkasta, ennakkoperintälain 5 ja 6§:ssä tarkoitetuista suori\- tuksista sekä palkkaturvalain nojalla maksettavasta suorituksesta annetun päätöksen muuttamisesta](105.md) `105/1987`
+- [Asetus sisäasiainministeriöstä annetun asetuksen muuttamisesta](106.md) `106/1987`
+- [Asetus  säteilyturvakeskuksesta](107.md) `107/1987`
+- [Asetus sosiaali\- ja terveysministeriöstä](108.md) `108/1987`
+- [Sosiaali\- ja terveysministeriön päätös apteekkitavaraluettelosta](109.md) `109/1987`
+- [Laki Valtionhallinnon kehittämiskeskuksesta](110.md) `110/1987`
+- [Asetus Valtionhallinnon kehittämiskeskuksesta](111.md) `111/1987`
+- [Asetus korkeakoulujen eräiden virkojen ja toimien perustamisesta ja lakkauttamisesta](112.md) `112/1987`
+- [Asetus humanistisen perustutkinnon järjestämisestä annetun asetuksen muuttamisesta](113.md) `113/1987`
+- [Asetus eräiden opetusministeriön ja sen hallinnonalojen virkojen perustamisesta ja lakkauttamisesta](114.md) `114/1987`
+- [Asetus eräiden ympäristöministeriön ja sen hallinnonalan virkojen perustamisesta ja lakkauttamisesta](115.md) `115/1987`
+- [Laki Teollisen Kehitysyhteistyön Rahasto Oy \- Fonden för Industriellt Utvecklingssamarbete Ab \-nimisestä osakeyhtiöstä annetun lain muuttamisesta](116.md) `116/1987`
+- [Asetus ulkoasiainhallinnon eräiden virkojen ja toimien perustamisesta ja lakkauttamisesta](117.md) `117/1987`
+- [Asetus ulkoasiainhallinnosta annetun asetuksen muuttamisesta](118.md) `118/1987`
+- [Asetus erään viran perustamisesta valtiokonttoriin](119.md) `119/1987`
+- [Asetus liikenneministeriöstä annetun asetuksen muuttamisesta](120.md) `120/1987`
+- [Asetus ilmailuhallinnosta annetun asetuksen muuttamisesta](121.md) `121/1987`
+- [Asetus sanoma\- ja aikakauslehtien postimaksuista annetun asetuksen 2§:n muuttamisesta](122.md) `122/1987`
+- [Valtioneuvoston päätös vuonna 1987 jalostettavaksi toimitetusta kalaraaka\-aineesta yrityksille suoritettavasta tuotantotuesta](123.md) `123/1987`
+- [Valtioneuvoston päätös myytäväksi toimitetun silakan ja kilohailin vähimmäishinnoista ja tavoitehinnoista sekä ammattikalastajille suoritettavan hintatuen soveltamisesta annetun valtioneuvoston päätöksen 4§:n muuttamisesta](124.md) `124/1987`
+- [Valtioneuvoston päätös myytäväksi toimitetun silakan ja kilohailin vähimmäishinnoista ja tavoitehinnoista sekä ammattikalastajille suoritettavan hintatuen soveltamisesta annetun valtioneuvoston päätöksen 5 §:n muuttamisesta](125.md) `125/1987`
+- [Valtioneuvoston päätös energiataloudellisen tutkimuksen ja koetoiminnan edistämiseen myönnettävien avustusten yleisistä ehdoista](126.md) `126/1987`
+- [Valtioneuvoston päätös turvavarastointiohjelmasta vuonna 1987](127.md) `127/1987`
+- [Laki rangaistusten täytäntöönpanosta annetun asetuksen 3 luvun 3 ja 9 §:n muuttamisesta](128.md) `128/1987`
+- [Laki suurilta kana\- ja sikatalousyrityksiltä kannettavista markkinoimismaksuista annetun lain muuttamisesta](129.md) `129/1987`
+- [Laki elinkeinotulon verottamisesta annetun lain muuttamisesta](130.md) `130/1987`
+- [Laki maatilatalouden tuloverolain 14§:n muuttamisesta](131.md) `131/1987`
+- [Laki tapaturmaviraston eräiden tehtävien siirtämisestä valtiokonttorille](132.md) `132/1987`
+- [Laki rikosvahinkojen korvaamisesta valtion varoista annetun lain muuttamisesta](133.md) `133/1987`
+- [Laki valtiokonttorista annetun lain muuttamisesta](134.md) `134/1987`
+- [Asetus vankeinhoitolaitoksesta annetun asetuksen muuttamisesta](135.md) `135/1987`
+- [Asetus valtiovarainministeriöstä annetun asetuksen muuttamisesta](136.md) `136/1987`
+- [Asetus välittömän verotuksen piiri\- ja paikallishallinnosta annetun asetuksen muuttamisesta](137.md) `137/1987`
+- [Laki metsähallinnosta](138.md) `138/1987`
+- [Laki keskusmetsälautakunnista ja metsälautakunnista](139.md) `139/1987`
+- [Metsänparannuslaki](140.md) `140/1987`
+- [Laki tuotantotoiminnan alueellisesta tukemisesta annetun lain 1§:n muuttamisesta](141.md) `141/1987`
+- [Laki toimenpiteistä Suomen merenkulun turvaamiseksi](142.md) `142/1987`
+- [Asetus patentti\- ja rekisterihallituksesta annetun asetuksen muuttamisesta](143.md) `143/1987`
+- [Asetus luonnonvarainneuvostosta annetun asetuksen muuttamisesta](144.md) `144/1987`
+- [Laki Ison\-Britannian ja Pohjois\-Irlannin yhdistyneen kuningaskunnan kanssa tulon ja omaisuuden kaksinkertaisen verotuksen sekä veron kiertämisen estämiseksi tehdyn sopimuksen muuttamista koskevan pöytäkirjan eräiden määräysten hyväksymisestä](145.md) `145/1987`
+- [Asetus Ison\-Britannian ja Pohjois\-Irlannin yhdistyneen kuningaskunnan kanssa tulon ja omaisuuden kaksinkertaisen verotuksen sekä veron kiertämisen estämiseksi tehdyn sopimuksen muuttamista koskevan pöytäkirjan voimaansaattamisesta sekä sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](146.md) `146/1987`
+- [Asetus katsojien väkivaltaa ja epäsopivaa käyttäytymistä urheilutilaisuuksissa ja erityisesti jalkapallo\-otteluissa koskevan eurooppalaisen yleissopimuksen voimaansaattamisesta](147.md) `147/1987`
+- [Asetus tiedotusopin professorin viran perustamisesta Jyväskylän yliopistoon](148.md) `148/1987`
+- [Asetus alaltaan vaihtuvista sopimuspalkkaisista professorin viroista](149.md) `149/1987`
+- [Asetus Suomen elokuva\-arkiston suoritteista perittävistä maksuista annetun asetuksen 5 §:n muuttamisesta](150.md) `150/1987`
+- [Asetus vesi\- ja ympäristöhallinnosta](151.md) `151/1987`
+- [Puolustusministeriön päätös asevelvolliselle suoritettavista matkakorvauksista](152.md) `152/1987`
+- [Laki luonnonsuojelulain muuttamisesta](153.md) `153/1987`
+- [Laki asumistukilain muuttamisesta](154.md) `154/1987`
+- [Laki opintotukilain 10§:n muuttamisesta](155.md) `155/1987`
+- [Asetus asumistukiasetuksen muuttamisesta](156.md) `156/1987`
+- [Valtioneuvoston päätös yleisistä ohjeista voimalaitosten ja kattilalaitosten hiukkaspäästöjen rajoittamiseksi](157.md) `157/1987`
+- [Valtioneuvoston päätös kevyen polttoöljyn ja dieselöljyn rikkipitoisuudesta](158.md) `158/1987`
+- [Valtioneuvoston päätös kivihiiltä käyttävien voimalaitosten ja kattilalaitosten rikkidioksidipäästöjen rajoittamisesta](159.md) `159/1987`
+- [Valtioneuvoston päätös yleisistä ohjeista sulfaattisellutehtaiden rikkiyhdisteiden päästöjen rajoittamiseksi](160.md) `160/1987`
+- [Valtioneuvoston päätös yleisistä ohjeista rikkihappotehtaiden rikkiyhdisteiden päästöjen rajoittamiseksi](161.md) `161/1987`
+- [Ympäristöministeriön päätös korjausneuvojien palkkaamiseen myönnettävän valtionavustuksen perusteista](162.md) `162/1987`
+- [Laki liikevaihtoverolain 1 ja 3§:n muuttamisesta](163.md) `163/1987`
+- [Laki rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun lain 6§:n muuttamisesta](164.md) `164/1987`
+- [Asetus tie\- ja vesirakennuslaitoksesta annetun asetuksen muuttamisesta](165.md) `165/1987`
+- [Eduskunnan päätös Eduskunnan työjärjestyksen 8§:n muuttamisesta](166.md) `166/1987`
+- [Valtioneuvoston päätös asevelvolliselle muulta kuin vakinaisen väen palvelusajalta suoritettavasta palkkauksesta annetun valtioneuvoston päätöksen 1§:n muuttamisesta](167.md) `167/1987`
+- [Valtioneuvoston päätös rehuksi käytettävien maitotaloustuotteiden hinnanalennuskorvauksista](168.md) `168/1987`
+- [Sisäasiainministeriön päätös eräiden tilojen, tilanosien ja pakkolunastusyksiköiden siirtämisestä Kangasalan kunnasta Tampereen kaupunkiin](169.md) `169/1987`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Turun kaupungin ja Kaarinan kunnan välillä](170.md) `170/1987`
+- [Sisäasiainministeriön päätös kolmen tilan siirtämisestä Lemun kunnasta Askaisten kuntaan](171.md) `171/1987`
+- [Sisäasiainministeriön päätös eräiden tilojen ja tilanosien siirtämisestä Saltvikin kunnasta Getan kuntaan](172.md) `172/1987`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta eräiltä osin Joutsenon ja Nuijamaan kuntien välillä](173.md) `173/1987`
+- [Sisäasiainministeriön päätös eräiden tilojen, tilanosien ja alueiden siirtämisestä Ilmajoen ja Nurmon kunnista Seinäjoen kaupunkiin annetun valtioneuvoston päätöksen oikaisunluonteisesta korjauksesta](174.md) `174/1987`
+- [Valtiovarainministeriön päätös taidekilpailupalkintojen verovapaudesta annetun valtiovarainministeriön päätöksen 8 §:n muuttamisesta](175.md) `175/1987`
+- [Laki valtion virkamiehen ja työntekijän terveydenhuollosta ulkomailla](176.md) `176/1987`
+- [Asetus valtion virkamiehen ja työntekijän terveydenhuollosta ulkomailla](177.md) `177/1987`
+- [Asetus tullihallinnosta annetun asetuksen muuttamisesta](178.md) `178/1987`
+- [Asetus elintarvikeasetuksen muuttamisesta](179.md) `179/1987`
+- [Valtioneuvoston päätös vientituotteiden markkinoinnin edistämiseen myönnettävien lainojen yleisistä ehdoista annetun valtioneuvoston päätöksen muuttamisesta](180.md) `180/1987`
+- [Valtioneuvoston päätös hankevientiin liittyvään tarjoustoimintaan myönnettävien lainojen yleisistä ehdoista annetun valtioneuvoston päätöksen muuttamisesta](181.md) `181/1987`
+- [Maa\- ja metsätalousministeriön päätös eräiden elintarvikerasvojen vitaminoinnista sekä lisäaineiden ja tunnistusaineiden käytöstä näihin valmisteisiin](182.md) `182/1987`
+- [Teletoimintalaki](183.md) `183/1987`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain 3§:n muuttamisesta](184.md) `184/1987`
+- [Laki tieliikennelain 82 §:n muuttamisesta](185.md) `185/1987`
+- [Asetus ajokorttiasetuksen 34§:n 5 momentin muuttamisesta](186.md) `186/1987`
+- [Asetus tapaturmavirastosta](187.md) `187/1987`
+- [Asetus opetusministeriöstä annetun asetuksen muuttamisesta](188.md) `188/1987`
+- [Asetus Helsingin yliopiston eräiden virkojen perustamisesta ja lakkauttamisesta](189.md) `189/1987`
+- [Asetus Helsingin yliopiston kotieläinten jalostustieteen varsinaisen professorin viran opetusalasta](190.md) `190/1987`
+- [Asetus kauppa\- ja teollisuusministeriöstä](191.md) `191/1987`
+- [Laki tapaturmavakuutuslain muuttamisesta](192.md) `192/1987`
+- [Asetus Suomen, Islannin, Norjan, Ruotsin ja Tanskan välillä Pohjoismaiden kansalaisten oikeudesta käyttää omaa kieltään muussa pohjoismaassa tehdyn sopimuksen voimaansaattamisesta](193.md) `193/1987`
+- [Asetus Saksan demokraattisen tasavallan kanssa tehdyn maksusopimuksen muutosten voimaansaattamisesta](194.md) `194/1987`
+- [Asetus puolustusministeriöstä annetun asetuksen muuttamisesta](195.md) `195/1987`
+- [Asetus puolustustaloudellisesta suunnittelukunnasta annetun asetuksen muuttamisesta](196.md) `196/1987`
+- [Asetus kansanterveyslaitoksesta annetun asetuksen muuttamisesta](197.md) `197/1987`
+- [Asetus valtion siviilisairaalain ohjesäännön sisältävän asetuksen muuttamisesta](198.md) `198/1987`
+- [Asetus työllisyyskoulutuksesta annetun asetuksen muuttamisesta](199.md) `199/1987`
+- [Valtioneuvoston päätös kehitysmaiden taloudellista kehitystä varten myönnettävistä korkotukiluotoista](200.md) `200/1987`
+- [Valtioneuvoston päätös äitiysavustuksen suuruuden vahvistamisesta](201.md) `201/1987`
+- [Valtioneuvoston päätös pakolaisten toimeentulon turvaamisesta](202.md) `202/1987`
+- [Laki jätehuoltolain muuttamisesta](203.md) `203/1987`
+- [Laki aluksista aiheutuvan vesien pilaantumisen ehkäisemisestä annetun lain muuttamisesta](204.md) `204/1987`
+- [Laki maa\-alueilla tapahtuvien öljyvahinkojen torjumisesta annetun lain 5§:n muuttamisesta](205.md) `205/1987`
+- [Asetus Valtionhallinnon kehittämiskeskuksen suoritteista perittävistä maksuista](206.md) `206/1987`
+- [Asetus valtiokonttorista annetun asetuksen muuttamisesta](207.md) `207/1987`
+- [Asetus valtion työterveys\- ja työturvallisuusasiain neuvottelukunnasta annetun asetuksen 3§:n muuttamisesta](208.md) `208/1987`
+- [Asetus oman asunnon hankintaan myönnettävien lainojen korkotuesta annetun asetuksen 2 §:n muuttamisesta](209.md) `209/1987`
+- [Valtioneuvoston päätös velvollisuudesta antaa tietoja työpaikan terveysvaaroista](210.md) `210/1987`
+- [Asetus oikeusministeriöstä annetun asetuksen muuttamisesta](211.md) `211/1987`
+- [Asetus rikosvahinkojen korvaamisesta valtion varoista annetun asetuksen muuttamisesta](212.md) `212/1987`
+- [Asetus metsähallinnosta](213.md) `213/1987`
+- [Asetus eräiden metsähallinnon virkojen ja toimien perustamisesta, lakkauttamisesta ja muuttamisesta](214.md) `214/1987`
+- [Asetus posti\- ja telelaitoksesta annetun asetuksen muuttamisesta](215.md) `215/1987`
+- [Valtioneuvoston päätös hirvieläinvahinkojen korvaamisesta annetun valtioneuvoston päätöksen 13 ja 21 §:n muuttamisesta](216.md) `216/1987`
+- [Valtiovarainministeriön päätös maatilatalouden tuloverolain 14 §:n säännöksen soveltamisesta verotuksessa annetun valtiovarainministeriön päätöksen 3 §:n muuttamisesta](217.md) `217/1987`
+- [Laki tulo\- ja varallisuusverolain muuttamisesta](218.md) `218/1987`
+- [Asetus eräiden julkisoikeudellisessa palvelussuhteessa valtioon olevien henkilöiden vuosilomasta ja vuosilomakorvauksesta annetun asetuksen muuttamisesta](219.md) `219/1987`
+- [Valtioneuvoston päätös maidon tuotantokiintiöiden tarkistamisesta vuonna 1987](220.md) `220/1987`
+- [Valtioneuvoston päätös maidon kuljetusavustuksista annetun valtioneuvoston päätöksen 2 ja 12§:n muuttamisesta](221.md) `221/1987`
+- [Maa\- ja metsätalousministeriön päätös hyväksytyistä rehun lisäaineista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](222.md) `222/1987`
+- [Verohallituksen päätös  työn suorittamisesta aiheutuneiden kustannusten arvioimisesta ennakonpidätystä toimitettaessa](223.md) `223/1987`
+- [Laki eräistä järjestelyistä Sulkavan invalidien ammattioppilaitoksen siirtyessä vankeinhoitolaitoksen käyttöön](224.md) `224/1987`
+- [Laki entisen Lehtimäen keskikoulun koulurakennuksen luovuttamisesta Erityiskansanopiston kannatusyhdistys r\.y:n omistukseen](225.md) `225/1987`
+- [Laki työttömyysturvalain muuttamisesta](226.md) `226/1987`
+- [Laki työttömyyskassalain 26 ja 27 §:n muuttamisesta](227.md) `227/1987`
+- [Valtioneuvoston päätös kunnan ja kunnanosan määräämisestä erityisalueiksi](228.md) `228/1987`
+- [Valtioneuvoston päätös työnantajalle maksettavasta koulutuskorvauksesta vuodelta 1987](229.md) `229/1987`
+- [Valtioneuvoston päätös asunto\-, omaksilunastamis\- ja perusparannuslainan myöntämisessä sekä asukkaaksi hyväksymisessä sovellettavista arvosteluperusteista](230.md) `230/1987`
+- [Opetusministeriön päätös vihkimisoikeuden myöntämisestä Ortodoksinen Pyhän Nikolauksen Seurakunta \-nimiselle uskonnolliselle yhdyskunnalle](231.md) `231/1987`
+- [Sosiaali\- ja terveysministeriön päätös maatalousyrittäjien tapaturmavakuutuslain 11§:n 3 momentissa tarkoitettujen henkilöiden vuosityöansiosta](232.md) `232/1987`
+- [Laki vuosilomalain 3§:n muuttamisesta](233.md) `233/1987`
+- [Valtioneuvoston päätös maatalousyrittäjän vuosiloman pituudesta](234.md) `234/1987`
+- [Valtioneuvoston päätös peruskoulu\- ja lukiorakennusten suunnittelun, rakentamisen ja normaalihintojen perusteista](235.md) `235/1987`
+- [Valtioneuvoston päätös kirjastorakennusten suunnittelun, rakentamisen ja normaalihintojen perusteista](236.md) `236/1987`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta annetun Suomen Pankin päätöksen muuttamisesta](237.md) `237/1987`
+- [Laki eräiden saamisten perimisestä kerta kaikkiaan annetun lain 3§:n muuttamisesta](238.md) `238/1987`
+- [Laki kotieläintuotannon ohjaamisesta eräissä tapauksissa annetun lain muuttamisesta](239.md) `239/1987`
+- [Asetus valtion tulo\- ja menoarviosta sekä kirjanpidosta annetun asetuksen 25 §:n muuttamisesta](240.md) `240/1987`
+- [Asetus liikevaihtoveroasetuksen 1§:n väliaikaisesta muuttamisesta](241.md) `241/1987`
+- [Asetus peruskouluasetuksen 46 ja 110 §:n muuttamisesta](242.md) `242/1987`
+- [Asetus lukioasetuksen 84 §:n muuttamisesta](243.md) `243/1987`
+- [Asetus teknilliselle tarkastuskeskukselle suoritettavista maksuista annettuun asetukseen liittyvien hinnaston soveltamissäännösten muuttamisesta](244.md) `244/1987`
+- [Valtioneuvoston päätös valtion työntekijöiden matkakustannusten korvaamisesta annetun valtioneuvoston päätöksen muuttamisesta](245.md) `245/1987`
+- [Valtioneuvoston päätös valtion virkamiesten erorahasta annetun valtioneuvoston päätöksen muuttamisesta](246.md) `246/1987`
+- [Valtioneuvoston päätös linja\-autojen linjaliikenteen tuesta](247.md) `247/1987`
+- [Verohallituksen päätös liikkeen\- ja ammatinharjoittajan työmatkasta aiheutuneen elantokustannusten lisäyksen vähentämisestä vuodelta 1987 toimitettavassa verotuksessa](248.md) `248/1987`
+- [Laki työaikalain 16§:n muuttamisesta](249.md) `249/1987`
+- [Laki kauppaliikkeiden ja toimistojen työaikalain 8§:n muuttamisesta](250.md) `250/1987`
+- [Laki merityöaikalain muuttamisesta](251.md) `251/1987`
+- [Laki alkoholilain muuttamisesta](252.md) `252/1987`
+- [Laki keskioluesta annetun lain muuttamisesta](253.md) `253/1987`
+- [Laki päihdeolojen kehitystä koskevan kertomuksen antamisesta eduskunnalle](254.md) `254/1987`
+- [Laki eräiden potilasvahinkokorvausten sitomisesta palkkatasoon](255.md) `255/1987`
+- [Asetus eräiden työttömyysturvaetuuksien korottamisesta](256.md) `256/1987`
+- [Valtioneuvoston päätös asumistuen määräytymisperusteista annetun valtioneuvoston päätöksen muuttamisesta](257.md) `257/1987`
+- [Opetusministeriön päätös Suomen Islamilainen Yhdyskunta \-nimisen uskonnollisen yhdyskunnan merkitsemisestä uskonnollisten yhdyskuntien rekisteriin](258.md) `258/1987`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta annetun Suomen Pankin päätöksen muuttamisesta](259.md) `259/1987`
+- [Laki kunnallisten viranhaltijain ja työntekijäin eläkelain muuttamisesta](260.md) `260/1987`
+- [Laki kunnallisesta työmarkkinalaitoksesta](261.md) `261/1987`
+- [Valtioneuvoston päätös ulkomaanedustuksen virkamiesten paikalliskorotuksesta, varustautumiskorvauksesta ja asettautumiskustannusten korvauksesta annetun valtioneuvoston päätöksen muuttamisesta](262.md) `262/1987`
+- [Ympäristöministeriön päätös kuolleena tavattujen rauhoitettujen eläinten luovuttamisesta](263.md) `263/1987`
+- [Valtiovarainministeriön päätös verohallinnon luottamushenkilöiden palkkioista](264.md) `264/1987`
+- [Ympäristöministeriön päätös jätehuollon ja jätteiden hyödyntämisen edistämiseen myönnettävistä avustuksista](265.md) `265/1987`
+- [Laki elokuvien tarkastuksesta annetun lain muuttamisesta](266.md) `266/1987`
+- [Laki elokuvien tarkastuksen toimittamisesta annetun lain muuttamisesta](267.md) `267/1987`
+- [Laki elokuvaverolain 7 ja 8 §:n muuttamisesta](268.md) `268/1987`
+- [Laki työllisyyskoulutuksesta annetun lain 13 a§:n muuttamisesta](269.md) `269/1987`
+- [Laki eräistä oikeudenkäynneistä valtion palveluksessa oleville aiheutuvien kustannusten korvaamisesta valtion varoista annetun lain muuttamisesta](270.md) `270/1987`
+- [Laki eräistä oikeudenkäynneistä kunnan tai kuntainliiton palveluksessa oleville aiheutuvien kustannusten korvaamisesta kunnan tai kuntainliiton varoista annetun lain muuttamisesta](271.md) `271/1987`
+- [Asetus kuntien yleisistä rahoitusavustuksista annetun asetuksen 1§:n muuttamisesta](272.md) `272/1987`
+- [Asetus Valtionrautateiden hallinnosta](273.md) `273/1987`
+- [Laki maan ulkomaankaupan ja taloudellisen kasvun turvaamisesta annetun lain 7 a§:n muuttamisesta](274.md) `274/1987`
+- [Työllisyyslaki \(275/87\)](275.md) `275/1987`
+- [Asetus maatila\-asetuksen 1 ja 93 §:n muuttamisesta](276.md) `276/1987`
+- [Asetus luopumiseläkeasetuksen 18§:n muuttamisesta](277.md) `277/1987`
+- [Asetus maataloustuotannon ohjaamisesta ja tasapainottamisesta annetun asetuksen muuttamisesta](278.md) `278/1987`
+- [Valtioneuvoston päätös kotieläintuotannon ohjaamisesta eräissä tapauksissa vuonna 1987 annetun valtioneuvoston päätöksen muuttamisesta](279.md) `279/1987`
+- [Valtioneuvoston päätös vuonna 1987 tehtävistä pellon kesannoimissopimuksista annetun valtioneuvoston päätöksen 7 §:n muuttamisesta](280.md) `280/1987`
+- [Valtioneuvoston päätös vuonna 1987 tehtävistä herneen tuotantosopimuksista](281.md) `281/1987`
+- [Valtioneuvoston päätös naudanlihan ja lampaanlihan tuotantopalkkioista annetun valtioneuvoston päätöksen muuttamisesta](282.md) `282/1987`
+- [Valtioneuvoston päätös kananmunien lisähinnasta annetun valtioneuvoston päätöksen 3§:n muuttamisesta](283.md) `283/1987`
+- [Maa\- ja metsätalousministeriön päätös eräiden lannoitevalmisteiden laatuvaatimuksista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](284.md) `284/1987`
+- [Laki yleisen alioikeuden, maistraatin ja julkisen notaarin suoritteista perittävien maksujen perusteista](285.md) `285/1987`
+- [Laki leimaverolain muuttamisesta](286.md) `286/1987`
+- [Laki lainhuudatus\- ja kiinnitysasiain pöytäkirjain yksinkertaistamisesta annetun lain 4§:n kumoamisesta](287.md) `287/1987`
+- [Laki maksamismääräyslain 17 §:n kumoamisesta](288.md) `288/1987`
+- [Laki eräiden viranomaisten toimituskirjoista ja virkatoimista suoritettavain maksujen perusteista annetun lain 1 ja 2§:n muuttamisesta](289.md) `289/1987`
+- [Asetus yleisen alioikeuden, maistraatin ja julkisen notaarin suoritteista perittävistä maksuista](290.md) `290/1987`
+- [Asetus maksamismääräysasetuksen 3 §:n kumoamisesta](291.md) `291/1987`
+- [Asetus toimituskirjain lunastuksesta ja toimituspalkkiosta annetun asetuksen muuttamisesta](292.md) `292/1987`
+- [Asetus maksuttomasta oikeudenkäynnistä annetun asetuksen 7 §:n muuttamisesta](293.md) `293/1987`
+- [Asetus raastuvanoikeuksien ja kaupungin syyttäjälaitoksen sekä maistraattien ja kaupungin ulosottolaitoksen siirtämisestä valtion haltuun annetun asetuksen 5 §:n kumoamisesta](294.md) `294/1987`
+- [Asetus alkoholijuomista annetun asetuksen muuttamisesta](295.md) `295/1987`
+- [Asetus keskioluesta annetun asetuksen muuttamisesta](296.md) `296/1987`
+- [Asetus väkiviinasta ja alkoholivalmisteista annetun asetuksen 1§:n muuttamisesta](297.md) `297/1987`
+- [Asetus denaturoiduista alkoholipitoisista aineista ja denaturoimisesta annetun asetuksen 1§:n muuttamisesta](298.md) `298/1987`
+- [Asetus eräistä sairaanhoitolaitosten maksuista, korvauksista ja palkkioista annetun asetuksen muuttamisesta](299.md) `299/1987`
+- [Asetus mielisairaanhoidosta perittävistä maksuista annetun asetuksen 3 §:n muuttamisesta](300.md) `300/1987`
+- [Asetus kansanterveyslaitoksessa suoritetuista tutkimuksista perittävistä maksuista annetun asetuksen liitteenä olevan hinnaston muuttamisesta](301.md) `301/1987`
+- [Asetus maatalousyrittäjien eläkeasetuksen 20 §:n muuttamisesta](302.md) `302/1987`
+- [Asetus maatalousyrittäjien tapaturmavakuutusasetuksen 7 ja 8 §:n muuttamisesta](303.md) `303/1987`
+- [Asetus yrittäjien eläkeasetuksen 17 a §:n muuttamisesta](304.md) `304/1987`
+- [Asetus rintamaveteraanien varhaiseläkkeestä annetun asetuksen 11 §:n muuttamisesta](305.md) `305/1987`
+- [Laki liikuntalain muuttamisesta](306.md) `306/1987`
+- [Laki kaapelilähetystoiminnasta](307.md) `307/1987`
+- [Laki oikeudenkäymiskaaren 17 luvun 24§:n muuttamisesta](308.md) `308/1987`
+- [Laki tekijänoikeuslain muuttamisesta](309.md) `309/1987`
+- [Laki oikeudesta valokuvaan annetun lain 12 §:n muuttamisesta](310.md) `310/1987`
+- [Asetus Suomen liikuntakulttuurin ja urheilun ansiorististä ja ansiomitalista annetun asetuksen 3§:n muuttamisesta](311.md) `311/1987`
+- [Asetus tuomittujen siirtämistä koskevan yleissopimuksen voimaansaattamisesta](312.md) `312/1987`
+- [Asetus Euroopan sääsatelliittijärjestön \(EUMETSAT\) perustamista koskevan yleissopimuksen II liitteen muutoksen voimaansaattamisesta](313.md) `313/1987`
+- [Valtioneuvoston päätös pienyrittäjän vuosilomarahasta annetussa laissa tarkoitetun enimmäisvuositulon määrän ja vuosilomarahan suuruuden vahvistamisesta](314.md) `314/1987`
+- [Ulkoasiainministeriön päätös kehitysmaiden taloudellista kehitystä varten myönnettävien korkotukiluottojen yleisistä ehdoista](315.md) `315/1987`
+- [Laki valtiopäiväjärjestyksen muuttamisesta](316.md) `316/1987`
+- [Eduskunnan päätös eduskunnan työjärjestyksen 18 §:n muuttamisesta](317.md) `317/1987`
+- [Eduskunnan päätös eduskunnan työjärjestyksen muuttamisesta](318.md) `318/1987`
+- [Eduskunnan päätös eduskunnan työjärjestyksen 52 b§:n muuttamisesta](319.md) `319/1987`
+- [Eduskunnan kanslian ohjesääntö](320.md) `320/1987`
+- [Valtioneuvoston päätös eräiden opintotukilaissa tarkoitettujen määrien vahvistamisesta](321.md) `321/1987`
+- [Laki terveydenhuollon järjestämisestä puolustusvoimissa](322.md) `322/1987`
+- [Laki aluevaihdosta valtion ja Kuusamon yhteismetsän välillä](323.md) `323/1987`
+- [Asetus aluksista aiheutuvan vesien pilaantumisen ehkäisemisestä annetun asetuksen muuttamisesta](324.md) `324/1987`
+- [Valtioneuvoston päätös kotimaisen villan tuotantopalkkioista annetun valtioneuvoston päätöksen muuttamisesta](325.md) `325/1987`
+- [Oikeusministeriön päätös vankeusrangaistuksen täytäntöönpanosta eräissä tapauksissa annetun oikeusministeriön päätöksen 1 ja 2§:n muuttamisesta](326.md) `326/1987`
+- [Maa\- ja metsätalousministeriön päätös kotimaisen rukiin ja vehnän jauhatusvelvollisuudesta annetun maa\- ja metsätalousministeriön päätöksen 1§:n muuttamisesta](327.md) `327/1987`
+- [Laki vakuutusyhtiölain 1 luvun 3§:n muuttamisesta](328.md) `328/1987`
+- [Laki vakuutusyhtiölain 7 luvun 3§:n ja 10 luvun 1§:n muuttamisesta](329.md) `329/1987`
+- [Asetus kansainvälistä tekstiilikauppaa koskevan sopimuksen jatkamista koskevan pöytäkirjan voimaansaattamisesta](330.md) `330/1987`
+- [Asetus Malesian kanssa eräiden tekstiilituotteiden Malesiasta tapahtuvan tuonnin valvomisesta tehdyn sopimuksen jatkamisen voimaansaattamisesta](331.md) `331/1987`
+- [Asetus kasvatustieteellisen perustutkinnon järjestämisestä Helsingin yliopistossa annetun asetuksen muuttamisesta](332.md) `332/1987`
+- [Asetus opintotukiasetuksen muuttamisesta](333.md) `333/1987`
+- [Asetus ilmailuhallinnosta annetun asetuksen muuttamisesta](334.md) `334/1987`
+- [Kauppa\- ja teollisuusministeriön päätös maakaasun jakelu\- ja laitosinvestointeihin annettavien korkotukilainojen yleisistä ehdoista](335.md) `335/1987`
+- [Ympäristöministeriön päätös keskimääräisestä kartoituskustannuksesta hehtaaria kohti](336.md) `336/1987`
+- [Maa\- ja metsätalousministeriön päätös harjuksen pyynnistä Enontekiön, Inarin ja Utsjoen kuntien alueilla](337.md) `337/1987`
+- [Verohallituksen päätös työn suorittamisesta aiheutuneiden kustannusten arvioimisesta ennakonpidätystä toimitettaessa 19 päivänä helmikuuta 1987 annetun päätöksen muuttamisesta](338.md) `338/1987`
+- [Laki liikepankkilain muuttamisesta](339.md) `339/1987`
+- [Laki postipankkilain muuttamisesta](340.md) `340/1987`
+- [Laki säästöpankkilain muuttamisesta](341.md) `341/1987`
+- [Laki osuuspankkilain muuttamisesta](342.md) `342/1987`
+- [Asetus eräistä alusten katsastuksiin ja tarkastuksiin sekä jäämaksuluokan määräämiseen liittyvistä palkkioista ja korvauksista annetun asetuksen muuttamisesta](343.md) `343/1987`
+- [Valtioneuvoston päätös Vuotoksen alueen maa\- ja metsätalouden kehittämistoimenpiteistä](344.md) `344/1987`
+- [Valtioneuvoston päätös pinta\-alalisästä](345.md) `345/1987`
+- [Valtioneuvoston päätös merionnettomuudessa menetetystä henkilökohtaisesta omaisuudesta työntekijälle tulevan korvauksen perusteista annetun valtioneuvoston päätöksen 1 ja 2 §:n muuttamisesta](346.md) `346/1987`
+- [Ympäristöministeriön päätös kunnan alusöljyvahinkojen torjuntasuunnitelman alistamisesta vesi\- ja ympäristöhallituksen vahvistettavaksi](347.md) `347/1987`
+- [Laki eräiden vesioikeudellisten korvausten takaisin maksamisesta annettavista valtion takuista annetun lain 7 §:n muuttamisesta](348.md) `348/1987`
+- [Laki säätiölain muuttamisesta](349.md) `349/1987`
+- [Laki ulkomaalaisten sekä eräiden yhteisöjen oikeudesta omistaa ja hallita kiinteätä omaisuutta ja osakkeita annetun lain 3 ja 19 §:n muuttamisesta](350.md) `350/1987`
+- [Laki kaupparekisterilain 9 §:n muuttamisesta](351.md) `351/1987`
+- [Laki leimaverolain 10 §:n muuttamisesta](352.md) `352/1987`
+- [Laki lainhuuto\- ja kiinnitysrekisteristä](353.md) `353/1987`
+- [Laki oikeudenkäymiskaaren muuttamisesta](354.md) `354/1987`
+- [Kauppalaki](355.md) `355/1987`
+- [Laki tieliikennelain 25 §:n muuttamisesta](356.md) `356/1987`
+- [Laki tieliikennelain muuttamisesta](357.md) `357/1987`
+- [Asetus Oulun yliopistosta annetun asetuksen muuttamisesta](358.md) `358/1987`
+- [Asetus liiketaloustieteen professorin viran perustamisesta Lapin korkeakouluun](359.md) `359/1987`
+- [Asetus kansainvälisen talouden professorin viran perustamisesta Turun kauppakorkeakouluun](360.md) `360/1987`
+- [Asetus sosiaalipsykologian apulaisprofessorin viran perustamisesta Åbo Akademi \-nimiseen yliopistoon](361.md) `361/1987`
+- [Asetus Itämeren alueen merellisen ympäristön suojelua koskevan yleissopimuksen IV ja VI liitteen muutosten voimaansaattamisesta](362.md) `362/1987`
+- [Asetus villieläimistön ja \-kasviston uhanalaisten lajien kansainvälistä kauppaa koskevan yleissopimuksen 11 artiklan muutoksen voimaansaattamisesta](363.md) `363/1987`
+- [Asetus maailman kulttuuri\- ja luonnonperinnön suojelemista koskevan yleissopimuksen voimaansaattamisesta](364.md) `364/1987`
+- [Asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan II liitteen muutosten ja yleissopimuksen I pöytäkirjan muutosten voimaansaattamisesta](365.md) `365/1987`
+- [Asetus Alankomaiden kanssa tehdyn kansainvälisiä maantiekuljetuksia koskevan sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](366.md) `366/1987`
+- [Valtioneuvoston päätös saamelaisasiain neuvottelukunnasta](367.md) `367/1987`
+- [Valtioneuvoston päätös Ruunaan retkeilyalueen perustamisesta](368.md) `368/1987`
+- [Opetusministeriön päätös valantehneiden kielenkääntäjien tutkinnoista suoritettavista korvauksista](369.md) `369/1987`
+- [Asetus väestökirja\-asetuksen 7 §:n 1 momentin 11 kohdan ja 2 momentin kumoamisesta](370.md) `370/1987`
+- [Asetus terveydenhuollon järjestämisestä puolustusvoimissa](371.md) `371/1987`
+- [Asetus tulliveroasetuksen muuttamisesta](372.md) `372/1987`
+- [Asetus ortodoksisesta kirkkokunnasta annetun asetuksen 29 §:n muuttamisesta](373.md) `373/1987`
+- [Teletoiminta\-asetus](374.md) `374/1987`
+- [Asetus eräistä lohenkalastusta koskevista rajoituksista vuonna 1987](375.md) `375/1987`
+- [Valtioneuvoston päätös eräistä lohenkalastusta koskevista rajoituksista vuonna 1986 annetun asetuksen aiheuttamia taloudellisia menetyksiä koskevien avustusten maksamisperusteista](376.md) `376/1987`
+- [Asetus kiinteistörekisterin otteista ja tiedoista sekä kiinteistörekisterikartan otteista perittävistä maksuista annetun asetuksen muuttamisesta](377.md) `377/1987`
+- [Maa\- ja metsätalousministeriön päätös eräistä karttajäljennöksistä ja \-otteista perittävästä leimaverosta](378.md) `378/1987`
+- [Maa\- ja metsätalousministeriön päätös eräiden kiinteistöinsinöörin ja tonttikirjan pitäjän toimesta laadittujen asiakirjojen jäljennöksistä ja otteista perittävistä lunastusmaksuista](379.md) `379/1987`
+- [Laki vammaisuuden perusteella järjestettävistä palveluista ja tukitoimista](380.md) `380/1987`
+- [Laki sosiaalihuoltolain 17 §:n muuttamisesta](381.md) `381/1987`
+- [Meluntorjuntalaki](382.md) `382/1987`
+- [Laki veneliikennelain 3§:n muuttamisesta\.](383.md) `383/1987`
+- [Asetus asuntotuotantoasetuksen muuttamisesta](384.md) `384/1987`
+- [Valtioneuvoston päätös kahden tilan siirtämisestä Alahärmän kunnasta Ylihärmän kuntaan](385.md) `385/1987`
+- [Asetus ulkoasiainhallinnosta annetun asetuksen muuttamisesta](386.md) `386/1987`
+- [Asetus saaristoasiain neuvottelukunnasta](387.md) `387/1987`
+- [Asetus maa\- ja metsätalousministeriöstä annetun asetuksen muuttamisesta](388.md) `388/1987`
+- [Asetus keskusmetsälautakunnista ja metsälautakunnista](389.md) `389/1987`
+- [Asetus telepäätelaitteiden tyyppihyväksyntää koskevista päätöksistä sekä tyyppihyväksyntään liittyvistä mittauksista ja tarkastuksista suoritettavista maksuista](390.md) `390/1987`
+- [Valtioneuvoston päätös käynnistystuen maksamisesta nuorille viljelijöille](391.md) `391/1987`
+- [Valtioneuvoston päätös vesi\- ja ympäristöpiirien rajoista ja hallintopaikoista](392.md) `392/1987`
+- [Asetus elintarvikkeiden vieraista aineista](393.md) `393/1987`
+- [Asetus Nicaraguan kanssa tehdyn viisumivapaussopimuksen voimaansaattamisesta](394.md) `394/1987`
+- [Lääkelaki](395.md) `395/1987`
+- [Asetus potilasvahinkolautakunnasta](396.md) `396/1987`
+- [Asetus ajoneuvojen katsastuksesta ja rekisteröinnistä annetun asetuksen muuttamisesta](397.md) `397/1987`
+- [Asetus vakaamattomien mittaamisvälineiden käyttämisestä eräissä tapauksissa annetun asetuksen 1 §:n muuttamisesta](398.md) `398/1987`
+- [Asetus lämpöenergian ja veden mittauslaitteiden vakaamisesta](399.md) `399/1987`
+- [Asetus vaarallisten aineiden kuljetusasiain neuvottelukunnasta annetun asetuksen 2 §:n 1 momentin muuttamisesta](400.md) `400/1987`
+- [Liikenneministeriön päätös ajoneuvojen katsastuksesta ja rekisteröinnistä annetun asetuksen soveltamisesta annetun liikenneministeriön päätöksen muuttamisesta](401.md) `401/1987`
+- [Laki valtionosuutta saavista musiikkioppilaitoksista](402.md) `402/1987`
+- [Asetus taideteollisen alan korkeakoulututkinnoista annetun asetuksen muuttamisesta](403.md) `403/1987`
+- [Valtioneuvoston päätös maidon tuotantoavustuksista annetun valtioneuvoston päätöksen 2 ja 9§:n muuttamisesta](404.md) `404/1987`
+- [Valtioneuvoston päätös lihan tuotantoavustuksista annetun valtioneuvoston päätöksen 10 ja 11§:n muuttamisesta](405.md) `405/1987`
+- [Valtioneuvoston päätös rehuviljan tuotantopalkkiosta](406.md) `406/1987`
+- [Valtioneuvoston päätös teollisuusperunan tuotantopalkkiosta annetun valtioneuvoston päätöksen 1§:n muuttamisesta](407.md) `407/1987`
+- [Valtioneuvoston päätös rukiin tuotantopalkkiosta annetun valtioneuvoston päätöksen 1 ja 4 §:n muuttamisesta](408.md) `408/1987`
+- [Valtioneuvoston päätös kotieläinten lukumäärän perusteella annettavista avustuksista](409.md) `409/1987`
+- [Puolustusministeriön päätös asevelvollisten yleisistä vakinaiseen palvelukseen astumispäivistä vuonna 1988](410.md) `410/1987`
+- [Laki avioliittolain muuttamisesta](411.md) `411/1987`
+- [Laki oikeudenkäymiskaaren 10 luvun muuttamisesta](412.md) `412/1987`
+- [Laki eräistä kansainvälisluontoisista perheoikeudellisista suhteista annetun lain muuttamisesta](413.md) `413/1987`
+- [Asetus avioliittolain ja sen voimaanpanosta annetun lain soveltamisesta annetun asetuksen 40§:n muuttamisesta](414.md) `414/1987`
+- [Asetus kanslianotaarien ja notaarien lukumäärästä tuomiokunnissa](415.md) `415/1987`
+- [Asetus lastentarhanopettajaopistoista annetun asetuksen muuttamisesta](416.md) `416/1987`
+- [Laki peruskoululain muuttamisesta](417.md) `417/1987`
+- [Laki lukiolain muuttamisesta](418.md) `418/1987`
+- [Laki iltalukiolain 18 ja 21§:n muuttamisesta](419.md) `419/1987`
+- [Laki kouluhallituksesta ja sen alaisesta piirihallinnosta annetun lain muuttamisesta](420.md) `420/1987`
+- [Valtioneuvoston päätös eräiden palkkasaataviin rinnastettavien saamisten turvaamisesta toimeksiantajan konkurssin varalta](421.md) `421/1987`
+- [Ympäristöministeriön päätös toimivallan siirtämisestä eräille kunnille perusparannuslainan myöntämistä koskevissa asioissa](422.md) `422/1987`
+- [Laki Euroopan talousyhteisön kanssa eräiden viinien ja väkevien alkoholijuomien kaupasta tehdyn sopimuksen eräiden määräysten hyväksymisestä](423.md) `423/1987`
+- [Asetus Euroopan talousyhteisön kanssa eräiden viinien ja väkevien alkoholijuomien kaupasta tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](424.md) `424/1987`
+- [Asetus jätehuoltoasetuksen muuttamisesta](425.md) `425/1987`
+- [Valtioneuvoston päätös aikuisopintorahasta](426.md) `426/1987`
+- [Valtioneuvoston päätös sähköaggregaatin hankkimiseen myönnettävistä avustuksista](427.md) `427/1987`
+- [Valtioneuvoston päätös vaikeista ja pitkäaikaisista sairauksista ja niiden hoitoon käytettävistä sairausvakuutuslain mukaan kokonaan tai 90\-prosenttisesti korvattavista lääkkeistä annetun valtioneuvoston päätöksen 1 ja 2§:n muuttamisesta](428.md) `428/1987`
+- [Sosiaali\- ja terveysministeriön päätös perusteista, joiden mukaan työntekijäin eläkelain 19 b§:ssä, lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 1§:ssä, maatalousyrittäjien eläkelain 19§:ssä, yrittäjien eläkelain 17§:ssä sekä eräiden työsuhteessa olevien taiteilijoiden ja toimittajien eläkelain 11§:ssä säädetty kertasuoritus lasketaan](429.md) `429/1987`
+- [Valtiovarainministeriön päätös Euroopan vapaakauppaliiton jäsenvaltioiden välisessä kaupassa sovellettavista alkuperäsäännöistä](430.md) `430/1987`
+- [Asetus vuoden 1986 kansainväliseen vehnäsopimukseen sisältyvien vehnän kauppaa ja elintarvikeapua koskevien yleissopimusten voimaansaattamisesta](431.md) `431/1987`
+- [Asetus ulkoasiainhallinnon maksuperusteasetuksen muuttamisesta](432.md) `432/1987`
+- [Asetus tavara\-arpajaisasetuksen 9 §:n muuttamisesta](433.md) `433/1987`
+- [Asetus korkeimmasta oikeudesta annetun asetuksen 14 ja 15 §:n muuttamisesta](434.md) `434/1987`
+- [Asetus korkeimmasta hallinto\-oikeudesta annetun asetuksen muuttamisesta](435.md) `435/1987`
+- [Asetus tuomiokuntain hoidosta annetun asetuksen 2 ja 19 d §:n muuttamisesta](436.md) `436/1987`
+- [Metsänparannusasetus](437.md) `437/1987`
+- [Valtioneuvoston päätös alkoholi\- ja huumeneuvostosta](438.md) `438/1987`
+- [Valtioneuvoston päätös keskusmetsälautakunnista ja metsälautakunnista](439.md) `439/1987`
+- [Asetus Tanskan kanssa Suomen ja Tanskan ydinlaitoksia ja ydintapahtumia koskevasta tietojenvaihdosta ja ilmoittamisesta tehdyn sopimuksen voimaansaattamisesta](440.md) `440/1987`
+- [Säätiöasetus](441.md) `441/1987`
+- [Asetus suomen ja ruotsin kielen taidon osoittamisesta](442.md) `442/1987`
+- [Asetus eräistä virkajärjestelyistä](443.md) `443/1987`
+- [Tasavallan Presidentin avoin kirje valtioneuvoston vaihdoksesta](444.md) `444/1987`
+- [Valtioneuvoston päätös maan jakamisesta työvoimapiireihin annetun valtioneuvoston päätöksen muuttamisesta](445.md) `445/1987`
+- [Valtioneuvoston päätös öljyjätemaksuina kertyvien varojen käytöstä](446.md) `446/1987`
+- [Valtioneuvoston päätös öljyjätteen polton rajoittamisesta](447.md) `447/1987`
+- [Maa\- ja metsätalousministeriön päätös kalajauhon myynnin rajoittamisesta](448.md) `448/1987`
+- [Esitutkintalaki](449.md) `449/1987`
+- [Pakkokeinolaki](450.md) `450/1987`
+- [Laki rikoslain 3, 16 ja 17 luvun muuttamisesta](451.md) `451/1987`
+- [Laki oikeudenkäymiskaaren 10 ja 16 luvun muuttamisesta](452.md) `452/1987`
+- [Laki poliisilain muuttamisesta](453.md) `453/1987`
+- [Laki rajavartiolaitoksesta annetun lain 12§:n muuttamisesta](454.md) `454/1987`
+- [Laki tutkintavankeudesta annetun lain muuttamisesta](455.md) `455/1987`
+- [Laki leimaverolain 12 §:n muuttamisesta](456.md) `456/1987`
+- [Laki valtiopäiväjärjestyksen 14 §:n muuttamisesta](457.md) `457/1987`
+- [Laki eräitä valtuuslakeja vastaan tehtyjen rikosten rankaisemisesta annetun lain 13\-15§:n kumoamisesta](458.md) `458/1987`
+- [Laki alkoholilain muuttamisesta](459.md) `459/1987`
+- [Laki huumausainelain 8 §:n muuttamisesta](460.md) `460/1987`
+- [Laki teräaselain 10 §:n muuttamisesta](461.md) `461/1987`
+- [Laki säteilysuojauslain 11 §:n muuttamisesta](462.md) `462/1987`
+- [Laki räjähdysvaarallisista aineista annetun lain 10 §:n 2 ja 3 momentin kumoamisesta](463.md) `463/1987`
+- [Laki paineastialain 8 §:n 2\-4 momentin kumoamisesta](464.md) `464/1987`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta annetun lain muuttamisesta](465.md) `465/1987`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden pohjoismaiden välillä annetun lain muuttamisesta](466.md) `466/1987`
+- [Laki vesilain muuttamisesta](467.md) `467/1987`
+- [Laki vesilain 21 luvun muuttamisesta](468.md) `468/1987`
+- [Asetus valtion varoista maksettavista todistelukustannuksista annetun asetuksen 6 ja 8 §:n muuttamisesta](469.md) `469/1987`
+- [Asetus korvauksen suorittamisesta toisesta pohjoismaasta Suomen tuomioistuimeen kutsutulle henkilölle annetun asetuksen 3 ja 5 §:n muuttamisesta](470.md) `470/1987`
+- [Henkilörekisterilaki](471.md) `471/1987`
+- [Laki yleisten asiakirjain julkisuudesta annetun lain muuttamisesta](472.md) `472/1987`
+- [Laki hallintomenettelylain 20 §:n muuttamisesta](473.md) `473/1987`
+- [Laki tietosuojalautakunnasta ja tietosuojavaltuutetusta](474.md) `474/1987`
+- [Laki leimaverolain 10 §:n muuttamisesta](475.md) `475/1987`
+- [Henkilörekisteriasetus](476.md) `476/1987`
+- [Asetus tietosuojalautakunnasta ja tietosuojavaltuutetusta](477.md) `477/1987`
+- [Valtioneuvoston päätös sanomalehdistön kuljetus\-, jakelu\- ja muiden kustannusten alentamiseksi osoitetun määrärahan jakoperusteista ja avustusten hakemisesta](478.md) `478/1987`
+- [Valtioneuvoston päätös myytäväksi toimitetun silakan ja kilohailin vähimmäishinnoista ja tavoitehinnoista sekä ammattikalastajille suoritettavan hintatuen soveltamisesta annetun valtioneuvoston päätöksen 1 ja 4§:n muuttamisesta](479.md) `479/1987`
+- [Sijoitusrahastolaki](480.md) `480/1987`
+- [Laki pankkitarkastuslain muuttamisesta](481.md) `481/1987`
+- [Laki kirjanpitolain 1§:n muuttamisesta](482.md) `482/1987`
+- [Laki elinkeinon harjoittamisen oikeudesta annetun lain 3§:n muuttamisesta](483.md) `483/1987`
+- [Laki taloudellisen kilpailun edistämisestä annetun lain 3§:n muuttamisesta](484.md) `484/1987`
+- [Laki eräistä yhteisomistussuhteista annetun lain 1§:n muuttamisesta](485.md) `485/1987`
+- [Laki velkakirjalain 24§:n muuttamisesta](486.md) `486/1987`
+- [Laki ammatillisista oppilaitoksista](487.md) `487/1987`
+- [Laki ammattikasvatushallituksesta ja sen alaisesta piirihallinnosta](488.md) `488/1987`
+- [Laki ammatillisten oppilaitosten rahoituksesta annetun lain muuttamisesta](489.md) `489/1987`
+- [Laki ammatillisten oppilaitosten oppilaiden opintososiaalisista eduista annetun lain 2 ja 5 §:n muuttamisesta](490.md) `490/1987`
+- [Asetus ammattioppilaitoksista](491.md) `491/1987`
+- [Asetus hotelli\- ja ravintolaoppilaitoksista](492.md) `492/1987`
+- [Asetus kauppaoppilaitoksista](493.md) `493/1987`
+- [Asetus koti\- ja laitostalousoppilaitoksista](494.md) `494/1987`
+- [Asetus käsi\- ja taideteollisuusoppilaitoksista](495.md) `495/1987`
+- [Asetus maatalousalan oppilaitoksista](496.md) `496/1987`
+- [Asetus merenkulkuoppilaitoksista](497.md) `497/1987`
+- [Asetus metsä\- ja puutalousoppilaitoksista](498.md) `498/1987`
+- [Asetus sosiaalialan oppilaitoksista](499.md) `499/1987`
+- [Asetus teknillisistä oppilaitoksista](500.md) `500/1987`
+- [Asetus terveydenhuolto\-oppilaitoksista](501.md) `501/1987`
+- [Asetus ammatillisista erikoisoppilaitoksista](502.md) `502/1987`
+- [Asetus Ruotsin kanssa Suomen ja Ruotsin ydinlaitoksia ja ydintapahtumia koskevasta tietojenvaihdosta ja ilmoittamisesta tehdyn sopimuksen voimaansaattamisesta](503.md) `503/1987`
+- [Asetus ylioppilastutkinnosta annetun asetuksen 3§:n muuttamisesta](504.md) `504/1987`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](505.md) `505/1987`
+- [Asetus paineastia\-asetuksen 38§:n muuttamisesta](506.md) `506/1987`
+- [Asetus eläinlääkäreiden toimituspalkkioista](507.md) `507/1987`
+- [Valtioneuvoston päätös metsätalouden tulojen verotuksessa noudatettavista kantohinta\-alueista annetun valtioneuvoston päätöksen muuttamisesta](508.md) `508/1987`
+- [Valtioneuvoston päätös rakennusurakkasopimuksissa käytettävistä indeksiehdoista annetun valtioneuvoston päätöksen muuttamisesta](509.md) `509/1987`
+- [Valtioneuvoston päätös kansallisista mittauspaikoista](510.md) `510/1987`
+- [Maa\- ja metsätalousministeriön päätös valtiolle maksettavan virkatalonvuokran ja muun valtiolle viljassa suoritettavan korvauksen määräämisestä vuonna 1987](511.md) `511/1987`
+- [Sisäasiainministeriön päätös kunnallisen pysäköinninvalvojan virkapuvusta](512.md) `512/1987`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta annetun Suomen Pankin päätöksen muuttamisesta](513.md) `513/1987`
+- [Asetus eräistä virkajärjestelyistä](514.md) `514/1987`
+- [Asetus ajoneuvoasetuksen 50 §:n muuttamisesta](515.md) `515/1987`
+- [Merimieskatselmusasetus](516.md) `516/1987`
+- [Asetus merimieskatselmusmiehille maksettavista palkkioista ja lunastuksista](517.md) `517/1987`
+- [Valtioneuvoston päätös hirvieläinvahinkojen korvaamisesta annetun valtioneuvoston päätöksen muuttamisesta](518.md) `518/1987`
+- [Valtioneuvoston päätös vuonna 1987 tehtävistä tuotannonmuutossopimuksista sekä metsityspalkkioista annetun valtioneuvoston päätöksen 3§:n muuttamisesta](519.md) `519/1987`
+- [Valtioneuvoston päätös vuonna 1987 tehtävistä maataloustuotannon vähentämissopimuksista annetun valtioneuvoston päätöksen 2§:n muuttamisesta](520.md) `520/1987`
+- [Valtioneuvoston päätös vuonna 1987 tehtävistä herneen tuotantosopimuksista annetun valtioneuvoston päätöksen 3§:n muuttamisesta](521.md) `521/1987`
+- [Valtioneuvoston päätös ulkomaisen harjoittelun tukemiseen myönnettävän valtionavustuksen ja apurahan yleisistä ehdoista](522.md) `522/1987`
+- [Valtioneuvoston päätös työturvallisuuslain soveltamisesta sorveihin sekä niiden tarkastukseen](523.md) `523/1987`
+- [Maa\- ja metsätalousministeriön päätös isonrysän käytöstä eräissä vesissä Inarin kunnan alueella](524.md) `524/1987`
+- [Asetus porotila\-asetuksen 13 b §:n muuttamisesta](525.md) `525/1987`
+- [Asetus kaapelilähetystoiminnasta](526.md) `526/1987`
+- [Asetus työttömyysturvaetuuksien korottamisesta](527.md) `527/1987`
+- [Asetus työttömyysturvalain täytäntöönpanosta annetun asetuksen 3 §:n muuttamisesta](528.md) `528/1987`
+- [Valtioneuvoston päätös luontaiselinkeinolain 4§:n 2 momentissa tarkoitetuista enimmäistuloista](529.md) `529/1987`
+- [Asetus elokuvien tarkastuksen toimittamisesta annetun asetuksen 3 §:n muuttamisesta](530.md) `530/1987`
+- [Asetus Saksan demokraattisen tasavallan kanssa muusta kuin kaupallisesta maksuliikkeestä tehdyn sopimuksen voimaansaattamisesta](531.md) `531/1987`
+- [Asetus vankeinhoitolaitokseen kuuluvasta Sulkavan kurssikeskuksesta](532.md) `532/1987`
+- [Asetus valtion audiovisuaalisen keskuksen suoritteista perittävistä maksuista annetun asetuksen 3 ja 4 §:n muuttamisesta](533.md) `533/1987`
+- [Asetus Norjan kanssa suomalais\-norjalaisesta rajavesikomissiosta tehdyn sopimuksen voimaansaattamisesta annetun asetuksen 2 §:n muuttamisesta](534.md) `534/1987`
+- [Asetus maatalousyrittäjien työterveyshuollon eräiden kustannusten korvaamisesta valtion varoista](535.md) `535/1987`
+- [Asetus ajoneuvoasetuksen muuttamisesta](536.md) `536/1987`
+- [Liikenneministeriön päätös ajoneuvoasetuksen täytäntöönpanosta annetun liikenneministeriön päätöksen muuttamisesta](537.md) `537/1987`
+- [Valtioneuvoston päätös vuonna 1987 tehtävistä kananmunatuotannon vähentämissopimuksista](538.md) `538/1987`
+- [Valtioneuvoston päätös kananmunien lisähinnasta annetun valtioneuvoston päätöksen muuttamisesta](539.md) `539/1987`
+- [Valtioneuvoston päätös turvavarastointiohjelmasta vuonna 1987 annetun valtioneuvoston päätöksen 1§:n muuttamisesta](540.md) `540/1987`
+- [Valtioneuvoston päätös maatilatalouden vesiensuojelutoimenpiteiden avustamisesta](541.md) `541/1987`
+- [Maa\- ja metsätalousministeriön päätös eräiden rehuseosten laatuvaatimuksista annetun maa\- ja metsätalousministeriön päätöksen 5§:n kumoamisesta](542.md) `542/1987`
+- [Laki Itävallan kanssa sosiaaliturvasta tehdyn sopimuksen eräiden määräysten hyväksymisestä](543.md) `543/1987`
+- [Asetus Itävallan kanssa sosiaaliturvasta tehdyn sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](544.md) `544/1987`
+- [Asetus tieteellisen tutkimuksen järjestelystä annetun asetuksen muuttamisesta](545.md) `545/1987`
+- [Asetus liikennetarvikkeiden kaupasta, asennuksesta ja korjauksesta annetun asetuksen muuttamisesta](546.md) `546/1987`
+- [Asetus ajoneuvoasetuksen muuttamisesta](547.md) `547/1987`
+- [Liikenneministeriön päätös ajoneuvoasetuksen täytäntöönpanosta annetun liikenneministeriön päätöksen muuttamisesta](548.md) `548/1987`
+- [Sisäasiainministeriön päätös pysäköintivirhemaksun korottamisesta](549.md) `549/1987`
+- [Maa\- ja metsätalousministeriön päätös eräiden lannoitevalmisteiden laatuvaatimuksista annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta annetun maa\- ja metsätalousministeriön päätöksen voimaantulosäännöksen muuttamisesta](550.md) `550/1987`
+- [Asetus Åbo Akademi \-nimisen yliopiston erään professorin viran opetusalasta](551.md) `551/1987`
+- [Asetus Jyväskylän yliopiston virkojen ja toimien kelpoisuusehdoista sekä viran ja toimen haltijoiden tehtävistä annetun asetuksen muuttamisesta](552.md) `552/1987`
+- [Maatilahallituksen päätös  tärkeimpien kasvilajien lajikkeista](553.md) `553/1987`
+- [Asetus asevelvolliselle suoritettavasta päivärahasta annetun asetuksen 1 ja 2 §:n muuttamisesta](554.md) `554/1987`
+- [Valtioneuvoston päätös luottolaitosten varoista myönnettävien eräiden korkotukilainojen koroista annetun valtioneuvoston päätöksen 1§:n muuttamisesta](555.md) `555/1987`
+- [Valtioneuvoston päätös  eräistä kotimaisen viljan osto\- ja myyntihinnoista](556.md) `556/1987`
+- [Valtioneuvoston päätös Itävallan kanssa sosiaaliturvasta tehdystä sopimuksesta johtuvista poikkeuksista kansaneläkelain ja perhe\-eläkelain säännöksiin](557.md) `557/1987`
+- [Liikenneministeriön päätös teleliittymien toimitusehtojen yleisistä perusteista](558.md) `558/1987`
+- [Liikenneministeriön päätös telemaksujen yleisistä perusteista](559.md) `559/1987`
+- [Liikenneministeriön päätös vähäisestä kaapelilähetystoiminnasta](560.md) `560/1987`
+- [Liikenneministeriön päätös kaapelilähetystoiminnan teknisestä varustuksesta](561.md) `561/1987`
+- [Sisäasiainministeriön päätös kuntajaon muuttamisesta Turun kaupungin ja Liedon kunnan välillä](562.md) `562/1987`
+- [Sisäasiainministeriön päätös eräiden tilojen ja alueiden siirtämisestä Raision kaupungista Nousiaisten kuntaan](563.md) `563/1987`
+- [Sisäasiainministeriön päätös eräiden tilojen, tilanosan ja alueiden siirtämisestä Kokemäen kaupungista ja Nakkilan kunnasta Harjavallan kaupunkiin](564.md) `564/1987`
+- [Sisäasiainministeriön päätös eräiden tilojen ja alueiden siirtämisestä Ikaalisten kaupungista Parkanon kaupunkiin](565.md) `565/1987`
+- [Asetus työterveyslaitoksen toiminnasta ja rahoituksesta annetun asetuksen muuttamisesta](566.md) `566/1987`
+- [Valtiovarainministeriön päätös Suomen tasavallan ja Euroopan talousyhteisön välisessä kaupassa sovellettavista alkuperäsäännöistä](567.md) `567/1987`
+- [Valtiovarainministeriön päätös Suomen tasavallan ja Euroopan talousyhteisön välisessä kaupassa sovellettavista alkuperäsäännöistä](568.md) `568/1987`
+- [Valtiovarainministeriön päätös Euroopan vapaakauppaliiton jäsenvaltioiden välisessä kaupassa sovellettavista alkuperäsäännöistä](569.md) `569/1987`
+- [Laki Suomen Hallitusmuodon muuttamisesta](570.md) `570/1987`
+- [Laki menettelystä neuvoa\-antavissa kansanäänestyksissä](571.md) `571/1987`
+- [Laki valtioneuvoston ministeriöiden lukumäärästä ja yleisestä toimialasta annetun lain 3§:n muuttamisesta](572.md) `572/1987`
+- [Laki Suomen Hallitusmuodon 23 ja 24§:n muuttamisesta](573.md) `573/1987`
+- [Laki tasavallan presidentin valitsemisesta](574.md) `574/1987`
+- [Laki Suomen Hallitusmuodon muuttamisesta](575.md) `575/1987`
+- [Laki valtiopäiväjärjestyksen muuttamisesta](576.md) `576/1987`
+- [Laki valtiopäiväjärjestyksen muuttamisesta](577.md) `577/1987`
+- [Laki aluevaihdosta valtion ja Helsingin kaupungin välillä](578.md) `578/1987`
+- [Laki leimaverolain 10§:n muuttamisesta](579.md) `579/1987`
+- [Laki tulo\- ja varallisuusverolain muuttamisesta](580.md) `580/1987`
+- [Laki ennakkoperintälain 5§:n muuttamisesta](581.md) `581/1987`
+- [Laki tulo\- ja varallisuusverolain 11 ja 32 a§:n muuttamisesta](582.md) `582/1987`
+- [Laki verotuslain 33 ja 51§:n muuttamisesta](583.md) `583/1987`
+- [Laki ennakkoperintälain muuttamisesta](584.md) `584/1987`
+- [Laki leimaverolain muuttamisesta](585.md) `585/1987`
+- [Laki veronkantolain muuttamisesta](586.md) `586/1987`
+- [Asetus veronkantoasetuksen 2 ja 3 §:n muuttamisesta](587.md) `587/1987`
+- [Laki ennakkoperintälain 19§:n muuttamisesta](588.md) `588/1987`
+- [Laki työnantajan sosiaaliturvamaksusta annetun lain 5§:n muuttamisesta](589.md) `589/1987`
+- [Laki investointiverolain 18§:n muuttamisesta](590.md) `590/1987`
+- [Laki leimaverolain muuttamisesta](591.md) `591/1987`
+- [Laki elokuvaverolain 17 §:n muuttamisesta](592.md) `592/1987`
+- [Asetus muukalaispassin ja matkustusasiakirjan haltijan viisumivapaudesta](593.md) `593/1987`
+- [Asetus lisävaltuuksien antamisesta valtioneuvostolle lainanottoon vuoden 1987 aikana](594.md) `594/1987`
+- [Muutoksia vuoden 1987 tulo\- ja menoarvioon](595.md) `595/1987`
+- [Liikenneministeriön päätös kaapelilähetystoiminnan seurannasta](596.md) `596/1987`
+- [Verohallituksen päätös ennakonpidätyksen toimittamisvelvollisuudesta](597.md) `597/1987`
+- [Verohallituksen päätös ennakonpidätyksen toimittamiseksi palkasta, ennakkoperintälain 5 ja 6§:ssä tarkoitetuista suorituksista sekä palkkaturvalain nojalla maksettavasta suorituksesta annetun päätöksen muuttamisesta](598.md) `598/1987`
+- [Laki eräistä Etelä\-Afrikkaan kohdistuvista toimenpiteistä annetun lain muuttamisesta](599.md) `599/1987`
+- [Valtioneuvoston päätös tavaroiden viennistä ja tuonnista Suomen ja Etelä\-Afrikan tasavallan välillä](600.md) `600/1987`
+- [Valtioneuvoston päätös Etelä\-Afrikalle myönnettävistä luotoista annetun valtioneuvoston päätöksen 1§:n muuttamisesta](601.md) `601/1987`
+- [Laki pellonraivausmaksusta](602.md) `602/1987`
+- [Laki pienyrittäjän vuosilomarahasta annetun lain muuttamisesta](603.md) `603/1987`
+- [Asetus oikeusministeriön hallinnonalan eräiden virkojen perustamisesta](604.md) `604/1987`
+- [Asetus toimituskirjain lunastuksesta ja toimituspalkkiosta annetun asetuksen 1§:n muuttamisesta](605.md) `605/1987`
+- [Asetus eräiden asiakirjain lähettämisestä tuomioistuimille annetun asetuksen 4§:n muuttamisesta](606.md) `606/1987`
+- [Asetus vesiasetuksen 16§:n kumoamisesta](607.md) `607/1987`
+- [Asetus erään puolustusvoimien toimen perustamisesta](608.md) `608/1987`
+- [Asetus yhteiskuntatieteellisten perustutkintojen järjestämisestä annetun asetuksen muuttamisesta](609.md) `609/1987`
+- [Asetus talonmiehen toimen perustamisesta museovirastoon](610.md) `610/1987`
+- [Asetus läänin liikuntalautakunnasta](611.md) `611/1987`
+- [Laki kasvatus\-, tiede\- ja kulttuuriaineiston maahantuontia koskevaan sopimukseen liittyvän pöytäkirjan eräiden määräysten hyväksymisestä](612.md) `612/1987`
+- [Asetus kasvatus\-, tiede\- ja kulttuuriaineiston maahantuontia koskevaan sopimukseen liittyvän pöytäkirjan voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](613.md) `613/1987`
+- [Asetus kasvatus\-, tiede\- ja kulttuuriaineiston maahantuontia koskevan sopimuksen voimaansaattamisesta annetun asetuksen 3§ muuttamisesta](614.md) `614/1987`
+- [Asetus jäädytettyjen ja pakastettujen elintarvikkeiden Italiaan ja Italiasta ohuilla sivuseinillä varustetulla kalustolla tapahtuvaa kuljettamista koskevista säännöistä tehdyn sopimuksen voimaansaattamisesta](615.md) `615/1987`
+- [Laki patoturvallisuuslain 16§:n muuttamisesta](616.md) `616/1987`
+- [Asetus saamelaisten koulutusasiainneuvostosta annetun asetuksen 4§:n muuttamisesta](617.md) `617/1987`
+- [Asetus opistoasteen tutkintojen niveltämisestä korkeakouluopintoihin annetun asetuksen muuttamisesta](618.md) `618/1987`
+- [Asetus kauppatieteellisistä tutkinnoista annetun asetuksen muuttamisesta](619.md) `619/1987`
+- [Valtioneuvoston päätös yleisradiovastaanottoa tarkoittavista laitteista ja luvista annetun valtioneuvoston päätöksen muuttamisesta](620.md) `620/1987`
+- [Valtiovarainministeriön päätös eräiden verojen kantoajoista ja kantoeristä](621.md) `621/1987`
+- [Valtiovarainministeriön päätös eräiden verojen maksupaikoista ja kantopalkkioista](622.md) `622/1987`
+- [Maakaasuasetus](623.md) `623/1987`
+- [Kauppa\- ja teollisuusministeriön päätös maakaasuasetuksen soveltamisesta](624.md) `624/1987`
+- [Laki Espanjan kanssa sosiaaliturvasta tehdyn sopimuksen eräiden määräysten hyväksymisestä](625.md) `625/1987`
+- [Asetus Espanjan kanssa sosiaaliturvasta tehdyn sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](626.md) `626/1987`
+- [Laki valtion liikelaitoksista](627.md) `627/1987`
+- [Laki eräiden virastojen ja laitosten menosääntöjen perusteiden muuttamisesta](628.md) `628/1987`
+- [Laki kiinteistörekisterilain 14§:n muuttamisesta](629.md) `629/1987`
+- [Asetus kiinteistöjen kauppahintarekisteristä annettavista otteista ja muista tiedoista perittävistä maksuista annetun asetuksen muuttamisesta](630.md) `630/1987`
+- [Asetus maanmittausmaksusta annetun asetuksen muuttamisesta](631.md) `631/1987`
+- [Asetus valtion eläinlääketieteellisen laitoksen erään viran perustamisesta](632.md) `632/1987`
+- [Asetus kauppa\- ja teollisuusministeriön hallinnonalan erään viran perustamisesta](633.md) `633/1987`
+- [Valtioneuvoston päätös valtion moottorikulkuneuvojen ja vuokra\-autojen käytöstä annetun valtioneuvoston päätöksen kumoamisesta](634.md) `634/1987`
+- [Valtioneuvoston päätös virkapuhelimista sekä puhelinkustannusten suorittamisesta valtion varoista annetun valtioneuvoston päätöksen kumoamisesta](635.md) `635/1987`
+- [Kauppa\- ja teollisuusministeriön päätös käynnistysavustuksen laskemisessa käytettävästä kertoimesta](636.md) `636/1987`
+- [Laki Suomen Hallitusmuodon muuttamisesta](637.md) `637/1987`
+- [Laki jakolain muuttamisesta](638.md) `638/1987`
+- [Laki vesilain 15 luvun 4 §:n muuttamisesta](639.md) `639/1987`
+- [Laki steinerpedagogisista erityiskouluista annetun lain muuttamisesta](640.md) `640/1987`
+- [Asetus läänin liikenneasiain neuvottelukunnasta](641.md) `641/1987`
+- [Asetus Neuvostoliiton kanssa ydinonnettomuutta koskevasta pikaisesta ilmoittamisesta ja ydinlaitoksia koskevasta tietojenvaihdosta tehdyn sopimuksen voimaansaattamisesta](642.md) `642/1987`
+- [Asetus Suomen, Islannin, Norjan, Ruotsin ja Tanskan välillä Pohjoismaiden kansalaisten oikeudesta käyttää omaa kieltään muussa Pohjoismaassa tehdyn sopimuksen voimaansaattamisesta annetun asetuksen 1§:n muuttamisesta](643.md) `643/1987`
+- [Asetus Romanian kanssa tehdyn eräiden tekstiilituotteiden Romaniasta tapahtuvan tuonnin rajoittamista ja valvomista koskevan sopimuksen voimaansaattamisesta](644.md) `644/1987`
+- [Asetus Saksan demokraattisen tasavallan kanssa kaupan esteiden poistamisesta etujen ja velvoitteiden vastavuoroisuuden pohjalta tehtyyn sopimukseen liittyvää pöytäkirjaa n:o 3 koskevien muutosten voimaansaattamisesta](645.md) `645/1987`
+- [Asetus keskiasteen koulunuudistuksen ajoittamisesta annetun asetuksen 3§:n muuttamisesta](646.md) `646/1987`
+- [Asetus Helsingin teknillisen oppilaitoksen erään viran lakkauttamisesta](647.md) `647/1987`
+- [Asetus ammatillisten oppilaitosten oppilaiden opintososiaalisista eduista annetun asetuksen muuttamisesta](648.md) `648/1987`
+- [Valtioneuvoston päätös ammatillisista erikoisoppilaitoksista](649.md) `649/1987`
+- [Valtioneuvoston päätös maksuttoman koulukuljetuksen järjestämisestä ja koulumatkasta aiheutuvien kustannusten suorittamisesta ammatillisten oppilaitosten oppilaille annetun valtioneuvoston päätöksen 2 ja 3§:n muuttamisesta](650.md) `650/1987`
+- [Valtioneuvoston päätös kananmunien lisähinnasta annetun valtioneuvoston päätöksen 3 §:n muuttamisesta](651.md) `651/1987`
+- [Oikeusministeriön päätös tasavallan presidentin valitsemisesta annetussa laissa tarkoitettujen lomakkeiden kaavoista](652.md) `652/1987`
+- [Huoneenvuokralaki](653.md) `653/1987`
+- [Laki työsopimuslain 46 §:n muuttamisesta](654.md) `654/1987`
+- [Laki maanvuokralain 88 §:n muuttamisesta](655.md) `655/1987`
+- [Laki asuntotuotantolain 15 e §:n muuttamisesta](656.md) `656/1987`
+- [Laki asuntojen perusparantamisesta annetun lain 20 §:n muuttamisesta](657.md) `657/1987`
+- [Laki ulosottolain 5 luvun 49 §:n muuttamisesta](658.md) `658/1987`
+- [Laki ulkomaalaisten sekä eräiden yhteisöjen oikeudesta omistaa ja hallita kiinteätä omaisuutta ja osakkeita annetun lain 9 §:n muuttamisesta](659.md) `659/1987`
+- [Tuffitariffilaki](660.md) `660/1987`
+- [Laki  tullitariffeja ja kauppaa koskevaan yleissopimukseen \(GATT\) lii tettyyn Suomen tullimyönnytys luetteloon tehtyjen muutosten hyväksymisestä](661.md) `661/1987`
+- [Laki tuontimaksulain muuttamisesta](662.md) `662/1987`
+- [Laki tupakkaverosta annetun lain 2 §:n muuttamisesta](663.md) `663/1987`
+- [Laki öljyväkirehuverosta annetun lain 2 §:n muuttamisesta](664.md) `664/1987`
+- [Laki makeisverosta annetun lain muuttamisesta](665.md) `665/1987`
+- [Laki olutverosta annetun lain 2 ja 6 §:n muuttamisesta](666.md) `666/1987`
+- [Laki virvoitusjuomaverosta annetun lain muuttamisesta](667.md) `667/1987`
+- [Laki elintarviketuotteiden valmisteverosta annetun lain muuttamisesta](668.md) `668/1987`
+- [Laki ravintorasvaverosta annetun lain muuttamisesta](669.md) `669/1987`
+- [Laki sokeriverosta annetun lain muuttamisesta](670.md) `670/1987`
+- [Laki varmuusvarastointimaksusta annetun lain muuttamisesta](671.md) `671/1987`
+- [Asetus musiikkialan korkeakoulututkinnoista annetun asetuksen muuttamisesta](672.md) `672/1987`
+- [Asetus teatterialan korkeakoulututkinnoista ja \-opinnoista annetun asetuksen muuttamisesta](673.md) `673/1987`
+- [Asetus teatterikorkeakoulusta annetun asetuksen 41§:n muuttamisesta](674.md) `674/1987`
+- [Asetus teatterikorkeakoulun virkojen ja toimien kelpoisuusehdoista sekä viran ja toimen haltijoiden tehtävistä annetun asetuksen 9§:n muuttamisesta](675.md) `675/1987`
+- [Asetus troolikalastuksen rajoittamisesta vuonna 1987](676.md) `676/1987`
+- [Asetus Ruotsin kanssa tehdyn rajajokisopimuksen liitteen B muuttamista koskevan sopimuksen voimaansaattamisesta](677.md) `677/1987`
+- [Asetus keskusrikospoliisin apulaispäällikön toimen perustamisesta](678.md) `678/1987`
+- [Asetus Åbo Akademi \-nimisestä yliopistosta annetun asetuksen 117 §:n muuttamisesta](679.md) `679/1987`
+- [Asetus teknillisten korkeakoulujen virkojen kelpoisuusehdoista sekä viran haltijoiden tehtävistä annetun asetuksen muuttamisesta](680.md) `680/1987`
+- [Asetus erään johtajan viran perustamisesta Vaasan korkeakouluun](681.md) `681/1987`
+- [Asetus Vaasan korkeakoulun virkojen ja toimien kelpoisuusehdoista sekä viran ja toimen haltijoiden tehtävistä annetun asetuksen muuttamisesta](682.md) `682/1987`
+- [Valtioneuvoston päätös asuinrakennusten ja asuntojen korjaustoimintaan myönnettävien avustusten jakoperusteista](683.md) `683/1987`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta annetun Suomen Pankin päätöksen muuttamisesta](684.md) `684/1987`
+- [Asetus väestökirjahallinnon erään viran perustamisesta](685.md) `685/1987`
+- [Asetus väestökirjahallinnosta annetun asetuksen muuttamisesta](686.md) `686/1987`
+- [Asetus ammattikasvatushallituksesta](687.md) `687/1987`
+- [Asetus steinerpedagogisista erityiskouluista](688.md) `688/1987`
+- [Asetus sosiaalialan oppilaitoksista annetun asetuksen 24 §:n muuttamisesta](689.md) `689/1987`
+- [Asetus terveydenhuolto\-oppilaitoksista annetun asetuksen 24 §:n muuttamisesta](690.md) `690/1987`
+- [Laki valtion tulo\- ja menoarvion ja tilinpäätöksen perusteista annetun lain muuttamisesta](691.md) `691/1987`
+- [Asetus valtionosuutta saavista musiikkioppilaitoksista](692.md) `692/1987`
+- [Lääkeasetus](693.md) `693/1987`
+- [Asetus Espanjan kanssa sosiaaliturvasta tehdyssä sopimuksessa tarkoitetusta vakuutuslaitosten välisestä sairaanhoitoetuuksien kustannusten korvaamisesta](694.md) `694/1987`
+- [Asetus Espanjan kanssa tehdystä sosiaaliturvasopimuksesta johtuvista poikkeuksista sairausvakuutuslain säännöksiin](695.md) `695/1987`
+- [Valtioneuvoston päätös Espanjan kanssa sosiaaliturvasta tehdystä sopimuksesta johtuvista poikkeuksista kansaneläkelain ja perhe\-eläkelain säännöksiin](696.md) `696/1987`
+- [Laki video\- ja muiden kuvaohjelmien tarkastamisesta](697.md) `697/1987`
+- [Laki rikoslain 16 luvun 26 §:n muuttamisesta](698.md) `698/1987`
+- [Valtioneuvoston päätös Porin ja Kotkan kaupungeissa tuotantotoiminnan tukemiseen myönnettävistä avustuksista](699.md) `699/1987`
+- [Asetus Neuvostoliiton kanssa yhteistyöstä avaruuden rauhanomaisen tutkimuksen ja hyödyntämisen alalla tehdyn sopimuksen voimaansaattamisesta](700.md) `700/1987`
+- [Asetus Norjan kanssa Suomen ja Norjan ydinlaitoksia ja ydintapahtumia koskevasta tietojenvaihdosta ja ilmoittamisesta tehdyn sopimuksen voimaansaattamisesta](701.md) `701/1987`
+- [Asetus peruskouluasetuksen 55 ja 139§:n muuttamisesta](702.md) `702/1987`
+- [Asetus hoito\-opin ruotsinkielisen varsinaisen professorin viran perustamisesta Helsingin yliopiston lääketieteelliseen tiedekuntaan](703.md) `703/1987`
+- [Asetus kieliteorian ja kääntämisen varsinaisen professorin viran perustamisesta Helsingin yliopiston filosofiseen tiedekuntaan](704.md) `704/1987`
+- [Asetus tutkimusjohtajan viran perustamisesta Helsingin yliopiston Lahden tutkimus\- ja koulutuskeskukseen](705.md) `705/1987`
+- [Asetus Helsingin yliopiston eräiden johtajan virkojen kelpoisuusehdoista ja täyttämisestä](706.md) `706/1987`
+- [Asetus kunnalle suoritettavasta katumaksusta annetun asetuksen muuttamisesta](707.md) `707/1987`
+- [Valtioneuvoston päätös investointivarausten käyttämisestä annetun valtioneuvoston päätöksen muuttamisesta](708.md) `708/1987`
+- [Valtioneuvoston päätös vuonna 1987 tehtävistä kananmunatuotannon vähentämissopimuksista annetun valtioneuvoston päätöksen 3 §:n muuttamisesta](709.md) `709/1987`
+- [Laki Yhdistyneiden Kansakuntien kanssa Yhdistyneiden Kansakuntien yhteydessä toimivan Helsingin kriminaalipoliittisen instituutin perustamisesta tehdyn sopimuksen eräiden määräysten hyväksymisestä sekä sopimuksen soveltamisesta annetun lain muuttamisesta](710.md) `710/1987`
+- [Asetus Yhdistyneiden Kansakuntien kanssa Yhdistyneiden Kansakuntien yhteydessä toimivan Helsingin kriminaalipoliittisen instituutin perustamisesta tehdyn sopimuksen muuttamista koskevan pöytäkirjan voimaansaattamisesta sekä sopimuksen eräiden määräysten hyväksymisestä sekä sopimuksen soveltamisesta annetun lain muuttamisesta annetun lain voimaantulosta](711.md) `711/1987`
+- [Asetus Yhdistyneiden Kansakuntien yhteydessä toimivasta Helsingin kriminaalipoliittisesta instituutista annetun asetuksen muuttamisesta](712.md) `712/1987`
+- [Asetus Euroopan yhteisöjen kanssa tieteellisestä ja teknisestä yhteistyöstä tehdyn puitesopimuksen voimaansaattamisesta](713.md) `713/1987`
+- [Laki valtion perhe\-eläkelain muuttamisesta](714.md) `714/1987`
+- [Laki valtion eläkelain 10 §:n muuttamisesta](715.md) `715/1987`
+- [Laki valtion eläkelain 8§:n muuttamisesta](716.md) `716/1987`
+- [Asetus valtion eläkeneuvottelukunnasta annetun asetuksen 2§:n muuttamisesta](717.md) `717/1987`
+- [Asetus riistaeläinten metsästysajoista annetun asetuksen muuttamisesta](718.md) `718/1987`
+- [Asetus valtionrautateiden tariffisäännön sisältävän asetuksen 22§:n väliaikaisesta muuttamisesta](719.md) `719/1987`
+- [Asetus valtion teknillisestä tutkimuskeskuksesta annetun asetuksen muuttamisesta](720.md) `720/1987`
+- [Asetus valtion teknillisen tutkimuskeskuksen eräiden virkojen perustamisesta](721.md) `721/1987`
+- [Valtioneuvoston päätös ulkomaan kuorma\-autoliikenteen polttoaineen hintaan sisältyvän liikevaihtoveron korvaamisesta](722.md) `722/1987`
+- [Valtion virkamiesasetus](723.md) `723/1987`
+- [Asetus valtion virkamieslain voimaanpanolain täytäntöönpanosta](724.md) `724/1987`
+- [Asetus valtion virkamiesten uudelleen sijoittamisesta](725.md) `725/1987`
+- [Eroraha\-asetus](726.md) `726/1987`
+- [Asetus vuoden 1979 valtiosta toiseen tapahtuvaa ilman epäpuhtauksien kaukokulkeutumista koskevaan yleissopimukseen liittyvän, rikkipäästöjen tai valtiosta toiseen kulkeutuvan rikkivuon vähentämisestä vähintään 30 prosenttia tehdyn pöytäkirjan voimaansaattamisesta](727.md) `727/1987`
+- [Asetus sairaanhoitotarvikkeista tehtävien ilmoitusten käsittelystä perittävistä maksuista](728.md) `728/1987`
+- [Liikenneministeriön päätös lasten turvalaitteista](729.md) `729/1987`
+- [Sosiaali\- ja terveysministeriön päätös kertakäyttöisten insuliiniruiskujen ilmoittamisesta](730.md) `730/1987`
+- [Asetus sosiaali\- ja terveysministeriöstä annetun asetuksen muuttamisesta](731.md) `731/1987`
+- [Valtioneuvoston päätös valtion hallintoviranomaisten määräysten ja ohjeiden rekisteröimisestä](732.md) `732/1987`
+- [Maa\- ja metsätalousministeriön päätös merilohen ja meritaimenen kalastuksesta Aurajoessa](733.md) `733/1987`
+- [Ympäristöministeriön päätös alueen liittämisestä Helvetinjärven kansallispuistoon](734.md) `734/1987`
+- [Asetus eräiden Ahvenanmaan maakunnan maakuntapäivävaalien ja kunnallisvaalien ennakkoäänestykseen liittyvien hallintotehtävien hoitamisesta](735.md) `735/1987`
+- [Asetus hintavalvontalain voimassaolon jatkamisesta](736.md) `736/1987`
+- [Työllisyysasetus](737.md) `737/1987`
+- [Valtioneuvoston päätös opintolainan saajalle työttömyyden perusteella maksettavasta korkoavustuksesta annetun valtioneuvoston päätöksen 2§:n muuttamisesta](738.md) `738/1987`
+- [Valtioneuvoston päätös pientonniston korkomenojen alentamiseksi myönnettävistä avustuksista](739.md) `739/1987`
+- [Laki Länsipohjolan pohjoismaisen kehittämisrahaston perustamista koskevan sopimuksen eräiden määräysten hyväksymisestä](740.md) `740/1987`
+- [Asetus Länsipohjolan pohjoismaisen kehittämisrahaston perustamista koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](741.md) `741/1987`
+- [Asetus eräistä virkajärjestelyistä](742.md) `742/1987`
+- [Asetus Helsingin yliopiston eräästä virkajärjestelystä](743.md) `743/1987`
+- [Asetus opetusministeriön hallinnonalaan kuuluvista eräistä virkajärjestelyistä](744.md) `744/1987`
+- [Valtioneuvoston päätös eräiden virkojen ja toimien siirtämisestä](745.md) `745/1987`
+- [Asetus ulkoasiainhallinnosta annetun asetuksen muuttamisesta](746.md) `746/1987`
+- [Asetus Steiner\-koulusta annetun asetuksen muuttamisesta](747.md) `747/1987`
+- [Asetus huumausaineasetuksen muuttamisesta](748.md) `748/1987`
+- [Asetus kansanterveyslaitoksen erään laboratorionjohtajan viran perustamisesta](749.md) `749/1987`
+- [Valtioneuvoston päätös tasavallan presidentin valitsijamiesten paikkojen jaosta vaalipiirien kesken](750.md) `750/1987`
+- [Valtioneuvoston päätös avustuksista taloudellisissa vaikeuksissa oleville vuokrataloille](751.md) `751/1987`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta annetun Suomen Pankin päätöksen muuttamisesta](752.md) `752/1987`
+- [Verohallituksen päätös rahana lääninhallitukseen suoritettavan leimaveron kuittausmerkinnästä](753.md) `753/1987`
+- [Asetus vedonlyönnin toimeenpanemisesta hevoskilpailuissa annetun asetuksen 11 a§:n muuttamisesta](754.md) `754/1987`
+- [Asetus verotusasetuksen muuttamisesta](755.md) `755/1987`
+- [Asetus ennakkoperintäasetuksen muuttamisesta](756.md) `756/1987`
+- [Asetus pellonraivausmaksusta](757.md) `757/1987`
+- [Valtioneuvoston päätös eräiden asuntolainojen ja perusparannuslainojen korosta](758.md) `758/1987`
+- [Asetus vammaisuuden perusteella järjestettävistä palveluista ja tukitoimista](759.md) `759/1987`
+- [Asetus  valtionrautateiden tariffisäännön sisältävän asetuksen muuttamisesta](760.md) `760/1987`
+- [Asetus pääkaupunkiseudun henkilölähiliikenteessä valtionrautateillä noudatettavasta vyöhyketariffista annetun asetuksen 3 §:n muuttamisesta](761.md) `761/1987`
+- [Asetus maksuista kotimaan postiliikenteessä](762.md) `762/1987`
+- [Valtioneuvoston päätös valtion nuorisoneuvostosta](763.md) `763/1987`
+- [Valtioneuvoston päätös eräiden työansioiden huomioon ottamisesta kunnan\- ja kaupungineläinlääkärin eläkettä määrättäessä annetun valtioneuvoston päätöksen 3 ja 4§:n muuttamisesta](764.md) `764/1987`
+- [Valtioneuvoston päätös eläinlääkäreiden palkkioiden ja matkakustannusten korvausten valtionosuuden perusteista annetun valtioneuvoston päätöksen 2§:n muuttamisesta](765.md) `765/1987`
+- [Asetus humanistisista tutkinnoista annetun asetuksen muuttamisesta](766.md) `766/1987`
+- [Asetus teknillistieteellisistä tutkinnoista annetun asetuksen muuttamisesta](767.md) `767/1987`
+- [Asetus yhteiskuntatieteellisistä tutkinnoista annetun asetuksen muuttamisesta](768.md) `768/1987`
+- [Asetus luonnontieteellisistä tutkinnoista annetun asetuksen muuttamisesta](769.md) `769/1987`
+- [Asetus teologisista tutkinnoista annetun asetuksen muuttamisesta](770.md) `770/1987`
+- [Valtioneuvoston päätös eräistä poikkeuksista maidon väliaikaisista tuotantokiintiöistä annetun lain \(570/84\) rehuomavaraisuutta koskeviin säännöksiin](771.md) `771/1987`
+- [Maa\- ja metsätalousministeriön päätös kalastuksen väliaikaisesta järjestämisestä Pielisjoessa](772.md) `772/1987`
+- [Valtioneuvoston päätös vuoden 1987 satovahinkojen johdosta suoritettavista yleiskorvauksista](773.md) `773/1987`
+- [Valtiovarainministeriön päätös eräiden verojen maksupaikoista ja kantopalkkioista annetun valtiovarainministeriön päätöksen muuttamisesta](774.md) `774/1987`
+- [Asetus ilmatieteen laitoksen suoritteista perittävistä maksuista annetun asetuksen 2 §:n muuttamisesta](775.md) `775/1987`
+- [Asetus Valtionrautateiden hallinnosta annetun asetuksen muuttamisesta](776.md) `776/1987`
+- [Asetus liikennöimismaksuista valtion lentoasemilla annetun asetuksen muuttamisesta](777.md) `777/1987`
+- [Asetus valtion lentoasemilla perittävistä maksuista annetun asetuksen muuttamisesta](778.md) `778/1987`
+- [Asetus lehtien postimaksuista](779.md) `779/1987`
+- [Asetus postiliikenneasetuksen 14§:n muuttamisesta](780.md) `780/1987`
+- [Asetus sanoma\- ja aikakauslehdistä postiliikenteessä annetun asetuksen kumoamisesta](781.md) `781/1987`
+- [Valtioneuvoston päätös ulkomaanedustuksen virkamiesten paikalliskorotuksesta, varustautumiskorvauksesta ja asettautumiskustannusten korvauksesta annetun valtioneuvoston päätöksen muuttamisesta](782.md) `782/1987`
+- [Valtioneuvoston päätös käynnistystuen maksamisesta nuorille viljelijöille annetun valtioneuvoston päätöksen 9§:n muuttamisesta](783.md) `783/1987`
+- [Asetus teknilliselle tarkastuskeskukselle suoritettavista maksuista](784.md) `784/1987`
+- [Laki Sri Lankan kanssa tehdyn sijoitusten edistämistä ja suojelua koskevan sopimuksen eräiden määräysten hyväksymisestä](785.md) `785/1987`
+- [Asetus Sri Lankan kanssa tehdyn sijoitusten edistämistä ja suojelua koskevan sopimuksen voimaan\- saattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](786.md) `786/1987`
+- [Asetus eräistä virkajärjestelyistä](787.md) `787/1987`
+- [Asetus Helsingin yliopiston säännöt sisältävän asetuksen 11§:n muuttamisesta](788.md) `788/1987`
+- [Asetus Helsingin yliopiston apulaisprofessoreista annetun asetuksen muuttamisesta](789.md) `789/1987`
+- [Asetus valtion teknillisen tutkimuskeskuksen suoritteista perittävistä maksuista annettuun asetukseen liittyvän hinnaston muuttamisesta](790.md) `790/1987`
+- [Asetus lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 1 a§:n soveltamisesta annetun asetuksen 3 ja 5 §:n muuttamisesta](791.md) `791/1987`
+- [Valtioneuvoston päätös kalastuksenhoitomaksun ja pilkintämaksun korottamisesta](792.md) `792/1987`
+- [Tiedonanto presidenttiehdokkaista \>](793.md) `793/1987`
+- [Elinkeinohallituksen päätös kosmeettisten valmisteiden koostumuksesta ja myyntipäällysmerkinnöistä annetun elinkeinohallituksen päätöksen kumoamisesta](794.md) `794/1987`
+- [Asetus rikesakosta tieliikenteessä annetun asetuksen 7 §:n muuttamisesta](795.md) `795/1987`
+- [Asetus tulo\- ja varallisuusveroasetuksen 8 §:n muuttamisesta](796.md) `796/1987`
+- [Valtioneuvoston päätös kehitysmaista peräisin olevien telttojen tullietuuden väliaikaisesta peruuttamisesta](797.md) `797/1987`
+- [Valtioneuvoston päätös eräiden maataloustuotteiden tullien väliaikaisesta muuttamisesta](798.md) `798/1987`
+- [Valtioneuvoston päätös ruokaperunan hintatason vakaannuttamisesta](799.md) `799/1987`
+- [Suomen Pankin päätös Suomen Pankin vuoden 1986 sarjan viidensadan ja kymmenen markan setelin selitelmistä](800.md) `800/1987`
+- [Laki eräiden asuinrakennusten luovuttamisesta Rautatieasunnot Oy \- Järnvägsbostäder Ab \-nimiselle kiinteistöosakeyhtiölle](801.md) `801/1987`
+- [Lisäyksiä ja muutoksia vuoden 1987 tulo\- ja menoarvioon](802.md) `802/1987`
+- [Asetus raha\-automaattiasetuksen 5 §:n muuttamisesta](803.md) `803/1987`
+- [Asetus eräistä sairaanhoitolaitosten maksuista, korvauksista ja palkkioista annetun asetuksen 1 ja 5§:n muuttamisesta](804.md) `804/1987`
+- [Asetus terveyskeskuksessa perittävistä maksuista ja korvauksista annetun asetuksen 3 a ja 4§:n muuttamisesta](805.md) `805/1987`
+- [Asetus mielisairaanhoidosta perittävistä maksuista annetun asetuksen 2§:n muuttamisesta](806.md) `806/1987`
+- [Asetus sairausvakuutusasetuksen muuttamisesta](807.md) `807/1987`
+- [Valtioneuvoston päätös vuonna 1987 tehtävistä kananmunatuotannon vähentämissopimuksista annetun valtioneuvoston päätöksen 1 §:n muuttamisesta](808.md) `808/1987`
+- [Valtioneuvoston päätös vuonna 1987 tehtävistä kananmunatuotannon osittaisista vähentämissopimuksista](809.md) `809/1987`
+- [Valtioneuvoston päätös kananmunien lisähinnasta annetun valtioneuvoston päätöksen 2 b§:n muuttamisesta](810.md) `810/1987`
+- [Valtioneuvoston päätös vuonna 1987 tehtävistä tuotannonmuutossopimuksista sekä metsityspalkkioista annetun valtioneuvoston päätöksen 3§:n muuttamisesta](811.md) `811/1987`
+- [Sisäasiainministeriön päätös kuntien kantokykyluokituksen vahvistamisesta vuodeksi 1988](812.md) `812/1987`
+- [Sosiaali\- ja terveysministeriön päätös työntekijäin eläkeasetuksen 9§:ssä tarkoitetun palkkaindeksiluvun vahvistamisesta](813.md) `813/1987`
+- [Maa\- ja metsätalousministeriön päätös rehuksi myytävän vehnän laatuhinnoittelusta satovuonna 1987/88](814.md) `814/1987`
+- [Laki arpajaisverolain muuttamisesta](815.md) `815/1987`
+- [Laki ajoneuvojen siirtämisestä ja romuajoneuvojen hävittämisestä annetun lain 9§:n muuttamisesta](816.md) `816/1987`
+- [Laki yksityismetsälain 3 ja 8§:n muuttamisesta](817.md) `817/1987`
+- [Laki sosiaalihallituksesta annetun lain muuttamisesta](818.md) `818/1987`
+- [Laki tapaturmavirastosta annetun lain 2§:n kumoamisesta](819.md) `819/1987`
+- [Avioliittoasetus](820.md) `820/1987`
+- [Asetus eräistä kansainvälisluontoisista perheoikeudellisista suhteista annetun lain soveltamisesta annetun asetuksen muuttamisesta](821.md) `821/1987`
+- [Asetus sukunimiasetuksen 1 ja 2 §:n muuttamisesta](822.md) `822/1987`
+- [Valtioneuvoston päätös kuljettimista](823.md) `823/1987`
+- [Liikenneministeriön päätös ajoneuvojen katsastuksesta ja rekisteröinnistä annetun asetuksen soveltamisesta annetun liikenneministeriön päätöksen muuttamisesta](824.md) `824/1987`
+- [Asetus valtion painatuskeskuksesta annetun asetuksen muuttamisesta](825.md) `825/1987`
+- [Asetus valtion hankintakeskuksesta annetun asetuksen muuttamisesta](826.md) `826/1987`
+- [Asetus valtion hankinnoista annetun asetuksen muuttamisesta](827.md) `827/1987`
+- [Asetus aluksenmittauksesta vuoden 1969 kansainvälisen aluksenmittausyleissopimuksen mukaan annetun asetuksen muuttamisesta](828.md) `828/1987`
+- [Asetus aluksenmittaukseen liittyvistä palkkioista, korvauksista ja maksuista](829.md) `829/1987`
+- [Asetus Suezin kanavan mittakirjasta annetun asetuksen muuttamisesta](830.md) `830/1987`
+- [Asetus Panaman kanavan mittakirjasta annetun asetuksen muuttamisesta](831.md) `831/1987`
+- [Sisäasiainministeriön päätös ajoneuvojen siirtämisestä ja romuajoneuvojen hävittämisestä perittävien korvausten määräämisessä noudatettavista yleisistä perusteista annetun sisäasiainministeriön päätöksen 3 ja 9§:n muuttamisesta](832.md) `832/1987`
+- [Opetusministeriön päätös oikeudesta osallistua yksityisoppilaana ylioppilastutkintoon tai siihen kuuluviin kokeisiin](833.md) `833/1987`
+- [Verohallituksen päätös pidätystodistuksen antamisvelvollisuuden rajoittamisesta ja ennakonpidätyksen hyväksi lukemisesta](834.md) `834/1987`
+- [Verohallituksen päätös ilmoittamisvelvollisuuden rajoittamisesta](835.md) `835/1987`
+- [Asetus ennakkoäänestyspaikkoina olevista posti\- ja telelaitoksen toimipaikoista](836.md) `836/1987`
+- [Asetus ennakkoäänestyspaikkoina olevista Suomen edustustoista](837.md) `837/1987`
+- [Laki pohjoismaisen työttömyysturvasopimuksen eräiden määräysten hyväksymisestä](838.md) `838/1987`
+- [Asetus pohjoismaisen työttömyysturvasopimuksen voimaansaattamisesta sekä sopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](839.md) `839/1987`
+- [Laki oikeudenkäynnistä huoneenvuokra\-asioissa annetun lain 37§:n muuttamisesta](840.md) `840/1987`
+- [Asetus oikeudenkäynnistä huoneenvuokra\-asioissa annetun asetuksen 10§:n muuttamisesta](841.md) `841/1987`
+- [Asetus liikenneturvallisuusasiain neuvottelukunnasta](842.md) `842/1987`
+- [Asetus Liikenneturvasta](843.md) `843/1987`
+- [Asetus elintarvikkeen käsittelystä ionisoivalla säteilyllä](844.md) `844/1987`
+- [Asetus sairaalassa säteilyvahingollisessa työssä toimivien henkilöiden vuosilomasta annetun asetuksen 4§:n muuttamisesta](845.md) `845/1987`
+- [Julistus neljästä kiitos\-, katumus\- ja rukouspäivästä, jotka koko maassa on juhlallisesti vietettävä vuonna 1988](846.md) `846/1987`
+- [Valtioneuvoston päätös eräiden opintotukilaissa tarkoitettujen määrien vahvistamisesta annetun valtioneuvoston päätöksen 1§:n muuttamisesta](847.md) `847/1987`
+- [Asetus ilma\-alusten katsastustoiminnasta, tarkastuslentotoiminnasta ja lentäjän lupakirjoista perittävistä maksuista](848.md) `848/1987`
+- [Asetus ammattimaisesta moottoriajoneuvoliikenteestä annetun asetuksen muuttamisesta](849.md) `849/1987`
+- [Asetus ajoneuvoasetuksen muuttamisesta](850.md) `850/1987`
+- [Liikenneministeriön päätös ajoneuvoasetuksen täytäntöönpanosta annetun liikenneministeriön päätöksen muuttamisesta](851.md) `851/1987`
+- [Liikenneministeriön päätös ajoneuvojen katsastuksesta ja rekisteröinnistä annetun asetuksen soveltamisesta annetun liikenne\- ministeriön päätöksen muuttamisesta](852.md) `852/1987`
+- [Liikenneministeriön päätös linja\-autojen rakenteesta ja varusteista annetun kulkulaitosten ja yleisten töiden ministeriön päätöksen 15§:n muuttamisesta](853.md) `853/1987`
+- [Asetus autorekisterikeskuksen ja sen katsastustoimipaikkojen suoritteista perittävistä maksuista](854.md) `854/1987`
+- [Asetus ajoneuvojen katsastuksesta ja rekisteröinnistä annetun asetuksen muuttamisesta](855.md) `855/1987`
+- [Laki asuntotulon verottamisesta eräissä tapauksissa annetun lain 1§:n muuttamisesta](856.md) `856/1987`
+- [Laki liikevaihtoverolain muuttamisesta](857.md) `857/1987`
+- [Laki eräitä elintarvikkeita koskevista poikkeuksista liikevaihtoverolakiin annetun lain väliaikaisesta muuttamisesta](858.md) `858/1987`
+- [Laki moottoriajoneuvoverosta annetun lain 5 ja 10§:n muuttamisesta](859.md) `859/1987`
+- [Asetus vesiasetuksen muuttamisesta](860.md) `860/1987`
+- [Asetus video\- ja muiden kuvaohjelmien tarkastamisesta](861.md) `861/1987`
+- [Asetus kasvintuhoojien maahan kulkeutumisen estämisestä annetun asetuksen muuttamisesta](862.md) `862/1987`
+- [Valtioneuvoston päätös viljelijöille maksettavasta sokerijuurikkaiden lisähinnasta](863.md) `863/1987`
+- [Oikeusministeriön päätös vankeusrangaistuksen täytäntöönpanosta eräissä tapauksissa annetun oikeusministeriön päätöksen 1§:n muuttamisesta](864.md) `864/1987`
+- [Oikeusministeriön päätös suojaosuuden määrien korottamisesta palkan ulosmittauksessa](865.md) `865/1987`
+- [Laki suvereniteettisaariin ja valtakunnanrajan tarkistamiseen liittyvistä kiinteistöjaotuksellisista toimenpiteistä](866.md) `866/1987`
+- [Asetus väestörekisterikeskuksen maksuasetuksen muuttamisesta](867.md) `867/1987`
+- [Asetus kulutustavaroiden alkuperämaan ilmoittamisesta annetun asetuksen muuttamisesta](868.md) `868/1987`
+- [Valtioneuvoston päätös turvavarastointiohjelmasta vuonna 1988](869.md) `869/1987`
+- [Verohallituksen päätös  vuodelta 1987 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](870.md) `870/1987`
+- [Verohallituksen päätös ennakonpidätyksessä vuonna 1988 noudatettavista luontoisetujen laskentaperusteista](871.md) `871/1987`
+- [Laki polttoaineverosta annetun lain 4§:n muuttamisesta](872.md) `872/1987`
+- [Laki tieliikennelain muuttamisesta](873.md) `873/1987`
+- [Asetus ajoneuvoasetuksen muuttamisesta](874.md) `874/1987`
+- [Liikenneministeriön päätös ajoneuvoasetuksen täytäntöönpanosta annetun liikenneministeriön päätöksen muuttamisesta](875.md) `875/1987`
+- [Valtiovarainministeriön päätös  maatilaan kuuluvien eräiden etuuksien arvon perusteista Annettu Helsingissä päivänä marraskuuta 1987](876.md) `876/1987`
+- [Sosiaali\- ja terveysministeriön päätös eräiden elatusapujen ja elatustukien korottamisesta elinkustannusindeksin nousun johdosta](877.md) `877/1987`
+- [Laki kuntien yleisestä kalleusluokituksesta annetun lain 6§:n muuttamisesta](878.md) `878/1987`
+- [Muutoksia vuoden 1987 tulo\- ja menoarvioon](879.md) `879/1987`
+- [Asetus valtion tulo\- ja menoarviosta sekä kirjanpidosta annetun asetuksen muuttamisesta](880.md) `880/1987`
+- [Suomen Pankin päätös valuuttalain täytäntöönpanosta annetun valtioneuvoston päätöksen soveltamisesta annetun Suomen Pankin päätöksen muuttamisesta](881.md) `881/1987`
+- [Laki vuoden 1987 satovahinkojen johdosta myönnettävistä korkotukilainoista](882.md) `882/1987`
+- [Maa\- ja metsätalousministeriön päätös vuoden 1987 satovahinkojen johdosta myönnettävistä korkotukilainoista](883.md) `883/1987`
+- [Asetus valtionavusta hevosjalostuksen ja hevosurheilun edistämiseen annetun asetuksen 2§:n muuttamisesta](884.md) `884/1987`
+- [Valtioneuvoston päätös Ahvenanmaan maakunnassa oleville kunnille maataloustuen jako\- ja valvontatehtävien hoitamisesta suoritettavista korvauksista](885.md) `885/1987`
+- [Valtioneuvoston päätös asbestityöstä](886.md) `886/1987`
+- [Valtioneuvoston päätös tapaturmavakuutuslain 58 §:ssä säädetyn maksun suuruudesta vuonna 1988](887.md) `887/1987`
+- [Valtioneuvoston päätös kivihiilen rikkipitoisuudesta](888.md) `888/1987`
+- [Valtioneuvoston päätös yleisistä ohjeista öljynjalostamoiden rikkiyhdisteiden päästöjen rajoittamiseksi](889.md) `889/1987`
+- [Valtioneuvoston päätös yleisistä ohjeista raskasta polttoöljyä käyttävien voimalaitosten ja kattilalaitosten rikkidioksidipäästöjen rajoittamiseksi](890.md) `890/1987`
+- [Valtiovarainministeriön päätös kotieläinten arvon määräämisessä noudatettavista perusteista](891.md) `891/1987`
+- [Laki kirkkolain muuttamisesta](892.md) `892/1987`
+- [Laki ortodoksisesta kirkkokunnasta annetun lain muuttamisesta](893.md) `893/1987`
+- [Asetus ortodoksisesta kirkkokunnasta annetun asetuksen muuttamisesta](894.md) `894/1987`
+- [Valtioneuvoston päätös valtion virkamiesten erorahan suuruudesta](895.md) `895/1987`
+- [Sosiaali\- ja terveysministeriön päätös lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain 10 §:n 1 momentissa tarkoitetun maksuprosentin vahvistamisesta](896.md) `896/1987`
+- [Laki ulosottolain muuttamisesta](897.md) `897/1987`
+- [Laki sakkorangaistuksen täytäntöönpanosta annetun lain 8 §:n muuttamisesta](898.md) `898/1987`
+- [Laki verojen ja maksujen perimisestä ulosottotoimin annetun lain 7 §:n muuttamisesta](899.md) `899/1987`
+- [Asetus maan ulkomaankaupan ja taloudellisen kasvun turvaamisesta annetun asetuksen muuttamisesta](900.md) `900/1987`
+- [Sotilasajoneuvoasetus](901.md) `901/1987`
+- [Liikenneministeriön päätös sotilasajoneuvoasetuksen soveltamisesta](902.md) `902/1987`
+- [Laki Jugoslavian kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](903.md) `903/1987`
+- [Asetus Jugoslavian kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaan\>tulosta](904.md) `904/1987`
+- [Laki Kiinan kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](905.md) `905/1987`
+- [Asetus Kiinan kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi tehdyn sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](906.md) `906/1987`
+- [Laki Tanskan, Islannin, Norjan ja Ruotsin kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen eräiden määräysten hyväksymisestä](907.md) `907/1987`
+- [Asetus Tanskan, Islannin, Norjan ja Ruotsin kanssa tulo\- ja varallisuusveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](908.md) `908/1987`
+- [Asetus säteilyturvakeskuksen suoritteista perittävistä maksuista annettuun asetukseen liittyvän hinnaston muuttamisesta](909.md) `909/1987`
+- [Luettelo veroäyrien hinnoista vuonna 1988](910.md) `910/1987`
+- [Laki tavarakaupan muodollisuuksien yksinkertaistamista koskevan yleissopimuksen eräiden määräysten hyväksymisestä](911.md) `911/1987`
+- [Asetus tavarakaupan muodollisuuksien yksinkertaistamista koskevan yleissopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](912.md) `912/1987`
+- [Laki yhteistä passitusmenettelyä koskevan yleissopimuksen sekä sen I liitteen eräiden määräysten hyväksymisestä](913.md) `913/1987`
+- [Asetus yhteistä passitusmenettelyä koskevan yleissopimuksen voimaansaattamisesta ja yleissopimuksen sekä sen I liitteen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](914.md) `914/1987`
+- [Asetus harmonoitua tavarankuvaus\- ja \-koodausjärjestelmää koskevan kansainvälisen yleissopimuksen sekä sen muuttamisesta tehdyn pöytäkirjan voimaansaattamisesta](915.md) `915/1987`
+- [Asetus tullitariffeja ja kauppaa koskevaan yleissopimukseen \(GATT\) liittyvän Geneven pöytäkirjan \(1987\) voimaansaattamisesta](916.md) `916/1987`
+- [Asetus tullitariffeja ja kauppaa koskevaan yleissopimukseen \(GATT\) liitettyyn Suomen tullimyönnytysluetteloon tehtyjen muutosten voimaansaattamisesta ja sanottujen muutosten hyväksymisestä annetun lain voimaantulosta](917.md) `917/1987`
+- [Asetus Tshekkoslovakian kanssa kaupan esteiden vastavuoroisesta poistamisesta tehtyyn sopimukseen liittyvää pöytäkirjaa n:o 3 koskevien muutosten voimaansaattamisesta](918.md) `918/1987`
+- [Laki lapsen elatuksen turvaamisesta annetun lain 8§:n muuttamisesta](919.md) `919/1987`
+- [Laki eräiden asuntolainojen koron alentamisen sekä lyhennysten ja korkojen lykkäämisen väliaikaisesta järjestämisestä](920.md) `920/1987`
+- [Valtioneuvoston päätös yleisohjeeksi asuinhuoneistojen vuokrien korotusten enimmäismääristä](921.md) `921/1987`
+- [Valtioneuvoston päätös yleisohjeeksi keskuslämmitysasuntojen kohtuullisista vuokrista eräillä paikkakunnilla](922.md) `922/1987`
+- [Valtioneuvoston päätös perunan tullin väliaikaisesta muuttamisesta](923.md) `923/1987`
+- [Valtioneuvoston päätös tupakkatuotteista suoritettavasta lisäverosta](924.md) `924/1987`
+- [Valtioneuvoston päätös eläkkeensaajien asumistukilain mukaisten hoitomenoina hyväksyttävien keskimääräisten kustannusten tarkistamisesta](925.md) `925/1987`
+- [Valtiovarainministeriön päätös rakennusten jälleenhankinta\-arvon perusteista](926.md) `926/1987`
+- [Laki ulkomailla toimivasta peruskoulua vastaavasta yksityiskoulusta annetun lain 5§:n muuttamisesta](927.md) `927/1987`
+- [Laki kananmunien ja kananmunavalmisteiden tarkastuksesta ja hinnanalennuskorvauksen maksamisesta annetun lain 8§:n muuttamisesta](928.md) `928/1987`
+- [Asetus valtioneuvoston ohjesäännön muuttamisesta](929.md) `929/1987`
+- [Asetus rajavartiolaitoksen suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](930.md) `930/1987`
+- [Asetus kehitysmaista peräisin olevien tavaroiden tulli\- ja tuontimaksuetuuksista annetun asetuksen muuttamisesta](931.md) `931/1987`
+- [Asetus ravinto\- tai lääkeaineisiin myönnettävästä patentista](932.md) `932/1987`
+- [Valtioneuvoston päätös kananmunien haudontojen rajoittamisesta](933.md) `933/1987`
+- [Maa\- ja metsätalousministeriön päätös kananmunien laatuhinnoittelusta annetun maa\- ja metsätalousministeriön päätöksen 1§:n muuttamisesta](934.md) `934/1987`
+- [Laki työsopimuslain 17 ja 54 §:n muuttamisesta](935.md) `935/1987`
+- [Laki merimieslain 15 ja 83 §:n muuttamisesta](936.md) `936/1987`
+- [Laki työsuojeluhallinnosta annetun lain eräiden säännösten kumoamisesta](937.md) `937/1987`
+- [Laki rintamasotilaseläkelain muuttamisesta](938.md) `938/1987`
+- [Asetus Suomen elokuva\-arkiston suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](939.md) `939/1987`
+- [Asetus autorekisterikeskuksesta annetun asetuksen muuttamisesta](940.md) `940/1987`
+- [Asetus ionisoimattoman säteilyn valvonnasta](941.md) `941/1987`
+- [Valtioneuvoston päätös työttömyysvakuutusmaksusta vuonna 1988](942.md) `942/1987`
+- [Sosiaali\- ja terveysministeriön päätös maatalousyrittäjien eläkelain 10§:ssä tarkoitetun perusprosentin ja yrittäjien eläkelain 9§:ssä tarkoitetun maksuprosentin vahvistamisesta](943.md) `943/1987`
+- [Verohallituksen päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](944.md) `944/1987`
+- [Laki valtion suhdannerahastosta annetun lain 3§:n muuttamisesta](945.md) `945/1987`
+- [Laki aluevaihdosta valtion ja Hangon kaupungin välillä](946.md) `946/1987`
+- [Valtioneuvoston päätös tavaroiden tuonnista tai viennistä ilman tuontilisenssiä tai hyväksyttyä \>vientitarkkailuilmoitusta](947.md) `947/1987`
+- [Sisäasiainministeriön päätös erään tilanosan siirtämisestä Mustasaaren kunnasta Laihian kuntaan](948.md) `948/1987`
+- [Sisäasiainministeriön päätös erään pakkolunastusyksikön siirtämisestä Mustasaaren kunnasta Vaasan kaupunkiin](949.md) `949/1987`
+- [Sisäasiainministeriön päätös erään tilan ja tilanosan siirtämisestä Heinäveden kunnasta Tuusniemen kuntaan](950.md) `950/1987`
+- [Sisäasiainministeriön päätös erään tilanosan siirtämisestä Virtain kaupungista Peräseinäjoen kuntaan](951.md) `951/1987`
+- [Sisäasiainministeriön päätös erään tilan ja tilanosan siirtämisestä Konneveden kunnasta Rautalammin kuntaan](952.md) `952/1987`
+- [Sisäasiainministeriön päätös rajan määräämisestä eräiltä osin Lappeenrannan kaupungin ja Ylämaan kunnan välillä](953.md) `953/1987`
+- [Maa\- ja metsätalousministeriön päätös maitonäytteistä](954.md) `954/1987`
+- [Maa\- ja metsätalousministeriön päätös maidontarkastuksesta annetun maa\- ja metsätalousministeriön päätöksen muuttamisesta](955.md) `955/1987`
+- [Laki tulo\- ja varallisuusverolain 36 §:n muuttamisesta](956.md) `956/1987`
+- [Laki velkojen korkojen vähennysoikeuden rajoittamisesta verotuksessa annetun lain 2 §:n väliaikaisesta muuttamisesta](957.md) `957/1987`
+- [Laki vuoden 1988 poikkeussäännöksistä verolakeihin](958.md) `958/1987`
+- [Laki kerman ja vähärasvaisen maidon tasausmaksusta annetun lain 22§:n muuttamisesta](959.md) `959/1987`
+- [Laki verohallinnosta](960.md) `960/1987`
+- [Laki maidon ja sianlihan vientikustannusmaksusta annetun lain muuttamisesta](961.md) `961/1987`
+- [Asetus liikevaihtoveroasetuksen 1 §:n muuttamisesta](962.md) `962/1987`
+- [Valtiovarainministeriön päätös Suomen tasavallan ja Euroopan talousyhteisön välisessä kaupassa sovellettavista alkuperäsäännöistä](963.md) `963/1987`
+- [Laki lannoiteverosta annetun lain 4 ja 13§:n muuttamisesta](964.md) `964/1987`
+- [Laki öljyväkirehuverosta annetun lain kumoamisesta](965.md) `965/1987`
+- [Laki rehuseosverosta annetun lain 4 ja 12§:n muuttamisesta](966.md) `966/1987`
+- [Laki valkuaisverosta annetun lain 15§:n muuttamisesta](967.md) `967/1987`
+- [Laki tasausverolain muuttamisesta](968.md) `968/1987`
+- [Valtioneuvoston päätös kuntien yleisen kalleusluokituksen vahvistamisesta](969.md) `969/1987`
+- [Valtioneuvoston päätös valtion työntekijäin terveydenhuollon ohjesäännöstä annetun valtioneuvoston päätöksen muuttamisesta](970.md) `970/1987`
+- [Valtioneuvoston päätös valtion työmaiden huollosta annetun valtioneuvoston päätöksen muuttamisesta](971.md) `971/1987`
+- [Laki Postipankki Oy:stä](972.md) `972/1987`
+- [Laki Postipankki Oy:n investointirahastosta](973.md) `973/1987`
+- [Laki pankkitarkastuslain 1§:n muuttamisesta](974.md) `974/1987`
+- [Laki liikepankkilain muuttamisesta](975.md) `975/1987`
+- [Laki leimaverolain muuttamisesta](976.md) `976/1987`
+- [Laki asuntosäästöpalkkiolain 3 ja 4§:n muuttamisesta](977.md) `977/1987`
+- [Asetus oman asunnon hankintaan myönnettävien lainojen korkotuesta annetun asetuksen 1§:n muuttamisesta](978.md) `978/1987`
+- [Laki rakennuslain 136§:n 2 momentin kumoamisesta](979.md) `979/1987`
+- [Asetus kokoontumishuoneistoista ja kokoontumisalueista annetun asetuksen 10§:n muuttamisesta](980.md) `980/1987`
+- [Sisäasiainministeriön päätös pysäköintivirhemaksun korottamisesta](981.md) `981/1987`
+- [Laki konkurssisäännön väliaikaisesta muuttamisesta annetun lain voimassaoloajasta](982.md) `982/1987`
+- [Laki akordilain voimassaoloajasta](983.md) `983/1987`
+- [Laki rajavartiolaitoksesta annetun lain muuttamisesta](984.md) `984/1987`
+- [Laki eräiden Porissa sijaitsevien asuinkiinteistöjen myymisestä Suomen Kiinteistönvälitys Oy:lle](985.md) `985/1987`
+- [Valtioneuvoston päätös perusvyöhykkeistä ja tukialueista](986.md) `986/1987`
+- [Valtioneuvoston päätös kunnanosista, joilla aluepoliittista tukea myönnetään korkeampana kuin kunnan muissa osissa](987.md) `987/1987`
+- [Valtioneuvoston päätös eräiden kuntien ja kunnanosien määräämisestä erityisalueiksi](988.md) `988/1987`
+- [Kauppa\- ja teollisuusministeriön päätös valvontalisensioinnista annetun päätöksen muuttamisesta](989.md) `989/1987`
+- [Ydinenergialaki](990.md) `990/1987`
+- [Laki sähkölain muuttamisesta](991.md) `991/1987`
+- [Laki säteilysuojauslain muuttamisesta](992.md) `992/1987`
+- [Asetus rautatiehenkilökunnan oikeudesta saada maksutonta lääkärin\- ja sairashuonehoitoa annetun asetuksen 1§:n 1 momentin muuttamisesta](993.md) `993/1987`
+- [Asetus hintojen, myyntiehtojen ja kuljetushintojen julkistamisesta ja noudattamisesta eräiden rauta\- ja terästuotteiden kaupassa annetun asetuksen 1 ja 3§:n muuttamisesta](994.md) `994/1987`
+- [Laki Suomen, Islannin, Norjan, Ruotsin ja Tanskan välillä virka\-avusta veroasioissa tehtyyn sopimukseen liittyvän lisäsopimuksen eräiden määräysten hyväksymisestä](995.md) `995/1987`
+- [Asetus Suomen, Islannin, Norjan, Ruotsin ja Tanskan välillä virka\-avusta veroasioissa tehtyyn sopimukseen liittyvän lisäsopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](996.md) `996/1987`
+- [Asetus Saksan liittotasavallan kanssa tehdyn sosiaaliturvasopimuksen toimeenpanemisesta tehdyn sopimuksen voimaansaattamisesta](997.md) `997/1987`
+- [Valtioneuvoston päätös metsätaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](998.md) `998/1987`
+- [Opetusministeriön päätös tallentamattomien ääni\- ja kuvanauhojen maahantuonnista ja valmistuksesta suoritettavan tekijänoikeudellisen maksun suuruudesta](999.md) `999/1987`
+- [Verohallituksen päätös vuodelta 1987 toimitettavassa verotuksessa verosta vapaaksi katsottavien matkakustannusten korvausten perusteista ja määristä](1000.md) `1000/1987`
+- [Laki evankelis\-luterilaisen kirkon virkaehtosopimuksista annetun lain 13 ja 14§:n muuttamisesta](1001.md) `1001/1987`
+- [Laki kirkkolain 501 ja 524 a§:n muuttamisesta](1002.md) `1002/1987`
+- [Laki kirkon keskusrahastosta annetun lain muuttamisesta](1003.md) `1003/1987`
+- [Laki evankelis\-luterilaisen kirkon eläkelain 8§:n muuttamisesta](1004.md) `1004/1987`
+- [Laki evankelisluterilaisten seurakuntien virkataloista ja rahastoista annetun lain 15§:n muuttamisesta](1005.md) `1005/1987`
+- [Laki kansaneläkelain väliaikaisesta muuttamisesta](1006.md) `1006/1987`
+- [Laki vuodelta 1988 suoritettavasta sairausvakuutusmaksusta](1007.md) `1007/1987`
+- [Laki työnantajan lapsilisämaksun perimättä jättämisestä vuodelta 1988](1008.md) `1008/1987`
+- [Laki maatalousyrittäjien eläkelain muuttamisesta](1009.md) `1009/1987`
+- [Laki maatalousyrittäjien tapaturmavakuutuslain 3 ja 5 §:n muuttamisesta](1010.md) `1010/1987`
+- [Laki maatalousyrittäjien tapaturmavakuutuslain 15§:n muuttamisesta](1011.md) `1011/1987`
+- [Laki sotilasvammalain soveltamisalan laajentamisesta annetun lain 7 a§:n muuttamisesta](1013.md) `1013/1987`
+- [Sosiaali\- ja terveysministeriön päätös sotilasvammalain 18§:n 2 momentissa tarkoitetun tulorajan tarkistamisesta](1014.md) `1014/1987`
+- [Laki kotimaisten kielten tutkimuskeskuksesta annetun lain 3§:n kumoamisesta](1015.md) `1015/1987`
+- [Laki museovirastosta annetun lain 2§:n kumoamisesta](1016.md) `1016/1987`
+- [Laki rauhan\- ja konfliktintutkimuslaitoksesta annetun lain 2 §:n kumoamisesta](1017.md) `1017/1987`
+- [Laki kouluhallituksesta ja sen alaisesta piirihallinnosta annetun lain 3§:n kumoamisesta](1018.md) `1018/1987`
+- [Laki Heinolan kurssikeskuksesta annetun lain 2§:n kumoamisesta](1019.md) `1019/1987`
+- [Laki lastentarhanopettajaopistoista annetun lain 3§:n kumoamisesta](1020.md) `1020/1987`
+- [Laki kuulovammaisten ja näkövammaisten sekä liikuntavammaisten kouluista annetun lain 14§:n kumoamisesta](1021.md) `1021/1987`
+- [Laki Suomalais\-venäläisestä koulusta annetun lain 9§:n kumoamisesta](1022.md) `1022/1987`
+- [Laki Helsingin ranskalais\-suomalaisesta koulusta annetun lain 9§:n kumoamisesta](1023.md) `1023/1987`
+- [Laki näkövammaisten kirjastosta annetun lain 5§:n kumoamisesta](1024.md) `1024/1987`
+- [Laki valtion audiovisuaalisesta keskuksesta annetun lain 4§:n kumoamisesta](1025.md) `1025/1987`
+- [Laki maatalousnormaalikoulusta annetun lain 2§:n kumoamisesta](1026.md) `1026/1987`
+- [Laki ammattikoulujen opettajaopistoista annetun lain 2§:n kumoamisesta](1027.md) `1027/1987`
+- [Laki saamelaisalueen ammatillisesta koulutuskeskuksesta annetun lain 3§:n kumoamisesta](1028.md) `1028/1987`
+- [Laki vammaisten ammattikouluista annetun lain 2§:n kumoamisesta](1029.md) `1029/1987`
+- [Laki aluevaihdosta valtion ja Helsingin kaupungin välillä](1030.md) `1030/1987`
+- [Laki torjunta\-ainelain muuttamisesta](1031.md) `1031/1987`
+- [Asetus Neuvostoliiton ja Ruotsin kalastusalusten Suomen kalastusvyöhykkeellä harjoittamasta kalastuksesta vuonna 1988](1032.md) `1032/1987`
+- [Asetus maa\- ja metsätalousministeriöstä annetun asetuksen muuttamisesta](1033.md) `1033/1987`
+- [Valtioneuvoston päätös kananmunien lisähinnasta](1034.md) `1034/1987`
+- [Valtioneuvoston päätös maidosta suoritettavasta lisähinnasta](1035.md) `1035/1987`
+- [Maa\- ja metsätalousministeriön päätös metsänviljelyaineiston kaupasta](1036.md) `1036/1987`
+- [Laki toimenpiteistä tupakoinnin vähentämiseksi annetun lain 27§:n muuttamisesta](1037.md) `1037/1987`
+- [Laki työneuvostosta ja työsuojelun poikkeusluvista annetun lain 2§:n muuttamisesta](1038.md) `1038/1987`
+- [Laki tasa\-arvovaltuutetusta ja tasa\-arvolautakunnasta annetun lain muuttamisesta](1039.md) `1039/1987`
+- [Asetus tasa\-arvovaltuutetusta ja tasa\-arvolautakunnasta annetun asetuksen muuttamisesta](1040.md) `1040/1987`
+- [Asetus terveyskeskukselle työterveyshuollosta perittävistä maksuista ja korvauksista annetun asetuksen muuttamisesta](1041.md) `1041/1987`
+- [Asetus eräistä sairaanhoitolaitosten maksuista, korvauksista ja palkkioista annetun asetuksen muuttamisesta](1042.md) `1042/1987`
+- [Asetus  mielisairaanhoidosta perittävistä maksuista annetun asetuksen 2 ja 2 a§:n muuttamisesta](1043.md) `1043/1987`
+- [Asetus terveyskeskuksessa perittävistä maksuista ja korvauksista annetun asetuksen muuttamisesta](1044.md) `1044/1987`
+- [Asetus kansanterveyslaitoksessa suoritetuista tutkimuksista perittävistä maksuista annettuun asetukseen liittyvän hinnaston muuttamisesta](1045.md) `1045/1987`
+- [Asetus sosiaalipalveluista perittävistä maksuista annetun asetuksen muuttamisesta](1046.md) `1046/1987`
+- [Asetus valtion sosiaalihuollon ja terveydenhuollon toimintayksiköiden palveluista perittävistä korvauksista annetun asetuksen muuttamisesta](1047.md) `1047/1987`
+- [Asetus työneuvostosta ja työsuojelun poikkeusluvista annetun asetuksen muuttamisesta](1048.md) `1048/1987`
+- [Laki vesi\- ja ympäristöhallinnosta annetun lain 5§:n kumoamisesta](1049.md) `1049/1987`
+- [Laki asuntohallituksesta annetun lain 3§:n kumoamisesta](1050.md) `1050/1987`
+- [Asetus puolustusministeriöstä annetun asetuksen muuttamisesta](1051.md) `1051/1987`
+- [Asetus puolustusvoimista annetun asetuksen muuttamisesta](1052.md) `1052/1987`
+- [Asetus vesiasiain neuvottelukunnasta](1053.md) `1053/1987`
+- [Valtioneuvoston päätös eräiden asuntolainojen koron väliaikaisesta alentamisesta](1054.md) `1054/1987`
+- [Laki palosuojelumaksusta annetun lain 1 ja 3§:n muuttamisesta](1055.md) `1055/1987`
+- [Asetus poliisin henkilörekistereistä](1056.md) `1056/1987`
+- [Asetus poliisin maksuasetuksen muuttamisesta](1057.md) `1057/1987`
+- [Asetus merenkulkulaitoksen alusten hinausmaksusta annetun asetuksen muuttamisesta](1058.md) `1058/1987`
+- [Asetus luotsausmaksuista annetun asetuksen muuttamisesta](1059.md) `1059/1987`
+- [Asetus väylämaksuasetuksen muuttamisesta](1060.md) `1060/1987`
+- [Asetus sähkölaitteiden tarkastuksista perittävistä maksuista annetun asetuksen muuttamisesta](1061.md) `1061/1987`
+- [Asetus hissien tarkastuksista perittävistä maksuista annetun asetuksen muuttamisesta](1062.md) `1062/1987`
+- [Asetus sähkölaitoksen huolehdittavista sähkölaitteistojen tarkastuksista perittävistä maksuista](1063.md) `1063/1987`
+- [Asetus jäätelöasetuksen muuttamisesta](1064.md) `1064/1987`
+- [Sisäasiainministeriön päätös erään alueen siirtämisestä Ikaalisten kaupungista Viljakkalan kuntaan](1065.md) `1065/1987`
+- [Sisäasiainministeriön päätös eräiden tilanosien ja alueiden siirtämisestä Kuusamon kunnasta Taivalkosken kuntaan](1066.md) `1066/1987`
+- [Sisäasiainministeriön päätös erään tilan ja eräiden tilanosien siirtämisestä Toholammin kunnasta Kälviän kuntaan](1067.md) `1067/1987`
+- [Laki aluevaihdosta valtion ja Helsingin kaupungin välillä](1068.md) `1068/1987`
+- [Laki vuodelta 1988 toimitettavassa valtionverotuksessa sovellettavista veroasteikoista ja veroprosenteista](1069.md) `1069/1987`
+- [Laki elinkeinotulon verottamisesta annetun lain 46 b §:n muuttamisesta](1070.md) `1070/1987`
+- [Asetus rakennushallinnosta annetun asetuksen muuttamisesta](1071.md) `1071/1987`
+- [Asetus valtion rakennusmaan hallinnosta annetun asetuksen muuttamisesta](1072.md) `1072/1987`
+- [Asetus valtion talonrakennushankkeista annetun asetuksen muuttamisesta](1073.md) `1073/1987`
+- [Asetus valtiontalouden tarkastuksesta annetun asetuksen muuttamisesta](1074.md) `1074/1987`
+- [Asetus valtion palveluksessa olevien konekirjoittajien työtaidosta annetun asetuksen kumoamisesta](1075.md) `1075/1987`
+- [Asetus Suomen rahapajasta annetun asetuksen muuttamisesta](1076.md) `1076/1987`
+- [Asetus työllisyyslain 8§:n mukaisen ilmoitusvelvollisuuden toimeenpanosta valtion virastoissa ja laitoksissa](1077.md) `1077/1987`
+- [Eduskunnan päätös eduskunnan työjärjestyksen muuttamisesta](1078.md) `1078/1987`
+- [Laki posti\- ja telelaitoksesta annetun lain 3§:n ja 5§:n 3 momentin kumoamisesta](1079.md) `1079/1987`
+- [Laki valtionrautateiden viroista ja toimista annetun lain kumoamisesta](1080.md) `1080/1987`
+- [Laki ilmatieteen laitoksesta annetun lain 2§:n kumoamisesta](1081.md) `1081/1987`
+- [Laki autorekisterikeskuksesta annetun lain 2 ja 5§:n kumoamisesta](1082.md) `1082/1987`
+- [Telemaksuasetus](1083.md) `1083/1987`
+- [Asetus lehtien postimaksuja käsittelevästä lautakunnasta](1084.md) `1084/1987`
+- [Asetus liikenneministeriöstä annetun asetuksen muuttamisesta](1085.md) `1085/1987`
+- [Asetus posti\- ja telelaitoksesta annetun asetuksen muuttamisesta](1086.md) `1086/1987`
+- [Asetus Ilmatieteen laitoksesta annetun asetuksen muuttamisesta](1087.md) `1087/1987`
+- [Asetus Saksan demokraattisen tasavallan kanssa tehdyn viisumivapaussopimuksen voimaansaattamisesta](1088.md) `1088/1987`
+- [Asetus Suomen, Norjan, Ruotsin ja Tanskan välillä eräiden ammattiryhmien hyväksymisestä toimimaan terveydenhuollon, sairaanhoidon ja eläinlääkintähuollon alalla tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen eräiden määräysten hyväksymisestä sekä sen soveltamisesta annetun lain voimaantulosta annetun asetuksen muuttamisesta](1089.md) `1089/1987`
+- [Asetus maatalous\-metsätieteellisistä tutkinnoista annetun asetuksen muuttamisesta](1090.md) `1090/1987`
+- [Asetus liikuntatieteellisistä tutkinnoista annetun asetuksen muuttamisesta](1091.md) `1091/1987`
+- [Asetus kasvatustieteellisistä tutkinnoista ja opinnoista annetun asetuksen muuttamisesta](1092.md) `1092/1987`
+- [Asetus peruskouluasetuksen muuttamisesta](1093.md) `1093/1987`
+- [Asetus lukioasetuksen muuttamisesta](1094.md) `1094/1987`
+- [Asetus peruskoulua korvaavasta koulusta ja yksityisestä lukiosta annetun asetuksen 2 ja 3§:n muuttamisesta](1095.md) `1095/1987`
+- [Asetus iltalukioasetuksen 22 ja 25§:n muuttamisesta](1096.md) `1096/1987`
+- [Asetus kouluhallituksesta annetun asetuksen 30 ja 31§:n muuttamisesta](1097.md) `1097/1987`
+- [Laki Suomen Hallitusmuodon 87§:n muuttamisesta](1098.md) `1098/1987`
+- [Laki tasavallan presidentin kansliasta](1099.md) `1099/1987`
+- [Laki valtioneuvoston ministeriöiden lukumäärästä ja yleisestä toimialasta annetun lain 3§:n muuttamisesta](1100.md) `1100/1987`
+- [Laki valtion virkamieslain 4§:n muuttamisesta](1101.md) `1101/1987`
+- [Laki valtion virkaehtosopimuslain 1§:n muuttamisesta](1102.md) `1102/1987`
+- [Asetus yleisarkistoista annetun asetuksen muuttamisesta](1103.md) `1103/1987`
+- [Asetus läänin nuorisolautakunnasta](1104.md) `1104/1987`
+- [Korkeimman hallinto\-oikeuden päätös korkeimman hallinto\-oikeuden työjärjestyksen muuttamisesta](1105.md) `1105/1987`
+- [Laki säteilyturvakeskuksesta annetun lain 3§:n kumoamisesta](1106.md) `1106/1987`
+- [Laki lapsilisälain 1§:n muuttamisesta](1107.md) `1107/1987`
+- [Laki työntekijäin eläkelain soveltamisesta postipankkilaissa tarkoitetun Postipankin henkilökunnan työ\- ja virkasuhteisiin](1108.md) `1108/1987`
+- [Laki sairausvakuutuslain muuttamisesta](1109.md) `1109/1987`
+- [Laki kansanterveyslain 14§:n muuttamisesta](1110.md) `1110/1987`
+- [Laki kansanterveyslain voimaanpanosta annetun lain 3§:n muuttamisesta](1111.md) `1111/1987`
+- [Laki lasten kotihoidon tuesta annetun lain 6 ja 7 §:n muuttamisesta](1112.md) `1112/1987`
+- [Asetus sairausvakuutusasetuksen muuttamisesta](1113.md) `1113/1987`
+- [Valtioneuvoston päätös työterveyshuollon ja muun terveydenhuollon kustannusten korvausperusteista annetun valtioneuvoston päätöksen 10§:n muuttamisesta](1114.md) `1114/1987`
+- [Valtioneuvoston päätös kuntien ryhmityksestä kansaneläkelain mukaisen lisäosan maksamista varten](1115.md) `1115/1987`
+- [Valtioneuvoston päätös kuntien ryhmityksestä rintamasotilaseläkkeen maksamista varten](1116.md) `1116/1987`
+- [Valtioneuvoston päätös vajaakuntoisten työhönsijoituksen tukitoimenpiteistä](1117.md) `1117/1987`
+- [Laki leimaverolain muuttamisesta](1118.md) `1118/1987`
+- [Laki liikevaihtoverolain muuttamisesta](1119.md) `1119/1987`
+- [Laki tulo\- ja varallisuusverolain 22§:n muuttamisesta](1120.md) `1120/1987`
+- [Laki verotuslain muuttamisesta](1121.md) `1121/1987`
+- [Asetus maatalouden taloudellisesta tutkimuslaitoksesta annetun asetuksen muuttamisesta](1122.md) `1122/1987`
+- [Asetus valtion maatalousteknologian tutkimuslaitoksesta annetun asetuksen muuttamisesta](1123.md) `1123/1987`
+- [Asetus geodeettisesta laitoksesta annetun asetuksen muuttamisesta](1124.md) `1124/1987`
+- [Asetus valtion maatalouskemian laitoksesta annetun asetuksen muuttamisesta](1125.md) `1125/1987`
+- [Asetus valtion siementarkastuslaitoksesta annetun asetuksen muuttamisesta](1126.md) `1126/1987`
+- [Asetus valtion maitovalmisteiden tarkastuslaitoksesta annetun asetuksen muuttamisesta](1127.md) `1127/1987`
+- [Asetus valtion maitotalouden tutkimuslaitoksesta annetun asetuksen muuttamisesta](1128.md) `1128/1987`
+- [Asetus valtion hevosjalostuslaitoksesta annetun asetuksen muuttamisesta](1129.md) `1129/1987`
+- [Laki luopumiseläkelain 9§:n muuttamisesta](1130.md) `1130/1987`
+- [Laki riista\- ja kalatalouden tutkimuslaitoksesta](1131.md) `1131/1987`
+- [Asetus maidontarkastusasetuksen 4§:n muuttamisesta](1132.md) `1132/1987`
+- [Asetus karhun, suden ja ahman metsästämisestä](1133.md) `1133/1987`
+- [Asetus kasvintarkastuksesta perittävistä maksuista](1134.md) `1134/1987`
+- [Asetus eläinlääkärin oikeudesta luovuttaa lääkkeitä eläinlääkintää varten](1135.md) `1135/1987`
+- [Asetus eläinsuojeluasetuksen 1§:n muuttamisesta](1136.md) `1136/1987`
+- [Valtioneuvoston päätös porotaloudesta saatujen tulojen verotuksessa noudatettavista tuottoperusteista](1137.md) `1137/1987`
+- [Valtioneuvoston päätös riista\- ja kalatalouden tutkimuslaitoksen tutkimuksista ja palveluksista perittävistä maksuista annetun valtioneuvoston päätöksen muuttamisesta](1138.md) `1138/1987`
+- [Valtioneuvoston päätös maankäyttölain ja eräiden muiden lakien mukaisten asuntolainojen korosta](1139.md) `1139/1987`
+- [Maa\- ja metsätalousministeriön eläinlääkintöosaston päätös vastustettavista eläintaudeista](1140.md) `1140/1987`
+- [Asetus valtiovarainministeriöstä](1141.md) `1141/1987`
+- [Asetus valtiokonttorista annetun asetuksen muuttamisesta](1142.md) `1142/1987`
+- [Laki teollisuussihteereistä annetun lain 1§:n muuttamisesta](1143.md) `1143/1987`
+- [Laki teknillisestä tarkastuskeskuksesta annetun lain 7§:n kumoamisesta](1144.md) `1144/1987`
+- [Laki geologian tutkimuskeskuksesta annetun lain 3§:n kumoamisesta](1145.md) `1145/1987`
+- [Laki valtion teknillisestä tutkimuskeskuksesta annetun lain 2§:n kumoamisesta](1146.md) `1146/1987`
+- [Laki kuluttaja\-asiamiehestä annetun lain muuttamisesta](1147.md) `1147/1987`
+- [Asetus kuluttaja\-asiamiehestä annetun asetuksen muuttamisesta](1148.md) `1148/1987`
+- [Asetus patentti\- ja rekisterihallituksesta annetun asetuksen muuttamisesta](1149.md) `1149/1987`
+- [Asetus merentutkimuslaitoksen tutkimuksista, selvityksistä ja muista palveluksista perittävistä maksuista annetun asetuksen muuttamisesta](1150.md) `1150/1987`
+- [Asetus lästimaksusta annetun asetuksen 4 §:n muuttamisesta](1151.md) `1151/1987`
+- [Valtioneuvoston päätös Kehitysaluerahasto Oy \- Utvecklingsområdesfonden Ab:n määräämisestä toimimaan eräissä kunnissa](1152.md) `1152/1987`
+- [Valtioneuvoston päätös Kehitysaluerahasto Oy \- Utvecklingsområdesfonden Ab:n määräämisestä toimimaan eräissä kunnissa](1153.md) `1153/1987`
+- [Liikenneministeriön päätös Euroopan kuljetusministerikonferenssin \(CEMT\) kansainvälisiä muuttokuljetuksia ja kansainvälistä monenkeskistä kiintiöjärjestelmää koskevien päätöslauselmien 53 ja 26 noudattamisesta](1154.md) `1154/1987`
+- [Liikenneministeriön päätös ammattimaisen moottoriajoneuvoliikenteen harjoittamiseen myönnettävien tavaraliikennelupien rajoituksista](1155.md) `1155/1987`
+- [Kauppa\- ja teollisuusministeriön päätös alueelliseen kuljetustukeen oikeuttavasta vähimmästä kuljetusmaksusta](1156.md) `1156/1987`
+- [Kauppa\- ja teollisuusministeriön päätös kuljetusten alueellisesta tukemisesta annetun lain 12 §:n 1 momentissa tarkoitetun laivakuljetuksissa maksettavan kuljetustuen määrästä](1157.md) `1157/1987`
+- [Laki pelastushallinnon koulutuskeskuksesta annetun lain 3§:n kumoamisesta](1158.md) `1158/1987`
+- [Asetus pelastushallinnon koulutuskeskuksesta annetun asetuksen muuttamisesta](1159.md) `1159/1987`
+- [Asetus kunnallistalouden neuvottelukunnasta annetun asetuksen 8§:n muuttamisesta](1160.md) `1160/1987`
+- [Asetus sisäasiainministeriöstä annetun asetuksen muuttamisesta](1161.md) `1161/1987`
+- [Asetus poliisiasetuksen muuttamisesta](1162.md) `1162/1987`
+- [Asetus rauhan\- ja konfliktintutkimuslaitoksesta](1163.md) `1163/1987`
+- [Laki ulkoasiainhallinnosta](1164.md) `1164/1987`
+- [Laki tullilain muuttamisesta](1165.md) `1165/1987`
+- [Laki liikevaihtoverolain 60§:n muuttamisesta](1166.md) `1166/1987`
+- [Asetus tullitariffilain soveltamisesta](1167.md) `1167/1987`
+- [Valtioneuvoston päätös eräiden maataloustuotteiden tullien muuttamisesta](1168.md) `1168/1987`
+- [Valtioneuvoston päätös teollisuustullien ehdoista](1169.md) `1169/1987`
+- [Valtioneuvoston päätös erityisryhmien liikunnan neuvottelukunnasta](1170.md) `1170/1987`
+- [Valtiovarainministeriön päätös taidekilpailupalkintojen verovapaudesta](1171.md) `1171/1987`
+- [Laki kansanterveyslaitoksesta annetun lain muuttamisesta](1172.md) `1172/1987`
+- [Laki lääkelaboratoriosta annetun lain muuttamisesta](1173.md) `1173/1987`
+- [Laki työllisyyslain 20 ja 29§:n muuttamisesta](1174.md) `1174/1987`
+- [Asetus työehtosopimuslaissa tarkoitettujen hyvityssakkojen enimmäismäärien tarkistamisesta](1175.md) `1175/1987`
+- [Asetus työsuojeluhallinnosta annetun asetuksen muuttamisesta](1176.md) `1176/1987`
+- [Asetus työnantajan sosiaaliturvamaksusta annetun asetuksen 1§:n muuttamisesta](1177.md) `1177/1987`
+- [Asetus sotilasvammalain eräiden säännösten soveltamisesta annetun asetuksen muuttamisesta](1178.md) `1178/1987`
+- [Asetus kansanterveyslaitoksesta annetun asetuksen muuttamisesta](1179.md) `1179/1987`
+- [Asetus lääkelaboratoriosta annetun asetuksen muuttamisesta](1180.md) `1180/1987`
+- [Asetus työllisyysasetuksen muuttamisesta](1181.md) `1181/1987`
+- [Asetus henkilörekisteriasetuksen 13 §:n muuttamisesta](1182.md) `1182/1987`
+- [Asetus virkavalasta ja virkavakuutuksesta sekä tuomarinvalasta ja tuomarinvakuutuksesta](1183.md) `1183/1987`
+- [Asetus ulosottomaksuista annetun asetuksen muuttamisesta](1184.md) `1184/1987`
+- [Asetus yleisen alioikeuden, maistraatin ja julkisen notaarin suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](1185.md) `1185/1987`
+- [Asetus tilastokeskuksesta annetun asetuksen muuttamisesta](1186.md) `1186/1987`
+- [Asetus Valtionhallinnon kehittämiskeskuksesta annetun asetuksen muuttamisesta](1187.md) `1187/1987`
+- [Asetus valtion painatuskeskuksesta annetun asetuksen 8 a ja 9§:n muuttamisesta](1188.md) `1188/1987`
+- [Asetus valtion tietokonekeskuksesta annetun asetuksen 11§:n muuttamisesta](1189.md) `1189/1987`
+- [Asetus valtion liiketaitosten työehtosopimuksesta](1190.md) `1190/1987`
+- [Asetus tie\- ja vesirakennuslaitoksesta annetun asetuksen muuttamisesta](1191.md) `1191/1987`
+- [Laki sosiaaliministeriön vakuutusosastosta annetun lain kumoamisesta](1192.md) `1192/1987`
+- [Laki työttömyysturvalain 39§:n muuttamisesta](1193.md) `1193/1987`
+- [Asetus rajavartiolaitoksesta annetun asetuksen muuttamisesta](1194.md) `1194/1987`
+- [Asetus säteilyturvakeskuksesta annetun asetuksen muuttamisesta](1195.md) `1195/1987`
+- [Asetus vesi\- ja ympäristöhallinnosta annetun asetuksen muuttamisesta](1196.md) `1196/1987`
+- [Asetus asuntohallituksesta annetun asetuksen muuttamisesta](1197.md) `1197/1987`
+- [Laki työriitojen sovittelusta annetun lain muuttamisesta](1198.md) `1198/1987`
+- [Asetus valtion virkamiesten vuosilomasta annetun asetuksen muuttamisesta](1199.md) `1199/1987`
+- [Asetus eräiden valtion palveluksessa olevien osa\-aikaisten ja sivutoimisten virkamiesten sekä tuntiopettajien vuosilomasta ja vuosilomakorvauksesta](1200.md) `1200/1987`
+- [Asetus työajasta valtion virastoissa ja laitoksissa annetun asetuksen muuttamisesta](1201.md) `1201/1987`
+- [Asetus työaikalain soveltamisesta valtion virkamiehiin annetun asetuksen muuttamisesta](1202.md) `1202/1987`
+- [Valtion virkaehtosopimusasetus](1203.md) `1203/1987`
+- [Asetus eräistä määräajaksi tai muutoin rajoitetuksi ajaksi täytettävistä viroista](1204.md) `1204/1987`
+- [Asetus työriitojen sovittelusta](1205.md) `1205/1987`
+- [Valtioneuvoston päätös hyvityssakkojen enimmäismäärien tarkistamisesta](1206.md) `1206/1987`
+- [Suomen tasavallan tulo\- ja menoarvio vuodelle 1988](1207.md) `1207/1987`
+- [Asetus verohallituksesta annetun asetuksen muuttamisesta](1208.md) `1208/1987`
+- [Asetus välittömän verotuksen piiri\- ja paikallishallinnosta annetun asetuksen muuttamisesta](1209.md) `1209/1987`
+- [Asetus liikevaihtoverohallinnosta annetun asetuksen muuttamisesta](1210.md) `1210/1987`
+- [Valtioneuvoston päätös leimaverolain soveltamisesta annetun valtioneuvoston päätöksen 7 ja 11§:n muuttamisesta](1211.md) `1211/1987`
+- [Verohallituksen päätös vuonna 1988 sovellettavien ennakonpidätysperusteiden voimaantulosta](1212.md) `1212/1987`
+- [Verohallituksen päätös osingon, koron ja voitto\-osuuden vapauttamisesta ennakonpidätyksestä eräissä tapauksissa](1213.md) `1213/1987`
+- [Verohallituksen päätös ennakonpidätyksen toimittamiseksi palkasta, ennakkoperintälain 5 ja 6§:ssä tarkoitetuista suorituksista sekä palkkaturvalain nojalla maksettavasta suorituksesta](1214.md) `1214/1987`
+- [Laki polttoaineverosta annetun lain 4§:n väliaikaisesta muuttamisesta](1215.md) `1215/1987`
+- [Asetus poliisin eräiden virkojen perustamisesta](1216.md) `1216/1987`
+- [Asetus puolustusministeriön hallinnonalan eräiden virkojen perustamisesta ja lakkauttamisesta](1217.md) `1217/1987`
+- [Asetus poliisitoiminnasta puolustuslaitoksessa annetun asetuksen muuttamisesta](1218.md) `1218/1987`
+- [Asetus tullihallinnosta annetun asetuksen muuttamisesta](1219.md) `1219/1987`
+- [Asetus tulliasetuksen muuttamisesta](1220.md) `1220/1987`
+- [Valtioneuvoston päätös tullitariffilain liitteenä olevan tullitariffin ja teollisuustulliluettelon muuttamisesta](1221.md) `1221/1987`
+- [Valtioneuvoston päätös tuontimaksulain liitteenä olevan teollisuusetuluettelon muuttamisesta](1222.md) `1222/1987`
+- [Verohallituksen päätös rajoitetusti verovelvollisen opiskelijan tai harjoittelijan tai pohjoismaisen työnvaihto\-ohjelman piirissä työskentelevän palkasta tehtävästä vähennyksestä](1223.md) `1223/1987`
+- [Laki Malesian kanssa tehdyn sijoitusten suojelua koskevan sopimuksen eräiden määräysten hyväksymisestä](1224.md) `1224/1987`
+- [Asetus Malesian kanssa tehdyn sijoitusten suojelua koskevan sopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1225.md) `1225/1987`
+- [Asetus Kiinan kanssa tehdyn pitkäaikaisen kauppasopimuksen muuttamista koskevan pöytäkirjan voimaansaattamisesta](1226.md) `1226/1987`
+- [Asetus Kiinan kanssa taloudellisesta, teollisesta, tieteellisestä ja teknisestä yhteistyöstä tehdyn sopimuksen muuttamista koskevan pöytäkirjan voimaansaattamisesta](1227.md) `1227/1987`
+- [Asetus Tanskan kanssa tehdyn kauppa\- ja merenkulkusopimuksen eräiden määräysten kumoamista koskevan sopimuksen voimaansaattamisesta](1228.md) `1228/1987`
+- [Asetus Hongkongin kanssa eräiden tekstiilituotteiden Hongkongista tapahtuvan tuonnin rajoittamisesta ja valvomisesta tehdyn sopimuksen muuttamista koskevan sopimuksen voimaansaattamisesta](1229.md) `1229/1987`
+- [Asetus vankeinhoitolaitoksesta annetun asetuksen muuttamisesta](1230.md) `1230/1987`
+- [Asetus museovirastosta annetun asetuksen muuttamisesta](1231.md) `1231/1987`
+- [Sisäasiainministeriön päätös rajavyöhykkeestä ja rajavyöhykkeen takarajasta annetun sisäasiainministeriön päätöksen muuttamisesta](1232.md) `1232/1987`
+- [Lääninhallituslaki](1233.md) `1233/1987`
+- [Asetus lääninhallitusten eräiden virkojen perustamisesta ja lakkauttamisesta](1234.md) `1234/1987`
+- [Asetus rajavartiolaitoksen eräiden virkojen perustamisesta ja lakkauttamisesta](1235.md) `1235/1987`
+- [Valtioneuvoston päätös asumistuen määräytymisperusteista](1236.md) `1236/1987`
+- [Valtioneuvoston päätös oman asunnon hankintaan myönnettävien lainojen korkotuen edellytyksistä](1237.md) `1237/1987`
+- [Laki tie\- ja vesirakennuslaitoksesta annetun lain 3§:n ja 5§:n 3 momentin kumoamisesta](1238.md) `1238/1987`
+- [Laki teknologian kehittämiskeskuksesta annetun lain muuttamisesta](1239.md) `1239/1987`
+- [Laki matkailun edistämiskeskuksesta annetun lain 4§:n kumoamisesta](1240.md) `1240/1987`
+- [Laki puolustustaloudellisesta suunnittelukunnasta annetun lain 2§:n 3 momentin kumoamisesta](1241.md) `1241/1987`
+- [Asetus eräiden liikenneministeriön hallinnonalaan kuuluvien virkojen perustamisesta ja lakkauttamisesta](1242.md) `1242/1987`
+- [Asetus telemaksuasetuksen muuttamisesta](1243.md) `1243/1987`
+- [Asetus kauppa\- ja teollisuusministeriöstä annetun asetuksen muuttamisesta](1244.md) `1244/1987`
+- [Asetus lisenssivirastosta annetun asetuksen muuttamisesta](1245.md) `1245/1987`
+- [Laki vuoden 1986 kansainvälisen kaakaosopimuksen eräiden määräysten hyväksymisestä](1246.md) `1246/1987`
+- [Asetus vuoden 1986 kansainvälisen kaakaosopimuksen voimaansaattamisesta ja sen eräiden määräysten hyväksymisestä annetun lain voimaantulosta](1247.md) `1247/1987`
+- [Laki väestökirjahallinnosta annetun lain muuttamisesta](1248.md) `1248/1987`
+- [Laki ammatillisten oppilaitosten rahoituksesta annetun lain muuttamisesta](1249.md) `1249/1987`
+- [Vakuutusyhdistyslaki](1250.md) `1250/1987`
+- [Laki kalastusvakuutusyhdistyksistä annetun lain 1 §:n muuttamisesta](1251.md) `1251/1987`
+- [Laki kaupparekisterilain muuttamisesta](1252.md) `1252/1987`
+- [Laki vakuutustarkastuksen kustantamisesta annetun lain 1 §:n muuttamisesta](1253.md) `1253/1987`
+- [Laki valtiopäiväjärjestyksen muuttamisesta](1254.md) `1254/1987`
+- [Laki eduskunnan virkamiehistä](1255.md) `1255/1987`
+- [Laki Eduskunnan kirjastosta annetun lain muuttamisesta](1256.md) `1256/1987`
+- [Laki Pohjoismaiden neuvoston Suomen valtuuskunnasta annetun lain muuttamisesta](1257.md) `1257/1987`
+- [Laki kotimaasta tapahtuvaan aluksen hankintaan myönnettävistä korkotukilainoista annetun lain muuttamisesta](1258.md) `1258/1987`
+- [Laki merentutkimuslaitoksesta](1259.md) `1259/1987`
+- [Asetus merentutkimuslaitoksesta](1260.md) `1260/1987`
+- [Valtiovarainministeriön päätös sovellettavan lain valinnasta viran lakatessa tehtävästä ilmoituksesta](1261.md) `1261/1987`
+- [Laki tullihallinnosta annetun lain 4 §:n ja 7 §:n 3 momentin kumoamisesta](1262.md) `1262/1987`
+- [Laki Suomen rahapajasta annetun lain 5§:n kumoamisesta](1263.md) `1263/1987`
+- [Laki Valtionhallinnon kehittämiskeskuksesta annetun lain 3§:n kumoamisesta](1264.md) `1264/1987`
+- [Laki tilastokeskuksesta annetun lain 4 ja 5§:n kumoamisesta](1265.md) `1265/1987`
+- [Laki rakennushallinnosta annetun lain 4§:n kumoamisesta](1266.md) `1266/1987`
+- [Laki verohallituksesta annetun lain 3§:n kumoamisesta](1267.md) `1267/1987`
+- [Laki välittömän verotuksen piiri\- ja paikallishallinnosta annetun lain muuttamisesta](1268.md) `1268/1987`
+- [Laki pankkitarkastuslain muuttamisesta](1269.md) `1269/1987`
+- [Laki taloudellisesta suunnittelukeskuksesta annetun lain 3§:n kumoamisesta](1270.md) `1270/1987`
+- [Laki valtiontalouden tarkastuksesta annetun lain muuttamisesta](1271.md) `1271/1987`
+- [Laki valtiokonttorista annetun lain 3§:n kumoamisesta](1272.md) `1272/1987`
+- [Laki ulkomailla suoritettujen korkeakouluopintojen tuottamasta virkakelpoisuudesta annetun lain 2§:n muuttamisesta](1273.md) `1273/1987`
+- [Asetus eräiden valtiovarainministeriön ja sen alaisten hallinnonalojen virkojen perustamisesta ja lakkauttamisesta](1274.md) `1274/1987`
+- [Laki proviisorintoimen ja farmaseutintoimen harjoittamisesta](1275.md) `1275/1987`
+- [Laki raittiustyölain muuttamisesta](1276.md) `1276/1987`
+- [Laki alkoholilain muuttamisesta](1277.md) `1277/1987`
+- [Laki alkoholilain muuttamisesta](1278.md) `1278/1987`
+- [Laki lääkkeiden velvoitevarastointilain muuttamisesta](1279.md) `1279/1987`
+- [Laki myrkkylain 20§:n muuttamisesta](1280.md) `1280/1987`
+- [Laki apteekkimaksusta annetun lain muuttamisesta](1281.md) `1281/1987`
+- [Laki sairaanhoitotarvikelain 1§:n muuttamisesta](1282.md) `1282/1987`
+- [Laki elintarviketuotteiden valmisteverosta annetun lain 7§:n muuttamisesta](1283.md) `1283/1987`
+- [Laki makeisverosta annetun lain 5§:n muuttamisesta](1284.md) `1284/1987`
+- [Laki liikevaihtoverolain 4 ja 18§:n muuttamisesta](1285.md) `1285/1987`
+- [Laki sairausvakuutuslain 5 ja 5 a §:n muuttamisesta](1286.md) `1286/1987`
+- [Asetus raittiustyöasetuksen eräiden säännösten kumoamisesta](1287.md) `1287/1987`
+- [Laki lääkärintoimen harjoittamisesta annetun lain muuttamisesta](1288.md) `1288/1987`
+- [Laki hammaslääkärintoimen harjoittamisesta annetun lain muuttamisesta](1289.md) `1289/1987`
+- [Asetus arkistoasetuksen muuttamisesta](1290.md) `1290/1987`
+- [Asetus lääkintöhallituksesta](1291.md) `1291/1987`
+- [Laki valtion mielisairaaloista](1292.md) `1292/1987`
+- [Asetus valtion mielisairaaloista](1293.md) `1293/1987`
+- [Asetus denaturoiduista alkoholipitoisista aineista ja denaturoimisesta annetun asetuksen 5 §:n muuttamisesta](1294.md) `1294/1987`
+- [Asetus lääkkeiden velvoitevarastoinnista annetun asetuksen muuttamisesta](1295.md) `1295/1987`
+- [Asetus myrkkyasetuksen muuttamisesta](1296.md) `1296/1987`
+- [Asetus elintarvikeasetuksen 3 §:n muuttamisesta](1297.md) `1297/1987`
+- [Asetus valmisteen lääkkeenomaisen käyttötarkoituksen ilmoittamisesta annetun asetuksen kumoamisesta](1298.md) `1298/1987`
+- [Asetus erityisvalmisteasetuksen 1 §:n muuttamisesta](1299.md) `1299/1987`
+- [Asetus elinkeinohallituksen maksuasetuksen 2 §:n kumoamisesta](1300.md) `1300/1987`
+- [Asetus kansanterveysasetuksen 6 §:n muuttamisesta](1301.md) `1301/1987`
+- [Valtioneuvoston päätös eräiden peruskoulun, lukion ja yleisen kirjaston valtionosuuksista ja \-avustuksista annetussa laissa tarkoitettujen määrien vahvistamisesta](1302.md) `1302/1987`
+- [Valtioneuvoston päätös vaikeista ja pitkäaikaisista sairauksista ja niiden hoitoon käytettävistä sairausvakuutuslain mukaan kokonaan tai 90\-prosenttisesti korvattavista lääkkeistä annetun valtioneuvoston päätöksen 3 §:n muuttamisesta](1303.md) `1303/1987`
+- [Asetus valtioneuvoston lainanottovaltuuksista vuonna 1988](1304.md) `1304/1987`
+- [Asetus Valtionhallinnon kehittämiskeskuksen suoritteista perittävistä maksuista](1305.md) `1305/1987`
+- [Asetus valtion teknillisestä tutkimuskeskuksesta annetun asetuksen muuttamisesta](1306.md) `1306/1987`
+- [Asetus teknillisestä tarkastuskeskuksesta](1307.md) `1307/1987`
+- [Asetus geologian tutkimuskeskuksesta annetun asetuksen muuttamisesta](1308.md) `1308/1987`
+- [Laki maataloushallinnosta annetun lain muuttamisesta](1309.md) `1309/1987`
+- [Laki maatilalain muuttamisesta](1310.md) `1310/1987`
+- [Laki luontaiselinkeinolain muuttamisesta](1311.md) `1311/1987`
+- [Laki maatalouslautakunnista annetun lain 3§:n muuttamisesta](1312.md) `1312/1987`
+- [Laki pakkohuutokaupalla myytävien kiinteistöjen lunastamisesta valtiolle annetun lain muuttamisesta](1313.md) `1313/1987`
+- [Laki kotieläintuotannon ohjaamisesta eräissä tapauksissa annetun lain muuttamisesta](1314.md) `1314/1987`
+- [Laki maatalousyrittäjien eläkelain 6 e§:n muuttamisesta](1315.md) `1315/1987`
+- [Laki luopumiseläkelain 15 ja 23 §:n muuttamisesta](1316.md) `1316/1987`
+- [Laki eräiden vesirakennustehtävien hoitamisesta annetun lain 2 ja 3§:n muuttamisesta](1317.md) `1317/1987`
+- [Laki pellonraivausmaksusta annetun lain väliaikaisesta muuttamisesta](1318.md) `1318/1987`
+- [Maa\- ja metsätalousministeriön päätös kotimaisen rukiin ja vehnän jauhatusvelvollisuudesta](1319.md) `1319/1987`
+- [Laki maatilalain muuttamisesta](1320.md) `1320/1987`
+- [Laki maaseudun pienimuotoisen elinkeinotoiminnan edistämisestä annetun lain 17§:n muuttamisesta](1321.md) `1321/1987`
+- [Laki maidon väliaikaisesta kiintiömaksusta annetun lain 27§:n muuttamisesta](1322.md) `1322/1987`
+- [Laki maidon väliaikaisista tuotantokiintiöistä annetun lain muuttamisesta](1323.md) `1323/1987`
+- [Asetus maatalouden tutkimuskeskuksesta annetun asetuksen muuttamisesta](1324.md) `1324/1987`
+- [Asetus korkealaatuisen siemen\- ja taimiaineiston tuottamisesta maatalouden tutkimuskeskuksessa annetun asetuksen muuttamisesta](1325.md) `1325/1987`
+- [Asetus valtion maatalouskemian laitoksen suoritteista perittävistä maksuista](1326.md) `1326/1987`
+- [Sokerilaki](1327.md) `1327/1987`
+- [Asetus valtion maitovalmisteiden tarkastuslaitoksen suoritteista perittävistä maksuista annetun asetuksen muuttamisesta](1328.md) `1328/1987`
+- [Valtioneuvoston päätös vuoden 1987 satovahinkojen johdosta suoritettavista yleiskorvauksista annetun valtioneuvoston päätöksen 1§:n muuttamisesta](1329.md) `1329/1987`
+- [Valtioneuvoston päätös vuoden 1987 satovahinkojen johdosta suoritettavista nautayksikköpohjaisista yleiskorvauksista](1330.md) `1330/1987`
+- [Valtioneuvoston päätös vuoden 1987 satovahinkojen korvaamiseksi maksettavista rehuksi myytävän tai alkoholin valmistuksessa käytettävän vehnän hinnanalennuskorvauksista](1331.md) `1331/1987`
+- [Valtioneuvoston päätös vuoden 1987 satovahinkojen korvaamiseksi maksettavasta rukiin ja vehnän lisähinnasta](1332.md) `1332/1987`
+- [Valtiovarainministeriön päätös liikevaihtoverolain alkutuotevähennyksen ja palautuksen laskemisperusteista](1333.md) `1333/1987`
+- [Laki kotimaisesta tärkkelystuotannosta](1334.md) `1334/1987`
+- [Laki maataloustuotannon ohjaamisesta ja tasapainottamisesta annetun lain muuttamisesta](1335.md) `1335/1987`
+- [Laki maidon väliaikaisista tuotantokiintiöistä annetun lain 21§:n muuttamisesta](1336.md) `1336/1987`
+- [Laki kotieläintuotannon ohjaamisesta eräissä tapauksissa annetun lain 13§:n muuttamisesta](1337.md) `1337/1987`
+- [Laki kotimaisesta öljykasvituotannosta](1338.md) `1338/1987`
+- [Asetus kotimaisten kielten tutkimuskeskuksesta](1339.md) `1339/1987`
+- [Asetus Kuopion yliopiston, Lapin korkeakoulun ja Vaasan korkeakoulun eräiden virkojen perustamisesta](1340.md) `1340/1987`

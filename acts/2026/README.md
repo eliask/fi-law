@@ -1,0 +1,474 @@
+# 2026 Statutes
+
+## Statutes
+
+- [Sisäministeriön asetus  sisäministeriön työjärjestyksestä annetun sisäasiainministeriön asetuksen muuttamisesta](1.md) `1/2026`
+- [Valtioneuvoston asetus uuden rakennuksen hiilijalanjäljen raja\-arvoista](2.md) `2/2026`
+- [Valtioneuvoston asetus maatilan investointituen kohdentamisesta annetun valtioneuvoston asetuksen 16 §:n muuttamisesta](3.md) `3/2026`
+- [Maa\- ja metsätalousministeriön asetus metsätalouden kannustejärjestelmästä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](4.md) `4/2026`
+- [Valtioneuvoston asetus metsätalouden määräaikaisesta kannustejärjestelmästä annetun valtioneuvoston asetuksen muuttamisesta](5.md) `5/2026`
+- [Valtiovarainministeriön asetus verovuodelta 2026 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista ja työnantajasuoritusten vähimmäismääristä](6.md) `6/2026`
+- [Verohallinnon päätös yksityisten apteekkien liikevaihdon keskiarvosta vuonna 2024](7.md) `7/2026`
+- [Laki rikoslain 11 luvun muuttamisesta](8.md) `8/2026`
+- [Laki vuokra\-asuntolainojen ja asumisoikeustalolainojen korkotuesta annetun lain muuttamisesta](9.md) `9/2026`
+- [Rahapelilaki](10.md) `10/2026`
+- [Laki arpajaislain muuttamisesta](11.md) `11/2026`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain 12 §:n 2 momentin ja 38 §:n 2 momentin 6 kohdan kumoamisesta](12.md) `12/2026`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä annetun lain muuttamisesta](13.md) `13/2026`
+- [Laki arpajaisverolain muuttamisesta](14.md) `14/2026`
+- [Laki tuloverolain muuttamisesta](15.md) `15/2026`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 20 §:n muuttamisesta](16.md) `16/2026`
+- [Laki rikoslain 17 luvun 16 a ja 16 b §:n muuttamisesta](17.md) `17/2026`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](18.md) `18/2026`
+- [Laki oikeudenkäynnistä markkinaoikeudessa annetun lain 1 ja 5 luvun muuttamisesta](19.md) `19/2026`
+- [Laki kuluttajansuojalain muuttamisesta](20.md) `20/2026`
+- [Laki sähköisen viestinnän palveluista annetun lain 32 ja 173 §:n muuttamisesta](21.md) `21/2026`
+- [Laki hevoskilpailulain 2 §:n kumoamisesta](22.md) `22/2026`
+- [Laki elinkeinotulon verottamisesta annetun lain 8 §:n muuttamisesta](23.md) `23/2026`
+- [Laki Harmaan talouden selvitysyksiköstä annetun lain 6 §:n muuttamisesta](24.md) `24/2026`
+- [Laki arvonlisäverolain 59 §:n muuttamisesta](25.md) `25/2026`
+- [Laki toimeentulotuesta annetun lain muuttamisesta](26.md) `26/2026`
+- [Laki sosiaali\- ja terveydenhuollon asiakastietojen käsittelystä annetun lain 64 §:n muuttamisesta](27.md) `27/2026`
+- [Laki kuntouttavasta työtoiminnasta annetun lain 10 §:n muuttamisesta](28.md) `28/2026`
+- [Laki lentoliikenteestä Ruandan kanssa tehdystä sopimuksesta](29.md) `29/2026`
+- [Sisäministeriön asetus Rajavartiolaitoksen hallitsemaa tilaa ja aluetta koskevista liikkumisrajoituksista ja \-kielloista annetun sisäasiainministeriön asetuksen muuttamisesta](30.md) `30/2026`
+- [Laki kuluttajansuojalain muuttamisesta](31.md) `31/2026`
+- [Laki eräiden luotonantajien ja luotonvälittäjien rekisteröinnistä annetun lain muuttamisesta](32.md) `32/2026`
+- [Laki eräiden kuluttajaluottojen välittäjistä](33.md) `33/2026`
+- [Laki asunto\-omaisuuteen liittyvien kuluttajaluottojen välittäjistä annetun lain 5 §:n muuttamisesta](34.md) `34/2026`
+- [Laki kuluttajansuojaviranomaisten eräistä toimivaltuuksista annetun lain muuttamisesta](35.md) `35/2026`
+- [Laki Kilpailu\- ja kuluttajavirastosta annetun lain muuttamisesta](36.md) `36/2026`
+- [Laki vakuutussopimuslain muuttamisesta](37.md) `37/2026`
+- [Laki vakuutusten tarjoamisesta annetun lain muuttamisesta](38.md) `38/2026`
+- [Laki luottolaitostoiminnasta annetun lain 8 luvun 3 §:n ja 15 luvun 12 a §:n muuttamisesta](39.md) `39/2026`
+- [Laki positiivisesta luottotietorekisteristä annetun lain muuttamisesta](40.md) `40/2026`
+- [Laki luottotietolain 13 ja 19 §:n muuttamisesta](41.md) `41/2026`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](42.md) `42/2026`
+- [Laki Finanssivalvonnan valvontamaksuista annetun lain 1 ja 10 §:n muuttamisesta](43.md) `43/2026`
+- [Laki maksupalvelulain 27 §:n 2 momentin kumoamisesta](44.md) `44/2026`
+- [Laki yleiseurooppalaisen yksilöllisen eläketuotteen tarjoamista ja jakelua koskevan Euroopan unionin asetuksen täydentämisestä annetun lain 3 §:n 1 momentin 3 kohdan kumoamisesta](45.md) `45/2026`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä annetun lain 1 luvun 2 §:n muuttamisesta](46.md) `46/2026`
+- [Laki liikennevakuutuslain muuttamisesta](47.md) `47/2026`
+- [Yleistukilaki](48.md) `48/2026`
+- [Laki työttömyysturvalain muuttamisesta](49.md) `49/2026`
+- [Laki työvoimapalveluiden järjestämisestä annetun lain muuttamisesta](50.md) `50/2026`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain muuttamisesta](51.md) `51/2026`
+- [Laki työttömyyskassalain 25 ja 26 §:n muuttamisesta](52.md) `52/2026`
+- [Laki yleisestä asumistuesta annetun lain 12 ja 15 §:n muuttamisesta](53.md) `53/2026`
+- [Laki eräiden kansaneläkeindeksiin ja elinkustannusindeksiin sidottujen etuuksien ja rahamäärien indeksitarkistuksista vuosina 2024–2027 annetun lain 1 §:n muuttamisesta](54.md) `54/2026`
+- [Laki sairausvakuutuslain muuttamisesta](55.md) `55/2026`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain muuttamisesta](56.md) `56/2026`
+- [Laki takuueläkkeestä annetun lain 19 §:n muuttamisesta](57.md) `57/2026`
+- [Laki kansaneläkelain muuttamisesta](58.md) `58/2026`
+- [Laki työntekijän eläkelain muuttamisesta](59.md) `59/2026`
+- [Laki yrittäjän eläkelain muuttamisesta](60.md) `60/2026`
+- [Laki maatalousyrittäjän eläkelain 32 ja 46 §:n muuttamisesta](61.md) `61/2026`
+- [Laki merimieseläkelain muuttamisesta](62.md) `62/2026`
+- [Laki julkisten alojen eläkelain muuttamisesta](63.md) `63/2026`
+- [Laki työtapaturma\- ja ammattitautilain 141 §:n muuttamisesta](64.md) `64/2026`
+- [Laki maatalousyrittäjän työtapaturma\- ja ammattitautilain 97 §:n muuttamisesta](65.md) `65/2026`
+- [Laki asumisperusteisesta sosiaaliturvasta rajat ylittävissä tilanteissa annetun lain 7 §:n muuttamisesta](66.md) `66/2026`
+- [Laki kuntouttavasta työtoiminnasta annetun lain muuttamisesta](67.md) `67/2026`
+- [Laki maatalousyrittäjien lomituspalvelulain 4 §:n muuttamisesta](68.md) `68/2026`
+- [Laki työllistymisen monialaisesta edistämisestä annetun lain 7 §:n muuttamisesta](69.md) `69/2026`
+- [Laki kotoutumisen edistämisestä annetun lain muuttamisesta](70.md) `70/2026`
+- [Laki elinvoimakeskuksista sekä Työllisyys\-, kehittämis\- ja hallintokeskuksesta annetun lain 13 §:n muuttamisesta](71.md) `71/2026`
+- [Laki työsopimuslain 12 luvun 3 §:n muuttamisesta](72.md) `72/2026`
+- [Laki merityösopimuslain 12 luvun 3 §:n muuttamisesta](73.md) `73/2026`
+- [Laki kunnan ja hyvinvointialueen viranhaltijasta annetun lain 45 §:n muuttamisesta](74.md) `74/2026`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain 2 ja 31 a §:n muuttamisesta](75.md) `75/2026`
+- [Laki tuloverolain 93 §:n muuttamisesta](76.md) `76/2026`
+- [Laki evankelis\-luterilaisen kirkon viranhaltijasta annetun lain 60 §:n muuttamisesta](77.md) `77/2026`
+- [Laki opintotukilain 6 §:n muuttamisesta](78.md) `78/2026`
+- [Laki valtakunnallisista opinto\- ja tutkintorekistereistä annetun lain 20 ja 21 §:n muuttamisesta](79.md) `79/2026`
+- [Laki ulosottokaaren 4 luvun 51 a §:n muuttamisesta](80.md) `80/2026`
+- [Laki oikeudenkäynnistä vakuutusoikeudessa annetun lain 6 §:n muuttamisesta](81.md) `81/2026`
+- [Ulkoministeriön asetus ”Opitaan yhdessä 2” \-ohjelman täytäntöönpanosta Ukrainan kanssa tehdystä sopimuksesta](82.md) `82/2026`
+- [Puolustusministeriön asetus asevelvollisuuslaissa ja terveydenhuollon järjestämisessä puolustusvoimissa annetussa laissa tarkoitetuista etuuksista annetun puolustusministeriön asetuksen 2 §:n muuttamisesta](83.md) `83/2026`
+- [Valtioneuvoston asetus maatalouden rakennetuesta annetun valtioneuvoston asetuksen muuttamisesta](84.md) `84/2026`
+- [Laki Euroopan unionin ja sen jäsenvaltioiden sekä Chilen tasavallan välisestä laajennetusta puitesopimuksesta](85.md) `85/2026`
+- [Valtioneuvoston asetus vuodelta 2026 maksettavista maatalouden tuotannosta irrotetuista suorista tuista](86.md) `86/2026`
+- [Valtioneuvoston asetus luonnonhaittakorvauksesta annetun valtioneuvoston asetuksen 3 ja 4 §:n muuttamisesta](87.md) `87/2026`
+- [Valtioneuvoston asetus ei\-tuotannollisia investointeja koskevasta korvauksesta annetun valtioneuvoston asetuksen muuttamisesta](88.md) `88/2026`
+- [Opetus\- ja kulttuuriministeriön asetus varhaiskasvatuksen yksityisen palveluntuottajan lupa\- ja ilmoitusmenettelyyn kuuluvista liitteistä annetun opetus\- ja kulttuuriministeriön asetuksen muuttamisesta](89.md) `89/2026`
+- [Valtioneuvoston asetus vuodelta 2026 maksettavasta Etelä\-Suomen kansallisesta tuesta](90.md) `90/2026`
+- [Valtioneuvoston asetus vuodelta 2026 maksettavasta pohjoisesta tuesta](91.md) `91/2026`
+- [Maa\- ja metsätalousministeriön asetus kasvihuonetuotannon tuesta vuonna 2026](92.md) `92/2026`
+- [Valtioneuvoston asetus neuvolapalveluista sekä koulu\- ja opiskeluterveydenhuollosta](93.md) `93/2026`
+- [Valtioneuvoston asetus sokerijuurikkaan viljelijöille vuodelta 2026 maksettavasta kansallisesta tuesta](94.md) `94/2026`
+- [Valtioneuvoston asetus toimeentulotuesta annetun lain 2 a §:n 3 momentissa tarkoitetun toiminnan olennaisuuden vaatimuksen täyttymisestä eräillä aloilla](95.md) `95/2026`
+- [Sisäministeriön asetus poliisin suoritteiden ja virka\-avun maksullisuudesta vuonna 2026 annetun sisäministeriön asetuksen liitteen muuttamisesta](96.md) `96/2026`
+- [Valtiovarainministeriön asetus  Valtiokonttorin maksullisista suoritteista vuosina 2025 ja 2026 annetun valtiovarainministeriön asetuksen muuttamisesta](97.md) `97/2026`
+- [Valtioneuvoston asetus virallisten työntekijöiden huollettavien ansiotyöstä Suomen tasavallan hallituksen ja Amerikan yhdysvaltojen hallituksen välillä tehdystä sopimuksesta](98.md) `98/2026`
+- [Puolustusministeriön asetus sotilaallisen kriisinhallintahenkilöstön pätevyysvaatimuksista ja palvelussuhteen ehdoista annetun puolustusministeriön asetuksen 8 §:n muuttamisesta](99.md) `99/2026`
+- [Valtioneuvoston asetus vapaa\-ajankalastuksen saalisilmoituksesta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](100.md) `100/2026`
+- [Valtioneuvoston asetus radiotaajuuksien käytöstä ja taajuussuunnitelmasta annetun valtioneuvoston asetuksen muuttamisesta](101.md) `101/2026`
+- [Valtioneuvoston asetus ympäristökorvauksesta annetun valtioneuvoston asetuksen muuttamisesta](102.md) `102/2026`
+- [Valtioneuvoston asetus luonnonmukaisen tuotannon korvauksesta annetun valtioneuvoston asetuksen muuttamisesta](103.md) `103/2026`
+- [Valtioneuvoston asetus ympäristökorvauksen, luonnonhaittakorvauksen, luonnonmukaisen tuotannon korvauksen ja ei\-tuotannollisia investointeja koskevan korvauksen hakemisesta vuonna 2026](104.md) `104/2026`
+- [Valtioneuvoston asetus vuodelta 2025 maksettavasta tuotantosidonnaisesta tulotuesta annetun valtioneuvoston asetuksen 7 ja 11 §:n muuttamisesta](105.md) `105/2026`
+- [Tasavallan presidentin asetus Suomen ulkomaanedustustojen sijaintipaikoista ja konsulipalveluiden järjestämisestä ulkoasiainhallinnossa annetun tasavallan presidentin asetuksen liitteen muuttamisesta](106.md) `106/2026`
+- [Laki huoltovarmuuden turvaamisesta ja Huoltovarmuuskeskuksesta](107.md) `107/2026`
+- [Laki turvavarastolain muuttamisesta](108.md) `108/2026`
+- [Verohallinnon päätös muistiinpanovelvollisuudesta](109.md) `109/2026`
+- [Ympäristöministeriön asetus Metsähallituksen eräiden julkisten hallintotehtävien suoritteiden maksuista vuosina 2026 ja 2027](110.md) `110/2026`
+- [Valtioneuvoston asetus kansainvälisistä pääliikenneväylistä tehdyn eurooppalaisen sopimuksen \(AGR\) liitteen I muutoksesta](111.md) `111/2026`
+- [Valtioneuvoston asetus vuodelta 2025 maksettavasta sokerijuurikkaan kuljetustuesta](112.md) `112/2026`
+- [Laki edunvalvontavaltuutuksesta annetun lain muuttamisesta](113.md) `113/2026`
+- [Laki holhoustoimesta annetun lain muuttamisesta](114.md) `114/2026`
+- [Laki vankeuslain muuttamisesta](115.md) `115/2026`
+- [Laki tutkintavankeuslain muuttamisesta](116.md) `116/2026`
+- [Laki puolustustilalain 9 §:n muuttamisesta](117.md) `117/2026`
+- [Lupa\- ja valvontaviraston työjärjestys](118.md) `118/2026`
+- [Maa\- ja metsätalousministeriön asetus härkäpavun, puna\-apilan, alsikeapilan ja rypsin siemenen sertifiointia koskevasta väliaikaisesta poikkeuksesta](119.md) `119/2026`
+- [Valtiovarainministeriön asetus Yleisradio 100 vuotta \-juhlarahasta](120.md) `120/2026`
+- [Maanmittauslaitoksen työjärjestys](121.md) `121/2026`
+- [Maa\- ja metsätalousministeriön asetus siemenperunan kaupasta annetun maa\- ja metsätalousministeriön asetuksen väliaikaisesta muuttamisesta](122.md) `122/2026`
+- [Valtioneuvoston asetus maataloustukihakemuksen siirtämisessä vuonna 2026 noudatettavasta menettelystä](123.md) `123/2026`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja puutarhatalouden kansallisten tukien hallinnosta vuonna 2026](124.md) `124/2026`
+- [Valtioneuvoston asetus turvavarastointiohjelmasta vuosina 2023–2028 annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](125.md) `125/2026`
+- [Valtioneuvoston asetus kemiallisista tekijöistä työssä annetun valtioneuvoston asetuksen muuttamisesta](126.md) `126/2026`
+- [Valtioneuvoston asetus ympäristöministeriöstä annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](127.md) `127/2026`
+- [Valtioneuvoston asetus maa\-ainesten ottamisesta annetun valtioneuvoston asetuksen muuttamisesta](128.md) `128/2026`
+- [Valtioneuvoston asetus maastoliikenneasetuksen muuttamisesta](129.md) `129/2026`
+- [Valtioneuvoston asetus koltta\-asetuksen muuttamisesta](130.md) `130/2026`
+- [Valtioneuvoston asetus porotalouden ja luontaiselinkeinojen rakennetuista annetun valtioneuvoston asetuksen muuttamisesta](131.md) `131/2026`
+- [Valtioneuvoston asetus porotaloutta kohdanneiden vahinkojen korvaamisesta annetun valtioneuvoston asetuksen muuttamisesta](132.md) `132/2026`
+- [Valtioneuvoston asetus maatilatalouden kehittämisrahastosta annetun asetuksen 2 §:n muuttamisesta](133.md) `133/2026`
+- [Valtioneuvoston asetus kansallisten kasvintuotannon tukien ja kotieläintukien valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](134.md) `134/2026`
+- [Liikenne\- ja viestintäministeriön asetus vaarallisten tavaroiden kansainvälisistä tiekuljetuksista tehdyn sopimuksen \(ADR\) liitteen A 1\.5\.1 kohdan mukaisesta monenkeskisestä sopimuksesta M366](135.md) `135/2026`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](136.md) `136/2026`
+- [Valtioneuvoston asetus valtioneuvoston ohjesäännön muuttamisesta](137.md) `137/2026`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun valtioneuvoston asetuksen muuttamisesta](138.md) `138/2026`
+- [Valtioneuvoston asetus valtiovarainministeriöstä annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](139.md) `139/2026`
+- [Valtioneuvoston asetus opetus\- ja kulttuuriministeriöstä annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](140.md) `140/2026`
+- [Valtioneuvoston asetus maa\- ja metsätalousministeriöstä annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](141.md) `141/2026`
+- [Valtioneuvoston asetus sosiaali\- ja terveysministeriöstä annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](142.md) `142/2026`
+- [Valtioneuvoston asetus ympäristöministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](143.md) `143/2026`
+- [Valtioneuvoston asetus Aasian kehityspankin perustamissopimuksen muutoksesta](144.md) `144/2026`
+- [Sosiaali\- ja terveysministeriön asetus valtakunnallisen lääketieteellisen tutkimuseettisen toimikunnan lausunnoista perittävistä maksuista](145.md) `145/2026`
+- [Valtioneuvoston asetus valtionavustuksista pelihaittojen ehkäisyyn ja vähentämiseen](146.md) `146/2026`
+- [Valtioneuvoston asetus vuodelta 2025 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 9 §:n muuttamisesta](147.md) `147/2026`
+- [Ympäristöministeriön asetus vaarallisten aineiden käytön rajoituksista sähkö\- ja elektroniikkalaitteissa annetun ympäristöministeriön asetuksen liitteiden I muuttamisesta](148.md) `148/2026`
+- [Valtioneuvoston asetus lentoliikenteestä Ruandan kanssa tehdystä sopimuksesta](149.md) `149/2026`
+- [Laki valtioneuvostosta annetun lain muuttamisesta](150.md) `150/2026`
+- [Maa\- ja metsätalousministeriön asetus b\- ja c\-luokan eläintautien vastustamisesta annetun maa\- ja metsätalousministeriön asetuksen 45 §:n muuttamisesta](151.md) `151/2026`
+- [Maa\- ja metsätalousministeriön asetus rasvattoman homogenoidun maidon D\-vitaminoinnista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](152.md) `152/2026`
+- [Verohallinnon päätös kaivosmineraalien verotusarvoista](153.md) `153/2026`
+- [Vuoden 2026 lisätalousarvio](154.md) `154/2026`
+- [Valtioneuvoston asetus tuotantokaniinien hyvinvoinnista](155.md) `155/2026`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](156.md) `156/2026`
+- [Ympäristöministeriön asetus ympäristöministeriön työjärjestyksestä annetun ympäristöministeriön asetuksen muuttamisesta](157.md) `157/2026`
+- [Työ\- ja elinkeinoministeriön ilmoitus Euroopan unionin työntekijöiden ja heidän perheenjäsentensä yhdenvertaista kohtelua edistävistä ja tukevista elimistä Suomessa](158.md) `158/2026`
+- [Maa\- ja metsätalousministeriön asetus maatalouden investointien hyväksyttävistä yksikkökustannuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](159.md) `159/2026`
+- [Valtioneuvoston asetus vuodelta 2025 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 7 §:n ja liitteen muuttamisesta](160.md) `160/2026`
+- [Valtioneuvoston asetus syöpäsairauden vaaraa aiheuttavista, perimää vaurioittavista ja lisääntymiselle vaarallisista tekijöistä työssä annetun valtioneuvoston asetuksen muuttamisesta](161.md) `161/2026`
+- [Valtioneuvoston asetus eräistä positiiviseen luottotietorekisteriin talletettavista tiedoista annetun valtioneuvoston asetuksen 1 §:n kumoamisesta](162.md) `162/2026`
+- [Valtioneuvoston asetus luottosopimuksesta kuluttajalle annettavista tiedoista annetun valtioneuvoston asetuksen muuttamisesta](163.md) `163/2026`
+- [Valtioneuvoston asetus luotonantajien ja luotonvälittäjien ammatillisista vaatimuksista eräissä kuluttajaluotoissa](164.md) `164/2026`
+- [Oikeusministeriön asetus kuluttajansuojalain 6 luvussa tarkoitetuista peruuttamislomakkeesta ja peruuttamisohjeista annetun oikeusministeriön asetuksen liitteen I muuttamisesta](165.md) `165/2026`
+- [Laki poliisilain 5 a luvun muuttamisesta](166.md) `166/2026`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain 50 ja 51 §:n muuttamisesta](167.md) `167/2026`
+- [Laki tietoliikennetiedustelusta siviilitiedustelussa annetun lain 17 §:n muuttamisesta](168.md) `168/2026`
+- [Laki sotilastiedustelusta annetun lain muuttamisesta](169.md) `169/2026`
+- [Laki kaivoslain 46 ja 99 §:n muuttamisesta](170.md) `170/2026`
+- [Työ\- ja elinkeinoministeriön asetus Patentti\- ja rekisterihallituksen maksullisista suoritteista vuonna 2026 annetun työ\- ja elinkeinoministeriön asetuksen liitteen muuttamisesta](171.md) `171/2026`
+- [Ulkoministeriön asetus eräistä kaksikäyttötuotteiden vientivalvontaan liittyvistä asiakirjoista](172.md) `172/2026`
+- [Valtioneuvoston asetus julkisista työvoimapalveluista annetun valtioneuvoston asetuksen 1 ja 2 §:n muuttamisesta](173.md) `173/2026`
+- [Työ\- ja elinkeinoministeriön asetus työvoimapoliittisen lausunnon antamisesta ja lausuntoon sisällytettävistä tiedoista](175.md) `175/2026`
+- [Valtioneuvoston asetus perusopetuslaissa tarkoitetun opetuksen valtakunnallisista tavoitteista ja perusopetuksen tuntijaosta annetun asetuksen 5 §:n muuttamisesta](176.md) `176/2026`
+- [Laki rikoslain 17 ja 20 luvun muuttamisesta](177.md) `177/2026`
+- [Laki ympäristönsuojelulain 225 §:n muuttamisesta](178.md) `178/2026`
+- [Laki rikoslain 48 luvun 1 §:n muuttamisesta](179.md) `179/2026`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](180.md) `180/2026`
+- [Laki vaihtoehtorahastojen hoitajista annetun lain 21 luvun 12 §:n muuttamisesta](181.md) `181/2026`
+- [Laki arvo\-osuusjärjestelmästä ja selvitystoiminnasta annetun lain 2 luvun 23 §:n muuttamisesta](182.md) `182/2026`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä annetun lain 7 luvun 1 §:n ja 8 luvun muuttamisesta](184.md) `184/2026`
+- [Laki nestemäisten polttoaineiden valmisteverosta annetun lain 1 §:n ja liitteen muuttamisesta](185.md) `185/2026`
+- [Laki sähkön ja eräiden polttoaineiden valmisteverosta annetun lain muuttamisesta](186.md) `186/2026`
+- [Laki suurten konsernien vähimmäisverosta annetun lain muuttamisesta](187.md) `187/2026`
+- [Laki jätelain muuttamisesta](188.md) `188/2026`
+- [Laki ympäristönsuojelulain muuttamisesta](189.md) `189/2026`
+- [Laki sähköturvallisuuslain 5 §:n muuttamisesta](190.md) `190/2026`
+- [Laki verkon välityspalvelujen valvonnasta annetun lain 1 ja 17 §:n muuttamisesta](191.md) `191/2026`
+- [Laki rikoslain 48 luvun 1 §:n muuttamisesta](192.md) `192/2026`
+- [Laki lannoitelain 3 §:n muuttamisesta](193.md) `193/2026`
+- [Ulkoministeriön asetus Etiopian kanssa Digital Ethiopia: Skills and TVET \(DESTA\) \-hankkeesta tehdystä sopimuksesta](194.md) `194/2026`
+- [Valtioneuvoston asetus varustamoiden taloudellisten vahinkojen korvaamisesta](195.md) `195/2026`
+- [Valtioneuvoston asetus ydinvastuulain soveltamisesta tietynlaisiin ydinaineisiin](196.md) `196/2026`
+- [Valtioneuvoston asetus ydinvastuulain soveltamisesta pieniin ydinainemääriin ydinlaitoksen ulkopuolella](197.md) `197/2026`
+- [Valtioneuvoston asetus sähkö\- ja elektroniikkalaiteromusta annetun valtioneuvoston asetuksen muuttamisesta](198.md) `198/2026`
+- [Valtioneuvoston asetus romuajoneuvoista sekä vaarallisten aineiden käytön rajoittamisesta ajoneuvoissa annetun valtioneuvoston asetuksen muuttamisesta](199.md) `199/2026`
+- [Valtioneuvoston asetus paristoista ja akuista annetun valtioneuvoston asetuksen kumoamisesta](200.md) `200/2026`
+- [Valtioneuvoston kanslian asetus valtioneuvoston kanslian työjärjestyksestä annetun valtioneuvoston kanslian asetuksen muuttamisesta](201.md) `201/2026`
+- [Valtioneuvoston asetus julkisen talouden suunnitelmasta](202.md) `202/2026`
+- [Tullin työjärjestys](203.md) `203/2026`
+- [Laki rikoslain 16 luvun muuttamisesta](204.md) `204/2026`
+- [Laki tuontipolttoaineiden velvoitevarastoinnista annetun lain väliaikaisesta muuttamisesta](205.md) `205/2026`
+- [Tasavallan presidentin asetus eräiden Ahvenanmaan maakunnan palveluksessa olevien henkilöiden eläketurvan hoitamisesta](206.md) `206/2026`
+- [Valtiovarainministeriön asetus  Digi\- ja väestötietoviraston suoritteiden maksuista vuonna 2026 annetun valtiovarainministeriön asetuksen muuttamisesta](207.md) `207/2026`
+- [Työ\- ja elinkeinoministeriön asetus atomivastuulain 40 §:n mukaisesta todistuksesta annetun kauppa\- ja teollisuusministeriön päätöksen kumoamisesta](208.md) `208/2026`
+- [Ympäristöministeriön asetus ympäristöministeriön maksullisista suoritteista](209.md) `209/2026`
+- [Laki hallinnon yhteisistä sähköisen asioinnin tukipalveluista annetun lain muuttamisesta](210.md) `210/2026`
+- [Laki sähköisestä asioinnista viranomaistoiminnassa annetun lain muuttamisesta](211.md) `211/2026`
+- [Laki digitaalisten palvelujen tarjoamisesta annetun lain 3 §:n muuttamisesta](212.md) `212/2026`
+- [Laki oikeudenkäynnistä hallintoasioissa annetun lain 15 ja 90 §:n muuttamisesta](213.md) `213/2026`
+- [Laki oikeudenkäymiskaaren muuttamisesta](214.md) `214/2026`
+- [Laki oikeudenkäymiskaaren muuttamisesta annetun lain 25 luvun 16 §:n muuttamisesta](215.md) `215/2026`
+- [Laki oikeudenkäynnistä markkinaoikeudessa annetun lain muuttamisesta](216.md) `216/2026`
+- [Laki oikeudenkäynnistä työtuomioistuimessa annetun lain 15 §:n muuttamisesta](217.md) `217/2026`
+- [Laki eräiden asiakirjain lähettämisestä tuomioistuimille annetun lain 3 ja 5 §:n kumoamisesta](218.md) `218/2026`
+- [Laki kiinteistönmuodostamislain 237 §:n muuttamisesta](219.md) `219/2026`
+- [Laki kieltotoimenpiteitä koskevista edustajakanteista annetun lain 8 §:n muuttamisesta](220.md) `220/2026`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain 5 ja 7 luvun muuttamisesta](221.md) `221/2026`
+- [Laki esitutkintalain 3 luvun 1 §:n muuttamisesta](222.md) `222/2026`
+- [Laki sakon ja rikesakon määräämisestä annetun lain 35 a §:n muuttamisesta](223.md) `223/2026`
+- [Laki sotilaskurinpidosta ja rikostorjunnasta Puolustusvoimissa annetun lain 57 §:n muuttamisesta](224.md) `224/2026`
+- [Laki ulosottokaaren muuttamisesta](225.md) `225/2026`
+- [Laki vaalilain 18 §:n muuttamisesta](226.md) `226/2026`
+- [Laki oikeusapulain 11 §:n muuttamisesta](227.md) `227/2026`
+- [Laki pakkokeinolain 3 luvun 20 §:n muuttamisesta](228.md) `228/2026`
+- [Laki verotusmenettelystä annetun lain 26 c §:n muuttamisesta](229.md) `229/2026`
+- [Laki oma\-aloitteisten verojen verotusmenettelystä annetun lain 56 §:n muuttamisesta](230.md) `230/2026`
+- [Laki veronkantolain 71 §:n muuttamisesta](231.md) `231/2026`
+- [Laki ennakkoperintälain 6 a §:n muuttamisesta](232.md) `232/2026`
+- [Laki varainsiirtoverolain 56 c §:n muuttamisesta](233.md) `233/2026`
+- [Valtioneuvoston asetus  tutkimus\-, kehittämis\- ja innovaatiotoiminnan rahoituksesta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](234.md) `234/2026`
+- [Valtioneuvoston asetus vuodelta 2026 maksettavasta mehiläistalouden kansallisesta pesäkohtaisesta tuesta](235.md) `235/2026`
+- [Työ\- ja elinkeinoministeriön asetus  työ\- ja elinkeinoministeriön maksullisista suoritteista](236.md) `236/2026`
+- [Maa\- ja metsätalousministeriön asetus hedelmä\- ja marjakasvien taimiaineiston tuottamisesta, markkinoinnista ja maahantuonnista annetun asetuksen 5, 8, 9 ja 11 §:n muutos](237.md) `237/2026`
+- [Valtioneuvoston asetus maakaasun lisävarastointivelvoitteeseen liittyvästä varastointi\-ilmoituksesta ja varastojen käyttöilmoituksesta](238.md) `238/2026`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](239.md) `239/2026`
+- [Maa\- ja metsätalousministeriön asetus viljelystarkastuksista ja näytteenotosta siementuotannossa annetun maa\- ja metsätalousministeriön asetuksen 5 §:n muuttamisesta](240.md) `240/2026`
+- [Maa\- ja metsätalousministeriön asetus kasvilajikeluettelosta annetun maa\- ja metsätalousministeriön asetuksen liitteen 2 ja 3 muuttamisesta](241.md) `241/2026`
+- [Valtiovarainministeriön asetus Verohallinnon suoritteiden maksullisuudesta vuosina 2026 ja 2027 annetun valtiovarainministeriön asetuksen liitteen muuttamisesta](242.md) `242/2026`
+- [Valtioneuvoston asetus Ahvenanmaan maakunnan kunnille maatalouden tukien toimeenpanotehtävien hoitamisesta vuodelta 2025 maksettavista korvauksista](243.md) `243/2026`
+- [Maa\- ja metsätalousministeriön asetus kolttalain mukaisista enimmäistulorajoista](244.md) `244/2026`
+- [Valtiovarainministeriön asetus Raili ja Reima Pietilä \-juhlarahasta](245.md) `245/2026`
+- [Työ\- ja elinkeinoministeriön asetus Geologian tutkimuskeskuksen suoritteiden maksullisuudesta](246.md) `246/2026`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta Suomen metsäkeskuksen suorittamasta metsityksen määräaikaisesta tukemisesta annetun lain metsitystuen valvonta\- ja tarkastustoiminnasta sekä tarkastustulosten raportoinnista sekä Ruokaviraston metsitystuen valvonta ja tarkastustoiminnasta sekä tarkastustulosten raportoinnista](247.md) `247/2026`
+- [Valtiovarainministeriön asetus vaihtoehtorahastojen hoitajien toiminnasta annetun valtiovarainministeriön asetuksen muuttamisesta](248.md) `248/2026`
+- [Valtiovarainministeriön asetus vaihtoehtorahastojen hoitajien sekä erityisen säilytysyhteisön toimilupahakemukseen liitettävistä selvityksistä annetun valtiovarainministeriön asetuksen muuttamisesta](249.md) `249/2026`
+- [Valtiovarainministeriön asetus rahastoyhtiön ja säilytysyhteisön lupahakemuksiin liitettävistä selvityksistä, palkitsemisjärjestelmästä, rahastoesitteestä ja sijoitusrahastolain 13 luvussa tarkoitetuista rahoitusvälineistä annetun valtiovarainministeriön asetuksen muuttamisesta](250.md) `250/2026`
+- [Valtiovarainministeriön asetus vaihtoehtorahastojen hoitajista annetun lain 18 a luvun perusteella kiinteistörahastoista annettavien tietojen vähimmäisvaatimuksista](251.md) `251/2026`
+- [Valtiovarainministeriön asetus arvopaperimarkkinalain 3–5 luvussa tarkoitetuista esitteistä annetun valtiovarainministeriön asetuksen kumoamisesta](252.md) `252/2026`
+- [Valtioneuvoston asetus kalastuksesta Tenojoen vesistössä Norjan kanssa tehdyn sopimuksen 6 ja 7 artiklassa tarkoitetusta pöytäkirjasta](253.md) `253/2026`
+- [Valtioneuvoston asetus radiotaajuuksien käytöstä ja taajuussuunnitelmasta Ahvenanmaan maakunnassa annetun valtioneuvoston asetuksen muuttamisesta](254.md) `254/2026`
+- [Laki arvopaperimarkkinalain muuttamisesta](255.md) `255/2026`
+- [Laki sijoituspalvelulain muuttamisesta](256.md) `256/2026`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](257.md) `257/2026`
+- [Laki kaupankäynnistä rahoitusvälineillä annetun lain muuttamisesta](258.md) `258/2026`
+- [Laki rikoslain 51 luvun 7 §:n muuttamisesta](259.md) `259/2026`
+- [Laki sijoitusrahastolain 26 luvun 1 ja 2 §:n muuttamisesta](260.md) `260/2026`
+- [Laki vaihtoehtorahastojen hoitajista annetun lain 7 luvun muuttamisesta](261.md) `261/2026`
+- [Laki joukkorahoituspalvelun tarjoamisesta annetun lain 9 ja 11 §:n muuttamisesta](262.md) `262/2026`
+- [Valtioneuvoston asetus ympäristökorvauksesta annetun valtioneuvoston asetuksen muuttamisesta](263.md) `263/2026`
+- [Laki vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetun lain muuttamisesta](264.md) `264/2026`
+- [Laki rakentamislain muuttamisesta](265.md) `265/2026`
+- [Laki eläintautilain muuttamisesta](266.md) `266/2026`
+- [Laki eläinten sekä eräiden tavaroiden tuontivalvonnasta annetun lain muuttamisesta](267.md) `267/2026`
+- [Maa\- ja metsätalousministeriön asetus eräiden Euroopan unionin ulkopuolelta tuotavien eläinten, niiden sukusolujen ja alkioiden, eläinperäisten tuotteiden sekä eläintautien leviämisen riskiä aiheuttavien tavaroiden eläinterveyttä koskevista vaatimuksista ja poikkeuksista](268.md) `268/2026`
+- [Laki esitutkintalain muuttamisesta](269.md) `269/2026`
+- [Laki oikeudenkäynnistä rikosasioissa annetun lain muuttamisesta](270.md) `270/2026`
+- [Laki oikeudenkäymiskaaren 11 luvun 3 b §:n muuttamisesta](271.md) `271/2026`
+- [Laki oikeudenkäynnin julkisuudesta yleisissä tuomioistuimissa annetun lain 8 §:n muuttamisesta](272.md) `272/2026`
+- [Laki valmisteverotuslain muuttamisesta](273.md) `273/2026`
+- [Laki käsityö\- ja teollisuustuotteiden maantieteellisten merkintöjen suojasta](274.md) `274/2026`
+- [Laki eräiden tuotteiden markkinavalvonnasta annetun lain 1 §:n muuttamisesta](275.md) `275/2026`
+- [Laki sähköisen viestinnän palveluista annetun lain 3 §:n muuttamisesta](276.md) `276/2026`
+- [Laki Patentti\- ja rekisterihallituksesta annetun lain 2 §:n muuttamisesta](277.md) `277/2026`
+- [Laki liikennemerkkejä ja \-opasteita koskevaan yleissopimukseen tehdyistä muutoksista](278.md) `278/2026`
+- [Laki liikennemerkkejä ja \-opasteita koskevaa yleissopimusta täydentävään eurooppalaiseen sopimukseen tehdyistä muutoksista](279.md) `279/2026`
+- [Laki liikennemerkkejä ja \-opasteita koskevaa yleissopimusta täydentävään eurooppalaiseen sopimukseen liitettävään tiemerkintöjä käsittelevään pöytäkirjaan tehdyistä muutoksista](280.md) `280/2026`
+- [Laki tieliikennelain muuttamisesta](281.md) `281/2026`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](282.md) `282/2026`
+- [Laki oma\-aloitteisten verojen verotusmenettelystä annetun lain muuttamisesta](283.md) `283/2026`
+- [Laki veronkantolain muuttamisesta](284.md) `284/2026`
+- [Laki kiinteistöverolain muuttamisesta](285.md) `285/2026`
+- [Laki perintö\- ja lahjaverolain muuttamisesta](286.md) `286/2026`
+- [Laki autoverolain muuttamisesta](287.md) `287/2026`
+- [Laki varainsiirtoverolain muuttamisesta](288.md) `288/2026`
+- [Laki tulotietojärjestelmästä annetun lain muuttamisesta](289.md) `289/2026`
+- [Laki positiivisesta luottotietorekisteristä annetun lain 33 §:n muuttamisesta](290.md) `290/2026`
+- [Laki veronlisäyksestä ja viivekorosta annetun lain muuttamisesta](291.md) `291/2026`
+- [Laki yksityisestä huvialuksesta suoritettavasta polttoainemaksusta annetun lain muuttamisesta](292.md) `292/2026`
+- [Laki maataloudessa käytettyjen eräiden energiatuotteiden valmisteveron palautuksesta annetun lain muuttamisesta](293.md) `293/2026`
+- [Laki ennakkoperintälain 5 §:n muuttamisesta](294.md) `294/2026`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain muuttamisesta](295.md) `295/2026`
+- [Laki verontilityslain muuttamisesta](296.md) `296/2026`
+- [Laki rajoitetusti verovelvollisen tulon verottamisesta annetun lain muuttamisesta](297.md) `297/2026`
+- [Laki ulkomailta tulevan palkansaajan lähdeverosta annetun lain 11 §:n muuttamisesta](298.md) `298/2026`
+- [Laki tonnistoverolain muuttamisesta](299.md) `299/2026`
+- [Laki eräiden yleishyödyllisten yhteisöjen veronhuojennuksista annetun lain 12 §:n muuttamisesta](300.md) `300/2026`
+- [Laki eräiden asuntojen vuokraustoimintaa harjoittavien osakeyhtiöiden veronhuojennuksesta annetun lain muuttamisesta](301.md) `301/2026`
+- [Laki eräiden suurten ilmastoneutraaliin talouteen tähtäävien investointien verohyvityksestä annetun lain muuttamisesta](302.md) `302/2026`
+- [Laki jalometallituotteista annetun lain muuttamisesta](303.md) `303/2026`
+- [Maa\- ja metsätalousministeriön asetus eräisiin Euroopan unionin jäsenvaltioiden välisiin eläinten siirtoihin sovellettavista eläinterveyttä koskevista vaatimuksista ja poikkeuksista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](304.md) `304/2026`
+- [Valtioneuvoston asetus päivittäistavarakauppapalveluiden tukemisesta monipalvelukeskuksina maaseutualueilla annetun valtioneuvoston asetuksen muuttamisesta](305.md) `305/2026`
+- [Valtioneuvoston asetus jalometallituotteista annetun asetuksen muuttamisesta](306.md) `306/2026`
+- [Maa\- ja metsätalousministeriön asetus zoonooseista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](307.md) `307/2026`
+- [Laki tiettyjen Euroopan unionin ja kansallisten maatalouden tukien toimeenpanosta annetun lain 10 ja 11 §:n muuttamisesta](308.md) `308/2026`
+- [Laki Euroopan unionin suorista viljelijätuista annetun lain 6 ja 8 §:n muuttamisesta](309.md) `309/2026`
+- [Laki eräistä maaseudun kehittämisen korvauksista annetun lain 5 §:n muuttamisesta](310.md) `310/2026`
+- [Laki jätelain muuttamisesta](311.md) `311/2026`
+- [Laki ympäristönsuojelulain 42 §:n muuttamisesta](312.md) `312/2026`
+- [Laki hallinto\-oikeuslain 12 §:n muuttamisesta](313.md) `313/2026`
+- [Laki tuomioistuinlain 10 luvun 6 §:n muuttamisesta](314.md) `314/2026`
+- [Laki rikosasioiden ja eräiden riita\-asioiden sovittelusta annetun lain muuttamisesta](315.md) `315/2026`
+- [Laki Oikeuspalveluvirastosta annetun lain muuttamisesta](316.md) `316/2026`
+- [Laki luonnonmukaisesta tuotannosta annetun lain 14 §:n muuttamisesta](317.md) `317/2026`
+- [Ulkoministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoministeriön asetuksen muuttamisesta](318.md) `318/2026`
+- [Laki sähköisen viestinnän palveluista annetun lain muuttamisesta](319.md) `319/2026`
+- [Valtioneuvoston asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteeseen liittyvään nesteytettyjä kaasuja irtolastina kuljettavien alusten rakentamista ja varustamista koskevaan kansainväliseen säännöstöön tehdyistä muutoksista](320.md) `320/2026`
+- [Laki huoltovarmuuden turvaamisesta ja Huoltovarmuuskeskuksesta annetun lain 14 ja 16 §:n muuttamisesta](321.md) `321/2026`
+- [Laki arvonlisäverolain 7 §:n muuttamisesta](322.md) `322/2026`
+- [Laki tuloverolain muuttamisesta](323.md) `323/2026`
+- [Laki elinkeinotulon verottamisesta annetun lain 4 ja 7 §:n muuttamisesta](324.md) `324/2026`
+- [Laki kansainvälisen kaksinkertaisen verotuksen poistamisesta annetun lain 4 ja 6 §:n muuttamisesta](325.md) `325/2026`
+- [Laki yleistukilain 13 ja 19 §:n muuttamisesta](326.md) `326/2026`
+- [Laki työttömyysturvalain 10 luvun 4 §:n muuttamisesta](327.md) `327/2026`
+- [Sosiaali\- ja terveysministeriön asetus Lääkealan turvallisuus\- ja kehittämiskeskuksen maksullisista suoritteista vuonna 2026 annetun sosiaali\- ja terveysministeriön asetuksen liitteen muuttamisesta](328.md) `328/2026`
+- [Sosiaali\- ja terveysministeriön asetus Sosiaali\- ja terveysalan tietolupaviranomaisen suoritteiden maksullisuudesta annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](329.md) `329/2026`
+- [Valtioneuvoston asetus yleistuesta](330.md) `330/2026`
+- [Valtioneuvoston asetus työttömyysturvalain täytäntöönpanosta annetun valtioneuvoston asetuksen muuttamisesta](331.md) `331/2026`
+- [Valtioneuvoston asetus työttömyysetuutta määrättäessä huomioon otettavasta tulosta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](332.md) `332/2026`
+- [Valtioneuvoston asetus hevosten hyvinvoinnista annetun valtioneuvoston asetuksen muuttamisesta](333.md) `333/2026`
+- [Laki julkiseen keskusteluun osallistuvien henkilöiden suojelemisesta rajat ylittäviltä häirintäkanteilta](334.md) `334/2026`
+- [Laki sakon täytäntöönpanosta annetun lain 1 ja 4 b §:n muuttamisesta](335.md) `335/2026`
+- [Maa\- ja metsätalousministeriön asetus kalastuksesta Tenojoen vesistössä Norjan kanssa tehtyyn sopimukseen perustuvista kalastusluvista ja Tenojoen vesistön kalastussäännön 40 §:n 2 momentin mukaisen poikkeusluvan hakemisen määräajasta vuonna 2026](336.md) `336/2026`
+- [Sosiaali\- ja terveysministeriön asetus lääkäri\- ja hammaslääkärikoulutuksen korvauksen perusteista vuonna 2026](337.md) `337/2026`
+- [Sosiaali\- ja terveysministeriön asetus sosiaalihuollon ammattihenkilöiden yliopistollisen erikoistumiskoulutuksen korvauksen perusteista vuonna 2026](338.md) `338/2026`
+- [Sosiaali\- ja terveysministeriön asetus sairaanhoitajan rajatun lääkkeenmääräämisoikeuden edellytyksenä olevan koulutuksen korvauksen suuruudesta vuonna 2026](339.md) `339/2026`
+- [Valtioneuvoston asetus työvälineiden turvallisesta käytöstä ja tarkastamisesta annetun valtioneuvoston asetuksen muuttamisesta](340.md) `340/2026`
+- [Valtioneuvoston asetus alusten lastauksen ja purkamisen työturvallisuudesta annetun valtioneuvoston asetuksen muuttamisesta](341.md) `341/2026`
+- [Valtioneuvoston asetus rakennustyötä tekevän sukeltajan pätevyydestä ja turvallisuussuunnitelmasta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](342.md) `342/2026`
+- [Valtioneuvoston asetus tartuntataudeista annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](343.md) `343/2026`
+- [Laki yliopistolain muuttamisesta](344.md) `344/2026`
+- [Laki ammattikorkeakoululain muuttamisesta](345.md) `345/2026`
+- [Laki poliisilain 5 luvun 34 §:n muuttamisesta](346.md) `346/2026`
+- [Laki pakkokeinolain 10 luvun 33 §:n muuttamisesta](347.md) `347/2026`
+- [Laki liikenteen palveluista annetun lain muuttamisesta](348.md) `348/2026`
+- [Laki ajokorttilain muuttamisesta ja väliaikaisesta muuttamisesta](349.md) `349/2026`
+- [Laki kuljettajantutkintotoiminnan järjestämisestä annetun lain muuttamisesta](350.md) `350/2026`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](351.md) `351/2026`
+- [Laki luottolaitostoiminnasta annetun lain 15 luvun 11 ja 11 a §:n muuttamisesta](352.md) `352/2026`
+- [Laki eräiden luotonantajien ja luotonvälittäjien rekisteröinnistä annetun lain 14 ja 15 §:n muuttamisesta](353.md) `353/2026`
+- [Laki kuluttajansuojalain 7 a luvun 14 a §:n muuttamisesta](354.md) `354/2026`
+- [Laki Finanssivalvonnasta annetun lain 40 §:n muuttamisesta](355.md) `355/2026`
+- [Laki diplomaattisten edustustojen, konsuliedustustojen tai kansainvälisissä hallitustenvälisissä järjestöissä toimivien edustustojen työntekijöiden perheenjäsenten ansiotyöstä Uruguayn itäisen tasavallan kanssa tehdystä sopimuksesta](356.md) `356/2026`
+- [Valtioneuvoston asetus eräistä kalastusrajoituksista Saimaalla vuosina 2026–2031](357.md) `357/2026`
+- [Valtioneuvoston asetus ajopiirturikorttien myöntämisestä ja poikkeuksista ajopiirturin käytössä annetun valtioneuvoston asetuksen 7 §:n muuttamisesta](358.md) `358/2026`
+- [Sisäministeriön asetus kriisinhallintaan osallistuvan siviilihenkilön nimittämismenettelystä ja palvelussuhteen ehdoista annetun sisäministeriön asetuksen muuttamisesta](359.md) `359/2026`
+- [Valtioneuvoston asetus Euroopan unionin rahoittamien pinta\-alaperusteisten sekä eräiden muiden tukien toimeenpanosta annetun valtioneuvoston asetuksen muuttamisesta](360.md) `360/2026`
+- [Valtioneuvoston asetus eräiden maatalouden pinta\-alaperusteisten tukien myöntämisen yleisistä edellytyksistä annetun valtioneuvoston asetuksen 10 §:n muuttamisesta](361.md) `361/2026`
+- [Valtioneuvoston asetus Terveyden ja hyvinvoinnin laitoksesta annetun asetuksen muuttamisesta](362.md) `362/2026`
+- [Valtioneuvoston asetus asuntosäästöjärjestelmästä](363.md) `363/2026`
+- [Valtioneuvoston asetus asuntolainan takausmaksusta](364.md) `364/2026`
+- [Ympäristöministeriön asetus päästöttömän rakennuksen tunnuksesta energiatodistuksessa](365.md) `365/2026`
+- [Valtioneuvoston asetus Tornionjoen kalastusalueen kalastussäännön 16 §:n mukaisesta pöytäkirjasta](366.md) `366/2026`
+- [Valtioneuvoston asetus kalastuksesta Tenojoen vesistön sivuvesistöissä vuonna 2026](367.md) `367/2026`
+- [Valtioneuvoston asetus tutkintojen ja muiden osaamiskokonaisuuksien viitekehyksestä annetun valtioneuvoston asetuksen liitteen muuttamisesta](368.md) `368/2026`
+- [Valtioneuvoston asetus Kilpailu\- ja kuluttajavirastosta annetun valtioneuvoston asetuksen muuttamisesta](369.md) `369/2026`
+- [Valtioneuvoston asetus Liikenne\- ja viestintävirastosta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](370.md) `370/2026`
+- [Valtiovarainministeriön asetus Naisten oikeudet \-juhlarahasta](371.md) `371/2026`
+- [Laki Euroopan unionin yhteisen kalastuspolitiikan kansallisesta täytäntöönpanosta annetun lain muuttamisesta](372.md) `372/2026`
+- [Laki terveydenhuollon ammattihenkilöistä annetun lain muuttamisesta](373.md) `373/2026`
+- [Laki sosiaalihuollon ammattihenkilöistä annetun lain muuttamisesta](374.md) `374/2026`
+- [Laki terveydenhuoltolain muuttamisesta](375.md) `375/2026`
+- [Laki sosiaali\- ja terveydenhuollon asiakastietojen käsittelystä annetun lain 9 §:n muuttamisesta](376.md) `376/2026`
+- [Laki poliisin hallinnosta annetun lain muuttamisesta](377.md) `377/2026`
+- [Laki Poliisiammattikorkeakoulusta annetun lain muuttamisesta](378.md) `378/2026`
+- [Laki poliisilain 1 luvun 10 §:n muuttamisesta](379.md) `379/2026`
+- [Laki tietosuojalain muuttamisesta](380.md) `380/2026`
+- [Laki asunto\-osakeyhtiölain 2 luvun 15 §:n muuttamisesta](381.md) `381/2026`
+- [Laki haastemieslain 4 a §:n muuttamisesta](382.md) `382/2026`
+- [Laki eläintenpitokieltorekisteristä annetun lain 4 §:n muuttamisesta](383.md) `383/2026`
+- [Laki konkurssi\- ja yrityssaneerausrekisteristä annetun lain 9 ja 10 §:n muuttamisesta](384.md) `384/2026`
+- [Laki liiketoimintakiellosta annetun lain 21 §:n muuttamisesta](385.md) `385/2026`
+- [Laki velkajärjestelyrekisteristä annetun lain 8 ja 9 §:n muuttamisesta](386.md) `386/2026`
+- [Laki rikosrekisterilain 4 a ja 5 §:n muuttamisesta](387.md) `387/2026`
+- [Laki säätiölain 14 luvun 8 §:n muuttamisesta](388.md) `388/2026`
+- [Laki yhdistyslain 47 §:n muuttamisesta](389.md) `389/2026`
+- [Laki yrityskiinnityslain muuttamisesta](390.md) `390/2026`
+- [Laki Luonnonvarakeskuksesta annetun lain muuttamisesta](391.md) `391/2026`
+- [Laki ruoka\- ja luonnonvaratilastoista annetun lain 2 §:n muuttamisesta](392.md) `392/2026`
+- [Laki tuloverolain 124 ja 124 b §:n muuttamisesta](393.md) `393/2026`
+- [Laki verontilityslain 12 ja 12 f §:n muuttamisesta](394.md) `394/2026`
+- [Laki rikoslain 6 luvun muuttamisesta](395.md) `395/2026`
+- [Laki nuoren rikoksesta epäillyn tilanteen selvittämisestä annetun lain muuttamisesta](396.md) `396/2026`
+- [Laki yhdyskuntaseuraamusten täytäntöönpanosta annetun lain muuttamisesta](397.md) `397/2026`
+- [Laki oikeudenkäymiskaaren muuttamisesta](398.md) `398/2026`
+- [Laki oikeusapulain 5 ja 6 §:n muuttamisesta](399.md) `399/2026`
+- [Laki tuomioistuinmaksulain 2 §:n muuttamisesta](400.md) `400/2026`
+- [Laki tuomioistuinharjoittelusta annetun lain 16 §:n muuttamisesta](401.md) `401/2026`
+- [Laki eräiden asiakirjain lähettämisestä tuomioistuimille annetun lain 1 §:n muuttamisesta](402.md) `402/2026`
+- [Laki ryhmäkannelain 1 §:n muuttamisesta](403.md) `403/2026`
+- [Laki riita\-asioiden sovittelusta ja sovinnon vahvistamisesta yleisissä tuomioistuimissa annetun lain 4 §:n muuttamisesta](404.md) `404/2026`
+- [Laki ajokorttilain muuttamisesta](405.md) `405/2026`
+- [Laki Euroopan unionin hiilirajamekanismia koskevan asetuksen toimeenpanosta annetun lain 1 a ja 4 a §:n muuttamisesta](406.md) `406/2026`
+- [Kirkolliskokouksen päätös kirkkojärjestyksen muuttamisesta](407.md) `407/2026`
+- [Valtioneuvoston asetus eräiden pakotteisiin liittyvien poikkeuslupien myöntämisen keskeyttämisestä](408.md) `408/2026`
+- [Valtioneuvoston asetus vuodelta 2025 maksettavasta tuotantosidonnaisesta tulotuesta annetun valtioneuvoston asetuksen muuttamisesta](409.md) `409/2026`
+- [Valtioneuvoston asetus ajokorteista annetun valtioneuvoston asetuksen muuttamisesta](410.md) `410/2026`
+- [Laki hyvinvointialueesta annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](411.md) `411/2026`
+- [Laki työsopimuslain muuttamisesta](412.md) `412/2026`
+- [Laki merityösopimuslain muuttamisesta](413.md) `413/2026`
+- [Laki työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetun lain 13 §:n muuttamisesta](414.md) `414/2026`
+- [Laki rikoslain muuttamisesta](415.md) `415/2026`
+- [Laki pakkokeinolain 10 luvun muuttamisesta](416.md) `416/2026`
+- [Laki poliisilain 5 ja 9 luvun muuttamisesta](417.md) `417/2026`
+- [Laki rikosrekisterilain 6 ja 6 b §:n muuttamisesta](418.md) `418/2026`
+- [Laki tuomioistuimen velvollisuudesta ilmoittaa eräistä ratkaisuistaan annetun lain 2 a §:n muuttamisesta](419.md) `419/2026`
+- [Laki kansalaisuuslain 33 a §:n muuttamisesta](420.md) `420/2026`
+- [Laki rajavartiolain 77 a §:n muuttamisesta](421.md) `421/2026`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain 18 ja 18 a §:n muuttamisesta](422.md) `422/2026`
+- [Laki Puolustusvoimien virka\-avusta poliisille annetun lain 8 §:n muuttamisesta](423.md) `423/2026`
+- [Laki lentoliikenteen matkustajarekisteritietojen käytöstä terrorismirikosten ja vakavan rikollisuuden torjunnassa annetun lain 3 §:n muuttamisesta](424.md) `424/2026`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 18 §:n muuttamisesta](425.md) `425/2026`
+- [Laki tullilain 30 §:n muuttamisesta](426.md) `426/2026`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä annetun lain 1 luvun 4 §:n muuttamisesta](427.md) `427/2026`
+- [Laki Euroopan unioniin saapuvien tai sieltä poistuvien käteisvarojen valvonnasta annetun lain 11 §:n muuttamisesta](428.md) `428/2026`
+- [Laki puolustusvoimista annetun lain 2 §:n muuttamisesta](429.md) `429/2026`
+- [Laki julkisista puolustus\- ja turvallisuushankinnoista annetun lain 47 §:n muuttamisesta](430.md) `430/2026`
+- [Laki sähköisen viestinnän palveluista annetun lain muuttamisesta](431.md) `431/2026`
+- [Laki julkisista hankinnoista ja käyttöoikeussopimuksista annetun lain 80 §:n muuttamisesta](432.md) `432/2026`
+- [Laki vesi\- ja energiahuollon, liikenteen ja postipalvelujen alalla toimivien yksiköiden hankinnoista ja käyttöoikeussopimuksista annetun lain 84 §:n muuttamisesta](433.md) `433/2026`
+- [Laki panostajalain 7 §:n muuttamisesta](434.md) `434/2026`
+- [Laki sähköisen viestinnän palveluista annetun lain 32 ja 173 §:n muuttamisesta annetun lain 32 §:n muuttamisesta](435.md) `435/2026`
+- [Laki eurooppalaisista esittämismääräyksistä ja eurooppalaisista säilyttämismääräyksistä sähköisten todisteiden hankkimiseksi rikosoikeudellisissa menettelyissä](436.md) `436/2026`
+- [Laki nimettyjen toimipaikkojen nimeämistä ja laillisten edustajien nimittämistä koskevista yhdenmukaistetuista säännöistä sähköisten todisteiden keräämiseksi rikosoikeudellisissa menettelyissä](437.md) `437/2026`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](438.md) `438/2026`
+- [Laki eräiden tuotteiden kyberkestävyydestä sekä kyberturvallisuussertifioinnista](439.md) `439/2026`
+- [Laki eräiden tuotteiden markkinavalvonnasta annetun lain 1 ja 4 §:n muuttamisesta](440.md) `440/2026`
+- [Laki kyberturvallisuuslain 20 ja 28 §:n muuttamisesta](441.md) `441/2026`
+- [Laki sähköisen viestinnän palveluista annetun lain muuttamisesta](442.md) `442/2026`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](443.md) `443/2026`
+- [Laki poronhoitolain muuttamisesta](444.md) `444/2026`
+- [Laki maa\- ja puutarhatalouden kansallisista tuista annetun lain 14 §:n muuttamisesta](445.md) `445/2026`
+- [Laki porotalouden ja luontaiselinkeinojen rakennetuista annetun lain muuttamisesta](446.md) `446/2026`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](447.md) `447/2026`
+- [Laki metsälain muuttamisesta](448.md) `448/2026`
+- [Laki luonnonsuojelulain muuttamisesta](449.md) `449/2026`
+- [Laki Suomen metsäkeskuksen metsätietojärjestelmästä annetun lain muuttamisesta](450.md) `450/2026`
+- [Laki avioliittolain 86 §:n muuttamisesta](451.md) `451/2026`
+- [Laki liikuntalain 7 §:n kumoamisesta](452.md) `452/2026`
+- [Valtioneuvoston asetus vuodelta 2025 maksettavista maatalouden tuotannosta irrotetuista suorista tuista annetun valtioneuvoston asetuksen muuttamisesta](453.md) `453/2026`
+- [Valtioneuvoston asetus poliisin hallinnosta annetun asetuksen 16 §:n muuttamisesta](454.md) `454/2026`
+- [Valtioneuvoston asetus Poliisiammattikorkeakoulusta annetun valtioneuvoston asetuksen muuttamisesta](455.md) `455/2026`
+- [Valtioneuvoston asetus puolustusministeriöstä annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](456.md) `456/2026`
+- [Valtioneuvoston asetus vuodelta 2025 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](457.md) `457/2026`
+- [Laki Venäjän kanssa tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen ja sopimuksen muuttamisesta tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain soveltamisen keskeyttämisestä](458.md) `458/2026`
+- [Laki Harmaan talouden selvitysyksiköstä annetun lain muuttamisesta](459.md) `459/2026`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 19 §:n muuttamisesta](460.md) `460/2026`
+- [Laki työtapaturma\- ja ammattitautilain 255 §:n muuttamisesta](461.md) `461/2026`
+- [Laki työntekijän eläkelain 205 §:n muuttamisesta](462.md) `462/2026`
+- [Laki liikenteen palveluista annetun lain 6 ja 197 §:n muuttamisesta](463.md) `463/2026`
+- [Laki asevelvollisuuslain muuttamisesta](464.md) `464/2026`
+- [Laki naisten vapaaehtoisesta asepalveluksesta annetun lain muuttamisesta](465.md) `465/2026`
+- [Laki yhteisaluelain muuttamisesta](466.md) `466/2026`
+- [Laki ammattikorkeakoululain muuttamisesta](467.md) `467/2026`
+- [Laki opintotukilain muuttamisesta](468.md) `468/2026`
+- [Valtiovarainministeriön asetus arvopaperimarkkinalain 3 luvun 2 §:ssä tarkoitetusta perustietoasiakirjasta annetun valtiovarainministeriön asetuksen 1 §:n muuttamisesta](469.md) `469/2026`
+- [Liikenne\- ja viestintäministeriön asetus liikenne\- ja viestintäministeriön työjärjestyksestä annetun liikenne\- ja viestintäministeriön asetuksen muuttamisesta](470.md) `470/2026`
+- [Valtioneuvoston asetus Suomen ja Norjan välisen valtakunnanrajan vuonna 2025 suoritetussa rajankäynnissä todetuista rajalinjan muutoksista](471.md) `471/2026`
+- [Valtioneuvoston asetus kalastuksesta annetun valtioneuvoston asetuksen 12 §:n muuttamisesta](472.md) `472/2026`

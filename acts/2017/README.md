@@ -1,0 +1,1165 @@
+# 2017 Statutes
+
+## Statutes
+
+- [Valtioneuvoston asetus verontilitysasetuksen 2 §:n muuttamisesta](1.md) `1/2017`
+- [Valtioneuvoston asetus televisio\- ja radiotoiminnasta annetun valtioneuvoston asetuksen muuttamisesta](2.md) `2/2017`
+- [Valtiovarainministeriön asetus yksittäisten kuntien verovuoden 2017 yhteisöveron jako\-osuuksien laskentaperusteista](3.md) `3/2017`
+- [Laki opintotukilain muuttamisesta](4.md) `4/2017`
+- [Laki tuloverolain 127 d §:n muuttamisesta](5.md) `5/2017`
+- [Laki sairausvakuutuslain 1 ja 9 luvun muuttamisesta](6.md) `6/2017`
+- [Laki elatustukilain 6 ja 8 §:n muuttamisesta](7.md) `7/2017`
+- [Laki asumiseen perustuvan sosiaaliturvalainsäädännön soveltamisesta annetun lain 2 a §:n muuttamisesta](8.md) `8/2017`
+- [Laki työttömyysturvalain 1 luvun 7 §:n muuttamisesta](9.md) `9/2017`
+- [Laki kansaneläkelain 5 §:n muuttamisesta](10.md) `10/2017`
+- [Laki eläkkeensaajan asumistuesta annetun lain 4 §:n muuttamisesta](11.md) `11/2017`
+- [Laki yleisestä asumistuesta annetun lain 5 §:n muuttamisesta](12.md) `12/2017`
+- [Laki toimeentulotuesta annetun lain 3 §:n muuttamisesta](13.md) `13/2017`
+- [Valtioneuvoston asetus hevoskasvatuksen ja hevosurheilun edistämiseen käytettävästä osuudesta Veikkaus Oy:n tuotosta](14.md) `14/2017`
+- [Valtioneuvoston asetus Liikenneturvasta annetun valtioneuvoston asetuksen eräiden säännösten kumoamisesta](15.md) `15/2017`
+- [Laki ulkomaalaislain 193 ja 197 §:n muuttamisesta](16.md) `16/2017`
+- [Laki eurooppalaisesta tilivarojen turvaamismääräysmenettelystä](17.md) `17/2017`
+- [Laki talous\- ja rahaliiton vakaudesta, yhteensovittamisesta sekä ohjauksesta ja hallinnasta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta sekä julkisen talouden monivuotisia kehyksiä koskevista vaatimuksista annetun lain 3 ja 7 §:n muuttamisesta](18.md) `18/2017`
+- [Laki ympäristönsuojelulain muuttamisesta](19.md) `19/2017`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta annetun valtioneuvoston asetuksen kumoamisesta](20.md) `20/2017`
+- [Valtioneuvoston asetus valtioneuvoston kansliasta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](21.md) `21/2017`
+- [Valtioneuvoston asetus liikenne\- ja viestintäministeriöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](22.md) `22/2017`
+- [Valtioneuvoston asetus eräistä elintarviketurvallisuusriskeiltään vähäisistä toiminnoista annetun valtioneuvoston asetuksen muuttamisesta](23.md) `23/2017`
+- [Valtioneuvoston asetus hylkyjen poistamista koskevan kansainvälisen yleissopimuksen voimaansaattamisesta sekä yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](24.md) `24/2017`
+- [Valtioneuvoston asetus merilain muuttamisesta annetun lain ja alusturvallisuuden valvonnasta annetun lain 2 §:n muuttamisesta annetun lain voimaantulosta](25.md) `25/2017`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](26.md) `26/2017`
+- [Verohallinnon päätös verotuksen maakohtaista raportointia koskevasta tiedonantovelvollisuudesta](27.md) `27/2017`
+- [Valtiovarainministeriön asetus Kultakausi\-juhlarahasta](28.md) `28/2017`
+- [Opetus\- ja kulttuuriministeriön asetus yliopistojen koulutusvastuun täsmentämisestä annetun opetus\- ja kulttuuriministeriön asetuksen liitteen muuttamisesta](29.md) `29/2017`
+- [Valtioneuvoston asetus  sokerijuurikkaan viljelijöille vuodelta 2017 maksettavasta kansallisesta tuesta](30.md) `30/2017`
+- [Valtioneuvoston asetus perustukijärjestelmän kansallisen varannon käytöstä annetun valtioneuvoston asetuksen muuttamisesta](31.md) `31/2017`
+- [Valtioneuvoston asetus eläinten hyvinvointikorvauksesta annetun valtioneuvoston asetuksen muuttamisesta](32.md) `32/2017`
+- [Valtioneuvoston asetus maatilojen neuvontajärjestelmästä annetun valtioneuvoston asetuksen muuttamisesta](33.md) `33/2017`
+- [Valtioneuvoston asetus energiatuen myöntämisen yleisistä ehdoista annetun asetuksen muuttamisesta](34.md) `34/2017`
+- [Valtioneuvoston asetus vuodelta 2017 maksettavasta Etelä\-Suomen kansallisesta tuesta](35.md) `35/2017`
+- [Valtioneuvoston asetus vuodelta 2017 maksettavasta pohjoisesta tuesta](36.md) `36/2017`
+- [Maa\- ja metsätalousministeriön asetus kasvihuonetuotannon tuesta vuonna 2017](37.md) `37/2017`
+- [Maa\- ja metsätalousministeriön asetus eläinten hyvinvointikorvauksesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](38.md) `38/2017`
+- [Valtioneuvoston asetus Kansallisarkistosta](39.md) `39/2017`
+- [Valtiovarainministeriön asetus Suomen presidentit vuoden 2017 juhlarahoista](40.md) `40/2017`
+- [Valtioneuvoston asetus sosiaaliturvasta Kiinan kansantasavallan kanssa tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](41.md) `41/2017`
+- [Valtioneuvoston asetus sosiaaliturvasta Korean tasavallan kanssa tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](42.md) `42/2017`
+- [Elintarviketurvallisuusviraston päätös rajoitusvyöhykkeen perustamisesta korkeapatogeenisen lintuinfluenssan vuoksi](43.md) `43/2017`
+- [Elintarviketurvallisuusviraston päätös rajoitusvyöhykkeen perustamisesta korkeapatogeenisen lintuinfluenssan vuoksi](44.md) `44/2017`
+- [Valtioneuvoston asetus lukioasetuksen 1 ja 15 §:n muuttamisesta](45.md) `45/2017`
+- [Valtioneuvoston asetus lukiolaissa tarkoitetun koulutuksen yleisistä valtakunnallisista tavoitteista ja tuntijaosta annetun valtioneuvoston asetuksen 10 §:n 8 momentin kumoamisesta](46.md) `46/2017`
+- [Valtioneuvoston asetus ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta](47.md) `47/2017`
+- [Laki poliisin hallinnosta annetun lain muuttamisesta](48.md) `48/2017`
+- [Laki ulkomaalaislain muuttamisesta](49.md) `49/2017`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](50.md) `50/2017`
+- [Laki veronlisäyksestä ja viivekorosta annetun lain muuttamisesta](51.md) `51/2017`
+- [Laki veronkantolain muuttamisesta](52.md) `52/2017`
+- [Laki ennakkoperintälain muuttamisesta](53.md) `53/2017`
+- [Laki rajoitetusti verovelvollisen tulon verottamisesta annetun lain muuttamisesta](54.md) `54/2017`
+- [Laki korkotulon lähdeverosta annetun lain 12 ja 13 §:n muuttamisesta](55.md) `55/2017`
+- [Laki eräiden asuntojen vuokraustoimintaa harjoittavien osakeyhtiöiden veronhuojennuksesta annetun lain 17 §:n muuttamisesta](56.md) `56/2017`
+- [Laki tonnistoverolain muuttamisesta](57.md) `57/2017`
+- [Laki verontilityslain 3 §:n muuttamisesta](58.md) `58/2017`
+- [Laki rakennusverolain 14 ja 18 §:n muuttamisesta](59.md) `59/2017`
+- [Laki Verohallinnosta annetun lain muuttamisesta](60.md) `60/2017`
+- [Laki tuulivoiman kompensaatioalueista annetun lain 7 §:n muuttamisesta](61.md) `61/2017`
+- [Laki katsastustoiminnan valvontamaksusta annetun lain 9 §:n muuttamisesta](62.md) `62/2017`
+- [Laki lentoliikenteen valvontamaksusta annetun lain 11 ja 18 §:n muuttamisesta](63.md) `63/2017`
+- [Laki perintö\- ja lahjaverolain 52 a §:n kumoamisesta](64.md) `64/2017`
+- [Laki jalometallituotteista annetun lain muuttamisesta](65.md) `65/2017`
+- [Laki kauppakamarilain 3 ja 10 §:n muuttamisesta](66.md) `66/2017`
+- [Laki kiinteistönvälitysliikkeistä ja vuokrahuoneiston välitysliikkeistä annetun lain 21 §:n muuttamisesta](67.md) `67/2017`
+- [Laki perintätoiminnan luvanvaraisuudesta annetun lain 14 §:n muuttamisesta](68.md) `68/2017`
+- [Laki majoitus\- ja ravitsemistoiminnasta annetun lain 14 §:n muuttamisesta](69.md) `69/2017`
+- [Laki tilaajan selvitysvelvollisuudesta ja vastuusta ulkopuolista työvoimaa käytettäessä annetun lain 10 §:n muuttamisesta](70.md) `70/2017`
+- [Laki merimiesten vuosilomalain muuttamisesta](71.md) `71/2017`
+- [Laki Patentti\- ja rekisterihallituksesta annetun lain 7 §:n muuttamisesta](72.md) `72/2017`
+- [Laki työsopimuslain 11 a luvun 7 §:n muuttamisesta](73.md) `73/2017`
+- [Laki työntekijöiden lähettämisestä annetun lain 38 §:n muuttamisesta](74.md) `74/2017`
+- [Laki vaatimustenmukaisuuden arviointipalvelujen pätevyyden toteamisesta annetun lain 10 §:n muuttamisesta](75.md) `75/2017`
+- [Laki haja\-asutusalueiden vähittäiskaupan rahoitustuesta annetun lain kumoamisesta](76.md) `76/2017`
+- [Laki keskinäisestä avunannosta ja yhteistyöstä tulliasioissa Argentiinan kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta](77.md) `77/2017`
+- [Valtioneuvoston asetus tartuntatautien neuvottelukunnasta](78.md) `78/2017`
+- [Valtioneuvoston asetus ilmanlaadusta](79.md) `79/2017`
+- [Oikeusministeriön asetus vangitsemisasioiden ja muiden kiireellisten asioiden käsittelystä käräjäoikeuksissa eräissä tapauksissa annetun oikeusministeriön asetuksen 2 §:n muuttamisesta](80.md) `80/2017`
+- [Oikeusministeriön asetus käräjäoikeuksien kanslioiden ja istuntopaikkojen sijainnista](81.md) `81/2017`
+- [Valtioneuvoston asetus valtiontakauksesta perittävistä maksuista annetun asetuksen 3 §:n muuttamisesta](82.md) `82/2017`
+- [Maa ja metsätalousministeriön asetus  raakamaidon tuotannon ja luovutuksen elintarvikehygieniasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](83.md) `83/2017`
+- [Maa ja metsätalousministeriön asetus  elintarvikkeiden alkutuotannon elintarvikehygieniasta annetun maa\- ja metsä\- talousministeriön asetuksen muuttamisesta](84.md) `84/2017`
+- [Valtioneuvoston asetus Yhdistyneiden Kansakuntien ja sen yhteydessä toimivan henkilöstön turvallisuutta koskevan yleissopimuksen valinnaisen pöytäkirjan voimaansaattamisesta sekä pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](85.md) `85/2017`
+- [Valtioneuvoston asetus tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi Turkmenistanin kanssa tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](86.md) `86/2017`
+- [Oikeusministeriön asetus oikeusministeriön ja eräiden hallinnonalalla toimivien viranomaisten maksullisista suoritteista vuosina 2016—2017 annetun oikeusministeriön asetuksen liitteen muuttamisesta](87.md) `87/2017`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvalla sallittavasta ahman metsästyksestä metsästysvuonna 2016–2017](88.md) `88/2017`
+- [Valtioneuvoston asetus kansainvälistä hydrografista järjestöä koskevan yleissopimuksen muuttamisesta tehdyn pöytäkirjan mukaan lukien siihen sisältyvän kansainvälistä merikartoitusjärjestöä koskevan yleissopimuksen konsolidoidun toisinnon voimaansaattamisesta ja niiden lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](89.md) `89/2017`
+- [Valtiovarainministeriön asetus Äidit\-juhlarahasta](90.md) `90/2017`
+- [Valtiovarainministeriön asetus Suomalainen tango \-juhlarahasta](91.md) `91/2017`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2017 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista ja työnantajasuoritusten vähimmäismäärästä](92.md) `92/2017`
+- [Laki tutkintojen ja muiden osaamiskokonaisuuksien viitekehyksestä](93.md) `93/2017`
+- [Laki vesienhoidon ja merenhoidon järjestämisestä annetun lain muuttamisesta](94.md) `94/2017`
+- [Valtioneuvoston asetus merenhoidon järjestämisestä annetun valtioneuvoston asetuksen muuttamisesta](95.md) `95/2017`
+- [Valtioneuvoston asetus puoluelain 9 a §:ssä tarkoitetussa tilityksessä annettavista tiedoista](96.md) `96/2017`
+- [Valtioneuvoston asetus hylkyjen poistamista koskevan kansainvälisen yleissopimuksen voimaansaattamisesta sekä yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta annetun asetuksen muuttamisesta](97.md) `97/2017`
+- [Valtioneuvoston asetus avioliittoasetuksen 9 §:n muuttamisesta](98.md) `98/2017`
+- [Valtioneuvoston asetus jätteistä annetun valtioneuvoston asetuksen muuttamisesta](99.md) `99/2017`
+- [Valtioneuvoston asetus Valtion ydinjätehuoltorahaston varoista annettavien lainojen yleisistä ehdoista annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](100.md) `100/2017`
+- [Valtioneuvoston asetus sairausvakuutuslain täytäntöönpanosta annetun valtioneuvoston asetuksen 2 luvun 1 ja 3 §:n muuttamisesta](101.md) `101/2017`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvilajikkeiden lajikeluettelosta annetun maa\- ja metsätalousministeriön asetuksen liitteen 2 ja 3 muuttamisesta](102.md) `102/2017`
+- [Sosiaali\- ja terveysministeriön asetus työterveyshuollon erikoislääkärikoulutuksen kustannuksiin valtion varoista vuonna 2017 suoritettavasta määrärahasta](103.md) `103/2017`
+- [Työ\- ja elinkeinoministeriön asetus talous\- ja velkaneuvontapalvelujen tuottajalle vuonna 2017 maksettavan korvauksen perusteista](104.md) `104/2017`
+- [Valtioneuvoston asetus poliisin hallinnosta annetun asetuksen muuttamisesta](105.md) `105/2017`
+- [Valtioneuvoston asetus Poliisiammattikorkeakoulusta annetun valtioneuvoston asetuksen 20 §:n muuttamisesta](106.md) `106/2017`
+- [Valtioneuvoston asetus sisäministeriöstä annetun valtioneuvoston asetuksen 7 §:n muuttamisesta](107.md) `107/2017`
+- [Valtioneuvoston asetus täydentävien ehtojen lakisääteisistä hoitovaatimuksista sekä niiden ja hyvän maatalouden ja ympäristön vaatimusten noudattamisen valvonnasta annetun valtioneuvoston asetuksen liitteiden 1 ja 2 muuttamisesta](108.md) `108/2017`
+- [Ulkoasiainministeriön asetus Maanhallintasektorin tukemisesta Etiopian demokraattisen liittovaltion kanssa tehdyn sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](109.md) `109/2017`
+- [Ulkoasiainministeriön asetus Etiopian maaseudun yritystoimintahankkeen tukemisesta Etiopian kanssa tehdyn sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](110.md) `110/2017`
+- [Ulkoasiainministeriön asetus Länsi\-Kenian maaseutukehitysohjelman \(PALWECO\) Kenian kanssa tehdyn sopimuksen muutoksen voimaansaattamisesta](111.md) `111/2017`
+- [Valtioneuvoston asetus valtioneuvoston ruotsin kielen lautakunnasta annetun valtioneuvoston asetuksen muuttamisesta](112.md) `112/2017`
+- [Valtioneuvoston asetus ilmassa olevasta arseenista, kadmiumista, elohopeasta, nikkelistä ja polysyklisistä aromaattisista hiilivedyistä](113.md) `113/2017`
+- [Valtioneuvoston asetus Alankomaiden liittymisestä eurooppalaisen synkrotronisäteilykeskuksen rakentamisesta ja käytöstä tehtyyn yleissopimukseen tehdyn pöytäkirjan voimaansaattamisesta](114.md) `114/2017`
+- [Ympäristöministeriön asetus vaarallisten aineiden käytön rajoituksista sähkö\- ja elektroniikkalaitteissa annetun ympäristöministeriön asetuksen muuttamisesta](115.md) `115/2017`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta siemenperunan kaupasta annetun maa\- ja metsätalousministeriön asetuksen väliaikaisesta muuttamisesta](116.md) `116/2017`
+- [Ulkoasiainministeriön asetus kestävän metsätalouden kehittämishankkeesta Laosin kanssa tehdyn sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](117.md) `117/2017`
+- [Elintarviketurvallisuusviraston päätös korkeapatogeenisen lintuinfluenssan vuoksi perustetun seuranta\-alueen lakkauttamisesta](118.md) `118/2017`
+- [Elintarviketurvallisuusviraston päätös korkeapatogeenisen lintuinfluenssan vuoksi perustetun seuranta\-alueen lakkauttamisesta](119.md) `119/2017`
+- [Valtioneuvoston asetus tutkintojen ja muiden osaamiskokonaisuuksien viitekehyksestä](120.md) `120/2017`
+- [Valtioneuvoston asetus vuodelta 2016 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 6 §:n ja liitteen muuttamisesta](121.md) `121/2017`
+- [Valtioneuvoston asetus täydentävien ehtojen hyvän maatalouden ja ympäristön vaatimuksista annetun valtioneuvoston asetuksen muuttamisesta](122.md) `122/2017`
+- [Valtioneuvoston asetus ajoneuvojen käytöstä tiellä annetun asetuksen 20 §:n muuttamisesta](123.md) `123/2017`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön maksullisista suoritteista](124.md) `124/2017`
+- [Valtioneuvoston asetus merityötä koskevan vuoden 2006 yleissopimuksen ohjeistoon vuonna 2014 tehtyjen muutosten ja ohjeiston muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](125.md) `125/2017`
+- [Valtioneuvoston asetus pakollista työtä koskevaan sopimukseen liittyvän pöytäkirjan voimaansaattamisesta ja pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](126.md) `126/2017`
+- [Maa\- ja metsätalousministeriön asetus Suomen metsäkeskuksen suoritteiden maksullisuudesta](127.md) `127/2017`
+- [Laki elintarvikelain 30 §:n muuttamisesta](128.md) `128/2017`
+- [Ulkoasiainministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoasiainministeriön asetuksen muuttamisesta](129.md) `129/2017`
+- [Työ\- ja elinkeinoministeriön asetus ydinlaitosten ympäristövaikutusten arviointimenettelyyn kuuluvista työ\- ja elinkeinoministeriön maksullisista suoritteista](130.md) `130/2017`
+- [Työ\- ja elinkeinoministeriön asetus ydinenergian käytön valvontaan kuuluvista työ\- ja elinkeinoministeriön maksullisista suoritteista](131.md) `131/2017`
+- [Laki turvallisuusluokitellun tiedon vastavuoroisesta suojaamisesta Belgian kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](132.md) `132/2017`
+- [Laki  tehostetusta kumppanuudesta ja yhteistyöstä Euroopan unionin ja sen jäsenvaltioiden sekä Kazakstanin tasavallan välillä tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](133.md) `133/2017`
+- [Tasavallan presidentin asetus Suomen ulkomaanedustustojen sijaintipaikoista ja konsulipalveluiden järjestämisestä ulkoasiainhallinnossa annetun tasavallan presidentin asetuksen muuttamisesta](134.md) `134/2017`
+- [Valtioneuvoston asetus perusopetuslaissa tarkoitetun opetuksen valtakunnallisista tavoitteista ja perusopetuksen tuntijaosta annetun valtioneuvoston asetuksen 5 ja 7 §:n muuttamisesta](135.md) `135/2017`
+- [Valtioneuvoston asetus perusopetusasetuksen 8 ja 10 §:n muuttamisesta](136.md) `136/2017`
+- [Opetus\- ja kulttuuriministeriön asetus ammatillisen koulutuksen tutkintorakenteesta annetun opetus\- ja kulttuuriministeriön asetuksen liitteen muuttamisesta](137.md) `137/2017`
+- [Laki päästökaupasta johtuvien epäsuorien kustannusten kompensoimisesta](138.md) `138/2017`
+- [Eduskunnan päätös Suomen Pankille myönnettävästä valtiontakuusta Kansainväliselle valuuttarahastolle annettavan lainan vakuudeksi](139.md) `139/2017`
+- [Laki Tanskan, Suomen, Norjan ja Ruotsin välillä puolustusmateriaalialan yhteistyöstä tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](140.md) `140/2017`
+- [Laki Tanskan, Suomen, Norjan ja Ruotsin välillä puolustusmateriaalialan teollisuuden yhteistyön tukemisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain muuttamisesta](141.md) `141/2017`
+- [Valtioneuvoston asetus vuodelta 2016 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 9 §:n muuttamisesta](142.md) `142/2017`
+- [Valtioneuvoston asetus eläinyksiköistä eräissä maatalouden tuissa annetun valtioneuvoston asetuksen 2 §:n ja liitteen muuttamisesta](143.md) `143/2017`
+- [Verohallinnon työjärjestys](144.md) `144/2017`
+- [Valtioneuvoston asetus maankäyttö\- ja rakennusasetuksen muuttamisesta](145.md) `145/2017`
+- [Valtioneuvoston asetus tartuntataudeista](146.md) `146/2017`
+- [Valtioneuvoston asetus ympäristökorvauksesta annetun valtioneuvoston asetuksen muuttamisesta](147.md) `147/2017`
+- [Valtioneuvoston asetus ympäristökorvauksen, luonnonhaittakorvauksen, luonnonmukaisen tuotannon korvauksen ja ei\-tuotannollisia investointeja koskevan korvauksen hakemisesta vuonna 2017](148.md) `148/2017`
+- [Sosiaali\- ja terveysministeriön asetus  rokotuksista](149.md) `149/2017`
+- [Valtioneuvoston asetus painolastivesien ja sedimenttien valvonnasta ja käsittelystä tehdyn kansainvälisen yleissopimuksen voimaansaattamisesta sekä yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain, merenkulun ympäristönsuojelulain muuttamisesta annetun lain ja aluksen teknisestä turvallisuudesta ja turvallisesta käytöstä annetun lain muuttamisesta annetun lain voimaantulosta](150.md) `150/2017`
+- [Maa\- ja metsätalousministeriön asetus  ympäristökorvauksesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](151.md) `151/2017`
+- [Valtioneuvoston asetus salaisista pakkokeinoista ja salaisista tiedonhankintakeinoista Tullissa](152.md) `152/2017`
+- [Valtioneuvoston asetus perustuesta, viherryttämistuesta ja nuoren viljelijän tuesta annetun valtioneuvoston asetuksen 17 ja 19 §:n muuttamisesta](153.md) `153/2017`
+- [Valtioneuvoston asetus sikojen suojelusta annetun valtioneuvoston asetuksen muuttamisesta](154.md) `154/2017`
+- [Valtioneuvoston asetus sähköntoimitusten selvityksestä ja mittauksesta annetun valtioneuvoston asetuksen muuttamisesta annetun valtioneuvoston asetuksen eräiden säännösten voimaanpanosta](155.md) `155/2017`
+- [Valtioneuvoston asetus erityistason sairaanhoidon erityisvastuualueista](156.md) `156/2017`
+- [Valtioneuvoston asetus talousjätevesien käsittelystä viemäriverkostojen ulkopuolisilla alueilla](157.md) `157/2017`
+- [Työ\- ja elinkeinoministeriön asetus sähkökaupassa ja sähköntoimitusten selvityksessä noudatettavasta tiedonvaihdosta annetun työ\- ja elinkeinoministeriön asetuksen voimaanpanosta](158.md) `158/2017`
+- [Maa\- ja metsätalousministeriön ilmoitus eräistä maa\- ja metsätalousministeriön asetuksista](159.md) `159/2017`
+- [Valtioneuvoston asetus Tanskan, Suomen, Norjan ja Ruotsin välillä puolustusmateriaalialan yhteistyöstä tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](160.md) `160/2017`
+- [Valtioneuvoston asetus keskinäisestä avunannosta ja yhteistyöstä tulliasioissa Argentiinan tasavallan kanssa tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta annetun lain voimaantulosta](161.md) `161/2017`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](162.md) `162/2017`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](163.md) `163/2017`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](164.md) `164/2017`
+- [Laki eräiden alusten ja niitä palvelevien satamien turvatoimista ja turvatoimien valvonnasta annetun lain 10 §:n muuttamisesta](165.md) `165/2017`
+- [Laki rahankeräyslain muuttamisesta](166.md) `166/2017`
+- [Laki eläkesäätiölain muuttamisesta](167.md) `167/2017`
+- [Laki vakuutuskassalain muuttamisesta](168.md) `168/2017`
+- [Laki ihmisen elimien, kudoksien ja solujen lääketieteellisestä käytöstä annetun lain muuttamisesta](169.md) `169/2017`
+- [Laki lääkärin hyväksymisestä luokkaan A kuuluvien säteilytyöntekijöiden terveydentilan seurannan suorittavaksi lääkäriksi](170.md) `170/2017`
+- [Laki terveydenhuollon ammattihenkilöistä annetun lain 24 a §:n muuttamisesta](171.md) `171/2017`
+- [Laki säteilylain 32 ja 33 §:n muuttamisesta](172.md) `172/2017`
+- [Laki säteilyasetuksen 13 §:n 1 momentin kumoamisesta](173.md) `173/2017`
+- [Tasavallan presidentin asetus sisäasioiden rahastojen kansallisia ohjelmia koskevien hallintotehtävien hoidosta Ahvenanmaalla](174.md) `174/2017`
+- [Verohallinnon päätös öljysuojamaksun kantamisesta unionin ulkopuolelta tuotavasta öljystä](175.md) `175/2017`
+- [Laki kalastuksesta Tenojoen vesistössä Norjan kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja soveltamisesta](176.md) `176/2017`
+- [Laki kalastuslain muuttamisesta](177.md) `177/2017`
+- [Sosiaali\- ja terveysministeriön asetus Lääkealan turvallisuus\- ja kehittämiskeskuksen maksullisista suoritteista](178.md) `178/2017`
+- [Valtioneuvoston asetus kansainvälisten tuomioistuinten ja Euroopan unionin tuomioistuimen tuomari\- ja jäsenehdokkaiden nimeämistä valmistelevasta neuvottelukunnasta](179.md) `179/2017`
+- [Valtioneuvoston asetus liikenne\- ja viestintäministeriöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](180.md) `180/2017`
+- [Valtioneuvoston asetus Afrikan, Karibian ja Tyynenmeren valtioiden ryhmän jäsenten sekä Euroopan yhteisön ja sen jäsenvaltioiden välisen kumppanuussopimuksen muuttamisesta toisen kerran tehdyn sopimuksen voimaansaattamisesta](181.md) `181/2017`
+- [Valtioneuvoston asetus maaseudun yritystuesta annetun valtioneuvoston asetuksen muuttamisesta](182.md) `182/2017`
+- [Valtioneuvoston asetus evankelis\-luterilaisen kirkon ja Kansaneläkelaitoksen henkilöstön eläkkeiden maksamiseen tarvittavien varojen siirrosta ja kustannusten korvaamisesta Kevalle](183.md) `183/2017`
+- [Valtiovarainministeriön asetus valtiovarainministeriön työjärjestyksestä annetun valtiovarainministeriön asetuksen muuttamisesta](184.md) `184/2017`
+- [Sisäministeriön ilmoitus sisäministeriön asetuksesta Veikkaus Oy:n rahapelien pelisäännöistä](185.md) `185/2017`
+- [Sosiaali\- ja terveysministeriön ilmoitus Ahvenanmaan maakuntapäivien hyväksynnästä pohjoismaisen sosiaaliturvasopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulolle maakunnassa](186.md) `186/2017`
+- [Maa\- ja metsätalousministeriön ilmoitus Maa\- ja metsätalousministeriön asetuksesta koriste\- ja monikäyttökasvien varmennetusta taimiaineistosta](187.md) `187/2017`
+- [Valtioneuvoston asetus kaupallisen kalastuksen kiintiöjärjestelmästä annetun valtioneuvoston asetuksen 6 ja 13 §:n muuttamisesta](188.md) `188/2017`
+- [Laki rikoksen johdosta tapahtuvasta luovuttamisesta Suomen ja muiden Euroopan unionin jäsenvaltioiden välillä annetun lain 54 ja 58 §:n muuttamisesta](189.md) `189/2017`
+- [Valtioneuvoston asetus vaarallisten tavaroiden kansainvälisistä tiekuljetuksista tehdyn eurooppalaisen sopimuksen \(ADR\) A liitteen 1\.5\.1 kohdan mukaisen monenkeskisen sopimuksen M 304 voimaansaattamisesta](190.md) `190/2017`
+- [Valtioneuvoston asetus vuodelta 2016 maksettavasta sokerijuurikkaan kuljetustuesta](191.md) `191/2017`
+- [Valtioneuvoston asetus maataloustukihakemuksen siirtämisessä vuonna 2017 noudatettavasta menettelystä](192.md) `192/2017`
+- [Valtioneuvoston asetus  vuodelta 2017 maksettavista lypsylehmä\-, nauta\-, lammas\- ja vuohipalkkioista sekä peltokasvipalkkiosta](193.md) `193/2017`
+- [Valtiovarainministeriön asetus Itsenäisyyden vuosikymmenet vuoden 2017, 2018 ja 2019 juhlarahoista](194.md) `194/2017`
+- [Valtioneuvoston asetus kalastuksesta Tenojoen vesistössä Norjan kanssa tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja soveltamisesta annetun lain voimaantulosta](195.md) `195/2017`
+- [Valtioneuvoston asetus kalastuslain muuttamisesta annetun lain voimaantulosta](196.md) `196/2017`
+- [Laki puolustusvoimista annetun lain muuttamisesta](197.md) `197/2017`
+- [Laki majoitus\- ja ravitsemistoiminnasta annetun lain 9 §:n muuttamisesta](198.md) `198/2017`
+- [Laki  kemikaalilain 14 §:n muuttamisesta](199.md) `199/2017`
+- [Laki vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetun lain 3 ja 128 a §:n muuttamisesta](200.md) `200/2017`
+- [Laki terveydensuojelulain 7 a §:n muuttamisesta](201.md) `201/2017`
+- [Laki kestävän metsätalouden määräaikaisen rahoituslain muuttamisesta](202.md) `202/2017`
+- [Laki  eläinsuojelulain muuttamisesta](203.md) `203/2017`
+- [Laki työsopimuslain muuttamisesta](204.md) `204/2017`
+- [Laki merityösopimuslain muuttamisesta](205.md) `205/2017`
+- [Laki kunnallisesta viranhaltijasta annetun lain 31 ja 37 a §:n muuttamisesta](206.md) `206/2017`
+- [Laki valtion virkamieslain 38 ja 39 §:n muuttamisesta](207.md) `207/2017`
+- [Laki yhteistoiminnasta yrityksissä annetun lain 48 §:n muuttamisesta](208.md) `208/2017`
+- [Laki työnantajan ja henkilöstön välisestä yhteistoiminnasta kunnissa annetun lain 8 §:n muuttamisesta](209.md) `209/2017`
+- [Laki julkisesta työvoima\- ja yrityspalvelusta annetun lain 12 luvun 3 §:n muuttamisesta](210.md) `210/2017`
+- [Valtioneuvoston asetus nuorisotyöstä ja \-politiikasta](211.md) `211/2017`
+- [Valtiovarainministeriön päätös kunnan osan siirtämisestä Oulun kaupungista Iin kuntaan](212.md) `212/2017`
+- [Laki rikoslain 30 luvun 13 §:n muuttamisesta](213.md) `213/2017`
+- [Laki Euroopan unionin lainvalvontayhteistyövirastosta](214.md) `214/2017`
+- [Laki ympäristönsuojelulain muuttamisesta](215.md) `215/2017`
+- [Laki yhteistyöstä ydinenergian rauhanomaisessa käytössä Saudi\-Arabian kuningaskunnan kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](216.md) `216/2017`
+- [Valtioneuvoston asetus Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun valtioneuvoston asetuksen 1 ja 3 §:n muuttamisesta](217.md) `217/2017`
+- [Maa\- ja metsätalousministeriön asetus eräiden elintarvikkeiden alkuperämaan ilmoittamisesta](218.md) `218/2017`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön päätöksestä nuoren metsän hoidon tukea koskevien tukihakemusten hylkäämisestä annetun maa\- ja metsätalousministeriön päätöksen kumoamisesta](219.md) `219/2017`
+- [Valtioneuvoston asetus kestävän metsätalouden rahoituksesta annetun valtioneuvoston asetuksen muuttamisesta](220.md) `220/2017`
+- [Sisäministeriön asetus pysäköintivirhemaksusta](221.md) `221/2017`
+- [Maa\- ja metsätalousministeriön asetus  hevoseläinten tunnistamisesta](222.md) `222/2017`
+- [Valtioneuvoston asetus vuodelta 2017 maksettavasta mehiläistalouden kansallisesta pesäkohtaisesta tuesta](223.md) `223/2017`
+- [Valtioneuvoston asetus vuodelta 2017 maksettavien kansallisten kasvintuotannon tukien ja kotieläintukien valvonnasta](224.md) `224/2017`
+- [Valtioneuvoston asetus kuluttajamarkkinoilta kielletyistä psykoaktiivisista aineista annetun valtioneuvoston asetuksen liitteen muuttamisesta](225.md) `225/2017`
+- [Opetus\- ja kulttuuriministeriön asetus Kansallisen koulutuksen arviointikeskuksen suoritteiden maksullisuudesta annetun opetus\- ja kulttuuriministeriön asetuksen 5 §:n muuttamisesta](226.md) `226/2017`
+- [Laki kilpailulain 25 §:n muuttamisesta](227.md) `227/2017`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](228.md) `228/2017`
+- [Laki vaihtoehtorahastojen hoitajista annetun lain muuttamisesta](229.md) `229/2017`
+- [Laki maankäyttö\- ja rakennuslain muuttamisesta](230.md) `230/2017`
+- [Valtioneuvoston asetus ihmisen elimien, kudoksien ja solujen lääketieteellisestä käytöstä annetun valtioneuvoston asetuksen muuttamisesta](231.md) `231/2017`
+- [Sosiaali\- ja terveysministeriön asetus ihmisen elimien, kudoksien ja solujen lääketieteellisestä käytöstä annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](232.md) `232/2017`
+- [Valtiovarainministeriön asetus Itsenäisyyden vuosikymmenet vuoden 2017, 2018 ja 2019 juhlarahoista annetun valtiovarainministeriön asetuksen kumoamisesta](233.md) `233/2017`
+- [Maa\- ja metsätalousministeriön asetus  maa\- ja puutarhatalouden kansallisten tukien hallinnosta vuonna 2017](234.md) `234/2017`
+- [Työ\- ja elinkeinoministeriön asetus Patentti\- ja rekisterihallituksen maksullisista suoritteista annetun asetuksen muuttamisesta](235.md) `235/2017`
+- [Valtioneuvoston asetus lohenkalastuksen rajoituksista](236.md) `236/2017`
+- [Valtioneuvoston asetus Tornionjoen kalastusalueella sovellettavista kansallisista kalastusmääräyksistä annetun valtioneuvoston asetuksen 1 ja 4 §:n muuttamisesta](237.md) `237/2017`
+- [Opetus\- ja kulttuuriministeriön asetus opetus\- ja kulttuuriministeriön työjärjestyksestä annetun opetus\- ja kulttuuriministeriön asetuksen muuttamisesta](238.md) `238/2017`
+- [Ulkoasiainministeriön asetus Etiopian hallituksen vesihuolto\-, sanitaatio\- ja hygieniarahaston tukemista koskevan Etiopian kanssa tehdyn sopimuksen voimaansaattamisesta](239.md) `239/2017`
+- [Valtioneuvoston asetus ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta](240.md) `240/2017`
+- [Valtioneuvoston asetus rakennuksen esteettömyydestä](241.md) `241/2017`
+- [Laki tieliikennelain muuttamisesta](242.md) `242/2017`
+- [Maa\- ja metsätalousministeriön asetus kalastuksesta Tenojoen vesistössä Norjan kanssa tehtyyn sopimukseen perustuvista kalastusluvista vuonna 2017](243.md) `243/2017`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannuista muutoksista](244.md) `244/2017`
+- [Valtioneuvoston asetus  Puolustusvoimien turvamiehen voimankäyttövälineistä ja suojavarusteista](245.md) `245/2017`
+- [Sisäministeriön asetus pelastustoimen virkapuvusta sekä pelastusviranomaisen henkilökortista annetun sisäasiainministeriön asetuksen muuttamisesta](246.md) `246/2017`
+- [Laki julkisen hallinnon yhteispalvelusta annetun lain muuttamisesta](247.md) `247/2017`
+- [Laki matkustajien ja matkatavaroiden kuljettamisesta meritse vuonna 1974 tehdyn Ateenan yleissopimuksen vuoden 2002 pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](248.md) `248/2017`
+- [Laki merilain muuttamisesta](249.md) `249/2017`
+- [Laki valmismatkalain 24 §:n muuttamisesta](250.md) `250/2017`
+- [Valtioneuvoston asetus Suomen ja Ruotsin välillä tehdyn rajajokisopimuksen kalastussäännön 16 §:ssä tarkoitetun pöytäkirjan voimaansaattamisesta](251.md) `251/2017`
+- [Laki ympäristövaikutusten arviointimenettelystä](252.md) `252/2017`
+- [Laki viranomaisten suunnitelmien ja ohjelmien ympäristövaikutusten arvioinnista annetun lain muuttamisesta](253.md) `253/2017`
+- [Laki maankäyttö\- ja rakennuslain muuttamisesta](254.md) `254/2017`
+- [Laki luonnonsuojelulain 65 §:n muuttamisesta](255.md) `255/2017`
+- [Laki ympäristönsuojelulain 39 ja 83 §:n muuttamisesta](256.md) `256/2017`
+- [Laki vesilain muuttamisesta](257.md) `257/2017`
+- [Laki maa\-aineslain muuttamisesta](258.md) `258/2017`
+- [Laki kaivoslain 34 ja 56 §:n muuttamisesta](259.md) `259/2017`
+- [Laki ydinenergialain 23 ja 25 §:n muuttamisesta](260.md) `260/2017`
+- [Laki maantielain 18 ja 29 §:n muuttamisesta](261.md) `261/2017`
+- [Laki  ratalain 11 ja 24 §:n muuttamisesta](262.md) `262/2017`
+- [Laki ilmailulain 79 §:n muuttamisesta](263.md) `263/2017`
+- [Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain muuttamisesta](264.md) `264/2017`
+- [Laki eräiden ympäristön käyttöön vaikuttavien hankkeiden lunastusluvasta annetun lain muuttamisesta](265.md) `265/2017`
+- [Laki sähkömarkkinalain 14 ja 15 §:n muuttamisesta](266.md) `266/2017`
+- [Laki maakaasumarkkinalain 6 luvun 6 §:n muuttamisesta](267.md) `267/2017`
+- [Valtioneuvoston asetus riistavahingoista annetun valtioneuvoston asetuksen muuttamisesta](268.md) `268/2017`
+- [Ulkoasiainministeriön asetus Nepalin maaseudun vesi\- ja sanitaatiohankkeen toista vaihetta koskevan sopimuksen muuttamisesta Nepalin kanssa tehdyn sopimuksen voimaansaattamisesta](269.md) `269/2017`
+- [Laki alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan I liitteeseen tehtyjen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](270.md) `270/2017`
+- [Laki alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan IV liitteeseen tehtyjen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](271.md) `271/2017`
+- [Laki alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan uudistetun V liitteen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](272.md) `272/2017`
+- [Laki alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan VI liitteeseen tehtyjen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](273.md) `273/2017`
+- [Laki alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan I, II, IV ja V liitteeseen tehtyjen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](274.md) `274/2017`
+- [Laki merenkulun ympäristönsuojelulain muuttamisesta](275.md) `275/2017`
+- [Valtioneuvoston asetus porotalouden ja luontaiselinkeinojen rakennetuista](276.md) `276/2017`
+- [Valtioneuvoston asetus  ympäristövaikutusten arviointimenettelystä](277.md) `277/2017`
+- [Valtioneuvoston asetus maankäyttö\- ja rakennusasetuksen muuttamisesta](278.md) `278/2017`
+- [Sosiaali\- ja terveysministeriön asetus  lääkäri\- ja hammaslääkärikoulutuksen korvauksen perusteista vuonna 2017](279.md) `279/2017`
+- [Valtioneuvoston asetus Veikkaus Oy:n rahapelien toimeenpanosta annetun valtioneuvoston asetuksen muuttamisesta](280.md) `280/2017`
+- [Valtioneuvoston asetus opintotukiasetuksen muuttamisesta](281.md) `281/2017`
+- [Sisäministeriön ilmoitus sisäministeriön asetuksesta Veikkaus Oy:n rahapelien pelisäännöistä](282.md) `282/2017`
+- [Ympäristöministeriön ilmoitus ympäristöministeriön asetuksesta rakennuksen energiatehokkuuden parantamisesta korjaus\- ja muutostöissä annetun ympäristöministeriön asetuksen muuttamisesta](283.md) `283/2017`
+- [Valtioneuvoston asetus valtion eläkkeiden maksamiseen tarvittavien varojen siirrosta ja kustannusten korvaamisesta Kevalle](284.md) `284/2017`
+- [Valtioneuvoston asetus lelujen turvallisuudesta annetun valtioneuvoston asetuksen muuttamisesta](285.md) `285/2017`
+- [Valtioneuvoston asetus työvälineiden turvallisesta käytöstä ja tarkastamisesta annetun valtioneuvoston asetuksen 37 §:n ja liitteen muuttamisesta](286.md) `286/2017`
+- [Puolustusministeriön asetus  turvamiehen koulutuksesta, turvaamistehtävän johtajan erityisistä kelpoisuusvaatimuksista, turvamiehen virkamerkistä ja voimakeinojen käytön valvonnasta](287.md) `287/2017`
+- [Valtioneuvoston asetus koltta\-asetuksen muuttamisesta](288.md) `288/2017`
+- [Valtioneuvoston asetus työympäristöstä aluksessa](289.md) `289/2017`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön työjärjestyksestä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](290.md) `290/2017`
+- [Maa\- ja metsätalousministeriön asetus ilmoitettujen elintarvikehuoneistojen elintarvikehygieniasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](291.md) `291/2017`
+- [Laki Kevasta annetun lain 3 §:n muuttamisesta](292.md) `292/2017`
+- [Laki yrityspalvelujen asiakastietojärjestelmästä](293.md) `293/2017`
+- [Laki valtion erityisrahoitusyhtiöstä annetun lain 6 §:n muuttamisesta](294.md) `294/2017`
+- [Laki Finpro Oy \-nimisestä osakeyhtiöstä annetun lain muuttamisesta](295.md) `295/2017`
+- [Laki Hossan kansallispuistosta](296.md) `296/2017`
+- [Valtioneuvoston asetus kalastuksesta Tenojoen vesistön sivuvesistöissä](297.md) `297/2017`
+- [Valtioneuvoston asetus maankäyttö\- ja rakennusasetuksen muuttamisesta](298.md) `298/2017`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön päätöksestä eräissä Euroopan unionin yhteistä kalastuspolitiikkaa koskevissa asetuksissa tarkoitetuista saaliiden purkamissatamista](299.md) `299/2017`
+- [Laki valtioneuvoston tilannekeskuksesta](300.md) `300/2017`
+- [Laki eurooppalaisesta vähäisiin vaatimuksiin sovellettavasta menettelystä annetun lain muuttamisesta](301.md) `301/2017`
+- [Laki eurooppalaisesta maksamismääräysmenettelystä annetun lain muuttamisesta](302.md) `302/2017`
+- [Laki tuomioistuinmaksulain 2 §:n muuttamisesta](303.md) `303/2017`
+- [Laki ylioppilastutkinnon järjestämisestä annetun lain 17 §:n muuttamisesta](304.md) `304/2017`
+- [Laki julkisesta työvoima\- ja yrityspalvelusta annetun lain 5 luvun 2 §:n väliaikaisesta muuttamisesta](305.md) `305/2017`
+- [Laki kaupparekisterilain muuttamisesta](306.md) `306/2017`
+- [Laki kaivoslain muuttamisesta](307.md) `307/2017`
+- [Tasavallan presidentin asetus eräiden Euroopan unionin yhteisen kalastuspolitiikan sääntöihin kohdistuviin rikkomuksiin liittyvien tehtävien hoidosta Ahvenanmaalla](308.md) `308/2017`
+- [Tasavallan presidentin asetus  Rajavartiolaitoksen tehtävistä Ahvenanmaan maakunnassa](309.md) `309/2017`
+- [Valtioneuvoston asetus vuodelta 2016 maksettavista lypsylehmä\-, nauta\-, lammas\- ja vuohipalkkioista sekä peltokasvipalkkiosta annetun valtioneuvoston asetuksen muuttamisesta](310.md) `310/2017`
+- [Valtioneuvoston asetus päästökaupasta johtuvien epäsuorien kustannusten kompensoimisesta](311.md) `311/2017`
+- [Valtioneuvoston asetus päästökaupasta johtuvien epäsuorien kustannusten kompensoimisesta annetun lain voimaantulosta](312.md) `312/2017`
+- [Valtioneuvoston asetus eläkelaitoksen vakavaraisuusrajan laskennassa käytettävien vakioiden arvoista annetun valtioneuvoston asetuksen muuttamisesta](313.md) `313/2017`
+- [Valtioneuvoston asetus kivenlouhimojen, muun kivenlouhinnan ja kivenmurskaamojen ympäristönsuojelusta annetun asetuksen muuttamisesta](314.md) `314/2017`
+- [Valtioneuvoston asetus juomaveden valmistamiseen tarkoitetun pintaveden laatuvaatimuksista ja tarkkailusta annetun valtioneuvoston päätöksen kumoamisesta](315.md) `315/2017`
+- [Valtioneuvoston asetus yhteistyöstä ydinenergian rauhanomaisessa käytössä Saudi\-Arabian kuningaskunnan kanssa tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](316.md) `316/2017`
+- [Ulkoasiainministeriön asetus Eteläisen Afrikan innovaatiotukiohjelman tukemisesta Namibian kanssa tehdyn sopimuksen voimaansaattamisesta](317.md) `317/2017`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinsuojeluaineiden levitysvälineille asetettavista vaatimuksista, levitysvälineiden testauksesta ja levitysvälineitä koskevasta riskien arvioinnista annetun maa\- ja metsätalousministeriön asetuksen liitteen II muuttamisesta](318.md) `318/2017`
+- [Valtioneuvoston asetus kalastuksesta Tenojoen vesistössä Norjan kanssa tehdyn sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](319.md) `319/2017`
+- [Laki liikenteen palveluista](320.md) `320/2017`
+- [Laki ajoneuvolain 25 ja 27 a §:n muuttamisesta](321.md) `321/2017`
+- [Laki kuorma\- ja linja\-auton kuljettajien ammattipätevyydestä annetun lain muuttamisesta](322.md) `322/2017`
+- [Laki rautatielain muuttamisesta](323.md) `323/2017`
+- [Laki Harmaan talouden selvitysyksiköstä annetun lain 6 §:n muuttamisesta](324.md) `324/2017`
+- [Laki lukiokoulutuksen ja ammatillisen koulutuksen opiskelijoiden koulumatkatuesta annetun lain 4 §:n muuttamisesta](325.md) `325/2017`
+- [Laki ajoneuvojen energia\- ja ympäristövaikutusten huomioon ottamisesta julkisissa hankinnoissa annetun lain 1 §:n muuttamisesta](326.md) `326/2017`
+- [Laki yrittäjäkuljettajien työajasta tieliikenteessä annetun lain 2 §:n muuttamisesta](327.md) `327/2017`
+- [Laki ajoneuvoliikennerekisteristä annetun lain muuttamisesta](328.md) `328/2017`
+- [Laki tieliikennelain muuttamisesta](329.md) `329/2017`
+- [Valtioneuvoston asetus Pohjoismaiden ympäristörahoitusyhtiöstä \(NEFCO\) Tanskan, Suomen, Islannin, Norjan ja Ruotsin välillä tehdyn sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](330.md) `330/2017`
+- [Ulkoasiainministeriön asetus Maanhallintasektorin tukemisesta Etiopian demokraattisen liittovaltion kanssa tehdyn toisen vaiheen sopimuksen voimaansaattamisesta](331.md) `331/2017`
+- [Ulkoasiainministeriön asetus Etiopian maaseudun yritystoimintahankkeen tukemisesta Etiopian kanssa tehdyn sopimuksen toisen vaiheen voimaansaattamisesta](332.md) `332/2017`
+- [Valtioneuvoston asetus valtioneuvoston ohjesäännön muuttamisesta](333.md) `333/2017`
+- [Valtioneuvoston asetus tekijänoikeuden yhteishallinnoinnin kehittämisen neuvottelukunnasta](334.md) `334/2017`
+- [Valtioneuvoston asetus vapaaehtoisen maanpuolustuksen neuvottelukunnasta annetun valtioneuvoston asetuksen 4 §:n muuttamisesta](335.md) `335/2017`
+- [Valtioneuvoston asetus poronhoitovuodelta 2017/2018 maksettavasta eläinkohtaisesta tuesta](336.md) `336/2017`
+- [Valtioneuvoston asetus perustuesta, viherryttämistuesta ja nuoren viljelijän tuesta annetun valtioneuvoston asetuksen muuttamisesta](337.md) `337/2017`
+- [Valtioneuvoston asetus maaseudun hanketoiminnan tukemisesta annetun asetuksen muuttamisesta](338.md) `338/2017`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](339.md) `339/2017`
+- [Valtioneuvoston asetus turvallisuustekniikan neuvottelukunnasta](340.md) `340/2017`
+- [Oikeusministeriön asetus tutkintavankiloina toimivista vankiloista](341.md) `341/2017`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](342.md) `342/2017`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](343.md) `343/2017`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](344.md) `344/2017`
+- [Liikenne\- ja viestintäministeriön asetus liikenne\- ja viestintäministeriön työjärjestyksen muuttamisesta](345.md) `345/2017`
+- [Valtioneuvoston asetus alle 18\-vuotiaana vahinkoa kärsineen ansiotulon määrän vahvistamisesta](346.md) `346/2017`
+- [Laki terveydenhuollon ammattihenkilöistä annetun lain 6 a §:n muuttamisesta](347.md) `347/2017`
+- [Laki arvo\-osuusjärjestelmästä ja selvitystoiminnasta](348.md) `348/2017`
+- [Laki osakeyhtiölain muuttamisesta](349.md) `349/2017`
+- [Laki arvo\-osuustileistä annetun lain muuttamisesta](350.md) `350/2017`
+- [Laki arvopaperitileistä annetun lain 2 §:n muuttamisesta](351.md) `351/2017`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](352.md) `352/2017`
+- [Laki eräistä arvopaperi\- ja valuuttakaupan sekä selvitysjärjestelmän ehdoista annetun lain muuttamisesta](353.md) `353/2017`
+- [Laki sijoituspalvelulain muuttamisesta](354.md) `354/2017`
+- [Laki sijoitusrahastolain muuttamisesta](355.md) `355/2017`
+- [Laki rahoitusvakuuslain 3 §:n muuttamisesta](356.md) `356/2017`
+- [Laki osuuskuntalain muuttamisesta](357.md) `357/2017`
+- [Laki kaupankäynnistä rahoitusvälineillä annetun lain muuttamisesta](358.md) `358/2017`
+- [Laki Finanssivalvonnan valvontamaksusta annetun lain muuttamisesta](359.md) `359/2017`
+- [Laki Rahoitusvakausviraston hallintomaksusta annetun lain muuttamisesta](360.md) `360/2017`
+- [Laki  rahoitusvakausviranomaisesta annetun lain 1 luvun 2 §:n muuttamisesta](361.md) `361/2017`
+- [Laki luottolaitosten ja sijoituspalveluyritysten kriisinratkaisusta annetun lain muuttamisesta](362.md) `362/2017`
+- [Puolustusministeriön asetus  puolustusministeriön työjärjestyksestä annetun puolustusministeriön asetuksen muuttamisesta](363.md) `363/2017`
+- [Laki konkurssilain muuttamisesta](364.md) `364/2017`
+- [Laki yrityksen saneerauksesta annetun lain muuttamisesta](365.md) `365/2017`
+- [Laki yksityishenkilön velkajärjestelystä annetun lain muuttamisesta](366.md) `366/2017`
+- [Laki konkurssi\- ja yrityssaneerausrekisteristä annetun lain muuttamisesta](367.md) `367/2017`
+- [Laki velkajärjestelyrekisteristä](368.md) `368/2017`
+- [Laki toisessa Euroopan unionin jäsenvaltiossa alkaneen maksukyvyttömyysmenettelyn kuuluttamisesta ja rekisteriin merkitsemisestä annetun lain 1 §:n muuttamisesta](369.md) `369/2017`
+- [Laki Suomen, Tanskan, Islannin, Norjan ja Ruotsin kesken Kööpenhaminassa 7 päivänä marraskuuta 1933 tehdyn, konkurssia koskevan sopimuksen hyväksymisestä ja täytäntöönpanosta annetun lain 2 §:n kumoamisesta](370.md) `370/2017`
+- [Laki Opetushallituksesta annetun lain muuttamisesta](371.md) `371/2017`
+- [Laki Kansallisesta koulutuksen arviointikeskuksesta annetun lain muuttamisesta](372.md) `372/2017`
+- [Laki lukiolain muuttamisesta](373.md) `373/2017`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](374.md) `374/2017`
+- [Laki maataloustuotteiden markkinajärjestelystä annetun lain muuttamisesta](375.md) `375/2017`
+- [Laki tilusten rauhoittamisesta kotieläinten vahingonteolta annetun lain kumoamisesta](376.md) `376/2017`
+- [Laki poronhoitolain 35 §:n muuttamisesta](377.md) `377/2017`
+- [Valtioneuvoston asetus ulkoasiainhallinnosta annetun valtioneuvoston asetuksen muuttamisesta](378.md) `378/2017`
+- [Valtioneuvoston asetus työtapaturma\- ja ammattitautilain mukaisen vuosityöansion määrittämisestä annetun valtioneuvoston asetuksen muuttamisesta](379.md) `379/2017`
+- [Sisäministeriön asetus rajavartiolaitoksen menetelmistä kulkuneuvon pysäyttämisessä ja voimakeinojen käyttämisessä annetun sisäasiainministeriön asetuksen muuttamisesta](380.md) `380/2017`
+- [Sisäministeriön asetus rajavartiolaitoksen turvamiehen koulutuksesta annetun sisäasiainministeriön asetuksen 3 ja 4 §:n muuttamisesta](381.md) `381/2017`
+- [Liikenne\- ja viestintäministeriön asetus Liikenteen turvallisuusviraston maksullisista suoritteista annetun liikenne\- ja viestintäministeriön asetuksen liitteen 1 muuttamisesta](382.md) `382/2017`
+- [Laki vankeuslain muuttamisesta](383.md) `383/2017`
+- [Laki tutkintavankeuslain muuttamisesta](384.md) `384/2017`
+- [Laki yhdyskuntaseuraamusten täytäntöönpanosta annetun lain muuttamisesta](385.md) `385/2017`
+- [Laki työntekijöiden lähettämisestä annetun lain 7 §:n ja 35 §:n 1 momentin 1 kohdan voimaanpanosta](386.md) `386/2017`
+- [Laki biopolttoaineiden käytön edistämisestä liikenteessä annetun lain muuttamisesta](387.md) `387/2017`
+- [Laki biopolttoaineista ja bionesteistä annetun lain muuttamisesta](388.md) `388/2017`
+- [Laki Energiavirastosta annetun lain 1 §:n muuttamisesta](389.md) `389/2017`
+- [Laki merityösopimuslain muuttamisesta](390.md) `390/2017`
+- [Laki yhteistoiminnasta suomalaisissa ja yhteisönlaajuisissa yritysryhmissä annetun lain 41 §:n muuttamisesta](391.md) `391/2017`
+- [Laki kirkkolain muuttamisesta](392.md) `392/2017`
+- [Kirkolliskokouksen päätös  kirkkojärjestyksen 19 luvun 11 §:n kumoamisesta](393.md) `393/2017`
+- [Kirkolliskokouksen päätös  kirkon vaalijärjestyksen muuttamisesta](394.md) `394/2017`
+- [Kirkolliskokouksen päätös  kirkkojärjestyksen 2 luvun 6 §:n muuttamisesta](395.md) `395/2017`
+- [Valtiovarainministeriön asetus valtiovarainministeriön työjärjestyksestä annetun valtiovarainministeriön asetuksen muuttamisesta](396.md) `396/2017`
+- [Sisäministeriön asetus sisäministeriön työjärjestyksestä annetun sisäasiainministeriön asetuksen muuttamisesta](397.md) `397/2017`
+- [Opetus\- ja kulttuuriministeriön asetus yliopistojen koulutusvastuun täsmentämisestä annetun opetus\- ja kulttuuriministeriön asetuksen liitteen muuttamisesta](398.md) `398/2017`
+- [Valtioneuvoston asetus pinta\-alojen ja pinta\-alaperusteisten Euroopan unionin rahoittamien tukien valvonnasta annetun valtioneuvoston asetuksen 7 §:n muuttamisesta](399.md) `399/2017`
+- [Valtiovarainministeriön asetus arvopaperikeskuksen toimiluvasta](400.md) `400/2017`
+- [Maa\- ja metsätalousministeriön asetus  varotoimenpiteistä afrikkalaisen sikaruton leviämisen ehkäisemiseksi luonnonvaraisten villisikojen ja kotieläinten välillä](401.md) `401/2017`
+- [Valtioneuvoston asetus maitotuotteiden, hedelmien ja vihannesten koulujakelutuesta syyslukukaudella 2017](402.md) `402/2017`
+- [Valtioneuvoston asetus taksiliikenteen kuluttajilta perittävistä enimmäishinnoista](403.md) `403/2017`
+- [Valtioneuvoston asetus Työttömyysvakuutusrahaston ohjesäännöstä annetun asetuksen muuttamisesta](404.md) `404/2017`
+- [Maa\- ja metsätalousministeriön asetus tuettavaa rakentamista koskevista lypsykarjarakennusten rakennusteknisistä ja toiminnallisista vaatimuksista](405.md) `405/2017`
+- [Maa\- ja metsätalousministeriön asetus tuettavaa rakentamista koskevista lihakarjarakennusten rakennusteknisistä ja toiminnallisista vaatimuksista](406.md) `406/2017`
+- [Valtioneuvoston päätös kunnan osan siirtämisestä Sipoon kunnasta Vantaan kaupunkiin](407.md) `407/2017`
+- [Työ\- ja elinkeinoministeriön asetus  työ\- ja elinkeinoministeriön työjärjestyksen muuttamisesta](408.md) `408/2017`
+- [Liikenne\- ja viestintäministeriön asetus  Liikenneviraston maksullisista suoritteista annetun liikenne\- ja viestintäministeriön asetuksen 6 §:n 1 momentin muuttamisesta](409.md) `409/2017`
+- [Verohallinnon päätös sääntöjen vastaisesti tai muuta kuin kaupallista myyntiä varten maahantuotujen tupakkatuotteiden verotusarvoista](410.md) `410/2017`
+- [Valtioneuvoston asetus  merenkulun ympäristönsuojelusta annetun valtioneuvoston asetuksen muuttamisesta](411.md) `411/2017`
+- [Valtioneuvoston asetus alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan liitteisiin tehtyjen muutosten ja uudistetun V liitteen voimaansaattamisesta sekä muutosten ja uudistetun V liitteen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annettujen lakien ja merenkulun ympäristönsuojelulain muuttamisesta annetun lain voimaantulosta](412.md) `412/2017`
+- [Valtioneuvoston asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen ja alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvään vuoden 1978 pöytäkirjaan liittyvän polaarisilla alueilla purjehtivia aluksia koskevan säännöstön voimaansaattamisesta](413.md) `413/2017`
+- [Valtioneuvoston asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteen XIV luvun voimaansaattamisesta](414.md) `414/2017`
+- [Valtioneuvoston asetus terveystarkastuslentoasemista](415.md) `415/2017`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskoroista](416.md) `416/2017`
+- [Laki Euroopan hybridiuhkien torjunnan osaamiskeskuksesta](417.md) `417/2017`
+- [Laki kansainvälisen avun antamista ja pyytämistä koskevasta päätöksenteosta](418.md) `418/2017`
+- [Laki poliisilain muuttamisesta](419.md) `419/2017`
+- [Laki Rajatylittävän yhteistyön tehostamisesta erityisesti terrorismin ja rajatylittävän rikollisuuden torjumiseksi tehdyn neuvoston päätöksen eräiden säännösten täytäntöönpanosta annetun lain 2 ja 4 §:n kumoamisesta](420.md) `420/2017`
+- [Laki poliisin hallinnosta annetun lain 15 a §:n muuttamisesta](421.md) `421/2017`
+- [Laki puolustusvoimien virka\-avusta poliisille annetun lain 4 §:n muuttamisesta](422.md) `422/2017`
+- [Laki ampuma\-aselain 17 §:n muuttamisesta](423.md) `423/2017`
+- [Laki pelastuslain 38 §:n muuttamisesta](424.md) `424/2017`
+- [Laki rajavartiolain muuttamisesta](425.md) `425/2017`
+- [Laki henkilötietojen käsittelystä rajavartiolaitoksessa annetun lain 39 §:n muuttamisesta](426.md) `426/2017`
+- [Laki puolustusvoimista annetun lain muuttamisesta](427.md) `427/2017`
+- [Laki aluevalvontalain muuttamisesta](428.md) `428/2017`
+- [Laki asevelvollisuuslain 62 ja 78 §:n muuttamisesta](429.md) `429/2017`
+- [Laki rikosasioita koskevaa eurooppalaista tutkintamääräystä koskevan direktiivin täytäntöönpanosta](430.md) `430/2017`
+- [Laki eurooppalaisesta todisteiden luovuttamismääräyksestä esineiden, asiakirjojen ja tietojen hankkimiseksi rikosasian käsittelyä varten tehdyn puitepäätöksen lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja puitepäätöksen soveltamisesta annetun lain kumoamisesta](431.md) `431/2017`
+- [Laki kansainvälisestä oikeusavusta rikosasioissa annetun lain 1 §:n muuttamisesta](432.md) `432/2017`
+- [Laki omaisuuden ja todistusaineiston jäädyttämistä koskevien päätösten täytäntöön\-panosta Euroopan unionissa annetun lain muuttamisesta](433.md) `433/2017`
+- [Laki pakkokeinolain 7 luvun 21 §:n muuttamisesta](434.md) `434/2017`
+- [Laki vapautensa menettäneen henkilön väliaikaisesta siirtämisestä todistelutarkoi\-tuksessa rikosasioissa annetun lain 2 §:n muuttamisesta](435.md) `435/2017`
+- [Laki Yleisradio Oy:stä annetun lain muuttamisesta](436.md) `436/2017`
+- [Laki ympäristönsuojelulain muuttamisesta](437.md) `437/2017`
+- [Valtioneuvoston asetus opetus\- ja kulttuuriministeriöstä annetun valtioneuvoston asetuksen 3 §:n väliaikaisesta muuttamisesta](438.md) `438/2017`
+- [Valtioneuvoston asetus kaupparekisteriasetuksen 29 §:n 2 momentin kumoamisesta](439.md) `439/2017`
+- [Sisäministeriön asetus poliisin suoritteiden maksullisuudesta vuonna 2017 annetun sisäministeriön asetuksen liitteen muuttamisesta](440.md) `440/2017`
+- [Opetus\- ja kulttuuriministeriön asetus opetus\- ja kulttuuriministeriön työjärjestyksestä annetun opetus\- ja kulttuuriministeriön asetuksen muuttamisesta ja väliaikaisesta muuttamisesta](441.md) `441/2017`
+- [Valtioneuvoston asetus afrikkalaisen sikaruton leviämisen ehkäisemiseksi sikojen ulkotarhojen aitaamiseen myönnettävästä avustuksesta](442.md) `442/2017`
+- [Laki valtion talousarviosta annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](443.md) `443/2017`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä](444.md) `444/2017`
+- [Laki rahanpesun selvittelykeskuksesta](445.md) `445/2017`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](446.md) `446/2017`
+- [Laki kaupparekisterilain muuttamisesta](447.md) `447/2017`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](448.md) `448/2017`
+- [Laki sijoituspalvelulain muuttamisesta](449.md) `449/2017`
+- [Laki sijoitusrahastolain 45 ja 144 §:n muuttamisesta](450.md) `450/2017`
+- [Laki maksulaitoslain 7 ja 24 §:n muuttamisesta](451.md) `451/2017`
+- [Laki vaihtoehtorahastojen hoitajista annetun lain muuttamisesta](452.md) `452/2017`
+- [Laki panttilainauslaitoksista annetun lain 28 ja 40 §:n muuttamisesta](453.md) `453/2017`
+- [Laki Harmaan talouden selvitysyksiköstä annetun lain 6 §:n muuttamisesta](454.md) `454/2017`
+- [Laki arvonlisäverolain 209 t §:n 2 momentin kumoamisesta](455.md) `455/2017`
+- [Laki varojen jäädyttämisestä terrorismin torjumiseksi annetun lain 3 §:n muuttamisesta](456.md) `456/2017`
+- [Laki kuluttajansuojalain 7 luvun 15 §:n muuttamisesta](457.md) `457/2017`
+- [Laki vakuutussopimuslain 6 a ja 16 §:n muuttamisesta](458.md) `458/2017`
+- [Laki luottotietolain 19 ja 30 §:n muuttamisesta](459.md) `459/2017`
+- [Laki arpajaislain muuttamisesta](460.md) `460/2017`
+- [Laki vakuutusyhtiölain 6 luvun 13 §:n muuttamisesta](461.md) `461/2017`
+- [Laki yhdistyslain muuttamisesta](462.md) `462/2017`
+- [Laki uskonnonvapauslain muuttamisesta](463.md) `463/2017`
+- [Laki yritys\- ja yhteisötietolain muuttamisesta](464.md) `464/2017`
+- [Laki kiinteistönvälitysliikkeistä ja vuokrahuoneiston välitysliikkeistä annetun lain muuttamisesta](465.md) `465/2017`
+- [Laki päästökauppalain 67 ja 73 §:n muuttamisesta](466.md) `466/2017`
+- [Laki henkilötietojen käsittelystä Tullissa annetun lain 13 §:n muuttamisesta](467.md) `467/2017`
+- [Laki joukkorahoituslain 12 §:n muuttamisesta](468.md) `468/2017`
+- [Laki asianajajista annetun lain 6 §:n muuttamisesta](469.md) `469/2017`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](470.md) `470/2017`
+- [Laki arvo\-osuusjärjestelmästä ja selvitystoiminnasta annetun lain 8 luvun 3 §:n muuttamisesta](471.md) `471/2017`
+- [Laki lukiolain muuttamisesta](472.md) `472/2017`
+- [Laki ajoneuvolain muuttamisesta](473.md) `473/2017`
+- [Laki ajoneuvojen katsastustoiminnasta annetun lain muuttamisesta](474.md) `474/2017`
+- [Laki ajoneuvojen yksittäishyväksynnän järjestämisestä annetun lain muuttamisesta](475.md) `475/2017`
+- [Laki laajakaistarakentamisen tuesta haja\-asutusalueilla annetun lain muuttamisesta](476.md) `476/2017`
+- [Laki laajakaistarakentamisen tuesta haja\-asutusalueilla annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](477.md) `477/2017`
+- [Laki liikenteessä käytettävien vaihtoehtoisten polttoaineiden jakelusta](478.md) `478/2017`
+- [Laki yleisestä asumistuesta annetun lain muuttamisesta](479.md) `479/2017`
+- [Laki yleisestä asumistuesta annetun lain muuttamisesta annetun lain 29 ja 41 §:n muuttamisesta](480.md) `480/2017`
+- [Laki opintotukilain muuttamisesta annetun lain 14 §:n muuttamisesta](481.md) `481/2017`
+- [Laki  merilain muuttamisesta](482.md) `482/2017`
+- [Laki aluksen teknisestä turvallisuudesta ja turvallisesta käytöstä annetun lain 2 §:n muuttamisesta](483.md) `483/2017`
+- [Laki merityösopimuslain 11 luvun 4 §:n muuttamisesta](484.md) `484/2017`
+- [Laki Kansainvälisen merenkulkujärjestön eräiden yleissopimusten eräiden liitteiden muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](485.md) `485/2017`
+- [Valtioneuvoston asetus lukioasetuksen muuttamisesta](486.md) `486/2017`
+- [Valtioneuvoston asetus opetus\- ja kulttuuritoimen rahoituksesta annetun valtioneuvoston asetuksen muuttamisesta](487.md) `487/2017`
+- [Valtioneuvoston asetus liikenteessä käytettävien ajoneuvojen liikennekelpoisuuden valvonnasta annetun valtioneuvoston asetuksen muuttamisesta](488.md) `488/2017`
+- [Valtioneuvoston asetus vaarallisten aineiden maakuljetusten turvallisuusneuvonantajasta annetun valtioneuvoston asetuksen muuttamisesta](489.md) `489/2017`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljettajien ajoluvasta annetun valtioneuvoston asetuksen muuttamisesta](490.md) `490/2017`
+- [Valtioneuvoston asetus sosiaali\- ja terveysministeriöstä](491.md) `491/2017`
+- [Työ\- ja elinkeinoministeriön asetus Energiaviraston maksullisista suoritteista annetun työ\- ja elinkeinoministeriön asetuksen 2 ja 4 §:n muuttamisesta](492.md) `492/2017`
+- [Vuoden 2017 lisätalousarvio](493.md) `493/2017`
+- [Ulkoasiainministeriön asetus Mosambikin opetussektorin tukemisesta Mosambikin hallituksen kanssa tehdyn sopimuksen voimaansaattamisesta](494.md) `494/2017`
+- [Oikeusministeriön asetus kuluttajariitalautakunnasta annetun oikeusministeriön asetuksen muuttamisesta](495.md) `495/2017`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvan ja alueellisen kiintiön nojalla sallittavasta karhun metsästyksestä metsästysvuonna 2017–2018](496.md) `496/2017`
+- [Työ\- ja elinkeinoministeriön asetus  merityösopimuslaissa tarkoitettujen eräiden rahamäärien tarkistamisesta](497.md) `497/2017`
+- [Sosiaali\- ja terveysministeriön asetus  lääkäri\- ja hammaslääkärikoulutuksen korvauksen perusteista vuonna 2017 annetun sosiaali\- ja terveysministeriön asetuksen 1 §:n muuttamisesta](498.md) `498/2017`
+- [Valtioneuvoston asetus rajanylityspaikoista sekä rajatarkastustehtävien jakamisesta niillä annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](499.md) `499/2017`
+- [Sosiaali\- ja terveysministeriön asetus Veikkaus Oy:ltä perittävän maksun maksuunpanosta](500.md) `500/2017`
+- [Maanmittauslaitoksen työjärjestys](501.md) `501/2017`
+- [Laki aluevalvontalain muuttamisesta](502.md) `502/2017`
+- [Laki rikoslain 17 luvun 7 b §:n muuttamisesta](503.md) `503/2017`
+- [Laki metsästyslain muuttamisesta](504.md) `504/2017`
+- [Laki julkisten työvoima\- ja yrityspalveluiden alueellista tarjoamista ja työelämäkokeilua koskevasta kokeilusta](505.md) `505/2017`
+- [Laki Euroopan unionin ja Latinalaisen Amerikan sekä Karibian alueen kansainvälisen säätiön perustamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](506.md) `506/2017`
+- [Laki ajoneuvolain muuttamisesta](507.md) `507/2017`
+- [Laki tieliikennelain muuttamisesta](508.md) `508/2017`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta nurmi\- ja rehukasvien siemenkaupasta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](509.md) `509/2017`
+- [Maa\- ja metsätalousministeriön asetus pyyntiluvalla sallittavasta euroopanmajavan metsästyksestä metsästysvuonna 2017–2018](510.md) `510/2017`
+- [Maa\- ja metsätalousministeriön asetus hallin metsästyksestä alueellisen kiintiön nojalla metsästysvuonna 2017–2018](511.md) `511/2017`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvalla sallittavasta saukon metsästyksestä metsästysvuonna 2017–2018](512.md) `512/2017`
+- [Maa\- ja metsätalousministeriön asetus  pyyntiluvalla sallittavasta itämeren norpan metsästyksestä metsästysvuonna 2017–2018](513.md) `513/2017`
+- [Ulkoasiainministeriön asetus Tansanian julkisen taloushallinnon reformiohjelman tukemisesta Tansanian yhdistyneen tasavallan hallituksen kanssa solmitun sopimuksen muuttamisesta tehdyn sopimuksen voimaansaattamisesta](514.md) `514/2017`
+- [Korkeimman oikeuden päätös työjärjestyksensä muuttamisesta](515.md) `515/2017`
+- [Valtioneuvoston asetus metsästysasetuksen muuttamisesta](516.md) `516/2017`
+- [Maa\- ja metsätalousministeriön asetus ampumakokeesta](517.md) `517/2017`
+- [Maa\- ja metsätalousministeriön asetus metsähanhen metsästyksen kieltämisestä metsästysvuosina 2017–2019](518.md) `518/2017`
+- [Sosiaali\- ja terveysministeriön työjärjestys](519.md) `519/2017`
+- [Valtioneuvoston asetus  aluehallintovirastoista annetun valtioneuvoston asetuksen 9 ja 13 a §:n muuttamisesta](520.md) `520/2017`
+- [Valtioneuvoston asetus vuodelta 2017 maksettavasta pohjoisesta tuesta annetun valtioneuvoston asetuksen 9 §:n muuttamisesta](521.md) `521/2017`
+- [Valtiovarainministeriön asetus Suomalainen luonto \-juhlarahasta](522.md) `522/2017`
+- [Laki arvonlisäverolain muuttamisesta](523.md) `523/2017`
+- [Laki Ahvenanmaan maakuntaa koskevista poikkeuksista arvonlisävero\- ja valmisteverolainsäädäntöön annetun lain muuttamisesta](524.md) `524/2017`
+- [Laki oma\-aloitteisten verojen verotusmenettelystä annetun lain 29 ja 73 §:n muuttamisesta](525.md) `525/2017`
+- [Laki tullilain 10 ja 47 §:n muuttamisesta](526.md) `526/2017`
+- [Laki henkilötietojen käsittelystä Tullissa annetun lain 17 §:n muuttamisesta](527.md) `527/2017`
+- [Laki Verohallinnosta annetun lain 28 ja 30 §:n muuttamisesta](528.md) `528/2017`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 18 §:n muuttamisesta](529.md) `529/2017`
+- [Laki valtion virkamatkoilla sattuneiden vahinkojen korvaamisesta](530.md) `530/2017`
+- [Laki ammatillisesta koulutuksesta](531.md) `531/2017`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](532.md) `532/2017`
+- [Laki perusopetuslain 40 §:n muuttamisesta](533.md) `533/2017`
+- [Laki lukiolain 18 a §:n muuttamisesta](534.md) `534/2017`
+- [Laki vapaasta sivistystyöstä annetun lain 3 §:n muuttamisesta](535.md) `535/2017`
+- [Laki yliopistolain 37 ja 37 a §:n muuttamisesta](536.md) `536/2017`
+- [Laki ammattikorkeakoululain 25 ja 26 §:n muuttamisesta](537.md) `537/2017`
+- [Laki Saamelaisalueen koulutuskeskuksesta annetun lain muuttamisesta](538.md) `538/2017`
+- [Laki opintotukilain muuttamisesta](539.md) `539/2017`
+- [Laki lukiokoulutuksen ja ammatillisen koulutuksen opiskelijoiden koulumatkatuesta annetun lain 2 §:n muuttamisesta](540.md) `540/2017`
+- [Laki valtion ja yksityisen järjestämän koulutuksen hallinnosta annetun lain 1 §:n muuttamisesta](541.md) `541/2017`
+- [Laki tutkintojen ja muiden osaamiskokonaisuuksien viitekehyksestä annetun lain 1 §:n muuttamisesta](542.md) `542/2017`
+- [Laki yleisistä kielitutkinnoista annetun lain 4 §:n muuttamisesta](543.md) `543/2017`
+- [Laki oikeustulkkirekisteristä annetun lain 5 §:n muuttamisesta](544.md) `544/2017`
+- [Laki Kansallisesta koulutuksen arviointikeskuksesta annetun lain 2 §:n muuttamisesta](545.md) `545/2017`
+- [Laki opiskelijoiden oikeusturvalautakunnasta annetun lain 1 §:n muuttamisesta](546.md) `546/2017`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain 49 §:n muuttamisesta](547.md) `547/2017`
+- [Laki julkisesta työvoima\- ja yrityspalvelusta annetun lain muuttamisesta](548.md) `548/2017`
+- [Laki kotoutumisen edistämisestä annetun lain 24 §:n muuttamisesta](549.md) `549/2017`
+- [Laki työttömyysturvalain 1 luvun 5 §:n muuttamisesta ja väliaikaisesta muuttamisesta](550.md) `550/2017`
+- [Laki terveydenhuoltolain 17 §:n muuttamisesta](551.md) `551/2017`
+- [Laki Poliisiammattikorkeakoulusta annetun lain 22 §:n muuttamisesta](552.md) `552/2017`
+- [Laki ajokorttilain muuttamisesta](553.md) `553/2017`
+- [Laki kuorma\- ja linja\-auton kuljettajien ammattipätevyydestä annetun lain muuttamisesta](554.md) `554/2017`
+- [Laki rikosrekisterilain 6 §:n muuttamisesta](555.md) `555/2017`
+- [Laki eläinsuojelulain 26 b ja 33 f §:n muuttamisesta](556.md) `556/2017`
+- [Laki ympäristönsuojelulain 159 ja 195 §:n muuttamisesta](557.md) `557/2017`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta annetun lain eräiden säännösten kumoamisesta](558.md) `558/2017`
+- [Laki opintotukilain muuttamisesta](559.md) `559/2017`
+- [Maa\- ja metsätalousministeriön asetus Suomen riistakeskuksen ja riistanhoitoyhdistysten julkisten hallintotehtävien maksuista vuosina 2017–2019 annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](560.md) `560/2017`
+- [Valtioneuvoston asetus rajavartiolaitoksesta annetun valtioneuvoston asetuksen 26 §:n muuttamisesta](561.md) `561/2017`
+- [Ulkoasiainministeriön asetus Nepalin opetussektoriohjelman toisesta vaiheesta Nepalin kanssa tehdyn sopimuksen voimaansaattamisesta](562.md) `562/2017`
+- [Verohallinnon päätös  muistiinpanovelvollisuudesta](563.md) `563/2017`
+- [Verohallinnon päätös työnantajan ja suorituksen maksajan muistiinpanovelvollisuudesta](564.md) `564/2017`
+- [Verohallinnon päätös veroilmoituksen ja kiinteistötietojen korjausilmoituksen antamisesta](565.md) `565/2017`
+- [Verohallinnon päätös yhteisön ja yhteisetuuden ennakonkannon alarajasta ja kantoeristä](566.md) `566/2017`
+- [Valtioneuvoston asetus Elohopeaa koskevan Minamatan yleissopimuksen voimaansaattamisesta](567.md) `567/2017`
+- [Valtioneuvoston asetus Euroopan unionin ja Euroopan atomienergiayhteisön ja niiden jäsenvaltioiden sekä Ukrainan välisen assosiaatiosopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](568.md) `568/2017`
+- [Valtioneuvoston asetus ajoneuvojen rakenteesta ja varusteista annetun valtioneuvoston asetuksen muuttamisesta](569.md) `569/2017`
+- [Valtioneuvoston asetus ajoneuvojen käytöstä tiellä annetun valtioneuvoston asetuksen muuttamisesta](570.md) `570/2017`
+- [Valtioneuvoston asetus ajoneuvojen hyväksynnästä annetun valtioneuvoston asetuksen muuttamisesta](571.md) `571/2017`
+- [Liikenne\- ja viestintäministeriön asetus erikoiskuljetuksista ja erikoiskuljetusajoneuvoista annetun liikenne\- ja viestintäministeriön asetuksen kumoamisesta](572.md) `572/2017`
+- [Laki puolustusvoimista annetun lain 47 §:n muuttamisesta](573.md) `573/2017`
+- [Laki joukkolainanhaltijoiden edustajasta](574.md) `574/2017`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](575.md) `575/2017`
+- [Laki Finanssivalvonnan valvontamaksusta annetun lain 1 ja 6 §:n muuttamisesta](576.md) `576/2017`
+- [Laki vakuutusyhtiölain 2 luvun 16 §:n muuttamisesta](577.md) `577/2017`
+- [Laki kaupankäynnistä rahoitusvälineillä annetun lain muuttamisesta](578.md) `578/2017`
+- [Laki arvo\-osuustileistä annetun lain 29 §:n muuttamisesta](579.md) `579/2017`
+- [Laki joukkorahoituslain 1 §:n muuttamisesta](580.md) `580/2017`
+- [Laki arvo\-osuusjärjestelmästä ja selvitystoiminnasta annetun lain 4 luvun 3 §:n muuttamisesta](581.md) `581/2017`
+- [Valtioneuvoston asetus  erikoissairaanhoidon työnjaosta ja eräiden tehtävien keskittämisestä](582.md) `582/2017`
+- [Valtioneuvoston asetus  kiireellisen hoidon perusteista ja päivystyksen erikoisalakohtaisista edellytyksistä](583.md) `583/2017`
+- [Valtioneuvoston asetus  ympäristönsuojelusta annetun valtioneuvoston asetuksen 1 ja 2 §:n muuttamisesta](584.md) `584/2017`
+- [Sosiaali\- ja terveysministeriön asetus  ensihoitopalvelusta](585.md) `585/2017`
+- [Verohallinnon päätös vuoden 2017 kiinteistöverotuksen päättymisestä](586.md) `586/2017`
+- [Maakaasumarkkinalaki](587.md) `587/2017`
+- [Laki maakaasun siirtoverkonhaltijan eriyttämisestä](588.md) `588/2017`
+- [Laki sähkö\- ja maakaasumarkkinoiden valvonnasta annetun lain muuttamisesta](589.md) `589/2017`
+- [Laki sähkömarkkinalain muuttamisesta](590.md) `590/2017`
+- [Laki sähkön ja eräiden polttoaineiden valmisteverosta annetun lain 2 §:n muuttamisesta](591.md) `591/2017`
+- [Valtioneuvoston asetus merioikeudellisia vaateita koskevan vastuun rajoittamisesta tehdyn vuoden 1976 yleissopimuksen muuttamisesta tehdyn vuoden 1996 pöytäkirjan voimaansaattamisesta sekä pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta annetun tasavallan presidentin asetuksen muuttamisesta](592.md) `592/2017`
+- [Valtioneuvoston asetus matkustajien ja matkatavaroiden kuljettamisesta meritse vuonna 1974 tehdyn Ateenan yleissopimuksen vuoden 2002 pöytäkirjan voimaansaattamisesta sekä pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain, merilain muuttamisesta annetun lain ja valmismatkalain 24 §:n muuttamisesta annetun lain voimaantulosta](593.md) `593/2017`
+- [Liikenne\- ja viestintäministeriön asetus liikenne\- ja viestintäministeriön työjärjestyksen muuttamisesta](594.md) `594/2017`
+- [Valtioneuvoston asetus liikenne\- ja viestintäministeriöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](595.md) `595/2017`
+- [Liikenne\- ja viestintäministeriön asetus  kauppa\- ja teollisuusministeriön päätöksen \(326/1967\) kumoamisesta](596.md) `596/2017`
+- [Valtioneuvoston asetus Kansainvälisen merenkulkujärjestön eräiden yleissopimusten eräiden liitteiden muutosten voimaansaattamisesta sekä muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](597.md) `597/2017`
+- [Valtioneuvoston asetus laivapäiväkirjan ja konepäiväkirjan pitämisestä eräissä aluksissa annetun asetuksen kumoamisesta](598.md) `598/2017`
+- [Verohallinnon päätös palautusten säilyttämisestä](599.md) `599/2017`
+- [Ulkoasiainministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoasiainministeriön asetuksen muuttamisesta](600.md) `600/2017`
+- [Valtioneuvoston asetus julkisen talouden suunnitelmasta annetun valtioneuvoston asetuksen muuttamisesta](601.md) `601/2017`
+- [Valtioneuvoston asetus Tullin voimankäyttövälineistä ja tullimiehen oikeudesta kantaa voimankäyttövälineitä](602.md) `602/2017`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](603.md) `603/2017`
+- [Maa\- ja metsätalousministeriön asetus metson, teeren, pyyn ja riekon metsästyksen kieltämisestä metsästysvuonna 2017–2018](604.md) `604/2017`
+- [Verohallinnon päätös  luonnollisen henkilön ja kuolinpesän ennakonkannon alarajasta ja kantoeristä](605.md) `605/2017`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](606.md) `606/2017`
+- [Valtioneuvoston asetus maa\- ja metsätalousministeriöstä annetun valtioneuvoston asetuksen 6 §:n muuttamisesta](607.md) `607/2017`
+- [Valtioneuvoston asetus postin toimipisteiden sijoittamisesta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](608.md) `608/2017`
+- [Valtioneuvoston asetus markkinoille saatettavien savukkeensytyttimien lapsiturvallisuuden varmistamisesta ja muiden kuin savukkeensytytintä muistuttavien savukkeensytyttimien markkinoille saattamisen kieltämisestä annetun valtioneuvoston asetuksen kumoamisesta](609.md) `609/2017`
+- [Valtiovarainministeriön asetus  Tullin voimakeinoista sekä kulkuneuvon pysäyttämisestä](610.md) `610/2017`
+- [Laki vesilain muuttamisesta](611.md) `611/2017`
+- [Laki ympäristönsuojelulain 68 ja 69 §:n muuttamisesta](612.md) `612/2017`
+- [Laki eräistä vesien käyttämistä varten myönnettävistä oikeuksista annetun lain kumoamisesta](613.md) `613/2017`
+- [Laki postilain muuttamisesta](614.md) `614/2017`
+- [Tasavallan presidentin asetus arvonimistä annetun tasavallan presidentin asetuksen liitteen 1 muuttamisesta](615.md) `615/2017`
+- [Valtioneuvoston asetus Etelämannerta koskevaan sopimukseen liittyvän ympäristönsuojelupöytäkirjan liitteen V alaisten toimenpiteiden voimaansaattamisesta](616.md) `616/2017`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta \(EU\) 2017/1509 Korean demokraattista kansantasavaltaa koskevista rajoittavista toimenpiteistä ja asetuksen \(EY\) N:o 329/2007 kumoamisesta](617.md) `617/2017`
+- [Laki rajavartiolaitoksen hallinnosta annetun lain muuttamisesta](618.md) `618/2017`
+- [Laki rajavartiolain muuttamisesta](619.md) `619/2017`
+- [Laki henkilötietojen käsittelystä rajavartiolaitoksessa annetun lain 39 §:n muuttamisesta](620.md) `620/2017`
+- [Laki poliisilain 9 luvun muuttamisesta](621.md) `621/2017`
+- [Laki ampuma\-aselain 17 §:n muuttamisesta](622.md) `622/2017`
+- [Laki ampuma\-aselain muuttamisesta](623.md) `623/2017`
+- [Laki rikoslain 41 luvun 1 §:n muuttamisesta](624.md) `624/2017`
+- [Laki poliisilain 2 luvun muuttamisesta](625.md) `625/2017`
+- [Laki jätelain muuttamisesta](626.md) `626/2017`
+- [Laki ympäristönsuojelulain 221 a §:n muuttamisesta](627.md) `627/2017`
+- [Laki merenkulun ympäristönsuojelulain muuttamisesta](628.md) `628/2017`
+- [Laki aluksen teknisestä turvallisuudesta ja turvallisesta käytöstä annetun lain muuttamisesta](629.md) `629/2017`
+- [Laki rikoslain 48 luvun 1 §:n muuttamisesta](630.md) `630/2017`
+- [Laki lentoliikenteestä Dominikaanisen tasavallan kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](631.md) `631/2017`
+- [Laki lentoliikenteestä Mauritiuksen kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](632.md) `632/2017`
+- [Laki lentoliikenteestä Seychellien tasavallan kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](633.md) `633/2017`
+- [Laki lentoliikenteestä Sri Lankan kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](634.md) `634/2017`
+- [Laki jätteen ja muun aineen mereen laskemisen aiheuttaman meren pilaantumisen ehkäisemisestä tehdyn vuoden 1972 yleissopimuksen vuoden 1996 pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta sekä jätteen ja muun aineen mereen laskemisen aiheuttaman meren pilaantumisen ehkäisemisestä tehdyn yleissopimuksen eräiden määräysten hyväksymisestä annetun lain kumoamisesta](635.md) `635/2017`
+- [Laki jätteen ja muun aineen mereen laskemisen aiheuttaman meren pilaantumisen ehkäisemisestä tehdyn vuoden 1972 yleissopimuksen vuoden 1996 pöytäkirjaan vuonna 2009 tehtyjen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](636.md) `636/2017`
+- [Laki jätteen ja muun aineen mereen laskemisen aiheuttaman meren pilaantumisen ehkäisemisestä tehdyn vuoden 1972 yleissopimuksen vuoden 1996 pöytäkirjaan vuonna 2013 tehtyjen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](637.md) `637/2017`
+- [Laki Suomen talousvyöhykkeestä annetun lain 3 §:n muuttamisesta](638.md) `638/2017`
+- [Valtiovarainministeriön asetus Tullin suoritteiden maksullisuudesta annetun valtiovarainministeriön asetuksen liitteen muuttamisesta](639.md) `639/2017`
+- [Sosiaali\- ja terveysministeriön asetus Sosiaali\- ja terveysalan lupa\- ja valvontaviraston maksullisista suoritteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](640.md) `640/2017`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](641.md) `641/2017`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](642.md) `642/2017`
+- [Valtioneuvoston asetus liikkumispalveluita koskevista olennaisista tiedoista](643.md) `643/2017`
+- [Valtioneuvoston asetus Pohjois\-Pohjanmaan maakunnan eteläosien luonnonsuojelualueista](644.md) `644/2017`
+- [Ympäristöministeriön asetus Pohjois\-Pohjanmaan maakunnan eteläosien luonnonsuojelualueista](645.md) `645/2017`
+- [Valtioneuvoston asetus Itä\-Lapin luonnonsuojelualueista](646.md) `646/2017`
+- [Ympäristöministeriön asetus  Itä\-Lapin luonnonsuojelualueista](647.md) `647/2017`
+- [Sisäministeriön asetus vapaaehtoisen paluun avustuksesta](648.md) `648/2017`
+- [Valtioneuvoston asetus valtion virkamiesasetuksen muuttamisesta](649.md) `649/2017`
+- [Valtioneuvoston asetus Valtion talous\- ja henkilöstöhallinnon palvelukeskuksesta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](650.md) `650/2017`
+- [Valtioneuvoston asetus työ\- ja elinkeinoministeriöstä annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](651.md) `651/2017`
+- [Valtioneuvoston asetus kulttuuriesineiden maastaviennin rajoittamisesta](652.md) `652/2017`
+- [Liikenne\- ja viestintäministeriön asetus Liikenneviraston maksullisista suoritteista](653.md) `653/2017`
+- [Laki Euroopan unionin ja sen jäsenvaltioiden sekä Uuden\-Seelannin välillä tehdyn suhteita ja yhteistyötä koskevan kumppanuussopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](654.md) `654/2017`
+- [Ulkoasiainministeriön asetus ulkoasiainministeriön työjärjestyksen muuttamisesta](655.md) `655/2017`
+- [Valtioneuvoston asetus vuodelta 2017 maksettavasta Etelä\-Suomen kansallisesta tuesta annetun valtioneuvoston asetuksen 5 §:n muuttamisesta](656.md) `656/2017`
+- [Valtioneuvoston asetus yleisen edun kanavien uutis\- ja ajankohtaistoiminnan tukemisesta](657.md) `657/2017`
+- [Valtioneuvoston asetus rahapeliasioiden neuvottelukunnasta](658.md) `658/2017`
+- [Valtioneuvoston asetus aluksen miehityksestä ja laivaväen pätevyydestä annetun valtioneuvoston asetuksen muuttamisesta](659.md) `659/2017`
+- [Opetus\- ja kulttuuriministeriön asetus yleisistä kirjastoista](660.md) `660/2017`
+- [Valtioneuvoston kanslian asetus valtioneuvoston kanslian suoritteiden maksullisuudesta](661.md) `661/2017`
+- [Sisäministeriön ilmoitus sisäministeriön asetuksesta Veikkaus Oy:n rahapelien pelisäännöistä](662.md) `662/2017`
+- [Verohallinnon päätös  yksityisten apteekkien liikevaihdon keskiarvosta vuonna 2016](663.md) `663/2017`
+- [Verohallinnon päätös muiden verovelvollisten kuin yhteisöjen ja yhteisetuuksien verovuoden 2016 verotuksen päättymisestä](664.md) `664/2017`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta \(EU\) 2017/1770 Malin tilanteen johdosta määrättävistä rajoittavista toimenpiteistä](665.md) `665/2017`
+- [Valtioneuvoston asetus Verohallinnon yksiköistä annetun valtioneuvoston asetuksen muuttamisesta](666.md) `666/2017`
+- [Valtioneuvoston asetus hedelmä\- ja vihannesalan tuottajaorganisaatiotuesta](667.md) `667/2017`
+- [Valtioneuvoston asetus tuottajaorganisaatioista](668.md) `668/2017`
+- [Valtioneuvoston asetus eräiden maataloustuotteiden hintaselvityksiin liittyvistä ilmoituksista](669.md) `669/2017`
+- [Valtioneuvoston asetus täydentävien ehtojen lakisääteisistä hoitovaatimuksista sekä niiden ja hyvän maatalouden ja ympäristön vaatimusten noudattamisen valvonnasta annetun valtioneuvoston asetuksen liitteiden 2 ja 3 muuttamisesta](670.md) `670/2017`
+- [Maa\- ja metsätalousministeriön asetus eräiden maataloustuotteiden hintaselvityksiin liittyvistä ilmoituksista annetun maa\- ja metsätalousministeriön asetuksen kumoamisesta](671.md) `671/2017`
+- [Valtioneuvoston asetus veroasioita koskevasta tiedonvaihdosta Yhdistyneiden Arabiemiirikuntien kanssa tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](672.md) `672/2017`
+- [Valtioneuvoston asetus ammatillisesta koulutuksesta](673.md) `673/2017`
+- [Valtioneuvoston asetus luonnonvara\- ja ympäristötutkimuksen yhteenliittymästä annetun valtioneuvoston asetuksen kumoamisesta](674.md) `674/2017`
+- [Maa\- ja metsätalousministeriön asetus poikkeusluvalla sallittavasta ilveksen metsästyksestä metsästysvuonna 2017–2018](675.md) `675/2017`
+- [Valtioneuvoston asetus  maanpuolustuksen kannalta erityissuojattavista kohteista](676.md) `676/2017`
+- [Valtioneuvoston asetus sosiaali\- ja terveysalan asiantuntijalaitosten yhteenliittymästä annetun valtioneuvoston asetuksen kumoamisesta](677.md) `677/2017`
+- [Valtiovarainministeriön asetus rahanpesun ja terrorismin rahoittamisen estämisestä annetussa laissa tarkoitetusta vähäisestä taloudellisesta toiminnasta](678.md) `678/2017`
+- [Opetus\- ja kulttuuriministeriön asetus oppisopimuskoulutuksessa olevan opiskelijan opintososiaalisista etuuksista](679.md) `679/2017`
+- [Opetus\- ja kulttuuriministeriön asetus ammatillisen koulutuksen tutkintorakenteesta](680.md) `680/2017`
+- [Opetus\- ja kulttuuriministeriön asetus eräiden oppilailta ja opiskelijoilta perittävien maksujen perusteista annetun opetusministeriön asetuksen muuttamisesta](681.md) `681/2017`
+- [Opetus\- ja kulttuuriministeriön asetus ammatillisen koulutuksen rahoituksen laskentaperusteista](682.md) `682/2017`
+- [Sosiaali\- ja terveysministeriön asetus talousveden laatuvaatimuksista ja valvontatutkimuksista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](683.md) `683/2017`
+- [Liikenne\- ja viestintäministeriön asetus  liikenne\- ja viestintäministeriön työjärjestyksen 57 §:n muuttamisesta](684.md) `684/2017`
+- [Valtioneuvoston asetus ammatillisen koulutuksen, lukiokoulutuksen ja perusopetuksen jälkeisen valmistavan koulutuksen hakumenettelystä annetun valtioneuvoston asetuksen muuttamisesta](685.md) `685/2017`
+- [Valtioneuvoston asetus afrikkalaisen sikaruton leviämisen ehkäisemiseksi sikojen ulkotarhojen aitaamiseen myönnettävästä avustuksesta annetun valtioneuvoston asetuksen 3 ja 5 §:n muuttamisesta](686.md) `686/2017`
+- [Maa\- ja metsätalousministeriön asetus varotoimenpiteistä afrikkalaisen sikaruton leviämisen ehkäisemiseksi luonnonvaraisten villisikojen ja kotieläinten välillä annetun maa\- ja metsätalousministeriön asetuksen 3 §:n muuttamisesta](687.md) `687/2017`
+- [Valtioneuvoston asetus siviilipalveluksesta annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](688.md) `688/2017`
+- [Valtioneuvoston asetus maakotkien porotaloudelle aiheuttamien vahinkojen korvaamisesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](689.md) `689/2017`
+- [Maa\- ja metsätalousministeriön asetus hirvieläinten näivetystaudin seurannasta](690.md) `690/2017`
+- [Valtioneuvoston asetus valtioiden rajat ylittävien ympäristövaikutusten arvioinnista tehdyn yleissopimuksen muuttamisesta](691.md) `691/2017`
+- [Vuoden 2017 II lisätalousarvio](692.md) `692/2017`
+- [Laki Maatalousyrittäjien eläkelaitokselle maksettavien vakuutusmaksujen viivästyskoron väliaikaisesta alentamisesta](693.md) `693/2017`
+- [Laki kunnallisesta työmarkkinalaitoksesta annetun lain 2 §:n muuttamisesta](694.md) `694/2017`
+- [Valtioneuvoston asetus vuonna 2018 toimitettavassa presidentinvaalissa ennakkoäänestyspaikkoina olevista Suomen edustustoista ja niiden toimipaikoista](695.md) `695/2017`
+- [Valtioneuvoston asetus lentoliikenteestä Mauritiuksen kanssa tehdystä sopimuksesta](696.md) `696/2017`
+- [Valtioneuvoston asetus huumausaineina pidettävistä aineista, valmisteista ja kasveista annetun valtioneuvoston asetuksen muuttamisesta](697.md) `697/2017`
+- [Valtioneuvoston asetus kuluttajamarkkinoilta kielletyistä psykoaktiivisista aineista annetun valtioneuvoston asetuksen liitteen muuttamisesta](698.md) `698/2017`
+- [Opetus\- ja kulttuuriministeriön asetus opiskelijaksi ottamisen perusteista ammatillisessa perustutkintokoulutuksessa](699.md) `699/2017`
+- [Valtiovarainministeriön asetus Topelius 200 vuotta \-juhlarahasta](700.md) `700/2017`
+- [Valtioneuvoston asetus  voimavarojen antamisesta Yhdistyneiden Kansakuntien operaatioon Libanonissa \(UNIFIL\) Yhdistyneiden Kansakuntien ja Suomen välillä tehdystä yhteistyöpöytäkirjasta](701.md) `701/2017`
+- [Valtioneuvoston asetus ennakkoperintäasetuksen muuttamisesta](702.md) `702/2017`
+- [Valtiovarainministeriön asetus verokannosta annetun valtiovarainministeriön asetuksen muuttamisesta](703.md) `703/2017`
+- [Valtioneuvoston asetus valtiovarainministeriöstä annetun valtioneuvoston asetuksen muuttamisesta](704.md) `704/2017`
+- [Valtiovarainministeriön asetus valtiovarainministeriön työjärjestyksestä annetun valtiovarainministeriön asetuksen muuttamisesta](705.md) `705/2017`
+- [Sisäministeriön asetus  Pelastusopiston maksullisista suoritteista](706.md) `706/2017`
+- [Sisäministeriön asetus Hätäkeskuslaitoksen maksullisista suoritteista](707.md) `707/2017`
+- [Sosiaali\- ja terveysministeriön asetus palkkakertoimesta vuodelle 2018](708.md) `708/2017`
+- [Sosiaali\- ja terveysministeriön asetus työeläkeindeksistä vuodelle 2018](709.md) `709/2017`
+- [Sosiaali\- ja terveysministeriön asetus terveydenhuollon valtakunnallisten tietojärjestelmäpalvelujen käyttömaksuista](710.md) `710/2017`
+- [Verohallinnon päätös korkoajan laskemisesta](711.md) `711/2017`
+- [Puolustusministeriön asetus  vaarallisten kemikaalien teollisen käsittelyn ja varastoinnin turvallisuusvaatimuksista puolustushallinnossa](712.md) `712/2017`
+- [Puolustusministeriön asetus vaarallisten kemikaalien teollisen käsittelyn ja varastoinnin valvonnasta puolustushallinnossa](713.md) `713/2017`
+- [Valtioneuvoston asetus tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi ja veron kiertämisen estämiseksi Saksan kanssa tehdyn sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta](714.md) `714/2017`
+- [Valtioneuvoston asetus jätteen ja muun aineen mereen laskemisen aiheuttaman meren pilaantumisen ehkäisemisestä tehdyn vuoden 1972 yleissopimuksen vuoden 1996 pöytäkirjasta](715.md) `715/2017`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta eräiden maa\- ja metsätalousministeriön määräyskokoelmassa olevien asetusten, määräysten ja päätösten kumoamisesta](716.md) `716/2017`
+- [Laki keskinäisestä avunannosta ja yhteistyöstä tulliasioissa Uruguayn itäisen tasavallan kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta](717.md) `717/2017`
+- [Valtioneuvoston asetus terveydenhuollon palveluvalikoimaneuvostosta annetun valtioneuvoston asetuksen 2 ja 3 §:n muuttamisesta](718.md) `718/2017`
+- [Verohallinnon päätös pellon keskimääräisestä vuotuisesta tuotosta ja salaojituslisästä](719.md) `719/2017`
+- [Verohallinnon päätös metsän keskimääräisestä vuotuisesta tuotosta](720.md) `720/2017`
+- [Verohallinnon päätös kunnallisveron, vakuutetun sairausvakuutusmaksun ja kiinteistöveron vapauttamisen ratkaisuvallan pidättämistä koskevan ilmoituksen antamisesta](721.md) `721/2017`
+- [Laki Kuntien takauskeskuksesta annetun lain 5 ja 8 §:n muuttamisesta](722.md) `722/2017`
+- [Laki kiinteistöverolain 14 §:n muuttamisesta](723.md) `723/2017`
+- [Laki kiinteistöverolain muuttamisesta](724.md) `724/2017`
+- [Sisäministeriön asetus  Rajavartiolaitoksen hallitsemaa tilaa ja aluetta koskevista liikkumisrajoituksista ja \-kielloista annetun sisäasiainministeriön asetuksen muuttamisesta](725.md) `725/2017`
+- [Laki ajoneuvoverolain 57 ja 66 §:n muuttamisesta](726.md) `726/2017`
+- [Laki polttoainemaksusta annetun lain 32 §:n muuttamisesta](727.md) `727/2017`
+- [Laki ajoneuvolain 96 §:n muuttamisesta](728.md) `728/2017`
+- [Laki rikesakkorikkomuksista annetun lain 10 §:n muuttamisesta](729.md) `729/2017`
+- [Valtioneuvoston asetus vuodelta 2017 maksettavasta lihan ja vuodelta 2016 maksettavasta maidon kuljetusavustuksesta sekä vuodelta 2017 maksettavasta eräiden kotieläintalouden palvelujen tuesta](730.md) `730/2017`
+- [Valtioneuvoston kanslian asetus valtioneuvoston kanslian työjärjestyksestä annetun valtioneuvoston kanslian asetuksen muuttamisesta](731.md) `731/2017`
+- [Valtioneuvoston asetus ihmishengen turvallisuudesta merellä vuonna 1974 tehtyyn kansainväliseen yleissopimukseen liittyvään IMDG\-säännöstöön tehdyistä muutoksista](732.md) `732/2017`
+- [Valtiovarainministeriön asetus Suomen itsenäisyys 6\.12\.1917 \-juhlarahasta](733.md) `733/2017`
+- [Valtioneuvoston asetus kumppanuudesta ja yhteistyöstä Euroopan unionin ja sen jäsenvaltioiden sekä Mongolian välillä tehdystä puitesopimuksesta](734.md) `734/2017`
+- [Valtioneuvoston asetus opetus\- ja kulttuuritoimen rahoituksesta annetun valtioneuvoston asetuksen muuttamisesta](735.md) `735/2017`
+- [Valtioneuvoston asetus eräiden porotalouden ja luontaiselinkeinojen rakennetuista annettuun lakiin liitty\-vien lakien voimaantulosta](736.md) `736/2017`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta tiellä annetun valtioneuvoston asetuksen muuttamisesta](737.md) `737/2017`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetuksesta rautatiellä annetun valtioneuvoston asetuksen muuttamisesta](738.md) `738/2017`
+- [Valtioneuvoston asetus vaarallisten aineiden kuljetukseen tarkoitettujen pakkausten, säiliöiden ja irtotavarakonttien vaatimustenmukaisuuden osoittamisesta ja tähän liittyviä tehtäviä suorittavista tarkastuslaitoksista annetun asetuksen 2 §:n muuttamisesta](739.md) `739/2017`
+- [Sisäministeriön asetus Rajavartiolaitoksen suoritteiden maksuista annetun sisäministeriön asetuksen 8 §:n ja liitteen muuttamisesta](740.md) `740/2017`
+- [Verohallinnon päätös  veroilmoituksen ja kiinteistötietojen korjausilmoituksen antamisesta annetun päätöksen 14 §:n muuttamisesta](741.md) `741/2017`
+- [Valtiovarainministeriön asetus rakennusten jälleenhankinta\-arvon perusteista](742.md) `742/2017`
+- [Valtiovarainministeriön asetus vesivoimalaitoksen ja sen rakenteiden jälleenhankinta\-arvon perusteista](743.md) `743/2017`
+- [Verohallinnon päätös matkakuluvähennyksen määrästä vuodelta 2017 toimitettavassa verotuksessa](744.md) `744/2017`
+- [Ympäristöministeriön asetus savupiippujen rakenteista ja paloturvallisuudesta](745.md) `745/2017`
+- [Ulkoasiainministeriön ilmoitus rangaistussäännöksistä, joita sovelletaan rikottaessa neuvoston asetusta \(EU\) 2017/2063 Venezuelan tilanteen johdosta määrättävistä rajoittavista toimenpiteistä](746.md) `746/2017`
+- [Valtioneuvoston asetus ampuma\-aseasetuksen muuttamisesta](747.md) `747/2017`
+- [Opetus\- ja kulttuuriministeriön asetus Kansallisen audiovisuaalisen instituutin ja kuvaohjelmalautakunnan suoritteiden maksullisuudesta vuosina 2018–2019](748.md) `748/2017`
+- [Laki liiketoimintakiellosta annetun lain muuttamisesta](749.md) `749/2017`
+- [Laki rikostorjunnasta Tullissa annetun lain 2 luvun 14 §:n muuttamisesta](750.md) `750/2017`
+- [Laki konkurssilain muuttamisesta](751.md) `751/2017`
+- [Laki sähkö\- ja maakaasumarkkinoiden valvonnasta annetun lain 31 b §:n kumoamisesta](752.md) `752/2017`
+- [Laki poliisilain 2 luvun muuttamisesta](753.md) `753/2017`
+- [Laki ylimääräisen taiteilijaeläkkeen perusteella myönnettävistä perhe\-eläkkeistä](754.md) `754/2017`
+- [Laki rakennuksen energiatodistuksesta annetun lain muuttamisesta](755.md) `755/2017`
+- [Laki rakennusten energiatodistustietojärjestelmästä annetun lain 3 ja 5 §:n muuttamisesta](756.md) `756/2017`
+- [Laki diplomaattisten tai konsuliedustustojen tai kansainvälisissä hallitustenvälisissä järjestöissä toimivien edustustojen työntekijöiden puolisoiden ansiotyöstä Etelä\-Afrikan kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](757.md) `757/2017`
+- [Laki diplomaattisen tai konsuliedustuston jäsenten perheenjäsenten ansiotyöstä Intian kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](758.md) `758/2017`
+- [Valtioneuvoston asetus Intian diplomaattipassin haltijoiden vapauttamisesta viisumivelvollisuudesta](759.md) `759/2017`
+- [Valtioneuvoston asetus Väestörekisterikeskuksen eräistä tehtävistä](760.md) `760/2017`
+- [Valtioneuvoston asetus valtion rahoituksen perusteena käytettävistä lukiokoulutuksen, taiteen perusopetuksen ja kansalaisopistojen keskimääräisistä yksikköhinnoista vuonna 2018](761.md) `761/2017`
+- [Valtioneuvoston asetus sairausvakuutusmaksujen maksuprosenteista vuonna 2018](762.md) `762/2017`
+- [Työ\- ja elinkeinoministeriön asetus Turvallisuus\- ja kemikaaliviraston maksullisista suoritteista annetun työ\- ja elinkeinoministeriön asetuksen muuttamisesta](763.md) `763/2017`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän työeläkevakuutusmaksuprosenteista vuonna 2018](764.md) `764/2017`
+- [Sosiaali\- ja terveysministeriön asetus yrittäjän työeläkevakuutusmaksuprosenteista ja maatalousyrittäjän työeläkevakuutusmaksun perusprosenteista vuonna 2018](765.md) `765/2017`
+- [Verohallinnon päätös  rakennusmaan verotusarvon laskentaperusteista](766.md) `766/2017`
+- [Valtiovarainministeriön asetus Saamelaiskulttuuri–juhlarahasta](767.md) `767/2017`
+- [Ulkoasiainministeriön asetus Sambian metsäsektorin kehitykselle annettavaa Suomen tukea koskevan ohjelman Sambian kanssa tehdyn sopimuksen muutoksesta](768.md) `768/2017`
+- [Sosiaali\- ja terveysministeriön asetus elinaikakertoimesta vuodelle 2018](769.md) `769/2017`
+- [Valtioneuvoston asetus yhteispalvelun neuvottelukunnasta](770.md) `770/2017`
+- [Valtioneuvoston asetus porotaloudesta saatujen tulojen vuoden 2017 verotuksessa noudatettavista tuotto\-perusteista](771.md) `771/2017`
+- [Valtioneuvoston asetus eläkkeensaajan asumistuen määräytymisperusteista vuonna 2018](772.md) `772/2017`
+- [Valtioneuvoston asetus sosiaali\- ja terveydenhuollon asiakasmaksuista annetun asetuksen muuttamisesta](773.md) `773/2017`
+- [Sosiaali\- ja terveysministeriön ilmoitus eräistä indeksillä tarkistetuista sosiaali\- ja terveydenhuollon asiakasmaksuista](774.md) `774/2017`
+- [Opetus\- ja kulttuuriministeriön asetus näkövammaisten kirjaston suoritteiden maksullisuudesta vuonna 2018](775.md) `775/2017`
+- [Maa\- ja metsätalousministeriön asetus Euroopan unionin ulkopuolisista maista tuotavasta lihasta, lihasta jalostetuista tuotteista ja lihasta jalostettuja tuotteita sisältävistä yhdistelmätuotteista](776.md) `776/2017`
+- [Vuoden 2017 III lisätalousarvio](777.md) `777/2017`
+- [Työ\- ja elinkeinoministeriön asetus Kilpailu\- ja kuluttajaviraston maksullisista suoritteista](778.md) `778/2017`
+- [LUETTELO kuntien ja seurakuntien tuloveroprosenteista vuonna 2018](779.md) `779/2017`
+- [Verohallinnon päätös vuodelta 2018 toimitettavassa verotuksessa noudatettavista luontoisetujen laskentaperusteista](780.md) `780/2017`
+- [Valtiovarainministeriön asetus verovuoden 2017 jäännösveron eräpäivistä ja ennakonpalautusten maksamisesta sekä vuoden 2018 kiinteistöveron eräpäivistä](781.md) `781/2017`
+- [Ympäristöministeriön asetus rakennusten kosteusteknisestä toimivuudesta](782.md) `782/2017`
+- [Verohallinnon päätös verovapaista matkakustannusten korvauksista vuonna 2018](783.md) `783/2017`
+- [Valtioneuvoston asetus ylioppilastutkinnosta annetun valtioneuvoston asetuksen muuttamisesta](784.md) `784/2017`
+- [Valtioneuvoston asetus Kansallisesta koulutuksen arviointikeskuksesta annetun valtioneuvoston asetuksen muuttamisesta](785.md) `785/2017`
+- [Valtioneuvoston asetus Opetushallituksesta annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](786.md) `786/2017`
+- [Valtioneuvoston asetus kansainvälisistä pääliikenneväylistä tehdyn eurooppalaisen sopimuksen \(AGR\) liitteen I muutoksesta](787.md) `787/2017`
+- [Valtioneuvoston asetus rakennuksissa käytettävien energiamuotojen kertoimien lukuarvoista](788.md) `788/2017`
+- [Valtioneuvoston asetus maankäyttö\- ja rakennusasetuksen eräiden säännösten kumoamisesta](789.md) `789/2017`
+- [Valtiovarainministeriön asetus verontilityslain 5 §:ssä tarkoitettujen verovuodelta 2017 ennen verotuksen päättymistä maksettujen verojen tilityksissä sovellettavista jako\-osuuksista ja työnantajasuoritusten vähimmäismäärästä](790.md) `790/2017`
+- [Valtiovarainministeriön asetus yksittäisten kuntien verovuoden 2018 yhteisöveron jako\-osuuksien laskentaperusteista](791.md) `791/2017`
+- [Laki työeläkeasioiden muutoksenhakulautakunnasta annetun lain muuttamisesta](792.md) `792/2017`
+- [Laki tapaturma\-asioiden muutoksenhakulautakunnasta annetun lain muuttamisesta](793.md) `793/2017`
+- [Laki sosiaaliturvan muutoksenhakulautakunnasta annetun lain muuttamisesta](794.md) `794/2017`
+- [Laki työttömyysturvalain 12 a luvun kumoamisesta](795.md) `795/2017`
+- [Ympäristöministeriön asetus rakennuksen ääniympäristöstä](796.md) `796/2017`
+- [Laki painelaitelain muuttamisesta](797.md) `797/2017`
+- [Laki Koulutusrahastosta annetun lain 5 ja 6 §:n muuttamisesta](798.md) `798/2017`
+- [Maa\- ja metsätalousministeriön asetus maa\- ja metsätalousministeriön työjärjestyksestä annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](799.md) `799/2017`
+- [Laki rikoslain muuttamisesta](800.md) `800/2017`
+- [Laki yhdistelmärangaistuksen täytäntöönpanosta](801.md) `801/2017`
+- [Laki pitkäaikaisvankien vapauttamismenettelystä annetun lain muuttamisesta](802.md) `802/2017`
+- [Laki oikeudenkäymiskaaren 17 luvun 37 §:n muuttamisesta](803.md) `803/2017`
+- [Laki vankeuslain muuttamisesta](804.md) `804/2017`
+- [Laki henkilötietojen käsittelystä Rikosseuraamuslaitoksessa annetun lain 6 §:n muuttamisesta](805.md) `805/2017`
+- [Laki rikosrekisterilain 2 §:n muuttamisesta](806.md) `806/2017`
+- [Laki valvotusta koevapaudesta annetun lain 13 ja 32 §:n muuttamisesta](807.md) `807/2017`
+- [Laki viranomaisten toiminnan julkisuudesta annetun lain 24 §:n muuttamisesta](808.md) `808/2017`
+- [Laki oikeudenkäynnin julkisuudesta yleisissä tuomioistuimissa annetun lain 9 §:n muuttamisesta](809.md) `809/2017`
+- [Laki eräisiin rangaistus\-, huolto\- ja hoitolaitoksiin otettujen henkilöiden tapaturmakorvauksesta annetun lain 1 §:n muuttamisesta](810.md) `810/2017`
+- [Laki rikosvahinkolain 14 §:n muuttamisesta](811.md) `811/2017`
+- [Laki maankäyttö\- ja rakennuslain muuttamisesta](812.md) `812/2017`
+- [Laki talous\- ja velkaneuvonnasta](813.md) `813/2017`
+- [Maa\- ja metsätalousministeriön asetus varotoimenpiteistä lintuinfluenssan leviämisen ehkäisemiseksi luonnonvaraisten ja kotieläiminä pidettävien lintujen välillä](814.md) `814/2017`
+- [Laki väestölaskentalain kumoamisesta](815.md) `815/2017`
+- [Laki  vahvasta sähköisestä tunnistamisesta ja sähköisistä luottamuspalveluista annetun lain muuttamisesta ja väliaikaisesta muuttamisesta](816.md) `816/2017`
+- [Laki yleisradioverosta annetun lain 2 §:n muuttamisesta](817.md) `817/2017`
+- [Laki poliittisesta vuoropuhelusta ja yhteistyöstä Euroopan unionin ja sen jäsenvaltioiden sekä Kuuban tasavallan välillä tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](818.md) `818/2017`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](819.md) `819/2017`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](820.md) `820/2017`
+- [Laki luottolaitosten ja sijoituspalveluyritysten kriisinratkaisusta annetun lain muuttamisesta](821.md) `821/2017`
+- [Laki rahoitusvakausviranomaisesta annetun lain muuttamisesta](822.md) `822/2017`
+- [Laki korkotulon lähdeverosta annetun lain 3 ja 5 §:n muuttamisesta](823.md) `823/2017`
+- [Laki liikepankeista ja muista osakeyhtiömuotoisista luottolaitoksista annetun lain 6 §:n muuttamisesta](824.md) `824/2017`
+- [Laki elinkeinotulon verottamisesta annetun lain 8 §:n muuttamisesta](825.md) `825/2017`
+- [Laki ulkomaanedustuksen korvauksista annetun lain muuttamisesta](826.md) `826/2017`
+- [Tasavallan presidentin asetus Suomen Punaisesta Rististä](827.md) `827/2017`
+- [Ulkoasiainministeriön asetus Investointituki kehitysmaille rahoitusinstrumentilla rahoitettavia hankkeita koskeva Sri Lankan kanssa tehdyn sopimuksen voimaansaattamisesta](828.md) `828/2017`
+- [Valtioneuvoston asetus vankeudesta annetun valtioneuvoston asetuksen muuttamisesta](829.md) `829/2017`
+- [Valtioneuvoston asetus tutkintavankeudesta annetun valtioneuvoston asetuksen muuttamisesta](830.md) `830/2017`
+- [Ulkoasiainministeriön asetus ulkoasiainministeriön työjärjestyksen muuttamisesta](831.md) `831/2017`
+- [Ulkoasiainministeriön asetus ulkomaanedustuksen korvauksista annetun ulkoasiainministeriön asetuksen muuttamisesta](832.md) `832/2017`
+- [Laki ympäristönsuojelulain muuttamisesta](833.md) `833/2017`
+- [Laki jätelain muuttamisesta](834.md) `834/2017`
+- [Työ\- ja elinkeinoministeriön asetus ulkomaalaislain nojalla säädettyihin tehtäviin toimivaltaisista työ\- ja elinkeinotoimistoista](835.md) `835/2017`
+- [Elintarviketurvallisuusviraston päätös rajoitusvyöhykkeen perustamisesta kalojen tarttuvan verta muodostavan kudoksen kuolion \(IHN\) vuoksi](836.md) `836/2017`
+- [Laki valtioneuvostosta annetun lain 1 ja 13 §:n muuttamisesta](837.md) `837/2017`
+- [Laki tupakkaverosta annetun lain muuttamisesta](838.md) `838/2017`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaisen työnantajakohtaisen vakuutuskannan, vastuun ja vakuutustoiminnan luovuttamisessa siirrettävästä vakavaraisuuspääomasta](839.md) `839/2017`
+- [Opetus\- ja kulttuuriministeriön ilmoitus indeksillä tarkistetuista varhaiskasvatuksen asiakasmaksuista](840.md) `840/2017`
+- [Valtioneuvoston asetus perustuesta, viherryttämistuesta ja nuoren viljelijän tuesta annetun valtioneuvoston asetuksen 9 ja 19 §:n muuttamisesta](841.md) `841/2017`
+- [Valtioneuvoston asetus vuodelta 2017 maksettavista lypsylehmä\-, nauta\-, lammas\- ja vuohipalkkioista sekä peltokasvipalkkiosta annetun valtioneuvoston asetuksen muuttamisesta](842.md) `842/2017`
+- [Valtioneuvoston asetus eräiden jätteiden hyödyntämisestä maarakentamisessa](843.md) `843/2017`
+- [Valtiovarainministeriön asetus peruskoron vahvistamisesta](844.md) `844/2017`
+- [Verohallinnon päätös vuonna 2018 sovellettavien ennakonpidätysperusteiden voimaantulosta](845.md) `845/2017`
+- [Valtioneuvoston asetus muuntogeenisistä elintarvikkeista ja rehuista annetun Euroopan parlamentin ja neuvoston asetuksen \(EY\) N:o 1829/2003 voimaantulon edellyttämistä kansallisista järjestelyistä annetun valtioneuvoston asetuksen 3 §:n muuttamisesta](846.md) `846/2017`
+- [Maa\- ja metsätalousministeriön asetus uuselintarvikkeista, Euroopan parlamentin ja neuvoston asetuksen \(EU\) N:o 1169/2011 muuttamisesta sekä Euroopan parlamentin ja neuvoston asetuksen \(EY\) N:o 258/97 ja komission asetuksen \(EY\) N:o 1852/2001 kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen \(EU\) 2015/2283 edellyttämistä kansallisista järjestelyistä](847.md) `847/2017`
+- [Ympäristöministeriön asetus rakennusten paloturvallisuudesta](848.md) `848/2017`
+- [Valtioneuvoston asetus eräiden hyvityssakkojen enimmäismääristä](849.md) `849/2017`
+- [Sisäministeriön ilmoitus sisäministeriön asetuksesta Veikkaus Oy:n rahapelien pelisäännöistä](850.md) `850/2017`
+- [Maa\- ja metsätalousministeriön ilmoitus maa\- ja metsätalousministeriön asetuksesta kasvinterveyden suojelemisesta annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](851.md) `851/2017`
+- [Valtiovarainministeriön asetus valtiovarainministeriön maksullisista suoritteista](852.md) `852/2017`
+- [Valtiovarainministeriön päätös valtionhallinnon yhteishankinnoista annetun valtiovarainministeriön päätöksen 1 §:n muuttamisesta](853.md) `853/2017`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkesäätiön eläkevastuun laskuperusteista annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](854.md) `854/2017`
+- [Sosiaali\- ja terveysministeriön asetus työntekijän eläkelain mukaista toimintaa harjoittavan eläkekassan laskuperusteista yhteisesti kustannettavien kulujen jakamista varten annetun sosiaali\- ja terveysministeriön asetuksen muuttamisesta](855.md) `855/2017`
+- [Verohallinnon päätös ennakonpidätyksen toimittamistavoista ja määrästä](856.md) `856/2017`
+- [Verohallinnon päätös yleisestä tiedonantovelvollisuudesta](857.md) `857/2017`
+- [Elintarviketurvallisuusviraston päätös Rajoitusvyöhykkeen perustamisesta kalojen tarttuvan verta muodostavan kudoksen kuolion \(IHN\) vuoksi](858.md) `858/2017`
+- [Opetus\- ja kulttuuriministeriön asetus Kansallisen koulutuksen arviointikeskuksen suoritteiden maksullisuudesta annetun opetus\- ja kulttuuriministeriön asetuksen 5 §:n muuttamisesta](859.md) `859/2017`
+- [Laki tuomioistuinlain muuttamisesta](860.md) `860/2017`
+- [Laki kiinteistönmuodostamislain 241 a ja 259 §:n muuttamisesta](861.md) `861/2017`
+- [Laki merilain muuttamisesta](862.md) `862/2017`
+- [Laki ryhmäkannelain 3 §:n muuttamisesta](863.md) `863/2017`
+- [Laki ulosottokaaren 11 luvun 2 §:n muuttamisesta](864.md) `864/2017`
+- [Laki yrityksen saneerauksesta annetun lain 67 §:n muuttamisesta](865.md) `865/2017`
+- [Laki sotilasoikeudenkäyntilain 1 §:n muuttamisesta](866.md) `866/2017`
+- [Laki tuomioistuinharjoittelusta annetun lain 3 ja 14 §:n muuttamisesta](867.md) `867/2017`
+- [Valtiovarainministeriön asetus Suomi 100 vuoden kuluttua \-juhlarahasta](868.md) `868/2017`
+- [Valtioneuvoston asetus opintotuesta](869.md) `869/2017`
+- [Valtioneuvoston asetus työehtosopimuslaissa tarkoitettujen hyvityssakkojen enimmäismäärien tarkistamisesta](870.md) `870/2017`
+- [Sisäministeriön asetus poliisin suoritteiden maksullisuudesta vuonna 2018](871.md) `871/2017`
+- [Sisäministeriön asetus Maahanmuuttoviraston suoritteiden maksullisuudesta](872.md) `872/2017`
+- [Valtiovarainministeriön asetus Tilastokeskuksen suoritteiden maksullisuudesta vuosina 2018–2019](873.md) `873/2017`
+- [Maa\- ja metsätalousministeriön asetus kiinteistötoimitusmaksusta vuosina 2018 ja 2019](874.md) `874/2017`
+- [Laki vuoden 2018 tuloveroasteikosta](875.md) `875/2017`
+- [Laki tuloverolain muuttamisesta](876.md) `876/2017`
+- [Sisäministeriön ilmoitus sisäministeriön asetuksesta Veikkaus Oy:n rahapelien pelisäännöistä](877.md) `877/2017`
+- [Laki varainsiirtoverolain muuttamisesta](878.md) `878/2017`
+- [Laki varainsiirtoverolain väliaikaisesta muuttamisesta](879.md) `879/2017`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](880.md) `880/2017`
+- [Laki hallinnollisesta yhteistyöstä verotuksen alalla ja direktiivin 77/799/ETY kumoamisesta annetun neuvoston direktiivin lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja direktiivin soveltamisesta annetun lain muuttamisesta](881.md) `881/2017`
+- [Laki arvonlisäverolain 30 §:n muuttamisesta](882.md) `882/2017`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain 32 i §:n muuttamisesta](883.md) `883/2017`
+- [Laki valtakunnallisista opinto\- ja tutkintorekistereistä](884.md) `884/2017`
+- [Laki ortodoksisesta kirkosta annetun lain muuttamisesta](885.md) `885/2017`
+- [Laki oppilas\- ja opiskelijahuoltolain muuttamisesta](886.md) `886/2017`
+- [Valtioneuvoston asetus maatilan investointituen kohdentamisesta annetun valtioneuvoston asetuksen 20 §:n muuttamisesta](887.md) `887/2017`
+- [Maa\- ja metsätalousministeriön asetus eräiden Metsähallituksen julkisten hallintotehtävien suoritteiden maksuista](888.md) `888/2017`
+- [Opetus\- ja kulttuuriministeriön asetus ylimääräisen taiteilijaeläkkeen perusteella myönnettävistä perhe\-eläkkeistä](889.md) `889/2017`
+- [Laki maksulaitoslain muuttamisesta](890.md) `890/2017`
+- [Laki ulkomaisen maksulaitoksen toiminnasta Suomessa annetun lain muuttamisesta](891.md) `891/2017`
+- [Laki luottolaitostoiminnasta annetun lain 9 luvun 16 §:n muuttamisesta](892.md) `892/2017`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](893.md) `893/2017`
+- [Laki Finanssivalvonnan valvontamaksusta annetun lain 1 ja 6 §:n muuttamisesta](894.md) `894/2017`
+- [Laki sijoituspalvelulain 6 luvun 2 §:n muuttamisesta](895.md) `895/2017`
+- [Laki väylämaksulain muuttamisesta ja väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](896.md) `896/2017`
+- [Laki rataverolain 5 ja 7 §:n väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](897.md) `897/2017`
+- [Laki maksupalvelulain muuttamisesta](898.md) `898/2017`
+- [Laki kuluttajansuojalain muuttamisesta](899.md) `899/2017`
+- [Laki tietoyhteiskuntakaaren 125 ja 134 §:n muuttamisesta](900.md) `900/2017`
+- [Laki matkapalveluyhdistelmistä](901.md) `901/2017`
+- [Laki kuluttajansuojalain muuttamisesta](902.md) `902/2017`
+- [Valtioneuvoston asetus raskaiden aseiden ja räjäytysten melutasoista](903.md) `903/2017`
+- [Ulkoasiainministeriön asetus Tansanian kestävän kehityksen johtajuusinstituutille annettavaa Suomen tukea koskevasta Tansanian kanssa tehdystä sopimuksesta](904.md) `904/2017`
+- [Laki ydinenergialain muuttamisesta](905.md) `905/2017`
+- [Laki työttömyysturvalain muuttamisesta](906.md) `906/2017`
+- [Laki kolmansien maiden kansalaisten maahantulon ja oleskelun edellytyksistä kausityöntekijöinä työskentelyä varten](907.md) `907/2017`
+- [Laki kolmansien maiden kansalaisten maahantulon ja oleskelun edellytyksistä yrityksen sisäisen siirron yhteydessä](908.md) `908/2017`
+- [Laki ulkomaalaislain 77 ja 79 §:n muuttamisesta](909.md) `909/2017`
+- [Laki ulkomaalaisrekisteristä annetun lain muuttamisesta](910.md) `910/2017`
+- [Laki asumiseen perustuvan sosiaaliturvalainsäädännön soveltamisesta annetun lain 3 c §:n muuttamisesta](911.md) `911/2017`
+- [Laki työttömyysturvalain 1 luvun 8 a §:n muuttamisesta](912.md) `912/2017`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain 12 a §:n muuttamisesta](913.md) `913/2017`
+- [Laki kansanterveyslain 14 §:n muuttamisesta](914.md) `914/2017`
+- [Laki erikoissairaanhoitolain 3 §:n muuttamisesta](915.md) `915/2017`
+- [Laki lapsilisälain 1 a §:n muuttamisesta](916.md) `916/2017`
+- [Laki lasten kotihoidon ja yksityisen hoidon tuesta annetun lain 3 §:n muuttamisesta](917.md) `917/2017`
+- [Laki työsopimuslain 11 luvun muuttamisesta](918.md) `918/2017`
+- [Laki työntekijöiden lähettämisestä annetun lain muuttamisesta](919.md) `919/2017`
+- [Tasavallan Presidentin avoin kirje valtioneuvostossa toimeenpannusta muutoksesta](920.md) `920/2017`
+- [Laki matkapalveluyhdistelmien tarjoajista](921.md) `921/2017`
+- [Laki matkapalveluyhdistelmien tarjoajan valvonta\- ja maksukyvyttömyyssuojamaksusta](922.md) `922/2017`
+- [Laki Harmaan talouden selvitysyksiköstä annetun lain 6 §:n muuttamisesta](923.md) `923/2017`
+- [Laki rikoslain 30 luvun muuttamisesta](924.md) `924/2017`
+- [Laki sosiaalihuollon ammattihenkilöistä annetun lain 8 ja 32 §:n muuttamisesta](925.md) `925/2017`
+- [Laki työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetun lain muuttamisesta](926.md) `926/2017`
+- [Laki työturvallisuuslain muuttamisesta](927.md) `927/2017`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain muuttamisesta](928.md) `928/2017`
+- [Valtioneuvoston asetus maitotuotteiden, hedelmien ja vihannesten koulujakelutuesta kevätlukukaudella 2018](929.md) `929/2017`
+- [Valtioneuvoston asetus metsästyslaissa säädetystä ilmoitusmenettelystä](930.md) `930/2017`
+- [Valtioneuvoston asetus eräille ulkomaalaisille vapaaehtoisille rintamasotilaille vuonna 2018 maksettavasta rintama\-avustuksesta](931.md) `931/2017`
+- [Valtioneuvoston asetus sotainvalidien puolisoiden ja leskien sekä sotaleskien kuntoutuksesta vuonna 2018](932.md) `932/2017`
+- [Valtioneuvoston asetus työntekijöiden suojelemiseksi biologisista tekijöistä aiheutuvilta vaaroilta](933.md) `933/2017`
+- [Valtiovarainministeriön asetus maistraattien suoritteiden maksuista vuonna 2018](934.md) `934/2017`
+- [Liikenne\- ja viestintäministeriön asetus Ilmatieteen laitoksen maksullisista suoritteista](935.md) `935/2017`
+- [Laki terveydenhuollon laitteista ja tarvikkeista annetun lain muuttamisesta](936.md) `936/2017`
+- [Liikenne\- ja viestintäministeriön asetus Liikenteen turvallisuusviraston maksullisista suoritteista](937.md) `937/2017`
+- [Työ\- ja elinkeinoministeriön asetus Patentti\- ja rekisterihallituksen maksullisista suoritteista](938.md) `938/2017`
+- [Laki vaalilain muuttamisesta](939.md) `939/2017`
+- [Laki yliopistolain muuttamisesta](940.md) `940/2017`
+- [Laki ammattikorkeakoululain muuttamisesta](941.md) `941/2017`
+- [Laki yliopistolain muuttamisesta annetun lain voimaanpanosta](942.md) `942/2017`
+- [Ulkoasiainministeriön asetus Tansanian innovaatiojärjestelmälle annettavaa Suomen tukea koskevasta Tansanian kanssa tehdystä sopimuksesta](943.md) `943/2017`
+- [Ulkoasiainministeriön asetus Tansanian metsätalous\- ja arvoketjujen kehittämisohjelmalle annettavaa Suomen tukea koskevasta Tansanian kanssa tehdystä sopimuksesta](944.md) `944/2017`
+- [Sisäministeriön asetus sisäministeriön työjärjestyksestä annetun sisäasiainministeriön asetuksen muuttamisesta](945.md) `945/2017`
+- [Etu\- ja sukunimilaki](946.md) `946/2017`
+- [Laki rekisteröidystä parisuhteesta annetun lain 8 ja 9 §:n muuttamisesta](947.md) `947/2017`
+- [Laki valtion virkamieslain 7 ja 8 c §:n muuttamisesta](948.md) `948/2017`
+- [Laki turvallisuusselvityslain muuttamisesta](949.md) `949/2017`
+- [Laki Maanpuolustuskorkeakoulusta annetun lain 16 §:n muuttamisesta](950.md) `950/2017`
+- [Laki rajavartiolaitoksen hallinnosta annetun lain 26 §:n muuttamisesta](951.md) `951/2017`
+- [Laki Poliisiammattikorkeakoulusta annetun lain 24 ja 24 a §:n muuttamisesta](952.md) `952/2017`
+- [Verohallinnon päätös veroilmoituksessa annettavista tiedoista](953.md) `953/2017`
+- [Laki verontilityslain 12 §:n muuttamisesta](954.md) `954/2017`
+- [Laki tuloverolain 124 §:n muuttamisesta](955.md) `955/2017`
+- [Sisäministeriön asetus ampuma\-aseiden säilyttämiseen tarkoitetusta turvakaapista annetun sisäasiainministeriön asetuksen muuttamisesta](956.md) `956/2017`
+- [Laki opetus\- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta](957.md) `957/2017`
+- [Laki vapaasta sivistystyöstä annetun lain 11 b §:n muuttamisesta](958.md) `958/2017`
+- [Laki varhaiskasvatuksen asiakasmaksuista annetun lain 5 ja 8 §:n muuttamisesta](959.md) `959/2017`
+- [Laki opintotukilain muuttamisesta](960.md) `960/2017`
+- [Laki varhaiskasvatuksen asiakasmaksuista annetun lain 11 §:n muuttamisesta](961.md) `961/2017`
+- [Laki yleisestä asumistuesta annetun lain 15 §:n muuttamisesta](962.md) `962/2017`
+- [Laki sotilasavustuslain 11 §:n muuttamisesta](963.md) `963/2017`
+- [Valtioneuvoston asetus valtioneuvoston ohjesäännön muuttamisesta](964.md) `964/2017`
+- [Laki vapaasta sivistystyöstä annetun lain muuttamisesta](965.md) `965/2017`
+- [Valtioneuvoston asetus maatalouden ja matkailun alaan kuuluvista kausiluonteista toimintaa sisältävistä toimialoista](966.md) `966/2017`
+- [Laki riistanhoitomaksusta ja pyyntilupamaksusta annetun lain muuttamisesta](967.md) `967/2017`
+- [Laki riistahallintolain muuttamisesta](968.md) `968/2017`
+- [Laki riistavahinkolain 46 §:n muuttamisesta](969.md) `969/2017`
+- [Laki kalastuslain muuttamisesta](970.md) `970/2017`
+- [Laki henkilöautojen romutuspalkkiosta ja sähkökäyttöisten henkilöautojen hankintatuesta sekä henkilöautojen kaasu\- tai etanolikäyttöisiksi muuntamisen tuesta](971.md) `971/2017`
+- [Laki nestemäisten polttoaineiden valmisteverosta annetun lain liitteen muuttamisesta](972.md) `972/2017`
+- [Laki sähkön ja eräiden polttoaineiden valmisteverosta annetun lain liitteen muuttamisesta](973.md) `973/2017`
+- [Laki ympäristönsuojelulain 190 ja 195 §:n muuttamisesta](974.md) `974/2017`
+- [Laki vesilain muuttamisesta](975.md) `975/2017`
+- [Laki maankäyttö\- ja rakennuslain muuttamisesta](976.md) `976/2017`
+- [Laki maa\-aineslain muuttamisesta](977.md) `977/2017`
+- [Laki luonnonsuojelulain 62 §:n muuttamisesta](978.md) `978/2017`
+- [Laki korkeimmasta hallinto\-oikeudesta annetun lain 6 §:n muuttamisesta](979.md) `979/2017`
+- [Valtioneuvoston asetus keskinäisestä avunannosta ja yhteistyöstä tulliasioissa Uruguayn kanssa tehdystä sopimuksesta](980.md) `980/2017`
+- [Laki kansaneläkkeen ja eräiden muiden etuuksien vuoden 2018 indeksitarkistuksista](981.md) `981/2017`
+- [Laki kansaneläkeindeksistä annetun lain 2 §:n muuttamisesta](982.md) `982/2017`
+- [Laki toimeentulotuesta annetun lain 9 §:n muuttamisesta](983.md) `983/2017`
+- [Laki rintamasotilaseläkelain 9 ja 9 a §:n muuttamisesta](984.md) `984/2017`
+- [Laki ulkomaille maksettavasta rintamalisästä annetun lain 3 §:n muuttamisesta](985.md) `985/2017`
+- [Laki vammaisetuuksista annetun lain 9 a §:n muuttamisesta](986.md) `986/2017`
+- [Laki sosiaalihuoltolain muuttamisesta](987.md) `987/2017`
+- [Laki takuueläkkeestä annetun lain 8 §:n muuttamisesta](988.md) `988/2017`
+- [Laki vammaisetuuksista annetun lain 9 §:n muuttamisesta](989.md) `989/2017`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 35 ja 70 §:n muuttamisesta](990.md) `990/2017`
+- [Valtioneuvoston asetus ydinjätehuollon kustannuksiin varautumisesta](991.md) `991/2017`
+- [Laki maatalousyrittäjien lomituspalvelulain 27 ja 27 b §:n väliaikaisesta muuttamisesta](992.md) `992/2017`
+- [Laki sisäasioiden rahastoista annetun lain muuttamisesta](993.md) `993/2017`
+- [Laki Euroopan unionin ja sen jäsenvaltioiden sekä Kanadan välillä tehdyn strategisen kumppanuussopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta](994.md) `994/2017`
+- [Valtioneuvoston asetus eräiden rikosvahinkolaissa säädettyjen rahamäärien tarkistamisesta](995.md) `995/2017`
+- [Valtioneuvoston asetus valtiovarainministeriöstä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](996.md) `996/2017`
+- [Valtioneuvoston asetus aluehallintovirastojen maksuista vuonna 2018](997.md) `997/2017`
+- [Valtioneuvoston asetus valtionavustuksesta eläimen omistajalle nautojen, lampaiden, vuohien, sikojen ja siipikarjan raatojen keräilystä ja hävittämisestä aiheutuviin kustannuksiin](998.md) `998/2017`
+- [Valtioneuvoston asetus maaseudun yritystuesta annetun valtioneuvoston asetuksen muuttamisesta](999.md) `999/2017`
+- [Valtioneuvoston asetus aerosoliasetuksen liitteen muuttamisesta](1000.md) `1000/2017`
+- [Valtioneuvoston asetus ydinenergia\-asetuksen muuttamisesta](1001.md) `1001/2017`
+- [Maa\- ja metsätalousministeriön asetus kaloissa, äyriäisissä ja nilviäisissä esiintyvien eläintautien vastustamisesta annetun maa\- ja metsätalousministeriön asetuksen 20 ja 24 §:n muuttamisesta](1002.md) `1002/2017`
+- [Maanmittauslaitoksen työjärjestys](1003.md) `1003/2017`
+- [Laki Itsenäisyyden juhlavuoden lastensäätiön valtuuskunnan asettamisesta ja säätiön pääomittamisesta](1004.md) `1004/2017`
+- [Sosiaali\- ja terveysministeriön asetus turkistuottajille järjestettävien lomituspalvelujen enimmäismääristä vuonna 2018](1005.md) `1005/2017`
+- [Sosiaali\- ja terveysministeriön asetus poronhoitajien sijaisavun enimmäismäärästä vuonna 2018](1006.md) `1006/2017`
+- [Ympäristöministeriön asetus rakennuksen käyttöturvallisuudesta](1007.md) `1007/2017`
+- [Ympäristöministeriön asetus asuin\-, majoitus\- ja työtiloista](1008.md) `1008/2017`
+- [Ympäristöministeriön asetus uuden rakennuksen sisäilmastosta ja ilmanvaihdosta](1009.md) `1009/2017`
+- [Ympäristöministeriön asetus uuden rakennuksen energiatehokkuudesta](1010.md) `1010/2017`
+- [Maa\- ja metsätalousministeriön asetus Suomen metsäkeskuksen suoritteiden maksullisuudesta](1011.md) `1011/2017`
+- [Työ\- ja elinkeinoministeriön asetus työ\- ja elinkeinoministeriön työjärjestyksestä](1012.md) `1012/2017`
+- [Valtioneuvoston asetus pakattujen vaarallisten aineiden kuljetuksia ro\-ro\-aluksissa Itämerellä koskevasta \(Memorandum of Understanding, MoU\) yhteisymmärryspöytäkirjan voimaansaattamisesta](1013.md) `1013/2017`
+- [Maa\- ja metsätalousministeriön asetus puutavaran virallisesta mittauksesta, valvontamittauksesta ja mittauslautakunnan käsittelystä perittävästä maksusta vuosina 2018 ja 2019](1014.md) `1014/2017`
+- [Valtioneuvoston asetus vuoden 2018 työttömyysvakuutusmaksujen ennakoiden maksamisesta](1015.md) `1015/2017`
+- [Suomen Pankin ilmoitus viitekorosta ja viivästyskoroista](1016.md) `1016/2017`
+- [Opetus\- ja kulttuuriministeriön asetus Kansallisarkiston suoritteiden maksuista](1017.md) `1017/2017`
+- [Päätös Tullin työjärjestyksen 9 ja 11 §:n muuttamisesta](1018.md) `1018/2017`
+- [Tasavallan presidentin asetus Suomen Leijonan ritarikunnan perustamisesta annetun asetuksen 14 §:n muuttamisesta](1019.md) `1019/2017`
+- [Valtiovarainministeriön asetus luottolaitoksen ja sijoituspalveluyrityksen elvytyssuunnitelmiin sisällytettävistä tiedoista annetun valtiovarainministeriön asetuksen 2 §:n muuttamisesta](1020.md) `1020/2017`
+- [Valtioneuvoston asetus käräjäoikeuksien tuomiopiireistä](1021.md) `1021/2017`
+- [Valtioneuvoston asetus käräjäoikeuksien tuomiopiireistä maaoikeuden käsiteltäviksi säädetyissä asioissa](1022.md) `1022/2017`
+- [Valtioneuvoston asetus käräjäoikeuksien tuomiopiireistä ulosottovalituksia koskevissa asioissa](1023.md) `1023/2017`
+- [Valtioneuvoston asetus käräjäoikeuksien tuomiopiireistä yrityksen saneerausta koskevissa asioissa](1024.md) `1024/2017`
+- [Valtioneuvoston asetus hovioikeuksien sijaintipaikoista ja tuomiopiireistä annetun valtioneuvoston asetuksen 2 §:n muuttamisesta](1025.md) `1025/2017`
+- [Valtioneuvoston asetus virkavalasta ja virkavakuutuksesta sekä tuomarinvalasta ja tuomarinvakuutuksesta annetun asetuksen muuttamisesta](1026.md) `1026/2017`
+- [Valtioneuvoston asetus sairausvakuutuslain täytäntöönpanosta annetun valtioneuvoston asetuksen 4 luvun 2 §:n muuttamisesta](1027.md) `1027/2017`
+- [Liikenne\- ja viestintäministeriön asetus hallinnollisista taajuusmaksuista ja Viestintäviraston taajuushallinnollisista suoritteista perittävistä muista maksuista](1028.md) `1028/2017`
+- [Ympäristöministeriön asetus Metsähallituksen eräiden julkisten hallintotehtävien suoritteiden maksuista vuosina 2018 ja 2019](1029.md) `1029/2017`
+- [Helsingin vaalipiirilautakunnan vaalilain 135 §:n mukainen tiedonanto](1030.md) `1030/2017`
+- [Oikeusministeriön asetus käräjäoikeuksien kanslioiden ja istuntopaikkojen sijainnista](1031.md) `1031/2017`
+- [Oikeusministeriön asetus maaoikeusinsinöörien yhteistoiminta\-alueista](1032.md) `1032/2017`
+- [Oikeusministeriön asetus vangitsemisasioiden ja muiden kiireellisten asioiden käsittelystä käräjäoikeuksissa eräissä tapauksissa annetun oikeusministeriön asetuksen 4 §:n muuttamisesta](1033.md) `1033/2017`
+- [Oikeusministeriön asetus tuomioistuinten ja eräiden oikeushallintoviranomaisten suoritteista perittävistä maksuista vuosina 2016–2018 annetun oikeusministeriön asetuksen 7 §:n muuttamisesta](1034.md) `1034/2017`
+- [Oikeusministeriön asetus oikeusministeriön ja eräiden hallinnonalalla toimivien viranomaisten maksullisista suoritteista vuonna 2018](1035.md) `1035/2017`
+- [Oikeusministeriön asetus Rikosseuraamuslaitoksen kaksikielisistä osastoista](1036.md) `1036/2017`
+- [Sisäministeriön asetus kriisinhallintaan osallistuvan siviilihenkilöstön palvelussuhteen ehdoista annetun sisäasiainministeriön asetuksen liitteen muuttamisesta](1037.md) `1037/2017`
+- [Sisäministeriön ilmoitus sisäministeriön asetuksesta Veikkaus Oy:n rahapelien pelisäännöistä](1038.md) `1038/2017`
+- [Valtiovarainministeriön asetus maksulaitoksen omien varojen laskemisessa käytettävistä menetelmistä](1039.md) `1039/2017`
+- [Valtiovarainministeriön asetus maksulaitoksen toimilupahakemukseen liitettävistä selvityksistä](1040.md) `1040/2017`
+- [Valtiovarainministeriön asetus vaihtoehtorahastojen hoitajien toiminnasta annetun asetuksen muuttamisesta](1041.md) `1041/2017`
+- [Valtiovarainministeriön asetus vuoden 2018 taidekilpailupalkintojen verovapaudesta](1042.md) `1042/2017`
+- [Opetus\- ja kulttuuriministeriön asetus opetus\- ja kulttuuriministeriön maksullisista suoritteista annetun opetus\- ja kulttuuriministeriön asetuksen liitteen muuttamisesta](1043.md) `1043/2017`
+- [Maa\- ja metsätalousministeriön asetus kunnaneläinlääkärin maksullisista suoritteista](1044.md) `1044/2017`
+- [Maa\- ja metsätalousministeriön asetus Maaseutuviraston maksullisista suoritteista annetun maa\- ja metsätalousministeriön asetuksen 1 §:n muuttamisesta](1045.md) `1045/2017`
+- [Maa\- ja metsätalousministeriön asetus Elintarviketurvallisuusviraston maksullisista suoritteista annetun maa\- ja metsätalousministeriön asetuksen muuttamisesta](1046.md) `1046/2017`
+- [Ympäristöministeriön asetus rakennusten vesi\- ja viemärilaitteistoista](1047.md) `1047/2017`
+- [Ympäristöministeriön asetus rakennuksen energiatodistuksesta](1048.md) `1048/2017`
+- [Oikeusministeriön asetus oikeudenkäyntiavustajalautakunnan maksullisista suoritteista](1049.md) `1049/2017`
+- [Työ\- ja elinkeinoministeriön asetus työ\- ja elinkeinoministeriön maksullisista suoritteista](1050.md) `1050/2017`
+- [Sosiaali\- ja terveysministeriön asetus merimieseläkekassan vakuutusteknisen vastuuvelan laskuperusteista ja perusteista merimieseläkelain 153 §:n mukaista vastuunjakoa varten annetun sosiaali\- ja terveysministeriön asetuksen liitteiden muuttamisesta](1051.md) `1051/2017`
+- [Laki henkilötietojen käsittelystä poliisitoimessa annetun lain muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta](1052.md) `1052/2017`
+- [Laki alkoholi\- ja alkoholijuomaverosta annetun lain liitteen muuttamisesta](1053.md) `1053/2017`
+- [Laki joukkoliikennelain 12 §:n muuttamisesta](1054.md) `1054/2017`
+- [Laki rautatiejärjestelmän liikenneturvallisuustehtävistä annetun lain 59 §:n muuttamisesta](1055.md) `1055/2017`
+- [Laki liikenteen palveluista annetun lain III osan 2 luvun 2 §:n muuttamisesta](1056.md) `1056/2017`
+- [Laki kuntien ja kuntayhtymien eräiden oikeustoimien väliaikaisesta rajoittamisesta sosiaali\- ja terveydenhuollossa annetun lain muuttamisesta](1057.md) `1057/2017`
+- [Laki eräiden kunta\- ja palvelurakenneuudistuksesta annetussa laissa säädettyjen velvoitteiden soveltamisesta annetun lain 1 ja 2 §:n muuttamisesta](1058.md) `1058/2017`
+- [Laki työterveyslaitoksen toiminnasta ja rahoituksesta annetun lain väliaikaisesta muuttamisesta](1059.md) `1059/2017`
+- [Laki työtapaturma\- ja ammattitautilain muuttamisesta](1060.md) `1060/2017`
+- [Laki maatalousyrittäjän työtapaturma\- ja ammattitautilain 63 ja 169 §:n muuttamisesta](1061.md) `1061/2017`
+- [Laki sosiaaliturva\-asioiden muutoksenhakulautakunnasta annetun lain 14 §:n muuttamisesta](1062.md) `1062/2017`
+- [Laki ympäristönsuojelulain muuttamisesta](1063.md) `1063/2017`
+- [Laki ympäristönsuojelulain muuttamisesta](1064.md) `1064/2017`
+- [Valtioneuvoston asetus keskisuurten energiantuotantoyksiköiden ja \-laitosten ympäristönsuojeluvaatimuksista](1065.md) `1065/2017`
+- [Valtioneuvoston asetus elinkeino\-, liikenne\- ja ympäristökeskusten, työ\- ja elinkeinotoimistojen sekä kehittämis\- ja hallintokeskuksen maksullisista suoritteista vuonna 2018](1066.md) `1066/2017`
+- [Sosiaali\- ja terveysministeriön asetus Terveyden ja hyvinvoinnin laitoksen maksullisista suoritteista](1067.md) `1067/2017`
+- [Valtion talousarvio vuodelle 2018](1068.md) `1068/2017`
+- [Laki sijoituspalvelulain muuttamisesta](1069.md) `1069/2017`
+- [Laki kaupankäynnistä rahoitusvälineillä](1070.md) `1070/2017`
+- [Laki Finanssivalvonnasta annetun lain muuttamisesta](1071.md) `1071/2017`
+- [Laki joukkorahoituslain muuttamisesta](1072.md) `1072/2017`
+- [Laki luottolaitostoiminnasta annetun lain muuttamisesta](1073.md) `1073/2017`
+- [Laki arvopaperimarkkinalain muuttamisesta](1074.md) `1074/2017`
+- [Laki rikoslain 51 luvun 6 ja 6 a §:n muuttamisesta](1075.md) `1075/2017`
+- [Laki Finanssivalvonnan valvontamaksusta annetun lain muuttamisesta](1076.md) `1076/2017`
+- [Laki sijoitusrahastolain muuttamisesta](1077.md) `1077/2017`
+- [Laki vaihtoehtorahastojen hoitajista annetun lain muuttamisesta](1078.md) `1078/2017`
+- [Laki arvo\-osuusjärjestelmästä ja selvitystoiminnasta annetun lain muuttamisesta](1079.md) `1079/2017`
+- [Laki eräistä arvopaperi\- ja valuuttakaupan sekä selvitysjärjestelmän ehdoista annetun lain 1 §:n muuttamisesta](1080.md) `1080/2017`
+- [Laki rahoitusvakuuslain 3 §:n muuttamisesta](1081.md) `1081/2017`
+- [Laki arvo\-osuustileistä annetun lain 5 a §:n muuttamisesta](1082.md) `1082/2017`
+- [Laki arvopaperitileistä annetun lain 1 luvun 1 ja 2 §:n muuttamisesta](1083.md) `1083/2017`
+- [Laki luottolaitosten ja sijoituspalveluyritysten kriisinratkaisusta annetun lain muuttamisesta](1084.md) `1084/2017`
+- [Laki rahoitusvakausviranomaisesta annetun lain 7 luvun 10 §:n muuttamisesta](1085.md) `1085/2017`
+- [Laki rahoitus\- ja vakuutusryhmittymien valvonnasta annetun lain 2 ja 3 §:n muuttamisesta](1086.md) `1086/2017`
+- [Laki maksupalvelulain 3 §:n muuttamisesta](1087.md) `1087/2017`
+- [Laki maksulaitoslain 3 §:n muuttamisesta](1088.md) `1088/2017`
+- [Laki rahanpesun ja terrorismin rahoittamisen estämisestä annetun lain 1 ja 9 luvun muuttamisesta](1089.md) `1089/2017`
+- [Laki kiinteistörahastolain 3 ja 19 §:n muuttamisesta](1090.md) `1090/2017`
+- [Laki sidotusta pitkäaikaissäästämisestä annetun lain 6 §:n muuttamisesta](1091.md) `1091/2017`
+- [Laki tilintarkastuslain muuttamisesta](1092.md) `1092/2017`
+- [Laki verotusmenettelystä annetun lain 15 ja 17 §:n muuttamisesta](1093.md) `1093/2017`
+- [Laki holhoustoimesta annetun lain 34 §:n muuttamisesta](1094.md) `1094/2017`
+- [Laki oikeudenkäynnistä markkinaoikeudessa annetun lain 1 luvun 2 §:n 1 momentin 7 kohdan kumoamisesta](1095.md) `1095/2017`
+- [Laki kuluttajansuojalain 7 luvun 9 §:n ja 7 a luvun 4 §:n muuttamisesta](1096.md) `1096/2017`
+- [Laki talletuspankkien yhteenliittymästä annetun lain 9 §:n muuttamisesta](1097.md) `1097/2017`
+- [Valtioneuvoston asetus energiatuen myöntämisen yleisistä ehdoista vuosina 2018–2022](1098.md) `1098/2017`
+- [Valtioneuvoston asetus eläinten hyvinvointikorvauksesta annetun valtioneuvoston asetuksen muuttamisesta](1099.md) `1099/2017`
+- [Valtioneuvoston asetus eläinten hyvinvointikorvausta koskevan sitoumuksen antamisesta vuonna 2018](1100.md) `1100/2017`
+- [Sosiaali\- ja terveysministeriön asetus Sosiaali\- ja terveysalan lupa\- ja valvontaviraston maksullisista suoritteista](1101.md) `1101/2017`
+- [Alkoholilaki](1102.md) `1102/2017`
+- [Laki majoitus\- ja ravitsemistoiminnasta annetun lain muuttamisesta](1103.md) `1103/2017`
+- [Laki alkoholi\- ja alkoholijuomaverosta annetun lain 2 ja 8 §:n muuttamisesta](1104.md) `1104/2017`
+- [Laki rikoslain 30 luvun 1 a §:n muuttamisesta](1105.md) `1105/2017`
+- [Laki rikesakkorikkomuksista annetun lain 17 §:n muuttamisesta](1106.md) `1106/2017`
+- [Laki sakon täytäntöönpanosta annetun lain 1 §:n muuttamisesta](1107.md) `1107/2017`
+- [Laki vankeuslain 9 luvun 1 §:n muuttamisesta](1108.md) `1108/2017`
+- [Laki tutkintavankeuslain 5 luvun 1 §:n muuttamisesta](1109.md) `1109/2017`
+- [Laki poliisin säilyttämien henkilöiden kohtelusta annetun lain 4 luvun 1 §:n muuttamisesta](1110.md) `1110/2017`
+- [Laki lastensuojelulain 65 §:n muuttamisesta](1111.md) `1111/2017`
+- [Laki Harmaan talouden selvitysyksiköstä annetun lain 6 §:n muuttamisesta](1112.md) `1112/2017`
+- [Laki elintarvikelain 14 §:n muuttamisesta](1113.md) `1113/2017`
+- [Laki maataloustuotteiden markkinajärjestelystä annetun lain 46 g §:n muuttamisesta](1114.md) `1114/2017`
+- [Laki sähköisen viestinnän palveluista annetun lain 217 §:n muuttamisesta](1115.md) `1115/2017`
+- [Laki tupakkalain 82 §:n muuttamisesta](1116.md) `1116/2017`
+- [Laki luonnonmukaisen tuotannon valvonnasta annetun lain muuttamisesta](1117.md) `1117/2017`
+- [Laki Sosiaali\- ja terveysalan lupa\- ja valvontavirastosta annetun lain 2 §:n muuttamisesta](1118.md) `1118/2017`
+- [Laki ehkäisevän päihdetyön järjestämisestä annetun lain 5 §:n muuttamisesta](1119.md) `1119/2017`
+- [Laki tullilain 11 §:n muuttamisesta](1120.md) `1120/2017`
+- [Laki yksityisistä turvallisuuspalveluista annetun lain 47 §:n muuttamisesta](1121.md) `1121/2017`
+- [Laki säilöön otettujen ulkomaalaisten kohtelusta ja säilöönottoyksiköstä annetun lain 11 c §:n muuttamisesta](1122.md) `1122/2017`
+- [Laki sotilaskurinpidosta ja rikostorjunnasta puolustusvoimissa annetun lain 25 §:n muuttamisesta](1123.md) `1123/2017`
+- [Laki oikeudenkäynnistä markkinaoikeudessa annetun lain 1 luvun 6 §:n muuttamisesta](1124.md) `1124/2017`
+- [Laki lääkelain 7 §:n 2 momentin kumoamisesta](1125.md) `1125/2017`
+- [Laki kunnan peruspalvelujen valtionosuudesta annetun lain muuttamisesta](1126.md) `1126/2017`
+- [Laki verotusmenettelystä annetun lain muuttamisesta](1127.md) `1127/2017`
+- [Laki verotustietojen julkisuudesta ja salassapidosta annetun lain 18 ja 20 §:n muuttamisesta](1128.md) `1128/2017`
+- [Laki verontilityslain muuttamisesta](1129.md) `1129/2017`
+- [Laki Verohallinnosta annetun lain 30 §:n muuttamisesta](1130.md) `1130/2017`
+- [Laki verotusmenettelystä annetun lain 18 §:n muuttamisesta](1131.md) `1131/2017`
+- [Laki elinkeinotulon verottamisesta annetun lain 19 a ja 27 c §:n muuttamisesta](1132.md) `1132/2017`
+- [Laki arvonlisäverolain 15 ja 29 §:n muuttamisesta](1133.md) `1133/2017`
+- [Laki toisen kotimaisen kielen kokeilusta perusopetuksessa](1134.md) `1134/2017`
+- [Laki sairausvakuutuslain muuttamisesta](1135.md) `1135/2017`
+- [Laki maatalousyrittäjien työterveyshuollon eräiden kustannusten korvaamisesta valtion varoista annetun lain 1 §:n muuttamisesta](1136.md) `1136/2017`
+- [Laki Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain muuttamisesta](1137.md) `1137/2017`
+- [Laki työttömyysturvalain muuttamisesta](1138.md) `1138/2017`
+- [Laki työttömyysetuuksien rahoituksesta annetun lain 4 §:n muuttamisesta](1139.md) `1139/2017`
+- [Laki työttömyyskassalain 25 §:n muuttamisesta](1140.md) `1140/2017`
+- [Laki sairausvakuutuslain 11 luvun 6 §:n muuttamisesta](1141.md) `1141/2017`
+- [Laki lapsilisälain 7 §:n muuttamisesta](1142.md) `1142/2017`
+- [Laki yleisestä asumistuesta annetun lain muuttamisesta](1143.md) `1143/2017`
+- [Laki sairausvakuutuslain 4 luvun väliaikaisesta muuttamisesta](1144.md) `1144/2017`
+- [Laki sairausvakuutuslain muuttamisesta](1145.md) `1145/2017`
+- [Laki Innovaatiorahoituskeskus Business Finlandista ja Business Finland \-nimisestä osakeyhtiöstä](1146.md) `1146/2017`
+- [Valtioneuvoston asetus Innovaatiorahoituskeskus Business Finlandista ja Business Finland \-nimisestä osakeyhtiöstä](1147.md) `1147/2017`
+- [Valtioneuvoston asetus sisäasioiden rahastoista annetun valtioneuvoston asetuksen muuttamisesta](1148.md) `1148/2017`
+- [Valtioneuvoston asetus kunnan peruspalvelujen valtionosuudesta annetun asetuksen 5 §:n muuttamisesta](1149.md) `1149/2017`
+- [Valtioneuvoston asetus opetustoimen henkilöstön kelpoisuusvaatimuksista annetun asetuksen muuttamisesta](1150.md) `1150/2017`
+- [Valtioneuvoston asetus meriliikenteessä käytettävien alusten kilpailukyvyn parantamisesta annetun lain muuttamisesta annetun lain voimaantulosta](1151.md) `1151/2017`
+- [Valtioneuvoston asetus kiertotalouden investointi\- ja kehittämishankkeisiin myönnettävästä avustuksesta](1152.md) `1152/2017`
+- [Valtioneuvoston asetus laivanrakennuksen innovaatioihin myönnettävästä valtionavustuksesta annetun valtioneuvoston asetuksen muuttamisesta](1153.md) `1153/2017`
+- [Valtioneuvoston asetus sosiaali\- ja terveysministeriöstä annetun valtioneuvoston asetuksen 2 ja 3 §:n muuttamisesta](1154.md) `1154/2017`
+- [Valtioneuvoston asetus äitiysavustuksesta ja adoptiotuesta annetun valtioneuvoston asetuksen 1 §:n muuttamisesta](1155.md) `1155/2017`
+- [Valtioneuvoston asetus työttömyysturvalain täytäntöönpanosta annetun valtioneuvoston asetuksen muuttamisesta](1156.md) `1156/2017`
+- [Maa\- ja metsätalousministeriön asetus Luonnonvarakeskuksen maksullisista suoritteista](1157.md) `1157/2017`
+- [Sosiaali\- ja terveysministeriön asetus sosiaali\- ja terveysministeriön työjärjestyksen muuttamisesta](1158.md) `1158/2017`
+- [Päätös Tullin työjärjestyksen 8 §:n muuttamisesta](1159.md) `1159/2017`
+- [Kirkolliskokouksen päätös Ortodoksisen kirkon kirkkojärjestyksen 11 §:n muuttamisesta](1160.md) `1160/2017`
+- [Elintarviketurvallisuusviraston päätös Kalojen tarttuvan verta muodostavan kudoksen kuolion \(IHN\) vuoksi perustetun rajoitusvyöhykkeen muuttamisesta](1161.md) `1161/2017`
